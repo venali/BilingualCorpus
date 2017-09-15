@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>照り焼き</j>
+<e type="trans" ver="1">Teriyaki (grilling with soy sauce and sugar)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Teriyaki (grilling with soy sauce and sugar)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Teriyaki (grilling with soy sauce and sugar)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>照り焼き（てりやき）とは日本料理の調理法。</j>
+<e type="trans" ver="1">&quot;Teriyaki&quot; is a cooking technique used in Japanese cuisine.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Teriyaki is a cooking technique used in Japanese cuisine.</e>
+<cmt>文頭の &quot;&quot; 削除</cmt>
+<e type="check" ver="1">Teriyaki is a cooking technique used in Japanese cuisine.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>醤油を基本にした甘みのあるタレを食材に塗りながら焼く。</j>
+<e type="trans" ver="1">The method is grilling foodstuffs while coating them with soy sauce-based sweet sauce (&quot;tare&quot; in Japanese).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The method is grilling foodstuffs while coating them with a soy sauce-based sweet sauce (&quot;tare&quot; in Japanese).</e>
+<cmt>with→with a</cmt>
+<e type="check" ver="1">The method is grilling foodstuffs while coating them with a soy sauce-based sweet sauce (&quot;tare&quot; in Japanese).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>タレの糖分により食材の表面がツヤを帯び、「照り」が出るのが名前の由来。</j>
+<e type="trans" ver="1">The sugar contained in the sauce gives gloss (&quot;teri&quot; in Japanese) to the surface of the foodstuff, from which the name of the cooking method is derived.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The sugar contained in the sauce gives gloss (&apos;teri&apos; in Japanese) to the surface of the foodstuff, from which the name of the cooking method is derived.</e>
+<cmt>&quot; &quot;→&apos; &apos;</cmt>
+<e type="check" ver="1">The sugar contained in the sauce gives gloss (&apos;teri&apos; in Japanese) to the surface of the foodstuff, from which the name of the cooking method is derived.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>日本では魚、または肉の調理に使われる技法である。</j>
+<e type="trans" ver="1">In Japan, the cooking technique is used to cook fish or meat.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Japan, the cooking technique is used to cook fish or meat.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In Japan, the cooking technique is used to cook fish or meat.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>日本以外の国では主に肉の調理に使われる。</j>
+<e type="trans" ver="1">In other countries, the technique is used mainly for cooking animal meat.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In other countries, the technique is used mainly for cooking animal meat.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">In other countries, the technique is used mainly for cooking meat.</e>
+<cmt>note: meat only comes from animals like fish, poultry, pigs, cows, so it isn&apos;t necessary to use animal as an adjective for meat.</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>日本の照り焼き</j>
+<e type="trans" ver="1">Japanese teriyaki</e>
+<cmt></cmt>
+<e type="trans" ver="2">Japanese teriyaki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Japanese teriyaki</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="2">
+<tit>
+<j>食材</j>
+<e type="trans" ver="1">Foodstuffs</e>
+<cmt></cmt>
+<e type="trans" ver="2">Foodstuffs</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Foodstuffs</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>照り焼きに用いられる食材には、ある程度身が締まりつつも脂肪のあるものが用いられる。</j>
+<e type="trans" ver="1">For teriyaki dishes, foodstuffs, firm but fatty to some extent, are used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For teriyaki dishes, foodstuffs, firm but fatty to some extent, are used.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">For teriyaki, meat that is firm and to some extent has some fat is used.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="7">
+<j>照り焼きの材料としてもっとも有名なものにブリと鶏肉があげられる。</j>
+<e type="trans" ver="1">Those most typically used include yellowtail and chicken meats.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Those most typically used include yellowtail and chicken meats.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Those most typically used include yellowtail and chicken.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="8">
+<j>ブリ以外の魚では、カジキマグロ、カツオ、サケ、マス、サワラ、ハモなどが用いられる。</j>
+<e type="trans" ver="1">Examples of fishes other than yellowtail include billfish, bonito, salmon, trout, Spanish mackerel, and conger pike.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Examples of fishes other than yellowtail include billfish, bonito, salmon, trout, Spanish mackerel, and conger pike.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Examples of fish other than yellowtail include billfish, bonito, salmon, trout, Spanish mackerel, and conger pike.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="9">
+<j>最近ではマジェランアイナメ（銀ムツ）もよく用いられる。</j>
+<e type="trans" ver="1">Recently, Patagonian toothfish is also often used．</e>
+<cmt></cmt>
+<e type="trans" ver="2">Recently, Patagonian toothfish is also often used．</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Recently, Patagonian toothfish is also often used．</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>鶏肉はムネ肉でもモモ肉でもおいしく作れる。</j>
+<e type="trans" ver="1">As for chicken meats, delicious teriyaki dishes can be prepared by using either breast meat or dark meat.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As for chicken meats, delicious teriyaki dishes can be prepared by using either breast meat or dark meat.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">As for chicken, delicious teriyaki can be prepared by using either breast meat or dark meat.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="11">
+<j>鶏肉以外に豚肉や牛肉で作られることもある。</j>
+<e type="trans" ver="1">Other than chicken, pork and beef are also options.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other than chicken, pork and beef are also options.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Other than chicken, pork and beef are also options.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>変わった食材としては、コンニャク、イカ、つくね、肉詰めレンコン、ハンバーグなども照り焼きの調理法が使われる。</j>
+<e type="trans" ver="1">Other different types of foodstuffs include konjac, squid, meatball, lotus roots stuffed with meat, and hamburger are also cooked by teriyaki method.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other different types of foodstuffs include konjac, squid, meatballs, lotus roots stuffed with meat, and hamburgers are also cooked by the teriyaki method.</e>
+<cmt>複数形になる食材は複数形に変更しました。by→by the</cmt>
+<e type="check" ver="1">Other different types of foods include konjac, squid, meatballs, lotus roots stuffed with meat, and hamburgers are also cooked using the teriyaki method.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>調理法</j>
+<e type="trans" ver="1">Recipe</e>
+<cmt></cmt>
+<e type="trans" ver="2">Recipe</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Recipe</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>タレは醤油、日本酒、砂糖を等量ずつ併せたものが基本であるが、好みや素材により配分は変わる。</j>
+<e type="trans" ver="1">The sauce is basically a mixture of soy sauce, sake and sugar all in equal amount, but the mixing ratio changes depending on taste or foodstuffs used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The sauce is basically a mixture of soy sauce, sake and sugar all in equal amount, but the mixing ratio changes depending on taste or foodstuffs used.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">The sauce is basically a mixture of soy sauce, sake and sugar all in equal amounts, but the mixing ratio changes depending upon taste or food used.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="14">
+<j>日本酒の代わりにみりんを使うことも多い。</j>
+<e type="trans" ver="1">Mirin(type of sweet sake used in cooking) often substitutes sake.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mirin (a type of sweet sake used in cooking) often substitutes sake.</e>
+<cmt>Mirin の後にスペースtype→a type</cmt>
+<e type="check" ver="1">Mirin (a type of sweet sake used in cooking) often substitutes sake.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>砂糖の代わりにハチミツを使う人もいる。</j>
+<e type="trans" ver="1">Some people use honey in place of sugar.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some people use honey in place of sugar.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some people use honey in place of sugar.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>食材の臭みを消したい場合にはショウガをすったものを加えてもよい。</j>
+<e type="trans" ver="1">Grated ginger may be added to the sauce in order to disguise smell of the foodstuff.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Grated ginger may be added to the sauce in order to disguise smell of the foodstuff.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Grated ginger may be added to the sauce in order to disguise thesmell of the food.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="17">
+<j>このタレはあらかじめ煮立ててとろみをつけておく。</j>
+<e type="trans" ver="1">Boil down the sauce in advance until it becomes thick.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Boil down the sauce in advance until it becomes thick.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Boil down the sauce in advance until it becomes thick.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>目安として液量が半分になるくらいまで煮詰める。</j>
+<e type="trans" ver="1">Stop boiling the sauce when the liquid volume is almost halved.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Stop boiling the sauce when the liquid volume is almost halved.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Stop boiling the sauce when the liquid volume is reduced to almost halve.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="19">
+<j>食材は軽く塩をふっておくなどして、水分を出し身を引き締めておく。</j>
+<e type="trans" ver="1">Salt the foodstuff in advance so as to remove water therefrom and make the flesh of the foodstuff firm.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Salt the foodstuff in advance so as to remove water therefrom and make the flesh of the foodstuff firm.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Salt the food in advance to remove water and to firm up the flesh of the food.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="20">
+<j>これをフライパンや網で焼いた後、上記の煮詰めたタレを両面に塗りながら焼き仕上げる。</j>
+<e type="trans" ver="1">Broil the foodstuff in a frying pan or grill it, and then coat both surfaces of the foodstuff with the above boiled-down sauce while continuing heating, to complete the cooking.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Grill the foodstuff in a frying pan or broil it, and then coat both surfaces of the foodstuff with the above boiled-down sauce while continuing heating, to complete the cooking.</e>
+<cmt>NC_CheckBroil→Grillgrill→broil</cmt>
+<e type="check" ver="1">Grill the food in a frying pan or broil it, and then coat both surfaces with the above boiled-down sauce while continuing to cook.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="21">
+<j>焦がさないように加熱し、ツヤがよく出るように何度かタレを重ね塗りする。</j>
+<e type="trans" ver="1">Repeat coating the foodstuff with the sauce with care not to scorch it, so that it becomes glossy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Repeat coating the foodstuff with the sauce with care not to scorch it, so that it becomes glossy.</e>
+<cmt>NC_CheckIs the comma before &apos;so that&apos; necessary?</cmt>
+<e type="check" ver="1">Repeat coating with the sauce being careful not to scorch it, so that it becomes glossy.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="22">
+<j>特に網で焼く場合には遠火にして焼くときれいに焼ける。</j>
+<e type="trans" ver="1">Especially while using a grill, keep the foodstuff some distance from the flame in order to make it golden brown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Especially while broiling, keep the foodstuff some distance from the flame in order to make it golden brown.</e>
+<cmt>keep の前のスペース短縮NC_Checkusing a grill→broiling</cmt>
+<e type="check" ver="1">Especially while broiling, keep some distance from the flame until golden brown.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="23">
+<j>魚の照り焼きも肉の照り焼きも基本的には同じ作り方である。</j>
+<e type="trans" ver="1">Basically, teriyaki dishes of fish and animal meat are cooked by the same method.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Basically, teriyaki dishes of fish and animal meat are cooked by the same method.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Basically, teriyaki dishes of fish and meat are cooked using the same method.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="24">
+<j>鶏肉の場合、最初にフォーク (食器)で穴を数カ所にあけてから下味をつけておくとおいしい。</j>
+<e type="trans" ver="1">In case of using chicken meat, it is advisable to prick the meat several times with a fork before marinating it.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In case of using chicken meat, it is advisable to prick the meat several times with a fork before marinating it.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">When cooking chicken, it is advisable to prick the meat several times with a fork before marinating it.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="25">
+<j>また皮のほうから焼くと形よく仕上がる。</j>
+<e type="trans" ver="1">It is also advisable to grill first the skin side of the chicken meat to cook it in good shape.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also advisable to grill first the skin side of the chicken meat to cook it in good shape.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">It is also advisable to grill first the skin side of the chicken to cook it well.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="26">
+<j>フライパンで焼く場合タレをつける前の下焼きの段階で食材から脂がしみ出る。</j>
+<e type="trans" ver="1">In case of using a frying pan, fat seeps out of the foodstuff during the frying step before coating with sauce.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In case of using a frying pan, fat seeps out of the foodstuff during grilling before coating with sauce.</e>
+<cmt>before の前のスペース短縮NC_Checkthe frying step→grilling</cmt>
+<e type="check" ver="1">When using a frying pan, allow the fat to drip out during grilling before coating with sauce.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="27">
+<j>この脂はタレ焼きをする前に取り除いておいた方がよい。</j>
+<e type="trans" ver="1">It is advisable to remove this fat before coating with sauce.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It is advisable to remove this fat before coating with sauce.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">It is advisable to remove this fat before coating with sauce.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>タレが食材にのり易くなり、食材の臭みを除く効果がある。</j>
+<e type="trans" ver="1">By doing so, sauce can go on well with the foodstuff and also smell of the foodstuff can be removed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">By doing so, sauce can go on well with the foodstuff and also smell of the foodstuff can be removed.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">By doing so, sauce can penetrate better and also the smell of the food can be removed.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="29">
+<j>脂を少なくすることによってより健康的な料理となる利点もある。</j>
+<e type="trans" ver="1">Moreover, reducing fat in this way is advantageous in that it can make the dish healthy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, reducing fat in this way is advantageous in that it can make the dish healthy.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Moreover, reducing fat in this way is advantageous in that it can make the dish healthy.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>フライパンで作る照り焼きを区別して「鍋照り焼き」と呼ぶ場合もある。</j>
+<e type="trans" ver="1">Teriyaki dishes cooked by using a frying pan are sometimes called &quot;nabe teriyaki&quot; (&quot;nabe&quot; meaning a pan).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Teriyaki dishes cooked by using a frying pan are sometimes called &apos;nabe teriyaki&apos; (&apos;nabe&apos; means a pan.)</e>
+<cmt>meaning→meansピリオドを括弧内へ移動NC_Check</cmt>
+<e type="check" ver="1">Teriyaki dishes cooked by using a frying pan are sometimes called &apos;nabe teriyaki&apos; (&apos;nabe&apos; means a pan.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="31">
+<j>照り焼きは冷めてもそれなりに美味しいことが多い。</j>
+<e type="trans" ver="1">Most teriyaki dishes taste fairly good even when eaten cold.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Most teriyaki dishes taste fairly good even when eaten cold.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Most teriyaki dishes taste fairly good even when eaten cold.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>このため弁当のおかずとしてもよく用いられる。</j>
+<e type="trans" ver="1">So they are often chosen as side dishes for box lunches (&quot;bento&quot; in Japanese).</e>
+<cmt></cmt>
+<e type="trans" ver="2">So they are often chosen as side dishes for box lunches.</e>
+<cmt>括弧書き削除NC_Check</cmt>
+<e type="check" ver="1">So they are often chosen as side dishes for box lunches.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>日本以外の地域のテリヤキ</j>
+<e type="trans" ver="1">Teriyaki outside Japan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Teriyaki outside Japan</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Teriyaki outside Japan</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="33">
+<j>照り焼きは米国でも人気があり、”teriyaki”が辞書に載るほど定着している。</j>
+<e type="trans" ver="1">Teriyaki is so popular also in the United States that the word &quot;teriyaki&quot; is well established to be found in dictionaries there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Teriyaki is so popular also in the United States that the word &quot;teriyaki&quot; is well established to be found in dictionaries there.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Teriyaki is so popular also in the United States that the word &quot;teriyaki&quot; is well established and can be found in dictionaries there.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="34">
+<j>しかし、アメリカ合衆国などでは”teriyaki”とはテリヤキソース(teriyaki sauce)を用いて下味付けをした肉料理を指す。</j>
+<e type="trans" ver="1">In countries such as the United States, however, &quot;teriyaki&quot; means dishes of animal meat seasoned with teriyaki sauce before grilling.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In countries such as the United States, however, &quot;teriyaki&quot; means dishes of animal meat seasoned with teriyaki sauce before grilling.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">In countries such as the United States, however, &quot;teriyaki&quot; means dishes of meat seasoned with teriyaki sauce before grilling.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="35">
+<j>日本の照り焼き調理法と異なり、料理に照りを出す調理法ではない。</j>
+<e type="trans" ver="1">The cooking method is different from that of Japanese teriyaki cooking in that it does not involve a step of making the meat glossy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The cooking method is different from that of Japanese teriyaki in that it does not involve a step of making the meat glossy.</e>
+<cmt>teriyaki cooking→teriyaki</cmt>
+<e type="check" ver="1">The cooking method is different from that of Japanese teriyaki in that it does not involve a step of making the meat glossy.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>予め食材をテリヤキソースに漬け込んで調理したり、グリルで焼いた肉類にテリヤキソースをかけたりして食する方法が一般的である。</j>
+<e type="trans" ver="1">In the United States, generally, the foodstuffs are marinated with teriyaki sauce and then heated, or the foodstuffs are grilled and then dressed with teriyaki sauce when served.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the United States, generally, the foodstuffs are marinated with teriyaki sauce and then heated, or the foodstuffs are grilled and then dressed with teriyaki sauce when served.</e>
+<cmt>with の前のスペース短縮NC_CheckDoes &apos;teriyaki sauce&apos; need an article?</cmt>
+<e type="check" ver="1">In the United States, generally, foods is marinated with teriyaki sauce and then heated, or grilled and then dressed with teriyaki sauce when served.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="37">
+<j>このため日本語でこれらの料理をさす場合には「テリヤキ」と片仮名で表記されることが多い。</j>
+<e type="trans" ver="1">For these differences, dishes thus prepared are often indicated in katakana letters to distinguish them from Japanese teriyaki dishes in the Japanese language.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For these differences, dishes thus prepared are often indicated in katakana (one of the Japanese syllabaries) to distinguish them from Japanese teriyaki dishes in the Japanese language.</e>
+<cmt>カタカナの説明補足NC_CheckIs this sentence redundant?</cmt>
+<e type="check" ver="1">For these differences, prepared meals are often indicated in katakana (one of the Japanese syllabaries) to distinguish them from Japanese teriyaki meals in the Japanese language.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="38">
+<j>特段に日本料理に傾倒しているレストランでなくても肉類の照り焼き料理を供する所がある。</j>
+<e type="trans" ver="1">Even some restaurants not particularly specializing in Japanese cuisine serve teriyaki meat dishes.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Even some restaurants not particularly specializing in Japanese cuisine serve teriyaki meat dishes.</e>
+<cmt>some の後のスペース短縮</cmt>
+<e type="check" ver="1">Even some restaurants not particularly specializing in Japanese cuisine serve teriyaki meat dishes.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="39">
+<j>また、スーパーマーケットなどでは瓶詰めされたテリヤキソースが販売されている。</j>
+<e type="trans" ver="1">Also supermarkets sell teriyaki sauces in bottles.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Also supermarkets sell teriyaki sauces in bottles.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also supermarkets sell teriyaki sauces in bottles.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>しかし日本人の感覚からすると甘過ぎたり余分な香辛料が入っていたりすることが多く、「照り焼き」と”teriyaki”は違うものであると考えられている。</j>
+<e type="trans" ver="1">For the Japanese palate, however, since such teriyaki sauces used in foreign countries often taste too sweet or too spicy, Japanese people perceive teriyaki dishes of foreign countries as different from Japanese teriyaki dishes.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">For the Japanese palate, however, since such teriyaki sauces used in foreign countries often taste too sweet or too spicy, Japanese people perceive teriyaki dishes of foreign countries as different from Japanese teriyaki dishes.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">For the Japanese palate, however, since such teriyaki sauces used in foreign countries often taste too sweet or too spicy, Japanese people perceive teriyaki dishes of foreign countries as different from Japanese teriyaki dishes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>海外ではその事実が知られておらず、純粋な「日本料理」だと思われている場合が多い。</j>
+<e type="trans" ver="1">Since the differences are not known outside Japan, such teriyaki dishes are widely believed to be genuine Japanese cuisine.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Since the differences are not known outside Japan, such teriyaki dishes are widely believed to be genuine Japanese cuisine.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Since the differences are not known outside Japan, such teriyaki dishes are widely believed to be genuine Japanese cuisine.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>テリヤキソース</j>
+<e type="trans" ver="1">Teriyaki sauce</e>
+<cmt></cmt>
+<e type="trans" ver="2">Teriyaki sauce</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Teriyaki sauce</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="42">
+<j>米国でも日本のように醤油と調味料で調合しタレを作る場合もあるが、ほとんどのレストランや一般家庭では既製品のテリヤキソースを使用する。</j>
+<e type="trans" ver="1">In the United States, although teriyaki sauce is sometimes prepared by mixing soy sauce and other seasonings like in Japanese cooking to prepare teriyaki dishes, ready-made sauces are generally used in most restaurants and home cooking.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the United States, although a teriyaki sauce is sometimes prepared by mixing soy sauce and other seasonings like in Japanese cooking to prepare teriyaki dishes, ready-made sauces are generally used in most restaurants and home cooking.</e>
+<cmt>NC_Checkteriyaki→a teriyaki</cmt>
+<e type="check" ver="1">In the United States, although teriyaki sauce is sometimes prepared by mixing soy sauce and other seasonings like in Japan, ready-made sauces are generally used in most restaurants and home cooking.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="43">
+<j>テリヤキソースには味醂、日本酒など日本独自の調味料は使用されず、 頻繁に洋酒、ニンニク、ゴマなど本来の「照り焼きのタレ」と違う原料で製造されている。</j>
+<e type="trans" ver="1">Seasonings unique to Japanese cooking such as mirin and sake are not used in American teriyaki sauce, and instead, ingredients such as western liquors, garlic and sesame, which are uncommon in traditional Japanese teriyaki sauce, are often used to prepare teriyaki sauces.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Seasonings unique to Japanese cooking such as mirin and sake are not used in American teriyaki sauces, and instead, ingredients such as western liquors, garlic and sesame, which are uncommon in the traditional Japanese teriyaki sauce, are often used to prepare teriyaki sauces.</e>
+<cmt>sauce→saucesNC_Checktraditional→the traditional</cmt>
+<e type="check" ver="1">Seasonings unique to Japanese cooking such as mirin and sake are not used in American teriyaki sauces, and instead, ingredients such as western liquors, garlic and sesame, which are uncommon in the traditional Japanese teriyaki sauce, are often used to prepare teriyaki sauces.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>醤油と砂糖以外には照り焼きのタレとの共通点は少ない。</j>
+<e type="trans" ver="1">Other than soy sauce and sugar, there are few ingredients common between the American teriyaki sauce and the Japanese teriyaki sauce.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other than soy sauce and sugar, there are few ingredients common between the American teriyaki sauce and the Japanese one.</e>
+<cmt>文末の teriyaki sauce→one</cmt>
+<e type="check" ver="1">Other than soy sauce and sugar, there are few ingredients common between the American teriyaki sauce and the Japanese one.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="45">
+<j>単に甘口のバーベキューソースを指してテリヤキソースと呼ぶ場合もある。</j>
+<e type="trans" ver="1">Simply, barbecue sauces with sweet taste are sometimes referred to as teriyaki sauces.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Simply, barbecue sauces with a sweet taste are sometimes referred to as teriyaki sauces.</e>
+<cmt>NC_Checksweet→a sweet</cmt>
+<e type="check" ver="1">Simply, barbecue sauces with a sweet taste are sometimes referred to as teriyaki sauces.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="46">
+<j>米国でテリヤキソースが生まれたきっかけは、日本の醤油メーカーキッコーマンが1957年に米国内初の醤油販売を開始した事にある。</j>
+<e type="trans" ver="1">What gave birth to teriyaki sauce in the United States was sales of say sauce started by one of Japan&apos;s soy sauce manufacturers, Kikkoman Corporation, in 1957, the first in the United States.</e>
+<cmt></cmt>
+<e type="trans" ver="2">What gave birth to teriyaki sauce in the United States was sales of say sauce started by one of Japan&apos;s soy sauce manufacturers, Kikkoman Corporation, in 1957, the first in the United States.</e>
+<cmt>NC_CheckIs this sentence natural?</cmt>
+<e type="check" ver="1">What gave birth to teriyaki sauce in the United States was sales of soy sauce started by one of Japan&apos;s soy sauce manufacturers, Kikkoman Corporation, in 1957, the first in the United States.</e>
+<cmt>spelling</cmt>
+</sen>
+<sen id="47">
+<j>販売を始めてみたが醤油の使用法が当時のアメリカ人には理解されておらず、まだ日本料理も一般的でなかったため販売が伸び悩んでいた。</j>
+<e type="trans" ver="1">Since uses of soy sauce were not widely known to American people at that time and Japanese cooking was not widely popular, sales of soy sauce were stagnant.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since uses of soy sauce were not widely known to American people at that time and Japanese cooking was not widely popular, sales of soy sauce were stagnant.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Since the use of soy sauce was not widely known to American people at that time and Japanese cooking was not widely popular, sales of soy sauce were stagnant.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="48">
+<j>キッコーマンの日系二世のセールスマン、タム吉永が彼の母親の調理した和食、魚の照り焼きをヒントに、肉料理に合う醤油ベースの料理法「テリヤキ」を発案した。</j>
+<e type="trans" ver="1">A Kikkoman&apos;s salesman, a second generation Japanese American, Tam YOSHINAGA, inspired by a Japanese teriyaki dish of fish which was prepared by his mother, invented the American version of soy sauce-based teriyaki cooking method that goes well with meat.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A Kikkoman&apos;s salesman, a second generation Japanese American, Tam YOSHINAGA, inspired by a Japanese teriyaki dish of fish which was prepared by his mother, invented the American version of soy sauce-based teriyaki cooking method that went well with meat.</e>
+<cmt>NC_Checkgoes→went</cmt>
+<e type="check" ver="1">A Kikkoman salesman, a second generation Japanese American, Tam YOSHINAGA, inspired by a Japanese teriyaki dish of fish which was prepared by his mother, invented the American version of soy sauce-based teriyaki cooking method that went well with meat.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="49">
+<j>テリヤキソース調理法はキッコーマン主催の料理教室や販売促進用の小冊子などで、ゆっくりとアメリカに定着し現在の地位を確立してきた。</j>
+<e type="trans" ver="1">The cooking method using the teriyaki sauce gradually became widespread in the United States through cooking classes hosted by Kikkoman, sales promotion brochures and so on, to gain the popularity it enjoys today.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The cooking method using the teriyaki sauce gradually became widespread in the United States through cooking classes hosted by Kikkoman, sales promotion brochures and so on, to gain the popularity it enjoys today.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">The cooking method using the teriyaki sauce gradually became widespread in the United States through cooking classes hosted by Kikkoman, sales promotion brochures and to gain the popularity it enjoys today.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="50">
+<j>現在でも米国で消費される醤油の殆どは、このテリヤキ調理法に費やされており、純粋な日本料理に消費される醤油の割合は極めて少ない。</j>
+<e type="trans" ver="1">In the United States, today, most of say sauce consumed is used in this teriyaki method while very little is used in genuine Japanese cooking.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the United States, even today, most of soy sauce consumed is used in this teriyaki cooking while very little is used in genuine Japanese cooking.</e>
+<cmt>NC_Checkmethod→cookingsay→soytoday→even todayis の前のスペース短縮</cmt>
+<e type="check" ver="1">In the United States, even today, most soy sauce consumed is used in teriyaki cooking while very little is used in genuine Japanese cooking.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>テリヤキバーガー</j>
+<e type="trans" ver="1">Teriyaki burger</e>
+<cmt></cmt>
+<e type="trans" ver="2">Teriyaki burger</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Teriyaki burger</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="51">
+<j>テリヤキバーガーはテリヤキソースで味付けしたハンバーグを挟んだ日本生まれのハンバーガーである。</j>
+<e type="trans" ver="1">Teriyaki burger is a Japanese-born burger sandwich with the burger patty seasoned with teriyaki sauce.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A teriyaki burger is a Japanese-born burger sandwich with the burger patty seasoned with a teriyaki sauce.</e>
+<cmt>Teriyaki→A teriyakiteriyaki→a teriyaki</cmt>
+<e type="check" ver="1">A teriyaki burger is a Japanese-born burger sandwich with the burger patty seasoned with teriyaki sauce.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Ligar(id:12623), Mnd(id:15140), MystBot(id:224584), Fuji-77(id:22233), Takoradee(id:82103), Transpassive(id:12204), マクガイア(id:33346), TXiKiBoT(id:107492), Hachikou(id:10676), Tcyiswalk(id:7279), 555accele(id:85185), Escarbot(id:59151), Masgatotkaca(id:139285), Zwobot(id:23873), Johncapistrano(id:969), 竃馬(id:102733), 虎丸(id:136161), Thijs!bot(id:69644), Nippon.banzai(id:216445), Mochi(id:9489), Chlewbot(id:33904), Rei-bot(id:94097), Point136(id:211299), Alexbot(id:157199), Ayustar(id:62067), Amirobot(id:223904), Lebit(id:11805), SieBot(id:126695), 1029man(id:93235), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>すごろく</j>
+<e type="trans" ver="1">Sugoroku</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sugoroku</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sugoroku</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>すごろく（雙六・双六）とは、サイコロを振って、出た目に従って升目にある駒を進めて上がりに近づけるボードゲーム。</j>
+<e type="trans" ver="1">Sugoroku is a boardgame that a player throws a dice to move a piece as many squares as the numbers shown on the rolled dice.</e>
+<cmt>主語がないので &quot;a player&quot; を補いました。</cmt>
+<e type="trans" ver="2">Sugoroku is a boardgame that a player throws a dice to move a piece as many squares as the numbers shown on the rolled dice.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sugoroku is a boardgame that a player throws a dice to move a piece as many squares as the numbers shown on the rolled dice.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summery</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summery</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summery</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>その名の由来はさいころを2個振り、双方とも最大値である6のゾロ目がいかに出るかが形勢を左右したゲームであったため、「雙六」あるいは異字体として「双六」という字が当てられるようになった（「雙」・「双」は同じ意味を持つ）という説がある。</j>
+<e type="trans" ver="1">One theory shows that the name, Sugoroku was derived from &apos;雙六&apos; or &apos;双六&apos;, literary double sixes, because in the Sugoroku game, the maximum numbers on the two dices, which were used in the game, controls the situation.(&apos;雙&apos; and &apos;双&apos; have the same meaning, double).</e>
+<cmt></cmt>
+<e type="trans" ver="2">One theory shows that the name, Sugoroku was derived from &apos;雙六&apos; or &apos;双六&apos;, literary double sixes, because in the Sugoroku game, the maximum numbers on the two dices, which were used in the game, controls the situation.(&apos;雙&apos; and &apos;双&apos; have the same meaning, double).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">One theory shows that the name, Sugoroku was derived from &apos;雙六&apos; or &apos;双六&apos;, literary double sixes, because in the Sugoroku game, the maximum numbers on the two dices, which were used in the game, controls the situation.(&apos;雙&apos; and &apos;双&apos; have the same meaning, double).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>日本では「雙六」と書かれた盤双六（ばんすごろく）と後世に発生して単に「双六」と称した絵双六（えすごろく）の2種類があった。</j>
+<e type="trans" ver="1">In Japan, there were two types of Sugoroku, one was a borad Sugoroku written as &apos;雙六&apos; and another was &apos;双六&apos;, simply called Sugoroku or picture Sugoroku, which was appeared in later years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Japan, there were two types of Sugoroku, one was a board Sugoroku written as &apos;雙六&apos; and another was &apos;双六&apos;, simply called Sugoroku or picture Sugoroku, which appeared in later years.</e>
+<cmt>スペルミスです。また、was appearedのwas不要です。</cmt>
+<e type="check" ver="1">In Japan, there were two types of Sugoroku, one was a board Sugoroku written as &apos;雙六&apos; and another was &apos;双六&apos;, simply called Sugoroku or picture Sugoroku, which appeared in later years.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>両者は古くは峻別されていたが、江戸時代には雙六（盤双六）と双六（絵双六）が双方共に双六と称されていたため、混乱が生じた。</j>
+<e type="trans" ver="1">In the beginning, they were clearly distinguished, however, in the Edo period, both 雙六 (board Sugoroku) and 双六 (picture Sugoroku) were just called as 双六 (Sugoroku), then the name became vague.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the beginning, they were clearly distinguished, however, in the Edo period, both 雙六 (board Sugoroku) and 双六 (picture Sugoroku) were just called as 双六 (Sugoroku), then the name became vague.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the beginning, they were clearly distinguished, however, in the Edo period, both 雙六 (board Sugoroku) and 双六 (picture Sugoroku) were just called as 双六 (Sugoroku), then the name became vague.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>盤双六は幕末に廃れ、現在では、双六と言えばほぼ確実に絵双六を指す。</j>
+<e type="trans" ver="1">The board Sugoroku died out in the end of the Edo period, now the word Sugoroku almost certainly signifies the picture Sugoroku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The board Sugoroku died out in the end of the Edo period, now the word Sugoroku almost certainly signifies the picture Sugoroku.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The board Sugoroku died out in the end of the Edo period, now the word Sugoroku almost certainly signifies the picture Sugoroku.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>なお、日本の遊戯の歴史における先駆的な研究家である増川宏一は、、両者は同じ「すごろく」であっても全く別な遊戯であり、雙六（盤双六）に「双六」という表記を用いるのは不適切であると唱えている。</j>
+<e type="trans" ver="1">Koichi MASUKAWA, who is a pioneering researcher of Japanese playgames in history says that although both are equally called Sugoroku, they are completely different playgame so it&apos;s not adequate to use a notation of &apos;双六&apos; for &apos;雙六(board Sugoroku)&apos;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Koichi MASUKAWA, who is a pioneering researcher of Japanese playgames in history says that although both are equally called Sugoroku, they are completely different playgames so it&apos;s not adequate to use a notation of &apos;双六&apos; for &apos;雙六(board Sugoroku)&apos;</e>
+<cmt>複数のs抜けてます。</cmt>
+<e type="check" ver="1">Koichi MASUKAWA, who is a pioneering researcher of Japanese playgames in history says that although both are equally called Sugoroku, they are completely different playgames so it&apos;s not adequate to use a notation of &apos;双六&apos; for &apos;雙六(board Sugoroku)&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>江戸時代以前の日記などの記録類においては誤記と思われる少数例を除けば「雙六」と「双六」の使い分けがはっきりとしている事からである。</j>
+<e type="trans" ver="1">For example, before the Edo period, in the documents such as journals, &apos;雙六&apos; and &apos;双六&apos; were clearly different except with a few exceptions by errutams.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">For example, before the Edo period, in the documents such as journals, &apos;雙六&apos; and &apos;双六&apos; were clearly different except with a few exceptions by errors.</e>
+<cmt>errutamなる語を使う必然性がないので、errorとしました。</cmt>
+<e type="check" ver="1">For example, before the Edo period, in the documents such as journals, &apos;雙六&apos; and &apos;双六&apos; were clearly different except with a few exceptions by errors.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>日本語以外の言語でも盤双六系遊戯と絵双六系遊戯にはそれぞれ違う単語があてられているのが殆どである。</j>
+<e type="trans" ver="1">In other languages besidee Japanese, different words are mostly used to indicate the board Sugoroku type game and the picture Sugoroku type game.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In other languages besides Japanese, different words are mostly used to indicate the board Sugoroku type game and the picture Sugoroku type game.</e>
+<cmt>スペルミスです。</cmt>
+<e type="check" ver="1">In other languages besides Japanese, different words are mostly used to indicate the board Sugoroku type game and the picture Sugoroku type game.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>本項目においては、項目名は共通する「すごろく」を採用し、個々の記述に関しては今日の主流な呼び方である「盤双六」/「雙六」と「絵双六」/「双六」の名称で解説する。</j>
+<e type="trans" ver="1">In this article, a common word &apos;Sugoroku&apos; is used for the title, and to describe each, they are referred to as &apos;board Sugoroku&apos;/ &apos;雙六&apos; and &apos;picture Sugoroku&apos;/ &apos;双六&apos; respectively.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In this article, a common word &apos;Sugoroku&apos; is used for the title, and to describe each, they are referred to as &apos;board Sugoroku&apos;/ &apos;雙六&apos; and &apos;picture Sugoroku&apos;/ &apos;双六&apos; respectively.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In this article, a common word &apos;Sugoroku&apos; is used for the title, and to describe each, they are referred to as &apos;board Sugoroku&apos;/ &apos;雙六&apos; and &apos;picture Sugoroku&apos;/ &apos;双六&apos; respectively.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>また、「盤双六（雙六）」に関しては「バックギャモン」の項目もあわせて参照のこと。</j>
+<e type="trans" ver="1">Also, see the article of &apos;Backgammon&apos; as a reference of &apos;board Sugoroku&apos; (盤双六, 双六)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, see the article of &apos;Backgammon&apos; as a reference of &apos;board Sugoroku&apos; (盤双六, 双六).</e>
+<cmt>ピリオド抜けてます。</cmt>
+<e type="check" ver="1">Also, see the article of &apos;Backgammon&apos; as a reference of &apos;board Sugoroku&apos; (盤双六, 双六).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>源流</j>
+<e type="trans" ver="1">Roots</e>
+<cmt></cmt>
+<e type="trans" ver="2">Roots</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Roots</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="11">
+<j>起源は古代エジプトで遊ばれたセネトという遊びであるとされている。</j>
+<e type="trans" ver="1">The roots of the Sugoroku was considered as a playgame named &apos;Senet&apos;, which was played in the ancient Egypt.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The roots of the Sugoroku was considered as a playgame named &apos;Senet&apos;, which was played in the ancient Egypt.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The roots of the Sugoroku was considered as a playgame named &apos;Senet&apos;, which was played in the ancient Egypt.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>後の盤双六の原型と呼べるものはローマ帝国で遊ばれた12×2マスの遊戯盤とされている。</j>
+<e type="trans" ver="1">The original form of the board Sugoroku was considered as a board game with 12x2 grid played in the Roman Empire.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The original form of the board Sugoroku was considered as a board game with 12x2 grid played in the Roman Empire.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The original form of the board Sugoroku was considered as a board game with 12x2 grid played in the Roman Empire.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>これがシルクロードを経由して中国に入ってきた。</j>
+<e type="trans" ver="1">This was introduced to China via the Silk Road.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was introduced to China via the Silk Road.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This was introduced to China via the Silk Road.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>東大寺正倉院には生前の聖武天皇が遊んだとされる盤双六が納められている。</j>
+<e type="trans" ver="1">In the Shosoin Treasure House of the Todai-ji Temple, a board Sugoroku, with which Emperor Shomu may have played, is kept.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Shosoin Treasure House of the Todai-ji Temple, a board Sugoroku, with which Emperor Shomu may have played, is kept.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the Shosoin Treasure House of the Todai-ji Temple, a board Sugoroku, with which Emperor Shomu may have played, is kept.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>ただし後世において広く遊ばれた盤双六は中世以後に中国の盤双六を取り入れて改良されたものであると言われている。</j>
+<e type="trans" ver="1">However, it is said that the board Sugoroku, which became widely popular afterward was one that had introduced Chinese board Sugoroku to improve after the middle age.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, it is said that the board Sugoroku, which became widely popular afterward, was the one that had been improved by introducing Chinese board Sugoroku after the middle age.</e>
+<cmt>コンマ、態の変更です。</cmt>
+<e type="check" ver="1">However, it is said that the board Sugoroku, which became widely popular afterward, was the one that had been improved by introducing Chinese board Sugoroku after the middle age.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>盤双六</j>
+<e type="trans" ver="1">The board Sugoroku</e>
+<cmt></cmt>
+<e type="trans" ver="2">The board Sugoroku</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The board Sugoroku</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="16">
+<j>盤双六（ばんすごろく、雙六）というのは、奈良時代から江戸時代にかけて広く行われた古い形のバックギャモンの和名である。</j>
+<e type="trans" ver="1">The board Sugoroku (雙六) was a Japanese name for old type backgammon that was widely popular from the Nara period through to the Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The board Sugoroku (雙六) was a Japanese name for old type backgammon that was widely popular from the Nara period through to the Edo period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The board Sugoroku (雙六) was a Japanese name for old type backgammon that was widely popular from the Nara period through to the Edo period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>かつては上流階級の婦女子の嗜みでもあった。</j>
+<e type="trans" ver="1">It used to be an accomplishment for uppper class women as well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It used to be an accomplishment for uppper class women as well.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It used to be an accomplishment for uppper class women as well.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="18">
+<j>白と黒の石をもちいる。</j>
+<e type="trans" ver="1">The board Sugoroku used white stones and black stones.</e>
+<cmt>主語に　&quot;board Sugoroku&quot;を補いました</cmt>
+<e type="trans" ver="2">The board Sugoroku used white stones and black stones.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The board Sugoroku used white stones and black stones.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>上手のほうを白とする。</j>
+<e type="trans" ver="1">The white was regarded as a stronger player.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The better player takes the white.</e>
+<cmt>上手な方が、白石を使うという意味で取りました。</cmt>
+<e type="check" ver="1">The better player takes the white.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="20">
+<j>さいころの目にあわせて二つの石を動かすか、あるいは一つの石を目の合計数進めることができる。</j>
+<e type="trans" ver="1">According to the numbers showed on the dices, two stones were moved, or one stone was brought forward as many points as the total numbers on the dices.</e>
+<cmt>ここの記述が不明でした。単純に「二つの石、又は一つの石どちらでも良いから、さいころの目の合計数を動かす」というように原文どおりに訳しました。</cmt>
+<e type="trans" ver="2">According to the numbers shown on the two dices, two stones were moved, or one stone was brought forward as many points as the total numbers on the two dices.</e>
+<cmt>showの過去分詞形の変更と、語意の明確化のため、twoを付加しました。</cmt>
+<e type="check" ver="1">According to the numbers shown on the two dices, two stones were moved, or one stone was brought forward as many points as the total numbers on the two dices.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>あともどりは出来ず、相手の石が二つ以上ある場合にはそこに進めない。</j>
+<e type="trans" ver="1">The player couldn&apos;t turn back and couldn&apos;t move to where two or more stones were.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The player couldn&apos;t turn back and couldn&apos;t move to where two or more stones were.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The player couldn&apos;t turn back and couldn&apos;t move to where two or more stones were.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="22">
+<j>通常は石をすべて内地（インナーボード）に入れた段階で勝ち。</j>
+<e type="trans" ver="1">Basically a player won when he/she moved all stones to the inland (the inner board).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Basically a player won when he/she moved all stones to the inland (the inner board).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Basically a player won when he/she moved all stones to the inland (the inner board).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>これを「入勝（いりがち）」という。</j>
+<e type="trans" ver="1">This was called &apos;Irigachi&apos; (literary, enter and win).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was called &apos;Irigachi&apos; (literary, enter and win).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This was called &apos;Irigachi&apos; (literary, enter and win).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="24">
+<j>ヒットすることを「切る」という。</j>
+<e type="trans" ver="1">Hitting was called &apos;kiru&apos; (literary, cut)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hitting was called &apos;kiru&apos; (literary, cut)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hitting was called &apos;kiru&apos; (literary, cut)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="25">
+<j>切られた石は外に置かれ、切られた側は自分の番が来たとき、まずこの石を動かして戻さねば他の石を動かせない。</j>
+<e type="trans" ver="1">When a stone was hit, it was removed and placed outside, and the hit stone needed to be back by priority before other stones were moved.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When a stone was hit, it was removed and placed outside, and the hit stone needed to be back by priority before other stones were moved.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">When a stone was hit, it was removed and placed outside, and the hit stone needed to be back by priority before other stones were moved.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>プライム(相手が進めない場所を6つ連続で作る)を作ることを「蒸す」といい、重要な戦術としていた。</j>
+<e type="trans" ver="1">Making &apos;Prime&apos; (six consecutive made points, where the opponent cannot enter) was called &apos;steam&apos; and it was regarded as an important strategy. (&quot;New Selection of Sugoroku (Japanese Backgammon) Self-Instructions&quot; by Chikuou UEDA, 1897)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Making &apos;Prime&apos; (to make six consecutive points, where the opponent cannot enter) was called &apos;steam&apos; and it was regarded as an important strategy. (&quot;New Selection of Sugoroku (Japanese Backgammon) Self-Instructions&quot; by Chikuou UEDA, 1897)</e>
+<cmt>文法的不適格があります。</cmt>
+<e type="check" ver="1">Making &apos;Prime&apos; (to make six consecutive points, where the opponent cannot enter) was called &apos;steam&apos; and it was regarded as an important strategy.</e>
+<cmt>一原文一訳文の例外処理</cmt>
+</tit>
+<sen id="26">
+<j>（上田竹翁の『新撰雙陸独稽古』明治三十年、青木嵩山堂による)</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(&quot;New Selection of Sugoroku (Japanese Backgammon) Self-Instructions&quot; by Chikuou UEDA, 1897)</e>
+<cmt>一原文一訳文の例外処理</cmt>
+</sen>
+<par id="1">
+<sen id="27">
+<j>ギャモン勝ち、バックギャモン勝ちがない。</j>
+<e type="trans" ver="1">Neither &apos;Gammon win&apos; nor &apos;Backgammon win&apos; rule was applied.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neither &apos;Gammon win&apos; nor &apos;Backgammon win&apos; rule was applied.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Neither &apos;Gammon win&apos; nor &apos;Backgammon win&apos; rule was applied.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>石が切られて蒸される、つまりクローズアウトされた時点でゲームは終了。</j>
+<e type="trans" ver="1">When the stone was hit and steamed, or closed out, the game ended.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the stone was hit and steamed, or closed out, the game ended.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">When the stone was hit and steamed, or closed out, the game ended.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>切った石を蒸した側が勝つ。</j>
+<e type="trans" ver="1">The player who steamed the hit stones won.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The player who steamed the hit stones won.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The player who steamed the hit stones won.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>これを「無地勝（むじがち）」といって上々の勝ちとした。</j>
+<e type="trans" ver="1">This was called &apos;Mujigachi&apos; (literary, solid win), regarded as a very fine victory.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">This was called &apos;Mujigachi&apos; (literary, solid win) and regarded as a very fine victory.</e>
+<cmt>接続詞の追加です。</cmt>
+<e type="check" ver="1">This was called &apos;Mujigachi&apos; (literary, solid win) and regarded as a very fine victory.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="31">
+<j>ぞろ目を出した時の特別扱いはない。</j>
+<e type="trans" ver="1">There were no special rules in case of the same number showed on a pair of dices.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were no special rules in case of the same number shown on a pair of dices.</e>
+<cmt>shownに変更しました。</cmt>
+<e type="check" ver="1">There were no special rules in case of the same number shown on a pair of dices.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="32">
+<j>ダブリングキューブはない。</j>
+<e type="trans" ver="1">There were no doubling cubes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were no doubling cubes.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There were no doubling cubes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>(ダブリングキューブは1920年代にアメリカで発明された)</j>
+<e type="trans" ver="1">(The doubling cube was appeared in the 1920s.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(The doubling cube was invented in the 1920s.)</e>
+<cmt>誤訳です。</cmt>
+<e type="check" ver="1">(The doubling cube was invented in the 1920s.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>盤双六の弊害</j>
+<e type="trans" ver="1">Harmful results of the board Sugoroku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Harmful results of the board Sugoroku.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Harmful results of the board Sugoroku.</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="34">
+<j>この盤双六はゲームの進行に際して複雑な思考と同時にさいころの偶然性に頼る要素が大きく、賭博として行われた。</j>
+<e type="trans" ver="1">The board Sugoroku was played as a gamble because the game highly depended on the chance of the rolled dices besides the complicated thoughts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The board Sugoroku was played as a gamble because the game highly depended on the chance of the rolled dices besides the complicated thoughts.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The board Sugoroku was played as a gamble because the game highly depended on the chance of the rolled dices besides the complicated thoughts.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>『日本書紀』によれば、689年に初めての禁止令が出されている。</j>
+<e type="trans" ver="1">According to &quot;the Nihon Shoki (the Chronicle of Japan)&quot;, it was first prohibited in 689.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">According to &quot;the Nihon Shoki (the Chronicle of Japan)&quot;, it was first prohibited in 689.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">According to &quot;the Nihon Shoki (the Chronicle of Japan)&quot;, it was first prohibited in 689.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>また平安時代の白河法皇も「雙六の骰子（盤双六のさいころ）」を天下の三不如意のひとつとして挙げたとされている。</j>
+<e type="trans" ver="1">In the Heian period, the Cloistered Emperor Shirakawa also mentioned &apos;the dices on the board Sugoroku&apos; as one of the three subjects beyond his control.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In the Heian period, the Cloistered Emperor Shirakawa also mentioned &apos;the dices on the board Sugoroku&apos; as one of the three subjects beyond his control.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the Heian period, the Cloistered Emperor Shirakawa also mentioned &apos;the dices on the board Sugoroku&apos; as one of the three subjects beyond his control.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>（ただし、これを雙六の禁止令ではなく、法皇自身の雙六の腕とする説もある）。</j>
+<e type="trans" ver="1">(However, some theories say that this indicated not a ban of the Sugoroku but the Cloistered Emperor&apos;s dice rolling technique.)</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">(However, some theories say that this indicated not a ban of the Sugoroku but the Cloistered Emperor&apos;s dice rolling technique.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(However, some theories say that this indicated not a ban of the Sugoroku but the Cloistered Emperor&apos;s dice rolling technique.)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>また、鎌倉幕府や江戸幕府の禁令にも度々見られている。</j>
+<e type="trans" ver="1">Also, the government Kamakura and the government Edo often banned it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, the government Kamakura and the government Edo often banned it.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also, the government Kamakura and the government Edo often banned it.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="39">
+<j>だが、先に紹介された聖武天皇の盤双六の例を初め、平安時代の加賀国の国衙に「雙六別当」と称される部署が存在したと言う記録が残されている。</j>
+<e type="trans" ver="1">However, besides, as already mentioned above, the board Sugoroku played by Emperor Shomu as an evidence, the historical record says that &apos;Sugoroku-betto (a head office for Sugoroku)&apos; was placed in the provincial government in the Kaga Domain,.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, besides, as already mentioned above, the board Sugoroku played by Emperor Shomu as an evidence, the historical record says that &apos;Sugoroku-betto (a head office for Sugoroku)&apos; was placed in the provincial government in the Kaga Domain,.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, besides, as already mentioned above, the board Sugoroku played by Emperor Shomu as an evidence, the historical record says that &apos;Sugoroku-betto (a head office for Sugoroku)&apos; was placed in the provincial government in the Kaga Domain,.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>更に鎌倉時代の宮廷の実力者西園寺公衡や室町時代の伏見宮貞成親王、戦国時代_(日本)の山科言継の日記にも盤双六の記録が残されている。</j>
+<e type="trans" ver="1">Moreover, in the journals of Kinhira SAIONJI, who was a influential person in the Kamakura period, Imperial Prince Fushiminomiya Sadafusa in the Muromachi period, and Tokitsugu YAMASHINA in the Sengoku Period (period of warring states) the board Sugoroku was also described.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, in the journals of Kinhira SAIONJI, who was an influential person in the Kamakura period, Imperial Prince Fushiminomiya Sadafusa in the Muromachi period, and Tokitsugu YAMASHINA in the Sengoku Period (period of warring states) the board Sugoroku was also described.</e>
+<cmt>a、anのミスです。</cmt>
+<e type="check" ver="1">Moreover, in the journals of Kinhira SAIONJI, who was an influential person in the Kamakura period, Imperial Prince Fushiminomiya Sadafusa in the Muromachi period, and Tokitsugu YAMASHINA in the Sengoku Period (period of warring states) the board Sugoroku was also described.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>また、出産にまつわる宮中行事として盤双六を行う（単にさいころを振るのみの場合もあった）慣習があった。</j>
+<e type="trans" ver="1">Also, as a court function regarding childbirth, there was a custom of playing the board Sugoroku (or, just rolling dices).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Also, as a court function regarding childbirth, there was a custom of playing the board Sugoroku (or, just rolling dices).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also, as a court function regarding childbirth, there was a custom of playing the board Sugoroku (or, just rolling dices).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="42">
+<j>女性のいわゆる「嫁入り道具」の一つとして雙六盤（盤双六を遊ぶ盤）を持たせる慣習のある地域が江戸時代後期頃までは存在していた。</j>
+<e type="trans" ver="1">Until around the end of the Edo period, in some regions, when a woman got married, a Sugoroku board was traditionally brought with her as one of her belongings.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Until around the end of the Edo period, in some regions, when a woman got married, a Sugoroku board was traditionally brought with her as one of her belongings.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Until around the end of the Edo period, in some regions, when a woman got married, a Sugoroku board was traditionally brought with her as one of her belongings.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="43">
+<j>江戸時代以後にはより賭博性の低い将棋や囲碁の台頭によって衰微したと言われ、昭和時代初期にはその痕を絶ったと言われている。</j>
+<e type="trans" ver="1">After the Edo period, due to popularity of Shogi (Japanese chess) and Igo game (board game of capturing territory) with less gambling elements could make the board Sugoroku decrease, as it is said.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the Edo period, due to popularity of Shogi (Japanese chess) and Igo game (board game of capturing territory) with less gambling elements could make the board Sugoroku decrease, as it is said.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">After the Edo period, due to popularity of Shogi (Japanese chess) and Igo game (board game of capturing territory) with less gambling elements could make the board Sugoroku decrease, as it is said.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>戦後、同系統の「バックギャモン」が遊ばれるようになるが、盤双六とバックギャモンの歴史的な連続性は乏しいと考えられている。</j>
+<e type="trans" ver="1">After the war, the similar &apos;Backgammon&apos; was played, however, it is considered that there is no historical continuity between the board Sugoroku and Backgammon.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the war, the similar &apos;Backgammon&apos; was played, however, it is considered that there is no historical continuity between the board Sugoroku and Backgammon.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">After the war, the similar &apos;Backgammon&apos; was played, however, it is considered that there is no historical continuity between the board Sugoroku and Backgammon.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>絵双六</j>
+<e type="trans" ver="1">The picture Sugoroku</e>
+<cmt></cmt>
+<e type="trans" ver="2">The picture Sugoroku</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The picture Sugoroku</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="45">
+<j>絵双六（えすごろく、双六）というのは、盤双六の影響を受けて発達した遊戯である。</j>
+<e type="trans" ver="1">The picture Sugoroku (双六) was a game that was developed with the board Sugoroku influence.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The picture Sugoroku (双六) was a game that was developed with the board Sugoroku influence.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The picture Sugoroku (双六) was a game that was developed with the board Sugoroku influence.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>紙に絵を描いてさいころを振って絵の上のマスの中にある駒を進めて上がりを目指すものである。</j>
+<e type="trans" ver="1">On the picture drown on paper, the players roll a dice to move pieces forward to the goal.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">On the picture drawn on paper, the players roll a dice to move pieces forward to the goal.</e>
+<cmt>スペルミスです。</cmt>
+<e type="check" ver="1">On the picture drawn on paper, the players roll a dice to move pieces forward to the goal.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="47">
+<j>ただし、かなり早い段階で（賭博の道具でもあった）盤双六とは別箇の発展を遂げていった。</j>
+<e type="trans" ver="1">However, in the early stage, it was developed separately from the board Sugoroku (which was occasionally a gambling tool).</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, in the early stage, it was developed separately from the board Sugoroku (which was occasionally a gambling tool).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, in the early stage, it was developed separately from the board Sugoroku (which was occasionally a gambling tool).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="48">
+<j>ただし、最古のものとされる浄土双六には絵の代わりに仏教の用語や教訓が書かれていた。</j>
+<e type="trans" ver="1">However, in the Jodo Sugoroku (a kind of Buddhist Sugoroku), the Buddhist terms and morals were written instead of pictures.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, in the Jodo Sugoroku (a kind of Buddhist Sugoroku), which is considered to be the oldest, the Buddhist terms and morals were written on it, instead of pictures.</e>
+<cmt>「最古のものとされる」の訳抜けです。on itを追加しました。</cmt>
+<e type="check" ver="1">However, in the Jodo Sugoroku (a kind of Buddhist Sugoroku), which is considered to be the oldest, the Buddhist terms and morals were written on it, instead of pictures.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="49">
+<j>それゆえ、室町時代後期（15世紀後半）には浄土双六が遊ばれていたとされる。</j>
+<e type="trans" ver="1">That means, in the late Muromachi period, (the late 15th century), the Jodo Sugoroku was considered to be played.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">That means, in the late Muromachi period (the late 15th century), the Jodo Sugoroku is considered to have been played.</e>
+<cmt>コンマ、括弧を外しました。また、時制を訂正しました。</cmt>
+<e type="check" ver="1">That means, in the late Muromachi period (the late 15th century), the Jodo Sugoroku is considered to have been played.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>なお、その名称や内容から元は浄土宗系統の僧侶によって作られたとも言われ、江戸時代の井原西鶴の作品（『好色一代男』などには）浄土双六がしばしば登場する。</j>
+<e type="trans" ver="1">With its name and the contents, the Jodo Sugoroku was considered to be made by the monks of Jodo (Pure Land) sect in origin, and the Jodo Sugoroku was often appeared in the works (such as &quot;Koshoku ichidai otoko (Life of a Sensuous Man)) by Saikaku IHARA.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">With its name and the contents, the Jodo Sugoroku is considered to have been made by the monks of Jodo (Pure Land) sect in origin, and the Jodo Sugoroku often appeared in the works (such as &quot;Koshoku ichidai otoko (Life of a Sensuous Man)) by Saikaku IHARA.</e>
+<cmt>時制の訂正です。またappearの態を訂正です。</cmt>
+<e type="check" ver="1">With its name and the contents, the Jodo Sugoroku is considered to have been made by the monks of Jodo (Pure Land) sect in origin, and the Jodo Sugoroku often appeared in the works (such as &quot;Koshoku ichidai otoko (Life of a Sensuous Man)) by Saikaku IHARA.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="51">
+<j>文政年間の滝沢馬琴の『耽奇漫録』によれば、当時浄土双六には大きく分けて4種類あったとしている。</j>
+<e type="trans" ver="1">In the Bunsei era, according to &quot;Tanki manroku (Random Record of the Society of Those Addicted to Curiosity)&quot; by Bakin TAKIZAWA, there were roughly four types of Jodo Sugoroku.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In the Bunsei era, according to &quot;Tanki manroku (Random Record of the Society of Those Addicted to Curiosity)&quot; by Bakin TAKIZAWA, there were roughly four types of Jodo Sugoroku.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the Bunsei era, according to &quot;Tanki manroku (Random Record of the Society of Those Addicted to Curiosity)&quot; by Bakin TAKIZAWA, there were roughly four types of Jodo Sugoroku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="52">
+<j>ほぼ同時期に書かれた柳亭種彦の『還魂紙料』には元は天台宗で初学の僧侶の学習のために作成された「仏法双六」が原型であったとする説を伝えている。</j>
+<e type="trans" ver="1">According to the Sukigaeshi (literally reconstituting paper from old scraps) by Tanehiko RYUTEI written around the same time, &apos;the Buppo Sugoroku&apos;, which was produced for the first practices for the Tendai-shu sect monks was its roots.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">According to the &quot;Sukigaeshi&quot; (literally reconstituting paper from old scraps) by Tanehiko RYUTEI written around the same time, &apos;the Buppo Sugoroku&apos;, which was produced for the first practices for the Tendai-shu sect monks, was its roots.</e>
+<cmt>括弧抜けです。また、コンマ追加です。</cmt>
+<e type="check" ver="1">According to the &quot;Sukigaeshi&quot; (literally reconstituting paper from old scraps) by Tanehiko RYUTEI written around the same time, &apos;the Buppo Sugoroku&apos;, which was produced for the first practices for the Tendai-shu sect monks, was its roots.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="53">
+<j>江戸時代の元禄年間には、道中双六・野郎双六（芝居双六）などが絵入りの双六が遊ばれるようになった。</j>
+<e type="trans" ver="1">During the Genroku era in the Edo period, the picture Sugoroku such as &apos;Dochu Sugoroku&apos; (a Sugoroku with pictures from the 53 stations of the Tokaido Road) and &apos;Yaro Sugoroku or Shibai Sugoroku&apos; (a Sugoroku with actors&apos; pictures), were played.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">During the Genroku era in the Edo period, the picture Sugoroku such as &apos;Dochu Sugoroku&apos; (a Sugoroku with pictures from the 53 stations of the Tokaido Road) and &apos;Yaro Sugoroku or Shibai Sugoroku&apos; (a Sugoroku with actors&apos; pictures), were played.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">During the Genroku era in the Edo period, the picture Sugoroku such as &apos;Dochu Sugoroku&apos; (a Sugoroku with pictures from the 53 stations of the Tokaido Road) and &apos;Yaro Sugoroku or Shibai Sugoroku&apos; (a Sugoroku with actors&apos; pictures), were played.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>後期になると勧善懲悪や立身出世などのテーマ性を持ったものや浮世絵師による豪華な双六も出現するようになる。</j>
+<e type="trans" ver="1">Latterly, the Sugoroku with themes such as moralistic or social success subjects, or gorgeous Sugoroku by Ukiyo-e artists appeared.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Latterly, the Sugoroku with themes such as moralistic or social success subjects, or gorgeous Sugoroku by Ukiyo-e artists appeared.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Latterly, the Sugoroku with themes such as moralistic or social success subjects, or gorgeous Sugoroku by Ukiyo-e artists appeared.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="55">
+<j>その一方で、春画などを用いたり、賭博性を持たせた双六も存在したため、天保の改革などにおいては禁圧の対象となっている。</j>
+<e type="trans" ver="1">On the other hand, some with erotic arts and gambling, the Sugoroku was banned during Tempo Reforms and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the other hand, as some Sugoroku had erotic arts or gambling elements, Sugoroku was banned during Tempo Reforms and so on.</e>
+<cmt>文法的に不適格です。</cmt>
+<e type="check" ver="1">On the other hand, as some Sugoroku had erotic arts or gambling elements, Sugoroku was banned during Tempo Reforms and so on.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="56">
+<j>明治時代以後は文明開化・富国強兵をテーマにしたものも現れ、次第に国民教化の手段として用いられるようになっていった。</j>
+<e type="trans" ver="1">After the Meiji period, the Sugoroku with such themes as bunmei kaika (civilization and enlightenment), and fukoku kyohei (fortifying the country, strengthening the military) appeared and it was used as means to tighten the people.</e>
+<cmt>&quot;Sugoroku&quot;を主語として補いました。</cmt>
+<e type="trans" ver="2">After the Meiji period, the Sugoroku with such themes as bunmei kaika (civilization and enlightenment), and fukoku kyohei (fortifying the country, strengthening the military) appeared and it was used as means to tighten the people.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">After the Meiji period, the Sugoroku with such themes as bunmei kaika (civilization and enlightenment), and fukoku kyohei (fortifying the country, strengthening the military) appeared and it was used as means to tighten the people.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="57">
+<j>また、児童雑誌の付録として欠かせないものとなった。</j>
+<e type="trans" ver="1">Also it became indispensable supplements to magazines for children.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also it became indispensable as a supplement of magazines for children.</e>
+<cmt>前置詞の付け方を訂正しました。また単数複数の訂正もしました。</cmt>
+<e type="check" ver="1">Also it became indispensable as a supplement of magazines for children.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="58">
+<j>戦後、遊びの多様化や社会の変化から双六は衰退したと言われている。</j>
+<e type="trans" ver="1">It is said that after the World War 2, Sugoroku broke down due to the diversified plays and the change of the society.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that after the World War 2, Sugoroku broke down due to the diversified plays and the change of the society.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is said that after the World War 2, Sugoroku broke down due to the diversified plays and the change of the society.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>しかし、今日のボードゲームやテレビゲームの中にさいころ（あるいは代用品としてルーレット）を用いてゲームを進行させる作品が多く存在しており、これらを双六の進化・発展した姿であると考える事も出来る。</j>
+<e type="trans" ver="1">Still nowadays, there are many games, such as board games and video games that use dices (or a roulette, in place of dices) and they can be regarded as improved and evolved forms of the Sugoroku game.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Still nowadays, there are many games, such as board games and video games that use dices (or a roulette, in place of dices) and they can be regarded as improved and evolved forms of the Sugoroku game.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Still nowadays, there are many games, such as board games and video games that use dices (or a roulette, in place of dices) and they can be regarded as improved and evolved forms of the Sugoroku game.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="60">
+<j>なお、絵双六そのものは日本独自のものであるが、西洋にもバックギャモンの影響を受けたと見られる、鵞鳥のゲーム（Game of the Goose）と呼ばれる双六に近い趣旨のゲームが14世紀頃から行われている。</j>
+<e type="trans" ver="1">The picture Sugoroku itself is a particular Japanese game, however, the Western countries also have played like Sugoroku game such as &apos;the Game of the Goose&apos;, which was considered to have been influenced by Backgammon, since the 14th century.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The picture Sugoroku itself is a particular Japanese game, however, the Western countries also have played a game such as &apos;the Game of the Goose&apos;, which was considered to have been influenced by Backgammon, since the 14th century and was similar to Sugoroku.</e>
+<cmt>like Sugorokuの位置が不自然です。</cmt>
+<e type="check" ver="1">The picture Sugoroku itself is a particular Japanese game, however, the Western countries also have played a game such as &apos;the Game of the Goose&apos;, which was considered to have been influenced by Backgammon, since the 14th century and was similar to Sugoroku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="61">
+<j>20世紀に入ってこうしたゲームの影響を受けてモノポリーが発明される事となった。</j>
+<e type="trans" ver="1">From the 20th century, the Monopoly appeared influenced by these games.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">From the 20th century, the Monopoly appeared through the influence of these games.</e>
+<cmt>appeared influencedのつながりが、コロケーションとして不自然です。</cmt>
+<e type="check" ver="1">From the 20th century, the Monopoly appeared through the influence of these games.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>双六に近いボードゲーム</j>
+<e type="trans" ver="1">The borard games like the Sugoroku</e>
+<cmt></cmt>
+<e type="trans" ver="2">The borard games like the Sugoroku</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The borard games like the Sugoroku</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="62">
+<j>まわり将棋</j>
+<e type="trans" ver="1">Mawari Shogi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mawari Shogi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mawari Shogi</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="63">
+<j>モノポリー</j>
+<e type="trans" ver="1">Monopoly</e>
+<cmt></cmt>
+<e type="trans" ver="2">Monopoly</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Monopoly</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="64">
+<j>人生ゲーム</j>
+<e type="trans" ver="1">The game of Life</e>
+<cmt></cmt>
+<e type="trans" ver="2">The game of Life</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The game of Life</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="65">
+<j>コンピュータゲーム</j>
+<e type="trans" ver="1">Computer game</e>
+<cmt></cmt>
+<e type="trans" ver="2">Computer game</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Computer game</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="66">
+<j>桃太郎電鉄シリーズ</j>
+<e type="trans" ver="1">Momotaro (the peach boy) Dentetsu Series</e>
+<cmt></cmt>
+<e type="trans" ver="2">Momotaro (the peach boy) Dentetsu Series</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Momotaro (the peach boy) Dentetsu Series</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="67">
+<j>いただきストリート</j>
+<e type="trans" ver="1">Itadaki Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Itadaki Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Itadaki Street</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="68">
+<j>マリオパーティシリーズ</j>
+<e type="trans" ver="1">Mario Party Series</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mario Party Series</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mario Party Series</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="69">
+<j>ドカポンシリーズ</j>
+<e type="trans" ver="1">Dokapon Series</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dokapon Series</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Dokapon Series</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="70">
+<j>カルドセプトシリーズ</j>
+<e type="trans" ver="1">Culdcept Series</e>
+<cmt></cmt>
+<e type="trans" ver="2">Culdcept Series</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Culdcept Series</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="71">
+<j>タイピングダービーシリーズ</j>
+<e type="trans" ver="1">Typing Derby Series</e>
+<cmt></cmt>
+<e type="trans" ver="2">Typing Derby Series</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Typing Derby Series</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Mr.W(id:43831), 経済準学士(id:22656), 水野白楓(id:22811), Nate(id:165259), Lupinoid(id:68), Memosa(id:131221), Mintleaf(id:2216), Shidho(id:62), TokusiN(id:123035), Greenland4(id:114494), あるふぁるふぁ(id:209526), Gombe(id:27), Fryed-peach(id:63402), 竃馬(id:102733), Dr jimmy(id:111486), Ktr(id:30468), 秀の介(id:490), 663highland(id:18755), ないです(id:68294), 水平芳(id:203583), Yas(id:739), かける(id:58174), Qurren(id:20140), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

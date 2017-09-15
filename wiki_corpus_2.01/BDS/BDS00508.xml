@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>愚中周及</j>
+<e type="trans" ver="1">Guchu Shukyu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Guchu Shukyu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shukyu GUCHU</e>
+<cmt>愚中周及の表記を修正（例：一休宗純　Sojun IKKYU 「一休」は道号、「宗純」が諱で、道号の方を大文字としていることから）Guchu Shukyu → Shukyu GUCHU</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>愚中周及（ぐちゅうしゅうきゅう、元亨3年（1323年） - 応永16年8月25日 (旧暦)（1409年10月4日））は、南北朝時代 (日本)の臨済宗の僧。</j>
+<e type="trans" ver="1">Guchu Shukyu (1323 ~ October 4, 1409) is a priest of the Rinzai sect of the period of the Northern and Southern Courts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Guchu Shukyu (1323 - October 4, 1409) was a priest of the Rinzai sect during the Northern and Southern Courts period.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Shukyu GUCHU (1323 - October 4, 1409) was a priest of the Rinzai sect during the period of the Northern and Southern Courts (Japan).</e>
+<cmt>愚中周及の表記を修正Guchu Shukyu → Shukyu GUCHU南北朝時代the Northern and Southern Courts period→ the period of the Northern and Southern Courts (Japan)</cmt>
+</sen>
+<sen id="2">
+<j>美濃国の出身。</j>
+<e type="trans" ver="1">He was from Mino Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was from Mino Province.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was from Mino Province.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>愚中は道号。</j>
+<e type="trans" ver="1">Guchu is his dogo (a pseudonym as a priest).</e>
+<cmt></cmt>
+<e type="trans" ver="2">His dogo (a pseudonym as a priest) was Guchu.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">His dogo (a pseudonym as a priest) was Guchu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>周及は諱。</j>
+<e type="trans" ver="1">Shukyu is his imina (in this case, his real name).</e>
+<cmt></cmt>
+<e type="trans" ver="2">His imina (in this case, his real name) was Shukyu.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">His imina (priest&apos;s name) was Shukyu.</e>
+<cmt>「諱」この場合は「仏教徒としての名前」、すなわち法名に同じ。in this case, his real name → priest&apos;s name＜参考＞「道号」と「諱」について道号（諱とは別の名前として持っている号）＋諱（仏教徒としての名前）=僧侶の名前出典：http://www.town.washimiya.saitama.jp/kakuka/18shiryo/net_museum/mokuzangengou/mokuzan_syogai/mokuzan_syougai.htm</cmt>
+</sen>
+<sen id="5">
+<j>諡号は仏徳大通禅師。</j>
+<e type="trans" ver="1">His shigo (a posthumous name) is Buttoku Daitsu Zenji.</e>
+<cmt></cmt>
+<e type="trans" ver="2">His shigo (a posthumous name) was Buttoku Daitsu Zenji.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">His shigo (a posthumous name) was Buttoku Daitsu Zenji.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>愚中は7歳で寺に入り、13歳で京都臨川寺の夢窓疎石に師事して出家した。</j>
+<e type="trans" ver="1">Guchu entered a temple at the age of 7 and studied under Muso Soseki of Rinsen-ji Temple in Kyoto and became a priest at the age of 13.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Guchu entered a temple at seven years of age and studied under Muso Soseki of Rinsen-ji Temple in Kyoto and became a priest at the age of 13.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Guchu entered a temple at seven years of age and studied under Soseki MUSO of Rinsen-ji Temple in Kyoto and became a priest at the age of 13.</e>
+<cmt>夢窓疎石の表記を修正Muso Soseki → Soseki MUSO</cmt>
+</sen>
+<sen id="7">
+<j>その後比叡山において戒を受け、京都建仁寺を経て、1343年（康永2年）中国元に渡った。</j>
+<e type="trans" ver="1">After that, he received commandments at Mt.Hiei-zan, entered Kennin-ji Temple, Kyoto, and went to study in Yuan dynasty, China in 1343.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After that, he received commandments at Mt. Hiei-zan, entered Kennin-ji Temple in Kyoto and, in 1343, went to study in the Yuan dynasty of China.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">After that, he received commandments at Mt. Hiei, entered Kennin-ji Temple in Kyoto and, in 1343, went to study in the Yuan dynasty of China.</e>
+<cmt>比叡山 Mt. Hiei-zan → Mt. Hiei</cmt>
+</sen>
+<sen id="8">
+<j>1351年（観応2年）に帰国した後、京都南禅寺などを経て、1395年（応永2年）小早川春平の開基により、安芸国に佛通寺の開山となった。</j>
+<e type="trans" ver="1">After he returned to Japan in 1351, he entered Nanzen-ji Temple in Kyoto, and he did kaisan (founded a temple as a chief priest) of Buttsu-ji Temple by kaiki (founded with the patronage) of Haruhira KOBAYAKAWA in Aki Province in 1395.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After he returned to Japan in 1351, he entered Nanzen-ji Temple in Kyoto and, in 1395, performed the kaisan (founded a temple as a chief priest) of Buttsu-ji Temple by kaiki (founded with the patronage) of Haruhira KOBAYAKAWA in Aki Province.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After he returned to Japan in 1351, he entered Nanzen-ji Temple in Kyoto and, in 1395, performed the kaisan (founded a temple as a chief priest) of Buttsu-ji Temple by kaiki (founded with the patronage) of Haruhira KOBAYAKAWA in Aki Province.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 与左衛門(id:159462), 巴屋(id:128785), R28Bot(id:177951), 松茸(id:27535), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

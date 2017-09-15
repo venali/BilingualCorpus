@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>叡山電鉄鞍馬線</j>
+<e type="trans" ver="1">Kurama Line of Eizan Electric Railway Co.,Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kurama Line, Eizan Electric Railway Co.,Ltd.</e>
+<cmt>「of」削除、コンマ挿入</cmt>
+<e type="check" ver="1">Kurama Line, Eizan Electric Railway Co., Ltd.</e>
+<cmt>スペース挿入</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>鞍馬線（くらません）は、京都府京都市左京区の宝ヶ池駅から鞍馬駅までを結ぶ叡山電鉄の鉄道路線。</j>
+<e type="trans" ver="1">Kurama Line is a railway route of Eizan Electric Railway Co., Ltd. connecting from Takaragaike Station (Sakyo Ward, Kyoto City, Kyoto Prefecture) to Kurama Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kurama Line is a railway route owned by Eizan Electric Railway; it connects Takaragaike Station (Sakyo Ward, Kyoto City, Kyoto Prefecture) to Kurama Station.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The Kurama Line is a railway line operated by Eizan Electric Railway that connects Takaragaike Station (Sakyo Ward, Kyoto City, Kyoto Prefecture) to Kurama Station.</e>
+<cmt>北野線に合わせて修正</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>路線データ</j>
+<e type="trans" ver="1">Route data</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route data</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route data</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>路線距離（営業キロ）：8.8km</j>
+<e type="trans" ver="1">Route distance (working kilometer): 8.8km</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route distance (working kilometers): 8.8km</e>
+<cmt>「s」挿入</cmt>
+<e type="check" ver="1">Line distance (working kilometers): 8.8 km</e>
+<cmt>Route→Line単位の前にスペース挿入</cmt>
+</sen>
+<sen id="3">
+<j>軌間：1435mm</j>
+<e type="trans" ver="1">Track gauge:1435mm</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track gauge:1435mm</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Track gauge: 1435 mm</e>
+<cmt>：→:単位の前にスペース挿入</cmt>
+</sen>
+<sen id="4">
+<j>駅数：10駅（起終点駅含む）</j>
+<e type="trans" ver="1">Number of stations: 10 stations (including the origin station and the destination station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Number of stations: 10 stations (including the station of origin and the destination station)</e>
+<cmt>「origin station」→「station of origin」</cmt>
+<e type="check" ver="1">Number of stations: 10 (including the station of origin and the destination station)</e>
+<cmt>&quot;10 stations&quot;→&quot;10&quot;に変更しました。</cmt>
+</sen>
+<sen id="5">
+<j>複線区間：宝ヶ池～二軒茶屋間</j>
+<e type="trans" ver="1">The double-track regions: between Takaragaike Station and Nikenchaya Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Double-tracked section: between Takaragaike Station and Nikenchaya Station</e>
+<cmt>「The double-track regions」→「Double-tracked section」</cmt>
+<e type="check" ver="1">Double-tracked section: between Takaragaike Station and Nikenchaya Station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>電化区間：全線電化（直流600V）</j>
+<e type="trans" ver="1">The electrification region: the whole line is electrified. (direct current 600V)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Electrified section: entire route (DC 600V)</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">Electrified section: the entire rail line (direct current 600V)</e>
+<cmt>DC→direct current　他の記事と統一&quot;entire route&quot;→&quot;the entire rail line&quot;に変更しました。</cmt>
+</sen>
+<sen id="7">
+<j>閉塞 (鉄道)：自動閉塞式</j>
+<e type="trans" ver="1">Block (railway): Automatic block system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Block (railway): Automatic block system</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Block (railway): Automatic block system</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>保安装置：自動列車停止装置（速度照査機能付）</j>
+<e type="trans" ver="1">Safety device: Automatic Train Stop System (with speed check function)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Safety device: Automatic Train Stop System (with speed check function)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Safety device: Automatic Train Stop System (with speed check function)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Outline</e>
+<cmt></cmt>
+<e type="trans" ver="2">Outline</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>Outline→Summary</cmt>
+</tit>
+<par id="1">
+<sen id="9">
+<j>京都市中心部から市原駅付近までの生活路線および、鞍馬寺や貴船神社への参詣・行楽路線である。</j>
+<e type="trans" ver="1">It is a route essential for daily life from central part of Kyoto City to the vicinity of Miyake-hachiman Station, as well as an excursion route to Mountain Hiei and Yase-Hieizanguchi Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This route is used in everyday life from the central part of Kyoto City to the Miyake-hachiman Station neighborhood; it is also used as a route for religious pilgrimages and pleasure excursions to Mt. Hiei and Yase-Hieizanguchi Station.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">This route is used in everyday life from the central part of Kyoto City to the Ichihara Station neighborhood; it is also used as a route for religious pilgrimages and pleasure excursions to Kurama-dera Temple and Kifune-jinja Shrine.</e>
+<cmt>Miyake-hachiman→IchiharaMt. Hiei→Kurama-dera TempleYase-Hieizanguchi Station→Kifune-jinja Shrine</cmt>
+</sen>
+<sen id="10">
+<j>市原駅付近までは山裾を走るものの沿線に住宅地が広がり都市近郊路線の趣きがあるが、同駅以北は50パーミルの勾配がある山岳路線となる。</j>
+<e type="trans" ver="1">Up to the vicinity of Ichihara Station, residential quarters extend along beside the railway-tracks as the train runs in the mountain skirts. One can enjoy the city outskirts route. To the north of the same station, it becomes a mountain route with an inclination of 50 per mil.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Up to the vicinity of Ichihara Station, although the route runs through the foothills of the mountain, residential districts line the railway, giving it the flavor of a city outskirts route; north of the station, the route becomes a mountain one, with an inclination of 50 per mil.</e>
+<cmt>再構成して、一文にしました。</cmt>
+<e type="check" ver="1">Up to the vicinity of Ichihara Station, although the route runs through the foothills of the mountain, residential districts line the railway, giving it the flavor of a city outskirts route; north of the station, the route becomes a mountain one, with an inclination of 50 per mil.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>秋の紅葉の時期に市原駅～二ノ瀬駅間で見ることができる『もみじのトンネル』は鉄道ファンのみならずとも有名で、貴船もみじ灯篭が行われる期間中はライトアップも行われる。</j>
+<e type="trans" ver="1">During the season of tinted autumnal leaves, the &quot;Tunnel of scarlet maple leaves&quot;, which can be seen between Ichihara Station and Ninose Station, is famous among railway fans. The tunnel is lighted up is also lighted up during the period when Kibune-jinja Shrine is decorated with lanterns of tinted autumnal leaves.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In autumn, when the leaves change color, the &apos;Tunnel of scarlet maple leaves&apos; between Ichihara Station and Ninose Station is famous among railway fans and beyond; throughout the period when Kibune-jinja Shrine is decorated with lanterns of colorful fall leaves, the tunnel is illuminated as well.</e>
+<cmt>再構成して、一文にしました。</cmt>
+<e type="check" ver="1">In autumn, when the leaves change color, the &quot;Tunnel of scarlet maple leaves&quot; between Ichihara Station and Ninose Station is famous among railway fans and beyond; throughout the period when Kifune-jinja Shrine is decorated with lanterns of colorful fall leaves, the tunnel is illuminated as well.</e>
+<cmt>原文の『』に合わせ&apos;を&quot;にKibune-jinja→Kiｆune-jinja</cmt>
+</sen>
+<sen id="12">
+<j>この期間中、夜間（17時から21時頃）にこの区間を走行する際には、車内灯が消され徐行し車窓を楽しむことができる。</j>
+<e type="trans" ver="1">At night during this period from 17:00pm to about 21:00, when a train is passing through this region, the light inside the carriages is off and the train goes slowly so that passengers can enjoy the scenery outside the windows.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When a train passes through the area during this period between the hours of 5:00 and 9:00 PM, the lights inside the cars are turned off and the train moves slowly so that passengers can enjoy the scenery through the windows.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">When a train passes through the area during this period between the hours of 5:00 and 9:00 PM, the lights inside the cars are turned off and the train moves slowly so that passengers can enjoy the scenery through the windows.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="13">
+<j>周辺道路が非常に狭く、秋の観光シーズンには並行して走る道路が大渋滞となるため、、車内は大都市圏の通勤ラッシュ並みの混雑となる。</j>
+<e type="trans" ver="1">The road adjacent to the rail is very narrow. During the sightseeing season in autumn, since the road that runs concurrently becomes largely congested, the train also becomes crowded as if it is in the metropolitan area during the rush hours.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The neighboring roads are extremely narrow, and, since the road which parallels the route becomes very congested during the autumn sightseeing season, the train gets as crowded as a metropolitan train during rush hour.</e>
+<cmt>再構成して、一文にしました。</cmt>
+<e type="check" ver="1">The neighboring roads are extremely narrow, and, since the road which parallels the route becomes very congested during the autumn sightseeing season, the train gets as crowded as a metropolitan train during rush hour.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>また、鞍馬の火祭開催時は鞍馬周辺の道路が通行止めとなるため、事実上唯一の交通手段となる。</j>
+<e type="trans" ver="1">During Kurama&apos; Fire Festival, since the road traffic around Kurama become suspended, the train becomes the only transportation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, road traffic around Kurama is suspended during the Kurama Fire Festival, so the train is the only transportation available during this time.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">In addition, road traffic around Kurama is suspended during the Kurama Fire Festival, so the train is the only transportation available during this time.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>運行形態</j>
+<e type="trans" ver="1">Operation system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operating pattern</e>
+<cmt>「Operation system」→「Operating pattern」</cmt>
+<e type="check" ver="1">Operating pattern</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="15">
+<j>平日ダイヤと土休日ダイヤの2つを基本としている。</j>
+<e type="trans" ver="1">Basically, there are 2 train schedules: the &quot;weekday schedule&quot;, and the &quot;weekend or holiday schedule&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are two basic train schedules: one for weekdays, and one for weekends and holidays.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">There are two basic train schedules: one for weekdays, and one for weekends and holidays.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="16">
+<j>全ての列車が叡山電鉄叡山本線から直通する。</j>
+<e type="trans" ver="1">All trains go directly from Eizan Main Line of Eizan Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All trains travel directly from Eizan Railway&apos;s Eizan Main Line.</e>
+<cmt>「go directly」→「travel directly」、「Eizan Main Line of Eizan Railway」→「Eizan Railway&apos;s Eizan Main Line」。「直通」というと、電車が「行く」か「来る」かは分かりませんので、方向不明な動詞にしました。</cmt>
+<e type="check" ver="1">All trains travel directly from Eizan Railway&apos;s Eizan Main Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>概ね、平日昼間時間帯は出町柳駅～鞍馬駅間、出町柳～二軒茶屋駅間の列車が各々20分間隔、土休日昼間時間帯は全列車が出町柳～鞍馬間で15分間隔である。</j>
+<e type="trans" ver="1">Roughly speaking, during the daytime of a weekday, between Demachiyanagi Station and Kurama Station, between Demachiyanagi Station and Nikenchaya Station, trains come every 20 minutes. During the daytime of a weekend or a holiday, trains come every 15 minutes between Demachiyanagi Station and Kurama Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Generally speaking, trains run between Demachiyanagi Station and Kurama Station, and between Demachiyanagi Station and Nikenchaya Station, at 20-minute intervals on weekdays; on weekends and holidays, trains travel between Demachiyanagi Station and Kurama Station at 15-minute intervals.</e>
+<cmt>再構成して、一文にしました。</cmt>
+<e type="check" ver="1">Generally speaking, trains run between Demachiyanagi Station and Kurama Station, and between Demachiyanagi Station and Nikenchaya Station, at 20-minute intervals during the daytime on weekdays; during the daytime on weekends and holidays, trains travel between Demachiyanagi Station and Kurama Station at 15-minute intervals.</e>
+<cmt>during the daytime2箇所補足</cmt>
+</sen>
+<sen id="18">
+<j>朝と夕方以降には市原駅で折り返す列車があるほか、車庫のある修学院駅発着となる列車もある。</j>
+<e type="trans" ver="1">While there are shuttle trains in Ichihara Station in the morning or after the evening, there are also trains arriving or departing from Shunning Station, which has a garage.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the mornings and late evenings, in addition to shuttle trains from Ichihara Station, there are also trains arriving at and departing from Shugakuin Station, which has a garage.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">In the mornings and late evenings, in addition to shuttle trains from Ichihara Station, there are also trains arriving at and departing from Shugakuin Station, which has a garage.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="19">
+<j>お盆や年末等は平日でも土休日ダイヤで運行されることがあるほか、観光シーズンには特別休日ダイヤが組まれることがあり、出町柳～鞍馬間の列車が12分間隔で運転される。</j>
+<e type="trans" ver="1">During the Bon Festival or end of year etc. even on a weekday, the trains may be running on a &quot;weekend or holiday schedule&quot;. And during a sightseeing season, there will be special holiday schedule with trains arriving every 12 minutes between Demachiyanagi Station and Kurama Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the Bon Festival or around New Year&apos;s, the trains may run on the weekend/holiday schedule even on weekdays, and during the sightseeing seasons, there is a special holiday schedule, with trains traveling between Demachiyanagi Station and Kurama Station at 12-minute intervals.</e>
+<cmt>再構成して、一文にしました。</cmt>
+<e type="check" ver="1">During the Bon Festival or around New Year&apos;s, the trains may run on the weekend/holiday schedule even on weekdays, and during the sightseeing seasons, there is a special holiday schedule, with trains traveling between Demachiyanagi Station and Kurama Station at 12-minute intervals.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="20">
+<j>2004年からは原則として全ての列車がワンマン運転を行っているが、多客時は茶山駅 (京都府)から二ノ瀬駅あるいは市原駅までの区間で車掌が乗務することがある。</j>
+<e type="trans" ver="1">From 2004, as a rule, all trains are one-man driving. However, when there are many passengers, a conductor occasionally works on the train in the region from Chayama Station (Kyoto Prefecture) to Ninose Station or Ichihara Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It has been normal for trains to operated by a single crew member, with no conductors on board, since 2004; however, when there are many passengers, a conductor will occasionally work on the train in the section between Chayama Station (Kyoto Prefecture) and Ninose Station or Ichihara Station.</e>
+<cmt>再構成して、一文にしました。</cmt>
+<e type="check" ver="1">It has been normal for trains to be operated by a single crew member, with no conductors on board, since 2004; however, when there are many passengers, a conductor will occasionally work on the train in the section between Chayama Station (Kyoto Prefecture) and Ninose Station or Ichihara Station.</e>
+<cmt>be補足</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="21">
+<j>平日昼間の出町柳発は、鞍馬線鞍馬行および二軒茶屋行が毎時各3本運転に対し、叡山本線八瀬比叡山口駅行は毎時3本で、同社本来の本線である八瀬比叡山口までよりも、二軒茶屋までの本数のほうが多くなっている。</j>
+<e type="trans" ver="1">During the daytime of a weekday, there are 3 trains per hour from Demachiyanagi Station departing for Kurama along Kurama Line and for Nikenchaya Station. Also, there are 3 trains per hour departing for Yase-Hieizanguchi Station along Eizan Main Line. It becomes that there are more trains going as far as Nikenchaya Station than those going to Yase-Hieizanguchi Station along the Main Line of the same railway company.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the daytime on weekdays, 3 trains per hour depart from Demachiyanagi Station for Kurama and for Nikenchaya on the Kurama Line, and 3 more trains depart for Yase-Hieizanguchi Station on the Eizan Main Line; more trains go to Nikenchaya than to Yase-Hieizanguchi, even though the latter is the railway company&apos;s main line.</e>
+<cmt>再構成して、一文にしました。</cmt>
+<e type="check" ver="1">During the daytime on weekdays, 3 trains per hour depart from Demachiyanagi Station for Kurama and for Nikenchaya on the Kurama Line, and 3 more trains depart for Yase-Hieizanguchi Station on the Eizan Main Line; more trains go to Nikenchaya than to Yase-Hieizanguchi, even though the latter is the railway company&apos;s main line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="22">
+<j>1928年（昭和3年）12月1日 鞍馬電気鉄道により山端（現在の宝ヶ池）～市原間が開業。</j>
+<e type="trans" ver="1">On December 1, 1928, Kurama Electric Railway started running trains between Yamahata Station (present Takaragaike Station) and Ichihara Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 1, 1928, Kurama Electric Railway started running trains between Yamahata Station (present Takaragaike Station) and Ichihara Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">December 1, 1928: Kurama Electric Railway started running trains between Yamahata Station (present Takaragaike Station) and Ichihara Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="23">
+<j>1929年（昭和4年）10月20日 市原～鞍馬仮間が開業。</j>
+<e type="trans" ver="1">On October 20, 1929, trains started running between Ichihara Station and Kurama Temporary Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 20, 1929, trains started running between Ichihara Station and Kurama Temporary Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">October 20, 1929: Trains started running between Ichihara Station and Kurama Temporary Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="24">
+<j>1929年（昭和4年）12月20日 鞍馬仮～鞍馬間が開業し全通。</j>
+<e type="trans" ver="1">On December 20, 1929, trains started running in full operation between Kurama Temporary Station and Kurama Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 20, 1929, full service began between Kurama Temporary Station and Kurama Station.</e>
+<cmt>「trains started running in full operation」→「full service began」</cmt>
+<e type="check" ver="1">December 20, 1929: Full service began between Kurama Temporary Station and Kurama Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="25">
+<j>鞍馬仮駅廃止。</j>
+<e type="trans" ver="1">Kurama Temporary Station was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kurama Temporary Station was closed.</e>
+<cmt>「abolished」→「closed」</cmt>
+<e type="check" ver="1">Kurama Temporary Station was closed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>京都電燈叡山電鉄線（現・叡山電鉄叡山本線）に山端駅から乗り入れ、同線の出町柳駅まで直通運転を開始。</j>
+<e type="trans" ver="1">Entering from Yamahata Station into Eizan Electric Railway Line (present Eizan Main Line Eizan Electric Railway Co. Ltd.) of Kyoto Dento, direct trains started running as far as Demachiyanagi Station in the same line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Direct trains began running as far as Demachiyanagi Station on the Kyoto Dento Eizan Electric Railway Line (present Eizan Main Line, Eizan Electric Railway), entering from Yamahata Station.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">Direct trains began running as far as Demachiyanagi Station on the Kyoto Dento Eizan Electric Railway Line (present Eizan Main Line, Eizan Electric Railway), entering from Yamahata Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="27">
+<j>1939年（昭和14年）9月 二軒茶屋～市原間が単線化（不要不急線指定に基づくものではない）。</j>
+<e type="trans" ver="1">In September, 1939, the region between Nikenchaya and Ichihara was made single tracked. (It is not based on the criteria for nonessential lines.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">In September 1939, the section between Nikenchaya and Ichihara was reduced to a single track (although not because of the criteria for nonessential lines).</e>
+<cmt>コンマ挿入、「region」→「section」、「made single tracked」→「reduced to a single track」再構成して、一文に戻した。</cmt>
+<e type="check" ver="1">September 1939: The section between Nikenchaya and Ichihara was reduced to a single track (although not because of the criteria for nonessential lines).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="28">
+<j>1942年（昭和17年）8月1日 京福電気鉄道（同年3月に京都電燈の鉄軌道部門を分離して設立）に合併。</j>
+<e type="trans" ver="1">On August 1, 1942, it merged with Keifuku Electric Railroad Co., Ltd. (established in March of the same year by spinning off of the iron rail section from Kyoto Dento Company and itself.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">On August 1, 1942, the route was merged with Keifuku Electric Railroad (Kyoto Dentou&apos;s former iron rail division, which had split from the company and established itself in March of that year).</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">August 1, 1942: The route was merged with Keifuku Electric Railroad (Kyoto Dento&apos;s former iron rail division, which had split from the company and established itself in March of that year).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="29">
+<j>鞍馬線となる。</j>
+<e type="trans" ver="1">Kurama Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">This became the Kurama Line.</e>
+<cmt>「This became the」挿入</cmt>
+<e type="check" ver="1">This became the Kurama Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="30">
+<j>1944年（昭和19年）11月10日 山端～二軒茶屋間が単線化され資材供出。</j>
+<e type="trans" ver="1">On November 10, 1944, the region between Yamahata and Nikenchaya was made single-tracked and materials are delivered out.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 10, 1944, the section between Yamahata and Nikenchaya was reduced to a single track and its materials requisitioned.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">November 10, 1944: The section between Yamahata and Nikenchaya was reduced to a single track and its materials requisitioned.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="31">
+<j>1954年（昭和29年）6月10日 山端駅を宝ヶ池駅に改称。</j>
+<e type="trans" ver="1">On June 10, 1954, Yamahata Station was renamed as Takaragaike Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On June 10, 1954, Yamahata Station was renamed Takaragaike Station.</e>
+<cmt>「as」削除</cmt>
+<e type="check" ver="1">June 10, 1954: Yamahata Station was renamed Takaragaike Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="32">
+<j>1958年（昭和33年）4月9日 宝ヶ池～岩倉間が再複線化。</j>
+<e type="trans" ver="1">On April 9, 1958, the region between Takaragaike and Iwakura was made double-tracked again.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 9, 1958, double tracking was restored to the section between Takaragaike and Iwakura.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">April 9, 1958: Double tracking was restored to the section between Takaragaike and Iwakura.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="33">
+<j>1978年（昭和53年）10月19日 日本国内最後の集電装置架空電車線方式集電方式が廃止され集電装置架空電車線方式集電方式に変更。</j>
+<e type="trans" ver="1">On October 19, 1978, the last Japanese overhead line system for electric trains was abolished and switched to power collector system.</e>
+<cmt>原文では廃止されたものと変更になったものに同じものが当てられていましたのでこのように解釈して翻訳しました。</cmt>
+<e type="trans" ver="2">On October 19, 1978, the last Japanese overhead line system for electric trains was abolished and converted to a power collector system.</e>
+<cmt>「switched」→「converted」、「a」挿入</cmt>
+<e type="check" ver="1">October 19, 1978: The last Japanese overhead line system for electric trains was abolished and converted to a power collector system.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="34">
+<j>1986年（昭和61年）4月1日 叡山電鉄に分離譲渡。</j>
+<e type="trans" ver="1">On April 1, 1986, it was separated and transferred to Eizan Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1986, the route was separated and transferred to Eizan Electric Railway.</e>
+<cmt>「it」→「the route」、主語不明でした。</cmt>
+<e type="check" ver="1">April 1, 1986: The route was separated and transferred to Eizan Electric Railway.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="35">
+<j>1988年（昭和63年）12月25日 ワンマン運転開始。</j>
+<e type="trans" ver="1">On December 25, 1988, one-man driving started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operation by a single crew member, with no conductors on board, began on December 25, 1988.</e>
+<cmt>再構成しました。「One-man driving」説明必要。</cmt>
+<e type="check" ver="1">Operation by a single crew member, with no conductors on board, began on December 25, 1988.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="36">
+<j>当初は（岩倉）二軒茶屋折り返し運行に、後に鞍馬まで早朝・夜間を中心に運行され、単行の叡山電鉄デオ700系電車が使用された。</j>
+<e type="trans" ver="1">At first, trains were returned to (Iwakura) NIkenshaya Station. Then, they were run mainly during early morning and nighttime as far as Kurama. The train model Eizan Electric Railway Series Deo 700 was used single tracked.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the beginning, the light-model Eizan Electric Railway Series Deo 700 was used; it was first run as a shuttle to and from (Iwakura) Nikenchaya, then run to Kurama, mainly in the early mornings and during the night.</e>
+<cmt>再構成して、一文にしました。</cmt>
+<e type="check" ver="1">In the beginning, the light-model Eizan Electric Railway Series Deo 700 was used; it was first run as a shuttle to and from (Iwakura) Nikenchaya, then run to Kurama, mainly in the early mornings and during the night.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="37">
+<j>1989年（平成元年）9月21日 京都精華大前駅開業。</j>
+<e type="trans" ver="1">On September 21, 1989, Kyoto-Seikadai-mae Station opened for operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 21, 1989, Kyoto-Seikadai-mae Station opened.</e>
+<cmt>「for operation」削除</cmt>
+<e type="check" ver="1">September 21, 1989: Kyoto-Seikadai-mae Station opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="38">
+<j>同時に10月5日の京阪電気鉄道京阪鴨東線開業を見越したダイヤ改正。</j>
+<e type="trans" ver="1">At the same time, expecting the opening of Keihan Oto Line (Keihan Electric Railway) of October 5, the train schedule was revised.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the same time, in anticipation of the October 5 opening of the Keihan Oto Line (Keihan Electric Railway), the train schedule was revised.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">At the same time, in anticipation of the October 5 opening of the Keihan Oto Line (Keihan Electric Railway), the train schedule was revised.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>平日日中の岩倉折り返しの二軒茶屋延長、ならびに休日多客時鞍馬延長を休日オンシーズンダイヤとして定期設定。</j>
+<e type="trans" ver="1">During daytime of a weekday, the shuttle train service for Iwakura was extended at Nikenchaya Station. And, the Kurama extension during a holiday with many passengers was set regularly as a &quot;holiday on season train schedule&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The weekday daytime shuttle service was extended to Nikenchaya, and, in addition, the Kurama extension for days with many passengers was fixed as a holiday &apos;on-season&apos; train schedule.</e>
+<cmt>再構成して、一文にしました。</cmt>
+<e type="check" ver="1">The weekday daytime shuttle service for Iwakura was extended to Nikenchaya, and, in addition, the Kurama extension for days with many passengers was fixed as a holiday &apos;on-season&apos; train schedule.</e>
+<cmt>for Iwakura補足</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="40">
+<j>1990年（平成2年）9月28日 岩倉～二軒茶屋間が再複線化。</j>
+<e type="trans" ver="1">On September 28, 1990, the region between Iwakuraand and Nikenchaya was made double-tracked again.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 28, 1990, double tracking was restored to the section between Iwakura and and Nikenchaya.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">September 28, 1990: Double tracking was restored to the section between Iwakura and Nikenchaya.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="41">
+<j>岩倉折り返し運行を全面的に二軒茶屋折り返し運行に。</j>
+<e type="trans" ver="1">The shuttle train running at Iwakura Station was completely switched to shuttle train running at Nikenchaya Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The shuttle train service centered on Iwakura Station was switched completely to a shuttle service centered on Nikenchaya Station.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The shuttle train service centered on Iwakura Station was switched completely to a shuttle service centered on Nikenchaya Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="42">
+<j>1994年（平成6年）3月23日 ダイヤ改正による大増発実施。</j>
+<e type="trans" ver="1">On March 23, 1994, much more trains were added in the train schedule revision.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many more trains were added in the March 23, 1994 train schedule revision.</e>
+<cmt>「Much」→「Many」、再構成しました。</cmt>
+<e type="check" ver="1">March 23, 1994: Many more trains were added in the train schedule revision.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="43">
+<j>1960年代から続いていた通常時鞍馬行・（岩倉）二軒茶屋行各々30分毎、多客時（オンシーズン）鞍馬行15分毎から、平日各々20分毎、休日はすべて鞍馬行で15分毎を基本としたものに変更。</j>
+<e type="trans" ver="1">Continued from the 1960s, trains departing for Kurama (Iwakura) and trains departing for Nikenchaya had been run respectively every 30 minutes in the regular schedule and every 15 minutes during on-season with many passengers. However, after the revision, basically trains departing for Kurama was run every 20 minutes in the regular schedule and every 15 minutes during a holiday.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ever since the 1960s, trains departing for Kurama (Iwakura) and trains departing for Nikenchaya had been run every 30 minutes in the regular schedule and every 15 minutes during the crowded &quot;on-seasons&quot;; after the revision, however, as a rule, trains departed for Kurama every 20 minutes in the regular schedule, and every 15 minutes during holidays.</e>
+<cmt>再構成して、一文にしました。</cmt>
+<e type="check" ver="1">Ever since the 1960s, trains departing for Kurama (Iwakura) and trains departing for Nikenchaya had been run every 30 minutes in the regular schedule and for Kurama every 15 minutes during the crowded &quot;on-seasons&quot;; after the revision, however, as a rule, trains departed for Kurama and for Nikenchaya every 20 minutes in the regular schedule, and for Kurama every 15 minutes during holidays.</e>
+<cmt>”を&quot;にfor Kurama2箇所補足for Nikenchaya補足</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="44">
+<j>2004年（平成16年）1月13日 原則として全列車ワンマン運転に。</j>
+<e type="trans" ver="1">On January 13, 2004, as a rule, all trains were switched to one-man driving.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It became normal procedure for all trains to be operated by a single crew member, with no conductors on board, on January 13, 2004.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">January 13, 2004: It became normal procedure for all trains to be operated by a single crew member, with no conductors on board.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="45">
+<j>2両編成でもワンマン運転されるようになったため、鞍馬行きは原則終日2両編成に戻った。</j>
+<e type="trans" ver="1">Since it was one-man driven even for trains with 2 carriages, trains departing for Kurama, as a rule, was throughout the day two-carriage, like before.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As this was true even for trains with 2 cars, trains bound for Kurama returned to their former length of 2 cars throughout the day.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">As this was true even for trains with 2 cars, trains bound for Kurama returned to their former length of 2 cars throughout the day.</e>
+<cmt>スペース削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>駅一覧</j>
+<e type="trans" ver="1">List of stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">List of stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">List of stations</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="6">
+<tit>
+<j>もみじのトンネル</j>
+<e type="trans" ver="1">&quot;Tunnel of scarlet maple leaves&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Tunnel of scarlet maple leaves&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tunnel of scarlet maple leaves</e>
+<cmt>原文に『』のない&quot;　&quot;を削除</cmt>
+</tit>
+<par id="1">
+<sen id="46">
+<j>画像は全て、市原～二ノ瀬間で撮影。</j>
+<e type="trans" ver="1">All photos were taken between Ichihara and Ninose.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All photos were taken between Ichihara and Ninose.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">All photographs were taken between Ichihara and Ninose.</e>
+<cmt>photos→photographs</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), Hideyuki(id:9577), Si-take.(id:91094), V-TWIN POWER(id:49244), Bergmann(id:85282), Lupinoid(id:68), Kansai explorer(id:48975), Utsuda(id:605), Mop(id:12061), Rusk(id:9895), Sunen(id:10700), Nkensei(id:26989), Goki(id:7107), Tp2415(id:84801), Y3006(id:155535), Hidama(id:73276), Unamu(id:14627), 210.(id:9838), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

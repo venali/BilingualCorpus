@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>貫高制</j>
+<e type="trans" ver="1">Kandaka sei</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kandaka Sei (system of measuring the amount of rice production based on land size)</e>
+<cmt>Added meaning</cmt>
+<e type="check" ver="1">Kandaka Sei (system of measuring the amount of rice production based on land size)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>貫高制（かんだかせい）とは、土地の収穫高を通貨単位である貫を用いて表わした土地制度・税制・軍制のこと。</j>
+<e type="trans" ver="1">Kandaka sei refers to the land system, tax system and military system which used the currency unit &quot;kan&quot; to calculate the yield of rice in regard to a given piece of land.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Japanese term &quot;Kandaka sei&quot; refers to the land system, tax system, and military system which used the currency unit &quot;kan&quot; to calculate the yield of rice for a given piece of land.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">The Japanese term &quot;Kandaka sei&quot; refers to the land system, tax system, and military system which used the currency unit &quot;kan&quot; to calculate the yield of rice for a given piece of land.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>主に戦国時代_(日本)の戦国大名の領国において普及する。</j>
+<e type="trans" ver="1">It became widespread in the territories of Sengoku daimyo (the Warring loads) during the Sengoku Period (Period of Warring States) in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was widely used in the territories of the daimyo (Japanese territorial lords) during the Sengoku period (Period of Warring States) in Japan.</e>
+<cmt>I realize that the 用語集 gives &quot;Sengoku daimyo (Japanese territorial lord in the Sengoku period)&quot; for 戦国大名 but the period of Japanese history these daimyo lived in is already identified.</cmt>
+<e type="check" ver="1">It was widely used in Sengoku daimyo (Japanese territorial lord in the Sengoku period) during the Sengoku Period (Period of Warring States) in Japan.</e>
+<cmt>統一リストに合わせました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>鎌倉時代・室町時代には、田地の面積は、その田で収穫することのできる平均の米の量を通貨に換算し「貫」を単位として表された。</j>
+<e type="trans" ver="1">During the Kamakura and Muromachi periods, the dimension of rice fields was represented by the unit of &quot;kan,&quot; which was converted from the average amount of yields of rice from the rice field.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the Kamakura and Muromachi periods, the dimensions of rice fields were represented in units of &quot;kan,&quot; which were converted from the average rice yield from the rice field.</e>
+<cmt>verb tense</cmt>
+<e type="check" ver="1">During the Kamakura and Muromachi periods, the dimensions of rice fields were represented in units of &apos;kan,&apos; which were converted from the average rice yield from the rice field.</e>
+<cmt>クォーテーションを変えました。</cmt>
+</sen>
+<sen id="4">
+<j>これを貫高（かんだか）といい、それを税収の基準にする土地制度を貫高制と呼ぶ。</j>
+<e type="trans" ver="1">This was called Kandaka, and the land system which uses Kandaka as a scale for tax revenue is referred to as Kandaka sei.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was called Kandaka, and the land system that used Kandaka as a scale for tax revenue is referred to as Kandaka sei.</e>
+<cmt>verb tense</cmt>
+<e type="check" ver="1">This was called Kandaka, and the land system that used Kandaka as a scale for tax revenue is referred to as Kandaka sei.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>同じ貫数でも土地の条件などによって実際の面積は異なることになる。</j>
+<e type="trans" ver="1">It meant that same amount of kan could represent lands with different square meters, as it depended on different conditions of each land.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It meant that the same amount of kan could represent lands with different numbers of square meters, as it depended on the different conditions of pieces of land.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">It meant that the same amount of kan could represent lands with different numbers of square meters, as it depended on the different conditions of pieces of land.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>これは、米で納めるべき年貢を銭で代納する「分銭」に由来した。</j>
+<e type="trans" ver="1">The system was originated from &quot;bunsen,&quot;which was a system to pay nengu (land tax) by coins instead of rice.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">The system originated from &quot;bunsen,&quot; which was a system of paying nengu (land tax) by coins instead of rice.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The system originated from &apos;bunsen,&apos; which was a system of paying nengu (land tax) by coins instead of rice.</e>
+<cmt>クォーテーションを変えました。</cmt>
+</sen>
+<sen id="7">
+<j>武家の知行高も貫で表し、貫高に基づいて負担する軍役を定めた。</j>
+<e type="trans" ver="1">Chigyo daka (a stipend in terms of rice production of the fief) of samurai households was also represented by kan, as their military duties to be bore were decided on the basis of their kandaka.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Chigyo daka (a stipend in terms of rice production of the fief) of samurai households was also represented by kan, as their military duties to be borne were decided on the basis of their kandaka.</e>
+<cmt>word choice</cmt>
+<e type="check" ver="1">Chigyo daka (a stipend in terms of rice production of the fief) of samurai households was also represented by kan, as their military duties to be borne were decided on the basis of their Kandaka.</e>
+<cmt>半角文字にしました。</cmt>
+</sen>
+<sen id="8">
+<j>これに対して領主側も用途に応じた標準貫高を定めて把握に努めた。</j>
+<e type="trans" ver="1">In order to accommodate such a system, the feudal lords themselves endeavored to keep good control by setting standard kandaka in accordance of their purpose.</e>
+<cmt>何に対する「把握」なのか、原文の意味が曖昧です。</cmt>
+<e type="trans" ver="2">In order to accommodate such a system, the feudal lords themselves endeavored to keep good control by setting standard kandaka in accordance with their purpose.</e>
+<cmt>preposition</cmt>
+<e type="check" ver="1">In order to accommodate such a system, the feudal lords themselves endeavored to keep good control by setting standard kandaka in accordance with their purpose.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>特に戦国時代においては、自給自足体制の崩壊とともに支配階層の貨幣に対する需要が高まった事から普及する。</j>
+<e type="trans" ver="1">Especially during the Sengoku period, the system of kandaka became more widespread since the demand for money increased as a result of the collapse of the self-sufficient structure of society.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Especially during the Sengoku period, the system of kandaka became more widespread, since the demand for money increased as a result of the collapse of the self-sufficient structure of society.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Especially during the Sengoku period, the system of kandaka became more widespread, since the demand for money increased as a result of the collapse of the self-sufficient structure of society.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>終焉</j>
+<e type="trans" ver="1">The demise of kandaka sei</e>
+<cmt></cmt>
+<e type="trans" ver="2">The demise of kandaka sei</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The demise of kandaka sei</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="10">
+<j>しかし当時の日本は貨幣を自給できなかったことや鐚銭の問題もあり、貫高制の普及にともない、それを維持するに十分な貨幣流通量を確保できなくなった。</j>
+<e type="trans" ver="1">However, since Japan at that time did not possess the capacity to self-supply the amount of money required, and also because it was facing the problem of bitasen (extremely low-quality coins), maintaining the sufficient money supply became no longer possible as kandaka sei became more and more widespread.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, since Japan at that time did not possess the capacity to self-supply the amount of money required, and also because it was facing the problem of bitasen (extremely low-quality coins), maintaining the sufficient money supply became impossible as kandaka sei became more and more widespread.</e>
+<cmt>word choice</cmt>
+<e type="check" ver="1">However, since Japan at that time did not possess the capacity to self-supply the amount of money required, and also because it was facing the problem of bitasen (extremely low-quality coins), maintaining the sufficient money supply became impossible as kandaka sei became more and more widespread.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>戦国時代後期には銀生産量の増加や西国流通経済の活性化などから、銭に代わって銀や米が価値の基本となりつつあった。</j>
+<e type="trans" ver="1">As the amount of production of silver increased, and the commodity market in Saigoku (the Western Province) was becoming more and more active during the Sengoku period, silver and rice, instead of coins, became a common basis for value.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">As the amount of production of silver increased, and the commodity market in Saigoku (the Western Province) was becoming more and more active during the Sengoku period, silver and rice, instead of coins, became a common basis for value.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As the amount of production of silver increased, and the commodity market in Saigoku (the Western Province) was becoming more and more active during the Sengoku period, silver and rice, instead of coins, became a common basis for value.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>そのために貫高制は経済的に混乱し、やむなく米などによる代納も行われていた。</j>
+<e type="trans" ver="1">As a result, kandaka sei became disorganized economically, and there were cases in which the payments of tax by rice, instead of coins, were being accepted under unavoidable circumstances.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">As a result, kandaka sei became disorganized economically, and there were cases in which the payment of tax by rice, instead of by coins, was accepted under unavoidable circumstances.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">As a result, kandaka sei became disorganized economically, and there were cases in which the payment of tax by rice, instead of by coins, was accepted under unavoidable circumstances.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>そのため安土桃山時代においては、豊臣秀吉による太閤検地によって、知行高は支給される米の容積による「石 (単位)」（石高）で表されるようになった。</j>
+<e type="trans" ver="1">In the Azuchi-Momoyama period, chigyodaka (a stipend in terms of rice production of the fief) was represented by the volume of rice to be supplied, that is to say, by the unit of &quot;koku&quot; (also called kokudaka), which was organized during the Taiko kenchi (the cadastral survey of Taiko) conducted by Hideyoshi TOYOTOMI.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Azuchi-Momoyama period, chigyodaka (a stipend in terms of rice production of the fief) was represented by the volume of rice to be supplied; that is to say, by the unit of &quot;koku&quot; (also called kokudaka), which was organized during the Taiko kenchi (the cadastral survey of Taiko) conducted by Hideyoshi TOYOTOMI.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">In the Azuchi-Momoyama period, chigyodaka (a stipend in terms of rice production of the fief) was represented by the volume of rice to be supplied; that is to say, by the unit of &apos;koku&apos; (also called kokudaka), which was organized during the Taiko kenchi (the cadastral survey of Taiko) conducted by Hideyoshi TOYOTOMI.</e>
+<cmt>クォーテーションを半角にしました。</cmt>
+</sen>
+<sen id="14">
+<j>江戸時代においては貨幣の製造が行われたものの、石高制が維持された。</j>
+<e type="trans" ver="1">Although money was produced during Edo period, kokudaka sei was maintained.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although money was produced during the Edo period, kokudaka sei was maintained.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Although money was produced during the Edo period, kokudaka sei was maintained.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 PATMAN(id:145791), トホホ川(id:50502), 水野白楓(id:22811), くっちゃめ(id:86793), 富樫仁(TOGASHI Jin)(id:53524), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

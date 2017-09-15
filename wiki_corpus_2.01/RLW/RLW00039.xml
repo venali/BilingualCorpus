@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>舞鶴線</j>
+<e type="trans" ver="1">Maizuru Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maizuru Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maizuru Line</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>舞鶴線（まいづるせん）は、京都府綾部市の綾部駅から京都府舞鶴市の東舞鶴駅に至る西日本旅客鉄道（JR西日本）の鉄道路線（地方交通線）である。</j>
+<e type="trans" ver="1">Maizuru Line is a railway, running from Ayabe Station in Ayabe City, Kyoto Prefecture, to Higashi-Maizuru Station in Maizuru City, Kyoto Prefecture, owned by West Japan Railway Company (JR West), and the line is one of Secondary Lines, which are handled distinctively from main lines because of having relatively small number of passengers.</e>
+<cmt>「地方交通線」については説明を要するところですが、「利用客が比較的少ないために幹線とは区別して扱われる線路のこと」としました。</cmt>
+<e type="trans" ver="2">The Maizuru Line is a regional branch line railway, owned by West Japan Railway Company (JR West), that runs from Ayabe Station in Ayabe City, Kyoto Prefecture, to Higashi-Maizuru Station in Maizuru City, Kyoto Prefecture.</e>
+<cmt>&quot;branch line&quot; might not be an exact translation but I think it gets the idea across.</cmt>
+<e type="check" ver="1">The Maizuru Line is a regional branch line railway, owned by West Japan Railway Company (JR West), that runs from Ayabe Station in Ayabe City, Kyoto Prefecture, to Higashi-Maizuru Station in Maizuru City, Kyoto Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>大日本帝国海軍の舞鶴鎮守府が置かれ、軍港として発展した舞鶴への鉄道として建設された。</j>
+<e type="trans" ver="1">It was laid as a railway to Maizuru City, where Imperial Japanese Navy once established Maizuru Naval Headquarters, and thereafter the development of the naval port was seen.</e>
+<cmt>正確には、1938年まで「舞鶴」は「市」ではなく幾つかの「町」の集まりにすぎませんでした。しかし、ここでの「舞鶴」は「現在の舞鶴市が存在する地域」というニュアンスである、と解して&apos;City&apos;を付しています。</cmt>
+<e type="trans" ver="2">It was constructed to serve Maizuru, which had grown as a naval port following the installation of an Imperial Naval base.</e>
+<cmt>Reworded sentence.Although it is common to add &quot;City&quot; to Japanese city names, it isn&apos;t really that common in English and I feel it isn&apos;t necessary, especially in this case.</cmt>
+<e type="check" ver="1">It was constructed to serve Maizuru, which had grown as a naval port following the installation of an Imperial Naval base.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>かつて出征者や引揚者の輸送で賑わった路線も現在は舞鶴市などへのビジネス利用や丹後国・嶺南への観光路線となっている。</j>
+<e type="trans" ver="1">Once crowded with transported soldiers or repatriates, the railway is now used for a business trip to Maizuru City and around, or for a sightseeing trip in regions like Tango province and Reinan (the former is today&apos;s northern part of Kyoto Prefecture and the latter is the coastal area along Wakasa Bay in southern part of Fukui Prefecture).</e>
+<cmt>「丹後国」・「嶺南」もそれぞれ説明を付す必要があると思われ、「現在の京都府北部」及び「福井県南部にある、若狭湾沿岸の地域」としておきました。。</cmt>
+<e type="trans" ver="2">Once crowded with departing and repatriated soldiers, the railway is now used by people traveling to the Maizuru area on business or for sightseeing trips to Tango province in northern Kyoto Prefecture and Reinan in southern Fukui Prefecture.</e>
+<cmt>&quot;transported&quot;→&quot;departing&quot;&quot;repatriates&quot;→&quot;repatriated soldiers&quot;Reworded sentence for clarity, though still incorporated the original translation&apos;s explanations of the Japanese.</cmt>
+<e type="check" ver="1">Once crowded with departing and repatriated soldiers, the railway is now used by people traveling to the Maizuru area on business or for sightseeing trips to Tango province in northern Kyoto Prefecture and Reinan in southern Fukui Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>路線データ</j>
+<e type="trans" ver="1">Railway data</e>
+<cmt></cmt>
+<e type="trans" ver="2">Railway data</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Railway data</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>管轄（事業種別）：西日本旅客鉄道（鉄道事業者）</j>
+<e type="trans" ver="1">Belonging (business classification): West Japan Railway Company (railway business operator)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operator (business classification): West Japan Railway Company (railway business operator)</e>
+<cmt>&quot;Belonging&quot;→&quot;Operator&quot;</cmt>
+<e type="check" ver="1">Operator (business classification): West Japan Railway Company (railway business operator)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>路線距離（営業キロ）：26.4km</j>
+<e type="trans" ver="1">Railway distance (operation kilometers): 26.4km</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track length (operating distance): 26.4km</e>
+<cmt>&quot;Railway distance&quot;→&quot;Track length&quot;&quot;operation kilometers&quot;→&quot;operating distance&quot;</cmt>
+<e type="check" ver="1">Track length (operating distance): 26.4 km</e>
+<cmt>単位の前にハイフン挿入</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>軌間：1067mm</j>
+<e type="trans" ver="1">Track gauge: 1067mm</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track gauge: 1067mm</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Track gauge: 1067 mm</e>
+<cmt>単位の前にハイフン挿入</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>駅数：6駅（起終点駅含む）</j>
+<e type="trans" ver="1">Number of stations: 6 (including the starting station and the final station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Number of stations: 6 (including the starting and destination stations)</e>
+<cmt>Deleted &quot;station&quot;&quot;final station&quot;→&quot;destination station&quot;</cmt>
+<e type="check" ver="1">Number of stations: 6 (including the starting and destination stations)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="8">
+<j>複線区間：なし（全線単線）</j>
+<e type="trans" ver="1">Double-tracked section: nonexistent (the entire line is single-tracked)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Double-tracked section: nonexistent (the entire line is single-tracked)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Double-tracked section: none (the entire line is single-tracked)</e>
+<cmt>表現スタイル - “nonexistent”=&gt;”none”</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="9">
+<j>電化区間：全線（直流1500V）</j>
+<e type="trans" ver="1">Electrified section: the entire line (DC1500V)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Electrified section: the entire line (DC1500V)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Electrified section: the entire line (DC 1500 V)</e>
+<cmt>スペース挿入</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="10">
+<j>閉塞 (鉄道)：単線自動閉塞式</j>
+<e type="trans" ver="1">Block (railroad) system: single track with automatic block system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track Block system: single track with automatic block system</e>
+<cmt>Added &quot;Track&quot;Deleted &quot;railroad&quot;</cmt>
+<e type="check" ver="1">Track Block system: single track with automatic block system</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="11">
+<j>全区間西日本旅客鉄道福知山支社の直轄である（1991年4月から2006年6月までは、同支社舞鶴鉄道部の管轄であった）。</j>
+<e type="trans" ver="1">The entire line is now under the direct control of West Japan Railway Company&apos;s Fukuchiyama Branch; from April of 1991 to June of 2006, the control had been delegated to the Fukuchiyama Branch&apos;s Maizuru Railway Division.</e>
+<cmt>「鉄道部」に関しては www.jru7.net/…/view-fukuchiyama20050428.htm に「姫路鉄道部」に関して Railway Division の使用例はあります。</cmt>
+<e type="trans" ver="2">The entire line is now under the direct control of West Japan Railway Company&apos;s Fukuchiyama Branch; from April of 1991 to June of 2006, control had been delegated to the Fukuchiyama Branch&apos;s Maizuru Railway Division.</e>
+<cmt>Deleted &quot;the&quot;</cmt>
+<e type="check" ver="1">The entire line is now under the direct control of West Japan Railway Company&apos;s Fukuchiyama Branch; from April of 1991 to June of 2006, control had been delegated to the Fukuchiyama Branch&apos;s Maizuru Railway Division.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>運行形態</j>
+<e type="trans" ver="1">Types of operations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Services</e>
+<cmt>&quot;Types of operations&quot;→&quot;Services</cmt>
+<e type="check" ver="1">Services</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="12">
+<j>京都駅～東舞鶴間に特別急行列車「まいづる」と「タンゴディスカバリー」が合わせて上り7本、下り8本運転されている。</j>
+<e type="trans" ver="1">Between Kyoto Station and Higashi-Maizuru Station, Limited Express &apos;Maizuru&apos; and &apos;Tango Discovery&apos; provide 7 inbound services and 8 outbound ones in all per day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Between Kyoto Station and Higashi-Maizuru Station, the &apos;Maizuru&apos; and &apos;Tango Discovery&apos; Limited Expresses provide 7 inbound services and 8 outbound ones per day.</e>
+<cmt>Changed word orderDeleted &quot;in all&quot;</cmt>
+<e type="check" ver="1">Between Kyoto Station and Higashi-Maizuru Station, the &apos;Maizuru&apos; and &apos;Tango Discovery&apos; Limited Expresses provide 7 inbound services and 8 outbound ones per day.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>なお、土曜・休日・夏季には「まいづる」のうち1往復が小浜線の小浜駅まで乗り入れ、観光需要に応えている。</j>
+<e type="trans" ver="1">Furthermore, one round-trip service of &apos;Maizuru&apos; shares the track of Obama Line from Higashi-Maizuru Station to Obama Station on weekends, holidays and all days during the summer vacation season for satisfying a need of tourists.</e>
+<cmt>「乗り入れ」の区間は「東舞鶴駅から」なので、これを補っています。</cmt>
+<e type="trans" ver="2">Furthermore, to meet tourist demand on weekends, holidays and during the summer vacation season, the &apos;Maizuru&apos; provides one round-trip service from Higashi-Maizuru Station to Obama Station on the Obama Line.</e>
+<cmt>Reworded sentence for clarity.</cmt>
+<e type="check" ver="1">Furthermore, to meet tourist demand on weekends, holidays and during the summer vacation season, the &apos;Maizuru&apos; provides one round-trip service from Higashi-Maizuru Station to Obama Station on the Obama Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="14">
+<j>他の北近畿方面特急と異なり、大阪方面の列車は設定されていない（過去には「エーデル北近畿」として東舞鶴駅まで乗り入れていた時期もあった）。</j>
+<e type="trans" ver="1">Apart from other limited expresses going for Kitakinki, trains that run on Maizuru Line do not go for Osaka; once the train called &apos;Edel-kitakinki&apos; coming from Osaka ran on the track of Maizuru Line from Ayabe Station to Higashi-Maizuru Station.</e>
+<cmt>「エーデル北近畿」は、「大阪方面からやってくる列車だった」ことを示しておかないと不自然だ、と考えこれを補いました。またその乗り入れ区間は「綾部駅から」であり、そう補いました。</cmt>
+<e type="trans" ver="2">Unlike other limited expresses to the Kitakinki region, trains on the Maizuru Line do not go to Osaka; though the &apos;Edel-kitakinki&apos; used to run on the Maizuru Line from Osaka to Higashi-Maizuru Station.</e>
+<cmt>&quot;Apart from&quot;→&quot;Unlike&quot;Deleted &quot;going&quot;&quot;for&quot;→&quot;to&quot;Added &quot;region&quot;Deleted &quot;that run&quot;Added &quot;the&quot;Reworded last part of sentence</cmt>
+<e type="check" ver="1">Unlike other limited expresses to the Kitakinki region, trains on the Maizuru Line do not go to Osaka; though the &apos;Edel-kitakinki&apos; used to run on the Maizuru Line from Osaka to Higashi-Maizuru Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>ちなみに東舞鶴～大阪駅間の距離は福知山駅経由 (152.9km) よりも京都経由 (145.4km) のほうが若干短い。</j>
+<e type="trans" ver="1">Incidentally, the railway distance between Higashi-Maizuru Station and Osaka Station is a bit shorter via Kyoto Station (145.4km) than that via Fukuchiyama Station (152.9km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Incidentally, the distance between Higashi-Maizuru Station and Osaka Station is a bit shorter via Kyoto Station (145.4km) than via Fukuchiyama Station (152.9km).</e>
+<cmt>deleted &quot;railway&quot;</cmt>
+<e type="check" ver="1">Incidentally, the distance between Higashi-Maizuru Station and Osaka Station is slightly shorter via Kyoto Station (145.4 km) than via Fukuchiyama Station (152.9 km).</e>
+<cmt>表現スタイル - “a bit”=&gt;”slightly”</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="16">
+<j>また多くの普通列車が福知山・綾部～東舞鶴間に運転され、一部は「特急リレー号」として綾部駅で山陰本線の特急列車と接続しており、対京都方面では毎時1本の列車頻度を維持している。</j>
+<e type="trans" ver="1">And many local trains run between Fukuchiyama Station and Higashi-Maizuru Station via Ayabe Station, and some of them called &apos;Connector Train&apos; connect with the limited express of San&apos;in Main Line at Ayabe Station, so the Maizuru Line operates at least one train for Kyoto Station every hour.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are also many local trains between Fukuchiyama Station and Higashi-Maizuru Station via Ayabe Station and some of them, called &apos;Relay Trains,&apos; connect at Ayabe Station with the San&apos;in Main Line limited express, meaning the Maizuru Line operates at least one train for Kyoto Station every hour.</e>
+<cmt>&quot;Connector Train&quot;→&quot;Relay Trains&quot;-closer to the Japanese, which would be more helpful to tourists&quot;so&quot;→&quot;meaning&quot;</cmt>
+<e type="check" ver="1">There are also many local trains between Fukuchiyama Station and Higashi-Maizuru Station via Ayabe Station and some of them, called &apos;Relay Trains,&apos; connect at Ayabe Station with the Sanin Main Line limited express, meaning the Maizuru Line operates at least one train for Kyoto Station every hour.</e>
+<cmt>San&apos;in→Sanin</cmt>
+</sen>
+<sen id="17">
+<j>また一部の列車が小浜線と直通運転をしているほか、西舞鶴～東舞鶴間の区間列車も1往復ある。</j>
+<e type="trans" ver="1">And other trains directly connect with Obama Line, and moreover, there exists one round-trip service that runs the section just between Nishi-Maizuru Station and Higashi-Maizuru Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition to the trains that connect directly with the Obama Line, there is one round-trip service on the section between Nishi-Maizuru Station and Higashi-Maizuru Station.</e>
+<cmt>&quot;And other&quot;,&quot;moreover&quot;→&quot;In addition to&quot;moved &quot;directly&quot;&quot;exists&quot;→&quot;is&quot;&quot;that runs&quot;→&quot;on&quot;deleted &quot;just&quot;</cmt>
+<e type="check" ver="1">In addition to the trains that connect directly with the Obama Line, there is one round-trip service on the section between Nishi-Maizuru Station and Higashi-Maizuru Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>全線でワンマン運転を実施しているが、一部列車には車掌が乗務することもある。</j>
+<e type="trans" ver="1">All trains run without a conductor, but some of them occasionally have one.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All trains run with only a driver, although some of them occasionally have a conductor as well..</e>
+<cmt>&quot;without a conductor&quot;→&quot;with only a driver&quot;&quot;but&quot;→&quot;although&quot;Added &quot;as well&quot;</cmt>
+<e type="check" ver="1">All trains run with only a driver, although some occasionally have a conductor as well.</e>
+<cmt>”of them”不要。 “some of them occasionally ”-&gt; “ some occasionally ”</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="19">
+<j>以前は、朝に東舞鶴発綾部着の快速列車（途中駅は西舞鶴のみ停車）が1本のみ運行されていたが、2006年10月21日のダイヤ改正以降、快速列車は設定されていない。</j>
+<e type="trans" ver="1">Formerly, there was only a single service of the rapid train that started Higashi-Maizuru Station and arrived at Ayabe Station (along the way, it stopped only at Nishi-Maizuru Station) in the morning, but since the change of the train schedule on October 21, 2006, there has been none.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Formerly, there was a single rapid train service in the morning from Higashi-Maizuru Station to Ayabe Station, stopping only at Nishi-Maizuru Station, but since the train schedule was changed on October 21, 2006, there has been none.</e>
+<cmt>Reworded middle of sentence for clarity</cmt>
+<e type="check" ver="1">Formerly, there was a single rapid train service in the morning from Higashi-Maizuru Station to Ayabe Station, stopping only at Nishi-Maizuru Station, but since the train schedule was changed on October 21, 2006, there has been none.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="20">
+<j>非電化時代は一時期、山陰本線・舞鶴線・北近畿タンゴ鉄道宮津線・同北近畿タンゴ鉄道宮福線を経由して福知山市・綾部市・舞鶴市・宮津市を循環する「四都市循環列車」を運転していたことがあった。</j>
+<e type="trans" ver="1">Before the era of electrification, there once existed &apos;Circulation Train around 4 Cities,&apos; which circulated around Fukuchiyama City, Ayabe City, Maizuru City and Miyazu City by way of San&apos;in Main Line, Maizuru Line, and Kitakinki Tango Railway (KTR) Miyazu &amp; Miyafuku Line.</e>
+<cmt>「循環列車」（Circulation Train) の部分だけは app.korail.go.kr/ROOT/cambo-view.cambo?... に記述があります。</cmt>
+<e type="trans" ver="2">Before electrification, there once existed &apos;Circulation Train around 4 Cities,&apos; which circulated around Fukuchiyama City, Ayabe City, Maizuru City and Miyazu City by way of San&apos;in Main Line, Maizuru Line, and Kitakinki Tango Railway (KTR) Miyazu &amp; Miyafuku Line.</e>
+<cmt>Deleted &quot;the era of&quot;</cmt>
+<e type="check" ver="1">Before electrification, a &apos;Circulation Train around 4 Cities&apos; once existed,&apos; which circulated around Fukuchiyama City, Ayabe City, Maizuru City and Miyazu City by way of Sanin Main Line, Maizuru Line, and Kitakinki Tango Railway (KTR) Miyazu &amp; Miyafuku Line.</e>
+<cmt>表現スタイル - “there once existed &apos;Circulation Train around 4 Cities,&apos;”=&gt;”a &apos;Circulation Train around 4 Cities&apos; once existed,”</cmt>
+</sen>
+<sen id="21">
+<j>その経路は次の通り。</j>
+<e type="trans" ver="1">The route was as follows.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The route was as follows.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The route was as follows.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="22">
+<j>福知山→（山陰本線）→綾部→（舞鶴線）→西舞鶴→（北近畿タンゴ鉄道宮津線）→宮津→（北近畿タンゴ鉄道宮福線）→福知山→（山陰本線）→綾部→（舞鶴線）→西舞鶴</j>
+<e type="trans" ver="1">Fukuchiyama Station=&gt;(via San&apos;in Main Line)=&gt;Ayabe Station=&gt;(via Maizuru Line)=&gt;Nishi-Maizuru Station=&gt;(via KTR Miyazu Line)=&gt;Miyazu Station=&gt;(via KTR Miyafuku Line)=&gt;Fukuchiyama Station=&gt;(via San&apos;in Main Line)=&gt;Ayabe Station=&gt;(via Maizuru Line)=&gt;Nishi-Maizuru Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukuchiyama Station=&gt;(via the San&apos;in Main Line)=&gt;Ayabe Station=&gt;(via the Maizuru Line)=&gt;Nishi-Maizuru Station=&gt;(via the KTR Miyazu Line)=&gt;Miyazu Station=&gt;(via the KTR Miyafuku Line)=&gt;Fukuchiyama Station=&gt;(via San&apos;in the Main Line)=&gt;Ayabe Station=&gt;(via the Maizuru Line)=&gt;Nishi-Maizuru Station</e>
+<cmt>Added &quot;the&quot; after &quot;via&quot; whenever it occured</cmt>
+<e type="check" ver="1">Fukuchiyama Station=&gt;(via the Sanin Main Line)=&gt;Ayabe Station=&gt;(via the Maizuru Line)=&gt;Nishi-Maizuru Station=&gt;(via the KTR Miyazu Line)=&gt;Miyazu Station=&gt;(via the KTR Miyafuku Line)=&gt;Fukuchiyama Station=&gt;(via Sanin the Main Line)=&gt;Ayabe Station=&gt;(via the Maizuru Line)=&gt;Nishi-Maizuru Station</e>
+<cmt>San&apos;in→Sanin</cmt>
+</sen>
+<sen id="23">
+<j>（上記列車から折り返し）西舞鶴→（舞鶴線）→綾部→（山陰本線）→福知山→（北近畿タンゴ鉄道宮福線）→宮津→（北近畿タンゴ鉄道宮津線）→西舞鶴</j>
+<e type="trans" ver="1">(Doubling back from the last station) Nishi-Maizuru Station=&gt;(via Maizuru Line)=&gt;Ayabe Station=&gt;(via San&apos;in Main Line)=&gt;Fukuchiyama Station=&gt;(via KTR Miyafuku Line)=&gt;Miyazu Station=&gt;(via KTR Miyazu Line)=&gt;Nishi-Maizuru Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">(On the return journey) Nishi-Maizuru Station=&gt;(via the Maizuru Line)=&gt;Ayabe Station=&gt;(via the San&apos;in Main Line)=&gt;Fukuchiyama Station=&gt;(via the KTR Miyafuku Line)=&gt;Miyazu Station=&gt;(via the KTR Miyazu Line)=&gt;Nishi-Maizuru Station</e>
+<cmt>&quot;Doubling back from the last station&quot;→&quot;On the return journey&quot;Added &quot;the&quot; after &quot;via&quot; whenever it occurred</cmt>
+<e type="check" ver="1">(On the return journey) Nishi-Maizuru Station=&gt;(via the Maizuru Line)=&gt;Ayabe Station=&gt;(via the Sanin Main Line)=&gt;Fukuchiyama Station=&gt;(via the KTR Miyafuku Line)=&gt;Miyazu Station=&gt;(via the KTR Miyazu Line)=&gt;Nishi-Maizuru Station</e>
+<cmt>San&apos;in→Sanin</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="24">
+<j>さらに現在の嵯峨野線に当てはまる区間（京都～園部間）がまだ非電化だった頃は、当時あった特急・急行とは別に綾部でスイッチバックし、京都と東舞鶴とを直結する普通列車が運転されていたこともあった。</j>
+<e type="trans" ver="1">In addition, when the present Sagano Line&apos;s section (between Kyoto Station and Sonobe Station) was yet to be electrified, there existed local trains that switched back at Ayabe Station and directly connected Kyoto Station with Higashi-Maizuru Station, apart from the then limited expresses and expresses.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, before the electrification of the section between Kyoto Station and Sonobe Station on what is now the Sagano Line, there were direct local trains between Kyoto Station and Higashi-Maizuru Station, while limited expresses and expresses switched back at Ayabe Station.</e>
+<cmt>Reworded sentence for clarity - Translation 1 had a mistranslation concerning the express trains</cmt>
+<e type="check" ver="1">In addition, before the electrification of the section between Kyoto Station and Sonobe Station on what is now the Sagano Line, there were direct local trains between Kyoto Station and Higashi-Maizuru Station which switched back at Ayabe Station in addition to limited expresses and expresses.</e>
+<cmt>switched back at Ayabe Stationの位置を移動in addition to補足</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>使用車両</j>
+<e type="trans" ver="1">Rolling stock used</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rolling stock</e>
+<cmt>Deleted &quot;used&quot;</cmt>
+<e type="check" ver="1">Rolling stock</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="25">
+<j>国鉄183系電車</j>
+<e type="trans" ver="1">JNR/JR Limited Express Series 183</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR 183 Series Limited Express</e>
+<cmt>Changed word order - original translation was good but I think this is more natural</cmt>
+<e type="check" ver="1">JNR/JR 183 Series Limited Express</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="26">
+<j>北近畿タンゴ鉄道KTR8000形気動車（北近畿タンゴ鉄道宮津線乗り入れ）</j>
+<e type="trans" ver="1">KTR Limited Express Diesel Cars Type KTR 8000 (this rolling stock also runs the track of KTR Miyazu Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">KTR 8000 Type Diesel Limited Express (also used on the KTR Miyazu Line)</e>
+<cmt>Deleted &quot;s&quot;&quot;runs the track of&quot;→&quot;used on the&quot;</cmt>
+<e type="check" ver="1">KTR 8000 Type Diesel Limited Express (also used on the KTR Miyazu Line)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="27">
+<j>国鉄113系電車</j>
+<e type="trans" ver="1">JNR/JR Suburban Trains Series 113</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR 113 Series Suburban Train</e>
+<cmt>Deleted &quot;s&quot;Changed word order</cmt>
+<e type="check" ver="1">JNR/JR 113 Series Suburban Train</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="28">
+<j>国鉄115系電車</j>
+<e type="trans" ver="1">JNR/JR Suburban Trains Series 115</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR 115 Series Suburban Train</e>
+<cmt>Deleted &quot;s&quot;Changed word order</cmt>
+<e type="check" ver="1">JNR/JR 115 Series Suburban Train</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="29">
+<j>JR西日本125系電車（東舞鶴～西舞鶴まで小浜線乗り入れ・ワンマン運転車）</j>
+<e type="trans" ver="1">JR West Suburban Trains Series 125 (this rolling stock, running on Obama Line, also runs the track of Maizuru Line for the section from Higashi-Maizuru Station to Nishi-Maizuru Station, and goes without a conductor)</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR West 125 Series Suburban Train (also used, without a conductor, on the Obama Line from Higashi-Maizuru Station to Nishi-Maizuru Station)</e>
+<cmt>Deleted &quot;s&quot;Changed word order&quot;runs the track of&quot;→&quot;used on the&quot;Deleted &quot;Maizuru Line&quot;</cmt>
+<e type="check" ver="1">JR West 125 Series Suburban Train (also used, without a conductor, on the Obama Line from Higashi-Maizuru Station to Nishi-Maizuru Station)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>過去の使用車両</j>
+<e type="trans" ver="1">Roling stock used formerly</e>
+<cmt></cmt>
+<e type="trans" ver="2">Former rolling stock</e>
+<cmt>Spelling of &quot;rolling&quot;&quot;used formerly&quot;→&quot;Former&quot;</cmt>
+<e type="check" ver="1">Former rolling stock</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="30">
+<j>国鉄9600形蒸気機関車（西舞鶴機関区（現・北近畿タンゴ鉄道西舞鶴運転区）所属）</j>
+<e type="trans" ver="1">JNR Steam Locomotive Type 9600 (this rolling stock belonged to Nishi-Maizuru Railway Yard, i.e. the present KTR Nishi-Maizuru Railway Yard)</e>
+<cmt>「運転区」「機関区」についてはいずれも「鉄道の車両基地」のことであり、それゆえに Railway Yard と訳しておきました。</cmt>
+<e type="trans" ver="2">JNR 9600 Type Steam Locomotive (this rolling stock belonged to Nishi-Maizuru Railway Yard, i.e. the present KTR Nishi-Maizuru Railway Yard)</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">JNR 9600 Type Steam Locomotive (this rolling stock belonged to Nishi-Maizuru Railway Yard, i.e. the present KTR Nishi-Maizuru Railway Yard)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="31">
+<j>宮津線（現・北近畿タンゴ鉄道宮津線）網野駅からの乗り入れで、綾部駅まで運用された。</j>
+<e type="trans" ver="1">This rolling stock connected Amino Station of former JNR/JR Miyazu Line (the present KTR Miyazu Line) with Ayabe Station via Nishi-Maizuru Station.</e>
+<cmt>「宮津線」に関しては現在の経営母体のみ記すのは英文として不自然と思い「かつては国鉄・JRに属した」と補いました。また舞鶴線との乗り入れがあった区間は「西舞鶴駅から」であり、これを補いました。</cmt>
+<e type="trans" ver="2">These engines ran between Amino Station on the former JNR/JR Miyazu Line (present day KTR Miyazu Line) and Ayabe Station.</e>
+<cmt>&quot;This rolling stock connected&quot;→&quot;These engines ran between&quot;&quot;of&quot;→&quot;on the&quot;Added &quot;day&quot;Deleted &quot;via Nishi-Maizuru Station&quot;</cmt>
+<e type="check" ver="1">These engines ran between Amino Station on the former JNR/JR Miyazu Line (present day KTR Miyazu Line) and Ayabe Station.</e>
+<cmt>スペース削除</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="32">
+<j>国鉄DE10形ディーゼル機関車</j>
+<e type="trans" ver="1">JNR Diesel Locomotive Type DE 10</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR DE 10 Type Diesel Locomotive</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">JNR DE 10 Type Diesel Locomotive</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="33">
+<j>宮津線（現・北近畿タンゴ鉄道宮津線）及び、舞鶴港線（西舞鶴駅から舞鶴港駅（旧・海舞鶴駅）を結んだ貨物専用線・1985年（昭和60年）3月14日で廃止）と貨物列車で共通運用された。</j>
+<e type="trans" ver="1">This rolling stock was commonly operated as a freight train among former JNR/JR Miyazu Line (the present KTR Miyazu Line), Maizuru Line and Maizuruko Line, and the last line operated exclusively for freight transportation, connected Nishi-Maizuru Station with Maizuruko Station (former Umi-Maizuru Station), and ended the operation on March 14, 1985.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These engines commonly operated as freight trains on the former JNR/JR Miyazu Line (the present day KTR Miyazu Line) and the Maizuruko Line, a line exclusively for freight transportation that connected Nishi-Maizuru Station with Maizuruko Station (formerly Umi-Maizuru Station) and ceased operating on March 14, 1985.</e>
+<cmt>&quot;This rolling stock was&quot;→&quot;These engines&quot;Made &quot;train&quot; pluralAdded &quot;the&quot;Deleted &quot;and the last&quot;, &quot;operated&quot;Added &quot;that&quot;Deleted commas&quot;ended the operation&quot;→&quot;ceased operating&quot;</cmt>
+<e type="check" ver="1">These engines commonly operated as freight trains on the former JNR/JR Miyazu Line (the present day KTR Miyazu Line) and the Maizuruko Line, a line exclusively for freight transportation that connected Nishi-Maizuru Station with Maizuruko Station (formerly Umi-Maizuru Station) and ceased operating on March 14, 1985.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>現在は1両（1104号機）が、西日本旅客鉄道のグループ会社嵯峨野観光鉄道に払い下げられ、トロッコ嵯峨駅～トロッコ亀岡駅間で「ロマンチックトレイン嵯峨野」としてトロッコ列車を牽引し、他はJR西日本の豊岡鉄道部に在籍し、団臨列車やレール交換列車などで使用されている。</j>
+<e type="trans" ver="1">One of the rolling stock (No. 1104) was sold off to Sagano Scenic Railway, which is a group company of West Japan Railway Company (JR West), and today, No. 1104 is given a new name, &apos;Romantic Train Sagano,&apos; and a new role of towing a sight-seeing tram between Saga Torokko Station and Kameoka Torokko Station, and the other rolling stock exists in JR West&apos;s Toyo&apos;oka Railway Division and is used as a special train for a group passengers or a train for rail exchange.</e>
+<cmt>「鉄道部」に関しては www.jru7.net/…/view-fukuchiyama20050428.htm に「姫路鉄道部」に関して Railway Division の使用例はあります。</cmt>
+<e type="trans" ver="2">One of the rolling stock (No. 1104) was sold to Sagano Scenic Railway, a group company of West Japan Railway Company (JR West), given the name &apos;Romantic Train Sagano&apos; and pulls the sight-seeing train between Saga Torokko Station and Kameoka Torokko Station; and the other rolling stock is owned by JR West&apos;s Toyo&apos;oka Railway Division and used as a special train for a group passengers and a rail exchange train.</e>
+<cmt>Deleted &quot;off&quot;, &quot;which is&quot;, &quot;and today, No. 1104 is&quot;, &quot;new&quot;, &quot;a new role of&quot;&quot;towing&quot;→&quot;pulls&quot;Not sure if Torokko should be translated or of the translation of &quot;レール交換列車&quot;</cmt>
+<e type="check" ver="1">One of the rolling stock (No. 1104) was sold to Sagano Scenic Railway, a group company of West Japan Railway Company (JR West), given the name &apos;Romantic Train Sagano&apos; and pulls the sight-seeing train between Saga Torokko Station and Kameoka Torokko Station; and the other rolling stock is owned by JR West&apos;s Toyooka Railway Division and used as a special train for a group passengers and a rail exchange train.</e>
+<cmt>Toyo&apos;oka→Toyooka</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="35">
+<j>国鉄キハ17系気動車</j>
+<e type="trans" ver="1">JNR Diesel Cars Series Kiha 17</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR Kiha 17 Series Diesel Car</e>
+<cmt>Deleted &quot;s&quot;Changed word order</cmt>
+<e type="check" ver="1">JNR Kiha 17 Series Diesel Car</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="36">
+<j>宮津線（現・北近畿タンゴ鉄道宮津線）及び、中舞鶴線（1972年11月1日で廃止）と共通運用。</j>
+<e type="trans" ver="1">This rolling stock was commonly operated among former JNR/JR Miyazu Line (the present KTR Miyazu Line), Maizuru Line and Naka-Maizuru Line (the last line&apos;s operation was ended on November 1, 1972).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This rolling stock commonly operated on the former JNR/JR Miyazu Line (the present day KTR Miyazu Line), the Maizuru Line and the Naka-Maizuru Line, which ceased operating on November 1, 1972.</e>
+<cmt>Deleted &quot;was&quot;&quot;among&quot;→&quot;on the&quot;Added &quot;the&quot; to line names.&quot;the last line&apos;s operation was ended&quot;→&quot;which ceased operating&quot;</cmt>
+<e type="check" ver="1">This rolling stock commonly operated on the former JNR/JR Miyazu Line (the present day KTR Miyazu Line), the Maizuru Line and the Naka-Maizuru Line, which ceased operating on November 1, 1972.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="37">
+<j>国鉄キハ20系気動車</j>
+<e type="trans" ver="1">JNR/JR Diesel Cars Series Kiha 20</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR Kiha 20 Series Diesel Car</e>
+<cmt>Deleted &quot;s&quot;Changed word order</cmt>
+<e type="check" ver="1">JNR/JR Kiha 20 Series Diesel Car</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="38">
+<j>小浜線及び宮津線（現・北近畿タンゴ鉄道宮津線）・山陰本線と共通運用。</j>
+<e type="trans" ver="1">This rolling stock was commonly operated among Obama Line, former JNR/JR Miyazu Line (the present KTR Miyazu Line), San&apos;in Main Line and Maizuru Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This rolling stock commonly operated on the Obama Line, the former JNR/JR Miyazu Line (the present day KTR Miyazu Line), the San&apos;in Main Line and the Maizuru Line.</e>
+<cmt>Deleted &quot;was&quot;&quot;among&quot;→&quot;on the&quot;Added &quot;the&quot; to line names.</cmt>
+<e type="check" ver="1">This rolling stock commonly operated on the Obama Line, the former JNR/JR Miyazu Line (the present day KTR Miyazu Line), the Sanin Main Line and the Maizuru Line.</e>
+<cmt>San&apos;in→Sanin</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="39">
+<j>国鉄キハ55系気動車</j>
+<e type="trans" ver="1">JNR/JR Diesel Cars Series Kiha 55</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR Kiha 55 Series Diesel Car</e>
+<cmt>Deleted &quot;s&quot;Changed word order</cmt>
+<e type="check" ver="1">JNR/JR Kiha 55 Series Diesel Car</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="40">
+<j>山陰本線乗り入れ準急（後に急行）「たんば (列車)」・「わかさ」でも使用、末期は宮津線（現・北近畿タンゴ鉄道宮津線）で運用された。</j>
+<e type="trans" ver="1">This roling stock, as Semi-Express (later, Express) &apos;Tanba&apos; and &apos;Wakasa,&apos; had also run on the track of San&apos;in Main Line, and late in life it ran on JNR/JR Miyazu Line (the present KTR Miyazu Line).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This rolling stock, as the Semi-Expresses (and later, Express) &apos;Tanba&apos; and &apos;Wakasa,&apos; also ran on the San&apos;in Main Line, and later it ran on the JNR/JR Miyazu Line (the present day KTR Miyazu Line).</e>
+<cmt>Spelling of &quot;rolling&quot;Deleted &quot;the track of&quot;Added &quot;the&quot; to line names.&quot;late in life&quot;→&quot;later&quot;</cmt>
+<e type="check" ver="1">This rolling stock, as the Semi-Expresses (and later, Express) &apos;Tanba&apos; and &apos;Wakasa,&apos; also ran on the Sanin Main Line, and later it ran on the JNR/JR Miyazu Line (the present day KTR Miyazu Line).</e>
+<cmt>San&apos;in→Sanin</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="41">
+<j>国鉄キハ58系気動車</j>
+<e type="trans" ver="1">JNR/JR Diesel Cars Series Kiha 58</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR Kiha 58 Series Diesel Car</e>
+<cmt>Deleted &quot;s&quot;Changed word order</cmt>
+<e type="check" ver="1">JNR/JR Kiha 58 Series Diesel Car</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="42">
+<j>山陰本線乗り入れ、小浜線や宮津線で急行「丹後」を中心に、北近畿タンゴ鉄道宮津線に転換後も運用、1996年3月16日の廃止以後も、ワンマン運転車が在籍し1999年10月2日の電化まで30余年間走り続けた。</j>
+<e type="trans" ver="1">This rolling stock, mostly as Express &apos;Tango,&apos; was commonly operated among San&apos;in Main Line, Obama Line, former JNR/JR (later KTR) Miyazu Line and Maizuru Line, and even after its regular operation was ended on March 16, 1996, the train without a conductor continued running for more than 30 years until the line became electrified on October 2, 1999.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This rolling stock, mostly as the Express &apos;Tango,&apos; commonly operated on the San&apos;in Main Line, the Obama Line, the former JNR/JR (later KTR) Miyazu Line and the Maizuru Line, and even after its regular operation was ended on March 16, 1996, the train without a conductor continued running for more than 30 years until the line became electrified on October 2, 1999.</e>
+<cmt>Deleted &quot;was&quot;&quot;among&quot;→&quot;on the&quot;Added &quot;the&quot; to line names.</cmt>
+<e type="check" ver="1">This rolling stock, mostly as the Express &apos;Tango,&apos; commonly operated on the Sanin Main Line, the Obama Line, the former JNR/JR (later KTR) Miyazu Line and the Maizuru Line, and even after its regular operation was ended on March 16, 1996, the train without a conductor continued running for more than 30 years until the line became electrified on October 2, 1999.</e>
+<cmt>San&apos;in→Sanin</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="43">
+<j>国鉄キハ40系気動車 (2代)</j>
+<e type="trans" ver="1">JNR/JR Diesel Cars Series Kiha 40 (the second generation)</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR second generation Kiha 40 Series Diesel Car</e>
+<cmt>Deleted &quot;s&quot;Changed word order</cmt>
+<e type="check" ver="1">JNR/JR second generation Kiha 40 Series Diesel Car</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="44">
+<j>山陰本線・宮津線（現・北近畿タンゴ鉄道宮津線）及び、小浜線と共通で運用。</j>
+<e type="trans" ver="1">This rolling stock was commonly operated among San&apos;in Main Line, former JNR/JR Miyazu Line (the present KTR Miyazu Line), Obama Line and Maizuru Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This rolling stock commonly operated on the San&apos;in Main Line, the former JNR/JR Miyazu Line (the present KTR Miyazu Line), the Obama Line and the Maizuru Line.</e>
+<cmt>Deleted &quot;was&quot;&quot;among&quot;→&quot;on the&quot;Added &quot;the&quot; to line names.</cmt>
+<e type="check" ver="1">This rolling stock commonly operated on the Sanin Main Line, the former JNR/JR Miyazu Line (the present KTR Miyazu Line), the Obama Line and the Maizuru Line.</e>
+<cmt>San&apos;in→Sanin</cmt>
+</sen>
+<sen id="45">
+<j>東舞鶴駅を境に、以南（綾部・福知山方面）が国鉄キハ47形気動車 （両開き2扉　福知山機関区（現・JR西日本福知山運転所）所属）、以北（小浜・敦賀方面）が国鉄キハ48形気動車（片開き2扉　敦賀運転所（現・JR西日本福井地域鉄道部敦賀運転所派出所）所属・北陸本線（近江塩津以東米原及び東海道本線彦根まで）・湖西線（近江今津までの運用）との共通運用）と分かれて運用された。</j>
+<e type="trans" ver="1">From Higashi-Maizuru Station and southward (in the direction of Ayabe &amp; Fukuchiyama Station), JNR/JR Diesel Cars Type Kiha 47 was commonly operated, which had two pairs of double doors and belonged to Fukuchiyama Railway Yard (the present JR West Fukuchiyama Railway Yard), and from Higashi-Maizuru Station and northward (in the direction of Obama &amp; Tsuruga Station), JNR/JR Diesel Cars Type Kiha 48 was commonly operated, which had two single doors, belonged to Tsuruga Railway Yard (the present JR West Tsuruga Railway Yard&apos;s Branch in Fukui Region&apos;s Railway Division), and was shared among Maizuru Line, Hokuriku Main Line (from Omi-Shiozu Station to Tokaido Main Line Hikone Station via Maibara Station), and Kosei Line (to Omi-Imazu Station).</e>
+<cmt>1.　B.オリジナルの二重線部分は訳者が補充しました。　２．ここの「機関区」、「運転所」も、「鉄道の車両基地」のことであり、Railway Yard としておきました。　３．「鉄道部」に関しては www.jru7.net/…/view-fukuchiyama20050428.htm に「姫路鉄道部」に関して Railway Division の使用例はあります。</cmt>
+<e type="trans" ver="2">JNR/JR Kiha 47 Type Diesel Cars, which had two pairs of double doors and belonged to Fukuchiyama Railway Yard (the present day JR West Fukuchiyama Railway Yard), commonly operated from Higashi-Maizuru Station and southward (in the direction of Ayabe &amp; Fukuchiyama Stations), and JNR/JR Kiha 48 Type Diesel Cars, which had two single doors, belonged to Tsuruga Railway Yard (the present JR West Tsuruga Railway Yard&apos;s Branch in Fukui Region&apos;s Railway Division), and was shared among the Maizuru Line, the Hokuriku Main Line (from Omi-Shiozu Station to the Tokaido Main Line Hikone Station via Maibara Station), and the Kosei Line (to Omi-Imazu Station) commonly operated from Higashi-Maizuru Station and northward (in the direction of Obama &amp; Tsuruga Station).</e>
+<cmt>Cahnged word orderAdded &quot;the&quot; to line names.</cmt>
+<e type="check" ver="1">JNR/JR Kiha 47 Type Diesel Cars, which had two pairs of double doors and belonged to Fukuchiyama Railway Yard (the present day JR West Fukuchiyama Railway Yard), commonly operated from Higashi-Maizuru Station and southward (in the direction of Ayabe &amp; Fukuchiyama Stations), and JNR/JR Kiha 48 Type Diesel Cars, which had two single doors, belonged to Tsuruga Railway Yard (the present JR West Tsuruga Railway Yard&apos;s Branch in Fukui Region&apos;s Railway Division), and was shared among the Maizuru Line, the Hokuriku Main Line (from Omi-Shiozu Station to the Tokaido Main Line Hikone Station via Maibara Station), and the Kosei Line (to Omi-Imazu Station) commonly operated from Higashi-Maizuru Station and northward (in the direction of Obama &amp; Tsuruga Station).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="46">
+<j>国鉄キハ82系気動車</j>
+<e type="trans" ver="1">JNR/JR Limited Express Diesel Cars Series Kiha 82</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR Kiha 82 Series Diesel Limited Express</e>
+<cmt>Deleted &quot;s&quot;Changed word order</cmt>
+<e type="check" ver="1">JNR/JR Kiha 82 Series Diesel Limited Express</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="47">
+<j>山陰本線乗り入れ、宮津線で特急「あさしお」として1982年まで運用された。</j>
+<e type="trans" ver="1">This rolling stock had been shared, as Limited Express &apos;Asashio,&apos; among Maizuru Line, San&apos;in Main Line and JNR&apos;s Miyazu Line until 1982.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This rolling stock ran on the San&apos;in Main Line and JNR&apos;s Miyazu Line as the Limited Express &apos;Asashio&apos; until 1982.</e>
+<cmt>&quot;had been shared&quot;→&quot;ran on&quot;Changed word orderAdded &quot;the&quot; to line names.</cmt>
+<e type="check" ver="1">This rolling stock ran on the Sanin Main Line and JNR&apos;s Miyazu Line as the Limited Express &apos;Asashio&apos; until 1982.</e>
+<cmt>San&apos;in→Sanin</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="48">
+<j>国鉄キハ181系気動車</j>
+<e type="trans" ver="1">JNR/JR Limited Express Diesel Cars Series Kiha 181</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR Limited Express Diesel Cars Series Kiha 181</e>
+<cmt>Deleted &quot;s&quot;Changed word order</cmt>
+<e type="check" ver="1">JNR/JR Limited Express Diesel Cars Series Kiha 181</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="49">
+<j>山陰本線乗り入れ、宮津線で特急「あさしお」を中心に、北近畿タンゴ鉄道宮津線に転換後も運用、1996年3月16日の廃止以後も臨時特急「たんご」（多客臨）として、運行していた。</j>
+<e type="trans" ver="1">This rolling stock, mostly as Limited Express &apos;Asashio,&apos; was shared among San&apos;in Main Line, former JNR/JR (later KTR) Miyazu Line and Maizuru Line, and even after its regular operation was ended on March 16, 1996, it continued running as Special Limited Express &apos;Tango&apos; (the special train at high season).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This rolling stock, mostly as the Limited Express &apos;Asashio,&apos; was shared among the San&apos;in Main Line, the former JNR/JR (later KTR) Miyazu Line and the Maizuru Line, and even after its regular operation was ended on March 16, 1996, it continued running during high season as the Special Limited Express &apos;Tango&apos;.</e>
+<cmt>Added &quot;the&quot; to line and train names.Moved and reworded &quot;(the special train at high season)&quot;</cmt>
+<e type="check" ver="1">This rolling stock, mostly as the Limited Express &apos;Asashio,&apos; was shared among the Sanin Main Line, the former JNR/JR (later KTR) Miyazu Line and the Maizuru Line, and even after its regular operation was ended on March 16, 1996, it continued running during high season as the Special Limited Express &apos;Tango.&apos;</e>
+<cmt>San&apos;in→Saninピリオドを&apos;内に移動</cmt>
+</sen>
+<sen id="50">
+<j>時折団体列車として乗り入れることがある。</j>
+<e type="trans" ver="1">And even today, it occasionally shares the track with Maizuru Line as a train for a group passengers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It still occasionally runs on the Maizuru Line as a train for a group passengers.</e>
+<cmt>&quot;It still&quot;→&quot;And even today, it&quot;&quot;shares the track with&quot;→&quot;runs on the&quot;</cmt>
+<e type="check" ver="1">It still occasionally runs on the Maizuru Line as a train for a group of passengers.</e>
+<cmt>”of”の脱落- “a group passengers.”=&gt;”a group of passengers.”</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="51">
+<j>（キハ82系・キハ181系気動車は向日町運転所（現・JR西日本京都総合運転所)、キハ58・28系気動車の一部とキハ48形気動車は敦賀運転所（現・JR西日本福井地域鉄道部敦賀運転所派出所）所属、他は福知山機関区（現・JR西日本福知山運転所）所属）</j>
+<e type="trans" ver="1">(The Diesel Cars Series Kiha 82 and 181 belonged to Hyuga Railway Yard, which is the present JR West Kyoto General Railway Yard, and some of the Series Kiha 58 &amp; 28 and all of the Type Kiha 48 belonged to Tsuruga Railway Yard, which is the present JR West Tsuruga Railway Yard&apos;s Branch in Fukui Region&apos;s Railway Division, and the other rolling stock belonged to Fukuchiyama Railway Yard, which is the present Fukuchiyama Railway Yard.</e>
+<cmt>1.B.オリジナル2行目の二重線は訳者が補充しました。２．「運転所」・「機関区」についてはセル91に同じです。３．「鉄道部」については、www.jru7.net/…/view-fukuchiyama20050428.htm に「姫路鉄道部」に関して Railway Division の使用例はあります。</cmt>
+<e type="trans" ver="2">(The Kiha Types 82 and 181 belonged to Hyuga Railway Yard, which is now JR West Kyoto General Railway Yard, and some of the Kiha 58 &amp; 28 types and all of the Kiha 48 Type engines belonged to Tsuruga Railway Yard, which is now JR West Fukui Region Railway Division&apos;s Tsuruga Railway Branch Yard; the other rolling stock belonged to Fukuchiyama Railway Yard, which is now Fukuchiyama Railway Yard.)</e>
+<cmt>Changed word order&quot;the present&quot;→&quot;now&quot;</cmt>
+<e type="check" ver="1">(The Kiha Types 82 and 181 belonged to Hyuga Railway Yard, which is now JR West Kyoto General Railway Yard, and some of the Kiha 58 &amp; 28 types and all of the Kiha 48 Type engines belonged to Tsuruga Railway Yard, which is now JR West Fukui Region Railway Division&apos;s Tsuruga Railway Branch Yard; the other rolling stock belonged to Fukuchiyama Railway Yard, which is now JR West Fukuchiyama Railway Yard.)</e>
+<cmt>JR West補足</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>利用状況</j>
+<e type="trans" ver="1">Situation of passengers&apos; use</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger Use</e>
+<cmt>Deleted &quot;Situation of &quot;</cmt>
+<e type="check" ver="1">Passenger Use</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="52">
+<j>ほぼ全ての列車が全線を走破するが、その利用は京都府北部の中核都市である舞鶴市の代表駅である東舞鶴駅と西舞鶴駅が中心で、そのため西舞鶴駅をのぞく中間駅は利用が低調である。</j>
+<e type="trans" ver="1">Almost all trains run the entire line, but passengers&apos; use centers on Higashi-Maizuru Station and Nishi-Maizuru Station that are both typical of the core city, Maizuru, in the northern part of Kyoto Prefecture, so the other stations in between the starting and terminal stations are used by much less people, except for Nishi-Maizuru Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Almost all trains run the entire line, but most passengers use Higashi-Maizuru Station and Nishi-Maizuru Station, both of which serve Maizuru, a major city in northern Kyoto Prefecture, with the other stations, except Nishi-Maizuru Station, being used by fewer people.</e>
+<cmt>&quot;passengers&apos; use centers on&quot;→&quot;most passengers use&quot;&quot;that are both typical of the&quot;→&quot;both of which serve&quot;&quot;the core city&quot;→&quot;a major city&quot;&quot;so&quot;→&quot;with&quot;Deleted &quot;in between the starting and terminal stations are&quot;&quot;much less&quot;→&quot;fewer&quot;</cmt>
+<e type="check" ver="1">Almost all trains run the entire line, but most passengers use Higashi-Maizuru Station and Nishi-Maizuru Station, both of which serve Maizuru, a major city in northern Kyoto Prefecture, with the other stations, except Nishi-Maizuru Station, being used by fewer people.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>なお特別急行列車および特急に接続する普通列車（特急リレー号）は、舞鶴市に国や府の出張官庁、また企業の支店・営業所などが集中している事からビジネス利用が多いが、それ以外の普通列車は通学等の利用が多い。</j>
+<e type="trans" ver="1">In addition, limited expresses, as well as local trains that connect with limited expresses (Connector Train), are mainly used for a business trip, because the central and prefectural government agencies, as well as companies&apos; branches and offices, are centered in Maizuru City, and the other local trains are mainly used for commuting to school.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, because central and prefectural government agencies, as well as companies&apos; branches and offices, are located in Maizuru City, the limited expresses, as well as the local &apos;Relay Trains&apos; that connect with them, are mainly used by business commuters, while the other local trains are mainly used for commuting to school.</e>
+<cmt>Changed word order&quot;(Connector Train)&quot;→&quot;&apos;Relay Trains&apos;&quot;&quot;for a business trip&quot;→&quot;by business commuters&quot;---</cmt>
+<e type="check" ver="1">In addition, because central and prefectural government agencies, as well as companies&apos; branches and offices, are located in Maizuru City, the limited expresses, as well as the local &apos;Relay Trains&apos; that connect with them, are mainly used by business commuters, while the other local trains are mainly used for commuting to school.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>1999年（平成12年）10月に電化開業して以後、一貫して利用者数を増やしてきたが、近年は微減傾向である。</j>
+<e type="trans" ver="1">Since its electrification and restart in October, 1999, Maizuru Line has continued growing in passengers, but the number is declining slightly in recent years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Following its electrification and reopening in October, 1999, the number of passengers using the Maizuru Line steadily increased, but figures have been declining slightly in recent years.</e>
+<cmt>&quot;Since&quot;→&quot;following&quot;&quot;restart&quot;→&quot;reopening&quot;Reworded final part of sentence</cmt>
+<e type="check" ver="1">Following its electrification and reopening in October 1999, the number of passengers using the Maizuru Line steadily increased, but figures have been declining slightly in recent years.</e>
+<cmt>コンマ削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="55">
+<j>元は阪鶴鉄道・京都鉄道が計画していた路線だが、日露戦争を控え着工を急ぐ必要性から1904年に官設で福知山～綾部～新舞鶴（現在の東舞鶴）間と支線が開通、阪鶴鉄道に貸与されて開業した。</j>
+<e type="trans" ver="1">Originally, Hankaku Railway Company and Kyoto Railway Company planned to begin the construction of Maizuru Line, but the Japanese government needed to bring the schedule forward with the Russo-Japanese War close at hand, so the line was established by the nation in 1904, when the main line opened between Fukuchiyama Station and Shin-Maizuru Station (the present Higashi-Maizuru Station) via Ayabe Station, as well as the branch line, and these lines were leased to Hankaku Railway Company.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Originally, the Maizuru Line was a joint plan between the Hankaku Railway Company and the Kyoto Railway Company but with the Russo-Japanese War looming, the Japanese government needed to bring the schedule forward, so the government took over and opened the line, which ran from Fukuchiyama Station to Shin-Maizuru Station (present day Higashi-Maizuru Station) via Ayabe Station, and branch lines, in 1904 and then leased it to the Hankaku Railway Company.</e>
+<cmt>Reworded sentence&quot;close at hand&quot;→&quot;looming&quot;</cmt>
+<e type="check" ver="1">Originally, the Maizuru Line was a joint plan between the Hankaku Railway Company and the Kyoto Railway Company but with the Russo-Japanese War looming, the Japanese government needed to bring the schedule forward, so the government took over and opened the line, which ran from Fukuchiyama Station to Shin-Maizuru Station (present day Higashi-Maizuru Station) via Ayabe Station, and branch lines, in 1904 and then leased it to the Hankaku Railway Company.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>支線として舞鶴港線（西舞鶴～舞鶴港間）や、出征者や戦場からの引揚者を運んだ中舞鶴線（東舞鶴～中舞鶴間）などを有していたが、1985年までに全て廃止されている。</j>
+<e type="trans" ver="1">Maizuru Line operated some branch lines, including Maizuruko Line (between Nishi-Maizuru Station and Maizuruko Station) and Naka-Maizuru Line (between Higashi-Maizuru Station and Naka-Maizuru Station) that tranported soldiers and repatriates from battlefields, but these branch lines were all ended by 1985.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The branch lines, including the Maizuruko Line (between Nishi-Maizuru Station and Maizuruko Station) and the Naka-Maizuru Line (between Higashi-Maizuru Station and Naka-Maizuru Station), which transported departing and repatriated soldiers, had all ceased operating by 1985.</e>
+<cmt>Changed word order&quot;soldiers and repatriate&quot;→&quot;departing and repatriated soldiers&quot;&quot;but these branch lines were all ended&quot;→&quot;had all ceased operating&quot;</cmt>
+<e type="check" ver="1">The branch lines, including the Maizuruko Line (between Nishi-Maizuru Station and Maizuruko Station) and the Naka-Maizuru Line (between Higashi-Maizuru Station and Naka-Maizuru Station), which transported departing and repatriated soldiers, had all ceased operating by 1985.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>年表</j>
+<e type="trans" ver="1">Chronology</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chronology</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Timeline</e>
+<cmt>スポットチェックによる統一</cmt>
+</tit>
+<par id="1">
+<sen id="57">
+<j>1904年（明治37年）11月3日 - 福知山～綾部～新舞鶴間が日本国有鉄道で開業（綾部～新舞鶴間は16.4マイル≒26.39km）。</j>
+<e type="trans" ver="1">November 3, 1904---Japan National Railways opened a line between Fukuchiyama Station and Shin-Maizuru Station via Ayabe Station (the distance between Ayabe Station and Shin-Maizuru Station is 16.4 miles≒26.39km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 3, 1904 --- Line between between Fukuchiyama Station and Shin-Maizuru Station, via Ayabe Station, opened by Japan National Railways (distance between Ayabe Station and Shin-Maizuru Station - 16.4 miles≒26.39km).</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">November 3, 1904: Line between Fukuchiyama Station and Shin-Maizuru Station, via Ayabe Station, opened by Japan National Railways (distance between Ayabe Station and Shin-Maizuru Station - 16.4 miles ≒ 26.39 km).</e>
+<cmt>between重複削除単位の前にスペース挿入年表表記に統一</cmt>
+</sen>
+<sen id="58">
+<j>同時に阪鶴鉄道に貸与。</j>
+<e type="trans" ver="1">At the same time, the line was leased to Hankaku Railway Company.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Line was leased concurrently to Hankaku Railway Company.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">Line was leased concurrently to Hankaku Railway Company.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>現在の舞鶴線にあたる区間に綾部駅、梅迫駅、舞鶴駅（現在の西舞鶴駅）、新舞鶴駅（現在の東舞鶴駅）が開業。</j>
+<e type="trans" ver="1">And Ayabe Station, Umezako Station, Maizuru Station (the present Nishi-Maizuru Station) and Shin-Maizuru Station (the present Higashi-Maizuru Station) opened on the railway section that constitutes the present Maizuru Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ayabe Station, Umezako Station, Maizuru Station (present day Nishi-Maizuru Station) and Shin-Maizuru Station (present day Higashi-Maizuru Station) opened on section constituting present day Maizuru Line.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">Ayabe Station, Umezako Station, Maizuru Station (present day Nishi-Maizuru Station) and Shin-Maizuru Station (present day Higashi-Maizuru Station) opened on the section constituting the present day Maizuru Line.</e>
+<cmt>“the”定冠詞必要。. “opened on section constituting present” -&gt; “opened on the section constituting the present”</cmt>
+</sen>
+<sen id="60">
+<j>舞鶴～舞鶴海岸荷扱所の軍用線も開業。</j>
+<e type="trans" ver="1">The military railway also opened between Maizuru Station and Maizuru Coast Freight Office Station.</e>
+<cmt>「荷扱所」（freight office) については朝日出版・E-dic　を参照しました。</cmt>
+<e type="trans" ver="2">Military railway opened between Maizuru Station and Maizuru Coast Freight Office Station.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">Military railway opened between Maizuru Station and Maizuru Coast Freight Office Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="61">
+<j>1907年（明治40年）8月1日 - 阪鶴鉄道が国有化。</j>
+<e type="trans" ver="1">August 1, 1907---Hankaku Railway Company was nationlized.</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 1, 1907 --- Hankaku Railway Company nationlized.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">August 1, 1907: Hankaku Railway Company nationalized.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="62">
+<j>11月1日 - 舞鶴～舞鶴海岸荷扱所に営業マイル設定（1.0M≒1.61km）。</j>
+<e type="trans" ver="1">November 1---The railway distance began to be shown between Maizuru Station and Maizuru Coast Freight Office Station (1.0M≒1.61km).</e>
+<cmt>「営業マイル」が何を意味するのかは明確には分かりませんでしたが、ここでは「路線距離（の表示）」のこととして訳しました。</cmt>
+<e type="trans" ver="2">November 1 --- Establishment of operating distance (1.0M≒1.61km) between Maizuru Station and Maizuru Coast Freight Office Station.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.&quot;railway&quot;→&quot;operating&quot;</cmt>
+<e type="check" ver="1">November 1: Establishment of operating distance (1.0 M ≒ 1.61 km) between Maizuru Station and Maizuru Coast Freight Office Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="63">
+<j>舞鶴海岸荷扱所が正式開業。</j>
+<e type="trans" ver="1">And Maizuru Coast Freight Office Station opened formally.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maizuru Coast Freight Office Station officially opened.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">Maizuru Coast Freight Office Station officially opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="64">
+<j>1909年（明治42年）10月12日 - 線路名称制定、神崎（現在の尼崎駅 (JR西日本)）～福知山～新舞鶴間、舞鶴～舞鶴海岸間などを阪鶴線とする。</j>
+<e type="trans" ver="1">October 12, 1909---The line was given its name, Hankaku Line, for some sections, including one from Kanzaki Station (the present JR West Amagasaki Station) to Shin-Maizuru Station via Fukuchiyama Station, and one from Maizuru Station to Maizuru Coast Freight Office Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 12, 1909---Line named Hankaku Line for some sections, including from Kanzaki Station (present day JR West Amagasaki Station) to Shin-Maizuru Station, via Fukuchiyama Station and from Maizuru Station to Maizuru Coast Freight Office Station.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">October 12, 1909: Line named Hankaku Line for some sections, including from Kanzaki Station (present day JR West Amagasaki Station) to Shin-Maizuru Station, via Fukuchiyama Station and from Maizuru Station to Maizuru Coast Freight Office Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="65">
+<j>1912年（明治45年）3月1日 - 綾部～新舞鶴間、舞鶴～舞鶴海岸間を分離し舞鶴線に改称。</j>
+<e type="trans" ver="1">March 1, 1912---The line separated the section between Ayabe Station and Shin-Maizuru Station from that between Maizuru Station and Maizuru Coast Freight Office Station, and the former was renamed Maizuru Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 1, 1912---Line from Ayabe Station to Shin-Maizuru Station and from Maizuru Station to Maizuru Coast Freight Office Station separated and renamed Maizuru Line.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">March 1, 1912: Line from Ayabe Station to Shin-Maizuru Station and from Maizuru Station to Maizuru Coast Freight Office Station separated and renamed Maizuru Line.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="66">
+<j>1913年（大正2年）4月10日 - 舞鶴海岸荷扱所を海舞鶴駅に改称。</j>
+<e type="trans" ver="1">April 10, 1913---Maizuru Coast Freight Office Station was renamed Umi-Maizuru Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 10, 1913---Maizuru Coast Freight Office Station renamed Umi-Maizuru Station.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">April 10, 1913: Maizuru Coast Freight Office Station renamed Umi-Maizuru Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="67">
+<j>舞鶴～海舞鶴間の旅客営業を開始。</j>
+<e type="trans" ver="1">And the operation of passengers&apos; transportation began between Maizuru Station and Umi-Maizuru Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Start of passenger service between Maizuru Station and Umi-Maizuru Station.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Start of passenger service between Maizuru Station and Umi-Maizuru Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="68">
+<j>1919年（大正8年）7月21日 - 支線（中舞鶴線）新舞鶴～中舞鶴間（2.1M≒3.38km）が開業。</j>
+<e type="trans" ver="1">July 21, 1919---The branch line (Naka-Maizuru Line) opened between Shin-Maizuru Station and Naka-Maizuru Station (2.1M≒3.38km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">July 21, 1919---Branch line (Naka-Maizuru Line) between Shin-Maizuru Station and Naka-Maizuru Station (2.1M≒3.38km) opened.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">July 21, 1919: Branch line (Naka-Maizuru Line) between Shin-Maizuru Station and Naka-Maizuru Station (2.1 M ≒ 3.38 km) opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="69">
+<j>東門駅（後の北吸駅）、中舞鶴駅が開業。</j>
+<e type="trans" ver="1">And Tomon Station (Kitasui Station in later years) &amp; Naka-Maizuru Station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tomon Station (later Kitasui Station) and Naka-Maizuru Station opened.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">Tomon Station (later Kitasui Station) and Naka-Maizuru Station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="70">
+<j>1924年（大正13年）4月12日 - 舞鶴～海舞鶴間の旅客営業を廃止。</j>
+<e type="trans" ver="1">April 12, 1924---The operation of passengers&apos; transportation between Maizuru Station and Umi-Maizuru Station was ended.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 12, 1924---End of passenger service began between Maizuru Station and Umi-Maizuru Station.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">April 12, 1924: End of passenger service between Maizuru Station and Umi-Maizuru Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="71">
+<j>1929年（昭和4年）6月1日 - 梅迫～舞鶴間に中筋信号場開設。</j>
+<e type="trans" ver="1">June 1, 1929---Nakasuji Signal Station opened in between Umezako Station and Maizuru Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">June 1, 1929---Nakasuji Signal Station opened between Umezako Station and Maizuru Station.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">June 1, 1929: Nakasuji Signal Station opened between Umezako Station and Maizuru Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="72">
+<j>1930年（昭和5年）4月1日 - 営業距離の単位をマイルからメートルに変更（綾部～新舞鶴間 16.4M→26.4km、舞鶴～海舞鶴間 1.0M→1.8km、新舞鶴～中舞鶴間 2.1M→3.4km）。</j>
+<e type="trans" ver="1">April 1, 1930---The railway distance measure shifted from mile to meter (from Ayabe Station to Shin-Maizuru Station 16.4M=&gt;26.4km; from Maizuru Station to Umi-Maizuru Station 1.0M=&gt;1.8km; from Shin-Maizuru Station to Naka-Maizuru Station 2.1M=&gt;3.4km).</e>
+<cmt>ここの「営業距離」も「路線距離」のこととして訳しています。</cmt>
+<e type="trans" ver="2">April 1, 1930---Operating distances changed from miles to meters (from Ayabe Station to Shin-Maizuru Station 16.4M=&gt;26.4km; from Maizuru Station to Umi-Maizuru Station 1.0M=&gt;1.8km; from Shin-Maizuru Station to Naka-Maizuru Station 2.1M=&gt;3.4km).</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.&quot;railway&quot;→&quot;operating&quot;</cmt>
+<e type="check" ver="1">April 1, 1930: Operating distances changed from miles to meters (from Ayabe Station to Shin-Maizuru Station 16.4 M=&gt;26.4 km; from Maizuru Station to Umi-Maizuru Station 1.0 M=&gt;1.8 km; from Shin-Maizuru Station to Naka-Maizuru Station 2.1 M=&gt;3.4 km).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="73">
+<j>貨物支線 新舞鶴～新舞鶴港間 (1.3km) が開業。</j>
+<e type="trans" ver="1">And the branch line for freight transportation launched between Shin-Maizuru Station and Shin-Maizuruko Station (1.3km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Branch line for freight transportation between Shin-Maizuru Station and Shin-Maizuruko Station (1.3km) opened.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">Branch line for freight transportation between Shin-Maizuru Station and Shin-Maizuruko Station (1.3 km) opened.</e>
+<cmt>単位の前にスペース挿入</cmt>
+</sen>
+<sen id="74">
+<j>（貨）新舞鶴港駅が開業。</j>
+<e type="trans" ver="1">And also, Shin-Maizuruko Station (a freight depot) opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Freight depot Shin-Maizuruko Station opened.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">Freight depot Shin-Maizuruko Station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="75">
+<j>1939年（昭和14年）6月1日 - 新舞鶴駅を東舞鶴駅に、新舞鶴港駅を東舞鶴港駅に改称。</j>
+<e type="trans" ver="1">June 1, 1939---Shin-Maizuru Station was renamed Higashi-Maizuru Station and Shin-Maizuruko Station was renamed Higashi-Maizuruko Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">June 1, 1939---Shin-Maizuru Station renamed Higashi-Maizuru Station and Shin-Maizuruko Station renamed Higashi-Maizuruko Station.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">June 1, 1939: Shin-Maizuru Station renamed Higashi-Maizuru Station and Shin-Maizuruko Station renamed Higashi-Maizuruko Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="76">
+<j>1941年（昭和16年）9月1日 - 貨物支線 東舞鶴～東舞鶴港間が廃止。</j>
+<e type="trans" ver="1">September 1, 1941---The branch line above was ended.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 1, 1941---Branch line between Higashi-Maizuru Station and Shin-Maizuruko Station closed.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">September 1, 1941: Branch line between Higashi-Maizuru Station and Higashi-Maizuruko Station closed.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="77">
+<j>（貨）東舞鶴港駅が廃止。</j>
+<e type="trans" ver="1">And Higashi-Maizuruko Station (a freight depot) was closed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Freight depot Higashi-Maizuruko Station closed.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">Freight depot Higashi-Maizuruko Station closed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="78">
+<j>1944年（昭和19年）4月1日 - 舞鶴駅を西舞鶴駅に改称。</j>
+<e type="trans" ver="1">April 1, 1944---Maizuru Station was renamed Nishi-Maizuru Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1944---Maizuru Station renamed Nishi-Maizuru Station.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">April 1, 1944: Maizuru Station renamed Nishi-Maizuru Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="79">
+<j>1946年（昭和21年）9月1日 - 東門駅を北吸駅に改称。</j>
+<e type="trans" ver="1">September 1, 1946---Tomon Station was renamed Kitasui Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 1, 1946---Tomon Station renamed Kitasui Station.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">September 1, 1946: Tomon Station renamed Kitasui Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="80">
+<j>1951年（昭和26年）9月1日 - 中筋信号場を駅に格上げし真倉駅開業。</j>
+<e type="trans" ver="1">September 1, 1951---Nakasuji Signal Station was upgraded and reopened as Magura Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 1, 1951---Nakasuji Signal Station upgraded and reopened as Magura Station.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">September 1, 1951: Nakasuji Signal Station upgraded and reopened as Magura Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="81">
+<j>1960年（昭和35年）3月29日 - 淵垣駅開業。</j>
+<e type="trans" ver="1">March 29, 1960---Fuchigaki Station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 29, 1960---Fuchigaki Station opened.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">March 29, 1960: Fuchigaki Station opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="82">
+<j>1966年（昭和41年）10月1日 - 海舞鶴駅を舞鶴港駅に改称。</j>
+<e type="trans" ver="1">October 1, 1966---Umi-Maizuru Station was renamed Maizuruko Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 1, 1966---Umi-Maizuru Station renamed Maizuruko Station.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">October 1, 1966: Umi-Maizuru Station renamed Maizuruko Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="83">
+<j>1972年（昭和47年）11月1日 - 中舞鶴線 (3.4km) が廃止。</j>
+<e type="trans" ver="1">November 1, 1972---Naka-Maizuru Line (3.4km) was ended.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 1, 1972---Naka-Maizuru Line (3.4km) closed.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">November 1, 1972: Naka-Maizuru Line (3.4 km) closed.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="84">
+<j>北吸駅、中舞鶴駅が廃止。</j>
+<e type="trans" ver="1">And Kitasui Station and Naka-Maizuru Station were closed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitasui Station and Naka-Maizuru Station closed.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">Kitasui Station and Naka-Maizuru Station closed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="85">
+<j>1985年（昭和60年）3月14日 - 舞鶴港線 (1.8km) が廃止。</j>
+<e type="trans" ver="1">March 14, 1985---Maizuruko Line (1.8km) was ended.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 14, 1985---Maizuruko Line (1.8km) closed.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">March 14, 1985: Maizuruko Line (1.8 km) closed.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="86">
+<j>（貨）舞鶴港駅が廃止。</j>
+<e type="trans" ver="1">And Maizuruko Station (a freight depot) was closed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Freight depot Maizuruko Station closed.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">Freight depot Maizuruko Station closed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="87">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により西日本旅客鉄道が承継。</j>
+<e type="trans" ver="1">April 1, 1987---The division and privatization of JNR gave birth to West Japan Railway Company, which took over Maizuru Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1987---Division and privatization of JNR gave birth to West Japan Railway Company, which took over Maizuru Line.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">April 1, 1987: Division and privatization of JNR gave birth to West Japan Railway Company, which took over the Maizuru Line.</e>
+<cmt>“the”定冠詞必要。 - “over Maizuru Line.”=&gt;”over the Maizuru Line.”年表表記に統一</cmt>
+</sen>
+<sen id="88">
+<j>日本貨物鉄道が梅迫～東舞鶴間の鉄道事業者となる。</j>
+<e type="trans" ver="1">And Japan Freight Railway Company became a railway company that operated between Umezako Station and Higashi-Maizuru Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And Japan Freight Railway Company became a railway company that operated between Umezako Station and Higashi-Maizuru Station.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">And Japan Freight Railway Company became a railway company that operated between Umezako Station and Higashi-Maizuru Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="89">
+<j>綾部～梅迫間の貨物営業廃止。</j>
+<e type="trans" ver="1">The operation of freight transportation between Ayabe Station and Umezako Station was ended.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Freight service between Ayabe Station and Umezako Station discontinued.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">Freight service between Ayabe Station and Umezako Station discontinued.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="90">
+<j>1991年（平成3年）4月1日 - 舞鶴鉄道部設置。</j>
+<e type="trans" ver="1">April 1, 1991---Maizuru Railway Division was established.</e>
+<cmt>「鉄道部」については、www.jru7.net/…/view-fukuchiyama20050428.htm に「姫路鉄道部」に関して Railway Division の使用例はあります。</cmt>
+<e type="trans" ver="2">April 1, 1991---Establishment of Maizuru Railway Division.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">April 1, 1991: Establishment of Maizuru Railway Division.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="91">
+<j>ワンマン運転開始。</j>
+<e type="trans" ver="1">The operation without a conductor started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Start of driver-only service.</e>
+<cmt>&quot;The operation without a conductor started&quot;→&quot;Start of driver-only service&quot;</cmt>
+<e type="check" ver="1">Start of driver-only service.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="92">
+<j>1999年（平成11年）3月31日 - 日本貨物鉄道の第二種鉄道事業（梅迫～東舞鶴間）廃止。</j>
+<e type="trans" ver="1">March 31, 1999---Japan Freight Railway Company ended Type ⅡRailway Business (between Umezako Station and Higashi-Maizuru Station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 31, 1999---Japan Freight Railway Company ended Type ⅡRailway Business (between Umezako Station and Higashi-Maizuru Station).</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">March 31, 1999: Japan Freight Railway Company ended Type ⅡRailway Business (between Umezako Station and Higashi-Maizuru Station).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="93">
+<j>10月2日 - 綾部～東舞鶴間が電化。</j>
+<e type="trans" ver="1">October 2---The line was electrified between Ayabe Station and Higashi-Maizuru Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 2---Line between Ayabe Station and Higashi-Maizuru Station electrified.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">October 2: Line between Ayabe Station and Higashi-Maizuru Station electrified.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="94">
+<j>特急まいづる（京都～東舞鶴）運転開始。</j>
+<e type="trans" ver="1">The Limited Express Maizuru began its operation (between Kyoto Station and Higashi-Maizuru Station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Start of Limited Express &apos;Maizuru&apos; service (between Kyoto Station and Higashi-Maizuru Station).</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">Start of Limited Express &apos;Maizuru&apos; service (between Kyoto Station and Higashi-Maizuru Station).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="95">
+<j>2006年（平成18年）7月1日 - 舞鶴鉄道部が廃止され、福知山支社の直轄に戻る。</j>
+<e type="trans" ver="1">July 1, 2006---Maizuru Railway Division was closed and Maizuru Line was put back under the direct control of Fukuchiyama Branch.</e>
+<cmt></cmt>
+<e type="trans" ver="2">July 1, 2006---Maizuru Railway Division closed and Maizuru Line put back under the direct control of Fukuchiyama Branch.</e>
+<cmt>For all sentences in this section I made the English more &apos;note&apos; style - eg deletion of articles, auxilliary verbs - to make it similar to the Japanese style.</cmt>
+<e type="check" ver="1">July 1, 2006: Maizuru Railway Division closed and Maizuru Line put back under the direct control of Fukuchiyama Branch.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>駅一覧</j>
+<e type="trans" ver="1">List of Stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">List of Stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">List of Stations</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="9">
+<tit>
+<j>廃止区間</j>
+<e type="trans" ver="1">Section ended</e>
+<cmt></cmt>
+<e type="trans" ver="2">Closed Sections</e>
+<cmt>&quot;ended&quot;→&quot;closed&quot;</cmt>
+<e type="check" ver="1">Closed Sections</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="96">
+<j>駅名は廃止時点のもの。</j>
+<e type="trans" ver="1">The name of each station is what it had at the time of closure.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The name of each station is that at the time of closure.</e>
+<cmt>&quot;what it had&quot;→&quot;that&quot;</cmt>
+<e type="check" ver="1">The name of each station is that at the time of closure.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="97">
+<j>括弧内は起点からの営業キロ。</j>
+<e type="trans" ver="1">The figure in the parentheses shows the operation kilometers from the starting point.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The figure in parentheses shows the operating distance from the starting point.</e>
+<cmt>Deleted &quot;the&quot;&quot;operation kilometers&quot;→&quot;operating distance&quot;</cmt>
+<e type="check" ver="1">The figure in parentheses shows the operating distance from the starting point.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="98">
+<j>貨物支線（舞鶴港線）</j>
+<e type="trans" ver="1">Branch line for freight transportation (Maizuruko Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Branch line for freight transportation (Maizuruko Line)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Branch line for freight transportation (Maizuruko Line)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="99">
+<j>西舞鶴駅 (0.0km) - （貨）舞鶴港駅 (1.8km)</j>
+<e type="trans" ver="1">Nishi-Maizuru Station (0.0km)--(a freight depot) Maizuruko Station (1.8km)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishi-Maizuru Station (0.0km) -- Maizuruko Station (freight depot) (1.8km)</e>
+<cmt>Added spaces&quot;Moved freight depot&quot;</cmt>
+<e type="check" ver="1">Nishi-Maizuru Station (0.0 km) -- Maizuruko Station (freight depot) (1.8 km)</e>
+<cmt>単位の前にスペース挿入</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="100">
+<j>支線（中舞鶴線）</j>
+<e type="trans" ver="1">Branch line (Naka-Maizuru Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Branch line (Naka-Maizuru Line)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Branch line (Naka-Maizuru Line)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="101">
+<j>東舞鶴駅 (0.0km) - 北吸駅 (1.6km) - 中舞鶴駅 (3.4km)</j>
+<e type="trans" ver="1">Higashi-Maizuru Station (0.0km)--Kitasui Station (1.6km)--Naka-Maizuru Station (3.4km)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Higashi-Maizuru Station (0.0km) -- Kitasui Station (1.6km) -- Naka-Maizuru Station (3.4km)</e>
+<cmt>Added spaces</cmt>
+<e type="check" ver="1">Higashi-Maizuru Station (0.0 km) -- Kitasui Station (1.6 km) -- Naka-Maizuru Station (3.4 km)</e>
+<cmt>単位の前にスペース挿入</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="102">
+<j>貨物支線</j>
+<e type="trans" ver="1">Branch line for freight transportation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Branch line for freight transportation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Branch line for freight transportation</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="103">
+<j>東舞鶴駅 (0.0km) - （貨）東舞鶴港駅 (1.3km)</j>
+<e type="trans" ver="1">Higashi-Maizuru Station (0.0km)--(a freight depot) Higashi-Maizuruko Station (1.3km)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Higashi-Maizuru Station (0.0km) -- Higashi-Maizuruko Station (freight depot) (1.3km)</e>
+<cmt>Added spaces&quot;Moved freight depot&quot;</cmt>
+<e type="check" ver="1">Higashi-Maizuru Station (0.0 km) -- Higashi-Maizuruko Station (freight depot) (1.3 km)</e>
+<cmt>単位の前にスペース挿入</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 BOTarate(id:185620), Tigers0022(id:59186), Nnh(id:474), Kiha58-1047(id:86788), Sat.K(id:3751), Tomos(id:10), Mover(id:7146), Ikaxer(id:61759), エアスマップIRE(id:13873), Utsuda(id:605), Mop(id:12061), Rusk(id:9895), 継之助(id:39352), Goki(id:7107), 本屋(id:125948), Kone(id:377), Amanokaze(id:83857), Mutumi06(id:82739), Hirotaro(id:1437), CC(id:4162), Yamane-D(id:5165), 210.(id:9838), エアスマップＩＲＥ(id:17869), Tokacyan(id:24008), Sea of Japan(id:3230), 韓国と音楽を愛する男(id:59246), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

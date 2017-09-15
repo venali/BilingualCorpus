@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>定田</j>
+<e type="trans" ver="1">Joden</e>
+<cmt></cmt>
+<e type="trans" ver="2">Joden</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Joden</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>定田（じょうでん）とは、荘園・公領に対する検注によって官物・所当・年貢・公事の賦課対象と認定された田。</j>
+<e type="trans" ver="1">Joden refers to rice fields which were designated, as a result of kenchu (land survey) on territories belonging to shoen (manors) and koryo (public lands), as taxable lands in regard to the payment of kanmotsu (tribute goods paid as taxes or tithes), shoto (tax on rice fields), nengu (annual tribute, land tax), and kuji (public duties).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Joden refers to rice fields which were designated, as a result of a kenchu (land survey) on territories belonging to shoen (manors) and koryo (public lands), as taxable lands in regard to the payment of kanmotsu (tribute goods paid as taxes or tithes), shoto (tax on rice fields), nengu (annual tribute, land tax), and kuji (public duties).</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Joden (定田) refers to rice fields which were designated, as a result of a kenchu (land survey) on territories belonging to shoen (manors) and koryo (public lands), as taxable lands in regard to the payment of kanmotsu (tribute goods paid as taxes or tithes), shoto (tax on rice fields), nengu (annual tribute, land tax), and kuji (public duties).</e>
+<cmt>後述で同一の読み表記があるため、漢字を補足しました。</cmt>
+</sen>
+<sen id="2">
+<j>荘園・公領における租税賦課の基準となる。</j>
+<e type="trans" ver="1">They were regarded as the benchmark for taxation imposed within shoen and koryo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They were regarded as the benchmark for taxation imposed within shoen and koryo.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They were regarded as the benchmark for taxation imposed within shoen and koryo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>定公事田・定公田とも。</j>
+<e type="trans" ver="1">They were also called jokojiden or jokoden.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They were also called jokojiden or jokoden.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They were also called jokojiden or jokoden.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>荘園・公領全体の田地のうち除田を除いたものが定田となった。</j>
+<e type="trans" ver="1">Of the rice fields within shoen and koryo, there were two categories of fields; joden (taxable rice fields) and the rest, which were categorized as tax-free rice fields (run-down fields and fields belonged to shrines and temples).</e>
+<cmt>一原文一訳文例外対処。　「除田」は「tax-free rice fields」と訳し、括弧以下(run-down fields and fields belonged to shrines and temples)説明を付け足しました。</cmt>
+<e type="trans" ver="2">Of the rice fields within shoen and koryo, there were two categories of fields; joden (taxable rice fields) and the rest, which were categorized as tax-free rice fields (run-down fields and fields belonging to shrines and temples).</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Of the rice fields within shoen and koryo, there were two categories of fields; joden (定田, taxable rice fields) and the rest, which were categorized as joden (除田, tax-free rice field).</e>
+<cmt>読みの表記が同一の漢字を補足しました。</cmt>
+</sen>
+<sen id="5">
+<j>しかし、恒例の検注及び災害時などに行われる臨時の検注によってその除田の総面積が変化するため、当然定田の面積にも変更をもたらした。</j>
+<e type="trans" ver="1">The dimension of the tax-free rice fields, however, could change as a result of an emergency kenchu in a time of disaster, and the dimension of joden changed accordingly.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">The dimensions of the tax-free rice fields, however, could change as a result of an emergency kenchu in a time of disaster, and the dimensions of joden changed accordingly.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">The dimensions of the tax-free rice fields, however, could change as a result of an emergency kenchu in a time of disaster, and the dimensions of joden changed accordingly.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>荘園においては年貢・公事が賦課される名田を対象とするのが一般的であるが、荘園領主直営の佃・正作や一色田・給名田をはじめとする雑役免の対象地、散田などを含む。</j>
+<e type="trans" ver="1">In shoen, myoden (rice-field lots in charge of a nominal holder), which were subject to nengu and kuji, were generally categorized as joden, but also lands which were subject to zoyakumen (exception from all levies except the regular land tax), including the cultivation fields and rice fields directly managed by the shoen owners as well as isshikiden (partially exempt fields) and kyumyoden (rice fields given to an officer or a steward of shoen by his lord), and sanden (deteriorated rice fields) were included in the category.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the manors, myoden (rice-field lots held by a nominal holder), which were subject to nengu and kuji, were generally categorized as joden, but also any lands which were subject to zoyakumen, or exception from all levies except the regular land tax, including the cultivation of fields and rice fields directly managed by the manor owners, as well as isshikiden (partially exempt fields), kyumyoden (rice fields given to an officer or a steward of a manor by his lord), and sanden (deteriorated rice fields) were included in the category.</e>
+<cmt>The words &apos;nengu&apos; and &apos;kuji&apos; need explaining. Grammar, punctuation.</cmt>
+<e type="check" ver="1">In the manors, myoden (rice-field lots held by a nominal holder), which were subject to nengu and kuji, were generally categorized as joden, but also any lands which were subject to zoyakumen (exception from all levies except the regular land tax) including the cultivation of fields and rice fields directly managed by the manor owners, as well as isshikiden (partially exempt fields), kyumyoden (rice fields given to an officer or a steward of a manor by his lord), and sanden (deteriorated rice fields) were included in the category.</e>
+<cmt>表記を変えました。</cmt>
+</sen>
+<sen id="7">
+<j>また後には畠も定田に含まれることになった。</j>
+<e type="trans" ver="1">In the later generation, cultivation fields were also regarded as joden.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In later years cultivated fields were also regarded as joden.</e>
+<cmt>Word choice, grammar.</cmt>
+<e type="check" ver="1">In later years cultivated fields were also regarded as joden.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

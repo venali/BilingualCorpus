@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>叡山電鉄叡山本線</j>
+<e type="trans" ver="1">Eizan Main Line of Eizan Electric Railway Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Eizan Main Line, Eizan Electric Railway Co., Ltd.</e>
+<cmt>「of」削除、コンマ挿入</cmt>
+<e type="check" ver="1">Eizan Main Line, Eizan Electric Railway Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>叡山本線（えいざんほんせん）は、京都府京都市左京区の出町柳駅から八瀬比叡山口駅までを結ぶ叡山電鉄の鉄道路線。</j>
+<e type="trans" ver="1">Eizan Main Line is a railway route of Eizan Electric Railway Co., Ltd. connecting from Demachiyanagi Station (Sakyo Ward, Kyoto City, Kyoto Prefecture) to Yase-Hieizanguchi Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Eizan Main Line is a railway route belonging to Eizan Electric Railway; it connects Demachiyanagi Station (Sakyo Ward, Kyoto City, Kyoto Prefecture) with Yase-Hieizanguchi Station.</e>
+<cmt>「of」→「belonging to」、「Co., Ltd.」は最初だけで良いと思います。</cmt>
+<e type="check" ver="1">The Eizan Main Line is a railway line operated by Eizan Electric Railway that connects Demachiyanagi Station (Sakyo Ward, Kyoto City, Kyoto Prefecture) and Yase-Hieizanguchi Station.</e>
+<cmt>「北野線」の修正に合わました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>路線データ</j>
+<e type="trans" ver="1">Route data</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route data</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route data</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>路線距離（営業キロ）：5.6km</j>
+<e type="trans" ver="1">Route distance (working kilometer): 5.6km</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route distance (working kilometers): 5.6km</e>
+<cmt>「s」挿入</cmt>
+<e type="check" ver="1">Line distance (working kilometers): 5.6 km</e>
+<cmt>Route→Line単位の前にスペース挿入</cmt>
+</sen>
+<sen id="3">
+<j>軌間：1435mm</j>
+<e type="trans" ver="1">Track gauge:1435mm</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track gauge:1435mm</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Track gauge: 1435mm</e>
+<cmt>：→:単位の前にスペース挿入</cmt>
+</sen>
+<sen id="4">
+<j>駅数：8駅（起終点駅含む）</j>
+<e type="trans" ver="1">Number of stations: 8 stations (including the origin station and the destination station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Number of stations: 8 stations (including the station of origin and the destination station)</e>
+<cmt>「origin station」→「station of origin」</cmt>
+<e type="check" ver="1">Number of stations: 8 (including the station of origin and the destination station)</e>
+<cmt>&quot;8 stations&quot;→&quot;8&quot;に変更しました。</cmt>
+</sen>
+<sen id="5">
+<j>複線区間：全線</j>
+<e type="trans" ver="1">The double-track regions: the entire route</e>
+<cmt></cmt>
+<e type="trans" ver="2">Double-tracked sections: entire route</e>
+<cmt>「the」削除、「-track sections」→「-tracked sections」</cmt>
+<e type="check" ver="1">Double-tracked sections: entire rail line</e>
+<cmt>&quot;entire route&quot;→&quot;entire rail line&quot;に変更しました。</cmt>
+</sen>
+<sen id="6">
+<j>電化区間：全線電化（直流600V）</j>
+<e type="trans" ver="1">The electrification region: the whole line is electrified. (direct current 600V)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Electrified sections: entire route (DC 600V).</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">Electrified sections: entire rail line (direct current 600 V).</e>
+<cmt>DC→direct current単位の前にスペース挿入 &quot;entire route&quot;→&quot;entire rail line&quot;に変更しました。</cmt>
+</sen>
+<sen id="7">
+<j>閉塞 (鉄道)：自動閉塞式</j>
+<e type="trans" ver="1">Block (railway): Automatic block system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Block (railway): Automatic block system</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Block (railway): Automatic block system</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>保安装置：自動列車停止装置（速度照査機能付）</j>
+<e type="trans" ver="1">Safety device: Automatic Train Stop System (with speed check function)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Safety device: Automatic Train Stop System (with speed check function)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Safety device: Automatic Train Stop System (with speed check function)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Outline</e>
+<cmt></cmt>
+<e type="trans" ver="2">Outline</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>Outline→Summary</cmt>
+</tit>
+<par id="1">
+<sen id="9">
+<j>京都市中心部から三宅八幡駅付近までの生活路線および、比叡山や八瀬比叡山口駅付近への行楽路線である。</j>
+<e type="trans" ver="1">It is a route essential for daily life from central part of Kyoto City to the vicinity of Miyake-hachiman Station, as well as a religious or excursion route to Mt.Hiei and Yase-Hieizanguchi Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This route is used in everyday life from the central part of Kyoto City to the Miyake-hachiman Station neighborhood; it is also used as a route for religious pilgrimages and pleasure excursions to Mt. Hiei and Yase-Hieizanguchi Station.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">This route is used in everyday life from the central part of Kyoto City to the Miyake-hachiman Station neighborhood; it is also used as a route for religious pilgrimages and pleasure excursions to Mt. Hiei and Yase-Hieizanguchi Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>一乗寺駅付近までは住宅と町工場の混在した地域、三宅八幡駅付近までは住宅地の中を走る。</j>
+<e type="trans" ver="1">Up to the vicinity of Ichijoji Station, the train goes through districts where houses and family-run business crowed together, and up to the vicinity of Miyake-hachiman Station, the train runs in residential quarters.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Up until the vicinity of Ichijoji Station, the route runs through districts where houses and family-run businesses crowd together; after that, it runs through residential districts until it reaches Miyake-hachiman Station.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">Up until the vicinity of Ichijoji Station, the route runs through districts where houses and family-run businesses crowd together; after that, it runs through residential districts until it reaches Miyake-hachiman Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>沿線には名所・旧跡も多く存在する。</j>
+<e type="trans" ver="1">Along the route, there are also a lot of famous spots and places of historic interest.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are many famous spots and places of historic interest along the route as well.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">There are many famous spots and places of historic interest along the route as well.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>三宅八幡駅をすぎると山裾を駆け上がり八瀬比叡山口駅に到達する。</j>
+<e type="trans" ver="1">After passing Miyake-hachiman Station, it runs in the mountain skirts and then reaches Yase-Hieizanguchi Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After Miyake-hachiman Station, the line runs through the mountain&apos;s foothills to Yase-Hieizanguchi Station.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">After Miyake-hachiman Station, the line runs through the mountain&apos;s foothills to Yase-Hieizanguchi Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="13">
+<j>八瀬比叡山口駅付近は比叡山へのケーブルカーへの乗り換えのほか、開業当時から京都電燈や地元が中心となり開発された。</j>
+<e type="trans" ver="1">Concerning the vicinity of the Yase Hieizanguchi Station, besides as the transfer to the cable car to Mountain Hiei, when trains started running there, the place was mainly developed by Kyoto Dento and the local bodies.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In addition to being developed as the transfer to the cable car to Mt. Hiei, the vicinity of Yase-Hieizanguchi Station was developed mainly by Kyoto Dento and local organizations, right from the beginning of service.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">In addition to being developed as the transfer to the cable car to Mt. Hiei, the vicinity of Yase-Hieizanguchi Station was developed mainly by Kyoto Dento and local organizations, right from the beginning of service.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>一時期駅名となった遊園地「森のゆうえんち」が開設されるなど観光地として賑わった。</j>
+<e type="trans" ver="1">The name of the station adopted once the name of the nearby amusement park &quot;Mori no Yuenchi (Amusement Park of the Forest)&quot;, and the place was crowded as a sightseeing spot.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">An amusement park, &apos;Mori no Yuenchi&apos; (Amusement Park of the Forest), was established; the station adopted the name of the amusement park for a time, and the place became a popular sightseeing spot.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">An amusement park, &apos;Mori no Yuenchi&apos; (Amusement Park of the Forest), was established; the station adopted the name of the amusement park for a time, and the place became a popular sightseeing spot.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>現在では一部の休日を除けば散策を楽しむような静かな観光地である。</j>
+<e type="trans" ver="1">Now, except for some holidays, it is a quiet sightseeing spot for enjoying strolling.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At present, with the exception of some holidays, it is a quiet sightseeing spot and a good place for a pleasant stroll.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">At present, with the exception of some holidays, it is a quiet sightseeing spot and a good place for a pleasant stroll.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>運行形態</j>
+<e type="trans" ver="1">Operation system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operating pattern</e>
+<cmt>Operation → Operating</cmt>
+<e type="check" ver="1">Operating pattern</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="16">
+<j>平日ダイヤと土休日ダイヤの2つを基本としている。</j>
+<e type="trans" ver="1">Basically, there are 2 train schedules: the &quot;weekday schedule&quot;, and the &quot;weekend or holiday schedule&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are 2 basic train schedules: the &quot;weekday schedule&quot;, and the &quot;weekend or holiday schedule&quot;.</e>
+<cmt>「Basically, there are 2」→「There are 2 basic」</cmt>
+<e type="check" ver="1">There are 2 basic train schedules: the weekday schedule, and the weekend or holiday schedule.</e>
+<cmt>原文に『』のない&quot;　&quot;を削除</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="17">
+<j>概ね、平日昼間時間帯は叡山電鉄鞍馬線直通の出町柳～二軒茶屋間の列車、出町柳～鞍馬間の列車、そして出町柳～八瀬比叡山口間の列車の順にそれぞれで20分間隔で運転され、鞍馬線直通電車の方が多くなっている。</j>
+<e type="trans" ver="1">Roughly speaking, during the daytime of a weekday, between Demachiyanagi Station and Nikenchaya Station, between Demachiyanagi Station and Kurama Station, between Demachiyanagi Station and Yase-Hieizanguchi Station, direct trains come respectively every 20 minutes. It becomes that there are more direct trains in Kurama Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In general, during weekdays on the Eizan Electric Railway&apos;s Kurama Line, direct trains are run at 20-minute intervals between Demachiyanagi Station and Nikenchaya Station, with regular trains running at the same intervals between Demachiyanagi Station and Kurama Station and between Demachiyanagi Station and Yase-Hieizanguchi Station; the number of direct trains traveling on the Kurama Line is growing.</e>
+<cmt>再構成して、一文に戻した。</cmt>
+<e type="check" ver="1">In general, during weekdays, direct trains are run on the Eizan Electric Railway&apos;s Kurama Line at 20-minute intervals between Demachiyanagi Station and Nikenchaya Station and between Demachiyanagi Station and Kurama Station, with regular trains running at the same intervals between Demachiyanagi Station and Yase-Hieizanguchi Station; the number of direct trains traveling on the Kurama Line is larger than that of Eizan Main Line.</e>
+<cmt>daytime of補足全体的に原文の意味の取り違えがあったので、大幅に修正しました。「Daytime of」は要りません。（「Weekday」に「Day」はすでに含まれて、普通に「人が仕事をする時間帯（9：00-5：00）を表しています。もしWeekdayの早朝か夕方でしたら、「Weekday mornings」か「Weekday evenings」になりますが、平日昼間は「Weekday」だけで十分です。</cmt>
+</sen>
+<sen id="18">
+<j>土休日昼間時間帯は鞍馬線直通の出町柳～鞍馬間の列車と、出町柳～八瀬比叡山口間の列車がそれぞれで15分間隔で運転される。</j>
+<e type="trans" ver="1">During the daytime of a weekend or a holiday, trains come every 15 minutes between Demachiyanagi Station and Kurama Station, and between Demachiyanagi Station and Yase-Hieizanguchi Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During weekends and holidays, direct trains are run on the Kurama Line at 15-minute intervals between Demachiyanagi Station and Kurama Station, with regular trains running at the same interval between Demachiyanagi Station and Yase-Hieizanguchi Station.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">During daytime of weekends and holidays, direct trains are run on the Kurama Line at 15-minute intervals between Demachiyanagi Station and Kurama Station, with regular trains running at the same interval between Demachiyanagi Station and Yase-Hieizanguchi Station.</e>
+<cmt>daytime of 補足</cmt>
+</sen>
+<sen id="19">
+<j>朝と夕方以降には鞍馬線市原駅で折り返す列車があるほか、車庫のある修学院駅発着となる列車もある。</j>
+<e type="trans" ver="1">While there are shuttle trains in Ichihara Station in the morning or after the evening, there are also trains arriving or departing from Shugakuin Station, which has a garage.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition to morning and late evening shuttle trains to and from the Kurama Line&apos;s Ichihara Station, trains also arrive at and depart from Shugakuin Station, which has a garage.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">In addition to morning and late evening shuttle trains to and from the Kurama Line&apos;s Ichihara Station, trains also arrive at and depart from Shugakuin Station, which has a garage.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>ごく一部の例外を除いて全列車ワンマン運転を行っている。</j>
+<e type="trans" ver="1">With only very few exceptions, all trains one-man is driven.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With a very few exceptions, all trains are operated by a single crew member, with no conductor on board.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">With a very few exceptions, all trains are operated by a single crew member, with no conductor on board.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="21">
+<j>お盆や年末等は平日でも土休日ダイヤで運行されることがある。</j>
+<e type="trans" ver="1">During the Bon Festival or end of year etc. even on a weekday, the trains may be running on a &quot;weekend or holiday schedule&quot;.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">During the Bon Festival or near New Year&apos;s, the trains may run on a weekend/holiday schedule, even on weekdays.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">During the Bon Festival or near New Year&apos;s, the trains may run on a weekend/holiday schedule, even on weekdays.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>観光シーズンには特別休日ダイヤが組まれることがあり、日中は最大で出町柳～鞍馬間の列車と出町柳～八瀬比叡山口間の列車がそれぞれ12分間隔で運転される。</j>
+<e type="trans" ver="1">And during a sightseeing season, there will be special holiday schedule with trains arriving at peak rush hours during daytime every 12 minutes respectively between Demachiyanagi Station and Kurama Station, and between Demachiyanagi Station and Yase-Hieizanguchi Station.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">There is a special holiday schedule during sightseeing seasons, where, during peak daytime rush hours, trains run at 12-minute intervals between Demachiyanagi Station and Kurama Station and between Demachiyanagi Statino and Yase-Hieizanguchi Station.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">There is a special holiday schedule during sightseeing seasons, where, during peak daytime rush hours, trains run at 12-minute intervals between Demachiyanagi Station and Kurama Station and between Demachiyanagi Station and Yase-Hieizanguchi Station.</e>
+<cmt>Statino→Station</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="23">
+<j>京都電燈により開業し、同社の叡山電鉄部の下に置かれた。</j>
+<e type="trans" ver="1">As Kyoto Dento, it started business operations and was put under Eizan Electric Railway Section of the same company.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line was opened by Kyoto Dento, then put under the control of the company&apos;s Eizan Electric Railway Section.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The line was opened by Kyoto Dento, then put under the control of the company&apos;s Eizan Electric Railway Section.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>また一時は、京都市電からの直通運転が行われていた。</j>
+<e type="trans" ver="1">Direct trains from Kyoto City Trams were once running.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For a time, direct Kyoto City Trams used the line.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">For a time, direct Kyoto City Trams used the line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="25">
+<j>1925年（大正14年）9月27日 京都電燈により出町柳～八瀬（現在の八瀬比叡山口）間が開業。</j>
+<e type="trans" ver="1">On September 27, 1925, Kyoto Dento started running trains between Demachiyanagi Station and Yase Station (present Yase-Hieizanguchi Station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 27, 1925, Kyoto Dento started running trains between Demachiyanagi Station and Yase Station (present Yase-Hieizanguchi Station).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">September 27, 1925: Kyoto Dento started running trains between Demachiyanagi Station and Yase Station (present Yase-Hieizanguchi Station).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="26">
+<j>1928年（昭和3年）12月1日 鞍馬電気鉄道により現在の鞍馬線、山端（現在の宝ヶ池）～市原間が開業。</j>
+<e type="trans" ver="1">On December 1, 1928, Kurama Electric Railway started running trains on present Kurama Line, between Yamahata Station (present Takaragaike Station) and Ichihara Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 1, 1928, Kurama Electric Railway started running trains on what is now the Kurama Line, between Yamahata Station (present Takaragaike Station) and Ichihara Station.</e>
+<cmt>「present Kurama」→「what is now the Kurama」</cmt>
+<e type="check" ver="1">December 1, 1928: Kurama Electric Railway started running trains on what is now the Kurama Line, between Yamahata Station (present Takaragaike Station) and Ichihara Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="27">
+<j>山端が接続駅となる。</j>
+<e type="trans" ver="1">Yamahata became the connecting station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yamahata became the connecting station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yamahata became the connecting station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="28">
+<j>1929年（昭和4年）12月20日 鞍馬電気鉄道が全通。</j>
+<e type="trans" ver="1">On December 20, 1929, trains started running in full operation for the entire Kurama Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 20, 1929, service along the entire Kurama Electric Railway began.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">December 20, 1929: Service along the entire Kurama Electric Railway began.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="29">
+<j>出町柳～山端～鞍馬で直通運転を開始。</j>
+<e type="trans" ver="1">Trains started running between Demachiyanagi Station, Yamahata Station and Kurama Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Direct trains began running between Demachiyanagi Station, Yamahata Station and Kurama Station.</e>
+<cmt>「Direct」挿入、「started」→「began」</cmt>
+<e type="check" ver="1">Direct trains began running between Demachiyanagi Station, Yamahata Station and Kurama Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="30">
+<j>1942年（昭和17年）3月2日 京福電気鉄道に譲渡。</j>
+<e type="trans" ver="1">On March 2, 1942, it was transferred with Keifuku Electric Railroad Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 2, 1942, the line was transferred to the Keifuku Electric Railroad Co.</e>
+<cmt>「it」→「the line」、「with」→「to the」、「Co., Ltd.」→「Co.」</cmt>
+<e type="check" ver="1">March 2, 1942: The line was transferred to the Keifuku Electric Railroad Co. Ltd.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="31">
+<j>1943年（昭和18年）7月10日 京都市電の東山線が延伸開業。</j>
+<e type="trans" ver="1">On July 10, 1943, Higashiyama Line was extended and Kyoto City Trams started running service.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On July 10, 1943, the Kyoto City Trams Higashiyama Line was extended and service began.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">July 10, 1943: The Kyoto City Trams Higashiyama Line was extended and service began.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="32">
+<j>特認により東大路通とは交差点となる。</j>
+<e type="trans" ver="1">By special recognition, Higashioji-dori Street is known as the &quot;intersection&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Higashioji-dori Street is specially recognized as the &quot;intersection&quot;.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">Higashioji-dori Street is specially recognized as an &quot;intersection.&quot;</e>
+<cmt>ピリオドを&quot;内に移動「東山線と東大路通が交わる部分は、踏切ではなく交差点となった」という意味で訳し直しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="33">
+<j>1944年（昭和19年）5月1日 山端（現在の宝ヶ池）～八瀬間が不要不急線として単線化され資材供出される。</j>
+<e type="trans" ver="1">On May 1, 1944, judged as a nonessential line, the region between Yamahata (present Takaragaike Station) and Yase was made single-tracked and materials are delivered out.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On May 1, 1944, the section between Yamahata (present Takaragaike Station) and Yase was judged a nonessential line; it was reduced to a single track, and its materials requisitioned.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">May 1, 1944: The section between Yamahata (present Takaragaike Station) and Yase was judged a nonessential line; it was reduced to a single track, and its materials requisitioned.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="34">
+<j>1949年（昭和24年）12月11日 元田中～山端間で、京都市電からの乗り入れ運転を開始。</j>
+<e type="trans" ver="1">On December 11, 1949, Kyoto City Trams entered the rail and started running between Mototanaka Station and Yamahata Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 11, 1949, the section between Mototanaka Station and Yamahata Station began to be serviced by Kyoto City Trams.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">December 11, 1949: The section between Mototanaka Station and Yamahata Station began to be serviced by Kyoto City Trams.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="35">
+<j>宝ヶ池にあった市営競輪場の観客輸送運行で、競輪開催日のみ実施。</j>
+<e type="trans" ver="1">The transportation service for the spectators of the municipal managed cycle race held near Takaragaike is only provided on a cycle race date.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Service was instituted to transport spectators to the municipal bicycle racetrack, which was near Takaragaike, and was provided only on race days.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">Service was instituted to transport spectators to the municipal bicycle racetrack, which was near Takaragaike, and was provided only on race days.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>車両は市電の京都市交通局1000形電車を使用し、叡山線内はホーム高さの関係でノンストップだった。</j>
+<e type="trans" ver="1">The carriages used were Kyoto Municipal Transportation Bureau Type 1000 Train; non-stop within Eizan Line because of the height of the platform.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The cars used were Kyoto Municipal Transportation Bureau Type 1000 train cars, and service on the Eizan Line was non-stop, due to the height of the platforms.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The cars used were Kyoto Municipal Transportation Bureau Type 1000 train cars, and service on the Eizan Line was non-stop, due to the height of the platforms.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="37">
+<j>1951年（昭和26年）7月1日 山端～八瀬間が再複線化。</j>
+<e type="trans" ver="1">On July 1, 1951, the region between Yamahata Station and Yase was made double-tracked again.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On July 1, 1951, double tracking was restored in the section between Yamahata Station and Yase.</e>
+<cmt>「region」→「section」、「was made double-tracked again」→「double tracking was restored」</cmt>
+<e type="check" ver="1">July 1, 1951: Double tracking was restored in the section between Yamahata Station and Yase Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="38">
+<j>1954年（昭和29年）6月10日 山端駅を宝ヶ池駅に改称。</j>
+<e type="trans" ver="1">On June 10, 1954, Yamahata Station was renamed as Takaragaike Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On June 10, 1954, Yamahata Station was renamed Takaragaike Station.</e>
+<cmt>「as」削除</cmt>
+<e type="check" ver="1">June 10, 1954: Yamahata Station was renamed Takaragaike Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="39">
+<j>1955年（昭和30年）9月1日 この日をもって京都市電からの乗り入れ運転を終了。</j>
+<e type="trans" ver="1">Effective from this date of September 1, 1955, the running service of Kyoto City Trams was ended.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 1, 1955, Kyoto City Trams stopped servicing this track.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">September 1, 1955: Kyoto City Trams stopped servicing this track.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="40">
+<j>当時の京都市議会から市営競輪場運営に対する異議が相次いだ事による競輪場閉鎖に伴うもの。</j>
+<e type="trans" ver="1">From the Kyoto City Assembly at that time, there were continuous objections to holding the municipal managed cycle races there. As a result, the station was closed with the closing of the cycle race course.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were continuous objections to the municipal cycle races from the current Kyoto City Assembly, and when the bicycle racetrack was closed, so was the station.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">There were continuous objections to the municipal cycle races from the current Kyoto City Assembly, and when the bicycle racetrack was closed, so was the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>競輪場跡地は後に「宝ヶ池公園」という子供同伴者を除いて中学生以上立ち入り禁止の公園となった。</j>
+<e type="trans" ver="1">The site of the cycle race course has become a children park named &quot;Takaragaike Park&quot;, which is off-limits to junior high school students or above, except for child companions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The site of the bicycle track was later made into a children&apos;s park called &apos;Takaragaike Park&apos;, which is off-limits to anyone older than junior high, unless they are accompanied by a child.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The site of the bicycle track was later made into a children&apos;s park called &apos;Takaragaike Park,&apos; which is off-limits to anyone older than junior high, unless they are accompanied by a child.</e>
+<cmt>コンマを&apos;内に移動</cmt>
+</sen>
+<sen id="42">
+<j>園内に場内スタンドの一部が残されていたが、2006年に解体撤去された。</j>
+<e type="trans" ver="1">A part of the course stand had been left in the garden. However in 2006, the dismantlement removal was done.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A section of the racetrack seating remained in the park until 2006, when it was dismantled and removed.</e>
+<cmt>再構成して、一文に戻した。</cmt>
+<e type="check" ver="1">A section of the racetrack seating remained in the park until 2006, when it was dismantled and removed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="43">
+<j>1965年（昭和40年）8月1日 八瀬駅を八瀬遊園駅に改称。</j>
+<e type="trans" ver="1">On August 1, 1965, Yase Station was renamed as Yase-Yuen Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On August 1, 1965, Yase Station was renamed Yase-Yuen Station.</e>
+<cmt>「as」削除</cmt>
+<e type="check" ver="1">August 1, 1965: Yase Station was renamed Yase-Yuen Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="44">
+<j>1970年（昭和45年）北山通の修学院付近、白川通の修学院～宝ヶ池付近が開通。</j>
+<e type="trans" ver="1">In 1970, trains started running in the vicinity of Kitayama-dori Street, Shugaku-in Temple of Shirakawa-dori Street and the vicinity of Takaragaike.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1970, trains began running in the vicinity of Kitayama-dori Street, and in the area between Shugaku-in Temple on Shirakawa-dori Street and Takaragaike.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">1970: Trains began running in the vicinity of Shugaku-in Temple on Kitayama-dori Street, and in the area between Shugaku-in Temple and Takaragaike on Shirakawa-dori Street.</e>
+<cmt>Shugaku-in Temple on補足場所の関係が原文とずれているので修正年表表記に統一</cmt>
+</sen>
+<sen id="45">
+<j>修学院駅移転。</j>
+<e type="trans" ver="1">Shugaku-in Station moved.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shugaku-in Station relocated.</e>
+<cmt>「moved」→「relocated」</cmt>
+<e type="check" ver="1">Shugaku-in Station relocated.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="46">
+<j>同時期に延長された市中心部直通の京都市営バス路線が当線の脅威となり始める。</j>
+<e type="trans" ver="1">The Kyoto municipal managed bus route that extended into the central city during the same period started to become a rival to this rail.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto municipal bus route was extended to the city center during this period, and began to compete with this line.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The Kyoto municipal bus route was extended to the city center during this period, and began to compete with this line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="47">
+<j>1978年（昭和53年）10月1日　京都市電が廃止。</j>
+<e type="trans" ver="1">On October 1, 1978, Kyoto City Trams were abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 1, 1978, Kyoto City Trams became defunct.</e>
+<cmt>「were abolished」→「became defunct」。京都市電とは会社のこと（単数形）か電車自体のこと（複数形）かが分からないため、動詞を選ぶことが難しいです。</cmt>
+<e type="check" ver="1">October 1, 1978: Kyoto City Trams became defunct.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="48">
+<j>東大路通交差点を踏切に変更。</j>
+<e type="trans" ver="1">The intersection at Higashioji-dori Street was changed into railroad crossing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The intersection at Higashioji-dori Street was converted into a railroad crossing.</e>
+<cmt>「changed into」→「converted into a」</cmt>
+<e type="check" ver="1">The intersection at Higashioji-dori Street was converted into a railroad crossing.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="49">
+<j>鉄軌道による他線との連絡が絶たれる。</j>
+<e type="trans" ver="1">The connection with other lines by rails was discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The connection with other lines by rails was discontinued.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The connection with other lines by rails was discontinued.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="50">
+<j>1978年（昭和53年）10月19日 日本国内最後の集電装置集電が廃止。</j>
+<e type="trans" ver="1">On October 19, 1978, the last Japanese overhead line system for electric trains was abolished.</e>
+<cmt>原文をこのように解釈して翻訳しました。</cmt>
+<e type="trans" ver="2">On October 19, 1978, the last Japanese overhead line system for electric trains was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">October 19, 1978: The last Japanese overhead line system for electric trains was abolished.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="51">
+<j>全車集電装置化。</j>
+<e type="trans" ver="1">All trains were switched to power collector system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All trains were switched to the power collector system.</e>
+<cmt>「the」挿入</cmt>
+<e type="check" ver="1">All trains were switched to the power collector system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="52">
+<j>1986年（昭和61年）4月1日 叡山電鉄に分離譲渡。</j>
+<e type="trans" ver="1">On April 1, 1986, it was separated and transferred to Eizan Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1986, the line was separated and transferred to Eizan Electric Railway.</e>
+<cmt>「it」→「the line」</cmt>
+<e type="check" ver="1">April 1, 1986: The line was separated and transferred to Eizan Electric Railway.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="53">
+<j>1987年（昭和62年）12月10日 ワンマン運転開始。</j>
+<e type="trans" ver="1">On December 10, 1987, one-man driving started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 10, 1987, operation by a single crew member, with no conductor on board, was begun.</e>
+<cmt>「One-man driving」説明必要</cmt>
+<e type="check" ver="1">December 10, 1987: Operation by a single crew member, with no conductor on board, was begun.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="54">
+<j>1989年（平成元年）10月5日 京阪電気鉄道の鴨東線開通。</j>
+<e type="trans" ver="1">On October 5, 1989, Keihan Oto Line (Keihan Electric Railway) started running trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 5, 1989, trains began running on the Keihan Oto Line (Keihan Electric Railway).</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">October 5, 1989: Trains began running on the Keihan Oto Line (Keihan Electric Railway).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="55">
+<j>同社出町柳駅開業。</j>
+<e type="trans" ver="1">Demachiyanagi Station of the same company started train services.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Demachiyanagi Station (Keihan Electric Railway) was opened.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">Demachiyanagi Station (Keihan Electric Railway) was opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>再び鉄道他線とつながる。</j>
+<e type="trans" ver="1">Connection with other railways was resumed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Connections to other lines were resumed.</e>
+<cmt>「s」挿入、「to」→「with」、「lines were」→「railways was」</cmt>
+<e type="check" ver="1">Connections to other lines were resumed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="57">
+<j>これに先立ち9月21日 鞍馬線の京都精華大前駅開業と同時にダイヤ改正を実施。</j>
+<e type="trans" ver="1">Before this on September 21, the train schedule was revised at the same time with the opening of Kyoto-Seikadai-mae Station of Kurama Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Prior to this, on September 21, the train schedule was revised; concurrently, the Kurama Line Kyoto-Seikadai-mae Station was opened.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">September 21: Prior to this, the train schedule was revised; concurrently, the Kurama Line Kyoto-Seikadai-mae Station was opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="58">
+<j>鞍馬線の区間延長が主体で叡山本線では出町柳～宝ヶ池で数本の増発。</j>
+<e type="trans" ver="1">The main subject was the extension of Kurama Line and it became more trains between Demachiyanagi Station and Takaragaike Station of Eizan Main Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The main change was the extension of the Kurama Line, and the number of trains on the Eizan Main Line between Demachiyanagi Station and Takaragaike Station was increased.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The main change was the extension of the Kurama Line, and the number of trains on the Eizan Main Line between Demachiyanagi Station and Takaragaike Station was increased.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="59">
+<j>1994年（平成6年）3月23日 ダイヤ改正による大増発実施。</j>
+<e type="trans" ver="1">On March 23, 1994, much more trains were added in the train schedule revision.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the train schedule revision on March 23, 1994, many more trains were added.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">March 23, 1994: In the train schedule revision, many more trains were added.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="60">
+<j>平日64本、休日9～46本増発。</j>
+<e type="trans" ver="1">There were 64 trains on a weekday and 9 to 46 more trains on a holiday.</e>
+<cmt></cmt>
+<e type="trans" ver="2">64 more trains were added on weekdays, with anywhere from 9 to 46 more trains on holidays.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">64 more trains were added on weekdays, with anywhere from 9 to 46 more trains on holidays.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="61">
+<j>1960年代から八瀬遊園発着・鞍馬線直通は各々15分毎が続いていた。</j>
+<e type="trans" ver="1">At Yase Amusement Park (since the 1960&apos;s), direct trains in Kurama Line arrived and departed every 15 minutes respectively.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Since the 1960s, direct trains on the Kurama Line had arrived at and departed from Yase Amusement park every 15 minutes.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">Since the 1960s, direct trains on the Kurama Line had arrived at and departed from Yase-Yuen Station every 15 minutes.</e>
+<cmt>Yase Amusement park→Yase-Yuen Station</cmt>
+</sen>
+<sen id="62">
+<j>改正後は、平日は八瀬遊園発着12分毎、鞍馬線直通10分毎になる。</j>
+<e type="trans" ver="1">After the revision, basically, during a weekday, trains arrived and departed every 10 minutes respectively at Yase Amusement Park with direct trains in Kurama Line every 10 minutes.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">After the revision, trains arrived at and departed from Yase Amusement Park every 12 minutes, with direct trains on the Kurama Line every 10 minutes, on weekdays.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">After the revision, trains arrived at and departed from Yase Amusement Park every 12 minutes, with direct trains on the Kurama Line every 10 minutes, on weekdays.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>休日は八瀬遊園発着・鞍馬線直通各々15分毎（オンシーズンは八瀬遊園発着7.5分毎）を基本としたものに変更。</j>
+<e type="trans" ver="1">And during a holiday, direct trains in Kurama Line arrived and departed every 15 minutes respectively at Yase Amusement Park. During &quot;on-season&quot; with many passengers, trains arrived and departed every 7.5 minutes at Yase Amusement Park.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">During holidays, direct trains on the Kurama Line arrived at and departed from Yase Amusement Park every 15 minutes. During the &apos;on-season&apos;, when there were many passengers, trains arrived at and departed from Yase Amusement Park every 7.5 minutes.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">During holidays, direct trains on the Kurama Line basically arrived at and departed from Yase-Yuen Station every 15 minutes while they arrived at and departed from Yase-Yuen Station every 7.5 minutes during the &apos;on-season,&apos; when there were many passengers,</e>
+<cmt>Yase Amusement park→Yase-Yuen Station「基本としたものに変更」の意味を出しました。</cmt>
+</sen>
+<sen id="64">
+<j>2002年（平成14年）3月10日 八瀬遊園駅を八瀬比叡山口駅に改称。</j>
+<e type="trans" ver="1">On March 10, 2002, Yase-Yuen Station was renamed as Yase-Hieizanguchi Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 10, 2002, Yase-Yuen Station was renamed Yase-Hieizanguchi Station.</e>
+<cmt>「as」削除</cmt>
+<e type="check" ver="1">March 10, 2002: Yase-Yuen Station was renamed Yase-Hieizanguchi Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="65">
+<j>2001年の八瀬遊園閉園による。</j>
+<e type="trans" ver="1">It was because Yase Amusement Park was closed in 2001.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was due to the closure of Yase Amusement Park in 2001.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">This was due to the closure of Yase Amusement Park in 2001.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="66">
+<j>2004年（平成16年）1月13日 原則として全列車ワンマン運転に。</j>
+<e type="trans" ver="1">On January 13, 2004, as a rule, all trains were switched to one-man driving.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On January 13, 2004, it became the norm for all trains to be operated by a single crew member, with no conductor on board.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">January 13, 2004: It became the norm for all trains to be operated by a single crew member, with no conductor on board.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="67">
+<j>駅一覧</j>
+<e type="trans" ver="1">List of stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">List of stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">List of stations</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), Hideyuki(id:9577), Bergmann(id:85282), Utsuda(id:605), Ohura(id:5986), Mop(id:12061), Shinkansen(id:13703), カーバンクル(id:10984), Rusk(id:9895), Sunen(id:10700), Nkensei(id:26989), Goki(id:7107), Tp2415(id:84801), Y3006(id:155535), Unamu(id:14627), 210.(id:9838), Ritsuka(id:6464), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

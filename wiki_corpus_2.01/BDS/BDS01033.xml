@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>理趣経</j>
+<e type="trans" ver="1">Rishu-kyo (Principle of Wisdom Sutra)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rishu-kyo (Principle of Wisdom Sutra)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rishu-kyo (Principle of Wisdom Sutra)</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>『理趣経』（りしゅきょう）は、「金剛頂経」の第6会にあたる密教の経典である。</j>
+<e type="trans" ver="1">Rishu-kyo is the Buddhist scriptures of Esoteric Buddhism, which is Part Sixth of &apos;Kongocho-kyo&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Rishu-kyo&quot; is the Buddhist scriptures of Esoteric Buddhism, which is Part Six of &apos;Kongocho-kyo&apos; (Vajrasekhara Sutra).</e>
+<cmt>引用符を追加しました。Sixth→Six としました。「金剛頂経」の補足を追加しました（用語検索より）。</cmt>
+<e type="check" ver="1">&quot;Rishu-kyo&quot; is the Buddhist scriptures of Esoteric Buddhism, which is Part Six of &apos;Kongocho-kyo&apos; (Vajrasekhara Sutra).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>主に真言宗各派で読誦される。</j>
+<e type="trans" ver="1">It is recited mainly in each sect of the Shingon Buddhism.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is recited mainly in each school of the Shingon sect.</e>
+<cmt>「派」は &quot;school&quot; 、「宗」を &quot;sect&quot; としました（用語統一）。</cmt>
+<e type="check" ver="1">It is recited mainly in each school of the Shingon sect.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>サンスクリット名はadhyardhaśatikā prajñāpāramitā（『百五十頌般若』）。</j>
+<e type="trans" ver="1">It is called adhyardhaśatikā prajñāpāramitā in Sanskrit.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is called adhyardhaśatikā prajñāpāramitā (&quot;Hyakugoju ju Hannya&quot; [The Wisdom Sutras of Praise in 150 Verses]) in Sanskrit.</e>
+<cmt>括弧内訳漏れ、対応しました（定訳不明）。</cmt>
+<e type="check" ver="1">It is called adhyardhaśatikā prajñāpāramitā (&quot;Hyakugoju ju Hannya&quot; [The Wisdom Sutras of Praise in 150 Verses]) in Sanskrit.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>『理趣経』という場合は、「大楽金剛不空真実三摩耶経」（たいらきんこうふこうしんじさんまやけい、大いなる楽は金剛のごとく不変で空しからずして真実なりとの仏の覚りの境地を説く経）、あるいは「般若波羅蜜多理趣品（はんにゃはらみたりしゅぼん）」の略である。</j>
+<e type="trans" ver="1">Rishu-kyo is the abbreviation for &apos;Taira kinko fuko shinji sanmaya-kyo&apos; (the Sutra preaching on a state of Buddhahood that great pleasure is permanent like diamond, not vanity but real) or &apos;Hannya haramitta rishubon&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Rishu-kyo&quot; is the abbreviation for &apos;Taira kinko fuko shinji sanmaya kei&apos; (the Sutra preaching on a state of Buddhahood in which it is realized that great pleasure is permanent like diamond, not vanity but real) or &apos;Hannya haramita rishubon.&apos;</e>
+<cmt>引用符を追加しました。&quot;-kyo&quot; を &quot;kei&quot; に変更しました（原文および後出の同語と統一するため）。&quot;haramitta&quot; を原文どおり &quot;haramita&quot; としました。ピリオドを引用符の中に入れました。</cmt>
+<e type="check" ver="1">&quot;Rishu-kyo&quot; is the abbreviation for &apos;Taira kinko fuko shinji sanmaya kei&apos; (the Sutra preaching on a state of Buddhahood in which it is realized that great pleasure is permanent like diamond, not vanity but real) or &apos;Hannya haramita rishubon.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sec id="1">
+<tit>
+<j>沿革</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>一般的には、不空が763年から771年にかけて訳したといわれる。</j>
+<e type="trans" ver="1">Fuku was generally said to translate it from 763 to 771.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fuku was generally said to translate it from 763 to 771.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fuku was generally said to have translated it from 763 to 771.</e>
+<cmt>translate→have translated</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>しかし玄奘訳の『大般若波羅蜜多経・第十会・般若理趣分』が『理趣経』の異訳と見做されるため、『理趣経』は「般若経」系テキストを原流として、『真実攝経』を編纂したグループが密教経典として発達させたものであると考えられている。</j>
+<e type="trans" ver="1">However, because &quot;Daihannyaharamitta-kyo Sutra, Part Tenth, Hannya Rishubun (gate for understanding hannyaharamitta) &quot; translated by Xuanzang is regarded as a version of Rishu-kyo, it is considered that Rishu-kyo was developed as Esoteric Buddhist scriptures by the group who compiled &quot;Kongocho-kyo&quot; based on Hannya-kyo Sutra.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, because &quot;Daihannyaharamitta-kyo Sutra, Part Ten, Hannya Rishubun (gate for understanding hannyaharamitta)&quot; translated by Xuanzang is regarded as a version of &quot;Rishu-kyo,&quot; it is considered that the group who compiled &quot;Shinjitsusho-kyo&quot; (Part one of Kongocho-kyo) developed a text in the line of &apos;Hannya-kyo Sutra&apos; into &quot;Rishu-kyo&quot; as Esoteric Buddhist scriptures.</e>
+<cmt>Tenth→Ten としました。スペースを削除しました。引用符を追加しました。&quot;Kongocho-kyo&quot;→ &quot;Shinjitsusho-kyo&quot; (Part one of Kongocho-kyo) としました。「系テキスト」にあたる語を補足しました。引用符を追加しました。文の後半を訳し直しました。</cmt>
+<e type="check" ver="1">However, because Xuanzang&apos;s translation of the Hannya Rishubun (gate for understanding hannyaharamitta) section of part 10 of the &quot;Daihannyaharamitta-kyo&quot; is regarded as being a different translation of &quot;Rishu-kyo,&quot; it is believed that the group who compiled &quot;Shinjitsusho-kyo&quot; (Part one of Kongocho-kyo) developed a text in the line of the &apos;Hannya-kyo Sutra&apos; into &quot;Rishu-kyo&quot; as Esoteric Buddhist scriptures.</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="7">
+<j>この経典は『般若波羅蜜多理趣品』（原タイトルは『百五十頌般若』）とあることから、般若部の経典とされているが、内容的に見れば方等部の密教経典群に位置するという見方もある。</j>
+<e type="trans" ver="1">Since this sutra is known as &quot;Hannyaharamitta Rishu-bon&quot;, it is seen as Buddhist scriptures in Hannya section; however, some think that it is placed in the groups of Esoteric Buddhist scriptures in Hodo section in terms of content.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since this sutra is known as &quot;Hannya haramita rishubon&quot; (its original title is &quot;Hyakugoju ju Hannya&quot;), it is seen as Buddhist scriptures in Hannya section; however, some think that it is placed in the groups of Esoteric Buddhist scriptures in Hodo section in terms of content.</e>
+<cmt>『般若波羅蜜多理趣品』の表記を前出と同じにしました。括弧内訳漏れ、対応しました。</cmt>
+<e type="check" ver="1">Since this sutra is known as &quot;Hannya haramita rishubon&quot; (its original title is &quot;Hyakugoju ju Hannya&quot;), it is seen as Buddhist scriptures in Hannya section; however, some think that it is placed in the groups of Esoteric Buddhist scriptures in Hodo section in terms of content.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>真言宗では、根本経典である『大日経』と18会からなる「金剛頂経」系テキストの内、読誦の功徳を強調する『理趣経』を毎日の勤行で唱えるのが習わしである。</j>
+<e type="trans" ver="1">It is the custom in the Shingon sect to chant Rishu-kyo in daily devotional exercises, which stresses the virtue of chanting sutras, among the primal scriptures &quot;Dainichi-kyo Sutra&quot; and &apos;Kongocho-kyo&apos; (composed of eighteen parts) texts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is the custom in the Shingon sect to chant &quot;Rishu-kyo&quot; in daily devotional exercises, which stresses the virtue of chanting sutras, among the primal scriptures &quot;Dainichi-kyo Sutra&quot; and texts of &apos;Kongocho-kyo&apos; which is composed of 18 parts.</e>
+<cmt>引用符を追加しました。スペースを削除しました。「系テキスト」にあたる語を補足しました。括弧を削除し、前後を調整しました。アラビア数字としました。</cmt>
+<e type="check" ver="1">It is the custom in the Shingon sect to chant &quot;Rishu-kyo&quot; in daily devotional exercises, which stresses the virtue of chanting sutras, among the primal scriptures &quot;Dainichi-kyo Sutra&quot; and texts of &apos;Kongocho-kyo&apos; which is composed of 18 parts.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>普通、経典は呉音で読まれるのが一般的であるが、真言宗では『理趣経』が日本に伝来した時代の中国語の音から漢音で読誦する。</j>
+<e type="trans" ver="1">Although Buddhist scriptures are usually read by the Wu reading, in the Shingon sect it is chanted by the Han reading of Chinese characters based on the one at the time when Rishu-kyo was introduced into Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although Buddhist scriptures are usually read by the Wu reading, in the Shingon sect it is chanted by the Han reading of Chinese characters based on the Chinese pronunciation at the time when &quot;Rishu-kyo&quot; was introduced into Japan.</e>
+<cmt>&quot;the one&quot;→&quot;the Chinese pronunciation&quot; としました。引用符を追加しました。</cmt>
+<e type="check" ver="1">Although Buddhist scriptures are usually read in the Wu reading, in the Shingon sect it is chanted in the Han reading of Chinese characters based on the Chinese pronunciation at the time when &quot;Rishu-kyo&quot; was introduced into Japan.</e>
+<cmt>by → in</cmt>
+</sen>
+<sen id="10">
+<j>例えば、経題の「大楽金剛不空真実三摩耶経」は「たいらきんこうふこうしんじさんまやけい」と読む。</j>
+<e type="trans" ver="1">For example, the title of Buddhist scriptures &apos;大楽金剛不空真実三摩耶経&apos; is pronounced Taira kinko fuko shinji sanmaya kei.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For example, the title of Buddhist scriptures &apos;大楽金剛不空真実三摩耶経&apos; is pronounced &apos;Taira kinko fuko shinji sanmaya kei.&apos;</e>
+<cmt>引用符を追加しました。</cmt>
+<e type="check" ver="1">For example, the title of Buddhist scriptures &apos;大楽金剛不空真実三摩耶経&apos; is pronounced &apos;Taira kinko fuko shinji sanmaya kei.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="11">
+<j>構成</j>
+<e type="trans" ver="1">Composition</e>
+<cmt></cmt>
+<e type="trans" ver="2">Composition</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Composition</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>『理趣経』は、最初の序説と最後の流通（るつう）を除くと、17の章節で構成されている。</j>
+<e type="trans" ver="1">Rishu-kyo is composed of 17 chapters except the Introduction part and final part of Rutu (circulation of Buddhisim teachings).</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Rishu-kyo&quot; is composed of 17 chapters except the Introduction in the beginning and Rutsu (circulation of Buddhism teachings) at the end.</e>
+<cmt>引用符を追加しました。「最初」「最後」の表現を変えました。&quot;Rutu&quot;→&quot;Rutsu&quot; としました。&quot;Buddhism&quot;スペル修正しました。</cmt>
+<e type="check" ver="1">&quot;Rishu-kyo&quot; is composed of 17 chapters except the Introduction in the beginning and Rutsu (circulation of Buddhism teachings) at the end.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="13">
+<j>大楽の法門　金剛薩埵の章</j>
+<e type="trans" ver="1">Homon (the teachings of Buddhism) of Great Pleasure Chapter of Kongosatta</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon (the teachings of Buddhism) of Great Pleasure Chapter of Kongosatta (Vajrasattva)</e>
+<cmt>梵名を補足しました。</cmt>
+<e type="check" ver="1">Homon (the teachings of Buddhism) of Great Pleasure Chapter of Kongosatta (Vajrasattva)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>証悟の法門　大日如来の章</j>
+<e type="trans" ver="1">Homon of Shogo (to disabuse and become enlightened) Chapter of Dainichi Nyorai</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Shogo (to disabuse and become enlightened) Chapter of Dainichi Nyorai (Mahavairocana)</e>
+<cmt>スペースを1つ削除しました（間隔を統一するため）。梵名を補足しました（用語検索より）。</cmt>
+<e type="check" ver="1">Homon of Shogo (to disabuse and become enlightened) Chapter of Dainichi Nyorai (Mahavairocana)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>降伏の法門　釈迦牟尼如来の章</j>
+<e type="trans" ver="1">Homon of Surrender Chapter of Shakamuni Nyorai</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Surrender Chapter of Shakamuni Nyorai (The Buddha Shakamuni)</e>
+<cmt>スペースを2つ追加しました（間隔を統一するため）。「釈迦牟尼如来」補足しました（用語検索より）。</cmt>
+<e type="check" ver="1">Homon of Surrender Chapter of Shakamuni Nyorai (The Buddha Shakamuni)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>観照の法門　観自在菩薩の章</j>
+<e type="trans" ver="1">Homon of Contemplation Chapter of Kanjizai Bosatsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Contemplation Chapter of Kanjizai Bosatsu (bodhisattva)</e>
+<cmt>スペースを2つ追加しました（間隔を統一するため）。「菩薩」補足しました。「観自在菩薩」定訳、梵名不明です。</cmt>
+<e type="check" ver="1">Homon of Contemplation Chapter of Kanjizai Bosatsu (bodhisattva)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>富の法門　虚空蔵菩薩の章</j>
+<e type="trans" ver="1">Homon of Wealth Chapter of Kokuzo Bosatsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Wealth Chapter of Kokuzo Bosatsu (Akasagarbha Bodhisattva)</e>
+<cmt>スペースを2つ追加しました（間隔を統一するため）。「虚空蔵菩薩」補足しました（用語検索より）。</cmt>
+<e type="check" ver="1">Homon of Wealth Chapter of Kokuzo Bosatsu (Akasagarbha Bodhisattva)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>実働の法門　金剛拳菩薩の章</j>
+<e type="trans" ver="1">Homon of WorkingChapter of Kinkoken Bosatsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Working Chapter of Kongoken Bosatsu (Vajrasandhi Bodhisattva)</e>
+<cmt>&quot;Kinkoken&quot;→&quot;Kongoken&quot; としました（「きんこうけん」は漢音読みのようですが、後が Bosatsu となっているので日本語読みにしました）。梵名を補足しました。http://cache.yahoofs.jp/search/cache?p=Kong%C5%8Dken+Bosatsu+%E9%87%91%E5%89%9B%E6%8B%B3%E8%8F%A9%E8%96%A9&amp;fr=msie7&amp;ei=UTF-8&amp;u=www.onmarkproductions.com/html/mandala-deities.html&amp;w=kong%C5%8Dken+bosatsu+%E9%87%91%E5%89%9B+%E6%8B%B3+%E8%8F%A9%E8%96%A9&amp;d=OxNMVe_ZVXPp&amp;icp=1&amp;.intl=jp</cmt>
+<e type="check" ver="1">Homon of Working Chapter of Kongoken Bosatsu (Vajrasandhi Bodhisattva)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>字輪の法門　文珠師利菩薩の章</j>
+<e type="trans" ver="1">Homon of Shirin (words having no form)Chapter of Bunjushiri Bosatsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Jirin (words having no form) Chapter of Monjushiri Bosatsu (Manjushiri Bodhisattva)</e>
+<cmt>&quot;Shirin&quot;→&quot;Jirin&quot; としました（ネットで「しりん」との読みは見当たらなかったため）。スペースを2つ追加しました（間隔を統一するため）。&quot;Bunjushiri&quot;→&quot;Monjushiri&quot; としました。梵名を追加しました。</cmt>
+<e type="check" ver="1">Homon of Jirin (words having no form) Chapter of Monjushiri Bosatsu (Manjushiri Bodhisattva)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>入大輪の法門　纔発心転法輪菩薩の章</j>
+<e type="trans" ver="1">Homon of Jutairin (entering a state of full and peaceful large ring)Chapter of Saihassintenborin Bosatsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Jutairin (entering a state of full and peaceful large ring) Chapter of Saihasshintenborin Bosatsu (Sahacittotpadadharmacakrapravarti Bodhisattva)</e>
+<cmt>スペースを2つ追加しました（間隔を統一するため）。&quot;Saihassintenborin&quot;→&quot;Saihasshintenborin&quot; としました。「纔発心転法輪菩薩」にあたる語が下記サイトの &quot;Sahacittotpādadharmacakrapravarti-Bodhisattva&quot; しか見当たらなかったのすが、梵字と思われる、英語では使用されない &quot;ā&quot; の字が入っていますので &quot;a&quot; と置き換えました。http://inbuds.hanazono.ac.jp/show_tr.php?mdid1=0-00015&amp;mdid2=000202&amp;trid=001</cmt>
+<e type="check" ver="1">Homon of Jutairin (entering a state of full and peaceful large ring) Chapter of Saihasshintenborin Bosatsu (Sahacittotpadadharmacakrapravarti Bodhisattva)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>供養の法門　虚空庫菩薩の章</j>
+<e type="trans" ver="1">Homon of Kuyo (to hold a memorial service)Chapter of Kyokoko Bosatsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Kuyo (to hold a memorial service) Chapter of Kokuko Bosatsu</e>
+<cmt>スペースを2つ追加しました（間隔を統一するため）。&quot;Kyokoko&quot;→&quot;Kokuko&quot; としました（「きょこうこ」は漢音読みのようですが、後が Bosatsu となっているので日本語読みにしました）。http://enmeiji.jp/yoriyoku.htm「虚空庫菩薩」定訳、梵名不明です。</cmt>
+<e type="check" ver="1">Homon of Kuyo (to hold a memorial service) Chapter of Kokuko Bosatsu</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>忿怒の法門　摧一切魔菩薩の章</j>
+<e type="trans" ver="1">Homon of AngerChapter of Saiisseima Bosatsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Anger Chapter of Saiissaima Bosatsu</e>
+<cmt>スペースを3つ追加しました（間隔を統一するため）。&quot;Saiisseima&quot;→&quot;Saiissaima&quot; としました（「さいいっせいま」は漢音読みのようですが、後が Bosatsu となっているので日本語読みにしました）。「摧一切魔菩薩」定訳、梵名不明です。</cmt>
+<e type="check" ver="1">Homon of Anger Chapter of Saiissaima Bosatsu</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>普集の法門　普賢菩薩の章</j>
+<e type="trans" ver="1">Homon of Fushu (putting together wisdom)Chapter of Fugen Bosatsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Fushu (putting together wisdom) Chapter of Fugen Bosatsu (Samantabhadra Bodhisattva)</e>
+<cmt>スペースを3つ追加しました（間隔を統一するため）。「普賢菩薩」補足しました（用語検索「普賢菩薩像」より）。</cmt>
+<e type="check" ver="1">Homon of Fushu (putting together wisdom) Chapter of Fugen Bosatsu (Samantabhadra Bodhisattva)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>有情加持の法門　外金剛部の諸天の章</j>
+<e type="trans" ver="1">Homon of Humanity and IncantationChapter of Low-level Gods</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Humanity and Incantation Chapter of Gods in external Vajradhatu group</e>
+<cmt>スペースを3つ追加しました（間隔を統一するため）。「外金剛部の諸天」を訳し直しました。http://www.buddhism-dict.net/ddb/index/b5916.html</cmt>
+<e type="check" ver="1">Homon of Humanity and Incantation Chapter of Gods in external Vajradhatu group</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>諸母天の法門　七天母の章</j>
+<e type="trans" ver="1">Homon of GoddessesChapter of Seven Goddesses</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Goddesses Chapter of Seven Goddesses</e>
+<cmt>スペースを3つ追加しました（間隔を統一するため）。</cmt>
+<e type="check" ver="1">Homon of Goddesses Chapter of Seven Goddesses</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>三兄弟の法門　三高神の章</j>
+<e type="trans" ver="1">Homon of Three Brothers Chapter of Three High Gods</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Three Brothers Chapter of Three High Gods</e>
+<cmt>スペースを2つ追加しました（間隔を統一するため）。</cmt>
+<e type="check" ver="1">Homon of Three Brothers Chapter of Three High Gods</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>四姉妹の法門　四天女の章</j>
+<e type="trans" ver="1">Homon of Four Sisters Chapter of Four Heavenly Maidens</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Four Sisters Chapter of Four Heavenly Maidens</e>
+<cmt>スペースを2つ追加しました（間隔を統一するため）。</cmt>
+<e type="check" ver="1">Homon of Four Sisters Chapter of Four Heavenly Maidens</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>各具の法門　四波羅蜜の大曼荼羅の章</j>
+<e type="trans" ver="1">Homon of Each DivisionChapter of Great Mandala in Shiharamitsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Each Division Chapter of Great Mandala in Shiharamitsu (four paramita)</e>
+<cmt>スペースを3つ追加しました（間隔を統一するため）。「四波羅蜜」を補足しました（用語検索より）。</cmt>
+<e type="check" ver="1">Homon of Each Division Chapter of Great Mandala in Shiharamitsu (four paramita)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>深秘の法門　五種秘密三摩地の章</j>
+<e type="trans" ver="1">Homon of MysteryChapter of Five Kinds of Samadhi (higher level of meditation)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homon of Mystery Chapter of Five Kinds of Samadhi (higher level of meditation)</e>
+<cmt>スペースを3つ追加しました（間隔を統一するため）。</cmt>
+<e type="check" ver="1">Homon of Mystery Chapter of Five Kinds of Samadhi (higher level of meditation)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>それぞれの章節には内容を端的に表した印契と真言があり、真言僧は必要に応じてこの印明を修する。</j>
+<e type="trans" ver="1">Each chapter includes mudra (symbolic hand gesture used in Buddhism) and mantra plainly showing the contents, and Shingon Buddhists learn these mudra and mantra as required.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Each chapter includes mudra (symbolic hand gesture used in Buddhism) and mantra plainly showing the contents, and Shingon Buddhist monks learn these mudra and mantra as required.</e>
+<cmt>&quot;Shingon Buddhists&quot;→&quot;Shingon Buddhist monks&quot; としました。</cmt>
+<e type="check" ver="1">Each chapter includes mudra (symbolic hand gesture used in Buddhism) and mantra plainly showing the contents, and Shingon Buddhist monks learn these mudra and mantra as required.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>十七清浄句</j>
+<e type="trans" ver="1">Seventeen Pure Phrases</e>
+<cmt></cmt>
+<e type="trans" ver="2">Seventeen Pure Phrases</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Seventeen Pure Phrases</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="31">
+<j>真言密教では、「自性清浄」という思想が根本にある。</j>
+<e type="trans" ver="1">Shingon Esoteric Buddhism is based on the idea &apos;pure human nature&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shingon Esoteric Buddhism is based on the idea &apos;pure human nature&apos;.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shingon Esoteric Buddhism is based on the idea &apos;pure human nature&apos;.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>これは天台宗の本覚思想と対比、また同一視されるが、そもそも人間は生まれつき汚れた存在ではないというものである。</j>
+<e type="trans" ver="1">Although this idea is contrasted, or identified with Hongaku philosophy in the Tendai sect, it tells that people are pure beings by nature.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although this idea is contrasted, or identified with Hongaku philosophy in the Tendai sect, it tells that people are pure beings by nature.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Although this idea is contrasted, or identified with Hongaku philosophy in the Tendai sect, it tells that people are pure beings by nature.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>『理趣経』は、この自性清浄に基づき人間の営みが本来は清浄なものであると述べているののが特徴である。</j>
+<e type="trans" ver="1">Rishu-kyo is characterized by the teaching that based on the idea of pure human nature, people&apos;s workings are naturally clean.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Rishu-kyo&quot; is characterized by the teaching based on the idea of pure human nature that people&apos;s workings are naturally clean.</e>
+<cmt>引用符を追加しました。&quot;that&quot; の位置を変え、コンマを削除しました。</cmt>
+<e type="check" ver="1">&quot;Rishu-kyo&quot; is characterized by teachings based on the idea of a pure human nature, which assumes that people&apos;s activities are naturally pure.</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="34">
+<j>特に最初の部分である大楽（たいらく）の法門においては、「十七清浄句」といわれる17の句偈が説かれている。</j>
+<e type="trans" ver="1">In particular in the first Homon of Great Pleasure 17 poems called Seventeen Pure Phrases are taught.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In particular, in Homon of Great Pleasure at the beginning, 17 poems called &apos;Seventeen Pure Phrases&apos; are taught.</e>
+<cmt>コンマを追加しました。「最初の部分である」の表現を変えました。引用符を追加しました。</cmt>
+<e type="check" ver="1">In particular, in Homon of Great Pleasure at the beginning, 17 poems called &apos;Seventeen Pure Phrases&apos; are taught.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="35">
+<j>妙適淸淨句是菩薩位</j>
+<e type="trans" ver="1">妙適淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">The exquisite rapture in sexual intercourse is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">The exquisite rapture in sexual intercourse is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>- 男女交合の妙なる恍惚は、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that the exquisite rapture in sexual intercourse is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The exquisite rapture in sexual intercourse is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。</cmt>
+<e type="check" ver="1">The exquisite rapture in sexual intercourse is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>慾箭淸淨句是菩薩位</j>
+<e type="trans" ver="1">慾箭淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Desire moving quickly and violently like arrow is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Desire moving quickly and violently like arrow is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>- 欲望が矢の飛ぶように速く激しく働くのも、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that the desires moving quickly and violently like arrow is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Desire moving quickly and violently like arrow is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。&quot;desires&quot;→&quot;Desire&quot; としました（後が &quot;is&quot; のため）。</cmt>
+<e type="check" ver="1">Desire moving quickly and violently like arrow is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>觸淸淨句是菩薩位</j>
+<e type="trans" ver="1">觸淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">The physical contact between man and woman is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">The physical contact between man and woman is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>- 男女の触れ合いも、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that the physical contacts between man and woman is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The physical contact between man and woman is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。&quot;contacts&quot;→&quot;contact&quot; としました（後が &quot;is&quot; のため）。</cmt>
+<e type="check" ver="1">The physical contact between man and woman is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>愛縛淸淨句是菩薩位</j>
+<e type="trans" ver="1">愛縛淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Loving the other sex and embracing each other tightly is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Loving the other sex and embracing each other tightly is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="42">
+<j>- 異性を愛し、かたく抱き合うのも、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that loving the other sex and embracing each other tightly is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Loving the other sex and embracing each other tightly is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。</cmt>
+<e type="check" ver="1">Loving the other sex and embracing each other tightly is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>一切自在主淸淨句是菩薩位</j>
+<e type="trans" ver="1">一切自在主淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Man and woman embracing each other satisfied, being free from everything and the master of everything, and being exalted is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Man and woman embracing each other satisfied, being free from everything and the master of everything, and being exalted is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>- 男女が抱き合って満足し、すべてに自由、すべての主、天にも登るような心持ちになるのも、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that man and woman embracing each other satisfied, being free from everything and the master of everything, and being exalted is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Man and woman embracing each other satisfied, being free from everything and the master of everything, and being exalted is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。「すべての主」がどの語にかかるのか分かりませんでしたので、訳文のままとしました。</cmt>
+<e type="check" ver="1">Man and woman embracing each other satisfied, being free from everything and the master of everything, and being exalted is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="45">
+<j>見淸淨句是菩薩位</j>
+<e type="trans" ver="1">見淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Looking at the other sex with desire is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Looking at the other sex with desire is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>- 欲心を持って異性を見ることも、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that looking at the other sex with desire is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Looking at the other sex with desire is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。</cmt>
+<e type="check" ver="1">Looking at the other sex with desire is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="47">
+<j>適悅淸淨句是菩薩位</j>
+<e type="trans" ver="1">適悅淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Man and woman making love and feeling great pleasure is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Man and woman making love and feeling great pleasure is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>- 男女交合して、悦なる快感を味わうことも、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that man and woman making love and feeling great pleasure is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Man and woman making love and feeling great pleasure is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。</cmt>
+<e type="check" ver="1">Man and woman making love and feeling great pleasure is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="49">
+<j>愛淸淨句是菩薩位</j>
+<e type="trans" ver="1">愛淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Love between man and woman is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Love between man and woman is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>- 男女の愛も、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that love between man and woman is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Love between man and woman is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。</cmt>
+<e type="check" ver="1">Love between man and woman is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="51">
+<j>慢淸淨句是菩薩位</j>
+<e type="trans" ver="1">慢淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Being proud of himself/herself is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Being proud of himself/herself is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="52">
+<j>- 自慢する心も、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that being proud is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Being proud of himself/herself is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。&quot;of himself/herself&quot; を追加しました。</cmt>
+<e type="check" ver="1">Being proud of himself/herself is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>莊嚴淸淨句是菩薩位</j>
+<e type="trans" ver="1">莊嚴淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Taking pleasure in decoration is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Taking pleasure in decoration is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>- ものを飾って喜ぶのも、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that taking pleasure in decoration is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Taking pleasure in decoration is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。</cmt>
+<e type="check" ver="1">Taking pleasure in decoration is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="55">
+<j>意滋澤淸淨句是菩薩位</j>
+<e type="trans" ver="1">意滋澤淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Being pleased that things go as he/she wishes is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Being pleased that things go as he/she wishes is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>- 思うにまかせて、心が喜ぶことも、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that being pleased with whatever comes to mind is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Being pleased that things go as he/she wishes is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。「思うにまかせて」訳しなおしました。</cmt>
+<e type="check" ver="1">Being pleased that things go as he/she wishes is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="57">
+<j>光明淸淨句是菩薩位</j>
+<e type="trans" ver="1">光明淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Being satisfied and the mind lit up with joy is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Being satisfied and the mind lit up with joy is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>- 満ち足りて、心が輝くことも、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that being satisfied and the mind lit up with joy is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Being satisfied and the mind lit up with joy is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。</cmt>
+<e type="check" ver="1">Being satisfied and the mind lit up with joy is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>身樂淸淨句是菩薩位</j>
+<e type="trans" ver="1">身樂淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Physical comfort is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Physical comfort is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="60">
+<j>- 身体の楽も、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that physical comfort is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Physical comfort is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。</cmt>
+<e type="check" ver="1">Physical comfort is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="61">
+<j>色淸淨句是菩薩位</j>
+<e type="trans" ver="1">色淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Color to see with our own eyes is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Color to see with our own eyes is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="62">
+<j>- 目の当たりにする色も、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that colors with our own eyes is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Color to see with our own eyes is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。&quot;colors&quot;→&quot;Color&quot; としました（後が &quot;is&quot; のため）。&quot;to see&quot; を追加しました。</cmt>
+<e type="check" ver="1">Color to see with our own eyes is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>聲淸淨句是菩薩位</j>
+<e type="trans" ver="1">聲淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sound to hear with our own ears is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Sound to hear with our own ears is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="64">
+<j>- 耳にするもの音も、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that sounds with our own ears is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sound to hear with our own ears is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。&quot;sounds&quot;→&quot;Sound&quot; としました（後が &quot;is&quot; のため）。&quot;to hear&quot; を追加しました。</cmt>
+<e type="check" ver="1">Sound to hear with our own ears is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="65">
+<j>香淸淨句是菩薩位</j>
+<e type="trans" ver="1">香淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Scent in this world is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Scent in this world is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="66">
+<j>- この世の香りも、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that scents in this world is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Scent in this world is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。&quot;scents&quot;→&quot;scent&quot; としました（後が &quot;is&quot; のため）。</cmt>
+<e type="check" ver="1">Scent in this world is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="67">
+<j>味淸淨句是菩薩位</j>
+<e type="trans" ver="1">味淸淨句是菩薩位</e>
+<cmt></cmt>
+<e type="trans" ver="2">Taste to savor with our own mouth is a clean mental state of Bosatsu.</e>
+<cmt>現代語訳の英訳と同じものを訳文としました。</cmt>
+<e type="check" ver="1">Taste to savor with our own mouth is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="68">
+<j>- 口にする味も、清浄なる菩薩の境地である</j>
+<e type="trans" ver="1">This means that tastes with our own mouth is a clean mental state of Bosatsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Taste to savor with our own mouth is a clean mental state of Bosatsu.</e>
+<cmt>&quot;This means that&quot; を削除しました。&quot;tastes&quot;→&quot;Taste&quot; としました（後が &quot;is&quot; のため）。&quot;to savor&quot; を追加しました。</cmt>
+<e type="check" ver="1">Taste to savor with our own mouth is a clean mental state of Bosatsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="69">
+<j>このように、十七清浄句では男女の性行為や人間の行為を大胆に肯定している。</j>
+<e type="trans" ver="1">Thus Seventeen Pure Phrases affirm sexual intercourse and human act.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thus Seventeen Pure Phrases are daringly positive about sexual intercourse and human act.</e>
+<cmt>&quot;affirm&quot;→&quot;are daringly positive about&quot; としました。</cmt>
+<e type="check" ver="1">Thus Seventeen Pure Phrases are daringly positive about sexual intercourse and human act.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="70">
+<j>仏教において顕教では、男女の性行為はどちらかといえば否定される向きがある。</j>
+<e type="trans" ver="1">Exoteric Buddhism is more likely to be negative toward sexual intercourse.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Exoteric Buddhism is more likely to be negative about sexual intercourse.</e>
+<cmt>&quot;toward&quot;→&quot;about&quot; としました。</cmt>
+<e type="check" ver="1">Exoteric Buddhism is more likely to be negative about sexual intercourse.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="71">
+<j>これに対し『理趣経』では上記のように欲望を完全否定していないことから、「セックスを肯定する経典」などと色眼鏡的な見方でこの経典を語られることもある。</j>
+<e type="trans" ver="1">On the other hand, because Rishu-kyo does not entirely deny desires as shown above, these scriptures are often looked on from a biased viewpoint such as sex-affirmative scriptures.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">On the other hand, because &quot;Rishu-kyo&quot; is not entirely negative about desires as shown above, it is often looked on from a biased viewpoint such as &apos;sex-affirmative scriptures.&apos;</e>
+<cmt>引用符を追加しました。&quot;does not ～ deny&quot;→&quot;is not ～ negative about&quot; としました。&quot;these scriputures are&quot;→&quot;it is&quot; としました。引用符を追加しました。</cmt>
+<e type="check" ver="1">On the other hand, because &quot;Rishu-kyo&quot; is not entirely negative about desires as shown above, it is often looked on from a biased viewpoint such as &apos;sex-affirmative scriptures.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="72">
+<j>真言密教の自性清浄を端的に表した句偈であり、人間の行動や考え、営み自体は本来は不浄なものではないと述べていることがその肝要である。</j>
+<e type="trans" ver="1">However, these are the phrases plainly showing pure human nature in Shingon Esoteric Buddhism, and the essence of the scriptures is to tell that human action, idea and working are naturally pure.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, these are the phrases plainly showing pure human nature in Shingon Esoteric Buddhism, and the essence of the scriptures is to tell that human action, idea and working are naturally pure.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, these phrases plainly express the pure human nature of Shingon Esoteric Buddhism, and the essence of the scriptures is to explain that human actions, ideas and activities are themselves naturally pure.</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="73">
+<j>十七清浄句は欲望の単なる肯定であると誤解されたり、また欲望肯定（或は男女性交）＝即身成仏であると誤解されたりする向きも多い。</j>
+<e type="trans" ver="1">Many people wrongly believe that Seventeen Pure Phrases are merely desire-affirmative, or that being desire-affirmative (or sexual intercourse) leads to Sokushin-Jobutsu (attaining Buddhahood while still alive).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many people wrongly believe that Seventeen Pure Phrases are merely desire-affirmative, or that being desire-affirmative (or sexual intercourse) leads to Sokushin-Jobutsu (attaining Buddhahood while still alive).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Many people wrongly believe that Seventeen Pure Phrases are merely desire-affirmative, or that being desire-affirmative (or sexual intercourse) leads to Sokushin-Jobutsu (attaining Buddhahood while still alive).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="74">
+<j>したがって、『理趣経』は四度加行を実践して前行をしてからでないと伝授してはならないという厳しい規則がある。</j>
+<e type="trans" ver="1">Therefore, there are strict regulations that Rishu-kyo should not be taught before Buddhists conduct shidokegyo (four trainings) for preparatory practices.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, there is a strict regulation that &quot;Rishu-kyo&quot; should not be taught before Buddhists conduct shidokegyo (four trainings) for preparatory practices.</e>
+<cmt>&quot;are ～ regulations&quot;→&quot;is ～ a regulation&quot; としました。引用符を追加しました。</cmt>
+<e type="check" ver="1">Therefore, there is a strict regulation that &quot;Rishu-kyo&quot; should not be taught before Buddhists conduct shidokegyo (four trainings) for preparatory practices.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="75">
+<j>また『理趣経』の最後の十七段目は「百字の偈」と呼ばれ、一番中心となっている。</j>
+<e type="trans" ver="1">The final 17th act in Rishu-kyo is called Poem of One Hundred Characters, constituting the central part in the scriptures.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The final 17th act in &quot;Rishu-kyo&quot; is called &apos;Poem of One Hundred Characters,&apos; constituting the central part in the scriptures.</e>
+<cmt>引用符を追加しました。</cmt>
+<e type="check" ver="1">The final 17th act in &quot;Rishu-kyo&quot; is called &apos;Poem of One Hundred Characters,&apos; constituting the central part in the scriptures.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="76">
+<j>真言僧は大欲（たいよく）を持ち、衆生の為に生死を尽くすまで生きることが大切であると説き、清浄な気持ちで汚泥に染まらず、大欲を持って衆生の利益を願うのが真言僧の務めであると説かれている。</j>
+<e type="trans" ver="1">According to the teaching, it is important for Shingon Buddhist to risk their lives to live for the benefit of the people with great desires; and it is the duty of Shingon Buddhist to have a clean feeling untouched by mire, and to wish for the benefit of the people with great desires.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the teaching, it is important for Shingon Buddhist monks to risk their lives to live for the benefit of the people with great desires; and it is the duty of Shingon Buddhist monks to have a clean feeling untouched by mire, and to wish for the benefit of the people with great desires.</e>
+<cmt>&quot;Shingon Buddhist&quot;→&quot;Shingon Buddhist monks&quot; としました。</cmt>
+<e type="check" ver="1">According to the teaching, it is important for Shingon Buddhist monks to risk their lives to live for the benefit of the people with great desires; and it is the duty of Shingon Buddhist monks to have a clean feeling untouched by mire, and to wish for the benefit of the people with great desires.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="77">
+<j>このような思想は両部の大法の一である『大日経』の「受方便学処品」にも見られる。</j>
+<e type="trans" ver="1">These ideas are found in &apos;Juhobengakusyobon&apos; of &quot;Dainichi-kyo Sutra&quot;, one of two principle texts of Daiho(great traditions of Esoteric practices).</e>
+<cmt></cmt>
+<e type="trans" ver="2">These ideas are found in &apos;Juhobengakusyobon&apos; of &quot;Dainichi-kyo Sutra,&quot; one of two principle texts of Daiho (great traditions of Esoteric practices).</e>
+<cmt>コンマを引用符の中に入れました。括弧の前にスペースを追加しました。</cmt>
+<e type="check" ver="1">These ideas are found in &apos;Juhobengakusyobon&apos; of &quot;Dainichi-kyo Sutra,&quot; one of two principle texts of Daiho (great traditions of Esoteric practices).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="78">
+<j>展開</j>
+<e type="trans" ver="1">Development</e>
+<cmt></cmt>
+<e type="trans" ver="2">Development</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Development</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="79">
+<j>この十七清浄句が述べられていることによって、古来よりいろいろな解釈や研究が行われ、また事件があった。</j>
+<e type="trans" ver="1">Regarding what is taught in this Seventeen Pure Phrases many interpretations and study have been made from ancient times, and incidents occurred.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Regarding what is taught in this Seventeen Pure Phrases many interpretations and study have been made from ancient times, and incidents occurred.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Regarding what is taught in this Seventeen Pure Phrases many interpretations and study have been made from ancient times, and incidents occurred.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="80">
+<j>特に有名なのは、最澄の借経（経典を借りる）事件である。</j>
+<e type="trans" ver="1">The incident regarding borrowing of Buddhist scriptures by Saicho was especially well-known.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The incident regarding borrowing of Buddhist scriptures by Saicho is especially well-known.</e>
+<cmt>&quot;was&quot;→&quot;is&quot; としました。</cmt>
+<e type="check" ver="1">The incident regarding borrowing of Buddhist scriptures by Saicho is especially well-known.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="81">
+<j>日本天台宗の開祖である最澄は、当時はまだ無名で若輩の空海に弟子入りし灌頂を受ける。</j>
+<e type="trans" ver="1">Saicho, who was the Founder of Nihon Tendai sect, became the disciple of Kukai, who was still nameless and young at that time, and Saicho received kanjo (a consecration ceremony by pouring water onto the top of monk&apos;s head).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Saicho, who was the Founder of Nihon Tendai sect, became the disciple of Kukai, who was still nameless and young at that time, and Saicho received kanjo (a consecration ceremony by pouring water onto the top of monk&apos;s head).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Saicho, who was the Founder of Nihon Tendai sect, became the disciple of Kukai, who was still nameless and young at that time, and Saicho received kanjo (a consecration ceremony by pouring water onto the top of monk&apos;s head).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="82">
+<j>天台教学の確立を目指し繁忙だったという理由で自らの弟子をして、空海から借経を幾度となく繰り返していた。</j>
+<e type="trans" ver="1">Because Saicho, who aimed to establish Tendai doctrine, was very busy, he frequently made his disciples borrow Buddhist scriptures from Kukai.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Because Saicho, who aimed to establish Tendai doctrine, was very busy, he frequently made his disciples borrow Buddhist scriptures from Kukai.</e>
+<cmt>スペースを削除しました。</cmt>
+<e type="check" ver="1">Because Saicho, who aimed to establish Tendai doctrine, was very busy, he frequently made his disciples borrow Buddhist scriptures from Kukai.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="83">
+<j>しかし、この『理趣経』の解説本である『理趣釈経』を借りようとして空海から遂に断られた。</j>
+<e type="trans" ver="1">However, Saicho tried to borrow &quot;Rishishakukyo&quot; an explanation book of Rishu-kyo from Kukai, who finally declined to lend it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, when Saicho tried to borrow &quot;Rishushakukyo,&quot; an explanation book of &quot;Rishu-kyo,&quot; Kukai finally declined to lend it.</e>
+<cmt>&quot;when&quot; を追加し、後の文を調整しました。『理趣釈経』スペルを修正しました。引用符を追加しました。</cmt>
+<e type="check" ver="1">However, when Saicho tried to borrow &quot;Rishushakukyo,&quot; an explanation book of &quot;Rishu-kyo,&quot; Kukai finally declined to lend it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="84">
+<j>これは、修法の会得をしようとせず、経典を写して文字の表面上だけで密教を理解しようとする最澄に対して諌めたもので、空海は密教では経典だけではなく修行法や面授口伝を尊ぶことを理由に借経を断ったという。</j>
+<e type="trans" ver="1">This was intended to admonish Saicho, who tried to understand Esoteric Buddhism superficially by making a handwritten copy of Sutra, not mastering the method in esoteric Buddhism; Kukai was said to decline to lend the scriptures insisting that Esoteric Buddhism laid importance not only on scriptures but on ascetic practices and Face to Face Transmission.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was a admonition to Saicho, who tried to understand Esoteric Buddhism superficially by making a handwritten copy of Sutra, not mastering the method in esoteric Buddhism; Kukai declined to lend the scriptures insisting that Esoteric Buddhism laid importance not only on scriptures but on ascetic practices and Face to Face Transmission.</e>
+<cmt>&quot;intended to admonish&quot;→&quot;a admonition to&quot; としました。&quot;was said to decline&quot;→&quot;declined&quot; としました。</cmt>
+<e type="check" ver="1">This was a admonition to Saicho, who tried to understand Esoteric Buddhism superficially by making a handwritten copy of Sutra, not mastering the method in esoteric Buddhism; Kukai declined to lend the scriptures insisting that Esoteric Buddhism laid importance not only on scriptures but on ascetic practices and Face to Face Transmission.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="85">
+<j>空海が断った理由は明らかではないが、一般的にはこの『理趣経』の十七清浄句が、男女の性交そのものが成仏への道であるなど間違った解釈がなされるのを懼れたためといわれている。</j>
+<e type="trans" ver="1">Although why Kukai declined remains unknown, it is generally believed that Kukai feared the misinterpretation that Seventeen Pure Phrases in Rishu-kyo taught sexual intercourse led to jobutsu (to become a Buddha).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the reason why Kukai declined remains unknown, it is generally believed that Kukai feared the misinterpretation that Seventeen Pure Phrases in &quot;Rishu-kyo&quot; taught sexual intercourse led to jobutsu (to become a Buddha).</e>
+<cmt>&quot;the reason&quot; を追加しました。引用符を追加しました。</cmt>
+<e type="check" ver="1">Although the reason why Kukai declined remains unknown, it is generally believed that Kukai feared the misinterpretation that Seventeen Pure Phrases in &quot;Rishu-kyo&quot; taught sexual intercourse led to jobutsu (to become a Buddha).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="86">
+<j>空海は、その後東寺を完全に密教寺院として再編成し、真言密教以外の僧侶の出入りを禁じて、自分の選定した弟子にのみ、自ら選んだ経典や原典のみで修行させるという厳しい統制をかけたが、その中にさえ『理趣経』はないといわれる。</j>
+<e type="trans" ver="1">Later on Kukai reorganized To-ji Temple as the complete Esoteric Buddhism temple, and prohibited Buddhist monks other than Shingon Esoteric Buddhists from entering; and he placed strict controls such as making only disciples selected by himself study only Buddhist scriptures and originals selected by himself; however, Rishu-kyo was not included even in these.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Later on Kukai reorganized To-ji Temple as the complete Esoteric Buddhism temple, and prohibited Buddhist monks other than Shingon Esoteric Buddhists from entering; and he made a strict regulation that only disciples selected by him could study only Buddhist scriptures and originals selected by him; however, &quot;Rishu-kyo&quot; was not included even in these.</e>
+<cmt>「～という厳しい統制をかけた」の部分を訳しなおしました。&quot;himself&quot;→&quot;him&quot; としました。</cmt>
+<e type="check" ver="1">Later on Kukai reorganized To-ji Temple as the complete Esoteric Buddhism temple, and prohibited Buddhist monks other than Shingon Esoteric Buddhists from entering; and he made a strict regulation that only disciples selected by him could study only Buddhist scriptures and originals selected by him; however, &quot;Rishu-kyo&quot; was not included even in these.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="87">
+<j>また、鎌倉時代には、『理趣経』を根本とした真言密教の一派である立川流 (密教)が発生し、後に淫祠邪教だとして弾圧された歴史もある。</j>
+<e type="trans" ver="1">In the Kamakura period the Tachikawa-ryu, a school of Shingon Esoteric Buddhism based on Rishu-kyo, was founded, and it was later oppressed as a heresy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Kamakura period the Tachikawa-ryu (Esoteric Buddhism), a school of Shingon Esoteric Buddhism based on &quot;Rishu-kyo,&quot; was founded, and it was later oppressed as an evil heresy.</e>
+<cmt>括弧内を追加しました（後の部分と重複しますが、原文どおりに）。引用符を追加しました。&quot;a heresy&quot;→&quot;an evil heresy&quot; としました（「淫祠」にあたる語を補足）。</cmt>
+<e type="check" ver="1">In the Kamakura period the Tachikawa-ryu (Esoteric Buddhism), a school of Shingon Esoteric Buddhism based on &quot;Rishu-kyo,&quot; was founded, and it was later oppressed as an evil heresy.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="88">
+<j>（ただし、立川流を弾圧した側の書物はたくさんあるが、肝心の立川流側の書籍は全く残っていないため、それが本当に邪宗視されるべきもであったかどうかは議論される余地がある。）</j>
+<e type="trans" ver="1">(However, it is controversial whether the Tachikawa-ryu should really be seen as heresy, because there remained no books on the side of Tachikawa-ryu although there remained many books on the side of oppressors of Tachikawa-ryu.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(However, it is controversial whether the Tachikawa-ryu should really be seen as heresy, because there remained no books on the side of Tachikawa-ryu although there remained many books on the side of oppressors of Tachikawa-ryu.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(However, it is controversial whether the Tachikawa-ryu should really be seen as heresy, because there remained no books on the side of Tachikawa-ryu although there remained many books on the side of oppressors of Tachikawa-ryu.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 麓(id:77268), Kurz(id:1601), Izayohi(id:13095), Boca samba(id:137526), Trisahasra(id:160332), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>二十一代集</j>
+<e type="trans" ver="1">Nijuichidaishu (the twenty-one collections of waka compiled by imperial command)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nijuichidaishu (the twenty one collections of Japanese waka (poetry) compiled by Imperial command)</e>
+<cmt>I think &quot;waka&quot; is left untranslated here so it can be used as a link in the wikipedia article, but if no explanation is given for it, it feels inconsistent with the rest of this article so I made a second parenthesis</cmt>
+<e type="check" ver="1">Nijuichidaishu</e>
+<cmt>タイトルですので、補足は削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>二十一代集（にじゅういちだいしゅう）とは、天皇が勅命を出し、国家事業として編集された勅撰和歌集である『古今和歌集』から『新続古今和歌集』までの計21集のことである。</j>
+<e type="trans" ver="1">Nijuichidaishu is a collective term for the 21 anthologies beginning with Kokin Wakashu (A Collection of Ancient and Modern Japanese Poetry) to Shinshoku Kokin Wakashu (The New Collection of Ancient and Modern Japanese Poetry Continued) compiled by Imperial command as a state project.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nijuichidaishu is a collective term for the 21 anthologies compiled by Imperial command as a state project, beginning with Kokin Wakashu (A Collection of Ancient and Modern Japanese Poetry) and ending with Shinshoku Kokin Wakashu (The New Collection of Ancient and Modern Japanese Poetry Continued).</e>
+<cmt>&quot;compiled by Imperial command as a state project.&quot; I moved this part towards the beginning of the sentence since it felt like an afterthought at the end</cmt>
+<e type="check" ver="1">Nijuichidaishu is a collective term for the 21 anthologies compiled by Imperial command as a state project, beginning with &quot;Kokin Wakashu&quot; (A Collection of Ancient and Modern Japanese Poetry) and ending with &quot;Shinshoku Kokin Wakashu&quot; (The New Collection of Ancient and Modern Japanese Poetry Continued).</e>
+<cmt>&quot; &quot; を追加しました。</cmt>
+</sen>
+<sen id="2">
+<j>「八代集」と「十三代集」とを合わせた歌集の総称を言う。</j>
+<e type="trans" ver="1">Nijuichidaishu is an incorporation of Hachidaishu (the eight Imperial Anthologies of Japanese poetry) and Jusandaishu (the thirteen Imperial Anthologies of Japanese poetry).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The collection incorporates the Hachidaishu (The Eight Imperial Anthologies of Japanese Poetry) and Jusandaishu (The Thirteen Imperial Anthologies of Japanese Poetry).</e>
+<cmt>I noticed that &quot;歌集の総称&quot; is translated in the previous sentence, leaving no subject for this sentence, so instead of the title again, I used &quot;collection&quot;</cmt>
+<e type="check" ver="1">The collection incorporates the &apos;Hachidaishu&apos; (The Eight Imperial Anthologies of Japanese Poetry) and &apos;Jusandaishu&apos; (The Thirteen Imperial Anthologies of Japanese Poetry).</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+<sen id="3">
+<j>また、古今集以後の三集を「三代集」とも言う。</j>
+<e type="trans" ver="1">The 3 collections subsequent to Kokinshu are also referred to as Sandaishu (Three major collections including New Collection of Ancient and Modern, Gosen Collection of Poetry and Shui collection of poetry).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The three collections subsequent to Kokinshu are also referred to as Sandaishu (Three Major Collections, including the New Collection of Ancient and Modern Poetry, the Gosen Collection of Poetry and the Shui Collection of Poetry).</e>
+<cmt>changed &quot;3&quot; to &quot;three&quot;; added &quot;Poetry&quot; to the end of &quot;New Collection of Ancient and Modern&quot; since these seem to be titles; fixed grammar</cmt>
+<e type="check" ver="1">The three collections subsequent to Kokinshu are also referred to as &apos;Sandaishu&apos; (Three Major Collections, including the New Collection of Ancient and Modern Poetry, the Gosen Collection of Poetry and the Shui Collection of Poetry).</e>
+<cmt>&apos;　を追加しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>三代集・八代集</j>
+<e type="trans" ver="1">Sandaishu and Hachidaishu (the eight collections of Japanese poetry compiled by Imperial command)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sandaishu and Hachidaishu</e>
+<cmt>Eliminated content in parenthesis for two reasons. 1: Hachidaishu is already explained above, and 2: the description was only for &quot;Hachidaishu&quot; and not &quot;Sandaishu&quot; leaving the reader to question if it is describing one or both</cmt>
+<e type="check" ver="1">Sandaishu and Hachidaishu</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>1～3が三代集、1～8が八代集。</j>
+<e type="trans" ver="1">Books 1 to 3 are collectively referred to as Sandaishu and Books 1 to 8 Hachidaishu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Books one through three are collectively referred to as Sandaishu and books one through eight as Hachidaishu.</e>
+<cmt>changed numerals to words; fixed grammar</cmt>
+<e type="check" ver="1">Books one through three are collectively referred to as Sandaishu and books one through eight as Hachidaishu.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>古今和歌集</j>
+<e type="trans" ver="1">Kokin Wakashu (A Collection of Ancient and Modern Japanese Poetry)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kokin Wakashu (A Collection of Ancient and Modern Japanese Poetry)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kokin Wakashu</e>
+<cmt>既出のため、補足を削除しました。</cmt>
+</sen>
+<sen id="6">
+<j>後撰和歌集</j>
+<e type="trans" ver="1">Gosen Wakashu&apos; (Later selected collection of Japanese poetry)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gosen Wakashu (A Later Collection of Japanese Poetry)</e>
+<cmt>deleted &quot;&apos;&quot;; eliminated &quot;selection&quot; to be consisten with the wikipedia article and capitilized the title</cmt>
+<e type="check" ver="1">Gosen Wakashu (A Later Collection of Japanese Poetry)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>拾遺和歌集</j>
+<e type="trans" ver="1">Shui Wakashu&apos; (Collection of Gleanings of Japanese Poems)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shui Wakashu (Gleanings from a Collection of Japanese Poetry)</e>
+<cmt>deleted &quot;&apos;&quot;; moved &quot;gleanings&quot; to avoid a double &quot;of&quot;; changed &quot;Poems&quot; to &quot;Poetry&quot; for consistency</cmt>
+<e type="check" ver="1">Shui Wakashu (Gleanings from a Collection of Japanese Poetry)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>後拾遺和歌集</j>
+<e type="trans" ver="1">Goshui Wakashu (Later Collection of Gleanings of Japanese Poetry)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Goshui Wakashu (Gleanings from a Later Collection of Japanese Poetry)</e>
+<cmt>moved &quot;gleanings&quot; to avoid a double &quot;of&quot;</cmt>
+<e type="check" ver="1">Goshui Wakashu (Gleanings from a Later Collection of Japanese Poetry)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>金葉和歌集</j>
+<e type="trans" ver="1">Kinyo Wakashu (Kinyo Collection of Japanese poems)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kinyo Wakashu (Kinyo Collection of Japanese Poems)</e>
+<cmt>capitalized &quot;Poems&quot; to make it feel more like a title</cmt>
+<e type="check" ver="1">Kinyo Wakashu (Kinyo Collection of Japanese Poems)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>詞花和歌集</j>
+<e type="trans" ver="1">Shika wakashu (A Collection of Verbal Flowers of Japanese Poetry)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shika Wakashu (A Collection of Verbal Flowers of Japanese Poetry)</e>
+<cmt>capitalized &quot;Wakashu&quot; for consistency</cmt>
+<e type="check" ver="1">Shika Wakashu (A Collection of Verbal Flowers of Japanese Poetry)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>千載和歌集</j>
+<e type="trans" ver="1">Senzai Wakashu (Collection of Japanese Poems of a Thousand Years)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Senzai Wakashu (Collection of Japanese Poems of a Thousand Years)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Senzai Wakashu</e>
+<cmt>既出のため、補足を削除しました。</cmt>
+</sen>
+<sen id="12">
+<j>新古今和歌集</j>
+<e type="trans" ver="1">Shinkokin Wakashu (New Collection of Ancient and Modern Japanese Poetry)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinkokin Wakashu (New Collection of Ancient and Modern Japanese Poetry)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shinkokin Wakashu (New Collection of Ancient and Modern Japanese Poetry)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>十三代集</j>
+<e type="trans" ver="1">Jusandaishu (The Thirteen Imperial Anthologies of Japanese Poetry)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jusandaishu (The Thirteen Imperial Anthologies of Japanese Poetry)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jusandaishu</e>
+<cmt>既出のため、補足を削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>新勅撰和歌集</j>
+<e type="trans" ver="1">Shin chokusen wakashu (New Imperial Anthology of Japanese Poetry)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shin Chokusen Wakashu (New Imperial Anthology of Japanese Poetry)</e>
+<cmt>capitalized &quot;Chokusen&quot; and &quot;Wakashu&quot;</cmt>
+<e type="check" ver="1">Shin Chokusen Wakashu (New Imperial Anthology of Japanese Poetry)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>続後撰和歌集</j>
+<e type="trans" ver="1">Shoku-Gosen Wakashu (Later Imperial Poetic Anthology, continued)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shoku-Gosen Wakashu (Later Imperial Anthology of Japanese Poetry Continued)</e>
+<cmt>eliminated comma; capitalized &quot;Continued&quot; and rearranged words for consistency</cmt>
+<e type="check" ver="1">Shoku-Gosen Wakashu (Later Imperial Anthology of Japanese Poetry Continued)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>続古今和歌集</j>
+<e type="trans" ver="1">Shinshoku Kokin Wakashu&apos; (New Collection of Ancient and Modern Japanese Poetry Continued)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinshoku Kokin Wakashu (New Collection of Ancient and Modern Japanese Poetry Continued)</e>
+<cmt>deleted &quot;&apos;&quot;</cmt>
+<e type="check" ver="1">Shoku Kokin Wakashu (Collection of Ancient and Modern Japanese Poetry, Continued)</e>
+<cmt>修正しました。</cmt>
+</sen>
+<sen id="16">
+<j>続拾遺和歌集</j>
+<e type="trans" ver="1">Shoku Shui Wakashu (12th imperial anthology)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shoku Shui Wakashu (12th Imperial Anthology)</e>
+<cmt>capitalized &quot;Imperial&quot; and &quot;Anthology&quot;</cmt>
+<e type="check" ver="1">Shoku Shui Wakashu (12th Imperial Anthology)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>新後撰和歌集</j>
+<e type="trans" ver="1">Shingosenshu (New Later Collection of Japanese Poems)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shingosen Wakashu (New Later Collection of Japanese Poems)</e>
+<cmt>added &quot;Wakashu&quot; to correspond to &quot;和歌集&quot;</cmt>
+<e type="check" ver="1">Shingosen Wakashu (New Later Collection of Japanese Poems)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>玉葉和歌集</j>
+<e type="trans" ver="1">Gyokuyo Wakashu (Jeweled Leaves Collection)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gyokuyo Wakashu (Jeweled Leaves Collection)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gyokuyo Wakashu (Jeweled Leaves Collection)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>続千載和歌集</j>
+<e type="trans" ver="1">Shokusenzai Wakashu, (Waka Collection of a Thousand Years Continued)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shokusenzai Wakashu (Collection of Japanese Poems of a Thousand Years Continued)</e>
+<cmt>eliminated comma; fixed to be consistent with &quot;千載和歌集&quot; from above</cmt>
+<e type="check" ver="1">Shokusenzai Wakashu (Collection of Japanese Poems of a Thousand Years Continued)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>続後拾遺和歌集</j>
+<e type="trans" ver="1">Shokugoshuiwakashu (Later Collection of Gleaning Continued)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shokugoshui Wakashu (Gleanings from a Later Collection of Japanese Poetry Continued)</e>
+<cmt>added space between Shokugoshui and Wakashu and capitalized; added &quot;Japanese Poetry&quot; for consistency</cmt>
+<e type="check" ver="1">Shokugoshui Wakashu (Gleanings from a Later Collection of Japanese Poetry Continued)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>風雅和歌集</j>
+<e type="trans" ver="1">Fugawakashu&apos; (Collection of Japanese Poetry of Elegance)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fuga Wakashu (Collection of Japanese Poetry of Elegance)</e>
+<cmt>deleted &quot;&apos;&quot;; added space between &quot;Fuga&quot; and &quot;Wakashu&quot; and capitalized</cmt>
+<e type="check" ver="1">Fuga Wakashu (Collection of Japanese Poetry of Elegance)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>新千載和歌集</j>
+<e type="trans" ver="1">Shin Senzai (waka) shu (New Collection of Japanese Poems of a Thousand Years)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shin Senzai Wakashu (New Collection of Japanese Poems of a Thousand Years)</e>
+<cmt>changed &quot;(waka) shu&quot; to &quot;Wakashu&quot; for consistency</cmt>
+<e type="check" ver="1">Shin Senzai Wakashu (New Collection of Japanese Poems of a Thousand Years)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>新拾遺和歌集</j>
+<e type="trans" ver="1">Shinshuishu (New Collection of Gleanings of Japanese Poems)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinshui Wakashu (New Gleanings from a Collection of Japanese Poems)</e>
+<cmt>added &quot;Wakashu&quot; instead of the abbreviated version;</cmt>
+<e type="check" ver="1">Shinshui Wakashu (New Gleanings from a Collection of Japanese Poems)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>新後拾遺和歌集</j>
+<e type="trans" ver="1">Shingoshuishu (New Later Collection of Gleanings of Japanese Poems)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shingoshui Wakashu (New Later Gleanings from a Collection of Japanese Poetry)</e>
+<cmt>added &quot;Wakashu&quot; in place of the abbreviated prefix &quot;-shu&quot; and changed description for consistency</cmt>
+<e type="check" ver="1">Shingoshui Wakashu (New Later Gleanings from a Collection of Japanese Poetry)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>新続古今和歌集</j>
+<e type="trans" ver="1">Shinshoku Kokin Wakashu (NEW Collection of Ancient and Modern Japanese Poetry Continued)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinshoku Kokin Wakashu (New Collection of Ancient and Modern Japanese Poetry Continued)</e>
+<cmt>fixed spacing; &quot;NEW&quot;→&quot;New&quot;</cmt>
+<e type="check" ver="1">Shinshoku Kokin Wakashu (New Collection of Ancient and Modern Japanese Poetry Continued)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Hajimari(id:205606), AlleborgoBot(id:119729), さららゆら(id:12274), 翠碧晶(id:68524), Nnh(id:474), Loveless(id:129239), Zippin(id:9885), 小太刀(id:18154), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>玉子豆腐</j>
+<e type="trans" ver="1">Tamago dofu (egg tofu)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tamago Dofu (Egg Tofu)</e>
+<cmt>Punctuation.</cmt>
+<e type="check" ver="1">Tamago Dofu (Egg Tofu)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>玉子豆腐（たまごどうふ）は日本料理の一種。</j>
+<e type="trans" ver="1">&quot;Tamago dofu&quot; is a kind of Japanese cuisine.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Tamago dofu&quot; is a Japanese culinary dish.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Tamago dofu is a Japanese culinary dish.</e>
+<cmt>ダブルクォーテーションを削除しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>玉子豆腐はだし汁と鶏卵を使用した料理で、豆腐と名乗ってはいるが大豆などは使用していない。</j>
+<e type="trans" ver="1">Tamago dofu (egg tofu) is a dish using dashi broth and chicken eggs, and although its name includes &quot;tofu&quot;, soy beans are not included in its ingredients.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tamago dofu (egg tofu) is a dish using dashi broth and chicken eggs, and although its name includes the word &quot;tofu&quot; it does not contain soy beans.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">Tamago dofu is a dish using dashi broth and chicken eggs, and although its name includes the word &quot;tofu,&quot; it does not contain soy beans.</e>
+<cmt>卵豆腐　既出のため、補足を削除しました。</cmt>
+</sen>
+<sen id="3">
+<j>これは、柔らかく豆腐状の食品を「-豆腐」と呼ぶ為で、杏仁豆腐などと同じ理由である。</j>
+<e type="trans" ver="1">This is because soft tofu-like foods often include &quot;tofu&quot; (or &quot;dofu&quot;) in their names, for the same reason that almond jelly is called &quot;annindofu&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is because soft tofu-like foods often include &quot;tofu&quot; (or &quot;dofu&quot;) in their names, just as almond jelly is called &quot;annindofu&quot;</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">This is because soft tofu-like foods often include &apos;tofu&apos; (or &apos;dofu&apos;) in their names, just as almond jelly is called annin dofu.</e>
+<cmt>一部 &quot;→ &apos;　としました。Tamago dofu と合わせ、annin dofu としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>材料と製法が、茶碗蒸しとほぼ同じため同時に作ることも可能で、だし汁の量を調節して2種の料理を作ることが出来る。</j>
+<e type="trans" ver="1">Since the recipe and ingredients of tamagodofu are almost the same with those of chawanmushi (steamed egg hotchpotch), the two dishes can be prepared at the same time by adjusting the amounts of the dashi broth.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As the recipe and ingredients of tamagodofu are almost the same as those of chawanmushi (steamed egg hotchpotch), the two dishes can be prepared at the same time by adjusting the amount of dashi broth.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">As the recipe and ingredients of tamago dofu are almost the same as those of chawanmushi (steamed egg hotchpotch), the two dishes can be prepared at the same time by adjusting the amount of dashi broth.</e>
+<cmt>tamago dofu としてスペースを追加しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>調理法</j>
+<e type="trans" ver="1">Recipe</e>
+<cmt></cmt>
+<e type="trans" ver="2">Recipe</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Recipe</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>耐熱容器に出し汁と鶏卵を混ぜたものを注ぎいれ、蒸し器で蒸す。</j>
+<e type="trans" ver="1">Pour a mixture of dashi broth and chicken eggs into a heatproof container and steam it in a steamer pot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mix the dashi broth and chicken eggs, pour into a heatproof container and steam in a steamer pot.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">Mix the dashi broth and chicken eggs, pour into a heatproof container and steam in a steamer pot.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>蒸しすぎると卵が凝固しすぎてしまい隙間（鬆）ができるため、蒸し器のふたはずらしてふきんをはさむとよい。</j>
+<e type="trans" ver="1">Since steaming too long causes too much coagulation of eggs, which results in pores in tamagodofu, it is advisable to place a dish towel on the steamer pot and place the pot lid on the towel so as not to cover the pot tightly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since steaming too long causes the eggs to coagulate too much, which results in holes forming in the tamagodofu, it is advisable to place a cloth over the steamer pot and place the pot lid on the cloth so as not to cover the pot tightly.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Since steaming too long causes the eggs to coagulate too much, which results in holes forming in the tamago dofu, it is advisable to place a cloth over the steamer pot and place the pot lid on the cloth so as not to cover the pot tightly.</e>
+<cmt>tamago dofu としてスペースを追加しました。</cmt>
+</sen>
+<sen id="7">
+<j>蒸しあがったら粗熱を取って、冷蔵庫などで冷やす。</j>
+<e type="trans" ver="1">After steaming, let the tamagodofu cool slightly and then cool it in a refrigerator.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After steaming, let the tamagodofu cool slightly and then place in a refrigerator to cool.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">After steaming, let the tamago dofu cool slightly and then place in a refrigerator to cool.</e>
+<cmt>tamago dofu としてスペースを追加しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>出し汁の量を、溶き卵の量の2倍にするのがコツである。</j>
+<e type="trans" ver="1">The key is to adjust the amount of the dashi broth to twice the amount of the beaten eggs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The key is to ensure the amount of the dashi broth is twice the amount of the beaten eggs.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">The key is to ensure the amount of the dashi broth is twice the amount of the beaten eggs.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 スゥ(id:33856), Pieria(id:48925), 竃馬(id:102733), Manami-chan(id:157455), Nipisiquit(id:62077), Suisui(id:69), Kstigarbha(id:13376), Yatobi(id:9686), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

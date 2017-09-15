@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>院庁下文</j>
+<e type="trans" ver="1">In-no-cho-kudashibumi</e>
+<cmt></cmt>
+<e type="trans" ver="2">In-no-cho-kudashibumi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In no cho kudashibumi</e>
+<cmt>表記を変えました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>院庁下文（いんのちょうくだしぶみ）は、平安時代院政期に、院庁が発給した文書。</j>
+<e type="trans" ver="1">In-no-cho-kudashibumi were the documents issued by Incho (Retired Emperor&apos;s Office) during the Insei (government by cloistered emperor) the Heian Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In-no-cho-kudashibumi were the documents issued by Incho (Retired Emperor&apos;s Office) during the Insei (government by cloistered emperor) during the Heian Period.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">In no cho kudashibumi were the documents issued by Incho (Retired Emperor&apos;s Office) during the Insei (government by cloistered emperor) during the Heian period.</e>
+<cmt>統一リストに合わせました。</cmt>
+</sen>
+<sen id="2">
+<j>院司が連署する下文の形式である。</j>
+<e type="trans" ver="1">It took the form of Kudashibumi which were the documents cosigned by In-no-Tsukasa (officials of Incho) and were given to lower agencies.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It took the form of Kudashibumi which were the documents cosigned by In-no-Tsukasa (officials of Incho) and were given to lower agencies.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It took the form of Kudashibumi which were the documents cosigned by In no Tsukasa (officials of Incho) and were given to lower agencies.</e>
+<cmt>表記を変えました。</cmt>
+</sen>
+<sen id="3">
+<j>院宣よりも公的性が高いとされる。</j>
+<e type="trans" ver="1">It was considered more formal than Inzen (decree of cloistered emperor.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was considered more formal than Inzen (decree of cloistered emperor.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was considered more formal than Inzen (decree of cloistered emperor).</e>
+<cmt>ピリオドを位置を変えました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>律令によれば、政府の最終決定意思は、天皇が裁可した上で、詔勅または太政官符により表示することと規定されていた。</j>
+<e type="trans" ver="1">According to Ritsuryo system (the Ritsuryo Ranks and Position), the government&apos;s final decision was supposed to be issued as a form of Shochoku (emperor&apos;s rescript) or Daijokan-pu (documents issued by Department of State.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the Ritsuryo system (the Ritsuryo Ranks and Position), the government&apos;s final decision was supposed to be issued as a form of Shochoku (emperor&apos;s rescript) or Daijokan-pu (documents issued by Department of State.)</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">According to the the Ritsuryo codes, the government&apos;s final decision was supposed to be issued as a form of Shochoku (emperor&apos;s rescript) or Daijokanpu (documents issued by Department of State).</e>
+<cmt>原文に合わせ、ピリオドを位置を変えました。</cmt>
+</sen>
+<sen id="5">
+<j>しかし、平安後期に太上天皇が治天の君（事実上の国王）として君臨し、政務を取り仕切る院政が開始すると、詔勅や太政官符に代わる、政治意思の表示方式を確立する必要が生じた。</j>
+<e type="trans" ver="1">However, in the later Heian Period Insei, when the political system Insei that retired emperor took the power and administered all of affairs of state as a de facto emperor started, it was required to establish a way to express its own political will instead of Daijokanpu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, in the later Heian Period Insei, when the Insei political system started, where the retired emperor took power and administered all affairs of state as a de facto emperor, it was required to establish a way to express its own political will instead of Daijokanpu.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">However, in the later Heian period, when the Insei political system started, where the retired emperor took power and administered all affairs of state as a de facto emperor, it was required to establish a way to express its own political will instead of Daijokanpu.</e>
+<cmt>不要な語を削除しました。</cmt>
+</sen>
+<sen id="6">
+<j>そこで、治天の政務機関として設置された院庁の発給する文書、すなわち院庁下文が、詔勅や太政官符と同等の効力を持つものとして取り扱われるようになった。</j>
+<e type="trans" ver="1">Therefore, in-no-cho-kudashibumi issued by Incho that was established as the de facto government came to be treated as powerful as Shochoku and Daijokanpu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, in-no-cho-kudashibumi issued by Incho that was established as the de facto government came to be treated as powerful as Shochoku and Daijokanpu.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Therefore, In no cho kudashibumi issued by Incho that was established as the de facto government came to be treated as powerful as Shochoku and Daijokanpu.</e>
+<cmt>前出表記に合わせました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>院宣は私的な文書としての性格が強く、即応性・柔軟性の高い文書だったのに対して、院庁下文は、詔勅・太政官符のように、重要事項について対応するための文書だった。</j>
+<e type="trans" ver="1">While Inzen took the strong nature of personal documents of cloistered emperor and was quickly responsive and flexible, Incho-no-Kudashibumi was to deal with important affairs, as was the case of Shochoku or Daijokan-pu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While Inzen took the strong nature of the personal documents of the cloistered emperor and was quickly responsive and flexible, Incho-no-Kudashibumi was to deal with important affairs, as was the case of Shochoku or Daijokan-pu.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">While Inzen took the strong nature of the personal documents of the cloistered emperor and was quickly responsive and flexible, In no cho kudashibumi was to deal with important affairs, as was the case of Shochoku or Daijokanpu.</e>
+<cmt>前出表記に合わせました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Extrahitz(id:26245), Shimoxx(id:9332), 李(id:10582), Greenland4(id:114494), 水野白楓(id:22811), 怪蘇(id:45514), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

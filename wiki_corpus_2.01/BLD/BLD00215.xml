@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>作庭記</j>
+<e type="trans" ver="1">Sakutei-ki (literally, descriptions of designing gardens)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sakutei-ki (literally, descriptions of garden designs)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sakutei-ki (descriptions of garden designs)</e>
+<cmt>タイトル用に変更しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>作庭記（さくていき）とは平安時代に書かれた日本最古の庭園書である。</j>
+<e type="trans" ver="1">Sakutei-ki, written in the Heian period, is the oldest book concerning gardens in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sakutei-ki, written during the Heian period, is the oldest book concerning gardens in Japan.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sakutei-ki, written during the Heian period, is the oldest book concerning gardens in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>江戸時代中期までは「前栽秘抄」呼ばれた。</j>
+<e type="trans" ver="1">Until around the middle of the Edo period, it was called Senzaihisho (literally, a secret short note about front planting).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Until around the middle of the Edo period it was called Senzaihisho (literally, a secret short note about front planting).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It was called &apos;Senzaihisho&apos; (literally, secret short notes on front gardens) until around the middle of the Edo period.</e>
+<cmt>FBに従って修正しました。クォーテーションマークを修正</cmt>
+</sen>
+<sen id="3">
+<j>この本は寝殿造の庭園に関することが書かれており、その内容は意匠と施工法である。</j>
+<e type="trans" ver="1">In this book, how to design and how to construct gardens for Shinden-zukuri style (architecture representative [characteristic] of a nobleman&apos;s residence in the Heian period) are written.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In this book, the means by which to design and construct gardens for Shinden-zukuri style (architecture representative [characteristic] of a nobleman&apos;s residence in the Heian period) are described.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In this book, the means by which to design and construct gardens for Shinden-zukuri style (architecture representative (characteristic) of a nobleman&apos;s residence in the Heian period) are described.</e>
+<cmt>括弧を修正しました。</cmt>
+</sen>
+<sen id="4">
+<j>しかし、図は全く無く、すべて文章である。</j>
+<e type="trans" ver="1">However, all of its contents are written in sentences without nanyo drawing.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, all of its contents are written in sentences without nanyo drawings.</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">However, it has no drawings and the content is all in writing.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="5">
+<j>作者や編纂時期については諸説ある。</j>
+<e type="trans" ver="1">There are many thories about who wrote it and when it was written.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">There are many thories about who wrote it and when it was written.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There are many theories about who wrote it and when it was written.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+<sen id="6">
+<j>現在、橘俊綱であるとする説が定説となっており、所収されている岩波書店『日本思想大系』第23巻にも橘俊綱『作庭記』としている。</j>
+<e type="trans" ver="1">However, at present, it is an accepted theory that the book was written by TACHIBANA no Toshitsuna, and it was included as &quot;Sakutei-ki&quot; by TACHIBANA no Toshitsuna in volume 23 of &quot;A collection of philosophical thoughts in Japan&quot; published by Iwanami Shoten.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, at present, it is an accepted theory that the book was written by TACHIBANA no Toshitsuna, and it was included as &quot;Sakutei-ki&quot; by TACHIBANA no Toshitsuna in volume 23 of &quot;A collection of philosophical thoughts in Japan&quot; published by Iwanami Shoten.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">At present, it is an accepted theory that the book was written by TACHIBANA no Toshitsuna, and it was included as &quot;Sakutei-ki&quot; by TACHIBANA no Toshitsuna in volume 23 of &quot;A collection of philosophical thoughts in Japan&quot; published by Iwanami Shoten, Publishers.</e>
+<cmt>出版社であることを明記するため、publishers　を追加しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 松永英明(id:10337), Himazin(id:22034), SpBot(id:209743), Izayohi(id:13095), Mkck4(id:25090), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

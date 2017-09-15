@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>洛西バスターミナル</j>
+<e type="trans" ver="1">Rakusai Bus Terminal</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rakusai Bus Terminal</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rakusai Bus Terminal</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>洛西バスターミナル（らくさいバスターミナル）は、京都府京都市西京区にあるバスターミナルである。</j>
+<e type="trans" ver="1">Rakusai Bus Terminal is a bus terminal in Nishikyo ward, Kyoto city, Kyoto Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rakusai Bus Terminal is a bus terminal in Nishikyo Ward, Kyoto city, Kyoto Prefecture.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Rakusai Bus Terminal is a bus terminal in Nishikyo Ward, Kyoto City, Kyoto Prefecture.</e>
+<cmt>Cityと大文字にしました。</cmt>
+</sen>
+<sen id="2">
+<j>ここでは京都市交通局、阪急バス、京阪京都交通バス、中国バスが発着している。</j>
+<e type="trans" ver="1">It is serviced by Kyoto City Transportation Bureau (City bus), Hankyu Bus, Keihan Kyoto Kotsu bus and Chugoku bus.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It&apos;s serviced by the Kyoto City Transportation Bureau (City bus), Hankyu Bus, Keihan Kyoto Kotsu bus and Chugoku bus.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It&apos;s serviced by the Kyoto City Transportation Bureau (City bus), Hankyu Bus, Keihan Kyoto Kotsu bus and Chugoku bus.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>ターミナル周辺</j>
+<e type="trans" ver="1">Terminal vicinity</e>
+<cmt></cmt>
+<e type="trans" ver="2">The terminal&apos;s vicinity</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The terminal&apos;s vicinity</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>洛西高島屋</j>
+<e type="trans" ver="1">Rakusai Takashimaya Department store</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Rakusai Takashimaya department store</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Rakusai Takashimaya department store</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>RCV京都</j>
+<e type="trans" ver="1">RCV Kyoto</e>
+<cmt></cmt>
+<e type="trans" ver="2">RCV Kyoto</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">RCV Kyoto</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>洛西郵便局</j>
+<e type="trans" ver="1">Rakusai Post Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Rakusai post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Rakusai post office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>一般路線バス</j>
+<e type="trans" ver="1">Regular bus route</e>
+<cmt></cmt>
+<e type="trans" ver="2">Regular bus routes</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Regular bus routes</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>1番乗り場（京都市交通局）</j>
+<e type="trans" ver="1">Bus stop 1 (Kyoto City Bus)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus Stop 1 (Kyoto City Bus)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Bus Stop 1 (Kyoto City Bus)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>西1系統</j>
+<e type="trans" ver="1">Route West 1</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route West 1</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route West 1</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>東新林町から桂駅西口</j>
+<e type="trans" ver="1">From Higashi-shinbayashicho to Katsura station west exit</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Higashi-shinbayashicho to the Katsura Station west exit</e>
+<cmt>case</cmt>
+<e type="check" ver="1">From Higashi-shinbayashi-cho to the Katsura Station west exit</e>
+<cmt>地名にハイフンを追加しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>西2系統</j>
+<e type="trans" ver="1">Route West 2</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route West 2</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route West 2</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>西竹の里町から桂駅西口</j>
+<e type="trans" ver="1">From Nishitakenosatocho to Katsura station west exit</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Nishitakenosatocho to the Katsura Station west exit</e>
+<cmt>case</cmt>
+<e type="check" ver="1">From Nishi-takenosato-cho to the Katsura Station west exit</e>
+<cmt>地名にハイフンを追加しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="11">
+<j>西4系統</j>
+<e type="trans" ver="1">Route West 4</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route West 4</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route West 4</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="12">
+<j>西竹の里町から阪急洛西口駅前</j>
+<e type="trans" ver="1">From Nishitakenosatocho to the front of Hankyu Rakusaiguchi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Nishitakenosatocho to the front of Hankyu Rakusaiguchi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">From Nishi-takenosato-cho to the front of Hankyu Rakusaiguchi Station</e>
+<cmt>地名にハイフンを追加しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="13">
+<j>2番乗り場（京都市交通局）</j>
+<e type="trans" ver="1">Bus stop 2 (Kyoto City Bus)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus Stop 2 (Kyoto City Bus)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Bus Stop 2 (Kyoto City Bus)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="14">
+<j>西2系統</j>
+<e type="trans" ver="1">Route West 2</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route West 2</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route West 2</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="15">
+<j>右京の里から西竹の里町桂駅西口</j>
+<e type="trans" ver="1">From Ukyonosato to Katsura station west exit in Nishitakenosatocho</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Ukyonosato to the Katsura Station west exit in Nishitakenosatocho</e>
+<cmt>case</cmt>
+<e type="check" ver="1">From Ukyonosato to the Katsura Station west exit via Nishi-takenosato-cho</e>
+<cmt>原文wikiを参照したところ、西竹の里町「経由」桂駅西口　となっておりましたので、via　を追加しました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="16">
+<j>臨西2系統</j>
+<e type="trans" ver="1">Route West 2 special</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route West 2 Special</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Rin Route West 2</e>
+<cmt>「臨」とは、「臨時」の意味ではないようですので、Rinとしました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="17">
+<j>南春日町から桂駅西口</j>
+<e type="trans" ver="1">From Minamikasugacho to Katsura station west exit</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Minamikasugacho to the Katsura Station west exit</e>
+<cmt>case</cmt>
+<e type="check" ver="1">From Minami-kasuga-cho to the Katsura Station west exit</e>
+<cmt>地名にハイフンを追加しました。</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="18">
+<j>西3系統</j>
+<e type="trans" ver="1">Route West 3</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route West 3</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route West 3</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="19">
+<j>福西本通から桂駅西口</j>
+<e type="trans" ver="1">From Fukunishi-hondori to Katsura station west exit</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Fukunishi-hondori to the Katsura Station west exit</e>
+<cmt>case</cmt>
+<e type="check" ver="1">From Fukunishi-hondori Street to the Katsura Station west exit</e>
+<cmt>Street を追加しました。</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="20">
+<j>西8系統</j>
+<e type="trans" ver="1">Route West 8</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route West 8</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route West 8</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="21">
+<j>新林センター前から福西本通桂駅西口</j>
+<e type="trans" ver="1">From Shinbayashi Center to Fukunishi-hondori Katsura station West exit</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Shinbayashi Center to THE Fukunishi-hondori Katsura Station west exit</e>
+<cmt>case</cmt>
+<e type="check" ver="1">From Shinbayashi Center to the Katsura Station west exit via Fukunishi-hondori Street</e>
+<cmt>原文wikiを参照したところ、福西本通「経由」桂駅西口　となっておりましたので、via　を追加しました。</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="22">
+<j>3番乗り場（京都市交通局）</j>
+<e type="trans" ver="1">Bus Stop 3 (Kyoto City Bus)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus Stop 3 (Kyoto City Bus)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus Stop 3 (Kyoto City Bus)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="23">
+<j>29系統</j>
+<e type="trans" ver="1">Route 29</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 29</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 29</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="24">
+<j>松尾橋から四条烏丸</j>
+<e type="trans" ver="1">From Matsuobashi to Shijokarasuma</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Matsuobashi to Shijokarasuma</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">From Matsuo-bashi Bridge to Shijo-Karasuma</e>
+<cmt>地名にハイフンを追加しました。</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="25">
+<j>33系統</j>
+<e type="trans" ver="1">Route 33</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 33</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 33</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="26">
+<j>葛野大路八条（かどのおおじはちじょう）から京都駅</j>
+<e type="trans" ver="1">From Kado-no-koji-hachijo to Kyoto station</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Kado-no-koji-hachijo to Kyoto Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">From Kado-no-koji-hachijo to Kyoto Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="27">
+<j>特33系統</j>
+<e type="trans" ver="1">Route 33</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 33</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Toku Route 33</e>
+<cmt>Toku を追加しました。</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="28">
+<j>東側町（ひがしがわちょう）から京都駅</j>
+<e type="trans" ver="1">Higashigawacho to Kyoto station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Higashigawacho to Kyoto Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Higashigawa-cho to Kyoto Station</e>
+<cmt>地名にハイフンを追加しました。</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="29">
+<j>73系統</j>
+<e type="trans" ver="1">Route 73</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 73</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 73</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="30">
+<j>千代原口から京都駅</j>
+<e type="trans" ver="1">From Chiyoharaguchi to Kyoto station</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Chiyoharaguchi to Kyoto Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">From Chiyoharaguchi to Kyoto Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="31">
+<j>4番乗り場（京阪京都交通）</j>
+<e type="trans" ver="1">Bus Stop 4 (Keihan Kyoto Kotsu)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus Stop 4 (Keihan Kyoto Kotsu)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus Stop 4 (Keihan Kyoto Kotsu)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="27">
+<sen id="32">
+<j>10系統</j>
+<e type="trans" ver="1">Route 10</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 10</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 10</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="28">
+<sen id="33">
+<j>西竹の里町から三ノ宮街道桂駅東口</j>
+<e type="trans" ver="1">From Nishitakenosatocho to Sannomiya Kaido Katsura station East exit</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Nishitakenosatocho to the Sannomiya Kaido Katsura Station east exit</e>
+<cmt>case</cmt>
+<e type="check" ver="1">From Nishi-takenosato-cho to the Katsura Station east exit via Sannomiya-kaido Road</e>
+<cmt>原文wikiを参照したところ、三ノ宮街道「経由」桂駅東口 となっておりましたので、via　を追加しました。</cmt>
+</sen>
+</par>
+<par id="29">
+<sen id="34">
+<j>快速16系統</j>
+<e type="trans" ver="1">Route 16 express</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 16 Express</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 16 Express</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="30">
+<sen id="35">
+<j>北福西町一丁目から（ノンストップ）桂駅東口</j>
+<e type="trans" ver="1">From Kitafukunishi 1-chome non-stop to Katsura station East exit</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Kitafukunishi 1-chome non-stop to the Katsura Station east exit</e>
+<cmt>case</cmt>
+<e type="check" ver="1">From Kita-fukunishi-cho 1-chome non-stop to the Katsura Station east exit</e>
+<cmt>地名にハイフンを追加しました。</cmt>
+</sen>
+</par>
+<par id="31">
+<sen id="36">
+<j>19系統</j>
+<e type="trans" ver="1">Route 19</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 19</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 19</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="32">
+<sen id="37">
+<j>新林中通から桂坂中央</j>
+<e type="trans" ver="1">From Shinbayashi Nakadori to Katsurazaka-chuo</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Shinbayashi Nakadori to Katsurazaka-chuo</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">From Shinbayashi-Nakadori Street to Katsurazaka-chuo</e>
+<cmt>地名にハイフンを追加しました。</cmt>
+</sen>
+</par>
+<par id="33">
+<sen id="38">
+<j>阪急バス</j>
+<e type="trans" ver="1">Hankyu Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hankyu Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="34">
+<sen id="39">
+<j>4系統</j>
+<e type="trans" ver="1">Route 4</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 4</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 4</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="35">
+<sen id="40">
+<j>西竹の里町から境谷大橋洛西口駅前経由JR向日町・阪急東向日</j>
+<e type="trans" ver="1">From Nishitakenosatocho to JR Mukomachi Higashi-muko station via Sakaidani-ohashi Rakusaiguchi station</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Nishitakenosatocho to JR Mukomachi Higashi-muko Station via Sakaidani-ohashi Rakusaiguchi Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">From Nishi-takenosato-cho to JR Mukomachi Station/Hankyu Higashimuko Station via Sakaidani-ohashi Bridge and Rakusaiguchi Station</e>
+<cmt>station, bridge, and を追加しました。</cmt>
+</sen>
+</par>
+<par id="36">
+<sen id="41">
+<j>63系統</j>
+<e type="trans" ver="1">Route 63</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 63</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 63</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="37">
+<sen id="42">
+<j>灰方から右京の里東山経由阪急東向日・JR向日町</j>
+<e type="trans" ver="1">From Haikata to Hankyu Higashi Muko/JR Muko-cho via Satohigashiyama in Ukyo</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Haikata to Hankyu Higashi Muko/JR Muko-cho via Satohigashiyama in Ukyo</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">From Haikata to Hankyu Higashimuko Station/JR Mukomachi Station via Ukyonosato and Higashiyama</e>
+<cmt>Ukyo-no-Sato　としました。</cmt>
+</sen>
+</par>
+<par id="38">
+<sen id="43">
+<j>中国バス・京阪京都交通、（過去にSANYO EXPRESS・まいこ号で防長交通）</j>
+<e type="trans" ver="1">Chugoku Bus/Keihan Kyoto Kotsu bus (formerly SANYO EXPRESS, Bocho Bus &apos;Maiko&apos;)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chugoku Bus/Keihan Kyoto Kotsu bus (formerly SANYO EXPRESS, Bocho Bus &apos;Maiko&apos;)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chugoku Bus/Keihan Kyoto Kotsu bus (formerly SANYO EXPRESS, Bocho Bus &apos;Maiko&apos;)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="39">
+<sen id="44">
+<j>みやこライナー</j>
+<e type="trans" ver="1">Miyako Liner</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miyako Liner</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyako Liner</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="40">
+<sen id="45">
+<j>福山駅行き</j>
+<e type="trans" ver="1">To Fukuyama station</e>
+<cmt></cmt>
+<e type="trans" ver="2">To Fukuyama Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">To Fukuyama Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>高速バス</j>
+<e type="trans" ver="1">Highway bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Highway bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Highway bus</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="46">
+<j>みやこライナー(京阪京都交通、中国バス)</j>
+<e type="trans" ver="1">Miyako Liner (Keihan Kyoto Kotsu bus, Chugoku bus)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miyako Liner (Keihan Kyoto Kotsu bus, Chugoku bus)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyako Liner (Keihan Kyoto Kotsu bus, Chugoku bus)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="47">
+<j>福山駅行き</j>
+<e type="trans" ver="1">To Fukuyama station</e>
+<cmt></cmt>
+<e type="trans" ver="2">To Fukuyama Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">To Fukuyama Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">history</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>case</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="48">
+<j>1979年（昭和54年） 洛西営業所の開設、電気バス（6両）の運行を開始（洛西ニュータウン～桂駅間）</j>
+<e type="trans" ver="1">Opened Rakusai Branch in 1979 and began operation with 6-car electric bus (between Rakusai New Town and Katsura Station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Rakusai Branch opened in 1979 and began operating with six-car electric buses (between Rakusai New Town and Katsura Station)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">1979: The Rakusai Branch opened and began operating with six-car electric buses (between Rakusai New Town and Katsura Station)</e>
+<cmt>年、コロン　の表現に修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="49">
+<j>1982年（昭和57年） 洛西バスターミナル・洛西操車場供用開始</j>
+<e type="trans" ver="1">Joint opening of Rakusai Bus Terminal and Rakusai bus yard</e>
+<cmt></cmt>
+<e type="trans" ver="2">Joint opening of Rakusai Bus Terminal and the Rakusai bus yard</e>
+<cmt>article</cmt>
+<e type="check" ver="1">1982: Joint use of Rakusai Bus Terminal and the Rakusai bus yard started.</e>
+<cmt>一部翻訳を追加しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="50">
+<j>2004年 洛西操車場廃止</j>
+<e type="trans" ver="1">Rakusai bus yard closed in 2004</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Rakusai bus yard closed in 2004.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">2004: The Rakusai bus yard closed.</e>
+<cmt>年、コロン　の表現に修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 るなあるてみす(id:168261), Westwind(id:40985), 金山銀山銅山(id:163855), ポピュラーポプラ(id:157724), Nevylax(id:38464), BitBucket(id:30999), ＰＩＡＮＯ(id:52997), 目蒲東急之介(id:34741), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

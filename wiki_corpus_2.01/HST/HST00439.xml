@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>年料別納租穀</j>
+<e type="trans" ver="1">Nenryo betsuno sokoku</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nenryo betsuno sokoku</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nenryo betsuno sokoku</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>年料別納租穀（ねんりょうべつのうそこく）とは、平安時代に令制国の正倉に納められた租を不動穀とは別に稲穀の形態で現地で保管して、中央において財政が不足した折に太政官符に基づいて位禄・季禄・衣服料として京官に支給したもの。</j>
+<e type="trans" ver="1">Nenryo betsuno sokoku is rice kept as seeds at the local area, separate from that of So collected in the Shoso (warehouse) of Ritsuryo provinces as Fudokoku (staples for an emergency, and was given to kyokan (an official of the Capital) as Iroku, Kiroku and Ifukuryo based on the Daijokanpu (official documents issued by Daijokan, Grand Council of State) when the central government did not have sufficient funds.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nenryo betsuno sokoku was rice kept as seed at the local level, separate from that of So collected in the Shoso (warehouse) of Ritsuryo provinces as Fudokoku (staples for an emergency), and was given to kyokan (an official of the Capital) as Iroku, Kiroku and Ifukuryo based on the Daijokanpu (official documents issued by Daijokan, Grand Council of State) when the central government did not have sufficient funds.</e>
+<cmt>verb tense; punctuation; area-&gt;level</cmt>
+<e type="check" ver="1">Nenryo betsuno sokoku was rice kept as seed at the local level, separate from that of So collected in the Shoso (warehouse) of Ritsuryo provinces as Fudokoku (staples for an emergency), and was given to kyokan (an official of the Capital) as Iroku, Kiroku and Ifukuryo based on the Daijokanpu (official documents issued by Daijokan, Grand Council of State) when the central government did not have sufficient funds.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>遠国を中心として年料租舂米を負担しない国を中心に負担した（ただし、年料舂米と重複することでは、年料租舂米負担国と同様である）。</j>
+<e type="trans" ver="1">This was collected mainly at provinces that were far away from the center and did not pay Nenryo soshomai (however, the fact that it is duplicated with Nenryo shomai is the same as provinces that pay Nenryo soshomai).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was collected mainly in provinces that were far away from the center and did not pay Nenryo soshomai (however, the fact that it is duplicated with Nenryo shomai is the same as provinces that pay Nenryo soshomai).</e>
+<cmt>prepositions</cmt>
+<e type="check" ver="1">This was collected mainly in provinces that were far away from the center and did not pay Nenryo soshomai (however, the fact that it is duplicated with Nenryo shomai is the same as provinces that pay Nenryo soshomai).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>本来、京官の給与は租庸調から支出されたが、庸調の未進が相次いで財源に事欠くようになった。</j>
+<e type="trans" ver="1">Originally, the salary of Kyokan were paid from Soyocho, but yocho was not collected and income gradually dwindled.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Originally, the salary of Kyokan were paid from Soyocho, but yocho was not collected and income gradually dwindled.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Originally, the salary of Kyokan were paid from Soyocho, but yocho was not collected and income gradually dwindled.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>代わりに本来は不動穀として備蓄する筈であった租の中から捻出しようとしたものである。</j>
+<e type="trans" ver="1">Instead, they tried to funds from So that was originally supposed to be stored as Fudokoku.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Instead, they tried funds from So that was originally supposed to be stored as Fudokoku.</e>
+<cmt>deleted “to”</cmt>
+<e type="check" ver="1">Instead, they tried to find funds from So that was originally supposed to be stored as Fudokoku.</e>
+<cmt>to findを追加</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>延喜式において、25ヶ国が負担対象国であり、総計133,729石 (単位)を負担したことが記されている。</j>
+<e type="trans" ver="1">&quot;Engishiki&quot; (an ancient book for codes and procedures on national rites and prayers)states that 25 provinces were the target of this system with a total of 133,729 koku (unit).</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Engishiki&quot; (an ancient book for codes and procedures on national rites and prayers) states that 25 provinces were the target of this system with a total of 133,729 koku.</e>
+<cmt>spacing; deleted “(unit)”</cmt>
+<e type="check" ver="1">&quot;Engishiki&quot; (an ancient book for codes and procedures on national rites and prayers) states that 25 provinces were the target of this system with a total of 133,729 koku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>平安京に勤務する貴族・官人でも原則として年料別納租穀を受ける場合には現地で支給を受けることになっていたが、延喜式には中国_(令制国)以上の国家からの位禄の輸送費用は官で負担する規定が存在していた。</j>
+<e type="trans" ver="1">In principle, even aristocrats and bureaucrats living in Heiankyo were expected to receive Nenryo betsuno sokoku at the local area, but Engishiki states that transport fees of Iroku from countries further than Chugoku (Ritsuryo province) were to be upheld by the government.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In principle, even aristocrats and bureaucrats living in Heiankyo were expected to receive Nenryo betsuno sokoku at the local area, but Engishiki states that transport fees of Iroku from countries further than Chugoku (Ritsuryo province) were to be upheld by the government.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In principle, even aristocrats and bureaucrats living in Heiankyo were expected to receive Nenryo betsuno sokoku at the local area, but Engishiki states that transport fees of Iroku from countries further than Chugoku (Ritsuryo province) were to be compensated by the government.</e>
+<cmt>upheld→compensated</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Kaboyose-DSD(id:123658), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

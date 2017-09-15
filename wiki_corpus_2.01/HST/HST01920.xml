@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>会符</j>
+<e type="trans" ver="1">Efu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Efu (tag)</e>
+<cmt>指示に従って補足説明を加えました。</cmt>
+<e type="check" ver="1">Efu (tag)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>会符（えふ）とは、江戸時代に朝廷・江戸幕府・公家・武家・寺社などが物資を輸送するにあたって、当該荷物の所属の明示のために付けられた荷札。</j>
+<e type="trans" ver="1">Efu, a type of baggage tags, was attached to goods dispatched by the Imperial Court, the Edo bakufu (Japanese feudal government headed by a shogun), court nobles, samurai families, temples and shrines to clarify who sent the baggage in question during the Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Efu was a type of baggage tags which were attached during the Edo period to goods sent by the Imperial Court, the Edo bakufu (Japanese feudal government headed by a shogun), court nobles, samurai families, temples and shrines to clarify who sent the baggage in question.</e>
+<cmt>・定義文の形式に変更しました。・dispatchは「急送」のニュアンスがあるので、sendにしました。・during the Edo periodの係り先が不自然なため位置を変えました。</cmt>
+<e type="check" ver="1">Efu was a type of baggage tags which were attached during the Edo period to goods sent by the Imperial Court, the Edo bakufu (Japanese feudal government headed by a shogun), court nobles, samurai families, temples and shrines to clarify who sent the baggage in question.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>行李符・絵符・伝符などとも。</j>
+<e type="trans" ver="1">It was also referred to as korifu (wicker trunk tag), efu (traffic tag), denpu (horse transportation tag).</e>
+<cmt>「会符」と「絵符」は同じ発音ですが、そのまま音訳しました。</cmt>
+<e type="trans" ver="2">It was also referred to as korifu (wicker trunk tag), efu (traffic tag, different kanji), or denpu (horse transportation tag).</e>
+<cmt>・「会符」と「絵符」は同じ発音ですので、補足説明を加えました。・denpuの前にはorが必要です。</cmt>
+<e type="check" ver="1">It was also referred to as korifu (wicker trunk tag), efu (traffic tag, different kanji), or denpu (horse transportation tag).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>朝廷・幕府のものは、菊や葵の御紋とともに墨書で「御用」とのみ書かれ、その他の場合は、紋章とともに「○○御用」「××家中÷÷御用」などと記された。</j>
+<e type="trans" ver="1">Efu marked only &quot;Goyo&quot; (official business) in ink was attached to the baggage dispatched from the Imperial Court and the Edo bakufu accompanied by the Imperial crest and the family crest of Tokugawa, respectively, while other senders wrote &quot;...Goyo&quot;(official business of...&quot;, &quot;...Kachu...Goyo&quot;(...family&apos;s official business of...&quot;on efu accompanied by their own family crests.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Efu marked only &quot;Goyo&quot; (official business) in ink was attached to the baggage sent from the Imperial Court or the Edo bakufu accompanied by the Imperial crest or the family crest of Tokugawa, respectively, while other senders wrote &quot;...Goyo&quot;(official business of...) or &quot;...Kachu...Goyo&quot;(...family&apos;s official business of...) on efu accompanied by their own family crests.</e>
+<cmt>・dispatchは「急送」のニュアンスがあるので、sendにしました。・1つずつの荷物について言う場合、the Imperial Court and the Edo bakufuは、どちらかが送付元となるので、orでつなげるべきだと思います。・the Imperial crest andも同様です。・クォーテーションマークを修正しました。・Kachu…Goyoの前にはorが必要です。</cmt>
+<e type="check" ver="1">Efu marked only &apos;Goyo&apos; (official business) in ink was attached to the baggage sent from the Imperial Court or the Edo bakufu accompanied by the Imperial crest or the family crest of Tokugawa, respectively, while other senders wrote &apos;...Goyo&apos; (official business of...) or &apos;...Kachu...Goyo&apos; (...family&apos;s official business of...) on efu accompanied by their own family crests.</e>
+<cmt>&quot; &quot; → &apos; &apos;</cmt>
+</sen>
+<sen id="4">
+<j>会符の付いた荷物は宿駅の人馬を利用する際に幕府が定めた御定賃銭（おさだめちんせん）で輸送を受けられる特権を有した（なお、徳川将軍家の荷物（将軍家御用物）は無賃での輸送が義務付けられていた）。</j>
+<e type="trans" ver="1">The Edo bakufu&apos;s official rate applied to the baggage with efu when human resources and horses were needed at shukueki (relay stations) (Tokugawa Shogunate Family&apos;s baggage [the Shogun Family&apos;s official baggage] had to be transported for free).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Edo bakufu&apos;s official rate applied to the baggage with efu when human resources and horses were needed at shukueki (relay stations) (Tokugawa Shogunate Family&apos;s baggage [the Shogun Family&apos;s official baggage] had to be transported for free).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Edo bakufu&apos;s official rate applied to the baggage with efu when human resources and horses were needed at shukueki (relay stations) (Tokugawa Shogunate Family&apos;s baggage [the Shogun Family&apos;s official baggage] had to be transported for free).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>ところが、18世紀中期以後、商品流通が盛んになる一方で、民間の輸送相場である相対賃銭（あいたいちんせん）と御定賃銭の格差が広がった。</j>
+<e type="trans" ver="1">But after the middle of the eighteenth century, as commercial distribution became increasingly important, the disparity between the market rate of transportation and the official rate widened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">But after the middle of the eighteenth century, as commercial distribution became increasingly important, the disparity between the market rate of transportation and the official rate widened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">But after the middle of the eighteenth century, as commercial distribution became increasingly important, the disparity between the market rate of transportation and the official rate widened.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>そのため、公家や武家、寺社が金を取って商人や百姓に会符を貸し出して御定賃銭で輸送させることが行われたため、幕府はこうした行為をしばしば禁じたが、効果は無かった。</j>
+<e type="trans" ver="1">Because, in line with this circumstance, court nobles, samurai families, temples and shrines started to earn money by lending efu to merchants and farmers who wanted to transport their own baggage at the official rate, the Edo bakufu often cracked down on this business, but without effect.</e>
+<cmt>直上のセルに一部が分割されていたため、今セルにて正常な形に戻しました。</cmt>
+<e type="trans" ver="2">Because, in line with this circumstance, court nobles, samurai families, temples and shrines started to earn money by lending efu to merchants and farmers who wanted to transport their own baggage at the official rate, the Edo bakufu often cracked down on this business, but without effect.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Because, in line with this circumstance, court nobles, samurai families, temples and shrines started to earn money by lending efu to merchants and farmers who wanted to transport their own baggage at the official rate, the Edo bakufu often cracked down on this business, but without effect.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>内位</j>
+<e type="trans" ver="1">Naii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Naii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Naii</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>内位（ないい）とは、日本律令制の位階の中核をなす序列である。</j>
+<e type="trans" ver="1">Naii was a rank that formed the core of the Ikai (Court rank) of the ritsuryo system (a system of centralized government based on the ritsuryo code) in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Naii were the ranks that formed the core of the Ikai (court ranks) of the Ritsuryo Code in Japan.</e>
+<cmt>内位は30の位を指すため、複数扱いにしました。また律令の意味を補うためにCodeを挿入しました。</cmt>
+<e type="check" ver="1">Naii were the ranks that formed the core of the Ikai (court ranks) of the Ritsuryo Code in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>文位（ぶんい）とも呼ばれている。</j>
+<e type="trans" ver="1">It was also referred as Buni</e>
+<cmt></cmt>
+<e type="trans" ver="2">They are also called Buni.</e>
+<cmt>上記に倣い、複数形にし、「～と呼ばれている」の標準的な訳に変えました。</cmt>
+<e type="check" ver="1">They are also called Buni.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>地方豪族などに与えられる外位や武功によって授けられる勲位と対置される。</j>
+<e type="trans" ver="1">It was contraposition of Gaii, which were given to powerful local clans, and Kuni, which were given for their military exploits.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They are contrapositions of Gaii, which were given to powerful local clans, and Kuni, which were given for their military exploits.</e>
+<cmt>上記に倣い、複数形にしました。</cmt>
+<e type="check" ver="1">They are contrapositions of Gaii, which were given to powerful local clans, and Kuni, which were given for their military exploits.</e>
+<cmt>スペース調整</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>正一位から少初位下までの30段階に分かれていた。</j>
+<e type="trans" ver="1">From Shoichii (Senior First Rank) to Shosoige (the lowest court rank), there were 30 ranks divided.</e>
+<cmt>一原文一訳文の例外対処　「正一位」が抜けていたので補いました。</cmt>
+<e type="trans" ver="2">From Shoichii (Senior First Rank) to Shosoige (the lowest court rank), there were 30 ranks.</e>
+<cmt>最後のdividedは無くても意味が通じるため削除しました。</cmt>
+<e type="check" ver="1">From Shoichii (Senior First Rank) to Shosoige (the lowest court rank), there were 30 ranks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>正一位から従五位下までの14階が天皇から直接授けられる勅授とされ、貴族身分として位置づけられていた。</j>
+<e type="trans" ver="1">The 14 ranks, which were from Shoichii (Senior First Rank) to Jugoinoge (Junior Fifth Rank, Lower Grade), were considered as chokuju, given by the emperor directly and were positioned as nobles.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The 14 ranks from Shoichii (Senior First Rank) to Jugoinoge (Junior Fifth Rank, Lower Grade) were considered as chokuju (ranks given directly by the emperor) and regarded as noble status.</e>
+<cmt>which wereは無くても意味が通じるため削除しました。また勅授はこの場合は位を指すのでrankを付け加え、それに合うよう語順も変えました。最後の部分に関しては、位置づけられていたのは人物ではなく位なので修正しました。</cmt>
+<e type="check" ver="1">The 14 ranks from Shoichii (Senior First Rank) to Jugoinoge (Junior Fifth Rank, Lower Grade) were considered as chokuju (ranks given directly by the emperor) and regarded as noble status.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>のちに中央でも有力な一部の家系が上位の内位を独占して蔭位の恩恵を受けることで世襲してその恩恵を維持することとなった。</j>
+<e type="trans" ver="1">Later, some powerful families in the government occupied Naii of the higher ranks and retained their privilege by succeeding Oni (the automatic promotion system in which the persons at the age of 21, whose parents are from Imperial to the fifth rank or whose grandparents are upper than third rank, are conferred an Imperial title).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Later, some powerful families in the government occupied the higher Naii ranks and retained their privilege by succeeding Oni (the automatic promotion system in which the people at the age of 21 whose parents were from Imperial to the fifth rank or grandparents upper than third rank, were conferred an Imperial title).</e>
+<cmt>原文の意味（内位の中でも上位にあたる位）に合うようthe higherの位置を変えました。また複数形はpersonsよりもpeopleの方が一般的なので修正し、修飾がなされるよう21とwhoseの間のコンマを削除しました。２箇所areがwereになっている所は、過去の内容なので過去形にしました。</cmt>
+<e type="check" ver="1">Later, some powerful families in the government occupied the higher Naii ranks and retained their privilege by succeeding Oni (the automatic promotion system in which the people at the age of 21 whose parents were from Imperial to the fifth rank or grandparents upper than third rank, were conferred an Imperial title).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Kurz(id:1601), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

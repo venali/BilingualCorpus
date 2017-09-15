@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>問屋場</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2">Toiyaba (administrative offices)</e>
+<cmt>英訳が抜けていたので補いました。また、officeにかかるので、名詞の代わりに形容詞のadministrativeを使用し、多数あったものなので複数形にしました。</cmt>
+<e type="check" ver="1">Toiyaba (administrative offices)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>問屋場（といやば）は、江戸時代の街道の宿場で人馬の継立、助郷賦課などの業務を行うところでした。</j>
+<e type="trans" ver="1">Toiyaba which was established in Shukuba (post station) located on the Kaido Road in the Edo period was an administration office for a relay of riders or horses as well as sukego fuka (labor which was imposed to the neighboring village to help the primarily imposed village).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Toiyaba were administrative offices in post stations on roads during the Edo period, which mainly dealt with relays of riders and horses as well as sukego fuka (labor from the neighboring villages to help the primarily imposed village).</e>
+<cmt>上記と同じ理由でadministrationの代わりにadministrativeを使用し、複数形にしました。「宿場」はpost stationが一般に広く利用されているため日本語を省略しました。また、英語で理解しやすい語順に並べ替えて書き直しました。</cmt>
+<e type="check" ver="1">Toiyaba were administrative offices in post stations on roads during the Edo period, which mainly dealt with relays of riders and horses as well as sukego fuka (labor from the neighboring villages to help the primarily imposed village).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>問屋場はまた、駅亭、伝馬所、馬締ともいった。</j>
+<e type="trans" ver="1">It was also called Ekitei, Tenmajo or Majime</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">They were also called &apos;&apos;Ekitei,&apos;&apos; &apos;&apos;Tenmasho,&apos;&apos; or Majime.&apos;&apos;</e>
+<cmt>複数形にしました。</cmt>
+<e type="check" ver="1">They were also called &apos;&apos;Ekitei,&apos;&apos; &apos;&apos;Tenmasho,&apos;&apos; or Majime.&apos;&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>（本項の語意に於ける「問屋」とは、運送業を意味する。問丸を参照せよ）。</j>
+<e type="trans" ver="1">(&apos;Tonya&apos; (warehouse merchant) in this page means transportation operation business. Refer to toimaru.)</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">(&apos;Tonya&apos; (warehouse merchant) in this article means transportation business. cf. Toimaru)</e>
+<cmt>「本項」は「本ページ（本頁）」とはことなるため、pageの代わりにarticleを使用しました。また、下段の参照と離さない方が良いと判断し、よく使われる参照記号を用いて同じセルに入れました。</cmt>
+<e type="check" ver="1">(&apos;Tonya&apos; (warehouse merchant) in this article means transportation business. cf. Toimaru)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>業務の主宰者は問屋と称され、その助役の年寄、さらに人馬の出入りや賃銭などを記入する帳付、人馬に荷物を振り分ける馬指などの者がいた。</j>
+<e type="trans" ver="1">The person in charge of the operation in Toiyaba was named Tonya and there were Toshiyori who was Tonya&apos;s assistant, Chozuke who registerd both riders and horses as well as wages and Umasashi who sorted baggage to riders and horses.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The master of Toiyaba was called Tonya and there were Toshiyori, who was Tonya&apos;s assistant, Chozuke, who registerd riders, horses and wages, and Umasashi, who alloted baggage to riders and horses.</e>
+<cmt>主催者は担当者と異なるため、masterで置き換えました。またnamedは「名づけられた」の意味になるためcalledにしました。また関係代名詞に必要なコンマを挿入しました（非限定用法）。またas well asは「～と同様に」となり、原文に無いのと順序が逆になってしまうのでandで単純につなげました。最後に、「荷物の振り分け」と「荷物整理」ではニュアンスが少しかわるので、「振り分ける」の意のallotを使用しました。</cmt>
+<e type="check" ver="1">The master of Toiyaba was called Tonya and there were Toshiyori, who was Tonya&apos;s assistant, Chozuke, who registerd riders, horses and wages, and Umasashi, who alloted baggage to riders and horses.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>通常の時は交代で出勤するが、大名行列などの大通行があるときは全員が詰めることになっていた。</j>
+<e type="trans" ver="1">Usually they rotated to duty; however when there was a great traffic such as daimyo&apos;s procession, all of them were supposed to work.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The staff usually rotated; however when the traffic was heavy for such occasions as daimyo&apos;s (feudal lord&apos;s) procession, all of them were supposed to be at the office.</e>
+<cmt>theyで主語を補った場合、直前にridersもあることから、混同を避けるためstaffで置き換えました。そうするとdutyも不要になるので省略しました。また、大名行列は一例なのでoccasionsと複数形にしました。大名はまだ一部の外国人にしか浸透していないので、一応英訳をつけておきました。最後の「詰める」の部分は「働く」の意ではなく「待機している状態」と解し、be at the officeに書き換えました。</cmt>
+<e type="check" ver="1">The staff usually rotated; however when the traffic was heavy for such occasions as daimyo&apos;s (feudal lord&apos;s) procession, all of them were supposed to be at the office.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>現存し公開されている問屋場</j>
+<e type="trans" ver="1">Toiyaba which is existing and open</e>
+<cmt></cmt>
+<e type="trans" ver="2">Toiyaba still remaining and open to the public</e>
+<cmt>一部書き換えました</cmt>
+<e type="check" ver="1">Toiyaba still remaining and open to the public</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>中山道 奈良井宿 → 上問屋史料館 （長野県木曽郡楢川村）</j>
+<e type="trans" ver="1">Nakasendo Narai-juku =&gt; Kamidonya museum (Narakawa Village, Kiso County, Nagano Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nakasendo Narai-juku =&gt; Kamidonya Museum (Narakawa Village, Kiso County, Nagano Prefecture)</e>
+<cmt>資料館の名前の一部のため、museumの部分も大文字で始めました。</cmt>
+<e type="check" ver="1">Nakasendo Narai-juku =&gt; Kamidonya Museum (Narakawa Village, Kiso County, Nagano Prefecture)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="8">
+<j>中山道 醒井宿 → 米原市醒井宿資料館 （滋賀県米原市）</j>
+<e type="trans" ver="1">Nakasendo Samegai-juku =&gt; Maibara City Samegai-juku museum (Maibara City, Shiga Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nakasendo Samegai-juku =&gt; Maibara City Samegai-juku Museum (Maibara City, Shiga Prefecture)</e>
+<cmt>資料館の名前の一部のため、museumの部分も大文字で始めました。</cmt>
+<e type="check" ver="1">Nakasendo Samegai-juku =&gt; Maibara City Samegai-juku Museum (Maibara City, Shiga Prefecture)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 663highland(id:18755), Ligar(id:12623), AlleborgoBot(id:119729), Ando Yoshinari(id:19886), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

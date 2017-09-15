@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>検田</j>
+<e type="trans" ver="1">Kenden</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kenden</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kenden</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>検田（けんでん）とは、農耕地の面積や耕作者・土質などを調査すること。</j>
+<e type="trans" ver="1">Kenden was a survey of the area, cultivator, soil and so forth of farmland.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kenden was a survey of farmland, recording area, cultivator, soil and so forth.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">Kenden was a survey of farmland, recording area, cultivator, soil and so forth.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>古代においては校田と同義であったが、中世になると検注と同義となる。</j>
+<e type="trans" ver="1">In the ancient times, it meant the same as koden (cadastral survey), but it meant the same as kenchu (land survey) in the Medieval era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In ancient times, it meant the same as koden (cadastral survey), but in the Medieval era it meant the same as kenchu (land survey).</e>
+<cmt>Word order.</cmt>
+<e type="check" ver="1">In ancient times, it meant the same as koden (cadastral survey), but in the Medieval period it meant the same as kenchu (land survey).</e>
+<cmt>用語を変えました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>校田は大化改新直後から行われ、班田制の施行とともに班田の前に校田が行われ、校田帳が作成された。</j>
+<e type="trans" ver="1">Koden had been carried out immediately after Taika no Kaishin (the Great Reform of Taika); and as the handen-sei (Ritsuryo land-allotment system) was enforced, koden was conducted before the handen, and kodencho (individual registers of the koden) was recorded.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The koden had been carried out immediately after Taika no Kaishin (the Great Reform of Taika); and as the handen-sei (Ritsuryo land-allotment system) was enforced, the koden was conducted before the handen, and kodencho (individual registers of the koden) were recorded.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">The koden had been carried out immediately after Taika no Kaishin (the Taika Reforms); and as the handen-sei (Ritsuryo land-allotment system) was enforced, the koden was conducted before the handen, and kodencho (individual registers of the koden) were recorded.</e>
+<cmt>用語補足を変えました。</cmt>
+</sen>
+<sen id="4">
+<j>検田の語も早い時期から行われていたと考えられているが、現存最古の記録は天平9年（737年）作成の豊後国正税帳にある「壱度検田不熟」の文言とされている。</j>
+<e type="trans" ver="1">Although the word kenden was believed to be used from early period, the oldest record extant was considered to be that in &apos;壱度検田不熟&apos; described in shozeicho (local financial records) of Bungo Province made in 737.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the word kenden was believed to have been used from an early period, the oldest extant record is considered to be that in &apos;壱度検田不熟&apos; described in the shozeicho (local financial records) of Bungo Province made in 737.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Although the word kenden was believed to have been used from an early period, the oldest extant record is considered to be that in &apos;ichido kenden fujuku&apos; (壱度検田不熟, Kenden weren&apos;t doing well at first) described in the shozeicho (local financial records) of Bungo Province made in 737.</e>
+<cmt>推定される読み、訳語を補足しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>後に荘園における同様の調査のことを「検田」と呼ばれるようになり、その結果は検田帳にまとめられる。</j>
+<e type="trans" ver="1">Later, the same kind of survey began to be called &apos;kenden&apos; and the survey results were recorded in kendencho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Later, the same kind of survey began to be called &apos;kenden&apos; and the survey results were recorded in kendencho.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Later, the same kind of survey began to be called &apos;kenden&apos; and the survey results were recorded in kenden-cho (ledger of Cadastral Surveys).</e>
+<cmt>用語補足しました。</cmt>
+</sen>
+<sen id="6">
+<j>後期に入ると、荘園認定の際に国衙や荘園領主が行った「検注」の語が校田・検田に代わって広く行われるようになり、検田帳も検注帳と呼ばれるようになった。</j>
+<e type="trans" ver="1">When it turned in the latter period, the word &apos;kenchu&apos;, which was carried out by kokuga (provincial office) and shoen ryoshu (estate proprietor) in certifying shoen, widely replaced koden and kenden, whereby kendencho began to be called kenchucho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In later years, the word &apos;kenchu&apos;, carried out by the provincial office and estate proprietor in certifying manors, widely replaced koden and kenden, whereby kendencho began to be called kenchucho.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">In later years, the word &apos;kenchu&apos; carried out by the provincial office and estate proprietor in certifying manors, widely replaced koden and kenden, whereby kendencho began to be called kenchucho (land survey ledger).</e>
+<cmt>用語補足しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

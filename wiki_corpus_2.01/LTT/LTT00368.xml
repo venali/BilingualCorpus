@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>後鑑</j>
+<e type="trans" ver="1">Nochi no Kagami</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nochi no Kagami</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nochi no Kagami</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>後鑑（のちかがみ）は、江戸幕府によって編纂された室町幕府15代の歴史書。</j>
+<e type="trans" ver="1">Nochi no Kagami is a history book with respect to fifteen generations of the Muromachi bakufu (Japanese feudal government headed by a shogun) compiled by the Edo bakufu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nochi no Kagami is a history book covering 15 generations of the Muromachi bakufu (Japanese feudal government headed by a shogun), as compiled by the Edo bakufu.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">&quot;Nochi-kagami&quot; is a history book compiled by the Edo bakufu (Japanese feudal government headed by a shogun) which covers the 15 generations of the Muromachi bakufu.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>概説</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>著者は幕府に仕えた儒学者成島良譲である。</j>
+<e type="trans" ver="1">The author is Ryojo NARUSHIMA, who was a Confusian scholar and served the bakufu.,</e>
+<cmt>一原文一訳文の例外措置</cmt>
+<e type="trans" ver="2">The author was Ryojo NARUSHIMA, a Confucian scholar who served the bakufu.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The author was Ryojo NARUSHIMA, a Confucian scholar who served the bakufu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>号筑山、等（『徳川実紀』編纂者成島司直の養子）。</j>
+<e type="trans" ver="1">His pseudonyms were Chikuzen and so on (he was an adopted son of Motonao NARUSHIMA, who was a compiler of &quot;Tokugawa Jikki&quot; (collection of official records of the Edo bakufu).</e>
+<cmt>一原文一訳文の例外措置</cmt>
+<e type="trans" ver="2">His pseudonyms were Chikuzen and so on (he was an adopted son of Motonao NARUSHIMA, who was a compiler of &quot;Tokugawa Jikki&quot; (a collection of official records of the Edo bakufu).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">His pseudonyms included Chikuzen (he was an adopted son of Motonao NARUSHIMA, who compiled &quot;Tokugawa Jikki&quot; (a collection of official records of the Edo bakufu)).</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="5">
+<j>全347巻・付録20巻。</j>
+<e type="trans" ver="1">347 volumes with 20 appendixes</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are 347 volumes and 20 appendices.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">There are 347 volumes and twenty appendices.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="6">
+<j>天保8年（1837年）から16年かけて執筆され嘉永6年（1853年）に完成した。</j>
+<e type="trans" ver="1">It was written spending 16 years from 1837 and completed in 1853.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was written over the 16-year period from 1837 to 1853.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It was written over the 16 years following 1837 and completed in 1853.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>鎌倉幕府滅亡前夜の元弘元年（1331年）から室町幕府最後の征夷大将軍足利義昭が死去した慶長2年（1597年）までの歴史を描いている。</j>
+<e type="trans" ver="1">It describes the history from 1331 just before the downfall of the Kamakura bakufu to 1597, in which the last Seii taishogun (literally, &quot;great general who subdues the barbarians&quot;) of the Muromachi bakufu, Yoshiaki ASHIKAGA died.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It describes the history from 1331, just before the downfall of the Kamakura bakufu, to 1597, the year in which Yoshiaki ASHIKAGA, the last Seii taishogun (literally, &quot;great general who subdues the barbarians&quot;) of the Muromachi bakufu, died.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It portrays the history from 1331, just before the downfall of the Kamakura bakufu, to 1597, the year in which Yoshiaki ASHIKAGA, the final Muromachi Shogun, died.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="8">
+<j>鎌倉幕府には正史的な歴史書『吾妻鏡』があり、江戸幕府には同様の意味を持つ『徳川実紀』があったが、室町幕府は政情不安が長期にわたって続いたためにまとまった歴史書が編纂される機会がなかった。</j>
+<e type="trans" ver="1">For the Kamakura bakufu, there is official history-like history book Azuma Kagami (a chronicle of the history of the Kamakura bakufu) and, for the Edo bakufu, there is similar history book &quot;Tokugawa Jikki&quot;, but, for the Muromachi bakufu, there was no opportunity to compile a reliable history book because political instability continued for a long period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For the Kamakura bakufu, there is the official history-like history book known as &quot;Azuma Kagami&quot; (a chronicle of the history of the Kamakura bakufu), and for the Edo bakufu there is a similar history book &quot;Tokugawa Jikki&quot;; but for the Muromachi bakufu there was no opportunity to compile a reliable history book because political instability continued for a long period.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">For the Kamakura bakufu, there is the official history text known as &quot;Azuma Kagami&quot; (a chronicle of the history of the Kamakura bakufu) and there was a similar text entitled &quot;Tokugawa Jikki&quot; for the Edo bakufu, the long period of continued political instability meant that there was no opportunity to compile a history of the Muromachi bakufu.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="9">
+<j>鎌倉幕府以来の正統な武家政権であると自負する江戸幕府は両武家政権をつなぐ存在である室町幕府の正史を補うとともに当時台頭してきた尊王論に対抗して武家政権の正統性を強調する目的で同書を編纂させたのである。</j>
+<e type="trans" ver="1">The Edo bakufu, which was self-confident to be the legitimate samurai government since the Kamakura bakufu caused it compiles in order to supplement the official history ot the Muromachi bakufu which existed as a link between two bakufu and to emphasize the legitimacy of the samurai governments to cope with the imperialism that had been gaining power.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Edo bakufu was confident in being the legitimate samurai government since the Kamakura bakufu brought forth the need for such a compilation in order to supplement the official history of the Muromachi bakufu, which existed as a link between two bakufu, and to emphasize the legitimacy of the samurai governments in coping with the imperialism that had become more prevalent.</e>
+<cmt>CONFUSING</cmt>
+<e type="check" ver="1">Proud of being the legitimate samurai government descended from the Kamakura bakufu, the Edo bakufu commissioned the text in order to supplement the official history of the Muromachi bakufu, which formed a kind of link between the Edo and Kamakura bakufu, as well as to reinforce the legitimacy of samurai government in an attempt to stem the rising tide of imperialism.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>歴代将軍ごとに事績をまとめて「将軍記」として『吾妻鏡』に倣って日記風に記述している。</j>
+<e type="trans" ver="1">Following &quot;Azuma Kagami, achievements of shogun are gathered for each shogun as &quot;shogunki&quot; (records of shogun) in diary-like manner.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Following &quot;Azuma Kagami,&quot; the achievements of the shogun are gathered for each shogun as &quot;shogunki&quot; (records of the shogun) in a diary-like manner.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The text is a &apos;shogun-ki&apos; (lit. shogun record) that consolidates the achievements of each successive shogun in a diary fashion based on that of the &quot;Azuma Kagami&quot; (The Mirror of the East).</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="11">
+<j>ただし、足利義量・足利義尚死後の将軍空位期については、足利義持・足利義政の「後記」として独立させている。</j>
+<e type="trans" ver="1">However, the period in which the position of the shogun was vacant after the death of Yoshikazu ASHIKAGA and Yoshihisa ASHIKAGA, it is treated independently as &quot;Postscript&quot; to Yoshimochi ASHIKAGA and Yoshimasa ASHIKAGA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the period in which the position of the shogun was vacant after the death of Yoshikazu ASHIKAGA and Yoshihisa ASHIKAGA, it is treated independently as a postscript to Yoshimochi ASHIKAGA and Yoshimasa ASHIKAGA.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, the period in which the position of the shogun was vacant following the deaths of Yoshikazu ASHIKAGA and Yoshihisa ASHIKAGA is treated independently as a postscript to the section pertaining to Yoshimochi ASHIKAGA and Yoshimasa ASHIKAGA.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="12">
+<j>また、足利義稙の2度目の将軍在任期も「後記」扱いを取っている。</j>
+<e type="trans" ver="1">The second reign as shogun of Yoshitane ASHIKAGA is also treated as &quot;Postscript.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshitane ASHIKAGA&apos;s second reign as shogun is also treated as a postscript.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Yoshitane ASHIKAGA&apos;s second reign as shogun is also treated as a postscript.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>また、将軍家が分裂している時期については将軍宣下を受けて在京している将軍を正統とみなしている。</j>
+<e type="trans" ver="1">For the period in which the family of shogun was torn up, the shogun who received shogun senge (appointment to shogun) and stayed in Kyoto was deemed as legitimate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For the period in which the family of the shogun was torn up, the shogun who received the shogun senge (appointment to shogun) and stayed in Kyoto was deemed to be legitimate.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">During the period in which shogun family split, the shogun who received the shogun senge (appointment to shogun) and resided in Kyoto was deemed to be legitimate.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="14">
+<j>また、南朝 (日本)・北朝 (日本)ともに朝廷関連については必要最低限の記述に留めており、あくまでも武家政権の歴史書の体裁を取っているのも特徴である。</j>
+<e type="trans" ver="1">It is another feature that it maintained the form of the history book of samurai government by limiting description about the　Imperial court, for both the Southern Court (Japan)　the Northern Court (Japan), to minimum necessary level.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Another feature is that it maintained the form of a history book of samurai government by limiting descriptions of the Imperial Court for both the Southern Court (Japan) and the Northern Court (Japan), keeping them to the minimum necessary level.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Another feature of the text is that it maintains the form of a history book of samurai government by limiting descriptions related to the Imperial Court for both the Southern Court (Japan) and the Northern Court (Japan) to the bare minimum.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="15">
+<j>主な執筆材料は公家・僧侶・武家の日記・記録・古文書などを中心としている。</j>
+<e type="trans" ver="1">Main materials for description were diaries, records and old documents of the nobles, priests and samurais.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The main materials for description were diaries, records and old documents of the nobles, priests and samurai.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The main sources for the text were the diaries, records and old documents of nobles, priests and samurai.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="16">
+<j>完成後幕府より本書編纂の功として筒井万輔他9名に各銀10枚を下賜された。</j>
+<e type="trans" ver="1">After completion, the bakufu donated Mansuke TSUITSUI and others, nine persons in total, ten pieces of silver coins for each person as a prize for compiling this book.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the completion of the work, the bakufu donated to Mansuke TSUITSUI and others (nine persons in all) ten silver coins for each person as a prize for compiling the book.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After the work was completed, the bakufu bestowed Mansuke TSUTSUI and nine others with ten silver coils each a reward for the achievement of compiling the book.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="17">
+<j>なお、成島筑山はこの1ヶ月前（嘉永6年11月）52歳で死去している。</j>
+<e type="trans" ver="1">Chikuzan NARUSHIMA died at the age of fifty-two one month before (November 1853).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chikuzan NARUSHIMA had died at the age of 52 one month earlier (November 1853).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Chikuzan NARUSHIMA had already passed away one month previously (November 1853) at the age of 52.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="18">
+<j>原典と参考書</j>
+<e type="trans" ver="1">Original and reference materials</e>
+<cmt></cmt>
+<e type="trans" ver="2">Original and reference materials</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Original Text and Reference Books</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="19">
+<j>原本は明治維新後に旧内務省 (日本)地理課に保管されていたが、関東大震災で焼失して現存しない。</j>
+<e type="trans" ver="1">After the Meiji Restoration, the original was kept in the (Japanese) Geography Section of the old Ministry of Home Affairs, but it does not exist now because it was burnt on the occasion of the Great Kanto Earthquake.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the Meiji Restoration, the original was kept in the (Japanese) Geography Section of the old Ministry of Home Affairs, but it was lost in a fire resulting from the Great Kanto Earthquake.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After the Meiji Restoration, the original was kept in the Geography Section of the former Home Ministry (Japan) but no longer survives after having been destroyed in a fire caused by the Great Kanto Earthquake.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="20">
+<j>しかし、それ以前に、田口卯吉編の続国史大系の第6～8に収録刊行され、あるいは内閣文庫及び東京大学史料編纂所に写本が残されているため、その全容は明らかとなっている。</j>
+<e type="trans" ver="1">Before that, however, as it was printed and published in No. 6 through No. 8 of the &quot;Souk Kokushitaikei&quot; (summary of Japanese history - continued) compiled by Ukichi TAGUCHI and manuscripts are kept by the Cabinet Library and Historiographical Institute at the University of Tokyo, the whole contents of it are clear.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, it had already been printed and published in No. 6 through No. 8 of the &quot;Souk Kokushitaikei&quot; (summary of Japanese history - continued) compiled by Ukichi TAGUCHI, and manuscripts are kept by the Cabinet Library and Historiographical Institute at the University of Tokyo, so the entire contents of the work are clear.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, the entire content of the work is known because it had already been printed and published in volumes 6 to 8 of &quot;Zoku Kokushi Taikei&quot; (Supplementary Compendium of Japanese History) compiled by Ukichi TAGUCHI, and manuscripts are kept by the Cabinet Library and Historiographical Institute at the University of Tokyo.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="21">
+<j>参考書籍としては、坂本太郎 (歴史学者)著の「国史大系書目解題」がある。</j>
+<e type="trans" ver="1">As a reference book, there is &quot;Kokushitaikei Shomoku Gedai&quot; by Taro SAKAMOTO (historian).</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a reference book, there is &quot;Kokushitaikei Shomoku Gedai,&quot; by the historian Taro SAKAMOTO.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kokushitaikei Shomoku Gedai (Annotated Bibliography of Source Materials for Zoku Kokushi Taikei) by the historian Taro SAKAMOTO is a reference book.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Trashwriter(id:79181), Papamaruchan22(id:71152), 水野白楓(id:22811), Complex01(id:10454), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

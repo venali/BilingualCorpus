@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>緩発式火縄銃</j>
+<e type="trans" ver="1">Gradual discharge matchlock</e>
+<cmt>定訳不明　用語集に従いました。</cmt>
+<e type="trans" ver="2">Gradual discharge matchlock</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gradual Discharge Matchlock</e>
+<cmt>頭文字を大文字に変更</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>緩発式火縄銃（かんぱつしきひなわじゅう）は火縄銃の撃発機構の一種「緩発式」機構を備えた銃。</j>
+<e type="trans" ver="1">Gradual discharge matchlock is a gun with a type of matchlock explosion mechanism, &quot;gradual discharge&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gradual discharge matchlock is a gun with a type of matchlock explosion mechanism, &quot;gradual discharge&apos;.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gradual discharge matchlock is a gun with a type of matchlock explosion mechanism, &apos;gradual discharge.&apos;</e>
+<cmt>クォーテーションの片方をシングルに統一、ピリオドの位置を移動</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>火縄銃の撃発方式には「瞬発式」と「緩発式」があり、日本の火縄銃は瞬発式に分類される機構を持っている。</j>
+<e type="trans" ver="1">There are two types of explosion mechanism: &apos;instantaneous discharge&apos; and &apos;gradual discharge&apos; with matchlocks, and Japanese matchlocks are classified as instantaneous.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are two types of explosion mechanism: &apos;instantaneous discharge&apos; and &apos;gradual discharge&apos; with matchlocks, and Japanese matchlocks are classified as instantaneous.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There are two types of explosion mechanism: &apos;instantaneous discharge&apos; and &apos;gradual discharge&apos; with matchlocks, and Japanese matchlocks are classified as instantaneous.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>これに対しヨーロッパや中国等に多い方式が緩発式である。</j>
+<e type="trans" ver="1">By contrast, the gradual ones are prevalent in Europe, China and other areas.</e>
+<cmt></cmt>
+<e type="trans" ver="2">By contrast, the gradual ones are prevalent in Europe, China and other areas.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">By contrast, the gradual ones are prevalent in Europe, China and other areas.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>火縄銃は、火縄を装着した「火挟み」と呼ばれるアームが、引金を引くことにより作動し火皿の火薬に点火することで発砲する仕組みとなっている。</j>
+<e type="trans" ver="1">Matchlock is fired when a match-mounted arm called &apos;serpentine&apos; is set in motion by pulling the trigger to ignite the priming powder in the flashpan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Matchlock is fired when a match-mounted arm called &apos;serpentine&apos; is set in motion by pulling the trigger to ignite the priming powder in the flashpan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Matchlock is fired when a match-mounted arm called &apos;serpentine&apos; is set in motion by pulling the trigger to ignite the priming powder in the flashpan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>このアームが、引金を引く速度によって連動してゆっくり動き火皿に点火する機構を「緩発式」。</j>
+<e type="trans" ver="1">The mechanism which makes the arm move slowly at the rate of pulling the trigger to ignite the priming in the flashpan is called &apos;gradual discharge.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The mechanism which makes the arm move slowly at the rate of pulling the trigger to ignite the priming in the flashpan is called &apos;gradual discharge.&apos;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The mechanism which makes the arm move slowly at the rate of pulling the trigger to ignite the priming in the flashpan is called &apos;gradual discharge.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>引金を引くと、ロック機構により瞬時にアームが火皿を叩く方式を「瞬発式」という。</j>
+<e type="trans" ver="1">The system in which the arm instantly strikes the flash pan driven by the lock mechanism is called &apos;instantaneous discharge&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The system in which the arm instantly strikes the flash pan driven by the lock mechanism is called &apos;instantaneous discharge&apos;.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The system in which the arm instantly strikes the flash pan driven by the lock mechanism is called &apos;instantaneous discharge.&apos;</e>
+<cmt>ピリオドの位置を移動</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>緩発式は引金に触れるだけでは作動しないため暴発し難いが、命中精度に劣ると言われる。</j>
+<e type="trans" ver="1">The gradual discharge is said to have small risk of accidental discharge by touching the trigger alone but have lower accuracy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The gradual discharge is said to have small risk of accidental discharge by touching the trigger alone but have lower accuracy.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The gradual discharge is said to have small risk of accidental discharge by touching the trigger alone but have lower accuracy.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>ばねの力で常にアームが上がったままになっているものを、引金を引くことでゆっくり「押し下げる」方式であるから、引金を引く途中で指を戻せばアームが上に戻るという特性を持つ。</j>
+<e type="trans" ver="1">The arm which remains to be lifted by spring action is gradually pressed down by pulling the trigger, therefore if the trigger is released, the arm returns to the lifted position.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The arm which remains to be lifted by spring action is gradually pressed down by pulling the trigger, therefore if the trigger is released, the arm returns to the lifted position.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The arm which remains to be lifted by spring action is gradually pressed down by pulling the trigger, therefore if the trigger is released, the arm returns to the lifted position.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>両者の比較については瞬発式火縄銃を参照。</j>
+<e type="trans" ver="1">See instantaneous discharge matchlock for comparison between the two systems.</e>
+<cmt></cmt>
+<e type="trans" ver="2">See instantaneous discharge matchlock for comparison between the two systems.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">See instantaneous discharge matchlock for comparison between the two systems.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Izayohi(id:13095), Suisui(id:69), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

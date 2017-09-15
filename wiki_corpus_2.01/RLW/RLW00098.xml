@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>トロッコ嵯峨駅</j>
+<e type="trans" ver="1">Saga Torokko Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saga Torokko Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Saga Torokko Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>トロッコ嵯峨駅（とろっこさがえき）は、京都府京都市右京区にある、嵯峨野観光鉄道嵯峨野観光鉄道嵯峨野観光線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Sakyou Ward of Kyoto City, Kyoto Prefecture, Saga Torokko Station is a stop on the Saga Sight-Seeing Tram Line of Sagano Scenic Railway.</e>
+<cmt>嵯峨野観光鉄道嵯峨野観光鉄道：”嵯峨野観光鉄道”がだぶっている、単純な誤りとおもわれますので、一方を削除したとして訳してあります。</cmt>
+<e type="trans" ver="2">Saga Torokko Station, located in Sakyou Ward, Kyoto City, Kyoto Prefecture, is a stop on the Saga Sightseeing Tram Line of Sagano Scenic Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Saga Torokko Station, located in Sakyo Ward, Kyoto City, Kyoto Prefecture, is a stop on the Saga Sightseeing Tram Line of Sagano Scenic Railway.</e>
+<cmt>Sakyo としました。</cmt>
+</sen>
+<par id="1">
+<sen id="2">
+<j>駅名電略は「トロサカ」。</j>
+<e type="trans" ver="1">The telegraphic address for the station name is &quot;Torosaka.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The telegraphic address for the station name is &quot;Torosaka.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The telegraphic address for the station name is &apos;Torosaka.&apos;</e>
+<cmt>&quot; →&apos;　としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>駅前には、19世紀の科学技術や芸術を展示している「19th CENTURY HALL」（19世紀ホール）があり、国鉄D51形蒸気機関車などの蒸気機関車などが展示されている。</j>
+<e type="trans" ver="1">19th CENTURY HALL, where steam locomotives, such as JNR steam locomotive D51 class [type D51], and other items are exhibited, is located in front of the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The 19th CENTURY HALL, where steam locomotives such as JNR steam locomotive D51 class (type D51) and other items are exhibited, is located in front of the station.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The 19th CENTURY HALL, which exhibits science technology and arts from the 19th century, is located in front of the station, and one can see locomotives such as JNR steam locomotive D51 class (type D51) and other items there.</e>
+<cmt>翻訳を追加しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>利用可能な鉄道路線</j>
+<e type="trans" ver="1">Train lines available</e>
+<cmt></cmt>
+<e type="trans" ver="2">Train lines available</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Lines</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="5">
+<j>嵯峨野観光鉄道：嵯峨野観光線</j>
+<e type="trans" ver="1">Sagano Scenic Railway: Sagano Sight-Seeing Tram Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sagano Scenic Railway: Sagano Sightseeing Tram Line</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Sagano Scenic Railway: Sagano Sightseeing Tram Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>西日本旅客鉄道：山陰本線（嵯峨野線）嵯峨嵐山駅</j>
+<e type="trans" ver="1">West Japan Railway Company (JR West): Saga-Arashiyama Station on San&apos;in Main Line (Sagano Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR West): Saga-Arashiyama Station on the San&apos;in Main Line (Sagano Line)</e>
+<cmt>article</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West): Saga-Arashiyama Station on the Sanin Main Line (Sagano Line)</e>
+<cmt>アポストロフィーを削除し、Sanin としました。</cmt>
+</sen>
+<sen id="7">
+<j>京福電気鉄道：京福電気鉄道嵐山本線 嵐電嵯峨駅</j>
+<e type="trans" ver="1">Keifuku Electric Railroad Co.,Ltd.: Randen-Saga Station on the Arashiyama Main Line of Keifuku Electric Railroad Co.,Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keifuku Electric Railroad Co., Ltd.: Randen-Saga Station on the Arashiyama Main Line of Keifuku Electric Railroad Co., Ltd.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Keifuku Electric Railroad Co., Ltd.: Randen-Saga Station on the Arashiyama Main Line of Keifuku Electric Railroad Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="9">
+<j>単式プラットホーム1面1線の地上駅。</j>
+<e type="trans" ver="1">The station is located on the grand level, with a single platform serving a track.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station is located on the ground level, with a single platform serving a track.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The station is located on the ground level, with a single platform serving a track.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="11">
+<j>渡月橋</j>
+<e type="trans" ver="1">Togetsu-kyo Bridge</e>
+<cmt></cmt>
+<e type="trans" ver="2">Togetsu-kyo Bridge</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Togetsu-kyo Bridge</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>天龍寺</j>
+<e type="trans" ver="1">Tenryu-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tenryu-ji Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tenryu-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>大覚寺</j>
+<e type="trans" ver="1">Daikaku-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Daikaku-ji Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Daikaku-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>清凉寺</j>
+<e type="trans" ver="1">Seiryo-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Seiryo-ji Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Seiryo-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>野宮神社</j>
+<e type="trans" ver="1">Nonomiya-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nonomiya-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nonomiya-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>19世紀ホール</j>
+<e type="trans" ver="1">19th CENTURY HALL</e>
+<cmt></cmt>
+<e type="trans" ver="2">19th CENTURY HALL</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">19th CENTURY HALL</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>京都嵐山オルゴール館</j>
+<e type="trans" ver="1">The Kyoto Arashiyama Orgel Museum</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto Arashiyama Orgel Museum</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Kyoto Arashiyama Orgel Museum</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>嵐山駅 (阪急) -- 渡月橋を渡って南東方向へ。</j>
+<e type="trans" ver="1">Arashiyamka Station (Hankyu) -- Cross Togetsu-kyo Bridge and go southeastwards</e>
+<cmt></cmt>
+<e type="trans" ver="2">Arashiyama Station (Hankyu) -- Cross Togetsu-kyo Bridge and go southeast.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Arashiyama Station (Hankyu) -- Cross Togetsu-kyo Bridge and go southeast.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>徒歩20分ほど。</j>
+<e type="trans" ver="1">On foot, it takes about 20 minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It&apos;s a walk of approximately 20 minutes.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It&apos;s a walk of approximately twenty minutes.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="20">
+<j>嵯峨鳥居本（重要伝統的建造物群保存地区）</j>
+<e type="trans" ver="1">Saga Toriimoto (Historic preservation districts/Preservation Districts for Groups of Historic Buildings)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saga Toriimoto (historical preservation districts, preservation districts for groups of historical buildings)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Saga Toriimoto (preservation districts for groups of historical buildings)</e>
+<cmt>ダブりを削除しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="21">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>1991年4月27日　開業。</j>
+<e type="trans" ver="1">Its operation started on April 27, 1991.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its operation started on April 27, 1991.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">April 27, 1991: Its operation started.</e>
+<cmt>日付表記統一</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="23">
+<j>2003年4月　駅前に19世紀ホールがオープン。</j>
+<e type="trans" ver="1">In April of 2004, 19th CENTURY HALL opened in front of the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In April 2004, 19th CENTURY HALL opened in front of the station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April, 2003: 19th CENTURY HALL opened in front of the station.</e>
+<cmt>日付表記統一2004→2003に変更しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="24">
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="25">
+<j>嵯峨野観光鉄道</j>
+<e type="trans" ver="1">Sagano Scenic Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sagano Scenic Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sagano Scenic Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>嵯峨野観光線</j>
+<e type="trans" ver="1">Sagano Sight-Seeing Tram Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sagano Sightseeing Tram Line</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Sagano Sightseeing Tram Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>トロッコ嵯峨駅 - トロッコ嵐山駅</j>
+<e type="trans" ver="1">Saga Torokko Station - Arashiyama Torokko Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saga Torokko Station - Arashiyama Torokko Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Saga Torokko Station - Arashiyama Torokko Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Kone(id:377), Rusk(id:9895), Etopirica(id:32491), Goncyan(id:92158), Bergmann(id:85282), オナガドリ(id:15179), SElefant(id:10344), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

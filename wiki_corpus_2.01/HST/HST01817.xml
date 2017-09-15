@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>符</j>
+<e type="trans" ver="1">Fu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fu</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>符（ふ）とは、律令制において上級の官司（所管）より下級の官司（被管）に対して命令を下す際に用いる公文書のこと。</j>
+<e type="trans" ver="1">Fu is an official document used by government officials in the upper grade to give a command to those in the lower grade under the ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fu is an official document used by government officials in the upper grade to give a command to those in the lower grade under the ritsuryo system.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fu is an official document used by government officials in the upper grade to give a command to those in the lower grade under the ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>太政官が下す符を特に太政官符と呼称されるが、太政官以外の機関、すなわち八省や弾正台から下級の官司や令制国に出す命令、更により下位にある官司でも自己よりも下級の官司に対しては符の形式の命令文書が出されていた。</j>
+<e type="trans" ver="1">Fu issued by Daijokan (Grand Council of State) was specially called Daijokanpu, but in organizations other than Daijokan such as Hassho and danjodai a command was given to officials in the lower grade in the form of fu, and even officials in the low grade used fu to give a command to their subordinate officials.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fu issued by Daijokan (Grand Council of State) was specially called Daijokanpu, but in organizations other than Daijokan such as Hassho and danjodai a command was given to officials in the lower grade in the form of fu, and even officials in the low grade used fu to give a command to their subordinate officials.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fu issued by Daijokan (Grand Council of State) was specially called Daijokanpu, but in organizations other than Daijokan such as Hassho and danjodai a command was given to officials in the lower grade in the form of fu, and even officials in the low grade used fu to give a command to their subordinate officials.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>例えば、郡司の命令が記された「郡符」が記された木簡が八幡林遺跡（新潟県長岡市）や山垣遺跡（兵庫県丹波市）から出土している。</j>
+<e type="trans" ver="1">For example, mokkan (a long and narrow wood plate written with a brush) bearing &quot;gunpu,&quot; a command given by gunji (district managers), was excavated from Hachimanbayashi remains (Nagaoka City, Niigata Prefecture) and Yamagaki remains (Tanba City, Hyogo Prefecture).</e>
+<cmt></cmt>
+<e type="trans" ver="2">A long and narrow wood plate bearing a &quot;gunpu,&quot; a command given by gunji (district managers), was excavated from theHachimanbayashi remains (Nagaoka City, Niigata Prefecture) and the Yamagaki remains (Tanba City, Hyogo Prefecture).</e>
+<cmt>意味を分かりやすくするために文書を変えました。</cmt>
+<e type="check" ver="1">A long and narrow wood plate bearing a &apos;gunpu,&apos; a command given by gunji (district managers), was excavated from theHachimanbayashi remains (Nagaoka City, Niigata Prefecture) and the Yamagaki remains (Tanba City, Hyogo Prefecture).</e>
+<cmt>&quot; &quot; → &apos; &apos;</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>公式令 (律令法)にその書式が定められており、符は初行に○○○（上級の官司）符其×××（下級の官司）の書出に始まり、2行目より事実書（内容の記載）が行われて「符至奉行（符至らば奉行（文書の内容を実施）せよ）」の句が書止として付される。</j>
+<e type="trans" ver="1">The format of fu is established in Kushiki-ryo (law on state documentary forms in the Yoro Code); according to the format, the first line of fu begins with the opening sentence &quot;*** (senior official) gives a command to *** (subordinate official),&quot; and the statement of the fact (description of the contents) begins on the second line until fu ends with the sentence &quot;When you receive this document, put its contents into practice.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The format of fu is established in Kushiki-ryo (law on state documentary forms in the Yoro Code), and according to the format, the first line of fu begins with the opening sentence &quot;So-and-so (The senior official&apos;s name) gives a command to So-and-so (the subordinate official&apos;s name),&quot; the second line contains the order and the closing line read, &quot;Implement upon receipt&quot;.</e>
+<cmt>意味を分かりやすくするために文書を変えました。</cmt>
+<e type="check" ver="1">The format of fu is established in Kushiki-ryo (law on state documentary forms in the Yoro Code), and according to the format, the first line of fu begins with the opening sentence &apos;So-and-so (The senior official&apos;s name) gives a command to So-and-so (the subordinate official&apos;s name),&apos; the second line contains the order and the closing line read, &quot;Implement upon receipt.&quot;</e>
+<cmt>&quot; &quot; → &apos; &apos;ピリオドの位置を調整</cmt>
+</sen>
+<sen id="5">
+<j>ただし、太政官符の場合は初行の書出と2行目の事実書の間に1行設け符の概要を示す事書が加えられる。</j>
+<e type="trans" ver="1">In cases of Daijokanpu, however, a line is inserted between the opening sentence of the first line and the statement of the fact beginning on the second line, and kotogaki summarizing the &quot;fu&quot; is added.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A &quot;Daijokanpu&quot;, however, had a summary of command inserted between the opening sentence and the second line that contained the actual command.</e>
+<cmt>意味を分かりやすくするために文書を変えました。</cmt>
+<e type="check" ver="1">A &quot;Daijokanpu&quot;, however, had a summary of command inserted between the opening sentence and the second line that contained the actual command.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>また、書止には公式令で定められた「符至奉行」の他に「故符（ことさらに符す）」・「以符（もって符す）」などの略式のものも用いられた。</j>
+<e type="trans" ver="1">Furthermore, instead of the closing sentence stipulated in Kushuki-ryo, &quot;When you receive this document, put its contents into practice,&quot; informal closing sentences such as &quot;especially commanded&quot; or &quot;hereby commanded&quot; were used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And instead of the closing sentence stipulated in Kushuki-ryo being used (&quot;Implement upon receipt&quot;), informal closing sentences such as &quot;especially commanded&quot; or &quot;hereby commanded&quot; were used.</e>
+<cmt>意味を分かりやすくするために文書を変えました。</cmt>
+<e type="check" ver="1">And instead of the closing sentence stipulated in Kushuki-ryo being used (&quot;Implement upon receipt&quot;), informal closing sentences such as &quot;especially commanded&quot; or &quot;hereby commanded&quot; were used.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>書止の次の行には実際の発給担当者の位署が官職・位階・姓名の順に従って記載され（太政官符の場合は、行の上部に弁官、下部に史 (律令制)の位署がなされた）、その次の行に発給された年月日が記載された。</j>
+<e type="trans" ver="1">On the line below the closing sentence, the rank and name of the official who actually issues the document were written in the order of job grade, Ikai (court rank) and name (in the cases of Daijokanpu, the rank and name of the Benkan (Oversight Department (division of the daijokan responsible for controlling central and provincial governmental offices) is written on the above part of the line and those of the recorder (under the ritsuryo system) is written on the latter part), and on the next line, the date of issuance was written.</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">Beneath the closing sentence was written the position, rank and name (in that precise order) of the official who issued the document, and on the line under it was the date it was issued (In the cases of a Daijokanpu, the rank and name of the Benkan (Daijokan official) is written on the upper part, and the name of the scribe is placed under it, as required by the Ritsuryo system).</e>
+<cmt>意味を分かりやすくするために文書を変えました。定訳不明だったため、翻訳者が使った言葉をそのまま入れました。</cmt>
+<e type="check" ver="1">Beneath the closing sentence was written the position, rank and name (in that precise order) of the official who issued the document, and on the line under it was the date it was issued (In the cases of a Daijokanpu, the rank and name of the Benkan (Daijokan official) is written on the upper part, and the name of the scribe is placed under it, as required by the Ritsuryo system).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>書止－発給者位署－発給年月日の順に記載され、なおかつそれぞれ改行が行われるのは符のみの書式であり、符であることを示す証であった。</j>
+<e type="trans" ver="1">It was a format applicable only to fu and proof of fu that the closing sentence - the rank and name of the issuer - the date of issuance were written in this order and each of them was written on a new line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The format of placing the closing sentence, the rank and name of the issuer, and the date of issue on individual lines in that precise order was used solely in &quot;fu&quot; and proved that the document was a &quot;fu&quot;.</e>
+<cmt>意味を分かりやすくするために文書を変えました。</cmt>
+<e type="check" ver="1">The format of placing the closing sentence, the rank and name of the issuer, and the date of issue on individual lines in that precise order was used solely in &quot;fu&quot; and proved that the document was a &quot;fu&quot;.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>このため、他の部分には書式の一部省略が行われることがあっても、発給者位署と発給年月日の位置と順序が改められたり省略されることは無かった。</j>
+<e type="trans" ver="1">Thus in some cases the format was partially omitted in the other parts, the position of the issuer and the position and order of the date of issuance were neither modified nor omitted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although some of the other parts were changed and/or omitted, the position and order of the lines that stated the rank of the issuer, and the date of issue, was never changed or omitted.</e>
+<cmt>意味を分かりやすくするために文書を変えました。</cmt>
+<e type="check" ver="1">Although some of the other parts were changed and/or omitted, the position and order of the lines that stated the rank of the issuer, and the date of issue, was never changed or omitted.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>発給年月日の下側にこの符を相手先に送付した使人の位署がされ、最後の行に「鈴剋　伝符亦准此（鈴剋（れいこく）・伝符（ともに駅伝制に用いられるもので、転じて駅伝を介して諸国の国司に送られてきた場合）もまた此れ（正規の符の手続）に准ぜよ）」と書かれて締め括られる。</j>
+<e type="trans" ver="1">Below the date of issuance, the rank and name of the messenger who sent the document to the receiver were written, and the sentence on the last line, &quot;Conform to the procedures of the formal fu in cases of reikoku and denkoku (both were originally terms to be used for ekiden-sei, and came to mean the document sent via ekiden to kokushi in various districts)&quot; concluded the fu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Below the date of issuance, the rank and name of the messenger who carried the document to the receiver were written, and concluded with, &quot;Refer to the procedures of the formal fu in cases of reikoku and denfu (relay messenger system, or when a document had been sent via relay messenger to officials in various districts)&quot;.</e>
+<cmt>定訳が見つかりませんでした。訳文を読んでも意味が割りずらいので、文書を変えました。</cmt>
+<e type="check" ver="1">Below the date of issuance, the rank and name of the messenger who carried the document to the receiver were written, and concluded with, &apos;Refer to the procedures of the formal fu in cases of reikoku and denfu (relay messenger system, or when a document had been sent via relay messenger to officials in various districts).&apos;</e>
+<cmt>&quot; &quot; → &apos; &apos;</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="11">
+<j>平安時代中期以後、太政官符は官宣旨（弁官下文）にその役目を取って代わられ、他の官司の符も各種の下文に役目を譲った。</j>
+<e type="trans" ver="1">After the mid Heian period, Daijokanpu was replaced by Kan Senji (a government edict) and fu by the other officials were replaced by various types of kudashibun issued by benkan (oversight department).</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the mid Heian period, &quot;Daijokan-pu&quot; (the &quot;fu&quot;issued by the Grand Council of State) was replaced by the &quot;Kansenji&quot; (a government edict), while non-Grand Council officials used various forms of &quot;kudashi-fumi&quot; (order papers sent to subordinates) instead of the &quot;fu&quot;.</e>
+<cmt>意味を分かりやすくするために文書を変えました。</cmt>
+<e type="check" ver="1">After the mid Heian period, &quot;Daijokan-pu&quot; (the &quot;fu&quot;issued by the Grand Council of State) was replaced by the &quot;Kansenji&quot; (a government edict), while non-Grand Council officials used various forms of &quot;kudashi-fumi&quot; (order papers sent to subordinates) instead of the &quot;fu.&quot;</e>
+<cmt>ピリオドの位置を調整</cmt>
+</sen>
+<sen id="12">
+<j>ただし、太政官符など一部の符はその後も出される場合があり、明治維新による律令制官司の終焉まで一応、公文書の書式としての符は存続していたと言える。</j>
+<e type="trans" ver="1">Some of the fu, such as Daijokanpu, were sometimes issued after that, so it can be said that fu did remain as a format of official documents until bureaucracy under the ritsuryo system ended due to Meiji Restoration.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some of the &quot;Fu&quot;, such as &quot;Daijokan-pu&quot;, were occasionally issued after that, and remained as a official document form until the Meji Restoration ended the Ritsuryo system.</e>
+<cmt>意味を分かりやすくするために文書を変えました。</cmt>
+<e type="check" ver="1">Some of the &quot;Fu,&quot; such as &quot;Daijokan-pu,&quot; were occasionally issued after that, and remained as a official document form until the Meji Restoration ended the Ritsuryo system.</e>
+<cmt>ピリオドの位置を調整</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Haruno Akiha(id:107628), Dream100(id:41924), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

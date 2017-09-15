@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>和歌</j>
+<e type="trans" ver="1">Waka (31-syllable Japanese poem)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Waka (31-syllable Japanese poem)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Waka</e>
+<cmt>題名のため、そのままとしました。</cmt>
+</tit>
+<sen id="1">
+<j>和歌（わか）は、上代から日本で行われた定型の歌。</j>
+<e type="trans" ver="1">Waka is a fixed form of poem which has been made since Jodai (mainly Nara era).</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=%E4%B8%8A%E4%BB%A3&amp;stype=0&amp;dtype=2</cmt>
+<e type="trans" ver="2">Waka is a fixed form of poem that has been created since Jodai (mainly the Nara era).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Waka is a fixed form of poem that has been created since Jodai (mainly the Nara period).</e>
+<cmt>era →period</cmt>
+</sen>
+<sen id="2">
+<j>和歌を詠む人のことを歌人という。</j>
+<e type="trans" ver="1">The people who compose Waka are called Kajin poet.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The people who compose Waka are called Kajin poets.</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">The people who compose Waka are called Kajin poets.</e>
+<cmt>修正なし</cmt>
+</sen>
+<par id="1">
+<sen id="3">
+<j>呼び名</j>
+<e type="trans" ver="1">Appellation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Appellation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Appellation</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>和歌とは漢詩に対する呼称で、やまとうた（大和歌・倭歌）、あるいは単にうたという。</j>
+<e type="trans" ver="1">Waka is a name in contrast to the Chinese poetry, and it is also called Yamatouta (大和歌・倭歌) or just Uta.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Waka is a name in contrast to the Chinese poetry, and it is also called Yamatouta (大和歌・倭歌) or just Uta.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Waka is a name in contrast to the Chinese poetry, and it is also called Yamatouta (大和歌・倭歌) or just Uta.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>奈良時代には倭歌（わか）・倭詩（わし）とも言った。</j>
+<e type="trans" ver="1">In the Nara era, it was called Waka (倭歌) or Washi (倭詩).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Nara era, it was called Waka (倭歌) or Washi (倭詩).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the Nara period it was called Waka (倭歌) or Washi (倭詩).</e>
+<cmt>era →period</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>和歌は広義には長歌・短歌・旋頭歌・片歌及び仏足石歌の総称だが、狭義には31音を定型とする短歌のことを指す。</j>
+<e type="trans" ver="1">In a broad sense, Waka means Choka (long poem), Tanka (short poem), Sedoka (head-repeated poem), Katauta (half poem), and Bussokusekika (Buddha&apos;s footprint stone poem), but in a narrow sense, it designates only Tanka of 31 syllables.</e>
+<cmt>長歌、旋頭歌、片歌、仏足石歌の訳語はブリタニカオンライン百科と&quot;A Waka Anthology Vol.1 The Gem-Glistening Cup&quot;（以下、&quot;WA Vol.1&quot;）を参照</cmt>
+<e type="trans" ver="2">In a broad sense, Waka means Choka (long poem), Tanka (short poem), Sedoka (head-repeated poem), Katauta (half poem), and Bussokusekika (Buddha&apos;s footprint stone poem), but in a narrow sense it designates only Tanka of 31 syllables.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">In a broad sense, Waka means Choka (long poem), Tanka (short poem), Sedoka (head-repeated poem), Katauta (half poem), and Bussokusekika (Buddha&apos;s footprint stone poem), but in a narrow sense it designates only Tanka of 31 syllables.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>そのため、三十一文字（みそひともじ）とも言われる。</j>
+<e type="trans" ver="1">Therefore it is also called Misohitomoji (31 syllables.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, it is also called Misohitomoji (31 syllables.)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Therefore, it is also called Misohitomoji (31 syllables.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>また、日本神話ではスサノオが詠った「八雲立つ出雲八重垣妻ごめに八重垣作るその八重垣を」が最初の和歌とされることから、その初めの語句を取って八雲（やくも）ともいう。</j>
+<e type="trans" ver="1">Also, it is called Yakumo, the name of which is based on the first word of the poem Susanoo (a deity in Japanese mythology) composed, and the poem is considered the first Waka in Japanese mythology: &apos;Clouds, actively upwelling covered the eightfold fence.It makes the eightfold fence to have my new wife stay in the house.Great eightfold fence.&apos;</e>
+<cmt>スサノオの訳語はルミナス和英辞典（研究社）より〔以下、「ル和」と表記]和歌の定訳不明</cmt>
+<e type="trans" ver="2">Also, it is called Yakumo, the name of which is based on the first word of the poem Susanoo (a deity in Japanese mythology) composed, and the poem is considered the first Waka in Japanese mythology: &quot;Clouds, actively upwelling covered the eightfold fence.It makes the eightfold fence to have my new wife stay in the house.Great eightfold fence.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Also, it is called Yakumo, the name of which is based on the first word of the poem Susanoo (a deity in Japanese mythology) composed, and the poem is considered the first Waka in Japanese mythology: &apos;Clouds (Yakumo), actively upwelling covered the eightfold fence.It makes the eightfold fence to have my new wife stay in the house.Great eightfold fence.&apos;</e>
+<cmt>初めの語句を取って「八雲」と呼ばれているので、Clouds　の後に　(Yakumo)と補足しました。</cmt>
+</sen>
+<sen id="9">
+<j>「八雲の道」といえば「歌道」のことである。</j>
+<e type="trans" ver="1">Yakumo-no-michi&apos; means &apos;Kado (the art of Waka poetry).&apos;</e>
+<cmt>歌道の訳語は「ル和」より</cmt>
+<e type="trans" ver="2">&quot;Yakumo-no-michi&apos; means &quot;Kado (the art of Waka poetry).&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Yakumo-no-michi&apos; means &apos;Kado (the art of Waka poetry).&apos;</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>「八雲の道」と同じく「歌道」を表す言葉に「敷島の道」がある。</j>
+<e type="trans" ver="1">Just like &apos;Yakumo-no-michi,&apos; &apos;Shikishima-no-michi (Roads in Japan)&apos; means &apos;Kado.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Just like &quot;Yakumo-no-michi,&quot; &quot;Shikishima-no-michi (Roads in Japan)&quot; means &quot;Kado.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Just like &apos;Yakumo-no-michi,&apos; &apos;Shikishima-no-michi (Roads in Japan)&apos; means Kado.</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="11">
+<j>敷島（しきしま）は大和あるいは日本を意味し、直訳すれば「日本の道」という意味になる。</j>
+<e type="trans" ver="1">Shikishima means Yamato or Japan, so it literally means &apos;roads in Japan.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shikishima means Yamato or Japan, so it literally means &quot;roads in Japan.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Shikishima means Yamato or Japan, so it literally means &apos;roads in Japan.&apos;</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="12">
+<j>歌を詠むことが日本古来の文化であったことを示している。</j>
+<e type="trans" ver="1">It suggests that to compose poems was the Japanese traditional culture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It suggests that to compose poems was the Japanese traditional culture.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It suggests that to compose poems was the Japanese traditional culture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="13">
+<j>なお、沖縄県には琉歌というやや独特の形式がある。</j>
+<e type="trans" ver="1">Also, there is a unique form of poem called Ryuka (Ryukyu poetry) in Okinawa Prefecture.</e>
+<cmt>琉歌の訳語は「ル和」より</cmt>
+<e type="trans" ver="2">Also, there is a unique form of poem called Ryuka (Ryukyu poetry) in Okinawa Prefecture.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also, there is a unique form of poem called Ryuka (Ryukyu poetry) in Okinawa Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>和歌の定義</j>
+<e type="trans" ver="1">Definition of Waka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Definition of Waka</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Definition of Waka</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="14">
+<j>和歌は、五音と七音を標準とする大和ことばによる定型詩（し）、または詩（うた、音楽）である。</j>
+<e type="trans" ver="1">Waka means Uta (song) and fixed form poetry consisting of 5 and 7 syllables and written in Yamato-kotoba (a word of purely Japanese origin).</e>
+<cmt>大和言葉の訳語は「ル和」より</cmt>
+<e type="trans" ver="2">Waka means Uta (song) and fixed-form poetry consisting of five and seven syllables and written in Yamato-kotoba (a word of purely Japanese origin).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Waka means Uta (song) and fixed-form poetry consisting of five and seven syllables and written in Yamato-kotoba (a word of purely Japanese origin).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>文学としての解釈と音楽としての解釈の二通りがあるが、一般的には国文学の中の1つとして解釈されるため、学校教育において「うた」の要素は排除されている。</j>
+<e type="trans" ver="1">Waka is considered to be both literature and music, but generally taken as one genre of Japanese literature, so the element of &apos;Uta&apos; has been excluded in Japanese education.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Waka is considered to be both literature and music, but generally it is taken as one genre of Japanese literature, so the element of &quot;Uta&apos; has been excluded in Japanese education.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Waka is considered to be both literature and music, but generally it is taken as one genre of Japanese literature, so the element of &apos;Uta&apos; has been excluded in Japanese education.</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>和歌の歌体</j>
+<e type="trans" ver="1">Form of Waka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Form of Waka</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Form of Waka</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="16">
+<j>片歌</j>
+<e type="trans" ver="1">Katauta</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katauta</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Katauta</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>五七七の三句。</j>
+<e type="trans" ver="1">Tercets of 5, 7, and 7 syllables.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tercets of five, seven and seven syllables</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Tercets of five, seven and seven syllables</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>二つに分かれて唱和する片方で、最短の歌。</j>
+<e type="trans" ver="1">It is a half poem which is sung by one of the two people, and the shortest poem.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a half-poem that is sung by one of the two people, and it is the shortest poem.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is a half-poem that is sung by one of the two people, and it is the shortest poem.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="19">
+<j>旋頭歌</j>
+<e type="trans" ver="1">Sedoka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sedoka</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sedoka</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>五七七、五七七の形式。</j>
+<e type="trans" ver="1">2 tercets of 5, 7, and 7 syllables each.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Two tercets of five, seven and seven syllables each</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Two tercets of five, seven and seven syllables each</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>片歌を二回繰り返したもので、問答歌が多い。</j>
+<e type="trans" ver="1">It is a repeated form of Katauta, and most of the Sedoka is Mondoka (dialogue poem).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a repeated form of Katauta, and most of the Sedoka is Mondoka (dialogue poem).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is a repeated form of Katauta, and most of the Sedoka is Mondoka (dialogue poem).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="22">
+<j>長歌</j>
+<e type="trans" ver="1">Choka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Choka</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Choka</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>五七、五七、…、五七、七の形式。</j>
+<e type="trans" ver="1">It consists of alternating lines of 5 and 7 syllables, and ends with an extra 7-syllable line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It consists of alternating lines of five and seven syllables, and ends with an extra seven-syllable line.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It consists of alternating lines of five and seven syllables, and ends with an extra seven-syllable line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>五七を三回以上繰り返し、最後を七音を加える。</j>
+<e type="trans" ver="1">5 and 7 syllables are repeated more than 3 times, and then 7-syllable line is added in the end.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The five and seven syllables are repeated more than three times, and then seven-syllable line is added at the end.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The five and seven syllables are repeated more than three times, and then seven-syllable line is added at the end.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>万葉集に多く見えるが、古今集の時点ではすでに作られなくなっている。</j>
+<e type="trans" ver="1">Choka had been seen a lot in Manyoshu (Collection of Ten Thousand Leaves), but was not composed any more when Kokinshu （Collection of Poems Ancient and Modern) was compiled.</e>
+<cmt>万葉集・古今集の訳語はブリタニカオンライン百科事典より</cmt>
+<e type="trans" ver="2">Choka had been seen a lot in &quot;Manyoshu (Collection of Ten Thousand Leaves),&quot; but it was not composed any more when &quot;Kokinshu (Collection of Poems Ancient and Modern)&quot; was compiled.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Choka had been seen a lot in Manyoshu (Collection of Ten Thousand Leaves), but it was not composed any more when Kokinshu (Collection of Poems Ancient and Modern) was compiled.</e>
+<cmt>&quot; &quot;削除</cmt>
+</sen>
+<sen id="26">
+<j>主に公の場でうたわれるもので、反歌を伴う。</j>
+<e type="trans" ver="1">Choka was mainly composed in public, and followed by Hanka (envoys).</e>
+<cmt>反歌の訳語はブリタニカオンラインより</cmt>
+<e type="trans" ver="2">Choka was mainly composed in public, and was followed by Hanka (envoys).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Choka was mainly composed in public, and was followed by Hanka (envoi).</e>
+<cmt>envoiとしました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="27">
+<j>短歌</j>
+<e type="trans" ver="1">Tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanka</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tanka</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>五七、五七、七の形式。</j>
+<e type="trans" ver="1">It consists of 5 lines of 5, 7, 5, 7, and 7 syllables.</e>
+<cmt>5行という言葉を補って訳しました。</cmt>
+<e type="trans" ver="2">It consists of five lines of five, seven, five, seven and seven syllables.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It consists of five lines of five, seven, five, seven and seven syllables.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>のちに五七五と七七に分ける形式が発生し、連歌、俳諧が発生する。</j>
+<e type="trans" ver="1">Later the form was divided into 2 parts (the first part of 5, 7, and 7 syllables, and the latter part of 7 and 7 syllables), and then Renga (linked verse) and Haikai (17-syllable verse) were generated.</e>
+<cmt>「連歌」の訳語はブリタニカオンライン百科より</cmt>
+<e type="trans" ver="2">Later the form was divided into two parts (the first part of five, seven and seven syllables, and the latter part of seven and seven syllables), and then Renga (linked verse) and Haikai (17-syllable verse) were generated.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Later the form was divided into two parts (the first part of five, seven and seven syllables, and the latter part of seven and seven syllables), and then Renga (linked verse) and Haikai (17-syllable verse) were generated.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="30">
+<j>仏足石歌体</j>
+<e type="trans" ver="1">Bussokusekika form</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bussokusekika form</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bussokusekika form</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>五七、五七、七七の形式。</j>
+<e type="trans" ver="1">It consists of 6 lines of 5, 7, 5, 7, 7, and 7 syllables.</e>
+<cmt>６行という言葉を補って訳しました。</cmt>
+<e type="trans" ver="2">It consists of six lines of five, seven, five, seven, seven and seven syllables.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It consists of six lines of five, seven, five, seven, seven and seven syllables.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="32">
+<j>今様</j>
+<e type="trans" ver="1">Imayo (an ancient verse form)</e>
+<cmt>「今様」→用語集には「Imayo Modern age」とありましたが、「当世風」ではなく、「今様歌の略」をのことと思われるので、訳語を変更。新和英大辞典（研究社）[以下、「和大」と表記]を参照</cmt>
+<e type="trans" ver="2">Imayo (an ancient verse form)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Imayo (an ancient verse form)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>七五、七五、七五、七五の形式。</j>
+<e type="trans" ver="1">It consists of 8 lines of 7, 5, 7, 5, 7, 5, 7, and 5 syllables.</e>
+<cmt>８行という言葉を補って訳しました。</cmt>
+<e type="trans" ver="2">It consists of eight lines of seven, five, seven, five, seven, five, seven and five syllables.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It consists of eight lines of seven, five, seven, five, seven, five, seven and five syllables.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>平安中期に発生。</j>
+<e type="trans" ver="1">It was generated in the middle of the Heian era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was created in the middle of the Heian era.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It was created in the middle of the Heian period.</e>
+<cmt>era →period</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="35">
+<j>甚句（都々逸）</j>
+<e type="trans" ver="1">Jinku poetry (Dodoitsu)</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=%E7%94%9A%E5%8F%A5&amp;stype=0&amp;dtype=0</cmt>
+<e type="trans" ver="2">Jinku poetry (Dodoitsu)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jinku poetry (Dodoitsu)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>七七、七五の形式。</j>
+<e type="trans" ver="1">It consists of 4 lines of 7, 7, 7, and 5 syllables.</e>
+<cmt>4行という言葉を補って訳しました。</cmt>
+<e type="trans" ver="2">It consists of four lines of seven, seven, seven and five syllables.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It consists of four lines of seven, seven, seven and five syllables.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>江戸時代に発生。</j>
+<e type="trans" ver="1">It was generated in the Edo era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was created in the Edo era.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It was created in the Edo period.</e>
+<cmt>era →period</cmt>
+</sen>
+<sen id="38">
+<j>全国各地の民謡に多い。</j>
+<e type="trans" ver="1">It is often seen in Minyo (folk song) of all areas in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is often seen in Minyo (folk songs) of all areas in Japan.</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">It is often seen in Minyo (folk songs) of all areas in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>囃子言葉が挿入される場合も多い。</j>
+<e type="trans" ver="1">Hayashikotoba (a meaningless refrain used to maintain the rhythm of a song) is often inserted into it.</e>
+<cmt>「囃子言葉」の訳語は「和大」より</cmt>
+<e type="trans" ver="2">Hayashikotoba (a meaningless refrain used to maintain the rhythm of a song) is often inserted into it.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hayashikotoba (a meaningless refrain used to maintain the rhythm of a song) is often inserted into it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>なお、都々逸という呼称は幕末以降にできたとも言われる。</j>
+<e type="trans" ver="1">It is also said that the name of Dodoitsu appeared after the last days of the Tokugawa government.</e>
+<cmt>幕末の訳語は「和大」より</cmt>
+<e type="trans" ver="2">It is also said that the name of Dodoitsu appeared after the last days of the Tokugawa government.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also said that the name of Dodoitsu appeared after the last days of the Tokugawa government.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>和歌の修辞技巧</j>
+<e type="trans" ver="1">Rhetoric of Waka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rhetoric of Waka</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rhetoric of Waka</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="41">
+<j>枕詞</j>
+<e type="trans" ver="1">Makura kotoba (pillow word)</e>
+<cmt>ブリタニカオンライン百科より</cmt>
+<e type="trans" ver="2">Makura kotoba (pillow word)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Makura kotoba (pillow word)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="42">
+<j>序詞</j>
+<e type="trans" ver="1">Jo kotoba (introductive word)</e>
+<cmt>http://www.nijl.ac.jp/events/kokusai-youshi03.html</cmt>
+<e type="trans" ver="2">Jo kotoba (introductive word)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jo kotoba (introductive word)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>掛詞</j>
+<e type="trans" ver="1">Kake kotoba (pivot word)</e>
+<cmt>&quot;WA Vol.1&quot;より</cmt>
+<e type="trans" ver="2">Kake kotoba (pivot word)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kake kotoba (pivot word)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>縁語</j>
+<e type="trans" ver="1">Engo (related word)</e>
+<cmt>&quot;WA Vol.1&quot;より</cmt>
+<e type="trans" ver="2">Engo (related word)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Engo (related word)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="45">
+<j>本歌取り</j>
+<e type="trans" ver="1">Honkatori (adaptation of a famous poem)</e>
+<cmt>「和大」より</cmt>
+<e type="trans" ver="2">Honkatori (adaptation of a famous poem)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Honkatori (adaptation of a famous poem)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>体言止め</j>
+<e type="trans" ver="1">Taigendome (noun appearing at the end of Waka)</e>
+<cmt>Kenkyusha Online Dictionary追加語彙（和英）参照</cmt>
+<e type="trans" ver="2">Taigendome (noun appearing at the end of Waka)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Taigendome (noun appearing at the end of Waka)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="47">
+<j>対句</j>
+<e type="trans" ver="1">Tsuiku (couplet)</e>
+<cmt>「和大」より</cmt>
+<e type="trans" ver="2">Tsuiku (couplet)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tsuiku (couplet)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>句切れ</j>
+<e type="trans" ver="1">Kugire (caesura)</e>
+<cmt>http://books.google.co.jp/books?id=YLXKc6TIZYIC&amp;pg=PA21&amp;lpg=PA21&amp;dq=kugire+waka&amp;source=bl&amp;ots=mVGPj2tRF4&amp;sig=H4G8hWLF1ghXL2Tmp7FRzJaNWAU&amp;hl=ja&amp;ei=smP9Sde_IseikAXp1JCTBA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=6</cmt>
+<e type="trans" ver="2">Kugire (caesura)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kugire (caesura)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>和歌の披講</j>
+<e type="trans" ver="1">Hiko (public recitation of a poem) of Waka</e>
+<cmt>「披講」の訳語は「和大」より</cmt>
+<e type="trans" ver="2">Hiko (public recitation of a poem) of Waka</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hiko (public recitation of a poem) of Waka</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="49">
+<j>披講とは、和歌に節を付けて詠み上げることで、綾小路流や冷泉流などの流派が存在する。</j>
+<e type="trans" ver="1">Hiko is to recite Waka to a tune, and there are some Schools of reciting such as AYANOKOJI School and REIZEI School.</e>
+<cmt>一原文一訳文の例外処理</cmt>
+<e type="trans" ver="2">Hiko is to recite Waka to a tune, and there are some schools of reciting such as the AYANOKOJI School and the REIZEI School.</e>
+<cmt>grammar, case</cmt>
+<e type="check" ver="1">Hiko is to recite Waka to a tune, and there are some schools of reciting such as the AYANOKOJI School and the REIZEI School.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>現在では宮中の歌会始や神社での行事などで見ることができる。</j>
+<e type="trans" ver="1">Today it is seen at the New Year Imperial Poetry Reading Party, some events in shrines, and so on.</e>
+<cmt>一原文一訳文の例外処理</cmt>
+<e type="trans" ver="2">Today it is seen at the New Year Imperial Poetry Reading Party, certain events in shrines, etc.</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">Today it is seen at the New Year Imperial Poetry Reading Party, certain events in shrines, etc.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>和歌の歴史</j>
+<e type="trans" ver="1">History of Waka</e>
+<cmt></cmt>
+<e type="trans" ver="2">History of Waka</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History of Waka</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="6">
+<tit>
+<j>上代</j>
+<e type="trans" ver="1">Jodai</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jodai</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jodai</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="7">
+<tit>
+<j>上代歌謡</j>
+<e type="trans" ver="1">Jodai Kayo (songs and ballads in Jodai)</e>
+<cmt>「和大」参照</cmt>
+<e type="trans" ver="2">Jodai Kayo (songs and ballads in Jodai)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jodai Kayo (songs and ballads in Jodai)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="51">
+<j>定型が完成する以前の和歌を上代歌謡という。</j>
+<e type="trans" ver="1">Before fixed form of Waka was established, it had been called Jodai Kayo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Before the fixed form of Waka was established, it had been called &quot;Jodai Kayo.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Before the fixed form of Waka was established, it had been called Jodai Kayo.</e>
+<cmt>&quot; &quot;削除</cmt>
+</sen>
+<sen id="52">
+<j>感情の高まりから発せられた叫び・掛け声が次第に成長して、祭りや労働の際に集団で歌われる歌となったものとも言われる。</j>
+<e type="trans" ver="1">It is also said that screams and cheers let out with excitement increasingly grew to be songs sung in groups at festivals and labors.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also said that the screams and cheers let out with excitement increasingly grew to be songs sung in groups at festivals and during laborious work.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is also said that the screams and cheers let out with excitement increasingly grew to be songs sung in groups at festivals and during laborious work.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>多くは文字に記されることなく失われてしまったとされるが、『古事記』『日本書紀』『風土記』『万葉集』『古語拾遺』『琴歌譜』『仏足石歌碑』などに約300首残っている。</j>
+<e type="trans" ver="1">Most of them are considered to have been lost without being written down, but about 300 poems have survived in the books of &quot;Kojiki (Records of Ancient Matters),&quot; &quot;Nihon shoki (Chronicles of Japan),&quot; &quot;Fudoki (notes on local legends and geography),&quot; &quot;Manyoshu,&quot; &quot;Kogoshui (commentaries on ancient words and practices),&quot; &quot;Kinkafu (poetry collection),&quot; and &quot;Bussokusekika hi (stele).&quot;</e>
+<cmt>古事記の訳語は「和大」より風土記の訳語はブリタニカオンライン百科参照古語拾遺の訳語参照URL（http://www2.kokugakuin.ac.jp/ijcc/wp/bts/bts_k.html#kogo_shui）琴歌譜の訳語参照URL(http://www.meijigakuin.ac.jp/~pmjs/trans/index.html#K)仏足石歌碑の訳語は&quot;WA Vol.1&quot;より</cmt>
+<e type="trans" ver="2">Most of them are considered to have been lost without being written down, but about 300 poems have survived in the books of &quot;Kojiki (Records of Ancient Matters),&quot; &quot;Nihon shoki (Chronicles of Japan),&quot; &quot;Fudoki (notes on local legends and geography),&quot; &quot;Manyoshu,&quot; &quot;Kogoshui (commentaries on ancient words and practices),&quot; &quot;Kinkafu (poetry collection)&quot; and &quot;Bussokusekika hi (stele).&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Most of them are considered to have been lost without being written down, but about 300 poems have survived in the books of &quot;Kojiki (Records of Ancient Matters),&quot; &quot;Nihon shoki (Chronicles of Japan),&quot; &quot;Fudoki (notes on local legends and geography),&quot; &quot;Manyoshu,&quot; &quot;Kogoshui (commentaries on ancient words and practices),&quot; &quot;Kinkafu (poetry collection)&quot; and &quot;Bussokusekika hi (stele).&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>当時の習慣として、歌垣という集団行事があった。</j>
+<e type="trans" ver="1">There was a group event called Utagaki (dancing and singing feast of young men and women) as one of the customs in those days.</e>
+<cmt>歌垣の訳語は「ル和」を参照</cmt>
+<e type="trans" ver="2">There was a group event called Utagaki (dancing and singing feast of young men and women) as one of the customs in those days.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">There was a group event called Utagaki (dancing and singing feast of young men and women) as one of the customs in those days.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="55">
+<j>上代歌謡は神楽歌や催馬楽などの楽器を伴う儀式歌の源流となるが、その歌体・技巧は後の和歌の母胎となっている。</j>
+<e type="trans" ver="1">Jodai Kayo came to be an origin of ceremonial songs such as Kagurauta (songs) and Saibara (folk songs) which were accompanied with instruments, and its form and poetic devices became a progenitor of the later Waka.</e>
+<cmt>神楽歌と催馬楽の訳語は&quot;WA vol.1&quot;参照</cmt>
+<e type="trans" ver="2">Jodai Kayo came to be an origin of ceremonial songs such as Kagurauta (songs) and Saibara (folk songs), which were accompanied with instruments, and its form and poetic devices became progenitors of the later Waka.</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">Jodai Kayo came to be an origin of ceremonial songs such as Kagurauta (songs) and Saibara (folk songs), which were accompanied with instruments, and its form and poetic devices became progenitors of the later Waka.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>記紀歌謡</j>
+<e type="trans" ver="1">Kiki kayo (ballads found in the Kojiki and Nihon shoki)</e>
+<cmt>「和大」より</cmt>
+<e type="trans" ver="2">Kiki kayo (ballads found in &quot;Kojiki&quot; and &quot;Nihon Shoki&quot;)</e>
+<cmt>punctuation, case</cmt>
+<e type="check" ver="1">Kiki kayo (ballads found in the Kojiki and Nihon shoki)</e>
+<cmt>&quot; &quot;削除</cmt>
+</tit>
+<par id="1">
+<sen id="56">
+<j>『古事記』『日本書紀』に採られた上代歌謡を、特に記紀歌謡という。</j>
+<e type="trans" ver="1">Jodai Kayo in &quot;Kojiki&quot; and &quot;Nihon shoki&quot; were especially called Kiki kayo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jodai Kayo in &quot;Kojiki&quot; and &quot;Nihon shoki&quot; were especially called Kiki kayo.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jodai Kayo in &quot;Kojiki&quot; and &quot;Nihon shoki&quot; were especially called Kiki kayo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="57">
+<j>独立した歌謡ではなく、物語の効果を高めるために用いられていることが多いが、宮廷人が歌った儀式の歌謡や、創作もあるとされている。</j>
+<e type="trans" ver="1">They are were not independent ballads but used to enhance an effect of narrative, and some of them are said to have been creative songs or ceremonial songs made by court people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They are were not independent ballads but used to enhance an effect of narrative, and some of them are said to have been creative songs or ceremonial songs made by court people.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They are not independent ballads but used to enhance an effect of narrative, and some of them are said to have been creative songs or ceremonial songs made by court people.</e>
+<cmt>were削除</cmt>
+</sen>
+<sen id="58">
+<j>片歌・旋頭歌・短歌・長歌などの五音と七音を標準とする歌体に、対句・くりかえし・枕詞・序詞などの技法が用いられた。</j>
+<e type="trans" ver="1">Poetic devices such as Tsuiku, Kurikaeshi (repetition), Makura kotoba, Jo kotoba, etc. were used for a verse form of basic lines of 5 and 7 syllables like Katauta, Sedoka, Tanka, and Choka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poetic devices such as Tsuiku, Kurikaeshi (repetition), Makura kotoba, Jo kotoba, etc., were used for a verse form of basic lines of five and seven syllables, like Katauta, Sedoka, Tanka and Choka.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Poetic devices such as Tsuiku, Kurikaeshi (repetition), Makura kotoba, Jo kotoba, etc., were used for a verse form of basic lines of five and seven syllables, like Katauta, Sedoka, Tanka and Choka.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="59">
+<j>他にも記紀の時代の歌謡には、奈良の薬師寺の仏足石歌碑に刻まれた歌、平安時代中期に書写された和琴の譜本『琴歌譜』がある。</j>
+<e type="trans" ver="1">The other ballads in the same period were the one which was inscribed on the monument of Bussokusekika in Yakushi-ji Temple in Nara, and &quot;Kinkafu,&quot; which was a book of Wagon (Japanese string instrument consisting of a flat shallow sound box with six strings) copied in the middle of the Heian era.</e>
+<cmt>和琴の訳語は「和大」より</cmt>
+<e type="trans" ver="2">The other ballads in the same period were of the kind inscribed on the monument of Bussokusekika in Yakushi-ji Temple in Nara, and &quot;Kinkafu,&quot; which was a book of Wagon (Japanese string instrument consisting of a flat, shallow sound box with six strings) copied in the middle of the Heian era.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The other ballads in the same period were of the kind inscribed on the monument of Bussokusekika in Yakushi-ji Temple in Nara and &quot;Kinkafu,&quot; which was a book on the Wagon (a Japanese string instrument, also called the Yamatogoto, that consisted of a flat, shallow sound box with six strings, much like a zither), was copied in the middle of the Heian period.</e>
+<cmt>全体的に修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>万葉集</j>
+<e type="trans" ver="1">Manyoshu</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Manyoshu&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Manyoshu</e>
+<cmt>&quot; &quot;削除</cmt>
+</tit>
+<par id="1">
+<sen id="60">
+<j>統一国家が確立してゆく中で、大陸から漢詩が入ってきた影響もあり、個人の気持ちを個々に表現する歌が盛んに作られるようになった。</j>
+<e type="trans" ver="1">In the process of giving unification to Japan, Chinese poetry was introduced to Japan from the Chinese Continent, and under its influence poems to express individual feelings were energetically composed.</e>
+<cmt>「大陸」の訳語は「和大」より</cmt>
+<e type="trans" ver="2">In the process of giving unification to Japan, Chinese poetry was introduced to Japan from the Chinese Continent, and under its influence poems to express individual feelings were energetically composed.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the process of giving unification to Japan, Chinese poetry was introduced to Japan from the Chinese Continent, and under its influence poems to express individual feelings were energetically composed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="61">
+<j>それらを大成したのが『万葉集』である。</j>
+<e type="trans" ver="1">Those poems were compiled into &quot;Manyoshu.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Those poems were compiled into &quot;Manyoshu.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Those poems were compiled into &quot;Manyoshu.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="62">
+<j>万葉集の注記によると、万葉集以前にも『古歌集』『柿本人麻呂歌集』『笠金村歌集』『高橋虫麻呂歌集』『田辺福麻呂歌集』『類聚歌林』などがあったとされるが、現存していない。</j>
+<e type="trans" ver="1">According to the notes in Manyoshu, there had been some other anthologies before Manyoshu, for example, &quot;Kokashu (collection of old poetry),&quot; &quot;KAKINOMOTO no Hitomaro&apos;s Collection,&quot; &quot;Kasanokanamura Collection,&quot; &quot;TAKAHASHI no Mushimaro&apos;s collection of poetry,&quot; &quot;Book of poetry of TANABE no Sakimaro,&quot; &quot;Ruiju-karin (Collection of poetries),&quot; etc., but none of them has survived.</e>
+<cmt>http://www6.airnet.ne.jp/manyo/main/six/m1060.html</cmt>
+<e type="trans" ver="2">According to the notes in Manyoshu, there had been some other anthologies before Manyoshu, such as &quot;Kokashu (Collection of Old Poetry),&quot; &quot;KAKINOMOTO no Hitomaro&apos;s Collection,&quot; &quot;Kasanokanamura Collection,&quot; &quot;TAKAHASHI no Mushimaro&apos;s Collection of Poetry,&quot; &quot;Book of poetry of TANABE no Sakimaro,&quot; &quot;Ruiju-karin (Collection of Poetry),&quot; etc., but none of them has survived.</e>
+<cmt>grammar, case</cmt>
+<e type="check" ver="1">According to the notes in Manyoshu, there had been some other anthologies before Manyoshu, such as &quot;Kokashu (Collection of Old Poetry),&quot; &quot;KAKINOMOTO no Hitomaro&apos;s Collection,&quot; &quot;Kasanokanamura Collection,&quot; &quot;TAKAHASHI no Mushimaro&apos;s Collection of Poetry,&quot; &quot;Book of poetry of TANABE no Sakimaro,&quot; &quot;Ruiju-karin (Collection of Poetry),&quot; etc., but none of them has survived.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>万葉集は長い期間を経て何人もの人々によってまとめられたが、最終的に現在の20巻のかたちに編集したのは大伴家持だと言われている。</j>
+<e type="trans" ver="1">It is said that Manyoshu had been compiled by many people for a long period of time, but it was OTOMO no Yakamochi who in the end edited and made a 20-volume anthology as it is.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that &quot;Manyoshu&quot; was compiled by many people over a long period of time, but it was OTOMO no Yakamochi who in the end edited and made a 20-volume anthology as it is.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is said that Manyoshu was compiled by many people over a long period of time, but it was OTOMO no Yakamochi who in the end edited and made a 20-volume anthology as it is.</e>
+<cmt>&quot; &quot;削除</cmt>
+</sen>
+<sen id="64">
+<j>約4500首が収められており、その最も古いものは仁徳天皇期のものであるが、大部分は飛鳥時代から奈良時代中期にかけての約百年弱のもので占められている。</j>
+<e type="trans" ver="1">Manyoshu contains about 4500 poems, and the oldest one was composed in the reign of Nintoku Emperor, but most of them were being made for less than 100 years from the Asuka era to the middle of the Nara era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Manyoshu&quot; contains about 4500 poems, the earliest of which was composed in the reign of Emperor Nintoku, but most of them were being made during the period of less than 100 years from the Asuka era to the middle of the Nara era.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Manyoshu contains about 4500 poems, the earliest of which was composed in the reign of Emperor Nintoku, but most of them were being made during the period of less than 100 years from the Asuka period to the middle of the Nara period.</e>
+<cmt>&quot; &quot;削除era →period</cmt>
+</sen>
+<sen id="65">
+<j>現実的・写実的な歌風が多く、貴族の歌のほかに東歌・防人歌など民衆の歌もある。</j>
+<e type="trans" ver="1">Most of the poems have realistic and objective styles, and there are some poems made by people in general such as Azumauta poetry and Sakimori-no-uta (frontier guards&apos; poems) besides court nobles&apos; poems.</e>
+<cmt>「防人歌」の訳語（）内はブリタニカオンライン百科より。</cmt>
+<e type="trans" ver="2">Most of the poems have realistic and objective styles, and there are some poems made by people in general, such as Azumauta poetry and Sakimori-no-uta (frontier guards&apos; poems) besides the poems of court nobles.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Most of the poems have realistic and objective styles, and there are some poems made by people in general, such as Azumauta poetry and Sakimori-no-uta (frontier guards&apos; poems) besides the poems of court nobles.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="10">
+<tit>
+<j>中古</j>
+<e type="trans" ver="1">Heian era</e>
+<cmt>「和大」より</cmt>
+<e type="trans" ver="2">Heian era</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Heian period</e>
+<cmt>era →period</cmt>
+</tit>
+</sec>
+<sec id="11">
+<tit>
+<j>国風文化</j>
+<e type="trans" ver="1">Kokufu bunka (aristocratic culture)</e>
+<cmt>「和大」より</cmt>
+<e type="trans" ver="2">Kokufu bunka (aristocratic culture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kokufu bunka (aristocratic culture)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="66">
+<j>平安時代初期には漢詩文が公的な文学として和歌を圧倒した。</j>
+<e type="trans" ver="1">In the early Heian era, Chinese poetry overwhelmed Waka as a public literature.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the early Heian era, Chinese poetry overwhelmed Waka as a public literature.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">During the early Heian period, Chinese poetry overwhelmed Waka as a public literature.</e>
+<cmt>era →period</cmt>
+</sen>
+<sen id="67">
+<j>和歌は私的に交わされる贈答歌が主となり、宮廷で詠まれることは奈良時代と比較すると少なくなった。</j>
+<e type="trans" ver="1">Zotoka (poems exchanged between man and woman) became the leading style of Waka, and the number of Waka composed in the Imperial court decreased compared with that in the Nara era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Zotoka (poems exchanged between a man and a woman) became the leading style of Waka, and the number of Waka composed in the Imperial Court decreased compared with that of the Nara era.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Zotoka (poems exchanged between a man and a woman) became the leading style of Waka, and the number of Waka composed in the Imperial Court decreased compared with that of the Nara period.</e>
+<cmt>era →period</cmt>
+</sen>
+<sen id="68">
+<j>しかし、平安時代中期になって、唐の衰退やそれに伴う遣唐使の廃止により中国の文化的影響力は減少し、国風文化の時代となった。</j>
+<e type="trans" ver="1">However, in the middle of the Heian era, the decline of Tang and abolish of Kentoshi (embassy to Tang dynasty) lessened the influence of Chinese culture, and Kokufu bunka was developed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, in the middle of the Heian era the decline of Tang and abolishment of Kentoshi (the embassy to the Tang dynasty) lessened the influence of Chinese culture, and Kokufu bunka was developed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, in the middle of the Heian period the decline of Tang and abolishment of Kentoshi (the embassy to the Tang dynasty) lessened the influence of Chinese culture, and Kokufu bunka was developed.</e>
+<cmt>era →period</cmt>
+</sen>
+<sen id="69">
+<j>その過程で、仮名文字の発達とあいまって和歌は次第に公的な文化として復権し、歌合も行われるようになった。</j>
+<e type="trans" ver="1">In its process, Waka gradually regained its position as an official culture along with the development of Kana characters (the Japanese syllabaries), and Uta awase (poetry match) came to be held.</e>
+<cmt>仮名文字の訳語は「和大」より</cmt>
+<e type="trans" ver="2">In its process, Waka gradually regained its position as an official culture along with the development of Kana characters (the Japanese syllabaries), and Uta awase (poetry match) came to be held.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In its process, Waka gradually regained its position as an official culture along with the development of Kana characters (the Japanese syllabaries), and Uta awase (poetry match) came to be held.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="70">
+<j>『新撰万葉集』には漢詩（からうた）と和歌（やまとうた）が並べて書かれ、和歌が公的な文学としての地位を回復してゆく姿が見られる。</j>
+<e type="trans" ver="1">In the book of &quot;Shinsen Manyoshu (newly selected Manyoshu),&quot; Japanese poems were put beside the Chinese poems, which suggested that the Japanese poetry was regaining its status as an official literature.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the book of &quot;Shinsen Manyoshu (Newly Selected Manyoshu),&quot; Japanese poems were put beside the Chinese poems, which suggested that the Japanese poetry was regaining its status as an official literature.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">In the book of &quot;Shinsen Manyoshu (Newly Selected Manyoshu),&quot; Japanese poems were put beside the Chinese poems, which suggested that the Japanese poetry was regaining its status as an official literature.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="71">
+<j>こうした中で最初の勅撰和歌集『古今和歌集』が撰進された。</j>
+<e type="trans" ver="1">Under such circumstance, &quot;Kokin wakashu (Collection from Ancient and Modern Times),&quot; the first anthology of Japanese poetry compiled by Imperial command, was made and offered to the emperor.</e>
+<cmt>撰進する相手は天皇、と解釈して訳文に言葉を補いました。</cmt>
+<e type="trans" ver="2">Under such circumstances, &quot;Kokin wakashu (Collection from Ancient and Modern Times),&quot; the first anthology of Japanese poetry compiled by Imperial command, was made and offered to the emperor.</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">Under such circumstances, &quot;Kokin wakashu (Collection from Ancient and Modern Times),&quot; the first anthology of Japanese poetry compiled by Imperial command, was made and offered to the emperor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="72">
+<j>この頃から、和歌というと短歌形式のものをさすようになった。</j>
+<e type="trans" ver="1">Since then, Waka became a synonym for Tanka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Subsequently, Waka became a synonym for Tanka.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Subsequently, Waka became a synonym for Tanka.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="12">
+<tit>
+<j>三代集</j>
+<e type="trans" ver="1">Sandai shu (three major collections)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sandai shu (three major collections)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Sandai shu (three major collections)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="73">
+<j>延喜5年（905年）醍醐天皇の勅命によって、紀貫之・紀友則・凡河内躬恒・壬生忠岑の4人によって編纂されたのが『古今和歌集』である。</j>
+<e type="trans" ver="1">&quot;Kokin wakashu&quot; was compiled by Imperial command of Daigo emperor in 905, and compilers were KI no Tsurayuki, KI no Tomonori, OSHIKOCHI no Mitsune, and MIBU no Tadamine.</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=%E5%87%A1%E6%B2%B3%E5%86%85%E8%BA%AC%E6%81%92&amp;stype=1&amp;dtype=0http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=%E5%A3%AC%E7%94%9F%E5%BF%A0%E5%B2%91&amp;stype=1&amp;dtype=0</cmt>
+<e type="trans" ver="2">&quot;Kokin wakashu&quot; was compiled by Imperial command of Emperor Daigo in 905; the compilers were KI no Tsurayuki, KI no Tomonori, OSHIKOCHI no Mitsune and MIBU no Tadamine.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">&quot;Kokin wakashu&quot; was compiled by Imperial command of Emperor Daigo in 905; the compilers were KI no Tsurayuki, KI no Tomonori, OSHIKOCHI no Mitsune and MIBU no Tadamine.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="74">
+<j>『万葉集』以後の歌約1000首を20巻に収めている。</j>
+<e type="trans" ver="1">It contains about 1000 poems in 20 volumes and they were composed after &quot;Manyoshu.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">It contains about 1000 poems in 20 volumes, which they were composed after &quot;Manyoshu.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It contains about 1000 poems in 20 volumes, which were composed after &quot;Manyoshu.&quot;</e>
+<cmt>were削除</cmt>
+</sen>
+<sen id="75">
+<j>理知的・観念的な歌風が特色である。</j>
+<e type="trans" ver="1">Intellectual and ideal styles of poetry are characteristic of this collection.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Intellectual and ideal styles of poetry are characteristic of this collection.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Intellectual and ideal styles of poetry are characteristic of this collection.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="76">
+<j>それから半世紀のちの村上天皇の頃に和歌所が置かれ、当時すでに読みにくくなっていた『万葉集』の訓読と『後撰和歌集』の撰進が梨壺の五人によって行われた。</j>
+<e type="trans" ver="1">50 years later, in the reign of Murakami emperor, Wakadokoro (Bureau of Poetry) was established and &quot;Manyoshu,&quot; which had been already hard to be read, and Nashitsubo no Gonin (five men of the Pear Chamber) read the Chinese characters in &quot;Manyoshu&quot; in the Japanese pronunciation, and compiled and dedicated &quot;Gosen wakashu (Later Collection of Japanese Poetry)&quot; to the emperor.</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=%E5%92%8C%E6%AD%8C%E6%89%80&amp;stype=1&amp;dtype=0http://www.pref.ishikawa.jp/kyoiku/bunkazai/e-syoseki/e-9.htm</cmt>
+<e type="trans" ver="2">Fifty years later, in the reign of Murakami emperor, Wakadokoro (Bureau of Poetry) was established and &quot;Manyoshu&quot; (which was already difficult to read,&quot; and &quot;Nashitsubo no Gonin (Five Men of the Pear Chamber)&quot; read the Chinese characters in &quot;Manyoshu&quot; in the Japanese pronunciation, and compiled and dedicated &quot;Gosen wakashu (Later Collection of Japanese Poetry)&quot; to the Emperor.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Fifty years later, in the reign of Emperor Murakami, Wakadokoro (Bureau of Poetry) was established, where Nashitsubo no Gonin (Five Men of the Pear Chamber) read the Chinese characters in &quot;Manyoshu,&quot; which was already difficult to read at that time, in the Japanese pronunciation, and compiled and dedicated &quot;Gosen wakashu (Later Collection of Japanese Poetry)&quot; to the Emperor.</e>
+<cmt>文法修正</cmt>
+</sen>
+<sen id="77">
+<j>貴族の贈答歌が中心で、物語化の傾向がある。</j>
+<e type="trans" ver="1">Most of the poems are Zotoka written by court nobles, and it has a tendency of narrative poems.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Most of the poems are Zotoka written by court nobles, and there is a tendency toward narrative poems.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Most of the poems are Zotoka written by court nobles, and there is a tendency toward narrative poems.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="78">
+<j>さらに半世紀後の一条天皇の頃に、『拾遺和歌集』が撰進された。</j>
+<e type="trans" ver="1">More 50 years later, around the reign of Ichijo Emperor, &quot;Shui wakashu (Collection of Gleanings)&quot; was compiled and dedicated to the emperor.</e>
+<cmt>拾遺和歌集の訳語「和大」より</cmt>
+<e type="trans" ver="2">More 50 years later, around the reign of Emperor Ichijo, &quot;Shui wakashu (Collection of Gleanings)&quot; was compiled and dedicated to the emperor.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">More 50 years later, around the reign of Emperor Ichijo, &quot;Shui wakashu (Collection of Gleanings)&quot; was compiled and dedicated to the emperor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="79">
+<j>典雅で格調正しい『古今和歌集』の伝統を受け継ぐものになっている。</j>
+<e type="trans" ver="1">It followed a tradition of &quot;Kokin wakashu,&quot; which had elegant and refined styles.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It followed a tradition of &quot;Kokin wakashu,&quot; which had elegant, refined styles.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It followed a tradition of &quot;Kokin wakashu,&quot; which had elegant, refined styles.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="13">
+<tit>
+<j>八代集</j>
+<e type="trans" ver="1">Hachidai shu (the first eight collections of Waka compiled by imperial command)</e>
+<cmt>「和大」より</cmt>
+<e type="trans" ver="2">Hachidai shu (the first eight collections of Waka compiled by imperial command)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hachidai shu (the first eight collections of Waka compiled by imperial command)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="80">
+<j>平安時代後期には摂関政治が衰退し始め、貴族文化に変化が訪れた。</j>
+<e type="trans" ver="1">In the late Heian era, Sekkan (regent and chief councillor) government began to decline, and a change was brought about in the aristocratic culture.</e>
+<cmt>摂関政治の訳語はブリタニカオンライン百科より</cmt>
+<e type="trans" ver="2">During the late Heian era, Sekkan (regent and chief councilor) government began to decline, and a change was brought about in the aristocratic culture.</e>
+<cmt>usage, spell</cmt>
+<e type="check" ver="1">During the late Heian period, the Sekkan (regent and chief councilor) government began to decline, and a change occurred in the aristocratic culture.</e>
+<cmt>era →period</cmt>
+</sen>
+<sen id="81">
+<j>そのころ撰進されたのが『後拾遺和歌集』である。</j>
+<e type="trans" ver="1">&quot;Go shui wakashu (Later Collection of Gleanings)&quot; was compiled and dedicated to the emperor around this time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Go shui wakashu (Later Collection of Gleanings)&quot; was compiled around this time and was dedicated to the Emperor.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">&quot;Go shui wakashu (Later Collection of Gleanings)&quot; was compiled around this time and was dedicated to the Emperor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="82">
+<j>保守的な『後拾遺和歌集』に対し、次の『金葉和歌集』は清新な叙景歌が中心で革新的なものであったが、続く『詞花和歌集』は再び保守的なものになっている。</j>
+<e type="trans" ver="1">Compared with the conservative &quot;Go shui wakashu,&quot; the following &quot;Kinyo wakashu (A Collection of Golden Leaves)&quot; was innovative and focusing on fresh descriptive poems, but the next &quot;Shika wakashu (A Collection of Verbal Flowers of Japanese Poetry)&quot; became conservative style again.</e>
+<cmt>http://www.jlit.net/literary_history/concise_premodern_timeline.html</cmt>
+<e type="trans" ver="2">Compared with the conservative &quot;Go shui wakashu,&quot; the following &quot;Kinyo wakashu (A Collection of Golden Leaves)&quot; was innovative and focused on fresh descriptive poems; however, the subsequent &quot;Shika wakashu (A Collection of Verbal Flowers of Japanese Poetry)&quot; marked a return to the conservative style.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Compared with the conservative &quot;Go shui wakashu,&quot; the following &quot;Kinyo wakashu (A Collection of Golden Leaves)&quot; was innovative and focused on fresh descriptive poems; however, the subsequent &quot;Shika wakashu (A Collection of Verbal Flowers of Japanese Poetry)&quot; marked a return to the conservative style.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="83">
+<j>源平の争乱の後、後白河院の命で藤原俊成が『千載和歌集』を撰進した。</j>
+<e type="trans" ver="1">After the Gempei War (final struggle between the TAIRA and MINAMOTO clans), Goshirakawain ex-emperor ordered FUJIWARA no Toshinari to compile &quot;Senzai wakashu (Collection of a Thousand Years).&quot;</e>
+<cmt>「源平の争乱」、「千載和歌集」訳語出典ブリタニカオンライン百科より「藤原俊成」出典http://spysee.jp/藤原俊成</cmt>
+<e type="trans" ver="2">After the Gempei War (the final struggle between the TAIRA and MINAMOTO clans), the ex-Emperor Goshirakawain ordered FUJIWARA no Toshinari to compile &quot;Senzai wakashu (Collection of a Thousand Years).&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After the Genpei War (the final struggle between the Taira and Genji (Minamoto) clans), the Retired Emperor Go-Shirakawain ordered FUJIWARA no Toshinari to compile &quot;Senzai wakashu (Collection of a Thousand Years).&quot;</e>
+<cmt>clan名小文字に　Genji (Minamoto) clanとしました。 Retired Emperor Go-Shirakawain としました。</cmt>
+</sen>
+<sen id="84">
+<j>貴族社会の崩壊、武士の台頭という混乱の中で芸術至上的な傾向を示し、平安時代末期の和歌を一つの高みに導いた。</j>
+<e type="trans" ver="1">It shows a tendency toward the principle of art for art&apos;s sake in the destruction of the aristocratic society and rise of Samurai warriors, elevating the status of Waka in the late Heian era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It shows a tendency toward the principle of art for art&apos;s sake in the destruction of the aristocratic society and the rise of Samurai warriors, elevating the status of Waka in the late Heian era.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It shows a tendency toward the principle of art for art&apos;s sake in the destruction of the aristocracy and the rise of samurai warriors, elevating the status of waka in the late Heian period.</e>
+<cmt>era →period</cmt>
+</sen>
+<sen id="85">
+<j>俊成の弟子が撰進したのが次に述べる『新古今和歌集』である。</j>
+<e type="trans" ver="1">The following &quot;Shin kokin wakashu (New Collection of Ancient and Modern Japanese Poetry)&quot; was compiled and dedicated to the emperor by Toshinari&apos;s disciple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following &quot;Shin kokin wakashu (New Collection of Ancient and Modern Japanese Poetry)&quot; was compiled and dedicated to the emperor by Toshinari&apos;s disciple.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The following &quot;Shin kokin wakashu (New Collection of Ancient and Modern Japanese Poetry)&quot; was compiled and dedicated to the emperor by Toshinari&apos;s disciple.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="14">
+<tit>
+<j>中世</j>
+<e type="trans" ver="1">The middle ages</e>
+<cmt></cmt>
+<e type="trans" ver="2">The middle ages</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The middle ages</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="86">
+<j>鎌倉時代に入ると、政権を奪われた貴族たちは伝統文化を心のより所にしたため、和歌は盛んに詠まれた。</j>
+<e type="trans" ver="1">In the Kamakura era, court nobles who were taken power came to depend on traditional culture, so they composed Waka energetically.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Kamakura era, court nobles who were taken to power came to depend on traditional culture, so they composed Waka energetically.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the Kamakura period, court nobles who had been deprived of their power came to depend on the traditional culture, so they composed waka energetically.</e>
+<cmt>一部修正</cmt>
+</sen>
+<sen id="87">
+<j>鎌倉への対抗意識もあって和歌に非常な熱意を示した後鳥羽院の命で撰進されたのが『新古今和歌集』である。</j>
+<e type="trans" ver="1">Baring feelings of rivalry toward Kamakura, Gotobain ex-emperor, who showed much enthusiasm for Waka, ordered compilation of &quot;Shin kokin wakashu.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bearing feelings of rivalry toward Kamakura, Gotobain ex-emperor-- who showed much enthusiasm for Waka--ordered the compilation of &quot;Shin kokin wakashu.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Bearing feelings of rivalry toward Kamakura, the Retired Emperor Go-Tobain who showed much enthusiasm for Waka ordered the compilation of &quot;Shin kokin wakashu.&quot;</e>
+<cmt>Retired Emperor Go-Tobainとしました。</cmt>
+</sen>
+<sen id="88">
+<j>現実の体験ではなく、頭の中で作り上げた世界を詠んだものがほとんどを占める。</j>
+<e type="trans" ver="1">Most of the poems were not based on real experiences, but a fictional world.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Most of the poems were not based on real experiences but on a fictional world.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Most of the poems were not based on real experiences but on a fictional world.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="89">
+<j>千載和歌集でみられた芸術至上主義がさらに進み、技巧は極致に達した。</j>
+<e type="trans" ver="1">The principle of art for art&apos;s sake seen in &quot;Senzai wakashu&quot; was refined more, and poetic devices reached its culmination.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The principle of art for art&apos;s sake, as seen in &quot;Senzai wakashu,&quot; was further refined, and poetic devices reached their culmination.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The principle of art for art&apos;s sake, as seen in Senzai wakashu, was further refined, and poetic devices reached their culmination.</e>
+<cmt>削除</cmt>
+</sen>
+<sen id="90">
+<j>その一方で自然への愛や人生観を詠んだ西行、万葉調の源実朝も尊ばれた。</j>
+<e type="trans" ver="1">On the other hand, the following two people were respected: Saigyo, who made poems on love toward nature and his view of life, and MINAMOTO no Sanetomo, who composed poems in the Manyo style.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the other hand, the following two people were respected: Saigyo, who made poems on love toward nature and his view of life, and MINAMOTO no Sanetomo, who composed poems in the Manyo style.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On the other hand, the following two people were respected: Saigyo, who made poems on love toward nature and his view of life, and MINAMOTO no Sanetomo, who composed poems in the Manyo style.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="91">
+<j>『新古今和歌集』編纂の中心人物だった藤原定家の死後は、その子の為家が歌壇の指導者だったが、為家が亡くなると、家系も歌壇も二条派・京極派・冷泉派の三派に分かれた。</j>
+<e type="trans" ver="1">After the death of FUJIWARA no Sadaie, who was a central figure of compiling &quot;Shin kokin wakashu,&quot; his son Tameie became a mentor of the Tanka composers&apos; society, but after Tameie passed away, both the FUJIWARA Family and the Tanka composers&apos; society were divided into three Schools: NIJO School, KYOGOKU School, and REIZEI School.</e>
+<cmt>http://spysee.jp/藤原定家</cmt>
+<e type="trans" ver="2">After the death of FUJIWARA no Sadaie, who had been a central figure in the compilation of &quot;Shin kokin wakashu,&quot; his son Tameie became a mentor of the Tanka Composers&apos; Society, but after Tameie passed away, both the FUJIWARA Family and the Tanka Composers&apos; Society were divided into three schools: the NIJO, KYOGOKU and REIZEI.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After the death of FUJIWARA no Sadaie, who had been a central figure in the compilation of &quot;Shin kokin wakashu,&quot; his son Tameie became a mentor of the Tanka Composers&apos; Society, but after Tameie passed away, both the Fujiwara family and the Tanka Composers&apos; Society were divided into three schools: the NIJO, KYOGOKU and REIZEI.</e>
+<cmt>Fujiwara familyとしました。</cmt>
+</sen>
+<sen id="92">
+<j>三派は主導権をめぐって争い、うち二条派と京極派は次々と勅撰集を編纂した。</j>
+<e type="trans" ver="1">The three Schools struggled for the leadership, and both NIJO School and KYOGOKU School compiled collections of poems one after another by imperial command.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The three schools struggled to attain leadership, and both the NIJO and KYOGOKU schools compiled collections of poems one after another by imperial command.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The three schools struggled to attain leadership, and both the NIJO and KYOGOKU schools compiled collections of poems one after another by imperial command.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="93">
+<j>南北朝時代 (日本)ごろから、和歌は僧侶や武士を中心に詠まれるようになるが、地方武士にも普及する一方で、形式主義に流れた和歌は衰退していった。</j>
+<e type="trans" ver="1">Since around the Nanbokucho era, Waka came to be composed by mainly monks and Samurai, while composition of Waka spreaded to local Samurai, and some of the Waka which lapsed into formalism declined.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since around the Nanbokucho era, Waka came to be composed mainly by monks and samurai, while the composition of Waka spread to local samurai, and some of the Waka which lapsed into formalism declined.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Since around the period of the Northern and Southern Courts (Japan), waka came to be composed mainly by monks and samurai, while the composition of waka spread to local samurai, and some of the waka that lapsed into formalism declined.</e>
+<cmt>南北朝時代を　the period of the Northern and Southern Courts (Japan)　としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="15">
+<tit>
+<j>近世</j>
+<e type="trans" ver="1">Early modern times</e>
+<cmt></cmt>
+<e type="trans" ver="2">Early modern times</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Early modern times</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="94">
+<j>近世初期には伝統的な歌学が集大成され、多くの歌人が生まれたが、既に「歌道」として完成された芸術になっていたため新しい歌風は生まれなかった。</j>
+<e type="trans" ver="1">In the early modern times, traditional studies of Waka were compiled into a book, and lots of Kajin poets appeared, but Waka had already been perfected as &apos;Kado&apos; and new style didn&apos;t arise.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the early modern times, traditional studies of Waka were compiled into a book, and lots of Kajin poets appeared, but Waka had already been perfected as &quot;Kado,&quot; so a new style didn&apos;t emerge.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the early modern times, traditional studies of waka were compiled into a book, and many kajin poets appeared, but waka had already been perfected as &apos;kado,&apos; so a new style did not emerge.</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="95">
+<j>誕生まもない俳諧に比べて、上代からの伝統的日本文化である和歌の革新は抑制された。</j>
+<e type="trans" ver="1">Compared with Haikai which had been just generated, Waka was a traditional Japanese culture which had been continuing since Jodai therefore its innovation was suppressed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Compared with haikai, which had been just generated, waka was a traditional Japanese culture that had continued since Jodai; therefore, its degree of innovation was suppressed.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Compared with haikai, which had been just generated, waka was traditional Japanese culture that had continued since Jodai (ancient times); therefore, its degree of innovation was suppressed.</e>
+<cmt>上代の説明に ancient times　としました。&quot;a traditional Japanese cuture&quot; -&gt; &quot;traditional Japanese culture&quot; に変更しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="96">
+<j>近世後期になると京都から新しい和歌の動きが起こり、堂上の二条派から派生した地下人の桂園派が登場した。</j>
+<e type="trans" ver="1">At the end of the early modern times, a new movement of Waka arose in Kyoto, and Keien School of Jigenin (court official who isn&apos;t Tenjobito) derived from NIJO School of Dojo appeared.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the end of the early modern times, a new movement of waka arose in Kyoto, and there appeared the Keien school of jigenin (a court official who isn&apos;t Tenjobito) derived from the NIJO school of dojo.</e>
+<cmt>art</cmt>
+<e type="check" ver="1">At the end of the early modern times, a new movement of waka arose in Kyoto, and there appeared the Keien school of jigenin (a court official who has not obtained the imperial ordinance of promotion) derived from the NIJO school of dojo (a family who is allowed to be promoted to court noble).</e>
+<cmt>地下人の説明として　(a court official who has not obtained the imperial ordinance of promotion)　堂上の説明として　(a family who is allowed to be promoted to court noble)としました。</cmt>
+</sen>
+<sen id="97">
+<j>桂園派は明治時代初期まで歌壇に重きをなした。</j>
+<e type="trans" ver="1">Keien School had been a leading School in the Tanka composers&apos; society until the early Meiji era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keien School had been a leading school in the Tanka composers&apos; society until the early Meiji era.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The Keien school had been a leading school in the Tanka Composers&apos; Society until the early Meiji period.</e>
+<cmt>era →period</cmt>
+</sen>
+</par>
+</sec>
+<sec id="16">
+<tit>
+<j>近代</j>
+<e type="trans" ver="1">Modern times</e>
+<cmt></cmt>
+<e type="trans" ver="2">Modern times</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Modern times</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="98">
+<j>明治時代初期の歌壇は、御歌所派や桂園派などの江戸期からの伝統的な文化人たちが担ってきたが、和歌改革を志す人々（正岡子規や与謝野鉄幹ら）によって題詠による作歌・風雅な趣向が批判され、新時代に相応しい新しい和歌が生まれた。</j>
+<e type="trans" ver="1">In the beginning of the Meiji era, highly educated people played important roles in the Tanka composers&apos; society represented by Outadokoro School and Keien School, but people who intended Waka reform (Shiki MASAOKA, Tekkan YOSANO, and so on) criticized both style and elegant poetic devices of Daiei (poetry composed on a given theme), and new style of Waka which was suitable for the new era emerged.</e>
+<cmt>題詠の訳語は「ル和」より</cmt>
+<e type="trans" ver="2">In the beginning of the Meiji era, highly educated people played important roles in the Tanka Composers&apos; Society represented by the Outadokoro School and Keien School, but people who intended Waka reform (Shiki MASAOKA, Tekkan YOSANO, and so on) criticized both style and elegant poetic devices of Daiei (poetry composed on a given theme), and thus there emerged a new style of Waka was suitable for the new era.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Highly educated people of the early Meiji period played important roles in the Tanka Composers&apos; Society, as represented by the Outadokoro School and Keien School, but people who intended waka reform (Shiki MASAOKA, Tekkan YOSANO, and so on) criticized both the style and elegant poetic devices of daiei (poetry composed on a given theme), and thus there emerged a new style of waka suitable for the new era.</e>
+<cmt>era →period</cmt>
+</sen>
+<sen id="99">
+<j>しかし、伝統的な和歌と区別するために、やがてこれらの新しい歌は「短歌」と呼称するのが普通となった（短歌の項も参照のこと）。</j>
+<e type="trans" ver="1">However, in order to discern the new Waka from the traditional one, these new poems came to be commonly called &apos;Tanka.&apos; (see also Tanka)</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, in order to discern the new Waka from the traditional one, these new poems came to be commonly called &quot;Tanka&quot; (see also &quot;Tanka&quot;).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">However, in order to discern the new Waka from the traditional one, these new poems came to be commonly called &apos;Tanka&apos; (see also Tanka).</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+</sec>
+<sec id="17">
+<tit>
+<j>歌人</j>
+<e type="trans" ver="1">Kajin poet</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kajin poet</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kajin poet</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="100">
+<j>和歌をよむ人を歌人という。</j>
+<e type="trans" ver="1">People who compose Waka are called Kajin poet.</e>
+<cmt></cmt>
+<e type="trans" ver="2">People who compose waka are called kajin poets.</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">People who compose waka are called kajin poets.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="101">
+<j>うたびと、うたびと、とも。</j>
+<e type="trans" ver="1">They are also called Utabito.</e>
+<cmt>原文、「うたびと」重複？</cmt>
+<e type="trans" ver="2">They are also called Utabito.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They are also called Utabito.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="102">
+<j>歌人一覧を併せて参照の事。</j>
+<e type="trans" ver="1">See also the list of Kajin poet.</e>
+<cmt></cmt>
+<e type="trans" ver="2">See also the list of kajin poets.</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">See also the list of kajin poets.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="103">
+<j>歌聖（かせい）は和歌の名手に対する尊称。</j>
+<e type="trans" ver="1">Kasei (great poet) is an honorific title given to a master of Waka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kasei (great poet) is an honorific title given to a master of Waka.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kasei (great poet) is an honorific title given to a master of Waka.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="104">
+<j>単なる敬意を示すのみではなく、歌道において神としてあがめられる歌人を指しており、具体的には柿本人麻呂と山部赤人をいう。</j>
+<e type="trans" ver="1">It doesn&apos;t only show respect to the Kajin poet, but indicates those who are treated as gods in Kado, for example, KAKINOMOTO no Hitomaro and YAMABE no Aakahio.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It not only shows respect to the Kajin poet but also indicates those who are treated as gods in Kado, for example, KAKINOMOTO no Hitomaro and YAMABE no Aakahio.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It not only shows respect to the Kajin poet but also indicates those who are treated as gods in Kado, such as KAKINOMOTO no Hitomaro and YAMABE no Akahito.</e>
+<cmt>Akahitoとしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="18">
+<tit>
+<j>歌集</j>
+<e type="trans" ver="1">Collection of poems</e>
+<cmt></cmt>
+<e type="trans" ver="2">Collection of poems</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Collection of poems</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="105">
+<j>和歌を集めて本にしたものを歌集という。</j>
+<e type="trans" ver="1">Kashu is a book in which Waka are collected.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kashu is a book in which Waka are collected.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kashu is a book in which Waka are collected.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="106">
+<j>勅撰和歌集（勅撰集）</j>
+<e type="trans" ver="1">Chokusen wakashu (Chokusen shu)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chokusen wakashu (Chokusen shu)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chokusen wakashu (Chokusen shu)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="107">
+<j>勅命・院宣を奉じて編纂した歌集。</j>
+<e type="trans" ver="1">It is a collection compiled by the imperial order.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The collection was compiled by imperial order.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The collection was compiled by imperial order.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="108">
+<j>私撰和歌集（私撰集）</j>
+<e type="trans" ver="1">Shisen wakashu (personal collection of poetry), or Shisen shu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shisen wakashu (personal collection of poetry), or Shisen shu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shisen wakashu (personal collection of poetry), or Shisen shu</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="109">
+<j>個人、民間が撰定した歌集。</j>
+<e type="trans" ver="1">Collection of poems compiled by individual or nongovernmental circles.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A collection of poems compiled by individuals or nongovernmental circles</e>
+<cmt>art</cmt>
+<e type="check" ver="1">A collection of poems compiled by individuals or nongovernmental circles</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="110">
+<j>中でも藤原定家による小倉百人一首は大変よく親しまれており、日本人の和歌に対する見方に大きな影響を与えている。</j>
+<e type="trans" ver="1">Above all, Ogura Hyakunin isshu (one hundred Waka poems) compiled by FUJIWARA no Sadaie is familiar to everybody, and has a great influence on the view of appreciating Waka by Japanese people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Above all, Ogura Hyakunin isshu (One Hundred Waka Poems),&quot; compiled by FUJIWARA no Sadaie/ is familiar to everybody, and IT has a great influence on the view of appreciating Waka by Japanese people.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Above all, Ogura Hyakunin isshu (One Hundred Poems by One Hundred Poets), compiled by FUJIWARA no Sadaie, is familiar to everyone, and it has had great influence on the Japanese people&apos;s appreciation of waka.</e>
+<cmt>不要な文字など削除　(One Hundred Poems by One Hundred Poets)としました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="111">
+<j>私家集</j>
+<e type="trans" ver="1">Shikashu (personal collection)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shikashu (personal collection)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shikashu (personal collection)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="112">
+<j>個人の歌を集めた歌集。</j>
+<e type="trans" ver="1">A collection of poems written by a single author.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A collection of poems written by a single author.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A collection of poems written by a single author.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="19">
+<tit>
+<j>和歌の西洋音楽による解釈</j>
+<e type="trans" ver="1">Interpretation of Waka through Western music</e>
+<cmt></cmt>
+<e type="trans" ver="2">Interpretation of Waka through Western music</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Interpretation of Waka through Western music</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="113">
+<j>和歌は、節（ふし）を付けて詠うものとして始まったため、節にのっていれば文字数（音節数・モーラ数）の規定はややゆるい。</j>
+<e type="trans" ver="1">Because Waka began as a song sung to a tune, the number of letters (the number of syllable or mora) are not strictly confined if it is read in a singsong tone.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because waka began as accompaniment to a tune, the number of letters (the number of syllables, or mora) is not strictly confined if it is read in a singsong manner.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Because waka began as accompaniment to a tune, the number of letters (the number of syllables, or mora) is not strictly confined if it is read in a singsong manner.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="114">
+<j>すなわち、節にのっていれば、五音・七音以外の音節数であっても実質的には「字余り・字足らず」ではない。</j>
+<e type="trans" ver="1">Therefore, as long as it is read in a singsong tone, the poem doesn&apos;t essentially seem to have &apos;extra syllables or insufficient syllables&apos; even if it doesn&apos;t consist of 5 and 7 syllables.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, as long as it is read in a singsong tone, the poem doesn&apos;t essentially seem to have &quot;extra syllables or insufficient syllables,&quot; even if it doesn&apos;t consist of five and seven syllables.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Therefore, as long as it is read in a singsong manner the poem doesn&apos;t essentially seem to have &apos;extra syllables or insufficient syllables,&apos; even if it doesn&apos;t consist of lines with five and seven syllables.</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="115">
+<j>「字余り・字足らず」という考え方は、詠うことよりも、書き留めた際の定型詩としての美意識から生まれた言葉である。</j>
+<e type="trans" ver="1">The idea that &apos;extra or insufficient syllables&apos; arose from a sense of beauty for a fixed form of verse to write down rather than to recite.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The idea that &quot;extra or insufficient syllables&quot; arose from a sense of beauty for a fixed form of verse to write down rather than to recite.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The idea of &apos;extra or insufficient syllables&apos; arose from a sense of beauty for a fixed form of verse to write down instead of reciting it.</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="116">
+<j>西洋音楽による解釈では、和歌はテンポの遅い四分の四拍子で、2小節で1セットのリズムを作っている。</j>
+<e type="trans" ver="1">In explanation of Western music, Waka has slow quadruple time making its rhythm by a set of 2 bars.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the context of Western music, waka has a slow quadruple time that establishes its rhythm in sets of two bars.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">In the context of Western music, waka has a slow quadruple time that establishes its rhythm in sets of two bars.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="117">
+<j>五音は1リズム（2小節）に5つの四分音符と3つの四分休符、七音は1リズムに7つの四分音符と1つの四分休符を基本形としているが、四分音符・休符の総数が1リズム（2小節）内に8つであればよい（九音の場合、音節数が9なら三連符が一部入る）。</j>
+<e type="trans" ver="1">5 syllables consists of 5 crotchets and 3 crotchet rests in 1 rhythm (2 bars), and 7 syllables consists of 7 crotchets and 1 crotchet rest in 1 rhythm, but if the total number of crotchet and crotchet rest is 8 in 1 rhythm (2 bars), then it&apos;s fine. (9 syllables includes triplet partly.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Five syllables consists of five crotchets and three crotchet rests in one rhythm (two bars), and seven syllables consists of seven crotchets and onecrotchet rest in one rhythm, but if the total number of crotchet and crotchet rest is eight in one rhythm (two bars), then it&apos;s fine (nine syllables includes a triplet part).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Five syllables consists of five crotchets and three crotchet rests in one rhythm (two bars), while seven syllables consists of seven crotchets and one crotchet rest in one rhythm, but if the total number of crotchets and crotchet rests is eight in one rhythm (two bars), then it is acceptable (nine syllables includes a triplet part).</e>
+<cmt>スペース追加</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="118">
+<j>歌体は、これらのリズムの組み合わせや数に依存する。</j>
+<e type="trans" ver="1">A verse form depends on the combination and number of rhythm.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A verse form depends on the combination and number of the rhythm.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">A verse form depends on the combination and number of the rhythm.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="119">
+<j>例えば、短歌は2小節1セットのリズムが5つで出来ており、全小節数は10となる。</j>
+<e type="trans" ver="1">For example, Tanka is made up of 5 sets of 2 bars, and total number of bars is 10.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For example, Tanka is made up of five sets of two bars, and the total number of bars is ten.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">For example, a Tanka is made up of five sets of two bars, giving a total number of ten bars.</e>
+<cmt>total number of に冠詞を補って、全体的に修正。</cmt>
+</sen>
+<sen id="120">
+<j>「あきのたの かりほのいおの とまをあらみ わがころもでは つゆにぬれつつ」という短歌は、「五七六、七七」で字余りといわれるが、リズムごとに2小節ずつ区切ると、「あきのたが多用されたりする。</j>
+<e type="trans" ver="1">The Tanka that &apos;Temporary hermitage, with straw mat on the roof, in autumn rice field.My cloth would be getting wet with rain.&apos; is said to be divided into 2 parts of &apos;5, 7, 6 and 7, 7,&apos; having an extra syllable, but if the poem is divided by a set of 2 bars, &apos;Akinota (autumn rice field)&apos; is used more.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The tanka, &quot;temporary hermitage, with straw mat on the roof, in autumn rice field;my cloth would be getting wet with rain&quot; is said to be divided into two parts of &quot;five, seven, six and seven, seven,&quot; having an extra syllable, but if the poem is divided by a set of two bars, &quot;Akinota (autumn rice field)&quot; is preferred.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The Tanka, that &apos;temporary hermitage, with straw mat on the roof, in autumn rice field.My cloth would be getting wet with rain&quot; is said to be divided into two parts of &apos;five, seven, six and seven, seven,&apos; having an extra syllable, but if the poem is divided by a set of two bars, &apos;Akinota (autumn rice field)&apos; is used more.</e>
+<cmt>一部頭のアルファベットを大文字に修正しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="121">
+<j>短歌を和歌の詠み方（リズム）から脱して西洋音楽化させた例として「君が代」があるが、この場合は上記のような短歌のリズムから脱し、西洋音楽として美しく聴こえるよう音節を長短させている。</j>
+<e type="trans" ver="1">An example of applying Western style harmony to Tanka deserting the way of reciting Waka (rhythm) is &apos;Kimigayo (Japanese national anthem),&apos; and in this case, the rhythm of Tanka stated above was abandoned, and it is adjusted to the Western harmony.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An example of applying Western-style harmony to Tanka deserting the way of reciting Waka (rhythm) is &quot;Kimigayo (Japanese national anthem),&quot; and in this case the rhythm of Tanka stated above was abandoned, and it has been adjusted to the Western harmony.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">An example of applying Western-style harmony to tanka and deserting the manner of reciting waka (rhythm) is &apos;Kimigayo (the Japanese national anthem),&apos; and in this case the rhythm of tanka, as stated above, was abandoned in the adjustment to the Western system of harmony.</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="122">
+<j>一方、「荒城の月」は「七五、七五、…、七五」と繰り返される和歌であるが、和歌のリズムをあまり崩さずに西洋音楽に適合させた名曲である。</j>
+<e type="trans" ver="1">On the other hand, &apos;Kojo no tsuki (the moon over the deserted castle)&apos; is an excellent piece of music, which was applied to the Western style harmony without destroying the rhythm of Waka of 7 and 5 syllables.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the other hand, &quot;Kojo no tsuki (The Moon Over the Deserted Castle)&quot; is an excellent piece of music, which was applied to the Western style harmony without destroying the rhythm of Waka of seven and five syllables.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">On the other hand, &apos;Kojo no tsuki (The Moon Over the Deserted Castle)&apos; is an excellent piece of music that has been applied to Western-style harmony without destroying the waka rhythm of seven and five syllables.</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Nnh(id:474), アローマウス(id:178765), アイザール(id:133157), Ideal(id:236), 青田赤道(id:121858), Kliment.A.K.(id:161714), Mishika(id:276), Gombe(id:27), Opponent(id:720), らりた(id:1327), さららゆら(id:12274), A-Taul(id:41790), Hamilton(id:6033), TY(id:1386), 百楽天(id:5266), Yas(id:739), Ｋｓ(id:15319), かおる(id:8643), Emi1971(id:536), マコト＠桑折町民(id:51965), Kzhr(id:131), Romanm(id:963), もね～るmoner(id:28477), Izayohi(id:13095), Forestfarmer(id:59407), Balmung0731(id:99201), 松茸(id:27535), 愛国の歌人(id:173428), Aphaia(id:3132), Mkill(id:22697), Nazki rhetorica(id:12137), Shinkansen(id:13703), Zwobot(id:23873), 松平定治(id:146386), 氷村(id:188228), ウッでやんす高橋(id:11540), 物理屋のまさ(id:15513), U.S.S.Momotaro(id:646), のりまき(id:53470), 羊鶴(id:7557), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>西洞院通</j>
+<e type="trans" ver="1">Nishi-no-Toin-dori street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishi-no-Toin-dori street</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Nishinotoin-dori Street</e>
+<cmt>道の表記を修正</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>西洞院通（にしのとういんどおり）は京都市の南北の道路の一つ。</j>
+<e type="trans" ver="1">The Nishi-no-Toin-dori street is a north-south running street in Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Nishi-no-Toin-dori street is a street running north-south through Kyoto City.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">The Nishinotoin-dori Street is a street running north-south through Kyoto City.</e>
+<cmt>道の表記を修正</cmt>
+</sen>
+<sen id="2">
+<j>平安京の西洞院大路にあたる。</j>
+<e type="trans" ver="1">It corresponds to the Nishi-no-Toino-Oji / Nishi-no-Toin-Oji Street of Hiekankyo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It corresponds to Nishi-no-Toino-Oji / Nishi-no-Toin-Oji Street of Hiekankyo.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">It corresponds to Nishinotoin-oji / Nishinotoin-oji Street of Heiankyo.</e>
+<cmt>道の表記を修正スペルを修正</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>かつては塩小路通 - 四条通間を京都市電.E5.A0.80.E5.B7.9D.E7.B7.9Aが通っていたため、塩小路通 - 蛸薬師通間は2車線道路、蛸薬師以北は南行の一方通行となっている。</j>
+<e type="trans" ver="1">Kyoto shiden (Kyoto Municipal Steetcar) E5.A0.80.E5.B7.9D.E7.B7.9A ran along the section between the Shiokoji-dori Street and the Shijo-dori Street., and thereby the section between the Shiokoji-dori Street and Takoyakushi-dori Street is a 2-lane street; the section north of Takoyakushi is one-way traffic toward the north.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto shiden (Kyoto Municipal Steetcar) E5.A0.80.E5.B7.9D.E7.B7.9A ran along the section between Shiokoji-dori Street and Shijo-dori Street, and thereby the section between Shiokoji-dori Street and Takoyakushi-dori Street is a 2-lane street; the section north of Takoyakushi is comprised of one-way traffic headed south.</e>
+<cmt>Edited for flow/mistranslation</cmt>
+<e type="check" ver="1">Kyoto shiden (Kyoto Municipal Streetcar) E5.A0.80.E5.B7.9D.E7.B7.9A ran along the section between Shiokoji-dori Street and Shijo-dori Street, and thereby the section between Shiokoji-dori Street and Takoyakushi-dori Street is a 2-lane street; the section north of Takoyakushi is comprised of one-way traffic headed south.</e>
+<cmt>スペルを修正</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>平安京においては幅24m（8丈）の大路であった。</j>
+<e type="trans" ver="1">In Heiankyo, it was a 24-meter wide main street.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Heiankyo, it was a 24-meter wide main street.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In Heiankyo, it was a 24-meter wide main street.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>京都府庁敷地内での発掘調査により、沿道の建物が建て替えられるたびに道幅が狭められ、現在のような狭い道となった過程が明らかになった。</j>
+<e type="trans" ver="1">It has been made clear that the street became narrower and narrower to the current width every time buildings along the street were rebuilt as the result of excavation researches within the precinct of Kyoto Prefectural Head Office.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It has been made clear that the street became narrower and narrower each time buildings along the street were rebuilt, until it reached its current wideth, as a result of excavation researches within the precinct of Kyoto Prefectural Head Office.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">It has been made clear that the street became narrower and narrower each time buildings along the street were rebuilt, until it reached its current width, as a result of excavation researches within the precinct of Kyoto Prefectural Head Office.</e>
+<cmt>スペルを修正</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>沿道の主な施設</j>
+<e type="trans" ver="1">Main Streets along the Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Main Facilities along the Street</e>
+<cmt>Mistranslation</cmt>
+<e type="check" ver="1">Main facilities along the Street</e>
+<cmt>文頭のみ大文字に</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>五条天神社（西洞院松原通）</j>
+<e type="trans" ver="1">Gojoten Jinja Shrine (Nishi-no-Toin-Matsubara-dori Street)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gojoten Jinja Shrine (Nishi-no-Toin-Matsubara-dori Street)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gojoten Jinja Shrine (Nishinotoin-Matsubara-dori Street)</e>
+<cmt>道の表記を修正</cmt>
+</sen>
+<sen id="7">
+<j>目川重治（西洞院六条通下ル）</j>
+<e type="trans" ver="1">Shigeharu MEKAWA (Nishi-no-Toin Rokujo-dori Sagaru (to the south of Nishi-no-Toin Rokujo))</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shigeharu MEKAWA (Nishi-no-Toin Rokujo-dori Sagaru (to the south of Nishi-no-Toin Rokujo))</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shigeharu MEKAWA (Nishinotoin Rokujo-dori Sagaru (to the south of Nishinotoin Rokujo))</e>
+<cmt>道の表記を修正</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 MDR-SK(id:192066), Aoiya(id:44787), Korokoro(id:42329), Matsukaze(id:51778), COCKY(id:19672), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

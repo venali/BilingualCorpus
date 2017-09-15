@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>お花</j>
+<e type="trans" ver="1">Ohana (お花)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ohana</e>
+<cmt>(お花) を削除しました。</cmt>
+<e type="check" ver="1">Ohana</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>お花（おはな）とは、お祝いやお供えとして出される金品のこと。</j>
+<e type="trans" ver="1">Ohana means money and other valuables used for congratulatory gifts or for religious offerings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ohana refers to the money and other valuables used for congratulatory gifts or for religious offerings.</e>
+<cmt>means→refers to, the を挿入しました。</cmt>
+<e type="check" ver="1">Ohana refers to the money and other valuables used for congratulatory gifts or for religious offerings.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>御花代とも。</j>
+<e type="trans" ver="1">It is also called ohanadai (御花代).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also called ohanadai.</e>
+<cmt>(御花代）を削除しました。</cmt>
+<e type="check" ver="1">It is also called ohanadai.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>祭礼行事においては、祭礼運営のために氏子地域から出される、或いはお願いして分けてもらう。</j>
+<e type="trans" ver="1">In the case of festive events related to local guardian deities, ohanadai is offered by or collected from the parishioners of each deity to cover the operation cost of the event.</e>
+<cmt>「お願いして分けてもらう」の意味がいまひとつわかりにくく、offered（自主的）、collected from （強制のニュアンス）というように言い分けて見ましたが、自信ありません。</cmt>
+<e type="trans" ver="2">In the case of festive events related to local guardian deities, ohanadai is presented by the parishioners of each deity, or they are asked for a contribution to cover the operation cost of the event.</e>
+<cmt>文半ばを修正しました。（”分けてもらう”は寄付してもらうと理解し、修正しました）カンマを挿入しました。</cmt>
+<e type="check" ver="1">In the case of festive events related to local guardian deities, ohanadai is presented by the parishioners of each deity, or they are asked for a contribution to cover the operation cost of the event.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>地方や風習にもよるが、強制されたところもあったようだ。</j>
+<e type="trans" ver="1">In some regions, it seems ohanadai donation is made compulsory by their local customs.</e>
+<cmt>「された」という過去形は後列以降の内容をもとに現在形に解釈しました。</cmt>
+<e type="trans" ver="2">It depends on regions and customs, but it may have been compulsory in some places.</e>
+<cmt>文脈より修正しました。</cmt>
+<e type="check" ver="1">It depends on regions and customs, but it may have been compulsory in some places.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>祭りの規模の大きな地方では迷惑視されることも多い。</j>
+<e type="trans" ver="1">Ohanadai is often considered a nuisance in an area where the scale of festival is large.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Ohanadai is often considered as an annoyance in the regions where large scale festivals are held.</e>
+<cmt>a nuisance→as an annoyance,an area→the regions,the scale of festival is large→large scale festivals are held と修正しました。</cmt>
+<e type="check" ver="1">Ohanadai is often considered as an annoyance in the regions where large scale festivals are held.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>転勤先や赴任先がたまたまその地方の有名な祭礼の開催地であった場合は、有給休暇で祭礼の期間中、家族旅行に出かけた方が出費が安く済む、などといった笑えない実話まである。</j>
+<e type="trans" ver="1">There is a true story which is no laughing matter: when a person&apos;s new or transferred place of appointment is a locality which is known for a famous festival, the person will find it less costly to take paid holidays and make a family trip rather than staying at home during the festival period.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">There is a true story which is not a laughing matter: The case in which a person&apos;s place of employment or new relocation is known for a famous festival, the person will find it less costly to take paid holidays and make a family trip rather than staying at home during the festival period.</e>
+<cmt>no laughing matter→not a laughing matter,コロン以降から半ばを修正しました。</cmt>
+<e type="check" ver="1">There is a true story which is not a laughing matter: The case in which a person&apos;s place of employment or new relocation is known for a famous festival, the person will find it less costly to take paid holidays and make a family trip rather than staying at home during the festival period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>金額は地方によって相場が違う。</j>
+<e type="trans" ver="1">The going rate for the amount of money differs from region to region.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The amount of money generally considered, differs from region to region.</e>
+<cmt>The going rate for the amount of money の部分を修正しました。</cmt>
+<e type="check" ver="1">The amount of money generally considered, differs from region to region.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>また、商品券・ビール券などの金券や食事やお酒などを軒先でふるまう場合などもある。</j>
+<e type="trans" ver="1">In some cases ohanadai takes the form of gift voucher or beer coupon, or foods and drinks served in front of a house.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In some cases, ohanadai takes the form of tradable coupons, such as gift vouchers or beer coupons, or foods and drinks served in front of a house.</e>
+<cmt>”金券”の部分を補いないました。カンマを挿入しました。vouchers, coupons と修正しました。</cmt>
+<e type="check" ver="1">In some cases, ohanadai takes the form of tradable coupons, such as gift vouchers or beer coupons, or foods and drinks served in front of a house.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>これらは風習とその世帯ごとの判断による。</j>
+<e type="trans" ver="1">It all depends on local customs and each household&apos;s judgment.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It all depends on the local customs and each household&apos;s judgment.</e>
+<cmt>the を挿入しました。</cmt>
+<e type="check" ver="1">It all depends on the local customs and each household&apos;s judgment.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Rusk(id:9895), 水野白楓(id:22811), 依存性だんぢり中毒(id:79907), 弥(id:61590), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

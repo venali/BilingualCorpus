@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>御座楽</j>
+<e type="trans" ver="1">Uzagaku (aka Ozagaku)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uzagaku (aka Ozagaku)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Uzagaku (Ozagaku)</e>
+<cmt>aka削除</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>御座楽（うざがく、おざがく）とは、琉球王国の室内楽である。</j>
+<e type="trans" ver="1">Uzagaku (aka Ozagaku) is chamber music of the Ryukyu kingdom.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uzagaku (aka Ozagaku) is chamber music of the Ryukyu kingdom.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Uzagaku (Ozagaku) is chamber music of the Ryukyu kingdom.</e>
+<cmt>aka削除</cmt>
+</sen>
+<sen id="2">
+<j>冊封使歓待を目的として発展した明清系の音楽である。</j>
+<e type="trans" ver="1">Is a style of music with roots in Ming/Qing dynasty that was developed with the aim of fostering warm diplomatic relations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a style of music with roots in the Ming and Qing dynasties that was developed with the aim of fostering warm diplomatic relations.</e>
+<cmt>Added &quot;It&quot;</cmt>
+<e type="check" ver="1">It is a style of music with roots in the Ming and Qing dynasties that was developed with the aim of fostering warm diplomatic relations.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>その起源は16世紀頃まで遡るが、琉球王国の滅亡とともに伝承が絶え、幻の音楽となった。</j>
+<e type="trans" ver="1">The origins go back to around the 16th century, and it has a mythical status: handing down of the form having died out along with the Ryukyu kingdom.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The origins go back to around the 16th century, though it became a lost art when handing down of the form died out with the demise of the Ryukyu kingdom.</e>
+<cmt>&quot;and it has a mythical status:&quot;→&quot;though it became a lost art when&quot;Deleted &quot;having&quot;&quot;along with&quot;→&quot;with the demise of&quot;</cmt>
+<e type="check" ver="1">The origins go back to around the 16th century, though it became a lost art when handing down of the form died out with the demise of the Ryukyu kingdom.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>琉球王国では、中国(明や清)から冊封使が来たとき、あるいは徳川将軍に謝恩使や慶賀使を送る「江戸上り」のとき、中国系の音楽を演奏した。</j>
+<e type="trans" ver="1">Music with roots in China was performed in the Ryukyu kingdom when diplomatic missions arrived from China (Ming &amp; Qing) or whenever letters of thanks or congratulations were forwarded (&quot;Edo Bound&quot;) to Shogun Tokugawa.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Music with roots in China was performed in the Ryukyu kingdom when diplomatic missions arrived from China (Ming &amp; Qing) or whenever missions of gratitude and congratulations (Edo nobori) were sent to Shogun Tokugawa.</e>
+<cmt>&quot;letters of thanks or congratulations were forwarded (“Edo Bound”)&quot;→&quot;missions of gratitude and congratulations (Edo nobori) were sent&quot;Deleted space</cmt>
+<e type="check" ver="1">Music with roots in China was performed in the Ryukyu kingdom when diplomatic missions arrived from China (Ming &amp; Qing) or whenever missions of gratitude and congratulations (Edo nobori) were sent to Shogun Tokugawa.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>このうち、室内で座って合奏する音楽を「御座楽」と呼び、屋外で行列しつつ歩きながら合奏する音楽を「路次楽」(るじがく)と呼んだ。</j>
+<e type="trans" ver="1">During that time, music performed sitting down indoors was called &quot;Uzagaku&quot; (lit &quot;seated music&quot;). Music performed outdoors to accompany processions was called &quot;Rujigaku&quot; (lit &quot;route music&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">During that time, music performed sitting down indoors was called &quot;Uzagaku&quot; (lit &quot;seated music&quot;), while music performed outdoors to accompany processions was called &quot;Rujigaku&quot; (lit &quot;route music&quot;).</e>
+<cmt>full stop→&quot;, while&quot;</cmt>
+<e type="check" ver="1">During that time, music performed sitting down indoors was called &apos;Uzagaku&apos; (lit. seated music), while music performed outdoors to accompany processions was called &apos;Rujigaku&apos; (lit. route music).</e>
+<cmt>原文の「」に合わせ”を&apos;にlit→省略語のためlit.とする”削除</cmt>
+</sen>
+<sen id="6">
+<j>御座楽は荘重で優雅な雅楽であり、路次楽もチャルメラや太鼓などによる荘厳な鼓吹楽(こすいがく)であった。</j>
+<e type="trans" ver="1">Uzagaku was a solemn and refined form of Gagagu (traditional Japanese court music). Rujigaku utilized the charamela (a shawm-like double reed wind instrument) and taiko (large drum) etc for impressive and inspirational musical effect.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uzagaku was a solemn and refined form of Gagagu (traditional Japanese court music), whereas Rujigaku utilized instruments such as the charamela (a shawm-like double reed wind instrument) and taiko (large drum) for impressive and inspirational musical effect.</e>
+<cmt>full stop→&quot;, whereas&quot;&quot;etc&quot;→&quot;instruments such as&quot; and moved-Not sure &quot;shawm&quot; would be familiar to most English speakers, &quot;oboe&quot; might be better</cmt>
+<e type="check" ver="1">Uzagaku was a solemn and refined form of Gagagu (traditional Japanese court music), whereas Rujigaku utilized instruments such as the charamela (a shawm-like double reed wind instrument) and taiko (large drum) for impressive and inspirational musical effect.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>琉球王国には中国から帰化した人々の子孫が集住する地域があり、彼らは「久米三十六姓」と呼ばれた。</j>
+<e type="trans" ver="1">In the Ryukyu kingdom there were regions where the descendents of naturalized Chinese settled together and those individuals were referred to as &quot;36 Kume family names&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Ryukyu kingdom there were regions where the descendents of naturalized Chinese settled together, becoming known as the &quot;36 Kume families&quot;.</e>
+<cmt>&quot;and those individuals were referred to as&quot;→&quot;, becoming known as the&quot;&quot;family names&quot;→&quot;families&quot;</cmt>
+<e type="check" ver="1">In the Ryukyu kingdom there were regions where the descendents of naturalized Chinese settled together, becoming known as the &apos;Thirty Six Families of Kume&apos;.</e>
+<cmt>原文の「」に合わせ”を&apos;に久米三十六姓→the Thirty Six Families of Kume[用語集]</cmt>
+</sen>
+<sen id="8">
+<j>久米三十六姓の人々は、琉球国王の命令を受けて、中国本土(主に福建)に渡って留学し、中国語や、音楽などの中国文化を学習した。</j>
+<e type="trans" ver="1">Individuals included as part of the &quot;36 Kume family names&quot; took orders from the Ryukyu monarchy, studied Chinese culture (language and music etc) in mainland China: principally Fujian Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Individuals included as part of the &quot;36 Kume families&quot; took orders from the Ryukyu monarchy, studied Chinese culture,including language and music, in mainland China, principally Fujian Province.</e>
+<cmt>&quot;family names&quot;→&quot;families&quot;&quot; (language and music etc)&quot;→&quot;,including language and music,&quot;colon→comma</cmt>
+<e type="check" ver="1">Individuals included as part of the Thirty Six Families of Kume took orders from the Ryukyu monarchy, studied Chinese culture,including language and music, in mainland China, principally Fujian Province.</e>
+<cmt>原文に合わせ”削除久米三十六姓→the Thirty Six Families of Kume[用語集]</cmt>
+</sen>
+<sen id="9">
+<j>琉球の御座楽を伝承した楽師も、久米三十六姓の者が多かった。</j>
+<e type="trans" ver="1">Many of the musical masters who passed on the traditions of Ryukyu Uzagaku were members of the &quot;36 Kume family names&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many of the musical masters who passed on the traditions of Ryukyu Uzagaku were members of the &quot;36 Kume families&quot;.</e>
+<cmt>&quot;family names&quot;→&quot;families&quot;</cmt>
+<e type="check" ver="1">Many of the musical masters who passed on the traditions of Ryukyu Uzagaku were members of the Thirty Six Families of Kume.</e>
+<cmt>原文に合わせ”削除久米三十六姓→the Thirty Six Families of Kume[用語集]</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="10">
+<j>「江戸上り」では、元服前の男児が、楽師から楽曲を仕込まれて、「楽童子」(がくどうじ)として御座楽を演奏した。</j>
+<e type="trans" ver="1">When &quot;Edo Bound&quot;, boys were trained in musical repertoire by music teachers before attaining manhood and, participated in Uzagaku ensembles as &quot;&quot;Gakudoji&quot; (lit. &quot;child musicians&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">For the missions to Edo, boys were trained in musical repertoire by music teachers before attaining manhood and, participated in Uzagaku ensembles as &quot;&quot;Gakudoji&quot; (lit. &quot;child musicians&quot;).</e>
+<cmt>&quot;When “Edo Bound”&quot;→&quot;For the missions to Edo&quot;</cmt>
+<e type="check" ver="1">For &apos;Edo nobori (the missions to Edo),&apos; boys were trained in musical repertoire by music teachers before attaining manhood and, participated in Uzagaku ensembles as &apos;Gakudoji (lit. child musicians).&apos;</e>
+<cmt>Edo nobori&apos;補足()補足原文の「」に合わせ”を&apos;に”削除スペース削除</cmt>
+</sen>
+<sen id="11">
+<j>みな三司官など良家の子弟で、将来を期待されたエリートであった。</j>
+<e type="trans" ver="1">All were children of 3rd rank officials and good families: much was expected of these elite children.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All were children of 3rd rank officials and good families, and much was expected of these elite children.</e>
+<cmt>colon→&quot;, and&quot;</cmt>
+<e type="check" ver="1">All were children of 3rd rank officials and good families, and much was expected of these elite children.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>1653年の江戸上りから1850年の江戸上りまで、約200年の間に、70曲ぐらい演奏された。</j>
+<e type="trans" ver="1">The roughly 200 year long &quot;Edo Bound&quot; era from 1653 to 1850 produced approximately 70 works which were performed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the roughly 200-year-long period of missions to Edo from 1653 to 1850, approximately 70 works were produced and performed.</e>
+<cmt>Added &quot;During&quot;Added hyphens and comma&quot;“Edo Bound” era&quot;→&quot;period of missions to Edo&quot;&quot;Moved &quot;produced&quot;Deleted &quot;which&quot;Added &quot;and&quot;</cmt>
+<e type="check" ver="1">During the roughly 200-year-long period of missions to Edo from 1653 to 1850, approximately 70 works were produced and performed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>最大で６人のアンサンブルで、１回の演奏会で10曲ぐらい弾くことが多かった。</j>
+<e type="trans" ver="1">Ensembles consisted of a maximum of 6 performers who often switched around 10 pieces in any one performance.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ensembles consisted of a maximum of 6 performers who often switched between around 10 pieces in any one performance.</e>
+<cmt>Added &quot;between&quot;</cmt>
+<e type="check" ver="1">Ensembles consisted of a maximum of 6 performers who often switched between around 10 pieces in any one performance.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>器楽曲のほか、「明曲」「清曲」と記される唱曲も演奏された。</j>
+<e type="trans" ver="1">Besides instrumental pieces, chants (&quot;Ming compositions&quot; and &quot;Qing compositions&quot;)) were performed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Besides instrumental pieces, chants (&quot;Ming compositions&quot; and &quot;Qing compositions&quot;) were performed.</e>
+<cmt>Deleted &apos;)&apos;</cmt>
+<e type="check" ver="1">Besides instrumental pieces, chants (&apos;Ming compositions&apos; and &apos;Qing compositions&apos;) were performed.</e>
+<cmt>原文の「」に合わせ”を&apos;に</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="15">
+<j>江戸時代の琉球王国は、名目的には中国(明、および次の清)に服属したものの、実質的には日本の薩摩藩の支配を受けていた。</j>
+<e type="trans" ver="1">During the Edo periods, the Ryukyu kingdom adhered to China (Ming and Qing) in a nominal sense but in real terms but was ruled by the Satsuma clan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the Edo period, the Ryukyu kingdom was nominally a tributary state of Ming, and later Qing China, but in real terms was ruled by the Satsuma clan.</e>
+<cmt>Made &quot;periods&quot; singular&quot;adhered to China (Ming and Qing) in a nominal sense&quot;→&quot;was nominally a tributary state of Ming, and later Qing China,&quot;Deleted &quot;but&quot;</cmt>
+<e type="check" ver="1">During the Edo period, the Ryukyu kingdom was nominally a tributary state of Ming, and later Qing China, but in real terms was ruled by the Satsuma clan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>琉球の使節団の「江戸上り」のとき、薩摩藩は琉球の音楽を演奏させた。</j>
+<e type="trans" ver="1">Whenever a Ryukyu delegation was &quot;Edo Bound&quot;, the Satsuma clan had Ryukyu music performed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Whenever a Ryukyu delegation was on a mission to Edo, the Satsuma clan had Ryukyuan music performed.</e>
+<cmt>&quot;“Edo Bound”&quot;→&quot;on a mission to Edo&quot;&quot;Ryukyu&quot;→&quot;Ryukyuan&quot;</cmt>
+<e type="check" ver="1">Whenever a Ryukyu delegation was on &apos;Edo nobori (a mission to Edo)&apos;, the Satsuma clan had Ryukyuan music performed.</e>
+<cmt>Edo nobori&apos;補足</cmt>
+</sen>
+<sen id="17">
+<j>薩摩藩は、江戸までの街道ぞいの人々に「路次楽」を聴かせ、将軍以下の江戸幕府の要人たちに「御座楽」の演奏を聴かせることで、自藩の支配力を顕示した。</j>
+<e type="trans" ver="1">Until arrival in Edo, the Satsuma clan had those in the vicinity of the highway to Edo listen to &quot;Rujigaku&quot; (lit &quot;route music&quot;) and, important people in the Edo shogunate below the status of Shogun heard performances of &quot;Uzagaku&quot; (lit &quot;seated music&quot;) as a means to display Satsuma influence.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Satsuma clan would often play &quot;Rujigaku&quot; (lit &quot;route music&quot;) for people along the road to Edo and &quot;Uzagaku&quot; (lit &quot;seated music&quot;) for important people in the Edo shogunate below the status of Shogun as a show of power.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">The Satsuma clan would often play &apos;Rujigaku (lit. route music)&apos; for people along the road to Edo and &apos;Uzagaku (lit. seated music)&apos; for important people in the Edo shogunate below the status of Shogun as a show of power.</e>
+<cmt>原文の「」に合わせ”を&apos;にlit→省略語のためlit.とする”削除</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="18">
+<j>東アジアの漢字文化圏の諸国では、日本も朝鮮もベトナムも、それぞれ中国伝来の宮廷音楽を「雅楽」としていた。</j>
+<e type="trans" ver="1">In various countries in East Asia that use Chinese characters, each of Japan, Korea (Chosun and also Vietnam performed &quot;Gagaku&quot; music which was traditional &quot;Gagaku&quot; Chinese court music that had been passed down.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The East Asian countries that use Chinese characters, Japan, Korea and Vietnam, each had &quot;Gagaku&quot; court music imported from China.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">The East Asian countries that use Chinese characters, Japan, Korea and Vietnam, each had &apos;Gagaku&apos; court music imported from China.</e>
+<cmt>原文の「」に合わせ”を&apos;にスペース削除</cmt>
+</sen>
+<sen id="19">
+<j>琉球の御座楽もその一つであり、その品格と優美さは、日本本土の雅楽に勝るとも劣らぬものであった。</j>
+<e type="trans" ver="1">Ryukyu &quot;Uzagaku&quot; (lit &quot;seated music&quot;) also forms part of this tradition. Part of the quality and elegance stems from &quot;Uzagaku&quot; being as good as if not excelling the &quot;Gagaku&quot; from mainland Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ryukyuan &quot;Uzagaku&quot; (lit &quot;seated music&quot;) is also part of this tradition and in quality and elegance surpasses &quot;Gagaku&quot; from mainland Japan.</e>
+<cmt>&quot;Ryukyu&quot;→&quot;Ryukyuan&quot;&quot;. Part of the&quot;→&quot;and in&quot;&quot;stems from “Uzagaku” being as good as if not excelling the&quot;→&quot;surpasses&quot;</cmt>
+<e type="check" ver="1">Ryukyuan Uzagaku (lit. seated music) was also part of this tradition and in quality and elegance surpassed Gagaku from mainland Japan.</e>
+<cmt>原文に合わせ”削除lit→省略語のためlit.とする”削除is→wassurpasses→surpassed</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="20">
+<j>その後、明治の廃藩置県などがあり、琉球王国は消滅した。</j>
+<e type="trans" ver="1">Afterwards, with the abolishment of Satsuma domains and creation of prefectures in the Meiji era, the Ryukyu kingdom came to an end.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Afterwards, with the abolishment of domains and creation of prefectures in the Meiji era, the Ryukyu kingdom came to an end.</e>
+<cmt>Deleted &quot;Satsuma&quot;</cmt>
+<e type="check" ver="1">Afterwards, with the abolishment of domains and creation of prefectures in the Meiji era, the Ryukyu kingdom came to an end.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>明治政府は琉球を「沖縄県」として併合したが、琉球王国の名目的な宗主国だった中国(当時は清)はこれに不満を表明した。</j>
+<e type="trans" ver="1">The Meiji government annexed the Ryukyus calling them &quot;Okinawa Prefecture&quot;. However, the Meiji government expressed dissatisfaction about the Ryukyu kingdom being nominally under Chinese (.at the time Qing) control.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Meiji government annexed the Ryukyus calling them &quot;Okinawa Prefecture&quot;, although Qing China, the Ryukyus&apos; nominal suzerain, expressed its dissatisfaction at this.</e>
+<cmt>Remade one sentence and reworded second part - mistranslated</cmt>
+<e type="check" ver="1">The Meiji government annexed the Ryukyus calling them &apos;Okinawa Prefecture,&apos; although Qing China, the Ryukyu&apos;s nominal suzerain, expressed its dissatisfaction at this.</e>
+<cmt>原文の「」に合わせ”を&apos;にRyukyus&apos;→Ryukyu&apos;s</cmt>
+</sen>
+<sen id="22">
+<j>このような微妙な国際関係も一因となって、沖縄における中国系音楽の伝統、特に「御座楽」は、明治時代に伝承が絶えた。</j>
+<e type="trans" ver="1">This questionable situation in international relations became one reason that the traditions of Okinawan music of Chinese origin and in particular &quot;Uzagaku&quot; (lit &quot;seated music&quot;) ceased to be passed down in the Meiji period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This questionable situation in international relations became one reason that the traditions of Okinawan music of Chinese origin and in particular &quot;Uzagaku&quot; (lit &quot;seated music&quot;) ceased to be passed down in the Meiji period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This questionable situation in international relations became one reason that the traditions of Okinawan music of Chinese origin and in particular &apos;Uzagaku (lit. seated music)&apos; ceased to be passed down in the Meiji period.</e>
+<cmt>原文の「」に合わせ”を&apos;にlit→省略語のためlit.とする”削除</cmt>
+</sen>
+<sen id="23">
+<j>「御座楽」の最後の上演記録は、明治20年、伊藤博文の前で演奏したのが最後である。</j>
+<e type="trans" ver="1">The final documented performance of &quot;Uzagaku&quot; is in 1888: a performance in the presence of Hirobumi ITO was the last.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The final documented performance of &quot;Uzagaku&quot; was in 1888 in the presence of Hirobumi ITO.</e>
+<cmt>&quot;is&quot;→&quot;was&quot;Deleted &quot;: a performance&quot; and &quot;was the last&quot;</cmt>
+<e type="check" ver="1">The final documented performance of &apos;Uzagaku&apos; was in 1888 in the presence of Hirobumi ITO.</e>
+<cmt>原文の「」に合わせ”を&apos;に</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>現状</j>
+<e type="trans" ver="1">Current Situation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Current Situation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Current Situation</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="24">
+<j>御座楽に関する現存資料は少ない。</j>
+<e type="trans" ver="1">Existing materials relating to &quot;Uzagaku&quot; are scarce.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Existing materials relating to &quot;Uzagaku&quot; are scarce.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Existing materials relating to Uzagaku are scarce.</e>
+<cmt>原文に合わせ”削除</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="25">
+<j>・楽器：「江戸上り」のとき献上された現物が、幸い、尾張徳川家(名古屋市・徳川美術館)と水戸徳川家(茨城県水戸市)に現存。</j>
+<e type="trans" ver="1">・ Instruments: Fortunately, the actual instruments presented to the Owari Tokugawa Family (Tokugawa Art Gallery, Nagoya City) and the Mito Tokugawa family (Mito City, Ibaraki Prefecture) during &quot;Edo Bound&quot; sojourns exist to this day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">・ Instruments: Fortunately, the actual instruments presented to the Owari Tokugawa Family (Tokugawa Art Gallery, Nagoya City) and the Mito Tokugawa family (Mito City, Ibaraki Prefecture) during missions to Edo exist to this day.</e>
+<cmt>&quot;“Edo Bound” sojourns&quot;→&quot;missions to Edo&quot;</cmt>
+<e type="check" ver="1">- Instruments: Fortunately, the actual instruments presented to the Owari Tokugawa Family (Tokugawa Art Gallery, Nagoya City) and the Mito Tokugawa family (Mito City, Ibaraki Prefecture) during &apos;Edo nobori (missions to Edo)&apos; exist to this day.</e>
+<cmt>箇条書きのルール&apos;Edo nobori&apos;補足</cmt>
+</sen>
+<sen id="26">
+<j>また復元楽器が、首里城公園で展示。</j>
+<e type="trans" ver="1">Also, reproduction instruments are on display at Shuri-jo Castle park.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, reproduction instruments are on display at Shuri-jo Castle park.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also, reproduction instruments are on display at Shuri-jo Castle park.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="27">
+<j>・絵図：沖縄県立博物館蔵「琉球人座楽并躍之図」。</j>
+<e type="trans" ver="1">Picture: Okinawa Prefectural Museum warehouse: &quot;Picture of Ryukyu people performing music seated and dancing&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Picture: Okinawa Prefectural Museum warehouse, &quot;Picture of Ryukyu people performing music seated and dancing&quot;.</e>
+<cmt>colon→comma</cmt>
+<e type="check" ver="1">- Picture: Okinawa Prefectural Museum warehouse, &apos;Picture of Ryukyu people performing music seated and dancing.&apos;</e>
+<cmt>箇条書きのルール原文の「」に合わせ”を&apos;に</cmt>
+</sen>
+<sen id="28">
+<j>1832年の尚育王の謝恩使の一行が、江戸の芝白金の島津邸で行った奏楽と舞踊、演劇の様子を描いた絵巻。</j>
+<e type="trans" ver="1">In 1832 there is one line in a letter of gratitude from King Sho Iku but, there is a scroll that depicts a musical performance, dance and play held at Shimazu mansion in Shirokanedai in Edo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The letters of gratitude sent by King Sho Iku in 1832 include a scroll depicting a musical performance, dance and play held at the Shimazu mansion in Shirokanedai in Edo.</e>
+<cmt>Reworded first part of sentence - mistranslatedAdded &quot;the&quot;&quot;Shirokanedai&quot;→&quot;Shiba-Shirokane&quot;</cmt>
+<e type="check" ver="1">The letters of gratitude sent by King Sho Iku in 1832 include a scroll depicting a musical performance, dance and play held at the Shimazu mansion in Shiba-Shirokane in Edo.</e>
+<cmt>Shirokanedai→Shiba-Shirokane</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="29">
+<j>・曲目：『通航一覧』ほかの「江戸上り」の文献記録の中に、楽隊の編成や曲目名などが記載されている。</j>
+<e type="trans" ver="1">・ Program of Pieces: &quot;Tsuko Ichiran&quot;and other pieces noted in &quot;Edo Bound&quot; documented records along with notes about ensemble makeup and piece names etc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">・ Song lists: notes about ensemble makeup and song lists are recorded in &quot;Tsuko Ichiran&quot;and other records of the missions to Tokyo.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">- Song lists: notes about ensemble makeup and song lists are recorded in &quot;Tsuko Ichiran&quot; and other records of &apos;Edo nobori&apos;.</e>
+<cmt>箇条書きのルール”→&quot;スペース補足&apos;Edo nobori&apos;補足the missions to Tokyo削除</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="30">
+<j>・楽譜：山内盛彬(やまうち せいひん 1890-1986)が、1912年に古老が口で歌った旋律を聞き取って採譜した楽譜(五線譜)の中に、御座楽の曲が3種類ほどあり、山内の『琉球王朝古謡秘曲の研究』(1964)に収録されている。</j>
+<e type="trans" ver="1">Sheet Music; Seihin YAMAUCHI (1890 - 1986) transcribed melodies in 1912 that were sung to him by elderly people into sheet music (Western 5 stave format). Amongst these transcriptions there are at least 3 styles of Uzagaku compiled into Yamauchi&apos;s &quot;Research into Ancient Chants &amp; Secret Pieces of the Ryukyu Kingdom&quot; (Ryukyu-ocho Koyo Hikyoku no kenkyu) of 1964.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sheet Music: Seihin YAMAUCHI (1890 - 1986) transcribed melodies in 1912 that were sung to him by elderly people into sheet music (Western 5 stave format). Amongst these transcriptions there are at least 3 styles of Uzagaku compiled into Yamauchi&apos;s &quot;Research into Ancient Chants &amp; Secret Pieces of the Ryukyu Kingdom&quot; (Ryukyu-ocho Koyo Hikyoku no kenkyu) of 1964.</e>
+<cmt>Changed semicolon to colon</cmt>
+<e type="check" ver="1">- Sheet Music: Seihin YAMAUCHI (1890 - 1986) transcribed melodies in 1912 that were sung to him by elderly people into sheet music (Western 5 stave format), and amongst these transcriptions there are at least 3 styles of Uzagaku compiled into Yamauchi&apos;s &quot;Research into Ancient Chants &amp; Secret Pieces of the Ryukyu Kingdom (Ryukyu-ocho Koyo Hikyoku no kenkyu)&quot; of 1964.</e>
+<cmt>箇条書きのルール”→&quot;一文にしました。’→&apos;</cmt>
+</sen>
+<sen id="31">
+<j>古老のおぼろげな記憶によるもので、しかもいずれも曲の途中で切れてしまっている。</j>
+<e type="trans" ver="1">Being based on the vague recollections of elderly people, all the tunes are fragments.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Being based on the vague recollections of elderly people, all the tunes are fragments.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Being based on the vague recollections of elderly people, all the tunes are fragments.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>しかしながら、現在残っている御座楽の楽譜は、これだけである。</j>
+<e type="trans" ver="1">However, at the present time this is all that remains of Uzagaku sheet music.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, at the present time this is all that remains of Uzagaku sheet music.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, at the present time this is all that remains of Uzagaku sheet music.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="33">
+<j>・歌詞：戦争で焼ける前の首里城で鎌倉芳太郎(かまくら よしたろう 1898-1983)がノートに筆写した歌詞が残っている(沖縄県立芸術大学附属図書館蔵「鎌倉芳太郎ノート54『唐歌唐踊集』」)。</j>
+<e type="trans" ver="1">Lyrics: Some lyrics remain that were transcribed into a notebook by Yoshitaro KAMAKURA (1898-1983) prior to Shuri-jo Castle being burnt during the war (Okinawa Prefectural Arts University Library Warehouse &quot;Yoshitaro KAMAKURA Notebook 54: Chinese Poem &amp; Tang Dance Compilation&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Lyrics: Some lyrics remain that were transcribed into a notebook by Yoshitaro KAMAKURA (1898-1983) prior to Shuri-jo Castle being burnt during the war (Okinawa Prefectural Arts University Library Warehouse &quot;Yoshitaro KAMAKURA Notebook 54: Chinese Poem &amp; Tang Dance Compilation&quot;).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Lyrics: Some lyrics remain that were transcribed into a notebook by Yoshitaro KAMAKURA (1898-1983) prior to Shuri-jo Castle being burnt during the war (Okinawa Prefectural Arts University Library Warehouse &apos;Yoshitaro KAMAKURA Notebook 54 &quot;Chinese Poem &amp; Tang Dance Compilation&quot;&apos;).</e>
+<cmt>箇条書きのルール”→&quot;原文の「」に合わせ”を&apos;に</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="34">
+<j>中国本土には、御座楽で演奏されたのと同じ楽曲が現存しているはずであるが、御座楽のどの曲が中国本土のどの曲にあたるかについては、目下、学者たちが研究中である。</j>
+<e type="trans" ver="1">On mainland China apparently pieces identical to Uzagaku are currently performed however, at the moment academics are researching which Uzagaku correspond to which pieces from the Chinese mainland.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is apparently music identical to Uzagaku still performed on mainland China although, at the moment, academics are researching which Uzagaku correspond to which pieces from the Chinese mainland.</e>
+<cmt>Reworded first half of sentence</cmt>
+<e type="check" ver="1">There is apparently music identical to Uzagaku still performed on mainland China although, at the moment, academics are researching which Uzagaku correspond to which pieces from the Chinese mainland.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="35">
+<j>近年の沖縄県では、首里城復元などを機に、琉球王国の宮廷文化を再評価する機運が高まっている。</j>
+<e type="trans" ver="1">In recent years in Okinawa Prefecture, the restoration of Shuri-jo Castle etc has presented greater opportunities to reassess Ryukyu kingdom court culture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In recent years in Okinawa Prefecture, events such as the restoration of Shuri-jo Castle have presented greater opportunities to reassess Ryukyu kingdom court culture.</e>
+<cmt>&quot;etc&quot;→&quot;events such as&quot;&quot;has&quot;→&quot;have&quot;</cmt>
+<e type="check" ver="1">In recent years in Okinawa Prefecture, events such as the restoration of Shuri-jo Castle have presented greater opportunities to reassess Ryukyu kingdom court culture.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>首里城という「ハコ」が先にできたものの、ハコの中身である儀礼や音楽は空っぽであった。</j>
+<e type="trans" ver="1">The carapace or so called &quot;box&quot; of Shuri-jo Castle was completed first but, the interior of that `box` lacked pageantry and music.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The restored castle was like an empty box, devoid of pageantry and music.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">The restored castle was like an &apos;empty box&apos;, devoid of pageantry and music.</e>
+<cmt>原文の「」に合わせ&apos;を補足</cmt>
+</sen>
+<sen id="37">
+<j>また、沖縄独自のアイデンティティーと国際交流の象徴として、「御座楽」を見直す風潮も出てきた。</j>
+<e type="trans" ver="1">Also, there is a trend to look again at &quot;Uzagaku&quot; as symbols of Okinawa&apos;s unique identity and International exchange.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, there is a trend to look again at &quot;Uzagaku&quot; as a symbol of Okinawa&apos;s unique identity and International exchange.</e>
+<cmt>Made &quot;symbols&quot; singular</cmt>
+<e type="check" ver="1">Also, there is a trend to look again at &apos;Uzagaku&apos; as a symbol of Okinawa&apos;s unique identity and international exchange.</e>
+<cmt>原文の「」に合わせ”を&apos;に’→&apos;改行削除</cmt>
+</sen>
+<sen id="38">
+<j>こうした時代の変化を受けて、現在、御座楽を復元する事業が行われている。</j>
+<e type="trans" ver="1">Having sustained these changes of eras, presently, efforts are being made to revive Uzagaku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Having accepted that times are changing, presently, efforts are being made to revive Uzagaku.</e>
+<cmt>&quot;sustained these changes of eras&quot;→&quot;accepted that times are changing&quot;</cmt>
+<e type="check" ver="1">Having accepted that times are changing, presently, efforts are being made to revive Uzagaku.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 スミス16号(id:189050), Korokoro(id:42329), ウィキ太郎(id:81560), Paipateroma(id:144069), 尚玉(id:68387), TS(id:481), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

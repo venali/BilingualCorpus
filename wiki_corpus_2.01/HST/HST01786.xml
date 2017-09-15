@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>貞観格</j>
+<e type="trans" ver="1">Jogan-kyaku Code</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jogan-kyaku Code</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jogan-kyaku Code</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>貞観格（じょうがんきゃく）は、平安時代の貞観 (日本)11年4月13日 (旧暦)（869年5月27日）に奏進され、同年9月7日 (旧暦)（同年10月15日）の宣旨によって施行された格式。</j>
+<e type="trans" ver="1">Jogan-kyaku Code was one of the Kyakushiki code (amendments and enforcement regulations (of the ritsuryo)) that was submitted to the Emperor on April 13, 869 (the old calendar) (on May 27, according to the solar calendar), and was enforced on September 7 of the same year (the old calendar) (on October 15 of the same year, according to the solar calendar) with the imperial decree.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jogan-kyaku Code was one of the Kyakushiki codes (amendments and enforcement regulations of the Ritsuryo Code) that was submitted to the Emperor on May 27, 869, and was enforced on October 15 the same year with the imperial decree.</e>
+<cmt>one of の後なので複数形にしました。またritsuryoだけでは何のことだか分かりにくいと判断し、Ritsuryo Codeに変更しました。また、日付は西暦のみに統一しました。</cmt>
+<e type="check" ver="1">Jogan-kyaku Code was one of the Kyakushiki codes (amendments and enforcement regulations of the Ritsuryo Code) that was submitted to the Emperor on May 31, 869, and was enforced on October 19 the same year with the imperial decree.</e>
+<cmt>グレゴリオ暦に変換</cmt>
+</sen>
+<sen id="2">
+<j>全12巻であるが、最後の2巻は格に該当しない臨時の法令類を唐の『開元留司格』に倣って「臨時格」として末尾に掲げたものである。</j>
+<e type="trans" ver="1">It included totally 12 volumes although the last 2 volumes were temporary acts appended in the end as &apos;rinji-kaku&apos; (literally, temporary codes), like&quot;開元留司格&quot; of the Tang Dynasty.</e>
+<cmt>「開元留司格」の読み方と内容が不明です。</cmt>
+<e type="trans" ver="2">It consists of 12 volumes, of which the last 2 volumes were appendicies of temporary acts &apos;Rinji-kaku&apos; (lit. temporary codes) by modeling a Kaigen temporary code of the Tang Dynasty in China.</e>
+<cmt>totallyは「まったく」の意味でここでは不適切なため、consists ofで書き直しました。またこの場合の「が」は逆説ではなく単なる接続なので関係代名詞で続けました。臨時格は括弧に入っているため大文字扱いにしました。開元（かいげん）は唐の元号で留司格はその取扱いをする役所に留めておく格なので、temporary codeと訳しました。</cmt>
+<e type="check" ver="1">It consists of 12 volumes, of which the last 2 volumes were appendicies of temporary acts &apos;Rinji-kaku&apos; (lit. temporary codes) by modeling a Kaigen temporary code of the Tang Dynasty in China.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>藤原良相が勅を受けて編纂を開始し、その没後は藤原氏宗が中心となって編纂した。</j>
+<e type="trans" ver="1">FUJIWARA no Yoshimi, who received the Imperial order started the compilation and after his death, mainly FUJIWARA no Ujimune compiled it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">FUJIWARA no Yoshimi, who received the Imperial order, started the compilation and after his death, mainly FUJIWARA no Ujimune compiled it.</e>
+<cmt>最初のコンマに呼応するコンマをorderの後に入れました。</cmt>
+<e type="check" ver="1">FUJIWARA no Yoshimi, who received the Imperial order, started the compilation and after his death, mainly FUJIWARA no Ujimune compiled it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>「弘仁格」を継いで弘仁11年（820年）より延喜10年（868年）までの49年間の詔勅・太政官符のうち編纂当時に実際に行われていた重要な取捨選択して各省毎に配列した。</j>
+<e type="trans" ver="1">After the &apos;Konin-kyaku Code&apos;, among Shochoku (imperial edicts) and Daijokanpu (official documents from Daijokan to local governments) issued during 49 years, which were from in 820 to in 868, the important ones that had been practically enforced at the time were extracted and placed orderly by Ministry.</e>
+<cmt>「実際に行われていた重要な取捨選択をして」は「重要なもの（詔勅・太政官符）を取捨選択」のことだと思います。また、そのようにしないと訳せないため ones を補いました。</cmt>
+<e type="trans" ver="2">Following &apos;&apos;Konin-kyaku Code,&apos;&apos; they chose from Shochoku (imperial edicts) and Daijokanpu (official documents from the Department of Stateto local governments) significant laws which had been enforced for 49 years (820-868) and arranged them according to each ministry.</e>
+<cmt>クオーテーションマークをダブルにしました。また括弧内の太政官のローマ字表記を英訳に置き換えました。</cmt>
+<e type="check" ver="1">Following &apos;Konin-kyaku Code,&apos; they chose from Shochoku (imperial edicts) and Daijokanpu (official documents from the Department of State to local governments) significant laws which had been enforced for 49 years (820-868) and arranged them according to each ministry.</e>
+<cmt>&quot; &quot; → &apos; &apos;</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>編纂に当たっては「弘仁格」に既出のもの、編纂当時に廃止されていたものは掲載しなかった。</j>
+<e type="trans" ver="1">Regarding the compilation, the codes that had been already shown in the &apos;Konin-kyaku Code&apos; or had been abolished at the time of the compilation were not carried.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">During compilation, the laws that had been already shown in the &apos;Konin-kyaku Code&apos; or had been abolished at the time were removed.</e>
+<cmt>Regardingは少し大袈裟な感じがするのでduringで代用しました。Codeの中のcodeでは意味を成さないため、codeをlawに書き換えました。また「掲載しなかった」は「削除された」を意味するremoved一語で簡潔にしました。</cmt>
+<e type="check" ver="1">During compilation, the laws that had been already shown in the &apos;Konin-kyaku Code&apos; or had been abolished at the time were removed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sen id="6">
+<j>更に一部が使われていない場合や修飾のための「繁麗之文」にあたる部分には該当部分を削除するなどの修正が施されている。</j>
+<e type="trans" ver="1">Also, the codes, which were partly unused, and segments corresponding to &apos;繁麗之文&apos; for modification were corrected by deleting relevant parts.</e>
+<cmt>一原文一訳文の例外対処 「繁麗之文」の内容と読み方が不明でした。</cmt>
+<e type="trans" ver="2">Also, changes were made by deleting the laws of which some parts were not used and the specific phrases which modified the laws.</e>
+<cmt>unusedは「未使用」の意味もあることからnot usedに変更しました。「繁麗之文」は原文の通り修飾をする分なので説明する形で訳しました。基本が削除する形で修正されているようなので、正解を書き込むcorrectではなく、changeで代用しました。</cmt>
+<e type="check" ver="1">Also, changes were made by deleting the laws of which some parts were not used and the specific phrases which modified the laws.</e>
+<cmt>修正なし</cmt>
+</sen>
+<par id="4">
+<sen id="7">
+<j>「貞観格」の原文は残されていないが、『類聚三代格』や惟宗允亮の『政事要略』にその多くが引用されており、</j>
+<e type="trans" ver="1">The original text of the &apos;Jogan-kyaku Code&apos; was lost, however, many of them were mentioned in the &quot;Ruiju sandai kaku&quot; (Assorted regulations from Three Reigns) and &quot;Seiji Yoryaku&quot; (Brief Outline of Government) by KOREMUNE no Masasuke.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The original text of the &apos;Jogan-kyaku Code&apos; was lost, however, many phrases are quoted in the &quot;Ruiju sandai kaku&quot; (Assorted regulations from Three Reigns) and &quot;Seiji Yoryaku&quot; (Brief Outline of Government) by KOREMUNE no Masasuke.</e>
+<cmt>manyのみでは不明確なのでphrasesを補充しました。また内容に触れることではなく「引用」なのでquotedで置き換えました。</cmt>
+<e type="check" ver="1">The original text of the &apos;Jogan-kyaku Code&apos; was lost, however, many phrases are quoted in the &quot;Ruiju sandai kaku&quot; (Assorted regulations from Three Reigns) and &quot;Seiji Yoryaku&quot; (Brief Outline of Government) by KOREMUNE no Masasuke.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>その相当部分の内容を窺い知る事が出来る。</j>
+<e type="trans" ver="1">The contents of the Jogan-kyaku Code were considerably found in them.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Therefore, a large part of the contents of the Jogan-kyaku Code can be inferred.</e>
+<cmt>原文では上記と同じ文章であろうため、前の文章とのつながりを持たせるためthereforeで始めました。「窺い知る」はfoundの代わりに、根拠がある推測を表すinferredを使用しました。「相当部分」はa large partで置き換えました。</cmt>
+<e type="check" ver="1">Therefore, a large part of the contents of the Jogan-kyaku Code can be inferred.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>巻次構成</j>
+<e type="trans" ver="1">The lineup of the volumes</e>
+<cmt></cmt>
+<e type="trans" ver="2">Contents</e>
+<cmt>一般的な訳contentsで置き換えました。</cmt>
+<e type="check" ver="1">Contents</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="9">
+<j>巻一 神祇官・中務省</j>
+<e type="trans" ver="1">Volume one : Jingikan (Department of Divinities), Nakatsukasa-sho (Ministry of Central Affairs)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume one : Jingikan (the Department of Divinities), Nakatsukasa-sho (the Ministry of Central Affairs)</e>
+<cmt>通例theを入れるので付け加えました。</cmt>
+<e type="check" ver="1">Volume one : Jingikan (the Department of Divinities), Nakatsukasa-sho (the Ministry of Central Affairs)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>巻二・巻三・巻四 式部省</j>
+<e type="trans" ver="1">Volume 2, Volume 3, Vollume 4 : Shikibu-sho (Ministry of Ceremonial)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 2, Volume 3, Vollume 4 : Shikibu-sho (the Ministry of Ceremonial)</e>
+<cmt>同上</cmt>
+<e type="check" ver="1">Volume 2, Volume 3, Vollume 4 : Shikibu-sho (the Ministry of Ceremonial)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>巻五・巻六 治部省</j>
+<e type="trans" ver="1">Volume 5, Volume 6 : Jibu-sho Ministry (Ministry of Civil Administration)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 5, Volume 6 : Jibu-sho Ministry (the Ministry of Civil Administration)</e>
+<cmt>同上</cmt>
+<e type="check" ver="1">Volume 5, Volume 6 : Jibu-sho Ministry (the Ministry of Civil Administration)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>巻七・巻八 民部省</j>
+<e type="trans" ver="1">Volume 7, Volume 8 : Minbu-sho (Ministry of Popular Affairs)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 7, Volume 8 : Minbu-sho (the Ministry of Popular Affairs)</e>
+<cmt>同上</cmt>
+<e type="check" ver="1">Volume 7, Volume 8 : Minbu-sho (the Ministry of Popular Affairs)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>巻九 兵部省・刑部省・大蔵省・宮内省・弾正台・京職</j>
+<e type="trans" ver="1">Volume 9 : Hyobusho (War Ministry), Gyobusho (Ministry of Justice), Okura-sho (Ministry of the Treasury), Kunaisho (Ministry of the Sovereign&apos;s Household), Danjodai (Board of Censors), and Kyoshiki (the Capital Bureau)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 9 : Hyobusho (the Ministry of Wars), Gyobusho (the Ministry of Justice), Okura-sho (the Ministry of the Treasury), Kunaisho (the Ministry of the Sovereign&apos;s Household), Danjodai (the Board of Censors), and Kyoshiki (the Capital Bureau)</e>
+<cmt>同上の処理でtheを付けたのに加え、兵部省の訳は他の物に合わせた実際にも使われている～of～の形にしました。</cmt>
+<e type="check" ver="1">Volume 9 : Hyobusho (the Ministry of Wars), Gyobusho (the Ministry of Justice), Okura-sho (the Ministry of the Treasury), Kunaisho (the Ministry of the Sovereign&apos;s Household), Danjodai (the Board of Censors), and Kyoshiki (the Capital Bureau)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>巻十 雑格（その他）</j>
+<e type="trans" ver="1">Volume 10: Miscellaneous (others)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 10: miscellaneous laws (others)</e>
+<cmt>格の名称ではないため小文字に直しました。またmiscellaneousは形容詞のためlawsを挿入しました。</cmt>
+<e type="check" ver="1">Volume 10: miscellaneous laws (others)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>巻十一・巻十二 臨時格（追加分）</j>
+<e type="trans" ver="1">Volume 11, Volume 12 : Rinji-kyaku (temporary codes, supplement)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 11, Volume 12 : temporary laws (additional laws)</e>
+<cmt>臨時格も格の名称ではないため、英訳のみにしました。また、codeは律令の英訳なので、格に値するlawsに変更しました。</cmt>
+<e type="check" ver="1">Volume 11, Volume 12 : temporary laws (additional laws)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

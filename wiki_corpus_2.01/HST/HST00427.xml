@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>高質</j>
+<e type="trans" ver="1">Kojichi (to seize assets of the obligor personally)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kojichi (to personally seize the assets of an obligor)</e>
+<cmt>added &quot;the&quot; before &quot;assets&quot;; changed &quot;the&quot; to &quot;an&quot;</cmt>
+<e type="check" ver="1">Kojichi</e>
+<cmt>括弧説明を削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>高質（こうじち）は、中世日本において債権が債務不履行に陥った債権者の財産を私的に差し押さえる行為。</j>
+<e type="trans" ver="1">Kojichi means an action of attachment privately levied by creditors on properties of creditors in default.</e>
+<cmt>「債権者の財産」は「債務者の財産」の間違いではないかと思われますが、そのまま訳しております。</cmt>
+<e type="trans" ver="2">During the Middle Ages in Japan, a kojichi was the act of privately seizing the assets of a debtor whose credit had fallen into default.</e>
+<cmt>added &quot;During the Middle Ages in Japan&quot; for &quot;中世日本において&quot;; changed &quot;an action&quot; to &quot;the act&quot;; changed &quot;attachment&quot; to &quot;seizing&quot; for &quot;差し押さえる&quot;; changed &quot;properties&quot; to &quot;assets&quot;; fixed grammar to read more naturally; fixed spacing; changed &quot;creditors&quot; to &quot;debtor&quot; per translator comment since the English did not make sense to me leaving it as &quot;creditor&quot;</cmt>
+<e type="check" ver="1">During the Middle Ages in Japan, a kojichi was the act of privately seizing the assets of a debtor whose credit had fallen into default.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>また、年貢・公事の滞納者に対して領主が行うこともあった。</j>
+<e type="trans" ver="1">It was also levied by feudal lord against defaulters in payment of nengu (land tax) or kuji (public duties).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kojichi was also levied by feudal lords against those delinquent in payments of nengu (land tax) and kuji (public duties).</e>
+<cmt>changed &quot;defaulters&quot; to &quot;those deliquent&quot; for easier reading;</cmt>
+<e type="check" ver="1">Kojichi was also levied by feudal lords against those delinquent in payments of nengu (land tax) and kuji (public duties).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>借用書などに高質を取ることを認める文言を入れあるのが一般的であった。</j>
+<e type="trans" ver="1">It was commonly seen that statement of approval for levying kojichi was included in the documents, such as IOU.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It was common to include a statement of approval for imposing kojichi in promissary notes and in a document such as an &quot;I owe you.&quot;</e>
+<cmt>changed &quot;levying&quot; to &quot;imposing&quot;; added &quot;promissary notes&quot;: changed &quot;IOU&quot; to &quot;I owe you&quot;; fixed grammar</cmt>
+<e type="check" ver="1">It was common to include a statement of approval for imposing kojichi in promissory notes and in a document such as an &quot;I owe you.&quot;</e>
+<cmt>promissoryスペル訂正しました。</cmt>
+</sen>
+<sen id="4">
+<j>原則的には場所の制約を受けず（質取行為では禁じられているアジール的空間や権力者の保護下でも）に請求が可能であった。</j>
+<e type="trans" ver="1">In principle, the levy of kojichi was not restricted by location (and it was approved even in an asylum-like place or under the protection of authorities which were regarded as extraterritorial areas in case of Shichitori, which was the attachment of property of third party living in the same area of debtor in default).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In principle, the levy of a kojichi was not restricted by location and it was possible to claim it even in places with right of asylum or when the debtor was under the protection of authorities (these were regarded as extraterritorial areas in the case of Shichitori, which was the attachment of property of a third party living in the same area of a debtor in default).</e>
+<cmt>changed &quot;asylum-like place&quot; to &quot;places with right of asylum&quot;; I moved the content that was in parenthesis to within the sentence and left the &quot;Shichitori&quot; section in parenthesis, the latter of which I do not see in the Japanese. I don&apos;t understand where it came from, but I fixed the English to read as naturally as possible</cmt>
+<e type="check" ver="1">In principle, the levy of a kojichi was not restricted by location and it was possible to claim it even in places with right of asylum or when the debtor was under the protection of authorities (these were regarded as extraterritorial areas in the case of Shichitori, which was the attachment of property of a third party living in the same area of a debtor in default).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>債務者を発見次第直ちに債務者が持つ債権額相当分の財産（主として動産）のみを差し押さえることになっていた。</j>
+<e type="trans" ver="1">The kojichi allowed creditors to attach debtor&apos;s properties (mainly movable properties) equivalent to total amount of credit only, whenever and wherever they found such debtors.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">A kojichi allowed creditors to attach a debtor&apos;s properties (mainly movable properties) equivalent to the total amount of credit only, whenever and wherever they found such debtors.</e>
+<cmt>changed &quot;The&quot; to &quot;A&quot;; added &quot;the&quot; before &quot;total amount&quot;;</cmt>
+<e type="check" ver="1">A kojichi allowed creditors to attach a debtor&apos;s properties (mainly movable properties) equivalent to the total amount of credit only, whenever and wherever they found such debtors.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>ただし、極端な場合には持ち合わせの財産が債権額に達しないことを理由として一般的には差し押さえの対象にはならないと考えられていたウシやウマ、妻子などを差し押さえる場合もあった。</j>
+<e type="trans" ver="1">In extreme cases, however, cows, horses, wife and children, which were considered not to be subject to seizure in general, were occasionally attached for the alleged reason that property on hand of debtor was short of the amount of credit.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In extreme cases, however, cows, horses, wives and children, not considered to be subject to seizure in general, were occasionally attached for the alleged reason that the property on hand of a debtor was short of the amount of credit.</e>
+<cmt>changed &quot;wife&quot; to &quot;wives&quot;; eliminated &quot;which were&quot; before &quot;considered&quot;; fixed grammar</cmt>
+<e type="check" ver="1">In extreme cases, however, cows, horses, wives and children, not considered to be subject to seizure in general, were occasionally attached for the alleged reason that the property on hand of a debtor was short of the amount of credit.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>このため、「高値の質物」（リスクが高い質物）と言われ、それが「高質」の語源とも言われている。</j>
+<e type="trans" ver="1">For this reason, it was called &quot;pawns at a high price&quot;(risky pawns), which is considered to be the origin of the word, &apos;kojichi&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For this reason, they were called &quot;pawns at a high price&quot;(高値の質物, a highly risky pawn), which is considered to be the origin of the word &apos;kojichi&apos; (高質).</e>
+<cmt>Since this sentence describes the etymology of the word, I added the kanji to help in understanding the meaning</cmt>
+<e type="check" ver="1">For this reason, they were called &apos;pawns at a high price&apos; (a highly risky pawn), which is considered to be the origin of the word &apos;kojichi&apos; (&quot;ko&quot; indicates &quot;high&quot; and &quot;jichi (shichi)&quot; indicates &quot;pawn&quot; in Chinese characters).</e>
+<cmt>原文の「」に合せて&quot;を&apos;に訂正しました。説明訂正しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Kaboyose-DSD(id:123658), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

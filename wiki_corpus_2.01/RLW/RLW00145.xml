@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>鞍馬口駅</j>
+<e type="trans" ver="1">Kuramaguchi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kuramaguchi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kuramaguchi Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>鞍馬口駅（くらまぐちえき）は、京都府京都市上京区上御霊中町にある、京都市営地下鉄京都市営地下鉄烏丸線の鉄道駅。</j>
+<e type="trans" ver="1">Kuramaguchi Station, located in Kamigoryo Nakamachi, Kamigyo Ward, Kyoto City, is a railway station of the Karasuma Line of Kyoto Municipal Subway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kuramaguchi Station, located in Kamigoryo Nakamachi, Kamigyo Ward, Kyoto City, is a railway facility of the Karasuma Line of the Kyoto Municipal Subway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kuramaguchi Station, located in Kamigoryo Nakamachi, Kamigyo Ward, Kyoto City, Kyoto Prefecture, is a railway facility of the Karasuma Line of the Kyoto Municipal Subway.</e>
+<cmt>京都府　を追加しました。</cmt>
+</sen>
+<sen id="2">
+<j>京都市北区 (京都市)との境界に位置する。</j>
+<e type="trans" ver="1">The station is located on the border of Kita Ward, Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station is located on the border of Kita Ward, Kyoto City.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The station is located on the border of Kita Ward, Kyoto City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>駅番号はK05。</j>
+<e type="trans" ver="1">Its station number is K05.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its station number is K05.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Its station number is K05.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Structure of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>島式1面2線のプラットホームを持つ地下駅である。</j>
+<e type="trans" ver="1">This staion is an underground station which has an island-type platform for 2 tracks.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is an underground facility having an island-type platform for two tracks.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">This station is an underground facility having an island-type platform for two tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>改札口は1ヶ所のみ。</j>
+<e type="trans" ver="1">The station has only one ticket gate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station has only one ticket gate.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The station has only one ticket gate.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Area arround the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>上御霊神社</j>
+<e type="trans" ver="1">Kami-goryo-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kami-goryo-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kamigoryo-jinja Shrine</e>
+<cmt>ハイフンを削除しました。</cmt>
+</sen>
+<sen id="7">
+<j>関西文理学院</j>
+<e type="trans" ver="1">Kansai Bunri Gakuin</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kansai Bunri Gakuin</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kansai Bunri Gakuin</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>ブックオフコーポレーション京都鞍馬口店</j>
+<e type="trans" ver="1">Kyoto Kuramaguchi Store of BOOKOFF Corporation Limited</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Kuramaguchi Store of BOOKOFF Corporation Limited</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Kuramaguchi Store of BOOKOFF Corporation Limited</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>烏丸通（国道367号）</j>
+<e type="trans" ver="1">Karasuma-dori Street (National Highway 367)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Karasuma-dori Street (National Highway 367)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karasuma-dori Street (National Route 367)</e>
+<cmt>国道→national routeとしました。</cmt>
+</sen>
+<sen id="10">
+<j>鞍馬口通</j>
+<e type="trans" ver="1">Kuramaguchi-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kuramaguchi-dori Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kuramaguchi-dori Street</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>紫明通</j>
+<e type="trans" ver="1">Shimei-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shimei-dori Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shimei-dori Street</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>本法寺 (京都市)</j>
+<e type="trans" ver="1">Honpo-ji Temple (Kyoto City)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Honpo-ji Temple (Kyoto City)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Honpo-ji Temple (Kyoto City)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>茶道資料館</j>
+<e type="trans" ver="1">Chado Research Center Gallery</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chado Research Center Gallery</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chado Research Center Gallery</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>しばしば鞍馬寺へのアクセス拠点と勘違いされるが、当駅から鞍馬までは直線距離で北へ10km近く離れており、連絡するバス路線もない。</j>
+<e type="trans" ver="1">Although it is often misunderstood as the nearest station to Kurama-dera Temple, Kurama is nearly 10 km away in a straight line to the northward from this station and no bus line connecting to Kurama is available.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although it&apos;s often incorrectly considered to be the station nearest to Kurama-dera Temple, Kurama is nearly 10 km northward from this station (as the crow flies) and no bus line connecting to Kurama is available.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although it&apos;s often incorrectly considered to be the station nearest to Kurama-dera Temple, Kurama is nearly 10 km northward from this station (as the crow flies) and no bus line connecting to Kurama is available.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>この駅名は烏丸通と鞍馬口通の交差点である烏丸鞍馬口に由来し、京の七口の一つである鞍馬口は当駅の東約500mの出雲路橋西詰（北区鞍馬口町）にある。</j>
+<e type="trans" ver="1">The name of this station derives from Karasuma-Kuramaguchi, which is the crossing of Karasuma-dori Street and Kuramaguchi-dori Street, and Kuramaguchi, which is one of &quot;Kyo-no-Nanakuchi&quot; (seven entrances of Kyoto), is located at the west end of Izumoji-bashi Bridge (Kuramaguchi-cho, Kita Ward), about 500m away to the eastward from this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s name derives from Karasuma-Kuramaguchi, which is the crossing of Karasuma-dori Street and Kuramaguchi-dori Street, and Kuramaguchi, which is one of the &quot;Kyo-no-Nanakuchi&quot; (seven entrances of Kyoto), is located at the west end of Izumoji-bashi Bridge (Kuramaguchi-cho, Kita Ward), about 500m east of the station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station&apos;s name derives from Karasuma-Kuramaguchi, which is the crossing of Karasuma-dori Street and Kuramaguchi-dori Street, and Kuramaguchi, which is one of the &quot;Kyo-no-Nanakuchi&quot; (seven entrances of Kyoto), is located at the west end of Izumoji-bashi Bridge (Kuramaguchi-cho, Kita Ward), about 500m east of the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>また、鞍馬方面へのアクセスだが、国際会館駅から叡山電鉄鞍馬線岩倉駅_(京都府)と八幡前駅_(京都府)へは徒歩で移動できる距離である。</j>
+<e type="trans" ver="1">In order to go to Kurama, it is convenient to transfer at Kokusaikaikan Station of the Karasuma Line since passengers can move on foot to Iwakura Station or Hachiman-mae Station of the Kurama Line operated by Eizan Electric Railway Co.,Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">To reach Kurama, it&apos;s convenient to transfer at Kokusaikaikan Station of the Karasuma Line because passengers can go on foot to Iwakura Station or Hachiman-mae Station of the Kurama Line, which is operated by the Eizan Electric Railway Co., Ltd.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">To reach Kurama, it&apos;s convenient to transfer at Kokusaikaikan Station of the Karasuma Line because passengers can go on foot to Iwakura Station (Kyoto Prefecture) or Hachiman-mae Station (Kyoto Prefecture) of the Kurama Line, which is operated by the Eizan Electric Railway Co., Ltd.</e>
+<cmt>京都府　を追加しました。</cmt>
+</sen>
+<sen id="17">
+<j>そのため、烏丸線国際会館方面行きの車内では、当駅到着前に「貴船・鞍馬方面へは、国際会館駅までご乗車下さい」というアナウンスがある。</j>
+<e type="trans" ver="1">Under such circustances, an announcement saying &quot;passengers going to Kibune/Kurama, please get off at Kokusaikaikan Station&quot; is made in trains bound for Kokusaikaikan before arriving at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under such circumstances, an announcement saying, &quot;Passengers going to Kibune/Kurama, please get off at Kokusaikaikan Station,&quot; is made on the trains bound for Kokusaikaikan before their arrival at this station.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Under such circumstances, an announcement saying, &apos;Passengers going to Kibune/Kurama, please get off at Kokusaikaikan Station,&apos; is made on the trains bound for Kokusaikaikan of the Karasuma Line before their arrival at this station.</e>
+<cmt>&quot; → &apos;　としました。烏丸線　を追加しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="18">
+<j>1981年（昭和56年）5月29日 烏丸線の開通とともに開業。</j>
+<e type="trans" ver="1">May 29, 1981 - This station commenced operation in association with the opening of the Karasuma Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">May 29, 1981: This station commenced operation in association with the opening of the Karasuma Line.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">May 29, 1981: This station commenced operation in association with the opening of the Karasuma Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="19">
+<j>2007年（平成19年）4月1日 PiTaPa使用開始。</j>
+<e type="trans" ver="1">April 1, 2007 - PiTaPa became available.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 2007: PiTaPa became available.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">April 1, 2007: PiTaPa became available.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Adjoining stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjoining stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="20">
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto Municipal Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Municipal Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>■烏丸線</j>
+<e type="trans" ver="1">The Karasuma Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Karasuma Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karasuma Line</e>
+<cmt>the　を削除しました。</cmt>
+</sen>
+<sen id="22">
+<j>北大路駅(K04) - 鞍馬口駅(K05) - 今出川駅(K06)</j>
+<e type="trans" ver="1">Kitaoji Station (K04) - Kuramaguchi Station (K05) - Imadegawa Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitaoji Station (K04) - Kuramaguchi Station (K05) - Imadegawa Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitaoji Station (K04) - Kuramaguchi Station (K05) - Imadegawa Station (K06)</e>
+<cmt>(06)を追加しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Sushiya(id:110938), Hideyuki(id:9577), 城山(id:104901), Etopirica(id:32491), Wikipedianet(id:9608), Ikaxer(id:61759), Goncyan(id:92158), Memeja(id:110500), 準急三条(id:25072), Sunen(id:10700), Matsukaze(id:51778), Ktr(id:30468), Kouchiumi(id:19253), Goki(id:7107), Longstar(id:121834), Hidama(id:73276), 663highland(id:18755), Hirotaro(id:1437), Ogeshi(id:80487), Takatetu(id:3231), Jade0416(id:104181), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

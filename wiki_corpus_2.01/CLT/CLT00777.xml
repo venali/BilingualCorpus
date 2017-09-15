@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>遠近競射</j>
+<e type="trans" ver="1">Enkin-kyosha (遠近競射)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Enkin-kyosha</e>
+<cmt>カッコ部分を削除しました。</cmt>
+<e type="check" ver="1">Enkin-kyosha</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>遠近競射とは弓道の個人競技における順位決定方法。</j>
+<e type="trans" ver="1">Enkin-kyosha is a method for deciding the ranking in a non-team game of competition shooting in Japanese archery, based on how close an arrow is shot to the center of the target.</e>
+<cmt>具体的な決定基準について説明しないと意味が伝わらないので補足説明を加えて訳しました。</cmt>
+<e type="trans" ver="2">Enkin-kyosha is a method for deciding the ranking of an individual competition in Japanese archery, based on how close an arrow is shot to the center of the target.</e>
+<cmt>in a non-team game of competition shooting→on an individual competition と修正しました。</cmt>
+<e type="check" ver="1">Enkin-kyosha is a method for deciding the ranking of an individual competition in Japanese archery, based on how close an arrow is shot to the center of the target.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>決勝で順位を決定する際には射詰（各競技者が一本ずつ矢を放ち、失中者を除いていく方法）が行われる。</j>
+<e type="trans" ver="1">When deciding the ranking in the final game, the method called izume (射詰: a method where all players shoot an arrow each in a round, eliminating those who missed the target) is applied.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">When deciding the ranking in the final, the method called izume (a method where all competitors shoot an arrow each in a round, eliminating those who missed the target) is taken.</e>
+<cmt>final game→final,射詰: を削除しました。players→competitors,applied→taken と修正しました。</cmt>
+<e type="check" ver="1">When deciding the ranking in the final, the method called izume (a method where all competitors shoot an arrow each in a round, eliminating those who missed the target) is taken.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>しかし、的中を逸した同位者の順位を決める際には遠近競射を行う（優勝者決定は射詰で行う）。</j>
+<e type="trans" ver="1">However, enkin-kyosha is used in the case of a tie break for those who missed the target (a tie break to decide the champion is done by izume).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, enkin-kyosha is used in the case of a tie break for those who missed the target (a tie break to decide the champion is done by izume.)</e>
+<cmt>ピリオドの位置を修正しました。</cmt>
+<e type="check" ver="1">However, enkin-kyosha is used in the case of a tie break for those who missed the target (a tie break to decide the champion is carreid out using izume).</e>
+<cmt>done by→carried out usingピリオドを括弧の外に出しました。</cmt>
+</sen>
+<sen id="4">
+<j>各競技者は順々に同じ的に矢を一本ずつ放ち、矢が的の中心に近い者が上位となる。</j>
+<e type="trans" ver="1">Each player shoots an arrow at the same target in turn, and the one who hits an arrow closer to the center of the target will be ranked higher.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Each competitor shoots an arrow at the same target in turn, and the one who hits an arrow closer to the center of the target will be ranked higher.</e>
+<cmt>player→competitor と修正しました。</cmt>
+<e type="check" ver="1">Each competitor shoots an arrow at the same target in turn, and the one who hits an arrow closer to the center of the target will be ranked higher.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>この際、掃き矢（的に届かずに地面を滑った矢）は最下位となる。</j>
+<e type="trans" ver="1">In this case, players who shot a hakiya (掃き矢: an arrow which slides on the ground without reaching the target) will go to the last.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In this case, the competitor who shot the hakiya (an arrow which slides on the ground without reaching the target) will become the lowest rank.</e>
+<cmt>players→the competitor,a→the,go to the last→become the lowest rank と修正しました。掃き矢: を削除しました。</cmt>
+<e type="check" ver="1">In this case, the competitor who shot the hakiya (an arrow which slides on the ground without reaching the target) will become the lowest rank.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>的中していない場合でも、的に近い矢が上位となる。</j>
+<e type="trans" ver="1">If not hitting the target, ranking will still depend on how close each arrow is to the center of the target.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even if not hitting the target, still, the arrow which is closer to the target becomes higher rank.</e>
+<cmt>原文に応じて修正しました。</cmt>
+<e type="check" ver="1">Even if not hitting the target, still, the arrow which is closer to the target becomes higher rank.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>的は一般には直径36㎝の霞的が使用されるが、全日本学生弓道連盟の試合では直径36㎝の的に細い線で同心円を多数描いた「線的」が使用される。</j>
+<e type="trans" ver="1">Generally &apos;kasumi-mato&apos; (霞的: a round target with three thick black concentric circles drawn on it) of 36cm in diameter is used, but &apos;sen-mato&apos; (a round target with a number of thin black concentric circles drawn on it) is used in the games organized by Student Kyudo Association.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Generally, kasumi-mato (a round target with three thick black concentric circles drawn on it) of 36cm in diameter is used, but &apos;sen-mato&apos; (a round target with a number of thin black concentric circles drawn on it) is used in the games organized by Student Kyudo Association.</e>
+<cmt>カンマを挿入しました。クォーツ、霞的: を削除しました。</cmt>
+<e type="check" ver="1">Generally, kasumi-mato (a round target with three thick black concentric circles drawn on it) of 36cm in diameter is used, but &apos;sen-mato&apos; (a round target with a number of thin black concentric circles drawn on it) is used in the games organized by Student Kyudo Association.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Bandalgom(id:31841), Championship2006(id:38664), アセルス(id:87426), MizunoH(id:112470), Me2hero(id:12313), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>四鏡</j>
+<e type="trans" ver="1">Shikyo (four historical narratives of the late Heian and early Kamakura periods with the word &quot;mirror&quot; in the title)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shikyo</e>
+<cmt>omit explanation as it appears immediately below</cmt>
+<e type="check" ver="1">Shikyo</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>四鏡（しきょう）は平安時代後期から室町時代前期までに成立した「鏡物（かがみもの）」と呼ばれる『大鏡』・『今鏡』・『水鏡』・『増鏡』の4つの歴史物語（歴史書）。</j>
+<e type="trans" ver="1">The term &quot;shikyo&quot; refers to the four historical stories (or history books with a narrative style) generically known as &apos;kagami-mono&apos; (mirror works), which includes &quot;Okagami&quot; (the Great Mirror), &quot;Imakagami&quot; (the Mirror of the Present), &quot;Mizukagami&quot; (the Water Mirror), and &quot;Masukagami&quot; (the Clear Mirror), and these appeared between the late Heian period and the early Muromachi period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The term &quot;shikyo&quot; refers to the four historical stories (history books with a narrative style) generically known as &apos;kagami-mono&apos; (mirror works), which includes &quot;O-kagami&quot; (the Great Mirror), &quot;Ima-kagami&quot; (the Mirror of the Present), &quot;Mizu-kagami&quot; (the Water Mirror), and &quot;Masu-kagami&quot; (the Clear Mirror), that appeared between the late Heian period and the early Muromachi period.</e>
+<cmt>rewording;inclusion of hypens to emphasize the term kagami in each of the titles</cmt>
+<e type="check" ver="1">The term &quot;shikyo&quot; refers to the four historical stories (history books with a narrative style) generically known as &apos;kagami-mono&apos; (mirror works), which includes &quot;O-kagami&quot; (the Great Mirror), &quot;Ima-kagami&quot; (the Mirror of the Present), &quot;Mizu-kagami&quot; (the Water Mirror), and &quot;Masu-kagami&quot; (the Clear Mirror), that appeared between the late Heian period and the early Muromachi period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>成立時期より前の時代の内容を扱っている。</j>
+<e type="trans" ver="1">Each book covers stories of the period before its appearance year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Settings for books are based on times their appearances.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Settings for books are based on times their appearances.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>いずれも鏡という名前を冠しており、また非常な高齢の老人が「昔はこんな事があったなぁ」という話を2人でしていたり作者に対して語ったりするという形式を取っている。</j>
+<e type="trans" ver="1">Every book title includes the word &quot;kagami&quot; (mirror), and every book adopts the conversation style in which two very old people are talking about events of old days or they are speaking to the author of the book about such events.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Each book includes the word &quot;kagami&quot; (mirror) in their titles, and they are written in the form of a conversation between two elderlies or between an elderly and the author reminiscing about days of the old.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Each book includes the word &quot;kagami&quot; (mirror) in their titles, and they are written in the form of a conversation between two elders or between an elder and the author reminiscing about days of the old.</e>
+<cmt>elderlies を elders に、an elderly を an elder に、各々修正しました（※）。参考http://eow.alc.co.jp/elder/UTF-8/?ref=sp</cmt>
+</sen>
+<sen id="4">
+<j>これらは初めに成立した大鏡の特徴を後の3つが踏襲している。</j>
+<e type="trans" ver="1">This is because the latter three books follow the style of Okagami, which is the oldest book among four.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is due to the fact that the style of Okagami, the oldest among four, was continued by the latter three.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">This is due to the fact that the style of Okagami, the oldest among four, was continued by the latter three.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>だが、『増鏡』によれば他に『弥世継』（いやよつぎ）と言われる「鏡物」（世継とは『大鏡』の別称）が存在していた事が明記されており、『今鏡』以後『増鏡』以前の歴史を扱ったと見られている。</j>
+<e type="trans" ver="1">According to &quot;Masukagami,&quot; however, there used to be another &apos;kagami-mono&apos; book called &quot;Iyayotsugi&quot; (the term &quot;yotsugi&quot; is another name of &quot;Okagami&quot;), and it is thought that this book covered the history between the time of &quot;Imakagami&quot; and the time of &quot;Masukagami.&quot;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, &quot;Masukagami&quot; cites another &apos;kagami-mono&apos; book called &quot;Iya-yotsugi&quot; (&quot;yotsugi&quot; is another name for &quot;Okagami&quot;), and it is believed that this book covers the history between that of &quot;Imakagami&quot; and that of &quot;Masukagami.&quot;</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">However, &quot;Masukagami&quot; cites another &apos;kagami-mono&apos; book called &quot;Iya-yotsugi&quot; (&quot;yotsugi&quot; is another name for &quot;Okagami&quot;), and it is believed that this book covers the history between that of &quot;Imakagami&quot; and that of &quot;Masukagami.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>今日では亡失してしまい見ることはできない。</j>
+<e type="trans" ver="1">This book does not exist anymore and there is no way to know its contents.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Since this book no longer exists, there is no way to confirm its contents.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Since this book no longer exists, there is no way to confirm its contents.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>また、「四鏡」には数えられないが、『吾妻鏡』という作品もある。</j>
+<e type="trans" ver="1">In addition, there is another kagami book called &quot;Azumakagami&quot; (the Mirror of the East) although this book is not included in the &apos;shikyo.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is also a book called &quot;Azuma-kagami&quot; (the Mirror of the East), although it is not included in the &apos;shikyo.&apos;</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">There is also a book called &quot;Azuma-kagami&quot; (the Mirror of the East), although it is not included in the &apos;shikyo.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="8">
+<j>なお成立順は大鏡・今鏡・水鏡・増鏡の順である。</j>
+<e type="trans" ver="1">Okagami appeared first followed by Imagakami, Mizukagami, and Masukagami.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The order of appearance is as follows: O-kagami, Imagakami, Mizukagami, and Masukagami.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The order of appearance is as follows: O-kagami, Ima-kagami, Mizu-kagami, and Masu-kagami.</e>
+<cmt>Imagakami, Mizukagami, and Masukagami をIma-kagami, Mizu-kagami, and Masu-kagami に修正しました。</cmt>
+</sen>
+<sen id="9">
+<j>これを覚えるための語呂合わせとして「だいこんみずまし（「だい」：大鏡・「こん」：今鏡・「みず」：水鏡・「まし」：増鏡）」がある</j>
+<e type="trans" ver="1">The phrase &apos;daikon mizumashi&apos; (which literally means &quot;Japanese radish and watering&quot;) is sometimes used in order to remember this order, and in this phrase, dai, kon, mizu, and mashi respectively represent Okagami, Imakagami, Mizukagami, and Masukagami by means of the first Chinese character&apos;s sound in each book title.</e>
+<cmt>一原文一訳文の例外対処英語話者の方にとって、原文の説明のみではなぜ「だいこんみずまし」という語呂合わせが成り立つのかわかりにくいだろうと考えたため、原文にはありませんがそれぞれ1文字目の漢字の音からきていることを追加説明いたしました。</cmt>
+<e type="trans" ver="2">The phrase &apos;daikon mizumashi&apos; (which literally means &quot;Japanese radish and watering&quot;) is sometimes used as a mnemonic to help remember this order of appearance (&quot;dai&quot; (a different pronunciation of 大 in 大鏡) from O-kagami, &quot;kon&quot; (a different pronunciation of 今 in 今鏡) from Ima-kagami, &quot;mizu&quot; from Mizu-kagami, and &quot;mashi&quot; (a different pronunciation of 増 in 増鏡) from Masu-kagami).</e>
+<cmt>rewording;completely rewrite the extra explanation provided by the translator</cmt>
+<e type="check" ver="1">The phrase &apos;daikon mizumashi&apos; (which literally means &quot;Japanese radish and watering&quot;) is sometimes used as a mnemonic to help remember this order of appearance (&quot;dai&quot; (a different pronunciation of 大 in 大鏡) from O-kagami, &quot;kon&quot; (a different pronunciation of 今 in 今鏡) from Ima-kagami, &quot;mizu&quot; from Mizu-kagami, and &quot;mashi&quot; (a different pronunciation of 増 in 増鏡) from Masu-kagami).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>しかし作中で扱っている時代の順に並べると水鏡・大鏡・今鏡・増鏡の順となる。</j>
+<e type="trans" ver="1">In terms of the time which is covered in each book, however, Mizukagami comes first followed by Okagami, Imakagami, and Masukagami.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The order of the historical period appearing in each of the books, however, is as follows: Mizu-kagami, O-kagami, Ima-kagami, and Masu-kagami.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The order of the historical period appearing in each of the books, however, is as follows: Mizu-kagami, O-kagami, Ima-kagami, and Masu-kagami.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Vina-iwbot(id:56449), Bit(id:2197), Wiki0825(id:34646), Calvero(id:38360), 水野白楓(id:22811), Bue(id:237847), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

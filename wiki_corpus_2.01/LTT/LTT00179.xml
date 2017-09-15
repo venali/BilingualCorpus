@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>水鏡</j>
+<e type="trans" ver="1">Mizukagami (Water Mirror)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mizukagami (Water Mirror)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mizukagami (Water Mirror)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>『水鏡』（みずかがみ）は、歴史物語。</j>
+<e type="trans" ver="1">Mizukagami is a (Water Mirror) is a historical tale.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mizukagami (Water Mirror) is a historical tale.</e>
+<cmt>deleted the repeated “is a”</cmt>
+<e type="check" ver="1">&quot;Mizukagami&quot; (Water Mirror) is a historical tale.</e>
+<cmt>クォーツを挿入しました。</cmt>
+</sen>
+<sen id="2">
+<j>成立は鎌倉時代初期（1195年頃）と推定される。</j>
+<e type="trans" ver="1">It is inferred that it was completed at the beginning of the Kamakura period (around 1195).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is inferred that it was completed at the beginning of the Kamakura period (around 1195).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is inferred that it was completed at the beginning of the Kamakura period (around 1195).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>作者は中山忠親説が有力だが、源雅頼説などもあり未詳。</j>
+<e type="trans" ver="1">With respect to the author, the most prevailing view indicates Tadachika NAKAYAMA, but, there is also a view that indicate MINAMOTO no Masayori and the truth is not known.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The prevailing view indicates Tadachika NAKAYAMA as the author, but others favor MINAMOTO no Masayori, and the truth is not known.</e>
+<cmt>eliminated some unnecessary bits</cmt>
+<e type="check" ver="1">The prevailing view indicates Tadachika NAKAYAMA as the author, but others favor MINAMOTO no Masayori, and the truth is not known.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>いわゆる「四鏡」の成立順では3番目に位置する作品である。</j>
+<e type="trans" ver="1">From the viewpoint of the order of the time of completion among so-called Shikyo (the four historical narratives of the late Heian and early Kamakura periods with the word &quot;mirror&quot; in the title),&quot; it is in the third place.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is the 3rd so-called &quot;Shikyo&quot; (four historical narratives of the late Heian and early Kamakura periods with the word &quot;mirror&quot; in the title), in terms of the order of completion.</e>
+<cmt>edited for flow</cmt>
+<e type="check" ver="1">It is the third so-called &quot;Shikyo&quot; (four historical narratives of the late Heian and early Kamakura periods with the word &quot;mirror&quot; in the title), in terms of the order of completion.</e>
+<cmt>3rd→third</cmt>
+</sen>
+<sen id="5">
+<j>内容的には最も古い時代を扱っている。</j>
+<e type="trans" ver="1">Contentwise, however, it treats the oldest age.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Contentwise, however, it treats the oldest age.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Contentwise, it deals with the earliest period.</e>
+<cmt>it treats the oldest age→it deals with the earliest period と修正しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>内容</j>
+<e type="trans" ver="1">Content</e>
+<cmt></cmt>
+<e type="trans" ver="2">Content</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Contents</e>
+<cmt>Content→Contents</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>神武天皇から仁明天皇まで57代の事跡を編年体で述べている。</j>
+<e type="trans" ver="1">It describes the achievements of fifty-seven emperors from the Emperor Jinmu to the Emperor Ninmyo in a chronological form.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It describes the achievements of 57 emperors from Emperor Jinmu to Emperor Ninmyo in a chronological form.</e>
+<cmt>arabic numerals, articles</cmt>
+<e type="check" ver="1">It describes the achievements of 57 emperors from Emperor Jinmu to Emperor Ninmyo in a chronological form.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>73歳の老婆が、長谷寺に参籠中の夜、修験者が現れ、不思議な体験を語るのを書き留めたという形式になっている。</j>
+<e type="trans" ver="1">It has a form that a old lady, who is seventy-three years old confines herself in the Hase-dera Temple for prayer and records talks on amazing experiences by a shugenja (a member of a religious order who performs ascetic practices in the mountains) who appears there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It takes the form of tales of an old lady of 73 who confines herself in the Hase-dera Temple for prayer and records the amazing experiences of a shugenja (a member of a religious order who performs ascetic practices in the mountains) who appears there.</e>
+<cmt>arabic numerals, articles</cmt>
+<e type="check" ver="1">The form of this tale is as follows; a 73 year-old lady was staying in Hase-dera Temple for the night to pray, a shugensha (mountain ascetic of the Shugendo tradition) appeared and told her his amazing experiences, then she wrote them down.</e>
+<cmt>文脈より修正しました。</cmt>
+</sen>
+<sen id="8">
+<j>『水鏡』独自の記事があるわけではなく、皇円が著した『扶桑略記』から抄出したものである。</j>
+<e type="trans" ver="1">There is no description which is unique to &quot;Mizukagami,&quot; but all descriptions are abridgements of descriptions in &quot;&quot;Fuso ryakki&quot; (A Short History of Japan)&quot; written by Koen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is no article that is unique to &quot;Mizukagami,&quot; but all of them are taken from sections of &quot;Fuso ryakki&quot; (A Short History of Japan) written by Koen.</e>
+<cmt>excess quotation marks; repetitive words</cmt>
+<e type="check" ver="1">There is no article that is unique to &quot;Mizukagami,&quot; but all of them are taken from sections of &quot;Fuso ryakki&quot; (A Short History of Japan) written by Koen.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>ただし、序文には著者独自の歴史観が盛り込まれており、そこには特異性が認められる。</j>
+<e type="trans" ver="1">In the preface, however, a unique historical view of the author is contained and certain uniqueness is found there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the preface, however, a unique historical view of the author is contained and certain uniqueness is found there.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the preface, however, a unique historical view of the author is contained and certain uniqueness is found there.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Kurz(id:1601), Mnd(id:15140), VolkovBot(id:105371), ざんとまる(id:73892), Crystaltear(id:72425), Cprobot(id:97843), 水野白楓(id:22811), Swindbot(id:151304), Co.kyoto(id:79296), Revth(id:12179), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

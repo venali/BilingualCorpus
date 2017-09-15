@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>武家茶道</j>
+<e type="trans" ver="1">Buke sado (the tea ceremony of samurai family)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Buke Sado (the tea ceremony of samurai family)</e>
+<cmt>大文字</cmt>
+<e type="check" ver="1">Buke Sado (the tea ceremony of samurai family)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>武家茶道（ぶけさどう）とは、おもに江戸時代以降に武家社会の間で行われてきた茶道のこと。</j>
+<e type="trans" ver="1">Buke sado is the tea ceremony performed among the samurai families mainly in the Edo period and after.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Buke sado is the tea ceremony performed among the samurai families mainly in the Edo period and after.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Buke sado is the tea ceremony performed among the samurai families mainly in the Edo period and after.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>大名茶とも呼ばれる。</j>
+<e type="trans" ver="1">It is also called daimyo cha.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also called daimyo cha.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also called daimyo cha.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>多くの場合、各藩各大名でそれぞれ公式の流儀が定められており、一つの領国内のみで行われていた流儀も多い。</j>
+<e type="trans" ver="1">Often each clan or daimyo had its own formal mode of the tea ceremony, and many of such modes were only performed within each particular fief.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Often each clan or daimyo had its own style of tea ceremony, and many of such styles were only performed in each fief.</e>
+<cmt>「流儀」の訳を変更within each particular fief→in each fiefに変更</cmt>
+<e type="check" ver="1">Often each clan or daimyo had its own style of tea ceremony, and many of such styles were only performed in each fief.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>江戸時代から家元制度をとっていた町人茶と違い、武家茶道においてはいわば各藩の殿様が家元に相当する立場である。</j>
+<e type="trans" ver="1">Unlike the merchant class tea ceremony of the Edo period in which iemoto (the head of a tea ceremony school) system was established, the lord of each clan was, as it were, the head of each school in buke sado.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Unlike the merchant class tea ceremony in the Edo period in which the iemoto (the head of a tea ceremony school) system was established, the lord of each clan was, as it were, the head of each school in buke sado.</e>
+<cmt>前置詞</cmt>
+<e type="check" ver="1">Unlike the merchant class tea ceremony in the Edo period in which the iemoto (the head of a tea ceremony school) system was established, the lord of each clan was, as it were, the head of each school in buke sado.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>実務は茶道師範に任せていることが大半であるが、中には大名自ら深く茶道を嗜んでいる事例もある。</j>
+<e type="trans" ver="1">Although the practical management of the tea ceremony was assigned to a tea ceremony instructor in most cases, there were some examples where the lord himself had profound knowledge of the tea ceremony.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Although the practical management of the tea ceremony was assigned to a tea ceremony instructor in most cases, there were some examples where the lord himself had profound knowledge of the tea ceremony.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Although the practical management of the tea ceremony was assigned to a tea ceremony instructor in most cases, there were some examples where the lord himself had profound knowledge of the tea ceremony.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>主な流儀に遠州流、石州流、有楽流、上田宗箇流、鎮信流、不昧流、小笠原家茶道古流、御家流 (茶道)などがある。</j>
+<e type="trans" ver="1">Major schools of buke sado include Enshu-ryu, Sekishu-ryu, Uraku-ryu, Uedasoko-ryu, Chinshin-ryu, Fumai-ryu, Ogasawarake-sado-koryu, and Oie-ryu (of tea ceremony).</e>
+<cmt>通常流派名は「XX流」を&quot;XX School&quot;と訳すので-ryuを残すと重複表現になるかと危惧しました。しかし、特に「小笠原家茶道古流」を表現するのにryuを残すほうが自然なので、そのような選択をしました。</cmt>
+<e type="trans" ver="2">Major schools of buke sado include Enshu-ryu, Sekishu-ryu, Uraku-ryu, Uedasoko-ryu, Chinshin-ryu, Fumai-ryu, Ogasawarake-sado-koryu, and Oie-ryu (of tea ceremony).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Major schools of buke sado include Enshu-ryu, Sekishu-ryu, Uraku-ryu, Uedasoko-ryu, Chinshin-ryu, Fumai-ryu, Ogasawarake-sado-koryu, and Oie-ryu (of tea ceremony).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>将軍家茶道師範役だった片桐石州の石州流は、とくに多くの分派を持ち、武家社会に浸透していた。</j>
+<e type="trans" ver="1">Founded by Sekishu KATAGIRI who was the tea ceremony teacher for the Shogun family, Sekishu school had particularly a large number of sects and permeated throughout the samurai society.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Founded by Sekishu KATAGIRI who was the tea ceremony teacher for the the Shogun family, the Sekishu school particularly had a large number of sects and permeated throughout the samurai society.</e>
+<cmt>冠詞particularlyの位置を変更</cmt>
+<e type="check" ver="1">Founded by Sekishu KATAGIRI who was the tea ceremony teacher for the the Shogun family, the Sekishu school particularly had a large number of sects and permeated throughout the samurai society.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>廃藩置県以降、武家社会の崩壊とともに消滅した流儀も多いといわれる。</j>
+<e type="trans" ver="1">Many schools are said to have disappeared along with the collapse of the samurai society following Haihan-chiken (abolition of feudal domains and establishment of prefectures).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many schools are said to have disappeared along with the collapse of the samurai society following Haihan-chiken (abolition of feudal domains and establishment of prefectures).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Many schools are said to have disappeared along with the collapse of the samurai society following Haihan-chiken (abolition of feudal domains and establishment of prefectures).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

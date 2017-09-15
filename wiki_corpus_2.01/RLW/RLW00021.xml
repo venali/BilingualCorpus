@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>十条駅</j>
+<e type="trans" ver="1">Jujo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jujo Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jujo Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>十条駅 (東京都) - 東京都北区 (東京都)にある東日本旅客鉄道（JR東日本）埼京線（赤羽線）の駅。</j>
+<e type="trans" ver="1">Jujo Station (Tokyo): located in Kita Ward, Tokyo Prefecture (Tokyo-to), is a station on the Saikyo Line (Akabane Line) of East Japan Railway Company (JR East).</e>
+<cmt>東日本旅客鉄道（JR東日本）→East Japan Railway Company [http://wwwjreast.co.jp]</cmt>
+<e type="trans" ver="2">Jujo Station (Tokyo), located in the Kita ward of Tokyo Prefecture (Tokyo-to), is a station on the Saikyo Line (Akabane Line) of the East Japan Railway Company (JR East).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Jujo Station (Tokyo), located in the Kita Ward of Tokyo, is a station on the Saikyo Line (Akabane Line) of the East Japan Railway Company (JR East).</e>
+<cmt>東京都のみ、Prefectureは削除しました。 （Tokyo-to)を削除しました。&quot;Kita ward&quot;→&quot;Kita &quot;Ward&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>十条駅 (近鉄) - 京都市南区 (京都市)にある近鉄京都線の駅。</j>
+<e type="trans" ver="1">Jujo Station (Kintetsu Railway): located in Minami Ward, Kyoto City (Kyoto-shi), is a station on the Kintetsu Kyoto Line.</e>
+<cmt>近鉄→Kintetsu Railway [http://www.kintetsu.jp]</cmt>
+<e type="trans" ver="2">Jujo Station (Kintetsu Railway), located in the Minami ward of Kyoto City (Kyoto-shi), is a station on the Kintetsu Kyoto Line.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Jujo Station (Kintetsu Railway), located in the Minami Ward of Kyoto City, is a station on the Kintetsu Kyoto Line.</e>
+<cmt>(Kyoto-shi)　は削除しました。&quot;Minami ward&quot;→&quot;Minami Ward&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="3">
+<j>十条駅 (京都市営地下鉄) - 京都市南区にある京都市営地下鉄烏丸線の駅。</j>
+<e type="trans" ver="1">Jujo Station (Kyoto City Subway): located in Minami Ward, Kyoto City, is a station on the Kyoto City Subway Karasuma Line.</e>
+<cmt>京都市営地下鉄→Kyoto City Subway [http://www.city.kyoto.jp/koho/eng/access/transport.html]→Kyoto Municipal Subway[http://www.city.kyoto.jp/koho/eng/access/transport.html]</cmt>
+<e type="trans" ver="2">Jujo Station (Kyoto City Subway), located in Minami Ward, Kyoto City, is a station on the Kyoto City Subway Karasuma Line.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Jujo Station (Kyoto Municipal Subway), located in the Minami Ward of Kyoto City, is a station on the Kyoto Municipal Subway Karasuma Line.</e>
+<cmt>Municipalとしました。　wardを小文字に統一しています。&quot;Minami ward&quot;→&quot;Minami Ward&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="4">
+<j>近鉄の駅と京都市営地下鉄の駅とは離れた位置にある。</j>
+<e type="trans" ver="1">The station of Kintetsu Railway and the station of Koto City Subway are situated distantly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station of Kintetsu Railway and the station of Koto City Subway are situated distantly.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The station of Kintetsu Railway and the station of Koto Municipal Subway are situated distantly.</e>
+<cmt>Municipalとしました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Rusk(id:9895), Yukichin(id:725), Kone(id:377), Chobot(id:20846), Mipu(id:5360), Alexbot(id:157199), Utsuda(id:605), 小太刀(id:18154), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

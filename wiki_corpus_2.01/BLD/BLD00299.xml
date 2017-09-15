@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>対面所</j>
+<e type="trans" ver="1">Taimen-jo (a reception room)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Taimenjo (Reception Suite)</e>
+<cmt>用語共有データベースに基づき書き直し</cmt>
+<e type="check" ver="1">Taimenjo (Reception Suite)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>対面所（たいめんじょ）とは、室町時代以後の武家屋敷内に設置された施設で、主従関係にある者との対面儀礼の際に用いられた。</j>
+<e type="trans" ver="1">Taimen-jo was a place provided in samurai residences in the Muromachi period and later, and was used as a meeting place where a taimengirei ceremony (se the following descriptions) was held between a master and his servants.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A taimenjo was a place provided in samurai residences since the Muromachi period, and was used during the meeting ceremony between master and servant.</e>
+<cmt>・「A」を追加・「Taimen-jo」→「taimenjo」・「in the Muromachi period and later」→「since the Muromachi period」・原文を反映するように、文の後半を再翻訳</cmt>
+<e type="check" ver="1">A taimenjo was a place provided in samurai residences since the Muromachi period, and was used during the meeting ceremony between master and servant.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>対面儀礼は主従関係の成立・確認の際に行われ、武家にとっては重要な儀式の1つであったが、武家の棟梁である征夷大将軍もその例外ではなかった。</j>
+<e type="trans" ver="1">Being held to confirm that a master-servant relationship had been newly established or had been maintained, a taimengirei ceremony was an important one not only for samurai, but also for Seitaishogun, the head of the samurai.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The meeting ceremony was conducted when the master-servant relationship was established or confirmed, and was one of events considered important by not only samurai families but also the shogun who was the head of the samurai.</e>
+<cmt>ナチュラルに翻訳し直し</cmt>
+<e type="check" ver="1">The meeting ceremony was conducted when the master-servant relationship was established or confirmed, and was one of events considered important by not only samurai families but also the shogun who was the head of the samurai.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>鎌倉幕府では侍廊、室町幕府では会所 (中世)で対面儀礼を行うのが定制になっていた。</j>
+<e type="trans" ver="1">It was ruled that a taimengirei ceremony was held at samurai-ro (a corridor-type samurai-gathering place) in the Kamakura bakufu and in kaisho (a meeting place) in the Muromachi bakufu.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It was ruled that the ceremony was held at Samurai-dokoro (the hall of the Board of Retainers) under the Kamakura bakufu (Japanese feudal government headed by a shogun) and at a kaisho (meeting place) under the Muromachi bakufu.</e>
+<cmt>・「a taimengirei」→「the」・「samurai-ro (a corridor-type samurai-gathering place)」→「Samurai-dokoro (the hall of the Board of Retainers)」・「(Japanese feudal government headed by a shogun)」を追加・「in」→「under」 (x2)・「in」→「at a」・「a」を削除</cmt>
+<e type="check" ver="1">It was ruled that the ceremony was held at Samurai-dokoro (the hall of the Board of Retainers) under the Kamakura bakufu (Japanese feudal government headed by a shogun) and at a kaisho (meeting place) under the Muromachi bakufu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>しかし、足利義政が花の御所を新造したときに会所とは別に対面所を設置した。</j>
+<e type="trans" ver="1">However, when newly building Hana no Gosho (literally, a flower palace), Yoshimasa ASHIKAGA separated taimen-jo from kaisho.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, when building Hana no Gosho (lit. Flower Palace), Yoshimasa ASHIKAGA had the taimenjo constructed separately from the kaisho.</e>
+<cmt>原文を反映するように翻訳し直し</cmt>
+<e type="check" ver="1">However, when building Hana no Gosho (lit. Flower Palace), Yoshimasa ASHIKAGA had the taimenjo constructed separately from the kaisho.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>これが最初とされている。</j>
+<e type="trans" ver="1">It is said that this is the origin of taimen-jo.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It is said that this is the origin of taimenjo.</e>
+<cmt>「taimen-jo」→「taimenjo」</cmt>
+<e type="check" ver="1">It is said that this is the origin of taimenjo.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>戦国時代 (日本)から江戸時代にかけて主従関係を基本とした武家間の身分秩序が重要視されると、武家屋敷の中心施設の1つとして重要視された。</j>
+<e type="trans" ver="1">In the era from Sengoku Period (the period of warring states) (in Japan) to the Edo period, social order among samurai based on the master-servant relationship became to be considered important, and therefore, an importance was placed on taimen-jo as a core facility of samurai residences.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As social order among samurai based on the master-servant relationship came to be considered important from the Sengoku period (the period of warring states) (Japan) to the Edo period, an importance was placed on the taimenjo as a core facility of samurai residences.</e>
+<cmt>・「In the era」を削除・「the」を追加・「Period」→「period」・「in」を削除・「became」→「came」・「and therefore」を削除・「taimen-jo」→「the taimenjo」・再構成</cmt>
+<e type="check" ver="1">As social order among samurai based on the master-servant relationship came to be considered important from the Sengoku period (the period of warring states) (Japan) to the Edo period, an importance was placed on the taimenjo as a core facility of samurai residences.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>豊臣秀吉が大坂城の対面所で徳川家康と対面儀礼を行って、その権威を知らせしめたのは著名な例である。</j>
+<e type="trans" ver="1">It is a famous example that Hideyoshi TOYOTOMI held a taimengirei ceremony for Ieyasu TOKUGAWA at taimen-jo in Osaka-jo Castle to make his authority known.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A noted example is when Hideyoshi TOYOTOMI held a meeting ceremony for Ieyasu TOKUGAWA in the taimenjo of Osaka Castle and made his authority known.</e>
+<cmt>原文を反映するように翻訳し直し</cmt>
+<e type="check" ver="1">A noted example is when Hideyoshi TOYOTOMI held a meeting ceremony for Ieyasu TOKUGAWA in the taimenjo of Osaka Castle and made his authority known.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>だが、徳川家康が開いた江戸幕府の主要拠点であった江戸城・二条城では、対面所を設置せずに大広間を対面儀礼の施設として用いた。</j>
+<e type="trans" ver="1">However, no taimen-jo was provided in Edo-jo Castle and Nijo-jo Castle, major governmental sites of the Edo bakufu established by Ieyasu TOKUGAWA, and oohiroma (a large room) was used instead for taimengirei ceremonies.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, no taimenjo were constructed at Edo-jo Castle or Nijo-jo Castle - major strongholds of the Edo bakufu established by Ieyasu TOKUGAWA, where meeting ceremonies were held in large halls.</e>
+<cmt>・「taimen-jo」→「taimenjo」・「was」→「were」・「provided in」→「constructed at」・「and」→「or」・「,」→「-」・「governmental sites」→「strongholds」・「and oohiroma (a large room) was used instead for taimengirei ceremonies.」→「where meeting ceremonies were held in large halls」</cmt>
+<e type="check" ver="1">However, no taimenjo were constructed at Edo-jo Castle or Nijo-jo Castle - major strongholds of the Edo bakufu established by Ieyasu TOKUGAWA, where meeting ceremonies were held in large halls.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>そのため、以後その他の武家屋敷でも対面所のことを広間もしくは書院と呼称するようになった。</j>
+<e type="trans" ver="1">Therefore, after this, the taimen-jo in samurai residences became called hiroma (a large room) or shoin as well.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It is because of this that even taimensho at samurai residences came to be called hiroma (lit. hall) or shoin (lit. reception hall).</e>
+<cmt>ナチュラルに翻訳し直し</cmt>
+<e type="check" ver="1">It is because of this that even taimensho at samurai residences came to be called hiroma (lit. hall) or shoin (lit. reception hall).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

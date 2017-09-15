@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>松風 (能)</j>
+<e type="trans" ver="1">Matsukaze (Noh [Japanese classical dance-drama] Play)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Matsukaze (Noh play)</e>
+<cmt>他の能関連の記事と合わせました。</cmt>
+<e type="check" ver="1">Matsukaze (Noh play)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>『松風』 (まつかぜ)は能の一つである。</j>
+<e type="trans" ver="1">&quot;Matsukaze&quot; is one of noh plays.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Matsukaze&quot; is a Noh play (classical Japanese dance theater).</e>
+<cmt>他の能関連の記事と合わせました。英語版wikipediaと同じくNohを大文字にしました。以下同様。</cmt>
+<e type="check" ver="1">&quot;Matsukaze&quot; is a Noh play (classical Japanese dance theater).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>成立は室町時代。</j>
+<e type="trans" ver="1">It came into existence in the Muromachi period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was written in the Muromachi period.</e>
+<cmt>Came into existenceをwrittenにしました。</cmt>
+<e type="check" ver="1">It was written in the Muromachi period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>観阿弥のオリジナルを世阿弥が改修したと考えられる。</j>
+<e type="trans" ver="1">It is considered that the original version of Kanami was rewritten by Zeami.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is thought that the original version written by Kanami was rewritten by Zeami.</e>
+<cmt>Consideredをthoughtにしました。Ofをwritten byにしました。</cmt>
+<e type="check" ver="1">It is thought that the original version written by Kanami was rewritten by Zeami.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>須磨に流された貴公子と海人との深交を記した『撰集抄』・『源氏物語』の説話を元にした秋の名曲である。</j>
+<e type="trans" ver="1">It is an excellent work of autumn based on the anecdote in &quot;Senjusho (a compiled Buddhist tales of 13th century)&quot; and &quot;Genji Monogatari (the tale of Genji)&quot; which depicts the deep familiarity between a kikoshi (young nobleman) banished to Suma and ama (fisherwomen).</e>
+<cmt>一原文一訳文の例外対処。ｵﾝﾗｲﾝ用語集では&quot;ama&quot;の説明は&quot;male diver&quot;でしたが、松風・村雨は女性であり、また後出する「海人松風」と合わせるため、&quot;fisherwomen&quot;としました。</cmt>
+<e type="trans" ver="2">It is an excellent work of autumn based on an anecdote in &quot;Senjusho (a compilation of Buddhist tales from the 13th century)&quot; and &quot;Genji Monogatari (the Tale of Genji)&quot; which depicts the deep friendship between a kikoshi (young nobleman) banished to Suma and ama (fisherwomen).</e>
+<cmt>Theをanにしました。Taleを大文字にしました。Familiarityをfriendshipにしました。</cmt>
+<e type="check" ver="1">It is an excellent work of autumn based on an anecdote in &quot;Senjusho (a compilation of Buddhist tales from the 13th century)&quot; and &quot;Genji Monogatari (the Tale of Genji)&quot; which depicts the deep friendship between a kikoshi (young nobleman) banished to Suma and ama (fisherwomen).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>また、『古今和歌集』の在原行平の歌も元にしている。</j>
+<e type="trans" ver="1">It is also based on a poem of ARIWARA no Yukihira in &quot;Kokin Wakashu (a collection of ancient and modern Japanese poetry).&quot;</e>
+<cmt>一原文一訳文の例外対処。ｵﾝﾗｲﾝ用語集では、()内の古今和歌集の説明の各単語が大文字で始められていましたが、ここでは撰集抄・源氏物語との統一のため、小文字に直しました。</cmt>
+<e type="trans" ver="2">It is also based on a poem of ARIWARA no Yukihira in &quot;Kokin Wakashu (a collection of ancient and modern Japanese poetry).&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also based on a poem of ARIWARA no Yukihira in &quot;Kokin Wakashu (a collection of ancient and modern Japanese poetry).&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>作品構成</j>
+<e type="trans" ver="1">The Work&apos;s Composition</e>
+<cmt></cmt>
+<e type="trans" ver="2">Composition</e>
+<cmt>The Work&apos;sを削除しました。</cmt>
+<e type="check" ver="1">Structure of the Play</e>
+<cmt>用語統一</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>【登場人物】</j>
+<e type="trans" ver="1">The Characters</e>
+<cmt></cmt>
+<e type="trans" ver="2">Characters</e>
+<cmt>Theを削除しました。</cmt>
+<e type="check" ver="1">Characters</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>能シテ海人松風の霊、</j>
+<e type="trans" ver="1">Noh Shite (a main actor of a noh play): The spirit of Ama Matsukaze (fisherwoman Matsukaze)</e>
+<cmt>ｵﾝﾗｲﾝ用語集では「海人松風」の説明は&quot;fisherman Matsukaze&quot;でしたが、女性なのでfisherwomanとしました。Wikipediaの元ページに「能」の語はありませんが、訳出しておきました(2行後の「能ワキ」も同様)。</cmt>
+<e type="trans" ver="2">Noh Shite (main role): The spirit of Ama Matsukaze (fisherwoman Matsukaze)</e>
+<cmt>A main actor of a noh playをmain roleにしました。</cmt>
+<e type="check" ver="1">Noh Shite (main role): The spirit of Ama Matsukaze (fisherwoman Matsukaze)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>ツレ海人村雨（松風の妹）の霊、</j>
+<e type="trans" ver="1">Tsure (an actor appearing after Shite): The spirit of Ama Murasame (fisherwoman Murasame), a younger sister of Matsukaze</e>
+<cmt>用語集では「海人村雨」の説明は&quot;fisherman Murasame&quot;でしたが、女性なのでfisherwomanとしました。</cmt>
+<e type="trans" ver="2">Tsure (secondary main role): The spirit of Ama Murasame (fisherwoman Murasame), Matsukaze&apos;s younger sister</e>
+<cmt>An actor appearing after Shiteをsecondary main roleにしました。A younger sister of~を~&apos;s younger sisterにしました。</cmt>
+<e type="check" ver="1">Tsure (secondary main role): The spirit of Ama Murasame (fisherwoman Murasame), Matsukaze&apos;s younger sister</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>能ワキ旅の僧、</j>
+<e type="trans" ver="1">Noh Waki (a supporting actor): a traveling priest</e>
+<cmt></cmt>
+<e type="trans" ver="2">Noh Waki (supporting role): A traveling priest</e>
+<cmt>冠詞を削除しました。冠詞を大文字にしました。Actorをroleにしました。</cmt>
+<e type="check" ver="1">Noh Waki (supporting role): A traveling priest</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>アイ里の男。</j>
+<e type="trans" ver="1">Ai (a facilitator of a noh play): Sato no otoko (a man of village)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ai (facilitator): Sato no otoko (a man from the village)</e>
+<cmt>a facilitator of a noh playをfacilitatorにしました。Ofをfrom theにしました。</cmt>
+<e type="check" ver="1">Ai (facilitator): Sato no otoko (a man from the village)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>正面先に松の作り物。</j>
+<e type="trans" ver="1">An artificial pine is placed at the center in front.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An artificial pine is placed at front center.</e>
+<cmt>the center in frontをfront centerにしました。</cmt>
+<e type="check" ver="1">An artificial pine is placed at front center.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="12">
+<j>ワキとアイの応対により、海辺の松は松風、村雨姉妹の旧跡であると説明される。</j>
+<e type="trans" ver="1">It is explained by dialogue between Waki and Ai that the seaside pine is a historic spot of the sisters Matsukaze and Murasame.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is explained by dialogue between the Waki and Ai that the seaside pine is a historic spot of the sisters Matsukaze and Murasame.</e>
+<cmt>冠詞を追加しました。</cmt>
+<e type="check" ver="1">It is explained by dialogue between the Waki and Ai that the seaside pine is a historic spot of the sisters Matsukaze and Murasame.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>作り物の潮汲み車が置かれ、一声があり、松風と村雨の姉妹が登場する。</j>
+<e type="trans" ver="1">An artificial car to carry seawater barrels is placed, and the sisters Matsukaze and Murasame appear after Issei (one voice).</e>
+<cmt></cmt>
+<e type="trans" ver="2">An artificial car to carry seawater barrels is brought out, and after a cry the sisters Matsukaze and Murasame appear.</e>
+<cmt>Placedをbrought outにしました。一声をcryにしました。</cmt>
+<e type="check" ver="1">An artificial car to carry seawater barrels is brought out, and after a cry the sisters Matsukaze and Murasame appear.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>村雨は水桶を持つ。</j>
+<e type="trans" ver="1">Murasame brings a water barrel.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Murasame is holding a water barrel.</e>
+<cmt>Bringsをis holdingにしました。</cmt>
+<e type="check" ver="1">Murasame is holding a water barrel.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>姉妹は在原行平との恋の日々を舞い、謡う。</j>
+<e type="trans" ver="1">The sisters dance and sing with the days of love with ARIWARA no Yukihira in mind.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">The sisters dance and sing about the days of love with ARIWARA no Yukihira.</e>
+<cmt>with~in mindをaboutにしました。</cmt>
+<e type="check" ver="1">The sisters dance and sing about the days of love with ARIWARA no Yukihira.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>松風は大鼓前で床几に腰掛け、村雨はその後ろに座る。</j>
+<e type="trans" ver="1">Matsukaze sits down on shogi (a folding camp stool) in front of otsuzumi (a big drum) and Murasame sits down behind her.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">Matsukaze sits down on a shogi (a folding camp stool) in front of an otsuzumi (a big drum) and Murasame sits down behind her.</e>
+<cmt>冠詞を追加しました。</cmt>
+<e type="check" ver="1">Matsukaze sits down on a shogi (a folding camp stool) in front of an otsuzumi (a big drum) and Murasame sits down behind her.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="17">
+<j>ワキ僧はこの二人に対し、海人の家を一夜の宿とさせてくれぬかと乞う。</j>
+<e type="trans" ver="1">Waki priest asks them for a night&apos;s lodging at the house of ama.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Waki priest asks them for a night&apos;s lodging at the house of ama.</e>
+<cmt>冠詞を追加しました。</cmt>
+<e type="check" ver="1">The Waki priest asks them for a night&apos;s lodging at the house of ama.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>三人の会話の内に、須磨に流された貴公子在原行平と海人の姉妹が恋を結んだ次第が語られる。</j>
+<e type="trans" ver="1">Circumstances of the reciprocated love between kikoshi ARIWARA no Yukihira banished to Suma and the ama sisters are narrated in their conversation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Circumstances surrounding the love between the kikoshi ARIWARA no Yukihira who was banished to Suma and the ama sisters are narrated in their conversation.</e>
+<cmt>Ofをsurroundingにしました。冠詞を追加しました。Who wasを追加しました。</cmt>
+<e type="check" ver="1">Circumstances surrounding the love between the kikoshi ARIWARA no Yukihira who was banished to Suma and the ama sisters are narrated in their conversation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>美しい姉妹の容貌も恋情も身分違いの前には如何ともし難く、結局一途な恋は実ることがなかった。</j>
+<e type="trans" ver="1">Eventually their single-minded love did not come to a head because even the sisters&apos; beautiful looks and love passion could not defeat the status distinctions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Their single-minded love never came to a head because the sisters&apos; beauty and unrestrained love could not defeat their difference in status.</e>
+<cmt>Eventuallyをneverに変えました。Evenを削除しました。Beautiful looksをbeautyにしました。Love passionをunrestrained loveにしました。The status distinctionsをtheir difference in statusにしました。</cmt>
+<e type="check" ver="1">Their single-minded love never came to a head because the sisters&apos; beauty and unrestrained love could not defeat their difference in status.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>ここで姉妹は実は自分達がその昔の姉妹の霊であると打ち明け、平座する。</j>
+<e type="trans" ver="1">Then the sisters sit down comfortably, confiding that they are in fact the spirits of the sisters of the past.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Here the sisters sit down comfortably, confiding that they are in fact the spirits of the sisters of the past.</e>
+<cmt>Thenをhereにしました。</cmt>
+<e type="check" ver="1">Here the sisters sit down comfortably, confiding that they are in fact the spirits of the sisters of the past.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="21">
+<j>後ジテは行平形見の烏帽子と狩衣をまとい、ツレと共に叶わなかった恋と行平を偲び舞う。</j>
+<e type="trans" ver="1">Atojite (Shite that appears after nakairi), wearing eboshi (formal headwear for court nobles) and kariginu (informal clothes for court nobles) which are the remembrances of Yukihira, dances with Tsure remembering the devastated love and Yukihira.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Atojite (Shite of the latter half of the play), wearing the rememberances of Yukihira - an eboshi (formal headwear for court nobles) and kariginu (informal clothes for court nobles) – dances with the Tsure, remembering Yukihira and their impossible love.</e>
+<cmt>冠詞を追加しました。後ジテの説明を変えました。順序を自然にしました。Devastatedをimpossibleにしました。</cmt>
+<e type="check" ver="1">The Atojite (Shite of the latter half of the play), wearing the rememberances of Yukihira - an eboshi (formal headwear for court nobles) and kariginu (informal clothes for court nobles) – dances with the Tsure, remembering Yukihira and their impossible love.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>やがて、「立ち別れ　いなばの山の　峰に生ふる　待つとし聞かば　いま帰り来ん」（在原行平）の歌に始まる中ノ舞から心が激して破ノ舞となる。</j>
+<e type="trans" ver="1">Before long, Naka no mai (moderate-tempo dance), which begins with the poem &apos;I, leaving for Inaba Province, will return immediately if I hear you wait (matsu) for me like pines (matsu) growing at the peak of Mt. Inaba.&apos; (ARIWARA no Yukihira), turns into Ha no mai (very high-tempo dance) with the heart enraged.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">The Naka no mai (moderate-tempo dance), beginning with the poem &apos;Although I leave you and go to Inaba Province, I will return immediately if I hear you wait for me like the pines growing at the peak of Mt. Inaba (play on word – wait and pine are both pronounced &quot;matsu&quot;&apos; (ARIWARA no Yukihira), eventually turns into the Ha no mai (very high-tempo dance) as the sisters become more passionate.</e>
+<cmt>以下のサイトを参照して歌を編集しました。http://www.ogurasansou.co.jp/site/hyakunin/016.html自然な表現に修正しました。</cmt>
+<e type="check" ver="1">The Naka no mai (moderate-tempo dance), beginning with the poem &apos;Although I leave you and go to Inaba Province, I will return immediately if I hear you wait for me like the pines growing at the peak of Mt. Inaba (play on word – wait and pine are both pronounced &quot;matsu&quot;&apos; (ARIWARA no Yukihira), eventually turns into the Ha no mai (very high-tempo dance) as the sisters become more passionate.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>夜明けと共に霊は去って行く。</j>
+<e type="trans" ver="1">Then the spirits go away at the same time as daybreak.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">The spirits disappear as day breaks.</e>
+<cmt>訳し直しました。</cmt>
+<e type="check" ver="1">The spirits disappear as day breaks.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="24">
+<j>『帰る波の音の、須磨の浦かけて、吹くやうしろの山颪、』</j>
+<e type="trans" ver="1">&quot;With the sound of returning waves, yamaoroshi (wind blowing down a mountain) is blowing to Suma Bay at the back.</e>
+<cmt>一原文一訳文の例外対処。『』内を訳文3つに分割しました。</cmt>
+<e type="trans" ver="2">&quot;With the sound of returning waves, yamaoroshi (wind blowing down a mountain) is blowing to Suma Bay at the back.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;With the sound of returning waves, yamaoroshi (wind blowing down a mountain) is blowing to Suma Bay at the back.&quot;</e>
+<cmt>訳分では一文になっているので、原文は『』、および訳文は&quot;&quot;で囲みました。</cmt>
+</sen>
+<sen id="25">
+<j>『関路の鳥も声声に、夢も後なく夜も明けて、』</j>
+<e type="trans" ver="1">No signs of dreams are left when the day is dawning with voices of the birds over sekiji (way to barrier).</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">No signs of dreams are left when the day is dawning with voices of the birds over sekiji (way to barrier).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;No signs of dreams are left when the day is dawning with voices of the birds over sekiji (way to barrier).&quot;</e>
+<cmt>訳分では一文になっているので、原文は『』、および訳文は&quot;&quot;で囲みました。</cmt>
+</sen>
+<sen id="26">
+<j>『村雨と聞きしもけさ見れば、松風ばかりや残るらん、松風ばかりや残るらん』（ワキのトメ拍子）。</j>
+<e type="trans" ver="1">I heard Murasame is there, but this morning I can find only Matsukaze (also means wind in pines), I can find only Matsukaze.&quot; (tome-hyoshi [closing stamps] by Waki)</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">I heard Murasame is there, but this morning I can find only Matsukaze (also means wind in pines), I can find only Matsukaze&quot; (tome-hyoshi [closing stamps] by Waki).</e>
+<cmt>ピリオドを移動しました。</cmt>
+<e type="check" ver="1">&quot;I heard Murasame is there, but this morning I can find only Matsukaze (also means wind in pines), I can find only Matsukaze&quot; (tome-hyoshi [closing stamps] by Waki).&quot;</e>
+<cmt>訳分では一文になっているので、原文は『』、および訳文は&quot;&quot;で囲みました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="27">
+<j>熊野 (能)と共に賞賛された能である。</j>
+<e type="trans" ver="1">This noh play was praised together with Yuya (noh).</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">This Noh play has been praised together with Yuya (Noh).</e>
+<cmt>Nohを大文字にしました。時制を修正しました。</cmt>
+<e type="check" ver="1">This Noh play has been praised together with Yuya (Noh).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>熊野の春、松風の秋、熊野の花、松風の月と好対照をなしている。</j>
+<e type="trans" ver="1">There are nice contrasts between spring in Yuya and autumn in Matsukaze, and also flowers in Yuya and the moon in Matsukaze.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">There are nice contrasts between spring in Yuya and autumn in Matsukaze, and also flowers in Yuya and the moon in Matsukaze.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There are nice contrasts between spring in Yuya and autumn in Matsukaze, and also flowers in Yuya and the moon in Matsukaze.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>資料</j>
+<e type="trans" ver="1">Material</e>
+<cmt></cmt>
+<e type="trans" ver="2">Material</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Material</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="29">
+<j>岩波書店　日本古典文学大系　「謡曲集」上　「観阿弥関係の能」</j>
+<e type="trans" ver="1">&apos;Kanamikankei no noh (noh Kanami related)&apos;, the first book of &apos;Yokyokushu (collection of noh songs)&apos;, Japanese Classic Literature Systematic Edition by Iwanami Shoten, Publishers</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">Kanamikankei no Noh (Kanami-related Noh)&apos;, the first book of &apos;Yokyokushu (collection of Noh songs,&apos; Japanese Classic Literature Systematic Edition by Iwanami Shoten Publishers</e>
+<cmt>Nohを大文字にしました。Noh Kanami relatedをKanami-related Nohにしました。コンマを削除しました。</cmt>
+<e type="check" ver="1">Kanamikankei no Noh (Kanami-related Noh)&apos;, the first book of &apos;Yokyokushu (collection of Noh songs,&apos; Japanese Classic Literature Systematic Edition by Iwanami Shoten Publishers</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>引用部分はp.65の最終三行（第四刷）。</j>
+<e type="trans" ver="1">The quotations are the last three lines on page 65 (the fourth issue).</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">The quotations are the last three lines on page 65 (fourth issue).</e>
+<cmt>冠詞を削除しました。</cmt>
+<e type="check" ver="1">The quotations are the last three lines on page 65 (fourth issue).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>関連作品</j>
+<e type="trans" ver="1">Related Works</e>
+<cmt></cmt>
+<e type="trans" ver="2">Related Works</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Related Works</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="31">
+<j>行平には「病葉に 問ふ人あらば須磨の浦に 藻塩たれつつ侘ぶと答へよ」という歌もある。</j>
+<e type="trans" ver="1">Yukihira also wrote a poem &apos;If someone unexpectedly asks about me, answer that I live miserably dropping tears like dropping salt water from landed marine plants at Suma Bay.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yukihira also wrote the poem &apos;If someone unexpectedly asks about me, answer that I live miserably dropping tears like dropping salt water from landed marine plants at Suma Bay.&apos;</e>
+<cmt>冠詞を修正しました。</cmt>
+<e type="check" ver="1">Yukihira also wrote the poem &apos;If someone unexpectedly asks about me, answer that I live miserably dropping tears like dropping salt water from landed marine plants at Suma Bay.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="32">
+<j>熊野 (能)と同様に多くの古典芸能作品の題材となった。</j>
+<e type="trans" ver="1">Like Yuya (noh), Matsukaze was used as a subject matter of many classical performing arts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Like Yuya (Noh), Matsukaze was used as a subject matter of many classical performing art works.</e>
+<cmt>英語版wikipediaと同じくNohを大文字にしました。作品はworkとしました。</cmt>
+<e type="check" ver="1">Like Yuya (Noh), Matsukaze was used as a subject matter of many classical performing art works.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>松風・村雨を参照されたい。</j>
+<e type="trans" ver="1">See Matsukaze and Murasame.</e>
+<cmt></cmt>
+<e type="trans" ver="2">See Matsukaze and Murasame.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">See Matsukaze and Murasame.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 AlleborgoBot(id:119729), 桂鷺淵(id:151322), Yelm(id:33836), Miya(id:1881), R28Bot(id:177951), ささがに(id:228586), NekoJaNekoJa(id:23311), Toki-ho(id:10691), Zzzz(id:16596), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

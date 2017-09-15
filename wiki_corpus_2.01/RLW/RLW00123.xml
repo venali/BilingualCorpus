@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>四条駅 (京都市営地下鉄)</j>
+<e type="trans" ver="1">Shijo Station (Kyoto City Subway)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shijo Station (Kyoto City Subway)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shijo Station (Kyoto Municipal Subway)</e>
+<cmt>city→ municipal　としました。</cmt>
+</tit>
+<sen id="1">
+<j>四条駅（しじょうえき）は、京都府京都市下京区にある、京都市営地下鉄京都市営地下鉄烏丸線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Shimogyo Ward, Kyoto City, Kyoto Prefecture, Shijo Station is a stop of the Karasuma Line, which is operated by Kyoto City Subway.</e>
+<cmt>”京都市営地下鉄京都市営地下鉄”：”京都市営地下鉄”がだぶっていると考え、一方を削除したとして訳してあります。</cmt>
+<e type="trans" ver="2">Shijo Station, located in Shimogyo Ward, Kyoto City, Kyoto Prefecture, is a stop of the Karasuma Line, which is operated by Kyoto City Subway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Shijo Station, located in Shimogyo Ward, Kyoto City, Kyoto Prefecture, is a stop of the Karasuma Line, which is operated by Kyoto Municipal Subway.</e>
+<cmt>city→ municipal　としました。</cmt>
+</sen>
+<sen id="2">
+<j>駅番号はK09。</j>
+<e type="trans" ver="1">The station number is K09.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station number is K09.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The station number is K09.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sec id="1">
+<tit>
+<j>接続する鉄道路線</j>
+<e type="trans" ver="1">The railway lines connected</e>
+<cmt></cmt>
+<e type="trans" ver="2">Connected railway lines</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Connected railway lines</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>阪急電鉄（烏丸駅）</j>
+<e type="trans" ver="1">Hankyu Railway (Karasuma Station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Railway (Karasuma Station)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hankyu Railway (Karasuma Station)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>阪急京都本線</j>
+<e type="trans" ver="1">Hankyu Kyoto Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Kyoto Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hankyu Kyoto Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s layout</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他ファイルと統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>プラットホーム形状と配置1面2線を有する地下駅。</j>
+<e type="trans" ver="1">The station is located on the ground level, with a platform serving two tracks.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station is located on the ground level and has a platform serving two tracks.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station is located on the ground level and has a platform serving two tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>国道367号（烏丸通）の地下、四条通烏丸交差点に位置する。</j>
+<e type="trans" ver="1">This station is located in the underground of National Highway 367 and under the crossing between Shijo-dori Street and Karasuma-dori Street.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is located in the underground of National Highway 367 and under the crossing between Shijo-dori and Karasuma-dori streets.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This station is located in the underground of National Route 367 and under the crossing between Shijo-dori and Karasuma-dori streets.</e>
+<cmt>国道→national route としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>改札口は南北1ヶ所ずつあり、阪急京都本線烏丸駅乗換は北側改札利用となるが、ホームから阪急線改札との間にはやや距離がある（この駅のホーム北端の少し北側の上部を阪急線が通っている為である）。</j>
+<e type="trans" ver="1">With two entrance/exit gates, one on the north side and the other on the south side, the north-side entrance/extit gate is used for changing trains lines here, from the subway line to Karasuma Line on Hankyu Kyoto Line or vice versa, but the distance between the platform and the entrance/exit gate of the Hankyu line is rather longish (this is because the Hankyu line runs above the slightly north of the north end of this platform).</e>
+<cmt></cmt>
+<e type="trans" ver="2">With two entrance/exit gates, one on the north side and the other on the south side, the north-side entrance/exit gate is used for changing train lines from the subway line to the Karasuma Line on the Hankyu Kyoto Line or vice versa, but the distance between the platform and the entrance/exit gate of the Hankyu Line is relatively long because the Hankyu Line runs above the slightly north of the north end of this platform.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">With two entrance/exit gates, one on the north side and the other on the south side, the north-side entrance/exit gate is used for changing train lines from the subway line to the Karasuma Line on the Hankyu Kyoto Line or vice versa, but the distance between the platform and the entrance/exit gate of the Hankyu Line is relatively long because the Hankyu Line runs above the slightly north of the north end of this platform.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>北改札口と南改札口を結ぶ改札外の地下通路には、京都市証明書発行センターと交通局定期券販売所がある。</j>
+<e type="trans" ver="1">In the underground path connecting the north entrance/exit gate and south entrance/exit gate, located ouside these gates, a Kyoto City center for issuing certificates and a transportation bureau&apos;s season ticket sale office are placed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the underground path connecting the north entrance/exit gate and south entrance/exit gate, located outside these gates, there is a Kyoto City center for certificate issuance and a season-ticket sales office of the Transportation Bureau.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">In the underground path connecting the north entrance/exit gate and south entrance/exit gate, located outside these gates, there is a Kyoto City center for certificate issuance and a commuter ticket sales office of the Transportation Bureau.</e>
+<cmt>定期券→commuter ticket としました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>エレベーターは東芝製。</j>
+<e type="trans" ver="1">The elevators are from Toshiba.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The elevators were manufactured by Toshiba.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The elevators were manufactured by Toshiba.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station sorroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他ファイルと統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="10">
+<j>駅の周辺やバス乗り場については、四条烏丸を参照。</j>
+<e type="trans" ver="1">For the areas around the station and bus stops, refer to Shigo-Karasuma.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For the areas around the station and bus stops, refer to Shigo-Karasuma.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">For the areas around the station and bus stops, refer to Shijo-Karasuma.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="11">
+<j>京阪本線の四条駅_(京阪)とは、1km以上離れている（阪急河原町駅 (京都府)から四条大橋をわたってすぐ）。</j>
+<e type="trans" ver="1">Shijo Station (Keihan) on Keihan Main Line is located more than 1 km apart from this station (reached soon after crossing over Shijo-ohashi Bridge via Hankyu Kawaramachi Station (Kyoto Prefecture).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shijo Station (Keihan), on the Keihan Main Line, is located more than a kilometer from this station (but is reached soon after crossing over Shijo-ohashi Bridge via Hankyu Kawaramachi Station (Kyoto Prefecture)).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Shijo Station (Keihan), on the Keihan Main Line, is located more than a kilometer from this station (but is reached soon after crossing over Shijo-ohashi Bridge via Hankyu Kawaramachi Station (Kyoto Prefecture)).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>なお京阪側の四条駅は2008年10月19日に「祇園四条駅」に改称する予定。</j>
+<e type="trans" ver="1">The name of Shijo Station on the Keihan line is scheduled to be changed to Gion-shijo Station on October 19, 2008.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The name of Shijo Station on the Keihan Line was scheduled to be changed to Gion-shijo Station on October 19, 2008.</e>
+<cmt>article. ALSO CHANGED TO PAST TENSE</cmt>
+<e type="check" ver="1">The name of Shijo Station on the Keihan Line was scheduled to be changed to Gion-shijo Station on October 19, 2008.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>1981年5月19日 烏丸線が北大路～京都間で開業した際に設置。</j>
+<e type="trans" ver="1">May 19, 1981: This station was establishied when Karasuma Line started its operation between Kitaoji and Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">May 19, 1981: This station was established when the Karasuma Line started operating between Kitaoji and Kyoto.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">May 19, 1981: This station was established when the Karasuma Line started operating between Kitaoji and Kyoto.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="14">
+<j>2007年4月1日 PiTaPa使用開始。</j>
+<e type="trans" ver="1">April 1, 2007, PiTaPa (ICOCA) became usable.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 2007: PiTaPa (ICOCA) became usable.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">April 1, 2007: PiTaPa (ICOCA) became usable.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他ファイルと統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="15">
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto City Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>city→ municipal　としました。</cmt>
+</sen>
+<sen id="16">
+<j>■烏丸線</j>
+<e type="trans" ver="1">Karasuma Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Karasuma Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karasuma Line</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+<sen id="17">
+<j>烏丸御池駅(K08) - 四条駅(K09) - 五条駅_(京都市営地下鉄)(K10)</j>
+<e type="trans" ver="1">Karasuma Oike Station (K08) - Shijo Station (K09) - Gojo Station (Kyoto City Subway) (K10)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Karasuma Oike Station (K08) - Shijo Station (K09) - Gojo Station (Kyoto City Subway) (K10)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karasuma Oike Station (K08) - Shijo Station (K09) - Gojo Station (Kyoto Municipal Subway) (K10)</e>
+<cmt>city→ municipal　としました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Sushiya(id:110938), Hideyuki(id:9577), 城山(id:104901), V-TWIN POWER(id:49244), Etopirica(id:32491), Bergmann(id:85282), Hirofumitouhei(id:104137), 春野秋葉(id:36725), Wikipedianet(id:9608), KARS(id:43022), Memeja(id:110500), Miyuki h(id:84952), Rusk(id:9895), 準急三条(id:25072), Sunen(id:10700), Matsukaze(id:51778), Ktr(id:30468), Kouchiumi(id:19253), 金山銀山銅山(id:163855), Rislimric(id:54531), Goki(id:7107), Hidama(id:73276), Har-Poon-SSM(id:72987), Twilight2640(id:134273), Hirotaro(id:1437), 210.(id:9838), Takatetu(id:3231), Tmatsu(id:10583), まるこめ(id:70207), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

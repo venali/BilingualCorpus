@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>北近畿タンゴ鉄道宮津線</j>
+<e type="trans" ver="1">Kitakinki Tango Railway, Miyazu Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitakinki Tango Railway, Miyazu Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitakinki Tango Railway, Miyazu Line</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>宮津線（みやづせん）は、京都府舞鶴市の西舞鶴駅から宮津市の宮津駅を経由して兵庫県豊岡市の豊岡駅 (兵庫県)に至る北近畿タンゴ鉄道の鉄道路線である。</j>
+<e type="trans" ver="1">Miyazu Line is a railway of Kitakinki Tango Railway that connects Nishi-Maizuru Station in Maizuru City, Kyoto Prefecture, with Toyooka Station in Toyooka City, Hyogo Prefecture, via Miyazu Station in Miyazu City.</e>
+<cmt>「豊岡駅（兵庫県）」の「（兵庫県）」は重複表現につき省略しました。</cmt>
+<e type="trans" ver="2">The Miyazu Line is a railway operated by Kitakinki Tango Railway that connects Nishi-Maizuru Station in Maizuru City, Kyoto Prefecture, with Toyooka Station in Toyooka City, Hyogo Prefecture, via Miyazu Station in Miyazu City.</e>
+<cmt>Added &quot;The&quot;&quot;of&quot;→&quot;operated by&quot;</cmt>
+<e type="check" ver="1">The Miyazu Line is a railway operated by Kitakinki Tango Railway that connects Nishi-Maizuru Station in Maizuru City, Kyoto Prefecture, with Toyooka Station in Toyooka City, Hyogo Prefecture, via Miyazu Station in Miyazu City.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>丹後半島の付け根を通り、日本三景の天橋立などへの観光の足となっている。</j>
+<e type="trans" ver="1">It runs at the foot of Tango Peninsula, transporting many tourists to Amanohashidate, one of the so called three famous bearuty spots in Japan and to other places.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It runs along the foot of the Tango Peninsula, transporting many tourists to Amanohashidate, one of the three most scenic spots in Japan.</e>
+<cmt>&quot;at&quot;→&quot;along&quot;Added &quot;the&quot;Deleted &quot;so called&quot;Added &quot;most&quot;&quot;famous bearuty&quot;→&quot;scenic&quot;Deleted &quot;and other places&quot;</cmt>
+<e type="check" ver="1">It runs along the foot of the Tango Peninsula, transporting many tourists to Amanohashidate, one of the three most scenic spots in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>路線データ</j>
+<e type="trans" ver="1">Railway data</e>
+<cmt></cmt>
+<e type="trans" ver="2">Railway data</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Railway data</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>路線距離（営業キロ）：83.6km</j>
+<e type="trans" ver="1">Railway distance (operation kilometers): 83.6km</e>
+<cmt></cmt>
+<e type="trans" ver="2">Railway length (operating distance): 83.6km</e>
+<cmt>&quot;distance&quot;→&quot;length&quot;&quot;operation kilometers&quot;→&quot;operating distance&quot;</cmt>
+<e type="check" ver="1">Railway length (operating distance): 83.6 km</e>
+<cmt>単位の前にスペース</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>軌間：1067mm</j>
+<e type="trans" ver="1">Track gauge: 1067mm</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track gauge: 1067mm</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Track gauge: 1067 mm</e>
+<cmt>単位の前にスペース</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>駅数：19駅（起終点駅含む）</j>
+<e type="trans" ver="1">Number of stations: 19 stations (including the starting and the final stations)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Number of stations: 19 (including the starting and destination stations)</e>
+<cmt>Deleted &quot;stations&quot;&quot;the final&quot;→&quot;destination&quot;</cmt>
+<e type="check" ver="1">Number of stations: 19 (including the starting and destination stations)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="6">
+<j>複線区間：なし（全線単線）</j>
+<e type="trans" ver="1">Double-tracked section: none (the whole line is single-tracked)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Double-tracked section: none (the whole line is single-tracked)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Double-tracked section: none (the entire line is single-tracked)</e>
+<cmt>&quot;whole&quot; -&gt; &quot;entire&quot; に変更しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="7">
+<j>電化区間：</j>
+<e type="trans" ver="1">Electrified section:</e>
+<cmt></cmt>
+<e type="trans" ver="2">Electrified section:</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Electrified section:</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="8">
+<j>宮津～天橋立間電化（直流1500V）</j>
+<e type="trans" ver="1">The section between Miyazu Station and Amanohashidate Station is electrified (DC1500V.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The section between Miyazu Station and Amanohashidate Station is electrified (DC1500V.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The section between Miyazu Station and Amanohashidate Station is electrified (DC 1500 V.)</e>
+<cmt>単位の前にスペース</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="9">
+<j>西舞鶴～宮津間、天橋立～豊岡間非電化</j>
+<e type="trans" ver="1">The sections between Nishi-Maizuru Station and Miyazu Station and between Amanohashidate Station and Toyooka Station are not electrified yet.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The sections between Nishi-Maizuru Station and Miyazu Station and between Amanohashidate Station and Toyooka Station are not yet electrified.</e>
+<cmt>Moved &quot;yet&quot;</cmt>
+<e type="check" ver="1">The sections between Nishi-Maizuru Station and Miyazu Station and between Amanohashidate Station and Toyooka Station are not yet electrified.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="10">
+<j>閉塞 (鉄道)：特殊自動閉塞式（電子符号照査式）</j>
+<e type="trans" ver="1">Block (railway): Restricted Automatic Block System (Electronic Sign Checking System)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Block System (railway) : Restricted Automatic Block System (Electronic Sign Checking System)</e>
+<cmt>Added &quot;system&quot;</cmt>
+<e type="check" ver="1">Block System (railway) : Restricted Automatic Block System (Electronic Sign Checking System)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="11">
+<j>最高速度：85km/h</j>
+<e type="trans" ver="1">Maximum speed: 85km/h</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maximum speed: 85km/h</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maximum speed: 85 km/h</e>
+<cmt>単位の前にスペース</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>運行形態</j>
+<e type="trans" ver="1">Types of operation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Services</e>
+<cmt>&quot;Types of operation&quot;→&quot;Services&quot;</cmt>
+<e type="check" ver="1">Services</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="12">
+<j>沿線に観光地を数多く控えていることから、観光輸送のため多くの優等列車が設定されている。</j>
+<e type="trans" ver="1">With a lot of scenic spots along the line, it keeps many higher category trains(優等列車)to transport visitors.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Due to the large number of sightseeing spots along the line, the company runs many higher quality trains (優等列車 yuto-ressha)for tourists.</e>
+<cmt>&quot;With a lot of scenic&quot;→&quot;Due to the large number of sightseeing&quot;&quot;it keeps&quot;→&quot;the company runs&quot;&quot;to transport visitors&quot;→&quot;for tourists&quot;―Not sure of translation of 優等列車 or if Japanese is necessary in English version</cmt>
+<e type="check" ver="1">Due to the large number of sightseeing spots along the line, the company runs many higher quality trains for tourists.</e>
+<cmt>（優等列車 yuto-ressha）削除</cmt>
+</sen>
+<sen id="13">
+<j>北近畿タンゴ鉄道宮福線を経由して京都駅・新大阪駅方面と特別急行列車が直通運転されている。</j>
+<e type="trans" ver="1">Via Miyafuku Line of the Kitakinki Tango Railway, that connects Miyazu Station and Fukuchiyama Station, several through limited express trains are operated to carry passengers direct to and from Kyoto Station and Shin-Osaka. Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are several limited express trains to and from Kyoto Station and Shin-Osaka Station, via Kitakinki Tango Railway&apos;s Miyafuku Line.</e>
+<cmt>Changed word orderDeleted &quot;are operated to carry passengers direct&quot; and &quot;, that connects Miyazu Station and Fukuchiyama Station&quot;</cmt>
+<e type="check" ver="1">There are several limited express trains to and from Kyoto Station and Shin-Osaka Station, via Kitakinki Tango Railway&apos;s Miyafuku Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>運行列車と使用車両は以下の通り。</j>
+<e type="trans" ver="1">The following trains and rollingstocks are used for operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following trains and rollingstock are in use.</e>
+<cmt>Deleted &apos;s&apos;&quot;used for&quot;→&quot;in use&quot;Deleted &quot;for operation&quot;</cmt>
+<e type="check" ver="1">The following trains and rolling stock are in use.</e>
+<cmt>スペース挿入</cmt>
+</sen>
+<sen id="15">
+<j>なお、舞鶴線西舞鶴経由でも京都方面との優等列車が設定されていたが、2008年3月15日のダイヤ改正で宮福線経由に変更され、西舞鶴～宮津間は快速・普通列車のみの運転となった。</j>
+<e type="trans" ver="1">While some higher category trains(優等列車)had been in service bound for Kyoto area via Nishi-Maizuru Station of Maizuru Line, they were changed to take another route via Miyafuku Line due to the new timetable revised on March 15, 2008, consequently the section between Nishi-Maizru and Miyazu became to operate only rapid and local trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While some higher quality trains(優等列車)used to go to Kyoto via Nishi-Maizuru Station on the Maizuru Line, the route was changed to via the Miyafuku Line following the timetable revision of March 15, 2008, and consequently, only rapid and local trains operate on the section between Nishi-Maizru and Miyazu.</e>
+<cmt>&quot;had been in service bound for&quot;→&quot;used to go to&quot;&quot;they were&quot;→&quot;the route was&quot;Deleted &quot;take another route&quot;Added &quot;the&quot;&quot;due to the new&quot;→&quot;following the&quot;&quot;revised on&quot;→&quot;revision of&quot;Added &quot;and&quot;Changed word order</cmt>
+<e type="check" ver="1">While some higher quality trains used to go to Kyoto via Nishi-Maizuru Station on the Maizuru Line, the route was changed to via the Miyafuku Line following the timetable revision of March 15, 2008, and consequently, only rapid and local trains operate on the section between Nishi-Maizuru and Miyazu.</e>
+<cmt>(優等列車）削除Nishi-Maizru→Nishi-Maizuru</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="16">
+<j>宮福線経由</j>
+<e type="trans" ver="1">Via Miyafuku Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Via the Miyafuku Line</e>
+<cmt>Added &quot;the&quot;</cmt>
+<e type="check" ver="1">Via the Miyafuku Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="17">
+<j>特急「はしだて (列車)」（京都～天橋立）国鉄183系電車</j>
+<e type="trans" ver="1">JNR/JR Limited Express Series 183 is used for the limited express &quot;Hashidate (train),&quot; running between Kyoto and Amanohashidate..</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR Series 183 Limited Expresses are used for the limited express &quot;Hashidate (train),&quot; running between Kyoto and Amanohashidate..</e>
+<cmt>Changed word order.</cmt>
+<e type="check" ver="1">JNR/JR Series 183 Limited Expresses are used for the limited express &apos;Hashidate (train),&apos; running between Kyoto and Amanohashidate..</e>
+<cmt>原文の「」に合わせ、&quot;を&apos;に</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="18">
+<j>特急「文殊 (列車)」（新大阪～天橋立）183系電車</j>
+<e type="trans" ver="1">JNR/JR Limited Express Series 183.is used for the limited express &quot;Monju (train),&quot; running between Shin-Osaka and Amanohashidate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR Series 183 Limited Expresses are used for the limited express &quot;Monju (train),&quot; running between Shin-Osaka and Amanohashidate.</e>
+<cmt>Changed word order.</cmt>
+<e type="check" ver="1">JNR/JR Series 183 Limited Expresses are used for the limited express &apos;Monju (train),&apos; running between Shin-Osaka and Amanohashidate.</e>
+<cmt>原文の「」に合わせ、&quot;を&apos;に</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="19">
+<j>特急「タンゴエクスプローラー」（新大阪～宮津・豊岡、宮津～西舞鶴間快速・普通列車扱いあり）KTR001形気動車（2005年6月19日から2007年3月17日までは、KTR8000形気動車で運転していた）</j>
+<e type="trans" ver="1">KTR Limited Express (Diesel Cars) Series KTR001 is used for the limited express &quot;Tango Explorer,&quot; running between Shin-Osaka and Miyazu/Toyooka, with extra services as rapid/local trains between Miyazu and Nishi-Maizuru, while Series KTR8000 had been used for the same from June 19, 2005, to March 17, 2007.</e>
+<cmt></cmt>
+<e type="trans" ver="2">KTR 001 Series (from June 19, 2005, to March 17, 2007, the KTR 8000 was used) Limited Expresses (Diesel Cars) are used for the limited express &quot;Tango Explorer,&quot; running between Shin-Osaka and Miyazu/Toyooka, with extra services as rapid/local trains between Miyazu and Nishi-Maizuru.</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">KTR 001 Series (from June 19, 2005, to March 17, 2007, the KTR 8000 was used) Limited Expresses (Diesel Cars) are used for the limited express &apos;Tango Explorer,&apos; running between Shin-Osaka and Miyazu/Toyooka, with extra services as rapid/local trains between Miyazu and Nishi-Maizuru.</e>
+<cmt>原文の「」に合わせ、&quot;を&apos;に</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="20">
+<j>特急「タンゴディスカバリー」（京都～福知山～豊岡駅 (兵庫県)、久美浜～豊岡間快速列車扱いあり）北近畿タンゴ鉄道KTR8000形気動車（2005年6月19日から2007年3月17日までは、編成の一部を北近畿タンゴ鉄道KTR001形気動車で運転していた。</j>
+<e type="trans" ver="1">KTR Limited Express (Diesel Cars) Series KTR8000 is used for the limited express &quot;Tango Discovery,&quot; running from Kyoto to Fukuchiyama and Toyooka (Hyogo Prefecture), with extra services as rapid train between Kumihama and Toyooka, while the same train had partly used KTR Limited Express (Diesel Cars) Series KTR001 from June 19, 2005, to March 17, 2007.</e>
+<cmt></cmt>
+<e type="trans" ver="2">KTR 8000 Series Limited Expresses (Diesel Cars) are used for the limited express &quot;Tango Discovery,&quot; running from Kyoto to Fukuchiyama and Toyooka (Hyogo Prefecture), with extra services as rapid train between Kumihama and Toyooka, while the same train partly used the KTR 001 Series Limited Express (Diesel Cars) from June 19, 2005, to March 17, 2007.</e>
+<cmt>Changed word order &quot;has&quot;→&quot;was&quot;</cmt>
+<e type="check" ver="1">KTR 8000 Series Limited Expresses (Diesel Cars) are used for the limited express &apos;Tango Discovery,&apos; running from Kyoto to Fukuchiyama and Toyooka (Hyogo Prefecture), with extra services as rapid train between Kumihama and Toyooka, while the same train partly used the KTR 001 Series Limited Express (Diesel Cars) from June 19, 2005, to March 17, 2007.</e>
+<cmt>原文の「」に合わせ、&quot;を&apos;に</cmt>
+</sen>
+<sen id="21">
+<j>2008年3月15日から宮福線経由に変更）</j>
+<e type="trans" ver="1">As from March 15, 2008, it has changed to take a new route via Miyafuku Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From March 15, 2008, the route has run via the Miyafuku Line.</e>
+<cmt>Deleted &quot;As&quot;&quot;it has changed to take a new route&quot;→&quot;the route has run&quot;</cmt>
+<e type="check" ver="1">From March 15, 2008, the route has run via the Miyafuku Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="22">
+<j>このほか、天橋立駅で宮福線経由の特急に接続する特急「タンゴディスカバリー」が天橋立～豊岡間に運転されている。</j>
+<e type="trans" ver="1">In addition, the limited express &quot;Tango Discovery&quot; is now operated between Amanohashidate and Toyooka, which makes a connection at Amanohashidate with a limited express running via Miyafuku Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, the limited express &quot;Tango Discovery&quot; runs between Amanohashidate and Toyooka and connects at Amanohashidate with a limited express running via the Miyafuku Line.</e>
+<cmt>&quot;is now operated&quot;→&quot;runs&quot;&quot;which makes a connection&quot;→&quot;and connects&quot;</cmt>
+<e type="check" ver="1">In addition, the limited express &apos;Tango Discovery&apos; runs between Amanohashidate and Toyooka and connects at Amanohashidate with a limited express running via the Miyafuku Line.</e>
+<cmt>原文の「」に合わせ、&quot;を&apos;に</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="23">
+<j>周辺の各接続路線が電化された一方、宮津線内の電化区間は宮津～天橋立間だけであるので、電化区間だけを走る西日本旅客鉄道（JR西日本）の特急「はしだて」・「文殊」は電車、非電化区間にまたがって走る特急「タンゴディスカバリー」・「タンゴエクスプローラー」には自社の気動車が使用されている。</j>
+<e type="trans" ver="1">With all the surrounding lines electrified, Miyazu Line is not electrified except the section between Miyazu and Amanohashidate, so that electric trains of West Japan Railway Company (JR West) are used for the limited express &quot;Hashidate&quot; and &quot;Monju&quot; which run electrified sections only, and railway motor cars of Miyazu Line are used for the limited express &quot;Tango Discovery&quot; and &quot;Tango Explorer&quot; which run both electrified and unelectrified sections.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although all the surrounding lines are electrified, the only electrified section of theMiyazu Line is between Miyazu and Amanohashidate, so the West Japan Railway Company (JR West) limited expresses &quot;Hashidate&quot; and &quot;Monju,&quot; which only run on that section, are electric trains, while the limited expresses &quot;Tango Discovery&quot; and &quot;Tango Explorer,&quot; which run on both the electrified and unelectrified sections, are KTR diesel trains.</e>
+<cmt>&quot;With&quot;→&quot;Although&quot;Added &quot;are&quot;Reworded sentence</cmt>
+<e type="check" ver="1">Although all the surrounding lines are electrified, the only electrified section of the Miyazu Line is between Miyazu and Amanohashidate, so the West Japan Railway Company (JR West) limited expresses &apos;Hashidate&apos; and &apos;Monju,&apos; which only run on that section, are electric trains, while the limited expresses &apos;Tango Discovery&apos; and &apos;Tango Explorer,&apos; which run on both the electrified and unelectrified sections, are KTR diesel trains.</e>
+<cmt>スペース挿入原文の「」に合わせ、&quot;を&apos;に</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="24">
+<j>普通列車は、宮津駅、天橋立駅での特急接続を考慮したダイヤとなっていて、1～2時間に1本運行されている。</j>
+<e type="trans" ver="1">Local trains are operated once an hour or two, in accordance with the time table arranged for convenience of connection with limited expresses at Miyazu Station and Amanohashidate Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local trains run every one or two hours, in accordance with a time table arranged to connect with limited expresses at Miyazu Station and Amanohashidate Station.</e>
+<cmt>&quot;are operated once an hour or two&quot;→&quot;run every one or two hours&quot;&quot;the&quot;→&quot;a&quot;&quot;for convenience of connection&quot;→&quot;to connect&quot;</cmt>
+<e type="check" ver="1">Local trains run every one or two hours, in accordance with a time table arranged to connect with limited expresses at Miyazu Station and Amanohashidate Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>また、観光型列車として西舞鶴～天橋立間に快速「タンゴ浪漫号」、土曜・休日には一部の普通列車が「タンゴ悠遊号」として運転される。</j>
+<e type="trans" ver="1">As sightseeing-type trains, a rapid train &quot;Tango-Roman&quot; is operated between Nishi-Maizuru and Amanohashidate, as well some local trains are also operated as &quot;Tango-Yuyu&quot; every Saturday and holiday.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are also the sightseeing trains &quot;Tango-Roman,&quot; a rapid train which runs between Nishi-Maizuru and Amanohashidate, and &quot;Tango-Yuyu,&quot; a local train running on Saturdays and holidays</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">There are also the sightseeing trains &apos;Tango-Roman,&apos; a rapid train which runs between Nishi-Maizuru and Amanohashidate, and &apos;Tango-Yuyu,&apos; a local train running on Saturdays and holidays.</e>
+<cmt>原文の「」に合わせ、&quot;を&apos;にピリオドを補足</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>車両</j>
+<e type="trans" ver="1">Rolling stock</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rolling stock</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rolling stock</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="4">
+<tit>
+<j>現在使用中の車両</j>
+<e type="trans" ver="1">Currently used rolling stock</e>
+<cmt></cmt>
+<e type="trans" ver="2">Current rolling stock</e>
+<cmt>&quot;Currently used&quot;→&quot;Current&quot;</cmt>
+<e type="check" ver="1">Current rolling stock</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="26">
+<j>特急列車は運行形態を参照</j>
+<e type="trans" ver="1">As for express trains, please refer to the section of Types of Operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For express trains, please refer to the Services section.</e>
+<cmt>Deleted &quot;as&quot;&quot;Types of operation&quot;→&quot;Services&quot;Moved &quot;section&quot;</cmt>
+<e type="check" ver="1">For express trains, please refer to the Services section.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="27">
+<j>北近畿タンゴ鉄道KTR700・800形気動車</j>
+<e type="trans" ver="1">KTR Diesel Cars Series KTR700 &amp; 800</e>
+<cmt>北近畿タンゴ鉄道KTR700・800形気動車→KTR Diesel Cars Series KTR700 &amp; 800 (北近畿タンゴ鉄道KTR700・800形気動車)[定訳不明]</cmt>
+<e type="trans" ver="2">KTR 700 &amp; 800 Series Diesel Cars</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">KTR 700 &amp; 800 Series Diesel Cars</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="28">
+<j>北近畿タンゴ鉄道MF100・200形気動車（極稀に）</j>
+<e type="trans" ver="1">KTR Diesel Cars Series MF100 &amp; 200 (very rarely used)</e>
+<cmt>(北近畿タンゴ鉄道MF100・200形気動車)[定訳不明]</cmt>
+<e type="trans" ver="2">KTR MF100 &amp; 200 Series Diesel Cars Series (very rarely used)</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">KTR MF100 &amp; 200 Series Diesel Cars Series (very rarely used)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="29">
+<j>北近畿タンゴ鉄道KTR001形気動車（617D・650D）</j>
+<e type="trans" ver="1">KTR Limited Express (Diesel Cars) Series (617D/650D)</e>
+<cmt></cmt>
+<e type="trans" ver="2">KTR 001 Series Limited Express (Diesel Cars) (617D/650D)</e>
+<cmt>Added &quot;001&quot;Changed word order</cmt>
+<e type="check" ver="1">KTR 001 Series Limited Express (Diesel Cars) (617D/650D)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="30">
+<j>タンゴエクスプローラー号の、西舞鶴～宮津間の回送を兼ねたもの</j>
+<e type="trans" ver="1">Making use of deadheaded trains of &quot;Tango Explorer&quot; between Nishi-Maizuru and Miyazu</e>
+<cmt>「回送を兼ねる」を「回送列車を利用」と読み替えました。</cmt>
+<e type="trans" ver="2">Used for deadheading the &quot;Tango Explorer&quot; between Nishi-Maizuru and Miyazu</e>
+<cmt>&quot;Making use of deadheaded trains of&quot;→&quot;Used for deadheading the&quot;</cmt>
+<e type="check" ver="1">Used for deadheading the Tango Explorer between Nishi-Maizuru and Miyazu</e>
+<cmt>原文に『』のない&quot;　&quot;を削除</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="31">
+<j>北近畿タンゴ鉄道KTR8000形気動車（615D・619D・663D・611D・667D・614D・664D(9664D)・672D(9672D)）</j>
+<e type="trans" ver="1">KTR Limited Express (Diesel Cars) Series KTR8000 (615D/619D/663D/611D/667D/614D/664D(9664D)/672D(9672D))</e>
+<cmt></cmt>
+<e type="trans" ver="2">KTR 8000 Series Limited Express (Diesel Cars) (615D/619D/663D/611D/667D/614D/664D(9664D)/672D(9672D))</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">KTR 8000 Series Limited Express (Diesel Cars) (615D/619D/663D/611D/667D/614D/664D (9664D)/672D (9672D))</e>
+<cmt>スペース挿入</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="32">
+<j>国鉄183系電車（宮津～天橋立間）</j>
+<e type="trans" ver="1">JNR/JR Limited Express Series 183 (between Miyazu and Amanohashidate)</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR 183 Series Limited Express (between Miyazu and Amanohashidate)</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">JNR/JR 183 Series Limited Express (between Miyazu and Amanohashidate)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>国鉄・JR西日本時代の車両</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2">Rolling stock dated back to JR/JNR days</e>
+<cmt>Translated</cmt>
+<e type="check" ver="1">Rolling stock dated back to JR/JNR days</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="33">
+<j>蒸気機関車 - 1972年10月1日で運用終了。</j>
+<e type="trans" ver="1">Steam locomotives - whose operation was terminated on October 1, 1972</e>
+<cmt></cmt>
+<e type="trans" ver="2">Steam locomotives - withdrawn on October 1, 1972</e>
+<cmt>&quot;whose operation was terminated&quot;→&quot;withdrawn&quot;</cmt>
+<e type="check" ver="1">Steam locomotives - withdrawn on October 1, 1972</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>宮津線は、京都府内の日本国有鉄道線では最後の蒸気機関車運転区間だった。</j>
+<e type="trans" ver="1">Miyazu Line was the last section of steam locomotive operation in the area of Japan National Railway (JNR) lines in Kyoto Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Miyazu Line was the last Japan National Railway (JNR) line in Kyoto Prefecture continue using steam locomotives.</e>
+<cmt>Added &quot;The&quot;Changed word order</cmt>
+<e type="check" ver="1">The Miyazu Line was the last Japan National Railway (JNR) line in Kyoto Prefecture continue using steam locomotives.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="35">
+<j>国鉄9600形蒸気機関車 - 西舞鶴駅から網野駅まで（一部の列車は、舞鶴線経由、山陰本線綾部駅まで）の運転で、区間貨物列車や春の「チューリップ号」・夏の「はしだてビーチ」（天橋立駅まで）の専用牽引機だった。</j>
+<e type="trans" ver="1">JNR steam locomotive Type 9600 was exclusively used as a traction engine for sectional cargo trains operated from Nishi-Maizuru Station to Amino Station (a part of trains were operated upto Ayabe Station of San&apos;in Main Line, via Maizuru Line) and also for such seasonal trains as &quot;Tulip-go&quot; for spring and &quot;Hashidate-Beach&quot; for summer (this is only upto Amanohashidate).</e>
+<cmt>国鉄9600形蒸気機関車→JNR steam locomotive Type 9600 (国鉄9600形蒸気機関車)[定訳不明]</cmt>
+<e type="trans" ver="2">The JNR 9600 Type steam locomotive was used exclusively for hauling sectional cargo trains from Nishi-Maizuru Station to Amino Station (some trains went, via the Maizuru Line, to Ayabe Station on the San&apos;in Main Line) and also for such seasonal trains as the &quot;Tulip-go&quot; in spring and the &quot;Hashidate-Beach&quot; in summer (as far as Amanohashidate).</e>
+<cmt>Added &quot;The&quot;&quot;a part of&quot;→&quot;some&quot;&quot;were operated upto&quot;→&quot;went to&quot;&quot;of&quot;→&quot;on the&quot;&quot;for&quot;→&quot;in&quot;&quot;this is only upto&quot;→&quot;as far as&quot;</cmt>
+<e type="check" ver="1">The JNR 9600 Type steam locomotive was used exclusively for hauling sectional cargo trains from Nishi-Maizuru Station to Amino Station (some trains went, via the Maizuru Line, to Ayabe Station on the Sanin Main Line) and also for such seasonal trains as the &apos;Tulip-go&apos; in spring and the &apos;Hashidate-Beach&apos; in summer (as far as Amanohashidate).</e>
+<cmt>San&apos;in→Sanin</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="36">
+<j>国鉄C58形蒸気機関車 - 小浜線と共通運用・全区間</j>
+<e type="trans" ver="1">Operation of JNR steam locomotive C58 class is shared with Obama Line for the whole section.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The JNR C58 Type steam locomotive also ran on the whole Obama Line.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">The JNR C58 Type steam locomotive also ran on the whole Obama Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="37">
+<j>国鉄9600形蒸気機関車は、西舞鶴機関区（現・北近畿タンゴ鉄道西舞鶴運転区）所属、他は豊岡機関区（現JR西日本豊岡鉄道部）所属（貨物列車は西舞鶴区、旅客列車は豊岡区の担当だった）</j>
+<e type="trans" ver="1">JNR steam locomotive Type 9600 (国鉄9600形蒸気機関車) belonged to Nishi-Maizuru Engine Depot (current Nishi-Maizuru Operation Section of Kitakinki Tango Railway), and others belonged to Toyooka Engine Depot (current Toyooka Railway Division (豊岡鉄道部) of JR West), while operation of cargo trains has been assigned to Nishi-Maizuru Section and that of passenger trains to Toyooka Section.</e>
+<cmt>国鉄9600形蒸気機関車→JNR steam locomotive Type 9600 (国鉄9600形蒸気機関車)[定訳不明]</cmt>
+<e type="trans" ver="2">The JNR steam locomotive Type 9600 belonged to Nishi-Maizuru Engine Depot (currently Nishi-Maizuru Operation Section of Kitakinki Tango Railway); others belonged to Toyooka Engine Depot (currently Toyooka Railway Division of JR West), with the operation of cargo trains assigned to Nishi-Maizuru Section and that of passenger trains to Toyooka Section.</e>
+<cmt>Added &quot;the&quot;Deleted Japanese - not necessary&quot;current&quot;→&quot;currently&quot;&quot;while&quot;→&quot;with&quot;Added &quot;the&quot;Deleted &quot;had been&quot;</cmt>
+<e type="check" ver="1">The JNR steam locomotive Type 9600 belonged to Nishi-Maizuru Engine Depot (currently Nishi-Maizuru Operation Section of Kitakinki Tango Railway); others belonged to Toyooka Engine Depot (currently Toyooka Railway Division of JR West), with the operation of cargo trains assigned to Nishi-Maizuru Section and that of passenger trains to Toyooka Section.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="38">
+<j>気動車 - 一般型車両は福知山機関区（現・JR西日本福知山運転所）所属、特急型のキハ82系・キハ181系は向日町運転所（現・JR西日本京都総合運転所）所属。</j>
+<e type="trans" ver="1">Railay motor cars - general type cars belonged to Fukuchiyama Engine Depot (current Fukuchiyama operation center of JR West), and express type series Kiha (キハ)82 and Kiha (キハ)181 belonged to Mukomachi operation center (current Kyoto General Operation Center of JR West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Diesel cars - ordinary type cars belonged to Fukuchiyama Engine Depot (currently Fukuchiyama Operation Center of JR West), and the express type series Kiha 82 and Kiha 181 belonged to Mukomachi Operation Center (currently Kyoto General Operation Center of JR West)</e>
+<cmt>&quot;Railay motor&quot;→&quot;Diesel&quot;&quot;general&quot;→&quot;ordinary&quot;&quot;current&quot;→&quot;currently&quot;Deleted Japanese</cmt>
+<e type="check" ver="1">Diesel cars - ordinary type cars belonged to Fukuchiyama Engine Depot (currently Fukuchiyama Operation Center of JR West), and the express type series Kiha 82 and Kiha 181 belonged to Mukomachi Operation Center (currently Kyoto General Operation Center of JR West)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="39">
+<j>国鉄キハ10系気動車 - 中舞鶴線（1972年11月1日で廃止）と共通運用。</j>
+<e type="trans" ver="1">Operation of JNR/JR Diesel Cars Series Kiha 10 had been shared with Naka-Maizuru Line which discontinued services from November 1, 1972.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The JNR/JR Kiha 10 Series Diesel Cars also ran on the Naka-Maizuru Line, which closed on November 1, 1972.</e>
+<cmt>&quot;Operation of&quot;→&quot;The&quot;&quot;had been shared with&quot;→&quot;also ran on the&quot;&quot;discontinued services from&quot;→&quot;closed on&quot;</cmt>
+<e type="check" ver="1">The JNR/JR Kiha 10 Series Diesel Cars also ran on the Naka-Maizuru Line, which closed on November 1, 1972.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>現・廃車</j>
+<e type="trans" ver="1">Currently disused rolling stock</e>
+<cmt></cmt>
+<e type="trans" ver="2">Currently disused rolling stock</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Currently disused rolling stock</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="41">
+<j>国鉄キハ20系気動車</j>
+<e type="trans" ver="1">JNT/JR Diesel Cars Series Kiha 20</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNT/JR Kiha 20 Series Diesel Cars</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">JNT/JR Kiha 20 Series Diesel Cars</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="42">
+<j>国鉄キハ55系気動車</j>
+<e type="trans" ver="1">JNR/JR Diesel Cars Series Kiha 55</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR Kiha 55 SeriesDiesel Cars</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">JNR/JR Kiha 55 Series Diesel Cars</e>
+<cmt>スペース挿入</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="43">
+<j>国鉄キハ58系気動車</j>
+<e type="trans" ver="1">JNR/JR Diesel Cars Series Kiha 58</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR Kiha 58 Series Diesel Cars</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">JNR/JR Kiha 58 Series Diesel Cars</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="44">
+<j>国鉄キハ40系気動車 (2代)</j>
+<e type="trans" ver="1">JNR/JR Diesel Cars Series Kiha 40 (two generations)</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR Kiha 40 Series Diesel Cars (two generations)</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">JNR/JR Kiha 40 Series Diesel Cars (two generations)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="45">
+<j>国鉄キハ80系気動車</j>
+<e type="trans" ver="1">JNR/JR Diesel Cars Series Kiha 80</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR Kiha 80 Series Diesel Cars</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">JNR/JR Kiha 80 Series Diesel Cars</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="46">
+<j>国鉄キハ181系気動車</j>
+<e type="trans" ver="1">JNR/JR Limited Express (Diesel Cars) Kiha 181</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR Kiha 181 Series Limited Express (Diesel Cars)</e>
+<cmt>Changed word order Added&quot;Series&quot;</cmt>
+<e type="check" ver="1">JNR/JR Kiha 181 Series Limited Express (Diesel Cars)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="47">
+<j>元々は日本国有鉄道が運営する路線であったが、日本国有鉄道経営再建促進特別措置法の規定により特定地方交通線（第3次）に指定され、西日本旅客鉄道を経て、1990年4月1日から北近畿タンゴ鉄道が承継したものである。</j>
+<e type="trans" ver="1">The Miyazu Line, which had originally been operated by Japan National Railways, was designated as the Special Local Line (3rd) under the Act for Special Measures to Promote Restruction of Japan National Railways, and after being operated by West Japan Railway Company, it was succeeded by Kita-Kinki Tango Railway as from April 1, 1990.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Miyazu Line, which had originally been operated by Japan National Railways, was designated a Special Local Line (3rd class) under the Act for Special Measures to Promote Restructuring of Japan National Railways, and after being operated by West Japan Railway Company, it was taken over by Kita-Kinki Tango Railway from April 1, 1990.</e>
+<cmt>&quot;as the&quot;→&quot;a&quot;Added &quot;class&quot;&quot;Restruction&quot;→&quot;Restructuring&quot;&quot;succeeded&quot;&quot;→&quot;taken over&quot;Deleted &quot;as&quot;</cmt>
+<e type="check" ver="1">The Miyazu Line, which had originally been operated by Japan National Railways, was designated a Special Local Line (3rd class) under the Act for Special Measures to Promote Restructuring of Japan National Railways, and after being operated by West Japan Railway Company, it was taken over by Kita-Kinki Tango Railway from April 1, 1990.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>本路線を最後に、特定地方交通線の転換は終結した。</j>
+<e type="trans" ver="1">This line was the last one to complete conversion of the designated Special Local Lines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This line was the last one to be converted to a Special Local Line.</e>
+<cmt>&quot;complete conversion&quot;→&quot;be converted&quot;&quot;of the designated&quot;→&quot;to a&quot;</cmt>
+<e type="check" ver="1">This line was the last one to be converted to a Special Local Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="49">
+<j>1924年（大正13年）4月12日 - 宮津線 舞鶴（現在の西舞鶴駅）～宮津間（15.5マイル≒24.94km）が開業。</j>
+<e type="trans" ver="1">On April 12, 1924, Miyazu Line started services on the 15.5 mile (abt.24.94 km) railway between Maizuru (current Nishi-Maizuru Station) and Miyazu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 12, 1924 - Opening of Miyazu Line, from Maizuru (current Nishi-Maizuru Station) to Miyazu (15.5 miles/24.94 km.)</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">April 12, 1924: Opening of Miyazu Line, from Maizuru (current Nishi-Maizuru Station) to Miyazu (15.5 miles ≒ 24.94 km.)</e>
+<cmt>/→≒年表表記に統一</cmt>
+</sen>
+<sen id="50">
+<j>四所駅、東雲駅、丹後由良駅、栗田駅、宮津駅が開業。</j>
+<e type="trans" ver="1">Also, it commenced services at Shisho Station, Shinonome Station, Kunda Station, Miyazu Station and Tangoyura Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Opening of Shisho Station, Shinonome Station, Kunda Station, Miyazu Station and Tangoyura Station.</e>
+<cmt>&quot;Also, it commenced services at&quot;→&quot;Opening of&quot;</cmt>
+<e type="check" ver="1">Opening of Shisho Station, Shinonome Station, Kunda Station, Miyazu Station and Tangoyura Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="51">
+<j>1925年（大正14年）7月31日 - 宮津～丹後山田間（6.8M≒10.94km）が延伸開業。</j>
+<e type="trans" ver="1">On July 31, 1925, it began operation of extended section between Miyazu and Tangoyamada (6.8 miles or about 10.94 km.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">July 31, 1925 - Line extended from Miyazu to Tangoyamada (6.8 miles or about 10.94 km.)</e>
+<cmt>&quot;section between&quot;→&quot;from&quot;&quot;and&quot;→&quot;to&quot;</cmt>
+<e type="check" ver="1">July 31, 1925: Line extended from Miyazu to Tangoyamada (6.8 miles ≒ 10.94 km.)</e>
+<cmt>/→≒年表表記に統一</cmt>
+</sen>
+<sen id="52">
+<j>天橋立駅、岩滝口駅、丹後山田駅（現在の野田川駅）が開業。</j>
+<e type="trans" ver="1">It also commenced services at Amanohashidate Station, Iwatakiguchi Station and Tangoyamada Station (current Nodagawa Station.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Opening of Amanohashidate Station, Iwatakiguchi Station and Tangoyamada Station (currently Nodagawa Station.)</e>
+<cmt>&quot;It also commenced services at&quot;→&quot;Opening of&quot;&quot;current&quot;→&quot;currently&quot;</cmt>
+<e type="check" ver="1">Opening of Amanohashidate Station, Iwatakiguchi Station and Tangoyamada Station (currently Nodagawa Station.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="53">
+<j>11月3日 - 丹後山田～峰山間（7.8M≒12.55km）が延伸開業。</j>
+<e type="trans" ver="1">On November 3, it started operation of extended section between Tangoyamada and Mineyama (7.8 miles or about 12.55 km.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 3 - Line extended from Tangoyamada to Mineyama (7.8 miles or about 12.55 km.)</e>
+<cmt>&quot;section between&quot;→&quot;from&quot;&quot;and&quot;→&quot;to&quot;</cmt>
+<e type="check" ver="1">November 3: Line extended from Tangoyamada to Mineyama (7.8 miles ≒ 12.55 km).</e>
+<cmt>ピリオドを外に移動/→≒年表表記に統一</cmt>
+</sen>
+<sen id="54">
+<j>口大野駅（後の丹後大宮駅）、峰山駅が開業。</j>
+<e type="trans" ver="1">It also commenced services at Kuchiono Station (subsequent Tangoomiya Station) and Mineyama Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Opening of Kuchiono Station (subsequently Tangoomiya Station) and Mineyama Station.</e>
+<cmt>&quot;It also commenced services at&quot;→&quot;Opening of&quot;</cmt>
+<e type="check" ver="1">Opening of Kuchiono Station (subsequently Tangoomiya Station) and Mineyama Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="55">
+<j>1926年（昭和元年）12月25日 - 峰山～網野間（4.5M≒7.24km）が延伸開業。</j>
+<e type="trans" ver="1">On December 25, 1926, it started operation of extended section between Mineyama and Amino (4.5 miles or about 7.24 km.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 25, 1926 - Line extended from Mineyama and Amino (4.5 miles or about 7.24 km.)</e>
+<cmt>&quot;section between&quot;→&quot;from&quot;&quot;and&quot;→&quot;to&quot;</cmt>
+<e type="check" ver="1">December 25, 1926: Line extended from Mineyama and Amino (4.5 miles ≒ 7.24 km.)</e>
+<cmt>/→≒年表表記に統一</cmt>
+</sen>
+<sen id="56">
+<j>網野駅が開業。</j>
+<e type="trans" ver="1">It also commenced services at Amino Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Opening of Amino Station.</e>
+<cmt>&quot;It also commenced services at&quot;→&quot;Opening of&quot;</cmt>
+<e type="check" ver="1">Opening of Amino Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="57">
+<j>1929年（昭和3年）12月15日 - 峰豊線（みねとよせん）豊岡～久美浜間（7.4M≒11.91km）が開業。</j>
+<e type="trans" ver="1">On December 15, 1929, it started operation of 7.4 mile (about 11.91 km) railway between Toyooka of Minetoyo Line and Kumihama.</e>
+<cmt>西暦1929年と和暦「昭和3年」が不一致→西暦を採用しました。</cmt>
+<e type="trans" ver="2">December 15, 1929 - Opening of Minetoyo Line (7.4 miles/about 11.91 km), from Toyooka to Kumihama.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">December 15, 1929: Opening of Minetoyo Line (7.4 miles ≒ 11.91 km), from Toyooka to Kumihama.</e>
+<cmt>/→≒年表表記に統一</cmt>
+</sen>
+<sen id="58">
+<j>但馬三江駅、久美浜駅が開業。</j>
+<e type="trans" ver="1">It also commenced services at Tajimamie Station and Kumihama Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Opening of Tajimamie Station and Kumihama Station.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">Opening of Tajimamie Station and Kumihama Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="59">
+<j>1930年（昭和5年）4月1日 - 営業距離の単位をマイルからメートルに変更（宮津線 34.6M→55.7km、峰豊線 7.4M→11.9km）。</j>
+<e type="trans" ver="1">On April, 1, 1930, measuring unit of length of railway lines in operation was changed from mile to meter (accordingly, Miyazu Line is counted as 55.7 km long instead of 34.6 miles, and Minetoyo Line as 11.9 km long instead of 7.4 miles.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April, 1, 1930 - Operating distance units changed from miles to meters (Miyazu Line, 34.6miles=&gt;55.7 km, Minetoyo Line, 7.4miles=&gt;11.9 km.)</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">April 1, 1930: Operating distance units changed from miles to meters (Miyazu Line, 34.6 miles=&gt;55.7 km, Minetoyo Line, 7.4 miles=&gt;11.9 km.)</e>
+<cmt>コンマ削除スペース挿入年表表記に統一</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="60">
+<j>1931年（昭和5年）5月25日 - 宮津線 網野～丹後木津間 (5.6km) が延伸開業。</j>
+<e type="trans" ver="1">On May 25, 1931, it started operation of extended section between Amino of Miyazu Line and Tangokitsu (5.6 km.)</e>
+<cmt>西暦1931年と和暦「昭和5年」とが不一致→西暦を採用しました。</cmt>
+<e type="trans" ver="2">On May 25, 1931 - Miyazu Line extended from Amino to Tangokitsu (5.6 km.)</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">May 25, 1931: Miyazu Line extended from Amino to Tangokitsu (5.6 km).</e>
+<cmt>ピリオドを外に移動年表表記に統一</cmt>
+</sen>
+<sen id="61">
+<j>丹後木津駅（現在の木津温泉駅）が開業。</j>
+<e type="trans" ver="1">It also commenced services at Tangokitsu Station (current Kitsuonsen Station.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Opening of Tangokitsu Station (current Kitsuonsen Station.)</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">Opening of Tangokitsu Station (current Kitsuonsen Station.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="62">
+<j>1932年（昭和6年）8月10日 - 丹後木津～久美浜間 (10.8km) が開業し全通。</j>
+<e type="trans" ver="1">On August 10, 1932, it started operation of 10.8 km railway between Tangokitsu and Kumihama, which marked completion of works for its entire operation of the whole line.</e>
+<cmt>西暦1932年と和暦「昭和6年」とが不一致→西暦を採用しました。</cmt>
+<e type="trans" ver="2">August 10, 1932 - it started operation of 10.8 km railway between Tangokitsu and Kumihama, which marked completion of works for its entire operation of the whole line.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">August 10, 1932: It started operation of 10.8 km railway between Tangokitsu and Kumihama, which marked completion of work for its entire operation of the whole line.</e>
+<cmt>文法 -: “completion of works”=&gt;”completion of work”年表表記に統一</cmt>
+</sen>
+<sen id="63">
+<j>新規開業区間と峰豊線を宮津線に編入。</j>
+<e type="trans" ver="1">Newly started sections and Minetoyo Line are incorporated into Miyazu Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Newly started sections and Minetoyo Line incorporated into Miyazu Line.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">Newly started sections and Minetoyo Line incorporated into Miyazu Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="64">
+<j>丹後神野駅が開業。</j>
+<e type="trans" ver="1">It also commenced services at Tangokanno Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Opening of Tangokanno Station.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">Opening of Tangokanno Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="65">
+<j>1944年（昭和19年）1月20日 - 西舞鶴～四所間に高野信号場を開設。</j>
+<e type="trans" ver="1">On January 20, 1944, Takano signal station was established on the line between Nishi-Maizuru and Shisho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On January 20, 1944, Takano signal station established between Nishi-Maizuru and Shisho.</e>
+<cmt>Deleted &quot;on the line&quot;Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">January 20, 1944: Takano signal station established between Nishi-Maizuru and Shisho.</e>
+<cmt>統一の問題。ここで急に日付の前に “On” が使われている。“On” を削除。年表表記に統一</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="66">
+<j>4月1日 - 舞鶴駅を西舞鶴駅に改称。</j>
+<e type="trans" ver="1">On April 1, Maizuru Station was renamed to Nishi-Maizuru Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1 - Maizuru Station renamed Nishi-Maizuru Station.</e>
+<cmt>Deleted &quot;was&quot; and &quot;to&quot;Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">April 1: Maizuru Station renamed Nishi-Maizuru Station.</e>
+<cmt>OK</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="67">
+<j>1946年（昭和21年）11月21日 - 高野信号場廃止。</j>
+<e type="trans" ver="1">On November 21, 1946, Takano signal station was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 21, 1946 - Takano signal station closed.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">November 21, 1946: Takano signal station closed.</e>
+<cmt>統一の問題。ここで急に日付の前に “On” が使われている。“On” を削除。年表表記に統一</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="68">
+<j>1957年（昭和32年）6月22日 - 丹後神崎駅が開業。</j>
+<e type="trans" ver="1">On June 22, 1957, Tangokanzaki Station commenced its services.</e>
+<cmt></cmt>
+<e type="trans" ver="2">June 22, 1957 - Opening of Tangokanzaki Station.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">June 22, 1957: Opening of Tangokanzaki Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="69">
+<j>1962年（昭和37年）3月1日 - 甲山駅が開業。</j>
+<e type="trans" ver="1">On March 1, 1962, Koyama Station commenced its services.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 1, 1962 - Opening of Koyama Station.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">March 1, 1962: Opening of Koyama Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="70">
+<j>1963年（昭和38年）5月25日 - 口大野駅を丹後大宮駅に改称。</j>
+<e type="trans" ver="1">On May 25, 1963, Kuchiono Station commenced its services.</e>
+<cmt></cmt>
+<e type="trans" ver="2">May 25, 1963 - Opening of Kuchiono Station.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">May 25, 1963: Kuchiono Station renamed Tangoomiya Station.</e>
+<cmt>原文に合わせて全体的に修正年表表記に統一</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="71">
+<j>1972年（昭和47年）10月1日 - 山陰本線綾部（舞鶴線経由）・西舞鶴～網野間で京都府内の国鉄線で最後の蒸気機関車運転、西舞鶴機関区（現・北近畿タンゴ鉄道西舞鶴運転区）所属の国鉄9600形蒸気機関車蒸気機関車を使用。</j>
+<e type="trans" ver="1">On October 1, 1972, the final trip of the last steam locomotive kept by JNR within Kyoto prefecture was performed between Ayabe of the San&apos;in Main Line (via Maizuru Line) and Nishi-Maizuru and Amino. For this end, the JNR steam locomotive of Type 9600 which belonged to Nishi-Maizuru Engine Depot (current Nishi-Maizuru Operation Center of Kitakinki Tango Railway) was used.</e>
+<cmt>国鉄9600形蒸気機関車→JNR steam locomotive Type 9600 (国鉄9600形蒸気機関車)[定訳不明]</cmt>
+<e type="trans" ver="2">October 1, 1972 - Final trip of last steam locomotive (9600 Type, belonging to Nishi-Maizuru Engine Depot, currently Nishi-Maizuru Operation Center of Kitakinki Tango Railway) kept by JNR within Kyoto prefecture from Ayabe on San&apos;in Main Line (via Maizuru Line) and Nishi-Maizuru to Amino.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">October 1, 1972: Final trip of last steam locomotive (9600 Type, belonging to Nishi-Maizuru Engine Depot, currently Nishi-Maizuru Operation Center of Kitakinki Tango Railway) kept by JNR within Kyoto prefecture from Ayabe on Sanin Main Line (via Maizuru Line) and Nishi-Maizuru to Amino.</e>
+<cmt>San&apos;in→Sanin年表表記に統一</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="72">
+<j>1985年（昭和60年）3月14日 - 貨物営業廃止。</j>
+<e type="trans" ver="1">From March 14, 1985, it discontinued businesses of cargo transportation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 14, 1985 - Cargo transportation discontinued.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">March 14, 1985: Freight transportation discontinued.</e>
+<cmt>電車に対しては“freight” が “cargo”より適切。年表表記に統一</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="73">
+<j>1987年（昭和62年）2月3日 - 国鉄宮津線廃止承認（特定地方交通線第3次最終指定廃止対象）</j>
+<e type="trans" ver="1">On February 3, 1987, the issue of abolishment of JNR Miyazu Line was approved (which became the final line designated as the special local lines (3rd.))</e>
+<cmt></cmt>
+<e type="trans" ver="2">February 3, 1987 - Abolishment of JNR Miyazu Line approved (became final line designated a special local line (3rd class.))</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">February 3, 1987: Abolishment of JNR Miyazu Line approved (became final line designated a special local line (3rd class.))</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="74">
+<j>4月1日 - 国鉄分割民営化により西日本旅客鉄道が承継。</j>
+<e type="trans" ver="1">On April 1, it was transferred to West Japan Railway Company, following the division and privatization of JNR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1 - Transferred to West Japan Railway Company, following division and privatization of JNR.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">April 1: Transferred to West Japan Railway Company, following division and privatization of JNR.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="75">
+<j>1988年（昭和63年）4月7日 - 第三セクター鉄道への転換を決定。</j>
+<e type="trans" ver="1">On April 7, 1988, its conversion to a joint public-private enterprise was decided.</e>
+<cmt>第三セクター→joint public-private enterprise][英辞郎 on the WEB]</cmt>
+<e type="trans" ver="2">April 7, 1988 - Decision to convert to a joint public-private enterprise.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">April 7, 1988: Decision to convert to a joint public-private enterprise.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="76">
+<j>6月22日 - 宮福鉄道（現・北近畿タンゴ鉄道）第6回定時株主総会開催。</j>
+<e type="trans" ver="1">On June 22, the 6th ordinary general meeting of shareholders of Miyafuku Railway (宮福鉄道) (current Kita-Kinki Tango Railway) was held.</e>
+<cmt>宮福鉄道→Miyafuku Railway (宮福鉄道) /Miytafuku Tetsudo[定訳不明]</cmt>
+<e type="trans" ver="2">June 22 - 6th ordinary general meeting of shareholders of Miyafuku Railway (currently Kita-Kinki Tango Railway) held.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">June 22: 6th ordinary general meeting of shareholders of Miyafuku Railway (currently Kita-Kinki Tango Railway) held.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="77">
+<j>この中で、「転換計画」合意決定時には宮津線の運営を引き受けすることを決議する。</j>
+<e type="trans" ver="1">At this meeting, it was resolved that Miyafuku Railway (宮福鉄道) shall accept to succeed management of Miyazu Line when &apos;Conversion Plan&apos; is agreed and decided.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At meeting, resolution that Miyafuku Railway take over Miyazu Line after &apos;Conversion Plan&apos; agreed and decided on.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">At meeting, resolution that Miyafuku Railway take over Miyazu Line after &apos;Conversion Plan&apos; agreed and decided on.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="78">
+<j>宮津線特定地方交通線対策協議会第4回会議開催。</j>
+<e type="trans" ver="1">The 4th meeting of Conference for Measures for Miyazu Line Designated as Special Local Line was held.</e>
+<cmt></cmt>
+<e type="trans" ver="2">4th Conference on Measures for Miyazu Line Special Local Line held.</e>
+<cmt>Deleted &quot;meeting&quot;Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">4th Conference on Measures for Miyazu Line Special Local Line held.</e>
+<cmt>スペース削除</cmt>
+</sen>
+<sen id="79">
+<j>この中で、宮津線の代替輸送事業者として、宮福鉄道が運営を引き継ぐこと等を内容とする「転換計画」を全会一致で合意決定する。</j>
+<e type="trans" ver="1">At this meeting, the &apos;Conversion Plan&apos; was unanimously agreed and decided, including succession of management of Miyazu Line by Miyafuku Railway (宮福鉄道.)</e>
+<cmt>宮福鉄道→Miyafuku Railway (宮福鉄道) /Miytafuku Tetsudo[定訳不明]</cmt>
+<e type="trans" ver="2">At meeting, &apos;Conversion Plan&apos; unanimously agreed and decided, including succession of management of Miyazu Line by Miyafuku Railway.</e>
+<cmt>Removed JapaneseRewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">At meeting, &apos;Conversion Plan&apos; unanimously agreed and decided, including succession of management of Miyazu Line by Miyafuku Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="80">
+<j>1990年（平成2年）4月1日 - JR西日本宮津線 (84.0km) 廃止、北近畿タンゴ鉄道宮津線 (83.6km) 開業。</j>
+<e type="trans" ver="1">On April 1, 1990, JR West&apos;s Miyazu Line (84.0 km) was abolished and Miyazu Line of Kita-Kinki Tango Railway (83.6 km) has started its operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1990 - JR West&apos;s Miyazu Line (84.0 km) abolished and Kita-Kinki Tango Railway&apos;s Miyazu Line (83.6 km) opened.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">April 1, 1990: JR West&apos;s Miyazu Line (84.0 km) abolished and Kita-Kinki Tango Railway&apos;s Miyazu Line (83.6 km) opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="81">
+<j>丹後山田駅を野田川駅に、丹後木津駅を木津温泉駅に改称。</j>
+<e type="trans" ver="1">Tangoyamada Station was renamed to Nodagawa Station, and Tangokitsu Station to Kitsuonsen Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tangoyamada Station renamed Nodagawa Station, Tangokitsu Station renamed Kitsuonsen Station.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">Tangoyamada Station renamed Nodagawa Station, Tangokitsu Station renamed Kitsuonsen Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="82">
+<j>1992年（平成4年）1月10日 - 列車無線運用開始。</j>
+<e type="trans" ver="1">On January 10, 1992, it started operation of wireless train control system (列車無線運用.).</e>
+<cmt></cmt>
+<e type="trans" ver="2">January 10, 1992 - Introduction of wireless train control system.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">January 10, 1992: Introduction of wireless train control system.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="83">
+<j>1993年（平成5年）4月16日 - 宮津～天橋立間鉄道電化・高速化事業の基本計画及び鉄道施設変更認可申請。</j>
+<e type="trans" ver="1">On April 16, 1993, it applied for approval of modification of its basic plan on electrification and speeding up of the section between Miyazu and Amanohashidate, as well as modification of the relative railway facilities.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 16, 1993 - Application for approval of modification of basic plan on electrification and speeding up of section between Miyazu and Amanohashidate, as well as modification of relevant railway facilities.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.&quot;relative&quot;→&quot;relevant&quot;</cmt>
+<e type="check" ver="1">April 16, 1993: Application for approval of modification of basic plan on electrification and speeding up of section between Miyazu and Amanohashidate, as well as modification of relevant railway facilities.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="84">
+<j>5月13日 - 基本計画変更認可。</j>
+<e type="trans" ver="1">On May 13, application for modification of the basic plan was approved.</e>
+<cmt></cmt>
+<e type="trans" ver="2">May 13 -Approval of application for modification of the basic plan.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">May 13: Approval of application for modification of the basic plan.</e>
+<cmt>スペース挿入年表表記に統一</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="85">
+<j>5月14日 - 鉄道施設変更認可。</j>
+<e type="trans" ver="1">On May 14, application for modification of the relative railway facilities was approved.</e>
+<cmt></cmt>
+<e type="trans" ver="2">May 14 - Approval of application for modification of relevant railway facilities.</e>
+<cmt>&quot;relative&quot;→&quot;relevant&quot;Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">May 14: Approval of application for modification of relevant railway facilities.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="27">
+<sen id="86">
+<j>6月10日 - 工事実地計画の指示、鉄道整備基金事業認定。</j>
+<e type="trans" ver="1">On June 10, instruction for implementation program was given, and authorization for Railway Development Fund was granted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">June 10 - instruction for implementation program given, and authorization for Railway Development Fund granted.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">June 10: Instruction for implementation program given, and authorization for Railway Development Fund granted.</e>
+<cmt>instruction→Instruction年表表記に統一</cmt>
+</sen>
+</par>
+<par id="28">
+<sen id="87">
+<j>7月21日 - 電化・高速化事業の起工式開催。</j>
+<e type="trans" ver="1">On July 21, a groundbreaking ceremony for electrification and speeding-up works was held.</e>
+<cmt></cmt>
+<e type="trans" ver="2">July 21 - Groundbreaking ceremony for electrification and speeding-up works held.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">July 21: Groundbreaking ceremony for electrification and speeding-up work held.</e>
+<cmt>文法。 ”work”は複数にならない。 “works” =&gt; ”work”年表表記に統一</cmt>
+</sen>
+</par>
+<par id="29">
+<sen id="88">
+<j>1996年（平成8年）3月16日 - 宮津～天橋立間が電化。</j>
+<e type="trans" ver="1">On March 16, 1996, electrification between Miyazu and Amanohashidate was completed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 16, 1996 - Electrification between Miyazu and Amanohashidate completed.</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">March 16, 1996: Electrification between Miyazu and Amanohashidate completed.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="89">
+<j>西日本旅客鉄道の電車特急「はしだて」・「文殊」が運転開始。</j>
+<e type="trans" ver="1">West Japan Railway Company commenced operation of electric express &quot;Hashidate&quot; and &quot;Monju.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company commenced operation of electric expresses &quot;Hashidate&quot; and &quot;Monju.&quot;</e>
+<cmt>Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">West Japan Railway Company commenced operation of electric expresses &apos;Hashidate&apos; and &apos;Monju.&apos;</e>
+<cmt>原文の「」に合わせ&quot;を&apos;に</cmt>
+</sen>
+</par>
+<par id="30">
+<sen id="90">
+<j>2008年（平成20年）3月 - 円山川橋梁架け替え工事開始。</j>
+<e type="trans" ver="1">In March, 2008, reconstruction works of Maruyama-gawa bridge started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March, 2008 - Renovation of Maruyama-gawa bridge started.</e>
+<cmt>&quot;reconstruction works&quot;→&quot;Renovation&quot;Rewrote the following chronology in a &apos;note&apos; style, as in Japanese original, removing articles auxilliary verbs, etc.</cmt>
+<e type="check" ver="1">March, 2008: Renovation of Maruyama-gawa bridge started.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>駅一覧・接続路線</j>
+<e type="trans" ver="1">Synoptical Tables of all Stations with Connecting Lines</e>
+<cmt></cmt>
+<e type="trans" ver="2">List of Stations and Connections</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">List of Stations and Connections</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="8">
+<tit>
+<j>過去の接続路線</j>
+<e type="trans" ver="1">Connecting Lines in the Past</e>
+<cmt></cmt>
+<e type="trans" ver="2">Former Connecting Lines</e>
+<cmt>Added &quot;Former&quot;Deleted &quot;in the Past&quot;</cmt>
+<e type="check" ver="1">Former Connecting Lines</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="91">
+<j>野田川駅（丹後山田駅）：加悦鉄道</j>
+<e type="trans" ver="1">Nodagawa Station (Tangoyamada Station): Kaya Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nodagawa Station (Tangoyamada Station): Kaya Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nodagawa Station (Tangoyamada Station): Kaya Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Sushiya(id:110938), 味村(id:128437), Kiha58-1047(id:86788), Makiharashouten(id:1021), ウース(id:31355), Sat.K(id:3751), Mover(id:7146), エアスマップIRE(id:13873), Utsuda(id:605), 220.(id:7930), DDatKYOTO(id:122010), Mop(id:12061), Rusk(id:9895), Yasu2006(id:93004), 継之助(id:39352), ぱむ(id:24323), 金山銀山銅山(id:163855), Zzz(id:22946), Kone(id:377), 210.(id:9838), Sinryow(id:4485), HK3817(id:21293), Sea of Japan(id:3230), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

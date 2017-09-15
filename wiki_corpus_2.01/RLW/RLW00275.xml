@@ -1,0 +1,3334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>片町線</j>
+<e type="trans" ver="1">Katamachi Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katamachi Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Katamachi Line</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>片町線（かたまちせん）は、京都府木津川市の木津駅 (京都府)から大阪府大阪市の京橋駅 (大阪府)に至る西日本旅客鉄道（JR西日本）の鉄道路線（幹線）である。</j>
+<e type="trans" ver="1">Katamachi Line refers to the railway (trunk line) of West Japan Railway Company (JR West Japan) between Kizu station (Kyoto prefecture) in Kizu city, Kyoto prefecture and Kyobashi station (Osaka prefecture) in Osaka city, Osaka prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katamachi Line refers to the railway (trunk line) of West Japan Railway Company (JR West Japan) between Kizu station (Kyoto prefecture) in Kizu city, Kyoto prefecture and Kyobashi station (Osaka prefecture) in Osaka city, Osaka prefecture.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Katamachi Line refers to the railway (trunk line) of West Japan Railway Company (JR West Japan) between Kizu Station (Kyoto Prefecture) in Kizu City, Kyoto Prefecture and Kyobashi Station (Osaka Prefecture) in Osaka City, Osaka Prefecture.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="2">
+<j>愛称は学研都市線（がっけんとしせん）。</j>
+<e type="trans" ver="1">It is nicknamed Gakkentoshi Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is nicknamed the Gakkentoshi Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is nicknamed the Gakkentoshi Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>このほか、通称おおさか東線城東貨物線と呼ばれる鴫野 - 吹田間及び正覚寺信号場 - 平野間の貨物支線を持つ。</j>
+<e type="trans" ver="1">Besides, it includes the freight feeder lines between Shigino and Suita, which are commonly called the Joto Goods Line of Osaka Higashi Line, and between Shogakuji signal station and Hirano.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It also includes the freight feeder lines between Shigino and Suita, which are commonly called the Joto Goods Line of the Osaka Higashi Line, and is between Shogakuji signal station and Hirano.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It also includes the freight feeder lines between Shigino and Suita, which are commonly called the Joto Goods Line of the Osaka Higashi Line, and is between Shogakuji signal station and Hirano.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>全線が大都市近郊区間、長尾駅 (大阪府) - 京橋間が電車特定区間に含まれる。</j>
+<e type="trans" ver="1">All lines are included in a big city urban section and the line between Nagao station (Osaka prefecture) and Kyobashi station is included in an electric train specific section.</e>
+<cmt>「大都市近郊区間」をbig city urban section、「電車特定区間」をelectric train specific sectionとしました。</cmt>
+<e type="trans" ver="2">All lines are included in a big city section and the line between Nagao station (Osaka prefecture) and Kyobashi station is included in a specific electric train section.</e>
+<cmt>grammar, redudancy</cmt>
+<e type="check" ver="1">All lines are included in a big city section and the line between Nagao Station (Osaka Prefecture) and Kyobashi Station is included in a specific electric train section.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>ラインカラーは黄緑（）。</j>
+<e type="trans" ver="1">The line color is yellow green ().</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line color is yellow green ().</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line color is yellow green ().</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>選定理由は「これからの若いエネルギーをイメージ」とされている。</j>
+<e type="trans" ver="1">The reason why this color is chosen is because &quot;it expresses the future young energy.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The reason for this color is because &quot;it expresses the youthful energy of the future.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The reason for this color is because &apos;it expresses the youthful energy of the future.&apos;</e>
+<cmt>&quot;→&apos;</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>路線データ</j>
+<e type="trans" ver="1">The railroad data</e>
+<cmt></cmt>
+<e type="trans" ver="2">Railroad data</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Railroad data</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="7">
+<j>路線距離（営業キロ）：</j>
+<e type="trans" ver="1">The distance of the railroad (operation kilometers) :</e>
+<cmt></cmt>
+<e type="trans" ver="2">The distance of the railroad (operational kilometers) :</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The distance of the railroad (operational kilometers):</e>
+<cmt>スペース削除</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>西日本旅客鉄道（鉄道事業者）：</j>
+<e type="trans" ver="1">West Japan Railway Company (railway operator) :</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (railway operator) :</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (railway operator):</e>
+<cmt>スペース削除</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>木津 - 京橋間 44.8km</j>
+<e type="trans" ver="1">The distance between Kizu and Kyobashi is 44.8 km.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The distance between Kizu and Kyobashi is 44.8 km.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The distance between Kizu and Kyobashi is 44.8 km.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>鴫野 - 吹田間 9.1km</j>
+<e type="trans" ver="1">The distance between Shigino and Suita is 9.1 km.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The distance between Shigino and Suita is 9.1 km.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The distance between Shigino and Suita is 9.1 km.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="11">
+<j>正覚寺信号場 - 平野間 1.5km</j>
+<e type="trans" ver="1">The distance between Shogakuji signal station and Hirano is 1.5 km.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The distance between Shogakuji signal station and Hirano is 1.5 km.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The distance between Shogakuji signal station and Hirano is 1.5 km.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="12">
+<j>日本貨物鉄道（鉄道事業者）：</j>
+<e type="trans" ver="1">Japan Freight Railway Company (railway operator) :</e>
+<cmt></cmt>
+<e type="trans" ver="2">Japan Freight Railway Company (railway operator) :</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Japan Freight Railway Company (railway operator) :</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="13">
+<j>徳庵 - 鴫野間 (3.4km)</j>
+<e type="trans" ver="1">The distance between Tokuan and Shigino (3.4 km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The distance between Tokuan and Shigino (3.4 km).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The distance between Tokuan and Shigino (3.4 km).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="14">
+<j>鴫野 - 吹田間 (9.1km)</j>
+<e type="trans" ver="1">The distance between Shigino and Suita (9.1 km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The distance between Shigino and Suita (9.1 km).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The distance between Shigino and Suita (9.1 km).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="15">
+<j>正覚寺信号場 - 平野間 (1.5km)</j>
+<e type="trans" ver="1">The distance between Shogakuji signal station and Hirano (1.5 km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The distance between Shogakuji signal station and Hirano (1.5 km).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The distance between Shogakuji signal station and Hirano (1.5 km).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="16">
+<j>軌間：1067mm</j>
+<e type="trans" ver="1">The gauge : 1067mm</e>
+<cmt></cmt>
+<e type="trans" ver="2">The gauge: 1067mm</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The gauge: 1067 mm</e>
+<cmt>スペース挿入</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="17">
+<j>駅数：24駅（起終点駅含む、貨物支線除く）</j>
+<e type="trans" ver="1">The number of stations : 24 stations (including both the terminal stations, except for freight feeder lines)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of stations: twenty-four stations (including both the terminal stations, except for freight feeder lines)</e>
+<cmt>punctuation, grammar</cmt>
+<e type="check" ver="1">The number of stations: twenty-four stations (including both the terminal stations, except for freight feeder lines)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="18">
+<j>複線区間：松井山手 - 京橋間</j>
+<e type="trans" ver="1">Double line sections : between Matsuiyamate and Kyobashi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Double line sections: between Matsuiyamate and Kyobashi</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Double line sections: between Matsuiyamate and Kyobashi</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="19">
+<j>電化区間：正覚寺信号場 - 平野間を除く全線（直流1500V）</j>
+<e type="trans" ver="1">Electrified section : all lines except between Shogakuji signal station and Hirano (direct current 1500V)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Electrified section: all lines except between the Shogakuji signal station and Hirano (direct current 1500V)</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Electrified section: all lines except between the Shogakuji signal station and Hirano (direct current 1500 V)</e>
+<cmt>スペース挿入</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="20">
+<j>閉塞 (鉄道)</j>
+<e type="trans" ver="1">Block (railway)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Block (railway)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Block (railway)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="21">
+<j>木津 - JR三山木：自動閉塞式（特殊）</j>
+<e type="trans" ver="1">Between Kizu and JR Miyamaki : automatic block system (special)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Between Kizu and JR Miyamaki: automatic blocking system (special)</e>
+<cmt>punctuation, grammar</cmt>
+<e type="check" ver="1">Between Kizu and JR Miyamaki: automatic blocking system (special)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="22">
+<j>JR三山木 - 松井山手：単線自動閉塞式</j>
+<e type="trans" ver="1">Between Miyamaki and Matsuiyamate : single line automatic block system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Between Miyamaki and Matsuiyamate: single line automatic blocking system</e>
+<cmt>punctuation, grammar</cmt>
+<e type="check" ver="1">Between Miyamaki and Matsuiyamate: single line automatic blocking system</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="23">
+<j>松井山手 - 京橋：複線自動閉塞式</j>
+<e type="trans" ver="1">Between Matsuiyamate and Kyobashi : double line automatic block system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Between Matsuiyamate and Kyobashi: double line automatic blocking system</e>
+<cmt>punctuation, grammar</cmt>
+<e type="check" ver="1">Between Matsuiyamate and Kyobashi: double line automatic blocking system</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="24">
+<j>保安装置：木津 - 京田辺間自動列車停止装置、京田辺 - 京橋間自動列車停止装置（拠点P）およびATS-SW</j>
+<e type="trans" ver="1">Security device : Between Kizu and Kyotanabe is ATS : automatic train stop (system), between Kyotanabe and Kyobashi is Base P system and ATS-SW.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Security device: Between Kizu and Kyotanabe is the ATS : automatic train stopping (system), between Kyotanabe and Kyobashi is the Base P system and ATS-SW.</e>
+<cmt>punctuation, grammar</cmt>
+<e type="check" ver="1">Security device: Between Kizu and Kyotanabe is the ATS: automatic train stopping (system), between Kyotanabe and Kyobashi is the Base P system and ATS-SW.</e>
+<cmt>スペース削除</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="25">
+<j>（2011年度中に全線がATS-Pに統一される予定）</j>
+<e type="trans" ver="1">(All lines will be scheduled to be unified to ATS-P in the year 2011.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(All lines are scheduled to be unified to ATS-P in the year 2011.)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">(All lines are scheduled to be unified to ATS-P in the year 2011.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="26">
+<j>最高速度：110km/h</j>
+<e type="trans" ver="1">The maximum speed : 110km/h</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maximum speed: 110km/h</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Maximum speed: 110 km/h</e>
+<cmt>スペース挿入</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="27">
+<j>運転指令所：新大阪総合指令所</j>
+<e type="trans" ver="1">The operation Center : Shin-Osaka General Operations Control Center</e>
+<cmt></cmt>
+<e type="trans" ver="2">The operation Center: Shin-Osaka General Operations Control Center</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The operation Center: Shin-Osaka General Operations Control Center</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="28">
+<j>保線区：木津 - 星田間（大和路線保線区）、星田 - 京橋間（天王寺保線区）</j>
+<e type="trans" ver="1">The track maintenance section : between Kizu and Hoshida (Yamatoji Line track maintenance section), and between Hoshida and Kyobashi (Tennoji track maintenance section)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track maintenance section: between Kizu and Hoshida (Yamatoji Line track maintenance section), and between Hoshida and Kyobashi (Tennoji track maintenance section)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Track maintenance section: between Kizu and Hoshida (Yamatoji Line track maintenance section), and between Hoshida and Kyobashi (Tennoji track maintenance section)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="29">
+<j>※全区間とも西日本旅客鉄道大阪支社の直轄である。</j>
+<e type="trans" ver="1">* All lines are under direct jurisdiction of West Japan Railway Company, Osaka branch.</e>
+<cmt></cmt>
+<e type="trans" ver="2">* All lines are under direct jurisdiction of the West Japan Railway Company, Osaka branch.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">* All lines are under direct jurisdiction of the West Japan Railway Company, Osaka branch.</e>
+<cmt>全角削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="30">
+<j>生駒山地の北端を廻り、大阪府北東部の都市や京都府南部に広がる住宅地と大阪・阪神方面との通勤・通学路線となっている。</j>
+<e type="trans" ver="1">The line runs around the north side of Ikoma Mountain Range and is the commuter line which links the cities in the northeast area of Osaka prefecture or the residential areas spread around the south area of Kyoto prefecture and the areas in Osaka and Hanshin (Osaka and Kobe) regions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line runs around the north side of the Ikoma Mountain Range and is the commuter line linking the cities in the northeast area of Osaka prefecture or the residential areas spread around the south area of Kyoto prefecture and the areas in Osaka and the Hanshin (Osaka and Kobe) regions.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The line runs around the north side of the Ikoma Mountain Range and is the commuter line linking the cities in the northeast area of Osaka Prefecture or the residential areas spread around the south area of Kyoto Prefecture and the areas in Osaka and the Hanshin (Osaka and Kobe) regions.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="31">
+<j>また愛称の通り関西文化学術研究都市田辺地区のアクセス路線でもある。</j>
+<e type="trans" ver="1">Also it is the access line to Kansai Science City, Tanabe area, as fondly referred to.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also it is the access line to Kansai Science City, Tanabe area, as it is fondly referred to.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also it is the access line to Kansai Science City, Tanabe area, as it is fondly referred to.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="32">
+<j>JR西日本管内の旅客案内などでは「学研都市線」の愛称で呼ばれる。</j>
+<e type="trans" ver="1">In the information for passengers in the lines of West Japan Railway Company, it is fondly referred to as &quot;Gakkentoshi Line.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the information for passengers concerning the lines of West Japan Railway Company, it is fondly referred to as the &quot;Gakkentoshi Line.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the information for passengers concerning the lines of West Japan Railway Company, it is fondly referred to as the &apos;Gakkentoshi Line.&apos;</e>
+<cmt>&quot;→&apos;</cmt>
+</sen>
+<sen id="33">
+<j>この愛称は1988年3月13日に制定された。</j>
+<e type="trans" ver="1">This nickname was designated on March 13, 1988.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This nickname was designated on March 13, 1988.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This nickname was designated on March 13, 1988.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="34">
+<j>元は路線名の由来であった片町駅が終点だったが、同駅がJR東西線開業と同時に同線の大阪城北詰駅に置き換わる形で廃止されたため、京橋駅が終点となった。</j>
+<e type="trans" ver="1">Originally, Katamachi station, which was the source of the Line&apos;s name, was the end of the line, but the station was abolished in place of Osakajokitazume Station at the same time when JR Tozai Line opened and thus Kyobashi station became the end of the line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Originally, Katamachi station, the source of the Line&apos;s name, was the end of the line, but the station was abolished in place of Osakajokitazume Station at the same time when the JR Tozai Line opened and thus Kyobashi station became the end of the line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Originally, Katamachi Station, the source of the Line&apos;s name, was the end of the line, but the station was abolished in place of Osakajokitazume Station at the same time when the JR Tozai Line opened and thus Kyobashi Station became the end of the line.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="35">
+<j>片町駅が廃止された後も正式な路線名は変更されていない。</j>
+<e type="trans" ver="1">After Katamachi station was abolished, the formal name of the line was not changed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After Katamachi station was abolished, the formal name for the line was not changed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After Katamachi Station was abolished, the formal name for the line was not changed.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="36">
+<j>四条畷駅以西は浪速鉄道の建設による。</j>
+<e type="trans" ver="1">In a westward direction from Shijonawate station, the lines were constructed by Naniwa Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the westward direction from Shijonawate station, the lines were constructed by Naniwa Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the westward direction from Shijonawate Station, the lines were constructed by Naniwa Railway.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="37">
+<j>関西の日本国有鉄道（現JR）線で初の電化区間であり、関西国電発祥路線とも言える。</j>
+<e type="trans" ver="1">It firstly became the electrified section in the line of Japan National Railways (JNR) (currently, JR) in Kansai area and it can be said to be the opening line of JNR in Kansai area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It first became an electrified section in the line of Japan National Railways (JNR) (currently, JR) in Kansai area and is considered to be the opening line of JNR in the Kansai area.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It first became an electrified section in the line of Japan National Railways (JNR) (currently, JR) in Kansai area and is considered to be the opening line of JNR in the Kansai area.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>また国鉄線では武蔵野線に次いで、西日本の国鉄線では初めて自動改札機を採用した路線でもある。</j>
+<e type="trans" ver="1">Also following Musashino Line in JNR, the line applied the automatic ticket gate firstly in west Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also following the example of the Musashino JNR line, it incorporated the first automatic ticket gate in western Japan.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also following the example of the Musashino JNR line, it incorporated the first automatic ticket gate in western Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="39">
+<j>すべての駅で乗車カードとしてICOCAおよびこれと相互利用可能なICカード（ICOCAを参照）が、またJスルーが一部の駅を除いて自動券売機で乗車券に引き換えることにより利用することができる。</j>
+<e type="trans" ver="1">As for boarding cards, ICOCA and IC Card (see ICOCA), which can be used interchangeably with ICOCA, can be used in all the stations and J Through Card can be used by exchanging with a boarding ticket at the automatic ticket machine except at some stations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For boarding cards, ICOCA and IC Cards (see ICOCA), used interchangeably with ICOCA, they can be used at all stations and the J Through Card can be used by exchanging it with a boarding ticket at the automatic ticket machine with the exception of some stations.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">For boarding cards, ICOCA and IC Cards (see ICOCA), used interchangeably with ICOCA, they can be used at all stations and the J Through Card can be used by exchanging it with a boarding ticket at the automatic ticket machine with the exception of some stations.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="40">
+<j>鴫野 - 吹田間および正覚寺信号場 - 平野間の城東貨物線は、日本貨物鉄道（JR貨物）が同線を経由する貨物列車を運行しているが、現在、第三セクター会社の大阪外環状鉄道によっておおさか東線として旅客線化する工事が進められている。</j>
+<e type="trans" ver="1">In the Joto Goods Line between Shigino and Suita and between Shogakuji signal station and Hirano, Japan Freight Railway Company (JR Freight) manages the freight trains which run by way of the line, but currently Osaka outside loop line, which is the joint public-private venture, has advanced the construction to make the line a passenger-traffic line as Osaka Higashi Line.</e>
+<cmt>「大阪外環状鉄道」を、Osaka outside loop lineとしました。</cmt>
+<e type="trans" ver="2">In the Joto Goods Line between Shigino and Suita and between the Shogakuji signal station and Hirano, the Japan Freight Railway Company (JR Freight) manages the freight trains that run on the line, but currently the Osaka outside loop line, which is a joint public-private venture, has advanced construction to make the line a passenger-traffic line that will be called the Osaka Higashi Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the Joto Goods Line between Shigino and Suita and between the Shogakuji signal station and Hirano, the Japan Freight Railway Company (JR Freight) manages the freight trains that run on the line, but currently the Osaka outside loop line, which is a joint public-private venture, has advanced construction to make the line a passenger-traffic line that will be called the Osaka Higashi Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>2008年3月15日には城東貨物線の一部であった南側の放出 - 久宝寺駅間が先行開業した。</j>
+<e type="trans" ver="1">On March 15, 2008, the south side line between Hanaten and Kyuhoji station, which is a part of Joto Goods Line, opened in advance.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 15, 2008, the south side line between Hanaten and Kyuhoji station, a part of the Joto Goods Line, opened in ahead of schedule.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">On March 15, 2008, the south side line between Hanaten and Kyuhoji Station, a part of the Joto Goods Line, opened in ahead of schedule.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="42">
+<j>当初2006年度に新大阪駅 - 久宝寺間の開業を予定していたが、用地買収の難航や新大阪駅付近にある開かずの踏切で地元との調整が難航していたことなどから遅れていたが、梅田貨物線に乗り入れることで解消し2018年度までに開業する予定である。</j>
+<e type="trans" ver="1">At first the line between Shin-Osaka and Kyuhoji station was scheduled to open in the year 2006, but it was delayed due to the difficulty of the land acquisition and of the negotiation with the locals on the unopened grade crossing near Shin-Osaka station and the problem of delay was resolved by connecting the line with Umeda Goods Line and is scheduled to open until the year 2018.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Originally, the line between Shin-Osaka and Kyuhoji station was scheduled to open in 2006, but was delayed due to the difficulty of land acquisition and negotiations with the locals on the unopened grade crossing near Shin-Osaka station and the delay was resolved by connecting the line with the Umeda Goods Line and is scheduled to open before the year 2018.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Originally, the line between Shin-Osaka and Kyuhoji Station was scheduled to open in 2006, but was delayed due to the difficulty of land acquisition and negotiations with the locals on the unopened grade crossing near Shin-Osaka Station and the delay was resolved by connecting the line with the Umeda Goods Line and is scheduled to open before the year 2018.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="43">
+<j>なお、おおさか東線が部分開業した2008年3月15日から同線および関西本線（大和路線）との直通列車として朝夕におおさか東線運行形態が運転されている（当記事の直通快速も参照）。</j>
+<e type="trans" ver="1">Since March 15, 2008 when Osaka Higashi Line partly opened, in the morning and evening the travel form of Osaka Higashi Line has been managed as the direct train through the line and Kansai Main Line (Yamatoji Line) (also see the direct rapid train in this article).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since March 15, 2008 when the Osaka Higashi Line partly opened, in the morning and evening the Osaka Higashi Line had been managed as a direct train on that line and the Kansai Main Line (Yamatoji Line) (also see direct rapid train in this article).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Since March 15, 2008 when the Osaka Higashi Line partly opened, in the morning and evening the Osaka Higashi Line had been managed as a direct train on that line and the Kansai Main Line (Yamatoji Line) (also see direct rapid train in this article).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>おおさか東線経由の直通列車は奈良 - 関西本線（大和路線）・当線・JR東西線 - 東海道本線・山陽本線（JR神戸線） - 西明石駅または福知山線新三田駅との間で運転が検討されていたが、JR福知山線脱線事故発生後、ゆとりのないダイヤグラムに批判が相次いだことから、乗り入れするかどうかを含めて再検討がなされていた。</j>
+<e type="trans" ver="1">The direct train by way of Osaka Higashi Line was scheduled to run through Nara and Kansai Main Line (Yamatoji Line), Katamachi Line, JR Tozai Line, Tokaido Main Line, Sanyo Main Line (JR Kobe Line) and Nishi-Akashi station or Shin-Sanda station on Fukuchiyama Line, but after the derailment accident on the JR Fukuchiyama Line, the diagram, which was not free from pressure, was serially criticized and thus was revised, such as whether connecting the line with those lines or not and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The direct train by way of the Osaka Higashi Line was scheduled to run through the Nara and Kansai Main Line (Yamatoji Line), Katamachi Line, JR Tozai Line, Tokaido Main Line, Sanyo Main Line (JR Kobe Line) and Nishi-Akashi station or Shin-Sanda station on the Fukuchiyama Line, but after a derailment accident on the JR Fukuchiyama Line, the diagram, not free from pressure, was criticized and revised, on the basis whether to connect the line with those lines or not.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The direct train by way of the Osaka Higashi Line was scheduled to run through the Nara and Kansai Main Line (Yamatoji Line), Katamachi Line, JR Tozai Line, Tokaido Main Line, Sanyo Main Line (JR Kobe Line) and Nishi-Akashi Station or Shin-Sanda Station on the Fukuchiyama Line, but after a derailment accident on the JR Fukuchiyama Line, the diagram, not free from pressure, was criticized and revised, on the basis whether to connect the line with those lines or not.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>運行形態</j>
+<e type="trans" ver="1">Travel form</e>
+<cmt></cmt>
+<e type="trans" ver="2">Travel form</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Travel form</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="45">
+<j>JR東西線を経由して福知山線（JR宝塚線）宝塚駅・新三田・篠山口駅方面、および東海道・山陽本線（JR神戸線）神戸駅 (兵庫県)・西明石方面と直通運転が行われている。</j>
+<e type="trans" ver="1">It runs directly through the direction of Takarazuka station, Shin-Sanda station and Sasayamaguchi station on Fukuchiyama Line (JR Takarazuka Line) and through the direction of Kobe station (Hyogo prefecture) on Tokaido and Sanyo Main Line (JR Kobe Line) and Nishi-Akashi station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It runs directly through Takarazuka station, Shin-Sanda station, and Sasayamaguchi station on the Fukuchiyama Line (JR Takarazuka Line) and through Kobe station (Hyogo prefecture) on the Tokaido and Sanyo Main Line (JR Kobe Line) and Nishi-Akashi station.</e>
+<cmt>wordy, grammar, punctuation</cmt>
+<e type="check" ver="1">It runs directly through Takarazuka Station, Shin-Sanda Station, and Sasayamaguchi Station on the Fukuchiyama Line (JR Takarazuka Line) and through Kobe Station (Hyogo prefecture) on the Tokaido and Sanyo Main Line (JR Kobe Line) and Nishi-Akashi Station.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="46">
+<j>普通列車や快速列車のほか、早朝と夕方のラッシュ時、深夜には列車種別区間種別が運転されている。</j>
+<e type="trans" ver="1">In addition to local trains or rapid trains, the trains run according to the types of train or the types of section, during the rush hour in the early morning, evening and midnight.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition to local or rapid trains, trains run according to the type of train or type of section, during the rush hour in the early morning, evening, and at midnight.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In addition to local or rapid trains, trains run according to the type of train or type of section, during the rush hour in the early morning, evening, and at midnight.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="47">
+<j>なおJR東西線と運用が一括となるため、同線についても併せて記述する。</j>
+<e type="trans" ver="1">And as the management is unified with JR Tozai Line, the line will also be explained.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And since the management has been unified for the JR Tozai Line, the line will also be explained.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">And since the management has been unified for the JR Tozai Line, the line will also be explained.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>快速</j>
+<e type="trans" ver="1">Rapid trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rapid trains</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="48">
+<j>昼間は15分間隔で運転。</j>
+<e type="trans" ver="1">During the day they run every fifteen minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the day they run every fifteen minutes.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">During the day they run every fifteen minutes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="49">
+<j>平日の朝ラッシュと深夜は20分間隔で運転される。</j>
+<e type="trans" ver="1">During rush hours in the morning on weekdays and at midnight, they run every twenty minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During rush hours in the morning, on weekdays and at midnight, they run every twenty minutes.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">During rush hours in the morning, on weekdays and at midnight, they run every twenty minutes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>また、平日の朝ラッシュは京橋方面の四条畷駅以西は区間快速とあわせて6分 - 13分間隔で運転され、深夜の木津発快速京橋行き1本を除き全列車が福知山線（JR宝塚線）宝塚・篠山口方面に直通する。</j>
+<e type="trans" ver="1">Also, during rush hours in the morning on weekdays, they run every six to thirteen minutes in the direction of Kyobashi, westward from Shijonawate station, with regional rapids, and all the trains directly runs to the direction of Takarazuka and Sasayamaguchi on Fukuchiyama Line (JR Takarazuka Line) except for one rapid train which runs from Kizu to Kyobashi at midnight.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, during rush hour in the morning, on weekdays, they run every six to thirteen minutes in the direction of Kyobashi, westward from Shijonawate station, with regional rapid trains and they all directly run in the direction of Takarazuka and Sasayamaguchi on the Fukuchiyama Line (JR Takarazuka Line) except for one rapid train running from Kizu to Kyobashi at midnight.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also, during rush hour in the morning, on weekdays, they run every six to thirteen minutes in the direction of Kyobashi, westward from Shijonawate Station, with regional rapid trains and they all directly run in the direction of Takarazuka and Sasayamaguchi on the Fukuchiyama Line (JR Takarazuka Line) except for one rapid train running from Kizu to Kyobashi at midnight.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="51">
+<j>大半が同志社前駅または木津までの運転であり、木津駅までは30分おきに運行される。</j>
+<e type="trans" ver="1">Most of them run to Doshishamae station or Kizu station and until Kizu station they run every thirty minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Most of them run to Doshishamae station or Kizu station and as far as Kizu station, they run every thirty minutes.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Most of them run to Doshishamae Station or Kizu Station and as far as Kizu Station, they run every thirty minutes.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="52">
+<j>早朝・深夜には木津から関西本線（大和路線）に乗り入れ奈良駅発着となる列車が3本ある。</j>
+<e type="trans" ver="1">During the early morning and midnight, they run from Kizu into Kansai Main Line (Yamatoji Line) and there are three trains which depart from and arrive at Nara station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the early morning and at midnight, they run from Kizu into the Kansai Main Line (Yamatoji Line) and there are three trains that depart from and arrive at Nara station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">During the early morning and at midnight, they run from Kizu into the Kansai Main Line (Yamatoji Line) and there are three trains that depart from and arrive at Nara Station.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="53">
+<j>JR東西線内（尼崎 - 京橋）は各駅に停車する。</j>
+<e type="trans" ver="1">In JR Tozai Line (Amagasaki - Kyobashi), they stop at every station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the JR Tozai Line (Amagasaki - Kyobashi), they stop at every station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">On the JR Tozai Line (Amagasaki - Kyobashi), they stop at every station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>また、奈良駅発着の快速は、奈良線の快速とは異なり平城山駅に停車する。</j>
+<e type="trans" ver="1">Also, the rapid trains whose departure and arrival is at Nara station stop at Narayama station, differently from rapid trains on Nara Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, rapid trains, departing and arriving at Nara station, also stop at Narayama station, unlike rapid trains on the Nara Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also, rapid trains, departing and arriving at Nara Station, also stop at Narayama Station, unlike rapid trains on the Nara Line.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="55">
+<j>京田辺発着の快速を除いて、すべて京田辺駅で車両の増結・切り離しが行われ、奈良・木津 - 京田辺間は4両編成、京田辺 - 京橋方面では7両編成で運転される。</j>
+<e type="trans" ver="1">Except for rapid trains whose departure and arrival is at Kyotanabe, all of them are attached or unattached at Kyotanabe station and 4-car train sets run between Nara, Kizu and Kyotanabe and 7-car train sets run between Kyotanabe and Kyobashi direction.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Except for rapid trains departing and arriving at Kyotanabe, all are attached or unattached at Kyotanabe station and four-car trains run between Nara, Kizu and Kyotanabe and seven-car trains run between Kyotanabe and Kyobashi.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Except for rapid trains departing and arriving at Kyotanabe, all are attached or unattached at Kyotanabe Station and four-car trains run between Nara, Kizu and Kyotanabe and seven-car trains run between Kyotanabe and Kyobashi.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="56">
+<j>JR西日本207系電車の量産車が4+3両編成に分かれているのは、このような運用を考慮したものである。</j>
+<e type="trans" ver="1">The reason why mass production cars of JR (West) Commuter Trains Series 207 are divided into 4+3-car train sets is because of these managements.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The reason why mass production cars of JR (West) Commuter Trains Series 207 are divided into four and three-car trains is because of this type of management.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The reason why mass production cars of JR (West) Commuter Trains Series 207 are divided into four and three-car trains is because of this type of management.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="57">
+<j>また昼間は両方向とも四条畷で普通列車と緩急接続を行う（2009年3月14日改正現在）。</j>
+<e type="trans" ver="1">And during the daytime, on both of the directions, they undergo pacing attachments with local trains at Shijonawate (revised on March 14, 2009).</e>
+<cmt>「緩急接続」をpacing attachmentとしました。</cmt>
+<e type="trans" ver="2">And during the daytime, in both directions, they undergo pacing attachments with local trains at Shijonawate (revised on March 14, 2009).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">And during the daytime, in both directions, they undergo pacing attachments with local trains at Shijonawate (revised on March 14, 2009).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="58">
+<j>快速列車は本格運転を始めた1989年3月から最初の1年間は全区間3両編成で運転されていたが、混雑が非常に激しいことから1990年3月から全区間4両編成に変更された。</j>
+<e type="trans" ver="1">The rapid trains had been managed with 3-car train sets on all the sections for the first year since when they were in full-scale services in March 1989, but they were changed to 4-car train sets on all the sections from March 1990 because of heavy congestion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The rapid trains had been managed with three-car trains on all the sections for the first year since when they were in full-scale service during March 1989, but they were changed to four-car trains on all sections from March 1990 because of heavy congestion.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The rapid trains had been managed with three-car trains on all the sections for the first year since when they were in full-scale service during March 1989, but they were changed to four-car trains on all sections from March 1990 because of heavy congestion.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>1997年3月にJR東西線が開通するまでは、朝の同志社大学への通学用に片町発同志社前行き（7両編成で運転し、松井山手駅で後3両を解放）が2本運転されていたのを除き、朝ラッシュ時には快速列車は運転されず、夕方以降も4両編成で運転されていた。</j>
+<e type="trans" ver="1">Until when JR Tozai Line opened in March 1997, rapid trains had not run during rush hours in the morning and after the evening they had run with 4-car train sets, except for two trains which had run from Katamachi to Doshishamae (they were 7-car train sets and the back 3 cars were unattached at Matsuiyamate station) as the commuter trains to Doshisha University in the morning.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Until JR Tozai Line opened in March 1997, rapid trains had not run during the rush hour in the morning and after the evening they ran with four-car trains, except for two seven-car trains that ran from Katamachi to Doshishamae (the three rear cars were detached at Matsuiyamate station) to be used as commuter trains to Doshisha University in the morning.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Until JR Tozai Line opened in March 1997, rapid trains had not run during the rush hour in the morning and after the evening they ran with four-car trains, except for two seven-car trains that ran from Katamachi to Doshishamae (the three rear cars were detached at Matsuiyamate Station) to be used as commuter trains to Doshisha University in the morning.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="60">
+<j>なお、2010年3月（2009年度末）をめどに木津駅から同志社前駅の各駅のホームを延伸し、奈良・木津 - 京田辺間でも7両編成で運転を行う予定であることが発表されている。</j>
+<e type="trans" ver="1">And in March 2010 (in the end of the year 2009), the platforms of every station between Kizu station and Doshishamae station were extended and it is announced that 7-car train sets are planned to run even between Nara, Kizu and Kyotanabe.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And in March 2010 (at the end of the year 2009), the platforms of every station between Kizu station and Doshishamae station were extended and it was announced that seven-car trains are being planned to run even between Nara, Kizu, and Kyotanabe.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">And in March 2010 (at the end of the year 2009), the platforms of every Station between Kizu Station and Doshishamae Station were extended and it was announced that seven-car trains are being planned to run even between Nara, Kizu, and Kyotanabe.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>直通快速</j>
+<e type="trans" ver="1">Direct rapid trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Direct rapid trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Direct rapid trains</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="61">
+<j>おおさか東線が部分開業した2008年3月15日から奈良 - 尼崎駅 (JR西日本)間に関西本線（大和路線）・おおさか東線経由で運転している列車。</j>
+<e type="trans" ver="1">Since when Osaka Higashi Line partly opened on March 15, 2008, they have run between Nara station and Amagasaki station (JR West Japan) by way of Kansai Main Line (Yamatoji Line) and Osaka Higashi Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the Osaka Higashi Line partly opened on March 15, 2008, they have run between Nara station and Amagasaki station (JR West Japan) by way of the Kansai Main Line (Yamatoji Line) and the Osaka Higashi Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Since the Osaka Higashi Line partly opened on March 15, 2008, they have run between Nara Station and Amagasaki Station (JR West Japan) by way of the Kansai Main Line (Yamatoji Line) and the Osaka Higashi Line.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="62">
+<j>片町線（学研都市線）の放出駅 - 京橋間を経由し、JR東西線内は各駅に停車する。</j>
+<e type="trans" ver="1">They run through Hanaten station to Kyobashi station on Katamachi Line (Gakkentoshi Line) and stop at every station in JR Tozai Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They run through Hanaten station to Kyobashi station on the Katamachi Line (Gakkentoshi Line) and stop at every station on the JR Tozai Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">They run through Hanaten Station to Kyobashi Station on the Katamachi Line (Gakkentoshi Line) and stop at every Station on the JR Tozai Line.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="63">
+<j>運行本数は朝に奈良発尼崎行き4本、夕方に尼崎発奈良行4本。</j>
+<e type="trans" ver="1">As for the number of running direct rapid trains, the ones from Nara to Amagasaki are four and the ones from Amagasaki to Nara in the evening are four.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Regarding the number of direct rapid trains, there are four from Nara to Amagasaki, and there are four from Amagasaki to Nara in the evening.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Regarding the number of direct rapid trains, there are four from Nara to Amagasaki, and there are four from Amagasaki to Nara in the evening.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="64">
+<j>車両はJR西日本223系電車6000番台（宮原車）4両編成を2本連結した8両編成が使用される。</j>
+<e type="trans" ver="1">The 8-car train sets, where two 4-car train sets of JR (West) Suburban Trains Series 223, the 6000s number (Miyahara car) are attached, are used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The eight-car trains, consisting of two four-car trains of JR (West) Suburban Trains Series 223, the 6000s number (Miyahara car) are attached, are used.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The eight-car trains, consisting of two four-car trains of JR (West) Suburban Trains Series 223, the 6000s number (Miyahara car) are attached, are used.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>区間快速</j>
+<e type="trans" ver="1">Regional rapid trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Regional rapid trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Regional rapid trains</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="65">
+<j>早朝・深夜と平日ラッシュ時に運転される。</j>
+<e type="trans" ver="1">They run in the early morning and middle of the night and during rush hours on weekdays.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They run in the early morning and in middle of the night and during rush hours on weekdays.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">They run in the early morning and in middle of the night and during rush hours on weekdays.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="66">
+<j>京橋 - 四条畷間が快速区間となり、四条畷以東は各駅に停車する。</j>
+<e type="trans" ver="1">They run as rapid trains between Kyobashi and Shijonawate and eastward from Shijonawate they stop at every station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They run as rapid trains between Kyobashi and Shijonawate and eastward from Shijonawate they stop at every station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They run as rapid trains between Kyobashi and Shijonawate and eastward from Shijonawate they stop at every station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="67">
+<j>早朝は基本的に奈良・木津始発だが、それ以外は同志社前・京田辺・松井山手発着となる。</j>
+<e type="trans" ver="1">Basically in the early morning, they start from Nara, Kizu, but except for them, the departure and arrival is at Doshishamae, Kyotanabe and Matsuiyamate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Basically during the early morning, they start from Nara, Kizu, but except for these, departures and arrivals are at Doshishamae, Kyotanabe, and Matsuiyamate.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Basically during the early morning, they start from Nara, Kizu, but except for these, departures and arrivals are at Doshishamae, Kyotanabe, and Matsuiyamate.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="68">
+<j>種別幕は桜桃色の帯の種別幕（JR東西線のラインカラー）の区間快速幕がないため、緑の帯の種別幕（大和路線のラインカラー）が使われる。</j>
+<e type="trans" ver="1">As for the category curtain, there is not the one of cherry fruit color (the line color of JR Tozai Line) for regional rapid trains and thus the green belt one (the line color of Yamatoji Line) is used instead.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As for the category curtain, there is not one train with the cherry fruit color (the line color of JR Tozai Line) for regional rapid trains and therefore, the green belt train (line color of Yamatoji Line) is used instead.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As for the category curtain, there is not one train with the cherry fruit color (the line color of JR Tozai Line) for regional rapid trains and therefore, the green belt train (line color of Yamatoji Line) is used instead.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="69">
+<j>なおJR宝塚線・JR神戸線には区間快速が設定されていない関係から上りは尼崎で、下りは京橋で列車番号と種別が変わる。</j>
+<e type="trans" ver="1">As regional rapid trains are not set on JR Takarazuka Line and JR Kobe Line, the number of trains and category are changed for the up line at Amagasaki and for the down line at Kyobashi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As regional rapid trains are not set on the JR Takarazuka and JR Kobe Lines, the number of trains and categories are changed for the up line at Amagasaki and for the down line at Kyobashi.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As regional rapid trains are not set on the JR Takarazuka and JR Kobe Lines, the number of trains and categories are changed for the up line at Amagasaki and for the down line at Kyobashi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="70">
+<j>快速・直通快速と同じくJR東西線内は各駅に停車する。</j>
+<e type="trans" ver="1">They stop at each station in JR Tozai Line like rapid trains and direct rapid trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They stop at each station on the JR Tozai Line like the rapid trains and the direct rapid trains do.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">They stop at each station on the JR Tozai Line like the rapid trains and the direct rapid trains do.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>普通</j>
+<e type="trans" ver="1">Local trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Local trains</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="71">
+<j>終日にわたって東海道・山陽本線（JR神戸線）三ノ宮・西明石方面と直通運転される。</j>
+<e type="trans" ver="1">All day they run directly to the area of Sannomiya and Nishiakashi on Tokaido, Sanyo Main Line (JR Kobe Line).</e>
+<cmt></cmt>
+<e type="trans" ver="2">All day they run directly to the area of Sannomiya and Nishiakashi on the Tokaido, Sanyo Main Line (JR Kobe Line).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">All day they run directly to the area of Sannomiya and Nishiakashi on the Tokaido, Sanyo Main Line (JR Kobe Line).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="72">
+<j>またラッシュ時には加古川駅始発の直通列車やJR宝塚線との直通列車、京橋での折り返し列車が存在する。</j>
+<e type="trans" ver="1">Also during rush hours there are the direct first train from Kakogawa station, the direct train going to JR Takarazuka Line and the shuttle train at Kyobashi station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also during rush hour the first direct train from Kakogawa station, the direct train going to JR Takarazuka Line, and the shuttle train at Kyobashi station are running.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also during rush hour the first direct train from Kakogawa Station, the direct train going to JR Takarazuka Line, and the shuttle train at Kyobashi Station are running.</e>
+<cmt>用語統一スペース削除</cmt>
+</sen>
+<sen id="73">
+<j>JR東西線直通列車は桜桃色の帯の種別幕（JR東西線のラインカラー）、学研都市線内折り返し列車は黄緑色の帯の種別幕（学研都市線のラインカラー）が使われる。</j>
+<e type="trans" ver="1">The category curtain of cherry fruit color belt (the line color of JR Tozai Line) is used for JR Tozai direct trains and the one of yellow green belt (the line color of Gakkentoshi Line) for the shuttle trains in Gakkentoshi Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The category curtain of cherry fruit color belt (the line color of JR Tozai Line) is used for JR Tozai direct trains and the yellow green belt (the line color of Gakkentoshi Line) is used for the shuttle trains on the Gakkentoshi Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The category curtain of cherry fruit color belt (the line color of JR Tozai Line) is used for JR Tozai direct trains and the yellow green belt (the line color of Gakkentoshi Line) is used for the shuttle trains on the Gakkentoshi Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="74">
+<j>基本的には松井山手 - 西明石間の運転だが、ラッシュ時には四条畷・放出までの区間運転が存在する。</j>
+<e type="trans" ver="1">Basically they run between Matsuiyamate and Nishiakashi, but during rush hours some run to Shijonawate and Hanaten.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Basically they run between Matsuiyamate and Nishiakashi, but during the rush hour some run to Shijonawate and Hanaten.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Basically they run between Matsuiyamate and Nishiakashi, but during the rush hour some run to Shijonawate and Hanaten.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="75">
+<j>また早朝の上りに限り木津まで運転される列車も存在する。</j>
+<e type="trans" ver="1">And only in the up line in the early morning, some run to Kizu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And only on the up line in the early morning, do some run to Kizu.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">And only on the up line in the early morning, do some run to Kizu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="76">
+<j>この列車も京田辺駅で後3両切り離しを行う。</j>
+<e type="trans" ver="1">The train cut off the back 3-car trains at Kyotanabe station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The train detatch the back three-cars at Kyotanabe station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The train detach the back three-cars at Kyotanabe Station.</e>
+<cmt>用語統一スペル</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="77">
+<j>1989年に木津 - 長尾間が電化されるまでは長尾駅で運転系統が分かれ、木津 - 長尾間には気動車が運行されていた（歴史も参照）。</j>
+<e type="trans" ver="1">Until 1989 when the line between Kizu and Nagao was electrified, the operation system had been divided at Nagao station and diesel trains had run between Kizu and Nagao (see the History also).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Until 1989 when the line between Kizu and Nagao was electrified, the operation had been divided at Nagao station and diesel trains ran between Kizu and Nagao (see the History also).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Until 1989 when the line between Kizu and Nagao was electrified, the operation had been divided at Nagao Station and diesel trains ran between Kizu and Nagao (see the History also).</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>使用車両</j>
+<e type="trans" ver="1">Train cars used</e>
+<cmt></cmt>
+<e type="trans" ver="2">Train cars used</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Train cars used</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="78">
+<j>下記の両数は2008年3月現在。</j>
+<e type="trans" ver="1">The number of cars below is in March 2008.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of cars below were used in March 2008.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The number of cars below were used in March 2008.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="79">
+<j>JR西日本207系電車</j>
+<e type="trans" ver="1">JR (West) Commuter Trains Series 207</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR (West) Commuter Trains Series 207</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR (West) Commuter Trains Series 207</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="80">
+<j>すべて網干総合車両所明石品質管理センター所属で、F1編成（量産先行車）を除く全470両がJR神戸・宝塚・JR京都線・東西・学研都市・琵琶湖線で共通運用される。</j>
+<e type="trans" ver="1">All cars belong to Akashi Quality Control Center, Aboshi Rolling Stock Depot and except for F1 train sets (mass production foregoing cars), all 470 cars are commonly used in JR Kobe, Takarazuka, JR Kyoto Line, Tozai, Gakkentoshi and Biwako Line.</e>
+<cmt>「量産先行車」をmass production foregoing carsとしました。</cmt>
+<e type="trans" ver="2">All cars belong to the Akashi Quality Control Center, Aboshi Rolling Stock Depot and except for F1 trains (mass produced foregoing cars), all 470 cars are commonly used in JR Kobe, Takarazuka, JR Kyoto, Tozai, Gakkentoshi and Biwako Lines.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">All cars belong to the Akashi Quality Control Center, Aboshi Rolling Stock Depot and except for F1 trains (mass produced foregoing cars), all 470 cars are commonly used in JR Kobe, Takarazuka, JR Kyoto, Tozai, Gakkentoshi and Biwako Lines.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="81">
+<j>3両編成66本198両と4両編成68本272両が学研都市線で運用される。</j>
+<e type="trans" ver="1">Sixty-six 3-car train sets (198 cars) and sixty-eight 4-car train sets (272 cars) are used in Gakkentoshi Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sixty-six three-car trains (198 cars) and sixty-eight four-car trains (272 cars) are used on the Gakkentoshi Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sixty-six three-car trains (198 cars) and sixty-eight four-car trains (272 cars) are used on the Gakkentoshi Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="82">
+<j>3両編成は京田辺以東への運用はない。</j>
+<e type="trans" ver="1">3-car train sets are not used eastward from Kyotanabe.</e>
+<cmt></cmt>
+<e type="trans" ver="2">three-car trains are not used east from Kyotanabe.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Three-car trains are not used east from Kyotanabe.</e>
+<cmt>スペル</cmt>
+</sen>
+<sen id="83">
+<j>4両編成は木津から大和路線に乗り入れて奈良までの運用がある。</j>
+<e type="trans" ver="1">Some 4-car train sets are used from Kizu through Yamatoji Line to Nara.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some four-car trains are used from Kizu through the Yamatoji Line to Nara.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Some four-car trains are used from Kizu through the Yamatoji Line to Nara.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="84">
+<j>学研都市線では1991年4月30日から営業運転を開始した。</j>
+<e type="trans" ver="1">Commercial operation started from April 30, 1991 in Gakkentoshi Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Commercial operation started from April 30, 1991 on the Gakkentoshi Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Commercial operation started from April 30, 1991 on the Gakkentoshi Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="85">
+<j>最初に投入されたのはF1編成と呼ばれる量産先行車7両固定編成で、量産車は同年12月から投入された。</j>
+<e type="trans" ver="1">Mass production foregoing cars which are 7-car train sets, called F1 train sets, were firstly used and mass production cars ran in December 1991.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mass produced foregoing cars which are seven-car trains, called F1 trains, were first used and mass produced cars ran in December 1991.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Mass produced foregoing cars which are seven-car trains, called F1 trains, were first used and mass produced cars ran in December 1991.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="86">
+<j>F1編成は2002年3月23日のダイヤ改正時にJR東西・学研都市線運用からは撤退したが、その後2005年4月25日のJR福知山線脱線事故が起きた際に一時的に復帰、翌2006年3月18日のダイヤ改正時に再撤退、下記の321系と共通運用になっている関係で2008年3月15日改正で再び入線するようになるなど、当線への入線と撤退を繰り返している。</j>
+<e type="trans" ver="1">F1 train sets were abolished in JR Tozai and Gakkentoshi Line on March 23, 2002 at the timetable revision, but later on April 25, 2005 when the derailment accident on the JR Fukuchiyama Line happened, they were temporarily used and the next year, on March 18 2006 at the timetable revision, were abolished again and because they were used commonly with JR-West Commuter Trains Series 321 below, they are used again on March 15, 2008 at the timetable revision, and they repeatedly underwent the in-and-out the line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The F1 trains were abolished from the JR Tozai and Gakkentoshi Lines on March 23, 2002 upon the timetable revision, but later on April 25, 2005 when a derailment accident occurred on the JR Fukuchiyama Line, they were temporarily used and the next year, on March 18 2006 upon the next timetable revision, were abolished again and because they were used commonly with JR-West Commuter Trains Series 321 below, they are used again on March 15, 2008 upon the timetable revision, and they repeatedly underwent the on-and-off the line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The F1 trains were abolished from the JR Tozai and Gakkentoshi Lines on March 23, 2002 upon the timetable revision, but later on April 25, 2005 when a derailment accident occurred on the JR Fukuchiyama Line, they were temporarily used and the next year, on March 18 2006 upon the next timetable revision, were abolished again and because they were used commonly with JR-West Commuter Trains Series 321 below, they are used again on March 15, 2008 upon the timetable revision, and they repeatedly underwent the on-and-off the line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="87">
+<j>JR西日本321系電車</j>
+<e type="trans" ver="1">JR-West Commuter Trains Series 321</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR-West Commuter Trains Series 321</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR-West Commuter Trains Series 321</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="88">
+<j>2008年3月14日より片町線でも運用開始。</j>
+<e type="trans" ver="1">Also in Katamachi Line they started to be used on March 14, 2008.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also they started to be used on the Katamachi Line on March 14, 2008.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also they started to be used on the Katamachi Line on March 14, 2008.</e>
+<cmt>スペース削除</cmt>
+</sen>
+<sen id="89">
+<j>通常は京橋 - 松井山手間の普通列車のみだが、突発的に快速・区間快速に充当され、京田辺まで入線する事がある。</j>
+<e type="trans" ver="1">Usually local trains run between Kyobashi and Matsuiyamate, but unexpectedly rapid trains and regional rapids are additionally used and sometimes run to Kyotanabe.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usually local trains run between Kyobashi and Matsuiyamate, but unexpected rapid trains and regional rapid trains are additionally used and sometimes run to Kyotanabe.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Usually local trains run between Kyobashi and Matsuiyamate, but unexpected rapid trains and regional rapid trains are additionally used and sometimes run to Kyotanabe.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="90">
+<j>JR西日本223系電車6000番台 （宮原車）</j>
+<e type="trans" ver="1">JR (West) Suburban Trains Series 223, the 6000s number (Miyahara car)</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR (West) Suburban Trains Series 223, the 6000s number (Miyahara car)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR (West) Suburban Trains Series 223, the 6000s number (Miyahara car)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="91">
+<j>宮原総合運転所所属。</j>
+<e type="trans" ver="1">Miyahara Integrated Operation Center</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miyahara Integrated Operation Center</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyahara Integrated Operation Center</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="92">
+<j>おおさか東線開業に際して運行される直通快速のため京橋 - 放出間でのみ使われる。</j>
+<e type="trans" ver="1">When Osaka Higashi Line opened, they were used for direct rapid trains only between Kyobashi and Hanaten.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When Osaka Higashi Line opened, they were used for direct rapid trains only between Kyobashi and Hanaten.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">When Osaka Higashi Line opened, they were used for direct rapid trains only between Kyobashi and Hanaten.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="93">
+<j>アーバンネットワーク内の路線では珍しく、全区間の列車が2008年3月14日までロングシート車で占められていた（JR東西線も同様）。</j>
+<e type="trans" ver="1">They were rare in the Urban Network and the trains in all the sections were occupied with long seat cars until March 14, 2008 (same as JR Tozai Line).</e>
+<cmt></cmt>
+<e type="trans" ver="2">They were rare in the Urban Network and the trains on all the sections had long seat cars until March 14, 2008 (same as JR Tozai Line).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">They were rare in the Urban Network and the trains on all the sections had long seat cars until March 14, 2008 (same as JR Tozai Line).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="94">
+<j>放出 - 木津間では3月15日以降もロングシート車のみが運用される。</j>
+<e type="trans" ver="1">Only long seat cars were used between Hanaten and Kizu even after March 15.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Only long seat cars were used between Hanaten and Kizu even after March 15.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Only long seat cars were used between Hanaten and Kizu even after March 15.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="95">
+<j>片町 - 四条畷間は、浪速鉄道が生駒山地北部の飯盛山西麓にある慈眼寺 (大東市)・四條畷神社への参詣鉄道として1895年に開業させたもの。</j>
+<e type="trans" ver="1">The line between Katamachi and Shijonawate was opened by Naniwa Railway in 1895 as the railway for visiting shrine in Jigen-ji Temple (Daito city) and and Shijonawate-jinja Shrine in the west foot of Mt. Iimori in the north part of Ikoma Mountain Range.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line between Katamachi and Shijonawate was opened by the Naniwa Railway in 1895 for visiting the shrine in Jigen-ji Temple (Daito city) and and Shijonawate-jinja Shrine at the western foot of Mt. Iimori in the northern part of the Ikoma Mountain Range.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The line between Katamachi and Shijonawate was opened by the Naniwa Railway in 1895 for visiting the shrine in Jigen-ji Temple (Daito City) and Shijonawate-jinja Shrine at the western foot of Mt. Iimori in the northern part of the Ikoma Mountain Range.</e>
+<cmt>用語統一重複削除</cmt>
+</sen>
+<sen id="96">
+<j>四条畷 - 新木津・木津間は、その頃、大阪進出を計画していた関西鉄道が1897年に浪速鉄道とともに合併した城河鉄道から四条畷 - 長尾 - 木津間の鉄道敷設免許を譲り受け、翌1898年に開通させたものである。</j>
+<e type="trans" ver="1">The line between Shijonawate, Shin-Kizu and Kizu was opened in 1898 by Kansai Railway which in those days planned to gain ground in Osaka and got the Railway Construction License for the line between Shijonawate, Nagao and Kizu from Joga Railway merging with Naniwa Railway in 1897.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line between Shijonawate, Shin-Kizu and Kizu was opened in 1898 by the Kansai Railway which, in those days, planned to gain ground in Osaka and obtain a Railway Construction License for the line between Shijonawate, Nagao, and Kizu from Joga Railway, merging with Naniwa Railway in 1897.</e>
+<cmt>punctuation, grammar</cmt>
+<e type="check" ver="1">The line between Shijonawate, Shin-Kizu and Kizu was opened in 1898 by the Kansai Railway which, in those days, planned to gain ground in Osaka and obtain a Railway Construction License for the line between Shijonawate, Nagao, and Kizu from Joga Railway, merging with Naniwa Railway in 1897.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="97">
+<j>関西鉄道は網島 - 四条畷 - 新木津間を名阪間を結ぶ本線とし、網島 - 名古屋間に四条畷経由で直通列車を運転するが、1900年に大阪鉄道を合併して名阪間の本線を王寺経由に変更、さらに加茂 - 奈良間を大仏経由から木津経由に変更した1907年より後は、木津 - 桜ノ宮・片町間を結ぶだけのローカル線となった。</j>
+<e type="trans" ver="1">Kansai Railway considered the line between Amijima, Shijonawate and Shin-Kizu as the main line which connects Nagoya and Osaka, and the direct trains ran between Amijima and Nagoya through Shijonawate, but in 1900 Kansai Railway merged with Osaka Railway and changed the main line between Nagoya and Osaka to the one through Oji and furthermore, after 1907 when the line between Kamo and Nara through Daibutsu was changed to the one through Kizu, there remained only the local line between Kizu, Sakuranomiya and Katamachi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kansai Railway line between Amijima, Shijonawate and Shin-Kizu was considered to be the main line connecting Nagoya and Osaka, and direct trains ran between Amijima and Nagoya through Shijonawate, but in 1900 the Kansai Railway merged with the Osaka Railway and changed the main line between Nagoya and Osaka to one running through Oji and while, after 1907 when the line between Kamo and Nara through Daibutsu changed to run through Kizu, only the local line between Kizu, Sakuranomiya and Katamachi remained.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The Kansai Railway line between Amijima, Shijonawate and Shin-Kizu was considered to be the main line connecting Nagoya and Osaka, and direct trains ran between Amijima and Nagoya through Shijonawate, but in 1900 the Kansai Railway merged with the Osaka Railway and changed the main line between Nagoya and Osaka to one running through Oji and while, after 1907 when the line between Kamo and Nara through Daibutsu changed to run through Kizu, only the local line between Kizu, Sakuranomiya and Katamachi remained.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="98">
+<j>放出 - 桜ノ宮間は1913年に廃止されている。</j>
+<e type="trans" ver="1">The line between Hanaten and Sakuranomiya was abolished in 1913.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line between Hanaten and Sakuranomiya was abolished in 1913.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Hanaten and Sakuranomiya was abolished in 1913.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="99">
+<j>1932年、四条畷 - 片町間が関西の国電区間では初めて電化され（1929年に開通した阪和線は当時阪和電気鉄道という私鉄）、木津 - 四条畷間は国鉄C11形蒸気機関車が牽引する蒸気機関車、四条畷 - 片町間は電車になった。</j>
+<e type="trans" ver="1">In 1932 the line between Shijonawate and Katamachi was electrified firstly in the sections of JNR in Kansai area (Hanwa Line opened in 1929 was, in those days, the private railroad company called Hanwa Electric Railway) and the steam locomotives towed by JNR steam locomotive C11 class [Type C11] ran between Kizu and Shijonawate, and the electric trains ran between Shijonawate and Katamachi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1932 the line between Shijonawate and Katamachi was electrified first in the sections of the JNR in the Kansai area (Hanwa Line opened in 1929 was, in those days, a private railroad company called Hanwa Electric Railway), the JNR steam locomotive C11 class ran between Kizu and Shijonawate, and the electric trains ran between Shijonawate and Katamachi.</e>
+<cmt>redundancy, grammar</cmt>
+<e type="check" ver="1">In 1932 the line between Shijonawate and Katamachi was electrified first in the sections of the JNR in the Kansai area (Hanwa Line opened in 1929 was, in those days, a private railroad company called Hanwa Electric Railway), the JNR steam locomotive C11 class ran between Kizu and Shijonawate, and the electric trains ran between Shijonawate and Katamachi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="100">
+<j>C11形投入後は蒸気機関車が廃止されるまで、同機が専ら列車牽引に用いられた。</j>
+<e type="trans" ver="1">After Type C11 was in service, only these locomotives were used as towing trains until the steam locomotives were done away with.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After Type C11 entered service, only these locomotives were used as towing trains until the steam locomotives were done away with.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After Type C11 entered service, only these locomotives were used as towing trains until the steam locomotives were done away with.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="101">
+<j>戦前の当路線の特色として、大日本帝国陸軍大阪砲兵工廠（現在の大阪ビジネスパークの地にあった）と沿線に設置された工廠や火薬庫を結ぶ軍需輸送がある。</j>
+<e type="trans" ver="1">The characteristics of the line in the prewar era was the transportation for military demand, linking Osaka Artillery Arsenal, Imperial Japanese Army (located in the place of the present-day Osaka Business Park) with the arsenals and magazines located along the line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The characteristics of the line during the prewar era was transportation to meet military demand, linking Osaka Artillery Arsenal, Imperial Japanese Army (located in the place of the present-day Osaka Business Park) with the arsenals and magazines located along the line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The characteristics of the line during the prewar era was transportation to meet military demand, linking Osaka Artillery Arsenal, Imperial Japanese Army (located in the place of the present-day Osaka Business Park) with the arsenals and magazines located along the line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="102">
+<j>これらの施設までは陸軍の専用線が敷設されていた（星田駅 - 香里製造所・津田駅 - 中宮（禁野火薬庫）・現在の下狛駅付近 - 祝園弾薬庫の3線）。</j>
+<e type="trans" ver="1">The exclusive line connecting with these facilities for the army was laid (there were three lines such as Hoshida station Kori factory, Tsuda station Nakamiya (Kinya magazine) and the present-day Shimokoma station vicinity Housono ammunition chamber).</e>
+<cmt></cmt>
+<e type="trans" ver="2">An exclusive line connecting these facilities for the army was laid (there were three lines such as Hoshida station Kori factory, Tsuda station Nakamiya (Kinya magazine) and the present-day Shimokoma station vicinity of the Housono ammunition chamber).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">An exclusive line connecting these facilities for the army was laid (there were three lines such as Hoshida Station Kori factory, Tsuda Station Nakamiya (Kinya magazine) and the present-day Shimokoma Station vicinity of the Hosono ammunition chamber).</e>
+<cmt>用語統一スペル</cmt>
+</sen>
+<sen id="103">
+<j>戦後、施設の廃止により香里と中宮に至る専用線は道路化されたが、戦後に米軍および自衛隊の施設に転用された祝園の専用線はその後も使われ、現在もその跡をわずかに留めている。</j>
+<e type="trans" ver="1">After the war, the abolition of the facilities caused the exclusive line leading to Kori and Nakamiya to be the road, but the exclusive line in Housono, which was converted for the facilities of US forces and Self Defense Force after the war, was used afterward too and a bit of the remnant still remains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the war, the abolition of the facilities caused the exclusive line leading to Kori and Nakamiya to become a road, but the exclusive line in Housono, converted for the facilities of US forces and the Self Defense Force after the war, was used afterward as well and a bit of the original line still remains.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After the war, the abolition of the facilities caused the exclusive line leading to Kori and Nakamiya to become a road, but the exclusive line in Hosono, converted for the facilities of US forces and the Self Defense Force after the war, was used afterward as well and a bit of the original line still remains.</e>
+<cmt>スペル</cmt>
+</sen>
+<sen id="104">
+<j>なお、香里製造所は1958年から香里団地に流用され、専用跡は枚方市道・交野市道に流用された。</j>
+<e type="trans" ver="1">And Kori factory was converted to Kori apartment block in 1958 and the remains of the exclusive line to Hirakata city road and Katano city road.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And the Kori factory was converted to the Kori apartment block in 1958 and what was left of the exclusive line to Hirakata city road and Katano city road.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">And the Kori factory was converted to the Kori apartment block in 1958 and what was left of the exclusive line to Hirakata city road and Katano city road.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="105">
+<j>中宮の禁野火薬庫は小松製作所大阪工場に流用され、1967年10月からはこの頃に一般国道昇格が決定された主要地方道水口枚方線（1970年4月1日に国道307号へ昇格）バイパスに流用されている。</j>
+<e type="trans" ver="1">Kinya magazine in Nakamiya was converted to Komatsu Ltd. Osaka factory and since October 1967 the major local road, Minakuchi-Hirakata Road (upgraded to National Route 307 on April 1, 1970), was converted to Bypass.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kinya magazine in Nakamiya was converted to the Komatsu Ltd. Osaka factory and since October 1967 the major local road, Minakuchi-Hirakata Road (upgraded to National Route 307 on April 1, 1970), was converted to a Bypass.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The Kinya magazine in Nakamiya was converted to the Komatsu Ltd. Osaka factory and since October 1967 the major local road, Minakuchi-Hirakata Road (upgraded to National Route 307 on April 1, 1970), was converted to a Bypass.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="106">
+<j>戦後の1949年には、四条畷 - 片町間22分間隔、所要34分のところを20分間隔、所要昼間22分、朝夕24 - 26分に増発・スピードアップされた。</j>
+<e type="trans" ver="1">In 1949 after the war, the trains ran between Shijonawate and Katamachi every 22 minutes and the required time was 34 minutes, but they ran more frequently and faster every 20 minutes and the required time in the daytime was 22 minutes and the one in the morning and evening was 24 to 26 minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1949 after the war, the trains ran between Shijonawate and Katamachi every twenty-two minutes and the required time was thirty-four minutes, but they ran more frequently and faster every twenty minutes and the required time during the daytime was twenty-two minutes and the one in the morning and evening was twenty-four to twenty-six minutes.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In 1949 after the war, the trains ran between Shijonawate and Katamachi every twenty-two minutes and the required time was thirty-four minutes, but they ran more frequently and faster every twenty minutes and the required time during the daytime was twenty-two minutes and the one in the morning and evening was twenty-four to twenty-six minutes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="107">
+<j>1950年に長尾 - 四条畷間が電化され、非電化区間は国鉄キハ04形気動車気動車に変わり、汽車は木津 - 放出間1日2 - 3往復（放出 - 片町間と城東貨物線については不明）の貨物列車だけになった（1972年に蒸気機関車使用廃止）。</j>
+<e type="trans" ver="1">In 1950 the line between Nagao and Shijonawate was electrified and on the unelectrified sections JNR/JR Diesel Cars Series Kiha 04 began to run and as for the railway trains, only the freight trains which ran between Kizu and Hanaten 2 to 3 times a day (the line between Hanaten and Katamachi and the Joto Goods Line were not known) remained (in 1972 the use of steam locomotives was abolished).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1950 the line between Nagao and Shijonawate was electrified and on the nonelectrified sections JNR/JR Diesel Cars Series Kiha 04 began to run and for the railway trains, only freight trains running between Kizu and Hanaten two to three times a day (the line between Hanaten and Katamachi and the Joto Goods Line were not known) remained (in 1972 the use of steam locomotives was abolished).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In 1950 the line between Nagao and Shijonawate was electrified and on the nonelectrified sections JNR/JR Diesel Cars Series Kiha 04 began to run and for the railway trains, only freight trains running between Kizu and Hanaten two to three times a day (the line between Hanaten and Katamachi and the Joto Goods Line were not known) remained (in 1972 the use of steam locomotives was abolished).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="108">
+<j>その後は、長らく電化区間が延びず、木津 - 長尾間は気動車が昼間以降1 - 2時間間隔で運転されるだけであったが、国鉄分割民営化後の1989年に木津 - 長尾間が電化され、多数の電車が運転されるようになった。</j>
+<e type="trans" ver="1">After that, the electrified sections did not extend for a long time and the diesel trains ran between Kizu and Nagao every 1 to 2 times in the afternoon, but in 1989 after the division and privatization of JNR the line between Kizu and Nagao was electrified and thus many trains came to run.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After that, the electrified sections did not extend for a long time and diesel trains ran between Kizu and Nagao one to two times in the afternoon, but in 1989 after the division and privatization of the JNR the line between Kizu and Nagao was electrified and many trains started to run.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After that, the electrified sections did not extend for a long time and diesel trains ran between Kizu and Nagao one to two times in the afternoon, but in 1989 after the division and privatization of the JNR the line between Kizu and Nagao was electrified and many trains started to run.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="109">
+<j>1997年、JR東西線が開業しJR宝塚線・JR神戸線との直通運転を開始。</j>
+<e type="trans" ver="1">In 1997 JR Tozai Line opened and the direct trains started to run to JR Takarazuka Line and JR Kobe Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1997, the JR Tozai Line opened and direct trains started to run on the JR Takarazuka Line and the JR Kobe Line.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">In 1997, the JR Tozai Line opened and direct trains started to run on the JR Takarazuka Line and the JR Kobe Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="110">
+<j>同時に京橋 - 片町間が廃止された。</j>
+<e type="trans" ver="1">At the same time the line between Kyobashi and Katamachi was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the same time the line between Kyobashi and Katamachi was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At the same time the line between Kyobashi and Katamachi was abolished.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="10">
+<tit>
+<j>年表</j>
+<e type="trans" ver="1">Chronology</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chronology</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chronology</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="111">
+<j>以下で区間の「廃止」は特に注記がなければ当該駅および信号場間の営業線としての廃止を意味する。</j>
+<e type="trans" ver="1">Hereinafter, &quot;abolishment&quot; of the section means the abolishment of the said station or commercial line between signal stations, except as otherwise noted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hereinafter, &quot;abolishment&quot; of the section means the abolishment of the said station or commercial line between signal stations, except as otherwise noted.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hereinafter, &apos;abolishment&apos; of the section means the abolishment of the said station or commercial line between signal stations, except as otherwise noted.</e>
+<cmt>&quot;→&apos;</cmt>
+</sen>
+<sen id="112">
+<j>廃止日以降も車両基地への回送線としてや、重複区間であるため一部区間では線路が残っている（いた）場合はその旨注記した。</j>
+<e type="trans" ver="1">Even after the day of abolishment, if there remained the deadhead line to the train car depot or some railway tracks of overlapped sections, it was informed accordingly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even after the day of abolishment, if there was deadhead line to the train car depot or some railway tracks of overlapped sections, it was informed accordingly.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Even after the day of abolishment, if there was deadhead line to the train car depot or some railway tracks of overlapped sections, it was informed accordingly.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="11">
+<tit>
+<j>1895年（明治28年）8月22日</j>
+<e type="trans" ver="1">On August 22, 1895</e>
+<cmt></cmt>
+<e type="trans" ver="2">On August 22, 1895</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">On August 22, 1895</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="113">
+<j>- 浪速鉄道により片町 - 四条畷間（8マイル5チェーン (単位)≒12.98km）が開業。</j>
+<e type="trans" ver="1">- The line between Katamachi and Shijonawate (8 miles 5 chain (unit) ≒ 12.98 km) was opened by Naniwa Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Katamachi and Shijonawate (eight miles five chain (unit) ≒ 12.98 km) was opened by Naniwa Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The line between Katamachi and Shijonawate (eight miles five chain (unit) ≒ 12.98 km) was opened by Naniwa Railway.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="114">
+<j>全線単線。</j>
+<e type="trans" ver="1">All lines are single lines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All lines were single lines.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">All lines were single lines.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="115">
+<j>片町駅、放出駅、徳庵駅、住道駅、四条畷駅開業。</j>
+<e type="trans" ver="1">Katamachi station, Hanaten station, Tokuan station, Suminodo station and Shijonawate station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katamachi station, Hanaten station, Tokuan station, Suminodo station and Shijonawate station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Katamachi Station, Hanaten Station, Tokuan Station, Suminodo Station and Shijonawate Station opened.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="12">
+<tit>
+<j>1896年（明治29年）6月9日</j>
+<e type="trans" ver="1">On June 9, 1896</e>
+<cmt></cmt>
+<e type="trans" ver="2">On June 9, 1896</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On June 9, 1896</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="116">
+<j>- 全線で営業距離が9C（≒0.18km）延長。</j>
+<e type="trans" ver="1">- The commercial distance of all the lines were extended (9C ≒ 0.18 km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The commercial distance of all lines were extended (9C ≒ 0.18 km).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The commercial distance of all lines were extended (9C ≒ 0.18 km).</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="13">
+<tit>
+<j>1897年（明治30年）2月9日</j>
+<e type="trans" ver="1">On February 9, 1897</e>
+<cmt></cmt>
+<e type="trans" ver="2">On February 9, 1897</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On February 9, 1897</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="117">
+<j>- 浪速鉄道が関西鉄道に路線を譲渡。</j>
+<e type="trans" ver="1">- Naniwa Railway transferred the railroads to Kansai Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Naniwa Railway transferred the railroads to Kansai Railway.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Naniwa Railway transferred the railroads to Kansai Railway.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="14">
+<tit>
+<j>1898年（明治31年）4月12日</j>
+<e type="trans" ver="1">On April 12, 1898</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 12, 1898</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On April 12, 1898</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="118">
+<j>- 四条畷 - 長尾間（8M23C≒13.34km）が延伸開業。</j>
+<e type="trans" ver="1">- The line between Shijonawate and Nagao (8M23C ≒13.34km) was extensionally opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Shijonawate and Nagao (8M23C ≒13.34km) was extended and opened.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The line between Shijonawate and Nagao (8M23C ≒13.34 km) was extended and opened.</e>
+<cmt>ハイフン削除スペース挿入</cmt>
+</sen>
+<sen id="119">
+<j>津田駅、長尾駅開業。</j>
+<e type="trans" ver="1">Tsuda station and Nagao station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tsuda station and Nagao station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tsuda Station and Nagao Station opened.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="15">
+<tit>
+<j>6月4日</j>
+<e type="trans" ver="1">On June 4</e>
+<cmt></cmt>
+<e type="trans" ver="2">On June 4</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On June 4</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="120">
+<j>- 長尾 - 新木津間（11M23C≒18.17km）が延伸開業。</j>
+<e type="trans" ver="1">- The line between Nagao and Shin-Kizu (11M23C ≒ 18.17km) was extensionally opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Nagao and Shin-Kizu (11M23C ≒ 18.17km) was extended and opened.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The line between Nagao and Shin-Kizu (11M23C ≒ 18.17 km) was extended and opened.</e>
+<cmt>ハイフン削除スペース挿入</cmt>
+</sen>
+<sen id="121">
+<j>田辺駅、祝園駅、新木津駅開業。</j>
+<e type="trans" ver="1">Tanabe station, Housono station and Shin-Kizu station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanabe station, Housono station and Shin-Kizu station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tanabe station, Housono station and Shin-Kizu station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="16">
+<tit>
+<j>7月1日</j>
+<e type="trans" ver="1">On July 1</e>
+<cmt></cmt>
+<e type="trans" ver="2">On July 1</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On July 1</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="122">
+<j>- 星田駅が開業。</j>
+<e type="trans" ver="1">- Hoshida station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Hoshida station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hoshida Station opened.</e>
+<cmt>ハイフン削除用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="17">
+<tit>
+<j>9月16日</j>
+<e type="trans" ver="1">On September 16</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 16</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On September 16</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="123">
+<j>- 木津 - 新木津間（29C≒0.58km）が延伸開業し、現在の奈良線である奈良鉄道線に接続。</j>
+<e type="trans" ver="1">- The line between Kizu and Shin-Kizu (29C ≒0.58km) was extensionally opened and connected with the present-day Nara Line, Nara Railroad Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Kizu and Shin-Kizu (29C ≒0.58km) was extended and opened and connected with the present-day Nara Line, Nara Railroad Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The line between Kizu and Shin-Kizu (29C ≒0.58 km) was extended and opened and connected with the present-day Nara Line, Nara Railroad Line.</e>
+<cmt>ハイフン削除スペース挿入</cmt>
+</sen>
+<sen id="124">
+<j>起点を片町駅から木津駅に変更。</j>
+<e type="trans" ver="1">The starting station was changed from Katamachi station to Kizu station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The starting station changed from Katamachi station to Kizu station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The starting Station changed from Katamachi Station to Kizu Station.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="18">
+<tit>
+<j>11月8日</j>
+<e type="trans" ver="1">On November 8</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 8</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On November 8</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="125">
+<j>- 支線 放出 - 寝屋川聯絡所間（1M35C≒2.31km）が開業。</j>
+<e type="trans" ver="1">- The branch line between Hanaten and Neyagawa connection point (1M35C ≒2.31 km) opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The branch line between Hanaten and Neyagawa connection point (1M35C ≒2.31 km) opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The branch line between Hanaten and Neyagawa connection point (1M35C ≒ 2.31 km) opened.</e>
+<cmt>ハイフン削除スペース挿入</cmt>
+</sen>
+<sen id="126">
+<j>寝屋川聯絡所開設。</j>
+<e type="trans" ver="1">Neyagawa connection point opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neyagawa connection point opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Neyagawa connection point opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="127">
+<j>11月18日</j>
+<e type="trans" ver="1">On November 18</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 18</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On November 18</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="128">
+<j>- 加茂 - 新木津間（3M64C≒6.12km）、寝屋川聯絡所 - 網島間（1M6C≒1.73km）が延伸開業。</j>
+<e type="trans" ver="1">- The line between Kamo and Shin-Kizu (3M64C ≒6.12 km) and the one between Neyagawa connection point and Amijima (1M6C ≒ 1.73km) were extensionally opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Kamo and Shin-Kizu (3M64C ≒6.12 km) and the line between Neyagawa connection point and Amijima (1M6C ≒ 1.73km) were extended and opened.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The line between Kamo and Shin-Kizu (3M64C ≒ 6.12 km) and the line between Neyagawa connection point and Amijima (1M6C ≒ 1.73 km) were extended and opened.</e>
+<cmt>ハイフン削除スペース挿入</cmt>
+</sen>
+<sen id="129">
+<j>名古屋駅 - 新木津 - 網島間が本線となり、同区間で直通列車を運転開始。</j>
+<e type="trans" ver="1">The line between Nagoya station, Shin-Kizu and Amijima station became the Main Line and the direct trains between them started to run.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line between Nagoya station, Shin-Kizu and Amijima station became the Main Line and the direct trains between them started to run.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Nagoya Station, Shin-Kizu and Amijima Station became the Main Line and the direct trains between them started to run.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="130">
+<j>支線となった放出 - 片町間の旅客営業廃止。</j>
+<e type="trans" ver="1">In the line between Hanaten and Katamachi which became a branch line, the commercial operation was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the line between Hanaten and Katamachi that became a branch line, commercial operations were abolished.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">On the line between Hanaten and Katamachi that became a branch line, commercial operations were abolished.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="131">
+<j>網島駅開業。</j>
+<e type="trans" ver="1">Amijima station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Amijima station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Amijima Station opened.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="19">
+<tit>
+<j>1899年（明治32年）5月15日</j>
+<e type="trans" ver="1">On May 15, 1899</e>
+<cmt></cmt>
+<e type="trans" ver="2">On May 15, 1899</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On May 15, 1899</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="132">
+<j>- 野崎臨時駅開業。</j>
+<e type="trans" ver="1">- Nozaki temporal station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Nozaki temporal station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nozaki temporal Station opened.</e>
+<cmt>ハイフン削除用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="20">
+<tit>
+<j>1900年（明治33年）6月6日</j>
+<e type="trans" ver="1">On June 6, 1900</e>
+<cmt></cmt>
+<e type="trans" ver="2">On June 6, 1900</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On June 6, 1900</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="133">
+<j>- 大阪鉄道（奈良 - JR難波駅間）本線編入に伴い、加茂 - 新木津 - 網島間は支線となる。</j>
+<e type="trans" ver="1">- When Osaka Railroad (between Nara and JR Nanba) was incorporated into the main line, the line between Kamo, Shin-Kizu and Amijima became a branch line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- When Osaka Railroad (between Nara and JR Nanba) was incorporated into the main line, the line between Kamo, Shin-Kizu, and Amijima became a branch line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">When Osaka Railroad (between Nara and JR Nanba) was incorporated into the main line, the line between Kamo, Shin-Kizu, and Amijima became a branch line.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="21">
+<tit>
+<j>1901年（明治34年）1月18日</j>
+<e type="trans" ver="1">On January 18, 1901</e>
+<cmt></cmt>
+<e type="trans" ver="2">On January 18, 1901</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On January 18, 1901</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="134">
+<j>- 支線 新木津 - 木津間休止。</j>
+<e type="trans" ver="1">- The branch line between Shin-Kizu and Kizu was halted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The branch line between Shin-Kizu and Kizu was halted.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The branch line between Shin-Kizu and Kizu was halted.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="22">
+<tit>
+<j>1月25日</j>
+<e type="trans" ver="1">On January 25</e>
+<cmt></cmt>
+<e type="trans" ver="2">On January 25</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On January 25</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="135">
+<j>- 放出 - 片町間の営業距離が2C（≒0.04km）延長。</j>
+<e type="trans" ver="1">- The commercial distance between Hanaten and Katamachi was extended (2C ≒ 0.04km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The commercial distance between Hanaten and Katamachi was extended (2C ≒ 0.04km).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The commercial distance between Hanaten and Katamachi was extended (2C ≒ 0.04 km).</e>
+<cmt>ハイフン削除スペース挿入</cmt>
+</sen>
+</par>
+</sec>
+<sec id="23">
+<tit>
+<j>12月21日</j>
+<e type="trans" ver="1">On December 21</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 21</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On December 21</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="136">
+<j>- 網島 - 桜ノ宮間（57C≒1.15km）が開業。</j>
+<e type="trans" ver="1">- The line between Amijima and Sakuranomiya (57C ≒ 1.15km) opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Amijima and Sakuranomiya (57C ≒ 1.15km) opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Amijima and Sakuranomiya (57C ≒ 1.15 km) opened.</e>
+<cmt>ハイフン削除スペース挿入</cmt>
+</sen>
+</par>
+</sec>
+<sec id="24">
+<tit>
+<j>1902年（明治35年）11月12日</j>
+<e type="trans" ver="1">On November 12, 1902</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 12, 1902</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On November 12, 1902</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="137">
+<j>- 営業距離の単位をマイル・チェーンからマイルのみに変更（加茂 - 網島間 31M71C→31.9M、放出 - 片町間 2M17C→2.2M、網島 - 桜ノ宮間 57C→0.7M、新木津 - 木津間 29C→0.4M）。</j>
+<e type="trans" ver="1">- The unit of commercial distance was changed from mile, chain to mile only (between Kamo and Amijima 31M71C =&gt; 31.9M, between Hanaten and Katamachi 2M17C =&gt; 2.2M, between Amijima and Sakuranomiya 57C =&gt; 0.7M, between Shin-Kizu and Kizu 29C =&gt; 0.4M).</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The unit of commercial distance was changed from mile, chain to mile only (between Kamo and Amijima 31M71C =&gt; 31.9M, between Hanaten and Katamachi 2M17C =&gt; 2.2M, between Amijima and Sakuranomiya 57C =&gt; 0.7M, between Shin-Kizu and Kizu 29C =&gt; 0.4M).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The unit of commercial distance was changed from mile, chain to mile only (between Kamo and Amijima 31M71C =&gt; 31.9M, between Hanaten and Katamachi 2M17C =&gt; 2.2M, between Amijima and Sakuranomiya 57C =&gt; 0.7M, between Shin-Kizu and Kizu 29C =&gt; 0.4M).</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="25">
+<tit>
+<j>1905年（明治38年）1月1日</j>
+<e type="trans" ver="1">On January 1, 1905</e>
+<cmt></cmt>
+<e type="trans" ver="2">On January 1, 1905</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On January 1, 1905</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="138">
+<j>- 放出 - 片町間の旅客営業再開。</j>
+<e type="trans" ver="1">- The commercial service of the line between Hanaten and Katamachi reopened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The commercial service on the line between Hanaten and Katamachi reopened.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The commercial service on the line between Hanaten and Katamachi reopened.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="26">
+<tit>
+<j>1907年（明治40年）8月21日</j>
+<e type="trans" ver="1">On August 21, 1907</e>
+<cmt></cmt>
+<e type="trans" ver="2">On August 21, 1907</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On August 21, 1907</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="139">
+<j>- 加茂 - 新木津間（3.8M≒6.12km）休止。</j>
+<e type="trans" ver="1">- The line between Kamo and Shin-Kizu (3.8M ≒6.12km) was halted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Kamo and Shin-Kizu (3.8M ≒6.12km) was halted.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Kamo and Shin-Kizu (3.8M ≒ 6.12 km) was halted.</e>
+<cmt>ハイフン削除スペース挿入</cmt>
+</sen>
+<sen id="140">
+<j>新木津駅を新木津給水所に格下げ。</j>
+<e type="trans" ver="1">Shinkizu station was downgraded to Shinkizu water point.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinkizu station was downgraded to Shinkizu water point.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shinkizu Station was downgraded to Shinkizu water point.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="27">
+<tit>
+<j>10月1日</j>
+<e type="trans" ver="1">On October 1</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 1</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On October 1</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="141">
+<j>- 関西鉄道が国有化。</j>
+<e type="trans" ver="1">- Kansai Railway was nationalized.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Kansai Railway was nationalized.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kansai Railway was nationalized.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="142">
+<j>新木津給水所を新木津給水給炭所に変更。</j>
+<e type="trans" ver="1">Shinkizu water point was changed to Shinkizu water and coal point.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinkizu water point was changed to Shinkizu water and coal point.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shinkizu water point was changed to Shinkizu water and coal point.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="28">
+<tit>
+<j>11月1日</j>
+<e type="trans" ver="1">On November 1</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 1</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On November 1</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="143">
+<j>- 加茂 - 新木津間（0.4M≒0.64km）が正式に廃止。</j>
+<e type="trans" ver="1">- The line between Kamo and Shin-Kizu (0.4M ≒ 0.64 km) was officially abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Kamo and Shin-Kizu (0.4M ≒ 0.64 km) was officially abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Kamo and Shin-Kizu (0.4M ≒ 0.64 km) was officially abolished.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="144">
+<j>木津 - 桜ノ宮間で営業距離が0.2M（≒0.32km）延長。</j>
+<e type="trans" ver="1">The commercial distance between Kizu and Sakuranomiya was extended (0.2M ≒ 0.32km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The commercial distance between Kizu and Sakuranomiya was extended (0.2M ≒ 0.32km).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The commercial distance between Kizu and Sakuranomiya was extended (0.2M ≒ 0.32 km).</e>
+<cmt>スペース挿入</cmt>
+</sen>
+</par>
+</sec>
+<sec id="29">
+<tit>
+<j>1909年（明治42年）10月12日</j>
+<e type="trans" ver="1">On October 12, 1909</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 12, 1909</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On October 12, 1909</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="145">
+<j>- 線路名称制定、木津 - 桜ノ宮間を桜ノ宮線、放出 - 片町間を片町線とする。</j>
+<e type="trans" ver="1">- The name of the lines were designated : the line between Kizu and Sakuranomiya was called Sakuranomiya Line and the one between Hanaten and Katamachi Katamachi Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The name of the lines were designated: the line between Kizu and Sakuranomiya was called the Sakuranomiya Line and the one between Hanaten and Katamachi, the Katamachi Line.</e>
+<cmt>punctuation, grammar</cmt>
+<e type="check" ver="1">The name of the lines were designated: the line between Kizu and Sakuranomiya was called the Sakuranomiya Line and the one between Hanaten and Katamachi, the Katamachi Line.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="30">
+<tit>
+<j>1911年（明治44年）8月29日</j>
+<e type="trans" ver="1">On August 29, 1911</e>
+<cmt></cmt>
+<e type="trans" ver="2">On August 29, 1911</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On August 29, 1911</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="146">
+<j>- 新木津給水給炭所廃止。</j>
+<e type="trans" ver="1">- Shinkizu water and coal point was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Shinkizu water and coal point was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shinkizu water and coal point was abolished.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="31">
+<tit>
+<j>1912年（明治45年）4月21日</j>
+<e type="trans" ver="1">On April 21, 1912</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 21, 1912</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On April 21, 1912</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="147">
+<j>- 野崎仮停車場を野崎駅に格上げ。</j>
+<e type="trans" ver="1">- Nozaki Provisional Station was upgraded to Nozaki station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Nozaki Provisional Station was upgraded to Nozaki station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nozaki Provisional Station was upgraded to Nozaki Station.</e>
+<cmt>ハイフン削除用語統一</cmt>
+</sen>
+<sen id="148">
+<j>鴻池新田駅開業。</j>
+<e type="trans" ver="1">Konoikeshinden station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Konoikeshinden station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Konoikeshinden Station opened.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="149">
+<j>片町駅構内扱いで京橋口乗降場設置。</j>
+<e type="trans" ver="1">Kyobashiguchi Stop was set as Katamachi station precincts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyobashiguchi Stop was set as Katamachi station precincts.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyobashiguchi Stop was set as Katamachi Station precincts.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="32">
+<tit>
+<j>5月11日</j>
+<e type="trans" ver="1">On May 11</e>
+<cmt></cmt>
+<e type="trans" ver="2">On May 11</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On May 11</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="150">
+<j>- 新喜多駅開業。</j>
+<e type="trans" ver="1">- Shinkita station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Shinkita station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shinkita Station opened.</e>
+<cmt>ハイフン削除用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="33">
+<tit>
+<j>1913年（大正2年）11月15日</j>
+<e type="trans" ver="1">On November 15, 1913</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 15, 1913</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On November 15, 1913</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="151">
+<j>- 放出 - 桜ノ宮間（3.1M≒4.99km）が廃止。</j>
+<e type="trans" ver="1">- The line between Hanaten and Sakuranomiya (3.1M ≒ 4.99km) was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Hanaten and Sakuranomiya (3.1M ≒ 4.99km) was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Hanaten and Sakuranomiya (3.1M ≒ 4.99 km) was abolished.</e>
+<cmt>ハイフン削除スペース挿入</cmt>
+</sen>
+<sen id="152">
+<j>木津 - 片町間を片町線とする。</j>
+<e type="trans" ver="1">The line between Kizu and Katamachi became Katamachi Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line between Kizu and Katamachi became the Katamachi Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The line between Kizu and Katamachi became the Katamachi Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="153">
+<j>片町駅京橋口乗降場を京橋駅に統合。</j>
+<e type="trans" ver="1">Kyobashiguchi Stop was integrated into Kyobashi station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyobashiguchi Stop was integrated into Kyobashi station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Katamachi Station Kyobashiguchi Stop was integrated into Kyobashi Station.</e>
+<cmt>訳漏れ補足しました。用語統一</cmt>
+</sen>
+<sen id="154">
+<j>網島駅、寝屋川聯絡所廃止。</j>
+<e type="trans" ver="1">Amijima station and Neyagawa connection point were abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Amijima station and the Neyagawa connection point were abolished.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Amijima Station and the Neyagawa connection point were abolished.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="155">
+<j>この時放出 - 寝屋川連絡所 - 桜ノ宮間に連絡線が敷設され、のちの放出 - 淀川間の元となったが、廃止時期不明。</j>
+<e type="trans" ver="1">At this time the connecting line between Hanaten, Neyagawa connection point and Sakuranomiya was set and later became the origin of the line between Hanaten and Yodogawa, but the time of abolishment is not unknown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At this time the connecting line between Hanaten, Neyagawa connection point and Sakuranomiya was set and later became the origin of the line between Hanaten and Yodogawa, but the time of abolishment is not known.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At this time the connecting line between Hanaten, Neyagawa connection point and Sakuranomiya was set and later became the origin of the line between Hanaten and Yodogawa, but the time of abolishment is not known.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="34">
+<tit>
+<j>1916年（大正5年）12月11日</j>
+<e type="trans" ver="1">On December 11, 1916</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 11, 1916</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On December 11, 1916</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="156">
+<j>- 新喜多駅廃止。</j>
+<e type="trans" ver="1">- Shinkita station was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Shinkita station was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shinkita Station was abolished.</e>
+<cmt>ハイフン削除用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="35">
+<tit>
+<j>1927年（昭和2年）12月10日</j>
+<e type="trans" ver="1">On December 10, 1927</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 10, 1927</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On December 10, 1927</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="157">
+<j>- 放出 - （鴫野）間が複線化。</j>
+<e type="trans" ver="1">- The line between Hanaten and (Shigino) became the double line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Hanaten and (Shigino) became the double line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Hanaten and (Shigino) became the double line.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="158">
+<j>貨物支線 京橋 - 淀川間（1.2M≒1.93km）、放出 - 淀川間（3.0M≒4.83km）が開業し（貨）淀川駅が開業。</j>
+<e type="trans" ver="1">The freight feeder line between Kyobashi and Yodogawa (1.2M ≒1.93km) and the one between Hanaten and Yodogawa (3.0M ≒ 4.83km) opened and Yodogawa station (freight feeder) opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The freight feeder line between Kyobashi and Yodogawa (1.2M ≒1.93km) and the one between Hanaten and Yodogawa (3.0M ≒ 4.83km) opened and the Yodogawa station (freight feeder) opened.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The freight feeder line between Kyobashi and Yodogawa (1.2M ≒ 1.93 km) and the one between Hanaten and Yodogawa (3.0M ≒ 4.83 km) opened and the Yodogawa Station (freight feeder) opened.</e>
+<cmt>用語統一スペース挿入</cmt>
+</sen>
+</par>
+</sec>
+<sec id="36">
+<tit>
+<j>1929年（昭和4年）3月15日</j>
+<e type="trans" ver="1">On March 15, 1929</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 15, 1929</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 15, 1929</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="159">
+<j>- 貨物支線 淀川 - 千里信号場 - 吹田間（6.2M≒9.98km）が開業。</j>
+<e type="trans" ver="1">- The freight feeder line between Yodogawa, Senri signal station and Suita (6.2M ≒ 9.98km) opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The freight feeder line between Yodogawa, Senri signal station and Suita (6.2M ≒ 9.98km) opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The freight feeder line between Yodogawa, Senri signal station and Suita (6.2M ≒ 9.98 km) opened.</e>
+<cmt>ハイフン削除スペース挿入</cmt>
+</sen>
+<sen id="160">
+<j>中間に巽信号場、千里信号場開設。</j>
+<e type="trans" ver="1">In between Tatsumi signal station and Senri signal station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line between Tatsumi signal station and Senri signal station opened.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The line between Tatsumi signal station and Senri signal station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="37">
+<tit>
+<j>1930年（昭和5年）4月1日</j>
+<e type="trans" ver="1">On April 1, 1930</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1930</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On April 1, 1930</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="161">
+<j>- 営業距離の単位をマイルからメートルに変更（木津 - 片町間 28.1M→45.4km、放出 - 淀川間 3.0M→4.8km、淀川 - 吹田間 6.2M→10.0km、京橋 - 淀川間 1.2M→1.8km）。</j>
+<e type="trans" ver="1">- The unit of commercial distance was changed from mile to meter (between Kizu and Katamachi 28.1M =&gt; 45.4km, between Hanaten and Yodogawa 3.0M =&gt; 4.8km, between Yodogawa and Suita 6.2M =&gt; 10.0km, between Kyobashi and Yodogawa 1.2M =&gt; 1.8km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The unit of commercial distance was changed from miles to meters (between Kizu and Katamachi 28.1M =&gt; 45.4km, between Hanaten and Yodogawa 3.0M =&gt; 4.8km, between Yodogawa and Suita 6.2M =&gt; 10.0km, between Kyobashi and Yodogawa 1.2M =&gt; 1.8km).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The unit of commercial distance was changed from miles to meters (between Kizu and Katamachi 28.1M =&gt; 45.4km, between Hanaten and Yodogawa 3.0M =&gt; 4.8km, between Yodogawa and Suita 6.2M =&gt; 10.0km, between Kyobashi and Yodogawa 1.2M =&gt; 1.8km).</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="38">
+<tit>
+<j>1931年（昭和6年）8月10日</j>
+<e type="trans" ver="1">On August 10, 1931</e>
+<cmt></cmt>
+<e type="trans" ver="2">On August 10, 1931</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On August 10, 1931</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="162">
+<j>- 貨物支線 放出 - 正覚寺信号場 - 平野間 (8.4km)、放出 - 吹田間 (10.7km) が開業。</j>
+<e type="trans" ver="1">- The freight feeder line between Hanaten, Shogakuji signal station and Hirano (8.4km) and the one between Hanaten and Suita (10.7km) opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The freight feeder line between Hanaten, Shogakuji signal station and Hirano (8.4km) and the one between Hanaten and Suita (10.7km) opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The freight feeder line between Hanaten, Shogakuji signal station and Hirano (8.4 km) and the one between Hanaten and Suita (10.7 km) opened.</e>
+<cmt>ハイフン削除スペース挿入</cmt>
+</sen>
+<sen id="163">
+<j>関西本線との分岐点に正覚寺信号場（初代）開設。</j>
+<e type="trans" ver="1">At the bifurcation point with Kansai Main Line, Shogakuji signal station (the first) opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the bifurcation point with Kansai Main Line, Shogakuji signal station (the first) opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At the bifurcation point with Kansai Main Line, Shogakuji signal station (the first) opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="39">
+<tit>
+<j>1932年（昭和7年）7月8日</j>
+<e type="trans" ver="1">On July 8, 1932</e>
+<cmt></cmt>
+<e type="trans" ver="2">On July 8, 1932</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On July 8, 1932</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="164">
+<j>- 千里信号場廃止。</j>
+<e type="trans" ver="1">- Senri signal station was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Senri signal station was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Senri signal station was abolished.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="40">
+<tit>
+<j>11月1日</j>
+<e type="trans" ver="1">On November 1</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 1</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On November 1</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="165">
+<j>- 放出 - 京橋間に鴫野信号場を開設。</j>
+<e type="trans" ver="1">- Shigino signal station opened between Hanaten and Kyobashi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Shigino signal station opened between Hanaten and Kyobashi.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shigino signal station opened between Hanaten and Kyobashi.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="41">
+<tit>
+<j>12月1日</j>
+<e type="trans" ver="1">On December 1</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 1</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On December 1</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="166">
+<j>- 四条畷 - 片町間、鴫野信号場 - 吹田間が電化。</j>
+<e type="trans" ver="1">- The line between Shijonawate and Katamachi and the one between Shigino signal station and Suita were electrified.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Shijonawate and Katamachi and the one between Shigino signal station and Suita were electrified.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Shijonawate and Katamachi and the one between Shigino signal station and Suita were electrified.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="42">
+<tit>
+<j>1933年（昭和8年）9月1日</j>
+<e type="trans" ver="1">On September 1, 1933</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 1, 1933</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On September 1, 1933</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="167">
+<j>- 鴫野信号場を格上げし鴫野駅が開業。</j>
+<e type="trans" ver="1">- Shigino signal station was upgraded and Shigino station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Shigino signal station was upgraded and Shigino station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shigino signal station was upgraded and Shigino station opened.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="43">
+<tit>
+<j>1935年（昭和10年）12月2日</j>
+<e type="trans" ver="1">On December 2, 1935</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 2, 1935</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On December 2, 1935</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="168">
+<j>- 河内磐船駅が開業。</j>
+<e type="trans" ver="1">- Kawachiiwafune station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Kawachiiwafune station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kawachiiwafune Station opened.</e>
+<cmt>ハイフン削除用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="44">
+<tit>
+<j>1939年（昭和14年）10月15日</j>
+<e type="trans" ver="1">On October 15, 1939</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 15, 1939</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On October 15, 1939</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="169">
+<j>- 貨物支線 放出 - 竜華操車場 - 八尾間 (10.4km) が開業。</j>
+<e type="trans" ver="1">- The freight feeder line between Hanaten, Ryuge Train Yard and Yao (10.4 km) opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The freight feeder line between Hanaten, Ryuge Train Yard and Yao (10.4 km) opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The freight feeder line between Hanaten, Ryuge Train Yard and Yao (10.4 km) opened.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="170">
+<j>正覚寺信号場（初代）を平野駅に統合し廃止。</j>
+<e type="trans" ver="1">Shogakuji signal station (the first) was integrated into Hirano station and was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shogakuji signal station (the first) was integrated into Hirano station and was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shogakuji signal station (the first) was integrated into Hirano Station and was abolished.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="45">
+<tit>
+<j>1941年（昭和16年）7月25日</j>
+<e type="trans" ver="1">On July 25, 1941</e>
+<cmt></cmt>
+<e type="trans" ver="2">On July 25, 1941</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On July 25, 1941</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="171">
+<j>- 正覚寺信号場（2代目）開設。</j>
+<e type="trans" ver="1">- Shogakuji signal station (the second) opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Shogakuji signal station (the second) opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shogakuji signal station (the second) opened.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="46">
+<tit>
+<j>1943年（昭和18年）10月1日</j>
+<e type="trans" ver="1">On October 1, 1943</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 1, 1943</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On October 1, 1943</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="172">
+<j>- 貨物支線 放出 - 平野間に蛇草信号場、放出 - 吹田間に都島信号場開設。</j>
+<e type="trans" ver="1">- Hagusa signal station opened on the freight feeder line between Hanaten and Hirano and Miyakojima signal station opened on the one between Hanaten and Suita.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Hagusa signal station opened on the freight feeder line between Hanaten and Hirano and Miyakojima signal station opened on the one between Hanaten and Suita.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hagusa signal station opened on the freight feeder line between Hanaten and Hirano and Miyakojima signal station opened on the one between Hanaten and Suita.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="47">
+<tit>
+<j>1945年（昭和20年）頃</j>
+<e type="trans" ver="1">Around 1945</e>
+<cmt></cmt>
+<e type="trans" ver="2">Around 1945</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Around 1945</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="173">
+<j>- 野崎 - 住道間に東住道仮乗降場開業。</j>
+<e type="trans" ver="1">- In the line between Nozaki and Suminodo, Higashi-Suminodo temporary Station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- On the line between Nozaki and Suminodo, Higashi-Suminodo temporary Station opened.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">On the line between Nozaki and Suminodo, Higashi-Suminodo temporary Station opened.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="174">
+<j>朝夕通勤時のみ列車が停車した。</j>
+<e type="trans" ver="1">Only during commuting hours in the morning and evening, the trains stopped.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The trains stopped only during commuting hours during the morning and evening.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The trains stopped only during commuting hours during the morning and evening.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="48">
+<tit>
+<j>1948年（昭和23年）頃</j>
+<e type="trans" ver="1">Around 1948</e>
+<cmt></cmt>
+<e type="trans" ver="2">Around 1948</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Around 1948</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="175">
+<j>- 東住道仮乗降場廃止。</j>
+<e type="trans" ver="1">- Higashi-Suminodo temporary Station was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Higashi-Suminodo temporary Station was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Higashi-Suminodo temporary Station was abolished.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="49">
+<tit>
+<j>1950年（昭和25年）12月25日</j>
+<e type="trans" ver="1">On December 25, 1950</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 25, 1950</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On December 25, 1950</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="176">
+<j>- 長尾 - 四条畷間が電化。</j>
+<e type="trans" ver="1">- The line between Nagao and Shijonawate was electrified.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Nagao and Shijonawate was electrified.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Nagao and Shijonawate was electrified.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="177">
+<j>電化当初は4両編成の電車が40 - 60分間隔で1日21往復。</j>
+<e type="trans" ver="1">When electrified at that time, 4-car train sets ran to and from 21times a day every 40 - 60 minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When electrified at that time, 4-car trains ran to and from twenty-on times a day every fourty - sixty minutes.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">When electrified at that time, 4-car trains ran to and from twenty-on times a day every forty - sixty minutes.</e>
+<cmt>スペル</cmt>
+</sen>
+<sen id="178">
+<j>木津 - 長尾間は気動車1日9往復と早朝に下り貨客混合列車1本。</j>
+<e type="trans" ver="1">Between Kizu and Nagao, the diesel trains ran to and from nine times a day and one mixed train of the down line ran in the early morning.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Between Kizu and Nagao, diesel trains ran back and forth nine times a day and one mixed train on the down line ran early in the morning.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Between Kizu and Nagao, diesel trains ran back and forth nine times a day and one mixed train on the down line ran early in the morning.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="50">
+<tit>
+<j>1952年（昭和27年）12月1日</j>
+<e type="trans" ver="1">On December 1, 1952</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 1, 1952</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On December 1, 1952</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="179">
+<j>- 西木津駅、下狛駅、上田辺駅、大住駅が開業。</j>
+<e type="trans" ver="1">- Nishi-Kizu station, Shimokoma station, Kamitanabe station and Osumi station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Nishi-Kizu station, Shimokoma station, Kamitanabe station and Osumi station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nishi-Kizu Station, Shimokoma Station, Kamitanabe Station and Osumi Station opened.</e>
+<cmt>ハイフン削除用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="51">
+<tit>
+<j>1953年（昭和28年）5月1日</j>
+<e type="trans" ver="1">On May 1, 1953</e>
+<cmt></cmt>
+<e type="trans" ver="2">On May 1, 1953</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On May 1, 1953</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="180">
+<j>- 忍ヶ丘駅が開業。</j>
+<e type="trans" ver="1">- Shinobugaoka station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Shinobugaoka station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shinobugaoka Station opened.</e>
+<cmt>ハイフン削除用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="52">
+<tit>
+<j>1954年（昭和29年）</j>
+<e type="trans" ver="1">In 1954</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1954</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In 1954</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="181">
+<j>- 津田 - 禁野火薬庫と星田 - 香里製造所の専用線（禁野側線・香里側線）を廃止。</j>
+<e type="trans" ver="1">- The exclusive line between Tsuda and Kinya magazine and the one between Hoshida and Kori factory (Kinya side line and Kori side line) were abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The exclusive line between Tsuda and Kinya magazine and the one between Hoshida and Kori factory (Kinya side line and Kori side line) were abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The exclusive line between Tsuda and Kinya magazine and the one between Hoshida and Kori factory (Kinya side line and Kori side line) were abolished.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="53">
+<tit>
+<j>1955年（昭和30年）1月25日</j>
+<e type="trans" ver="1">On January 25, 1955</e>
+<cmt></cmt>
+<e type="trans" ver="2">On January 25, 1955</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On January 25, 1955</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="182">
+<j>- 鴫野 - 片町間が複線化。</j>
+<e type="trans" ver="1">- The line between Shigino and Katamachi became a double line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Shigino and Katamachi became a double line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Shigino and Katamachi became a double line.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="54">
+<tit>
+<j>1961年（昭和36年）4月25日</j>
+<e type="trans" ver="1">On April 25, 1961</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 25, 1961</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On April 25, 1961</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="183">
+<j>- 貨物支線 京橋 - 淀川間 (1.8km) が廃止（ただし、環状線電車の淀川電車区入線のために、線路自体は存続）。</j>
+<e type="trans" ver="1">- The freight feeder line between Kyobashi and Yodogawa (1.8 km) was abolished (however, because the trains of Osaka Loop Line went into Yodogawa train section, the line itself continued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The freight feeder line between Kyobashi and Yodogawa (1.8 km) was abolished (however, because the trains on the Osaka Loop Line went into Yodogawa train section, the line itself continued.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The freight feeder line between Kyobashi and Yodogawa (1.8 km) was abolished (however, because the trains on the Osaka Loop Line went into Yodogawa train section, the line itself continued.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="55">
+<tit>
+<j>12月10日</j>
+<e type="trans" ver="1">On December 10</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 10</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On December 10</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="184">
+<j>- 正覚寺信号場（2代目）を平野駅に統合し廃止。</j>
+<e type="trans" ver="1">- Shogakuji signal station (the second) was integrated into Hirano station and was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Shogakuji signal station (the second) was integrated into Hirano station and was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shogakuji signal station (the second) was integrated into Hirano Station and was abolished.</e>
+<cmt>ハイフン削除用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="56">
+<tit>
+<j>1969年（昭和44年）2月27日</j>
+<e type="trans" ver="1">On February 27, 1969</e>
+<cmt></cmt>
+<e type="trans" ver="2">On February 27, 1969</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On February 27, 1969</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="185">
+<j>- 四条畷 - 住道間が複線化。</j>
+<e type="trans" ver="1">- The line between Shijonawate and Suminodo became a double line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Shijonawate and Suminodo became a double line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Shijonawate and Suminodo became a double line.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="57">
+<tit>
+<j>3月22日</j>
+<e type="trans" ver="1">On March 22</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 22</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 22</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="186">
+<j>- 住道 - 徳庵間が複線化。</j>
+<e type="trans" ver="1">- The line between Suminodo and Tokuan became a double line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Suminodo and Tokuan became a double line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Suminodo and Tokuan became a double line.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="58">
+<tit>
+<j>3月25日</j>
+<e type="trans" ver="1">On March 25</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 25</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 25</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="187">
+<j>- 徳庵 - 放出間が複線化。</j>
+<e type="trans" ver="1">- The line between Tokuan and Hanaten became a double line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Tokuan and Hanaten became a double line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Tokuan and Hanaten became a double line.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="59">
+<tit>
+<j>1972年（昭和47年）6月30日</j>
+<e type="trans" ver="1">On June 30, 1972</e>
+<cmt></cmt>
+<e type="trans" ver="2">On June 30, 1972</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On June 30, 1972</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="188">
+<j>- 祝園弾薬庫線（川西側線）が廃止。</j>
+<e type="trans" ver="1">- The line of Housono ammunition chamber (Kawanishi side line) was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line for the Housono ammunition chamber (Kawanishi side line) was abolished.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The line for the Hosono ammunition chamber (Kawanishi side line) was abolished.</e>
+<cmt>ハイフン削除スペル</cmt>
+</sen>
+</par>
+</sec>
+<sec id="60">
+<tit>
+<j>1976年（昭和51年）3月8日</j>
+<e type="trans" ver="1">On March 8, 1976</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 8, 1976</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 8, 1976</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="189">
+<j>- 国鉄101系電車が京浜東北線から転入。</j>
+<e type="trans" ver="1">- JNR Series 101 was converted from Keihin-Tohoku Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">- JNR Series 101 was converted from the Keihin-Tohoku Line</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">JNR Series 101 was converted from the Keihin-Tohoku Line</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="190">
+<j>片町線初の新性能電車。</j>
+<e type="trans" ver="1">The first new capability train in Katamachi Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The first new capability train on the Katamachi Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The first new capability train on the Katamachi Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="191">
+<j>その後、1976年（昭和51年）度には大阪環状線からも101系が転入される。</j>
+<e type="trans" ver="1">After that, JNR Series 101 was transferred from Osaka Loop Line in the year 1976.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After that, JNR Series 101 was transferred from the Osaka Loop Line in the year 1976.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After that, JNR Series 101 was transferred from the Osaka Loop Line in the year 1976.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="61">
+<tit>
+<j>1977年（昭和52年）3月</j>
+<e type="trans" ver="1">In March 1977</e>
+<cmt></cmt>
+<e type="trans" ver="2">In March 1977</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In March 1977</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="192">
+<j>- 旧形電車（国鉄72系電車）の運行終了。</j>
+<e type="trans" ver="1">- Old form train (JNR 72 Series) stopped to run.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Old type train (JNR 72 Series) stopped running.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Old type train (JNR 72 Series) stopped running.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="62">
+<tit>
+<j>1979年（昭和54年）10月1日</j>
+<e type="trans" ver="1">On October 1, 1979</e>
+<cmt></cmt>
+<e type="trans" ver="2">1979/10/01</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">1979/10/01</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="193">
+<j>- 四条畷 - 長尾間が複線化。</j>
+<e type="trans" ver="1">- The line between Shijonawate and Nagao became a double line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Shijonawate and Nagao became a double line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Shijonawate and Nagao became a double line.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="194">
+<j>藤阪駅、東寝屋川駅が開業。</j>
+<e type="trans" ver="1">Fujisaka station and Higashi-Neyagawa station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fujisaka station and Higashi-Neyagawa station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fujisaka Station and Higashi-Neyagawa Station opened.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="195">
+<j>長尾 - 片町間の各駅に関西の国鉄線では初めて自動改札機設置。</j>
+<e type="trans" ver="1">Automatic ticket gate was installed at each station between Nagao and Katamachi firstly on the JNR line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Automatic ticket gates was installed at each station between Nagao and Katamachi, a first on the JNR line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Automatic ticket gates was installed at each station between Nagao and Katamachi, a first on the JNR line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="63">
+<tit>
+<j>1980年（昭和55年）5月9日</j>
+<e type="trans" ver="1">On May 9, 1980</e>
+<cmt></cmt>
+<e type="trans" ver="2">On May 9, 1980</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On May 9, 1980</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="196">
+<j>- 国鉄103系電車が新製投入。</j>
+<e type="trans" ver="1">- JNR Series 103 was newly installed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- JNR Series 103 was newly installed.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JNR Series 103 was newly installed.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="64">
+<tit>
+<j>1982年（昭和57年）11月15日</j>
+<e type="trans" ver="1">On November 15, 1982</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 15, 1982</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On November 15, 1982</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="197">
+<j>- 貨物支線 放出 - 淀川間 (4.8km)、淀川 - 吹田間 (10.0km) が廃止。</j>
+<e type="trans" ver="1">- The freight feeder line between Hanaten and Yodogawa (4.8 km) and the one between Yodogawa and Suita (10.0 km) were abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The freight feeder line between Hanaten and Yodogawa (4.8 km) and one between Yodogawa and Suita (10.0 km) were abolished.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The freight feeder line between Hanaten and Yodogawa (4.8 km) and one between Yodogawa and Suita (10.0 km) were abolished.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="198">
+<j>淀川駅、巽信号場、都島信号場廃止。</j>
+<e type="trans" ver="1">Yodogawa station, Tatsumi signal station and Miyakojima signal station were abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yodogawa station, Tatsumi signal station and Miyakojima signal station were abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yodogawa Station, Tatsumi signal station and Miyakojima signal station were abolished.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="199">
+<j>ただし、片町線電車の淀川電車区への出入区のために、線路自体は淀川電車区移転まで存続。</j>
+<e type="trans" ver="1">However, as the trains of Katamachi Line ran to Yodogawa Train Depot, the line itself continued until the transfer of Yodogawa Train Depot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, as the trains of Katamachi Line ran to Yodogawa Train Depot, the line itself continued until the transfer of Yodogawa Train Depot.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, as the trains of Katamachi Line ran to Yodogawa Train Depot, the line itself continued until the transfer of Yodogawa Train Depot.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="200">
+<j>また放出 - 鴫野間、巽信号場 - 吹田間は現存区間と重複。</j>
+<e type="trans" ver="1">And the line between Hanaten and Shigino and the line between Tatsumi signal station and Suita were overlapped with the current sections.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line between Hanaten and Shigino and the line between Tatsumi signal station and Suita were overlapped with the current sections.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The line between Hanaten and Shigino and the line between Tatsumi signal station and Suita were overlapped with the current sections.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="65">
+<tit>
+<j>1983年（昭和58年）3月21日</j>
+<e type="trans" ver="1">On March 21, 1983</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 21, 1983</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 21, 1983</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="201">
+<j>- 103系電車が京阪神緩行線から順次、大量に転入（1984年9月30日に完了）。</j>
+<e type="trans" ver="1">- JNR Series 103 was installed serially and in huge numbers from Keihanshin Local Train (completed on September 30, 1984).</e>
+<cmt></cmt>
+<e type="trans" ver="2">- JNR Series 103 was installed serially and in huge numbers from Keihanshin Local Train (completed on September 30, 1984).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JNR Series 103 was installed serially and in huge numbers from Keihanshin Local Train (completed on September 30, 1984).</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="66">
+<tit>
+<j>1985年（昭和60年）3月14日</j>
+<e type="trans" ver="1">On March 14, 1985</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 14, 1985</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 14, 1985</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="202">
+<j>- 片町線の車両基地である淀川電車区が、旧淀川駅構内の大阪市都島区中野町から現在地の東大阪市川俣に完全移転。</j>
+<e type="trans" ver="1">- Yodogawa train section which was a train car depot on Katamachi Line was completely transferred from old Yodogawa station yard in Nakano-cho, Miyakojima ward, Osaka city to the present location, Kawamata, Higashi-Osaka city.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Yodogawa train section which was a train depot on the Katamachi Line was completely transferred from the old Yodogawa station yard in Nakano-cho, Miyakojima ward, Osaka city to the present location, Kawamata, Higashi-Osaka city.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Yodogawa train section which was a train depot on the Katamachi Line was completely transferred from the old Yodogawa station yard in Nakano-cho, Miyakojima Ward, Osaka City to the present location, Kawamata, Higashi-Osaka City.</e>
+<cmt>ハイフン削除用語統一</cmt>
+</sen>
+<sen id="203">
+<j>放出 - 淀川間、京橋 - 淀川間の旧淀川電車区出入区線が完全に廃止される。</j>
+<e type="trans" ver="1">The old Yodogawa train depot of the line between Hanaten and Yodogawa and the one between Kyobasi and Yodogawa were completely abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The old Yodogawa train depot on the line between Hanaten and Yodogawa and the one between Kyobasi and Yodogawa were completely abolished.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The old Yodogawa train depot on the line between Hanaten and Yodogawa and the one between Kyobashi and Yodogawa were completely abolished.</e>
+<cmt>スペル</cmt>
+</sen>
+</par>
+</sec>
+<sec id="67">
+<tit>
+<j>1986年（昭和61年）4月1日</j>
+<e type="trans" ver="1">On April 1, 1986</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1986</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On April 1, 1986</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="204">
+<j>- 同志社前駅が開業。</j>
+<e type="trans" ver="1">- Doshishamae station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Doshishamae station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Doshishamae Station opened.</e>
+<cmt>ハイフン削除用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="68">
+<tit>
+<j>1987年（昭和62年）4月1日</j>
+<e type="trans" ver="1">On April 1, 1987</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1987</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On April 1, 1987</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="205">
+<j>- 国鉄分割民営化により西日本旅客鉄道が継承。</j>
+<e type="trans" ver="1">- By division and privatization of JNR, West Japan Railway Company succeeded it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- After the division and privatization of JNR, West Japan Railway Company succeeded it.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After the division and privatization of JNR, West Japan Railway Company succeeded it.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="206">
+<j>日本貨物鉄道が一部区間の第二種鉄道事業者となる。</j>
+<e type="trans" ver="1">Japan Freight Railway Company became 2nd class railway operator of some sections.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Japan Freight Railway Company became a second class railway operator of some sections.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Japan Freight Railway Company became a second class railway operator of some sections.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="207">
+<j>木津 - 徳庵間の貨物営業廃止。</j>
+<e type="trans" ver="1">The freight commercial operation between Kizu and Tokuan was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Commercial freight operations between Kizu and Tokuan were abolished.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Commercial freight operations between Kizu and Tokuan were abolished.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="208">
+<j>放出 - 八尾間、鴫野 - 吹田間が戸籍上旅客営業開始。</j>
+<e type="trans" ver="1">As an official registry the passenger commercial operation started between Hanaten and Yao, and between Shigino and Suita.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As an official registry the passenger commercial operation started between Hanaten and Yao, and between Shigino and Suita.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As an official registry the passenger commercial operation started between Hanaten and Yao, and between Shigino and Suita.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="69">
+<tit>
+<j>1988年（昭和63年）3月13日</j>
+<e type="trans" ver="1">On March 13, 1988</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 13, 1988</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 13, 1988</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="209">
+<j>- 学研都市線の愛称使用開始。</j>
+<e type="trans" ver="1">- The nickname of Gakkentoshi Line started to be used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The nickname, Gakkentoshi Line, started to be used.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The nickname, Gakkentoshi Line, started to be used.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="210">
+<j>快速列車の運行開始（当初は平日のみ上り1本・下り2本。）</j>
+<e type="trans" ver="1">The rapid trains started to run (originally on weekdays, the number of the up line was one and the down line two.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid trains started to run (originally on weekdays, the number of the up line was one and the down line, two.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Rapid trains started to run (originally on weekdays, the number of the up line was one and the down line, two.)</e>
+<cmt>)補足</cmt>
+</sen>
+<sen id="211">
+<j>（停車駅：長尾・四条畷・住道・放出・京橋・片町）。</j>
+<e type="trans" ver="1">The stops : Nagao, Shijonawate, Suminodo, Hanaten, Kyobashi and Katamachi).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The stops: Nagao, Shijonawate, Suminodo, Hanaten, Kyobashi and Katamachi.)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">(The stops: Nagao, Shijonawate, Suminodo, Hanaten, Kyobashi and Katamachi.)</e>
+<cmt>()補足</cmt>
+</sen>
+</par>
+</sec>
+<sec id="70">
+<tit>
+<j>9月1日</j>
+<e type="trans" ver="1">On September 1</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 1</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On September 1</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="212">
+<j>- 河内磐船駅が快速停車駅になる。</j>
+<e type="trans" ver="1">- Kawachiiwafune station became the stop for rapid trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Kawachiiwafune station became a stop for rapid trains.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kawachiiwafune Station became a stop for rapid trains.</e>
+<cmt>ハイフン削除用語統一</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="213">
+<j>1989年（平成元年）</j>
+<e type="trans" ver="1">In 1989</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1989</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In 1989</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="71">
+<tit>
+<j>3月11日</j>
+<e type="trans" ver="1">On March 11</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 11</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 11</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="214">
+<j>- 木津 - 長尾間が電化。</j>
+<e type="trans" ver="1">- The line between Kizu and Nagao was electrified.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Kizu and Nagao was electrified.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Kizu and Nagao was electrified.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="215">
+<j>大住 - 長尾間が経路変更で0.1km短縮、同区間に松井山手駅が開業、松井山手 - 長尾間複線化。</j>
+<e type="trans" ver="1">The line between Osumi and Nagao was shortened (0.1 km) because of the route change and on the section Matsuiyamate station opened and the line between Matsuiyamate and Nagao became a double line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line between Osumi and Nagao was shortened (0.1 km) because of the route change and on the section Matsuiyamate station opened and the line between Matsuiyamate and Nagao became a double line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Osumi and Nagao was shortened (0.1 km) because of the route change and on the section Matsuiyamate Station opened and the line between Matsuiyamate and Nagao became a double line.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="216">
+<j>快速列車を大幅増発。</j>
+<e type="trans" ver="1">The rapid trains increased extremely.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of rapid trains greatly increased.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The number of rapid trains greatly increased.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="217">
+<j>6月頃、片町線から101系電車が撤退（7両編成を6両編成化した上で森ノ宮電車区に転属し、桜島線や大阪環状線で1991年まで運用）。</j>
+<e type="trans" ver="1">Around June, JNR Series 101 retired from Katamachi Line (7-car train sets were changed to 6-car train sets and instead they came to belong to Morinomiya train section and ran on Sakurajima Line or Osaka Loop Line until 1991).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Around June, JNR Series 101 retired from Katamachi Line (seven-car train s were changed to six-car trains and they came to belong to the Morinomiya train section and ran on the Sakurajima Line or the Osaka Loop Line until 1991).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Around June, JNR Series 101 retired from Katamachi Line (seven-car trains were changed to six-car trains and they came to belong to the Morinomiya train section and ran on the Sakurajima Line or the Osaka Loop Line until 1991).</e>
+<cmt>スペース削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="72">
+<tit>
+<j>1991年（平成3年）4月30日</j>
+<e type="trans" ver="1">On April 30, 1991</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 30, 1991</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On April 30, 1991</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="218">
+<j>- 207系電車営業運転開始</j>
+<e type="trans" ver="1">- JNR Series 207 started to run commercially.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- JNR Series 207 started to run commercially.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JNR Series 207 started to run commercially.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="219">
+<j>1996年（平成8年）9月 片町線から103系電車が引退（片町線103系は大阪環状線、大和路線、奈良線、阪和線等に転属され、一部は後に3500番台として播但線へも転用された）。</j>
+<e type="trans" ver="1">In September 1996, JNR Series 103 retired from Katamachi Line (the Series 103 on Katamachi Line came to belong to Osaka Loop Line, Yamatoji Line, Nara Line and Hanwa Line and later some of them were transferred to Bantan Line as the number 3500s).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In September 1996, JNR Series 103 retired from the Katamachi Line (the Series 103 on Katamachi Line came to belong to the Osaka Loop Line, Yamatoji Line, Nara Line, and Hanwa Line and later some of them were transferred to the Bantan Line as number 3500s).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In September 1996, JNR Series 103 retired from the Katamachi Line (the Series 103 on Katamachi Line came to belong to the Osaka Loop Line, Yamatoji Line, Nara Line, and Hanwa Line and later some of them were transferred to the Bantan Line as number 3500s).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="73">
+<tit>
+<j>1997年（平成9年）3月8日</j>
+<e type="trans" ver="1">On March 8, 1997</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 8, 1997</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 8, 1997</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="220">
+<j>- JR東西線開業により、JR宝塚線・JR神戸線との直通運転を開始。</j>
+<e type="trans" ver="1">- When JR Tozai line opened, the direct lines to JR Takarazuka Line and JR Kobe Line started to run.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- When JR Tozai line opened, direct lines to JR Takarazuka Line and JR Kobe Line started to run.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">When JR Tozai line opened, direct lines to JR Takarazuka Line and JR Kobe Line started to run.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="221">
+<j>京橋 - 片町間 (0.5km) 廃止。</j>
+<e type="trans" ver="1">The line between Kyobashi and Katamachi (0.5 km) was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line between Kyobashi and Katamachi (0.5 km) was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line between Kyobashi and Katamachi (0.5 km) was abolished.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="222">
+<j>片町駅廃止。</j>
+<e type="trans" ver="1">Katamachi station was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katamachi station was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Katamachi Station was abolished.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="223">
+<j>田辺駅を京田辺駅、上田辺駅をJR三山木駅に改称。</j>
+<e type="trans" ver="1">Tanabe station was changed to Kyotanabe station and Kamitanabe station to JR Miyamaki station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanabe station was changed to Kyotanabe station and Kamitanabe station to JR Miyamaki station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tanabe Station was changed to Kyotanabe Station and Kamitanabe Station to JR Miyamaki Station.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="74">
+<tit>
+<j>1999年（平成11年）5月10日</j>
+<e type="trans" ver="1">On May 10, 1999</e>
+<cmt></cmt>
+<e type="trans" ver="2">On May 10, 1999</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On May 10, 1999</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="224">
+<j>- 区間快速の運転開始。</j>
+<e type="trans" ver="1">- Regional rapid trains started to run.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Regional rapid trains started to run.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Regional rapid trains started to run.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="75">
+<tit>
+<j>2002年（平成14年）3月23日</j>
+<e type="trans" ver="1">On March 23, 2002</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 23, 2002</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 23, 2002</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="225">
+<j>- 京都府や京田辺市などの負担で京田辺 - 松井山手間の高速化事業完成。</j>
+<e type="trans" ver="1">- The project of speed-up of the line between Kyotanabe and Matsuiyamate was completed by Kyoto prefecture and Kyotanabe city and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The speed-up project for the line between Kyotanabe and Matsuiyamate was completed by Kyoto prefecture and Kyotanabe city and so on.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The speed-up project for the line between Kyotanabe and Matsuiyamate was completed by Kyoto Prefecture and Kyotanabe City and so on.</e>
+<cmt>ハイフン削除用語統一</cmt>
+</sen>
+<sen id="226">
+<j>増解結駅が松井山手駅から京田辺駅に変更となる。</j>
+<e type="trans" ver="1">The station, where the train car sets are connected or disconnected, was changed from Matsuiyamate station to Kyotanabe station.</e>
+<cmt>「増解結駅」が不明でした。</cmt>
+<e type="trans" ver="2">The station, where the train car sets are connected or disconnected, was changed from Matsuiyamate station to Kyotanabe station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The station, where the train car sets are connected or disconnected, was changed from Matsuiyamate station to Kyotanabe station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="227">
+<j>同時に星田駅が快速停車駅になる。</j>
+<e type="trans" ver="1">At the same time Hoshida station became a stop for rapid trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the same time Hoshida station became a stop for rapid trains.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At the same time Hoshida Station became a stop for rapid trains.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="76">
+<tit>
+<j>2003年（平成15年）3月</j>
+<e type="trans" ver="1">In March 2003</e>
+<cmt></cmt>
+<e type="trans" ver="2">In March 2003</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In March 2003</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="228">
+<j>- 貨物支線の蛇草信号場廃止。</j>
+<e type="trans" ver="1">- Hagusa signal station on freight feeder line was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Hagusa signal station on the freight feeder line was abolished.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Hagusa signal station on the freight feeder line was abolished.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="77">
+<tit>
+<j>2008年（平成20年）3月14日</j>
+<e type="trans" ver="1">On March 14, 2008</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 14, 2008</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 14, 2008</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="229">
+<j>- 321系電車営業運転開始。</j>
+<e type="trans" ver="1">- JNR Series 321 started to run commercially.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- JNR Series 321 started to run commercially.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JNR Series 321 started to run commercially.</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="78">
+<tit>
+<j>2008年（平成20年）3月15日</j>
+<e type="trans" ver="1">On March 15, 2008</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 15, 2008</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 15, 2008</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="230">
+<j>- 貨物支線 放出 - 八尾間 (10.4km) 廃止（おおさか東線開業のため）。</j>
+<e type="trans" ver="1">- The freight feeder line between Hanaten and Yao (10.4 km) was abolished (because of the opening of Osaka Higashi Line).</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The freight feeder line between Hanaten and Yao (10.4 km) was abolished (because of the opening of the Osaka Higashi Line).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The freight feeder line between Hanaten and Yao (10.4 km) was abolished (because of the opening of the Osaka Higashi Line).</e>
+<cmt>ハイフン削除</cmt>
+</sen>
+<sen id="231">
+<j>平野側の貨物支線は片町線のまま存続するため、おおさか東線からの分岐点に正覚寺信号場（3代目）を新設して、正覚寺信号場 - 平野間を片町線所属の支線とする。</j>
+<e type="trans" ver="1">As the freight feeder line on Hirano side continued as Katamachi Line, Shogakuji signal station (the third) was newly established at the bifurcation point from Osaka Higashi Line and the line between Shogakuji signal station and Hirano was treated as the branch line belonging to Katamachi Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As the freight feeder line on the Hirano side continued as the Katamachi Line, Shogakuji signal station (the third) was newly established at the bifurcation point from Osaka Higashi Line and the line between Shogakuji signal station and Hirano was treated as a branch line belonging to Katamachi Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As the freight feeder line on the Hirano side continued as the Katamachi Line, Shogakuji signal station (the third) was newly established at the bifurcation point from Osaka Higashi Line and the line between Shogakuji signal station and Hirano was treated as a branch line belonging to Katamachi Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="79">
+<tit>
+<j>駅一覧</j>
+<e type="trans" ver="1">List of the stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">List of the stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">List of the stations</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="232">
+<j>普通列車は全駅に停車する（表中では省略）。</j>
+<e type="trans" ver="1">The local trains stop at all the stations (omitted in the list).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The local trains stop at all the stations (omitted in the list).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The local trains stop at all the stations (omitted in the list).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="233">
+<j>凡例</j>
+<e type="trans" ver="1">Explanatory note</e>
+<cmt></cmt>
+<e type="trans" ver="2">Explanatory note</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Explanatory note</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="234">
+<j>駅名 … ◇：貨物取扱駅（定期貨物列車の発着なし）、：特定都区市内「大阪市内」の駅</j>
+<e type="trans" ver="1">The name of stations … ◇: freight-handling station (no departure and arrival of a regular freight train), : the station in special urban area &quot;in Osaka city&quot;</e>
+<cmt>「特定都区市内」が不明で、とりあえず、special urban area としました。</cmt>
+<e type="trans" ver="2">The name of stations … ◇: freight-handling station (no departure and arrival of a regular freight train), : the station in special urban area &quot;in Osaka city&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The name of stations … &lt;&gt;: freight-handling station (no departure and arrival of a regular freight train), : the station in special urban area &apos;in Osaka City&apos;</e>
+<cmt>&quot;→&apos;用語統一◇→&lt;&gt;</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="235">
+<j>停車駅 … ●：停車、｜：通過</j>
+<e type="trans" ver="1">The stop … ● : stop, ｜: passing</e>
+<cmt></cmt>
+<e type="trans" ver="2">The stop … ● : stop, ｜: passing</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The stop … (1): stop,|: passing</e>
+<cmt>●→(1)｜：→| :</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="236">
+<j>単線／複線 … ∥：複線区間、◇：単線区間（列車交換可能）、｜：単線区間（列車交換不可）、▽：木津方面同士の列車交換不可、∧：ここより下は複線</j>
+<e type="trans" ver="1">Single line/double line … ∥: double line section, ◇: single line section (the interchange of trains is impossible), ▽: the interchange of trains for Kizu area is impossible, ∧: the down below from here is doubl line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Single line/double line … ∥: double line section, ◇: single line section (the interchange of trains is impossible), ▽: the interchange of trains for Kizu area is impossible, ∧: the down below from here is doubl line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Single line/double line...//: double line section, &lt;&gt;: single line section (the interchange of trains is possible),|: single line section (the interchange of trains is impossible), (2): the interchange of trains for Kizu area is impossible, (3): the down below from here is double line.</e>
+<cmt>訳漏れ補足しました。スペル …→...／→/∥：→//:◇：→&lt;&gt;:▽→(2)∧→(3)</cmt>
+</sen>
+</par>
+</sec>
+<sec id="80">
+<tit>
+<j>貨物支線</j>
+<e type="trans" ver="1">Freight feeder line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Freight feeder line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Freight feeder line</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="237">
+<j>全駅・信号場とも大阪府に所在。</j>
+<e type="trans" ver="1">Both of all the stations and signal stations are located in Osaka prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Both of all the stations and signal stations are located in Osaka prefecture.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Both of all the stations and signal stations are located in Osaka Prefecture.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="81">
+<tit>
+<j>配線略図</j>
+<e type="trans" ver="1">Rail track arrangement</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rail track arrangement</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rail track arrangement</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="82">
+<tit>
+<j>今後の予定</j>
+<e type="trans" ver="1">Future schedule</e>
+<cmt></cmt>
+<e type="trans" ver="2">Future schedule</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Future schedule</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="238">
+<j>2009年度末までに木津駅から同志社前駅までの各駅のホームを延長し、全区間7両編成で運転すると発表されている。</j>
+<e type="trans" ver="1">It is announced that until the end of the year 2009 the platforms of each station between Kizu station and Doshishamae station will be extended and 7-car train sets will run on all the sections.</e>
+<cmt>「2009年度末」は、すでに過去ですが、和文に忠実に英訳しました。</cmt>
+<e type="trans" ver="2">It has been announced that until the end of the year 2009, platforms at each station between Kizu station and Doshishamae station will be extended and seven-car trains will run on all sections.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It has been announced that until the end of the year 2009, platforms at each station between Kizu Station and Doshishamae Station will be extended and seven-car trains will run on all sections.</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Tosiaki(id:51926), Yoshizokun(id:39520), FREEZA(id:68069), Tnk3a(id:30483), Kansai explorer(id:48975), Lupinoid(id:68), Maxima m(id:28947), Im224(id:57113), Tigers boy(id:15761), Mop(id:12061), Amanar0302(id:157142), Nkns(id:24876), Uenokami(id:179211), RailRider(id:239245), Sunen(id:10700), 継之助(id:39352), Yoosidayusuke(id:150651), Goki(id:7107), A-Taul(id:41790), Hyperactive(id:213679), Loveless(id:129239), Sembei(id:121819), Kone(id:377), Point136(id:211299), 5816K(id:102574), Hirotaro(id:1437), Sprinkler(id:14399), Suzuhara Misakiti(id:194615), 目蒲東急之介(id:34741), Alive(id:88260), Tamamichan(id:155504), W0746203-1(id:143726), MASA(id:2399), H-shige(id:19751), しるふぃ(id:11247), さにー(id:109217), 準ちゃん(id:169752), IP118.15.7.23(id:271353), Axpde(id:236079), Out go 7(id:8199), Mover(id:7146), 鈴原みさきち(id:168059), Utsuda(id:605), Kiku-zou(id:65314), Shinkansen(id:13703), Akira e233(id:145360), Rusk(id:9895), Rislimric(id:54531), Unamu(id:14627), あんも騎士(id:139357), Kyoutanabe124(id:175304), Mutumi(id:42390), Mutumi06(id:82739), Utty(id:53824), 三菱善次郎(id:21924), Chikara1983(id:59556), Alexbot(id:157199), 210.(id:9838), Densha Gokko(id:132730), Zell(id:23939), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

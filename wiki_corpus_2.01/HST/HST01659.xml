@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>校田帳</j>
+<e type="trans" ver="1">Kodencho</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kodencho</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kodencho</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>校田帳（こうでんちょう）とは、古代日本の律令制において中央政府派遣の校田使または国司が、令制国の校田の結果を中央政府を報告するために作成された帳簿のこと。</j>
+<e type="trans" ver="1">A kodencho was an account book made to report to the central government the results of koden (research of public paddy fields in the ritsuryokoku) by koden-shi (koden researcher) sent by the government or a kokushi ((provincial governor) under the ritsuryo system in ancient Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A kodencho was an account book made to report to the central government on the results of koden (research of public paddy fields in a ryoseikoku [province]) by a kodenshi (koden researcher) or a kokushi (provincial governor) sent by the central government under the ritsuryo system in ancient Japan.</e>
+<cmt>the resultsの前にonを加えました。誤訳の為、the ritsuryokoku→a ryoseikoku [province]に訂正しました。Koden-shiのハイフンをとり、前にaを加えました。sent by the…をkokushiの後につけました。２つ目の「中央政府」の訳のcentralが抜けていましたので加えました。</cmt>
+<e type="check" ver="1">A kodencho was an account book made to report to the central government on the results of koden (research of public paddy fields in a ryoseikoku [province]) by a kodenshi (koden researcher) or a kokushi (provincial governor) sent by the central government under the ritsuryo system in ancient Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>班田資格者を記した授口帳（じゅこうちょう）とともにセットとして扱われ、校田授口帳とも呼ばれている。</j>
+<e type="trans" ver="1">The kodencho put together with a jyukocho, a record of qualified handen (allotted farmland) owners was also called koden-jyukocho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The kodencho put together with a jukocho, a record of qualified handen (allotted farmland) owners, was also called koden-jukocho.</e>
+<cmt>jyukocho→jukocho</cmt>
+<e type="check" ver="1">The kodencho put together with a jukocho, a record of qualified handen (allotted farmland) owners, was also called koden-jukocho.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>校田帳と授口帳の結果より実際の班田を行ったが、班田収授法の形骸化とともに校田帳の記述も不実なものとなっていった。</j>
+<e type="trans" ver="1">Based on the results of kodencho and jyukocho, actual handen (alloting farmland to farmers) was made, which revealed the description of kodencho had become untrue along with the emasculated Handen Shuju ho (law of rice field allotment system).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Based on the results of kodencho and jukocho, actual handen (allotting farmland to farmers) was performed, however, the descriptions in kodencho gradually became untrue as Handen Shuju ho (law of rice field allotment system) was emasculated.</e>
+<cmt>jyu→juスペルミスのため→allottingmade→performedの方が適していると思われたため。descriptionを複数形に、on→in、had become→gradually becameに訂正しました。as…の方が「～とともに」の訳にふさわしいと思い訂正しました。</cmt>
+<e type="check" ver="1">Based on the results of kodencho and jukocho, actual handen (allotting farmland to farmers) was performed, however, the descriptions in kodencho gradually became untrue as Handen Shuju ho (law of rice field allotment system) was emasculated.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>このため、貞観 (日本)4年（862年）に大規模な監査を行っている。</j>
+<e type="trans" ver="1">Therefore, large scale checkups were performed in 862.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, large scale checkups were performed in 862.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Therefore, large scale checkups were performed in 862.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

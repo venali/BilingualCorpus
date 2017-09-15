@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>縁語</j>
+<e type="trans" ver="1">Engo (Verbal Association)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Engo (Verbal Association)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Engo</e>
+<cmt>補足を削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>縁語（えんご）とは、一首の中に意味上関連する語を連想的に2つ以上用いることで歌に情趣を持たせる、和歌の修辞技法のひとつ。</j>
+<e type="trans" ver="1">Engo (verbal association) is a rhetorical technique in waka poetry, where more than two semantically associated words are used in a poem to express one&apos;s sentiments.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Engo (verbal association) is a rhetorical technique in waka poetry, where two or more semantically associated words are used in a poem to express one&apos;s sentiments.</e>
+<cmt>I think &quot;二つ以上&quot; should be translated as &quot;more than one&quot; or &quot;two or more&quot; here</cmt>
+<e type="check" ver="1">Engo (verbal association) is a rhetorical technique in waka poetry, where two or more semantically associated words are used in a poem to express one&apos;s sentiments.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>掛詞と合わせて用いることも多い。</j>
+<e type="trans" ver="1">Engo is often coupled with kakekotoba (pivot words).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Engo are often coupled with kakekotoba (pivot words).</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">Engo are often coupled with kakekotoba (pivot words).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="3">
+<j>例</j>
+<e type="trans" ver="1">Examples</e>
+<cmt></cmt>
+<e type="trans" ver="2">Examples</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Examples</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="4">
+<j>「」内が縁語である。</j>
+<e type="trans" ver="1">In the following examples verbal associations are marked by quotation marks.</e>
+<cmt>原文は「」ではなく太字となっていましたが、おそらく変換されないので、「」に変更しました。</cmt>
+<e type="trans" ver="2">In the following examples, engo are marked by quotation marks.</e>
+<cmt>changed &quot;verbal associations&quot; to &quot;engo&quot;</cmt>
+<e type="check" ver="1">In the following examples, engo are marked by quotation marks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>小式部内侍による和歌</j>
+<e type="trans" ver="1"></e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A waka by Koshikibu no Naishi:</e>
+<cmt>原文を分けましたので、英語も変更しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="6">
+<j>大江山いく野の道の遠ければ まだ「ふみ」もみず天の「橋立」</j>
+<e type="trans" ver="1">Oeyama ikunonomichi no tookereba mada &apos;fumi&apos;momizu ama no &apos;hashidate&apos; (Mt. Oe and the road that goes to Ikuno are far away; so I have neither seen the letter from, nor &apos;stepped on,&apos; Amano&apos;hashi&apos;date which is the &apos;ladder&apos; to heaven) by Koshikibu no Naishi.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In the waka by Koshikibu no Naishi: Oeyama ikunonomichi no tookereba mada &quot;fumi&quot; momizu ama no &quot;hashidate&quot; (Mt. Oe and the road that goes to Ikuno are far away, so I have neither seen a &quot;letter&quot; from, nor &quot;travelled by foot&quot; there from Amano&quot;hashidate.&quot; In this poem, &quot;fumi&quot; means both a &quot;letter&quot; and to &quot;travel by foot,&quot; and although Amano-Hashidate is a place, the &quot;hashidate&quot; is also a reference to the &quot;ladder&quot; to heaven).</e>
+<cmt>An explanation is lacking in translation one, so I did what I could to make sense of it.</cmt>
+<e type="check" ver="1">Oeyama ikunonomichi no tookereba mada &quot;fumi&quot; mo mizu ama no &quot;hashidate&quot; (Mt. Oe and the road that goes to Ikuno are far away, so I have neither seen a &quot;letter&quot; from, nor &quot;travelled by foot&quot; there to Amano &quot;hashidate&quot; [In this poem, &quot;fumi&quot; means both a &quot;letter&quot; and to &quot;travel by foot,&quot; and although Amano-Hashidate is a place, the &quot;hashidate&quot; is also a reference to the &quot;ladder&quot; to heaven])</e>
+<cmt>天橋立へ行ったこともない、という意味ですので、to Amanohashidate としました。</cmt>
+</sen>
+<sen id="7">
+<j>式子内親王による和歌</j>
+<e type="trans" ver="1"></e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A waka by Imperial Princess Shikishi:</e>
+<cmt>原文を分けましたので、英語も変更しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="8">
+<j>玉の「緒」よ「絶え」なば絶えね「ながらへば」 しのぶることの「弱り」もぞする</j>
+<e type="trans" ver="1">Tamano&apos;o&apos;yo &apos;tae&apos;nabataene &apos;nagaraheba&apos; shinoburukoto no &apos;yowari&apos;mozosuru (Let the &apos;cord&apos; of my life be &apos;snapped&apos; if it had to be; Were it be &apos;prolonged,&apos; it would &apos;fray&apos; as I would not be able to hide this love any longer) by Imperial Princess Shikishi.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">A waka by Imperial Princess Shikishi: Tamano &quot;o&quot; yo &quot;tae&quot;nabataene &quot;nagaraheba&quot; shinoburukoto no &quot;yowari&quot;mozosuru (Let the &quot;cord&quot; of my life be &quot;snapped&quot; if it has to be; Were it &quot;prolonged,&quot; it would &quot;fray&quot; as I would not be able to hide this love any longer. In this poem, the &quot;o&quot; refers to both a &quot;cord&quot; and &quot;life,&quot; &quot;tae&quot; means to &quot;die out&quot;</e>
+<cmt>An explanation is lacking for this translation as well. I tried, but I do not understand the Japanese poetry well enough to make an explanation for the multiple meanings.</cmt>
+<e type="check" ver="1">Tamano &quot;o&quot; yo &quot;tae&quot; nabataene &quot;nagaraheba&quot; shinoburukoto no &quot;yowari&quot; mozosuru (Let the &quot;cord&quot; of my life be &quot;snapped&quot; if it has to be; Were it &quot;prolonged,&quot; it would &quot;fray&quot; as I would not be able to hide this love any longer [In this poem, the &quot;o&quot; refers to both a &quot;cord&quot; and &quot;life,&quot; &quot;tae&quot; means to &quot;die out&quot;])</e>
+<cmt>括弧などを追加しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Sizuru(id:52926), ととりん(id:31982), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>新勅撰和歌集</j>
+<e type="trans" ver="1">Shin Chokusenwakashu (New Imperial Collection)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shin Chokusenwakashu (New Imperial Collection)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shin Chokusenwakashu (New Imperial Collection)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>『新勅撰和歌集』（しんちょくせんわかしゅう）は十三代集の最初、通算で第九勅撰和歌集。</j>
+<e type="trans" ver="1">&quot;Shin Chokusenwakashu&quot; is the first collection of the thirteen imperial anthologies of Japanese poetry, and the ninth anthology in aggregate.</e>
+<cmt>imperial anthologies of Japanese poetryという言葉の繰り返しを避けるために、第九勅撰和歌集の訳語はthe ninth anthologyとしました。</cmt>
+<e type="trans" ver="2">Shin Chokusenwakashu is the first collection of the thirteen imperial anthologies of Japanese poetry, and the ninth anthology in aggregate.</e>
+<cmt>Took title out of quotation marks. I personally find &quot;the ninth anthology in aggregate&quot; a bit confusing, but I&apos;m afraid I wasn&apos;t sure what to do with 「通算で第九勅撰和歌集」</cmt>
+<e type="check" ver="1">&quot;Shin Chokusenwakashu&quot; is the first collection of the thirteen imperial anthologies of Japanese poetry, and the ninth anthology in aggregate.</e>
+<cmt>Shin Chokusenwakashu→&quot;Shin Chokusenwakashu&quot;に変更しました。</cmt>
+</sen>
+<sen id="2">
+<j>別名、宇治川集など。</j>
+<e type="trans" ver="1">It is also called Ujigawa Collection.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also known by other names such as the Ujigawa Collection.</e>
+<cmt>Incorporated a translation of 「など」 into the sentence.</cmt>
+<e type="check" ver="1">It is also known by other names such as the Ujigawa Collection.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>貞永元年（1232年）六月十三日、後堀河天皇の下命を受けた藤原定家が単独で撰した。</j>
+<e type="trans" ver="1">Fujiwara no Teika was ordered to compile the anthology by Emperor Gohorikawa on June 13, 1232, and he selected poems all by himself.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Fujiwara no Teika was ordered to compile the anthology by Emperor Gohorikawa on June 13, 1232, and he selected the poems alone.</e>
+<cmt>Changed &quot;all by himself&quot; to &quot;alone&quot; to read a bit more naturally.</cmt>
+<e type="check" ver="1">Fujiwara no Teika was ordered to compile the anthology by Emperor Gohorikawa on July 9, 1232, and he selected the poems alone.</e>
+<cmt>グレゴリ歴に</cmt>
+</sen>
+<sen id="4">
+<j>上皇の死後も九条道家・九条教実父子の後援で編纂事業が引き継がれ、四条天皇代の文暦二年（1235年）三月十二日、完成し奏上。</j>
+<e type="trans" ver="1">After the retired Emperor passed away, Michiie and Norizane KUJO, father and son, succeeded to the compiling work, and it was completed on March 20, 1235, which was reported to Emperor.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">After the retired Emperor passed away, Michiie and Norizane KUJO, father and son, took over the compiling effort, completed it on March 20, 1235, and reported its completion to Emperor.</e>
+<cmt>Replaced &quot;succeeded to the compiling work&quot; with &quot;took over the compiling effort&quot;, a reworded the last part of the sentence all to make it read a bit more naturally.</cmt>
+<e type="check" ver="1">After the Retired Emperor passed away, Michiie and Norizane KUJO, father and son, took over the compiling effort, completed it on April 8, 1235 of the time of Emperor Shijo, and reported its completion to Emperor.</e>
+<cmt>of the time of Emperor Shijo補足グレゴリ歴に&quot;retired&quot;→&quot;Retired&quot;に変更しました。</cmt>
+</sen>
+<sen id="5">
+<j>仮名序も定家筆。</j>
+<e type="trans" ver="1">A preface was also written by Teika in Kana (the Japanese syllabaries).</e>
+<cmt></cmt>
+<e type="trans" ver="2">A preface was also written by Teika in Kana (the Japanese syllabary).</e>
+<cmt>Corrected &quot;syllabaries&quot; to &quot;syllabery&quot;.</cmt>
+<e type="check" ver="1">A preface was also written by Teika in Kana (the Japanese syllabary).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>20巻、伝本によって歌数が違うが、1370首強ある。</j>
+<e type="trans" ver="1">It consists of 20 volumes, and the number of poems is different from existing manuscripts, but more than 1370 poems were collected.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It consists of 20 volumes with more than 1370 poems, although the exact number of poems differ according to existing manuscripts.</e>
+<cmt>Reordered the sentence to make it read a bit more naturally.</cmt>
+<e type="check" ver="1">It consists of 20 volumes with more than 1370 poems, although the exact number of poems differ according to existing manuscripts.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>部立は四季（春秋二巻、他一巻）・賀・羇旅・神祇・釈教・恋・雑（恋・雑共に五巻）の順に並び、</j>
+<e type="trans" ver="1">Those poems were classified into the following categories: four seasons (2-volume of spring and autumn and 1-volume of others), celebration, journey, Shintoism, Shakyamuni&apos;s teachings, love, and miscellaneous (love and miscellaneous consist of 5 volumes each).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The poems are classified into the following categories: the four seasons (2 volumes for spring and autumn and 1 volume for the others), celebration, journey, Shintoism, Shakyamuni&apos;s teachings, love, and miscellaneous (the latter two consist of 5 volumes each).</e>
+<cmt>Changed &quot;these poems&quot; to &quot;the&quot; and added &quot;the&quot; to &quot;four seasons&quot; also. Reworded part about volumes to read a little easier. Also cut the unnecessary repeition of &quot;love&quot; and &quot;miscellaneous&quot; and replaced it with &quot;the latter two&quot;.</cmt>
+<e type="check" ver="1">The poems are classified into the following categories: the four seasons (2 volumes for spring and autumn and 1 volume for the others), celebration, journey, Shintoism, Shakyamuni&apos;s teachings, love, and miscellaneous (the latter two consist of 5 volumes each).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>従来の二十巻の勅撰集において独立した巻を持った哀傷・離別の項目が無く、それぞれ雑歌・羇旅に吸収されている。</j>
+<e type="trans" ver="1">The categories of elegy and parting were omitted, which formed independent volumes in the conventional imperial anthologies of 20 volumes, so they were absorbed in the categories of miscellaneous poems and journey.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The categories of elegy and parting, which formed independent volumes in the conventional 20 volume imperial anthologies, were omitted, so they were included instead in the categories of miscellaneous poems and journey.</e>
+<cmt>Rewrote sentence to read more naturally.</cmt>
+<e type="check" ver="1">The categories of elegy and parting, which formed independent volumes in the conventional 20 volume imperial anthologies, were omitted, so they were included instead in the categories of miscellaneous poems and journey.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>最多入集歌人は藤原家隆（43首）で、九条良経（36首）、藤原俊成（35首）、西園寺公経（30首）、慈円（27首）、源実朝・九条道家（共に25首）、飛鳥井雅経（20首）がそれに次ぎ、定家が庇護を受けた九条家・西園寺家の貴顕（公経は定家の義弟にして、関白九条道家の岳父である）の入集が目立つ。</j>
+<e type="trans" ver="1">Fujiwara no Ietaka&apos;s poems were collected most (43 poems), and the second most Yoshitsune KUJO&apos;s (36 poems), then FUJIWARA no Toshinari&apos;s (35 poems), Kintsune SAIONJI&apos;s (30 poems), Jien&apos;s (27 poems), MINAMOTO no Sanetomo&apos;s and Michiie KUJO&apos;s (25 poems), and Masatsune ASUKAI&apos;s (20 poems), which could be said that the poems composed by the distinguished people of the house of Kujo and Saionji (Kintsune was Teika&apos;s brother-in-law and Kanpaku (Senior Regent) Michiie Kujo&apos;s father-in-law too).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Of the poets in the anthology, Fujiwara no Ietaka has the most poems (43), followed by Yoshitsune KUJO&apos;s (36), then FUJIWARA no Toshinari&apos;s (35), Kintsune SAIONJI&apos;s (30), Jien&apos;s (27), MINAMOTO no Sanetomo&apos;s and Michiie KUJO&apos;s (25 each), and Masatsune ASUKAI&apos;s (20), so it could be said that the poems composed by the distinguished people of the house of Kujo and Saionji (Kintsune was Teika&apos;s brother-in-law and Kanpaku (Senior Regent) was Michiie Kujo&apos;s father-in-law) are the most prominent.</e>
+<cmt>I felt the repetition of &quot;poems&quot; was a bit unnecessary so I cut them. Added &quot;Of the poets in the anthology&quot; to make it a bit clearer. Added &quot;are the most prominent&quot; at the end for a translation of 「目立つ」</cmt>
+<e type="check" ver="1">Of the poets in the anthology, Fujiwara no Ietaka has the most poems (43), followed by Yoshitsune KUJO&apos;s (36), then FUJIWARA no Toshinari&apos;s (35), Kintsune SAIONJI&apos;s (30), Jien&apos;s (27), MINAMOTO no Sanetomo&apos;s and Michiie KUJO&apos;s (25 each), and Masatsune ASUKAI&apos;s (20), so it could be said that the poems composed by the distinguished people of the Kujo and the Saionji families (Kintsune was Teika&apos;s brother-in-law and Kanpaku (Senior Regent), Michiie Kujo&apos;s father-in-law) are the most prominent.</e>
+<cmt>was削除&quot;the house of Kujo and Saionji&quot;→&quot;the Kujo and the Saionji families&quot;に変更しました。</cmt>
+</sen>
+<sen id="10">
+<j>ほかに北条泰時ら武家歌人の歌もある。</j>
+<e type="trans" ver="1">Poems composed by Yasutoki HOJO and other poets from samurai families were also collected.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed by Yasutoki HOJO and other poets from samurai families were also collected.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Poems composed by Yasutoki HOJO and other poets from samurai families were also collected.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>承久の乱以後、流刑地にあった大歌人後鳥羽天皇と順徳天皇の歌を除外したのは、他ならぬ幕府への配慮である。</j>
+<e type="trans" ver="1">It was due to Teika&apos;s consideration of bakufu to eliminate the poems by Emperor Gotoba and Emperor Juntoku, who were great poets but in a place of exile after the Jokyu Disturbance, while he reduced his own poems to the minimum and appreciated poems by FUJIWARA no Ietaka and MINAMOTO no Sanetomo, which makes us get interested in Teika&apos;s attitude toward selecting poems.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was due to Teika&apos;s consideration for the bakufu that the work by the great poets Emperor Gotoba and Emperor Juntoku was omitted, as they were in exile following the Jokyu incident. He also reduced his own poems to a minimum while holding poems by FUJIWARA no Ietaka and MINAMOTO no Sanetomo in high regard, deepening interest in Teika&apos;s attitude toward poetry selection.</e>
+<cmt>Changed &quot;eliminate&quot; to &quot;omit&quot;, &quot;place of exile&quot; to &quot;were in exile&quot;, &quot;disturbance&quot; to &quot;incident&quot; as I felt this was more accurate, &quot;appreciate&quot; to &quot;hold in high regard&quot; and &quot;makes us interested&quot; to &quot;deepening interest in&quot;.</cmt>
+<e type="check" ver="1">It was due to Teika&apos;s consideration for the bakufu that the work by the great poets Emperor Gotoba and Emperor Juntoku was omitted, as they were in exile following the Jokyu incident.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+</sen>
+<sen id="12">
+<j>藤原家隆・源実朝を高く評価する傍ら、自身の歌の入集を最小限に抑えた定家の態度は興味深い。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He also reduced his own poems to a minimum while holding poems by FUJIWARA no Ietaka and MINAMOTO no Sanetomo in high regard, deepening interest in Teika&apos;s attitude toward poetry selection.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="13">
+<j>新勅撰集は華やかな新古今調から一転して平明枯淡な趣向に走り、定家晩年の好みを伺わせる。</j>
+<e type="trans" ver="1">Compared with the elegant Shin kokin style, Shin chokusenshu is characterized as a simple and refined style, in which we could tell Teika&apos;s taste in his later years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Compared with the elegant Shin Kokin style, Shin Chokusenshu is characterized by its simple and refined style, which tells us what he preferred in his later years.</e>
+<cmt>Capitalised the titles as was translated above. Changed &quot;as a&quot; to &quot;by its&quot;, and &quot;in which we could tell&quot; to &quot;which tells us&quot;, which I think is a bit more accurate in this context.</cmt>
+<e type="check" ver="1">Compared with the elegant Shin Kokin style, Shin Chokusenshu is characterized by its simple and refined style, which tells us what he preferred in his later years.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>その保守的な歌風は二条派に「実」として尊重され、中世和歌の手本となった。</j>
+<e type="trans" ver="1">Its conservative style of poem was respected by the Nijo group as &apos;truth,&apos; becoming a model of waka poems in the medieval period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its conservative style of poetry was respected by the Nijo poetic house as &apos;truth,&apos; becoming the model for all subsequent waka poems in the medieval period.</e>
+<cmt>Changed &quot;poem&quot; to &quot;poetry&quot;, and changed &quot;Nijo group&quot; to &quot;Nijo poetic house&quot;, both in keeoing with how it was translated in the 「玉葉和歌集」 file and to make what Nijo was clearer. Finally changed &quot;model of&quot; to &quot;model for all subsequent&quot;, just to make the sentence read a little bit smoother.</cmt>
+<e type="check" ver="1">Its conservative style of poetry was respected by the Nijo poetic house as &apos;truth,&apos; becoming the model for all subsequent waka poems in the medieval period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Yume149(id:17504), Yas(id:739), Yuming(id:17854), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

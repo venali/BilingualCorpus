@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>五条駅 (京都市営地下鉄)</j>
+<e type="trans" ver="1">Gojo Station (Kyoto City Subway)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gojo Station (Kyoto City Subway)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gojo Station (Kyoto Municipal Subway)</e>
+<cmt>city →municipal　としました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>五条駅（ごじょうえき）は、京都府京都市下京区大坂町にある、京都市営地下鉄京都市営地下鉄烏丸線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Osaka-cho, Shimogyo Ward, Kyoto City, Kyoto Prefecture, Gojo Station is a stop of Karasuma Line, which is operated by Kyoto City Subway.</e>
+<cmt>”京都市営地下鉄京都市営地下鉄”：”京都市営地下鉄”がだぶっていると考え、一方を削除したとして訳してあります。</cmt>
+<e type="trans" ver="2">Gojo Station, located in Osaka-cho, Shimogyo Ward, Kyoto City, Kyoto Prefecture, is a stop on the Karasuma Line, which is operated by Kyoto City Subway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Gojo Station, located in Osaka-cho, Shimogyo Ward, Kyoto City, Kyoto Prefecture, is a stop on the Karasuma Line, which is operated by Kyoto Municipal Subway.</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+<sen id="2">
+<j>駅番号はK10。</j>
+<e type="trans" ver="1">The station number is K10.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station number is K10.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The station number is K10.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s layout</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他ファイルと統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>烏丸通五条通交差点の地下にあり、プラットホームは島式1面2線である。</j>
+<e type="trans" ver="1">Placed in the underground of the crossing between Karasuma-dori Street and Go-jo-dori Street, this station is provided with an island platform serving two tracks.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Situated in the underground of the crossing between Karasuma-dori and Go-jo-dori streets, this station has an island platform that serves two tracks.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Situated in the underground of the crossing between Karasuma-dori and Gojo-dori streets, this station has an island platform that serves two tracks.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+<sen id="4">
+<j>改札口は南北1ヶ所ずつで、北改札のみ駅員が配備されている。</j>
+<e type="trans" ver="1">Two entrance/exit gates, one on the north side and the other on the south side, are provided, and only the north entrance/exit gate is manned.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Two entrance/exit gates are provided--one on the north side and the other on the south side--but only the north entrance/exit gate is manned.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Two entrance/exit gates are provided--one on the north side and the other on the south side--but only the north entrance/exit gate is manned.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他ファイルと統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>東本願寺（真宗本廟）</j>
+<e type="trans" ver="1">East Hongan-ji Temple (Shin-shu Hombyo)</e>
+<cmt></cmt>
+<e type="trans" ver="2">East Hongan-ji Temple (Shin-shu Hombyo)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Higashi Hongan-ji Temple (Shin-shu Hombyo)</e>
+<cmt>east →higashi　としました。</cmt>
+</sen>
+<sen id="6">
+<j>アイフル本社</j>
+<e type="trans" ver="1">The headquaters of IFUL Corporation</e>
+<cmt></cmt>
+<e type="trans" ver="2">The headquarters of IFUL Corporation</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The headquarters of IFUL Corporation</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>京進本社</j>
+<e type="trans" ver="1">Kyoshin Co.,Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoshin Co., Ltd.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Kyoshin Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>下京税務署</j>
+<e type="trans" ver="1">The Shimogyo tax office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Shimogyo tax office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Shimogyo tax office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>京都市立尚徳中学校</j>
+<e type="trans" ver="1">Kyoto City-run Shotoku Junior High School</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto City-run Shotoku Junior High School</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kyoto City Shotoku Junior High School</e>
+<cmt>city run →city　と統一しました。</cmt>
+</sen>
+<sen id="10">
+<j>五条東洞院郵便局</j>
+<e type="trans" ver="1">The Gojo Higashinotoin post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Gojo Higashinotoin post office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Gojo Higashinotoin post office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>東本願寺前郵便局</j>
+<e type="trans" ver="1">The Higashi-Honganji-mae post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Higashi-Honganji-mae post office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Higashi-Honganji-mae post office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>五条警察署(四条駅と五条駅の中間地点)</j>
+<e type="trans" ver="1">The Gojo police station (placed at the mid-point between Shijo Station and Gojo Station.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Gojo police station (placed at the midpoint between Shijo Station and Gojo Station.)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The Gojo police station (placed at the midpoint between Shijo Station and Gojo Station.)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>烏丸通（国道367号、国道24号）</j>
+<e type="trans" ver="1">Karasuma-dori Street (National highways 367 and 24)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Karasuma-dori Street (national highways 367 and 24)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Karasuma-dori Street (national routes 367 and 24)</e>
+<cmt>国道→national route としました。</cmt>
+</sen>
+<sen id="14">
+<j>五条通（国道1号、国道9号）</j>
+<e type="trans" ver="1">Gojo-dori Street (National highways 1 and 9)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gojo-dori Street (national highways 1 and 9)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Gojo-dori Street (national routes 1 and 9)</e>
+<cmt>国道→national route としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="15">
+<j>京阪本線の五条駅_(京阪)とは、約800m離れている。</j>
+<e type="trans" ver="1">Gojo Station (Keihan) on Keihan Main Line is located about 800 m apart from this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gojo Station (Keihan) on the Keihan Main Line is located approximately 800 meters from this station.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Gojo Station (Keihan) on the Keihan Main Line is located approximately 800 meters from this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>地下鉄四条駅と京阪四条駅との間が約1,100m離れているのに比べると短い。</j>
+<e type="trans" ver="1">This distance is shorter than about 1,100 m between the subway Shigo Station and the Keihan Shijo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This distance between the Shigo Station subway and Keihan Shijo Station is less than 1,100 meters.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This distance is shorter compared to that between the subway Shijo Station and Keihan Shijo Station which is approximately 1,100 meters.</e>
+<cmt>原文の通りに修正しました。</cmt>
+</sen>
+<sen id="17">
+<j>なお、2008年度中に京阪の駅は「清水五条駅」に改称する予定。</j>
+<e type="trans" ver="1">The name of Gojo Station on the Keihan line is scheduled to be changed to Kiomizu-gojo Station within the fiscal 2008.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The name of Gojo Station on the Keihan Line was scheduled to be changed to Kiomizu-gojo Station within the fiscal 2008.</e>
+<cmt>case. ALSO CHANGED TENSE</cmt>
+<e type="check" ver="1">The name of Gojo Station on the Keihan Line was scheduled to be changed to Kiyomizu-gojo Station within the fiscal 2008.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="18">
+<j>1981年5月29日 烏丸線が北大路～京都間で開業した際に設置。</j>
+<e type="trans" ver="1">May 19, 1981: May 29, 1981: This station was establishied when Karasuma Line started its operation between Kitaoji and Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">May 19, 1981 - May 29, 1981: This station was established when the Karasuma Line started operating between Kitaoji and Kyoto.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">May 29, 1981: This station was established when the Karasuma Line started operating between Kitaoji and Kyoto.</e>
+<cmt>不要な月日を削除しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="19">
+<j>2007年4月1日 PiTaPa使用開始。</j>
+<e type="trans" ver="1">April 1, 2007, PiTaPa (ICOCA) became usable.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 2007: PiTaPa (ICOCA) became usable.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">April 1, 2007: PiTaPa (ICOCA) became usable.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他ファイルと統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="20">
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto City Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+<sen id="21">
+<j>■烏丸線</j>
+<e type="trans" ver="1">Karasuma Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Karasuma Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karasuma Line</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+<sen id="22">
+<j>四条駅_(京都市営地下鉄)(K09) - 五条駅(K10) - 京都駅(K11)</j>
+<e type="trans" ver="1">Shijo Station (Kyoto City Subway) (K09) - Gojo Station (K10) - Kyoto Station (K11)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shijo Station (Kyoto City Subway) (K09) - Gojo Station (K10) - Kyoto Station (K11)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shijo Station (Kyoto Municipal Subway) (K09) - Gojo Station (K10) - Kyoto Station (K11)</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Sushiya(id:110938), 城山(id:104901), Etopirica(id:32491), Bergmann(id:85282), 春野秋葉(id:36725), Wikipedianet(id:9608), Ikaxer(id:61759), Memeja(id:110500), 文姫(id:66661), Miyuki h(id:84952), 準急三条(id:25072), Sunen(id:10700), Ktr(id:30468), Nakadati(id:26815), Kouchiumi(id:19253), 金山銀山銅山(id:163855), Goki(id:7107), Hidama(id:73276), Hirotaro(id:1437), 210.(id:9838), Takatetu(id:3231), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

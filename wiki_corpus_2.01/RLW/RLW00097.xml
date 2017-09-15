@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>新田辺駅</j>
+<e type="trans" ver="1">Shin-Tanabe Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shin-Tanabe Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shin-Tanabe Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>新田辺駅（しんたなべえき）は、京都府京田辺市にある、近畿日本鉄道近鉄京都線の鉄道駅。</j>
+<e type="trans" ver="1">Shin-Tanabe Station is a Kintetsu Kyoto Line station located in Kyotanabe City, Kyoto Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shin-Tanabe Station is a Kintetsu Kyoto Line station located in Kyotanabe City, Kyoto Prefecture.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Shin-Tanabe Station, located in Kyotanabe City, Kyoto Prefecture, is a stop on the Kintetsu Kyoto Line of Kintetsu Railways.</e>
+<cmt>表現を他ファイルと統一しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Structure of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他ファイルと統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>プラットホーム形状と配置2面4線の橋上駅。</j>
+<e type="trans" ver="1">Form and Layout of platforms: Shin-Tanabe Station is a two-story station with two platforms and four lines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shin-Tanabe Station is a two-story facility with two platforms and four lines.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Shin-Tanabe Station is an aboveground station with two island platforms serving four tracks, with the station house being on the bridge.</e>
+<cmt>一部表現を修正しました。</cmt>
+</sen>
+<sen id="3">
+<j>ホーム有効長は6両。</j>
+<e type="trans" ver="1">The platforms each have an effective length for six train cars combined together.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Each platform has a length sufficient to accommodate six cars.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Each platform has a length sufficient to accommodate six cars.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>橋上駅を有している。</j>
+<e type="trans" ver="1">The station has platforms on the second floor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station has platforms on the second floor.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The station building is located on the bridge.</e>
+<cmt>原文wikiを参照すると、橋上駅舎とありますので、station building としました。</cmt>
+</sen>
+<sen id="5">
+<j>改札口は1ヶ所のみ。</j>
+<e type="trans" ver="1">There is only one ticket gate to the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is only one ticket gate to the station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There is only one ticket gate to the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>東西に出入口があり、西側は駅ビルを併設している。</j>
+<e type="trans" ver="1">Entrances are on the east and west sides of the station and there is a station building on the west side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Entrances are on the east and west sides of the station, and there is a station building on the west side.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Entrances are on the east and west sides of the station, and there is a station building on the west side.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>なお特急券・定期券とも購入が可能である。</j>
+<e type="trans" ver="1">Limited express tickets and commuter tickets are sold at the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Limited express tickets and commuter tickets are sold at the station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Limited express tickets and commuter tickets are sold at the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>また自動改札機は東芝製が設置されており、赤い自動改札機（EG-2000）は出場時2枚一括処理、PiTaPa・ICOCAに対応する。</j>
+<e type="trans" ver="1">Of the automatic ticket checkers installed at the station, which are made by Toshiba, red ticket checkers (EG-2000) are able to process two types of tickets together when a passenger exits through the gate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Of the automatic ticket checkers installed at the station, which were manufactured by Toshiba, the red ticket checkers (EG-2000) are able to process two types of tickets together when a passenger exits the gate.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The automatic ticket gates were manufactured by Toshiba; the red automatic ticket gate (EG-2000) can treat two tickets collectively when exiting, and it accepts PiTaPa/ICOCA cards.</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>準急（ラッシュ時のみ運転）と京都市営地下鉄烏丸線乗り入れの普通列車（早朝の近鉄宮津発国際会館駅行1本を除く）はこの駅が始発となる。</j>
+<e type="trans" ver="1">Semi-express trains (operated only during rush hours) and local trains running on the line that connects with the Kyoto City Subway Karasuma Line (excluding one early morning train that leaves Kintetsu-Miyazu Station for Kokusaikaikan Station) start from Shin-Tanabe Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The semi-express trains (operated only during rush hours) and local trains running on the line that connects with the Kyoto City Subway Karasuma Line (excluding an early morning train that leaves Kintetsu-Miyazu Station for Kokusaikaikan Station) start from Shin-Tanabe Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The semi-express trains (operated only during rush hours) and local trains running on the line that connect with the Kyoto Municipal Subway Karasuma Line (excluding an early morning train that leaves Kintetsu-Miyazu Station for Kokusaikaikan Station) start from Shin-Tanabe Station.</e>
+<cmt>connets→ connect city→ municipal としました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization by passengers</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger usage statistics</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="11">
+<j>2005年11月8日の調査結果によると、1日の利用客は26,625人。</j>
+<e type="trans" ver="1">According to a survey conducted on November 8, 2005, 26,625 passengers were using Shin-Tanabe Station per day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to a survey conducted on November 8, 2005, 26,625 passengers used Shin-Tanabe Station that day.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">According to a survey conducted on November 8, 2005, 26,625 passengers used Shin-Tanabe Station that day.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="12">
+<j>近鉄の全調査対象駅（323駅、但し調査当時の数）中、25位。</j>
+<e type="trans" ver="1">The station ranked 25th among all Kintetsu stations targeted by the survey (323 stations at the time of the survey) in terms of the number of passengers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station ranked twenty-fifth among all Kintetsu stations targeted by the survey (323 stations at the time of the survey) in terms of the number of passengers.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">The station ranked twenty-fifth among all Kintetsu stations targeted by the survey (323 stations at the time of the survey) in terms of the number of passengers.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="13">
+<j>京都線の駅（26駅、大和西大寺駅含む）の中では、6位。</j>
+<e type="trans" ver="1">It ranked 6th among all stations on the Kintetsu Kyoto Line (26 stations, including Yamato-Saidaiji Station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It ranked sixth among all stations on the Kintetsu Kyoto Line (26 stations, including Yamato-Saidaiji Station).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It ranked sixth among all stations on the Kintetsu Kyoto Line (twenty-six stations, including Yamato-Saidaiji Station).</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="14">
+<j>京都府内の近鉄の駅（23駅）の中では、4位。</j>
+<e type="trans" ver="1">It ranked 4th among Kintetsu stations located in Kyoto Prefecture (23 stations).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It ranked fourth among the Kintetsu stations located in Kyoto Prefecture (23 stations).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It ranked fourth among the Kintetsu stations located in Kyoto Prefecture (twenty-three stations).</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="15">
+<j>松井山手地区や大阪府枚方市東部との連絡地でもあり朝、夕は比較的混雑する。</j>
+<e type="trans" ver="1">Shin-Tanabe Station, which provides connections to the Matsuiyamate District and the eastern part of Hirakata City, Osaka Prefecture, gets fairly crowded in the evening.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shin-Tanabe Station, which provides connections to the Matsuiyamate District and the eastern part of Hirakata City, Osaka Prefecture, gets fairly crowded in the evening.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shin-Tanabe Station, which provides connections to the Matsuiyamate District and the eastern part of Hirakata City, Osaka Prefecture, gets fairly crowded in the morning and evening.</e>
+<cmt>朝　を追加しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="16">
+<j>駅周辺</j>
+<e type="trans" ver="1">Areas around the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area around the station</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="17">
+<j>京田辺駅 - 西日本旅客鉄道（JR西日本）片町線 徒歩5分ほど。</j>
+<e type="trans" ver="1">Kyotanabe Station on the Katamachi Line of the West Japan Railway Company (JR West) is about five minutes walk from Shin-Tanabe Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyotanabe Station, on the Katamachi Line of the West Japan Railway Company (JR West), is approximately five minutes on foot from Shin-Tanabe Station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Kyotanabe Station, on the Katamachi Line of the West Japan Railway Company (JR West), is approximately five minutes on foot from Shin-Tanabe Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="18">
+<j>アル・プラザ京田辺</j>
+<e type="trans" ver="1">Al Plaza Kyotanabe</e>
+<cmt></cmt>
+<e type="trans" ver="2">Al Plaza Kyotanabe</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Al Plaza Kyotanabe</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>新田辺ステーションパーク</j>
+<e type="trans" ver="1">Shin-Tanabe Station Park</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shin-Tanabe Station Park</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shin-Tanabe Station Park</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>一休寺</j>
+<e type="trans" ver="1">Ikkyu-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ikkyu-ji Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ikkyu-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>甘南備山</j>
+<e type="trans" ver="1">Kannabi-yama Mountain</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mt. Kannabi-yama</e>
+<cmt>REDUNDANT? Mt. Kannabi?</cmt>
+<e type="check" ver="1">Mt. Kannabi</e>
+<cmt>Mt. Kannabi　としました。</cmt>
+</sen>
+<sen id="22">
+<j>田辺中央病院</j>
+<e type="trans" ver="1">Tanabe Central Hospital</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanabe Central Hospital</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tanabe Central Hospital</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>新田辺郵便局</j>
+<e type="trans" ver="1">Shintanabe post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Shintanabe post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Shintanabe post office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>京都田辺河原郵便局</j>
+<e type="trans" ver="1">Kyoto Tanabe Kawara post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto Tanabe Kawara post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kyoto Tanabe Kawara post office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>京都府立田辺高等学校</j>
+<e type="trans" ver="1">Kyoto Prefectural Tanabe Senior High School</e>
+<cmt>京都府立田辺高等学校→Kyoto Prefectural Tanabe Senior High School[http://www.kyoto-be.ne.jp/tanabe-hs/ を参照しました]</cmt>
+<e type="trans" ver="2">Kyoto Prefectural Tanabe Senior High School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Prefectural Tanabe Senior High School</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>近鉄西大寺検車区新田辺車庫</j>
+<e type="trans" ver="1">Kintetsu Saidaiji train depot</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kintetsu Saidaiji train depot</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kintetsu Saidaiji train depot</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>新田辺列車区</j>
+<e type="trans" ver="1">Shin-Tanabe railway line section</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Shin-Tanabe railway line section</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Shin-Tanabe railway line section</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>京奈和自動車道田辺西インターチェンジ　西へ1.5km</j>
+<e type="trans" ver="1">Keinawa Expressway Tanabe-nishi Interchange: 1.5 km to the west of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keinawa Expressway Tanabe-nishi Interchange: 1.5 km west of the station</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Keinawa Expressway Tanabe-nishi Interchange: 1.5 km west of the station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="29">
+<j>路線バス</j>
+<e type="trans" ver="1">Route bus services</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route bus services</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route bus services</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>京阪バス（主要路線のみ）</j>
+<e type="trans" ver="1">Keihan bus services (major routes only)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan bus services (major routes only)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Bus (major routes only)</e>
+<cmt>Keihan Bus としました。</cmt>
+</sen>
+<sen id="31">
+<j>31　大住ヶ丘―松井山手駅―京阪電気鉄道樟葉駅</j>
+<e type="trans" ver="1">Osumigaoka - Matsuiyamate Station - Keihan Electric Railway Kuzuha Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Osumigaoka - Matsuiyamate Station - Keihan Electric Railway Kuzuha Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 31: Osumigaoka - Matsuiyamate Station - Keihan Electric Railway Kuzuha Station</e>
+<cmt>系統の数字を追加しました。</cmt>
+</sen>
+<sen id="32">
+<j>61　田辺高校―草内</j>
+<e type="trans" ver="1">Tanabe High School - Kusauchi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanabe High School - Kusauchi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 61: Tanabe High School - Kusauchi</e>
+<cmt>系統の数字を追加しました。</cmt>
+</sen>
+<sen id="33">
+<j>63　ポエムノール北山</j>
+<e type="trans" ver="1">Poem Knoll Kitayama</e>
+<cmt>ポエムノール北山→Poem Knoll Kitayama[http://www.machinami.or.jp/coordinate/index.html を参照しました]</cmt>
+<e type="trans" ver="2">Poem Knoll Kitayama</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 63: Poem Knoll Kitayama</e>
+<cmt>系統の数字を追加しました。</cmt>
+</sen>
+<sen id="34">
+<j>65　京田辺市役所―新田辺駅―大住ヶ丘―松井山手駅</j>
+<e type="trans" ver="1">Kyotanabe City Office - Shin-Tanabe Station - Osumigaoka - Matsuiyamate Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyotanabe City Office - Shin-Tanabe Station - Osumigaoka - Matsuiyamate Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 65: Kyotanabe City Hall - Shin-Tanabe Station - Osumigaoka - Matsuiyamate Station</e>
+<cmt>系統の数字を追加しました。</cmt>
+</sen>
+<sen id="35">
+<j>67　大住駅―大住ヶ丘―松井山手駅</j>
+<e type="trans" ver="1">JR Osumi Station - Osumigaoka - Matsuiyamate Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR Osumi Station - Osumigaoka - Matsuiyamate Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 67: JR Osumi Station - Osumigaoka - Matsuiyamate Station</e>
+<cmt>系統の数字を追加しました。</cmt>
+</sen>
+<sen id="36">
+<j>68　畠―大住ヶ丘―松井山手駅</j>
+<e type="trans" ver="1">Hata - Osumigaoka - Matsuiyamate Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hata - Osumigaoka - Matsuiyamate Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 68: Hata - Osumigaoka - Matsuiyamate Station</e>
+<cmt>系統の数字を追加しました。</cmt>
+</sen>
+<sen id="37">
+<j>69　茂ヶ谷</j>
+<e type="trans" ver="1">Mogadani</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mogadani</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 69: Mogadani</e>
+<cmt>系統の数字を追加しました。</cmt>
+</sen>
+<sen id="38">
+<j>74　内里―京阪電気鉄道八幡市駅</j>
+<e type="trans" ver="1">Uchisato - Keihan Electric Railway Yawatashi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uchisato - Keihan Electric Railway Yawatashi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 74: Uchisato - Keihan Electric Railway Yawatashi Station</e>
+<cmt>系統の数字を追加しました。</cmt>
+</sen>
+<sen id="39">
+<j>75　岩田 (八幡市)―京阪電気鉄道八幡市駅</j>
+<e type="trans" ver="1">Iwata (Yawata City) - Keihan Electric Railway Yawatashi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Iwata (Yawata City) - Keihan Electric Railway Yawatashi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 75: Iwata (Yawata City) - Keihan Electric Railway Yawatashi Station</e>
+<cmt>系統の数字を追加しました。</cmt>
+</sen>
+<sen id="40">
+<j>関西外国語大学・穂谷・天王方面</j>
+<e type="trans" ver="1">Buses for Kansai Gaidai University, Hotani and Tenno</e>
+<cmt></cmt>
+<e type="trans" ver="2">Buses for Kansai Gaidai University, Hotani and Tenno</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Buses for Kansai Gaidai University, Hotani and Tenno</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="41">
+<j>奈良交通</j>
+<e type="trans" ver="1">Nara Kotsu bus services</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nara Kotsu bus services</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nara Kotsu Bus</e>
+<cmt>services　を削除しました。</cmt>
+</sen>
+<sen id="42">
+<j>101　同志社女子大学正門-同志社大学正門-同志社大学工学部-同志社大学ディヴィス記念館（同志社大学の大学構内に乗り入れる）</j>
+<e type="trans" ver="1">Doshisha Women&apos;s College of Liberal Arts Main Gate Doshisha University Main Gate - Doshisha University Faculty of Engineering - Doshisha University Davis Memorial Auditorium (into the Doshisha University campus)</e>
+<cmt>ディヴィス記念館→Davis Memorial Auditorium[http://www.doshisha-sports.com/contents/facilities/davis.html を参照しました]</cmt>
+<e type="trans" ver="2">Doshisha Women&apos;s College of Liberal Arts Main Gate - Doshisha University Main Gate - Doshisha University Faculty of Engineering - Doshisha University Davis Memorial Auditorium (into the Doshisha University campus)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 101: Doshisha Women&apos;s College of Liberal Arts Main Gate - Doshisha University Main Gate - Doshisha University Faculty of Engineering - Doshisha University Davis Memorial Auditorium (into the Doshisha University campus)</e>
+<cmt>系統の数字を追加しました。</cmt>
+</sen>
+<sen id="43">
+<j>他、市内線等</j>
+<e type="trans" ver="1">Other bus services, including services within the city</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other bus services, including those within the city</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Other bus services, including those within the city</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>また、関西国際空港行きのリムジンバスもある。</j>
+<e type="trans" ver="1">Limousine services to Kansai International Airport are also available.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Limousine services to Kansai International Airport are also available.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Limousine services to Kansai International Airport are also available.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="45">
+<j>京阪宇治バス（主要路線のみ）</j>
+<e type="trans" ver="1">Kyoto Uji bus services (major routes only)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Uji bus services (major routes only)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Uji Bus (major routes only)</e>
+<cmt>services　を削除しました。</cmt>
+</sen>
+<sen id="46">
+<j>62　田辺高校―独立行政法人国立病院機構南京都病院―緑苑坂ニュータウン</j>
+<e type="trans" ver="1">Tanabe High School - National Hospital Organization Minami-Kyoto Hospital - Ryokuenzaka Newtown</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanabe High School - National Hospital Organization Minami-Kyoto Hospital - Ryokuenzaka Newtown</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route 62: Tanabe High School - National Hospital Organization Minami-Kyoto Hospital - Ryokuenzaka Newtown</e>
+<cmt>系統の数字を追加しました。</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="47">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>1928年（昭和3年）11月3日 奈良電気鉄道桃山御陵前駅～西大寺（現・大和西大寺駅）間開通時に開業。</j>
+<e type="trans" ver="1">Shin-Tanabe Station opened on November 3, 1928, when the train service in the Nara Electric Railway line section between Momoyamagoryomae Station and Saidaiji Station (currently, Yamato-Saidaiji Station) started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shin-Tanabe Station opened on November 3, 1928, when the train service on the Nara Electric Railway line section between Momoyamagoryomae Station and Saidaiji Station (currently, Yamato-Saidaiji Station) was launched.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">November 3, 1928: The station opened as a station of Nara Electric Railway when the line between Momoyamagoryomae Station and Saidaiji Station (the present-day Yamato-Saidaiji Station) was opened.</e>
+<cmt>他ファイルと統一しました。日付表記変更。</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="49">
+<j>1963年（昭和38年）10月1日 会社合併により近畿日本鉄道の駅となる。</j>
+<e type="trans" ver="1">On October 1, 1963, the station became a Kinki Japan Railway station as a result of a company merger.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 1, 1963, the station became a Kinki Japan Railway facility due to a company merger.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 1, 1963: The station became one of the stations of Kintetsu Railways due to the amalgamation that occurred.</e>
+<cmt>他ファイルと統一しました。日付表記変更。</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="50">
+<j>1988年（昭和63年）10月9日 橋上駅舎となる。</j>
+<e type="trans" ver="1">On October 9, 1988, the station was rebuilt as a two-story station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 9, 1988, the station was rebuilt as a two-story structure.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 9, 1988: The station house was rebuilt on the bridge.</e>
+<cmt>橋上駅舎→station house on the bridge　としました。日付表記変更。</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="51">
+<j>2007年（平成19年）4月1日 PiTaPa使用開始。</j>
+<e type="trans" ver="1">On April 1, 2007, PiTaPa cards started to be used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 2007, PiTaPa cards came into use.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 2007: PiTaPa cards came into use.</e>
+<cmt>日付表記変更。</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="52">
+<j>その他</j>
+<e type="trans" ver="1">Other topics</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other topics</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Others</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="53">
+<j>興戸駅、三山木駅と並んで同志社大学・同志社女子大学生の下宿が多い地域のため、比較的発展した地域である。</j>
+<e type="trans" ver="1">As with Kodo Station and Miyamaki Station, the area around the station, where many lodgings for the students of Doshisha University and Doshisha Women&apos;s College of Liberal Arts are found, is relatively well developed,</e>
+<cmt></cmt>
+<e type="trans" ver="2">As with Kodo Station and Miyamaki Station, the area around the facility, where lodgings for the students of Doshisha University and Doshisha Women&apos;s College of Liberal Arts are found, is relatively well developed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As with Kodo Station and Miyamaki Station, the area around the facility, where lodgings for the students of Doshisha University and Doshisha Women&apos;s College of Liberal Arts are found, is relatively well developed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="54">
+<j>位置情報</j>
+<e type="trans" ver="1">Information on the location of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Information on the station&apos;s location</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Location</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="55">
+<j>隣の駅</j>
+<e type="trans" ver="1">Adjacent stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjacent stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="56">
+<j>近畿日本鉄道</j>
+<e type="trans" ver="1">Kintetsu Railways</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kintetsu Railways</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kintetsu Railways</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="57">
+<j>京都線</j>
+<e type="trans" ver="1">Kyoto Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>■急行（下記以外の列車）</j>
+<e type="trans" ver="1">Express trains (trains other than the below)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Express trains (other than the following)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Express (other than the following)</e>
+<cmt>電車の表現を統一しました。</cmt>
+</sen>
+<sen id="59">
+<j>大久保駅 (京都府) - 新田辺駅 - 新祝園駅</j>
+<e type="trans" ver="1">Okubo Station (Kyoto Prefecture) - Shin-Tanabe Station - Shin-Hozono Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Okubo Station (Kyoto Prefecture) - Shin-Tanabe Station - Shin-Hozono Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Okubo Station (Kyoto Prefecture) - Shin-Tanabe Station - Shin-Hosono Station</e>
+<cmt>Hozono→ Hosonoとしました。</cmt>
+</sen>
+<sen id="60">
+<j>■急行（京都駅-近鉄宮津駅間運転の電車）</j>
+<e type="trans" ver="1">Express trains (trains running between Kyoto Station and Kintetsu Miyazu Station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Express trains (those running between Kyoto Station and Kintetsu Miyazu Station)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Express (those running between Kyoto Station and Kintetsu Miyazu Station)</e>
+<cmt>電車の表現を統一しました。</cmt>
+</sen>
+<sen id="61">
+<j>大久保駅 - 新田辺駅 - 興戸駅</j>
+<e type="trans" ver="1">Okubo Station - Shin-Tanabe Station - Kodo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Okubo Station - Shin-Tanabe Station - Kodo Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Okubo Station - Shin-Tanabe Station - Kodo Station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="62">
+<j>■準急（近鉄丹波橋駅まで各駅に停車）</j>
+<e type="trans" ver="1">Semi-express trains (stop at every station from Kyoto to Kintetsu-Tambabashi Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Semi-express trains (stopping at every station from Kyoto to Kintetsu-Tambabashi Station)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Semi-express (stopping at every station from Kyoto to Kintetsu-Tanbabashi Station)</e>
+<cmt>電車の表現を統一しました。Tanbabashi としました。</cmt>
+</sen>
+<sen id="63">
+<j>富野荘駅 - 新田辺駅</j>
+<e type="trans" ver="1">Tonosho Station - Shin-Tanabe Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tonosho Station - Shin-Tanabe Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tonosho Station - Shin-Tanabe Station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="64">
+<j>■普通</j>
+<e type="trans" ver="1">Local trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Local</e>
+<cmt>電車の表現を統一しました。</cmt>
+</sen>
+<sen id="65">
+<j>富野荘駅 - 新田辺駅 - 興戸駅</j>
+<e type="trans" ver="1">Tonosho Station - Shin-Tanabe Station - Kodo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tonosho Station - Shin-Tanabe Station - Kodo Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tonosho Station - Shin-Tanabe Station - Kodo Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), 城山(id:104901), Tetsuo1968(id:12092), Ignis(id:28979), とんかつ(id:91457), Utsuda(id:605), Yamanamann(id:9761), Shinkansen(id:13703), Aska-sacra(id:8180), Carkuni(id:79281), Rusk(id:9895), Sunen(id:10700), Bandalgom(id:31841), Kouchiumi(id:19253), Hamilton(id:6033), Unamu(id:14627), Kyoutanabe124(id:175304), Kone(id:377), Hirotaro(id:1437), 扇風機のせんちゃん(id:161810), Mipu(id:5360), 210.(id:9838), Apidr(id:155448), 目蒲東急之介(id:34741), Hirohisat(id:128431), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

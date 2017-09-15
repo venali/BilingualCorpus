@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>日延</j>
+<e type="trans" ver="1">Nichien</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nichien</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nichien</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>日延（にちえん、生没年不詳）は、平安時代中期の天台宗の僧。</j>
+<e type="trans" ver="1">Nichien (year of birth and death unknown) was a priest of Tendai Sect in the mid Heian period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nichien (year of birth and death unknown) was a priest of the Tendai sect in the mid Heian period.</e>
+<cmt>added &quot;the&quot; before &quot;Tendai Sect&quot;</cmt>
+<e type="check" ver="1">Nichien (year of birth and death unknown) was a priest of the Tendai sect in the mid Heian period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>肥前国の出身。</j>
+<e type="trans" ver="1">He came from Hizen Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was originally from the Hizen Province.</e>
+<cmt>Lengthened the sentence a bit and fixed grammar to not sound like a fragment</cmt>
+<e type="check" ver="1">He was originally from Hizen Province.</e>
+<cmt>the Hizen Province の the を削除しました。</cmt>
+</sen>
+<sen id="3">
+<j>権律師仁観の弟子。</j>
+<e type="trans" ver="1">He was a disciple of Gon no Risshi (a provisional rank in the lowest managerial position) Ninkan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He had the rank of Gon no Risshi (a provisional rank in the lowest managerial position) and was a disciple of Ninkan.</e>
+<cmt>fixed sentence for clarirty (I am assuming &quot;Ninkan&quot; was a person</cmt>
+<e type="check" ver="1">He was a disciple of Gon no Risshi (a provisional rank in the lowest managerial position) Ninkan.</e>
+<cmt>「権律師仁観」誤訳のため全文修正しました（「権律師」は仁観の肩書であって、日延ではありません。）。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>中国天台山から延暦寺に対し中国で散逸した天台教籍の書写送付の依頼があり、953年（天暦7年）その送使として呉越へ渡った。</j>
+<e type="trans" ver="1">Responding to the request by Mt. Tendai, China for Enryaku-ji Temple to send hand-written copy of Tendai Kyoshaku (doctrine book) dispersed and lost in China, he went across the sea to Goetsu (Wuyue) as Soshi (delivering envoy) in 953.</e>
+<cmt>「天台教籍」は、広辞苑の「きょう‐しゃく」の意味から訳しました。</cmt>
+<e type="trans" ver="2">Responding to a request by a temple in Mt. Tendai, China for Enryaku-ji Temple to send a hand-written copy of Tendai Kyoshaku (doctrine book) which had been dispersed and lost in China, he went across the sea to Goetsu (Wuyue) as Soshi (delivering envoy) in 953.</e>
+<cmt>added &quot;a temple&quot; before &quot;Mt. Tendai&quot; since the meaning was ambiguous; fixed grammar tor read more naturally</cmt>
+<e type="check" ver="1">Responding to a request by a temple in Mt. Tendai, China for Enryaku-ji Temple to send a hand-written copy of Tendai Kyoshaku (doctrine book) which had been dispersed and lost in China, he went across the sea to Goetsu (Wuyue) as Soshi (delivering envoy) in 953.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>呉越王銭俶から紫衣が贈られて司天台（天文台）で学ぶ特別な許可を与えられ、957年（天徳 (日本)元年）日本に伝わっていない新暦法の符天暦と内典・外典約1000巻を携えて帰国した。</j>
+<e type="trans" ver="1">He was presented a purple canonical robe by the King of Wu-yueh銭俶 and specially permitted to learn at Shitendai (an astronomical observatory) and returned to Japan in 957 bringing back Futenreki (the Futian calendar table) of Shin rekiho (a new method of making calendars) which had not been introduced into Japan and approximately 1,000 Buddhist and secular books.</e>
+<cmt>「司天台」の読み方は広辞苑に従いました。「内典・外典」は、広辞苑、新和英大辞典第５版を参考に訳しました。</cmt>
+<e type="trans" ver="2">He was presented with a purple canonical robe by the King of Wu-yueh (銭俶), specially permitted to learn at Shitendai (an astronomical observatory) and returned to Japan in 957 with approximately 1,000 Buddhist and secular books and a Futenreki (the Futian calendar table) of Shin rekiho (a new method of making calendars) which had not been introduced to Japan.</e>
+<cmt>put parenthesis around the kanji name; rearranged sentence to read more naturally</cmt>
+<e type="check" ver="1">He was presented with a purple canonical robe by the King of Wu-yueh (銭俶), specially permitted to learn at Shitendai (an astronomical observatory) and returned to Japan in 957 with approximately 1,000 Buddhist and secular books and a Futenreki (the Futian calendar table) of Shin rekiho (a new method of making calendars) which had not been introduced to Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>村上天皇はその功を賞して僧綱宣旨を贈ろうとしたが、日延はそれを辞退して九州の大宰府に下り、康保年間（964年 - 968年）藤原師輔のために大浦寺を建立した。</j>
+<e type="trans" ver="1">Emperor Murakami intended to present an imperial letter of Sogo (Office of Monastic Affairs) to praise his achievement, however, Nichien declined it and went down to Dazaifu in Kyushu and he raised Oura-dera Temple for FUJIWARA no Morosuke during the Koho era (964-968).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Emperor Murakami intended to present an imperial letter of Sogo (Office of Monastic Affairs) to praise his achievements but Nichien declined, going down to Dazaifu in Kyushu and erecting the Oura-dera Temple for FUJIWARA no Morosuke during the Koho era (964-968).</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">Emperor Murakami intended to present an imperial letter of Sogo (Office of Monastic Affairs) to praise his achievements but Nichien declined, going down to Dazaifu in Kyushu and erecting the Oura-dera Temple for FUJIWARA no Morosuke during the Koho era (964-968).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>符天暦の請来は日本における宿曜道成立のもととなった。</j>
+<e type="trans" ver="1">The introduction of Futenreki originated the establishment of Suiyodo (a type of astrology) in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With the introduction of the Futenreki, the Suiyodo (a type of astrology) was established in Japan.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">With the introduction of the Futenreki, the Sukuyodo (a type of astrology) was established in Japan.</e>
+<cmt>宿曜道　Suiyodo → Sukuyodo に修正しました。以下の辞書サイトに 「すくようどう」との読みが掲載されていましたので、Sukuyodo と表記しました。参考：http://dictionary.goo.ne.jp/leaf/jn/102480/m0u/%E3%81%99%E3%81%8F/</cmt>
+</sen>
+<sen id="8">
+<j>ただし、『二中歴』には、日延は宿曜師ではなく、人の骨相や生年月日から人の運命を占う禄命に通じた禄命師として扱われており、宿曜道よりも禄命の分野での活躍が知られていたようである。</j>
+<e type="trans" ver="1">However, in &quot;Nichureki&quot; (Dual History), Nichien was described not as Sukuyoshi (master of an astrology based on the Sutra of constellations and planets) but as Rokumeishi (teller of one&apos;s destiny) well informed aboutRokumei (one&apos;s lot) which tell one&apos;s fortune by examining one&apos;s physiognomy or one&apos;s date of birth, so he seems to have been known in his activities in the field of Rokumei rather than that of Suiyodo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nichien seems to have been known for his activities in the field of Rokumei, rather than Suiyodo, however, as in &quot;Nichureki&quot; (Dual History), he was described not as a Sukuyoshi (master of an astrology based on the Sutra of constellations and planets) but as a Rokumeishi (teller of one&apos;s destiny) and well informed about Rokumei (one&apos;s lot) which tells fortunes by examining one&apos;s physiognomy or date of birth.</e>
+<cmt>moved the end of the sentence to the beginning and fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">Nichien seems to have been known for his activities in the field of Rokumei, rather than Suiyodo, however, as in &quot;Nichureki&quot; (Dual History), he was described not as a Sukuyoshi (master of an astrology based on the Sutra of constellations and planets) but as a Rokumeishi (teller of one&apos;s destiny) and well informed about Rokumei (one&apos;s lot) which tells fortunes by examining one&apos;s physiognomy or date of birth.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 VoidAimai(id:212464), Andee(id:20421), 水野白楓(id:22811), R28Bot(id:177951), Zzzz(id:16596), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

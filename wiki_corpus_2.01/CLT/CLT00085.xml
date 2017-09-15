@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>枯山水</j>
+<e type="trans" ver="1">Dry landscape (karesansui)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dry landscape (karesansui)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Karesansui (dry landscape)</e>
+<cmt>読みを括弧のそとへ、訳を括弧に入れました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>枯山水（かれさんすい）とは日本庭園や日本画の様式・風のひとつである。</j>
+<e type="trans" ver="1">Dry landscape is a style of Japanese garden or Japanese painting.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dry landscape is a style of Japanese garden or Japanese painting.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karesansui (dry landscape) is a style of Japanese garden or Japanese painting.</e>
+<cmt>読みを補足、訳を括弧に入れました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>庭園</j>
+<e type="trans" ver="1">Garden</e>
+<cmt></cmt>
+<e type="trans" ver="2">Garden</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Garden</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>枯山水は水のない庭のことで、池や遣水などの水を用いずに石や砂などにより山水の風景を表現する庭園様式。</j>
+<e type="trans" ver="1">Since a dry landscape is a waterless garden, water such as ponds or streams from outside is not used. Rather, it is a garden style in which the scenery of a landscape is expressed with stones and sands, etc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since a dry landscape is a waterless garden, there are no ponds or streams. Rather, it is a garden where landscape scenery is expressed with sand and stones, etc.</e>
+<cmt>wordiness</cmt>
+<e type="check" ver="1">Since a dry landscape is a waterless garden, there are no ponds or streams, rather it is a garden where landscape scenery is expressed with sand and stones, etc.</e>
+<cmt>一文一訳文にするため訂正しました。</cmt>
+</sen>
+<sen id="4">
+<j>例えば白砂や小石を敷いて水面に見立てることが多く、橋が架かっていればその下は水である。</j>
+<e type="trans" ver="1">For instance, white sands and small stones are paved to represent a water surface, and a bridge is built to suggest that water is below.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For example, white sand and small stones are used to represent water, and a bridge is built over it to suggest that there is water is below.</e>
+<cmt>wordiness</cmt>
+<e type="check" ver="1">For example, white sand and small stones are used to represent water, and a bridge is built over it to suggest that there is water below.</e>
+<cmt>is削除</cmt>
+</sen>
+<sen id="5">
+<j>石の表面の紋様で水の流れを表現することもある。</j>
+<e type="trans" ver="1">Occasionally, the pattern on the surface of the stones also represents the flow of water.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Occasionally, the pattern on the surface of the stones also represents the flow of water.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Occasionally, the pattern on the surface of the stones also represents the flow of water.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>抽象的な表現の庭が室町時代の禅宗寺院で特に用いられ発達した。</j>
+<e type="trans" ver="1">The abstract expression of garden was especially used and developed by the Zen sect Buddhist temples of Muromachi Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This abstract expression of a garden was especially used and developed by the Zen sect Buddhist temples of the Muromachi Period.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This abstract expression of a garden was especially used and developed by the Zen sect temples of the Muromachi period.</e>
+<cmt>Buddhist削除Period→periodに変更しました。</cmt>
+</sen>
+<sen id="7">
+<j>従来の庭園でも技法として庭園の一部に用いられ、寝殿造庭園でも枯山水の部分を含み大名屋敷に造られていく回遊式庭園も枯山水を含んでいることがあった。</j>
+<e type="trans" ver="1">As a traditional design technique of a garden, it was used for part of a garden. Some gardens of a mansion palace contained a part of dry landscape. Some excursion style gardens with a pond built in a mansion of a feudal lord (daimyo) also had a dry landscape. However, after it was adopted by the Zen temples, dry landscape became built as independent gardens.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was traditionally used as part of a design technique for a garden. Some gardens of a mansion palace were partly dry landscaped. Some excursion style gardens with an actual pond of a feudal lord&apos;s (daimyo) mansion, also included a dry landscape. However, after it was adopted by Zen temples, dry landscape were created as independent gardens.</e>
+<cmt>revised for clarity, wordiness</cmt>
+<e type="check" ver="1">It was traditionally used as part of a design technique for a garden; some gardens of a mansion palace were partly dry landscaped, some excursion style gardens with an actual pond of a feudal lord&apos;s (daimyo) mansion, also included a dry landscape.</e>
+<cmt>一原文一訳文の例外処理一文一訳文にするため訂正しました。スペース削除</cmt>
+</sen>
+<sen id="8">
+<j>ただし、禅宗寺院で用いられて以降、独立した庭園として造られるようになった。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, after it was adopted by Zen temples, dry landscape were created as independent gardens.</e>
+<cmt>一原文一訳文の例外処理</cmt>
+</sen>
+<sen id="9">
+<j>日本庭園は水を得られる場所に築くものであったが、枯山水様式の登場後は必ずしも水を使わなくとも造園が可能になった。</j>
+<e type="trans" ver="1">Though Japanese gardens had been built in place with water, with the emergence of dry landscape garden style, it became unnecessary to have water in a garden.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though Japanese gardens had been built with water, with the emergence of the dry landscape garden style, it became unnecessary to have water in a garden.</e>
+<cmt>revised for clarity, wordiness</cmt>
+<e type="check" ver="1">Although Japanese gardens had been built with water, with the emergence of the dry landscape garden style, it became unnecessary to have water in a garden.</e>
+<cmt>Though→Although に変更しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>西芳寺（下の方は池のある池泉回遊式庭園で上の方に枯山水庭園がある）や大徳寺の庭などが有名である。</j>
+<e type="trans" ver="1">Gardens such as those inside Seihou-ji Temple (the south one has a garden with an excursion around a pond with a fountain, the north one has a dry landscape) and Daitoku-ji Temple are famous.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gardens such as those inside Seihou-ji Temple (the south garden has a path around a pond with a fountain, the north garden has a dry landscape) and Daitoku-ji Temple are famous.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">Gardens such as those inside Seihou-ji Temple (the south garden has a path around a pond with a fountain, the north garden has a dry landscape) and Daitoku-ji Temple are famous.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>特に龍安寺の石庭は草木を用いず塀に囲まれた庭に白砂と15個の石組のみで表現した特異なもので、その解釈を巡っては様々な説が唱えられている。</j>
+<e type="trans" ver="1">In particular, the rock garden in Ryoan-ji Temple does not use any plant and is surrounded by fence. It is a peculiar garden expression with only white sands and 15 stone constructions. There have been various theories rumored around to interpret this design.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In particular, the rock garden in Ryoan-ji Temple does not use any plants and it is surrounded by a fence. It is a peculiar garden expression using only white sand and 15 stone configurations. There have been various theories on the interpretation of this design.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">In particular, the rock garden in Ryoan-ji Temple does not use any plants and it is surrounded by a fence and uses only white sand and 15 stone configurations, that have been various theories on the interpretation of this design.</e>
+<cmt>一文一訳文にするため訂正しました。</cmt>
+</sen>
+<sen id="12">
+<j>どの角度から見ても石は14個しか見えないという構図になっている。</j>
+<e type="trans" ver="1">The design is such that no matter from which angle you look, you can only see 14 stones.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The design is such that no matter from which angle you view the garden, you can see only 14 stones.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">The design is such that no matter from which angle you view the garden, you can see only 14 stones.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="13">
+<j>以上はいずれも砂庭を基本とする枯山水であるが、太山寺 (神戸市)の太山寺安養院庭園のように砂を用いず石組だけで風景を表現する枯池式と呼ばれる枯山水も存在する。</j>
+<e type="trans" ver="1">The above are dry landscape gardens based on a sand yard. However, there also exists some dry landscapes called &quot;the style of a dry land (kochi-shiki)&quot;, which use only stone arrangement. An example is Anyoin-teiken Garden of Taisan-ji Temple (Kobe City).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The above are dry landscape gardens based upon a bed of sand. However, there are also some dry landscapes called &quot;the style of a dry land (kochi-shiki),&quot; that use only stone configurations.. An example is the Anyoin-teiken Garden of Taisan-ji Temple (Kobe City).</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">The above are dry landscape gardens based upon a bed of sand, however, there are also some dry landscapes called &quot;the style of a dry land (kochi-shiki),&quot; that use only stone configurations, and an example is the Anyoin-teiken Garden of Taisan-ji Temple (Kobe City).</e>
+<cmt>一文一訳文にするため訂正しました。“→&quot;ピリオド</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="14">
+<j>吉川需による枯山水総論</j>
+<e type="trans" ver="1">A general theory by Matsu YOSHIKAWA</e>
+<cmt></cmt>
+<e type="trans" ver="2">A general theory by Matsu YOSHIKAWA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A general theory by Matsu YOSHIKAWA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>分類</j>
+<e type="trans" ver="1">Classification</e>
+<cmt></cmt>
+<e type="trans" ver="2">Classification</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Classification</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>日本庭園の様式は、築山泉水庭（池泉庭園）、枯山水庭園、茶庭（露地）の3つに分類される。</j>
+<e type="trans" ver="1">The style of a Japanese garden is classified into three; namely pond garden with small artificial hills (pond fountain garden), garden with dry landscape, and tea garden (garden outside a ceremonial tearoom).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The style of a Japanese garden is classified into three types; a pond garden with small artificial hills (pond fountain garden), a garden with dry landscape, and tea garden (garden outside a ceremonial tearoom).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The style of a Japanese garden is classified into three types; a pond garden with small artificial hills (pond fountain garden), a garden with dry landscape, and tea garden (garden outside a ceremonial tearoom).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="17">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>推古天皇28年（620年）頃、蘇我馬子が飛鳥川畔に作った「島」が日本庭園の最も古い記録で、その流れを受けたと思われる草壁王子の住居「島の宮」は中島、橋、池汀、荒磯を配置した自然風景を描写したものとされる。</j>
+<e type="trans" ver="1">The &quot;Island&quot; built by SOGA no Umako at the riverside of Asuka-gawa River, around AD 628 when Empress Regnant Suiko had ruled 28 years, was the oldest record of the Japanese garden. It seems that the style was followed by Prince Kusakabe&apos;s dwelling &quot; Island Palace&quot;, which enjoys a natural scenery arranged with island in a pond, bridge, a pond beach and a rough shoreline. However, entering the Nara Era, the garden at East Palace of Heijo Imperial Palace enjoys a waterside scenery of seascape, streams, etc. arranged with stones.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The &quot;Island&quot; built by SOGA no Umako at the banks of the Asuka-gawa River, around AD 628 when Empress Regnant Suiko had ruled for 28 years, was the oldest Japanese garden on record. It seems that the style was followed in building Prince Kusakabe&apos;s dwelling &quot; Island Palace,&quot; which enjoys a natural scenery arranged with an island in a pond, bridge, a pond beach and a rough shoreline. However, in the Nara Era, the garden at East Palace of Heijo Imperial Palace has seascape scenery, streams, etc. expressed with stones.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">The &apos;Island&apos; built by SOGA no Umako at the banks of the Asuka-gawa River, around AD 628 when Empress Suiko had ruled for 28 years, was the oldest Japanese garden on record, and it seems that the style was followed in building Prince Kusakabe&apos;s dwelling &apos;Island Palace,&apos; which enjoys a natural scenery arranged with an island in a pond, bridge, a pond beach and a rough shoreline.</e>
+<cmt>一原文一訳文の例外処理原文の「」に合わせ&quot;を&apos;にRegnant 削除一文一訳文にするため訂正しました。</cmt>
+</sen>
+<sen id="19">
+<j>ただし、奈良時代に入り平城宮の東院の庭園は海景、流水など、水辺の景色を石を使って描写したものであった。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, in the Nara period, the garden at East Palace of Heijo Imperial Palace has seascape scenery, streams, etc. expressed with stones.</e>
+<cmt>一原文一訳文の例外処理Nara Era→Nara periodに変更しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="20">
+<j>平安時代、神泉苑や洛外の離宮など池が広大になるが、ここまで水を含む自然の景色を描写する地割りを基本として、日本の庭園の様式は形作られた。</j>
+<e type="trans" ver="1">During Heian Era, Shinsen-en Garden and the imperial villas in Kyoto&apos;s suburbs have wide ponds. However, Japanese gardens started to adopt a style based on a landscape representing a natural scenery including water so far.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the Heian period, the Shinsen-en Garden and the imperial villas in Kyoto&apos;s suburbs have wide ponds. However, Japanese gardens had so far adopted a style based on landscapes representing natural scenery including actual water.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">During the Heian period, the Shinsen-en Garden and the imperial villas in Kyoto&apos;s suburbs have wide ponds, however, Japanese gardens had so far adopted a style based on landscapes representing natural scenery including actual water.</e>
+<cmt>一文一訳文にするため訂正しました。’→&apos;</cmt>
+</sen>
+<sen id="21">
+<j>作庭の技術者は僧で、平安時代末期には「石立僧」と呼ばれた。</j>
+<e type="trans" ver="1">The garden builders were monks, called &quot;stone arrangement monks (ishitate-so) in the late Heian Era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The garden builders were monks, called &quot;stone arranging monks (ishitate-so) in the late Heian period.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">The garden builders were monks, called &apos;stone arranging monks&apos; (ishitate-so) in the late Heian period.</e>
+<cmt>原文の「」に合わせ&apos;を補足</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="22">
+<j>この日本の庭園の伝統の上に禅がその寺院の伽藍のなかに後庭を作庭するとき、禅宗思想、大陸から渡来した思想、芸術、文化を多く取り入れた。</j>
+<e type="trans" ver="1">When the Zen was building these gardens at the backyards inside those big Buddhist temples, the thought of Zen Buddhism, and the thoughts, art, cultures from the Asian Continent, were introduced on top of this tradition of Japanese gardens,</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the Zen monks were building these gardens in the backyards inside large Buddhist temples, the thought of Zen Buddhism, art, and culture from the Asian Continent, were introduced together with the tradition of Japanese gardens.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">When the Zen monks were building these gardens in the backyards inside large Buddhist temples, the thought of Zen Buddhism, art, and culture from the Asian Continent, were introduced together with the tradition of Japanese gardens.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="23">
+<j>また、水利のよくない都市地域に寺院が造成されるとき作庭は集約化されたものとなり、特徴的な様式が発達した。</j>
+<e type="trans" ver="1">Moreover, when a Buddhist temple was made in a city region where the water supply was not good, garden making became consolidated with the characteristic style well developed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, when Buddhist temples were built in a city where the water supply was not adequate, garden making became consolidated with the well developed characteristic dry landscape style.</e>
+<cmt>revised for clairity</cmt>
+<e type="check" ver="1">Moreover, when Buddhist temples were built in a city where the water supply was not adequate, garden making became consolidated with the well developed characteristic dry landscape style.</e>
+<cmt>スペース削除</cmt>
+</sen>
+<sen id="24">
+<j>こうして日本の造園の根本である風景の理想化がもっとも先鋭表現されて生まれたのが、庭園の様式「枯山水」である。</j>
+<e type="trans" ver="1">Thus, this idealization of scenery, which is the basis of landscape gardening of Japan, have given birth to sharp expressions of the garden style of &quot;dry landscape&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thus, this idealization of scenery, the basis of landscape gardening in Japan, gave birth to sharp expressions of &quot;dry landscape.&quot;</e>
+<cmt>wordiness</cmt>
+<e type="check" ver="1">Thus, this idealization of scenery, the basis of landscape gardening in Japan, gave birth to sharp expressions of &apos;dry landscape.&apos;</e>
+<cmt>原文の「」に合わせ&quot;を&apos;に</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="25">
+<j>自然に存在する数多くの山や川、滝などのなかから特徴的な姿の抽象的表現を極限までつきつめると、石1つで山1つあるいは風景全体ひいては全宇宙を表すとされる盆石や水墨画などと同様に抽象美術としてみなされる。</j>
+<e type="trans" ver="1">When you investigate extremely thoroughly the numerous naturally existing abstract representations from the characteristic features such as mountains, rivers, and waterfalls, you may be able to find that one stone represents a mountain, or a scenery as a whole represents the entire universe. Thus, it is an abstract art similar to those such as a miniature landscape on a tray or a watery ink painting.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When thoroughly investigated the abstract representations of natural features such as mountains, rivers, and waterfalls, there may be one stone that represents a mountain, or scenery as a whole that represents the entire universe. This is an abstract art similar to miniature landscapes on a tray, or a watery ink painting.</e>
+<cmt>wordiness reduced</cmt>
+<e type="check" ver="1">When thoroughly investigated the abstract representations of natural features such as mountains, rivers, and waterfalls, there may be one stone that represents a mountain, or scenery as a whole that represents the entire universe, so this is an abstract art similar to miniature landscapes on a tray, or a watery ink painting.</e>
+<cmt>一文一訳文にするため訂正しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="26">
+<j>夢窓疎石の作庭思想に強く影響を受けた足利義政は山水河原者・善阿弥を寵愛した。</j>
+<e type="trans" ver="1">Strongly influenced from Soseki MUSO&apos;s thought of garden design, Yoshimasa ASHIKAGA favored the landscape gardener Zen&apos;ami over others.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Strongly influenced from Soseki MUSO&apos;s concepts of garden design, Yoshimasa ASHIKAGA favored the landscape gardener Zen&apos;ami over others.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">Strongly influenced from Soseki MUSO&apos;s concepts of garden design, Yoshimasa ASHIKAGA favored the landscape gardener Zenami over others.</e>
+<cmt>’→&apos;&apos;削除</cmt>
+</sen>
+<sen id="27">
+<j>善阿弥が造った山水画風の睡蔭軒の小庭は『蔭涼軒日録』にて絶賛されているが、室町時代の作庭技術の発達には山水河原者が多く関与している。</j>
+<e type="trans" ver="1">Suiin-ken House (literally &quot;Shaded eaves for Sleeping&quot;) &apos;s small garden, that Zen&apos;ami made with a landscape painting style, was praised highly in &quot;Inryo-ken House Diary&quot;. However, the technical developments of garden designs during Muromachi Period were much attributed to the landscape gardeners.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Suiin-ken House&apos;s (literally, &quot;Shaded eaves for Sleeping&quot;) small garden, that Zen&apos;ami made with a landscape painting style, was praised highly in the &quot;Inryo-ken House Diary..&quot; However, technical developments of garden designs during the Muromachi Period were greatly attributed to landscape gardeners.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">Suiin-ken House&apos;s (literally, &quot;Shaded eaves for Sleeping&quot;) small garden, that Zenami made with a landscape painting style, was praised highly in the &quot;Inryo-ken House Diary&quot;, however, technical developments of garden designs during the Muromachi period were greatly attributed to landscape gardeners.</e>
+<cmt>”→&quot;’→&apos;スペース削除&apos;削除..削除一文一訳文にするため訂正しました。Period →periodに変更しました。</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="28">
+<j>のちには大名庭園においても一部用いられたが戦前には西洋から導入された抽象美学・芸術が日本の土着の抽象芸術を模索する姿勢をつくりだし、その視点から注目されていった。</j>
+<e type="trans" ver="1">Later, this was used partially in gardens of feudal lords (daimyos). However, the abstraction aesthetics and the art introduced from the West during the prewar days produced a posture in which it gropes for a native abstract art of Japan. From this perspective, attentions were focused.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Later, this was partially used in gardens of feudal lords (daimyos). However, abstraction aesthetics and art introduced from the West during the prewar days produced a posture that gropes for the abstract native art of Japan., and attention was focused from this perspective.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">Later, this was partially used in gardens of feudal lords (daimyos), however, abstraction aesthetics and art introduced from the West during the prewar days produced a posture that gropes for the abstract native art of Japan, and attention was focused from this perspective.</e>
+<cmt>一文一訳文にするため訂正しました。不要なピリオド削除</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="29">
+<j>抽象芸術という観点から日本が世界に誇る庭園様式とみなされて世界に発信されていくが、西洋文化が求めた東洋の神秘的イメージに合致して世界的にも有名になった。</j>
+<e type="trans" ver="1">From the viewpoint of abstract art, Japan can boast to the world its garden design style. However, Japan&apos;s garden design style also contains with a mysterious Orient image that meets what a Western culture pursues, and it becomes famous worldwide. The stoicism that decoration is abolished with unnecessary waste being cut down received the aesthetics of modernism and a modernistic view. It has become a garden style that represents Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From the viewpoint of abstract art, Japan can boast about its garden design style to the world. Japan&apos;s garden design style also contains a mysterious Oriental image that meets the expectations of what Western culture pursues, and it has become famous worldwide. The stoicism that decoration is abolished with unnecessary waste being cut out, is an idea that is in tune with the aesthetics of a modernistic view. It has become a garden style that represents Japan.</e>
+<cmt>revised for clarity and wordiness</cmt>
+<e type="check" ver="1">From the viewpoint of abstract art, Japan can boast about its garden design style to the world, that also contains a mysterious Oriental image that meets the expectations of what Western culture pursues, and it has become famous worldwide.</e>
+<cmt>一原文一訳文の例外処理一文一訳文にするため訂正しました。’→&apos;</cmt>
+</sen>
+<sen id="30">
+<j>装飾を廃して無駄をそぎ落としたストイシズムがモダニズムの美学、近代主義的なまなざしを受けて、日本を代表する庭園様式となる。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The stoicism that decoration is abolished with unnecessary waste being cut out, is an idea that is in tune with the aesthetics of a modernistic view, that has become a garden style that represents Japan.</e>
+<cmt>一原文一訳文の例外処理一文一訳文にするため訂正しました。</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="31">
+<j>昭和初期おいて近代主義モダニズムに通じるその美学が注目されるに至り、重森三玲によって自身が作庭する庭園に用いて、昭和14年には京都東福寺方丈庭園にその端緒を採り入れる。</j>
+<e type="trans" ver="1">During early Showa Period, it became that the aesthetics with modernism was receiving attention, and was used for the garden designs by Mirei SHIGEMORI. In 1939, this was first used in the Hojo Garden (literally &quot;Head monk&apos;s Garden&quot;) of Tofuku-ji Temple in Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the early Showa Period, aesthetics together with modernism were used for the garden designs by Mirei SHIGEMORI. In 1939, this was first used in the Hojo Garden (literally &quot;Head monk&apos;s Garden&quot;) of Tofuku-ji Temple in Kyoto.</e>
+<cmt>revised wordiness for clarity</cmt>
+<e type="check" ver="1">During the early Showa Period, aesthetics together with modernism were used for the garden designs by Mirei SHIGEMORI, in 1939, this was first used in the Hojo Garden (literally &quot;Head monk&apos;s Garden&quot;) of Tofuku-ji Temple in Kyoto.</e>
+<cmt>一文一訳文にするため訂正しました。”→&quot;’→&apos;</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="32">
+<j>以降は、戦前期に戸野琢磨は専門雑誌に2度に渡って特集を組んで紹介に努め、戦後は例えば丹下健三が1959年に香川県庁舎の石庭を生み出し、彫刻家イサム・ノグチも1956年から1959年にかけて作庭したパリ・ユネスコ会館の庭園や1961年から1964年にかけて作庭したチェイスマンハッタン銀行中庭、カルフォルニア・シナリオなど、枯山水形式を採り入れた庭を生み出している。</j>
+<e type="trans" ver="1">Afterwards, during the prewar days, Takuma TONO tried to introduce twice successively as special issues in a journal of landscape gardening. After the war, for instance in 1959, Kenzo TANGE created a rock garden in the Kagawa Prefecture Public Office Building. The sculptor Isamu NOGUCHI also created a garden inside the Paris UNESCO Hall from 1956 to 1959, a courtyard inside the Chase Manhattan Bank from 1961 to 1964, California Scenario and others using the dry landscape style.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the prewar days, Takuma TONO twice tried to introduce special issues in a journal of landscape gardening. After the war, for instance in 1959, Kenzo TANGE created a rock garden in the Kagawa Prefecture Public Office Building. The sculptor Isamu NOGUCHI also created a garden inside the Paris UNESCO Hall from 1956 to 1959, a courtyard inside the Chase Manhattan Bank from 1961 to 1964, California Scenario and others using the dry landscape style.</e>
+<cmt>revised wordiness for clarity</cmt>
+<e type="check" ver="1">During the prewar days, Takuma TONO twice tried to introduce special issues in a journal of landscape gardening, after the war, for instance in 1959, Kenzo TANGE created a rock garden in the Kagawa Prefecture Public Office Building, and the sculptor Isamu NOGUCHI also created a garden inside the Paris UNESCO Hall from 1956 to 1959, a courtyard inside the Chase Manhattan Bank from 1961 to 1964, California Scenario and others using the dry landscape style.</e>
+<cmt>一文一訳文にするため訂正しました。</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="33">
+<j>同じく彫刻家の流政之の手でニューヨーク・ブルックリン植物園に龍安寺のレプリカ庭園がつくられ、また岡本太郎も著書『日本の伝統』（1956年、光文社）で龍安寺、銀閣の沙羅紋、洪隠山を取り上げている。</j>
+<e type="trans" ver="1">Similarly, from the hands of sculptor Masayuki NAGARE, the replica garden in Ryoan-ji Temple was made to resemble New York&apos;s Brooklyn Botanic Garden. Moreover, Taro OKAMOTO also mentioned Ryoan-ji Temple, Saramon (Sand Ripples) of Ginkaku-ji Temple and Koin-zan Mountain of Saihou-ji Temple in his book &apos; Nihon-no-Dento (Tradition of Japan)&apos; (1956, Kobunsha Publishing).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Similarly, from the hands of sculptor Masayuki NAGARE, the replica garden in Ryoan-ji Temple was made to resemble New York&apos;s Brooklyn Botanic Garden. Moreover, Taro OKAMOTO also mentioned Ryoan-ji Temple, Saramon (Sand Ripples) of Ginkaku-ji Temple and Koin-zan Mountain of Saihou-ji Temple in his book &apos; Nihon-no-Dento (Tradition of Japan)&apos; (1956, Kobunsha Publishing).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Similarly, from the hands of sculptor Masayuki NAGARE, the replica garden in Ryoan-ji Temple was made to resemble New York&apos;s Brooklyn Botanic Garden, moreover, Taro OKAMOTO also mentioned Ryoan-ji Temple, Saramon (Sand Ripples) of Ginkaku-ji Temple and Koin-zan Mountain of Saihou-ji Temple in his book &quot;Nihon-no-Dento&quot; (Tradition of Japan, 1956, Kobunsha Publishing).</e>
+<cmt>一文一訳文にするため訂正しました。’→&apos;原文の『』に合わせ&apos;を&quot;に</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="34">
+<j>近年では播磨科学公園都市・先端科学技術センターにおけるピーター・ウォーカーらの砂紋を配した庭空間デザイニングにその影響を読み取ることが出来る。</j>
+<e type="trans" ver="1">It can be inferred that, in recent years, the gardens with space of sand ripples designed by Peter Walker inside Harima Science Garden City and Center for Advanced Science and Technology were inspired by such influence.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It can be inferred that, in recent years, gardens with sand ripples designed by Peter Walker inside Harima Science Garden City and Center for Advanced Science and Technology were inspired by such influence.</e>
+<cmt>revised for wordiness</cmt>
+<e type="check" ver="1">It can be inferred that, in recent years, gardens with sand ripples designed by Peter Walker inside Harima Science Garden City and Center for Advanced Science and Technology were inspired by such influence.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="35">
+<j>字義</j>
+<e type="trans" ver="1">Meaning of words</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meaning of words</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Meaning of words</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>枯山水</j>
+<e type="trans" ver="1">Dry landscape</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dry landscape</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karesansui (dry landscape)</e>
+<cmt>読みを補足、訳を括弧に入れました。</cmt>
+</sen>
+<sen id="37">
+<j>「枯山水」という字が作庭の用語として最初に現れる文献は『作庭記』（『前栽秘抄』）で、藤原頼通の子・橘俊綱の編集とされる（『群書類従』の奥書によれば九条良経（京極良経）である）。</j>
+<e type="trans" ver="1">The term &quot;dry landscape (kosansui)&quot; first appears as a term in garden design in the literature &quot;Garden Design Recording (Sakuteiki)&quot; (also called &quot;The Secret Excerpt of Gardening (Senzaihisho)&quot;). However, according to the afterword of Gunshoruiju edited by FUJIWARA-no-Yorimichi and TACHIBANA-no-Toshitsuna, the term appeared first in the literature &quot;Yoshitsune KUJO&quot; (also called &quot;Yoshitsune GOKYOUGOKU&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The term &quot;dry landscape (kosansui)&quot; first appeared as a term in garden design in &quot;Garden Design Recording (Sakuteiki)&quot; (also called &quot;The Secret Excerpt of Gardening (Senzaihisho)&quot;). However, according to the afterword of Gunshoruiju edited by FUJIWARA-no-Yorimichi and TACHIBANA-no-Toshitsuna, the term first appeared in &quot;Yoshitsune KUJO&quot; (also called &quot;Yoshitsune GOKYOUGOKU&quot;).</e>
+<cmt>revised wordiness</cmt>
+<e type="check" ver="1">The term &apos;karesansui (dry landscape)&apos; first appeared as a term in garden design in &quot;Sakuteiki&quot; (Garden Design Recording) (also called &quot;Senzaihisho&quot; (The Secret Excerpt of Gardening)), however, according to the afterword of &quot;Gunshoruiju&quot; edited by FUJIWARA no Yorimichi and TACHIBANA no Toshitsuna, the term first appeared in Yoshitsune KUJO (also called Yoshitsune KYOGOKU).</e>
+<cmt>読みを括弧の外へ、訳を括弧に入れました。”→&quot;原文の「」に合わせ&quot;を&apos;に一文一訳文にするため訂正しました。名前の-削除原文の『』に合わせ&apos;を&quot;に”削除GO、U削除</cmt>
+</sen>
+<sen id="38">
+<j>これには読み仮名が振っていなく、堀口捨己は「カレセンズイ」と読むと意見している。</j>
+<e type="trans" ver="1">The pronunciation of the Kanji characters was not attached. In Sutemi HORIGUCHI&apos;s opinion, it should be read as &quot;karesenzui&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The pronunciation of the Kanji characters were not attached. In Sutemi HORIGUCHI&apos;s opinion, it should be read as &quot;karesenzui&quot;.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The pronunciation of the Kanji characters were not attached, therefore in Sutemi HORIGUCHI&apos;s opinion, it should be read as &apos;karesenzui.&apos;</e>
+<cmt>原文の「」に合わせ&quot;を&apos;に一文一訳文にするため訂正しました。’→&apos;</cmt>
+</sen>
+<sen id="39">
+<j>またここで記されている「枯山水」は庭園のなかの1区画に置く石、景石の置き方の様式を指していると考えられ、これを「平安時代式枯山水」「前期式枯山水」と呼び後世の「平庭枯山水」と別のものと把握しようとする意見と、同じ流れであり分ける必要はないとする意見がある。</j>
+<e type="trans" ver="1">Moreover, it is thought that &quot;Dry landscape&quot; written here refers to the style of how to put the stones or ornamental garden rocks in a corner of a garden. This is called &quot;the Heian Era style of dry landscape&quot; or &quot;the early part style of dry landscape &quot; as to distinguish from the &quot;Hiraniwa Kosansui (a style of dry landscape in a flat Japanese garden without hills)&quot;. At the same time, there are opinions that there is no need to distinguish because they are of the same style.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is thought that &quot;Dry landscape&quot; written here refers to the style of how to put the stones or ornamental garden rocks in the corner of a garden. This is called &quot;the Heian Era style of dry landscape&quot; or &quot;the early style of dry landscape &quot; as to distinguish it from the &quot;Hiraniwa Kosansui (a style of dry landscape in a flat Japanese garden without hills).&quot; At the same time, there is the opinion that there is no need to distinguish them because they are all the same style.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is thought that &apos;karesansui&apos; written here refers to the style of how to put the stones or ornamental garden rocks in the corner of a garden, which is called &apos;the Heian period style of dry landscape&apos; or &apos;the early style of dry landscape&apos; as to distinguish it from the &apos;Hiraniwa karesansui&apos; (a style of dry landscape in a flat Japanese garden without hills), at the same time, there is the opinion that there is no need to distinguish them because they are all the same style.</e>
+<cmt>最初のDry landscapeはkresansuiとしました。一文一訳文にするため訂正しました。原文の「」に合わせ&quot;を&apos;にHeian Era→Heian periodに変更しました。</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="40">
+<j>『栄花物語』巻12の玉村菊の長和5年（1026年）の項に書かれている三条院の庭を現在でいう「枯山水」であるとする見方がある。</j>
+<e type="trans" ver="1">There is a viewpoint that the garden in Sanjo-no-in (the Sanjo Imperial House) as written in the paragraph of year 1026 of Eiga-monogatari (The Tale of Eiga) volume 12 is a present &quot;dry landscape garden&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a viewpoint that the garden in Sanjo-no-in (the Sanjo Imperial House) as written in the paragraph of year 1026 of Eiga-monogatari (The Tale of Eiga) volume 12 is a present day &quot;dry landscape garden.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There is a viewpoint that the garden in Sanjo-in (the Sanjo Imperial House) as written in the paragraph of year 1026 of &quot;Eiga monogatari&quot; (The Tale of Eiga) volume 12 is a present day &apos;dry landscape garden.&apos;</e>
+<cmt>原文の『』に合わせ&quot;を補足-no削除原文の「」に合わせ&quot;を&apos;に</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="41">
+<j>乾山水</j>
+<e type="trans" ver="1">Dry landscape (kansansui)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dry landscape (kansansui)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kansansui (dry landscape)</e>
+<cmt>読みを括弧のそとへ、訳を括弧に入れました。</cmt>
+</sen>
+<sen id="42">
+<j>『源平盛衰記』巻25に「乾山水」「乾泉水」の記述がある。</j>
+<e type="trans" ver="1">In &apos;Genpeiseisui-ki (the rise and fall record of Genji clan and Heike clan&apos; volume 25, the terms &quot;Kawasansui (dry landscape)&quot; and &quot;Kawasensui (dry landscape)&quot; were written there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In &apos;Genpeiseisui-ki (the rise and fall record of the Genji and Heike clans&apos; volume 25, the terms &quot;Kawasansui (dry landscape)&quot; and &quot;Kawasensui (dry landscape)&quot; were written there.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In &quot;Genpeiseisui-ki&quot; (the rise and fall record of the Genji and Heike clans&apos; volume 25), the terms &apos;Kansansui (dry landscape)&apos; and &apos;Kansensui (dry landscape)&apos; were written there.</e>
+<cmt>原文の『』に合わせ&apos;を&quot;に)補足</cmt>
+</sen>
+<sen id="43">
+<j>これは盆栽のようなものを指す言葉と考えられ現在の「枯山水」が指すものとは別のものを指す言葉と考えられるが、これがたとえば龍安寺の石庭など盆石風庭園の流れの元になっているのかもしれず、繋がりはわかっていない。</j>
+<e type="trans" ver="1">This was a word thought to refer to something like bonsai (dwarfed tree in a pot), different from what &quot;dry landscape&quot; refers nowadays. For example, it may have become the origin of the garden style of miniature landscape on a tray such as the rock garden of Ryoan-ji Temple. However, the connection is not understood.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was a word thought to refer to something like bonsai (dwarfed tree in a pot), different from what &quot;dry landscape&quot; refers to nowadays. For example, it may have become the origin of the garden style of miniature landscapes on a tray like the rock garden of Ryoan-ji Temple. However, the connection is not understood.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This was a word thought to refer to something like bonsai (dwarfed tree in a pot), different from what &apos;karesansui&apos; refers to nowadays; for example, it may have become the origin of the garden style of miniature landscapes on a tray like the rock garden of Ryoan-ji Temple, however, the connection is not understood.</e>
+<cmt>一文一訳文にするため訂正しました。原文の「」に合わせ&quot;を&apos;にdry landscapeはkaresansuiとしました。</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="44">
+<j>唐山水</j>
+<e type="trans" ver="1">Chinese style of landscape (karasansui)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chinese style of landscaping (karasansui)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Karasansui (Chinese style of landscaping)</e>
+<cmt>読みを括弧のそとへ、訳を括弧に入れました。</cmt>
+</sen>
+<sen id="45">
+<j>唐（胡）から渡来したものだから「唐山水」と呼ぶべきだとして呼ばれる字と推測されている。</j>
+<e type="trans" ver="1">Because it was introduced from China in the Tang Dynasty, it should be called, &quot;Tang Dynasty landscape&quot; and the kanji characters were inferred.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because it was introduced from China during the Tang Dynasty, it should be called, &quot;Tang Dynasty landscape&quot; and the kanji characters were inferred.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because it was introduced from China during the Tang Dynasty, it should be called, &apos;Karasansui (Tang Dynasty landscape)&apos; and the kanji characters were inferred.</e>
+<cmt>原文の「」に合わせ&quot;を&apos;にKarasansui補足、訳を（）に入れました。</cmt>
+</sen>
+<sen id="46">
+<j>中国の庭園様式を取り入れたので、そういわれるとされている。</j>
+<e type="trans" ver="1">Since the garden style of China was taken, it was named as such.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the garden style of China was adopted, it was named as such.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Since the garden style of China was adopted, it was named as such.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="47">
+<j>しかし、確定した字義の源泉はわかっていない。</j>
+<e type="trans" ver="1">However, the origin of the determined kanji characters is not understood.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the origin of the determined kanji characters is not understood.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, the origin of the determined kanji characters is not understood.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>『臥雲日件録』の文安3年10月12日 (旧暦)（1446年10月31日）の項に中国の夷人が食す水を入れない餅菓子を唐山水と呼ぶ記述があるが、それとの関係もよくわかっていない。</j>
+<e type="trans" ver="1">In the chapter October 31, 1446 of &apos;Gaun nikken-roku (the Diary of Zuikei SHUHO of Shokoku-ji Temple, the Gaun Mountain person)&apos;, it was written that the rice-cake sweets without putting water which are eaten by the Chinese barbarian are called &quot;Tang&apos;s hill and water&quot;. However, the relation to &quot;dry landscape&quot; is not well understood.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the chapter October 31, 1446 of &apos;Gaun nikken-roku (the Diary of Zuikei SHUHO of Shokoku-ji Temple, the Gaun Mountain person),&apos; it was written that rice-cake sweets without water added, eaten by the Chinese barbarians are called &quot;Tang&apos;s hill and water&quot;. However, the relationship to &quot;dry landscape&quot; is not well understood.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">In the chapter November 9, 1446 of &quot;Gaun nikken-roku&quot; (the Diary of Zuikei SHUHO of Shokoku-ji Temple, the Gaun Mountain person), it was written that rice-cake sweets without water added, eaten by the Chinese barbarians are called Tang&apos;s hill and water, however, the relationship to &apos;karasansui&apos; is not well understood.</e>
+<cmt>一文一訳文にするため訂正しました。原文の『』に合わせ&apos;を&quot;に”削除’→&apos;dry landscapeはkarasansuiとしました。October 31 -&gt; November 9 に変更しました。</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="49">
+<j>枯山水（フルセンスイ）</j>
+<e type="trans" ver="1">Dry landscape (furusensui)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dry landscape (furusensui)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Furusensui (dry landscape)</e>
+<cmt>読みを括弧のそとへ、訳を括弧に入れました。</cmt>
+</sen>
+<sen id="50">
+<j>『往来物』に、枯山水に「フルセンスイ」と振り仮名を振ってある記述がある。</j>
+<e type="trans" ver="1">In oraimono (primary textbooks in the style of corresponding letters), there was a description of &quot;dry landscape&quot; with furigana (attached Japanese syllabary) of &quot;furusensui&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In oraimono (primary textbooks in the style of corresponding letters), there was a description of &quot;dry landscape&quot; with furigana (attached Japanese syllabary) of &quot;furusensui&quot;.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In &quot;oraimono&quot; (primary textbooks in the style of corresponding letters), there was a description of &apos;karesansui (dry landscape)&apos; with furigana (attached Japanese syllabary) of &apos;furusensui.&apos;</e>
+<cmt>原文の『』に合わせ&quot;を補足原文の「」に合わせ&quot;を&apos;にdry landscapeはkarasansuiを補足しました。</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="51">
+<j>枯水形（カレミズガタ）</j>
+<e type="trans" ver="1">Waterless shape (karemizugata)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Waterless shape (karemizugata)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karemizugata (waterless shape)</e>
+<cmt>読みを括弧のそとへ、訳を括弧に入れました。</cmt>
+</sen>
+<sen id="52">
+<j>享保28年（1735年）の『築山庭造伝』の元になったといわれる『築山山水伝』に「枯水形」の記述がある。</j>
+<e type="trans" ver="1">In 1743 (or 1735) &apos;s &quot;Chikuyama-teizo-den (Records on artificial hill gardening)&quot; (which is said to be the origin of &quot;Chikuyama-sansui-den (Records on artificial hill and water)&quot;), there was a description of &quot;Waterless shape (karemizugata)&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1743 (or 1735) &quot;Chikuyama-teizo-den (Records on artificial hill gardening)&quot; (which is said to be the origin of &quot;Chikuyama-sansui-den -Records on artificial hill and water&quot;), there was a description of &quot;Waterless shape (karemizugata)&quot;.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">In 1743 (or 1735) &quot;Chikuyama-teizo-den&quot; (Records on artificial hill gardening), which is said to be the origin of &quot;Chikuyama-sansui-den&quot; (Records on artificial hill and water), there was a description of &apos;karemizugata (waterless shape).&apos;</e>
+<cmt>”→&quot;読みを括弧のそとへ、訳を括弧に入れました。原文の「」に合わせ&quot;を&apos;に</cmt>
+</sen>
+<sen id="53">
+<j>これは、現在でいう枯山水が指すものと同じものを指す言葉であると考えられる。</j>
+<e type="trans" ver="1">It is thought to be the same meaning as what we called &quot;dry landscape&quot; nowadays.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is thought to be mean what we called &quot;dry landscape&quot; nowadays.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">It is thought to be mean what we called karesansui nowadays.</e>
+<cmt>dry landscapeはkaresansuiを補足しました。”削除</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="54">
+<j>から泉水</j>
+<e type="trans" ver="1">Dry landscape (karasenzui)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dry landscape (karasenzui)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karasenzui (dry landscape)</e>
+<cmt>読みを括弧のそとへ、訳を括弧に入れました。</cmt>
+</sen>
+<sen id="55">
+<j>石垣島に伝わる寛政12年（1800年）頃に書かれた『庭作不審書』に、「から泉水」（カラセンズイ）の記述がある。</j>
+<e type="trans" ver="1">In the &apos; Niwatsukuri-fushin-sho (question book of garden design)&apos; (which was handed down in the Island of Ishigaki and written in around 1800), &quot;Dry landscape (karasenzui)&quot; was written.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the &apos; Niwatsukuri-fushin-sho (question book of garden design)&apos; (which was handed down on the Island of Ishigaki, written around 1800), &quot;Dry landscape (karasenzui)&quot; was written.</e>
+<cmt>grammar, wordiness</cmt>
+<e type="check" ver="1">In &quot;Niwatsukuri-fushin-sho&quot; (question book of garden design), which was handed down on the Island of Ishigaki, written around 1800, &apos;karasenzui&apos; was written.</e>
+<cmt>スペース削除the削除原文の『』に合わせ&apos;を&quot;に()削除dry landscape削除</cmt>
+</sen>
+<sen id="56">
+<j>水を用いない築山山水、海乃景を指して使っており、現在でいう枯山水が指すものと同じものであると考えられる。</j>
+<e type="trans" ver="1">This word refers to artificial hill landscape or seascape which does not use water. Thus, it is thought to refer to the same thing that we call &quot;dry landscape&quot; nowadays.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This word refers to artificial hill landscape or seascape where water is not used. Thus, it is thought to refer to the same thing that we call &quot;dry landscape&quot; nowadays.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This word refers to artificial hill landscape or seascape where water is not used, thus it is thought to refer to the same thing that we call karesansui (dry landscape) nowadays.</e>
+<cmt>一文一訳文にするため訂正しました。dry landscapeはkaresansuiを補足しました。”削除</cmt>
+</sen>
+<sen id="57">
+<j>沖縄の自然環境とは無関係に書かれた本で、吉川はこの用語がこの時代に沖縄まで伝わったことを示すものと示唆している。</j>
+<e type="trans" ver="1">It is a book written without any relation to the natural environment of Okinawa. Yoshikawa suggests that this term was spread to Okinawa at that time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is a book written without any relationship to the natural environment of Okinawa. Yoshikawa suggests that this term was spread to Okinawa at that time.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This is a book written without any relationship to the natural environment of Okinawa, and Yoshikawa suggests that this term was spread to Okinawa at that time.</e>
+<cmt>一文一訳文にするため訂正しました。</cmt>
+</sen>
+<sen id="58">
+<j>また「空」でも「唐」でもなく「から」と記述してあることに、吉川は関心を示している。</j>
+<e type="trans" ver="1">In addition, Yoshikawa shows interest in why it was not called &quot;Sora (Empty)&quot; or &quot;Kara (Tang)&quot; but &quot;Kara&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, Yoshikawa shows interest as to why it was not called &quot;Sora (Empty)&quot; or &quot;Kara (Tang)&quot; but &quot;Kara&quot;.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In addition, Yoshikawa shows interest as to why it was not called &apos;Sora (Empty)&apos; or &apos;Kara (Tang)&apos; but &apos;Kara.&apos;</e>
+<cmt>原文の「」に合わせ&quot;を&apos;に</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="59">
+<j>枯山水（コセンスイ）</j>
+<e type="trans" ver="1">Dry landscape (kosensui)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dry landscape (kosensui)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kosensui (dry landscape)</e>
+<cmt>読みを括弧のそとへ、訳を括弧に入れました。</cmt>
+</sen>
+<sen id="60">
+<j>天保元年（1830年）の『嬉遊天覧』に、「枯山水」は「フルセンスイ」とも「カラセンスイ」とも読むのではなく「コセンスイ」と読むべきだという記述がある。</j>
+<e type="trans" ver="1">In 1830&apos;s &quot;Kiyu-tenran (a joyful Imperial inspection), it was written that &quot;Dry landscape&quot; is not pronounced as &quot;furusensui&quot; or &quot;karasensui&quot; but should be pronounced as &quot;kosensui&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the 1830&apos;s &quot;Kiyu-tenran (a joyful Imperial inspection), it was written that &quot;Dry landscape&quot; is not pronounced as &quot;furusensui&quot; or &quot;karasensui&quot; but should be pronounced as &quot;kosensui&quot;.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the 1830&apos;s &quot;Kiyu-tenran&quot; (a joyful Imperial inspection), it was written that dry landscape is not pronounced as &apos;furusensui&apos; or &apos;karasensui&apos; but should be pronounced as &apos;kosensui.&apos;</e>
+<cmt>”→&quot;’→&apos;”削除原文の「」に合わせ&quot;を&apos;に</cmt>
+</sen>
+</par>
+<par id="27">
+<sen id="61">
+<j>明治・大正期の『園林叢書』『明治庭園記』には枯山水の読み仮名は「カラセンスヰ」と振ってあり、「カレサンスイ」という読み方は比較的新しいと吉川は考察している。</j>
+<e type="trans" ver="1">In &apos;Enrinsosho (library of garden forestry)&apos; and &apos;Meiji teien-ki (record of gardens of the Meiji Period)&apos; of the Meiji Period and the Taisho Period, the Japanese syllabary of &quot;dry landscape garden&quot; was written as &quot;Karasensuki&quot;. Yoshikawa considers this pronunciation is comparatively new.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In &apos;Enrinsosho (library of garden forestry)&apos; and &apos;Meiji teien-ki (record of gardens of the Meiji Period)&apos; of the Meiji and the Taisho Periods, the Japanese syllabary of &quot;dry landscape garden&quot; was written as &quot;Karasensuki&quot;. Yoshikawa considers this pronunciation is comparatively new.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">In &quot;Enrinsosho&quot; (library of garden forestry) and &quot;Meiji teien-ki&quot; (record of gardens of the Meiji Period) of the Meiji Period and the Taisho Period, the Japanese syllabary of dry landscape garden was written as &apos;karasensui&apos;; Yoshikawa considers &apos;karesansui&apos; this pronunciation is comparatively new.</e>
+<cmt>一文一訳文にするため訂正しました。原文の『』に合わせ&apos;を&quot;に原文の「」に合わせ&quot;を&apos;にカラセンスヰ→karasensui&apos;karesansui&apos;補足</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Ugur Basak Bot(id:46087), Mnd(id:15140), Izayohi(id:13095), Hokuhoku(id:144300), Polyester(id:9559), Kstigarbha(id:13376), Himazin(id:22034), Curry(id:71375), 三森安奈(id:164086), BOT-Superzerocool(id:65015), 矢刺幹人(id:10639), Toto-tarou(id:16648), 嫦娥(id:81469), SuisuiBot(id:10165), A-Taul(id:41790), Ribbon(id:172), Rei-bot(id:94097), 山川(id:94170), 663highland(id:18755), 竹麦魚(id:11012), Alexbot(id:157199), Corwin(id:973), Uryah(id:17871), サイユ(id:25887), Chuta(id:10457), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

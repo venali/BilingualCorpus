@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>烏丸駅</j>
+<e type="trans" ver="1">Karasuma Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Karasuma Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karasuma Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>烏丸駅（からすまえき）は、京都市下京区四条通烏丸東入ル長刀鉾町17にある、阪急電鉄阪急京都本線の鉄道駅。</j>
+<e type="trans" ver="1">Located in 17, Naginataboko-cho, Shijo-dori Karasuma Higashi-iru, Shimogyo Ward, Kyoto City, Karasuma Station is a stop on the Hankyu Kyoto Line, which is operated by the Hankyu Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Karasuma Station, located at 17, Naginataboko-cho, Shijo-dori Karasuma Higashi-iru, Shimogyo Ward, Kyoto City, is a stop on the Hankyu Kyoto Line, which is operated by the Hankyu Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Karasuma Station, located at 17, Naginataboko-cho, Shijo-dori Karasuma Higashi-iru, Shimogyo Ward, Kyoto City, is a stop on the Hankyu Kyoto Line, which is operated by the Hankyu Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>四条烏丸交差点の地下に位置し、東西方向に走る阪急京都本線は南北の通り名をとって「烏丸駅」とし、南北方向に走る京都市営地下鉄烏丸線は「四条駅 (京都市営地下鉄)」としている。</j>
+<e type="trans" ver="1">The station is located underground below the intersection of Shijo Karasuma; the station on the Hankyu Kyoto Line, which runs in the east-west direction, was named &apos;Karasuma Station&apos; after the name of the street that runs in the south-north direction, whereas the station on the Karasuma Line, operated by the Kyoto City Subway that runs in the south-north direction, was named &apos;Shijo Station (Kyoto City Subway)&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station is located underground, below the intersection of Shijo Karasuma; the station on the Hankyu Kyoto Line, which runs in the east-west direction, was named &apos;Karasuma Station&apos; after the street that runs in the south-north direction, whereas the station on the Karasuma Line (operated by the Kyoto City Subway) that runs in the south-north direction was named &apos;Shijo Station (Kyoto City Subway).&apos;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The station is located underground, below the intersection of Shijo Karasuma; the station on the Hankyu Kyoto Line, which runs in the east-west direction, was named &apos;Karasuma Station&apos; after the street that runs in the south-north direction, whereas the station on the Karasuma Line (operated by the Kyoto Municipal Subway) that runs in the south-north direction was named &apos;Shijo Station (Kyoto Municipal Subway).&apos;</e>
+<cmt>city →municipal としました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>当駅から接続する鉄道路線</j>
+<e type="trans" ver="1">Railway lines connecting from Karasuma Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Railway lines connecting from Karasuma Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Lines connecting from Karasuma Station</e>
+<cmt>Lines としました。</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto City Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>city →municipal としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>烏丸線 - 四条駅</j>
+<e type="trans" ver="1">Karasuma Station - Shijo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Karasuma Station - Shijo Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karasuma Station - Shijo Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>プラットホーム形状と配置1面2線を有する地下駅で、四条烏丸交差点の地下にあたる。</j>
+<e type="trans" ver="1">Karasuma Station is an underground station with one platform serving two tracks (the form of platform and its arrangement); the station is underground below the intersection of Shijo Karasuma.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Karasuma Station is an underground station with one platform serving two tracks; the station is underground, below the intersection of Shijo Karasuma.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Karasuma Station is an underground station with one platform serving two tracks; the station is underground, below the intersection of Shijo Karasuma.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>改札口は東西2ヶ所設けられており、地下鉄四条駅へは西改札の方が近い。</j>
+<e type="trans" ver="1">Ticket gates are installed on both east and west of the station; the west ticket gate is closer to Shijo Station of the Kyoto City Subway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ticket gates are installed on both east and west of the station; the west ticket gate is closer to Shijo Station of the Kyoto City Subway.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ticket gates are installed on both east and west of the station; the west ticket gate is closer to Shijo Station of the Kyoto Municipal Subway.</e>
+<cmt>city →municipal としました。</cmt>
+</sen>
+<sen id="7">
+<j>便所はホーム内の西寄り、エレベーターも西寄りにある。</j>
+<e type="trans" ver="1">The toilet is located to the west of the platform, and the elevator is also located to the west of the platform.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The toilet is located to the west of the platform, as is the elevator.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The toilet is located to the west of the platform, as is the elevator.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>隣の河原町駅 (京都府)へは改札外の四条通直下・線路直上の地下道で繋がっている（その間に店舗などはほとんど無い）。</j>
+<e type="trans" ver="1">The station is connected to the next Kawaramachi Station (Kyoto Prefecture) through the underground passage outside the ticket gate, which is just below Shijo-dori Street and just above the railway (there are few shops on the passage).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station is connected to the next station, Kawaramachi (Kyoto Prefecture), through an underground passage outside the ticket gate, which is just below Shijo-dori Street and just above the railway (there are few shops along the passage).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station is connected to the next station, Kawaramachi (Kyoto Prefecture), through an underground passage outside the ticket gate, which is just below Shijo-dori Street and just above the railway (there are few shops along the passage).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="9">
+<j>また、阪急の駅の中では数少ない構内速度制限の無い駅でもあり、ダイヤに余裕がなければ河原町行きの電車は時速60kmで進入する事もあるので注意が必要。</j>
+<e type="trans" ver="1">The speed limit within the station is not designated for Karasuma Station, which is not common among the stations of the Hankyu Railway; this means that passengers have to be cautious about incoming trains because trains bound for Kawaramachi Station may enter the station at 60 km/h when the schedule is tight.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The speed limit within the station is not designated for Karasuma Station, but this isn&apos;t common among the stations of the Hankyu Railway; consequently, passengers have to be cautious about incoming trains because the ones bound for Kawaramachi Station can enter the station at 60 km/h when the schedule is tight.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The speed limit within the station is not designated for Karasuma Station, but this isn&apos;t common among the stations of the Hankyu Railway; consequently, passengers have to be cautious about incoming trains because the ones bound for Kawaramachi Station can enter the station at 60 km/h when the schedule is tight.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>利用状況</j>
+<e type="trans" ver="1">Use of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Conditions of usage</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="10">
+<j>地下鉄経由で西日本旅客鉄道および近畿日本鉄道の京都駅へ向かう乗客が多い。</j>
+<e type="trans" ver="1">Karasuma Station is generally used by passengers bound for Kyoto Station of the West Japan Railway Company (JR West) or the Kintetsu Railways, via the Kyoto City Subway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Karasuma Station is generally used by passengers bound for Kyoto Station of the West Japan Railway Company (JR West) or Kintetsu Railways, via the Kyoto City Subway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Karasuma Station is generally used by passengers bound for Kyoto Station of the West Japan Railway Company (JR West) or Kintetsu Railways, via the Kyoto Municipal Subway.</e>
+<cmt>city →municipal としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="11">
+<j>平成15年度の1日あたりの乗車人員は約39,567人（京都府統計書より）。</j>
+<e type="trans" ver="1">The number of passengers per day in 2003 was about 39,567 (adapted from Kyoto Prefecture Statistical Book).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of passengers per day in 2003 was about 39,567 (according to the Kyoto Prefecture Statistical Book).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The number of passengers per day in fiscal year 2003 was about 39,567 (according to the Kyoto Prefecture Statistics Report).</e>
+<cmt>統一しました。fiscal → fiscal yearに変更しました。</cmt>
+</sen>
+<sen id="12">
+<j>京都本線内では最も多い。</j>
+<e type="trans" ver="1">This is the largest among the stations on the Hankyu Kyoto Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is the largest station on the Hankyu Kyoto Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This is the largest number among the stations on the Hankyu Kyoto Line.</e>
+<cmt>number を追加しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>駅周辺やバス乗り場については四条烏丸の項を参照。</j>
+<e type="trans" ver="1">Refer to the section of Shijo Karasuma with respect to the station surroundings and the bus stop.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Refer to the section of Shijo Karasuma for information on the station&apos;s surroundings and the bus stop.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Refer to the section of Shijo Karasuma for information on the station&apos;s surroundings and the bus stop.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="14">
+<j>1963年（昭和38年）6月17日 - 京都本線大宮駅 (京都府)～河原町駅 (京都府)間延伸により開業。</j>
+<e type="trans" ver="1">On June 17, 1963 the station was opened when the section between Omiya Station (Kyoto Prefecture) and Kawaramachi Station (Kyoto Prefecture) on the Kyoto Line was extended.</e>
+<cmt></cmt>
+<e type="trans" ver="2">June 17, 1963: The station was opened when the section between Omiya Station (Kyoto Prefecture) and Kawaramachi Station (Kyoto Prefecture) on the Kyoto Line was extended.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">June 17, 1963: The station was opened when the section between Omiya Station (Kyoto Prefecture) and Kawaramachi Station (Kyoto Prefecture) on the Kyoto Line was extended.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="15">
+<j>阪急電鉄</j>
+<e type="trans" ver="1">Hankyu Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hankyu Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="16">
+<j>■京都本線</j>
+<e type="trans" ver="1">■Kyoto Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Kyoto Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Kyoto Main Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="17">
+<j>■特急</j>
+<e type="trans" ver="1">■Limited Express</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Limited express</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Limited Express</e>
+<cmt>統一しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="18">
+<j>桂駅 - 烏丸駅 - 河原町駅 (京都府)</j>
+<e type="trans" ver="1">Katsura Station - Karasuma Station - Kawaramachi Station (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katsura Station - Karasuma Station - Kawaramachi Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Katsura Station - Karasuma Station - Kawaramachi Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="19">
+<j>■通勤特急・■快速急行・■準急・■普通</j>
+<e type="trans" ver="1">■(Commuter) Limited Express ■Rapid Express ■Semi Express ■Local train</e>
+<cmt></cmt>
+<e type="trans" ver="2">■(Commuter) limited express ■Rapid express ■Semi-express ■Local train</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Commuter Limited Express/Rapid Express/Semi Express/Local</e>
+<cmt>統一しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="20">
+<j>大宮駅 (京都府) - 烏丸駅 - 河原町駅</j>
+<e type="trans" ver="1">Omiya Station (Kyoto Prefecture) - Karasuma Station - Kawaramachi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Omiya Station (Kyoto Prefecture) - Karasuma Station - Kawaramachi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Omiya Station (Kyoto Prefecture) - Karasuma Station - Kawaramachi Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Gargoyle(id:49233), Hideyuki(id:9577), Bakkai(id:7233), 城山(id:104901), V-TWIN POWER(id:49244), Etopirica(id:32491), 燕飛(id:27660), Hirofumitouhei(id:104137), 春野秋葉(id:36725), Sat.K(id:3751), Wikipedianet(id:9608), 千代石健一(id:26251), Ikaxer(id:61759), Fanvio(id:116155), Shinkansen(id:13703), Rusk(id:9895), 準急三条(id:25072), Matsukaze(id:51778), Kouchiumi(id:19253), 鍛高譚(id:154933), Kone(id:377), Hirotaro(id:1437), 扇風機のせんちゃん(id:161810), Takatetu(id:3231), Learnpoint(id:186718), 捕澤(id:23785), Yachimon(id:38925), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

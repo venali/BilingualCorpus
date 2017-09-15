@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>権現造</j>
+<e type="trans" ver="1">Gongen-zukuri style (a term concerning architecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Gongen-zukuri Architectural Style</e>
+<cmt>Made more natural.</cmt>
+<e type="check" ver="1">Gongen-zukuri style (a term concerning architecture)</e>
+<cmt>元に戻しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>権現造（ごんげんづくり）は、日本の神社建築様式の1つである。</j>
+<e type="trans" ver="1">The Gongen-zukuri style is a style of shrine buildings in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The gongen-zukuri style is a style of shrine buildings in Japan.</e>
+<cmt>Capital unnecessary.</cmt>
+<e type="check" ver="1">The gongen-zukuri style is a style of shrine buildings in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>石の間造（いしのまづくり）とも呼ばれる。</j>
+<e type="trans" ver="1">It is also called ishinoma-zukuri style &quot;literally, stone-room style.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also called ishinoma-zukuri style &quot;literally, stone-room style.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also called ishinoma-zukuri style &quot;literally, stone-room style.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>本殿と拝殿の2棟を一体化し、間に「石の間（いしのま）」と呼ばれる一段低い建物を設けているのが特徴。</j>
+<e type="trans" ver="1">Two buildings of a ｈonden (a main hall) and a haiden (a hall of worship) are integrated, and its feature is that a low building called &quot;ishinoma&quot; is provided between the two buildings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One characteristic of this style is that the honden (main hall) and haiden (hall of worship), usually two separate buildings, are integrated, and connected by a low building called &quot;ishinoma&quot;.</e>
+<cmt>Rewritten.</cmt>
+<e type="check" ver="1">One characteristic of this style is that the honden (main hall) and haiden (hall of worship), usually two separate buildings, are integrated, and connected by a low building called &quot;ishinoma.&quot;</e>
+<cmt>カンマの位置修正。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>権現造の発祥は大津市坂本の日吉東照宮（1634年建立の社殿）とされる。</j>
+<e type="trans" ver="1">It is said that the gongen-zukuri style started with the shrine building of Hiyoshi Tosho-gu Shrine (built in 1634) in Sakamoto, Otsu City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that the gongen-zukuri style started with Hiyoshi Tosho-gu Shrine (built in 1634) in Sakamoto, Otsu City.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">It is said that the gongen-zukuri style started with Hiyoshi Tosho-gu Shrine (built in 1634) in Sakamoto, Otsu City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>その起源は仏寺の開山堂（相の間で祠堂と礼堂を結ぶ）が起源とされる。</j>
+<e type="trans" ver="1">It is said that this style originated in Kaizan-do Hall (connecting the Shi-do hall (a hall dedicated to the souls of ancestors), a Buddhist temple, and the Rai-do hall (a worship hall) using Ainoma (a connection room).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It is said that this style originated in Kaizan-do Hall, where the Shi-do hall (a hall dedicated to the souls of ancestors), a Buddhist temple, is connected to the Rai-do hall (a worship hall) with the Ainoma (connection room).</e>
+<cmt>Changed for clarity, grammar, punctuation.</cmt>
+<e type="check" ver="1">It is said that this style originated in Kaizan-do Hall adopted in Buddist temples, where the Shi-do hall (a hall dedicated to the souls of ancestors), is connected to the Rai-do hall (a worship hall) with the Ainoma (connection room).</e>
+<cmt>語の配置を変えました。</cmt>
+</sen>
+<sen id="6">
+<j>しかしながら、その基は八幡造と言われている。</j>
+<e type="trans" ver="1">However, it is said that the hall is based on the hachiman-zukuri style.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, it is also said that the hall is based on the hachiman-zukuri style.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">However, it is also said that the hall is based on the hachiman-zukuri style.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>構造</j>
+<e type="trans" ver="1">Structure</e>
+<cmt></cmt>
+<e type="trans" ver="2">Structure</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Structure</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="7">
+<j>入母屋造・平入の3棟を、入母屋造・妻入の縦の棟で串刺し状に一体化している。</j>
+<e type="trans" ver="1">Three buildings each with the irimoya style (a half-hipped roof) and hirairi (the style of the building which has the entrance on its long side) are consolidated by a building that is provided with the irimoya style and tsuma iri (the style of the building which has the entrance on its short side) and is placed perpendicularly to the three buildings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Three buildings each in the irimoya style (with a half-hipped roof) and which are hirairi (a style of building which has the entrance on its long side) are joined by a building in the irimoya style and which is tsumairi (a style of building which has the entrance on its short side) and is placed perpendicular to the three buildings.</e>
+<cmt>Grammar, word choice. I&apos;m not sure what the phrase &quot;half-hipped roof means&quot;; could another expression be used?</cmt>
+<e type="check" ver="1">Three buildings each in the irimoya style (with a half-hipped roof) and which are hirairi (a style of building which has the entrance on its long side) are joined by a building in the irimoya style and which is tsumairi (a style of building which has the entrance on its short side) and is placed perpendicular to the three buildings.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>屋根の棟数が多いことから「八棟造（やつむねづくり）」とも言われる。</j>
+<e type="trans" ver="1">Because a large number of ridges is used in this style, it is also called &quot;yatsumune-zukuri style&quot; (literally, eight-ridge style).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Because a large number of ridges is used in this style, it is also called &quot;yatsumune-zukuri style&quot; (literally, eight-ridge style).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Because a large number of ridges is used in this style, it is also called &quot;yatsumune-zukuri style&quot; (literally, eight-ridge style).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>しかし、実態は7棟である。</j>
+<e type="trans" ver="1">However, actually it is provided with seven ridges.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, in actual fact it only has seven ridges.</e>
+<cmt>Word choice.</cmt>
+<e type="check" ver="1">However, in actual fact it only has seven ridges.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="10">
+<j>八幡造は前殿・後殿全てが本殿である。</j>
+<e type="trans" ver="1">In the hachiman-zukuri style, both of the front hall and back hall are the main halls.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In the hachiman-zukuri style, both the front hall and back hall are the main halls.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">In the hachiman-zukuri style, both the front hall and back hall are the main halls.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>これに対し、権現造では後方1棟のみが本殿で、拝殿・石の間・本殿の複合社殿といえる。</j>
+<e type="trans" ver="1">On the other hand, in the gongen-zukuri style, only the backside building is the main hall, and it can be said that a haiden, ishinoma and honden constitute a composite shrine building.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">On the other hand, in the gongen-zukuri style, only the rear building is the main hall, and it can be said that the haiden, ishinoma and honden constitute a form of composite shrine building.</e>
+<cmt>Word choice, grammar, changed for clarity.</cmt>
+<e type="check" ver="1">On the other hand, in the gongen-zukuri style, only the rear building is the main hall, and it can be said that the haiden, ishinoma and honden constitute a form of composite shrine building.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>屋根</j>
+<e type="trans" ver="1">The roofs</e>
+<cmt></cmt>
+<e type="trans" ver="2">The roofs</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The roofs</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="12">
+<j>萱葺に限らず瓦葺など幅広い。</j>
+<e type="trans" ver="1">Many materials, including not only thatch but tiles, are used for making the roofs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many materials are used for making the roofs, including not only thatch but tiles and other materials.</e>
+<cmt>Grammar, order changed.</cmt>
+<e type="check" ver="1">Many materials are used for making the roofs, including not only thatch but tiles and other materials.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="13">
+<j>正面の破風は、千鳥破風・軒唐破風である。</j>
+<e type="trans" ver="1">The hafu (bargeboard) in the front side is chidori hafu and/or noki kara hafu (both are hafu with a kind of decoration).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The hafu (bargeboard) on the front side is either a chidori hafu or a noki kara hafu (both are hafu with a kind of decoration).</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">The hafu (bargeboard) on the front side is either a chidori hafu or a noki kara hafu (both are hafu with a kind of decoration).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="14">
+<j>柱</j>
+<e type="trans" ver="1">The pillars</e>
+<cmt></cmt>
+<e type="trans" ver="2">The pillars</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The pillars</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="15">
+<j>左右対称で、左右方向には偶数本の柱が配される。</j>
+<e type="trans" ver="1">The gongen-zukuri style building is symmetric horizontally, with an even number of pillars provided on either side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gongen-zukuri style buildings are horizontally symmetrical, with an even number of pillars on either side.</e>
+<cmt>Changed for clarity, grammar.</cmt>
+<e type="check" ver="1">Gongen-zukuri style buildings are horizontally symmetrical, with an even number of pillars on either side.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="16">
+<j>拝殿が最も幅が広く、石の間と本堂はどちらかが広い。</j>
+<e type="trans" ver="1">The width of the haiden is the longest, and between the ishinoma and the honden, either of them is wider.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The haiden is the widest of the three, and the ishinoma and the honden are of different widths.</e>
+<cmt>Changed for clarity, grammar.</cmt>
+<e type="check" ver="1">The haiden is the widest of the three, and the ishinoma and the honden are of different widths.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="17">
+<j>北野天満宮：拝殿13間、石の間7間、本堂5間</j>
+<e type="trans" ver="1">Kitano Tenman-gu Shrine: 23.4 meters wide for the haiden, 12.6 meters wide for the ishinoma and 9 meters wide for the honden</e>
+<cmt></cmt>
+<e type="trans" ver="2">At Kitano Tenman-gu Shrine the haiden is 23.4 meters wide, the ishinoma 12.6 meters wide and the honden 9 meters wide.</e>
+<cmt>Grammar, punctuation.</cmt>
+<e type="check" ver="1">At Kitano Tenman-gu Shrine the haiden is 23.4 meters wide, the ishinoma 12.6 meters wide and the honden 9 meters wide.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>日光東照宮：拝殿9間、石の間3間、本堂5間</j>
+<e type="trans" ver="1">Nikko Tosho-gu Shrine: 16.2 meters wide for the haiden, 5.4 meters wide for the ishinoma and 9 meters wide for the honden</e>
+<cmt></cmt>
+<e type="trans" ver="2">At Nikko Tosho-gu Shrine the haiden is 16.2 meters wide, the ishinoma 5.4 meters wide and the honden 9 meters wide.</e>
+<cmt>Grammar, punctuation.</cmt>
+<e type="check" ver="1">At Nikko Tosho-gu Shrine the haiden is 16.2 meters wide, the ishinoma 5.4 meters wide and the honden 9 meters wide.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>尚、北野天満宮の本殿は左側に脇殿が設置されているため、左右対称となっていない。</j>
+<e type="trans" ver="1">The honden of Kitano Tenman-gu Shrine is not symmetric horizontally, because it is provided with a wakiden (a hall standing nearby the main hall) on its right.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The honden of Kitano Tenman-gu Shrine is not symmetrical horizontally, because it has a wakiden (hall standing nearby the main hall) to its right.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">The honden of Kitano Tenman-gu Shrine is not symmetrical horizontally, because it has a wakiden (hall standing nearby the main hall) to its left.</e>
+<cmt>right→ left</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="20">
+<j>床</j>
+<e type="trans" ver="1">The floors</e>
+<cmt></cmt>
+<e type="trans" ver="2">The floors</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The floors</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="21">
+<j>北野天満宮のように古式では石の間は石敷であるが、板敷が多い。</j>
+<e type="trans" ver="1">The floor of the ishinoma was made of stones in ancient styles, as in Tenman-gu Shrine, but is mostly made of boards.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The floor of the ishinoma was laid with stones in buildings of ancient styles, as in Tenman-gu Shrine, but are otherwise mostly made of boards.</e>
+<cmt>Grammar, changed for clarity.</cmt>
+<e type="check" ver="1">The floor of the ishinoma was laid with stones in buildings of ancient styles, as in KitanoTenman-gu Shrine, but are otherwise mostly made of boards.</e>
+<cmt>Kitanoを追加。</cmt>
+</sen>
+<sen id="22">
+<j>日光東照宮は畳敷である。</j>
+<e type="trans" ver="1">In Nikko Tosho-gu Shrine, the floor of the ishinoma is made of tatami mats.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Nikko Tosho-gu Shrine, the floor of the ishinoma is made of tatami mats.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In Nikko Tosho-gu Shrine, the floor of the ishinoma is made of tatami mats.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="23">
+<j>権現造の代表例</j>
+<e type="trans" ver="1">Typical gongen-zukuri style shrines</e>
+<cmt></cmt>
+<e type="trans" ver="2">Typical gongen-zukuri style shrines</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Typical gongen-zukuri style shrines</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="24">
+<j>日光東照宮</j>
+<e type="trans" ver="1">Nikko Tosho-gu Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nikko Tosho-gu Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nikko Tosho-gu Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>日御碕神社</j>
+<e type="trans" ver="1">Hinomisaki-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hinomisaki-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hinomisaki-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>北野天満宮</j>
+<e type="trans" ver="1">Kitano Tenman-gu Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitano Tenman-gu Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitano Tenman-gu Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>大崎八神社</j>
+<e type="trans" ver="1">Osaki Hachi-jinja Shrine</e>
+<cmt>大崎八神社：　”大崎八幡神社”のことかもしれない、という気がしましたが、原文どおりに訳してあります。</cmt>
+<e type="trans" ver="2">Osaki Hachi-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Osaki Hachi-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 663highland(id:18755), Korokoro(id:42329), Hiroyuki0904(id:142660), Nnh(id:474), 寒漁夫(id:99134), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>堺町通</j>
+<e type="trans" ver="1">Sakaimachi-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sakaimachi-dori Street</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Sakaimachi-dori Street</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>堺町通（さかいまちどおり）は京都市内の南北の通りの一つ。</j>
+<e type="trans" ver="1">The Sakaimachi-dori Street is a north-south running street of Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Sakaimachi-dori Street is a street running north-south through Kyoto City.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">The Sakaimachi-dori Street is a street running north-south through Kyoto City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>北は丸太町通から南は五条通まで。</j>
+<e type="trans" ver="1">It extends from the Marutamachi-dori Street to the Gojo-dori Street.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It extends from Marutamachi-dori Street to Gojo-dori Street.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">It extends from Marutamachi-dori Street to Gojo-dori Street.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>途中仏光寺通と高辻通の間で分断されている。</j>
+<e type="trans" ver="1">It is divided between the Bukkoji-dori Street and the Takatsuji-dori.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is divided between Bukkoji-dori Street and Takatsuji-dori.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">It is divided between Bukkoji-dori Street and Takatsuji-dori.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>平安京には存在せず、豊臣秀吉による天正の地割で新設された通りである。</j>
+<e type="trans" ver="1">It did not exist in Heiankyo and was built by Hideyoshi TOYOTOMI according to his Tensho zoning.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It did not exist in Heiankyo and was built by Hideyoshi TOYOTOMI according to his Tensho zoning policy.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">It did not exist in Heiankyo and was built by Hideyoshi TOYOTOMI according to his Tensho zoning policy.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>通り名の由来は、戦国時代_(日本)に京都の町が衰退していたころには、このあたりが京の街と田畑との境界であったこととされる。</j>
+<e type="trans" ver="1">During the period of civil war (Japan) when Kyoto was in its twilight, the street is said to have provided a boundary defining downtown and farms, which became the origin of the name of the street.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the period of civil war (Japan) when Kyoto was in its twilight, the street is said to have provided a boundary which defined downtown and farms, and became the origin for the name of the street.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">During the Sengoku period (period of Warring States, Jaoan) when Kyoto was in its twilight, the street is said to have provided a boundary which defined downtown and farms, and became the origin for the name of the street.</e>
+<cmt>「戦国時代_(日本)」を統一リストの表記に修正</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="6">
+<j>通りの北端に京都御苑の堺町御門がある。</j>
+<e type="trans" ver="1">Sakaimachigomon of the Kyoto Imperial Palace is located at the northern end of the street.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sakaimachigomon of the Kyoto Imperial Palace is located at the northern end of the street.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sakaimachigomon of the Kyoto Imperial Palace is located at the northern end of the street.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>江戸時代には通り沿いに多くの材木商があり、今も「杉屋町」・「丸木材木町」などの町名が残っている。</j>
+<e type="trans" ver="1">The town names of &quot;Sugiyacho&quot; and &quot;Marukizaimokucho&quot; remain because many lumber dealers were located along this street during the Edo era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The town names of &quot;Sugiyacho&quot; and &quot;Marukizaimokucho&quot; remain because many lumber dealers were located along this street during the Edo era.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The town names of &apos;Sugiyacho&apos; and &apos;Marukizaimokucho&apos; remain because many lumber dealers were located along this street during the Edo period.</e>
+<cmt>シングルクォーテーションに変更、Edo periodに修正</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>主な沿道の施設</j>
+<e type="trans" ver="1">Main Facilities along the Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Main Facilities along the Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Main Facilities along the Street</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>京都御苑堺町御門　丸太町</j>
+<e type="trans" ver="1">Sakaimachigomon of the Kyoto Imperial Palace, Marutamachi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sakaimachigomon of the Kyoto Imperial Palace, Marutamachi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sakaimachigomon gate of the Kyoto Imperial Palace, Marutamachi</e>
+<cmt>Sakaimachigomon gateとしました。</cmt>
+</sen>
+<sen id="9">
+<j>錦市場</j>
+<e type="trans" ver="1">Nishiki Market</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishiki Market</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nishiki Market</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>イノダコーヒ本店</j>
+<e type="trans" ver="1">Inoda Coffee</e>
+<cmt></cmt>
+<e type="trans" ver="2">Inoda Coffee</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Inoda Coffee main shop</e>
+<cmt>「本店」を訳出</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Opponent(id:720), Miyuki h(id:84952), Matsukaze(id:51778), Okapia2(id:98589), Ktr(id:30468), Nevylax(id:38464), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

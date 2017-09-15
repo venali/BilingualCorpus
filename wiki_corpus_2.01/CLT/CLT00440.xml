@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>手裏剣</j>
+<e type="trans" ver="1">Shuriken (small throwing blade)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shuriken (Small Throwing Blade)</e>
+<cmt>Punctuation.</cmt>
+<e type="check" ver="1">Shuriken (Small Throwing Blade)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>手裏剣（しゅりけん）は、敵の戦闘力を減退させるため相手に打つ、小形の刀剣・針様などの形状をもつ武器である。</j>
+<e type="trans" ver="1">&quot;Shuriken&quot; is a small weapon shaped like a sword or needle, thrown at the opponent to diminish the fighting power of the enemy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A &quot;shuriken&quot; is a small weapon shaped like a sword or needle, thrown at an opponent to diminish the fighting power of an enemy.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">A shuriken is a small weapon shaped like a sword or needle, thrown at an opponent to diminish the fighting power of an enemy.</e>
+<cmt>&quot;削除</cmt>
+</sen>
+<sen id="2">
+<j>忍者が使用する武器として広く知られる。</j>
+<e type="trans" ver="1">Widely known as a weapon used by ninja (professional spy in feudal Japan highly trained in stealth and secrecy).</e>
+<cmt></cmt>
+<e type="trans" ver="2">They are widely known as a weapon used by ninja (professional spies in feudal Japan highly trained in stealth and secrecy).</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">They are widely known as a weapon used by ninja (professional spies in feudal Japan highly trained in stealth and secrecy).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>投剣、手離剣、削闘剣、流星、花ち弁ともいわれる。</j>
+<e type="trans" ver="1">Also known as token (throwing sword), shuriken (手離剣, throwing blades), small throwing blade, shooting star, small throwing blade.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They are also known as token (throwing swords), shuriken (手離剣, or throwing blades), small throwing blades, shooting stars, and small throwing blades.</e>
+<cmt>Grammar. It would be better to include the Japanese name for the last three too, as without that two have the same translation of &quot;small throwing blades&quot;.</cmt>
+<e type="check" ver="1">They are also known as token (throwing swords), shuriken (手離剣, or throwing blades), small throwing blades, shooting stars, and small throwing blades.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>また、上記を参考にした折り紙の折り方でもある。</j>
+<e type="trans" ver="1">It is also a method of origami (paper folding) for the above.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also a method of origami (paper folding) for these weapons.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">It is also a method of origami (paper folding) for these weapons.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>敵に武器を投げつけて、傷つけたり、自分の危難を逃れようとする技法は古くからあったが、その際に使う武器は飛礫（つぶて）や短刀、打根、打矢、針などだった。</j>
+<e type="trans" ver="1">There were techniques since long ago to escape danger or hurt the enemy by throwing weapons at them, but the weapons used were tsubute (throwing stones), short swords, uchine (throwing arrow), uchiya (throwing arrow), needles, etc.</e>
+<cmt>原文には (印地) とありますが、リンク先の単語のようです。ウェブで確認すると用語が「飛礫」となっており、本来はこちらの用語を使用していると思われますので、こちらを訳出しました。</cmt>
+<e type="trans" ver="2">There had long been methods of escaping danger or hurting an enemy by throwing weapons at them, but the weapons used were tsubute (throwing stones), short swords, uchine (throwing arrows), uchiya (throwing arrows), and needles among other weapons.</e>
+<cmt>Changed for clarity, grammar.</cmt>
+<e type="check" ver="1">There had long been methods of escaping danger or hurting an enemy by throwing weapons at them, but the weapons used were tsubute (throwing stones), short swords, uchine (throwing arrows), uchiya (throwing arrows), and needles among other weapons.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>使い捨ての武器としては短刀や打根はやや高価で連続使用に難があり、打矢は携帯するにはかさばり、針は安価だが威力に乏しい。</j>
+<e type="trans" ver="1">Short swords and uchine were somewhat costly and unsuitable for continued use, uchiya was too bulky to bring along, needles were inexpensive but lacked force.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Short swords and uchine were somewhat costly and unsuitable for repeated use, uchiya were too bulky to bring along, and needles were inexpensive but lacked force.</e>
+<cmt>Grammar, word choice.</cmt>
+<e type="check" ver="1">Short swords and uchine were somewhat costly and unsuitable for repeated use, uchiya were too bulky to bring along, and needles were inexpensive but lacked force.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>そういった欠点のない投げ捨て専用の手頃な武器としての手裏剣が、現代に連なる形態で登場したのは室町時代末期である。</j>
+<e type="trans" ver="1">It was in the late Muromachi period that shuriken appeared in the form known today as an affordable weapon specifically for throwing, free of these disadvantages.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was in the late Muromachi Period that shuriken appeared in the form known today as an affordable weapon specifically for throwing, free of these disadvantages.</e>
+<cmt>Punctuation.</cmt>
+<e type="check" ver="1">It was in the late Muromachi period that shuriken appeared in the form known today as an affordable weapon specifically for throwing, free of these disadvantages.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="8">
+<j>また、形状だけではなく、手裏剣という語自体の登場もこの時代とされる。</j>
+<e type="trans" ver="1">It is believed that not only the shape, but the word shuriken also was born during this period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is believed that not only the shape, but also the word shuriken became established during this period.</e>
+<cmt>Grammar, word choice.</cmt>
+<e type="check" ver="1">It is believed that not only the shape, but also the word shuriken became established during this period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="9">
+<j>裏の字にはウラとウチの両方の意味合いがあり、手裏剣の裏とは「オモテ／ウラ」のウラではなく、内裏の語に見られるような「ソト／ウチ」のウチと解するべきである。</j>
+<e type="trans" ver="1">The character 裏 means both &apos;back&apos; and &apos;inside,&apos; and the 裏 in shuriken (手裏剣) does not mean back as in &apos;front/back,&apos; but inside as in &apos;outside/inside&apos; seen in the word uchiura (内裏).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The character 裏 means both &apos;back&apos; and &apos;inside,&apos; but the 裏 in shuriken (手裏剣) does not mean back as in &apos;front/back,&apos; but inside as in &apos;outside/inside&apos; seen in the word uchiura (内裏).</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">The character 裏 means both &apos;back&apos; and &apos;inside,&apos; but the 裏 in shuriken (手裏剣) does not mean back as in &apos;front/back,&apos; but inside as in &apos;outside/inside&apos; seen in the word uchiura (内裏).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>手の内に隠されたその剣は、手を離れて敵を伐つ剣、との意味から、時には手離剣とも表記された。</j>
+<e type="trans" ver="1">It was sometime written 手離剣, since the sword hidden in one&apos;s hand separates from the hand and hits the enemy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was sometime written as 手離剣, since the sword hidden in one&apos;s hand is released from the hand and hits the enemy.</e>
+<cmt>Grammar, word choice.</cmt>
+<e type="check" ver="1">It was sometime written as 手離剣, since the sword hidden in one&apos;s hand is released from the hand and hits the enemy.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="11">
+<j>手裏剣の術は、時には武芸十八般に含まれることもあるが、剣術などと異なり、毒を使った暗殺に使えるため、あまり表立って行う武芸としての隆盛を見たものではなかった。</j>
+<e type="trans" ver="1">The technique of shuriken is sometimes included in the Bugei Juhappan (18 skills of martial arts), but unlike swordplay, it could be used for assassination using poison, and did not prosper much as a military art performed openly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The technique of using shuriken is sometimes included in the Bugei Juhappan (18 skills of martial arts), but unlike swordplay, it could be used for assassination using poison, and thus did not prosper much as a military art performed openly.</e>
+<cmt>Grammar. The Bugei Juhappan would benefit an explanation of the meaning in English.</cmt>
+<e type="check" ver="1">The technique of using shuriken is sometimes included in the Bugei Juhappan (18 skills of martial arts), but unlike swordplay, it could be used for assassination using poison, and thus did not prosper much as a military art performed openly.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>手近な投擲物で代用できるその技術は、現代においても護身の目的で使用し得るものである。</j>
+<e type="trans" ver="1">Since it is a technique which can be substituted by some object at hand for toteki (throwing), it can be used today for self-defense.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since it is a technique where an object at hand can be substituted for toteki (throwing), it can be used today for self-defense.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Since it is a technique where an object at hand can be substituted for toteki (throwing), it can be used today for self-defense.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>ただし、自分で用意していた殺傷用武器の護身使用は「正当防衛」にはならない可能性が高く、またこれを用いて暴漢等を殺害した場合「未必の故意による殺人罪」もしくは「傷害致死罪」の適用となる可能性がある。</j>
+<e type="trans" ver="1">However, it is likely that the use of lethal weapons prepared by oneself for self-defense may not be considered &apos;self-defense,&apos; and if one kills a thug using this, &apos;homicide by willful negligence&apos; or &apos;manslaughter&apos; may be applied.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, it is likely that the use of such lethal weapons prepared for self-defense may not be considered &apos;self-defense,&apos; and if one kills a criminal using this, you may prosecuted for &apos;homicide by willful negligence&apos; or &apos;manslaughter&apos;.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">However, it is likely that the use of such lethal weapons prepared for self-defense may not be considered &apos;self-defense,&apos; and if one kills a criminal using this, you may prosecuted for &apos;homicide by willful negligence&apos; or &apos;manslaughter.&apos;</e>
+<cmt>ピリオド位置移動</cmt>
+</sen>
+<sen id="14">
+<j>また、手裏剣は所持しているだけで銃刀法もしくは軽犯罪法に抵触する可能性がある。</j>
+<e type="trans" ver="1">In addition, possession of shuriken alone may run afoul of the Sword and Firearms Control Law or the Minor Offense Act.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, the possession of shuriken alone may be in breach of the Sword and Firearms Control Law or the Minor Offense Act.</e>
+<cmt>Word choice.</cmt>
+<e type="check" ver="1">In addition, the possession of shuriken alone may be in breach of the Sword and Firearms Control Law or the Minor Offense Act.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="15">
+<j>なお日本刀のうち、打刀や脇差の刀装具として鞘に格納される小柄（こづか）や笄（こうがい）を、緊急時に手裏剣として用いる武器のように時代劇の描写で誤解されている。</j>
+<e type="trans" ver="1">Through depiction in period dramas, it is misunderstood that among Japanese swords, kozuka (hilt of a small sword or the small sword itself) and kogai (a spatula attached to a small sword), which were stored in the scabbard as accouterment of uchigatana and short swords, were weapons used as shuriken in emergencies.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Through their depiction in period dramas, it is often misunderstood that among Japanese swords, kozuka (the hilt of a small sword or the small sword itself) and kogai (a spatula attached to a small sword), which were stored in the scabbard as an accouterment of uchigatana and short swords, were weapons used as shuriken in emergencies.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Through their depiction in period dramas, it is often misunderstood that among Japanese swords, kozuka (the hilt of a small sword or the small sword itself) and kogai (a spatula attached to a small sword), which were stored in the scabbard as an accouterment of uchigatana and short swords, were weapons used as shuriken in emergencies.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>しかし、小柄は日用の刃物として用いる片刃のナイフ、笄は髪などを整えるヘラであり、手裏剣のように重心調整がなされていないため打剣するのは極めて難しく強度にも問題がある。</j>
+<e type="trans" ver="1">However, kozuka is a single-edged knife for daily use, and kogai is a spatula for fixing hair, etc., and it is extremely difficult to throw them like shuriken since the center of gravity is not adjusted and its strength is not adequate.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, a kozuka is a single-edged knife for daily use, and a kogai is a spatula for fixing hair, and it is extremely difficult to throw them as a shuriken since the center of gravity is unadjusted and its strength is inadequate.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">However, a kozuka is a single-edged knife for daily use, and a kogai is a spatula for fixing hair, and it is extremely difficult to throw them as a shuriken since the center of gravity is unadjusted and its strength is inadequate.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>実は長刀の方を投げたとも言われている。</j>
+<e type="trans" ver="1">Some say long swords were the ones actually thrown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some say it was actually long swords that were thrown.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Some say it was actually long swords that were thrown.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>形状</j>
+<e type="trans" ver="1">Shape</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shape</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shape</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="18">
+<j>手裏剣には大きく分けて車剣（くるまけん）と棒手裏剣の2種類がある。</j>
+<e type="trans" ver="1">Shuriken can be divided broadly into two types, kurumaken (wheel shuriken) and bo shuriken (stick shuriken).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shuriken can be divided broadly into two types, kurumaken (wheel shuriken) and bo shuriken (stick shuriken).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shuriken can be divided broadly into two types, kurumaken (wheel shuriken) and bo shuriken (stick shuriken).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>車剣は十字形や卍形などの鉄板に刃をつけたもの、棒手裏剣は鉄でできた小棒の片方または両方をとがらせたものである。</j>
+<e type="trans" ver="1">Kurumaken is edges placed on cross-shaped or fylfot-shaped iron plate, and bo shuriken is small stick made of iron with one or two ends sharpened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kurumaken have blades placed on a cross-shaped or fylfot-shaped iron plate, and bo shuriken are small sticks made of iron with one or two ends sharpened.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Kurumaken have blades placed on a cross-shaped or fylfot-shaped iron plate, and bo shuriken are small sticks made of iron with one or two ends sharpened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="20">
+<j>車剣は投擲時の回転により飛行が安定するため、比較的短期の修練によって命中精度が向上するといわれる。</j>
+<e type="trans" ver="1">Kurumaken stabilizes while spinning in the air during toteki, so the accuracy of hitting the target improves with relatively short period of training.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kurumaken stabilize while spinning in the air during toteki, so the accuracy of hitting the target can improve after a relatively short period of training.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Kurumaken stabilize while spinning in the air during toteki, so the accuracy of hitting the target can improve after a relatively short period of training.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>その一方回転音があって相手に勘付かれやすい、携行に不便、などの欠点がある。</j>
+<e type="trans" ver="1">On the other hand, its disadvantage is that the sound while spinning makes it easier to be noticed by the target, it is inconvenient to carry along, etc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the other hand, a disadvantage is that the sound they generate when spinning makes it easier to be noticed by the target, and that it is inconvenient to carry along.</e>
+<cmt>Made less colloquial.</cmt>
+<e type="check" ver="1">On the other hand, a disadvantage is that the sound they generate when spinning makes it easier to be noticed by the target, and that it is inconvenient to carry along.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>また、対象に深く突き刺さるわけではないため殺傷力が不十分なこともあり、刃に毒物を塗布することでその欠点を補完することがある。</j>
+<e type="trans" ver="1">Additionally, since it does not pierce deep into the target, it is not effective enough in killing and wounding, and sometimes such weakness is offset by applying poison on the blade.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, since it does not pierce deep into the target, it is not effective enough in killing or wounding an enemy, but sometimes such weakness is offset by applying poison to the blade.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Additionally, since it does not pierce deep into the target, it is not effective enough in killing or wounding an enemy, but sometimes such weakness is offset by applying poison to the blade.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>この用途の場合、刃に銅合金を用いることもある。</j>
+<e type="trans" ver="1">For this use, copper alloy may be used on the blade.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Copper alloy may be used on the blade for this purpose.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">Copper alloy may be used on the blade for this purpose.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>放射状に突出した剣の数により四方剣（十字剣）、六方剣、八方剣、十方剣などがある。</j>
+<e type="trans" ver="1">Depending on the number of swords pointing radially, there are sealed cross blade, roppoken (six-blade shuriken), happoken (eight-blade shuriken), ten-blade shuriken, etc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the number of blades pointing radially, they are called sealed cross blades, roppoken (six-blade shuriken), happoken (eight-blade shuriken), and ten-blade shuriken among other types.</e>
+<cmt>Word choice, grammar.</cmt>
+<e type="check" ver="1">According to the number of blades pointing radially, they are called sealed cross blades, roppoken (six-blade shuriken), happoken (eight-blade shuriken), and ten-blade shuriken among other types.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="25">
+<j>一般に、またメディアにおいて、「手裏剣」と言うと車剣のイメージが強いが、これはその形状が想像力を強く喚起するためと言えよう。</j>
+<e type="trans" ver="1">In general, or in the media, &apos;shuriken&apos; is often suggestive of kurumaken, but this is probably because the shape strongly stirs up imagination.</e>
+<cmt>原文には「メディア (媒体)」とありますが、リンク先の単語のようです。ウェブで確認すると用語が「メディア」となっており、本来はこちらの用語を使用していると思われますので、こちらを訳出しました。</cmt>
+<e type="trans" ver="2">In society in general, and in the media, the word &apos;shuriken&apos; often paints an image of kurumaken, but this is probably because the shape resonates in the popular imagination.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">In society in general, and in the media, the word &apos;shuriken&apos; often paints an image of kurumaken, but this is probably because the shape resonates in the popular imagination.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>また、折り紙における手裏剣もこの形状である。</j>
+<e type="trans" ver="1">The shuriken in origami also has this shape.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The shuriken in origami also has this kurumaken shape.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">The shuriken in origami also has this kurumaken shape.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="27">
+<j>棒手裏剣は単純な形状の武器ではあるが、流派によって長さや重心などに様々なバリエーションがある。</j>
+<e type="trans" ver="1">Bo shuriken is a simple-shaped weapon, but the length, center of gravity, etc. vary by school.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The bo shuriken is a simply-shaped weapon, but the length, and center of gravity among other factors vary according to the school.</e>
+<cmt>Grammar, changed for clarity.</cmt>
+<e type="check" ver="1">The bo shuriken is a simply-shaped weapon, but the length, and center of gravity among other factors vary according to the school.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>携行、殺傷力、投擲音のなさなど車剣の欠点を克服しているが、より高度な投擲技術が必要である。</j>
+<e type="trans" ver="1">It overcomes the weaknesses of kurumaken such as portability, power to kill and wound, sound when throwing, but requires a more advanced toteki skill.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It overcomes the weaknesses of kurumaken such as regarding portability, the power to kill and wound, and the sound when thrown, but requires a more advanced toteki skill.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">It overcomes the weaknesses of kurumaken such as regarding portability, the power to kill and wound, and the sound when thrown, but requires a more advanced toteki skill.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>携行を容易にするため、両端を刃とする2本の棒手裏剣を中央でハサミのように留め、携行時は閉じて棒状、使用時は開いて十字にする、という形式も見られる。</j>
+<e type="trans" ver="1">In order to make it easy to carry along, there are ones with two bo shuriken with blades on both sides, secured in the middle like scissors, to close like a stick when carrying, and open into a cross when using.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In order to make it easy to carry, there are pairs of bo shuriken with blades on both sides, secured in the middle like scissors, to close into the shape of a stick when carried and open into a cross when used.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">In order to make it easy to carry, there are pairs of bo shuriken with blades on both sides, secured in the middle like scissors, to close into the shape of a stick when carried and open into a cross when used.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>根岸流は前重心の、重めの手裏剣を使うが、これは剣の飛行を安定させるとともに威力を追求しているらしい。</j>
+<e type="trans" ver="1">The Negishi-ryu school uses a heavy shuriken with center of gravity in the front, which is aimed at stabilizing the flight of the sword, as well as increasing the force.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Negishi-ryu school uses a heavy shuriken with the center of gravity at the front, aimed at stabilizing the flight of the weapon, as well as increasing its force.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">The Negishi-ryu school uses a heavy shuriken with the center of gravity at the front, aimed at stabilizing the flight of the weapon, as well as increasing its force.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="31">
+<j>矢じりの形の手裏剣「鏢」（中国式ともいわれる）や、異常に重たい巨大な手裏剣も存在し、術者しだいで様々なものが「手裏剣」に変化する。</j>
+<e type="trans" ver="1">Depending on the practitioner, various things are transformed to &apos;shuriken,&apos; such as the shuriken &apos;hyo&apos; (also known as Chinese-style), which is shaped like an arrowhead, or unusually heavy and huge shuriken.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Depending on the practitioner, various things can be used as &apos;shuriken,&apos; such as the shuriken &apos;hyo&apos; (also known as Chinese-style), which is shaped like an arrowhead, or unusually heavy and huge shuriken.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Depending on the practitioner, various things can be used as &apos;shuriken,&apos; such as the shuriken &apos;hyo&apos; (also known as Chinese-style), which is shaped like an arrowhead, or unusually heavy and huge shuriken.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>打法</j>
+<e type="trans" ver="1">Throwing techniques</e>
+<cmt></cmt>
+<e type="trans" ver="2">Throwing techniques</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Throwing techniques</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="32">
+<j>手裏剣は「投げる」ではなく「打つ」というが、聞き慣れないことから小説などでは作者の配慮で「投げる」と表記されることもある。</j>
+<e type="trans" ver="1">The word &apos;strike&apos; is used instead of &apos;throw&apos; for shuriken, but writers may use &apos;throw&apos; in novels out of consideration that it is not a common expression.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The word &apos;strike&apos; is used instead of &apos;throw&apos; for shuriken, but writers may use &apos;throw&apos; in novels out of consideration that it is not a common expression.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The word &apos;strike&apos; is used instead of &apos;throw&apos; for shuriken, but writers may use &apos;throw&apos; in novels out of consideration that it is not a common expression.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>また、「手裏剣を打つ」ことを打剣ともいう。</j>
+<e type="trans" ver="1">Additionally, &apos;strike with a shuriken&apos; is also described as daken (throwing knife).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, &apos;striking with a shuriken&apos; is also described as daken (striking knife).</e>
+<cmt>Grammar, translation altered.</cmt>
+<e type="check" ver="1">Additionally, &apos;striking with a shuriken&apos; is also described as daken (striking knife).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>たとえば棒手裏剣の場合、打剣の方法は大きく分けて3種類ある。</j>
+<e type="trans" ver="1">For example, in the case of bo shuriken, there are three major techniques for daken.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As an example, in the case of bo shuriken, there are three major techniques for daken.</e>
+<cmt>Word choice.</cmt>
+<e type="check" ver="1">As an example, in the case of bo shuriken, there are three major techniques for daken.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="35">
+<j>直打法</j>
+<e type="trans" ver="1">Chokudaho (direct throwing technique)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The chokudaho (direct throwing technique)</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">The chokudaho (direct throwing technique)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>尖端が上を向くように構える。</j>
+<e type="trans" ver="1">Position in a way that the pointed end faces up.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Position in a way such that the pointed end faces up.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Position in a way such that the pointed end faces up.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>手から離れた後、尖端がそのまま的を指向して飛翔する投擲法。</j>
+<e type="trans" ver="1">A method of toteki where after leaving the hand, the pointed end stays directed towards the target while flying.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is a method of toteki where after leaving the hand, the pointed end stays directed towards the target during flight.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">This is a method of toteki where after leaving the hand, the pointed end stays directed towards the target during flight.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>まっすぐ飛ぶわけではなく、剣で切りつけるように弧を描いて飛翔する。</j>
+<e type="trans" ver="1">It does not fly straight, but flies in an arc as if slashing with a sword.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It does not fly straight, but instead flies in an arc as of the slashing movement of a sword.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">It does not fly straight, but instead flies in an arc as of the slashing movement of a sword.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="39">
+<j>反転打法　（半転打法）</j>
+<e type="trans" ver="1">Hantendaho (half rotated throwing technique)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The hantendaho (half rotated throwing technique)</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">The hantendaho (half rotated throwing technique)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>尖端を逆にして持った状態から、「打つ」瞬間に剣を反転させ、「直打法」のように飛翔する投擲法。</j>
+<e type="trans" ver="1">A method of toteki where the pointed end is held in the opposite direction and the sword is inverted at the moment of &apos;strike,&apos; flying like the &apos;chokudaho.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is a method of toteki where the pointed end is held in the opposite direction and the sword is inverted at the moment of striking, flying in the same way as the &apos;chokudaho.&apos;</e>
+<cmt>Grammar, changed for clarity.</cmt>
+<e type="check" ver="1">This is a method of toteki where the pointed end is held in the opposite direction and the sword is inverted at the moment of striking, flying in the same way as the &apos;chokudaho.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>反転させながら打つが、回転させるわけではない。</j>
+<e type="trans" ver="1">It is struck while inverting, but it does not spin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It strikes in this inverted position and does not spin.</e>
+<cmt>Rewritten.</cmt>
+<e type="check" ver="1">It strikes in this inverted position and does not spin.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="42">
+<j>回転打法</j>
+<e type="trans" ver="1">Kaitendaho (spinning method)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The kaitendaho (spinning method)</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">The kaitendaho (spinning method)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>手から離れた後、回転して的に刺さる投擲法。</j>
+<e type="trans" ver="1">A method of toteki where after leaving the hand, it spins until it hits the target.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is a method of toteki where after leaving the hand, the weapon spins until it hits the target.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">This is a method of toteki where after leaving the hand, the weapon spins until it hits the target.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="44">
+<j>これは車剣や西洋のナイフ投げなどに多くみられる投擲方法で、車剣の投擲では剣に回転を与える動作が必要とされる。</j>
+<e type="trans" ver="1">This is a method of toteki common in kurumaken and knife throwing in the West, and in toteki of kurumaken, a movement for spinning the sword is necessary.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This method of toteki is common for kurumaken and knife throwing in the West, and in the toteki of kurumaken a movement as of spinning a sword is necessary.</e>
+<cmt>Grammar, punctuation.</cmt>
+<e type="check" ver="1">This method of toteki is common for kurumaken and knife throwing in the West, and in the toteki of kurumaken a movement as of spinning a sword is necessary.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="45">
+<j>回転による威力、刺中率の増加などを図った多回転方式である。</j>
+<e type="trans" ver="1">It is a multiple spinning method used to increase force and hitting ratio.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a multiple spinning method used to increase force and improve accuracy.</e>
+<cmt>Word choice, grammar.</cmt>
+<e type="check" ver="1">It is a multiple spinning method used to increase force and improve accuracy.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>大型の十字剣（四方剣）の場合、1本の剣を握り、他の1本の剣に指をかけ、腕を打ちおろすように剣を打つことで回転を与える、などの投擲法がある。</j>
+<e type="trans" ver="1">In the case of large sealed cross blades, one method of toteki grasps one of the swords while a finger is placed on the other sword, and the sword spinned by striking it with a hammering motion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the case of large sealed cross blades, in one method of toteki one grasps one of the swords with a finger placed on the other sword, and the sword is made to spin by striking it in a hammering motion.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">In the case of large sealed cross blades, in one method of toteki one grasps one of the swords with a finger placed on the other sword, and the sword is made to spin by striking it in a hammering motion.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="47">
+<j>一方、ナイフ投げの場合は、対象との距離により、投げ出す速度と回転の掛け具合を変えて、刺中させる打法となる。</j>
+<e type="trans" ver="1">Meanwhile, knife throwing hits the target by adjusting the speed of the throw and the way it spins depending on the distance from the target.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meanwhile, in knife throwing the target is hit by adjusting the speed of the throw and the way it spins and depending on the distance from the target.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Meanwhile, in knife throwing the target is hit by adjusting the speed of the throw and the way it spins and depending on the distance from the target.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="48">
+<j>日本の手裏剣術の場合、「直打法」が最も基本的な打剣方法だが、世界的にみれば特異な技術である。</j>
+<e type="trans" ver="1">Among Japanese shuriken techniques, &apos;chokudaho&apos; is the most basic way of daken, but it is a unique technique compared to others in the world.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Among Japanese shuriken techniques, the &apos;chokudaho&apos; is the most basic way of daken, but it is a unique technique from an international standpoint.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">Among Japanese shuriken techniques, the &apos;chokudaho&apos; is the most basic way of daken, but it is a unique technique from an international standpoint.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="49">
+<j>手裏剣使用による格闘技術</j>
+<e type="trans" ver="1">Combat techniques using shuriken</e>
+<cmt></cmt>
+<e type="trans" ver="2">Combat techniques using shuriken</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Combat techniques using shuriken</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="50">
+<j>手裏剣を隠し武器、格闘用の小武器に使用する技術がある。</j>
+<e type="trans" ver="1">There is a technique of using shuriken as a camouflaged weapon or small weapon for combat.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to one technique, shuriken are used as camouflaged weapons or smaller weapons for combat.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">According to one technique, shuriken are used as camouflaged weapons or smaller weapons for combat.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="51">
+<j>隠し武器としての使用法は、一般に広く伝わった物ではなく、柔術、剣術などの流派の奥、極意として伝わったため、名称や使用法は流派によって様々である。</j>
+<e type="trans" ver="1">Its use as camouflaged weapon was not widespread, but was passed down as a hidden, secret technique in judo (Japanese art of self-defense), swordplay, etc., and therefore, the names and uses vary by school.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its use as a camouflaged weapon was not widespread, but was passed down as a hidden, secret technique in judo (a Japanese art of self-defense), and swordplay among others, and therefore the names and usage vary according to the school.</e>
+<cmt>Grammar, punctuation..</cmt>
+<e type="check" ver="1">Its use as a camouflaged weapon was not widespread, but was passed down as a hidden, secret technique in judo (a Japanese art of self-defense), and swordplay among others, and therefore the names and usage vary according to the school.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="52">
+<j>ある流派では穏剣術と称し、その流派では背後からの攻撃などの不意打ちが多く、狙う所は首、喉元、胸、みぞおち、背骨(脊髄)など人体急所が多い。</j>
+<e type="trans" ver="1">One school calls it a hidden sword technique, and the school performs many sneak attacks, attacking mainly the vital parts of the body such as neck, throat, chest, pit of the stomach, and backbone (spinal cord).</e>
+<cmt>原文には「水月」とありますが、リンク先の単語のようです。ウェブで確認すると用語が「みぞおち」となっており、本来はこちらの用語を使用していると思われますので、こちらを訳出しました。</cmt>
+<e type="trans" ver="2">One school calls it the hidden sword technique, and the school practices attacking stealthily, attacking mainly the vital parts of the body such as the neck, throat, chest, the pit of the stomach, and the backbone (spinal cord).</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">One school calls it the hidden sword technique, and the school practices attacking stealthily, attacking mainly the vital parts of the body such as the neck, throat, chest, the pit of the stomach, and the backbone (spinal cord).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>また、格闘用の使用法を手裏剣の裏、打剣（相手に投擲する方法）を表と表記する。</j>
+<e type="trans" ver="1">Additionally, use for combat is described as the ura (back) of shuriken, while daken (methods for toteki at the opponent) is described as omote (front).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, the ura (back) of shuriken is for combat, while the omote (front) is used for daken (methods for toteki at the opponent).</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">Additionally, the ura (back) of shuriken is for combat, while the omote (front) is used for daken (methods for toteki at the opponent).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>スポーツとしての手裏剣</j>
+<e type="trans" ver="1">Shuriken as a sport</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shuriken as a sport</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shuriken as a sport</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="54">
+<j>近年スポーツとして手裏剣を楽しもうとする団体が現れている。</j>
+<e type="trans" ver="1">Recently, there are organizations emerging focused on enjoying shuriken as a sport.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Recently, organizations have emerged focuing on enjoying shuriken as a sport.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Recently, organizations have emerged focusing on enjoying shuriken as a sport.</e>
+<cmt>スペル</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>忍者の使う手裏剣のイメージ</j>
+<e type="trans" ver="1">The image of shuriken used by ninja</e>
+<cmt></cmt>
+<e type="trans" ver="2">The image of shuriken used by ninja</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The image of shuriken used by ninja</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="55">
+<j>よく忍者漫画や映画などで、次々に複数の手裏剣を投げつけたり、敵を殺傷する攻撃手段として使用するシーンがあるが、基本的に忍者の武器・道具というのは「逃走用の時間稼ぎ」が主目的であり、積極的にこちらから戦闘を仕掛ける目的で使用する事は少ない。</j>
+<e type="trans" ver="1">Scenes where multiple shuriken are thrown one after the other, or are used as attack methods to kill or injure the enemy are common in ninja cartoons and movies, but the main purpose of the weapons and tools for ninja are basically to &apos;gain time for escape&apos; and they are not commonly used to actively provoke a fight.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Scenes where multiple shuriken are thrown one after the other, or are used as a method of attack to kill or injure an enemy are common in ninja cartoons and movies, but the main purpose of the weapons and tools for ninja are basically to &apos;gain time for escape&apos; and they were not commonly used to actively provoke a fight.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Scenes where multiple shuriken are thrown one after the other, or are used as a method of attack to kill or injure an enemy are common in ninja cartoons and movies, but the main purpose of the weapons and tools for ninja are basically to &apos;gain time for escape&apos; and they were not commonly used to actively provoke a fight.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>また、忍者の主目的は戦闘ではなく「情報を得て（もしくは偽情報を流布するなどして）無事に戻る」事で今で言うスパイ工作員や隠密特殊機動部隊に相当し、かさばる鉄の塊である手裏剣を何枚も携帯して、次々何枚も投げるというシーンは現実性に乏しい。</j>
+<e type="trans" ver="1">Additionally, the main goal of the ninja is not to fight, but to &apos;gain information (or spread misinformation) and return safely,&apos; corresponding to today&apos;s secret agent or covert special mobile unit, and a scene where they bring around bulky iron pieces of shuriken and throw them one after another is unrealistic.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, the main goal of the ninja is not to fight, but to &apos;gain information (or spread misinformation) and return safely,&apos; corresponding to today&apos;s secret agents or covert special mobile units, and such scenes as those where the characters bring around bulky iron pieces of shuriken and throw them one after another are unrealistic.</e>
+<cmt>Changed for clarity, grammar.</cmt>
+<e type="check" ver="1">Additionally, the main goal of the ninja is not to fight, but to &apos;gain information (or spread misinformation) and return safely,&apos; corresponding to today&apos;s secret agents or covert special mobile units, and such scenes as those where the characters bring around bulky iron pieces of shuriken and throw them one after another are unrealistic.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="57">
+<j>実際には、緊急避難用に1-2枚持つか、石垣を登ったり、穴を掘ったりする為に道具として棒手裏剣を1本持つなどに過ぎない。</j>
+<e type="trans" ver="1">In reality, they carried one or two for emergency escape, or one bo shuriken as a tool to climb stone walls and dig holes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In reality, they carried one or two for an emergency escape, or one bo shuriken to be used as a tool to climb stone walls and dig holes.</e>
+<cmt>Changed for clarity, grammar.</cmt>
+<e type="check" ver="1">In reality, they carried one or two for an emergency escape, or one bo shuriken to be used as a tool to climb stone walls and dig holes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>「武術」としての道場などで教える手裏剣と、忍者が本来の使用意図で携帯した手裏剣は別物として考える必要がある。</j>
+<e type="trans" ver="1">Shuriken taught at dojo (hall used for martial arts training) as &apos;martial art&apos; and shuriken which ninja carried along for its original use, should be treated as separate things.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shuriken, the use of which was taught at dojo (halls used for martial arts training) as a &apos;martial art&apos;, and the shuriken which ninja carried following its original use, should be treated as separate things.</e>
+<cmt>Changed for clarity, grammar.</cmt>
+<e type="check" ver="1">Shuriken, the use of which was taught at dojo (halls used for martial arts training) as a &apos;martial art,&apos; and the shuriken which ninja carried following its original use, should be treated as separate things.</e>
+<cmt>カンマの位置移動</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="59">
+<j>遊具としての手裏剣</j>
+<e type="trans" ver="1">Shuriken as play equipment</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shuriken as play equipment</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shuriken as play equipment</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="60">
+<j>忍者という神秘的な集団が使う武器として、子供のおもちゃにも模倣されている。</j>
+<e type="trans" ver="1">It is imitated in children&apos;s toys as weapon used by a mysterious group called ninja.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They appear as children&apos;s toys, as weapons used by a mysterious group called ninja.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">They appear as children&apos;s toys, as weapons used by a mysterious group called ninja.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="61">
+<j>安全性を考慮し、中を空洞にしたプラスチック製の物が多いが、折り紙などでも折ることが出来るため、子供の遊び道具となっている。</j>
+<e type="trans" ver="1">Many are made of hollow plastic with safety in mind, and since it can be folded as origami, it has become a plaything for children.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many are made of hollow plastic with safety in mind, and since they can be folded into origami, they have become a plaything for children.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Many are made of hollow plastic with safety in mind, and since they can be folded into origami, they have become a plaything for children.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>折り紙における手裏剣</j>
+<e type="trans" ver="1">Shuriken in origami</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shuriken in origami</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shuriken in origami</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="62">
+<j>実際の手裏剣を参考に2枚の折り紙で折る事により、手裏剣の形状を作る。</j>
+<e type="trans" ver="1">Shuriken is formed by folding two origami papers, referring to actual shuriken.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The shuriken is created by folding two origami papers into the form of an actual shuriken.</e>
+<cmt>Rewritten.</cmt>
+<e type="check" ver="1">The shuriken is created by folding two origami papers into the form of an actual shuriken.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>忍者ごっこなどの子供の遊び道具ともなる。</j>
+<e type="trans" ver="1">It can also be used as plaything for children for ninja-gokko (childhood ninja games), etc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They can also be used as playthings for children for ninja-gokko (childhood ninja games) among others.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">They can also be used as playthings for children for ninja-gokko (childhood ninja games) among others.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Los688(id:12316), JAnDbot(id:66507), Asakaze7000(id:180280), 経済準学士(id:22656), Eskimbot(id:29676), Sina(id:10021), TXiKiBoT(id:107492), Mintleaf(id:2216), Ons(id:21830), Aquresia(id:219775), Plume(id:28701), さららゆら(id:12274), Snow steed(id:9428), Hermeneus(id:380), Mymelo(id:122034), K-Phil(id:53114), FlaBot(id:30804), 小原裕稀(id:208877), Peek-poke(id:68004), フキヤマン(id:195246), Izayohi(id:13095), みっち(id:10251), Sweeper tamonten(id:183520), Personofedo(id:162270), Himazin(id:22034), PixelBot(id:166734), Escarbot(id:59151), なめすけ(id:103696), VolkovBot(id:105371), SuisuiBot(id:10165), FeZn(id:444), Chlewbot(id:33904), Thijssie!bot(id:111619), よしー(id:82259), 福太郎(id:132415), Ponsaku(id:31417), Hakusai(id:58284), 伏儀(id:142093), ウミユスリカ(id:9504), 羊鶴(id:7557), SieBot(id:126695), Smoke-eyes(id:178336), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

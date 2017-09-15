@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>陰首</j>
+<e type="trans" ver="1">Onshu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Onshu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Onshu</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>陰首（おんしゅ）とは、律令制において戸籍や計帳から欠落している者及び浮浪の者が自主的に名乗り出て登録されること。</j>
+<e type="trans" ver="1">Under the Ritsuryo system, onshu was registering a person who came forward after having been missing from the family registers or keicho (the yearly tax registers), or after having been away from the place of registry.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under the Ritsuryo system (a system of centralized government based on the ritsuryo code), onshu was the registration of a person who came forward after having been missing from the family registers or the keicho (yearly tax registers), or after having been away from the place of registry.</e>
+<cmt>added description for Ritsuryo system;</cmt>
+<e type="check" ver="1">Under the Ritsuryo system (a system of centralized government based on the ritsuryo code), onshu was the registration of a person who came forward after having been missing from the family registers or the keicho (yearly tax registers), or after having been away from the place of registry.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>和訓では「かくれたるがあらわれ」と読む。</j>
+<e type="trans" ver="1">The Japanese reading of onshu is &apos;kakuretarugaaraware.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Japanese reading of onshu is &apos;kakuretaru ga araware&apos; (literally, &quot;They were hiding, but they appeared&quot;).</e>
+<cmt>split the Japanese word into three words for easier reading and added literal translation</cmt>
+<e type="check" ver="1">The Japanese reading of onshu is &apos;kakuretaru ga araware&apos; (literally, &quot;They were hiding, but they appeared&quot;).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>これに対して官司の摘発によって登録された者を括出（かっしゅつ）、一度浮浪となった者が元の戸籍に復帰することを走還（そうかん）と呼ぶ。</j>
+<e type="trans" ver="1">In contrast, registering a person detected by a Guji (chief of those who serve shrine, control festivals and general affairs) was called kasshutsu, and reinstating the person who had been away from the place of registry as the resident of his original family register was called sokan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In contrast, the registration of individuals who were uncovered by a Guji (the chief of those serving at a shrine who controlled festivals and general affairs) was called kasshutsu, and reinstating individuals who had become one-time vagrants as residents of their original family register was called sokan.</e>
+<cmt>changed &quot;detected&quot; to &quot;uncovered&quot;; changed &quot;the person who had been away from the place of registry&quot; to &quot;one-time vagrants&quot; for a translation of &quot;一度浮浪&quot;</cmt>
+<e type="check" ver="1">In contrast, the registration of individuals who were uncovered by a Guji (the chief of those serving at a shrine who controlled festivals and general affairs) was called kasshutsu, and reinstating individuals who had become one-time vagrants as residents of their original family register was called sokan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>これら3者は実質的には大差がなく、これに伴う戸籍人口の増加は国司・郡司の考課にも反映された（考課令）。</j>
+<e type="trans" ver="1">Virtually there was not so much of a difference among these three types of people, and the population increase of the family registers associated with them was reflected in the ability rating of kokushi (provincial governors) and gunji (local magistrates) (kokaryo (regulation on the efficiency rating of government officials)).</e>
+<cmt></cmt>
+<e type="trans" ver="2">There was no substantial difference among these three types of people, and population increases in the family registers associated with their registration reflected on the ability rating of the Kokushi (provincial governors) and Gunji (local magistrates) (kokaryo (regulation on the efficiency rating of government officials)).</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">There was no substantial difference among these three types of people, and population increases in the family registers associated with their registration reflected on the ability rating of the Kokushi (provincial governors) and Gunji (local magistrates) (kokaryo (regulation on the efficiency rating of government officials)).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>養老律令に規定があったが、実際には大宝律令施行期である霊亀3年（726年）が記録上最古である。</j>
+<e type="trans" ver="1">There was a stipulation about onshu in the Yoro ritsuryo code (code promulgated in the Yoro period), but the oldest documented record dates back to 726 when the Taiho code was in effect.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Yoro ritsuryo code (a code promulgated during the Yoro period), there was a regulation on onshu, but the oldest documented record dates back to 726 when the Taiho code was in effect.</e>
+<cmt>changed &quot;stipulation&quot; to &quot;regulation&quot;; rearranged sentence and fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">In the Yoro ritsuryo code (a code promulgated during the Yoro period), there was a regulation on onshu, but the oldest documented record dates back to 726 when the Taiho code was in effect.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>本来は課役負担者の確保が趣旨であったが、平安時代に入ると陰首・括出は地方より税負担の軽い畿内に移住するための法の抜け穴として利用された。</j>
+<e type="trans" ver="1">Originally its purpose was to secure tax payers, but early in the Heian period onshu and kasshutsu were used as the legal loophole to migrate to the Kinai region (provinces surrounding Kyoto and Nara) where the tax burden was lighter than provinces.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">The purpose of the regulation was originally to secure tax payers, but during the early Heian period, onshu and kasshutsu were used as a legal loophole to migrate to the Kinai region (provinces surrounding Kyoto and Nara) where the tax burden was lighter than in other provinces.</e>
+<cmt>changed &quot;its purpose&quot; to &quot;purpose of the regulation&quot;</cmt>
+<e type="check" ver="1">The purpose of the regulation was originally to secure tax payers, but during the early Heian period, onshu and kasshutsu were used as a legal loophole to migrate to the Kinai region (provinces surrounding Kyoto and Nara) where the tax burden was lighter than in other provinces.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>中には他者の戸籍に入って口分田や蔭位を不正に獲得する者まで出現した。</j>
+<e type="trans" ver="1">Some people even had their names entered in somebody else&apos;s family registry to illegally obtain kubunden (the farm land given to each farm in the Ritsuryo system) or on i.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">A number of people even had their names entered in another family&apos;s registry to illegally obtain kubunden (farm land given under the Ritsuryo system) or onni (a system of passing court ranks onto a new generation through ancestors under the Ritsuryo system).</e>
+<cmt>added translation and description for &quot;onni&quot; (蔭位) found at: &lt;http://dictionary.goo.ne.jp/leaf/jn/28155/m1u/%E8%94%AD%E4%BD%8D/&gt;; fixed grammar</cmt>
+<e type="check" ver="1">A number of people even had their names entered in another family&apos;s registry to illegally obtain kubunden (farm land given under the Ritsuryo system) or onni (a system of passing court ranks onto a new generation through ancestors under the Ritsuryo system).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>このため、延暦19年（800年）に一旦、陰首・括出の禁止が出されて走還のみが認められることになる。</j>
+<e type="trans" ver="1">Consequently, onshu and kasshutsu were banned once in 800 and sokan alone was permitted.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Consequently, onshu and kasshutsu were temporarily banned in 800 and only sokan was permitted.</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">Consequently, onshu and kasshutsu were temporarily banned in 800 and only sokan was permitted.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>しかし、大同 (日本)元年（806年）には復活し、更に斉衡2年（855年）に再度、陰首・括出が禁止された。</j>
+<e type="trans" ver="1">However, onshu and kasshutsu were reinstated in 806, and after that they were banned again in 855.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Onshu and kasshutsu were reinstated in 806, but were banned again in 855.</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">Onshu and kasshutsu were reinstated in 806, but were banned again in 855.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

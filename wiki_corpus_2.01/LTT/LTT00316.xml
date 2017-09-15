@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>権記</j>
+<e type="trans" ver="1">Gonki</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gonki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gonki</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>『権記』（ごんき）は、平安時代中期に活躍した藤原行成の記した日記。</j>
+<e type="trans" ver="1">&quot;Gonki&quot; is the diary of FUJIWARA no Yukinari who lived in the middle of the Heian period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Gonki&quot; is a diary of FUJIWARA no Yukinari, who lived during the middle of the Heian period.</e>
+<cmt>added comma and fixed to read more naturally</cmt>
+<e type="check" ver="1">&quot;Gonki&quot; is a diary of FUJIWARA no Yukinari, who lived during the middle of the Heian period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>行成卿記、権大納言記とも。</j>
+<e type="trans" ver="1">Also called Yukinarigyoki, Gondainagonki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The diary is also called Yukinarigyoki and Gondoinagonki.</e>
+<cmt>Whether the sentence in translation 1 is referring to the person or the diary is ambiguous, so I added &quot;The diary&quot; for clarity</cmt>
+<e type="check" ver="1">The diary is also called Yukinarigyoki and Gondainagonki.</e>
+<cmt>読みを修正しました。</cmt>
+</sen>
+<sen id="3">
+<j>執筆時期は藤原道長の全盛期で、当時の宮廷状況を知ることができる貴重な史料である。</j>
+<e type="trans" ver="1">It was written when FUJIWARA no Michinaga was at the height of his prosperity and is an important historical document that describes the situation of the Imperial court at that time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gonki was written when FUJIWARA no Michinaga was at the height of his prosperity and is an important historical document that describes the conditions of the Imperial court of the time.</e>
+<cmt>&quot;situation&quot;→&quot;conditions&quot;; fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">Gonki was written when FUJIWARA no Michinaga was at the height of his prosperity and is an important historical document that describes the conditions of the Imperial Court of the time.</e>
+<cmt>Imperial Court としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>正暦2年（991年）から寛仁元年（1017年）分が一部逸文を含むが伝えられている。</j>
+<e type="trans" ver="1">The diary runs from 911 to 1017 with some missing periods.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The diary, which is missing a number of writings, reveals events running from 911 to 1017.</e>
+<cmt>逸文: unknown or lost writings &lt;http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?1F&gt;; fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">The diary, which is missing a number of writings, reveals events running from 991 to 1017.</e>
+<cmt>数字を修正しました。</cmt>
+</sen>
+<sen id="5">
+<j>自筆本は伝わらない。</j>
+<e type="trans" ver="1">The actual diary written by Yukinari does not exist anymore.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The actual diary written by Yukinari does not exist anymore.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The actual diary written by Yukinari does not exist anymore.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>最も古い写本は、鎌倉時代以前に筆写された宮内庁書陵部蔵本。</j>
+<e type="trans" ver="1">The oldest copy is one that was copied before the Kamakura period and is owned by the Archives and Mausolea Department of the Imperial Household Agency.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The oldest reprint is one that was copied before the Kamakura period and is owned by the Archives and Mausolea Department of the Imperial Household Agency.</e>
+<cmt>&quot;copy&quot; followed by &quot;copied&quot; sounds redundant, so I changed &quot;copy&quot; to &quot;reprint&quot;;</cmt>
+<e type="check" ver="1">The oldest reprint is one that was copied before the Kamakura period and is owned by the Archives and Mausolea Department of the Imperial Household Agency.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>同時期の日記に『小右記』（藤原実資）、『御堂関白記』（藤原道長）がある。</j>
+<e type="trans" ver="1">&quot;Shoyuki&quot; (FUJIWARA no Sanesuke) and &quot;Midokanpakuki&quot; (FUJIWARA no Michinaga) are examples of diaries written during the same period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other diaries written during the same period are &quot;Shoyuki&quot; (FUJIWARA no Sanesuke) and &quot;Midokanpakuki&quot; (FUJIWARA no Michinaga).</e>
+<cmt>rearranged sentence to read more naturally</cmt>
+<e type="check" ver="1">Other diaries written during the same period are &quot;Shoyuki&quot; (FUJIWARA no Sanesuke) and &quot;Midokanpakuki&quot; (FUJIWARA no Michinaga).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Kurz(id:1601), 黒砂糖(id:38164), 伊集院聖(id:53199), Nevylax(id:38464), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

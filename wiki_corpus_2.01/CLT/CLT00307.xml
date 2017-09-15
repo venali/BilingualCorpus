@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>数え年</j>
+<e type="trans" ver="1">The age by the traditional Japanese system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Traditional Japanese age system</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Traditional Japanese Age System</e>
+<cmt>大タイトル用に変更しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>数え年（かぞえどし）とは、年齢の数え方の一つ。</j>
+<e type="trans" ver="1">The age by the traditional Japanese system is one of the counting methods of the age.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The traditional Japanese age system is one method of calculating age.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">The traditional Japanese age system is one method of calculating age.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>生まれた時点を「1歳」とし、以降元日（1月1日）を迎えるごとに1歳加える。</j>
+<e type="trans" ver="1">When the baby is born is &apos;1 year&apos;, and after that adds 1 year on each new year (January 1st).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The year a baby is born is counted as year 1, and every year after that is counted as one more year on January 1st.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">A child is counted as one year old at birth, and every January 1st after that counts as a year older.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="3">
+<j>数え歳とも、単に数えともいう。</j>
+<e type="trans" ver="1">It is called Kazoedoshi or simply called Kazoe.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is called Kazoedoshi or simply called Kazoe.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This method of counting the age of a person is called Kazoedoshi, or simply, Kazoe.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="4">
+<j>これに対し、出生日の応当日（誕生日）の前日午後12時に加齢する数え方を満年齢という。</j>
+<e type="trans" ver="1">Compare with that, the counting method which adds the age on 12:00 am at the day before birthday is called an age (an ordinary age).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is in contrast to the counting method which adds a year to one&apos;s age at midnight on the day of one&apos;s birthday is the common way to calculate age.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">This is in contrast to the Western style of expressing one&apos;s age in completed years, where a year is added to one&apos;s age at midnight of the day before one&apos;s birthday.</e>
+<cmt>This would make more sense to the reader, I think.「満年齢」は、「数え年」の &quot;traditional Japanese&quot; と対比させ、&quot;Western style&quot; を使用しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>例：12月31日に出生した場合、出生時に1歳で、翌日（1月1日）に2歳となる。</j>
+<e type="trans" ver="1">Ex: if baby born on December 31st, he/she will be 1 year old at the time, and next day (January 1st) he/she will be 2 years old.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ex: if a baby is born on December 31st, she will be one-year old at the time, and on the next day (January 1st) she will be two-years old.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Ex: if a baby is born on December 31, she will be one-year old at the time, and on the next day (January 1) she will be two years old.</e>
+<cmt>ハイフンを削除しました。数字を修正しました。</cmt>
+</sen>
+<sen id="6">
+<j>また、1月1日に出生した場合は、2歳になるのは翌年の1月1日になる。</j>
+<e type="trans" ver="1">And, when he/she born on January 1st, next year of January 1st they will be 2 years old.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And, when she is born on January 1st, on January 1st of the next year she will be 2 years old.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">If she is born on January 1, however, she will be two years old on January 1 of the next year.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>暦法による注意</j>
+<e type="trans" ver="1">Instruction for rekiho (method of making calendars).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Instruction for rekiho (method of making calendars).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Caution</e>
+<cmt>I think it would be more natural in English to just have &quot;Caution&quot; as the heading.</cmt>
+</tit>
+<par id="1">
+<sen id="7">
+<j>元日を基準とするのでグレゴリオ暦の導入以前は、暦法により元日が新暦に対し異なるため、数え年の計算には注意が必要である（単純に西暦で計算してはいけない）。</j>
+<e type="trans" ver="1">It is based on new year before the Gregorian calendar was introduced, it have to be careful to calculate the age by the traditional Japanese system because the new year on the New calendar will be different by calendar method.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is based on the new year before the Gregorian calendar was introduced. Care is required in calculating age by the traditional Japanese system, because the new year on the new calendar will differ by a calendar method.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">As the New Year&apos;s Day is the base date in the traditional Japanese age system, care is should be taken when calculating someone&apos;s age with this method because the New Year&apos;s Day under the Gregorian calendar is different from that under the traditional Japanese calendar that had been used until the Gregorian calendar was introduced.</e>
+<cmt>FBに基づき修正しました。「&amp;apos;」→「&apos;」に修正</cmt>
+</sen>
+<sen id="8">
+<j>下記の数え年の計算方法の項を参照。</j>
+<e type="trans" ver="1">Please see the section of the calculation method of the age by the traditional Japanese system as below.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Please see the section on the traditional Japanese system of age calculation below.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Please see the section on the traditional Japanese system of age calculation below.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>「数え年」を使用した理由</j>
+<e type="trans" ver="1">The reason to use &apos;the age by the traditional Japanese system&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Reasons for using the traditional Japanese age system</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Reasons for using the traditional Japanese age system</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="9">
+<j>宗教的（仏教など）な考えに基づく理由…胎児が母親の胎内にいる期間（十月十日〈とつきとおか〉）も年齢に加算する。</j>
+<e type="trans" ver="1">The reason based on the thought of religion (Buddhism etc.)… The time during unborn baby stays in mother&apos;s womb (nine month) counts as the age.</e>
+<cmt>十月十日→9 month としました。</cmt>
+<e type="trans" ver="2">It is based on religious thinking (such as Buddhism): The nine months that the unborn baby stays in her mother&apos;s womb is counted in age.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">It is based on religious thinking (such as Buddhism): The nine months that the unborn baby stays in her mother&apos;s womb is counted in age.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>暦法（太陰太陽暦）による問題…太陰太陽暦は、太陽暦（グレゴリオ暦）に対して、約3年に1回（約19年に7回）の割合で閏月を挿入したため、1年の長さが年によってことなる。</j>
+<e type="trans" ver="1">The problem by the method of the calendar (the lumar solar calendar)… the lumar solar calendar inserts a leap month in once approximately three years (approximately seven times in ninety years) so the length of the year changes by the year against solar calendar (the Gregorian calendar).</e>
+<cmt>太陰太陽暦→ the lumar solar calendar→ 定訳不明</cmt>
+<e type="trans" ver="2">Problems with the calendar method (the lunar/solar calendar): The lunar/solar calendar possesses a leap month once in approximately three years (approximately seven times in ninety years) so the length of the year changes by year against solar calendar (the Gregorian calendar).</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Problems with the rekiho (method of making calendars)(the lunisolar calendar): In the lunisolar calendar, a leap month is inserted once in approximately three years (approximately seven times in nineteen years) so the length of the year differs by year against solar calendar (the Gregorian calendar).</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="11">
+<j>よって満年齢を用いるのには問題が生じる。</j>
+<e type="trans" ver="1">Because of that using an age (an ordinary age) occurred problem.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Using this calendar for the common way to calculate age has caused problems.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Using this calendar for the Western style of calculating age has caused problems.</e>
+<cmt>「満年齢」は、「数え年」の &quot;traditional Japanese&quot; と対比させ、&quot;Western style&quot; を使用しました。</cmt>
+</sen>
+<sen id="12">
+<j>つまり、約3年に1回ほど閏月が入ったので、閏月に生まれた者は、閏月のない年には（正確な）誕生日がないので、満年齢が正確に計算できないため。</j>
+<e type="trans" ver="1">In short, a leap month is approximately once in 3 years, so an age (an ordinary age) can&apos;t calculate exactly because people born on a leap month doesn&apos;t have (exact) birthday.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A leap month occurs approximately once in three years, so the common way to calculate age cannot be used precisely because people born on a leap month do not have an exact birthday.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">A leap month occurs approximately once in three years, so the Western style of calculating age cannot be used precisely because people born on a leap month do not have an exact birthday.</e>
+<cmt>「満年齢」は、「数え年」の &quot;traditional Japanese&quot; と対比させ、&quot;Western style&quot; を使用しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="13">
+<j>例：元禄4年閏8月1日生まれ⇒元禄5年閏8月1日はない。</j>
+<e type="trans" ver="1">Ex: August 1, Genroku 4th (1691) born - August 1, Genroku 5th (1692) doesn&apos;t exist.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For example, someone born on August 1, Genroku 4th (1691) cannot have a birthday the following year on August 1, Genroku 5th (1692) because the date does not exist.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">For example, someone who was born on the 1st day of leap August in the 4th year of the Genroku era (1691) would not have had a birthday the following year as there was no leap month in the 5th year of the Genroku era (1692).</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="14">
+<j>（元禄は、貞享暦。）</j>
+<e type="trans" ver="1">Genroku is Jokyo-reki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jokyo reki (Jokyo calendar) was used in the Genroku era.</e>
+<cmt>requires and explanation.</cmt>
+<e type="check" ver="1">Jokyo-reki (Jokyo calendar, the lunar-solar calendar which was used in Japan) was used in the Genroku era.</e>
+<cmt>貞享暦→Jokyo calendar, the lunar-solar calendar which was used in Japan　と補足しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="15">
+<j>満年齢及び「0」の項を参照すると当項目についての理解を得やすい。</j>
+<e type="trans" ver="1">Refer to the section of an age (an ordinary age) and &apos;0&apos; to understand this section.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is recommended to refer to the section describing ordinary age and the zero year for a better understanding of the traditional Japanese age system.</e>
+<cmt>wording文章中に特に「0」の項と思われる項は、ないように思われます。</cmt>
+<e type="check" ver="1">It is recommended to refer to the section regarding the Western style of calculating age and &apos;0&apos; for a better understanding of the traditional Japanese age system.</e>
+<cmt>「０」は、原文でも 0 ですので、訳文中も 0　としました。「満年齢」は、「数え年」の &quot;traditional Japanese&quot; と対比させ、&quot;Western style&quot; を使用しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>数え年の計算方法</j>
+<e type="trans" ver="1">The method of calculating of the age by the traditional Japanese system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Method of calculating age by the traditional Japanese system</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Method of calculating age by the traditional Japanese system</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="16">
+<j>数え年は生まれた時点の年齢を1歳とし、以後、元日が来るごとに1歳を加算する。</j>
+<e type="trans" ver="1">The age by the traditional Japanese system is when baby born the age will be 1, and each new year adds 1 year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When a baby is born her age will be one according to the traditional Japanese system, and each new year adds another year.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">When a child is counted as one year old at birth according to the traditional Japanese system and becomes one year older on every New Year&apos;s Day.</e>
+<cmt>FBに基づき修正しました。1year→one yearとしました。</cmt>
+</sen>
+<sen id="17">
+<j>それに対して満年齢は、生まれた時点の年齢を0歳とし、以後誕生日の前日が満了するごとに1歳を加算する。</j>
+<e type="trans" ver="1">Against that the age (an ordinary age) is when baby born the age will be 1 years old, and adds 1 year on each new year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is in contrast to the common way to calculate age, which holds that a baby born will be 0 years old, with each new year adding one year.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">This is in contrast to the Western style of calculating in which a newborn baby is counted as zero year old, and becomes one year older on the at midnight of the day before the subsequent birthday.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="18">
+<j>したがって、満年齢と数え年の関係は次のようになる。</j>
+<e type="trans" ver="1">Therefore, the relation between an age (an ordinary age) and the traditional Japanese system is as follows.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, the relation between the common way to calculate age and the traditional Japanese system is as follows.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Therefore, the relation between the Western style of calculating age and the traditional Japanese system is as follows.</e>
+<cmt>OK</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="19">
+<j>日本では現在は太陽暦を用いており、和暦と西暦の日付は一致するので、自分の今年の数え年は、元日から誕生日前日満了までは「数え年＝満年齢+2」、誕生日前日満了以降は、「数え年＝満年齢+1」で計算する。</j>
+<e type="trans" ver="1">We use solar calendar in Japan now which matches the date of Japanese calendar and the Christian calendar, so one&apos;s this years traditional Japanese system calculate this way; &apos;traditional Japanese system = an age +2&apos; until the day of before birthday finished from new year, and &apos;traditional Japanese system = an age +1&apos; after the day before birthday is finished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The solar calendar is used in Japan now which corresponds to the dates of the Japanese calendar and the Christian calendar. Thus, one&apos;s age this years in the traditional Japanese system can be calculated in this way: &apos;traditional Japanese system = your age +2&apos; during the period from New Year&apos;s Day until the day before your birthday, and the &apos;traditional Japanese system = your age +1&apos; from your birthday onwards.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Since the solar calendar is used in Japan now and the Japanese calendar corresponds to the Christian calendar, the method of counting a person&apos;s age in the traditional Japanese system will be as follows: &apos;traditional Japanese system = your age + two&apos; as for the period from the New Year&apos;s Day until the day before birthday, and the &apos;traditional Japanese system = your age + one&apos; from your birthday and afterwards.</e>
+<cmt>FBに基づき修正しました。「&amp;apos;」→「&apos;」に修正</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="20">
+<j>現在も太陰太陽暦を用いている国や、太陰太陽暦（旧暦）を用いていた時代の物故者については、その国の当時の暦法の元日を基準として加算される。</j>
+<e type="trans" ver="1">Even now, it is calculated with based on the new years of the calendar at that time for the country which uses the lumar solar calendar and the deceased of the era who used the lumar solar calendar (old calendar).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even now, age is calculated based on the New Year&apos;s Day of the calendar at that time for the country which uses the lunar solar calendar as well as ancestors of that era who used the lunar solar calendar (old calendar).</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">In countries where the lunisolar calendar is still used or when counting the age of the deceased who lived during the period when the lunisolar calendar (the old lunisolar calendar) was used, age is counted with the New Year&apos;s Day as the base date of the calendar used in the relevant country back in these days.</e>
+<cmt>FBに基づき修正しました。「&amp;apos;」→「&apos;」に修正</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="21">
+<j>日本では、明治5年12月2日（1872年12月31日）まで天保暦が用いられていたため、新暦導入以前の和暦とグレゴリオ暦の日付には差異があり元日が異なる。</j>
+<e type="trans" ver="1">We used Tempo-reki until December 31, 1872 in Japan, so new year is different between Japanese calendar which is before the new calendar was introduced and the Gregorian calendar because the date has differences.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tempo-reki was used in Japan until December 31, 1872; thus, New Year&apos;s Day is different between the Japanese calendar, which predates the introduced new calendar, and the Gregorian calendar.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Tempo-reki was used in Japan until December 2, Meiji 5 (December 31, 1872), and the resultant difference in dates means that New Year&apos;s Day under the Gregorian calendar will differ from that under the traditional Japanese calendar.</e>
+<cmt>This would make more sense to the reader, I think.</cmt>
+</sen>
+<sen id="22">
+<j>そのため、和暦の元日から換算した西暦の年を、その和暦の西暦の年として生没年を計算しないと、誤った数え年が計算されるおそれがある。</j>
+<e type="trans" ver="1">Because of that, it have to cultivate the years of birth and death of the Christian era from Japanese new year to that Japanese calendar as the Christian calendar, it might cause wrong result of the year of the age by the traditional Japanese system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because of this, the years of one&apos;s birth and death before the introduction of the Christian era must be calculated based on the New Year&apos;s Day of the Japanese calendar. Otherwise, one&apos;s age based on the traditional Japanese system may be converted incorrectly.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Consequently, a person&apos;s age may be calculated incorrectly if it is based on the traditional Japanese system; in order to avoid this, the Christian era year that has been derived based on January 1st on the Japanese calendar should be used when calculating a person&apos;s date of birth and death.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="23">
+<j>※ 暦法による日付の差異…元禄元年1月1日＝グレゴリオ暦1688年2月2日</j>
+<e type="trans" ver="1">Difference of the date by rekiho (method of making calendars)… First year of Genroku (January 1, 1688) = the Gregorian Calendar February 2, 1688.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The difference of dates through rekiho (calendar making method): First year of Genroku (January 1, 1688) is February 2, 1688 of the Gregorian Calendar.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">The difference of dates through the calendar method: First year of Genroku (January 1, 1688) is February 2, 1688 of the Gregorian Calendar.</e>
+<cmt>暦法はcalendar methodとしました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="24">
+<j>※ 和暦から換算した西暦の年…元禄元年12月10日＝グレゴリオ暦1689年1月1日。</j>
+<e type="trans" ver="1">The year of the Christian era which calculated from Japanese calendar … First year of Genroku December 10 (December 10, 1688) = the Gregorian Calendar January 1, 1689 … the year of the Gregorian year is already in the next year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The year of the Christian era calculated from the Japanese calendar: The first year of Genroku December 10 (December 10, 1688) is January 1, 1689 of the Gregorian Calendar. The Gregorian calendar is already in its next year.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">The year of the Christian era converted from the Japanese calendar: The first year of Genroku December 10 is actually January 1, 1689 in the Gregorian Calendar.</e>
+<cmt>FBに基づき修正しました。「一原文一訳文例外処理」</cmt>
+</sen>
+<sen id="25">
+<j>…グレゴリオ暦は、年が明けている。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the Gregorian calendar, a new year had already started.</e>
+<cmt>FBに基づき修正しました。「一原文一訳文例外処理」</cmt>
+</sen>
+<sen id="26">
+<j>⇒グレゴリオ暦を基準とすると、数え年が「1」加算されてしまい、当時の文献などと整合が失われてしまう。</j>
+<e type="trans" ver="1">If the Gregorian calendar is the base, the age by the traditional Japanese system has to add &apos;1&apos;, so the literatures from that time don&apos;t match.</e>
+<cmt></cmt>
+<e type="trans" ver="2">If the Gregorian calendar is used as the base, the year in the traditional Japanese system has an extra year, so the literature from that era does not match.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">If the Gregorian calendar is used as the base, one year has to be added to each of the years counted based on the traditional Japanese system, which will not match with the dates appearing in the literature from those era.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="27">
+<j>よって元禄元年は、1月1日～12月29日（グレゴリオ暦1689年1月20日）までを、西暦1688年として考えなければならない。</j>
+<e type="trans" ver="1">For that reason, we have to think that the first year of Genroku (1688) is the year of 1688 of the Christian era which is January 1st to December 29th (the Gregorian Calendar of January 20, 1689).</e>
+<cmt></cmt>
+<e type="trans" ver="2">For that reason, we should consider the first year of Genroku (1688) is the year 1688 of the Christian era--this is January 1st to December 29th (the Gregorian Calendar in January 20, 1689).</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">For that reason, we should consider the first year of Genroku (1688) is the year 1688 of the Christian era--this is January 1 to December 29 (January 20, 1689 in the Gregorian Calendar).</e>
+<cmt>語順を変更しました。</cmt>
+</sen>
+<sen id="28">
+<j>（※：元禄元年は、12月29日までで、12月30・31日はない。）</j>
+<e type="trans" ver="1">The first year of Genroku is through December 29, so December 30 and 31 don&apos;t exist.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The first year of Genroku finished on December 29, therefore December 30 and 31 do not exist.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">The first year of Genroku finished on December 29, therefore December 30 and 31 do not exist.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>数え年の計算例（新暦導入以前に亡くなった人物）</j>
+<e type="trans" ver="1">The example of the calculation method of the age by the traditional Japanese system (people who died before the new calendar announced)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The example of the calculation method of the age by the traditional Japanese system (people who died before the new calendar announced)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The example of the calculation method of the age based on the traditional Japanese system (people who died before the new calendar was introduced)</e>
+<cmt>FBに基づき修正しました。</cmt>
+</tit>
+<par id="1">
+<sen id="29">
+<j>下記の例は、没日が1日違うだけだが、西暦では年が明けてしまう。</j>
+<e type="trans" ver="1">The example below is the date of death is one day different, but it is the next day on the Christian calendar, so the calculation of the traditional Japanese system before new calendar announced needs attention.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The example below is a date of death and differs by one day; however, it is the next day on the Christian calendar. Therefore, the calculation of the traditional Japanese system before the new calendar was introduced requires attention.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Although in the example the date of death differs by one day, a new year had started in the Christian calendar.</e>
+<cmt>FBに基づき修正しました。「一原文一訳文例外処理」</cmt>
+</sen>
+<sen id="30">
+<j>そのため、新暦導入前の人物の数え年の計算には、注意が必要である。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Therefore, when calculating a person&apos;s age who lived before the new calendar was introduced based on the traditional Japanese system requires attention.</e>
+<cmt>FBに基づき修正しました。「一原文一訳文例外処理」</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="31">
+<j>和暦から換算した西暦で計算した数え年の例</j>
+<e type="trans" ver="1">The example for the year which calculated from Japanese calendar to the Christian calendar.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An example calculating a year from the Japanese calendar to the Christian calendar</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">An example calculating a year from the Japanese calendar to the Christian calendar</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="32">
+<j>寛永6年閏2月11日（グレゴリオ暦1629年4月4日）生</j>
+<e type="trans" ver="1">Born in February 11, 1629 (April 4, 1629 on the Gregorian Calendar).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Born February 11, 1629 (April 4, 1629 on the Gregorian Calendar).</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Born on the 11th day of leap February in 1629 (April 4, 1629 in the Gregorian Calendar).</e>
+<cmt>As this system doesn&apos;t really exist in English &quot;leap February 11&quot; seems strange to me but I haven&apos;t been able to confirm if there is a prescribed way of handling this.</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="33">
+<j>元禄元年12月10日（グレゴリオ暦1689年1月1日）没…元禄元年は、1689年ではなく1688年で計算する。</j>
+<e type="trans" ver="1">Died in December 10, 1688 (January 1, 1689 on the Gregorian calendar) … the first year of Genroku is not 1689, it calculate as the year of 1688.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Died on December 10, 1688 (January 1, 1689 on the Gregorian calendar): The first year of Genroku is not 1689, it is calculated as the year 1688.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Died on December 10, 1688 (January 1, 1689 on the Gregorian calendar): The first year of Genroku is not 1689, it is calculated as the year 1688.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="34">
+<j>正：1688-162959+1⇒享年60（満59歳没）…1を足すのは、生まれた年にとる1歳の分</j>
+<e type="trans" ver="1">Correct: 1688-162959+1= age at death 60 (age of 59) … adding 1 is for the first year of the life.</e>
+<cmt>正：1688-162959+1→“正：1688-1629=59，59+1=60”の誤りです．なお，この箇所はWikipediaの原典と異なってますが，Wikipediaの原典も数学的には誤りです．</cmt>
+<e type="trans" ver="2">Correct: 1688-162959+1= 60 at death (59): adding 1 is for the first year of life.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Correct: 1688-162959+1= 60 at death (59): adding 1 is for the first year of life.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="35">
+<j>誤：1689-162960+1⇒享年61（満59歳没）</j>
+<e type="trans" ver="1">Wrong: 1689-162960+1= age at death 61 (age of 59)</e>
+<cmt>誤：1689-162960+1→“誤：1689-1629=60，60+1=61”の誤りです．Wikipediaの原典との関係は上記と同じです．</cmt>
+<e type="trans" ver="2">Incorrect: 1689-162960+1= 61 at death (59)</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Incorrect: 1689-162960+1= 61 at death (59)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="36">
+<j>単純に西暦で計算できる場合</j>
+<e type="trans" ver="1">The case which simply calculate by the Christian calendar.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Simply calculating by the Christian calendar</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Simply calculating by the Christian calendar</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="37">
+<j>寛永6年閏2月11日（グレゴリオ暦1629年4月4日）生</j>
+<e type="trans" ver="1">Born in February 11, 1629 (April 4, 1629 on the Gregorian Calendar)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Born February 11, 1629 (April 4, 1629 on the Gregorian Calendar)</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Born on the 11th day of leap February in 1629 (April 4, 1629 in the Gregorian Calendar).</e>
+<cmt>See above</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="38">
+<j>元禄元年12月9日（グレゴリオ暦1688年12月31日）没</j>
+<e type="trans" ver="1">Death in December 9, 1688 (December 31, 1688 on the Gregorian Calendar).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Died on December 9, 1688 (December 31, 1688 on the Gregorian Calendar).</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Died on December 9, 1688 (December 31, 1688 on the Gregorian Calendar).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="39">
+<j>1688-162959+1⇒享年60（満59歳没）</j>
+<e type="trans" ver="1">1688-162959+1= age at death 60 (age of 59)</e>
+<cmt>1688-162959+1→“1688-1629=59，59+1=60”の誤りです．Wikipediaの原典との関係は上記と同じです．</cmt>
+<e type="trans" ver="2">1688-162959+1= 60 at death (59)</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">1688-162959+1= 60 at death (59)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="40">
+<j>享年と満年齢が2つ異なる例</j>
+<e type="trans" ver="1">The example for the difference from age at death and the age (an ordinary age).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Two examples of the difference from the age at death and the common way to calculate age.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">An example in which the age at death under the traditional Japanese age system would differ from that under the Western-style system by two years</e>
+<cmt>「満年齢」は、「数え年」の &quot;traditional Japanese&quot; と対比させ、&quot;Western style&quot; を使用しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="41">
+<j>寛永6年11月17日（グレゴリオ暦1629年12月31日）生</j>
+<e type="trans" ver="1">Born in November 17, 1629 (December 31, 1629 on the Gregorian calendar).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Born November 17, 1629 (December 31, 1629 on the Gregorian calendar).</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Born November 17, 1629 (December 31, 1629 on the Gregorian calendar).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="42">
+<j>元禄元年12月8日（グレゴリオ暦1688年12月30日）没</j>
+<e type="trans" ver="1">Death in December 8, 1688 (December 30, 1688 on the Gregorian Calendar).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Died on December 8, 1688 (December 30, 1688 on the Gregorian Calendar).</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Died on December 8, 1688 (December 30, 1688 on the Gregorian Calendar).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="43">
+<j>1688-162959+1⇒享年60（満58歳没）…誕生日前日満了を迎える前に亡くなったので、満年齢では58歳となる。</j>
+<e type="trans" ver="1">1688-162959+1= died at 60 (died in age 58)… this person died before the birthday is over, so the age will be 58 years old.</e>
+<cmt>1688-162959+1→“1688-1629=59，59+1=60”の誤りです．Wikipediaの原典との関係は上記と同じです．</cmt>
+<e type="trans" ver="2">1688-162959+1= 60 at death (58): This person died before their birthday was over, so her age will be 58 years old.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">1688-162959+1= 60 at death (58): This person died before her birthday came, so her age will be 58 years old.</e>
+<cmt>their →her　に修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>各国の状況</j>
+<e type="trans" ver="1">Situation in each country</e>
+<cmt></cmt>
+<e type="trans" ver="2">Calculating methods in other countries</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Calculating methods in other countries</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="44">
+<j>日本・中国・朝鮮半島・ベトナムの東アジア諸国では、古くから満年齢は使われず、数え年が使われてきた。</j>
+<e type="trans" ver="1">The countries in east Asia, Japan, China, Korea and Vietnam didn&apos;t use an age (ordinary age) in the old days, they use Kazoedoshi (the age by the traditional Japanese system).</e>
+<cmt></cmt>
+<e type="trans" ver="2">East Asian countries, Japan, China, Korea and Vietnam did not use the common way to calculate age in older times; rather, they used Kazoedoshi (the age by the traditional Japanese system).</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">East Asian countries such as Japan, China, Korea and Vietnam did not use the Western style of calculating age in older times; rather, they used Kazoedoshi (the age by the traditional Japanese system).</e>
+<cmt>such as を追加しました。「満年齢」は、「数え年」の &quot;traditional Japanese&quot; と対比させ、&quot;Western style&quot; を使用しました。</cmt>
+</sen>
+<sen id="45">
+<j>しかし多くの国では満年齢に切り替わり、現在は大韓民国のみで、公的及び民間で広く使われている。</j>
+<e type="trans" ver="1">But most of the county switched to an age (ordinary age), only the Republic of Korea uses it in official and public.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While most countries switched to the common way to calculate age, only the Republic of Korea uses the old system officially and privately.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">While most countries switched to the Western style of calculating age, only the Republic of Korea uses the old system officially and privately.</e>
+<cmt>「満年齢」は、「数え年」の &quot;traditional Japanese&quot; と対比させ、&quot;Western style&quot; を使用しました。</cmt>
+</sen>
+<sen id="46">
+<j>日本や中国では公的に廃止されてもしばらくは民間で数え年が使われていた。</j>
+<e type="trans" ver="1">It was used in public even abolished officially in Japan and China, but it was almost gone after the World War II in Japan, and after Cultural Revolution in China, and after independence in the Democratic People&apos;s Republic of Korea.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was used privately even after it was abolished officially in Japan and China. Howeer, WWII spelled almost its total demise in Japan. The same happened in China after the Cultural Revolution, and in the North Korea after independence.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">It was used privately even after it was abolished officially in Japan and China.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+</sen>
+<sen id="47">
+<j>しかし日本では第二次世界大戦後、中国では文化大革命後、朝鮮民主主義人民共和国では独立後にほとんど使われなくなった。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, kazoedoshi ceased to be used after the World War II in Japan, after the Cultural Revolution in China, and after independence in the North Korea.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="48">
+<j>ベトナムではフランス領インドシナの間に使われなくなった。</j>
+<e type="trans" ver="1">In Vietnam, it was gone during France occupied Indochina.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Vietnam, its use subsided while France occupied Indochina.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">In Vietnam, its use subsided while France occupied Indochina.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="49">
+<j>現在、1歳加える日は、日本や韓国ではグレゴリオ暦の1月1日、中国では春節（旧正月。</j>
+<e type="trans" ver="1">At present, the date which adds a year is January 1st on the Gregorian colander in Japan and Korea, but in China, it&apos;s the lunar New Year in China (old new year).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Currently, it is January 1st when another year is added on the Gregorian calendar in Japan and Korea; however, in China, the lunar New Year (old new year) is still observed.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Currently, it is January 1 when another year is added on the Gregorian calendar in Japan and Korea; however, in China, the lunar New Year (old new year) is still observed.</e>
+<cmt>1st→ 1　としました。</cmt>
+</sen>
+<sen id="50">
+<j>時憲暦の1月1日で、日本の旧正月とはずれることがある）である。</j>
+<e type="trans" ver="1">It is January 1st on the Jikenreki (Chinese calendar), sometime it is different from Japanese old new year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is January 1st on Jikenreki (Chinese calendar), and this sometimes differs from the old Japanese new year.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">It is January 1 on Jiken-reki (Chinese calendar), and this sometimes differs from the old Japanese new year.</e>
+<cmt>1st→ 1　としました。</cmt>
+</sen>
+<sen id="51">
+<j>ただし日本では、地方や流派によって、旧正月や、立春とすることがある。</j>
+<e type="trans" ver="1">But sometimes it signifies as old new year or the beginning of spring (the first day of spring according to the lunar calendar) at some districts or groups.</e>
+<cmt></cmt>
+<e type="trans" ver="2">But sometimes it signifies the former New Year or the beginning of spring (the first day of spring according to the lunar calendar) in some districts or groups.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">In some districts or groups in Japan, however, the former New Year or the beginning of spring (the first day of spring according to the lunar calendar) is used.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="52">
+<j>立春とするのは、本来旧正月としたいところを簡便にするための、新しい方法である。</j>
+<e type="trans" ver="1">This is the new method that signifies the old new years simple and easy as the beginning of spring.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is a new method to signify the former New Year in a simple and easy was at the beginning of spring.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">This is a new method to signify the former New Year in a simple and easy way at the beginning of spring.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="53">
+<j>中国語では虚歳という（満年齢は週歳・実歳・足歳）。</j>
+<e type="trans" ver="1">It is called xusui in Chinese (the age is zhousui, shisui and sokusui).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is called xusui in Chinese (the age is zhousui, shisui and sokusui).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is called xusui in Chinese (the Western-style age system is called zhousui, shisui and sokusui).</e>
+<cmt>「満年齢」は、「数え年」の &quot;traditional Japanese&quot; と対比させ、&quot;Western style&quot; を使用しました。</cmt>
+</sen>
+<sen id="54">
+<j>韓国語では韓国ナイ（ハングンナイ、ナイ 年齢）という（満年齢は満ナイ（マンナイ））。</j>
+<e type="trans" ver="1">It is called hangunnai (hangunnai, nai age) in Korean (the age is mannai).</e>
+<cmt>韓国ナイ, 満ナイ→定訳不明</cmt>
+<e type="trans" ver="2">It is called hangunnai (hangunnai, nai age) in Korean (the age is mannai).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is called hangunnai (&quot;nai&quot; means age) in Korean (the Western-style age system is called mannai).</e>
+<cmt>「満年齢」は、「数え年」の &quot;traditional Japanese&quot; と対比させ、&quot;Western style&quot; を使用しました。ナイ＝年齢　と修正しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="55">
+<j>英語ではEast Asian age reckoningといい、数えで×歳であることはin ones ×th yearともいう。</j>
+<e type="trans" ver="1">It is called East Asian age reckoning in English, being x years old by the age by the traditional Japanese system is in ones x th year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is called East Asian age reckoning in English, being x years old in the traditional Japanese system indicates that one is in one&apos;s xth year.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">It is called East Asian age reckoning in English, and being x years old in the traditional Japanese system can also be described as one is in one&apos;s xth year.</e>
+<cmt>FBに基づき修正しました。「&amp;apos;」→「&apos;」に修正</cmt>
+</sen>
+<sen id="56">
+<j>満年齢を特に指す言葉はない。</j>
+<e type="trans" ver="1">There is no word indicates an age (ordinary age).</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is no word to indicate the ordinary age.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">There is no word to indicate the Western style of calculating age.</e>
+<cmt>「満年齢」は、「数え年」の &quot;traditional Japanese&quot; と対比させ、&quot;Western style&quot; を使用しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>日本</j>
+<e type="trans" ver="1">Japan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Japan</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Japan</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="57">
+<j>日本でも古くから数え年が使われていた。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2">The age by the traditional Japanese system has been used in Japan since olden times, however, &apos;the law about calculating age (December 2, 1902, the number 50 of the law)&apos; was enforced on December 22, 1902. The common way to calculate age was then adopted.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">The age by the traditional Japanese system has been used in Japan since old times.</e>
+<cmt>FBに基づき修正しました。「一原文一訳文例外処理」</cmt>
+</sen>
+<sen id="58">
+<j>しかし、1902年12月22日施行の「年齢計算ニ関スル法律（明治35年12月2日 法律第50号）」を受け、満年齢を使用することとなった。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, &apos;the law about calculating age&apos; (December 2, 1902, Law No. 50) was enforced on December 22, 1902, and the Western style of calculating age was adopted.</e>
+<cmt>FBに基づき修正しました。「一原文一訳文例外処理」「&amp;apos;」→「&apos;」に修正、クォーテーションの位置を移動</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="59">
+<j>しかし、一般には数え年が使われ続けたことから、1950年1月1日「年齢のとなえ方に関する法律（昭和24年5月24日 法律第96号）」が施行された。</j>
+<e type="trans" ver="1">But the age by traditional Japanese system was keep using in public, so January 1, 1950 &apos;the law of the method of the age (May 24th in 1949, the number 96 of the law) was enforced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">But the traditional Japanese system continued to be used privately; therefore, on January 1, 1950 &apos;the law of the method of the age (May 24th in 1949, the number 96 of the law) came into effect.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">However, the traditional Japanese system continued to be used privately; therefore, on January 1, 1950 &apos;the law of the method of the age&apos; (May 24 in 1949, Law No. 96) came into effect.</e>
+<cmt>FBに基づき修正しました。「&amp;apos;」→「&apos;」に修正、クォーテーションの位置を移動原文がピリオドで終わるよう修正</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="60">
+<j>国民は、年齢を数え年によつて言い表わす従来のならわしを改めて、年齢計算に関する法律（明治35年法律第50号）の規定により算定した年数（一年に達しないときは、月数）によってこれを言い表わすのを常とするように心がけなければならない。</j>
+<e type="trans" ver="1">The citizen have to reform the way to describe the age by the age by the traditional Japanese system, and they have to use the age (the month when one&apos;s age is under 1 year) which calculate by the rule of the law about the calculating the age (the number 50 of the law in 1902) all the time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Citizens have to reform the way they describe age by the traditional Japanese system, and they must always use the age (the month when one&apos;s age is under 1 year) which calculates the rule of law about calculating age (the number 50 of the law in 1902).</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">The law stated that citizens should no longer use the way of counting a person&apos;s age based on the traditional Japanese system, and always use the way of counting the years of age (the number of months when one&apos;s age is under one year) that is set forth in the provisions of law about calculating age (1902, Law No. 50).</e>
+<cmt>FBに基づき修正しました。「&amp;apos;」→「&apos;」に修正</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="61">
+<j>と、国民には満年齢によって年齢を表わすことを改めて推奨し、</j>
+<e type="trans" ver="1">It recommends describing the age by the age (ordinary age) to citizen again.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is recommended to describe age by through the common way.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">The law recommended once again to describe age by the Western style.</e>
+<cmt>through　を削除しました。「満年齢」は、「数え年」の &quot;traditional Japanese&quot; と対比させ、&quot;Western style&quot; を使用しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="62">
+<j>国又は地方公共団体の機関が年齢を言い表わす場合においては、当該機関は、前項に規定する年数又は月数によつてこれを言い表わさなければならない。</j>
+<e type="trans" ver="1">When the country and the public organization of district describe the age, that organization has to describe the age or the month by the rule at the previous paragraph.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the federal government and municipalities describe age, that organization must describe that age or month in accordance with the rule of the previous paragraph.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">It also stated that, when the government or municipalities refer to the age of a person, such organization must describe the years of age or the number of months in accordance with the rule set forth in the previous paragraph.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="63">
+<j>但し、特にやむを得ない事由により数え年によつて年齢を言い表わす場合においては、特にその旨を明示しなければならない。</j>
+<e type="trans" ver="1">But, the case if you have to describe the age by the age by the traditional Japanese system for certain reason, you have to specify about it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">But, should there be a reason that one must describe age by way of the traditional Japanese system, this must be specified in advance.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">However, should there be a compelling reason that one must describe a person&apos;s age in accordance with the traditional Japanese system, that effect must be specified in advance.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="64">
+<j>と、国・地方公共団体の機関に対しては満年齢の使用を義務付け、数え年を用いる場合は明示することを義務付けた。</j>
+<e type="trans" ver="1">So the county and the public organization of district is obligated to use the age (ordinary age), and when they use the age by the traditional Japanese system they have to specified that.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thus, the federal government and municipalities are obligated to use the common age system; and, when they use the traditional Japanese system they must specify so.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">As described above, the government and municipalities were obligated to use the Western style age system and to specify so when there is a need to mention an age based on the traditional Japanese system.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="65">
+<j>同法制定の理由は以下の4点である。</j>
+<e type="trans" ver="1">The reason for the establishment of the law is four reasons as below.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The reason for the establishment of the law are the four reasons below.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">There were four reasons for the establishment of the law.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="66">
+<j>第一　「若返る」ことで日本人の気持ちを明るくさせる効果</j>
+<e type="trans" ver="1">1. The effect of making Japanese people&apos;s feeling bright to be young again.</e>
+<cmt></cmt>
+<e type="trans" ver="2">1. To encourage Japanese people to feel bright and young again.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">1. To brighten Japanese people by making them feel they became younger.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="67">
+<j>第二　正確な出生届の促進</j>
+<e type="trans" ver="1">2. Promotion of the correct birth certificate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">2. Promotion of the correct birth certificates.</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">2. Promotion of the correct registration of birth.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="68">
+<j>第三　国際性向上</j>
+<e type="trans" ver="1">3. Improvement of the internationalization.</e>
+<cmt></cmt>
+<e type="trans" ver="2">3. Improvement of the international flavor of Japan.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">3. Enhancement of internationality.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="69">
+<j>第四　配給における不合理の解消</j>
+<e type="trans" ver="1">4. Cancellation of the irrationality by distribution</e>
+<cmt></cmt>
+<e type="trans" ver="2">4. Cancel of the irrational distribution</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">4. Resolution of the irrationalities regarding distribution systems.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="70">
+<j>このうち、当時切実だった理由は、第四の配給の問題であった。</j>
+<e type="trans" ver="1">At the time, the serious reason in those was the number 4, the problem of the distribution.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the time, the most serious reason among these was number 4--the problem of the distribution.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">At the time, the problem with the distribution was the most serious problem.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="71">
+<j>実際、例えば12月に子供が生まれ、翌年2月に「2歳だ」という理由でキャラメルが配給されることなどはよくあった。</j>
+<e type="trans" ver="1">For example, actually the child was born on December, but the next year in February the child is &apos;two years old&apos; for that reason the child receives the candy for distribution.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For example, should a child be born in December but the next year in February the child becomes &apos;two years old&apos; the child receives more distributed candy.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">For example, when a child was born in December and in February next year the child receives candy through the distribution system because the child was regarded as two years old.</e>
+<cmt>FBに基づき修正しました。&quot;2&quot;をスペルアウト</cmt>
+</sen>
+<sen id="72">
+<j>当然のことながら、生後2か月の乳児にキャラメルを支給しても無意味である。</j>
+<e type="trans" ver="1">Naturally enough, it doesn&apos;t make sense to distribute the candy to the newborn baby who is two month old.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Of course, it is nonsensical to distribute candy to a two-month-old infant.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Of course, the idea of giving candy to a two-month-old infant absurd.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="73">
+<j>また、満年齢では50代であるのに数え年では60代という理由で配給量を減らされるなどの問題も起きていた。</j>
+<e type="trans" ver="1">Also the problem was one&apos;s age was fiftieth, but that person is sixtieth by the traditional Japanese system, so they reduced the amount of distribution.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There was also the problem of someone being counted as in their 50s, but they were considered in their 60s by the traditional Japanese system; this reduced the amount of they received through distribution.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">There was another type of problem where someone who was in his fifties based on the Western-style age system was considered in his sixties according to the traditional Japanese system and the amount of he received through distribution was reduced because of his age.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="74">
+<j>配給量の基礎となるカロリー計算は満年齢を基に算定されていたにもかかわらず、実際の配給の現場では数え年を基に支給されていたため、これらのような支障が生じていた。</j>
+<e type="trans" ver="1">The calculation of calories which is based on the distribution was based on the age, but the actual distribution was based on the age by the traditional Japanese system, so that trouble happened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The calculation of calories which is based on the distribution was based on common age, but the actual distribution was based on the traditional Japanese age system, thus causing this trouble.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Although the calories that were the bases for deciding the amount of distribution were calculated based on the Western-style age system, the actual distribution conducted based on the traditional Japanese age system; thus, such a problem occurred.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="75">
+<j>（詳しくは年齢のとなえ方に関する法律参照）</j>
+<e type="trans" ver="1">(Please see the law section for the details of the method of the age)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Please see the law section for the details of the method of age calculation.)</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">(Please refer to the item of the law of the method of age calculation for the details)</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="76">
+<j>現在でも習慣的に数え年を使用している高齢者は多い。</j>
+<e type="trans" ver="1">Even now, many elders use the age by the traditional Japanese system as their habit, and except that age of people who use the age by the traditional Japanese age is a fortune teller, or for the traditional event, or for the age at death, it&apos;s only for limited occasions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even now, the older generation uses the traditional Japanese age system. Other than this, the people who use the traditional Japanese age system are fortune tellers. It is also used on limited occasions such as for traditional events, or for the age at death.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Even now, the older generation uses the traditional Japanese age system.</e>
+<cmt>FBに基づき修正しました。「一原文一訳文例外処理」</cmt>
+</sen>
+<sen id="77">
+<j>それ以外の年齢層が数え年を用るのは占いや伝統行事、享年などの限られた場面のみとなっている。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">People in other age groups use the traditional Japanese age system on limited occasions such as fortune telling, traditional events, or when counting the age at death.</e>
+<cmt>FBに基づき修正しました。「一原文一訳文例外処理」</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="78">
+<j>伝統行事である七五三や年祝い（古希・喜寿など）も、本来、数え年で行われてきた。</j>
+<e type="trans" ver="1">Originally the traditional event The Seven-Five-Three Festival or the celebration ages (Koki (the cerebration of a person&apos;s 70th birthday), Kiju (the cerebration of a person&apos;s 77th birthday) etc.) which uses the age by the traditional Japanese system also fine to celebrate either method.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Originally the traditional event the Seven-Five-Three Festival or the celebration ages (Koki (the cerebration of a person&apos;s 70th birthday), Kiju (the cerebration of a person&apos;s 77th birthday) etc.) which had used the the traditional Japanese age system adopted both systems.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">The traditional events such as Shichigosan Shichi-go-san (a day of prayer for the healthy growth of young children celebrated when they turn three, five, or seven years old) or Toshiiwai (the celebration for certain ages) (e.g. Koki (the cerebration of a person&apos;s seventieth birthday), Kiju (the cerebration of a person&apos;s seventy-seventh birthday), etc.) originally used the traditional Japanese age system.</e>
+<cmt>FBに基づき修正しました。「一原文一訳文例外処理」3, 5, 7をスペルアウト、「&amp;apos;」→「&apos;」に修正</cmt>
+</sen>
+<sen id="79">
+<j>そのため、数え年・満年齢のいずれで祝ってもよいとされていることが多い。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Therefore, both the traditional Japanese age system and the Western-style age system are allowed to be used in such events.</e>
+<cmt>FBに基づき修正しました。「一原文一訳文例外処理」</cmt>
+</sen>
+<sen id="80">
+<j>この場合、原則として数え年・満年齢のいずれを用いても同じ数字の年齢で行われる。</j>
+<e type="trans" ver="1">For this case, it celebrate at the same age which uses an age by the traditional Japanese system or the age (ordinary age) as a rule, but with exception, only Kanreki (the cerebration of a person&apos;s 60th birthday) is celebrated at different age for 61st with the age by the traditional Japanese system, and 60th with an age.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The celebrations are basically conducted at the same ages for both cases of using ages based on the traditional Japanese age system, and for ordinary age.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">In principle, celebrations are conducted at the same ages regardless of the age system used.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="81">
+<j>例外的に還暦の場合のみ異なる。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2">However, an exception occurs when celebrating Kanreki (one&apos;s 60th birthday).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="check" ver="1">However, an exception occurs when celebrating Kanreki (one&apos;s sixtieth birthday).</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="82">
+<j>数え年で行う場合は61歳、満年齢で行う場合は60歳と、行われる年齢の数字が異なる。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanreki is celebrated at the age of 61 based on the traditional Japanese age system, and at the age of 60 based on the Christian era.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="check" ver="1">Kanreki is celebrated at the age of sixty-one based on the traditional Japanese age system, and at the age of sixty based on the Christian era.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="83">
+<j>ただし、厄年には数え年を使い、「満年齢」を使うことはほとんどない。</j>
+<e type="trans" ver="1">But, only an unlucky age uses the age by the traditional Japanese system, and it&apos;s uncommon to use &apos;an age (ordinary age)&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">But, only the unlucky years use the traditional Japanese age system, and it&apos;s uncommon to use the common way to calculate age for these years.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">However, only the traditional Japanese age system is used when counting the unlucky years and it is uncommon to use the Western style of calculating age in such a case.</e>
+<cmt>FBに基づき修正しました。余分なスペース消去</cmt>
+</sen>
+<sen id="84">
+<j>なお、葬祭の際に記す「享年（行年）」は、法事や神道では数え年が使われる。</j>
+<e type="trans" ver="1">Also, the age by the traditional Japanese system is used for &apos;the age at death&apos; which inscribe at the ceremonial occasions, but recently the age (an ordinary age) is gradually used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, the traditional Japanese age system is used one&apos;s death age, which is inscribed at ceremonial occasions, but recently one&apos;s common age is gradually beginning to be used.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Also, for memorial services and in shinto, the traditional Japanese age system is used when counting one&apos;s age at death that is inscribed at ceremonial occasions.</e>
+<cmt>FBに基づき修正しました。「一原文一訳文例外処理」「&amp;apos;」→「&apos;」に修正</cmt>
+</sen>
+<sen id="85">
+<j>しかし、近年では満年齢が使用されつつある。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Recently, however, the Western-style system has come to be used.</e>
+<cmt>FBに基づき修正しました。「一原文一訳文例外処理」</cmt>
+</sen>
+<sen id="86">
+<j>「一周忌」を除く「年回忌」の数え方は、現在も数え年に準じている。</j>
+<e type="trans" ver="1">The method of &apos;nenkaiki (memorial service held at the fixed years)&apos; except &apos;the first anniversary of one&apos;s death&apos; follows the age by the traditional Japanese system even now.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The method of nenkaiki (memorial service held at fixed years), with the exception of &apos;the first anniversary of one&apos;s death, follows age by the traditional Japanese system.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">The method of &apos;nenkaiki&apos; (memorial service held at fixed years), with the exception of &apos;isshuki&apos; (the first anniversary of one&apos;s death), follows age by the traditional Japanese system.</e>
+<cmt>括弧を追加しました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="87">
+<j>また、日本の競走馬の年齢（馬齢）も、最近まで数え年によっていた。</j>
+<e type="trans" ver="1">Also the age of racehorse was counted by the age by the traditional Japanese system until recently.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also the age of racehorses was counted by the traditional Japanese age system until recently.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Also, the age of a racehorse was, until recently, calculated according to the traditional Japanese age system.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="88">
+<j>しかし2001年からは、馬齢の国際表記に従って、「生まれた年を0歳、（新たに1月1日を迎える毎に）1歳加齢する（＝数え年から1を引いたもの）」とすることになった。</j>
+<e type="trans" ver="1">But, it follows the international notation since 2001, &apos;the year the horse is born is 0 year old, (on each coming January 1st) adds 1 year (= subtract 1 from the age by the traditional Japanese system)&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">But, it is conformance with international notation since 2001, the year the horse is born is 0 year old, (o+F145n each coming January 1st) another year is added (= subtract 1 from the age by the traditional Japanese system).</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">However, it is decided to follow the international system of notation since 2001 and a horse is zero year old at birth and one year is added to its age on January 1 of every year (i.e., the age that is one year less than it used to be under the traditional Japanese age system).</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="89">
+<j>つまり、加齢日は現在も一律に1月1日であり、馬齢＝「満年齢」ではない。</j>
+<e type="trans" ver="1">Therefore, the adding date is January 1st even now, the age of the horse = is not &apos;an age (an ordinary age)&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, the date which another year is added, January 1st, is not the common method used to calculated the age of the horse.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Therefore, January 1st remains to be the date on which another year is added, and the age of a horse is not equal to &apos;the age the horse according to the Western-style system.&apos;</e>
+<cmt>FBに基づき修正しました。「&amp;apos;」→「&apos;」に修正</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>数え年、満年齢、周年の違い</j>
+<e type="trans" ver="1">Differences from the age by the traditional Japanese system, an age (an ordinary age) and a whole year</e>
+<cmt></cmt>
+<e type="trans" ver="2">The difference between an age by the traditional Japanese age system and ordinary age is one whole year.</e>
+<cmt>wording左記の翻訳ですが、The difference between an age by the traditional Japanese system, an ordinary age and an anniversaryの意味であると思われます。</cmt>
+<e type="check" ver="1">Differences in the methods of counting under the traditional Japanese system, the Western-style system, and anniversaries</e>
+<cmt>FBに基づき修正しました。ピリオド削除</cmt>
+</tit>
+<par id="1">
+<sen id="90">
+<j>数え年…y年目</j>
+<e type="trans" ver="1">The age by the traditional Japanese system … in x th year</e>
+<cmt></cmt>
+<e type="trans" ver="2">Age by the traditional Japanese system: One&apos;s xxth year after the birth</e>
+<cmt>ok</cmt>
+<e type="check" ver="1">Traditional Japanese age system: One&apos;s xxth year after the birth</e>
+<cmt>「Traditional Japanese age system」としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="91">
+<j>満年齢…y年m箇月（経過した記念日の回数）</j>
+<e type="trans" ver="1">An age (an ordinary age) … x year and x month (the date of the anniversary it passed)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Common age: x year and x month (the amount of past anniversaries)</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Western-style age system: x year and x month (the amount of past anniversaries)</e>
+<cmt>「満年齢」は、「数え年」の &quot;traditional Japanese&quot; と対比させ、&quot;Western style&quot; を使用しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="92">
+<j>周年…y年後</j>
+<e type="trans" ver="1">A whole year … after x year</e>
+<cmt></cmt>
+<e type="trans" ver="2">Anniversary: A year after the occurrence of a certain event.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Anniversary: A year after the occurrence of a certain event.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="93">
+<j>例：50年目（数え年）49年後49周年</j>
+<e type="trans" ver="1">Ex: 50th year (the age by the traditional Japanese system), 49 years later, 49th anniversary year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Example:50th anniversary (based on the traditional Japanese system): 49th anniversary after 49 years.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Example:Fiftieth anniversary (based on the traditional Japanese system): forty-ninth anniversary after forty-nine years.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="94">
+<j>13回忌（数え年）死後12周年。</j>
+<e type="trans" ver="1">13th anniversary (the age by the traditional Japanese system), 12th anniversary after one&apos;s death.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The 13th anniversary of one&apos;s death (based on the traditional Japanese system): 12th anniversary after one&apos;s death.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The thirteenth anniversary of one&apos;s death (based on the traditional Japanese system): twelfth anniversary after one&apos;s death.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="95">
+<j>なお、記念日としての数え年（経歴、入社年数、学年等や没後など）の数え年の加算日は、その記念日の応当日（入社日、入学日、没日など）を基準とすることが多い。</j>
+<e type="trans" ver="1">The adding date with the age by the traditional Japanese system as an anniversary (history, the year of entering company, grade, and after the death) is mostly based on the day of the anniversary (the date of entering company, the date of entering school, and the date of person&apos;s death).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The adding date in the traditional Japanese age system as an anniversary (history, the year of entering company, grade, and after death) is mostly based on the day of the anniversary (the date of entering company, the date of entering school, and the date of person&apos;s death).</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">The day used as the base date for counting anniversaries in the traditional Japanese age system (e.g. years of career, years since entering a company, grade in school, and after death) is mostly the corresponding day (e.g. the date of entering a company, the date of entering a school, and the date of person&apos;s death).</e>
+<cmt>FBに基づき修正しました。「&amp;apos;」→「&apos;」に修正、余分なピリオド削除</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Widehawk(id:119409), Resto1578(id:168692), Izayohi(id:13095), 浩(id:70121), U3002(id:66126), Nnh(id:474), 経済準学士(id:22656), Hyoki(id:10874), おはぐろ蜻蛉(id:8405), Monox(id:94065), OKG(id:112296), FeeSeong(id:180489), ShikiH(id:181574), Thmkr(id:102001), Ghaz(id:1137), 十円玉(id:11760), Stendhal(id:207065), VolkovBot(id:105371), 金山銀山銅山(id:163855), 1789(id:52584), Swkz(id:10914), Kusunose(id:5719), Tamago915(id:11009), Ryoske(id:34653), Shimoxx(id:9332), 5HPONGO(id:21153), けんち(id:5147), Volfgang(id:98768), YukkeBot2(id:251491), きまま(id:183217), Mizumono(id:606), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

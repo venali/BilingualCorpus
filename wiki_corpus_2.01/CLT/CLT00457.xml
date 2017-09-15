@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>昆布茶</j>
+<e type="trans" ver="1">Kobucha</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kobucha</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kobucha</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>昆布茶（こぶちゃ・こんぶちゃ）は、コンブを乾燥させ細かく刻んだり粉末状にしたものに湯をそそいで飲む飲料。</j>
+<e type="trans" ver="1">Kobucha (Konbucha) is a beverage prepared by pouring hot water onto thinly sliced/powdered dry konbu (kelp).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kobucha (Konbucha) is a beverage prepared by pouring hot water onto thinly sliced/powdered dry konbu (kelp).</e>
+<cmt>spacing</cmt>
+<e type="check" ver="1">Kobucha (Konbucha) is a beverage prepared by pouring hot water onto thinly sliced/powdered dry konbu (kelp).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>軽く塩味をつけたものや、あられを配合したもの、玉露を加えたものもある。</j>
+<e type="trans" ver="1">Kobucha with slight salty taste, Kobucha with small rice biscuits mixed and Kobucha with high-quality green tea added is also available.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kobucha with slight salty taste, Kobucha with small rice biscuits mixed in, and Kobucha with high-quality green tea added are also available.</e>
+<cmt>is-&gt;are</cmt>
+<e type="check" ver="1">Kobucha with slight salty taste, Kobucha with small rice biscuits mixed in, and Kobucha with high-quality green tea added are also available.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>飲料としてだけではなく、減塩のために塩や醤油がわりの調味料として用いられる場合もある。</j>
+<e type="trans" ver="1">Other than as a beverage, it is sometimes used, instead of salt or soybean sauce, as a seasoning for the purpose of salt reduction.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other than as a beverage, it is sometimes used instead of salt or soybean sauce as a seasoning for the purpose of salt reduction.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Other than as a beverage, it is sometimes used instead of salt or soybean sauce as a seasoning for the purpose of salt reduction.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>また乾燥させた梅肉を配合したものは梅昆布茶（うめこぶちゃ）と呼ばれる。</j>
+<e type="trans" ver="1">Kobucha with dried bainiku (plum pulp) mixed is called umekobucha.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kobucha with dried bainiku (plum pulp) mixed is called umekobucha.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kobucha with dried bainiku (plum pulp) mixed is called umekobucha.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>現在はうま味調味料が主体の粉末昆布茶が一般的であるが、2cm角に切った角切り昆布茶が登場し、昆布出汁の旨みが相まって人気が出ている。</j>
+<e type="trans" ver="1">Although powdered Kobucha whose main ingredient is umami-chomiryo (good taste seasoning) is popular at present, square Kobucha of 4 cm2 is increasingly popular combined with the good taste of konbu soup stock.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although powdered Kobucha whose main ingredient is umami-chomiryo (good taste seasoning) is popular at present, square Kobucha of 2cm is increasingly popular combined with the good taste of konbu soup stock.</e>
+<cmt>typo around the cm part; also, I think うま味調味料 is commonly known as MSG in the west, though I&apos;m not certain in this case</cmt>
+<e type="check" ver="1">Although powdered Kobucha whose main ingredient is umami-chomiryo (good taste seasoning) is popular at present, square Kobucha of two centimeters is increasingly popular combined with the good taste of konbu soup stock.</e>
+<cmt>2cm→two centimetersとしました。</cmt>
+</sen>
+<sen id="6">
+<j>フリーズドライの梅の粉末を角切り昆布茶にまぶした梅昆布茶は、最近では正月やおめでたい席にだす福茶の習慣に用いられることもある。</j>
+<e type="trans" ver="1">Lately, umekobucha, which is produced by dredging square Kobucha with freeze-dried plum powder, is sometimes used for fukucha (lucky tea) that is served on the New Year Day and/or other happy occasions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Lately, umekobucha, which is produced by covering square Kobucha with freeze-dried plum powder, is sometimes used for fukucha (lucky tea) that is served on New Year&apos;s Day and/or other happy occasions.</e>
+<cmt>dredging-&gt;covering</cmt>
+<e type="check" ver="1">Lately, umekobucha, which is produced by covering square Kobucha with freeze-dried plum powder, is sometimes used for fukucha (lucky tea) that is served on New Year&apos;s Day and/or other happy occasions.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>欧米では日本でいうところの紅茶キノコをKombuchaと呼ぶ。</j>
+<e type="trans" ver="1">In Europe and America, what is called black tea fungus in Japan is called Kombucha.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Europe and America, what is called black tea fungus in Japan is called Kombucha.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In Europe and America, what is called black tea fungus in Japan is called Kombucha.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>これは20世紀初頭にロシアなどで流行りだした飲料で、なぜか日本の昆布茶と誤解されたらしい。</j>
+<e type="trans" ver="1">This is a beverage which became popular in Russia etc. around the beginning of 20th century, and it was misconstrued as Japanese Kobucha, though the reason is not clear.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is a beverage which became popular in Russia etc. around the beginning of 20th century, and it was misconstrued as Japanese Kobucha, though the reason is not clear.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This is a beverage which became popular in Russia etc. around the beginning of 20th century, and it was misconstrued as Japanese Kobucha, though the reason is not clear.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>wKombuchaを参照。</j>
+<e type="trans" ver="1">Refer to wKombucha.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Refer to wKombucha.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Refer to wKombucha.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 福茶(id:215866), Mnd(id:15140), Commonsenses(id:11185), Corwin(id:973), マクガイア(id:33346), Nighthawks(id:36125), ウェルワィ(id:15692), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

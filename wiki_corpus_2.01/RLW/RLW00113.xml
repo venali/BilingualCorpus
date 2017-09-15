@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>中書島駅</j>
+<e type="trans" ver="1">Chushojima Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chushojima Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chushojima Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>中書島駅（ちゅうしょじまえき）は、京都府京都市伏見区葭島矢倉町にある、京阪電気鉄道の鉄道駅。</j>
+<e type="trans" ver="1">Located in Yoshijima Yagura-cho, Fushimi Ward, Kyoto City, Kyoto Prefecture, Chushojima Station is a wailway station of Keihan Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chushojima Station, located in Yoshijima Yagura-cho, Fushimi Ward, Kyoto City, Kyoto Prefecture, is a facility of Keihan Electric Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Chushojima Station, located in Yoshijima Yagura-cho, Fushimi Ward, Kyoto City, Kyoto Prefecture, is a facility of Keihan Electric Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>利用可能な鉄道路線</j>
+<e type="trans" ver="1">Usable railway lines</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usable railway lines</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Lines</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>京阪電気鉄道</j>
+<e type="trans" ver="1">Keihan Electric Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>京阪本線</j>
+<e type="trans" ver="1">Keihan Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Main Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>京阪宇治線 ※始発駅</j>
+<e type="trans" ver="1">Keihan Uji Line (* a station where trains start running)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Uji Line (* a station where trains start their runs)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Keihan Uji Line (* a station where trains start their runs)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>相対式プラットホームの間に島式ホーム1面がある3面4線の地上駅。</j>
+<e type="trans" ver="1">This station is located on the ground level, provided with three platforms serving four tracks with an island platform placed between the remaining ones.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is located on the ground level, being provided with three platforms serving four tracks with an island platform placed between the remaining ones.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This station is located on the ground level, being provided with three platforms serving four tracks with an island platform placed between the remaining ones.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>駅舎は南北双方（北改札は1番ホーム、南改札は4番ホームの、それぞれ淀屋橋寄り）にあり、各ホームは跨線橋と地下道で連絡している。</j>
+<e type="trans" ver="1">There are two station houses, one on the north side (whose entrance/exit gate is provided on platform 1) and the other on the south side (whose entrance/exit gate is provided on platform 4), with both bocated on the Yodoyabashi side, and each platform is reached using a bridge across the railroads or an underground path</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are two station houses, one on the north side (whose entrance/exit gate is provided on platform 1) and the other on the south side (whose entrance/exit gate is provided on platform 4), with both located on the Yodoyabashi side, and each platform is reached either by a bridge across the railroads or an underground path.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There are two station houses, one on the north side (whose ticket gate is provided on Platform 1) and the other on the south side (whose ticket gate is provided on Platform 4), with both located on the Yodoyabashi side, and each platform is reached either by a bridge across the railroads or an underground passage.</e>
+<cmt>ticket gate, underground passage としました。１番ホーム→the platform for track 1 とｓｈました。the platform for track 1→Platform 1に変更しました。the platform for track 4→Platform 4に変更しました。</cmt>
+</sen>
+<sen id="7">
+<j>跨線橋と各ホームを結ぶエレベーターもある。</j>
+<e type="trans" ver="1">An elevator is also provided between the bridge and each platform.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An elevator is also provided between the bridge and each platform.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">An elevator is also provided between the bridge and each platform.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>駅構内は急カーブ上に位置し、線路もそれによって1番線寄りに急傾斜している。</j>
+<e type="trans" ver="1">The tracks are curved sharply within the premises of the station, and therefore, are largely slanted towards the track 1side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The tracks curve sharply within the premises of the station, and consequently they&apos;re largely slanted toward side of the Platform 1.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The tracks curve sharply within the premises of the station, and consequently they&apos;re largely slanted toward side of the Platform 1.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>過去に脱線事故があった記録もあり、3番線発着の列車はかなり減速した上で駅構内へ進入する。</j>
+<e type="trans" ver="1">With derailing accidents within the premises recorded, the trains arriving at and then departing track 3 enter the premises after decreasing their speeds considerabley.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With derailing accidents within the premises recorded, the trains arriving at and departing from Platform 3 enter the premises after decreasing their speeds considerably.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">With derailing accidents within the premises recorded, the trains arriving at and departing from Platform 3 enter the premises after decreasing their speeds considerably.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>なお、宇治線の列車は後述の宇治側の留置線の辺りから駅構内にかけて15km/hで走行する。</j>
+<e type="trans" ver="1">The trains on Uji Line run at a speed of 15 km/h in the area from the storage tracks on the Uji side, described later, to the premises of this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The trains on Uji Line run at a speed of 15 km/h in the area from the storage tracks on the Uji side, as described later, to the premises of this station.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The trains on Uji Line run at a speed of 15 km/h in the area from the storage tracks on the Uji side, as described later, to the premises of this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="11">
+<j>ホームから東に（宇治寄り）に20m程進んだ所に宇治線を挟んで2線の留置線があり、北側の留置線は5両編成の車両が、南側（新日本理化）は7両編成の車両が留置出来る。</j>
+<e type="trans" ver="1">In the 20-m east of the platforms (on the Uji side), two storage tracks, with Uji Line between them, are provided, with the north-side storage track enabling a five-car train to be kept there and the south-side (on this side, New Japan Chemical Co., Ltd. is located) storage track a seven-car train.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Twenty meters east of the platforms (on the Uji side), two storage tracks, with the Uji Line between them, are provided, with the north-side storage track enabling a five-car train to be kept there and the south-side (where New Japan Chemical Co., Ltd. is located) storage track accommodating a seven-car train.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Twenty meters east of the platforms (on the Uji side), two storage tracks, with the Uji Line between them, are provided, with the north-side storage track enabling a five-car train to be kept there and the south-side (where New Japan Chemical Co., Ltd. is located) storage track accommodating a seven-car train.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>また、4番線の大阪側にも7連対応の留置線が1線設けられていて、臨時特急に運用される京阪3000系電車が待機していたこともあった。</j>
+<e type="trans" ver="1">In addition, one more storage track supporting a seven-car train is also provided on the Osaka side of platform 4, and a Keihan Electric Railway Series 3000 train used for Special Limited Express services was sometimes kept there temporarily.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, one more storage track supporting a seven-car train is provided on the Osaka side of platform 4, and a Keihan Electric Railway Series 3000 train used for special limited express services has sometimes been kept there temporarily.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, one more storage track supporting a seven-car train is provided on the Osaka side of Platform 4, and a Keihan Electric Railway Series 3000 train used for special limited express services has sometimes been kept there temporarily.</e>
+<cmt>platform →track　としました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="13">
+<j>宇治より南側留置線の本線進入部分に側線が設けてあるが、昔は伏見港まで引込み線が伸びていた。</j>
+<e type="trans" ver="1">A side track from Uji is provided in the portion where a train enters the main line from the south-side storage track; In the past, a track used exclusively for the Fushimi port existed there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A side track from Uji is provided in the portion where a train enters the main line from the south-side storage track; however, in the past a track used exclusively for the Fushimi port existed there.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">A side track from Uji is provided in the portion where a train enters the main line from the south-side storage track; however, in the past a track used exclusively for the Fushimi port existed there.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>これは第二次世界大戦中の1944年（昭和19年）に、B-29の爆撃で交通網が分断された場合に備え、他の交通機関との連携強化ために敷設されたとされる（京都市電の側線も造られた）。</j>
+<e type="trans" ver="1">It is said that this track was constructed in 1944, during World War II, to strenghten cooperation with other transportation measns, assuming that the transportation network might be disrupted by bombardment by B-29 airplanes (side tracks for Kyoto City Trams were also constructed).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that this track was constructed in 1944, during World War II, in order to bolster cooperation with other transportation means, assuming that the transportation network might be disrupted by bombardment from B-29 airplanes (side tracks for Kyoto City Trams were also constructed).</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">It is said that this track was constructed in 1944, during World War II, in order to bolster cooperation with other transportation means, assuming that the transportation network might be disrupted by bombardment from B-29 airplanes (side tracks for Kyoto City Trams were also constructed).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>しかし、完成は終戦後の1946年（昭和21年）で1951年（昭和26年）には撤去されている。</j>
+<e type="trans" ver="1">Howerver, the completion of the construction was in 1946, only after the end of the war, and the track was removed by 1951.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the construction was completed in 1946, after the end of the war, and the track was removed by 1951.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, the construction was completed in 1946, after the end of the war, and the track was removed by 1951.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="16">
+<j>淀駅の下りホームの位置変更により淀発の下り列車は淀駅初発準急以外、一旦中書島の4番線に入りそこから淀駅に向かっている。</j>
+<e type="trans" ver="1">Because the position of the platform for down-trains has been changed, all down-trains, except semi-express trains starting at Yodo Station, first enter track 4 in Chushojima Station and then run towards Yodo Station from there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the position of the platform for down-trains has been changed, all down-trains (except for semi-express trains starting at Yodo Station) first enter track 4 in Chushojima Station and then run toward Yodo Station from there.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because the position of the platform for outbound trains has been changed, all outbound trains (except for semi-express trains starting at Yodo Station) first enter Platform 4 in Chushojima Station and then run toward Yodo Station from there.</e>
+<cmt>下り→outbound としました。track 4→Platform 4に変更しました。</cmt>
+</sen>
+<sen id="17">
+<j>その影響で4番線の宇治よりには7・8両用の乗務員専用の小型ホームが設置してある。</j>
+<e type="trans" ver="1">For this reason, a special small-scale platform for 7 ort 8-car trains and usable only by their train crews are constructed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For this reason, a special small-scale platform for seven- or eight-car trains and usable only by their train crews has been constructed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">For this reason, a special small-scale platform for seven- or eight-car trains and usable only by their train crews has been constructed on the Uji side of Platform 4.</e>
+<cmt>4番線の宇治寄り　を追加しました。track 4→Platform 4に変更しました。</cmt>
+</sen>
+<sen id="18">
+<j>主に淀発下り準急と臨時急行運転時に見ることが出来る。</j>
+<e type="trans" ver="1">Mostly being able to be viewed when a semi-express down-train starting at Yodo Starting or spcial express train is operated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is generally visible when a semi-express down-train starting at Yodo Starting or a special express train is operated.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">It is generally visible when a semi-express outbound train starting at Yodo Starting or a special express train is operated.</e>
+<cmt>下り→outbound としました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="19">
+<j>1番ホーム上にコンビニ（アンスリー）がある。</j>
+<e type="trans" ver="1">A convinience store (Anthree) is located on platform 1.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A convenience store (Anthree) is located on platform 1.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">A convenience store (Anthree) is located on Platform 1.</e>
+<cmt>一番ホーム→the platform for track 1としました。 the platform for Platform 1→Platform 1に変更しました。</cmt>
+</sen>
+<sen id="20">
+<j>2・3番ホームにうどん屋「麺座」と、従来型の売店「セカンド・ポシェット」がある。</j>
+<e type="trans" ver="1">On the platform for tracks 2 and 3, &quot;Menza,&quot; a noodle shop, and &quot;Second pochette,&quot; a conventinal type kosk, are located.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the platform for tracks 2 and 3, &quot;Menza,&quot; a noodle shop, and &quot;Second pochette,&quot; a conventional type kiosk, are located.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">On Platform 2 and 3, &apos;Menza,&apos; a noodle shop, and &apos;Second pochette,&apos; a conventional type kiosk, are located.</e>
+<cmt>&quot;→ &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="21">
+<j>のりば</j>
+<e type="trans" ver="1">Platform</e>
+<cmt></cmt>
+<e type="trans" ver="2">Platform</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Platforms</e>
+<cmt>複数にしました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="22">
+<j>2・3番線は同一平面上にあるため、本線下り列車と宇治線列車の相互乗換は容易で、1・2番線は8両編成、3・4番線は5両編成まで停車可能である。</j>
+<e type="trans" ver="1">With tracks 2 and 3 provided on the same plane, you can easily change from a down-train on the main line to a train on Uji Line and vice versa, and trains with up to eight cars can stop on tracks 1 and 2 and those with up to five cars on tracks 3 and 4.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With tracks 2 and 3 provided on the same plane, one can easily change from a down-train on the main line to a train on Uji Line and vice versa; moreover, trains with up to eight cars can stop on tracks 1 and 2 and those with up to five cars can stop on tracks 3 and 4.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">With Platform 2 and 3 provided on the same plane, one can easily change from an outbound train on the main line to a train on Uji Line and vice versa; moreover, trains with up to eight cars can stop on Platform 1 and 2 and those with up to five cars can stop on Platform 3 and 4.</e>
+<cmt>下り→outbound としました。tracks 2 and 3→Platform 2 and 3に変更しました。tracks 1 and 2→Platform 1 and 2に変更しました。Tracks 3 and 4→Platform 3 and 4に変更しました。</cmt>
+</sen>
+<sen id="23">
+<j>（3番線は2番線と隣同士でスペースはあるが、ポイント事情のため柵が付けてある）</j>
+<e type="trans" ver="1">(Although space is available because track 2 and track 3 are located adjacently, a fence is provided because of a point-related situation.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Although space is available because track 2 and track 3 are located adjacently, a fence is provided because of a point-related situation.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(There is some space between Platform 2 and 3, which run alongside each other, and a fence is provided between them because of the point-related situation.)</e>
+<cmt>NC check お願いします（原文の意味を完全に理解できておらず、左記のようにいたしました）。NR: I&apos;ve fixed the grammar but it&apos;s very difficult to imagine what &quot;ポイント事情のため柵が付けてある&quot; is supposed to mean so I cannot be sure if this is an appropriate translation or not.tracks 2 and 3→Platform 2 and 3に変更しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="24">
+<j>なお滅多に使われない4番線だが、元々は宇治線から京阪本線に直通する三条（又は出町柳）行き列車用のホームであった。</j>
+<e type="trans" ver="1">Track 4, which is now used rarely, was originally the platform for the trains bound for Sanjo Station (or Demachiyanagi Station), providing through service with Keihan Main Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track 4, which is rarely used today, was originally the platform for trains bound for Sanjo Station (or Demachiyanagi Station), providing through-service with the Keihan Main Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Platform 4, which is rarely used today, was originally the platform for trains bound for Sanjo Station (or Demachiyanagi Station), providing through-service to the Keihan Main Line from the Uji Line.</e>
+<cmt>翻訳を追加しました。Track 4→Platform 4に変更しました。</cmt>
+</sen>
+<sen id="25">
+<j>2000年に宇治線と京阪本線の直通列車が中書島を境に系統分割された後も当駅折返し三条（又は出町柳）行ホームとして使用されていたが、2003年秋のダイヤ改正とともに当駅折返し列車は平日1往復となり、さらに2006年春のダイヤ改定後は当駅折返し列車が全廃されたため、現在は早朝のごく僅かの宇治線列車しか使用していない（平日2本、休日1本）。</j>
+<e type="trans" ver="1">Even after the sysem for the trains providing through service between Uji Line and Keihan Main Line was divided in 2000 with Chushojima as the boundary, this track was used for the trains retunning for Sanjo Station or Demachiyanagi Station at this station, but after the train schedule was changed in the autumn of 2003, only one train returning at this station was operated in a weekday, and then, when the train schedule was changed in the spring of 2006, the operation for the trains returning at this station was abloshed; Therefore, now, only a few trains on Uji Line use this track in the early morning (two trains a day in the week day ans a train in holidays).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even after the system for the trains providing through-service between the Uji Line and the Keihan Main Line was divided in 2000 with Chushojima as the boundary, this track was used for the trains returning for Sanjo Station or Demachiyanagi Station at this station; however, after the train schedule was changed in the autumn of 2003, only one train returning at this station was operated on a weekday, and then, when the train schedule was changed in the spring of 2006, the operation for the trains returning at this station was abolished; accordingly, today only a few trains on the Uji Line use this track in the early morning (two trains a day in the weekday and a train on holidays).</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Even after the system for the trains providing through-service between the Uji Line and the Keihan Main Line was divided in 2000 with Chushojima as the boundary, this track was used for the trains returning for Sanjo Station or Demachiyanagi Station at this station; however, after the train schedule was changed in the autumn of 2003, only one train returning at this station was operated on a weekday, and then, when the train schedule was changed in the spring of 2006, the operation for the trains returning at this station was abolished; accordingly, today only a few trains on the Uji Line use this track in the early morning (two trains a day in the weekday and a train on holidays).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>かつて、非使用時間帯に4番線は閉鎖されていたが、現在は南改札口新設に伴い常時解放されている。</j>
+<e type="trans" ver="1">Formerly, use of track 4 was closed when it was not used, bu nowthe track is always open corresponding to the provision of the south entrance/exit gate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Formerly, track 4 was closed when it wasn&apos;t being used, but now the track is always open, corresponding to the provision of the south entrance/exit gate.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Formerly, Platform 4 was closed when it wasn&apos;t being used, but now the track is always open, corresponding to the provision of the south ticket gate.</e>
+<cmt>ticket gate としました。track 4→Platform 4に変更しました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="27">
+<j>4番線は南改札口設置直後は「当駅始発 三条・宇治方面」の記載であったが、しばらくして「当駅始発（早朝のみ）」という表示に変わった。</j>
+<e type="trans" ver="1">The information board for track 4 displayed &quot;For the trains bound for Sanjo or Uji starting running at this station&quot; immediate after the south entrance/exit gate was installed, but after a while, the display was changed to &quot;For the trains starting running at this station (only in the early morning).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The information board for track 4 displayed the message, &quot;For the trains bound for Sanjo or Uji starting running at this station&quot; immediately after the south entrance/exit gate was installed, but after a while the display was changed to read, &quot;For the trains starting running at this station (only in the early morning&quot;).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The information board for Platform 4 displayed the message, &apos;For the trains bound for Sanjo or Uji starting at this station&apos; immediately after the south ticket gate was installed, but after a while the display was changed to read, &quot;For the trains starting at this station (only in the early morning)&apos;.</e>
+<cmt>&quot;→ &apos;　としました。Starting running →starting at としました。track 4→Platform 4に変更しました。</cmt>
+</sen>
+<sen id="28">
+<j>とはいえ前述した通り、現在発着する列車は宇治線列車と回送列車のみとなっているため、実情と異なる記載になってしまっている。</j>
+<e type="trans" ver="1">However, even the description does not reflect the true situation, because, as described above, the trains using the track are only trains on Uji Line and deadhead trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, even the description doesn&apos;t reflect the true situation because, as described above, the trains using the track are only trains on the Uji Line and deadhead trains.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">However, even the description doesn&apos;t reflect the true situation because, as described above, the trains using the track are only trains on the Uji Line and deadhead trains.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="29">
+<j>発車メロディ導入駅であり、宇治行きの場合、発車案内放送が通常のものとは違うタイプになっている。</j>
+<e type="trans" ver="1">A melody for train departure notification is used in this station, and the type of the public announcment of departure information for trains for Uji is different from that of the corresponding ordinary announcemant for other trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A melody for train-departure notification is used in this station, and the type of public announcement of departure information for the trains for Uji differs from that of the corresponding ordinary announcement for other trains.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">A melody for train-departure notification is used in this station, and the type of public announcement of departure information for the trains for Uji differs from that of the corresponding ordinary announcement for other trains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>2003年のダイヤ改正時点では「3or4番線の各駅停車が発車します」となっていたが、その後「3or4番線の宇治行きが発車します」、そして2007年6月の自動放送更新後は「3or4番線・宇治行きの扉が閉まります」となった。</j>
+<e type="trans" ver="1">When the train schedule was changed in 2003, the announcment was &quot;The local train on track 3 or 4 is going to depart,&quot;then changed to &quot;The train for Uji on track 3 or 4 is going to depart,&quot; and again changed to &quot;The doors of the train for Uji on track 3 or 4 are going to be cloded&quot; when the automatic public announcment system was updated in June, 2007.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the train schedule was changed in 2003, the announcement was, &quot;The local train on track 3 or 4 is going to depart,&quot; but then it was changed to, &quot;The train for Uji on track 3 or 4 is going to depart,&quot; and was again changed to, &quot;The doors of the train for Uji on track 3 or 4 are going to be closed&quot; when the automatic public announcement system was updated in June 2007.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">When the train schedule was changed in 2003, the announcement was, &apos;The local train on Platform 3 or 4 is going to depart,&apos; but then it was changed to, &apos;The train for Uji on Platform 3 or 4 is going to depart,&apos; and was again changed to, &apos;The doors of the train for Uji on Platform 3 or 4 are going to be closed&apos; when the automatic public announcement system was updated in June 2007.</e>
+<cmt>→ &apos;　としました。track 3→Platform 3に変更しました。</cmt>
+</sen>
+<sen id="31">
+<j>これは、宇治線内では1種類の列車（普通 宇治ゆき）しか運転されていないことと、3番線発車の場合は2番線に発着する京阪本線下り列車との誤乗を防ぐためと思われる。</j>
+<e type="trans" ver="1">It is considered that such changes in the announcements ware made for the following reasons: One reason is because trains of only one type (local trains for Uji) are operated on Uji Line and another reson is to prevent passengers going to get on a down-train on Keihan Main Line on track 2 from getting erroneously on the train on track 3 or 4, when a train is going to depart from track 3.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is considered that such changes in the announcements were made because trains of only one type (local trains for Uji) are operated on the Uji Line, but another reason is to prevent passengers going to get on a down-train on the Keihan Main Line on track 2 from mistakenly boarding the train on track 3 or 4 when a train is going to depart from track 3.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is considered that such changes in the announcements were made because trains of only one type (local trains for Uji) are operated on the Uji Line, but another reason is to prevent passengers going to get on a down-train on the Keihan Main Line on Platform 2 from mistakenly boarding the train on Platform 3 or 4 when a train is going to depart from Platform 3.</e>
+<cmt>track 3→Platform 3に変更しました。track 2→Platform 2に変更しました。</cmt>
+</sen>
+<sen id="32">
+<j>同じようなタイプの放送は枚方市駅（私市行き）、京橋駅 (大阪府)及び天満橋駅（淀屋橋方面行き）にも見られる。</j>
+<e type="trans" ver="1">Public announcements of such a type are also made in Hirakatashi Station (bound for Kisaichi Station), in Kyobashi Station (Osaka Prefecture) and in Temmabashi Station (bound for Yodoyabashi)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Public announcements of such a type are also made in Hirakatashi Station (trains bound for Kisaichi Station), in Kyobashi Station (Osaka Prefecture) and in Temmabashi Station (trains bound for Yodoyabashi).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Public announcements of such a type are also made in Hirakatashi Station (trains bound for Kisaichi Station), in Kyobashi Station (Osaka Prefecture) and in Tenmabashi Station (trains bound for Yodoyabashi).</e>
+<cmt>Tenmabashi としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station sroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="33">
+<j>橋本駅 (京都府)同様、戦前までは遊廓があり賑わった。</j>
+<e type="trans" ver="1">Before the war, the area thrived with a red-light distric, as around Hashimoto Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Before the war, the area thrived with a red-light district, as around Hashimoto Station.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Before the war, the area thrived with a red-light district, as around Hashimoto Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>現在は駅前に飲食店が軒を連ねるものの、かつての名残は遊廓だった一部の建物が民家として残るのみ。</j>
+<e type="trans" ver="1">Now, although the area is crowded with eating/drinking places, but only some buildings in the red-light district remain as private houses to remind that old days.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Now, although the area is crowded with eating/drinking establishments, some buildings in the red-light district remain as private houses to remind people of the old days.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Now, although the area is crowded with eating/drinking establishments, some buildings in the red-light district remain as private houses to remind people of the old days.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="35">
+<j>新日本理化京都工場</j>
+<e type="trans" ver="1">The Kyoto factory of New Japan Chemical Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto factory of New Japan Chemical Co., Ltd.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Kyoto factory of New Japan Chemical Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="36">
+<j>伏見港公園</j>
+<e type="trans" ver="1">Fushimiko Park</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fushimiko Park</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fushimi-port Park</e>
+<cmt>英語での表記にしました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="37">
+<j>寺田屋（幕末、坂本龍馬が定宿し、また寺田屋事件の舞台になった老舗旅館である）</j>
+<e type="trans" ver="1">Teradaya (a long-established inn where towards the end of the Edo era, Ryoma SAKAMOTO stayed regularly and was also the scene of the Teradaya Incident)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Teradaya is a long-established inn where, toward the end of the Edo period, Ryoma SAKAMOTO stayed regularly; it was also the scene of the Teradaya Incident.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Teradaya is a long-established inn where, toward the end of the Edo period, Ryoma SAKAMOTO stayed regularly; it was also the scene of the Teradaya Incident.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="38">
+<j>モリタ製作所</j>
+<e type="trans" ver="1">J. MORITA MFG. CORP.</e>
+<cmt></cmt>
+<e type="trans" ver="2">J. MORITA MFG. CORP.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">J. MORITA MFG. CORP.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="39">
+<j>月桂冠大倉記念館</j>
+<e type="trans" ver="1">Gekkeikan Okura Sake Museum</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gekkeikan Okura Sake Museum</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gekkeikan Okura Sake Museum</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="40">
+<j>宇治川</j>
+<e type="trans" ver="1">Uji-gawa River</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Uji-gawa River</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Uji-gawa River</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>バスのりば</j>
+<e type="trans" ver="1">Bus stops</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus stops</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus stops</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="41">
+<j>京阪中書島</j>
+<e type="trans" ver="1">Keihan Chushojima</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Chushojima</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Chushojima</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="42">
+<j>京阪バス/京阪シティバス/京阪宇治バス/京阪京都交通</j>
+<e type="trans" ver="1">Keihan Bus/Keihan City Bus/Keihan Uji Bus/Keihan Kyoto Kotsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Bus/Keihan City Bus/Keihan Uji Bus/Keihan Kyoto Kotsu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Bus/Keihan City Bus/Keihan Uji Bus/Keihan Kyoto Kotsu</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="43">
+<j>6号経路：（桃山南口駅、大受団地経由）醍醐駅 (京都府)行（京阪バス山科営業所）</j>
+<e type="trans" ver="1">Path 6: Bound for Daigo Station (Kyoto Prefecture) (via Momoyama-Minamiguchi Station and the Ouke-danchi housing complex)(Keihan Bus Yamashina Eigyosho (Yamashina business office))</e>
+<cmt></cmt>
+<e type="trans" ver="2">Path 6: Bound for Daigo Station (Kyoto Prefecture) (via Momoyama-Minamiguchi Station and the Ouke-danchi housing complex) (Keihan Bus Yamashina Eigyosho (Yamashina business office))</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Path 6: Bound for Daigo Station (Kyoto Prefecture) (via Momoyama-Minamiguchi Station and the Ouke-danchi housing complex) (Keihan Bus Yamashina Eigyosho (Yamashina business office))</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="44">
+<j>23系統：（ジャスコ久御山店、久御山団地経由）京阪宇治バス宇治営業所行</j>
+<e type="trans" ver="1">Route 23: bound for Keihan Uji Bus Uji Eigyosho (Uji business office) (via the JUSCO Kumiyama-ten store and the Kumiyama-danchi housing complex)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 23: Bound for Keihan Uji Bus Uji Eigyosho (Uji business office) (via the JUSCO Kumiyama-ten store and the Kumiyama-danchi housing complex)</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Route 23: Bound for Keihan Uji Bus Uji Eigyosho (Uji business office) (via the JUSCO Kumiyama-ten store and the Kumiyama-danchi housing complex)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="45">
+<j>24,24A号経路：竹田駅 (京都府)西口行/淀駅行</j>
+<e type="trans" ver="1">Pathes 24/24A: Bound for Takeda Station-nishiguchi (the west entrance of Takeda Station) (Kyoto prefecture)/for Yodo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Paths 24/24A: Bound for Takeda Station-nishiguchi (the west entrance of Takeda Station) (Kyoto Prefecture) and/or for Yodo Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Paths 24/24A: Bound for Takeda Station-nishiguchi (the west exit of Takeda Station) (Kyoto Prefecture)/Yodo Station</e>
+<cmt>entrance→ exit　としました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="46">
+<j>25号経路（京阪宇治バスは25系統）：（ジャスコ久御山店、久御山団地経由）大久保駅 (京都府)行（京阪バス京田辺営業所など）</j>
+<e type="trans" ver="1">Pth 26 (route 25 for Keihan Uji Bus): bound for Okubo Station (Kyoto Prefecture) (via the JUSCO Kumiyama-ten store and the Kumiyama-danchi housing complex), etc.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Path 26 (Route 25 for Keihan Uji Bus): Bound for Okubo Station (Kyoto Prefecture) (via the JUSCO Kumiyama-ten store and the Kumiyama-danchi housing complex), etc.)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Path 25 (Route 25 for Keihan-Uji Bus): Bound for Okubo Station (Kyoto Prefecture) (via the JUSCO Kumiyama-ten store and the Kumiyama-danchi housing complex) (Keihan Bus Kyotanabe Eigyosho (Kyotanabe business office), etc.)</e>
+<cmt>数字を修正しました。行き先を追加しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="47">
+<j>高速バス：立命館大学行</j>
+<e type="trans" ver="1">High-speed bus: bound for Ritsumeikan University</e>
+<cmt></cmt>
+<e type="trans" ver="2">High-speed bus: Bound for Ritsumeikan University</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Express bus: Bound for Ritsumeikan University</e>
+<cmt>Express としました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="48">
+<j>京阪中書島・伏見港公園</j>
+<e type="trans" ver="1">Keihan-Chushojima/the Fushimi port park</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan-Chushojima/the Fushimi port park</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Chushojima/Fushimi-port park</e>
+<cmt>Fushimi-port Park としました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="49">
+<j>京阪中書島から徒歩3分の伏見港公園そばにある。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Located near Fushimi-port Park, it is a three-minute walk from Keihan Chushojima Station.</e>
+<cmt>翻訳を追加しました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="50">
+<j>京都市営バス</j>
+<e type="trans" ver="1">Kyoto City Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="51">
+<j>81系統：（竹田街道経由）京都駅行</j>
+<e type="trans" ver="1">Route 81: bound for Kyoto Station (via Takedakaido)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 81: Bound for Kyoto Station (via Takedakaido)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 81: Bound for Kyoto Station (via Takeda-kaido Road)</e>
+<cmt>Takeda-kaido Roadとしました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="52">
+<j>20系統：（運転免許試験場経由）宮前橋西詰方面/（納所町経由）宮前橋西詰方面</j>
+<e type="trans" ver="1">Route 20: bound for the direction of Miyamaebashi Nishizume(via Menkyo Shikenjo (the driving license testing place)/for the direction of Miyamaebashi Nishizume (via Nosocho)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 20: Bound for the direction of Miyamaebashi Nishizume (via Menkyo Shikenjo (the location for driver&apos;s license testing) and/or for the direction of Miyamaebashi Nishizume (via Nosocho)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 20: Bound for the direction of Miyamaebashi Nishizume (via Menkyo Shikenjo (driver&apos;s license center)/for the direction of Miyamaebashi Nishizume (via Noso-cho)</e>
+<cmt>一部表現を修正しました。</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="53">
+<j>22系統：（久我経由）南工業団地行</j>
+<e type="trans" ver="1">Route 22: bound for Minami Kogyodanchi (the south industrial park) (via Koga)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 22: Bound for Minami Kogyodanchi (the south industrial park) (via Koga)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 22: Bound for Minami Kogyodanchi (the south industrial park) (via Koga)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="54">
+<j>南3系統：竹田駅西口行</j>
+<e type="trans" ver="1">Route 23: bound for Takedaeki-nishiguchi (the west entrance of Takeda Station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 23: Bound for Takedaeki-nishiguchi (the west entrance of Takeda Station)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route south 3: Bound for Takedaeki-nishiguchi (the west exit of Takeda Station)</e>
+<cmt>south 3 としました。entrance →exit　としました。</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="55">
+<j>中書島</j>
+<e type="trans" ver="1">Chushojima</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chushojima</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chushojima</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="56">
+<j>京阪中書島駅から徒歩3分の府道上にある。</j>
+<e type="trans" ver="1">Located on a prefecture road, three minutes walk from Keihan Chushojima Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Located on a prefecture road, it&apos;s a three-minute walk from Keihan Chushojima Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Located on a prefecture route, it&apos;s a three-minute walk from Keihan Chushojima Station.</e>
+<cmt>prefectural route としました。</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="57">
+<j>京都市バス</j>
+<e type="trans" ver="1">Kyoto City Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="58">
+<j>19系統：（京阪国道経由）京都駅行/横大路車庫行</j>
+<e type="trans" ver="1">Route 19: bound for Kyoto Station (via Keihan Kokudo (the keihan national road))/Yokooji Shako</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 19: Bound for Kyoto Station (via Keihan Kokudo (the keihan national road)) and/or Yokooji Shako</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 19: Bound for Kyoto Station (via Keihan Kokudo (the keihan national route))/Yokooji-shako Depot</e>
+<cmt>national route, Yokooji-shako Depot としました。</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="59">
+<j>20系統：（免許試験場経由）宮前橋西詰方面/（納所町経由）宮前橋西詰方面</j>
+<e type="trans" ver="1">Route 20: bound for the direction of Miyamaebashi Nishizume(via Menkyo Shikenjo (the driving license testing place)/for the direction of Miyamaebashi Nishizume (via Nosocho)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 20: Bound for the direction of Miyamaebashi Nishizume (via Menkyo Shikenjo (the location for driver&apos;s license testing) and/or for the direction of Miyamaebashi Nishizume (via Nosocho)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 20: Bound for the direction of Miyamaebashi Nishizume (via Menkyo Shikenjo (driver&apos;s license center)/for the direction of Miyamaebashi Nishizume (via Noso-cho)</e>
+<cmt>一部表現を修正しました。</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="60">
+<j>南8系統（桃陵団地前経由）竹田駅東口行き/（藤森神社前経由）横大路車庫前行き（終日、小型バスで運行。）</j>
+<e type="trans" ver="1">Route 8: bound for Takedaeki-higashiguchi (the east entrance of Takeda Station) (via the Toryo-danchi housing complex)/for Yokoojishako (via Fujinomori-jinja Shrine) (Small-sized buses are operated all day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 8: Bound for Takedaeki-higashiguchi (the east entrance of Takeda Station) (via the Toryo-danchi housing complex) and/or for Yokoojishako (via Fujinomori-jinja Shrine) (small-size buses run throughout the day).</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route south 8: Bound for Takedaeki-higashiguchi (the east exit of Takeda Station) (via the Toryo-danchi housing complex)/for Yokooji-shako Depot (via Fujinomori-jinja Shrine) (small-size buses run throughout the day).</e>
+<cmt>south を追加しました。entrance →exit　としました。Yokooji-shako Depot としました。</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="61">
+<j>22系統：（久我経由）南工業団地行/横大路車庫行</j>
+<e type="trans" ver="1">Route 22: bound for Minami Kogyo Danchi (the south industrial park) (via Koga)/for Yokooji Shako</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 22: Bound for Minami Kogyo Danchi (the south industrial park) (via Koga) and/or for Yokooji Shako</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 22: Bound for Minami Kogyo Danchi (the south industrial park) (via Koga)/for Yokooji-shako Depot</e>
+<cmt>Yokooji-shako Depot としました。</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="62">
+<j>81,特81系統：（竹田街道経由）京都駅行/横大路車庫行</j>
+<e type="trans" ver="1">Routes 81/special 81: bound for Kyoto Station (via Takedakaido)/for Yokooji Shako</e>
+<cmt></cmt>
+<e type="trans" ver="2">Routes 81/special 81: Bound for Kyoto Station (via Takedakaido) and/or for Yokooji Shako</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Routes 81/special 81: Bound for Kyoto Station (via Takeda-kaido Road)/for Yokooji-shako Depot</e>
+<cmt>Yokooji-shako Depot としました。</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="63">
+<j>南3系統：竹田駅西口行/横大路車庫行</j>
+<e type="trans" ver="1">Route south 3: bound for Takedaeki-nishiguchi (the west entrance of Takeda Station)/for Yokooji Shako</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route south 3: Bound for Takedaeki-nishiguchi (the west entrance of Takeda Station) and/or for Yokooji Shako</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route south 3: Bound for Takedaeki-nishiguchi (the west exit of Takeda Station)/for Yokooji-shako Depot</e>
+<cmt>Yokooji-shako Depot としました。</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="64">
+<j>19系統・20系統・南8系統のみ京阪バス、他は阪急バスに運行を委託されている。</j>
+<e type="trans" ver="1">Only buses on routes 19, 20 and south 8 are operated by Keihan Bus, and the operation of the other buses is entrusted to Hankyu Bus Co.,Ltd</e>
+<cmt></cmt>
+<e type="trans" ver="2">Only buses on routes 19, 20 and south 8 are operated by Keihan Bus, while the operation of the other buses is entrusted to Hankyu Bus Co., Ltd.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Only buses on routes 19, 20 and south 8 are operated by Keihan Bus, while the operation of the other buses is entrusted to Hankyu Bus Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="65">
+<j>京阪バス/京阪シティバス/京阪宇治バス</j>
+<e type="trans" ver="1">Keihan Bus/Keihan City Bus/Keihan-Uji Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Bus/Keihan City Bus/Keihan-Uji Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Bus/Keihan City Bus/Keihan-Uji Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="66">
+<j>6号経路：竹田駅西口行/（桃山南口駅、大受団地経由）醍醐バスターミナル行</j>
+<e type="trans" ver="1">Path 6: bound for Takedaeki-nishiguchi (the west entrance of Takeda Station)/for Daigo Terminal (via Momoyama-Minamiguchi Station and the Ouke-danchi housing complex)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Path 6: Bound for Takedaeki-nishiguchi (the west entrance of Takeda Station) and/or for Daigo Terminal (via Momoyama-Minamiguchi Station and the Ouke-danchi housing complex)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Path 6: Bound for Takedaeki-nishiguchi (the west exit of Takeda Station)/for Daigo Terminal (via Momoyama-Minamiguchi Station and the Ouke-danchi housing complex)</e>
+<cmt>entrance →exit　としました。</cmt>
+</sen>
+</par>
+<par id="27">
+<sen id="67">
+<j>23系統：（ジャスコ久御山店、久御山団地経由）宇治車庫行</j>
+<e type="trans" ver="1">Route 23: bound for Uji Shako (via the JUSCO Kumiyama-ten store and the Kumiyama-danchi housing complex)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 23: Bound for Uji Shako (via the JUSCO Kumiyama-ten store and the Kumiyama-danchi housing complex)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 23: Bound for Uji-shako Depot (via the JUSCO Kumiyama-ten store and the Kumiyama-danchi housing complex)</e>
+<cmt>Uji-shako Depot としました。</cmt>
+</sen>
+</par>
+<par id="28">
+<sen id="68">
+<j>24,24A号経路：竹田駅西口行/淀駅行</j>
+<e type="trans" ver="1">Pathes 24 and 24A: bound for Takedaeki-nishiguchi (the west entrance of Takeda Station)/for Yodo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Paths 24 and 24A: Bound for Takedaeki-nishiguchi (the west entrance of Takeda Station) and/or for Yodo Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Paths 24 and 24A: Bound for Takedaeki-nishiguchi (the west exit of Takeda Station)/for Yodo Station</e>
+<cmt>entrance →exit　としました。</cmt>
+</sen>
+</par>
+<par id="29">
+<sen id="69">
+<j>25号経路（京阪宇治バスは25系統）：（ジャスコ久御山店、久御山団地経由）大久保駅 (京都府)行</j>
+<e type="trans" ver="1">Path 25 (route 25 for Keihan Uji Bus): bound for Okubo Station (Kyoto Prefecture) (via the JUSCO Kumiyama-ten store and the Kumiyama-danchi housing complex)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Path 25 (Route 25 for Keihan Uji Bus): Bound for Okubo Station (Kyoto Prefecture) (via the JUSCO Kumiyama-ten store and the Kumiyama-danchi housing complex)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Path 25 (Route 25 for Keihan-Uji Bus): Bound for Okubo Station (Kyoto Prefecture) (via the JUSCO Kumiyama-ten store and the Kumiyama-danchi housing complex)</e>
+<cmt>Keihan-Uji Bus としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="70">
+<j>駅名の由来</j>
+<e type="trans" ver="1">The origin of this station name</e>
+<cmt></cmt>
+<e type="trans" ver="2">Origin of the station&apos;s name</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Origin of the station&apos;s name</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="71">
+<j>文禄年間、中務省の職にあった脇坂安治が淀川の分流に囲まれた島に屋敷を建て住んだことから「中書島」の名前が生まれたとされる。</j>
+<e type="trans" ver="1">It is said that the name of &quot;Chushojima&quot; was generated because Yasuharu WAKIZAKA, who worked at Nakatsukasasho in the Bunroku era (1593 - 1596) built a house on an island surrounded by a branch river of the Yodo-gawa River and lived there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that the name &quot;Chushojima&quot; was generated because Yasuharu WAKIZAKA, who worked at Nakatsukasasho in the Bunroku era (1593 - 1596), built a house on an island surrounded by a branch river of the Yodo-gawa River and lived there.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is said that the name &apos;Chushojima&apos; was generated because Yasuharu WAKIZAKA, who worked at Nakatsukasasho (Ministry of Central Affairs) in the Bunroku era (1593 - 1596), built a house on an island surrounded by a branch river of the Yodo-gawa River and lived there.</e>
+<cmt>中務省の補足を追加しました。</cmt>
+</sen>
+<sen id="72">
+<j>当時「官名」を中国風にしゃれて呼ぶ慣わしがあり（「中納言」を「黄門」と呼んだのがその一例）、中務少輔の職が「中書省」であったことから、脇坂は「中書（ちゅうじょう）さま」と呼ばれていた。</j>
+<e type="trans" ver="1">At that time, there was a practice of using witty expressions for official position names (for example, using &quot;Komon&quot; for &quot;Chunagon&quot;), and sinc the position of Nakatsukasa-shoyu was called &quot;中書省 (Chushosho),&quot; WAKIZAKA was called &quot;Mr. 中書 (Chujo).&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">At that time, there was a practice of using witty expressions for official position names (for example, using &quot;Komon&quot; for &quot;Chunagon&quot;), and since the position of Nakatsukasa-shoyu was called &quot;中書省 (Chushosho),&quot; WAKIZAKA was called &quot;Mr. 中書 (Chujo).&quot;</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">At that time, there was a practice of using witty expressions for official position names (for example, using &apos;Komon&apos; for &apos;Chunagon&apos; (vice-councilor of state)), and since the position of Nakatsukasa-shoyu (Junior Assistant Minister of the Ministry of Central Affairs) was called &apos;Chushosho,&apos; WAKIZAKA was called &apos;Mr. Chujo.&apos;</e>
+<cmt>英語の補足を追加しました。(Middle Counselor)→ (vice-councilor of state)に変更しました。</cmt>
+</sen>
+<sen id="73">
+<j>その「中書さま」の住む屋敷の島という理由で「中書島」と呼ばれるようになった。</j>
+<e type="trans" ver="1">The name of the island became called &quot;中書省 (Chushojima),&quot; because &quot;中書さま (Mr. Chojo)&quot; lived on it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The name of the island became called &quot;中書省 (Chushojima),&quot; because &quot;中書さま (Mr. Chojo)&quot; lived on it.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The name of the island became called &apos;Chushojima&apos; (Chusho island), because &apos;Mr. Chojo&apos; lived on it.</e>
+<cmt>一部表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="74">
+<j>正式な地名には使用されておらず、北浜町・西浜町・東柳町などが中書島とよばれる区画に属している。</j>
+<e type="trans" ver="1">It is not used as an official place name, and the area called &quot;Chushojima&quot; covers the areas of the Kitahama-cho town, the Nishihama-cho town and the Higashiyanagi-cho town</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is not used as an official place name, and the area called &quot;Chushojima&quot; covers the areas of the towns of Kitahama-cho, Nishihama-cho and Higashiyanagi-cho.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is not used as an official place name, and the area called &quot;Chushojima&quot; covers the areas of the towns of Kitahama-cho, Nishihama-cho and Higashiyanagi-cho.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>年表</j>
+<e type="trans" ver="1">Chlonological table</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chronological table</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Chronological table</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="75">
+<j>1910年（明治43年）4月15日 京阪本線開通と同時に開業。</j>
+<e type="trans" ver="1">April 15, 1910: This station started its operation ath the same time when the Keihin Main Line started its operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 15, 1910: This station&apos;s operations started simultaneously with those of the Keihin Main Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 15, 1910: This station&apos;s operations started simultaneously with those of the Keihin Main Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="76">
+<j>1913年（大正2年）6月1日 京阪宇治線開業。</j>
+<e type="trans" ver="1">June 1, 1913: The Keihan Uji line started its operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">June 1, 1913: The Keihan Uji line went into operation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">June 1, 1913: The Keihan Uji Line went into operation.</e>
+<cmt>Line と大文字にしました。</cmt>
+</sen>
+<sen id="77">
+<j>乗換駅となる。</j>
+<e type="trans" ver="1">It became a station where passengers could change train lines they use.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It became a station where passengers could switch train lines.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It became a transfer station.</e>
+<cmt>乗換駅→transfer station としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="78">
+<j>1914年（大正3年）8月25日 京都市電伏見線（1918年7月1日より京都市電）が当駅まで延伸。</j>
+<e type="trans" ver="1">August 25, 1914: The operation of the Fushimi line of Kyoto City Trams (Kyoto City Trams from July 1, 1918) was extended to this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 25, 1914: The operation of the Fushimi Line of Kyoto City Trams (Kyoto City Trams from July 1, 1918) was extended to this station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">August 25, 1914: The operation of the Fushimi Line of Kyoto City Streetcar (Kyoto City Trams from July 1, 1918) was extended to this station.</e>
+<cmt>streetcar としました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="79">
+<j>1916年（大正5年）4月1日 急行停車駅となる。</j>
+<e type="trans" ver="1">April 1, 1916: Express trains became to stop at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1916: Express trains began making stops at this station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 1916: Express trains began making stops at this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="80">
+<j>1943年（昭和18年）10月1日 会社合併により京阪神急行電鉄（阪急電鉄）の駅となる。</j>
+<e type="trans" ver="1">October 1, 1943: With the companies concerned merged, this station became a station of Keihanshin Express Railway (Hankyu Railway).</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 1, 1943: With the merger of the companies concerned, this station became a facility of the Keihanshin Express Railway (Hankyu Railway).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 1, 1943: The station became a facility of the Keihanshin Express Railway (Hankyu Railway) as a result of amalgamation.</e>
+<cmt>表現を統一しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="81">
+<j>1949年（昭和24年）12月1日 会社分離により京阪電気鉄道の駅となる。</j>
+<e type="trans" ver="1">December 1, 1949: Due to the division of the company, it became a station of Keihan Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 1, 1949: Due to the division of the company, it became a station of Keihan Electric Railway.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">December 1, 1949: Due to the division of the company, it became a station of Keihan Electric Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="82">
+<j>1967年（昭和42年）1月28日 構内地下道使用開始、構内踏切を廃止。</j>
+<e type="trans" ver="1">January 28, 1967: Use of an underground path in the station premises started, with use of the pedestrian crossing in the premises discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">January 28, 1967: The usage of an underground path in the station premises started, while that of the pedestrian crossing in the premises was discontinued.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">January 28, 1967: The usage of an underground passage in the station premises started, while that of the pedestrian crossing in the premises was discontinued.</e>
+<cmt>path →passage　としました。</cmt>
+</sen>
+<sen id="83">
+<j>同時に折り返し用の3番線ホーム（凹形）を廃止しホームを広げ、それまでの4番線→3番線、5番線→4番線に呼称を変更。</j>
+<e type="trans" ver="1">At the same timing, use of the (concave-shaped) platform for track 3, which was used for returning trains, was discontinued, and corresponding to the expansion of its width, track numbers were changed as follws: track 4 -&gt; track 3 and track 5 -&gt; track 4.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the same time, the use of the (concave-shaped) platform for track 3, which was used for returning trains, was discontinued, and corresponding to the expansion of its width, the track numbers were changed as follows: track 4 -&gt; track 3 and track 5 -&gt; track 4.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At the same time, the use of the (concave-shaped) Platform 3, which was used for returning trains, was discontinued, and corresponding to the expansion of its width, the Platform numbers were changed as follows: from Platform 4 to Platform 3 and from Platform 5 to Platform 4.</e>
+<cmt>-&gt; →　from to としました。H159track→ Platformに変更しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="84">
+<j>1970年（昭和45年）4月1日 京都市電伏見線（塩小路高倉～中書島）が廃止。</j>
+<e type="trans" ver="1">April 1, 1970: The operation of the Fushimi line of Kyoto City Trams (between Shiokoji Takakura and Chushojima) was discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1970: The operations of the Fushimi Line of Kyoto City Trams (between Shiokoji Takakura and Chushojima) were discontinued.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">April 1, 1970: The operations of the Fushimi Line of Kyoto City Trams (between Shiokoji Takakura and Chushojima) were discontinued.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="85">
+<j>1984年（昭和59年）6月2日 駅舎改築使用開始。</j>
+<e type="trans" ver="1">June 2, 1984: The work of rebuilding the station house was completed and its use started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">June 2, 1984: The work of rebuilding the station house was completed, and it became operational.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">June 2, 1984: The work of rebuilding the station house was completed, and it became operational.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="86">
+<j>1985年（昭和60年）4月17日 2番線ホーム下にホーム転落検知装置装置を設置し運用開始。</j>
+<e type="trans" ver="1">April 17, 1985: A unit to detect the tumbling-down of a human being was installed on the platform for track 2 and its use started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 17, 1985: A unit to detect the fall of a human was installed and implemented on the platform for track 2.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 17, 1985: A unit to detect the fall of a human was installed and implemented under the Platform 2.</e>
+<cmt>on→ under　としました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="87">
+<j>1989年（平成元年）10月　構内跨線橋完成。</j>
+<e type="trans" ver="1">October, 1989: The construction of a bridge across railroads within its premises was completed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October, 1989: The construction of a bridge across railroads within its premises was completed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October, 1989: The construction of a bridge across railroads within its premises was completed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="88">
+<j>1991年（平成3年） 7月 1番ホーム、2.3番ホームに冷房付き待合室運用開始。</j>
+<e type="trans" ver="1">July 1, 1991: A waiting room with an aircondition, on each of the platform for track 1 and that for tracks 2 and 3, became usable.</e>
+<cmt></cmt>
+<e type="trans" ver="2">July 1, 1991: Waiting rooms with air conditioners on each of the platforms for tracks 1, 2 and 3 came into use.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">July 1, 1991: Waiting rooms with air conditioners on each of Platform 1, 2 and 3 came into use.</e>
+<cmt>the platforms for tracks 1, 2 and 3→Platform 1, 2 and 3に変更しました。</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="89">
+<j>1993年（平成5年）1月30日 ダイヤ改正で平日朝ラッシュの淀屋橋行き特急6本に限り停車するようになる。</j>
+<e type="trans" ver="1">January 30, 1993: According to the change in the train schedule, six of the limited express trains during the rush-hours in the mornings of weekdays became to stop at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">January 30, 1993: According to the change in the train schedule, six of the limited express trains during the weekday morning rush hours began making stops at this station.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">January 30, 1993: According to the change in the train schedule, six of the limited express trains bound for Yodoyabashi during the weekday morning rush hours began making stops at this station.</e>
+<cmt>淀屋橋　を追加しました。</cmt>
+</sen>
+<sen id="90">
+<j>なお出町柳行きは引き続き全列車通過。</j>
+<e type="trans" ver="1">However, no train bound for Demachiyanagi Station stopped at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, no train bound for Demachiyanagi Station stopped at this station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, no limited express trains bound for Demachiyanagi Station stopped at this station.</e>
+<cmt>limited express trains としました。</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="91">
+<j>1995年（平成7年）12月27日 1番ホームの待合室が移動しリニューアル冷暖房完備。</j>
+<e type="trans" ver="1">December 27, 1995: The waiting room on the platform for track 1 was moved, with an airconditioner installed as well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 27, 1995: The waiting room on the platform for track 1 was moved, and an air conditioner was installed at the new location.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">December 27, 1995: The waiting room on Platform 1 was moved, and an air conditioner was installed at the new location.</e>
+<cmt>the platform for track 1→Platform 1に変更しました。</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="92">
+<j>1996年（平成8年）4月1日 構内跨線橋とホームの間にエレベーター3基を設置運用開始。</j>
+<e type="trans" ver="1">April 1, 1996, three elevators are installed between the bridge across railroads and the platforms, and their operations started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1996, three elevators were installed and activated between the bridge across railroads and the platforms.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 1996, three elevators were installed and activated between the bridge across railroads and the platforms.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="93">
+<j>2000年（平成12年）7月1日 ダイヤ改正で特急終日停車駅となる。</j>
+<e type="trans" ver="1">July 1, 2001: Coresponding to the change in the train schedule, all limited express trains became to stop at this station all day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">July 1, 2001: Corresponding to the change in the train schedule, all limited express trains began making stops at the station throughout the day.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">July 1, 2000: Corresponding to the change in the train schedule, all limited express trains began making stops at the station throughout the day.</e>
+<cmt>年を修正しました。</cmt>
+</sen>
+<sen id="94">
+<j>宇治～三条（出町柳）間の直通列車がほとんど廃止されたことに伴い、昼間時に4番線発着の中書島～三条（出町柳）間区間運転列車が設定される（事実上、宇治直通列車の系統を当駅を境に分割した形）。</j>
+<e type="trans" ver="1">The operation of almost all trains providing through servies between Uji and Sanjo (Demachiyanagi) was discontinued, and trains running between Choshojima and Sanjo (Demachiyanagi) becames to use track 4 (as amater of a fact, it is considered that the through service up to Uji was separated with the boundary at this station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The operations of almost all trains providing through-services between Uji and Sanjo (Demachiyanagi) were discontinued, and trains running between Choshojima and Sanjo (Demachiyanagi) began using track 4 (in fact, it is considered that the through-service up to Uji was separated with the boundary at this station).</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The operations of almost all trains providing through-services between Uji and Sanjo (Demachiyanagi) were discontinued, and trains running between Chushojima and Sanjo (Demachiyanagi) began using Platform 4 (in fact, it is considered that the through-service up to Uji was separated with the boundary at this station).</e>
+<cmt>スペルを修正しました。 track 4→Platform 4に変更しました。</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="95">
+<j>2003年（平成15年）9月6日 中書島～三条（出町柳）区間運転列車が平日朝の1本のみとなり、4番線発着列車が大幅減少。</j>
+<e type="trans" ver="1">September 6, 2003: Only one train became operated in the day time between Choshojima and Sanjo (Demachiyanagi), with the number of trains arriving at/departuring from track 4 decreased drastically.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 6, 2003: Only one train was to be operated in the daytime between Choshojima and Sanjo (Demachiyanagi), and the number of trains arriving at/departing from track 4 decreased drastically.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">September 6, 2003: Only one train was to be operated between Chushojima and Sanjo (Demachiyanagi) in the morning of weekdays, and the number of trains arriving at/departing from Platform 4 decreased drastically.</e>
+<cmt>平日朝　に変更しました。track 4→Platform 4に変更しました。</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="96">
+<j>2004年（平成16年）8月9日 駅南側にバスターミナル開設に併せて、南改札口新設。</j>
+<e type="trans" ver="1">August 9, 2004: Coresponding to the opening of a bus terminal on the south side of this station, a south entrance/exit gate was newly provided.</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 9, 2004: Corresponding to the opening of a bus terminal on the south side of the station, a south entrance/exit gate was provided.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">August 9, 2004: Corresponding to the opening of a bus terminal on the south side of the station, a south ticket gate was provided.</e>
+<cmt>ticket gate としました。</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="97">
+<j>2006年4月16日中書島～三条（出町柳）区間運転列車がダイヤ改定で全廃、淀駅の仮移転に伴う臨時電車の待機場所に4番線が使われるようになる。</j>
+<e type="trans" ver="1">April 16, 2006: The operation of all trains running between Nakachoshojima and Sanjo (Demachiyanagi) was discontinued, and track 4 became used as the standby place for special trains, to deal with the temporay movement of Yodo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 16, 2006: The operation of all trains running between Nakachoshojima and Sanjo (Demachiyanagi) was discontinued, and track 4 became used as the standby location for special trains in order to deal with the temporary movement of Yodo Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 16, 2006: Corresponding to the change in the train schedule, the operation of all trains running between Chushojima and Sanjo (Demachiyanagi) was discontinued, and Platform 4 became used as the standby location for special trains in order to deal with the temporary movement of Yodo Station.</e>
+<cmt>翻訳を追加しました。track 4→Platform 4に変更しました。</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="98">
+<j>2008年（平成20年）2月　「ホーム異常通報装置」新設。</j>
+<e type="trans" ver="1">February, 2008: &quot;Units for nortifying abnormalities on a platform&quot; was installed newly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">February 2008: &quot;Units for indicating abnormalities on platforms&quot; were installed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">February 2008: &apos;Units for indicating abnormalities on platforms&apos; were installed.</e>
+<cmt>&quot; →&apos;　としました。</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="99">
+<j>2008年（平成20年）3月27日　各ホームにLED列車案内表示機を設置。</j>
+<e type="trans" ver="1">March 27, 2008: An LED train information display board was installed on each platform.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 27, 2008: An LED train information display board was installed on each platform.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">March 27, 2008: An LED train information display board was installed on each platform.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>その他</j>
+<e type="trans" ver="1">Others</e>
+<cmt></cmt>
+<e type="trans" ver="2">Others</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Others</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="100">
+<j>京都方面から京阪宇治線方面への直通運転を考えれば、この駅でスイッチバックするよりも、伏見区の中心地に位置する北隣の伏見桃山駅からそのまま分岐した方が合理的と思われがちだが、同駅南側には既に民家などが密集していて、それを立ち退かせる費用や立ち退き対象の世帯の交渉が煩雑になることなどから、現在の形に至った経緯がある。</j>
+<e type="trans" ver="1">Considering operation of through service from the Kyoto area to the area along the Keihan Uji line, it is supposed that it may be better to branch the line at Fushimi-momoyama Station, located int the immediately north of this station, rather than switching-back trains at shis station, but the following reasons exist for using the present system: Private houses and other buuildings are already placed densely on the south side of Fushimi-momoyama Station, and there exist the cost-related problems for moving these houses and the negotiations for the movement would become complicated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Considering the operation of through-service from the Kyoto area to the area along the Keihan Uji line, it is supposed that it may be better to branch the line at Fushimi-momoyama Station, located immediately north of this station, instead of switching back trains at this station, but the following reasons exist for using the present system: private houses and other buildings are already dense on the south side of Fushimi-momoyama Station, and there exist the cost-related problems of moving these houses and the negotiations for the movement would become complicated.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Considering the operation of through-service from the Kyoto area to the area along the Keihan Uji Line, it is supposed that it may be better to branch the line at Fushimi-momoyama Station, located in the center of Fushimi Ward and immediately north of this station, instead of switching back trains at this station, but the following reasons exist for using the present system: private houses and other buildings are already dense on the south side of Fushimi-momoyama Station, and there exist the cost-related problems of moving these houses and the negotiations for the movement would become complicated.</e>
+<cmt>翻訳を追加しました。</cmt>
+</sen>
+<sen id="101">
+<j>伏見桃山駅にとっては（丹波橋駅の存在もあり）、区の中心部にありながら優等列車が全く停車しなくなる一因になってしまった（丹波橋駅に奈良電気鉄道が乗り入れを開始するまでは急行停車駅だった）。</j>
+<e type="trans" ver="1">For Fushimi-momoyama Station, this made a factor that, although it is placed at the center of the ward, no higher-class train stops there (also due to the existence of Tambabashi Station) (express trains stopped at this station before Nara Electric Railway began using Tambabashi Station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">For Fushimi-momoyama Station, this made a factor that, although it is placed at the center of the ward, no higher-class train stops there (also due to the existence of Tambabashi Station) (express trains stopped at this station before the Nara Electric Railway began using Tambabashi Station).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">For Fushimi-momoyama Station, this made a factor that, although it is placed at the center of the ward, no higher-class train stops there (also due to the existence of Tanbabashi Station) (express trains stopped at this station before the Nara Electric Railway began using Tanbabashi Station).</e>
+<cmt>Tanbabashi としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="102">
+<j>北口を出た北側には、京都市電伏見線の乗り場が1914年から1970年まであり、市電廃止後は代替の市バスをはじめとするバス乗り場として使われていた。</j>
+<e type="trans" ver="1">On the north side of the north exit, a paltform for Kyoto City Trams existed between 1914 and 1970, and after the operation of the city trams was discontinued, the place was used as stops for bus lines including the City bus lines that replaced the City trams.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the north side of the north exit, there was a platform for Kyoto City Trams from 1914 to 1970, and after the operation of the city trams was discontinued the place was used as a stop for bus lines, including the City bus lines that replaced the City trams.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">On the north side of the north exit, there was a platform for Kyoto City Trams from 1914 to 1970, and after the operation of the city trams was discontinued the place was used as a stop for bus lines, including the city bus lines that replaced the City Trams.</e>
+<cmt>City Trams としました。</cmt>
+</sen>
+<sen id="103">
+<j>バス乗り場だった当時は、転回するスペースがないため、転車台が設置されていた。</j>
+<e type="trans" ver="1">When the place was used as bus stops, a turn table was provided there for changing the directions in which the buses ran, because the place was not specious enough.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the place was used as a bus stop, a turntable was provided there for changing the directions in which the buses ran, because the place had insufficient room.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">When the place was used as a bus stop, a turntable was provided there for changing the directions in which the buses ran, because the place had insufficient room.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="104">
+<j>その後バス乗り場が移転して一時空き地となっていたが、現在は有料駐輪場スペースとして活用されている。</j>
+<e type="trans" ver="1">After that, the bus stops were moved and the space were vacant for some time, but now the space is used as a charged bycle-parking area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After that, the bus stops were moved and the space was vacant for some time, but now the area is used for paid bicycle parking.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After that, the bus stops were moved and the space was vacant for some time, but now the area is used for paid bicycle parking.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="105">
+<j>本線から宇治線への乗り換え案内は、以前は「六地蔵・黄檗・宇治方面」と呼称していたが、2003年以降は「宇治線」とだけ呼称している。</j>
+<e type="trans" ver="1">The annoucement for changing the main line to the Uji line was &quot;For the direction of Rokujizo, Obaku and uji,&quot; but now it ha become simply &quot;Uji line&quot; since 2003.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The announcement for changing the main line to the Uji line was, &quot;For the direction of Rokujizo, Obaku and Uji,&quot; but it has simply been &quot;Uji line&quot; since 2003.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The announcement for changing the main line to the Uji Line was, &apos;For the direction of Rokujizo, Obaku and Uji,&apos; but it has simply been &apos;Uji Line&apos; since 2003.</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>位置情報</j>
+<e type="trans" ver="1">Information about the location</e>
+<cmt></cmt>
+<e type="trans" ver="2">Information about the location</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Location</e>
+<cmt>統一しました。</cmt>
+</tit>
+</sec>
+<sec id="9">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="106">
+<j>京阪電気鉄道</j>
+<e type="trans" ver="1">Keihan Electric Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="107">
+<j>京阪本線</j>
+<e type="trans" ver="1">The Keihan main line</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Keihan Main Line</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The Keihan Main Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="108">
+<j>■K特急</j>
+<e type="trans" ver="1">K-limited express trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">K-limited express trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">K-Limited Express</e>
+<cmt>統一しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="109">
+<j>京橋駅 (大阪府) - 枚方市駅（平日朝下りのみ） - 中書島駅 - 丹波橋駅</j>
+<e type="trans" ver="1">Kyobashi Station (Osaka Prefecture) - Hirakatashi Station (only down-trains in the mornings of week days) - Chushojima Station - Tambabashi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyobashi Station (Osaka Prefecture) - Hirakatashi Station (only down-trains in the mornings of weekdays) - Chushojima Station - Tambabashi Station</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Kyobashi Station (Osaka Prefecture) - Hirakatashi Station (only outbound trains in the mornings of weekdays) - Chushojima Station - Tanbabashi Station</e>
+<cmt>下り→outbound としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="110">
+<j>■特急</j>
+<e type="trans" ver="1">Limited express trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Limited express trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Limited Express</e>
+<cmt>統一しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="111">
+<j>樟葉駅 - 中書島駅 - 丹波橋駅</j>
+<e type="trans" ver="1">Kazuha Station - Chushojima Station - Tambabashi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kazuha Station - Chushojima Station - Tambabashi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kuzuha Station - Chushojima Station - Tanbabashi Station</e>
+<cmt>Tanbabashi としました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="112">
+<j>■急行</j>
+<e type="trans" ver="1">Express trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Express trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Express</e>
+<cmt>統一しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="113">
+<j>八幡市駅 - 中書島駅 - 丹波橋駅</j>
+<e type="trans" ver="1">Yawatashi Station - Chushojima Station - Tambabashi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yawatashi Station - Chushojima Station - Tambabashi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yawatashi Station - Chushojima Station - Tanbabashi Station</e>
+<cmt>Tanbabashi としました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="114">
+<j>■急行（淀始終着・競馬開催時の臨時停車列車）</j>
+<e type="trans" ver="1">Express trains (special trains for Yodobashi Station, which are operated when horce races are held)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Express trains (special trains for Yodobashi Station, which are operated when horse races are held)</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Express (special trains for Yodo Station, which are operated when horse races are held)</e>
+<cmt>Yodo Station としました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="115">
+<j>淀駅 - 中書島駅 - 丹波橋駅</j>
+<e type="trans" ver="1">Yodo Station - Chushojima Station - Tambabashi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yodo Station - Chushojima Station - Tambabashi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yodo Station - Chushojima Station - Tanbabashi Station</e>
+<cmt>Tanbabashi としました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="116">
+<j>■準急・■普通</j>
+<e type="trans" ver="1">Semi-express trains Local trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Semi-express trains Local trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Semi-express/Local</e>
+<cmt>統一しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="117">
+<j>淀駅 - 中書島駅 - 伏見桃山駅</j>
+<e type="trans" ver="1">Yodo Station - Chushojima Station - Fushimi-momoyama Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yodo Station - Chushojima Station - Fushimi-momoyama Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yodo Station - Chushojima Station - Fushimi-momoyama Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="118">
+<j>宇治線（全列車各駅に停車）</j>
+<e type="trans" ver="1">The Uji line (all trains stop at each of the stations)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Uji Line (all trains stop at each of the stations)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The Uji Line (all trains stop at each of the stations)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="119">
+<j>中書島駅 - 観月橋駅</j>
+<e type="trans" ver="1">Chushojima Station - Kangetsukyo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chushojima Station - Kangetsukyo Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chushojima Station - Kangetsukyo Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), Pixan(id:24280), Ignis(id:28979), 天然ガス(id:98149), UE-PON2600(id:18149), Wikipedianet(id:9608), Tigers boy(id:15761), 準急三条(id:25072), 暴走でっぱ(id:190339), Goki(id:7107), Frash(id:33517), Kone(id:377), 5816K(id:102574), Hirotaro(id:1437), Nanamix73(id:45303), 目蒲東急之介(id:34741), Etopirica(id:32491), Otemoto(id:64180), SUCCESS(id:15934), Felicemente(id:43126), Aoiya(id:44787), Memeja(id:110500), Ikaxer(id:61759), Rusk(id:9895), Alecs.bot(id:194707), Tp2415(id:84801), 金山銀山銅山(id:163855), Unamu(id:14627), Mutumi(id:42390), 扇風機のせんちゃん(id:161810), 210.(id:9838), オナガドリ(id:15179), Takatetu(id:3231), ADhirakata(id:101086), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

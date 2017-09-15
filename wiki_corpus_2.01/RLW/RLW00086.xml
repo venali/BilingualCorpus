@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>松尾駅 (京都府)</j>
+<e type="trans" ver="1">Matsuo Station (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Matsuo Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Matsuo Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>松尾駅（まつおえき）は、京都市西京区松尾宮ノ前町にある、阪急電鉄阪急嵐山線の鉄道駅。</j>
+<e type="trans" ver="1">Matsuo Station (Matsuo-Eki) is a station of Hankyu Railway&apos;s Hankyu Arashiyama Line in Arashiyama Miyanomae-cho, Nishikyo Ward, Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Matsuo Station (Matsuo-Eki) is a station of Hankyu Railway&apos;s Hankyu Arashiyama Line in Arashiyama Miyanomae-cho, Nishikyo Ward, Kyoto City.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Matsuo Station, located in Arashiyama Miyanomae-cho, Nishikyo Ward, Kyoto City, is a stop on the Hankyu Arashiyama Line, which is operated by the Hankyu Railway.</e>
+<cmt>表現を統一しました。</cmt>
+</sen>
+<par id="1">
+<sen id="2">
+<j>駅構造</j>
+<e type="trans" ver="1">The Structure of the Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Structure of the Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>表現を統一しました。</cmt>
+</sen>
+<sen id="3">
+<j>プラットホーム分類2面2線の、交換設備を備えた地上駅。</j>
+<e type="trans" ver="1">The station is above the ground with exchange equipment and a platform with two sides and railway lines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It&apos;s an aboveground station with exchange equipment and a platform with two sides and railway lines.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is an aboveground station with two separate platforms serving two tracks, Matsuo Station has a passing loop that enables trains running in opposing directions to pass each other.</e>
+<cmt>「交換施設」とは、行き先が逆の鉄道がすれ違える施設　のことではないかと解釈し、左記のようにいたしました。</cmt>
+</sen>
+<sen id="4">
+<j>松尾橋西詰、松尾大社前交差点東南角に位置する。</j>
+<e type="trans" ver="1">The station is located between the Western end of Matsuo-bashi Bridge and the Southeastern corner of the crossing in front of Matsuo-taisha Shrine.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station is located between the western end of Matsuo-bashi Bridge and the southeastern corner of the crossing in front of Matsuo-taisha Shrine.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The station is located between the western end of Matsuo-bashi Bridge and the southeastern corner of the crossing in front of Matsuo-taisha Shrine.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>駅舎（改札口）は嵐山行ホーム嵐山寄りにあり、反対側の桂行ホームへは地下道で連絡している。</j>
+<e type="trans" ver="1">The station hall (ticket wicket) is in the direction of Arashiyama Station on the platform for trains bound for the Arashiyama Station and is connected with a subway passage to the platform for trains bound for Katsura Station on the opposite side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station hall (ticket wicket) is in the direction of Arashiyama Station on the platform for trains bound for Arashiyama Station and is connected by means of a subway passage to the platform for trains bound for Katsura Station on the opposite side.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station building (ticket gate) is in the direction of Arashiyama Station of the platform for trains bound for Arashiyama, and is connected with a underground passage to the platform for trains bound for Katsura on the opposite side.</e>
+<cmt>駅舎→staiton building 地下道→underground passage と統一しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>※のりば番号は設定されていない。</j>
+<e type="trans" ver="1">*No gate numbers are set up.</e>
+<cmt></cmt>
+<e type="trans" ver="2">*No gate numbers are given.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Platform numbers aren&apos;t assigned.</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>駅周辺</j>
+<e type="trans" ver="1">Around Matsuo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Around Matsuo Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="8">
+<j>松尾橋（桂川 (淀川水系)）</j>
+<e type="trans" ver="1">Matsuo Bridge (Katsura-gawa River[Yodo-gawa River])</e>
+<cmt></cmt>
+<e type="trans" ver="2">Matsuo Bridge (Katsura-gawa River [Yodo-gawa River])</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Matsuo-bashi Bridge (Katsura-gawa River [Yodo-gawa River system])</e>
+<cmt>Matsuo-bash Bridgeとしました。</cmt>
+</sen>
+<sen id="9">
+<j>松尾大社</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Matsuo-taisha Shrine</e>
+<cmt>翻訳を追加しました。</cmt>
+</sen>
+<sen id="10">
+<j>梅宮大社</j>
+<e type="trans" ver="1">Umenomiya-taisha Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Umenomiya-taisha Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Umenomiya-taisha Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>西芳寺</j>
+<e type="trans" ver="1">Saiho-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saiho-ji Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Saiho-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>華厳寺 (京都市)</j>
+<e type="trans" ver="1">Kegon-ji Temple (Kyoto City)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kegon-ji Temple (Kyoto City)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kegon-ji Temple (Kyoto City)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>嵐山東公園</j>
+<e type="trans" ver="1">Arashiyama East Park</e>
+<cmt></cmt>
+<e type="trans" ver="2">Arashiyama East Park</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Arashiyama East Park</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>四条通</j>
+<e type="trans" ver="1">Shijo-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shijo-dori Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shijo-dori Street</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>バスのりば</j>
+<e type="trans" ver="1">Bus Stop</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus Stop</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus Stop</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>松尾大社前</j>
+<e type="trans" ver="1">In front of Matsuo-taisha Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">In front of Matsuo-taisha Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In front of Matsuo-taisha Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>京都市交通局</j>
+<e type="trans" ver="1">Kyoto Municipal Transportation Bureau</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Municipal Transportation Bureau</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Transportation Bureau</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>28系統：（嵐山経由）大覚寺行／（四条大宮経由）京都駅行</j>
+<e type="trans" ver="1">Route 28: Bound for Daikakuji Temple via Arashiyama Sta./Bound for Kyoto Sta. via Shijo Omiya</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 28: Bound for Daikakuji Temple via Arashiyama Station (bound for Kyoto Station via Shijo Omiya)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 28: Bound for Daikaku-ji Temple via Arashiyama Station/ bound for Kyoto Station via Shijo Omiya</e>
+<cmt>スラッシュを追加しました。</cmt>
+</sen>
+<sen id="19">
+<j>29系統：（国道中山経由）洛西バスターミナル行／（松尾橋経由）四条烏丸行</j>
+<e type="trans" ver="1">Route 29: Bound for Nakayama Rakusai Bus Terminal via Kokudo Nakayama/Bound for Shijo Karasuma via Matsuo-bashi Bridge</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 29: Bound for Nakayama Rakusai Bus Terminal via Kokudo Nakayama (bound for Shijo Karasuma via Matsuo-bashi Bridge)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 29: Bound for Rakusai Bus Terminal via Kokudo Nakayama/bound for Shijo Karasuma via Matsuo-bashi Bridge</e>
+<cmt>スラッシュを追加しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="20">
+<j>京都バス</j>
+<e type="trans" ver="1">Kyoto Bus Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Bus Co., Ltd.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Bus Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="21">
+<j>利用状況</j>
+<e type="trans" ver="1">Usage of the Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Conditions of Usage</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="22">
+<j>平成15年度の1日あたりの乗車人員は約2,701人（京都府統計書より）。</j>
+<e type="trans" ver="1">According to the statistics of Kyoto Prefecture, the number of passangers per day in fiscal 2003 was about 2,701.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the statistics of Kyoto Prefecture, the number of passengers per day in fiscal 2003 was approximately 2,701.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The number of passengers per day in fiscal year 2003 was approximately 2,701 (according to the Kyoto Prefecture Statistics Report).</e>
+<cmt>他ファイルと統一しました。fiscal → fiscal yearに変更しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="23">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>1928年（昭和3年）11月9日 新京阪鉄道嵐山線開通と同時に、松尾神社前駅として開業。</j>
+<e type="trans" ver="1">On November 9th 1928, the Station began its operation as Matsuo-jinjya-mae Station at the same time as the Shinkeihan Railway Arashiyama Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 9,h 1928, the station went into operation as Matsuo-jinjya-mae Station concurrently with the Shinkeihan Railway Arashiyama Line.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">November 9, 1928: The station went into operation as Matsuo-jinja-mae Station concurrently with the Shinkeihan Railway Arashiyama Line.</e>
+<cmt>不要な文字（h）を削除しました。Matsuo-jinjya-mae→Matsuo-jinja-maeに変更しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="25">
+<j>1930年（昭和5年）9月15日 会社合併により京阪電気鉄道の駅となる。</j>
+<e type="trans" ver="1">On September 15th 1930, due to company mergers, it became a station of Keihan Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 15, 1930, it became a station of Keihan Electric Railway due to company mergers.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">September 15, 1930: It became a station of Keihan Electric Railway as a result of amalgamation.</e>
+<cmt>会社合併→as a result of amalgamation　として統一しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="26">
+<j>1943年（昭和18年）10月1日 会社合併により京阪神急行電鉄（現在の阪急電鉄）の駅となる。</j>
+<e type="trans" ver="1">On October 1st 1943, due to company mergers, it became a station of Keihanshin Express Railway (the current Hankyu Railway),</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 1, 1943, it became a station of Keihanshin Express Railway (the current Hankyu Railway) due to company mergers.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">October 1, 1943: It became a station of Keihanshin Express Railway (the current Hankyu Railway) as a result of amalgamation.</e>
+<cmt>会社合併→as a result of amalgamation　として統一しました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="27">
+<j>1944年（昭和19年）1月9日 資材供出のため全線単線化。</j>
+<e type="trans" ver="1">On January 9th 1944, all the railway lines became single, because of the need to supply materials.</e>
+<cmt></cmt>
+<e type="trans" ver="2">January 9, 1944: All the railway lines became single due to the need to supply materials.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">January 9, 1944: All the railway lines became single due to the need to supply materials.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>行違い駅となる。</j>
+<e type="trans" ver="1">It became a station where two trains could pass each other.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It became a station where two trains could pass each other.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">It became a station where two trains could pass each other.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="29">
+<j>1948年（昭和23年）1月1日 松尾駅に改称。</j>
+<e type="trans" ver="1">On January 1st 1948, its name was changed into Masuo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On January 1, 1948, its name was changed to Masuo Station.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">January 1, 1948: Its name was changed to Matsuo Station.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="30">
+<j>隣の駅</j>
+<e type="trans" ver="1">Adjacent Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjacent Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="31">
+<j>阪急電鉄</j>
+<e type="trans" ver="1">Hankyu Railway/Hankyu Corporation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Railway (Hankyu Corporation)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Hankyu Railway</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="32">
+<j>■嵐山線</j>
+<e type="trans" ver="1">Arashiyama Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Arashiyama Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Arashiyama Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>上桂駅 - 松尾駅 - 嵐山駅 (阪急)</j>
+<e type="trans" ver="1">Kamikatsura Station – Matsuo Station – Arashiyama Station (Hankyu Railway)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kamikatsura Station – Matsuo Station – Arashiyama Station (Hankyu Railway)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kamikatsura Station – Matsuo Station – Arashiyama Station (Hankyu Railway)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Rsa(id:38453), Bakkai(id:7233), Ktr(id:30468), 城山(id:104901), Nnh(id:474), Etopirica(id:32491), Nakadati(id:26815), Chobot(id:20846), Kone(id:377), Hirotaro(id:1437), 扇風機のせんちゃん(id:161810), Memeja(id:110500), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

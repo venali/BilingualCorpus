@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>動用倉</j>
+<e type="trans" ver="1">Doyoso</e>
+<cmt></cmt>
+<e type="trans" ver="2">Doyoso (public repository to store rice tax, which were allowed to be consumed, in ancient ritsuryo system)</e>
+<cmt>説明を追記しました。</cmt>
+<e type="check" ver="1">Doyoso (public repository to store rice tax, which were allowed to be consumed, in ancient ritsuryo system)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>動用倉（どうようそう）とは、古代律令制において、出納が許された正税（動用）を納めた正倉のこと。</j>
+<e type="trans" ver="1">Doyoso was a shoso (public repository) to store shozei (the rice tax stored in provincial offices warehouse) for receipts and expenditure in kodai ritsuryosei (ancient East Asian system of centralized governance).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Doyoso is a shoso (public repository) to store doyo, which was shozei (rice tax) allowed to be consumed, in ancient ritsuryosei (system of centralized governance).</e>
+<cmt>「出納が許された正税（動用）」→倉から出して消費することが許されていた正税を動用という。「古代律令制」→日本の律令制を指すので、説明に&quot;East Asian&quot;と入れると紛らわしいと思います。</cmt>
+<e type="check" ver="1">Doyoso is a shoso (public repository) to store doyo, which was shozei (rice tax) allowed to be consumed, in ancient ritsuryosei (system of centralized governance).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>動倉（どうそう）とも呼ばれている。</j>
+<e type="trans" ver="1">It is also called doso.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also called doso.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also called doso.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>本来は不動倉と対になる概念である。</j>
+<e type="trans" ver="1">Originally it was a notion coupled with Fudoso warehouse.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Originally it was a notion coupled with fudoso (public repository to store rice tax, which was not allowed to be consumed without a permission of Daijokan, Grand Council of State).</e>
+<cmt>「不動倉」→常時出納が許された動用倉に対して、太政官の許可がないと出納が許されなかった倉。（http://kotobank.jp/word/%E4%B8%8D%E5%8B%95%E5%80%89）</cmt>
+<e type="check" ver="1">Originally it was a notion coupled with fudoso (public repository to store rice tax, which was not allowed to be consumed without a permission of Daijokan, Grand Council of State).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>和銅元年（708年）に不動穀制度が導入された折に、対になる概念として「動用」が導入された。</j>
+<e type="trans" ver="1">In 708, when the system of Fudokoku (staples for an emergency) was introduced, &apos;doyo&apos; was also introduced with it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 708, when the system of fudokoku (staples for an emergency, stored in fudoso) was introduced, the opposite idea of &apos;doyo&apos; was also introduced.</e>
+<cmt>「不動穀」→前文で説明済みの不動倉に納められたもの、という説明があった方が分かりやすいと思います。アポストロフィ(&apos;)を半角に修正。「対になる概念として」を補足しました。</cmt>
+<e type="check" ver="1">In 708, when the system of fudokoku (staples for an emergency, stored in fudoso) was introduced, the opposite idea of &apos;doyo&apos; was also introduced.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>租庸調として国衙などに置かれた正倉に納付された稲穀は、正倉の中身が満載となると検封を経て不動穀とされたが、これに対して検封されていない正税の稲穀は国司の判断によって賑給などの非常の出費などに用いられた。</j>
+<e type="trans" ver="1">Tokoku (rice grains plucked off the straws, with chaff on) placed in a shoso of kokuga (provincial government office compounds) as So yo cho (taxes in kind or service) became fudokoku after inspection and sealing when the shoso was filled, while tokoku as shozei without inspection and sealing were used as spending of emergency like almsgiving according to the judge of Kokushi (an officer of a province).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rice in husk collected through Soyocho tax system and placed in a shoso of kokuga (provincial government office compounds) became fudokoku after inspection and sealing when the shoso was filled, while the rice in husk before inspection and sealing was used in case of emergency, like almsgiving, according to the judgement of kokushi (an officer of a province).</e>
+<cmt>「稲穀」→粟や酒と同じく、精米前の米を意味する普通の名詞なのでローマ字表記する必要はないと思います。「租庸調として」→訳文だと租庸調として納付された稲穀と、正税として納められた稲穀が別のように思えますが、実際は同じものです。租庸調として納められた稲が正倉に納められたとき、正税と呼ばれるようです。（http://note.masm.jp/%C1%C5%CD%C7%C4%B4/）他デジタル大辞泉参照。&quot;used as spending&quot;→重複するので簡潔に修正しました。&quot;judge&quot;→&quot;judgement&quot;に修正。</cmt>
+<e type="check" ver="1">Rice in husk collected through Soyocho tax system and placed in a shoso of kokuga (provincial government office compounds) became fudokoku after inspection and sealing when the shoso was filled, while the rice in husk before inspection and sealing was used in case of emergency, like almsgiving, according to the judgement of kokushi (an officer of a province).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>これを動用という（なお、現存する正税帳には粟や酒の形態で管理されていた動用も存在している。このため、動用の稲穀を特に「動用穀」とも称する）。</j>
+<e type="trans" ver="1">This is what is called doyo and there are doyo of millet and sake in existing shozei records. Therefore tokoku of doyo are especially called &apos;doyokoku&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is called doyo (there were also doyo of millet and sake according to existing shozei records, and therefore, doyo of rice in husk is especially called &apos;doyokoku&apos;).</e>
+<cmt>（）内の文が二つに分かれていましたが、ひとつにまとめました。文法上の修正をしました。アポストロフィ(&apos;)を半角に修正。</cmt>
+<e type="check" ver="1">This is called doyo (there were also doyo of millet and sake according to existing shozei records, and therefore, doyo of rice in husk is especially called &apos;doyokoku&apos;).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>動用倉はこうした動用を納めた倉庫であった。</j>
+<e type="trans" ver="1">Doyoso was a warehouse to place such doyo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Doyoso was a warehouse to place such doyo.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Doyoso was a warehouse to place such doyo.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>動用倉の鎰は常鎰と呼ばれて国司や郡司の管理下に置かれた。</j>
+<e type="trans" ver="1">A key of doyoso was called &apos;jokan&apos; and controlled under kokushi and gunji.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A key of doyoso was called jokan and controlled under kokushi and gunji (officer of a county).</e>
+<cmt>「常鎰」→私が調べた限り、読み方不明です。「じょうかん」と訳されていますが、「印鎰」で「いんやく」と読む例があるので「じょうやく」かもしれません。（http://dictionary.goo.ne.jp/srch/jn/%E9%8E%B0/m6u/）「郡司」は初出なので説明を追記しました。</cmt>
+<e type="check" ver="1">A key of doyoso was called jokan and controlled under kokushi and gunji (officer of a county).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

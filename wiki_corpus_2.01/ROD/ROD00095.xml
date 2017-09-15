@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>荒神口通</j>
+<e type="trans" ver="1">Kojinguchi-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kojinguchi-dori Street</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Kojinguchi-dori Street</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>荒神口通（こうじんぐちどおり）は京都市内の東西の通り。</j>
+<e type="trans" ver="1">Kojinguchi-dori Street is one of the east and west street in Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kojinguchi-dori Street is a street running eat-west in Kyoto City.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">Kojinguchi-dori Street is a street running eat-west in Kyoto City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>鴨川 (淀川水系)に架かる荒神橋から西へ寺町通まで500mに満たない短い通りである。</j>
+<e type="trans" ver="1">Kamo River: the short river it isn&apos;t long as 500m which runs from Kojin Bridge which is on the Kamo River (Yodo River series) to Teramachi-dori Street to the west.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The street itself is short, not even reaching a length of 500m, and runs from Kojin Bridge which is on the Kamo River (Yodo River series) to Teramachi-dori Street to the west.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">The street itself is short, not even reaching a length of 500m, and runs from Kojin-bashi Bridge which is on the Kamo-gawa River (Yodo-gawa River series) to Teramachi-dori Street to the west.</e>
+<cmt>Kojin-bashi Bridge, Kamo-gawa River, Yodo-gawa Riverとしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>御所から比叡山への最短の経路で、鴨川を徒渉し東岸を東やや北へ向かう志賀越道に道をとった。</j>
+<e type="trans" ver="1">This is the shortest a route from Imperial Place to Mount Hiei, they walked inside of Kamo River and made a road at Shigogoemichi which is east with slightly toward to north at the east side of the river.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is the shortest route from the Imperial Place to Mount Hiei, and the road takes a path inside of Kamo River and bears east and slightly northward to Shigogoemichi.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">This is the shortest route from the Imperial Palace to Mt. Hiei, and the road takes a path inside of Kamo-gawa River and bears east and slightly northward to Shigagoemichi road.</e>
+<cmt>Imperial Place→Imperial Palaceに修正、Mt. Hiei, Kamo-gawa Riverとしました。志賀越道のスペルを訂正し、Shigagoemichi roadとしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>名前の由来は寺町通東入の護浄院に荒神がまつられていることによる。</j>
+<e type="trans" ver="1">The name came from the Gojo-in Temple which was located on Teramachi-dori Street higashi iru used to dedicated the Kojin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The name came from Gojo-in Temple which was located on Teramachi-dori Street higashi iru which used to be dedicated to Kojin.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">The name came from Gojo-in Temple which was located on Teramachi-dori Street higashi iru which used to be dedicated to Kojin.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>沿道の主な施設</j>
+<e type="trans" ver="1">Main facilities on the roadside</e>
+<cmt></cmt>
+<e type="trans" ver="2">Main roadside facilities</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">Main Roadside Facilities</e>
+<cmt>頭文字を大文字に修正</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>京都大学アジアアフリカ地域研究研究科　川端通</j>
+<e type="trans" ver="1">Graduate School of Asian and African Area Studies, Kyoto University, Kawabata-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Graduate School of Asian and African Area Studies, Kyoto University, Kawabata-dori Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Graduate School of Asian and African Area Studies, Kyoto University, Kawabata-dori Street</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>京都地方法務局　三本木東入</j>
+<e type="trans" ver="1">Kyoto District Legal Affairs Bureau, Sanbongi higashi iru</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto District Legal Affairs Bureau, Sanbongi higashi iru</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto District Legal Affairs Bureau, Sanbongi higashi-iru</e>
+<cmt>higashi-iruとしました。</cmt>
+</sen>
+<sen id="7">
+<j>護浄院（三宝荒神）　新烏丸東入</j>
+<e type="trans" ver="1">Gojo-in Temple (Sanpo kojin), Karasuma higashi iru</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gojo-in Temple (Sanpo kojin), Karasuma higashi iru</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gojo-in Temple (Sanpo kojin), Shin Karasuma higashi-iru</e>
+<cmt>Karasuma higashi iru→Shin Karasuma higashi-iruに修正</cmt>
+</sen>
+<sen id="8">
+<j>京都府立鴨沂高等学校　寺町通下ル</j>
+<e type="trans" ver="1">Kyoto Prefectural Ouki High School, Teramachi-dori Street sagaru</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Prefectural Ouki High School, Teramachi-dori Street sagaru</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Prefectural Ouki High School, Teramachi-dori Street sagaru</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>京都御苑　寺町通</j>
+<e type="trans" ver="1">Kyoto Imperial Garden(Kyoto Gyoen), Teramachi-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Imperial Garden(Kyoto Gyoen), Teramachi-dori Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Imperial Garden (Kyoto Gyoen), Teramachi-dori Street</e>
+<cmt>カッコの前のスペースを追加</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Kiyok(id:76023), Miyuki h(id:84952), Ktr(id:30468), ASAMA501(id:91947), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

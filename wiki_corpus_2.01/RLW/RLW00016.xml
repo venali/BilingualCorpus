@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>阪急嵐山線</j>
+<e type="trans" ver="1">Hankyu Arashiyama Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Arashiyama Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hankyu Arashiyama Line</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>嵐山線（あらしやません）は、京都府京都市西京区の桂駅から嵐山駅 (阪急)までを結ぶ阪急電鉄の鉄道路線。</j>
+<e type="trans" ver="1">Hankyu Arashiyama Line (Hankyu Arashiyama-sen) is a railway of Hankyu Corporation that connects from Katsura Station located in Saikyo Ward, Kyoto City, Kyoto Prefecture, to Arashiyama Station (Hankyu)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Hankyu Arashiyama Line (Hankyu Arashiyama-sen) is a railway of Hankyu Corporation that connects from Katsura Station located in Saikyo Ward, Kyoto City, Kyoto Prefecture, to Arashiyama Station (Hankyu).</e>
+<cmt>punctuation, article</cmt>
+<e type="check" ver="1">The Hankyu Arashiyama Line (Hankyu Arashiyama-sen) is a railway of Hankyu Corporation that connects from Katsura Station located in Saikyo Ward, Kyoto City, Kyoto Prefecture, to Arashiyama Station (Hankyu).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>沿線に嵐山などの観光地を控え、行楽客や年末年始の初詣客で賑わう。</j>
+<e type="trans" ver="1">Having Ayashiyama and other sightseeing areas along the line, the line has a large turnout with holidaymakers and New Year&apos;s visitors to shrines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Having Ayashiyama and other sightseeing areas along the line, the Hankyu Arashiyama has a large turnout with holidaymakers and New Year&apos;s visitors to shrines.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Having Arashiyama and other sightseeing areas along the line, the Hankyu Arashiyama line has a large turnout with holidaymakers and New Year&apos;s visitors to shrines.</e>
+<cmt>Arashiyamaに修正　line追加しました。</cmt>
+</sen>
+<sen id="3">
+<j>かつては嵐山支線と表記した例も見られた。</j>
+<e type="trans" ver="1">In the past, it was sometimes described as Arashiyama Feeder Line.</e>
+<cmt>嵐山支線→定訳不明：Arashiyama Feeder Lineとしました。</cmt>
+<e type="trans" ver="2">In the past, it was sometimes described as the Arashiyama feeder line.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">In the past, it was sometimes described as the Arashiyama feeder line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>路線データ</j>
+<e type="trans" ver="1">Railway data:</e>
+<cmt></cmt>
+<e type="trans" ver="2">Railway data:</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Railway data:</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>路線距離（営業キロ）：4.1km</j>
+<e type="trans" ver="1">Railway distance (operating kilometer): 4.1km</e>
+<cmt></cmt>
+<e type="trans" ver="2">Railway distance (operating kilometers): 4.1km</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">Railway distance (operating kilometers): 4.1 km</e>
+<cmt>space</cmt>
+</sen>
+<sen id="6">
+<j>軌間：1435mm</j>
+<e type="trans" ver="1">Track Gauge: 1435mm</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track gauge: 1435mm</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Track gauge: 1435mm</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>駅数：4駅（起終点駅含む）</j>
+<e type="trans" ver="1">Number of stations: 4 (including the starting and the final stations)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Number of stations: 4 (including the starting and final stations)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Number of stations: 4 (including the starting and final stations)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>複線区間：なし（全線単線）</j>
+<e type="trans" ver="1">Double tracked section: none (whole line is one-track).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Double-tracked section: none (the entire line is one-track)</e>
+<cmt>punctuation, article</cmt>
+<e type="check" ver="1">Double-tracked section: none (the entire line is one-track)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>電化区間：全線電化（直流1500V）</j>
+<e type="trans" ver="1">Electrified section: whole line electrified (DC1500V)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Electrified section: entire line electrified (DC1500V)</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">Electrified section: entire line electrified (DC1500V)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>閉塞 (鉄道)：自動閉塞式</j>
+<e type="trans" ver="1">Block (railway) system: automatic block system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Block (railway) system: automatic block system</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Block (railway) system: automatic block system</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>最高速度：70km/h</j>
+<e type="trans" ver="1">Maximum speed: 70km/h</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maximum speed: 70km/h</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maximum speed: 70 km/h</e>
+<cmt>space</cmt>
+</sen>
+<sen id="12">
+<j>車両基地：桂車庫</j>
+<e type="trans" ver="1">Rolling stock base: Katsura depot</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rolling stock base: Katsura depot</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rolling stock base: Katsura depot</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="13">
+<j>運行形態</j>
+<e type="trans" ver="1">Type of operation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Type of operation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Type of operation</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>現在は線内折返し運転のみだが、2000年秋まで（廃止は2001年3月のダイヤ改正）は春・秋の行楽シーズンに梅田駅～嵐山間に直通の臨時列車急行列車「阪急京都本線臨時列車」が運転されていた。</j>
+<e type="trans" ver="1">At present, only the shuttle service is available, however a direct special Express train &quot;Hankyu Kyoto Main Line Special Train&quot; was operated between Umeda Station and Arashiyama Station during the spring and autumn sightseeing seasons until autumn 2000 (with the timetable revised in March 2001, the trains is discontinued).</e>
+<cmt>「阪急京都本線臨時列車」→定訳不明：&quot;Hankyu Kyoto Main Line Special Train&quot;</cmt>
+<e type="trans" ver="2">Currently, only the shuttle service is available, but a direct special express called the &quot;Hankyu Kyoto Main Line Special Train&quot; was operated between Umeda Station and Arashiyama Station during the spring and autumn sightseeing seasons until autumn 2000 (with the timetable revised in March 2001, the trains was discontinued).</e>
+<cmt>tense</cmt>
+<e type="check" ver="1">Currently, only the shuttle service is available, but a direct special express called the &apos;Hankyu Kyoto Main Line Special Train&apos; was operated between Umeda Station and Arashiyama Station during the spring and autumn sightseeing seasons until autumn 2000 (with the timetable revision of March 2001, the trains was discontinued).</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="15">
+<j>この急行は嵐山線内は各駅に停車し、京都線内は急行（現在の快速急行）と同じ停車駅（長岡天神、高槻市、茨木市、淡路、十三）に停車していた。</j>
+<e type="trans" ver="1">The Express train made a stop at each stations while running on the Arashiyama Line, and on the Kyoto Line, it made a stop at the same stations as the other Express (current Rapid Express) trains (Nagaoka-tenjin Station, Takatsuki-shi Station, Ibaraki Station, Awaji Station and Juso Station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The express train made a stop at each stations while running on the Arashiyama Line, and on the Kyoto Line it made a stop at the same stations as the other express (currently rapid express) trains (Nagaoka-tenjin Station, Takatsuki-shi Station, Ibaraki Station, Awaji Station and Juso Station).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The express train made a stop at each stations while running on the Arashiyama Line, and on the Kyoto Line it made a stop at the same stations as the other express (currently rapid express) trains (Nagaoka-tenjin Station, Takatsuki-shi Station, Ibaraki Station, Awaji Station and Juso Station).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>また2001年春には嵐山発桂行きの普通列車が長岡天神まで延長運転し、長岡天神で梅田行きの特急に同じホームで乗り換えできる列車があったが、その後のシーズンには運転されていない。</j>
+<e type="trans" ver="1">In spring 2002, the operation of Local trains from Arashiyama Station to Katsura Station was extended to Nagaoka-tenjin Station, so that the passengers were able to transfer to the Limited Express train for Umeda Station on the same platform, however, after that, this operation has not been made in any sightseeing seasons.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In spring 2002 the operation of local trains from Arashiyama Station to Katsura Station was extended to Nagaoka-tenjin Station so that the passengers could transfer to the limited express train for Umeda Station on the same platform; however, since then this operation has not been performed in any sightseeing season.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">In spring 2001, the operation of local trains from Arashiyama Station to Katsura Station was extended to Nagaoka-tenjin Station so that the passengers could transfer to the limited express train for Umeda Station on the same platform; however, since then this operation has not been performed in any sightseeing season.</e>
+<cmt>年修正</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="17">
+<j>通常は4両編成の車両で日中毎時4往復運行しているが、行楽シーズンの土曜・休日や五山送り火の日には6両編成が日中10分間隔で運転されることがある。</j>
+<e type="trans" ver="1">The trains are generally 4 cars long and shuttle four times during the daytime, but on Sundays and holidays during the tourist seasons, or on the day of Gozan no Okuribi (Mountain Bon Fire), some trains are operated with 6 cars every 10 minutes during the daytime.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The trains are generally four cars long and shuttle four times during the daytime, but on Sundays and holidays during the tourist seasons, or on the day of Gozan no Okuribi (Mountain Bon Fire), some trains are operated with six cars every 10 minutes during the daytime.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">The trains are generally four cars long and shuttle four times during the daytime, but on Sundays and holidays during the tourist seasons, or on the day of Gozan no Okuribi (Mountain Bon Fire), some trains are operated with six cars every 10 minutes during the daytime.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>この6両編成は阪急京都本線用車両の8両編成のうち梅田方の2両を切り離して運用される。</j>
+<e type="trans" ver="1">These 6-car trains are formed from the 8-car trains normally running on the Hankyu Kyoto Main Line by decoupling the 2 final cars to the direction of Umeda Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These six-car trains are formed from the eight-car trains normally running on the Hankyu Kyoto Main Line by decoupling the two final cars to the direction of Umeda Station.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">These six-car trains are formed from the eight-car trains normally running on the Hankyu Kyoto Main Line by decoupling the two final cars to the direction of Umeda Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="19">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>京都電燈が所有していた鉄道敷設免許を譲り受け、京阪電気鉄道傘下の新京阪鉄道が複線で全線を開業させた。</j>
+<e type="trans" ver="1">Shinkeihan Railway, a subsidiary of Keihan Electric Railway took over the railway construction license owned by Kyoto Dento and started the double tracked operation of the whole line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Shinkeihan Railway, a subsidiary of Keihan Electric Railway, took over the railway construction license owned by Kyoto Dento and started the double-track operation of the entire line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The Shinkeihan Railway, a subsidiary of Keihan Electric Railway, took over the railway construction license owned by Kyoto Dento and started the double-track operation of the entire line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>当初は、終点の嵐山駅を京都側のターミナル駅とすることを目論んでいたため、嵐山駅は6面5線と大きな構造であった。</j>
+<e type="trans" ver="1">At the beginning, a projected Arashiyama Station had an extensive structure consisting of 6 platforms and 5 tracks, because Arashiyama Station, as the final station, was planned to be the terminal station in the Kyoto area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Initially, a projected Arashiyama Station had an extensive structure consisting of six platforms and five tracks, because it was planned that Arashiyama Station, as the final station, would be the terminal station in the Kyoto area.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Initially, a projected Arashiyama Station had an extensive structure consisting of six platforms and five tracks, because it was planned that Arashiyama Station, as the final station, would be the terminal station in the Kyoto area.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>だが、思ったほどの需要が得られず、戦局の悪化で金属供出令により不要不急線として単線化され、現在に至っている。</j>
+<e type="trans" ver="1">However, there had been less demand than expected, and under the aggravation of the war situation, the order of compulsory metal delivery obliged the line to operate with one-track, labeling it as an unnecessary line, and since then it has been a one-track line.</e>
+<cmt>不要不急線→定訳不明：unncecessary lineとしました。</cmt>
+<e type="trans" ver="2">However, there was less demand than expected, and under the aggravation of the war situation the order of compulsory metal delivery obliged the line to operate with one track, labeling it as an unnecessary line, and since then it has remained a one-track line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, there was less demand than expected, and under the aggravation of the war situation the order of compulsory metal delivery obliged the line to operate with one track, labeling it as an unnecessary line, and since then it has remained a one-track line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>その名残で、軌道敷や架線柱は複線分の幅があり、橋台や橋桁が残っている部分もある。</j>
+<e type="trans" ver="1">As a legacy of that time, the rail track gauge and the overhead wire poles correspond to the width of a double track line, and some of the bridge abatements and beams are still remained</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a legacy of that time, the rail track gauge and the overhead wire poles correspond to the width of a double-track line, and some of the bridge abatements and beams are still in place.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">As a legacy of that time, the rail track gauge and the overhead wire poles correspond to the width of a double-track line, and some of the bridge abatements and beams are still in place.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>ただし、桂駅の京都本線との分岐部は、戦後の構内改造によって単線分の路盤に削られているため、再び完全に複線化することは不可能になっている。</j>
+<e type="trans" ver="1">However, during the yard reform carried out after the war, the Katsura Station&apos;s turnover point with the Kyoto Main Line was largely scraped leaving only the roadbed for one track, therefore, it is impossible to fully restore the line with a double track.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, during the yard reform carried out after the war, the Katsura Station&apos;s turnover point with the Kyoto Main Line was largely scrapped, leaving only the roadbed for one track; therefore, it isn&apos;t possible to fully restore the line with a double track.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, during the yard reform carried out after the war, the Katsura Station&apos;s turnover point with the Kyoto Main Line was largely scrapped, leaving only the roadbed for one track; therefore, it isn&apos;t possible to fully restore the line with a double track.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="25">
+<j>1928年（昭和3年）11月9日 新京阪鉄道により桂～嵐山間が開業。</j>
+<e type="trans" ver="1">November 9, 1928: Shinkeihan Railway started the operation between Katsura Station and Arashiyama Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 9, 1928: Shinkeihan Railway started operations between Katsura Station and Arashiyama Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">November 9, 1928: Shinkeihan Railway started operations between Katsura Station and Arashiyama Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="26">
+<j>1930年（昭和5年）9月15日 新京阪鉄道の京阪電気鉄道への企業合併により、同社の路線となる。</j>
+<e type="trans" ver="1">September 15, 1930: Following the incorporation of Shinkeihan Railway to Keihan Electric Railway, the line became one of the Keihan Electric Railway lines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 15, 1930: Following the incorporation of the Shinkeihan Railway into Keihan Electric Railway, the line became one of the Keihan Electric Railway lines.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">September 15, 1930: Following the incorporation of the Shinkeihan Railway into Keihan Electric Railway, the line became one of the Keihan Electric Railway lines.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="27">
+<j>1943年（昭和18年）10月1日 京阪電気鉄道の阪神急行電鉄への合併により、阪急電鉄の保有路線となる。</j>
+<e type="trans" ver="1">October 1, 1943: With the merger of Keihan Electric Railway to Hanshin Electric Express Railway, the line belonged to Hanshin Electric Express Railway (Hankyu Dentetsu).</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 1, 1943: With the merger of the Keihan Electric Railway into Hanshin Electric Express Railway, the line belonged to Hanshin Electric Express Railway (Hankyu Dentetsu).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 1, 1943: With the merger of the Keihan Electric Railway into Hanshin Electric Express Railway, the line belonged to Hanshin Electric Express Railway (Hankyu Dentetsu).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="28">
+<j>1944年（昭和19年）1月9日 資材供出のため全線単線化。</j>
+<e type="trans" ver="1">January 9, 1944: Owing to the compulsory delivery of materials, the whole line became one-track.</e>
+<cmt></cmt>
+<e type="trans" ver="2">January 9, 1944: Owing to the compulsory delivery of materials, the entire line became one-track.</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">January 9, 1944: Owing to the compulsory delivery of materials, the entire line became one-track.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="29">
+<j>1948年（昭和23年）1月1日 松尾神社前駅を松尾駅に改称。</j>
+<e type="trans" ver="1">January 1, 1948: Matsuojinja-mae Station changed its name to Matsuo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">January 1, 1948: Matsuojinja-mae Station was renamed as Matsuo Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">January 1, 1948: Matsuojinja-mae Station was renamed as Matsuo Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="30">
+<j>駅一覧</j>
+<e type="trans" ver="1">List of stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">List of stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">List of stations</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>全列車が各駅に停車する。</j>
+<e type="trans" ver="1">All trains make a stop at each station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All trains make a stop at each station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">All trains make a stop at each station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Bakkai(id:7233), FREEZA(id:68069), Sat.K(id:3751), 暇・カキコ(id:65563), KARS(id:43022), Tigers boy(id:15761), Memeja(id:110500), Utsuda(id:605), Mop(id:12061), Shinkansen(id:13703), Rusk(id:9895), 準急三条(id:25072), Unamu(id:14627), Loveless(id:129239), Hirotaro(id:1437), 210.(id:9838), 目蒲東急之介(id:34741), 捕澤(id:23785), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>北山駅 (京都府)</j>
+<e type="trans" ver="1">Kitayama Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitayama Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitayama Station (Kyoto Prefecture)</e>
+<cmt>(京都府)　を追加しました。</cmt>
+</tit>
+<sen id="1">
+<j>北山駅（きたやまえき）は、京都府京都市北区 (京都市)にある、京都市営地下鉄烏丸線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Kita Ward, Kyoto City, Kyoto Prefecture, Kitayama Station is a stop on the Karasuma Line, which is operated by Kyoto City Subway.</e>
+<cmt>”（京都市）”は余分のように思われますので、訳してありません。</cmt>
+<e type="trans" ver="2">Kitayama Station, located in Kita Ward, Kyoto City, Kyoto Prefecture, is a stop on the Karasuma Line, which is operated by Kyoto City Subway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kitayama Station, located in Kita Ward (Kyoto City), Kyoto City, Kyoto Prefecture, is a stop on the Karasuma Line, which is operated by Kyoto Municipal Subway.</e>
+<cmt>(京都市)　を追加しました。City →municipal　としました。</cmt>
+</sen>
+<sen id="2">
+<j>駅番号はK03。</j>
+<e type="trans" ver="1">The station number is K03.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station number is K03.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The station number is K03.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>駅名は、東西方向に走る通りである北山通に由来する。</j>
+<e type="trans" ver="1">The station is named after Kitayama-dori Street running in the east-west direction.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station is named after Kitayama-dori Street, which runs in the east-west direction.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station is named after Kitayama-dori Street, which runs in the east-west direction.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s layout</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>プラットホーム1面2線の地下駅。</j>
+<e type="trans" ver="1">This station is located underground, with a platform serving tw tracks.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is situated underground, with a platform serving two tracks.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This station is situated underground, with a platform serving two tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>改札口は1ヶ所のみ。</j>
+<e type="trans" ver="1">Only one entrance/exit gate place is provided.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Only one entrance/exit gate place is provided.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Only one ticket gate is provided.</e>
+<cmt>改札→ticket gate　としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>1970年代以前は田園地帯だったこの地域は、新しい建物が多い。</j>
+<e type="trans" ver="1">This district was a rural area in the 1970s and before, and threfore, many of the houses there is new.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This district was a rural area through to the 1970s, so many of the houses there are new.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This district was a rural area until the 1970s, so many of the houses there are new.</e>
+<cmt>until としました。</cmt>
+</sen>
+<sen id="7">
+<j>駅近辺に著名な建築家による建造物が集中している。</j>
+<e type="trans" ver="1">Buildings designed by famous archtests concentrate in the vicinity of this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Buildings designed by famous architects concentrate in the vicinity of this station.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Buildings designed by famous architects concentrate in the vicinity of this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>かつてこの駅付近にあったα-stationも同様である。</j>
+<e type="trans" ver="1">The α-station once located near to this station is one of such buildings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The α-station once located nearby is one such building.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The α-station once located nearby is one such building.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="9">
+<j>北山通（きたやまどおり）</j>
+<e type="trans" ver="1">Kitayama-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitayama-dori Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitayama-dori Street</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="10">
+<j>京都府立植物園</j>
+<e type="trans" ver="1">The Kyoto Botanical Garden</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto Botanical Garden</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Kyoto Botanical Garden</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="11">
+<j>京都府立総合資料館</j>
+<e type="trans" ver="1">Kyoto Prefectural Library and Archives</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Prefectural Library and Archives</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Prefectural Library and Archives</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="12">
+<j>京都府立陶板名画の庭（安藤忠雄設計）</j>
+<e type="trans" ver="1">Garden of Fine Art, Kyoto (desinged by Tadao ANDO)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Garden of Fine Art, Kyoto (designed by Tadao ANDO)</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Garden of Fine Art, Kyoto (designed by Tadao ANDO)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="13">
+<j>京都コンサートホール（磯崎新設計）</j>
+<e type="trans" ver="1">Kyoto Concert Hall (designed by Arata ISOZAKI)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Concert Hall (designed by Arata ISOZAKI)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Concert Hall (designed by Arata ISOZAKI)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="14">
+<j>京都府立大学</j>
+<e type="trans" ver="1">Kyoto Prefectural University</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Prefectural University</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Prefectural University</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="15">
+<j>シンタックスビル（高松伸設計）</j>
+<e type="trans" ver="1">&quot;Syntax&quot; Building (designed by Shin TAKAMATSU)</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Syntax&quot; Building (designed by Shin TAKAMATSU)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;Syntax&quot; Building (designed by Shin TAKAMATSU)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="16">
+<j>1990年（平成2年）10月24日 烏丸線北山-北大路間延伸時に開業。</j>
+<e type="trans" ver="1">October 24, 1990: Operation of this station started when the extended &quot;Kitayam - Kitaoji&quot; portion of the Karasuma Line started its operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 24, 1990: This station became active when the extended &quot;Kitayama - Kitaoji&quot; portion of the Karasuma Line started its operation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 24, 1990: This station became active when the extended portion between Kitayama and Kitaoji of the Karasuma Line started its operation.</e>
+<cmt>一部翻訳を変更しました。</cmt>
+</sen>
+<sen id="17">
+<j>当時は起点駅であった。</j>
+<e type="trans" ver="1">At that time, this station was a terminal.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At that time, the station was a terminal.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At that time, the station was a terminal.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="18">
+<j>1997年（平成9年）6月3日 国際会館-北山間延伸により、途中駅となる。</j>
+<e type="trans" ver="1">June 3, 1997: Operation between Kokusai Kaikan Station and Kitayam Station started, and this station became a non-terminal one.</e>
+<cmt></cmt>
+<e type="trans" ver="2">June 3, 1997: Operation between Kokusaikaikan Station and Kitayam Station started, and this station became a non-terminal one.</e>
+<cmt>Kokusaikaikan としました。</cmt>
+<e type="check" ver="1">June 3, 1997: Operation between Kokusai Kaikan Station and Kitayama Station started, and this station became a way station.</e>
+<cmt>一部翻訳を変更しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="19">
+<j>2007年（平成19年）4月1日 PiTaPa使用開始。</j>
+<e type="trans" ver="1">April 1, 2007, PiTaPa became usable.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 2007: PiTaPa became accepted.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">April 1, 2007: PiTaPa became accepted.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="20">
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto City Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>City →municipal　としました。</cmt>
+</sen>
+<sen id="21">
+<j>■烏丸線</j>
+<e type="trans" ver="1">■ Karasuma Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">■ Karasuma Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karasuma Line</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+<sen id="22">
+<j>松ヶ崎駅_(京都府)(K02) - 北山駅(K03) - 北大路駅(K04)</j>
+<e type="trans" ver="1">Matsugasaki Station (located in kyoto Prefecture) (K02) - Kitayama Station (K03) - Kitaoji Station (K04)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Matsugasaki Station (located in Kyoto Prefecture) (K02) - Kitayama Station (K03) - Kitaoji Station (K04)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Matsugasaki Station (Kyoto Prefecture) (K02) - Kitayama Station (K03) - Kitaoji Station (K04)</e>
+<cmt>カッコ内のlocated in を削除しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Sushiya(id:110938), Hideyuki(id:9577), 城山(id:104901), Etopirica(id:32491), たらこ(id:16624), Goncyan(id:92158), Memeja(id:110500), Rusk(id:9895), Sunen(id:10700), Ktr(id:30468), Joh shoh(id:9812), Kouchiumi(id:19253), Goki(id:7107), Adonis(id:24011), Hidama(id:73276), Hirotaro(id:1437), Tmatsu(id:10583), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

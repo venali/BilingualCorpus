@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>京都競馬倶楽部</j>
+<e type="trans" ver="1">Kyoto Horse Racing Club</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Horse Racing Club</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Horse Racing Club</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>京都競馬倶楽部（きょうとけいばくらぶ）は、かつて競馬を施行していた団体で競馬倶楽部の一つ。</j>
+<e type="trans" ver="1">Kyoto Horse Racing Club is an organization which used to hold horse racing horse racing club which used to hold horse racing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto Horse Racing Club was an organization which used to hold horse races.</e>
+<cmt>Repetition</cmt>
+<e type="check" ver="1">The Kyoto Horse Racing Club was an organization which used to hold horse races.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>1907年3月15日に京都競馬会として設立、1910年に改称され1937年5月31日に解散した。</j>
+<e type="trans" ver="1">It was founded as Kyoto Horse Racing Association on March 15, 1907, and was renamed in 1910 and dissolved on May 31, 1937.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was founded as the Kyoto Horse Racing Association on March 15, 1907, and was renamed in 1910 and dissolved on May 31, 1937.</e>
+<cmt>reword</cmt>
+<e type="check" ver="1">It was founded as the Kyoto Horse Racing Association on March 15, 1907, and was renamed in 1910 and dissolved on May 31, 1937.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>投票券 (公営競技)発売が黙許されていた1907年3月に京都競馬会として設立され、翌1908年5月16日に京都市下京区に設けられた島原競馬場で競馬の開催が始まった。</j>
+<e type="trans" ver="1">It was founded as Kyoto Horse Racing Association in March of 1907 when sales of betting tickets (of public games) were tacitly allowed, and on May 16, 1908, horse racing started to be held at Shimabara Race Track established in Shimogyo Ward, Kyoto City.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It was founded as the Kyoto Horse Racing Association in March of 1907 when sales of betting tickets (for public games) were tacitly allowed, and on May 16, 1908, horse racing started to be held at the Shimabara Race Track established in Shimogyo Ward, Kyoto City.</e>
+<cmt>reword</cmt>
+<e type="check" ver="1">It was founded as the Kyoto Horse Racing Association in March of 1907 when sales of betting tickets (for public games) were tacitly allowed, and on May 16, 1908, horse racing started to be held at the Shimabara Race Track established in Shimogyo Ward, Kyoto City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>同年10月に馬券発売が禁止され秋季開催は政府からの補助金を受け開催。</j>
+<e type="trans" ver="1">In October of the same year, sales of betting tickets were prohibited and the autumnal events were held with subsidy from the governmenet.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In October of the same year, sales of betting tickets were prohibited and the autumnal events were held with subsidy from the government.</e>
+<cmt>Spelling</cmt>
+<e type="check" ver="1">In October of the same year, sales of betting tickets were prohibited and the autumnal events were held with subsidy from the government.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>そして1910年には馬政長官からの命令を受け京都競馬倶楽部に改称し、同年6月18日から倶楽部としての競馬を始めた。</j>
+<e type="trans" ver="1">In 1910, it was renamed Kyoto Horse Racing Club by the order of administrator of Horse Administration, and the club began to host horse racing on June 18 of the same year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1910, it was renamed Kyoto Horse Racing Club by the order of the administrator of Horse Administration, and the club began to host horse racing on June 18 of the same year.</e>
+<cmt>reword</cmt>
+<e type="check" ver="1">In 1910, it was renamed Kyoto Horse Racing Club by the order of the administrator of Horse Administration, and the club began to host horse racing on June 18 of the same year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>1912年末には島原競馬場の賃借期限が迫り、また火災で競馬場が焼失する被害を受けたため、1913年に競馬場を京都府船井郡須知町（現 京丹波町、旧 丹波町）に移転し1923年春季まで競馬が開催された。</j>
+<e type="trans" ver="1">Since the lease contract for Shimabara Race Track expired at the end of 1912 and the Track was damaged by fire, the horse track was relocated to Shuchi-cho, Funai-gun, Kyoto Prefecture (presently, Kyotanba-cho, former Tanba-cho) and horse racing was held there until the spring of 1923.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the lease contract for Shimabara Race Track expired at the end of 1912 and the Track was damaged by fire, the horse track was relocated to Shuchi-cho, Funai-gun, Kyoto Prefecture (presently, Kyotanba-cho, former Tanba-cho) and horse racing was held there until the spring of 1923.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Since the lease contract for Shimabara Race Track expired at the end of 1912 and the Track was damaged by fire, the horse track was relocated to Shuchi-cho, Funai County Kyoto Prefecture (presently, Kyotanba-cho, former Tanba-cho) in 1913 and horse racing was held there until the spring of 1923.</e>
+<cmt>「1913年に」 訳漏れ対応しました。gun→County</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>1923年に競馬法が公布されたのを機に、1924年に競馬場が京都市伏見区に移転することが決まり同年の競馬開催は中止。</j>
+<e type="trans" ver="1">When Horse Racing Act was promulgated in 1923, the horse track was decided to be relocated to Fushimi Ward, Kyoto City in 1924, and horse racing was suspended in the same year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the Horse Racing Act was promulgated in 1923, it was decided the horse track would be relocated to Fushimi Ward, Kyoto City in 1924, and horse racing was suspended in the same year.</e>
+<cmt>reword</cmt>
+<e type="check" ver="1">When the Horse Racing Act was promulgated in 1923, it was decided the horse track would be relocated to Fushimi Ward, Kyoto City in 1924, and horse racing was suspended in the same year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>1925年春季は阪神競馬倶楽部の鳴尾競馬場を借りて代替開催をしたが、これが競馬法に基づき馬券発売の伴う初の競馬開催となった。</j>
+<e type="trans" ver="1">In the spring of 1925, Naruo Race Track of Hanshin Horse Racing Club was hired to hold horse racing, which was the first horse racing event accompanied by the sale of betting tickets based on the Horse Racing Act.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the spring of 1925, Naruo Race Track of Hanshin Horse Racing Club was leased to hold horse racing, which was the first horse racing event accompanied by the sale of betting tickets based on the Horse Racing Act.</e>
+<cmt>ok</cmt>
+<e type="check" ver="1">In the spring of 1925, Naruo Race Track of Hanshin Horse Racing Club was leased to hold horse racing, which was the first horse racing event accompanied by the sale of betting tickets based on the Horse Racing Act.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>そして同年12月1日に現在の京都競馬場が竣工し同月5日から競馬の開催が始まった。</j>
+<e type="trans" ver="1">The present Kyoto Race Course was completed on December 1 of the same year and started to hold horse racing events on the fifth of the same month.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The present Kyoto Race Course was completed on December first of the same year and started to hold horse racing events on the fifth of the same month.</e>
+<cmt>reword</cmt>
+<e type="check" ver="1">The present Kyoto Race Course was completed on December first of the same year and started to hold horse racing events on the fifth of the same month.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>1928年春季には連合競走の牝馬版である各内国産牝馬連合競走が創設され1937年秋季まで施行された。</j>
+<e type="trans" ver="1">In the spring of 1928, the mare version of the united race, united races for homebred mare were founded and conducted until the autumn of 1937.</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">In the spring of 1928, the mare version of the united race, united races for homebred mares, was founded and conducted until the autumn of 1937.</e>
+<cmt>reword</cmt>
+<e type="check" ver="1">In the spring of 1928, the mare version of the united race, united races for homebred mares, was founded and conducted until the autumn of 1937.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="11">
+<j>1936年12月10日に日本競馬会が設立されたのに伴い、1937年1月に倶楽部主催として最後の競馬が開催され、同年5月31日に日本競馬会に統合される形で解散した。</j>
+<e type="trans" ver="1">As Japan Racing Association was founded on December 10, 1936, the last race was conducted by the club in January of 1937, and the club was dissolved and consolidated into Japan Racing Association on May 31 of the same year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Japan Racing Association was founded on December 10, 1936, the last race was conducted by the club in January of 1937, and the club was dissolved and consolidated into Japan Racing Association on May 31 of the same year.</e>
+<cmt>reword</cmt>
+<e type="check" ver="1">The Japan Racing Association was founded on December 10, 1936, the last race was conducted by the club in January of 1937, and the club was dissolved and consolidated into Japan Racing Association on May 31 of the same year.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 カテゴリ整理専用(id:146185), SPR(id:141947), Montaval(id:396), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

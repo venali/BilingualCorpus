@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>班女</j>
+<e type="trans" ver="1">Hanjo</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hanjo</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hanjo</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>『班女』（はんじょ）は世阿弥作と考えられる能の一つである。</j>
+<e type="trans" ver="1">&quot;Hanjo&quot; is a Noh play, which is reportedly written by Zeami.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Hanjo&quot; is a Noh play, which is reportedly created by Zeami.</e>
+<cmt>「written」を「created」にしました。(意味的に広いと思われたので。）</cmt>
+<e type="check" ver="1">&quot;Hanjo&quot; is a Noh play, which is reportedly created by Zeami.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>紅入り（若い娘）の狂女物だが、クルイ（激し乱れた心を表現する舞のパターン）の部分がない。</j>
+<e type="trans" ver="1">Although it is Kyoujomono (story of a madwoman) of a young girl, there is no kurui (a Noh dance pattern which expresses the disturbed heart).</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">While it is Kyoujomono (story of a madwoman) of a young girl, there is no part of kurui (a Noh dance pattern which expresses the disturbed heart).</e>
+<cmt>Althoughでは、この場合、強いと思われましたので、whileにしました。「部分」に相応する「part」を挿入しました。(sceneも考えられます。）</cmt>
+<e type="check" ver="1">While it is Kyoujomono (story of a madwoman) of a young girl, there is no part of kurui (a Noh dance pattern which expresses the disturbed heart).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>ひたすら扇に恋人を偲ぶ姿が舞と謡で表現される。</j>
+<e type="trans" ver="1">She always looks at the fan thinking of her lover, and her attitude is expressed with dance and Noh chant.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">She always looks at a fan thinking of her lover, and her attitude is expressed with dance and Noh chant.</e>
+<cmt>「fan」は初出なのでtheをaにしました。</cmt>
+<e type="check" ver="1">She always looks at a fan thinking of her lover, and her attitude is expressed with dance and Noh chant.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>扇物狂いと呼ばれる程、扇が目立つ。</j>
+<e type="trans" ver="1">The fans stand out, so that it is called ogimonogurui (mad fan).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The fans are so impressive that it is called ogimonogurui (mad fan).</e>
+<cmt>「stand out」を「impressive」にし、「so that」を分けました。「fans」と複数形が用いられています。何らかの根拠がないのでしたら、単数形にしたほうが良いのでは？と思います。</cmt>
+<e type="check" ver="1">The fan is so impressive that it is called ogimonogurui (mad fan).</e>
+<cmt>チェッカーのコメントを受けて、The fans are→The fan isとしました。</cmt>
+</sen>
+<sen id="5">
+<j>秋の扇は砧 (能)と並んで侘びしいものであった。</j>
+<e type="trans" ver="1">Along with Kinuta (Noh), a fan in autumn was miserable.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As well as in Kinuta (Noh), a fan in autumn represented loneliness.</e>
+<cmt>「秋の扇は侘しさを表す」の形にしました。また、｢侘しさ」は「loneliness」のほうが近いと思われましたので、この語をあてました。｢砧(能)｣とありますが、ウィキペディアのHPには「(能）」の表示は現在なく、また、この場合、能ではなく、モノとしての砧を指すように思われます。(原文を尊重し「能」として訳しました。）</cmt>
+<e type="check" ver="1">As well as in Kinuta (Noh), a fan in autumn represented loneliness.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>「班女」の謂れは中国の班婕妤（はんしょうよ、「しょう」は女偏に捷の右側、「よ」は女偏に予）である。</j>
+<e type="trans" ver="1">&quot;Hanjo&quot; came from Ban Jie Yu of China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Hanjo&quot; came from Ban Jie Yu of China.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;Hanjo&quot; came from Ban Jie Yu of China.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>班は前漢の成帝の愛人であった。</j>
+<e type="trans" ver="1">Ban was a lover of Emperor Cheng of former Han Dynasty.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">Ban was a lover of Emperor Cheng of former Han Dynasty.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ban was a lover of Emperor Cheng of the former Han Dynasty.</e>
+<cmt>former Han Dynastyの前にtheをつけました。</cmt>
+</sen>
+<sen id="8">
+<j>趙飛燕にその座を奪われれ、捨てられた我が身を秋の扇になぞらえて詩『怨歌行』を作った。</j>
+<e type="trans" ver="1">Since she was taken from the Emperor&apos;s love by Cho Hien, she composed a poem, &quot;Yuan ge Xing,&quot; which likens herself to a fan in autumn.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">Since she was taken from the Emperor&apos;s love by Cho Hien, she composed a poem, &quot;Yuan ge Xing,&quot; in which she likens herself to a fan in autumn.</e>
+<cmt>なぞらえたのは彼女だと思われますので、「in which she」にしました。</cmt>
+<e type="check" ver="1">Since she was taken from the Emperor&apos;s love by Cho Hien, she composed a poem, &quot;Yuan ge Xing,&quot; in which she likens herself to a fan in autumn.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>狂言口開でアイによって班女の名の由来と、吉田の少将との恋がてきぱきと説明される。</j>
+<e type="trans" ver="1">At Kyogen kuchiake (showing first the details of characters and circumstances in Kyogen play), Ai (the role of a kyogen actor in Noh) efficiently explains the origin of the name, Hanjo, and her love with Yoshida no Shosho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At Kyogen kuchiake (showing first the details of characters and circumstances in Kyogen play), Ai (the role of a kyogen actor in Noh) quickly explains the origin of the name, Hanjo, and her love with Yoshida no Shosho.</e>
+<cmt>「てきぱきと」を「quickly」としました。</cmt>
+<e type="check" ver="1">At Kyogen kuchiake (showing first the details of characters and circumstances in Kyogen play), Ai (the role of a kyogen actor in Noh) quickly explains the origin of the name, Hanjo, and her love with Yoshida no Shosho.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>遊女である班女は本名を花子（はなご）という。</j>
+<e type="trans" ver="1">Hanjo was a prostitute, and her real name was Hanago.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">Hanjo was a prostitute, and her real name was Hanago.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hanjo was a prostitute, and her real name was Hanago.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>扇を愛好し班女と呼ばれた。</j>
+<e type="trans" ver="1">She was called Hanjo because she liked fans.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">She loved fans and was called Hanjo.</e>
+<cmt>becauseのニュアンスは原文にありませんので（理由は理解できますが、原文を尊重して）andでつなぎました。Likedをlovedにしました。</cmt>
+<e type="check" ver="1">She loved fans and was called Hanjo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>班女は京より東下りの吉田の少将と恋に落ち、互いに扇を取り交わす。</j>
+<e type="trans" ver="1">Hanjo fell in love with Yoshida no Shosho, who was on his way to the east from Kyoto, and they exchanged their fans.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hanjo fell in love with Yoshida no Shosho, who was on his way to the east from Kyoto, and they exchanged their fans.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hanjo fell in love with Yoshida no Shosho, who was on his way to the east from Kyoto, and they exchanged their fans.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>少将が旅立って以降班女は酌も取らずに扇を見つめている毎日である。</j>
+<e type="trans" ver="1">Since Shosho has gone, Hanjo spent days looking at the fan and stopped serving at banquets.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since Shosho has gone, Hanjo spent days looking at the fan and stopped serving at banquets.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Since Shosho has gone, Hanjo spent days looking at the fan and stopped serving at banquets.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>そのため宿から追い出されてしまう。</j>
+<e type="trans" ver="1">Therefore, she was expelled from the inn.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, she was expelled from the inn.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Therefore, she was expelled from the inn.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="15">
+<j>ワキ（吉田の少将）が現われ、都からまた野上に来たと道行きを説明する。</j>
+<e type="trans" ver="1">The waki (supporting role) (Yoshida no Shosho) appeared and explained that he came to Nogami from Kyoto again.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The waki (supporting role) (Yoshida no Shosho) appeared and explained that he came to Nogami from Kyoto again.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The waki (supporting role) (Yoshida no Shosho) appeared and explained that he came to Nogami from Kyoto again.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>ところが契ったはずの花子はいない。</j>
+<e type="trans" ver="1">However, Hanago, with whom he had promised was not there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, Hanago, with whom he had promised was not there.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, Hanago, with whom he had promised was not there.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>「花子が京に来る事があれば立ち寄ってくれ」と言付けて京に向かう。</j>
+<e type="trans" ver="1">He left a message &quot;If Hanago ever comes to Kyoto, drop in&quot; and headed for Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He left a message &quot;If Hanago ever comes to Kyoto, drop in&quot; and headed for Kyoto.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He left a message &quot;If Hanago ever comes to Kyoto, drop in&quot; and headed for Kyoto.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="18">
+<j>ここで場面は京都に移る。</j>
+<e type="trans" ver="1">Then the scene moves to Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Then the scene moves to Kyoto.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Then the scene moves to Kyoto.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>一声（シテの登場を示す笛の吹奏パターン）があり、後ジテが現われる。</j>
+<e type="trans" ver="1">There is issei (blowing pattern of the flute indicating the appearance of the shite [main character]).</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is issei (blowing pattern of the flute indicating the appearance of the shite [main character]).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There is issei (blowing pattern of the flute indicating the appearance of the shite [main character]) and atojite (&quot;shite&quot; performer that appears after nakairi) appears.</e>
+<cmt>一文が分かれていたのでまとめました。</cmt>
+</sen>
+<sen id="20">
+<j>恋に泣く身を『いかに狂女なにとてけふは狂はぬぞ面白ろう狂ひ候へ』などと神社で見物人にからかわれる始末である。</j>
+<e type="trans" ver="1">She lamented for unobtainable love; however onlookers at a shrine teased her, saying &quot;show your craziness today and amuse us.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">She lamented for unobtainable love; however onlookers at a shrine teased her, saying &quot;show your craziness today and amuse us.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">She lamented for unobtainable love; however onlookers at a shrine teased her, saying &quot;show your craziness today and amuse us.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>ところが片時も離さなかった扇に眼を留めた男があった。</j>
+<e type="trans" ver="1">However, a man noticed the fan which always keep on her.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, a man noticed the fan which was always kept with her.</e>
+<cmt>whichはfanを指すと思われますので、「is kept」にし、onをwithにしました。厳密には、原文と時制が合っていません。</cmt>
+<e type="check" ver="1">However, a man noticed the fan which was always kept with her.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>形見の扇に恋人を偲び中国の古籍をふんだんに引用した謡とともに序ノ舞（現在では中ノ舞）を舞う班女。</j>
+<e type="trans" ver="1">Hanjo thought of her lover looking at the fan, which he left, and danced Jo-no-mai (introductory dance) (Naka-no-mai [middle dance] at the present day) with the Noh chant citing many old Chinese writings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With his fan recalling her lover, Hanjo danced Jo-no-mai (introductory dance) (Naka-no-mai [middle dance] at the present day) with the Noh chant citing many old Chinese writings.</e>
+<cmt>danceを主動詞にして「恋人を偲びながらdanceした」としました。</cmt>
+<e type="check" ver="1">With his fan recalling her lover, Hanjo danced Jo-no-mai (introductory dance) (Naka-no-mai [middle dance] at the present day) with the Noh chant citing many old Chinese writings.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>男は（オリジナルではツレを介して）声をかけるが「これは愛しい人の形見だから」と拒否される。</j>
+<e type="trans" ver="1">The man talked to her (originally, letting subordinate talk), but she refused him because &quot;it is a token of beloved man.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The man talked to her (originally, letting subordinate talk), but she refused him because &quot;it is a token of beloved man.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The man talked to her (originally, letting subordinate talk), but she refused him because &quot;it is a remembrance token of beloved man.&quot;</e>
+<cmt>a token→a remembrance tokenにしました。</cmt>
+</sen>
+<sen id="24">
+<j>さらに声をかけ、扇を見せあった。</j>
+<e type="trans" ver="1">He talked to again and they showed their fan to each other.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">Again he talked to her and they showed their fan to each other.</e>
+<cmt>talked toの後にherを補い、Againを文頭にしました。</cmt>
+<e type="check" ver="1">Again he talked to her and they showed their fan to each other.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>それが少将との再会であった。</j>
+<e type="trans" ver="1">She finally reunited with Shosho.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">She finally reunited with Shosho.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">She finally reunited with Shosho.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>『それぞと知られ白雪の、扇のつまの形見こそ、妹背の中の情なれ、妹背の中の情なれ。』（トメ拍子）。</j>
+<e type="trans" ver="1">『それぞと知られ白雪の、扇のつまの形見こそ、妹背の中の情なれ、妹背の中の情なれ。』(Tome-hyoshi [closing stamps]).</e>
+<cmt>意味解釈が困難なため訳出できず</cmt>
+<e type="trans" ver="2">『それぞと知られ白雪の、扇のつまの形見こそ、妹背の中の情なれ、妹背の中の情なれ。』(Tome-hyoshi [closing stamps]).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">『それぞと知られ白雪の、扇のつまの形見こそ、妹背の中の情なれ、妹背の中の情なれ。』(Tome-hyoshi [closing stamps]).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>資料</j>
+<e type="trans" ver="1">Documents</e>
+<cmt></cmt>
+<e type="trans" ver="2">Documents</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Documents</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="27">
+<j>岩波書店　日本古典文学大系　『謡曲集』上　「世阿弥の能」。</j>
+<e type="trans" ver="1">Japanese Classic Literature Systematic Edition &quot;Yokyokushu (text of Noh play) vol.1 &apos;Zeami&apos;s Noh.&apos; Iwanami Shoten, Publishers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Zeami&apos;s Noh&apos;, in &quot;Yokyokushu (text of Noh play) vol.1, Japanese Classic Literature Systematic Edition, Iwanami Shoten, Publishers.</e>
+<cmt>英語の文献の表示の仕方にならい、小→大に並べました。</cmt>
+<e type="check" ver="1">Zeami&apos;s Noh&apos;, in &quot;Yokyokushu (text of Noh play) vol.1, Japanese Classic Literature Systematic Edition, Iwanami Shoten, Publishers.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>謡の引用部分は同書第四刷、p.344, 第六行及び p.347, 最終二行。</j>
+<e type="trans" ver="1">Noh chants are quoted from the sixth line of p.344 and the last of two lines of p.347, the fourth printing of the document of same.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Noh chants are quoted from the sixth line of p.344 and the last of two lines of p.347, in the fourth printing of the same document.</e>
+<cmt>「the forth｣の前に「in」を入れ、「same document」にしました。</cmt>
+<e type="check" ver="1">Noh chants are quoted from the sixth line of p.344 and the last of two lines of p.347, in the fourth printing of the same document.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>関連作品</j>
+<e type="trans" ver="1">Related works</e>
+<cmt></cmt>
+<e type="trans" ver="2">Related works</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Related works</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="29">
+<j>隅田川 (能)が悲しい後日談になっている。</j>
+<e type="trans" ver="1">Noh Sumida-gawa River: It is a sad sequel.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A Noh of Sumida-gawa River tells its tragic post-fin.</e>
+<cmt>「sad sequel」を「tragic post-fin」にしました。</cmt>
+<e type="check" ver="1">A Noh of Sumida-gawa River tells its tragic post-fin.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="30">
+<j>三島由紀夫の近代能楽集の題材になった。</j>
+<e type="trans" ver="1">It became a theme of Modern Noh Plays written by Yukio MISHIMA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It became a theme of Modern Noh Plays written by Yukio MISHIMA.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It became a theme of Modern Noh Plays written by Yukio MISHIMA.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 ファービィ(id:129184), 氷鷺(id:73707), Miya(id:1881), Raff(id:14006), Hannah(id:15935), ささがに(id:228586), NekoJaNekoJa(id:23311), Toki-ho(id:10691), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

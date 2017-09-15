@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>元田中駅</j>
+<e type="trans" ver="1">Mototanaka Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mototanaka Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mototanaka Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>元田中駅（もとたなかえき）は、京都市左京区にある叡山電鉄叡山電鉄叡山本線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Sakyo Ward, Kyoto City, Mototanaka Station is a railway stop on Eizan Main Line, which is operated by Eizan Electric Railway Co.,Ltd (Eiden).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mototanaka Station, located in Sakyo Ward, Kyoto City, is a railway stop on the Eizan Main Line, which is operated by the Eizan Electric Railway Co., Ltd. (Eiden).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Mototanaka Station, located in Sakyo Ward, Kyoto City, is a railway stop on the Eizan Main Line, which is operated by the Eizan Electric Railway Co., Ltd. (Eiden).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Structure of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>千鳥式2面2線のホームを持つ駅員無配置駅。</j>
+<e type="trans" ver="1">Mototanaka Station is an unmanned stop that has two side platforms in staggered array and two boarding areas.</e>
+<cmt>「千鳥式2面2線のホーム」とは、「ずらして設けられた2つの単式プラットホームと、2つの乗り場」という意味（Wiki 「プラットホーム」参照）であり、そこでは「プラットホーム」と「乗り場」を訳し分ける必要があることから、前者を&quot;platform&quot;、後者を&quot;boarding area&quot;としています。</cmt>
+<e type="trans" ver="2">Mototanaka Station is an unmanned stop having two side platforms in a staggered array, as well as two boarding areas.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Mototanaka Station is an unmanned stop having two side platforms in a staggered array, serving two tracks.</e>
+<cmt>two tracks としました。</cmt>
+</sen>
+<sen id="3">
+<j>出町柳駅行きホームにのみ券売機が設置されており、8時から18時30分の間稼動する。</j>
+<e type="trans" ver="1">An automatic ticket vending machine is set merely on the platform that the train bound for Demachiyanagi Station makes a stop, and the machine works from 8:00 a.m. to 6:30 p.m.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An automatic ticket vending machine is found only on the platform at which the train bound for Demachiyanagi Station stops, and the machine operates from 8:00 a.m. to 6:30 p.m.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">An automatic ticket vending machine is found only on the platform at which the train bound for Demachiyanagi Station stops, and the machine operates from 8:00 a.m. to 6:30 p.m.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>両ホームとも約1両分の長さの上屋が設置されている。</j>
+<e type="trans" ver="1">A shed, whose length is about a car of the train, is set on both platforms.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Each platform has a shed, whose length is roughly equal to that of a train car.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Each platform has a shed, whose length is roughly equal to that of a train car.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>かつて京都市電と平面交差していた事の名残から上下ホームは東大路通を挟んで両側に分かれている（下りホームは西側、上りホームは東側）。</j>
+<e type="trans" ver="1">Formerly there was a grade crossing between Eizan Main Line and Kyoto City Trams, and as its trace, the two platforms are separate across Higashioji-dori Street; the platform for the down train is in the westward, and the platform for the up train is in the eastward.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Formerly there was a grade crossing between the Eizan Main Line and Kyoto City Trams, and its existence is indicated by the two platforms that lie separate from one another across Higashioji-dori Street; the platform for the down train is in the west end, while the platform for the up train is in the east end.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Formerly there was a grade crossing between the Eizan Main Line and Kyoto City Trams, and its existence is indicated by the two platforms that lie separate from one another across Higashioji-dori Street; the platform for the outbound train is in the west end, while the platform for the inbound train is in the east end.</e>
+<cmt>上り、下り→inbound, outbound としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>上下共にバリアフリーには対応していない。</j>
+<e type="trans" ver="1">Neither of the platforms is barrier-free.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neither platform is barrier-free.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Neither platform is barrier-free.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>レール面からホーム面までの階段のみであるが（画像参照）車椅子等での利用には介護者が必要。</j>
+<e type="trans" ver="1">There merely exist the steps from the track level to the plaftorm level (please refer to the image), and the disabled person including one in a wheelchair needs to be assisted to use the steps.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are only the steps from the track level to the platform level (please refer to the image), and disabled persons: including those in wheelchairs: must be assisted in using the steps.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">There are only steps from the track level to the platform level (please refer to the image), so disabled persons--including those in wheelchairs--must be assisted when using the steps.</e>
+<cmt>:　を－－に変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Surrondings of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>東大路通と交差する。</j>
+<e type="trans" ver="1">Higashioji-dori Street runs across the track of Eizan Main Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Higashioji-dori Street runs across the track of the Eizan Main Line.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Higashioji-dori Street runs across the track of the Eizan Main Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>京都大学などが近くにあり、東大路通は学生相手の飲食店や付近住民の買い物の店が並ぶ商店街になっている。</j>
+<e type="trans" ver="1">Kyoto University and other facilities are located near to the station, so on Higashioji-dori Street there stand restaurants for students and shops targetting at the neighbors.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto University and other facilities are located near to the station, so on Higashioji-dori Street there are restaurants for students and shops designed to serve the needs of people from adjoining neighborhoods.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kyoto University and other facilities are located near to the station, so on Higashioji-dori Street there are restaurants for students and shops designed to serve the needs of people from adjoining neighborhoods.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>田中神社</j>
+<e type="trans" ver="1">Tanaka-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanaka-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tanaka-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="11">
+<j>京都情報大学院大学</j>
+<e type="trans" ver="1">The Kyoto College of Graduate Studies for Informatics</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto College of Graduate Studies for Informatics</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Kyoto College of Graduate Studies for Informatics</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>松本商店（回数券委託発売所）</j>
+<e type="trans" ver="1">Matsumoto Shoten (Matsumoto Store) : A consignment store of a book of Eiden coupon tickets</e>
+<cmt></cmt>
+<e type="trans" ver="2">Matsumoto Shoten (Matsumoto Store): A consignment store for booklets of Eiden coupon tickets</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Matsumoto Shoten (Matsumoto Store): A consignment store for booklets of Eiden coupon tickets</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="13">
+<j>バスのりば</j>
+<e type="trans" ver="1">Bus stops</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus stops</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus stops</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="14">
+<j>叡電元田中（東大路通駅隣接）</j>
+<e type="trans" ver="1">Eiden Mototanaka (on Higashioji-dori Street by Mototanaka Station)</e>
+<cmt>※オリジナルの括弧内は「東大路通駅」隣接、ではなく、「東大路通」（にある元田中)「駅隣接」（の乗り場）、の意味であると解されるので、そのように訳しています。</cmt>
+<e type="trans" ver="2">Eiden Mototanaka (on Higashioji-dori Street, next to Mototanaka Station)</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Eiden Mototanaka (on Higashioji-dori Street, next to Mototanaka Station)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="15">
+<j>京都市営バス</j>
+<e type="trans" ver="1">Kyoto City Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>南行</j>
+<e type="trans" ver="1">For the south</e>
+<cmt></cmt>
+<e type="trans" ver="2">For the south</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For the south</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>31系統　祇園・四条烏丸方面</j>
+<e type="trans" ver="1">Route 31--For Gion/Shijo Karasuma</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 31: For Gion/Shijo Karasuma</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 31: For Gion/Shijo Karasuma</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>65系統　烏丸丸太町・四条烏丸方面</j>
+<e type="trans" ver="1">Route 65--For Karasuma Marutamachi/Shijo Karasuma</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 65: For Karasuma Marutamachi/Shijo Karasuma</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 65: For Karasuma Marutamachi/Shijo Karasuma</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>206系統　東山七条・京都駅方面</j>
+<e type="trans" ver="1">Route 206--For Higashiyama Nanajo/Kyoto Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 206: For Higashiyama Nanajo/Kyoto Station</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 206: For Higashiyama Nanajo/Kyoto Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="20">
+<j>北行</j>
+<e type="trans" ver="1">For the north</e>
+<cmt></cmt>
+<e type="trans" ver="2">For the north</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For the north</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>3系統（上終町折返し便のみ）　上終町京都造形芸大前方面</j>
+<e type="trans" ver="1">Route 3 (only the shuttle service that starts from and arrives at Kamihatecho)--For Kamihatecho Kyoto Zokei Univ. (Kyoto University of Art and Design)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 3 (only the shuttle service that starts from and arrives at Kamihatecho): For Kamihatecho Kyoto Zokei University (Kyoto University of Art and Design)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 3 (only the shuttle service that arrives at and departs from Kamihate-cho): For Kamihate-cho, Kyoto Zokei University (Kyoto University of Art and Design)</e>
+<cmt>Kamihate-cho　とハイフンを追加しました。&quot;starts from and arrives at&quot;→&quot;arrives at and departs from&quot;に変更しました。</cmt>
+</sen>
+<sen id="22">
+<j>31系統　高野・岩倉方面</j>
+<e type="trans" ver="1">Route 31--For Takano/Iwakura</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 31: For Takano/Iwakura</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 31: For Takano/Iwakura</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>65系統　上終町京都造形芸大前・修学院・岩倉方面</j>
+<e type="trans" ver="1">Route 65--For Kamihatecho Kyoto Zokei Univ. (Kyoto University of Art and Design)/Shugakuin/Iwakura</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 65: For Kamihatecho Kyoto Zokei University (Kyoto University of Art and Design)/Shugakuin/Iwakura</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 65: For Kamihate-cho Kyoto Zokei University (Kyoto University of Art and Design)/Shugakuin/Iwakura</e>
+<cmt>Kamihata-cho　とハイフンを追加しました。</cmt>
+</sen>
+<sen id="24">
+<j>206系統　高野・北大路駅・千本北大路・京都駅方面</j>
+<e type="trans" ver="1">Route 206--For Takano/Kitaoji Station/Senbon Kitaoji/Kyoto Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 206: For Takano/Kitaoji Station/Senbon Kitaoji/Kyoto Station</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 206: For Takano/Kitaoji Station/Senbon Kitaoji/Kyoto Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="25">
+<j>1925年（大正14年）9月27日　京都電燈の駅として開業。</j>
+<e type="trans" ver="1">September 27, 1925 -- Mototanaka Station opened as a stop of Kyoto Dento.</e>
+<cmt>※オリジナルでも日付とその後の文章は切り離してあるように思いますので、英訳でもダッシュで区切りました。</cmt>
+<e type="trans" ver="2">September 27, 1925: Mototanaka Station opened as a stop of Kyoto Dento.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">September 27, 1925: Mototanaka Station opened as a stop of Kyoto Dento.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>現駅より数100ｍ西にあった。</j>
+<e type="trans" ver="1">The location was hundreds of meters westward from the present station building.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The location was hundreds of meters westward from the present station building.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The location was hundreds of meters westward from the present station building.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="27">
+<j>1942年（昭和17年）3月2日　会社譲渡により京福電気鉄道の駅となる。</j>
+<e type="trans" ver="1">March 2, 1942 -- Mototanaka Station became a stop of Keifuku Electric Railroad Co.,Ltd. because of the transfer of operations.</e>
+<cmt>※「会社譲渡」とは「営業譲渡」のことと解され、そのように訳しています。(「営業譲渡」については英辞郎 on the WEB を参照し&quot;transfer of operations&quot;としました。）</cmt>
+<e type="trans" ver="2">March 2, 1942: Mototanaka Station became a stop of Keifuku Electric Railroad Co., Ltd., due to the transfer of operations.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 2, 1942: Mototanaka Station became a stop of Keifuku Electric Railroad Co., Ltd., due to the transfer of operations.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="28">
+<j>1943年（昭和18年）7月10日　京都市電の東山線が延伸開業し、叡電前停留所設置（なお、市バスの叡電前は出町柳駅前にあった）。</j>
+<e type="trans" ver="1">July 10, 1943 -- Kyoto City Trams Higashiyama Line extended its track, reopened its operation and set up Eiden-mae stop; in addition, Eiden-mae stop of Kyoto City Bus was located in front of Demachiyanagi Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">July 10, 1943: Kyoto City Trams&apos; Higashiyama Line extended its track, reopened its operation and set up the Eiden-mae stop; additionally, the Eiden-mae stop of Kyoto City Bus was located in front of Demachiyanagi Station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">July 10, 1943: Kyoto City Trams&apos; Higashiyama Line extended its track, reopened its operation and set up the Eiden-mae stop; additionally, the Eiden-mae stop of Kyoto City Bus was located in front of Demachiyanagi Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>これまでに東大路通開通に伴い現在地に移転。</j>
+<e type="trans" ver="1">By then, with the opening of Higashioji-dori Street, the station building was moved to the present location.</e>
+<cmt></cmt>
+<e type="trans" ver="2">By then, with the opening of Higashioji-dori Street, the station building was moved to the present location.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">By then, with the opening of Higashioji-dori Street, the station building was moved to the present location.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>特認により東大路通とは交差点となる。</j>
+<e type="trans" ver="1">With a special permission, an intersection was made between the track of Eizan Main Line and Higashioji-dori Street at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With special permission, an intersection was established between the track of the Eizan Main Line and Higashioji-dori Street at this station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">With special permission, an intersection was established between the track of the Eizan Main Line and Higashioji-dori Street at this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="31">
+<j>1949年（昭和24年）12月11日　京都市電東山線から宝ヶ池駅までの乗り入れ運転開始。</j>
+<e type="trans" ver="1">December 11, 1949 -- Kyoto City Trams Higashiyama Line began its connection with Eizan Main Line at Takaragaike Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 11, 1949: Kyoto City Trams&apos; Higashiyama Line began its connection with the Eizan Main Line at Takaragaike Station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">December 11, 1949: Kyoto City Trams&apos; Higashiyama Line began its connection with the Eizan Main Line at Takaragaike Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>この乗り入れは、宝ヶ池駅近くにあった市営の競輪場への観客輸送のためのもので、競輪開催日にのみ実施された。</j>
+<e type="trans" ver="1">This connection was for the transport of passengers going to the city bicycle racetrack near to Takaragaike Station, so the connection was done only on the race date.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This connection was for the transport of passengers going to the city&apos;s bicycle racetrack near to Takaragaike Station, so the connection was made only on the race date.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This connection was for the transport of passengers going to the city&apos;s bicycle racetrack near to Takaragaike Station, so the connection was made only on the race date.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="33">
+<j>1955年（昭和30年）9月1日　この日限りで京都市電からの乗り入れ運転を終了。</j>
+<e type="trans" ver="1">September 1, 1955 -- Kyoto City Trams Higashiyama Line ended its connection with Eiden Main Line on this date.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 1, 1955: Kyoto City Trams&apos; Higashiyama Line ended its connection with the Eiden Main Line.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">September 1, 1955: Kyoto City Trams&apos; Higashiyama Line ended its connection with the Eiden Main Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>乗り入れ廃止後も、連絡する渡り線は長い間残されていた。</j>
+<e type="trans" ver="1">Even after the connection was ended, the crossover between the two lines was left for long.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even after the connection was ended, the crossover between the two lines remained for a long time.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Even after the connection was ended, the crossover between the two lines remained for a long time.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="35">
+<j>1978年（昭和53年）10月1日　京都市電が廃止。</j>
+<e type="trans" ver="1">October 1, 1978 -- Kyoto City Trams ended its operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 1, 1978: Kyoto City Trams ceased operation.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">October 1, 1978: Kyoto City Trams ceased operation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>東大路通交差点を踏切に変更。</j>
+<e type="trans" ver="1">The intersection between Eizan Main Line and Higashioji-dori Street was converted into the railway crossing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The intersection between the Eizan Main Line and Higashioji-dori Street was converted to a railway crossing.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The intersection between the Eizan Main Line and Higashioji-dori Street was converted to a railway crossing.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>この後の市電軌道撤去工事にて、残っていた渡り線の一部を完全撤去。</j>
+<e type="trans" ver="1">With the track of Kyoto City Trams removed afterward, the remains of the crossover were also dismantled completely.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With the track of Kyoto City Trams removed afterward, the remains of the crossover were also dismantled completely.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">With the track of Kyoto City Trams removed afterward, the remains of the crossover were also dismantled completely.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="38">
+<j>1986年（昭和61年）4月1日　会社譲渡により叡山電鉄の駅となる。</j>
+<e type="trans" ver="1">April 1, 1986 -- The station became a stop of Eizan Electric Railway Co.,Ltd. because of the transfer of operations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1986: The station became a stop of the Eizan Electric Railway Co., Ltd., due to the transfer of operations.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">April 1, 1986: The station became a stop of the Eizan Electric Railway Co., Ltd., due to the transfer of operations.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Next station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Next station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="39">
+<j>叡山電鉄</j>
+<e type="trans" ver="1">Eizan Electric Railway Co.,Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Eizan Electric Railway Co., Ltd.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Eizan Electric Railway Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>叡山本線</j>
+<e type="trans" ver="1">Eizan Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Eizan Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Eizan Main Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>出町柳駅 - 元田中駅 - 茶山駅 (京都府)</j>
+<e type="trans" ver="1">Demachiyanagi Station - Mototanaka Station - Chayama Station (in Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Demachiyanagi Station - Mototanaka Station - Chayama Station (in Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Demachiyanagi Station - Mototanaka Station - Chayama Station (Kyoto Prefecture)</e>
+<cmt>inを削除しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), Etopirica(id:32491), Bergmann(id:85282), Tp2415(id:84801), Goki(id:7107), Hidama(id:73276), Y3006(id:155535), Unamu(id:14627), Kone(id:377), Max-BB(id:83772), 扇風機のせんちゃん(id:161810), Wikipedianet(id:9608), Nopira(id:29335), Ohura(id:5986), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

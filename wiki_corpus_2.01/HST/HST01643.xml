@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>外記政</j>
+<e type="trans" ver="1">Geki-sei</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gekisei</e>
+<cmt>後の方の訳ではgekisei とされているので、統一しました。</cmt>
+<e type="check" ver="1">Gekisei</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>外記政（げきせい）とは、大臣以下の公卿が外記の事務所である外記庁において諸司の申文を披見して協議・裁定を行うこと。</j>
+<e type="trans" ver="1">Geki-sei refers to a system that from the Minister to Kugyo (high court nobles), reading moshibumi (a general term for a request or petition submitted by a lower authority to a higher) from shoshi (officials), had conferences and gave decisions on them at a Geki Cho (Department), an office of Geki (Secretary of the Grand Council of State).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gekisei refers to a system that Kugyo (high court nobles) who were ministers read moshibumi (a general term for a request or petition submitted by a lower authority to a higher) from shoshi (officials), had conferences and gave decisions on them at Geki Cho, an office of Geki (Secretary of the Grand Council of State).</e>
+<cmt>原文中の「大臣以下の」の意味がわかりません。そもそも公卿は大臣とそれに次ぐ地位の人々だからです。最初に訳した方も、ここの意味を取り違えたかもしれません。それに従って訂正しました。</cmt>
+<e type="check" ver="1">Gekisei refers to a system that Kugyo (high court nobles) who were ministers read moshibumi (a general term for a request or petition submitted by a lower authority to a higher) from shoshi (officials), had conferences and gave decisions on them at Geki Cho, an office of Geki (Secretary of the Grand Council of State).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>律令制初期においてこうした会議は朝堂殿で行われることになっていたが、平安時代に天皇の生活が内裏中心になるにつれてより内裏に近い場所で会議が開かれることが増えていった。</j>
+<e type="trans" ver="1">Under the early ritsuryo system such conferences usually took place in the chodo-den (Imperial court), however, in the Heian period, they were held more frequently closer to a dairi (Imperial Palace) as emperors led their lives mainly in a dairi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under the early ritsuryo system such conferences usually took place in the chodo-den (Imperial court), however, in the Heian period, they were held more frequently closer to a dairi (Imperial Palace) as emperors led their lives mainly in a dairi.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Under the early ritsuryo system such conferences usually took place in the chodo-den (Imperial court), however, in the Heian period, they were held more frequently closer to a dairi (Imperial Palace) as emperors led their lives mainly in a dairi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>当初は太政官庁で行われていたために官政（かんせい）と呼ばれていたが、平安時代前期には早くもより近い外記庁に移されていくことになる。</j>
+<e type="trans" ver="1">At first they were called kansei because they were held in the Daijokan (Great Council of State), however, in the latter half of the Heian period they were already transferred to the closer Geki Cho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At first they were called kansei because they were held in the Daijokan Cho (Great Council of State), however, in the latter half of the Heian period they were already transferred to the closer Geki Cho.</e>
+<cmt>訳漏れ： Daijokan → Dianjokan Cho に訂正しました。</cmt>
+<e type="check" ver="1">At first they were called kansei because they were held in the Daijokan Cho (Great Council of State), however, in the latter half of the Heian period they were already transferred to the closer Geki Cho.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>官政・外記政いずれの場合も、会議開始前に少納言・弁官・外記が先に集合して結政（かたなし、文書の整理分類）を予め行う。</j>
+<e type="trans" ver="1">Whether it was kansei or gekisei, a shonagon (Minor Counselor), a benkan (a controller of the Oversight Department) and a geki gathered a little before the conference and conducted in advance a katanashi (ritual for reading out bound documents on the government affairs before the actual work of the government affairs started) in advance.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Whether it was kansei or gekisei, a shonagon (Minor Counselor), a benkan (a controller of the Oversight Department) and a geki gathered a little before the conference and conducted a katanashi (ritual for reading out bound documents on the government affairs before the actual work of the government affairs started) in advance.</e>
+<cmt>in advance が重複しているため、初めのものを削除しました。</cmt>
+<e type="check" ver="1">Whether it was kansei or gekisei, a shonagon (lesser councilor of state), a benkan (a controller of the Oversight Department) and a geki gathered a little before the conference and conducted a katanashi (ritual for reading out bound documents on the government affairs before the actual work of the government affairs started) in advance.</e>
+<cmt>統一リストに合わせました。</cmt>
+</sen>
+<sen id="5">
+<j>続いて開始時刻に公卿が入場し着座が終わると、弁官が史に命じて文書を読み上げる。</j>
+<e type="trans" ver="1">When the starting time came, kugyo entered and sat down, and then a benkan told an official to read a monjo (written material).</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the starting time came, kugyo entered and sat down, and then a benkan told an official to read a monjo (written material).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">When the starting time came, kugyo entered and sat down, and then a benkan told an official to read a monjo (written material).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>続いて公卿が文書について協議・裁決を行い、請印（押印）を行った後に公卿が退席して終了となった。</j>
+<e type="trans" ver="1">Subsequently after kugyo discussed the monjo and gave a decision to them, they set a seal on the decisions and left the room, which meant the end of the conference.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Subsequently after kugyo discussed the cases on monjo and gave a decision to them, they set a seal on the decisions and left the room, which meant the end of the conference.</e>
+<cmt>わかりやすくするため言葉を補いました。discussed the monjo → discussed the cases on</cmt>
+<e type="check" ver="1">Subsequently after kugyo discussed the cases on monjo and gave a decision to them, they set a seal on the decisions and left the room, which meant the end of the conference.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>原則として月5日の休日（毎月6・12・18・24・晦日）を除いて毎日開催されることになっていたが、平安時代中期には月数回にまで減少し、陣定などに代わった。</j>
+<e type="trans" ver="1">As a principle the conference was held every day excluding five holidays a month (6/12/18/24 of each month plus Misoka (last day of month)), it was reduced to several times a month in the middle Heian period, and was taken place by jinnosadame.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a principle the conference was held every day excluding five holidays a month (6/12/18/24 and the last day of each month), however, it was reduced to several times a month in the middle Heian period, and was replaced by Jin no sadame (ancient cabinet council).</e>
+<cmt>カッコが重複しているので、晦日を単にlast day of month としました。文法的に少しおかしいのでhoweverを補いました。was taken place は誤訳ではないかと思われます。したがって、replaced に変更しました。Jinnnosadame は初出なので、注釈を加えました。</cmt>
+<e type="check" ver="1">As a principle the conference was held every day excluding five holidays a month (days 6, 12, 18, and the last day of each month), however, it was reduced to several times a month in the middle Heian period, and was replaced by Jin no sadame (ancient cabinet council).</e>
+<cmt>表記を変更</cmt>
+</sen>
+<sen id="8">
+<j>その後、官政は藤原頼長が再興を志すも保元の乱での敗死によって挫折して廃絶した。</j>
+<e type="trans" ver="1">Thereafter, FUJIWARA no Yorinaga intended to restore the kansei only to fail, and it was abolished due to his death in Hogen War and also changed into a formal court function: In Kemmu Nenchu Ghoji (books about annual events of the Imperial court) that Emperor Gohanazono wrote by his own handwriting, a note of &quot;Interrupted&quot; is written.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thereafter, FUJIWARA no Yorinaga intended to restore the kansei only to fail, and it was abolished due to his death in Hogen War.</e>
+<cmt>「外記政」が訳されていません。これは主語なので、2文にわけました。一原文一訳文の例外対処</cmt>
+<e type="check" ver="1">Thereafter, FUJIWARA no Yorinaga intended to restore the kansei only to fail, and it was abolished due to his death in Hogen War.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>外記政も一種の形式的な宮中行事と化して更に後花園天皇が直筆で書写した『建武年中行事』には「中絶」という注記が記されている。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2">Gekisei was also changed into a formal court function and moreover, in Kemmu Nenchu Ghoji (books about annual events of the Imperial court) that Emperor Gohanazono wrote by his own handwriting, a note of &quot;Interrupted&quot; is written.</e>
+<cmt>「更に」にあたる訳が不足していたため、moreover を加えました。</cmt>
+<e type="check" ver="1">Gekisei was also changed into a formal court function and moreover, in &quot;Kemmu Nenchu Ghoji&quot; (books about annual events of the Imperial court) that Emperor Gohanazono wrote by his own handwriting, a note of &apos;Interrupted&apos; is written.</e>
+<cmt>ダブルクォーテーション追加 &quot; &quot; → &apos; &apos;</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 水野白楓(id:22811), Kaboyose-DSD(id:123658), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

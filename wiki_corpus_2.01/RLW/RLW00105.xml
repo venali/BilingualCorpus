@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>京都市役所前駅</j>
+<e type="trans" ver="1">Kyoto Shiyakusho-mae Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Shiyakusho-mae Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Shiyakusho-mae Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>京都市役所前駅（きょうとしやくしょまええき）は、京都市中京区にある、京都市営地下鉄京都市営地下鉄東西線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Nakagyo Ward, Kyoto City, Kyoto Shiyakusho-mae Station is a stop on Tozai Line of Kyoto City Subway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Located in Nakagyo Ward, Kyoto City, Kyoto Shiyakusho-mae Station is a stop on the Tozai Line of the Kyoto City Subway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Located in Nakagyo Ward, Kyoto City, Kyoto Shiyakusho-mae Station is a stop on the Tozai Line of the Kyoto Municipal Subway.</e>
+<cmt>city→ municipal　としました。</cmt>
+</sen>
+<sen id="2">
+<j>駅番号はT12。</j>
+<e type="trans" ver="1">The station number is T12.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station number is T12.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The station number is T12.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>ステーションカラーは韓紅（からくれない）。</j>
+<e type="trans" ver="1">Its station color is Korean-red..</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its station color is Korean red.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Its station color is Korean red.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>河原町御池交差点の下に位置するため、駅名標に「（河原町御池）」と添えられている（六地蔵駅まで路線が延伸された前後より付記された）。</j>
+<e type="trans" ver="1">Since this station is located under the Kawaramachi Oike crossing, the description of &quot;Kawaramachi Oike&quot; is additionally placed on the station name board (this description has been added around when the line was extended to Rokujizo Station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because this station is located under the Kawaramachi Oike crossing, the description &quot;Kawaramachi Oike&quot; is additionally placed on the station-name board (this description was added around the time that the line was extended to Rokujizo Station).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Because this station is located under the Kawaramachi Oike crossing, the description &apos;Kawaramachi Oike&apos; is additionally placed on the station-name board (this description was added around the time that the line was extended to Rokujizo Station).</e>
+<cmt>&quot; →&apos;　としました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>プラットホーム分類1面2線の地下駅である。</j>
+<e type="trans" ver="1">An underground station with a platform serving two tracks.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an underground station with a platform serving two tracks.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is an underground station with a platform serving two tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>改札口は1ヶ所のみ。</j>
+<e type="trans" ver="1">The entrance/exit gates are provided only at a location within the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The entrance/exit gates are provided only at a location within the station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The ticket gates are provided only at a location within the station.</e>
+<cmt>改札口→ticket gates としました。</cmt>
+</sen>
+<sen id="7">
+<j>改札を出ると、ゼスト御池の東端部に接している。</j>
+<e type="trans" ver="1">Exiting from the gate, you will come to the east end of Zest Oike.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Exiting from the gate, you will come to the east end of Zest Oike.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Exiting from the gate, you will come to the east end of Zest Oike.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>京阪京津線直通列車の一部は当駅で折り返しとなる。</j>
+<e type="trans" ver="1">Some of the Keihan Keishin Line trains providing through service return at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some of the Keihan Keishin Line trains providing through-service return at this station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Some of the Keihan Keishin Line trains providing through-service return at this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>その関係で、西方に引き上げ線がある。</j>
+<e type="trans" ver="1">Therefore, side tracks are provided on the western side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, side tracks are provided on the western side.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Therefore, side tracks are provided on the western side.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>御陵駅とは異なり、当駅始発列車であっても発車時の自動放送は行われていない。</j>
+<e type="trans" ver="1">Contrasting with Misasagi Station, no announment for departure is made even for the trains that start their run at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In contrast with Misasagi Station, departure announcements aren&apos;t made even for the trains that start out from this station.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">In contrast with Misasagi Station, departure announcements aren&apos;t made even for the trains that start out from this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="11">
+<j>なお京阪京津線については、2008年1月16日の太秦天神川駅開業までは当駅で全列車が浜大津方面へ折り返していた。</j>
+<e type="trans" ver="1">On Keihan Keishin Line, all trains from the direction of Hamaotsu retuned from this station before Uzumasa Tenjingawa Station started its operation on January 16, 2008.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the Keihan Keishin Line, all trains from the direction of Hamaotsu returned from this station before Uzumasa Tenjingawa Station became operational on January 16, 2008.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">On the Keihan Keishin Line, all trains from the direction of Hamaotsu returned from this station before Uzumasa Tenjingawa Station became operational on January 16, 2008.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>かつての東西線の最西駅である二条駅まで直通しなかったのは、京阪電気鉄道との車両使用料の関係が大きいとされる。</j>
+<e type="trans" ver="1">Through service was not provided up to Nijo Station, the former west-end station on Tozai Line, and it is said that the reason was mostly concerned with relationships with Keihan Electric Railway about use rates of train cars.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Through-service wasn&apos;t provided up to Nijo Station, the former west-end station on the Tozai Line, and it is said that the reason generally pertained to relationships with Keihan Electric Railway about the usage rates of train cars.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Through-service wasn&apos;t provided up to Nijo Station, the former west-end station on the Tozai Line, and it is said that the reason generally pertained to relationships with Keihan Electric Railway about the usage rates of train cars.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>しかし、「たった一駅の差で足止めされる」という烏丸御池駅での京都市営地下鉄烏丸線乗り換え客からの不平不満の声も散見されていた。</j>
+<e type="trans" ver="1">However, since the passengers to switch the train line at Karasuma Oike Station to Karasuma Line of Kyoto city Subway had to change the train at the last stop before the station, complaints about the situation wre somtimes heard.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, because passengers who would switch the train line at Karasuma Oike Station to Karasuma Line of Kyoto city Subway had to change trains at the last stop before the station, complaints about the situation were sometimes heard.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">However, because passengers who would switch the train line at Karasuma Oike Station to Karasuma Line of Kyoto Municipal Subway had to change trains at the last stop before the station, complaints about the situation were sometimes heard.</e>
+<cmt>city→ municipal　としました。</cmt>
+</sen>
+<sen id="14">
+<j>但し太秦天神川駅までの直通列車は、今でも1日76往復（平日）の乗り入れ列車のうち、早朝・深夜を除く28往復と1/3程度にとどまっている。</j>
+<e type="trans" ver="1">However, even now, of the 76 round-trip operations a week day conducted encompassing the two lines, only 28 (approx. one-third) of them provide through service up to Uzumasa Tenjingawa Station, except during the early morning and deep night.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even now, of the 76 round-trip operations each weekday conducted between the two lines, only 28 (approximately one-third) of them provide through-service up to Uzumasa Tenjingawa Station, except during the early morning and late night.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Even now, of the 76 round-trip operations each weekday conducted between the two lines, only 28 (approximately one-third) of them provide through-service up to Uzumasa Tenjingawa Station, except during the early morning and late night.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="15">
+<j>京都市役所</j>
+<e type="trans" ver="1">Kyoto City Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Hall</e>
+<cmt>City Hall としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="16">
+<j>京都市消防局</j>
+<e type="trans" ver="1">Kyoto Ciy Fire Department</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Fire Department</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Kyoto City Fire Department</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="17">
+<j>本能寺</j>
+<e type="trans" ver="1">Honno-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Honno-ji Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Honno-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="18">
+<j>日本銀行京都支店</j>
+<e type="trans" ver="1">Bank of Japan Kyoto Branch</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bank of Japan Kyoto Branch</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bank of Japan Kyoto Branch</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="19">
+<j>ゼスト御池（駅の階上にある地下街）</j>
+<e type="trans" ver="1">Zest Oike (an underground shopping area above the station house)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Zest Oike (an underground shopping area above the station house)</e>
+<cmt>underground + above?</cmt>
+<e type="check" ver="1">Zest Oike (an underground shopping area above the station house)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="20">
+<j>京都ホテル（ゼスト御池と直結している）</j>
+<e type="trans" ver="1">Kyoto Hotel (directly connected with Zest Oike)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Hotel (directly connected with Zest Oike)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Hotel (directly connected with Zest Oike)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="21">
+<j>京都ロイヤルホテル</j>
+<e type="trans" ver="1">Kyoto Royal Hotel</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Royal Hotel</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Royal Hotel</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="22">
+<j>島津創業記念資料館</j>
+<e type="trans" ver="1">Shimazu Foundation Memorial Hall</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shimazu Foundation Memorial Hall</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shimazu Foundation Memorial Hall</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="23">
+<j>池田屋跡</j>
+<e type="trans" ver="1">Site of Ikedaya Inn</e>
+<cmt></cmt>
+<e type="trans" ver="2">Site of the Ikedaya Inn</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Site of the Ikedaya Inn</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="24">
+<j>寺町通商店街</j>
+<e type="trans" ver="1">Teramachi-dori shopping arcade</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Teramachi-dori shopping arcade</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Teramachi-dori shopping arcade</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="25">
+<j>高瀬川 (京都府)</j>
+<e type="trans" ver="1">Takase-gawa River</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Takase-gawa River</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Takase-gawa River</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>バスのりば</j>
+<e type="trans" ver="1">Bus stops</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus stops</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus stops</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="26">
+<j>京都市役所前</j>
+<e type="trans" ver="1">Kyoto Shiyakusho-mae</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Shiyakusho-mae</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Shiyakusho-mae</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="27">
+<j>京都市営バス</j>
+<e type="trans" ver="1">Kyoto City Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="28">
+<j>3系統：北白川仕伏町行/上終町京都造形芸術大学前行/（京都外国語大学経由）松尾橋行</j>
+<e type="trans" ver="1">Route 3: bound for Kitashirakawa Shibusecho/for Kyoto Zokeigeijitu daigaku-mae (in front of Kyoto University of Art and Design) in Kamihatecho/for Matsuobashi via Kyoto University of Foreign Studies</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 3: Bound for Kitashirakawa Shibusecho / for Kyoto Zokeigeijitu daigaku-mae (in front of Kyoto University of Art and Design) in Kamihatecho / for Matsuobashi via Kyoto University of Foreign Studies</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 3: Bound for Kitashirakawa Shibuse-cho / for Kyoto Zokeigeijitu daigaku-mae (in front of Kyoto University of Art and Design) in Kamihate-cho / for Matsuobashi via Kyoto University of Foreign Studies</e>
+<cmt>Shibuse-cho, Kamihate-cho としました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="29">
+<j>4系統：京都駅行（河原町五条〜京都駅間ノンストップ）/上賀茂神社行</j>
+<e type="trans" ver="1">Route 4: bound for Kyoto Station (non-stop operation between Kawaramachi Gojo and Kyoto Station/for Kamigamo-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 4: Bound for Kyoto Station (non-stop operation between Kawaramachi Gojo and Kyoto Station) / for Kamigamo-jinja Shrine</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 4: Bound for Kyoto Station (non-stop operation between Kawaramachi Gojo and Kyoto Station) / for Kamigamo-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="30">
+<j>10系統：三条京阪行/（北野天満宮経由）山越中町行</j>
+<e type="trans" ver="1">Route 10: bound for Sanjo Keihan/for Yamagoe Nakacho (via Kitano Temmangu)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 10: Bound for Sanjo Keihan / for Yamagoe Nakacho (via Kitano Temmangu)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 10: Bound for Sanjo Keihan / for Yamagoe Naka-cho (via Kitano Tenmangu)</e>
+<cmt>Tenmangu としました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="31">
+<j>15系統：三条京阪行/（円町経由）立命館大学行</j>
+<e type="trans" ver="1">Route 15: bound for Sanjo Keihan/for Ritsumeikan Univ (via Emmachi)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 15: Bound for Sanjo Keihan / for Ritsumeikan University (via Emmachi)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 15: Bound for Sanjo Keihan / for Ritsumeikan University (via Enmachi)</e>
+<cmt>Enmachi としました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="32">
+<j>17系統：京都駅行/慈照寺・錦林車庫行</j>
+<e type="trans" ver="1">Route 17: Bound for Kyoto Station/for Jisho-ji Temple or Kinrin Shako</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 17: Bound for Kyoto Station / for Jisho-ji Temple or Kinrin Shako</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 17: Bound for Kyoto Station / for Jisho-ji Temple or Kinrin-shako Depot</e>
+<cmt>Depot を追加しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="33">
+<j>32系統：銀閣寺行/（西京極経由）京都外大行</j>
+<e type="trans" ver="1">Route 32: Bound for Ginkaku-ji Temple/for Kyoto University of Foreign Studies via Nishikyogoku</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 32: Bound for Ginkaku-ji Temple / for Kyoto University of Foreign Studies via Nishikyogoku</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 32: Bound for Ginkaku-ji Temple / for Kyoto University of Foreign Studies via Nishikyogoku</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="34">
+<j>37系統：三条京阪行/（北大路バスターミナル経由）西賀茂車庫行</j>
+<e type="trans" ver="1">Route 32: bound for Sanjo Keihin/Nishigamo Shako (via Kitaoji Bus Terminal)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 32: Bound for Sanjo Keihin / Nishigamo Shako (via Kitaoji Bus Terminal)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 37: Bound for Sanjo Keihin / Nishigamo Shako (via Kitaoji Bus Terminal)</e>
+<cmt>数字を修正しました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="35">
+<j>51系統：四条河原町・四条烏丸方面</j>
+<e type="trans" ver="1">Route 51: for the direction of Shijo Kawaramachi/Shijo Karasuma</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 51: Bound for the direction of Shijo Kawaramachi/Shijo Karasuma</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 51: Bound for the direction of Shijo Kawaramachi/Shijo Karasuma</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="36">
+<j>59系統：三条京阪行/（鹿苑寺経由）山越中町行</j>
+<e type="trans" ver="1">Route 59: bound for Sanjo Keihan/for Yamagoe Nakacho (via Rokuon-ji Temple)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 59: Bound for Sanjo Keihan / for Yamagoe Nakacho (via Rokuon-ji Temple)</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Route 59: Bound for Sanjo Keihan / for Yamagoe Naka-cho (via Rokuon-ji Temple)</e>
+<cmt>Naka-cho としました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="37">
+<j>205系統：（京都駅経由）九条車庫行/（河原町通経由）北大路バスターミナル方面</j>
+<e type="trans" ver="1">Route 205: bound for Kujo Shako (via Kyoto Station)/for the direction of Kitaoji Bus Terminal (via Kawaramachi-dori Street)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 205: Bound for Kujo Shako (via Kyoto Station) and/or the direction of Kitaoji Bus Terminal (via Kawaramachi-dori Street)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 205: Bound for Kujo-shako Depot (via Kyoto Station) / for the direction of Kitaoji Bus Terminal (via Kawaramachi-dori Street)</e>
+<cmt>Depot を追加しました。</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="38">
+<j>寺町御池・河原町二条</j>
+<e type="trans" ver="1">Teramachi Oike/Kawaramachi Nijo</e>
+<cmt></cmt>
+<e type="trans" ver="2">Teramachi Oike/Kawaramachi Nijo</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Teramachi Oike/Kawaramachi Nijo</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="39">
+<j>京都バス</j>
+<e type="trans" ver="1">Kyoto Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="40">
+<j>21,41系統：三条京阪行</j>
+<e type="trans" ver="1">Routes 21/41: bound for Sanjo Keihan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Routes 21/41: Bound for Sanjo Keihan</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Routes 21/41: Bound for Sanjo Keihan</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="41">
+<j>23系統：岩倉実相院行</j>
+<e type="trans" ver="1">Route 23: bound for Iwakura Jisso-in Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 23: Bound for Iwakura Jisso-in Temple</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 23: Bound for Iwakura Jisso-in Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="42">
+<j>43系統：岩倉松村行</j>
+<e type="trans" ver="1">Route 43: bound for Iwakura Muramatsu</e>
+<cmt>”松村”は”村松”の誤りではないか、と考え”村松”として訳してあります。</cmt>
+<e type="trans" ver="2">Route 43: Bound for Iwakura Muramatsu</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 43: Bound for Iwakura Muramatsu</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="43">
+<j>61,62,63系統：三条京阪行/（映画村経由）嵐山方面</j>
+<e type="trans" ver="1">Routes 61/62/63: bound for Arashiyama (via the Eiga (movie)-mura village)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Routes 61/62/63: Bound for Arashiyama (via the Eiga (movie)-mura village)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Routes 61/62/63: Bound for Sanjo Keihan / for Arashiyama (via the Eiga (movie)-mura village)</e>
+<cmt>三条京阪　を追加しました。</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="44">
+<j>65系統：（映画村経由）有栖川行</j>
+<e type="trans" ver="1">Route 65: bound for Arisugawa (via the Eiga (movie)-mura village)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 65: Bound for Arisugawa (via the Eiga (movie)-mura village)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 65: Bound for Arisugawa (via the Eiga (movie)-mura village)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="45">
+<j>京都ホテルオークラ 停留所</j>
+<e type="trans" ver="1">Kyoto Hotel Okura bus stop</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto Hotel Okura bus stop</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kyoto Hotel Okura bus stop</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="46">
+<j>大阪空港交通</j>
+<e type="trans" ver="1">Osaka Airport Transport</e>
+<cmt></cmt>
+<e type="trans" ver="2">Osaka Airport Transport</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Osaka Airport Transport</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="47">
+<j>大阪国際空港行</j>
+<e type="trans" ver="1">Bound for Osaka International Airport</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bound for Osaka International Airport</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bound for Osaka International Airport</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="48">
+<j>1997年10月12日の醍醐～二条間開業と同時期に、地下街であるゼスト御池と公営の大規模な地下駐車場とこの駅とが出来上がった。</j>
+<e type="trans" ver="1">On October 12, 1997, when operation between Daigo and Nijo started, the construction of this station was completed together with Zest Oike, an undeground shopping area、and a large-scale underground public car park.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 12, 1997, when operations between Daigo and Nijo started, the construction of this station was completed together with Zest Oike, an underground shopping area, as well as a large-scale underground public car park.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 12, 1997: When operations between Daigo and Nijo started, the construction of this station was completed together with Zest Oike, an underground shopping area, as well as a large-scale underground public car park.</e>
+<cmt>日付表記変更</cmt>
+</sen>
+<sen id="49">
+<j>景観論争で諸寺院の建設反対運動があった京都ホテル（旧京都ホテル）とゼスト御池は地下で連絡している。</j>
+<e type="trans" ver="1">Kyoto Hotel (the former Kyoto Hotel), against the construction of which temples promoted a protest campain saying that it wiould disrupt the landscape, and Zest Oike are connected undeground.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Hotel (the former Kyoto Hotel), against whose construction temples promoted a protest campaign saying it would disrupt the landscape, is connected with Zest Oike via an underground access.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Kyoto Hotel (the former Kyoto Hotel), against whose construction temples promoted a protest campaign saying it would disrupt the landscape, is connected with Zest Oike via an underground access.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="50">
+<j>地下街のゼスト御池は、烏丸御池駅とも繋がっていると勘違いされることがあるが、実際には京都市役所前駅からのみしか連絡していない。</j>
+<e type="trans" ver="1">Altough it is sometimes misunderstood that the underground shopping area of Zest Oike is connected to Karasuma Oike Station as well, the area is connected actually only to Kyoto Shiyakusho-mae Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although it is sometimes misunderstood that the underground shopping area of Zest Oike is also connected to Karasuma Oike Station, the area is actually connected only to Kyoto Shiyakusho-mae Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although it is sometimes misunderstood that the underground shopping area of Zest Oike is also connected to Karasuma Oike Station, the area is in fact connected only to Kyoto Shiyakusho-mae Station.</e>
+<cmt>&quot;actually&quot;→&quot;in fact&quot;に変更しました。</cmt>
+</sen>
+<sen id="51">
+<j>大阪のクリスタ長堀のような複数の駅を連絡するような規模の大きな地下街とは異なる。</j>
+<e type="trans" ver="1">This underground shopping area is different from large-scale ones, such as CRYSTA Nagahori in Osak where more than one station is connected.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This underground shopping area is different from large-scale facilities such as CRYSTA Nagahori in Osaka, to which more than one station is connected.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">This underground shopping area is different from large-scale facilities such as CRYSTA Nagahori in Osaka, to which more than one station is connected.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="52">
+<j>2007年（平成19年）4月1日 PiTaPa使用開始。</j>
+<e type="trans" ver="1">On April 1, 2007, PiTaPa became usable.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 2007, PiTaPa came into use.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 2007: PiTaPa came into use.</e>
+<cmt>日付表記変更</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>駅名について</j>
+<e type="trans" ver="1">About the station name</e>
+<cmt></cmt>
+<e type="trans" ver="2">About the station&apos;s name</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">About the station&apos;s name</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="53">
+<j>開業前段階では、単に「市役所前」駅となる予定であったが、それが変更されて「京都市役所前」として開業した（京都市営バスの「河原町二条」停留所も同時にこの駅名と同じ停留所名に改称された。</j>
+<e type="trans" ver="1">Before the station started its operation, it was planned to name the station &quot;Shiyakusho-mae,&quot; but the name was actually changed to &quot;Kyoto Shiyakusho-mae&quot; (at the same timing, the name of the &quot;Kawamachi-Nijo&quot; stop on the routes of Kyoto City Bus was also changed to the same name as that of the station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Before the station started its operation, it was planned to name the station &quot;Shiyakusho-mae,&quot; but the name was actually changed to &quot;Kyoto Shiyakusho-mae&quot; (at the same time, the name of the &quot;Kawamachi-Nijo&quot; stop on the routes of Kyoto City Bus was changed to match the name of the station).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Before the station started its operation, it was planned to name the station &apos;Shiyakusho-mae,&apos; but the name was in fact changed to &apos;Kyoto Shiyakusho-mae&apos; (at the same time, the name of the &apos;Kawaramachi-Nijo&apos; stop on the routes of Kyoto City Bus was changed to match the name of the station.</e>
+<cmt>&quot; →&apos;　としました。Kawaramachi としました。&quot;actually&quot;→&quot;in fact&quot;に変更しました。</cmt>
+</sen>
+<sen id="54">
+<j>但し京都バスなどの民間バス会社はそのままである）。</j>
+<e type="trans" ver="1">However, private bus companies, such as Kyoto Bus, use the name of &quot;Kawamachi-Nijo&quot;without changing it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, private bus companies such as Kyoto Bus use the name &quot;Kawamachi-Nijo&quot; without changing it.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">However, private bus companies such as Kyoto Bus use the name &apos;Kawaramachi-Nijo&apos; without changing it.)</e>
+<cmt>&quot; →&apos;　としました。Kawaramachi としました。</cmt>
+</sen>
+<sen id="55">
+<j>これは、大津方面から乗り入れてくる列車があるための配慮であると思われる（大津市役所の最寄り駅は京阪石山坂本線別所駅 (滋賀県)）。</j>
+<e type="trans" ver="1">This naming is supposed to have been made considering that there are trains coming from the direction of Otsu (the station nearest to Otsu City Office is Bessho Station on Keihan Ishiyama-Sakamoto Line (in Shiga Prefecture).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This name is supposed to have been applied in consideration of the fact that there were trains coming from the direction of Otsu (the station nearest to the Otsu City Office is Bessho Station on the Keihan Ishiyama-Sakamoto Line, in Shiga Prefecture).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This name is supposed to have been applied in consideration of the fact that there were trains coming from the direction of Otsu (the station nearest to the Otsu City Hall is Bessho Station on the Keihan Ishiyama-Sakamoto Line, in Shiga Prefecture).</e>
+<cmt>City Hall としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="56">
+<j>京都市民はこの交差点付近のことを河原町御池交差点と呼ぶことが多く、場所を示すために「市役所前」と呼ぶ習慣は余り見られなかった。</j>
+<e type="trans" ver="1">For indicating the area around this crossing, residents in Kyoto have mostly used the expression of the Kawaramachi Oike crossing, with the expression of &quot;Shiyakusho-mae&quot; used rarely.</e>
+<cmt></cmt>
+<e type="trans" ver="2">To indicate the area around this crossing, residents of Kyoto have mostly used the expression of the Kawaramachi Oike crossing, so the expression &quot;Shiyakusho-mae&quot; is rarely used.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">To indicate the area around this crossing, residents of Kyoto have mostly used the expression of the Kawaramachi Oike crossing, so the expression &apos;Shiyakusho-mae&apos; is rarely used.</e>
+<cmt>&quot; →&apos;　としました。</cmt>
+</sen>
+<sen id="57">
+<j>それはこの駅が開業後も同じである。</j>
+<e type="trans" ver="1">This situation remains unchanged even after this station started its operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This situation remains unchanged despite this station&apos;s start of operations.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This situation remains unchanged despite this station&apos;s start of operations.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="58">
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto City Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>city→ municipal　としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="59">
+<j>■東西線</j>
+<e type="trans" ver="1">Tozai Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tozai Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tozai Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="60">
+<j>三条京阪駅(T11) - 京都市役所前駅(T12) - 烏丸御池駅(T13)</j>
+<e type="trans" ver="1">Sanjo Keihan Station (T11) - Shiyakusho-mae Station (T12) - Karasuma Oike Station (T13)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sanjo Keihan Station (T11) - Shiyakusho-mae Station (T12) - Karasuma Oike Station (T13)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sanjo Keihan Station (T11) - Kyoto Shiyakusho-mae Station (T12) - Karasuma Oike Station (T13)</e>
+<cmt>Kyoto を追加しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), 京白虎(id:98752), 城山(id:104901), V-TWIN POWER(id:49244), Etopirica(id:32491), MASA(id:2399), 192 168 1 1(id:46388), 二八(id:10408), Wikipedianet(id:9608), Tigers boy(id:15761), Ikaxer(id:61759), Memeja(id:110500), Utsuda(id:605), Rusk(id:9895), Sunen(id:10700), Ktr(id:30468), 金山銀山銅山(id:163855), Tp2415(id:84801), Goki(id:7107), Hidama(id:73276), Har-Poon-SSM(id:72987), Kone(id:377), Hirotaro(id:1437), Mine-Kansai(id:2080), 目蒲東急之介(id:34741), Takatetu(id:3231), Jade0416(id:104181), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

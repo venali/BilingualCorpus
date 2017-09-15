@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>竹田駅 (京都府)</j>
+<e type="trans" ver="1">Takeda Station (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takeda Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Takeda Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>竹田駅（たけだえき）は、京都府京都市伏見区にある、京都市営地下鉄と近畿日本鉄道の鉄道駅。</j>
+<e type="trans" ver="1">Located in Fushimi Ward, Kyoto City, Kyoto Prefecture, Takeda Station is a stop on Kyoto City Subway and on Kintetsu Railways.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takeda Station, located in Fushimi Ward, Kyoto City, Kyoto Prefecture, is a stop on Kyoto City Subway and Kintetsu Railways.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Takeda Station, located in Fushimi Ward, Kyoto City, Kyoto Prefecture, is a stop on Kyoto Municipal Subway and Kintetsu Railways.</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+<par id="1">
+<sen id="2">
+<j>近鉄京都線と京都市営地下鉄烏丸線を直通運転する列車はこの駅から近鉄線・地下鉄線に入る。</j>
+<e type="trans" ver="1">The trains providing through service between Kintetsu Kyoto Line and Karasuma Line of Kyoto City Subway enter the Kintetsu line or the subway line at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The trains providing through-service between the Kintetsu Kyoto Line and the Karasuma Line of Kyoto City Subway enter either the Kintetsu Line or the subway line at this station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The trains providing through-service between the Kintetsu Kyoto Line and the Karasuma Line of Kyoto Municipal Subway enter either the Kintetsu Line or the subway line at this station.</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>なお、現在でこそ特急を除く全ての列車が停車する（一時期、近鉄京都線に設定されていた快速急行も停車していた）が、1988年に地下鉄京都市営地下鉄烏丸線が竹田駅まで開業するまでは普通列車しか停車しなかった。</j>
+<e type="trans" ver="1">All trains except Limited ones stop at this station now (for a period of time, the Rapid Express trains once run on Kintetsu Kyoto Line also stopped at this station), but only Local trains stopped here until Karasuma Line of Kyoto City Subway started its operation in 1988</e>
+<cmt></cmt>
+<e type="trans" ver="2">All trains except limited ones stop at this station now (for a period of time, the rapid express trains that ran on the Kintetsu Kyoto Line also stopped at this station), but only local trains stopped here until the Karasuma Line of Kyoto City Subway started operations in 1988.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">All trains except limited express ones stop at this station now (for a period of time, the rapid express trains that ran on the Kintetsu Kyoto Line also stopped at this station), but only local trains stopped here until the Karasuma Line of Kyoto Municipal Subway started operations in 1988.</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>利用可能な鉄道路線</j>
+<e type="trans" ver="1">Railway lines available</e>
+<cmt></cmt>
+<e type="trans" ver="2">Railway lines available</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Lines</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto City Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>京都市営地下鉄烏丸線（駅番号：K15） ※終着駅であるが一部列車が近鉄線へ直通</j>
+<e type="trans" ver="1">Karasuma Line of Kyoto City Subway (station number: K15): * This station is a terminal station of this line, but some trains on this line enter the Kintetsu line directly and run on the line as well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Karasuma Line of Kyoto City Subway (station number K15): * This station is a terminal station of this line, but some trains on this line enter the Kintetsu Line directly and run on the line as well.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Karasuma Line of Kyoto City Subway (station number K15): * This station is a terminal station of this line, but some trains on this line enter the Kintetsu Line directly and run on the line as well.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>近畿日本鉄道</j>
+<e type="trans" ver="1">Kintetsu Railways</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kintetsu Railways</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kintetsu Railways</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>近鉄京都線</j>
+<e type="trans" ver="1">Kintetsu Kyoto Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kintetsu Kyoto Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kintetsu Kyoto Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>ホームは2面4線の島式ホームで、2・3番線は地下鉄烏丸線と相互直通運転の列車が、1・4番線は近鉄京都駅発着の列車が使用する。</j>
+<e type="trans" ver="1">Island platforms, two platforms with each of them serving two tracks, are provided: Platform 2 and 3 are used by trains that provide through service with Karasuma Line of Kyoto City Subway, and Platform 1 and 4 by those coming from or going to Kintetsu Kyoto Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It has island platforms, and two platforms with each of them serving two tracks, are provided: tracks 2 and 3 are used by trains that provide through service with the Karasuma Line of Kyoto City Subway, and track 1 and 4 are used by those coming from or going to Kintetsu Kyoto Station.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">It has two island platforms serving four tracks; Platform 2 and 3 are used by trains that provide through service with the Karasuma Line of Kyoto Municipal Subway, and Platform 1 and 4 are used by those coming from or going to Kintetsu Kyoto Station.</e>
+<cmt>文頭の表現を修正しました。city →municipal　としました。tracks 2 and 3→Platform 2 and 3に変更しました。track 1 and 4→Platform 1 and 4に変更しました。</cmt>
+</sen>
+<sen id="9">
+<j>同一方向であれば近鉄と地下鉄は同一ホームで乗換ができ、近鉄特急に乗車する場合を除いて京都駅での乗換よりはるかに便利である。</j>
+<e type="trans" ver="1">You can change a train on the Kintetsu line to that on the subway or viceversa on the same platform of this station, by far easier than making a train change at the Kyoto station, except when getting on a Kintetsu Limited Express train.</e>
+<cmt></cmt>
+<e type="trans" ver="2">You can change a train on the Kintetsu Line to that on the subway or vice versa on the same platform of this station, which is much easier than making a train change at Kyoto Station, except when getting on a Kintetsu limited express train.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">You can change a train on the Kintetsu Line to that on the subway or vice versa on the same platform of this station, which is much easier than making a train change at Kyoto Station, except when getting on a Kintetsu limited express train.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>しかし、地下鉄の五条駅以北から近鉄で遠方に向かう乗客が、着席（座席確保）目的で敢えて京都駅で乗り換える様子も見られる。</j>
+<e type="trans" ver="1">However, some passengers who are going to the north of Gojo Station on the Kintetsu line appear to change trains intentionally at the Kyoto station to secure their passenger seats.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, some passengers who are going to the north of Gojo Station on the Kintetsu Line appear to change trains intentionally at Kyoto Station in order to secure their seats.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">However, some passengers who come from the north of Gojo Station of the subway and go to a far destination using the Kintetsu Line appear to change trains intentionally at Kyoto Station in order to secure their seats.</e>
+<cmt>原文の意味のように修正しました（五条駅以北から遠方に向かう、の箇所など）。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="11">
+<j>2・3番線の南方には2本分の引き上げ線がある。</j>
+<e type="trans" ver="1">In the south of platforms 2 and 3, two side-tracks are provided.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the south of platforms 2 and 3, two side tracks are provided.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">In the south of Platform 2 and 3, two side tracks are provided.</e>
+<cmt>表記変更</cmt>
+</sen>
+<sen id="12">
+<j>2番線に到着した市営烏丸線の竹田止まりの車両は引き上げ線に入り、折り返して3番線に入線して国際会館行きとなる。</j>
+<e type="trans" ver="1">A train bound for Takeda Station on Karasuma Line of Kyoto City Subway enters a side-track when arriving at track 2 of this station, changes its direction there and then enters track 3 as a train bound for Kokusaikaikan Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">A train bound for Takeda Station on the Karasuma Line of Kyoto City Subway enters a side track when arriving at track 2 of this station, changes its direction there and then enters track 3 as a train bound for Kokusaikaikan Station.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">A train bound for Takeda Station on the Karasuma Line of Kyoto Municipal Subway enters a side track when arriving at Platform 2 of this station, changes its direction there and then enters Platform 3 as a train bound for Kokusaikaikan Station.</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="13">
+<j>駅の北西に烏丸線の竹田車庫があり、2・3番線の北方で本線から分岐する入出庫線がある。</j>
+<e type="trans" ver="1">The Takeda depot is provided in the north-west of Karasuma Station, and the tracks for entering/exiting the depot branch from the main tracks in the north of tracks 2 and 3.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Takeda depot is provided in the northwest of Karasuma Station, and the tracks for entering/exiting the depot branch from the main tracks in the north of Platform 2 and 3.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The Takeda depot is provided in the northwest of Karasuma Station, and the tracks for entering/exiting the depot branch from the main tracks in the north of Platform 2 and 3.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="14">
+<j>駅舎は北側と南側の2箇所にあり、いずれも橋上駅である。</j>
+<e type="trans" ver="1">Two station houses, one on the north side and the other on south side, are provided, each of which is an over-track station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Two station houses, one on the north side and the other on south side, are provided, each of which is an over-track station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Two station houses, one on the north side and the other on south side, are provided, each of which is an over-track station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>また、北駅舎のすぐ南側を名神高速道路がオーバークロスしている。</j>
+<e type="trans" ver="1">The Meishin Expressway road runs over the railway tracks immediately on the south side of the north-side station house.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Meishin Expressway runs over the railway tracks immediately on the south side of the north side station house.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The Meishin Expressway runs over the railway tracks immediately on the south side of the north side station house.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="16">
+<j>自動改札機はオムロン製が設置されている。</j>
+<e type="trans" ver="1">Automatic ticket gates from OMRON are installed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The automatic ticket gates were manufactured by OMRON.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The automatic ticket gates were manufactured by OMRON.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>特徴</j>
+<e type="trans" ver="1">Features</e>
+<cmt></cmt>
+<e type="trans" ver="2">Features</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Features</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="17">
+<j>京都市交通局と近鉄の共同使用駅であるこの駅は、京都市交通局の管轄駅となっている（相互直通開始前は近鉄の管轄駅であった）。</j>
+<e type="trans" ver="1">This station, used by both Kyoto Municipal Transportation Bureau and Kintetsu, is under control of Kyoto Municipal Transportation Bureau (it was Kintetsu that controlled this station before the through service operation statrted).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station, used by both the Kyoto Municipal Transportation Bureau and Kintetsu, is under the control of the Kyoto Municipal Transportation Bureau (but Kintetsu controlled this station before the through-service operation started).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">This station, used by both the Kyoto Municipal Transportation Bureau and Kintetsu, is under the control of the Kyoto Municipal Transportation Bureau (but Kintetsu controlled this station before the through-service operation started).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>その関係上、自動改札機等の設備は京都市営地下鉄仕様となっており、Jスルーはそのまま自動改札機に通すことができない。</j>
+<e type="trans" ver="1">Therefore, the specifications of the equipment, such as automatic ticket gates, are those for Kyoto City Subway, and J-through cards cannot be used for the automatic ticket gates directly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, the specifications of the equipment, such as automatic ticket gates, are those for Kyoto City Subway, and J-through cards can&apos;t be used directly for the automatic ticket gates.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Therefore, the specifications of the equipment, such as automatic ticket gates, are those for Kyoto Municipal Subway, and J-through cards can&apos;t be used directly for the automatic ticket gates.</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+<sen id="19">
+<j>Jスルーカードを利用する際は、降車時は自動精算機にカードを通す必要があり、乗車時は予め自動券売機で切符に引き換えることになる。</j>
+<e type="trans" ver="1">When a J-through card is to be used, the card must be inserted into a fare adjustment machine when exiting throguh one of the gates and a train ticket must be purchased with an automatic ticket vending machine using the card.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When a J-through card is to be used, the card must be inserted into a fare-adjustment machine when exiting through one of the gates; a train ticket must be purchased with an automatic ticket vending machine using the card.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">When a J-through card is to be used, the card must be inserted into a fare-adjustment machine when exiting through one of the gates; a train ticket must be purchased with an automatic ticket vending machine using the card.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>スルッとKANSAI対応カードは両社局で共通利用が出来るため、そのまま自動改札機を通すことができる。</j>
+<e type="trans" ver="1">Being usable both on the subwasy and Kintetus lines, cards supporting KANSAI THRU PASS can be used for the automatic ticket gates</e>
+<cmt></cmt>
+<e type="trans" ver="2">Being usable both on the subway and Kintetsu Lines, cards supporting KANSAI THRU PASS can be used for the automatic ticket gates.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Being usable both on the subway and Kintetsu Lines, cards supporting KANSAI THRU PASS can be used for the automatic ticket gates.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="21">
+<j>その他の施設や案内および駅名標も、基本的には地下鉄仕様となっているが、近鉄線ホーム（1・4番線）の列車案内ソラリーは近鉄仕様のものを使用しており（外観の色は異なる）、アナウンスも近鉄仕様となっている。</j>
+<e type="trans" ver="1">The specifications of other facilities, guide signs and the design of the station name boards are also basically those for Kyoto City Subway, but Solary-type (&quot;Solary&quot; is tentative, because it is a human name but its correct spelling is unknown) train information display based on Kintetus specifications are used on platforms for the Kintetsu line (for tracks 1 and 4) (the exterior color is changed), with Kintetus specifications also used for the announcements.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The specifications of other facilities, guide signs and the design of the station name boards are also basically those for Kyoto City Subway, but Solari-type train-information display based on Kintetsu specifications are used on platforms for the Kintetsu Line (for tracks 1 and 4) (the exterior color is changed), and the announcements are also made according to Kintetsu specifications.</e>
+<cmt>It&apos;s &quot;Solari.&quot;</cmt>
+<e type="check" ver="1">The specifications of other facilities, guide signs and the design of the station name boards are also basically those for Kyoto Municipal Subway, but Solari-type train-information display based on Kintetsu specifications are used on platforms for the Kintetsu Line (for Platforms 1 and 4) (the exterior color is changed), and the announcements are also made according to Kintetsu specifications.</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+<sen id="22">
+<j>また、2番線からの地下鉄→近鉄の直通列車発車時には、地下鉄仕様のアナウンスに近鉄仕様の発車ブザーである。</j>
+<e type="trans" ver="1">When a through service train, running from the subway to the Kintetsu line, departs from track 2, an announment based on specifications of the subway is made but the buzzer used for the departure is made based on Kintetsu specifications.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When a through-service train, running from the subway to the Kintetsu Line, departs from track 2, an announcement based on specifications of the subway is made but the buzzer used for the departure is made based on Kintetsu specifications.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">When a through-service train, running from the subway to the Kintetsu Line, departs from Platform 2, an announcement based on specifications of the subway is made but the buzzer used for the departure is made based on Kintetsu specifications.</e>
+<cmt>track 2→Platform 2に変更しました。</cmt>
+</sen>
+<sen id="23">
+<j>近鉄奈良駅ゆきの電車は、1番線の列車案内では「奈良」、2番線では「近鉄奈良」と表記される（電車の方向幕は近鉄車・地下鉄車とも「奈良」）。</j>
+<e type="trans" ver="1">For trains for Kintetsu Nara Station, the train information display board for track 1 displays &quot;Nara&quot; but that for track 2 &quot;Kintetsu Nara&quot; (both subway trains and Kintetsu trains equally use &quot;Nara&quot; for their destination-indicating displays).</e>
+<cmt></cmt>
+<e type="trans" ver="2">For trains for Kintetsu Nara Station, the train-information display board for track 1 displays &quot;Nara&quot; but that for track 2 indicates &quot;Kintetsu Nara&quot; (both subway trains and Kintetsu trains equally use &quot;Nara&quot; for their destination displays).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">For trains for Kintetsu Nara Station, the train-information display board for Platform 1 displays &apos;Nara&apos; but that for Platform 2 indicates &apos;Kintetsu Nara&apos; (both subway trains and Kintetsu trains equally use &apos;Nara&apos; for the destination blind).</e>
+<cmt>方向幕　の表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="24">
+<j>なお、地下鉄烏丸線・近鉄京都線とも京都駅を経由するが、当駅からの各社局の京都駅までの運賃は異なる（2008年4月時点では近鉄京都駅の方が安い）。</j>
+<e type="trans" ver="1">Both Karasuma Line of Kyoto City Subway and Kintetsu Kyoto Line operate their trains via Kyoto Station, but the train fare from this station to the Kyoto station on the subway and that on the Kintetsu line are different (as of April of 2004, the fare on Kintetsu Kyoto Line is lower-priced).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Both the Karasuma Line of Kyoto City Subway and the Kintetsu Kyoto Line operate their trains via Kyoto Station, but the train fare from this station to Kyoto Station on the subway and that on the Kintetsu Line are different (as of April 2004, the fare on the Kintetsu Kyoto Line is lower).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Both the Karasuma Line of Kyoto Municipal Subway and the Kintetsu Kyoto Line operate their trains via Kyoto Station, but the train fare from this station to Kyoto Station on the subway and that on the Kintetsu Line are different (as of April 2004, the fare on the Kintetsu Kyoto Line is lower).</e>
+<cmt>OK</cmt>
+</sen>
+<sen id="25">
+<j>当駅以南から京都駅まで向かう場合にも両社の運賃の不整合が生じており、近鉄京都駅までの乗車券で地下鉄京都駅で下車しようとすると追加運賃が生じる（ちなみに京都市営地下鉄においてはこの他、京都市営地下鉄東西線山科駅・京阪京津線京阪山科駅において、直通運転対象との運賃不整合問題がある）。</j>
+<e type="trans" ver="1">The train fares for Kyoto Station from stations in the south of this station on one of the subway and Kintetsu lines are different from those of the other, and when you exit through a gate at the subway Kyoto station with a tiket for the Kintetsu Kyoto station, you are required to pay an additional fare (on the Kyoto City Subway lines, train fare inconsistency also exists for the through service operation at Yamashina Station on Tozai Line of subway/Keihan Yamashina Station on Keihan Keishin Line).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The train fares for Kyoto Station from stations in the south of this station differ from those for the subway and Kintetsu lines, and when you exit through a gate at the subway Kyoto station with a ticket for the Kintetsu Kyoto station, you are required to pay an additional fare (on the Kyoto City Subway lines, train fare inconsistency also exists for the through-service operation at Yamashina Station on the Tozai Line of the subway and/or the Keihan Yamashina Station on the Keihan Keishin Line).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The train fares for Kyoto Station from stations in the south of this station differ from those for the subway and Kintetsu lines, and when you exit through a gate at the subway Kyoto station with a ticket for the Kintetsu Kyoto station, you are required to pay an additional fare (on the Kyoto Municipal Subway lines, train fare inconsistency also exists for the through-service operation at Yamashina Station on the Tozai Line of the subway and/or the Keihan Yamashina Station on the Keihan Keishin Line).</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+<sen id="26">
+<j>なお、その回避策として、地下鉄線列車の当駅発車前に、運賃に関する車内アナウンスが放送されている。</j>
+<e type="trans" ver="1">To avoid problems concerned with this situation, an announcement for the fare is made within the subway trains concerned when they depart from this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">To avoid problems concerned with this situation, fare announcements are made within the subway trains concerned when they depart from this station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">To avoid problems concerned with this situation, fare announcements are made within the subway trains concerned when they depart from this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>利用状況</j>
+<e type="trans" ver="1">Use status</e>
+<cmt></cmt>
+<e type="trans" ver="2">Conditions of usage</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="27">
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto City Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="28">
+<j>2005年度の1日平均乗降客数は 47,104人（近鉄京都線直通利用客を含む）。</j>
+<e type="trans" ver="1">The number of passengers using this station a day is 47,104 in the fiscal 2005 (including those using the through service to Kintetsu Kyoto Line).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In fiscal 2005, the daily number of passengers using this station was 47,104 (including those using the through-service to the Kintetsu Kyoto Line).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In fiscal year 2005, the daily number of passengers using this station was 47,104 (including those using the through-service to the Kintetsu Kyoto Line).</e>
+<cmt>fiscal → fiscal yearに変更しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="29">
+<j>近畿日本鉄道</j>
+<e type="trans" ver="1">Kintetsu Railways</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kintetsu Railways</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kintetsu Railways</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="30">
+<j>2005年11月8日の調査結果によると、1日の乗降客は11454人。</j>
+<e type="trans" ver="1">According to a servey on November 8, 2005, the number of passengers using this station a day is 11,454.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to a survey conducted on November 8, 2005, a total of 11,454 passengers used this station.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">According to a survey conducted on November 8, 2005, a total of 11,454 passengers used this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="31">
+<j>近鉄の全調査対象駅（323駅、但し調査当時の数）中、68位。</j>
+<e type="trans" ver="1">This number is the 68th of all stations on Kintetsu lines surveyed (323 stations, as of when the surveywas made).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This number makes the facility sixty-eighth among all Kintetsu Line stations surveyed (323 stations, as of when the survey was conducted).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">This number makes the facility sixty-eighth among all Kintetsu Line stations surveyed (323 stations, as of when the survey was conducted).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="32">
+<j>京都線の駅（26駅、大和西大寺駅含む）の中では、12位。</j>
+<e type="trans" ver="1">Of the stations on the Kyoto line (including Saidaiji Station), this station is placed at the 12th.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Of the stations on the Kyoto Line (including Saidaiji Station), this station ranked twelfth.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Of the stations on the Kyoto Line (twenty-six stations including Yamato-Saidaiji Station), this station ranked twelfth.</e>
+<cmt>大和、26駅　を追加しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="33">
+<j>京都府内の近鉄の駅（23駅）の中では、10位。</j>
+<e type="trans" ver="1">Of Kintetsu&apos;s stations in Kyoto Prefecture, this station is placed at the 10th.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Of Kintetsu&apos;s stations in Kyoto Prefecture, this station is tenth.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Of Kintetsu&apos;s stations in Kyoto Prefecture (twenty-three), this station is tenth.</e>
+<cmt>23駅　を追加しました。</cmt>
+</sen>
+<sen id="34">
+<j>（近畿日本鉄道公式ホームページより）</j>
+<e type="trans" ver="1">(From the official home page of Kintetsu Corporation)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(From the official home page of Kintetsu Corporation)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(From the official home page of Kintetsu Corporation)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="35">
+<j>京セラ本社（当駅から京都市営バスでおよそ5分）</j>
+<e type="trans" ver="1">The headquaters of KYOCERA (aprox. 5 minutes from this station by a Kyoto City-operated bus).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The headquarters offices of KYOCERA are approximately 5 minutes from this station by a Kyoto City-operated bus.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The headquarters offices of KYOCERA are approximately five minutes from this station by a Kyoto City Bus.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="36">
+<j>京都府総合見本市会館（パルスプラザ）</j>
+<e type="trans" ver="1">PULSE PLAZA</e>
+<cmt></cmt>
+<e type="trans" ver="2">PULSE PLAZA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">PULSE PLAZA</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="37">
+<j>京都市青少年科学センター</j>
+<e type="trans" ver="1">Kyoto Municipal Science Center For Youth</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Municipal Science Center For Youth</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Science Center For Youth</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="38">
+<j>城南宮</j>
+<e type="trans" ver="1">Jonan-gu Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jonan-gu Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jonan-gu Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="39">
+<j>安楽寿院</j>
+<e type="trans" ver="1">Anrakuju-in Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Anrakuju-in Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Anrakuju-in Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="40">
+<j>京都竹田郵便局</j>
+<e type="trans" ver="1">Kyoto Takeda post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto Takeda post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kyoto Takeda post office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="41">
+<j>京都市立竹田小学校</j>
+<e type="trans" ver="1">Kyoto City-run Takeda primary scool</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City-run Takeda Primary School</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Takeda Elementary School, Kyoto City</e>
+<cmt>統一しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="42">
+<j>京都市交通局竹田車両基地（駅の北西側）</j>
+<e type="trans" ver="1">Takeda rail yard of Kyoto Municipal Transportation Bureau (on the north-western side of this station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Takeda rail yard of the Kyoto Municipal Transportation Bureau (on the northwestern side of this station)</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Takeda rail yard of the Kyoto Municipal Transportation Bureau (on the northwestern side of this station)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="43">
+<j>伏見力の湯</j>
+<e type="trans" ver="1">Public bath servise &quot;Fushimi Chikaranoyu&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The &quot;Fushimi Chikaranoyu&quot; public bath service</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The &quot;Fushimi Chikaranoyu&quot; public bath service</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="44">
+<j>名神高速道路京都南インターチェンジ</j>
+<e type="trans" ver="1">Kyoto-south interchange on Meishin Expressway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto-south interchange on Meishin Expressway</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Kyoto-south interchange on Meishin Expressway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="45">
+<j>阪神高速道路8号京都線城南宮北出入口</j>
+<e type="trans" ver="1">Jonanngu-north entrance/exit on Hanshin Expressway (No.8) Kyoto Route</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Jonanngu-north entrance/exit on the Hanshin Expressway (No. 8) Kyoto Route</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Jonanngu-north entrance/exit on the Hanshin Expressway No. 8 Kyoto Route</e>
+<cmt>括弧を削除しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="46">
+<j>深草バスストップ ※東へ徒歩300mほど離れている。</j>
+<e type="trans" ver="1">Fukakusa bus stop * About 300-m east from this station on foot</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukakusa bus stop * A walk of about 300 meters east from this station</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Fukakusa bus stop * A walk of about 300 meters east from this station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="47">
+<j>主だった高速バス路線が停車する。</j>
+<e type="trans" ver="1">Buses on major highway bus routes stop.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Buses on the major highway bus routes stop here.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Buses on the major highway bus routes stop here.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="48">
+<j>京阪本線藤森駅 ※東へ直線で1.2km程度離れている。</j>
+<e type="trans" ver="1">Keihan Main Line Fujinomori Station * Around 1.2-km east in a straight line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Main Line Fujinomori Station * Due east approximately 1.2 km</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Keihan Main Line Fujinomori Station * Due east approximately 1.2 km</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>バス</j>
+<e type="trans" ver="1">Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="49">
+<j>最寄停留所は、駅東口および西口の交通広場にある竹田駅東口と竹田駅西口となる。</j>
+<e type="trans" ver="1">The nearest stops are Takeda Station Higashiguchi (east entrance), located in the traffic circle at the east entrance to Takeda Station, and Takeda Station Nishiguchi (west entrance), located in the traffic circle at the west entrance to Takeda Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The nearest stops are Takeda Station Higashiguchi (east entrance), located in the traffic circle at the east entrance to Takeda Station, and Takeda Station Nishiguchi (west entrance), located in the traffic circle at the west entrance to Takeda Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The nearest stops are east exit of Takeda Station, located in the traffic circle at the east entrance to Takeda Station, and west exit of Takeda Station, located in the traffic circle at the west entrance to Takeda Station.</e>
+<cmt>駅東口、西口の表現を変更しました（exitに）。</cmt>
+</sen>
+<sen id="50">
+<j>以下の路線が乗り入れ京都市交通局、京阪バスにより運行されている。</j>
+<e type="trans" ver="1">The following routes are operated by Kyoto Municipal Transportation Bureau or by the Keihan Bus Coo. Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following routes are operated by Kyoto Municipal Transportation Bureau or by the Keihan Bus Co., Ltd.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The following routes are operated by Kyoto Municipal Transportation Bureau or by the Keihan Bus Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="51">
+<j>竹田駅東口</j>
+<e type="trans" ver="1">Takeda Station Higashiguchi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takeda Station Higashiguchi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Eest exit of Takeda Station</e>
+<cmt>Higashiguchi→east exit としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="52">
+<j>京都市バス</j>
+<e type="trans" ver="1">Kyoto City Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="53">
+<j>京都市営バス横大路営業所81・特81号系統：京都駅行、中書島駅経由横大路車庫行</j>
+<e type="trans" ver="1">Route 81 and special roulte 81 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: bound for Kyoto Station, and bound for Yokooji Eigyosho Shako (depot) via Chusｈojima Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 81 and Special Route 81 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for Kyoto Station, and bound for Yokooji Eigyosho Shako (depot) via Chusｈojima Station</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Route 81 and Special Route 81 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for Kyoto Station, and bound for Yokooji-shako Deepot via Chusｈojima Station</e>
+<cmt>Yokooji-shako Depot としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="54">
+<j>京都市営バス横大路営業所南5号系統：京都駅行</j>
+<e type="trans" ver="1">South route 5 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: bound for Kyoto Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">South Route 5 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for Kyoto Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">South Route 5 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for Kyoto Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="55">
+<j>京都市営バス横大路営業所臨南5号系統：JR藤森駅、藤森神社方面循環</j>
+<e type="trans" ver="1">Rinnan route 5 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: circulating between JR-Fujinomori Station and the Fujinomori-jinja Shrine area</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rinnan Route 5 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Circulating between JR-Fujinomori Station and the Fujinomori-jinja Shrine area</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Rinnan Route 5 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Circulating between JR-Fujinomori Station and the Fujinomori-jinja Shrine area</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="56">
+<j>京都市営バス横大路営業所南8号系統：国道大手筋経由横大路車庫行</j>
+<e type="trans" ver="1">South route 8 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: bound for Yokooji Eigyosho Shako (depot) via Kokudo Otesuji</e>
+<cmt></cmt>
+<e type="trans" ver="2">South Route 8 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for Yokooji Eigyosho Shako (depot) via Kokudo Otesuji</e>
+<cmt>case</cmt>
+<e type="check" ver="1">South Route 8 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for Yokooji-shako Depot via Kokudo Otesuji</e>
+<cmt>Yokooji-shako Depot としました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="57">
+<j>京阪バス</j>
+<e type="trans" ver="1">Keihan Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="58">
+<j>京阪バス山科営業所醍醐竹田線：醍醐北団地経由醍醐駅 (京都府)行</j>
+<e type="trans" ver="1">Daigo Takeda Route by Keihan Bus Yamashina Eigyosho (Yamashina business office): bound for Daigo Station via Daigo Kita Danchi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Daigo Takeda Route by Keihan Bus Yamashina Eigyosho (Yamashina business office): Bound for Daigo Station via Daigo Kita Danchi</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Daigo Takeda Route by Keihan Bus Yamashina Eigyosho (Yamashina business office): Bound for Daigo Station via Daigo Kita Danchi (Daigo north housing complex)</e>
+<cmt>団地の補足を追加しました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="59">
+<j>竹田駅西口</j>
+<e type="trans" ver="1">Takeda Station Nishiguchi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takeda Station Nishiguchi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West exit of Takeda Station</e>
+<cmt>Nishiguchi→west exit としました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="60">
+<j>京都市バス</j>
+<e type="trans" ver="1">Kyoto City Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="61">
+<j>京都市営バス横大路営業所18・特18号系統：みぶ操車場前行、久我石原町行</j>
+<e type="trans" ver="1">Route 18 and special route 18 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: bound for Mibu Soshajo-mae and for Koga Ishiharacho</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 18 and Special Route 18 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for Mibu Soshajo-mae and for Koga Ishiharacho</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 18 and Special Route 18 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for Mibu Soshajo-mae and for Koga Ishiharacho</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="62">
+<j>京都市営バス横大路営業所南1号系統：桂駅東口方面</j>
+<e type="trans" ver="1">South route 1by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: bound for the area of Katsura Station Higashiguchi (east entrance)</e>
+<cmt></cmt>
+<e type="trans" ver="2">South Route 1 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for the area of Katsura Station Higashiguchi (east entrance)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">South Route 1 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for the area of east exit of Katsura Station</e>
+<cmt>Higashiguchi→east exit としました。</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="63">
+<j>京都市営バス横大路営業所南2・特南2号系統：運転免許試験場経由長岡京駅東口行</j>
+<e type="trans" ver="1">South route 2 and special south roulte 2 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: bound for JR Nagaokakyo Station Higashiguchi (east entrance) via Menkyo Shikenjo-mae</e>
+<cmt></cmt>
+<e type="trans" ver="2">South Route 2 and Special South Route 2 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for JR Nagaokakyo Station Higashiguchi (east entrance) via Menkyo Shikenjo-mae</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">South Route 2 and Special South Route 2 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for east exit of JR Nagaokakyo Station via Menkyo Shikenjo-mae (Driver&apos;s license Center)</e>
+<cmt>Higashiguchi→east exit としました。免許試験場の補足を追加しました。</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="64">
+<j>京都市営バス横大路営業所南2・特南2号系統：樋爪口経由長岡京駅東口行</j>
+<e type="trans" ver="1">South route 2 and special south roulte 2 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: bound for JR Nagaokakyo Station Higashiguchi (east entrance) via Hizume-guchi</e>
+<cmt></cmt>
+<e type="trans" ver="2">South Route 2 and Special South Route 2 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for JR Nagaokakyo Station Higashiguchi (east entrance) via Hizume-guchi</e>
+<cmt>case</cmt>
+<e type="check" ver="1">South Route 2 and Special South Route 2 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for east exit of JR Nagaokakyo Station via Hizume-guchi</e>
+<cmt>Higashiguchi→east exit としました。</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="65">
+<j>京都市営バス横大路営業所南3号系統：中書島経由横大路車庫行</j>
+<e type="trans" ver="1">South route 3 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: bound for Yokooji Eigyosho Shako (depot) via Chusｈojima Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">South Route 3 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for Yokooji Eigyosho Shako (depot) via Chusｈojima Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">South Route 3 by Yokooji Eigyosho (Yokooji business office) of Kyoto City Bus: Bound for Yokooji-shako Depot via Chusｈojima Station</e>
+<cmt>Yokooji-shako Depot としました。</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="66">
+<j>京阪バス、京阪シティバス</j>
+<e type="trans" ver="1">Keihan Bus and Keihan city buses</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Bus and Keihan city buses</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Bus and Keihan City Bus</e>
+<cmt>Keihan City Bus としました。</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="67">
+<j>京阪バス山科営業所醍醐中書島線：桃山南口経由醍醐バスターミナル行</j>
+<e type="trans" ver="1">Daigo Chushojima Route by Yamashina Eigyosho (Yamashina business office) of Keihan Bus: bound for Daigo Bus Terminal via Momoyama-Minamiguchi (south entrance)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Daigo Chushojima Route by Yamashina Eigyosho (Yamashina business office) of Keihan Bus: Bound for Daigo Bus Terminal via Momoyama-Minamiguchi (south entrance)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Daigo Chushojima Route by Yamashina Eigyosho (Yamashina business office) of Keihan Bus: Bound for Daigo Bus Terminal via south exit of Momoyama</e>
+<cmt>Minamiguchi→ south exit　としました。</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="68">
+<j>京阪バス洛南営業所一般路線バス（京阪シティバス）：淀駅行</j>
+<e type="trans" ver="1">Buses on the general routes by Keihan Bus Rakunan Eigyosho (Rakunan business office) of Keihan Bus (the Keihan city bus): bound for Yodo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Buses on the general routes by Keihan Bus Rakunan Eigyosho (Rakunan business office) of Keihan Bus (the Keihan city bus): Bound for Yodo Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Buses on the general routes by Keihan Bus Rakunan Eigyosho (Rakunan business office) of Keihan Bus (the Keihan City Bus): Bound for Yodo Station</e>
+<cmt>Keihan City Bus としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="69">
+<j>1928年（昭和3年）11月15日 奈良電気鉄道京都～桃山御陵前駅間開通時に城南宮前駅として開業。</j>
+<e type="trans" ver="1">This station started its operation as Jonangumae Station on November 15, 1928, when Nara Electric Railway started its operation between Kyoto and Momoyamagoryomae Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station went into operation as Jonangumae Station on November 15, 1928, when Nara Electric Railway started between Kyoto and Momoyamagoryomae Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">November 15, 1928: This station went into operation as Jonangumae Station when Nara Electric Railway started between Kyoto and Momoyamagoryomae Station.</e>
+<cmt>日付表記変更</cmt>
+</sen>
+<sen id="70">
+<j>現在の竹田駅より、約350m南にあった。</j>
+<e type="trans" ver="1">This initial station was located in approx. 350-m south of the present Takeda station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This initial facility was located approximately 350 meters south of the present Takeda Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This initial facility was located approximately 350 meters south of the present Takeda Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="71">
+<j>1940年（昭和15年）4月1日 竹田駅に改称。</j>
+<e type="trans" ver="1">Its name was changed to Takeda Station on April 1, 1940.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its name was changed to Takeda Station on April 1, 1940.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">April 1, 1940: Its name was changed to Takeda Station.</e>
+<cmt>日付表記変更</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="72">
+<j>1963年（昭和38年）10月1日 奈良電気鉄道が近畿日本鉄道に合併される。</j>
+<e type="trans" ver="1">On December 1, 1963, Nara Electric Railway was merged into Kintetsu Corporation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 1, 1963, Nara Electric Railway was merged into Kintetsu Corporation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">October 1, 1963: Nara Electric Railway was merged into Kintetsu Corporation.</e>
+<cmt>10月　に変更しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="73">
+<j>1988年（昭和63年）6月11日 京都市営地下鉄烏丸線（京都～竹田間）の延伸開業に伴い、旧駅舎より約350m北側の現在地に移転。</j>
+<e type="trans" ver="1">On June 11, 1988, when Kyoto City Subway opened Karasuma Line (between Kyoto and Takeda) extending its line, the station house was moved to the presnet site, approx. 350-north of the former site.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On June 11, 1988, when Kyoto City Subway opened the Karasuma Line (between Kyoto and Takeda) extending its line, the station house was moved to the present site, approximately 350 meters north of the former site.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">June 11, 1988: When Kyoto Municipal Subway opened the Karasuma Line (between Kyoto and Takeda) extending its line, the station house was moved to the present site, approximately 350 meters north of the former site.</e>
+<cmt>city →municipal　としました。日付表記変更</cmt>
+</sen>
+<sen id="74">
+<j>京都市営地下鉄管轄駅になる。</j>
+<e type="trans" ver="1">Since then, this station is under control of Kyoto City Subway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since then, this station has been under the control of Kyoto City Subway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Since then, this station has been under the control of Kyoto Municipal Subway.</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+<sen id="75">
+<j>近鉄京都線の急行・準急停車駅に昇格。</j>
+<e type="trans" ver="1">The status of this station on Kintetsu Kyoto Line has been raised to that of the station where express trains and semi-express trains stop.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The status of this station on the Kintetsu Kyoto Line has been raised to that of the station where express trains and semi-express trains stop.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The status of this station on the Kintetsu Kyoto Line has been raised to that of the station where express trains and semi-express trains stop.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="76">
+<j>1988年（昭和63年）8月28日 近鉄京都線と京都市営地下鉄烏丸線の間で相互直通運転を開始。</j>
+<e type="trans" ver="1">On August28, 1988, Kintetsu Kyoto Line and Karasuma Line of Kyoto City Subway started through service between them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On August 28, 1988, the Kintetsu Kyoto Line and the Karasuma Line of Kyoto City Subway started through-service between their respective lines.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">August 28, 1988: The Kintetsu Kyoto Line and the Karasuma Line of Kyoto Municipal Subway started through-service between their respective lines.</e>
+<cmt>city →municipal　としました。日付表記変更</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="77">
+<j>1998年（平成10年）3月17日 同日のダイヤ変更で新設された近鉄京都線の快速急行の停車駅となる。</j>
+<e type="trans" ver="1">On March 17, 1998, when the train schedule was changed and the rapid-express train service was introduced on Kintetsu Kyoto Line, this station was selected as the one where such trains stopped.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 17, 1998, when the train schedule was changed and the rapid-express train service was introduced on the Kintetsu Kyoto Line, this station was selected as the one where such trains would stop.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">March 17, 1998: When the train schedule was changed and the rapid-express train service was introduced on the Kintetsu Kyoto Line, this station was selected as the one where such trains would stop.</e>
+<cmt>日付表記変更</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="78">
+<j>2000年（平成12年）3月15日 烏丸線国際会館～近鉄奈良間直通の急行を運転開始。</j>
+<e type="trans" ver="1">On March 15, 2000, through service of express trains started between Kokusaikaikan Station on Karasuma Line and Kintetsu Nara Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 15, 2000, the through-service of express trains was launched between Kokusaikaikan Station on the Karasuma Line and Kintetsu Nara Station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 15, 2000: The through-service of express trains was launched between Kokusaikaikan Station on the Karasuma Line and Kintetsu Nara Station.</e>
+<cmt>日付表記変更</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="79">
+<j>2003年（平成15年）3月6日 同日のダイヤ変更により近鉄京都線の快速急行廃止。</j>
+<e type="trans" ver="1">On March 6, 2003, when the train schedule was changed, the operation of rapid-express trains on Kintetsu Kyoto Line was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 6, 2003, when the train schedule was changed, the operation of rapid-express trains on the Kintetsu Kyoto Line was abolished.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">March 6, 2003: When the train schedule was changed, the operation of rapid-express trains on the Kintetsu Kyoto Line was abolished.</e>
+<cmt>日付表記変更</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="80">
+<j>2007年（平成19年）4月1日 PiTaPa使用開始。</j>
+<e type="trans" ver="1">On April 1, 2007, use of PiTaPa started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 2007, PiTaPa came into use.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 2007: PiTaPa came into use.</e>
+<cmt>日付表記変更</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>乗り入れ車両について</j>
+<e type="trans" ver="1">Train cars using this station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Train cars using this station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Train cars using this station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="81">
+<j>京都市営地下鉄烏丸線の車両は京都市交通局所有（京都市交通局10系電車）と近鉄所有（近鉄3200系電車、近鉄3220系電車）の2種類3形式があり簡単に区別できる。</j>
+<e type="trans" ver="1">The train cars used on Karasuma Lin of Kyto City Subway are those owned by Kyoto Municipal Transportation Bureau (Kyoto Municipal Subway Series 10 train cars) and those owned by Kintetus (Kintetsu (Railways) series 3200 train cars) and Kintetus (Kintetsu (Railways) series 3220 train cars), and they can be differentiated easily.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The train cars used on the Karasuma Line of Kyoto City Subway are those owned by the Kyoto Municipal Transportation Bureau (Kyoto Municipal Subway Series 10 train cars) and those owned by Kintetsu (Kintetsu (Railways) Series 3200 train cars) and Kintetsu (Kintetsu (Railways) Series 3220 train cars), and they are easily differentiated.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The train cars used on the Karasuma Line of Kyoto Municipal Subway are those owned by the Kyoto Municipal Transportation Bureau (Kyoto Municipal Subway Series 10 train cars) and those owned by Kintetsu (Kintetsu Series 3200 and 3220 train cars), and they are easily differentiated.</e>
+<cmt>近鉄電車の表現を「Kintetsu Series ～」と変更しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="82">
+<j>近鉄所有の車両（3200系、3220系）は近鉄京都駅発着の列車にも使用されている。</j>
+<e type="trans" ver="1">Train cars owned by Kintetsu (sereis 3200 and series 3220) are also used for those starting running at and returning to Kintetsu Kyoto Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The train cars owned by Kintetsu (Series 3200 and Series 3220) are also used for those starting at and returning to Kintetsu Kyoto Station.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The train cars owned by Kintetsu (Series 3200 and Series 3220) are also used for those starting at and returning to Kintetsu Kyoto Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="83">
+<j>そのうち、3220系の2本は奈良・京都のペイント列車である。</j>
+<e type="trans" ver="1">Of them, two trains of the 3220 series cars have been painted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Of them, two trains of the 3220 series cars have been painted.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Of them, two trains of the 3220 series cars have been painted to commemorate the through-service between Kyoto and Nara.</e>
+<cmt>ペイント列車の補足をしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="84">
+<j>近鉄京都・国際会館方面行きの近鉄3200系、3220系車両は、地下鉄烏丸線に入る列車と近鉄京都行きの列車の両方。</j>
+<e type="trans" ver="1">The series 3200 train cars and series 3220 ones bound for Kokusaikaikan Station on Kintetsu Kyoto Line enter Karasuma Line of the subwasy or are for Kintetsu Kyoto Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Series 3200 cars and Series 3220 cars bound for Kokusaikaikan Station on the Kintetsu Kyoto Line enter the Karasuma Line of the subway or are for Kintetsu Kyoto Station.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Series 3200 cars and Series 3220 cars bound for Kokusaikaikan Station on the Kintetsu Kyoto Line enter the Karasuma Line of the subway or are for Kintetsu Kyoto Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="85">
+<j>また国際会館方面行きの急行については、当駅で車両の行先表示が「急行 京都国際会館」から「国際会館」（種別表記なし。</j>
+<e type="trans" ver="1">On the express trains bound for Kokusaikaikan Station, the destination display is changed from Kyoto Kokusaikaikan to Kokusaikaikan (no operation type is displayed).</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the express trains bound for Kokusaikaikan Station, the destination display is changed from Kyoto Kokusaikaikan to Kokusaikaikan (no operation type is displayed).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On the express trains bound for Kokusaikaikan Station, the destination display is changed from &apos;Express Kokusaikaikan&apos; to &apos;Kokusaikaikan&apos; (no operation type is displayed).</e>
+<cmt>express としました。</cmt>
+</sen>
+<sen id="86">
+<j>3200系の場合種別幕は黒幕）に代わる。</j>
+<e type="trans" ver="1">On the 3200 series train cars, the background of the type display becomes black.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the 3200 Series train cars, the background of the type display becomes black.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">On the 3200 Series train cars, the background of the type display becomes black.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="87">
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto City Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>city →municipal　としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="88">
+<j>■烏丸線</j>
+<e type="trans" ver="1">Karasuma Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Karasuma Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karasuma Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="89">
+<j>くいな橋駅(K14) - 竹田駅(K15) （- 近鉄線 新田辺・奈良方面）</j>
+<e type="trans" ver="1">Kuinabashi Statioｎ (k14) - Takeda station (- for Sintanabe /Nara on Kintetsu Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kuinabashi Station (k14) - Takeda station (- for Sintanabe /Nara on the Kintetsu Line)</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Kuinabashi Station (K14) - Takeda station (K15) (- for Shintanabe /Nara on the Kintetsu Line)</e>
+<cmt>(K15) を追加しました。Shintanabe としました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="90">
+<j>近畿日本鉄道</j>
+<e type="trans" ver="1">Kintetsu Railways</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kintetsu Railways</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kintetsu Railways</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="91">
+<j>京都線</j>
+<e type="trans" ver="1">Kyoto Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="92">
+<j>■急行・■準急</j>
+<e type="trans" ver="1">Express/sub-express trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Express/sub-express trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Express/Semi-express</e>
+<cmt>準急→Semi-express としました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="93">
+<j>東寺駅 - 竹田駅 - 近鉄丹波橋駅</j>
+<e type="trans" ver="1">Toji Station - Takeda Station - Kintetsu-Tambabashi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Toji Station - Takeda Station - Kintetsu-Tambabashi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Toji Station - Takeda Station - Kintetsu-Tanbabashi Station</e>
+<cmt>Tanbabashi としました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="94">
+<j>■普通</j>
+<e type="trans" ver="1">Local trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Local</e>
+<cmt>統一しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="95">
+<j>上鳥羽口駅 - 竹田駅 - 伏見駅_(京都府)</j>
+<e type="trans" ver="1">Kamitobaguchi Station - Takeda Station - Fushimi station (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kamitobaguchi Station - Takeda Station - Fushimi station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kamitobaguchi Station - Takeda Station - Fushimi Station (Kyoto Prefecture)</e>
+<cmt>Station としました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 東京特許許可局(id:7229), Bakkai(id:7233), 城山(id:104901), V-TWIN POWER(id:49244), Excl-zoo(id:47086), UE-PON2600(id:18149), Yen80(id:6146), Wikipedianet(id:9608), KARS(id:43022), エアスマップIRE(id:13873), Aska-sacra(id:8180), Sunen(id:10700), K-583(id:23250), Goki(id:7107), Hirotaro(id:1437), Apidr(id:155448), 目蒲東急之介(id:34741), Hirohisat(id:128431), Hideyuki(id:9577), Etopirica(id:32491), Memeja(id:110500), Shinkansen(id:13703), Rusk(id:9895), Ktr(id:30468), Yukichin(id:725), Kouchiumi(id:19253), 金山銀山銅山(id:163855), Tp2415(id:84801), Hidama(id:73276), Mipu(id:5360), 扇風機のせんちゃん(id:161810), YOU1130(id:180313), オナガドリ(id:15179), TOTOBIG(id:198418), Takatetu(id:3231), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

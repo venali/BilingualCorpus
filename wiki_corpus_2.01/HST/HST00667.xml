@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>京都守護</j>
+<e type="trans" ver="1">Kyoto-shugo (military governor of Kyoto)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto-shugo (military governor of Kyoto)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto-shugo (military governor of Kyoto)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>京都守護（きょうとしゅご）は、鎌倉幕府の職制の一つ。</j>
+<e type="trans" ver="1">Kyoto-shugo is one of the occupational categories of the Kamakura bakufu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto-shugo is one of the occupational categories of the Kamakura bakufu.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto-shugo is one of the occupational categories of the Kamakura bakufu.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>最初は上洛時に、北条時政が任命された。</j>
+<e type="trans" ver="1">As the beginning, Tokimasa HOJO was appointed to the position while he was in Kyoto.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">At the beginning, Tokimasa HOJO was appointed to the position while he was in Kyoto.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At the beginning, Tokimasa HOJO was appointed to the position while he was in Kyoto.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>最初は上洛時に、北条時政が任命され京都の御家人を統率、洛中の警護・裁判を行い、朝廷と幕府の間の連絡の任に当たっていた。</j>
+<e type="trans" ver="1">He took command of gokenin (an immediate vassal of the shogunate in the Kamakura and Muromachi through Edo periods) in Kyoto and engaged in guarding and hearing in Kyoto as well as performed a liaison function between the Imperial Court and the bakufu.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">He took command of gokenin (immediate vassal of the shogunate in the Kamakura and Muromachi through Edo periods) in Kyoto and engaged in guarding and monitoring activities in Kyoto as well as performing a liaison function between the Imperial Court and the bakufu.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He took command of gokenin (immediate vassal of the shogunate in the Kamakura and Muromachi through Edo periods) in Kyoto and engaged in guarding and judging activities in Kyoto as well as performing a liaison function between the Imperial Court and the bakufu.</e>
+<cmt>「裁判」なので、monitoring→judgingにしました。</cmt>
+</sen>
+<sen id="4">
+<j>しかし、承久の乱後に六波羅探題が設置されたことで消滅した。</j>
+<e type="trans" ver="1">Howerver, it was abolished when Rokuhara Tandai (an administrative and judicial agency in Rokuhara, Kyoto) was established after Jokyu War.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Howerver, this was abolished when Rokuhara Tandai (an administrative and judicial agency in Rokuhara, Kyoto) was established after the Jokyu War.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, this was abolished when Rokuhara Tandai (an administrative and judicial agency in Rokuhara, Kyoto) was established after the Jokyu War.</e>
+<cmt>Howerver→However</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Lonicera(id:20638), Bakkai(id:7233), Nnh(id:474), Reggaeman(id:6214), くしなだ(id:16095), 武蔵野武蔵(id:7343), Shimoxx(id:9332), 味っ子(id:17086), 伏儀(id:142093), Mishika(id:276), BAKU(id:55205), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

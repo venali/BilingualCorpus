@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>紀春主</j>
+<e type="trans" ver="1">KI no Harunushi</e>
+<cmt></cmt>
+<e type="trans" ver="2">KI no Harunushi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">KI no Harunushi</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>紀 春主（き の はるぬし、生没年不詳）は、平安時代初期の官人。</j>
+<e type="trans" ver="1">KI no Harunushi (date of birth and death unknown) was a government official (esp. one of low to medium rank) at the beginning of Heian Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">KI no Harunushi (year of birth and death unknown) was a low to medium rank government official during the early Heian period.</e>
+<cmt>changed &quot;date&quot; to &quot;year&quot; to match the word list; moved description in parenthesis to within the sentence; changed &quot;in&quot; to &quot;during&quot;; changed &quot;at the beginning of&quot; to &quot;during the early&quot;; made &quot;period&quot; lowercase</cmt>
+<e type="check" ver="1">KI no Harunushi (year of birth and death unknown) was a low to medium rank government official during the early Heian period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>もとは大安寺の僧で、法名を恵霊といった。</j>
+<e type="trans" ver="1">He was originally a priest at Daian-ji Temple, and his honyo (a name given to a person who enters the Buddhist priesthood) was Eryo (恵霊).</e>
+<cmt>恵霊→定訳・読み不明：Eryo (恵霊) [正式な読み方が不明です]</cmt>
+<e type="trans" ver="2">Harunushi was originally a priest at Daian-ji Temple with the honyo (a name given to a person who enters the Buddhist priesthood) of Eryo (恵霊).</e>
+<cmt>changed &quot;he&quot; to &quot; Harunushi&quot; since this is a new paragraph; fixed grammar</cmt>
+<e type="check" ver="1">Harunushi was originally a priest at Daian-ji Temple with the honyo (a name given to a person who enters the Buddhist priesthood) of Eryo.</e>
+<cmt>(恵霊)削除→読み不明</cmt>
+</sen>
+<sen id="3">
+<j>承和 (日本)3年（836年）に還俗し、遣唐使訳語（通訳）兼但馬国権掾に任ぜられた。</j>
+<e type="trans" ver="1">In 836 he return to secular life, and he was appointed to the interpreter for a Japanese envoy to Tang Dynasty China and Tajima no kuni Gon no jo (provincial inspector of Tajima Province).</e>
+<cmt></cmt>
+<e type="trans" ver="2">He returned to a secular life in 836 and was appointed as Tajima no kuni Gon no jo (provincial inspector of Tajima Province) and as an interpreter for a Japanese envoy to Tang Dynasty China.</e>
+<cmt>rearranged sentence to read more smoothly</cmt>
+<e type="check" ver="1">He returned to a secular life in 836 and was appointed as Tajima no kuni Gon no jo (provincial inspector of Tajima Province) and as an interpreter for a Japanese envoy to Tang Dynasty China.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>円仁の『入唐求法巡礼行記』一・開成4年（839年）4月8日条には、「紀通事」として彼の名が見える。</j>
+<e type="trans" ver="1">His name was recorded as &apos;KI no Tsuji&apos; (Interpreter Ki) in the article of the eighth day of the fourth month of the fourth year of Kaisei Era (April 8, 839 or the forth year of Kaisei in Chinese Era) of &quot;The Record of a Pilgrimage to China in Search of the Law&quot; written by Ennin.</e>
+<cmt>「紀通事」→&apos;KI no Tsuji&apos; (Interpreter Ki) としました。 開成4年（839年）4月8日条→定訳不明：the article of the eighth day of the fourth month of the fourth year of Kaisei (Chinese) Era (April 8, 839)としました。 『入唐求法巡礼行記』→&quot;The Record of a Pilgrimage to China in Serch of the Law&quot; [http://books.google.com/books?id=eiTWWfoyuyAC&amp;pg=RA1-PA480&amp;dq=reischauer+nitto+pilgrimage+ennin&amp;lr=&amp;as_brr=3&amp;hl=ja]</cmt>
+<e type="trans" ver="2">His name was recorded as &apos;KI no Tsuji&apos; (Interpreter Ki) from an article on the eighth day of the fourth month of the fourth year in the Kaisei Era (April 8, 839) of &quot;The Record of a Pilgrimage to China in Search of the Law&quot; written by Ennin.</e>
+<cmt>eliminated &quot;or the forth year of Kaisei in Chinese Era&quot; since it seemed unecessary;</cmt>
+<e type="check" ver="1">His name was recorded as &apos;KI no Tsuji&apos; (Interpreter Ki) from an article on the eighth day of the fourth month of the fourth year in the Kaisei Era (839) of &quot;The Record of a Pilgrimage to China in Search of the Law&quot; written by Ennin.</e>
+<cmt>April 8削除</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 YOSHI438(id:174755), Tribot(id:186681), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

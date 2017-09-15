@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>オムライス</j>
+<e type="trans" ver="1">Rice Omelet</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rice Omelet (Omu rice)</e>
+<cmt>オムライスが和製語という記載があるので、オムライスという表現を加えました。</cmt>
+<e type="check" ver="1">Rice Omelet (Omu rice)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>オムライスは、日本で生まれたコメ料理のひとつで、ケチャップで味付けしたチキンライス（またはバターライス）を卵焼きでオムレツのように包んだ料理であり、日本料理のうち洋食に分類される。</j>
+<e type="trans" ver="1">Rice omelet is a rice dish of Japanese origin.It is chicken fried rice (or plain butter-fried rice) seasoned with ketchup wrapped in a thin round omelet which is categorized as a yoshoku (Western food) within Japanese cooking.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A rice omelet is a rice dish of Japanese origin; it is chicken fried rice (or plain butter-fried rice) seasoned with ketchup wrapped with a thin round fried eggs, which is categorized as a yoshoku (Western food) within Japanese cooking.</e>
+<cmt>二文に分かれているため、一文にしました。NC_CheckRice→A riceomelet→fried eggs,in→with</cmt>
+<e type="check" ver="1">A rice omelet is a rice dish of Japanese origin; it is chicken fried rice (or plain butter-fried rice) seasoned with ketchup and wrapped up with a thin round crepe of fried eggs, which is categorized as yoshoku (Western food) in Japan.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="2">
+<j>オムライスという名称は和製語である。</j>
+<e type="trans" ver="1">The term Omuraisu is a word made in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The term omu rice is a word made in Japan.</e>
+<cmt>Omuraisu→omu rice</cmt>
+<e type="check" ver="1">The term omu rice is a word made in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>形態</j>
+<e type="trans" ver="1">Shape</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shape</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shape</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>フライパンに割りほぐした卵を入れて焼き、半熟になったところでチキンライスをのせる。</j>
+<e type="trans" ver="1">Fry well-beaten eggs in a frying pan until half cooked and put some chicken fried rice in the middle of the omelet.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fry beaten eggs in a frying pan until half cooked and put some chicken fried rice in the middle of the fried eggs.</e>
+<cmt>well- 削除NC_Checkomelet→fried eggs</cmt>
+<e type="check" ver="1">Fry beaten eggs in a frying pan until half cooked and put some chicken fried rice in the middle of the fried eggs.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>卵を折りたたむように裏返してチキンライスを包みこみ、木の葉型に整形して皿に盛る。</j>
+<e type="trans" ver="1">Fold the top and bottom sides of omelet over the rice to form the rice omelet into the shape of a leaf and transfer to a dish.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fold the top and bottom sides of fried eggs over the rice to form the rice omelet into the shape of a leaf and put it on a dish.</e>
+<cmt>NC_Checkomlet→fried eggstransfer to→put it on</cmt>
+<e type="check" ver="1">Fold the top and bottom sides of fried eggs over the rice to form an omelet ishaped like a leaf and the place it on a dish.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="6">
+<j>ケチャップをかけて供されることが多い。</j>
+<e type="trans" ver="1">Rice omelet is often served with ketchup on the top.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is often served with ketchup on the top.</e>
+<cmt>Rice omelet→Ｉｔ</cmt>
+<e type="check" ver="1">It is often served with ketchup on the top.</e>
+<cmt>OK</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>「オムライス発祥の店」を自称する店はいくつかあるが、中でも有名であり有力とされるのは大阪心斎橋の「北極星」、東京銀座の「煉瓦亭」である。</j>
+<e type="trans" ver="1">There are several restaurants that are self-claimed birthplaces of rice omelet but &apos;Hokkyokusei&apos; in Shinsaibashi, Osaka City and &apos;Renga Tei&apos; in Ginza, Tokyo are particularly well-known and are likely to be where the rice omelet originated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are several restaurants that are self-claimed birthplaces of rice omelet but &apos;Hokkyokusei&apos; in Shinsaibashi, Osaka City and &apos;Rengatei&apos; in Ginza, Tokyo are well-known and are likely to be where the rice omelet originated.</e>
+<cmt>Renga Tei→Rengateiparticularly　削除NC_Check</cmt>
+<e type="check" ver="1">There are several restaurants that are self-claimed birthplaces of the rice omelet, but &apos;Hokkyokusei&apos; in Shinsaibashi, Osaka City and &apos;Rengatei&apos; in Ginza, Tokyo are well-known and are likely to be where the rice omelet originated.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>「煉瓦亭のオムライス」は白飯に卵や具を混ぜ炒めたもので、どちらかというとチャーハンに近い。</j>
+<e type="trans" ver="1">Rice Omelet at Renga Tei is fried rice with eggs and other ingredients which is more like a type of Chinese-style fried rice.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The rice Omelet at Rengatei is fried rice with eggs and other ingredients, which is more like a type of Chinese-style fried rice.</e>
+<cmt>Renga Tei→Rengateiof の後のスペース短縮which の後にカンマNC_CheckRice→The rice</cmt>
+<e type="check" ver="1">The rice Omelet at Rengatei is fried rice with eggs and other ingredients, more like a type of Chinese-style fried rice.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="9">
+<j>賄い料理として食べていたものを、客が食べたいと所望したため供されるようになったものである。</j>
+<e type="trans" ver="1">Rice omelet was originally cooked for the restaurant staff but, subsequently, the restaurant began to it the patrons as requested</e>
+<cmt></cmt>
+<e type="trans" ver="2">Their rice omelet was originally cooked for the restaurant staff but, subsequently, the restaurant began to it the patrons as requested</e>
+<cmt>NC_CheckRice→Their</cmt>
+<e type="check" ver="1">Their rice omelet was originally cooked for the restaurant staff but, subsequently, the restaurant began to cater to the requests of their patrons.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="10">
+<j>現在はこれを「元祖オムライス」という名前で提供。</j>
+<e type="trans" ver="1">Today, it is on the menu of Renga Tei as the &apos;Original Rice Omelet.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Today, it is on the menu of Rengatei as the &apos;Original Rice Omelet.&apos;</e>
+<cmt>Renga Tei→Rengatei （以後、この表記に統一）</cmt>
+<e type="check" ver="1">Today, it is on the menu of Rengatei as the &apos;Original Rice Omelet.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>他に一般的なオムレツも別に提供している。</j>
+<e type="trans" ver="1">The restaurant also offers the regular omelet.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The restaurant also offers the regular omelet.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The restaurant also offers the regular omelet.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="12">
+<j>「北極星のオムライス｣は、ケチャップライスを卵で包んだものであり、現在の主流のオムライスのルーツである。</j>
+<e type="trans" ver="1">Rice omelet at Hokkyokusei is ketchup-flavored fried rice wrapped with eggs being the grass root of the mainstream rice omelet today.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The rice omelet at Hokkyokusei is ketchup-flavored fried rice wrapped with eggs being the grass root of the mainstream rice omelet today.</e>
+<cmt>NC_CheckRice→The rice</cmt>
+<e type="check" ver="1">The rice omelet at Hokkyokusei is ketchup-flavored fried rice wrapped withfried eggs being the root of mainstream rice omelets offered today.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="13">
+<j>白飯とオムレツを別々に頼んでいた胃が弱い常連客を見て「いつも同じものでは可哀そうだから」という思いから生まれたとされる。</j>
+<e type="trans" ver="1">It is said that rice omelet was invented for a regular patron with a sensitive stomach who always ordered a soft bland meal consisting of an omelet and plain rice on the side and, sympathizing with that patron for eating the same thing all the time, the restaurant owner one day cooked up a rice omelet for a change.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that rice omelet was invented for a regular patron with a sensitive stomach who always ordered an omelet and plain rice and, sympathizing with that patron for eating the same thing all the time, the restaurant owner one day cooked up a rice omelet for a change.</e>
+<cmt>NC_Checka soft bland meal consisting of 削除on the side 削除</cmt>
+<e type="check" ver="1">It is said thatthe rice omelet was invented for a regular patron with a sensitive stomach who always ordered an omelet and plain rice and, in sympathy for the patron eating the same thing all the time, the restaurant owner one day cooked up a rice omelet for a change.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="14">
+<j>東西という違いや品物の違いなど、どちらが元祖かという判断は非常に難しい。</j>
+<e type="trans" ver="1">Since Hokkyokusei is located in Osaka, whereas, Renga Tei being located in Tokyo with their versions of rice omelet being different from one another, it is very difficult to determine which one was the original. rice omelet</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since Hokkyokusei is located in Osaka, whereas, Rengatei being located in Tokyo with their versions of rice omelet being different from one another, it is very difficult to determine which one is the original. rice omelet</e>
+<cmt>NC_Checkwas→is</cmt>
+<e type="check" ver="1">Since Hokkyokusei is located in Osaka, whereas, Rengatei is located in Tokyo with their versions of rice omelet being different, it is very difficult to determine which one is the original. rice omelet</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="15">
+<j>煉瓦亭が元祖オムライスを世に送り出したのが明治34年、北極星がケチャップライスを使ったオムライスを作り出したのが大正15年であるという点、創業年代（煉瓦亭が明治28年、北極星が大正11年）などからか、雑誌や本など一般的には煉瓦亭が元祖とされることが多い。</j>
+<e type="trans" ver="1">Based on various facts such as that Renga Tei began to offer the Original Rice Omelet in 1901, whereas, Hokkyokusei started to cook the rice omelet with ketchup-flavored rice in 1926 and the years that these restaurants were established (1895 for Renga Tei and 1922 for Hokkyokusei), it is generally considered that the Renga Tei version was the original according to various magazines and books.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Based on various facts such as that Rengatei began to offer the Original Rice Omelet in 1901, whereas, Hokkyokusei started to cook the rice omelet with ketchup-flavored rice in 1926 and the years that these restaurants were established (1895 for Rengatei and 1922 for Hokkyokusei), it is generally considered that the Rengatei version is the original according to various magazines and books.</e>
+<cmt>NC_Checkwas→is</cmt>
+<e type="check" ver="1">Based on various facts such as that Rengatei began to offer the Original Rice Omelet in 1901, whereas, Hokkyokusei started to cook the rice omelet with ketchup-flavored rice in 1926 and the years that these restaurants were established (1895 for Rengatei and 1922 for Hokkyokusei), it is generally considered that the Rengatei version is the original according to various magazines and books.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="16">
+<j>映画「タンポポ (映画)」で有名になった作り方として、皿に盛ったチキンライスの上に中が半熟のプレーンオムレツをのせる。</j>
+<e type="trans" ver="1">In the movie &apos;Tampopo,&apos; a different variation of the rice omelet recipe in which a plain omelet, half-cooked and soft within, is placed on top of the ketchup-flavored chicken fried rice.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the movie &apos;Tampopo&apos; (literally, dandelion), a different variation of the rice omelet recipe in which a plain omelet, half-cooked and soft within, is placed on top of the ketchup-flavored chicken fried rice.</e>
+<cmt>タンポポの説明追記NC_Check</cmt>
+<e type="check" ver="1">In the movie &apos;Tampopo&apos; (literally, dandelion), a different variation of the rice omelet recipe in which a plain omelet, half-cooked and soft inside, is placed on top of ketchup-flavored chicken fried rice.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="17">
+<j>その後食卓でオムレツに切れ目を入れて全体を包み込むように開くという方法がある。</j>
+<e type="trans" ver="1">At the table, the center of the omelet is slit open lengthwise to allow the soft, half-cooked eggs to drape over the rice and this recipe became celebrated following the release of the movie.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the table, the center of the omelet is slit open lengthwise to allow the soft, half-cooked eggs to drape over the rice and this recipe became celebrated following the release of the movie.</e>
+<cmt>赤字の部分は原文にないので、ご確認願います。</cmt>
+<e type="check" ver="1">At the table, the center of the omelet is split open lengthwise to allow the soft, half-cooked eggs to drape over the rice.</e>
+<cmt>原文に即した形に変更</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="18">
+<j>これは伊丹十三がアイディアを出し、東京日本橋 (東京都中央区)にある洋食屋の老舗たいめいけんがつくりだしたものである。</j>
+<e type="trans" ver="1">This variation of rice omelet was the brainchild of Juzo ITAMI and was developed by Taimeiken, the old establishment of yoshokuya (restaurants serving Western food) in Nihonbashi, Tokyo (Chuo Ward, Tokyo City).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This variation of rice omelet was a brainchild of Juzo ITAMI and was developed by Taimeiken, the old establishment of yoshokuya (restaurants serving Western food) in Nihonbashi, Tokyo (Chuo Ward, Tokyo).</e>
+<cmt>Tokyo City→TokyoNC_Checkwas the→was a</cmt>
+<e type="check" ver="1">This variation of rice omelet was the brainchild of Juzo ITAMI and was developed by Taimeiken, the old establishment of yoshokuya (restaurants serving Western food) in Nihonbashi, Tokyo (Chuo Ward, Tokyo).</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="19">
+<j>現在「タンポポオムライス(伊丹十三風)」という名前で供され、店の名物の一つである。</j>
+<e type="trans" ver="1">Today, it is on the menu under the name of &apos;Tampopo Rice Omelet (Juzo Itami Style)&apos; being one of the specialties of that restaurant.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Today, it is on the menu under the name of &apos;Tampopo Rice Omelet (Juzo Itami Style)&apos; being one of the specialties of that restaurant.</e>
+<cmt>NC_CheckIs a comma necessary before &apos;being&apos;?</cmt>
+<e type="check" ver="1">Today, it is on the menu under the name of &apos;Tampopo Rice Omelet (Juzo Itami Style)&apos; being one of the specialties of that restaurant.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="20">
+<j>オムライスは近年では多くのメイド喫茶の定番メニューで.ある。</j>
+<e type="trans" ver="1">In recent years, rice omelet has been a regular item on the menu at the meido kissa (maid café, coffee shop where waitresses are dressed in maid&apos;s uniforms).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In recent years, a rice omelet has been a regular item on the menu at the maid café (coffee shop where waitresses are dressed in maid&apos;s uniforms).</e>
+<cmt>meido kissa 削除してmaid café を括弧から出します。rice→a riceNC_Check</cmt>
+<e type="check" ver="1">In recent years, a rice omelet has been a regular item on the menu at the maid café (coffee shop where waitresses are dressed in maid&apos;s uniforms).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>「萌えオム」などと称して、店員（メイド）がオムライスの上にケチャップでメッセージや絵（アスキーアート）などを書いてくれるサービスが広く見られる。</j>
+<e type="trans" ver="1">Rice omelet is referred to as the &apos;Moe Omu&apos; when the waitress (maid) writes a message or draws a picture (ASCII art) on the top with ketchup as a part of service which has become common at these cafes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A rice omelet is referred to as the &apos;Moe Omu&apos; when the waitress (maid) writes a message or draws a picture (ASCII art) on the top with ketchup as a part of service which has become common at these cafes.</e>
+<cmt>NC_Checkrice→a rice</cmt>
+<e type="check" ver="1">A rice omelet is referred to as the &apos;Moe Omu&apos; when the waitress (maid) writes a message or draws a picture (ASCII art) on the top with ketchup as a part of the service which has become common at these cafes.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="22">
+<j>チキンライスではなく白飯を卵焼きで包み、カレーやデミグラスソース、ハヤシライスのソースなどをかけた料理は、オムライスとは区別され、「オムカレー」や「オムハヤシ」のように「オム○○○」と呼称されることが多い。</j>
+<e type="trans" ver="1">When plain white rice, instead of ketchup-flavored chicken fried rice, is wrapped in an omelet, with sauce such as curry, demiglace or hashed beef being poured over, it is often referred to as &apos;omu something&apos; such as &apos;omu-kare&apos; (rice omelet with curry sauce) or &apos;omu-hayashi&apos; (rice omelet with hashed beef sauce) being distinguished from rice omelet.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When plain white rice, instead of ketchup-flavored chicken fried rice, is wrapped in an omelet, with sauce such as curry, demiglace or hashed beef being poured over, it is often referred to as &apos;omu something&apos; such as &apos;omu-kare&apos; (rice omelet with curry sauce) or &apos;omu-hayashi&apos; (rice omelet with hashed beef sauce) being distinguished from rice omelet.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">When plain white rice, instead of ketchup-flavored chicken fried rice, is wrapped in an omelet, with sauce such as curry, demiglace or hashed beef being poured over, it is often referred to as &apos;omu something&apos; such as &apos;omu-kare&apos; (rice omelet with curry sauce) or &apos;omu-hayashi&apos; (rice omelet with hashed beef sauce) being distinguished from a rice omelet.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="23">
+<j>チキンライスの代わりにソース焼きそばを卵で包んだものは「オムそば」と呼ばれる。</j>
+<e type="trans" ver="1">When fried noodles are wrapped in eggs instead of the ketchup-flavored chicken fried rice, it is referred to as &apos;omu soba&apos; (noodle omelet).</e>
+<cmt></cmt>
+<e type="trans" ver="2">When fried soba noodles seasoned with Worcester sauce are wrapped in eggs instead of the ketchup-flavored chicken fried rice, it is referred to as &apos;omu soba&apos; (noodle omelet).</e>
+<cmt>「ソース焼きそば」なので表現を変更しました。NC_Check</cmt>
+<e type="check" ver="1">When fried soba noodles seasoned with Worcester sauce are wrapped in eggs instead of ketchup-flavored chicken fried rice, it is referred to as &apos;omu soba&apos; (noodle omelet).</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="24">
+<j>このオムそばは関西地域のお好み焼き屋では定番メニューとなっている。</j>
+<e type="trans" ver="1">Noodle omelet is a regular item on the menu at Okonomiyaki (Japanese-style pancake containing vegetables and other foodstuff) restaurants in the Kansai area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This noodle omelet is a regular item on the menu at Okonomiyaki (Japanese-style pancake containing vegetables and other foodstuff) restaurants in the Kansai area.</e>
+<cmt>文頭に This 追記</cmt>
+<e type="check" ver="1">This noodle omelet is a regular item on the menu at Okonomiyaki (Japanese-style pancake containing vegetables and other foodstuff) restaurants in the Kansai area.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="25">
+<j>ラーメン店では、チャーハンを卵で包んだものを「オムチャーハン」として供している場合がある。</j>
+<e type="trans" ver="1">Some Chinese noodle shops serve a dish of Chinese fried rice wrapped in eggs which is referred to as &apos;omu chahan&apos; (Chinese fried rice omelet).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some Chinese noodle shops serve a dish of Chinese fried rice wrapped in eggs which is referred to as &apos;omu chahan&apos; (Chinese fried rice omelet).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some Chinese noodle shops serve a dish of Chinese fried rice wrapped in eggs which is referred to as &apos;omu chahan&apos; (Chinese fried rice omelet).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>オムチャーハンでは、焼いた面を裏、半熟の面を表と、通常とは表裏逆に包むことが多い。</j>
+<e type="trans" ver="1">With omu-chahan, the fried eggs are often inverted with the soft, half-cooked side being on top, which is reverse of the usual manner for making rice omelet, when wrapping the fried rice.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With omu chahan, the fried eggs are often inverted with the soft, half-cooked side being on top, which is the reverse of the usual manner for making a rice omelet, when wrapping the fried rice.</e>
+<cmt>omu-chahan→omu chahanNC_Checkreverse→the reverserice→a rice</cmt>
+<e type="check" ver="1">With omu chahan, the fried eggs are often inverted with the soft, half-cooked side being on top, which is the reverse of the usual manner for making a rice omelet, when wrapping the fried rice.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>また、ケチャップなどは用いず、チャーシューのカットエンド部分を細切れにしたもの（チャンコマ）を乗せ、チャーシューの煮汁をかける。</j>
+<e type="trans" ver="1">Additionally, for omu-chahan, ketchup is not used and, instead, the finely-chopped scraps of roast pork (chankoma) are placed on top and the roast pork gravy is poured as a finishing touch.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, for omu chahan, ketchup is not used and, instead, the finely-chopped scraps of roast pork (chankoma) are placed on the top and the roast pork gravy is poured as a finishing touch.</e>
+<cmt>NC_Checktop→the topomu-chahan→omu chahan</cmt>
+<e type="check" ver="1">Additionally, for omu chahan, ketchup is not used and, instead, the finely-chopped scraps of roast pork (chankoma) are placed on the top and the roast pork gravy is poured over as a finishing touch.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="28">
+<j>チリソースなどをかけて中華風にすることもある（甘酢あんかけにすると天津飯になってしまう）。</j>
+<e type="trans" ver="1">Omu-chahan is sometimes topped with Chinese-style chili sauce (and, if sweet and sour sauce is used, it transform to Tenshin-han (Tianjin-style rice).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Omu chahan is sometimes topped with Chinese-style chili sauce (and, if sweet and sour sauce is used, it transforms to Tenshin-han [Tianjin-style rice].)</e>
+<cmt>omu-chahan→omu chahantransform→transforms括弧内の括弧を[]に変更ピリオドを括弧内へ移動</cmt>
+<e type="check" ver="1">Omu chahan is sometimes topped with Chinese-style chili sauce (and, if sweet and sour sauce is used, it transforms to Tenshin-han [Tianjin-style rice].)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>有名どころとしては、東京都中央区 (東京都)の「チャイナクック龍華」、大阪市北区 (大阪市)の「まんねん」など。</j>
+<e type="trans" ver="1">There are some restaurants famed for their omu-chahan dishes including &apos;China Cook Ryuka&apos; in Chuo Ward, Tokyo City and &apos;Mannen&apos; in Kita Ward, Osaka Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are some restaurants famed for their omu chahan dishes including &apos;China Cook Ryuka&apos; in Chuo Ward, Tokyo and &apos;Mannen&apos; in Kita Ward, Osaka City.</e>
+<cmt>omu-chahan→omu chahanTokyo City→TokyoPrefecture→City</cmt>
+<e type="check" ver="1">There are some restaurants famous for their omu chahan dishes including &apos;China Cook Ryuka&apos; in Chuo Ward, Tokyo and &apos;Mannen&apos; in Kita Ward, Osaka City.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 アレシンロ(id:170344), こたつ狼(id:27622), Annogoo(id:127074), CommonsDelinker(id:84593), Roger(id:9883), ＲＪＡＮＫＡ(id:118019), Hykw-a4(id:14184), 村人A(id:70657), Midtown(id:115860), Dream100(id:41924), 死郎(id:1683), Goch(id:17164), Opponent(id:720), Hermeneus(id:380), Iganin(id:80282), IwaimBot(id:190695), 日本一弱い男(id:92046), 端くれの錬金術師(id:23040), Tamago915(id:11009), 千早スパイラル(id:180323), Yas(id:739), 和泉飛鳥(id:208308), Volfgang(id:98768), Bankokuya(id:91191), BoB774(id:148281), とらでじこ(id:11570), マクガイア(id:33346), Shoy(id:43510), RUTETiA(id:27320), 555accele(id:85185), はるひ(id:59079), かなべえコバトン(id:15491), Shimotsuke(id:19741), Carkuni(id:79281), Rusk(id:9895), Special rapid(id:96013), Neko2(id:21083), VolkovBot(id:105371), 曖(id:41245), Ericyu(id:29159), 663highland(id:18755), Corwin(id:973), Lebit(id:11805), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

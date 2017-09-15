@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>解体新書</j>
+<e type="trans" ver="1">Kaitai Shinsho (New Book of Anatomy)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kaitai Shinsho (New Book of Anatomy)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kaitai Shinsho (New Book of Anatomy)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>『解體新書』（かいたいしんしょ、解体新書）は、ドイツ人医師クルムスの医学書Anatomische Tabellenのオランダ語訳『ターヘル・アナトミア』を江戸時代の日本で翻訳した書。</j>
+<e type="trans" ver="1">&quot;Kaitai Shinsho&quot; is a Japanese translation of &quot;Onteedkundige Tafelen&quot; which was a Dutch book of medical science translated from Anatomische Tabellen written by a German doctor Kulmus.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Kaitai Shinsho&quot; is a Japanese translation of &quot;Ontleedkundige Tafelen&quot; which was a Dutch book of medical science translated from Anatomische Tabellen written by a German doctor Kulmus.</e>
+<cmt>スペルを修正しました。</cmt>
+<e type="check" ver="1">&quot;Kaitai Shinsho&quot; is a Japanese translation of &quot;Ontleedkundige Tafelen&quot; which was a Dutch book of medical science translated from Anatomische Tabellen written by a German doctor Kulmus.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>西洋語からの本格的な翻訳書として日本初。</j>
+<e type="trans" ver="1">It was the first book of full-fledged translation into Japanese from a Western language.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was the first book of full-fledged translation into Japanese from a Western language.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was the first book of full-fledged translation into Japanese from a Western language.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>著者は杉田玄白。</j>
+<e type="trans" ver="1">It was written by Genpaku Sugita.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was written by Genpaku SUGITA.</e>
+<cmt>名字を大文字にしました。</cmt>
+<e type="check" ver="1">It was written by Genpaku SUGITA.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>安永3年（1774年）、須原屋市兵衛によって刊行される。</j>
+<e type="trans" ver="1">It was published by Ichibei SUHARAYA in 1774.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was published by Ichibei SUHARAYA in 1774.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was published by Ichibei SUHARAYA in 1774.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>本文4巻、付図1巻。</j>
+<e type="trans" ver="1">It consisted of four books of body text and one book of appended drawings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It consisted of four books of body text and one book of appended drawings.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It consisted of four books of body text and one book of appended drawings.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>内容は漢文で書かれている。</j>
+<e type="trans" ver="1">It was written in the Chinese classics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was written in the Chinese classics.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was written in the Chinese classics.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>経緯</j>
+<e type="trans" ver="1">History:</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>コロンを削除しました。</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>明和8年（1771年）3月4日、蘭方医の杉田玄白・前野良沢・中川淳庵らは、小塚原刑場において罪人の腑分け（解剖）を見学した。</j>
+<e type="trans" ver="1">On March 4, 1771, Genpaku SUGITA, Ryotaku MAENO, Junan NAKAGAWA and other ranpoi (perosos who studied Western medicine by means of the Dutch language) observed fuwake (dissection) of executed criminals at Kozukabara execution ground.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">On April 18, 1771, Genpaku SUGITA, Ryotaku MAENO, Junan NAKAGAWA and other ranpoi (persons who studied Western medicine by means of the Dutch language) observed fuwake (dissection) of executed criminals at Kozukappara execution grounds.</e>
+<cmt>グレゴリオ暦に修正しました。スペルを修正しました。</cmt>
+<e type="check" ver="1">On April 18, 1771, Genpaku SUGITA, Ryotaku MAENO, Junan NAKAGAWA and other ranpoi (persons who studied Western medicine by means of the Dutch language) observed fuwake (dissection) of executed criminals at Kozukappara execution grounds.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>(なお、この場に桂川甫周がいたとする説もあるが、『蘭学事始』の記述からは、いなかったと考えるのが自然である）。</j>
+<e type="trans" ver="1">There is a theory that they were joined by Hoshu KATSURAGAWA, but it should be more natural to understand he did not attend there, judging from descriptions of &quot;Rangaku Kotohajime&quot; (&quot;The Beginning of Dutch Studies&quot; written by Genpaku SUGITA at later stage).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">There is a theory that they were joined by Hoshu KATSURAGAWA, but it should be more natural to understand he did not attend there, judging from descriptions of &quot;Rangaku Kotohajime&quot; (&quot;The Beginning of Dutch Studies&quot; written by Genpaku SUGITA at a later stage).</e>
+<cmt>at a late stage としました。</cmt>
+<e type="check" ver="1">(There is a theory that they were joined by Hoshu KATSURAGAWA, but it should be more natural to understand he did not attend there, judging from descriptions of &quot;Rangaku Kotohajime&quot; [The Beginning of Dutch Studies] written by Genpaku SUGITA at a later stage).</e>
+<cmt>原文および訳文の頭に（をつけました。 (&quot;The Beginning of Dutch Studies&quot;→ [The Beginning of Dutch Studies]</cmt>
+</sen>
+<sen id="10">
+<j>玄白と良沢の2人はオランダ渡りの解剖学書『ターヘル・アナトミア』をそれぞれ所持していた。</j>
+<e type="trans" ver="1">Genpaku SUGITA and Ryotaku MAENO had in each possession the &quot;Ontleedkundige Tafelen,&quot; an immigrant book of anatomy from Holand.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Genpaku SUGITA and Ryotaku MAENO had in each possession the &quot;Ontleedkundige Tafelen,&quot; an immigrant book of anatomy from Holland.</e>
+<cmt>スペルを修正しました。</cmt>
+<e type="check" ver="1">Genpaku SUGITA and Ryotaku MAENO had in each possession the &quot;Ontleedkundige Tafelen,&quot; an immigrant book of anatomy from Holland.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>実際の解剖と見比べて『ターヘル・アナトミア』の正確さに驚嘆した玄白は、これを翻訳しようと良沢に提案する。</j>
+<e type="trans" ver="1">Genpaku SUGITA was so much struck by the preciseness of the &quot;Ontleekundige Tafelen&quot; comparing it with the really dissected parts of body, that he proposed Ryotaku MAENO to make a translation of it together with him..</e>
+<cmt></cmt>
+<e type="trans" ver="2">Genpaku SUGITA was so much struck by the preciseness of the &quot;Ontleedkundige Tafelen&quot; comparing it with the actual dissected parts of body, that he proposed Ryotaku MAENO to make a translation of it together with him.</e>
+<cmt>reall→ actual としました。ピリオドのダブりを削除しました。</cmt>
+<e type="check" ver="1">Genpaku SUGITA was so much struck by the preciseness of the &quot;Ontleedkundige Tafelen&quot; comparing it with the actual dissected parts of body, that he proposed Ryotaku MAENO to make a translation of it together with him.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>かねてから蘭書翻訳の志を抱いていた良沢はこれに賛同。</j>
+<e type="trans" ver="1">Ryotaku MAENO, who had long ambitioned to translate Dutch books agreed to Genpaku SUGITA&apos;s proposal.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ryotaku MAENO, who had long ambitioned to translate Dutch books, agreed to Genpaku SUGITA&apos;s proposal.</e>
+<cmt>カンマを一箇所追加しました。</cmt>
+<e type="check" ver="1">Ryotaku MAENO, who had long ambitioned to translate Dutch books, agreed to Genpaku SUGITA&apos;s proposal.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>淳庵も加えて、翌日の3月5日から前野良沢邸に集まり、翻訳を開始した。</j>
+<e type="trans" ver="1">From the next day, March 5, they gathered at the house of Ryotaku MAENO to start its translation, to whom Junan NAKAGAWA also jointed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From the next day, April 19, they gathered at the house of Ryotaku MAENO to start its translation, to whom Junan NAKAGAWA also jointed.</e>
+<cmt>グレゴリオ暦に修正しました。</cmt>
+<e type="check" ver="1">From the next day, April 19, they gathered at the house of Ryotaku MAENO to start its translation, to whom Junan NAKAGAWA also jointed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>『解体新書』を征夷大将軍に推挙したのは、桂川甫三である。</j>
+<e type="trans" ver="1">It was Hosan KATSURAGAWA who recommended &quot;Kaitai Shinsho&quot; (&quot;New Book of Anatomy,&quot; the historic Japanese translation of a Dutch anatomical text) to seii taishogun (literally, a great general who subdues the barbarians).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was Hosan KATSURAGAWA who recommended &quot;Kaitai Shinsho&quot; to seii taishogun (literally, a great general who subdues the barbarians).</e>
+<cmt>既出単語の補足を削除しました。</cmt>
+<e type="check" ver="1">It was Hosan KATSURAGAWA who recommended &quot;Kaitai Shinsho&quot; to seii taishogun (literally, a great general who subdues the barbarians).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="15">
+<j>当初、玄白と淳庵はオランダ語を読めず、オランダ語の知識のある良沢も、翻訳を行うには不十分な語彙しかなかった。</j>
+<e type="trans" ver="1">At the beginning, both Genpaku SUGITA and Junan NAKAGAWA were unable to read the Dutch language, and even Ryotaku MAENO&apos;s Dutch vocabulary was not enough for translation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the beginning, both Genpaku SUGITA and Junan NAKAGAWA were unable to read the Dutch language, and even Ryotaku MAENO&apos;s Dutch vocabulary was not enough for translation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At the beginning, both Genpaku SUGITA and Junan NAKAGAWA were unable to read the Dutch language, and even Ryotaku MAENO&apos;s Dutch vocabulary was not enough for translation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>オランダ語の通詞は長崎市にいるので質問することも難しかった。</j>
+<e type="trans" ver="1">There were some interpreters in Nagasaki city, which was however too far to ask any question to them.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">There were some interpreters in Nagasaki City, which was however too far to ask any question to them.</e>
+<cmt>City 大文字にしました。</cmt>
+<e type="check" ver="1">There were some interpreters in Nagasaki City, which was however too far to ask any question to them.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>また、当然ながら辞書も無かった。</j>
+<e type="trans" ver="1">Needless to say, there existed no dictionary for Dutch and Japanese.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Needless to say, there existed no dictionary for Dutch and Japanese.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Needless to say, there existed no dictionary for Dutch and Japanese.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>そこで、暗号解読ともいえる方法により、翻訳作業を進めた。</j>
+<e type="trans" ver="1">Therefore, their translation work resorted to the means that may be called decipherment.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, their translation work resorted to the means that may be called decipherment.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Therefore, their translation work resorted to the means that may be called decipherment.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>この様子については杉田玄白晩年の著書『蘭学事始』に詳しい。</j>
+<e type="trans" ver="1">Their working circumstances were described in detail in the book &quot;Rangaku Kotohajime&quot; (&quot;The Beginning of Dutch Studies&quot;) written by Genpaku SUGITA in his later years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Their working circumstances were described in detail in the book &quot;Rangaku Kotohajime&quot; written by Genpaku SUGITA in his later years.</e>
+<cmt>既出単語の補足を削除しました。</cmt>
+<e type="check" ver="1">Their working circumstances were described in detail in the book &quot;Rangaku Kotohajime&quot; written by Genpaku SUGITA in his later years.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="20">
+<j>安永 (元号)2年（1773年）、翻訳の目処がついたので、世間の反応を確かめるために『解体約図』を刊行する。</j>
+<e type="trans" ver="1">In 1773, when the achievement of their translation work became in sight, they published &quot;Kaitai Yakuzu&quot; (&quot;Illustrations of a dissectioned body&quot;) in order to check public responses.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1773, when the achievement of their translation work became in sight, they published &quot;Kaitai Yakuzu&quot; (Illustrations of a dissectioned body) in order to check public responses.</e>
+<cmt>ダブルクォーテーションを一箇所削除しました。</cmt>
+<e type="check" ver="1">In 1773, when the achievement of their translation work became in sight, they published &quot;Kaitai Yakuzu&quot; (Illustrations of a dissectioned body) in order to check public responses.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="21">
+<j>安永3年『解体新書』刊行。</j>
+<e type="trans" ver="1">In 1774, &quot;Kaitai Shinsho&quot; was published.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1774, &quot;Kaitai Shinsho&quot; was published.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In 1774, &quot;Kaitai Shinsho&quot; was published.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="22">
+<j>関わった人物</j>
+<e type="trans" ver="1">Persons concerned:</e>
+<cmt></cmt>
+<e type="trans" ver="2">Persons concerned</e>
+<cmt>コロンを削除しました。</cmt>
+<e type="check" ver="1">Persons concerned</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>前野良沢は翻訳作業の中心であったが、著者としての名は『解体新書』に無い。</j>
+<e type="trans" ver="1">Ryotaku MAENO played a central role in their translation work, but his name was not written in any part of &quot;Kaitai Shinsho&quot; as an author.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ryotaku MAENO played a central role in their translation work, but his name was not written in any part of &quot;Kaitai Shinsho&quot; as an author.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ryotaku MAENO played a central role in their translation work, but his name was not written in any part of &quot;Kaitai Shinsho&quot; as an author.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>一説には、良沢が長崎留学の途中で天満宮に学業成就を祈ったとき、自分の名前を上げるために勉学するのではないと約束したので名前を出すのを断ったという。</j>
+<e type="trans" ver="1">According to one estimate, Ryotaku MAENO refused to put his name in &quot;Kaitai Shinsho&quot; because he had once promised not to study for his own name when he prayed for accomplishment of his school work at Tenman-gu Shrine on his way to Nagasaki for study.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to one estimate, Ryotaku MAENO refused to put his name in &quot;Kaitai Shinsho&quot; because he had once promised not to study for his own name when he prayed for accomplishment of his school work at Tenman-gu Shrine on his way to Nagasaki for study.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">According to one estimate, Ryotaku MAENO refused to put his name in &quot;Kaitai Shinsho&quot; because he had once promised not to study for his own name when he prayed for accomplishment of his school work at Tenman-gu Shrine on his way to Nagasaki for study.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>一説には、訳文が完全なものでないことを知っていたので、学究肌の良沢は名前を出すことを潔しとしなかったのだという。</j>
+<e type="trans" ver="1">Another estimate says that Ryotaku MAENO, an academic person, knew faultiness of his translation in Kaitai Shisho and he disliked to scorn his name by putting his name on it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Another estimate says that Ryotaku MAENO, an academic person, knew faultiness of his translation in Kaitai Shinsho and he disliked to ruin his reputation by putting his name on it.</e>
+<cmt>一部表現を変更しました。</cmt>
+<e type="check" ver="1">Another estimate says that Ryotaku MAENO, an academic person, knew faultiness of his translation in Kaitai Shinsho and he disliked to ruin his reputation by putting his name on it.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="26">
+<j>杉田玄白は「私は多病であり年もとっている。いつ死ぬかわからない」と言っている。</j>
+<e type="trans" ver="1">Genpaku SUGITA said, &quot;I am both siclkly and aged.&quot;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Genpaku SUGITA said, &apos;I am both sickly and aged. I could die any day.&apos;</e>
+<cmt>文を２つに分けました。</cmt>
+<e type="check" ver="1">Genpaku SUGITA said, &apos;I am both sickly and aged. I could die any day.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>彼は、訳文に不完全なところがあることは知りながら刊行を急いだ。</j>
+<e type="trans" ver="1">Although he knew Kaitai Shinsho had some defectiveness, he hurried up to publish it saying &quot;no one can see when I will die.&quot;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Although he knew Kaitai Shinsho had some defectiveness, he hurried up to publish it.</e>
+<cmt>文を２つに分けました。</cmt>
+<e type="check" ver="1">Although he knew Kaitai Shinsho had some defectiveness, he hurried up to publish it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>『解体約図』の出版も玄白の意図であった。これに対して良沢は不快を示していたと言われている）。</j>
+<e type="trans" ver="1">Publishment of &quot;Kaitai Yakuzu&quot; (illustrations of a dissected body) was also made by the same motive of Genpaku SUGITA, against which incentive, however, Ryotaku MAENO was reported to have showen his disamenity.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Publication of &quot;Kaitai Yakuzu&quot; was also made by the same motive of Genpaku SUGITA, against which, however, Ryotaku MAENO was reported to have shown his disamenity.</e>
+<cmt>既出単語の補足を削除しました。</cmt>
+<e type="check" ver="1">Publication of &quot;Kaitai Yakuzu&quot; was also made by the same motive of Genpaku SUGITA, against which, however, Ryotaku MAENO was reported to have shown his disamenity.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>しかし彼は、当時としては非常な長命の85歳まで生きた。</j>
+<e type="trans" ver="1">However, Genpaku SUGITA lived a life of 85 years, which was extraordinarily long in those days.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, Genpaku SUGITA lived a life of 85 years, which was extraordinarily long in those days.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, Genpaku SUGITA lived a life of 85 years, which was extraordinarily long in those days.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="30">
+<j>中川淳庵は『解体新書』刊行後も蘭語の学習を続けた。</j>
+<e type="trans" ver="1">On the otherhand, Junan NAKAGAWA continued his study of Dutch language even after publishment of &quot;Kaitai Shinsho.&quot;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">On the other hand, Junan NAKAGAWA continued his study of Dutch language even after publication of &quot;Kaitai Shinsho.&quot;</e>
+<cmt>publishment →publication としました。</cmt>
+<e type="check" ver="1">On the other hand, Junan NAKAGAWA continued his study of Dutch language even after publication of &quot;Kaitai Shinsho.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>桂川甫周と共にスウェーデンの博物学者カール・ツンベルクに教えを受けている。</j>
+<e type="trans" ver="1">He and Hoshu KATSURAGAWA became pupils of Carl Thumberg, a Swedish naturalist.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">He and Hoshu KATSURAGAWA became pupils of Carl Thumberg, a Swedish naturalist.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He and Hoshu KATSURAGAWA became pupils of Carl Thumberg, a Swedish naturalist.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="32">
+<j>桂川甫三は杉田玄白と同世代の友人。</j>
+<e type="trans" ver="1">Hosan KATSURAGAWA was a contemporary friend of Genpaku SUGITA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hosan KATSURAGAWA was a contemporary friend of Genpaku SUGITA.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hosan KATSURAGAWA was a contemporary friend of Genpaku SUGITA.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>法眼の地位にあり、征夷大将軍の侍医を務めた。</j>
+<e type="trans" ver="1">Hosan KATSURAGAWA served as a personal physician to seii taishogun (literally, a great general who subdues the barbarians), being ranked as hogen (the second highest rank of hierarchy of physicians).</e>
+<cmt></cmt>
+<e type="trans" ver="2">He served as a personal physician to seii taishogun, being ranked as hogen (the second highest rank of hierarchy of physicians).</e>
+<cmt>Hosan→ He としました。既出単語の補足を削除しました。</cmt>
+<e type="check" ver="1">He served as a personal physician to seii taishogun, being ranked as hogen (the second highest rank of hierarchy of physicians).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>翻訳作業に直接関わった様子はないが、その子甫周を参加させた。</j>
+<e type="trans" ver="1">He had never directly participated in translation work, but let his son Hoshu KATSURAGAWA join the translation team.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He had never directly participated in the translation work, but let his son Hoshu KATSURAGAWA join the translation team.</e>
+<cmt>the を追加しました。</cmt>
+<e type="check" ver="1">He had never directly participated in the translation work, but let his son Hoshu KATSURAGAWA join the translation team.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>また補助資料となる3冊のオランダ医学書を提供している。</j>
+<e type="trans" ver="1">He provided three books of Dutch medical science as supplimentary materials.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He provided three books of Dutch medical science as supplementary materials.</e>
+<cmt>スペルを修正しました。</cmt>
+<e type="check" ver="1">He provided three books of Dutch medical science as supplementary materials.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>『解体新書』刊行の際、幕府の禁に触れる可能性があったため、甫三を通じて大奥に献上されている。</j>
+<e type="trans" ver="1">At the time of its publishment, a book of &quot;Kaitai Shinsho&quot; was presented to O-oku (inner palace of Edo Castle) through Hosan KATSURAGAWA who had feared of any possibility to violate taboo of Bakufu (Shogunate government).</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the time of its publication, a book of &quot;Kaitai Shinsho&quot; was presented to O-oku (inner palace of Edo-jo Castle) through Hosan KATSURAGAWA who had feared of any possibility to violate taboo of bakufu (Japanese feudal government headed by a shogun).</e>
+<cmt>publishment →publication としました。幕府　他の記事と補足を統一しました。</cmt>
+<e type="check" ver="1">At the time of its publication, a book of &quot;Kaitai Shinsho&quot; was presented to O-oku (inner palace of Edo-jo Castle) through Hosan KATSURAGAWA who had feared of any possibility to violate taboo of bakufu (Japanese feudal government headed by a shogun).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="37">
+<j>桂川甫周は法眼桂川甫三の子であり、後には自身も法眼となる。</j>
+<e type="trans" ver="1">Hoshu KATSURAGAWA, a son of Hogen Hosan KATSURAGAWA, was later ranked also Hogen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hoshu KATSURAGAWA, a son of Hogen Hosan KATSURAGAWA, was later ranked also Hogen.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hoshu KATSURAGAWA, a son of Hogen Hosan KATSURAGAWA, was later ranked also Hogen.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>翻訳作業の初期から関わったという。</j>
+<e type="trans" ver="1">He was reportedly engaged in the translation work from the beginning.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was reportedly engaged in the translation work from the beginning.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was reportedly engaged in the translation work from the beginning.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>のちに大槻玄沢とともに蘭学の発展に貢献する。</j>
+<e type="trans" ver="1">Subsequently, he and Gentaku OTSUKI contributed to the advancement of Dutch studies.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Subsequently, he and Gentaku OTSUKI contributed to the advancement of Dutch studies.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Subsequently, he and Gentaku OTSUKI contributed to the advancement of Dutch studies.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="40">
+<j>その他に翻訳作業に関わった者は、巻頭に名前が出てくる石川玄常、『蘭学事始』に名前が出てくる烏山松圓、桐山正哲、嶺春泰などがいる。</j>
+<e type="trans" ver="1">The other participants in the translation work were Genjo ISHIKAWA, whose name appeared in the preface of Kaitai Shinsho, as well as Shoen KARASUYAMA, Shotetsu KIRIYAMA, Shuntai MINE and so on.</e>
+<cmt>「烏山松圓」の読み方不明。</cmt>
+<e type="trans" ver="2">The other participants in the translation work were Genjo ISHIKAWA, whose name appeared in the preface of Kaitai Shinsho, as well as Shoen KARASUYAMA, whose name appeared in &quot;Rangaku Kotohajime,&quot; Shotetsu KIRIYAMA, Shuntai MINE and so on.</e>
+<cmt>翻訳を一部追加しました。</cmt>
+<e type="check" ver="1">The other participants in the translation work were Genjo ISHIKAWA, whose name appeared in the preface of Kaitai Shinsho, as well as Shoen KARASUYAMA, whose name appeared in &quot;Rangaku Kotohajime,&quot; Shotetsu KIRIYAMA, Shuntai MINE and so on.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="41">
+<j>吉雄耕牛（吉雄永章）はオランダ語通詞。</j>
+<e type="trans" ver="1">Kogyu YOSHIO (Eisho YOSHIO) was an interpreter of Dutch.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kogyu YOSHIO (Eisho YOSHIO) was an interpreter of Dutch.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kogyu YOSHIO (Eisho YOSHIO) was an interpreter of Dutch.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="42">
+<j>『解体新書』序文を書き、この書が良沢と玄白の力作であると賞揚している。</j>
+<e type="trans" ver="1">He was a writer of the preface in &quot;Kaitai Shinsho&quot; where he praised this book as a painstaking work of Ryotaku MAENO and Genpaku SUGITA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was a writer of the preface in &quot;Kaitai Shinsho&quot; where he praised this book as a painstaking work of Ryotaku MAENO and Genpaku SUGITA.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was a writer of the preface in &quot;Kaitai Shinsho&quot; where he praised this book as a painstaking work of Ryotaku MAENO and Genpaku SUGITA.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="43">
+<j>平賀源内は、安永3年正月に杉田玄白宅を訪問。</j>
+<e type="trans" ver="1">Gennai HIRAGA visited the house of Genpaku SUGITA on February 11, 1774.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gennai HIRAGA visited the house of Genpaku SUGITA on February 11, 1774.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gennai HIRAGA visited the house of Genpaku SUGITA on February 11, 1774.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>『解体新書』の本文の翻訳がほぼ完成し、解剖図の画家を捜していることを知らされた際、小田野直武を紹介した。</j>
+<e type="trans" ver="1">Gennai HIRAGA, who was told that the translation of the text of &quot;Kaitai Shinsho&quot; was almost completed and a painter was being scouted for anatomical drawings, introduced Naotake ODANO to Genpaku SUGITA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gennai HIRAGA, who was told that the translation of the text of &quot;Kaitai Shinsho&quot; was almost completed and a painter was being scouted for anatomical drawings, introduced Naotake ODANO to Genpaku SUGITA.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gennai HIRAGA, who was told that the translation of the text of &quot;Kaitai Shinsho&quot; was almost completed and a painter was being scouted for anatomical drawings, introduced Naotake ODANO to Genpaku SUGITA.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="45">
+<j>小田野直武は秋田藩角館の武士、画家。</j>
+<e type="trans" ver="1">Naotake ODANO, a painter, was a samurai (a warrior) of Kakunodate, Akita Domain.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Naotake ODANO, a painter, was a samurai (a warrior) of Kakunodate, Akita Domain.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Naotake ODANO, a painter, was a samurai (a warrior) of Kakunodate, Akita Domain.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>平賀源内の紹介で『解体新書』の図版の原画を描くことになった。</j>
+<e type="trans" ver="1">Through the introduction of Gennai HIRAGA, Naotake ODANO was designated to draw original pictures of pictorial cut of &quot;Kaitai Shinsho.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Through the introduction of Gennai HIRAGA, Naotake ODANO was designated to draw original pictures of pictorial cut of &quot;Kaitai Shinsho.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Through the introduction of Gennai HIRAGA, Naotake ODANO was designated to draw original pictures of pictorial cut of &quot;Kaitai Shinsho.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="47">
+<j>『解体新書』の開版まで半年という短期間に、江戸での最初の仕事で、しかも日本学術史上記録的な仕事を成し遂げた。</j>
+<e type="trans" ver="1">Within such a short period as only a half year before publishing &quot;Kaitai Shinsho,&quot; Naotake ODANO accomplished his first work in Edo City which became a monumental work in the history of Japanese arts and sciences.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Within such a short period as only a half year before publishing &quot;Kaitai Shinsho,&quot; Naotake ODANO accomplished his first work in Edo which became a monumental work in the history of Japanese arts and sciences.</e>
+<cmt>City を削除しました。</cmt>
+<e type="check" ver="1">Within such a short period as only a half year before publishing &quot;Kaitai Shinsho,&quot; Naotake ODANO accomplished his first work in Edo which became a monumental work in the history of Japanese arts and sciences.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="48">
+<j>『解体新書』の内容</j>
+<e type="trans" ver="1">Contents of &quot;Kaitai Shinsho&quot;:</e>
+<cmt></cmt>
+<e type="trans" ver="2">Contents of &quot;Kaitai Shinsho&quot;</e>
+<cmt>コロンを削除しました。</cmt>
+<e type="check" ver="1">Contents of &quot;Kaitai Shinsho&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="49">
+<j>『解体新書』は一般に『ターヘル・アナトミア』の翻訳書と言われているが、それ以外にも『トンミュス解体書』『ブランカール解体書』『カスパル解体書』『コイテル解体書』『アンブル外科書解体篇』『ヘスリンキース解体書』『パルヘイン解体書』『バルシトス解体書』『ミスケル解体書』などが参考にされている。</j>
+<e type="trans" ver="1">&quot;Kaitai Shinsho&quot; is generally understood as a translation of &quot;Ontleedkundige Tafelen,&quot; but it had referred also to &quot;Tonmyusu Kaitaisho,&quot; &quot;Anburu Gekasho Kaitai-hen,&quot; &quot;Hesurinki-su Kaitaisho,&quot; &quot;Paruhein Kaitaisho,&quot; &quot;Parushitosu Kaitaisho,&quot; &quot;Misukeru Kaitaisho,&quot; and so on.</e>
+<cmt>一原文一訳文の例外対処：　下記書名の対訳不明；　『トンミュス解体書』『ブランカール解体書』『カスパル解体書』『コイテル解体書』『アんブル外科書解体篇』『ヘスリンキース解体書』『パルヘイン解体書』『バルシトス解体書』『ミスケル解体書』</cmt>
+<e type="trans" ver="2">&quot;Kaitai Shinsho&quot; is generally understood as a translation of &quot;Ontleedkundige Tafelen,&quot; but it had referred also to &quot;Thomas Kaitaisho&quot; (Book of Anatomy by Thomas BARTHOLIN), &quot;Blankaart Kaitaisho&quot; (Book of Anatomy by Steven BLANKAART), &quot;Caspar Kaitaisho&quot; (Book of Anatomy by Caspar SCHAMBERGER), &quot;Coiter Kaitaisho&quot; (Book of Anatomy by Volcher COITER), &quot;Ambroise Gekasho Kaitai-hen&quot; (Book of Surgery and Anatomy by Ambroise PARÉ), &quot;Veslingius Kaitaisho&quot; (Book of Anatomy by Johann VESLING), &quot;Palfijn Kaitaisho&quot; (Book of Anatomy by Jan PALFIJN), &quot;Barushitosu Kaitaisho,&quot; &quot;Miskell Kaitaisho&quot; (Book of Anatomy by MISKELL) and so on.</e>
+<cmt>バルシトス　のみスペルが不明でしたので、Barushitosu と表記しております。</cmt>
+<e type="check" ver="1">&quot;Kaitai Shinsho&quot; is generally understood as a translation of &quot;Ontleedkundige Tafelen,&quot; but it had referred also to &quot;Thomas Kaitaisho&quot; (Book of Anatomy by Thomas BARTHOLIN), &quot;Blankaart Kaitaisho&quot; (Book of Anatomy by Steven BLANKAART), &quot;Caspar Kaitaisho&quot; (Book of Anatomy by Caspar SCHAMBERGER), &quot;Coiter Kaitaisho&quot; (Book of Anatomy by Volcher COITER), &quot;Ambroise Gekasho Kaitai-hen&quot; (Book of Surgery and Anatomy by Ambroise PARÉ), &quot;Veslingius Kaitaisho&quot; (Book of Anatomy by Johann VESLING), &quot;Palfijn Kaitaisho&quot; (Book of Anatomy by Jan PALFIJN), &quot;Barushitosu Kaitaisho,&quot; &quot;Miskell Kaitaisho&quot; (Book of Anatomy by MISKELL) and so on.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>表紙は『ワルエルダ解剖書』から採られている。</j>
+<e type="trans" ver="1">The front cover of &quot;Kaitai Shinsho&quot; was designed in imitation of &quot;Warueruda Kaibosho.&quot;</e>
+<cmt>一原文一訳文の例外対処：　『ワルエルダ解剖書』の対訳不明</cmt>
+<e type="trans" ver="2">The front cover of &quot;Kaitai Shinsho&quot; was designed in imitation of &quot;Valverde Kaibosho&quot; (Book of Anatomy by Juan Valverde de Hamusco).</e>
+<cmt>ワルエイダ　スペルを修正しました。</cmt>
+<e type="check" ver="1">The front cover of &quot;Kaitai Shinsho&quot; was designed in imitation of &quot;Valverde Kaibosho&quot; (Book of Anatomy by Juan Valverde de Hamusco).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="51">
+<j>また和漢の説も引かれている。</j>
+<e type="trans" ver="1">It also referred to some principles of Japanese and Chinese medicines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It also referred to some principles of Japanese and Chinese medicines.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It also referred to some principles of Japanese and Chinese medicines.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="52">
+<j>各所に「翼按ずるに」と注釈がつけられている（「翼」は杉田玄白の本名）ことからも、単純な逐語訳ではなく、杉田玄白らの手によって再構成された書であると言える。</j>
+<e type="trans" ver="1">Considering of such annotations seen everywhere in it as &quot;Tasuku considers as・・・&quot; (&quot;Tasuku&quot; was the real name of Genpaku SUGITA), this &quot;Kaitai Shinsho&quot; may not be regarded as a simple translation but as a book reconfigured by Genpaku SUGITA and others.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Considering of such annotations seen everywhere in it as &apos;Tasuku considers this as…&apos; (&apos;Tasuku&apos; was the real name of Genpaku SUGITA), this &quot;Kaitai Shinsho&quot; may not be regarded as a simple translation but as a book reconfigured by Genpaku SUGITA and others.</e>
+<cmt>&quot;→ &apos;　としました。</cmt>
+<e type="check" ver="1">Considering of such annotations seen everywhere in it as &apos;Tasuku considers this as…&apos; (&apos;Tasuku&apos; was the real name of Genpaku SUGITA), this &quot;Kaitai Shinsho&quot; may not be regarded as a simple translation but as a book reconfigured by Genpaku SUGITA and others.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="53">
+<j>本文は4巻に分かれている。</j>
+<e type="trans" ver="1">The text was divided into four books.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The text was divided into four books.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The text was divided into four books.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>それぞれの内容は以下の通り。</j>
+<e type="trans" ver="1">The content of each book was as follows:</e>
+<cmt></cmt>
+<e type="trans" ver="2">The content of each book was as follows:</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The content of each book was as follows:</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="55">
+<j>巻の一</j>
+<e type="trans" ver="1">Book No.1</e>
+<cmt></cmt>
+<e type="trans" ver="2">Book No.1</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Book No.1</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>総論、形態・名称、からだの要素、骨格・関節総論、骨格・関節各論</j>
+<e type="trans" ver="1">General statement, Formations and Names, Elements of a Body, General Statement for Skeleton and Articulation, and Details on Skeleton and Articulation:</e>
+<cmt></cmt>
+<e type="trans" ver="2">General statement, Formations and Names, Elements of a Body, General Statement for Skeleton and Articulation, and Details on Skeleton and Articulation:</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">General statement, Formations and Names, Elements of a Body, General Statement for Skeleton and Articulation, and Details on Skeleton and Articulation:</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="57">
+<j>巻の二</j>
+<e type="trans" ver="1">Book No.2:</e>
+<cmt></cmt>
+<e type="trans" ver="2">Book No.2</e>
+<cmt>コロンを削除しました。</cmt>
+<e type="check" ver="1">Book No.2</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>頭、口、脳・神経、目、耳、鼻、舌</j>
+<e type="trans" ver="1">Head, Mouth, Brain and Nerves, Eyes, Ears, Nose, and Tongue:</e>
+<cmt></cmt>
+<e type="trans" ver="2">Head, Mouth, Brain and Nerves, Eyes, Ears, Nose, and Tongue:</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Head, Mouth, Brain and Nerves, Eyes, Ears, Nose, and Tongue:</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>巻の三</j>
+<e type="trans" ver="1">Book No.3</e>
+<cmt></cmt>
+<e type="trans" ver="2">Book No.3</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Book No.3</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="60">
+<j>胸・隔膜、肺、心臓、動脈、静脈、門脈、腹、腸・胃、腸間膜・乳糜管、膵臓</j>
+<e type="trans" ver="1">Chest and Diaphragm, Lungs, Heart, Artery, Vein, Portal Vein, Abdomen, Gut and Stomach, Mesentery and Chyle Vessel, and Pancreas:</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chest and Diaphragm, Lungs, Heart, Artery, Vein, Portal Vein, Abdomen, Gut and Stomach, Mesentery and Chyle Vessel, and Pancreas:</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chest and Diaphragm, Lungs, Heart, Artery, Vein, Portal Vein, Abdomen, Gut and Stomach, Mesentery and Chyle Vessel, and Pancreas:</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="61">
+<j>巻の四</j>
+<e type="trans" ver="1">Book No.4</e>
+<cmt></cmt>
+<e type="trans" ver="2">Book No.4</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Book No.4</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="62">
+<j>脾臓、肝臓・胆嚢、腎臓・膀胱、生殖器、妊娠、筋肉</j>
+<e type="trans" ver="1">Spleens, Livers and Gallblooders, Kidneys and Bladders, Reproductive Organs, Pregnancy, and Mustle:</e>
+<cmt></cmt>
+<e type="trans" ver="2">Spleens, Livers and Gallbladders, Kidneys and Bladders, Reproductive Organs, Pregnancy, and muscle:</e>
+<cmt>スペルを修正しました。</cmt>
+<e type="check" ver="1">Spleens, Livers and Gallbladders, Kidneys and Bladders, Reproductive Organs, Pregnancy, and muscle:</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>図は別に1冊にまとめられている。</j>
+<e type="trans" ver="1">Drawings were put together in an separate book.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Drawings were put together in an separate book.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Drawings were put together in an separate book.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="64">
+<j>影響・その後</j>
+<e type="trans" ver="1">Subsequent Influence and Development:</e>
+<cmt></cmt>
+<e type="trans" ver="2">Subsequent influence and development</e>
+<cmt>コロンを削除しました。</cmt>
+<e type="check" ver="1">Subsequent influence and development</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="65">
+<j>『解体新書』刊行後、医学が発展したことはもちろんであるが、オランダ語の理解が進み、鎖国下の日本において西洋の文物を理解する下地ができたことは重要である。</j>
+<e type="trans" ver="1">Afrer publishing &quot;Kaitai Shinsho,&quot; development of medical science was achieved, needless to say, and also it is important to acknowledge that comprehension of Dutch language made an enough advancement and formed a foundation for the people to understand products of Western culture in Japan under seclusion policy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is important to acknowledge that, after the publication of &quot;Kaitai Shinsho,&quot; the medical science not only achieved, but also advancement in the comprehension of Dutch language was made significantly, which formed a foundation for the people to understand materials of Western culture in Japan under seclusion policy.</e>
+<cmt>publishing→ publication としました。表現を一部変更しました。</cmt>
+<e type="check" ver="1">It is important to acknowledge that, after the publication of &quot;Kaitai Shinsho,&quot; the medical science not only achieved, but also advancement in the comprehension of Dutch language was made significantly, which formed a foundation for the people to understand materials of Western culture in Japan under seclusion policy.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="66">
+<j>また大槻玄沢などの人材が育つ契機ともなった。</j>
+<e type="trans" ver="1">Furthermore, it gave a chance to foster human resources such as Gentaku OTSUKI.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, it gave a chance to foster human resources such as Gentaku OTSUKI.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Furthermore, it gave a chance to foster human resources such as Gentaku OTSUKI.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="67">
+<j>翻訳の際に「神経」「軟骨」「動脈」「処女膜」などの語が作られ、それは今日でも使われている。</j>
+<e type="trans" ver="1">During its translation work, several new words were created, like &quot;shinkei&quot; (nerve), &quot;nankotsu&quot; (cartilage), &quot;domyaku&quot; (artery), &quot;shojomaku&quot; (hymen) and so on, all of which are still used today.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During its translation work, several new words were created, like &apos;shinkei&apos; (nerve), &apos;nankotsu&apos; (cartilage), &apos;domyaku&apos; (artery), &apos;shojomaku&apos; (hymen) and so on, all of which are still used today.</e>
+<cmt>&quot;→ &apos;　としました。</cmt>
+<e type="check" ver="1">During its translation work, several new words were created, like &apos;shinkei&apos; (nerve), &apos;nankotsu&apos; (cartilage), &apos;domyaku&apos; (artery), &apos;shojomaku&apos; (hymen) and so on, all of which are still used today.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="68">
+<j>最初の翻訳という性質上仕方ないことであるが、『解体新書』には誤訳も多かったため、のちに大槻玄沢が訳し直し、『重訂解体新書』を文政9年（1826年）に刊行した。</j>
+<e type="trans" ver="1">Not a few mistranslation was found in &quot;Kaitai Shinsho&quot; though it was naturally unavoidable in any attempt of new translation, so that Gentaku OTSUKI subsequently retranslated it and published &quot;Jutei Kaitai Shinsho&quot; (re-revised Kaitai Shinsho) in 1826.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Not a few mistranslation was found in &quot;Kaitai Shinsho&quot; although it was naturally unavoidable in any attempt of new translation, so that Gentaku OTSUKI subsequently retranslated it and published &quot;Jutei Kaitai Shinsho&quot; (re-revised Kaitai Shinsho) in 1826.</e>
+<cmt>though →although としました。</cmt>
+<e type="check" ver="1">Not a few mistranslation was found in &quot;Kaitai Shinsho&quot; although it was naturally unavoidable in any attempt of new translation, so that Gentaku OTSUKI subsequently retranslated it and published &quot;Jutei Kaitai Shinsho&quot; (re-revised Kaitai Shinsho) in 1826.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="69">
+<j>杉田玄白は晩年に、『解体新書』翻訳のときの様子を『蘭学事始』に記している。</j>
+<e type="trans" ver="1">Genpaku SUGITA in his later years wrote in &quot;Rangaku Koto Hajime&quot; (The beginning of Dutch studies) on the circumstances and the way in which &quot;Kaitai Shinsho&quot; had been translated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Genpaku SUGITA in his later years wrote in &quot;Rangaku Kotohajime&quot; on the circumstances and the way in which &quot;Kaitai Shinsho&quot; had been translated.</e>
+<cmt>既出単語の補足を削除しました。</cmt>
+<e type="check" ver="1">Genpaku SUGITA in his later years wrote in &quot;Rangaku Kotohajime&quot; on the circumstances and the way in which &quot;Kaitai Shinsho&quot; had been translated.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="70">
+<j>転語</j>
+<e type="trans" ver="1">Converted words:</e>
+<cmt></cmt>
+<e type="trans" ver="2">Converted words</e>
+<cmt>コロンを削除しました。</cmt>
+<e type="check" ver="1">Converted words</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="71">
+<j>転じて、「○○について解説した本」として「解体新書」という言葉使われることがある。</j>
+<e type="trans" ver="1">The term &quot;Kaitai Shinsho&quot; has sometimes been converted to mean &quot;a book to explain about something.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The term &apos;Kaitai Shinsho&apos; has sometimes been converted to mean &apos;a book to explain about something.&apos;</e>
+<cmt>&quot;→ &apos;　としました。</cmt>
+<e type="check" ver="1">The term &apos;Kaitai Shinsho&apos; has sometimes been converted to mean &apos;a book to explain about something.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="72">
+<j>一般向け解説書や、漫画やアニメを研究したいわゆる謎本、テレビの知的バラエティ番組などによく使われる。</j>
+<e type="trans" ver="1">Also, this term has often been used in the sense of an instruction manual for the public, an explanatory book to unriddle mysterious background of cartoons and animations, an intellectural variety show on Television, and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, this term has often been used in the sense of an instruction manual for the public, an explanatory book to unriddle mysterious background of cartoons and animations, an intellectual variety show on Television, and so on.</e>
+<cmt>スペルを修正しました。</cmt>
+<e type="check" ver="1">Also, this term has often been used in the sense of an instruction manual for the public, an explanatory book to unriddle mysterious background of cartoons and animations, an intellectual variety show on Television, and so on.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="73">
+<j>例：『所さんの20世紀解体新書』『モノづくり解体新書』『セックス神話解体新書』『デビルマン解体新書』など。</j>
+<e type="trans" ver="1">Some examples are &quot;Tokoro-san no 20-seiki Kaitai Shinsho&quot;(a TV show titled &quot;20th Century Stories&quot; presided over by George TOKORO, reviewing Japanese popular cartoon characters of 20th century like &quot;Invader&quot; &quot;Ultra-man&quot; and so on), &quot;Monozukuri Kaitai Shinsho&quot; (an explanatory book on how various ordinary items are fabricated), &quot;Sex Shinwa Kaitai Shinsho&quot; (a commentary on sex mythologies), &quot;Devilman Kaitai Shinsho&quot; (an instruction manual to unriddle mysteries of a cartoon series Devilman), and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some examples are &quot;Tokoro-san no 20-seiki Kaitai Shinsho&quot; (a TV show titled &quot;20th Century Stories&quot; presided over by George TOKORO, reviewing Japanese popular cartoon characters of 20th century like &quot;Invader,&quot; &quot;Ultra-man&quot; and so on), &quot;Monozukuri Kaitai Shinsho&quot; (an explanatory book on how various ordinary items are fabricated), &quot;Sex Shinwa Kaitai Shinsho&quot; (a commentary on sex mythologies), &quot;Devilman Kaitai Shinsho&quot; (an instruction manual to unriddle mysteries of a cartoon series Devilman), and so on.</e>
+<cmt>カンマを一箇所追加しました。</cmt>
+<e type="check" ver="1">Some examples are &quot;Tokoro-san no 20-seiki Kaitai Shinsho&quot; (a TV show titled &quot;20th Century Stories&quot; presided over by George TOKORO, reviewing Japanese popular cartoon characters of 20th century like &quot;Invader,&quot; &quot;Ultra-man&quot; and so on), &quot;Monozukuri Kaitai Shinsho&quot; (an explanatory book on how various ordinary items are fabricated), &quot;Sex Shinwa Kaitai Shinsho&quot; (a commentary on sex mythologies), &quot;Devilman Kaitai Shinsho&quot; (an instruction manual to unriddle mysteries of a cartoon series Devilman), and so on.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Izayohi(id:13095), Straysheep(id:42448), Raad(id:4918), 必殺口出し鉄五郎(id:9911), K66星雲(id:16609), 経済準学士(id:22656), アイザール(id:133157), Moritaku1105(id:210208), Greenland4(id:114494), Shinkansen(id:13703), Adan(id:9884), VolkovBot(id:105371), SilvonenBot(id:190970), Ultrasleeper2(id:26296), 本屋(id:125948), Ellery(id:31652), 江戸ラー(id:30154), Number4(id:205983), Babi Hijau(id:40709), 210.(id:9838), ヤマト消化器(id:193712), Ｋｓ(id:15319), SieBot(id:126695), アト(id:193073), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

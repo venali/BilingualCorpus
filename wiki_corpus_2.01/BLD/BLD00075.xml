@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>円山公園 (京都府)</j>
+<e type="trans" ver="1">Maruyama-koen Park</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maruyama-koen Park</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maruyama-koen Park</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>円山公園（まるやまこうえん）は、京都府京都市東山区にある公園。</j>
+<e type="trans" ver="1">Maruyama-koen is a park located in Higashi Ward, Kyoto City, Kyoto Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maruyama-koen is a park located in Higashi Ward, Kyoto City, Kyoto Prefecture.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maruyama-koen is a park located in Higashiyama Ward, Kyoto City, Kyoto Prefecture.</e>
+<cmt>Higashi Ward→Higashiyama Wardに訂正</cmt>
+</sen>
+<sen id="2">
+<j>国指定名勝。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is designated as the National Site of Scenic Beauty.</e>
+<cmt>訳抜け</cmt>
+</sen>
+<sen id="3">
+<j>園域は八坂神社、知恩院に隣接する。</j>
+<e type="trans" ver="1">It lies next to Yasaka-jinja Shrine and Chion-in Temple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It lies next to Yasaka-jinja Shrine and Chion-in Temple.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It lies next to Yasaka-jinja Shrine and Chion-in Temple.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>もとは八坂神社の境内で現在の園地計画は武田五一がまとめ、園内にある回遊式の日本庭園は小川治兵衛が作庭、野外音楽堂や坂本龍馬と中岡慎太郎の銅像などもあり、「祇園枝垂桜」に代表される桜の名所である。</j>
+<e type="trans" ver="1">It was originally part of the precincts of Yasaka-jinja Shrine, with its park building plan made by Goichi TAKEDA, and it has an circuit style garden built by Jibe OGAWA, an outdoor music hall, statues of Ryoma SAKAMOTO and Shintaro NAKAOKA, and a scenic spot famous for its cherry trees called &quot;Gion weeping cherry trees.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was originally part of the precincts of Yasaka-jinja Shrine, with the plan of the park made by Goichi TAKEDA, and it has a circuit style garden built by Jibe OGAWA, an outdoor music hall, statues of Ryoma SAKAMOTO and Shintaro NAKAOKA, and a scenic spot famous for its cherry trees called &quot;Gion weeping cherry trees.&quot;</e>
+<cmt>「its park building plan」→「the plan of the park」</cmt>
+<e type="check" ver="1">It was originally part of the precincts of Yasaka-jinja Shrine, with the plan of the park made by Goichi TAKEDA, and it has a circuit style garden built by Jibe OGAWA, an outdoor music hall, statues of Ryoma SAKAMOTO and Shintaro NAKAOKA, and a scenic spot famous for its cherry trees called &apos;Gion weeping cherry trees.&apos;</e>
+<cmt>原文に合わせシングルクォーテーションに変更</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>交通</j>
+<e type="trans" ver="1">Access</e>
+<cmt></cmt>
+<e type="trans" ver="2">Access</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Access</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>阪急京都本線 河原町駅　徒歩15分</j>
+<e type="trans" ver="1">From Kawaramachi Station of Hankyu Railway Kyoto Line, it is 15 minutes on foot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Kawaramachi Station on the Hankyu Railway Kyoto Line it is 15 minutes on foot.</e>
+<cmt>「of」→「on the」, 「,」削除</cmt>
+<e type="check" ver="1">15 minutes on foot from Kawaramachi Station on the Hankyu Railway Kyoto Line</e>
+<cmt>原文に合わせピリオド削除、および一部文章を修正しました。</cmt>
+</sen>
+<sen id="6">
+<j>京阪電気鉄道京阪本線 四条駅　徒歩10分</j>
+<e type="trans" ver="1">From Shijo Station of Keihan Electric Railway Keihan Main Line, it is ten minutes on foot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Shijo Station on the Keihan Electric Railway Keihan Main Line it is ten minutes on foot.</e>
+<cmt>「of」→「on the」, 「,」削除</cmt>
+<e type="check" ver="1">10 minutes on foot from Shijo Station on the Keihan Electric Railway Keihan Main Line</e>
+<cmt>原文に合わせピリオド削除、および一部文章を修正しました。</cmt>
+</sen>
+<sen id="7">
+<j>京都市営地下鉄東西線 東山駅　徒歩10分</j>
+<e type="trans" ver="1">From Higashiyama Station of Kyoto City Subway Tozai Line, it is ten minutes on foot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Higashiyama Station on the Kyoto City Subway Tozai Line it is ten minutes on foot.</e>
+<cmt>「of」→「on the」, 「,」削除</cmt>
+<e type="check" ver="1">10 minutes on foot from Higashiyama Station on the Kyoto City Subway Tozai Line</e>
+<cmt>原文に合わせピリオド削除、および一部文章を修正しました。</cmt>
+</sen>
+<sen id="8">
+<j>京都市営バス 祇園　徒歩5分</j>
+<e type="trans" ver="1">From Gion bus stop of Kyoto City Bus, it is five minutes on foot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Gion bus stop, served by the Kyoto City Bus, it is five minutes on foot.</e>
+<cmt>「of」→「, served by the」</cmt>
+<e type="check" ver="1">Five minutes on foot from Gion bus stop, served by the Kyoto City Bus</e>
+<cmt>原文に合わせピリオド削除、および一部文章を修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="9">
+<j>同名の公園</j>
+<e type="trans" ver="1">Another park with the same name.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Another park with the same name.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Another Park with the Same Name</e>
+<cmt>頭文字を大文字に変更、ピリオド削除</cmt>
+</sen>
+<sen id="10">
+<j>円山公園　-　（札幌市中央区）　北海道を代表するお花見スポット。</j>
+<e type="trans" ver="1">Maruyama-koen Part in Chuo Ward, Sapporo City: the most famous cherry blossoms viewing spot in Hokkaido.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maruyama-koen Park in Chuo Ward, Sapporo City: the most famous cherry blossom viewing spot in Hokkaido.</e>
+<cmt>「Part」→「Park」, 「blossoms」→「blossom」</cmt>
+<e type="check" ver="1">Maruyama-koen Park in Chuo Ward, Sapporo City: the most famous cherry blossom viewing spot in Hokkaido.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>毎年4月下旬から5月中旬まで、約200本の染井吉野、八重桜、エゾヤマザクラが花咲く。</j>
+<e type="trans" ver="1">Blossoms of approximately 200 trees of Someiyoshino (Prunus yedoensis), Yaezakura (double-flowered cherry), and Ezoyamazakura (Prunus sargentii) are in bloom from late in April to mid-May every year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The blossoms of approximately 200 trees of Someiyoshino (Prunus yedoensis), Yaezakura (double-flowered cherry), and Ezoyamazakura (Prunus sargentii) are in bloom from late in April to mid-May every year.</e>
+<cmt>「The」挿入</cmt>
+<e type="check" ver="1">The blossoms of approximately 200 trees of Someiyoshino (Prunus yedoensis), Yaezakura (double-flowered cherry), and Ezoyamazakura (Prunus sargentii) are in bloom from late in April to mid-May every year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>なお京都の円山公園をモデルとしている。</j>
+<e type="trans" ver="1">It is modeled after Maruyama-koen Park in Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is modeled after Maruyama-koen Park in Kyoto.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is modeled after Maruyama-koen Park in Kyoto.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 倶楽部オータム(id:139861), 663highland(id:18755), たね(id:10372), Mochi(id:9489), Skink(id:11281), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

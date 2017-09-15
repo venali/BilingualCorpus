@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>平中物語</j>
+<e type="trans" ver="1">Heichumonogatari</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Tale of Heichu</e>
+<cmt>changed the title to match the style of the wiki article &quot;伊勢物語&quot;</cmt>
+<e type="check" ver="1">The Tale of Heichu</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>平中物語（へいちゅうものがたり）は、平安時代に成立した歌物語（平仲物語とも書く）。</j>
+<e type="trans" ver="1">Heichumonogatari is a story told with poems that was established in the Heian period (also written,&quot;平仲物語&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Tale of Heichu (平中物語 or 平仲物語 Heichu monogatari) is a story told through poems that was completed during the Heian period.</e>
+<cmt>&quot;established&quot; not natural here, so I changed it to &quot;completed&quot;; put both kanji readings in parenthesis; fixed grammar</cmt>
+<e type="check" ver="1">Heichu monogatari (The Tale of Heichu) (written 平中物語 or 平仲物語) is a story told through poems that was completed during the Heian period.</e>
+<cmt>表現を一部変更しました。</cmt>
+</sen>
+<sen id="2">
+<j>作者や成立年は不詳。</j>
+<e type="trans" ver="1">The year of establishment and author are unknown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The author and year of completion are unknown.</e>
+<cmt>&quot;establishment&quot; not natural here either, so I changed it to &quot;completion&quot;</cmt>
+<e type="check" ver="1">The author and year of completion are unknown.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>現代に伝えられる伝本は、藤原定家の孫である冷泉為相による古写本1冊しかないという。</j>
+<e type="trans" ver="1">The only existing copy is one that was copied by Tamesou REIZEI, a grandson of FUJIWARA no Sadaka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The only existing copy is a reprint made by Tamesou REIZEI, a grandson of FUJIWARA no Sadaka.</e>
+<cmt>&quot;copy&quot; followed by &quot;copied&quot; sounds redundant, so I changed the latter to &quot;reprint&quot; and fixed the grammar accordingly</cmt>
+<e type="check" ver="1">The only existing copy is a reprint made by Tamesuke REIZEI, a grandson of FUJIWARA no Teika.</e>
+<cmt>人名の読みを修正しました。</cmt>
+</sen>
+<sen id="4">
+<j>主人公の「平中」は、平安時代中期の歌人、平貞文（たいらのさだふみ又はさだぶん）。</j>
+<e type="trans" ver="1">The main character &quot;Heichu&quot; is the mid-Heian period poet, TAIRA no Sadabumi (or Sadabun).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The main character, &quot;Heichu,&quot; is a mid-Heian period poet named TAIRA no Sadabumi (or Sadabun).</e>
+<cmt>edited for flow</cmt>
+<e type="check" ver="1">The main character, &apos;Heichu,&apos; is a mid-Heian period poet named TAIRA no Sadabumi (or Sadabun).</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+<sen id="5">
+<j>『伊勢物語』の影響が大きい作品であるが伊勢物語に比べ地文が多いという。</j>
+<e type="trans" ver="1">It is heavily influenced by &quot;Isemonogatari&quot;, but has more main text compared to Isemonogatari.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The story was greatly influenced by &quot;The Tales of Ise&quot; (Ise monogatari), but has a comparatively longer main text.</e>
+<cmt>heavily→greatly; gave translated version of &quot;Isemonogatari&quot; and added parenthesis; fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">The story was greatly influenced by &quot;Ise monogatari&quot; (The Tales of Ise), but has a comparatively longer main text.</e>
+<cmt>&quot;本のタイトル &quot; (補足)　の表現に変更しました。</cmt>
+</sen>
+<sen id="6">
+<j>角川文庫、日本古典文学全集所収。</j>
+<e type="trans" ver="1">Available as part of Kadokawa-bunko or the Complete Japanese Classic Collection.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Available as part of the Kadokawa Book Collection or the Complete Japanese Classic Collection.</e>
+<cmt>changed &quot;-bunko&quot; to &quot;Book Collection&quot;</cmt>
+<e type="check" ver="1">Available as part of the Kadokawa Bunko books or in the Nihon Koten Bungaku Zenshu (The Collections of Japanese Classical Literature).</e>
+<cmt>角川文庫は固有名詞ですので、再度追加しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 SK(id:64397), さららゆら(id:12274), Papamaruchan22(id:71152), 頭痛(id:201680), Nevylax(id:38464), Nighthawks(id:36125), Shimoxx(id:9332), 黒砂糖(id:38164), 榎(id:91458), Flatbarker(id:119836), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

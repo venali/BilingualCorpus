@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>和知駅</j>
+<e type="trans" ver="1">Wachi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wachi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Wachi Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>和知駅（わちえき）は、京都府船井郡京丹波町本庄馬場19番地1にある、西日本旅客鉄道（JR西日本）山陰本線の鉄道駅。</j>
+<e type="trans" ver="1">Located at 19-1 Honjo Baba, Kyotanba-cho, Funai-gun, Kyoto Prefecture, Wachi Station is a stop on the San&apos;in Main Line of the West Japan Railway Company (JR West).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wachi Station, located at 19-1 Honjo Baba, Kyotanba-cho, Funai-gun, Kyoto Prefecture, is a stop on the San&apos;in Main Line of the West Japan Railway Company (JR West).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Wachi Station, located at 19-1 Honjo Baba, Kyotanba-cho, Funai-gun, Kyoto Prefecture, is a stop on the Sanin Main Line of the West Japan Railway Company (JR West).</e>
+<cmt>sanin としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>通勤利用客向けに、朝夕には下記の特急列車が停車する。</j>
+<e type="trans" ver="1">During the commuter rush hours in the morning and the early evening, the following limited express trains stop at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following limited express trains stop at this station during the commuter rush hours in the morning and early evening:</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The following limited express trains stop at this station during the commuter rush hours in the morning and early evening:</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="3">
+<j>上り　「たんば (列車)」2号・4号、「はしだて (列車)」2号、「まいづる (列車)」2号</j>
+<e type="trans" ver="1">Inbound train : Limited Express &quot;Tanba&quot; #2, #4, &quot;Hashidate&quot; #2, &quot;Maizuru&quot; #2</e>
+<cmt></cmt>
+<e type="trans" ver="2">Inbound train: Limited Express &quot;Tanba&quot; No. 2, No. 4, &quot;Hashidate&quot; No. 2, &quot;Maizuru&quot; No. 2</e>
+<cmt>sp</cmt>
+<e type="check" ver="1">Inbound train: Limited Express &apos;Tanba&apos; No. 2 and No. 4, &apos;Hashidate&apos; No. 2, &apos;Maizuru&apos; No. 2</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+<sen id="4">
+<j>下り　「たんば」7号・9号、「まいづる」11号</j>
+<e type="trans" ver="1">Outbound train : Limited Express &quot;Tanba&quot; #7, #9, &quot;Maizuru&quot; #11</e>
+<cmt></cmt>
+<e type="trans" ver="2">Outbound train: Limited Express &quot;Tanba&quot; No. 7, No. 9, &quot;Maizuru&quot; No. 11</e>
+<cmt>sp</cmt>
+<e type="check" ver="1">Outbound train: Limited Express &apos;Tanba&apos; No. 7 and No. 9, &apos;Maizuru&apos; No. 11</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="5">
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station layout</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>単式・島式の複合型2面3線のプラットホームを持つ、行違い設備を備えた地上駅である。</j>
+<e type="trans" ver="1">The station is on the ground, and has complex types (single type and island type) of platforms serving three tracks that run in opposite directions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station, which is on the ground, contains a mix of platform types (single type and island type) serving three tracks that run in opposite directions.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The above-ground station employs a variety of platform types (single type and island type) serving three tracks with facilities that allow trains running in opposite directions to pass each other.</e>
+<cmt>「行き違い設備」の箇所など訳し直しました。NR: Describing a station as being &quot;on the ground&quot; sounds very odd to me. &quot;above ground&quot; would be more natural, I think.</cmt>
+</sen>
+<sen id="7">
+<j>簡易委託駅で売店も営業している。</j>
+<e type="trans" ver="1">It is outsourced station with station kiosk.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an outsourced station with a station kiosk.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">It is an outsourced station with a station kiosk.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>駅舎は単式の1番ホーム側にあり、島式の2・3番ホームへは跨線橋で連絡している。</j>
+<e type="trans" ver="1">The station-house is on the side of the single platform #1 and connected by an overpass to the island type platform #2/#3.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station house is on the side of the single platform No. 1 and connected by an overpass to the island-type Platform 2 and 3.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The station house is on the side of the single platform of track No. 1 and connected by an overpass to the island-type platform of tracks nos. 2 and 3.</e>
+<cmt>platform of track No. xx としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="9">
+<j>園部～綾部間の山陰本線の駅では珍しく、ホームが方向別に分けられている。</j>
+<e type="trans" ver="1">The each platform is used for one direction, that is rare among the stations between Sonobe Station and Ayabe Station on the San&apos;in Main Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The each platform is used for one direction, which is rare among the stations between Sonobe Station and Ayabe Station on the San&apos;in Main Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Each platform is used for one direction, which is rare among the stations between Sonobe Station and Ayabe Station on the Sanin Main Line.</e>
+<cmt>sanin としました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="10">
+<j>駅舎正面左側に町営バス・京タク乗務員事務所あり。</j>
+<e type="trans" ver="1">Crews&apos; offices of the municipal bus services and Kyoto Taxi are on the left front of the station-house.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The crews&apos; offices of the municipal bus services and Kyoto Taxi are on the left side at the front of the station house.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The crews&apos; offices of the municipal bus services and Kyoto Taxi are on the left side at the front of the station house.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="11">
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization situation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Conditions of usage</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>表現を他の記事と統一しました。</cmt>
+</sen>
+<sen id="12">
+<j>2006年度の1日あたりの乗車人員は約195人である。</j>
+<e type="trans" ver="1">Number of usage is about 195 people a day on research in fiscal year 2006.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to research conducted in fiscal year 2006, the station was used by approximately 195 people each day.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">According to research conducted in fiscal year 2006, the station was used by approximately 195 people each day.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>2005年度は202人であった。</j>
+<e type="trans" ver="1">202 people a day on 2005 fiscal year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In fiscal year 2005, the daily usage figure was 202.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In fiscal year 2005, the daily usage figure was 202.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>（京都府統計書より）</j>
+<e type="trans" ver="1">(Statistical data of Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Statistical data of Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(according to the Kyoto Prefecture Statistics Report)</e>
+<cmt>統一しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="15">
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station surroundings</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>京丹波町役場和知支所（旧・和知町役場）</j>
+<e type="trans" ver="1">Wachi branch office of Kyotamba town office (former Wachi town office)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Wachi branch office of Kyotamba town office (formerly the Wachi town office)</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Wachi branch office of Kyotanba Town Hall (formerly the Wachi Town Hall)</e>
+<cmt>town hall としました。</cmt>
+</sen>
+<sen id="17">
+<j>和知郵便局</j>
+<e type="trans" ver="1">Wachi post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Wachi post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Wachi post office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>京都北都信用金庫和知支店</j>
+<e type="trans" ver="1">Wachi Branch of Kyoto Hokuto Shinkin Bank</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Wachi Branch of Kyoto Hokuto Shinkin Bank</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Wachi Branch of Kyoto Hokuto Shinkin Bank</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>国道27号</j>
+<e type="trans" ver="1">Route 27</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 27</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">National Route 27</e>
+<cmt>national route としました。</cmt>
+</sen>
+<sen id="20">
+<j>由良川</j>
+<e type="trans" ver="1">Yura-gawa River</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yura-gawa River</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yura-gawa River</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="21">
+<j>バス</j>
+<e type="trans" ver="1">Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>駅前広場より、京丹波町営バス発着・行先４系統</j>
+<e type="trans" ver="1">Kyotamba municipal bus stop is at the station plaza, there are 4 routes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyotamba municipal bus stop is at the station plaza, and there are four routes.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The Kyotanba municipal bus stop is at the station plaza, and there are four routes.</e>
+<cmt>Kyotanba としました。</cmt>
+</sen>
+<sen id="23">
+<j>朝・昼・夕に南丹市営バス直通便乗り入れ(美山静原行)</j>
+<e type="trans" ver="1">Nantan city bus runs to the station directly morning, noon and evening. (bound for Miyama Shizuhara)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Nantan city bus runs to the station directly during the morning, noon and evening (bound for Miyama Shizuhara).</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The Nantan city bus runs to the station directly during the morning, noon and evening (bound for Miyama Shizuhara).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="24">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>1910年（明治43年）8月25日 - 日本国有鉄道の駅として開業。</j>
+<e type="trans" ver="1">The station opened on August 25, 1910 as a station of Japan National Railways (JNR).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station opened on August 25, 1910 as a facility of Japan National Railways (JNR).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">August 25, 1910: The station opened as a facility of Japan National Railways (JNR).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="26">
+<j>客貨取扱を開始。</j>
+<e type="trans" ver="1">Transport service for passengers and freights was started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Transportation services for passengers and freight was initiated.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Transportation services for passengers and freight was initiated.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="27">
+<j>1973年（昭和48年）3月26日 - 貨物取扱を廃止。</j>
+<e type="trans" ver="1">Freight service was ceased on March 26, 1973.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Freight service ceased on March 26, 1973.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">March 26, 1973: Freight service ceased.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="28">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により、JR西日本の駅となる。</j>
+<e type="trans" ver="1">The station became one of the West Japan Railway Company (JR West) due to the division and privatization of JNR on April 1, 1987.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station became part of the West Japan Railway Company (JR West) due to the division and privatization of JNR on April 1, 1987.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 1987: The station became part of the West Japan Railway Company (JR West) due to the division and privatization of JNR.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="29">
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="30">
+<j>※当駅に一部が停車する特急「たんば (列車)」「はしだて (列車)」「まいづる (列車)」（「はしだて」は上りのみ）の停車駅は各列車記事を参照のこと。</j>
+<e type="trans" ver="1">For each station of the Limited Express Trains &quot;Tanba&quot;, &quot;Hashidate (inbound only)&quot; and &quot;Maizuru,&quot; which stop at this station, refer to the articles about these trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For details on the stations of the limited express trains &quot;Tanba,&quot; &quot;Hashidate (inbound only)&quot; and &quot;Maizuru,&quot; which stop at this station, refer to the articles about those trains.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">* For details on the stations of the limited express trains &apos;Tanba,&apos; &apos;Hashidate (inbound only)&apos; and &apos;Maizuru,&apos; which stop at this station, refer to the articles about those trains.</e>
+<cmt>&quot;→ &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="31">
+<j>西日本旅客鉄道（JR西日本）</j>
+<e type="trans" ver="1">West Japan Railway Company (JR West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>山陰本線</j>
+<e type="trans" ver="1">San&apos;in Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">San&apos;in Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sanin Main Line</e>
+<cmt>sanin としました。</cmt>
+</sen>
+<sen id="33">
+<j>下山駅 (京都府) - 和知駅 - 安栖里駅</j>
+<e type="trans" ver="1">Shimoyama Station (Kyoto Prefecture) - Wachi Station - Aseri Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shimoyama Station (Kyoto Prefecture) - Wachi Station - Aseri Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shimoyama Station (Kyoto Prefecture) - Wachi Station - Aseri Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 城山(id:104901), Hikichimin Jr.(id:147077), Makiharashouten(id:1021), Sat.K(id:3751), Wikipedianet(id:9608), 樒(id:35770), CLUB910(id:24308), Sunen(id:10700), 継之助(id:39352), 炎刃王(id:42651), 金山銀山銅山(id:163855), R28Bot(id:177951), Kone(id:377), Chobot(id:20846), Hirotaro(id:1437), Sprinkler(id:14399), Sea of Japan(id:3230), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

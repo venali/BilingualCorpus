@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>京阪鋼索線</j>
+<e type="trans" ver="1">Keihan Cable Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Keihan Cable Line</e>
+<cmt>「The」挿入</cmt>
+<e type="check" ver="1">The Keihan Cable Line</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>鋼索線（こうさくせん）は、京都府八幡市の八幡市駅から男山山上駅までを結ぶ京阪電気鉄道のケーブルカー。</j>
+<e type="trans" ver="1">Keihan Cable Line is run by Keihan Electric Railway&apos;s cable cars which connects from Yawatashi Station in Yawata City of Kyoto Prefecture to Otokoyama-sanjo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Keihan Cable Line is run by Keihan Electric Railway&apos;s cable cars, and connects Yawatashi Station in Yawata City of Kyoto Prefecture with Otokoyama-sanjo Station.</e>
+<cmt>コンマ挿入、「which connects from」→「and connects」</cmt>
+<e type="check" ver="1">The Keihan Cable Line is run by Keihan Electric Railway&apos;s cable cars, and connects Yawatashi Station in Yawata City of Kyoto Prefecture with Otokoyama-sanjo Station.</e>
+<cmt>Railway‘s→Railway&apos;s</cmt>
+</sen>
+<sen id="2">
+<j>男山ケーブルと呼ばれている。</j>
+<e type="trans" ver="1">It is being called Otokoyama Cable (Railway).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is called Otokoyama Cable Railway.</e>
+<cmt>「being」削除、括弧削除</cmt>
+<e type="check" ver="1">It is called Otokoyama Cable Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>男山の山上にある石清水八幡宮への足で、初詣客で賑わう1月の利用者数が全体の50%を占めている。</j>
+<e type="trans" ver="1">In Otokoyama-sanjo is the Iwashimizu-hachiman-gu Shrine. The number of the crowded passengers paying the New Year&apos;s visit in January accounts for 50% of entire passenger population.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Iwashimizu-hachiman-gu Shrine is in Otokoyama-sanjo, and the crowds of people paying their New Year&apos;s visit to the shrine in January account for 50% of the entire passenger population.</e>
+<cmt>一文に戻して、再構成しました。</cmt>
+<e type="check" ver="1">Iwashimizu-hachiman-gu Shrine is in Otokoyama-sanjo, and the crowds of people paying their New Year&apos;s visit to the shrine in January account for 50% of the entire passenger population.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>正月の多客期は12.6km/h、それ以外の閑散期は8km/hの2速度で運転できるようになっている。</j>
+<e type="trans" ver="1">While the trains are running at 12.6 km/h during the rush season at New Year, in the otherwise slack season, the trains are running at 8km/h.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While the trains run at 12.6 km/h during the New Year rush, in other, slack seasons, they run at 8km/h.</e>
+<cmt>「are running」→「run」、「otherwise slack」→「other, slack」</cmt>
+<e type="check" ver="1">While the trains run at 12.6 km/h during the New Year rush, in other slack seasons, they run at 8 km/h.</e>
+<cmt>in other,の,を削除kmの前にスペース挿入</cmt>
+</sen>
+<sen id="5">
+<j>車両の行き違いは全長111mの大杉谷鉄橋上で行われる。</j>
+<e type="trans" ver="1">Crossing of the carriages is done on the Osugidani Railway Bridge of 111m in total length.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The cars pass each other on the 111 meter long Osugidani Railway Bridge.</e>
+<cmt>再構成しました。「Crossing of the carriages is done」→「The cars pass each other」</cmt>
+<e type="check" ver="1">The cars pass each other on the 111 meter long Osugidani Railway Bridge.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>2001年に京阪鋼索客車が更新され、スルッとKANSAI対応カードが使用可能になった。</j>
+<e type="trans" ver="1">With the carriage renewal of Keihan Cable Line in 2001, it became possible to use Surutto card and other KANSAI compatible cards.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 2001, the cars on the Keihan Cable Line were updated, and it became possible to use the Thru pass and other KANSAI-compatible cards.</e>
+<cmt>再構成しました。「renewal」→「updated」</cmt>
+<e type="check" ver="1">In 2001, the cars on the Keihan Cable Line were updated, and it became possible to use the Kansai Thru compatible cards.</e>
+<cmt>スルっとKANSAIは固有名詞なのでThru pass and other KANSAI-compatible cards→the Kansai Thru compatible cards</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>男山山上駅には改札は無いため、上り下り共に下の八幡市駅で切符の扱いを行う（スルッとKANSAIについてはその時点で差し引かれる）。</j>
+<e type="trans" ver="1">(Concerning Surutto KANSAI, the fare is subtracted at that time.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">As there is no ticket collection at Otokoyama-sanjo Station, tickets are handled at the lower Yawatashi Station for both up and down trains; the fare is subtracted from Kansai Thru passes at this time.</e>
+<cmt>訳抜け。一文に戻した。</cmt>
+<e type="check" ver="1">As there is no ticket collection at Otokoyama-sanjo Station, tickets are handled at the lower Yawatashi Station for both up and down trains; the fare is subtracted from Kansai Thru passes at this time.</e>
+<cmt>スペース削除</cmt>
+</sen>
+<sen id="8">
+<j>金額が足りない場合は鋼索線の八幡市駅で精算することになっている。</j>
+<e type="trans" ver="1">When the fare is insufficient, it is adjusted at Yawatashi Station of the Keihan Cable Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the fare is insufficient, it is adjusted at Yawatashi Station of the Keihan Cable Line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">When the fare is insufficient, it is adjusted at Yawatashi Station of the Keihan Cable Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>なお、京阪電鉄の路線で唯一、PiTaPaが使用できない。</j>
+<e type="trans" ver="1">PiTaPa card cannot be used only in the route of Keihan Electric Railway Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Of the Keihan Electric Railway routes, this is the only one on which the PiTaPa card cannot be used.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">Of the Keihan Electric Railway routes, this is the only one on which the PiTaPa card cannot be used.</e>
+<cmt>スペース削除</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>路線データ</j>
+<e type="trans" ver="1">Route data</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route data</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route data</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="11">
+<j>路線距離（営業キロ）：0.4km</j>
+<e type="trans" ver="1">Route distance (working kilometer): 0.4km</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route distance (kilometers operated): 0.4km</e>
+<cmt>「working kilometers」→ 「kilometers operated」</cmt>
+<e type="check" ver="1">Route distance (kilometers operated): 0.4 km</e>
+<cmt>単位の前にスペース挿入</cmt>
+</sen>
+<sen id="12">
+<j>方式：単線2両交走式</j>
+<e type="trans" ver="1">system: single track with 2 carriages running alternately</e>
+<cmt></cmt>
+<e type="trans" ver="2">system: single track with 2 cars running alternately</e>
+<cmt>「carriages」→「cars」</cmt>
+<e type="check" ver="1">system: single track with 2 cars running alternately</e>
+<cmt>フォント調整</cmt>
+</sen>
+<sen id="13">
+<j>軌間：1067mm</j>
+<e type="trans" ver="1">Track gauge: 1067mm</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track gauge: 1067mm</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Track gauge: 1067 mm</e>
+<cmt>単位の前にスペース挿入</cmt>
+</sen>
+<sen id="14">
+<j>駅数：2駅（起終点駅含む）</j>
+<e type="trans" ver="1">Number of stations: 2 stations (including the origin station and the destination station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Number of stations: 2 stations (including the station of origin and the destination station)</e>
+<cmt>「origin station」→「station of origin」</cmt>
+<e type="check" ver="1">Number of stations: 2 (including the station of origin and the destination station)</e>
+<cmt>&quot;2 stations&quot;→&quot;2&quot;に変更しました。</cmt>
+</sen>
+<sen id="15">
+<j>高低差：82m</j>
+<e type="trans" ver="1">Vertical interval: 82m</e>
+<cmt></cmt>
+<e type="trans" ver="2">Variation in altitude: 82m</e>
+<cmt>「Vertical interval」→「Variation in altitude」</cmt>
+<e type="check" ver="1">Variation in altitude: 82 m</e>
+<cmt>単位の前にスペース挿入</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="16">
+<j>運行形態</j>
+<e type="trans" ver="1">Operation system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operating pattern</e>
+<cmt>「Operation system」→ 「Operating pattern」</cmt>
+<e type="check" ver="1">Operating pattern</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>通常時は30分間隔の運行で、所要時間は約3分。</j>
+<e type="trans" ver="1">During usual running schedule, trains are departing every 30 minutes, with the required time being about 3 minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During normal operation, trains depart every 30 minutes, with about 3 minutes spent in transit.</e>
+<cmt>「usual runing schedule」→「normal operation」、「required time being about 3」→「about 3 minutes spent in transit」</cmt>
+<e type="check" ver="1">During normal operation, trains depart every 30 minutes, with about 3 minutes spent in transit.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>なお、乗客がいる場合に運行される不定期列車を含めると15分間隔である。</j>
+<e type="trans" ver="1">When there is a passenger, including the irregular trains, it is every 15 minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The interval shrinks to 15 minutes when the irregular trains run when there are passengers are included.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The interval shrinks to 15 minutes when the irregular trains run when there are passengers are included.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>大晦日から新年にかけては、終夜運転が行われ、正月三が日には頻発運転が行われる。</j>
+<e type="trans" ver="1">From New Year&apos;s Eve to New Year, the trains are all-night running, with frequent running during the first three days of New Year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The trains run all night long from New Year&apos;s Eve to New Year, and run frequently during the first 3 days of the new year.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The trains run all night long from New Year&apos;s Eve to New Year, and run frequently during the first 3 days of the new year.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="20">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>1926年、男山索道によって開業したのに始まる。</j>
+<e type="trans" ver="1">In 1926, it started running by Otokoyama Cableway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operation of the railway was begun in 1926 by Otokoyama Cableway.</e>
+<cmt>再構成しました。「it started running by」→「Operation of the railway was begun」</cmt>
+<e type="check" ver="1">Operation of the railway was begun in 1926 by Otokoyama Cableway.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>男山鉄道に社名変更後、京阪電気鉄道の子会社となった。</j>
+<e type="trans" ver="1">After the company changed name to Otokoyama Railway, it became a subsidiary company of Keihan Electric Railway Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the company changed its name to Otokoyama Railway, it became a subsidiary company of Keihan Electric Railway Co., Ltd.</e>
+<cmt>「its」挿入</cmt>
+<e type="check" ver="1">After the company changed its name to Otokoyama Railway, it became a subsidiary company of Keihan Electric Railway Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>戦時中の1944年に廃止され資材が供出されるが、戦後の1955年に京阪電気鉄道直営で復活した。</j>
+<e type="trans" ver="1">In 1944 during the war, the railway was abolished with the materials evacuated. However in 1955 postwar, the operation revived with the direct management by Keihan Electric Railway Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1944, during the war, the railway was demolished and its materials collected; however, in 1955, after the war, operation was revived under the direct management of the Keihan Electric Railway Co.</e>
+<cmt>再構成、一文に戻しました。</cmt>
+<e type="check" ver="1">In 1944, during the war, the railway was demolished and its materials collected; however, in 1955, after the war, operation was revived under the direct management of the Keihan Electric Railway Co., Ltd.</e>
+<cmt>, Ltd.補足</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="24">
+<j>1926年（大正15年）6月22日 男山索道が八幡口～男山間を開業。</j>
+<e type="trans" ver="1">On June 22, 1926, Otokoyama Cableway started running between Hachimanguchi and Otokoyama.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On June 22, 1926, Otokoyama Cableway began service between Hachimanguchi and Otokoyama.</e>
+<cmt>「running between」→「began service」</cmt>
+<e type="check" ver="1">June 22, 1926: Otokoyama Cableway began service between Hachimanguchi and Otokoyama.</e>
+<cmt>日付の On を削除し、表記を統一</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="25">
+<j>1928年（昭和3年）5月28日 男山鉄道に社名変更。</j>
+<e type="trans" ver="1">On May 28, 1928, the company changed name to Otokoyama Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On May 28, 1928, the company changed its name to Otokoyama Railway.</e>
+<cmt>「its」挿入</cmt>
+<e type="check" ver="1">May 28, 1928: Tthe company changed its name to Otokoyama Railway.</e>
+<cmt>日付の On を削除し、表記を統一</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="26">
+<j>1929年（昭和4年）8月31日 京阪電気鉄道の子会社となる。</j>
+<e type="trans" ver="1">On August 31, 1929, it became a subsidiary company of Keihan Electric Railway Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On August 31, 1929, it became a subsidiary company of Keihan Electric Railway Co., Ltd.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">August 31, 1929: It became a subsidiary company of Keihan Electric Railway Co., Ltd.</e>
+<cmt>日付の On を削除し、表記を統一</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="27">
+<j>1944年（昭和19年）2月11日 資材供出のため不要不急線として廃止。</j>
+<e type="trans" ver="1">On February 11, 1944, judged as a nonessential line, the railway was abolished with the materials evacuated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On February 11, 1944, the railway was judged to be a nonessential line; it was demolished and its materials were collected.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">February 11, 1944: The railway was judged to be a nonessential line; it was demolished and its materials were collected.</e>
+<cmt>日付の On を削除し、表記を統一</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="28">
+<j>1955年（昭和30年）12月3日 京阪電気鉄道鋼索線として男山（現・八幡市）～八幡宮（現・男山山上）間再開業。</j>
+<e type="trans" ver="1">On December 3, 1955, with the direct management by Keihan Electric Railway Co., Ltd., the running was revived between Otokoyama (present Yawata City) and Hachiman-gu Shrine (present Otokoyama-sanjo).</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 3, 1955, under the direct management of the Keihan Electric Railway Co., Ltd., service was revived between Otokoyama (present Yawata City) and Hachiman-gu Shrine (present Otokoyama-sanjo).</e>
+<cmt>「with the」→「under the」、「the running was」→「service was」</cmt>
+<e type="check" ver="1">December 3, 1955: Under the direct management of the Keihan Electric Railway Co., Ltd., service was revived between Otokoyama (present Yawata City) and Hachiman-gu Shrine (present Otokoyama-sanjo).</e>
+<cmt>日付の On を削除し、表記を統一</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="29">
+<j>2001年（平成13年）7月11日 新車両運転開始。</j>
+<e type="trans" ver="1">On July 11, 2001, new carriages started running.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On July 11, 2001, new cars began running.</e>
+<cmt>「carriages started」→「cars began」</cmt>
+<e type="check" ver="1">July 11, 2001: New cars began running.</e>
+<cmt>日付の On を削除し、表記を統一</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="30">
+<j>駅一覧</j>
+<e type="trans" ver="1">List of stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">List of stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">List of stations</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="31">
+<j>八幡市駅 - 男山山上駅</j>
+<e type="trans" ver="1">Between Yawatashi Station and Otokoyama-sanjo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Yawatashi Station to Otokoyama-sanjo Station</e>
+<cmt>「between」→「from」、「and」→「to」</cmt>
+<e type="check" ver="1">From Yawatashi Station to Otokoyama-sanjo Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="32">
+<j>接続路線</j>
+<e type="trans" ver="1">Connecting route</e>
+<cmt></cmt>
+<e type="trans" ver="2">Connecting route</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Connecting route</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>八幡市駅：京阪本線</j>
+<e type="trans" ver="1">Yawatashi Station: Keihan Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yawatashi Station: Keihan Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yawatashi Station: Keihan Main Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Rusk(id:9895), Bakkai(id:7233), 準急三条(id:25072), Nnh(id:474), Bergmann(id:85282), Nkensei(id:26989), Kzaral(id:66340), Kone(id:377), Mutumi06(id:82739), Mover(id:7146), 210.(id:9838), Utsuda(id:605), Maechan0360(id:40038), 目蒲東急之介(id:34741), Mop(id:12061), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

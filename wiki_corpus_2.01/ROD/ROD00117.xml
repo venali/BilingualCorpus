@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>出水通</j>
+<e type="trans" ver="1">Demizu-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Demizu-dori Street</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Demizu-dori Street</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>出水通（でみずどおり）は京都市の東西の通りの一つ。</j>
+<e type="trans" ver="1">Demizu-dori Street is one of the east and west street in Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Demizu-dori Street is a street running east-west through Kyoto City.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">Demizu-dori Street is a street running east-west through Kyoto City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>烏丸通から西へ、途中京都府庁で中断して七本松通まで。</j>
+<e type="trans" ver="1">This street runs to west from Karasuma-dori Street to Shichihonmatsu-dori street, it stops at Kyoto Prefectural Government on the way.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The street runs westward from Karasuma-dori Street to Shichihonmatsu-dori street, and stops at the Kyoto Prefectural Government building on the way.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">The street runs westward from Karasuma-dori Street to Shichihonmatsu-dori street, and stops at the Kyoto Prefectural Government building on the way.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>市街地中心部を通り、東側では公共機関、西側では寺院が多い。</j>
+<e type="trans" ver="1">It runs through center of the city, there are many public organizations at east side, and temples at west side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It runs through the center of the city, with many public organizations on the east side, and temples on the west side.</e>
+<cmt>Edited for flow</cmt>
+<e type="check" ver="1">It runs through the center of the city, with many public organizations on the east side, and temples on the west side.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>沿道の主な施設</j>
+<e type="trans" ver="1">Main facilities on the street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Main facilities on the street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Main Facilities on the Street</e>
+<cmt>頭文字を大文字に変更</cmt>
+</sen>
+<sen id="5">
+<j>京都御苑</j>
+<e type="trans" ver="1">Kyoto gyoen(Kyoto Imperial Park)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto gyoen(Kyoto Imperial Park)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Gyoen (Kyoto Imperial Park)</e>
+<cmt>頭文字を大文字に、カッコの前のスペースを追加</cmt>
+</sen>
+<sen id="6">
+<j>益富地学会館　烏丸通西入</j>
+<e type="trans" ver="1">Masutomi Geology Museum</e>
+<cmt></cmt>
+<e type="trans" ver="2">Masutomi Geology Museum</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Masutomi Geology Museum: Karasuma-dori Street nishi-iru</e>
+<cmt>「烏丸通西入」を訳出</cmt>
+</sen>
+<sen id="7">
+<j>京都法務合同庁舎</j>
+<e type="trans" ver="1">Kyoto Government Legal Complex</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Government Legal Complex</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Government Legal Complex</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>京都府警察本部　以上新町通</j>
+<e type="trans" ver="1">Kyoto Prefectural Police Department Headquarters: Kamishinmachi-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Prefectural Police Department Headquarters: Kamishinmachi-dori Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Prefectural Police Department Headquarters: Shinmachi-dori Street for the places mentioned above</e>
+<cmt>Kamishinmachi-dori Street→「以上」「新町通」として訳出</cmt>
+</sen>
+<sen id="9">
+<j>京都府庁　新町通から西洞院通</j>
+<e type="trans" ver="1">Kyoto Prefectural Government: from Shinmachi-dori Street to Nishinotoin-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Prefectural Government: from Shinmachi-dori Street to Nishinotoin-dori Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Prefectural Government: from Shinmachi-dori Street to Nishinotoin-dori Street</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>伊藤仁斎旧宅・書庫古義堂　東堀川通下ル</j>
+<e type="trans" ver="1">Former residence of Jinsai ITO, library Kogido: Higashihorikawa-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Former residence of Jinsai ITO, library Kogido: Higashihorikawa-dori Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Former Residence of Jinsai ITO, Library Kogido: Higashihorikawa-dori Street sagaru</e>
+<cmt>頭文字を大文字に、「下ル」を訳出</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Miyuki h(id:84952), Mooko(id:36162), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

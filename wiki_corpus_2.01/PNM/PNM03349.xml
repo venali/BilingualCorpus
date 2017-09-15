@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>豊国 (僧)</j>
+<e type="trans" ver="1">Toyokuni (priest)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Toyokuni (a priest)</e>
+<cmt>冠詞挿入しました。</cmt>
+<e type="check" ver="1">Toyokuni (a priest)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>豊国（とよくに、生没年不詳）は、6世紀ごろの僧。</j>
+<e type="trans" ver="1">Toyokuni (year of birth and death unknown) was a priest around 6th century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Toyokuni (years of birth and death unknown) was a priest around the 6th century.</e>
+<cmt>複数化しました。</cmt>
+<e type="check" ver="1">Toyokuni (years of birth and death unknown) was a priest around the 6th century.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>豊国法師（とよくにほうし）の名で知られている。</j>
+<e type="trans" ver="1">He was known as &quot;Toyokuni Hoshi.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was known as &apos;Toyokuni Hoshi.&apos;</e>
+<cmt>クォーテーションマーク変更しました。</cmt>
+<e type="check" ver="1">He was known as &apos;Toyokuni Hoshi.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>『日本書紀』によれば、587年（用明天皇2年）用明天皇が病気となったとき、天皇が仏教に帰依しようと群臣に諮った。</j>
+<e type="trans" ver="1">According to &quot;Nihonshoki&quot; (Chronicles of Japan), Emperor Yomei became ill in 587 and wished to become a Buddhist, for which he asked the opinions of his people.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">According to &quot;Nihonshoki&quot; (Chronicles of Japan), when Emperor Yomei became ill in 587, he wished to become a Buddhist and asked his subjects&apos; opinions.</e>
+<cmt>後半部分を変更し、andの繰り返しを避けるため前半部分もwhenを挿入し変更しました。</cmt>
+<e type="check" ver="1">According to &quot;Nihonshoki&quot; (Chronicles of Japan), when Emperor Yomei became ill in 587, he wished to become a Buddhist and asked his subjects&apos; opinions.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>賛否両論はあったが、その中で蘇我馬子が賛成したことから、穴穂部皇子に案内されて内裏に入ったのが豊国法師であったという。</j>
+<e type="trans" ver="1">There were arguments for and against it, but since SOGA no Umako was for the idea and thus Toyokuni was said to be lead into Dairi (Imperial Palace) by Anahobe no Miko.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">There were arguments for and against it, but since SOGA no Umako was for it, Toyokuni is said to have been led into Dairi (Imperial Palace) by Anahobe no Miko.</e>
+<cmt>繰り返し部分の削除、時制変更、統一性を持たせるためthe ideaをitに変更しました。</cmt>
+<e type="check" ver="1">There were arguments for and against it, but since SOGA no Umako was for it, Toyokuni is said to have been led into Dairi (Imperial Palace) by Anahobe no Miko.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Jihi(id:261170), 水野白楓(id:22811), R28Bot(id:177951), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

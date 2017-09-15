@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>侍読</j>
+<e type="trans" ver="1">Jidoku (imperial tutor)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jidoku (imperial tutor)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jidoku (imperial tutor)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>侍読（じどく/じとう）とは、天皇の側に仕えて学問を教授する学者のこと。</j>
+<e type="trans" ver="1">Jidoku/Jito was a scholar who attended the emperor and tutored academics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A Jidoku/Jito was a scholar who was an academic tutor for the emperor.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">A Jidoku/Jito was a scholar who was an academic tutor for the emperor.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>律令制のもとでは大学寮の博士あるいはこれに近い学識を有する人物が任命された。</j>
+<e type="trans" ver="1">Under the Ritsuryo system (a system of centralized government based on their ritsuryo code), a professor of Daigaku-ryo (Bureau of Education under ritsuryo system) or an individual with a similar learning and experience was appointed to this position.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under the Ritsuryo system (a system of centralized government based on the ritsuryo code), a professor of the Daigaku-ryo (Bureau of Education under the ritsuryo system) or an individual with similar education and experience was appointed to the position of Jidoku.</e>
+<cmt>their→the; changed &quot;this position&quot; to &quot;the position of Jidoku&quot;; fixed grammar</cmt>
+<e type="check" ver="1">Under the Ritsuryo system (a system of centralized government based on the ritsuryo code), a professor of the Daigaku-ryo (Bureau of Education under the ritsuryo system) or an individual with similar education and experience was appointed to the position of Jidoku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>主として四書五経などの儒教の経典が講義された。</j>
+<e type="trans" ver="1">Main subjects of the lecture were Confucian scriptures including shishogokyo (the Four Books and Five Classics of Confucianism, the Nine Chinese Classics)</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">The main subjects that a Jidoku lectured on were from Confucian scriptures, including the Shishogokyo (Four Books and Five Classics of Confucianism, the Nine Chinese Classics).</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">The main subjects that a Jidoku lectured on were from Confucian scriptures, including the Shishogokyo (Four Books and Five Classics of Confucianism, the Nine Chinese Classics).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>しかし『史記」や『文選 (書物)』、『老子道徳経』などそれ以外からの講義も行われた。</j>
+<e type="trans" ver="1">But the lecture also dealt with other materials such as &quot;Shiki&quot; (Chinese history book), &quot;Monzen&quot; (Wen-hsen, ancient Chinese poems), and &quot;Roshi Dotokukyo&quot; (Lao-tzu - The Way and its Virtue).</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Other materials they lectured on included the &quot;Shiki&quot; (a Chinese history book), &quot;Monzen&quot; (Wen-hsen, Ancient Chinese Poems) and &quot;Roshi Dotokukyo&quot; (Lao-tzu - The Way and its Virtue).</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">Other materials they lectured on included the &quot;Shiki&quot; (a Chinese history book), &quot;Monzen&quot; (Wen-hsen, Ancient Chinese Poems) and &quot;Roshi Dotokukyo&quot; (Lao-tzu - The Way and its Virtue).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>だが、平安時代後期以後、紀伝道博士（文章博士）を世襲した大江氏・菅原氏が侍読の役を独占した。</j>
+<e type="trans" ver="1">However, after the late Heian period, the Oe clan and the Sugawara clan, who had the hereditary title of kidendo hakase (a chief experts on the history of Japan and China) (Monjo hakase (professor of literature)), monopolized the position of Jidoku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the late Heian period, the Oe clan and the Sugawara clan monopolized the position of Jidoku with the hereditary title of Kidendo hakase (chief experts on the history of Japan and China) (Monjo hakase (professor of literature)).</e>
+<cmt>eliminated &quot;However&quot; since this sentence does not contrast with the previous one; rearranged sentence and fixed grammar to read more smoothly</cmt>
+<e type="check" ver="1">After the late Heian period, the Oe clan and the Sugawara clan monopolized the position of Jidoku with the hereditary title of Kidendo hakase (chief experts on the history of Japan and China) (Monjo hakase (professor of literature)).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>また、摂関家や将軍家の当主に学問を教授する学者も侍読と呼ばれるようになる。</j>
+<e type="trans" ver="1">In addition, scholars who tutored academics to the family heads of Sekkan-ke (the families which produced regents) and the Shogun family came to be called Jidoku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Scholars who tutored the family heads of the Sekkan-ke (families which produced regents) and the family of the Shogun also came to be called Jidoku.</e>
+<cmt>changed &quot;In addition&quot; to &quot;also,&quot; using it later in the sentence; eliminated &quot;academics&quot; since it was a little awkward and not necessary</cmt>
+<e type="check" ver="1">Scholars who tutored the family heads of the Sekkan-ke (families which produced regents) and the family of the Shogun also came to be called Jidoku.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Chiew(id:39745), Straysheep(id:42448), 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

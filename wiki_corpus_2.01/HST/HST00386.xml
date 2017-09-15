@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>本草和名</j>
+<e type="trans" ver="1">&quot;Honzowamyo&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Honzowamyo&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Honzowamyo</e>
+<cmt>クォーテーションを削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>本草和名（ほんぞうわみょう）とは深根輔仁撰による日本現存最古の薬物辞典（本草書）である。</j>
+<e type="trans" ver="1">&quot;Honzowamyo&quot; is the oldest Japanese dictionary of medicines still in existence, which was compiled by Sukehito HUKANE.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Honzowamyo&quot; is the oldest Japanese dictionary of medicines still in existence, and was compiled by Sukehito HUKANE.</e>
+<cmt>word choice</cmt>
+<e type="check" ver="1">Honzowamyo is the oldest Japanese dictionary of medicines still in existence, and was compiled by Sukehito FUKANE.</e>
+<cmt>クォーテーションを削除、表記を変えました。</cmt>
+</sen>
+<sen id="2">
+<j>輔仁本草（ほにんほんぞう）などの異名がある。</j>
+<e type="trans" ver="1">The dictionary is also known as other names such as &quot;Honinhonzo.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The dictionary is also known by other names, such as &quot;Honinhonzo.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The dictionary is also known as Honinhonzo, and so on.</e>
+<cmt>表現を変えました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>本書は醍醐天皇に侍医・権医博士として仕えた深根輔仁が延喜年間に編纂した。</j>
+<e type="trans" ver="1">This dictionary was compiled by Sukehito HUKANE, who served Emperor Daigo as a court physician and &quot;Gon-no-ihakase&quot; (assistant professor of medicine), in the Engi era.</e>
+<cmt>「権医博士」の「権（ごんの）」は「副」という意味で、「博士」は律令制の官名なので、“Gon-no-ihakase” (assistant professor of medicine) と訳しました。</cmt>
+<e type="trans" ver="2">This dictionary was compiled by Sukehito HUKANE, who served Emperor Daigo as a court physician and &quot;Gon-no-ihakase&quot; (assistant professor of medicine), in the Engi era.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This dictionary was compiled by Sukehito FUKANE, who served Emperor Daigo as a court physician and Gon no ihakase (assistant professor of medicine), during 901 to 923.</e>
+<cmt>表記を変え、西暦表記にしました。</cmt>
+</sen>
+<sen id="5">
+<j>唐の『新修本草』を範に取り、その他漢籍医学・薬学書に書かれた薬物に倭名を当てはめ、日本での産出の有無及び産地を記している。</j>
+<e type="trans" ver="1">The dictionary is modeled after &quot;Xinxiu Bencao&quot; compiled in Tang-dynasty China, and includes names of medicines, which were found in other Chinese medical books and translated into Japanese, and information about whether the medicines (medical plants) are produced in Japan and where they are produced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The dictionary is modeled after &quot;Xinxiu Bencao&quot; compiled in Tang-dynasty China, and includes names of medicines, which were found in other Chinese medical books and translated into Japanese, and information about whether the medicines (medical plants) are produced in Japan and where they are produced.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The dictionary is modeled after &quot;Xinxiu Bencao&quot; compiled in Tang-dynasty China, and includes names of medicines, which were found in other Chinese medical books and translated into Japanese, and information about whether the medicines (medical plants) were produced in Japan and where they were produced.</e>
+<cmt>一部過去形にしました。</cmt>
+</sen>
+<sen id="6">
+<j>当時の学問水準より比定の誤りなどが見られるが、平安初期以前の薬物の和名をことごとく記載しておりかつ来歴も明らかで、本拠地である中国にも無いいわゆる逸文が大量に含まれている。</j>
+<e type="trans" ver="1">Although there are some errors in the identification of the medicines by analogy due to the low level of the study at that time, every single Japanese name of the medicines used before the early Heian period is recorded, and the origins and histories of them are revealed, and plenty of so-called &quot;itsubun&quot; (lost writings,) which previously existed but does not exist now even in its home country, China, is included in the dictionary.</e>
+<cmt>一原文一訳文例外対処。</cmt>
+<e type="trans" ver="2">Although there are some errors in the identification of the medicines by analogy due to the low level of the study at that time, every single Japanese name of the medicines used before the early Heian period is recorded, and the origins and histories of them are revealed, and plenty of so-called &quot;itsubun&quot; (lost writings,) which previously existed but do not exist now even in its home country, China, are included in the dictionary.</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">Although there are some errors in the identification of the medicines by analogy due to the low level of the study at that time, every single Japanese name of the medicines used before the early Heian period is recorded, and the origins and histories of them are revealed, and plenty of so-called itsubun (lost writings), which previously existed but do not exist now even in its home country, China, are included in the dictionary.</e>
+<cmt>クォーテーションを削除しました。</cmt>
+</sen>
+<sen id="7">
+<j>よって、散逸医学文献の旧態を知る上で、また中国伝統医学の源を探る上でも貴重な資料である。</j>
+<e type="trans" ver="1">Therefore the dictionary is a valuable material to learn the original versions of the lost medical books and to trace the origin of Chinese traditional medicine.</e>
+<cmt>一原文一訳文例外対処。</cmt>
+<e type="trans" ver="2">Therefore, the dictionary is a valuable material to learn the original versions of the lost medical books and to trace the origin of Chinese traditional medicine.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Therefore, the dictionary is a valuable material to learn the original versions of the lost medical books and to trace the origin of Chinese traditional medicine.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>また、丹波康頼の『医心方』にも引用されるなど後世の医学・博物学に影響を与えた。</j>
+<e type="trans" ver="1">In addition, the dictionary influenced medical science and natural history in future ages, such as being quoted in &quot;Ishinhou&quot; (a medical book) written by TANBA no Yasuyori.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, the dictionary influenced medical science and natural history in later ages; for example, it was quoted in &quot;Ishinhou&quot; (a medical book) written by TANBA no Yasuyori.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">In addition, the dictionary influenced medical science and natural history in later ages; for example, it was quoted in &quot;Ishinho&quot; (an ancient medical book) written by TANBA no Yasuyori.</e>
+<cmt>半角クォーテーションにしました。</cmt>
+</sen>
+<sen id="9">
+<j>また、平安時代前期の国語学史の研究の上でも貴重な資料である。</j>
+<e type="trans" ver="1">The dictionary is also a valuable material for the study of the history of Japanese language in the early Heian period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The dictionary is also a valuable material for the study of the history of Japanese language in the early Heian period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The dictionary is also a valuable material for the study of the history of Japanese language in the early Heian period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="10">
+<j>その後、長く不明になっていたが、江戸幕府の医家多紀元簡が紅葉山文庫より上下2巻全18編の古写本を発見して再び世に伝えられるようになった。</j>
+<e type="trans" ver="1">Although it had been lost for a long time since then, an old manuscript of the two-volume dictionary composed of 18 chapters was dug up from the Momijiyama Library by Genkan TAKI, who served as a doctor in the Edo Shogunate, and it came to be handed down again to posterity.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although it had been lost for a long time since then, an old manuscript of the two-volume dictionary composed of 18 chapters was dug up from the Momijiyama Library by Genkan TAKI, who served as a doctor in the Edo Shogunate, and it came to be handed down again to posterity.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Although it had been lost for a long time since then, an old manuscript of the two-volume dictionary composed of 18 chapters was dug up from the Momijiyama Library by Genkan TAKI, who served as a doctor in the Edo bakufu (Japanese feudal government headed by a shogun), and it came to be handed down again to posterity.</e>
+<cmt>統一リストに合わせました。</cmt>
+</sen>
+<sen id="11">
+<j>多紀元簡により発見された古写本の現時点の所在は不明であるが、多紀が寛政8年（1796年）に校訂を行って刊行し、6年後に民間にも出された版本が存在する他、古写本を影写した森立之の蔵本が台湾の故宮博物院に現存する。</j>
+<e type="trans" ver="1">The present whereabouts of the old manuscript discovered by Genkan TAKI is unknown, but there still remains the version revised and issued by TAKI in 1796, which was also published for the general public six years later, and the National Palace Museum in Taiwan has another version traced from the old manuscript and once possessed by Tatsuyuki MORI.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The present whereabouts of the old manuscript discovered by Genkan TAKI is unknown, but there still remains the version revised and issued by TAKI in 1796, which was also published for the general public six years later, and the National Palace Museum in Taiwan has another version traced from the old manuscript and once possessed by Tatsuyuki MORI.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The present whereabouts of the old manuscript discovered by Genkan TAKI is unknown, but there still remains the version revised and issued by Taki in 1796, which was also published for the general public six years later, and the National Palace Museum in Taiwan has another version traced from the old manuscript and once possessed by Tatsuyuki MORI.</e>
+<cmt>余分なスペース削除などしました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Papamaruchan22(id:71152), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

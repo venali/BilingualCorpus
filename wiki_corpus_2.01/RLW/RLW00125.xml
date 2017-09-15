@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>JR小倉駅</j>
+<e type="trans" ver="1">JR-Ogura Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR-Ogura Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR-Ogura Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>JR小倉駅（じぇいあーるおぐらえき）は、京都府宇治市小倉町にある、西日本旅客鉄道（JR西日本）奈良線の鉄道駅である。</j>
+<e type="trans" ver="1">Located in Ogura-cho, Uji City, Kyoto Prefecture, JR-Ogura Station is a stop on Nara Line which is operated by West Japan Railway Company (JR West).</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR-Ogura Station, located in Ogura-cho, Uji City, Kyoto Prefecture, is a stop on the Nara Line, which is operated by the West Japan Railway Company (JR West).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">JR-Ogura Station, located in Ogura-cho, Uji City, Kyoto Prefecture, is a stop on the Nara Line, which is operated by the West Japan Railway Company (JR West).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>駅構造</j>
+<e type="trans" ver="1">Structure of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="3">
+<j>相対式2面2線プラットホームを持つ地上駅で、カーブに設置されている。</j>
+<e type="trans" ver="1">Put at a curved section of the line, JR-Ogura Station has two separate platforms and two boarding areas, and the platforms can be seen from the ground level.</e>
+<cmt>①「相対式2面2線プラットホーム」とは、「2つの相対式プラットホームと2つの乗り場」という意味です（Wiki 「プラットホーム」参照）。　②それゆえ「プラットホーム」と「乗り場」を訳し分ける必要が生じるため、前者を platform 後者を boarding area としています。　③「地上駅（広義）」とは、「地上からプラットホームが目視できる駅」のことで（Wiki 「地上駅」参照）それを左では訳出しているつもりです。</cmt>
+<e type="trans" ver="2">Situated at a curved section of the line, JR-Ogura Station has two separate platforms and two boarding areas, and the platforms can be seen from the ground level.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Situated at a curved section of the line, JR-Ogura Station is an aboveground station having two separate platforms serving two tracks.</e>
+<cmt>boarding area →tracks、地上駅→ aboveground station　としました。</cmt>
+</sen>
+<sen id="4">
+<j>傾斜面上に駅があるため、改札・コンコースはホームより下層にある。</j>
+<e type="trans" ver="1">The station building stands on the sloping ground, so the concourse and ticket gates are located below the platforms.</e>
+<cmt>改札口は複数あるので複数形にしています。</cmt>
+<e type="trans" ver="2">The station building stands on sloping ground, so the concourse and ticket gates are located below the platforms.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station building stands on sloping ground, so the concourse and ticket gates are located below the platforms.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>西口から見ると、高架駅のように見える。</j>
+<e type="trans" ver="1">Seen from the western entrance, the stop looks like an elevated railway station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As seen from the western entrance, the stop has the appearance of an elevated railway station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As seen from the western entrance, the stop has the appearance of an elevated railway station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>なお駅業務は（株）ジェイアール西日本交通サービスへ委託されている。</j>
+<e type="trans" ver="1">In addition, the operation of the station is consigned to JR West Kotsu Service.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, the operations of the station are consigned to JR West Kotsu Service.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, the operations of the station are consigned to JR West Kotsu Service.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>ICOCA・Jスルー利用可能駅であり、ICOCAの相互利用対象であるPiTaPa（スルッとKANSAI協議会）も利用可能。</j>
+<e type="trans" ver="1">ICOCA, J-Through Card and TiPaTa Card, which are all IC cards, are available for the fare payment at this station (PiTaTa Card is issued by Surruto Kansai Assocition and is mutually compatible with ICOCA).</e>
+<cmt>※ICOCAは&quot;IC Operating Card&quot;の省略形であり、そこに既に&quot;Card&quot;が含まれていることから、他のカードと異なり英訳では&quot;Card&quot;を付していません。</cmt>
+<e type="trans" ver="2">ICOCA, J-Through Card and PiTaPa Card, which are all IC cards, are available for fare payment at this station (PiTaPa Card is issued by Surruto Kansai Association and is mutually compatible with ICOCA).</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">ICOCA, J-Through Card and PiTaPa Card, which are all IC cards, are available for fare payment at this station (PiTaPa Card is issued by Surutto Kansai Association and is mutually compatible with ICOCA).</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>利用状況</j>
+<e type="trans" ver="1">Situation of passengers&apos; use</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usage statistics</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="9">
+<j>2006年度の1日あたりの乗車人員は約1,778人である。</j>
+<e type="trans" ver="1">In fiscal 2006, the number of passengers who used this station was about 1778 a day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Approximately 1,778 passengers used the station each day in fiscal 2006.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Approximately 1,778 passengers used the station each day in fiscal 2006.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>（京都府統計書より）</j>
+<e type="trans" ver="1">(according to the statistics of Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(These statistics are according to Kyoto Prefecture.)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">(According to the Kyoto Prefecture Statistics Report)</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="11">
+<j>駅周辺</j>
+<e type="trans" ver="1">Surroundings of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="12">
+<j>近畿日本鉄道近鉄京都線小倉駅 (京都府)</j>
+<e type="trans" ver="1">Ogura Station on Kintetsu Kyoto Line which is operated by Kintetsu Corporation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ogura Station is on the Kintetsu Kyoto Line, which is operated by Kintetsu Corporation.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Ogura Station on the Kintetsu Kyoto Line, which is operated by Kintetsu Corporation.</e>
+<cmt>is を削除しました。</cmt>
+</sen>
+<sen id="13">
+<j>宇治市立小倉小学校</j>
+<e type="trans" ver="1">Uji City Ogura Elementary School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uji City Ogura Elementary School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Uji City Ogura Elementary School</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>宇治幼稚園</j>
+<e type="trans" ver="1">Uji Kindergarden</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uji Kindergarden</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Uji Kindergarten</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+<sen id="15">
+<j>宇治南陵郵便局</j>
+<e type="trans" ver="1">Uji Nanryo Post Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Uji Nanryo post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Uji Nanryo post office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>共栄製茶工場</j>
+<e type="trans" ver="1">Kyoei Seicha Co.,Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoei Seicha Co., Ltd.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Kyoei Seicha Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>駅の南側は、新興住宅地南陵町があり、この南陵町は旧西武都市開発が1970年頃に開発した50坪程度の区画に850世帯ほどが入居する団地である。</j>
+<e type="trans" ver="1">On the south side of the station, there is Nanryo-cho, a newly-developed residential area, where about 850 households live in the apartment complex on the block of about 165 sq.m, and this block was developed by former Seibu Urban Development Corporation around the year 1970.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the south side of the station there is Nanryo-cho, a newly developed residential area, where about 850 households exist in an apartment complex on a block of approximately 165 square meters, and this block was developed by the former Seibu Urban Development Corporation in or around 1970.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">On the south side of the station there is Nanryo-cho, a newly developed residential area, where about 850 households exist on each block of approximately 165 square meters, and this residential area was developed by the former Seibu Urban Development Corporation in or around 1970.</e>
+<cmt>団地とは、新興住宅地と解釈し、apartment complex ではなくてresidential area としました。</cmt>
+</sen>
+<sen id="18">
+<j>当初は不便だった団地も現在は付近に第二岡本病院、消防署、ができ、また徒歩10分程度で上新電機、コーナンなど買い物も便利になっている。</j>
+<e type="trans" ver="1">At first, the apartment residents had incovenience in daily life, but nowadays they don&apos;t because they have Daini Okamoto General Hospital and a fire station both nearby, and their shopping also becomes more convenient than before since they have Joshin Denki Co.,Ltd, Home Center Kohnan and other stores at a distance of about 10 minute walk.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Initially, the apartment residents had inconvenience in daily life, but nowadays they don&apos;t because they have Daini Okamoto General Hospital and a fire station both nearby, and their shopping has also become more convenient since they have Joshin Denki Co., Ltd., Home Center Kohnan within a walking distance of ten minutes.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Initially, the residents had inconvenience in daily life, but nowadays they don&apos;t because they have Daini Okamoto General Hospital and a fire station both nearby, and their shopping has also become more convenient since they have Joshin Denki Co., Ltd., Home Center Kohnan within a walking distance of ten minutes.</e>
+<cmt>団地とは、新興住宅地と解釈しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="19">
+<j>近鉄の小倉駅までは徒歩7～8分ほどの距離である。</j>
+<e type="trans" ver="1">It is about 7 to 8 minute walk from the apartment complex to Ogura Station on Kintetsu Kyoto Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A walk of seven or eight minutes takes one from the apartment complex to Ogura Station on the Kintetsu Kyoto Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">A walk of seven or eight minutes takes one from the residential area to Ogura Station on the Kintetsu Kyoto Line.</e>
+<cmt>団地とは、新興住宅地と解釈しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="20">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>2001年（平成13年）3月3日 宇治～新田間の複線化と同時に開業。</j>
+<e type="trans" ver="1">March 3, 2001---JR-Ogura Station opened just when the JR West track was doubled in the section between Uji Station and Shinden Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 3, 2001: JR-Ogura Station opened to coincide with the doubling of the JR West track in the section between Uji Station and Shinden Station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 3, 2001: JR-Ogura Station opened to coincide with the doubling of the JR West track in the section between Uji Station and Shinden Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="22">
+<j>駅名の由来</j>
+<e type="trans" ver="1">Origin of the station name</e>
+<cmt></cmt>
+<e type="trans" ver="2">Origin of the station&apos;s name</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Origin of the station&apos;s name</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>近畿日本鉄道近鉄京都線の小倉駅 (京都府)と区別するため。</j>
+<e type="trans" ver="1">The name of JR-Ogura Station is intended to distinguish itself from Ogura Station on Kintetsu Kyoto Line which is operated by Kintetsu Corporation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The &quot;JR-Ogura&quot; name is intended to distinguish this station from Ogura Station on the Kintetsu Kyoto Line, which is operated by Kintetsu Corporation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The name &quot;JR-Ogura&quot; is intended to distinguish this station from Ogura Station on the Kintetsu Kyoto Line, which is operated by Kintetsu Corporation.</e>
+<cmt>The name &quot;JR-Ogura&quot;としました。</cmt>
+</sen>
+<sen id="24">
+<j>また、西日本旅客鉄道が運営する山陽新幹線の小倉駅 (福岡県)と区別する意味合いもある。</j>
+<e type="trans" ver="1">And it is also intended to distinguish itself from Kokura Station (in Fukuoka Prefecture) on Sanyo Shinkansen which is operated by West Japan Railway Company.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also intended to distinguish the station from Kokura Station (Fukuoka Prefecture) on the Sanyo Shinkansen, which is operated by the West Japan Railway Company.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is also intended to distinguish the station from Kokura Station (Fukuoka Prefecture) on the Sanyo Shinkansen, which is operated by the West Japan Railway Company.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>&quot;頭にJR+地名&quot;の駅名表記は、JR西日本独自のものである。</j>
+<e type="trans" ver="1">It is the peculiar style to JR West that &quot;JR&quot; is attached to the head of its name.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The use of &quot;JR&quot; as a prefix to the station&apos;s name is characteristic of JR West.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The use of &quot;JR&quot; as a prefix to the station&apos;s name is characteristic of JR West.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="26">
+<j>隣の駅</j>
+<e type="trans" ver="1">Next station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Next station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="27">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Railway Company</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>(JR West)　を追加しました。</cmt>
+</sen>
+<sen id="28">
+<j>■奈良線</j>
+<e type="trans" ver="1">Nara Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nara Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nara Line</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="29">
+<j>■みやこ路快速</j>
+<e type="trans" ver="1">Miyakoji Rapid Train</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miyakoji Rapid Train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyakoji Rapid Service</e>
+<cmt>電車名を統一しました。</cmt>
+</sen>
+<sen id="30">
+<j>通過</j>
+<e type="trans" ver="1">Nonstop</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nonstop</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nonstop</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>■快速・■区間快速・■普通</j>
+<e type="trans" ver="1">Rapid train/ Regional rapid train/ Local train</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid train/ Regional rapid train/ Local train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rapid/Regional Rapid/Local</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+<sen id="32">
+<j>宇治駅 (JR西日本) - JR小倉駅 - 新田駅 (京都府)</j>
+<e type="trans" ver="1">Uji Station (of JR West) - JR-Ogura Station - Shinden Station (in Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uji Station (of JR West) - JR-Ogura Station - Shinden Station (in Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Uji Station (JR West) - JR-Ogura Station - Shinden Station (Kyoto Prefecture)</e>
+<cmt>括弧のof, in などを削除しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Bakkai(id:7233), TK5000(id:44088), Hikichimin Jr.(id:147077), Yuta415(id:149253), Cprobot(id:97843), UE-PON2600(id:18149), Kagoya(id:9458), T.Yama(id:40416), Wikipedianet(id:9608), Ultratomio(id:1090), KARS(id:43022), Utsuda(id:605), Mop(id:12061), Shinkansen(id:13703), 珠算3級(id:118848), Asterisk(id:81766), Bandalgom(id:31841), Sunen(id:10700), Penpen(id:18815), Yoriyori(id:67575), Nagiso(id:44376), R28Bot(id:177951), Raven takashi(id:33883), Kone(id:377), Hirotaro(id:1437), Mipu(id:5360), Suzuhara Misakiti(id:194615), TANUKI(id:28527), 210.(id:9838), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

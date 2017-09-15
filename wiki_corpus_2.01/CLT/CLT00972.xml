@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>味噌</j>
+<e type="trans" ver="1">Miso (fermented soybean paste)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miso (fermented soybean paste)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miso (fermented soybean paste)</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>味噌（みそ）は、穀物を発酵させて作られた日本の発酵食品である。</j>
+<e type="trans" ver="1">Miso is a Japanese fermented food made by fermenting grains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miso is a Japanese food made by fermenting grains.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Miso is a Japanese food made by fermenting grains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>日本の定番調味料であり、日本の味として世界に広がっている。</j>
+<e type="trans" ver="1">It is a staple seasoning of Japan, which is known to the whole world as a Japanese taste.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a staple seasoning of Japan, which is known to the whole world as a Japanese taste.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is a staple seasoning of Japan, which is known to the whole world as a Japanese taste.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>味噌は副食素材が豊富になった今日では調味料とみなされているが、伝統的には日本の食生活における主要なタンパク質源であった。</j>
+<e type="trans" ver="1">Today, a variety of ingredients are available for a side dish so that miso is deemed to be a seasoning, but traditionally it had been the principal protein source in Japanese diet.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Today, a variety of ingredients are available for side dishes so miso is deemed to be a seasoning, but traditionally it had been the principal protein source in the Japanese diet.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Today, a variety of ingredients are available for side dishes so miso is deemed to be a seasoning, but traditionally it had been the principal protein source in the Japanese diet.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>調味料として今日でも日本料理に欠かせないものの一つとなっている。</j>
+<e type="trans" ver="1">Today as a seasoning, it is still one of the necessities of Japanese cuisine.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Today as a seasoning, it is still one of the necessities of Japanese cuisine.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Today as a seasoning, it is still one of the necessities of Japanese cuisine.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>主な原料はダイズ（戦国時代 (日本)などは主に糠が原料とされた）である。</j>
+<e type="trans" ver="1">The main ingredient is soybean (it used to be rice bran in the Sengoku period (period of warring states)).</e>
+<cmt>一原文一訳文の例外対処 原文には (日本) とありますが、リンク先の単語が抽出されるバグのようですので、訳出しておりません。</cmt>
+<e type="trans" ver="2">The main ingredient is soybean (it used to be rice bran in the Sengoku period, the period of warring states).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The main ingredient is soybean (it used to be rice bran in the Sengoku period, the period of warring states).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>これに麹や塩を混ぜ合わせ、発酵させることによって大豆のタンパク質が消化しやすく分解され、また旨みの元であるアミノ酸が多量に遊離する。</j>
+<e type="trans" ver="1">It is mixed with koji (fermentation agent) and salt to ferment, so that the protein of soybean resolves to be easily digestible and large amounts of amino acid which is the source of umami (savory) are released.</e>
+<cmt>一原文一訳文の例外対処用語検索で「麹」は&quot;rice malt&quot;と&quot;koji (malted rice)&quot;と出てきますが、米だけでなく豆、麦の麹もあることが後の文に出てきますので、この用語は使用しませんでした。</cmt>
+<e type="trans" ver="2">It is mixed with koji (a fermentation agent) and salt to ferment, so the protein of soybean resolves to be easily digestible and large amounts of amino acid which is the source of umami (savory) are released.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is mixed with koji (a fermentation agent) and salt to ferment, so the protein of soybean resolves to be easily digestible and large amounts of amino acid which is the source of umami (savory) are released.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>製造に際しては、麹が増えると甘味が増し、大豆が増えると旨味が増すとされる。</j>
+<e type="trans" ver="1">In the production of miso, the more koji, the more sweet it becomes; the more soybean, the more umami it has.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the production of miso, the more koji, the more sweet it becomes; the more soybean, the more umami it has.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the production of miso, the more koji, the more sweet it becomes; the more soybean, the more umami it has.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>温暖多湿という日本の国土条件の中、職人技により製造されるが、現代的な食品の衛生基準との間で伝統を守りづらくなっている。</j>
+<e type="trans" ver="1">It is an artisanal product made in the moderate and humid climate of Japan, but it is becoming difficult to maintain the tradition being subject to modern food hygiene standards.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an artisanal product made in the moderate and humid climate of Japan, but it is becoming difficult to maintain the tradition being subject to modern food hygiene standards.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is an artisanal product made in the moderate and humid climate of Japan, but it is becoming difficult to maintain the tradition being subject to modern food hygiene standards.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="9">
+<j>非常に種類が豊富であり、その地域、種類により赤味噌、白味噌、合わせ味噌（調合味噌）、などに別れる。</j>
+<e type="trans" ver="1">There are a wide variety of miso which fall into several categories by region or kind: red miso, white miso, blended miso and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are a wide variety of miso which fall into several categories by region or kind: red miso, white miso, blended miso and so on.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There are a wide variety of miso which fall into several categories by region or kind: red miso, white miso, blended miso and so on.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="10">
+<j>通常「味噌」と言う言葉は日本のものを限定して呼称するが、「中華味噌」等とも呼ばれる調味料「醤（ジャン）」など同一系譜の東アジア、東南アジアの発酵食品を、その類似性から含める場合もある。</j>
+<e type="trans" ver="1">Generally, the term &apos;miso&apos; refers to only Japanese ones, but sometimes, based on their similarity, includes fermented foods of the same genealogy of East Asia and Southeast Asia, like &apos;jiang&apos; (Chinese sauce): the seasoning also called &apos;Chinese miso.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Generally, the term &apos;miso&apos; refers to only Japanese ones, but sometimes, based on their similarity, it includes fermented foods of the same genealogy from East and Southeast Asia, like &apos;jiang&apos; (Chinese sauce): the seasoning also called &apos;Chinese miso.&apos;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Generally, the term &apos;miso&apos; refers to only Japanese ones, but sometimes, based on their similarity, it includes fermented foods of the same genealogy from East and Southeast Asia, like &apos;jiang&apos; (Chinese sauce): the seasoning also called &apos;Chinese miso.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>また食品学、人類学的には、日本の味噌は醤の中の穀醤（こくしょう）に分類される。</j>
+<e type="trans" ver="1">Sitologically and anthropologically, Japanese miso is classified as kokusho (sauce made from grain) in salted food category.</e>
+<cmt>原文の「醤」を、「ひしお」(salted food)と訳出しました。</cmt>
+<e type="trans" ver="2">Sitologically and anthropologically, Japanese miso is classified as kokusho (sauce made from grain) in the salted food category.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sitologically and anthropologically, Japanese miso is classified as kokusho (sauce made from grain) in the salted food category.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>海外旅行中に、味噌汁が食べたくて仕方なくなる人が多いほど、日本人の味のふるさとである。</j>
+<e type="trans" ver="1">Many Japanese badly want to drink miso soup while traveling abroad because its taste makes them feel at home.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many Japanese badly want to drink miso soup while traveling abroad because the taste makes them feel at home.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Many Japanese badly want to drink miso soup while traveling abroad because the taste makes them feel at home.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="13">
+<j>スローフードや日本食ブームにより、味噌の良さが改めて見直されている。</j>
+<e type="trans" ver="1">The slow food boom and the Japanese food boom have made us revalue the benefit of miso.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The slow food boom and the Japanese food boom have made us revalue the benefit of miso.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The slow food boom and the Japanese food boom have made us revalue the benefit of miso.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>原料</j>
+<e type="trans" ver="1">Ingredients</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ingredients</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ingredients</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="14">
+<j>大豆</j>
+<e type="trans" ver="1">Soybeans</e>
+<cmt></cmt>
+<e type="trans" ver="2">Soybeans</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Soybeans</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>米 - 加工用米</j>
+<e type="trans" ver="1">Rice: rice for processing</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rice: rice for processing</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rice: rice for processing</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>塩</j>
+<e type="trans" ver="1">Salt</e>
+<cmt></cmt>
+<e type="trans" ver="2">Salt</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Salt</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="17">
+<j>麹 - 米、ムギ、豆など地域によって様々。</j>
+<e type="trans" ver="1">Koji: it is made of rice, barley, bean and so on; showing regional variation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Koji: made of rice, barley, bean and so on; showing regional variation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Koji: made of rice, barley, bean and so on; showing regional variation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>成分</j>
+<e type="trans" ver="1">Components</e>
+<cmt></cmt>
+<e type="trans" ver="2">Components</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Components</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="18">
+<j>たんぱく質</j>
+<e type="trans" ver="1">Protein</e>
+<cmt></cmt>
+<e type="trans" ver="2">Protein</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Protein</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>ビタミンB12</j>
+<e type="trans" ver="1">Vitamin B12</e>
+<cmt></cmt>
+<e type="trans" ver="2">Vitamin B12</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Vitamin B12</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>ビタミンE</j>
+<e type="trans" ver="1">Vitamin E</e>
+<cmt></cmt>
+<e type="trans" ver="2">Vitamin E</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Vitamin E</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>酵素</j>
+<e type="trans" ver="1">Enzyme</e>
+<cmt></cmt>
+<e type="trans" ver="2">Enzyme</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Enzyme</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>イソフラボン</j>
+<e type="trans" ver="1">Isoflavone</e>
+<cmt></cmt>
+<e type="trans" ver="2">Isoflavone</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Isoflavone</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>コリン</j>
+<e type="trans" ver="1">Choline</e>
+<cmt></cmt>
+<e type="trans" ver="2">Choline</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Choline</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>レシチン</j>
+<e type="trans" ver="1">Lecithin</e>
+<cmt></cmt>
+<e type="trans" ver="2">Lecithin</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Lecithin</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="25">
+<j>古来縄文時代からその原型がある日本独自の調味料である。</j>
+<e type="trans" ver="1">Miso is an original seasoning of Japan, and its original form dates back to Jomon period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miso is an original seasoning of Japan, and its original form dates back to the Jomon period.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Miso is an original seasoning of Japan, and its original form dates back to the Jomon period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="26">
+<j>奈良時代にはすでに文献にも味噌の原型と思われる未醤が確認でき、平安京の西市には未醤屋の存在が記録されている。</j>
+<e type="trans" ver="1">Misho, which is considered to be the original form of miso, was written in the literature already in Nara period, and the existence of misho stores in western market of Heian-kyo (the ancient capital of Japan in current Kyoto) is recorded.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Misho, which is considered to be the original form of miso, was written in the literature already in Nara period, and the existence of misho stores in the western market of Heian-kyo (the ancient capital of Japan in current Kyoto) is recorded.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Misho, which is considered to be the original form of miso, was written in the literature already in Nara period, and the existence of misho stores in the western market of Heian-kyo (the ancient capital of Japan in current Kyoto) is recorded.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>このように古来より定着している食物といえる。</j>
+<e type="trans" ver="1">Thus it has firmly established in this country from old times.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thus it was firmly established in this country from old times.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Thus it was firmly established in this country from old times.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>未醤は現在でいうところの豆味噌系であったと推定され、麹が多用されるのは、後世の事であった。</j>
+<e type="trans" ver="1">Misho is presumed to be something like bean miso of today, but it is only in later ages to use koji frequently.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Misho is presumed to be something like bean miso of today, but it was only in later ages when koji was frequently used.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Misho is presumed to be something like bean miso of today, but it was only in later ages when koji was frequently used.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>また、平安時代に書かれた書籍にも雑炊の味付けに味噌を用いた事が書かれている。</j>
+<e type="trans" ver="1">It is written in a book of Heian period that miso was used to season rice gruel.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is written in a book during the Heian period that miso was used to season rice gruel.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is written in a book during the Heian period that miso was used to season rice gruel.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="30">
+<j>かつては各家庭で作られており、「手前みそ」という表現が生まれた。</j>
+<e type="trans" ver="1">It used to be made at home, and the term &apos;temae miso&apos; (literally means &quot;handmade miso,&quot; but the true meaning is &quot;self-glorification&quot;) was born.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It used to be made at home, and the term &apos;temae miso&apos; (literally means &quot;handmade miso,&quot; but the true meaning is &quot;self-glorification&quot;) was born.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It used to be made at home, and the term &apos;temae miso&apos; (literally means &quot;handmade miso,&quot; but the true meaning is &quot;self-glorification&quot;) was born.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>室町時代になると、各地で味噌が発達し、調味料というよりは保存食として用いられるようになった（現代では、味噌というとペースト状のものが想起されるが、元々の味噌は米や麦の粒がそのままにぽろぽろした状態であり、つまんで食べられる）。</j>
+<e type="trans" ver="1">In Muromachi period, miso was developed everywhere and used as preserved food rather than as seasoning (today, when miso is mentioned, the pasted one comes to mind; but the original miso retained the grains of rice or barley, and was eaten with fingers).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Muromachi period, miso was developed everywhere and used as preserved food rather than as seasoning (today, when miso is mentioned, the past comes to mind, but the original miso was retained the grains of rice or barley, and was eaten with the fingers).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the Muromachi period, miso was developed everywhere and used as preserved food rather than as seasoning (today, when miso is mentioned, the past comes to mind, but the original miso was retained the grains of rice or barley, and was eaten with the fingers).</e>
+<cmt>スペース削除</cmt>
+</sen>
+<sen id="32">
+<j>戦国時代には兵糧として重宝され、兵士の貴重な栄養源になっていた。</j>
+<e type="trans" ver="1">It was useful as army provisions in the Sengoku period and was valuable source of nutrients for soldiers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was useful as army provisions during the Sengoku period and was a valuable source of nutrients for soldiers.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It was useful as army provisions during the Sengoku period and was a valuable source of nutrients for soldiers.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>その名残は、朴葉味噌などに残っている。</j>
+<e type="trans" ver="1">The vestiges of it are still found in Hoba miso (local cuisine at Hida Takayama region, Gifu Prefecture) and others.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It&apos;s vestiges are still found in Hoba miso (local cuisine at Hida Takayama region, Gifu Prefecture) and in other places.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It&apos;s vestiges are still found in Hoba miso (local cuisine at Hida Takayama region, Gifu Prefecture) and in other places.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>各地の武将にも味噌作りは大事な経済政策の1つとして見られるようになった。</j>
+<e type="trans" ver="1">Busho (Japanese military commander) around the country came to think of miso production as one of the important economic policies.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Busho (Japanese military commander) around the country came to think of miso production as one of the important economic policies.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Busho (Japanese military commander) around the country came to think of miso production as one of the important economic policies.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>現在のように調味料として認識されるようになったのは、江戸時代になってからである。</j>
+<e type="trans" ver="1">In Edo period, miso was first recognized as seasoning just like today.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">During the Edo period, miso was first recognized as a seasoning just like today.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">During the Edo period, miso was first recognized as a seasoning just like today.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>味噌は各地の風土・気候を反映されていて、熟成方法などが異なり全国に多様な味噌をもたらした。</j>
+<e type="trans" ver="1">Reflecting the natural features and climate of the region, a variety of miso matured in different ways was developed all over Japan.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Reflecting the natural features and climate of the region, a variety of miso matured in different ways was developed all over Japan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Reflecting the natural features and climate of the region, a variety of miso matured in different ways was developed all over Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="37">
+<j>近代に入り、味噌の工業的な大量生産方法が確立され、味噌を家庭で仕立てることは珍しくなった。</j>
+<e type="trans" ver="1">As the method for industrial mass production of miso has been established in modern times, now it is seldom that miso is made at home.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The method for the industrial mass production of miso has been established in modern times so, now it is seldom that miso is made at home.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The method for the industrial mass production of miso has been established in modern times so, now it is seldom that miso is made at home.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>今日では北海道音威子府村から沖縄県与那国町まで、日本の全ての地域に製造業者が存在するが、言い換えればそれほど高度な技術や多額な資本投下無しに製造できる証である。</j>
+<e type="trans" ver="1">Today miso manufacturers are in all parts of Japan, from Otoineppu-mura in Hokkaido to Yonaguni-cho in Okinawa Prefecture; it proves that miso can be produced without high technology or large capital.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Today miso manufacturers are in all parts of Japan, from Otoineppu-mura in Hokkaido to Yonaguni-cho in Okinawa Prefecture; it proves that miso can be produced without high technology or large capital.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Today miso manufacturers are in all parts of Japan, from Otoineppu-mura in Hokkaido to Yonaguni-cho in Okinawa Prefecture; it proves that miso can be produced without high technology or large capital.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>これが特定地域に集中している醤油製造との違いでもある。</j>
+<e type="trans" ver="1">That is the difference between miso and soy sauce manufacture, which concentrates in certain areas.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">That is the difference between miso and soy sauce manufactures, that concentrate in certain areas.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">That is the difference between miso and soy sauce manufactures, that concentrate in certain areas.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="40">
+<j>他の食品と同じように商品の多機能化と差別化が行われ、単に素材の違いだけでなく、出汁入りのものやカルシウムなどを添加したものが販売されている。</j>
+<e type="trans" ver="1">Like other food products, miso came to be equipped with multifunction and differentiation from others; in addition to the difference of ingredients, soup stock, calcium and so on are added to miso for sale.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Like other food products, miso came to be equipped with multifunction and differentiation from others; in addition to the difference of ingredients, soup stock, calcium and so on are added to miso for sale.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Like other food products, miso came to be equipped with multifunction and differentiation from others; in addition to the difference of ingredients, soup stock, calcium and so on are added to miso for sale.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>1970年代（昭和40年代）までは食料品店（酒屋、三河屋）などで醤油や味噌が樽から量り売りされていたが、流通の変化などで量り売りは姿を消し、袋やプラスチック容器などのパッケージに入ったものに変わっている。</j>
+<e type="trans" ver="1">By the 1970&apos;s, soy source and miso was kept in barrel and sold by measure at grocery stores (liquor store or Mikawaya), but sale-by-measure system disappeared with changes in distribution system, switching to sale in packages such as bags or plastic containers.</e>
+<cmt>原文にある「三河屋」について、wikipediaでは「酒・味噌・醤油・酢などの醸造品を販売する商店に多い商号、またそれらを総称する俗語」などと解説されていますが、広辞苑にもブリタニカ国際大百科事典にも掲載がありませんでしたので、用語検索で出てくる&quot;Mikawaya&quot;のみを記載し、定義はしませんでした。</cmt>
+<e type="trans" ver="2">By the 1970&apos;s, soy sauce and miso was kept in barrel and sold by measuring at grocery stores (liquor store or Mikawaya), but sale-by-measuring system disappeared with changes in the distribution system, switching to sale in packages such as bags or plastic containers.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">By the 1970&apos;s, soy sauce and miso was kept in barrel and sold by measuring at grocery stores (liquor store or Mikawaya), but sale-by-measuring system disappeared with changes in the distribution system, switching to sale in packages such as bags or plastic containers.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="42">
+<j>従来は袋詰めの際、添加物としてソルビン酸カリウムが使用されたが、現在は酒精（アルコール）を2～3%添加する。</j>
+<e type="trans" ver="1">Formerly potassium sorbate was used as additive in a packaging process, but nowadays ethyl alcohol is added at two or three percent.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Formerly potassium sorbate was used as additive in a packaging process, but nowadays ethyl alcohol is added at two or three percent.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Formerly potassium sorbate was used as additive in a packaging process, but nowadays ethyl alcohol is added at two or three percent.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>これにより、膨張を防ぐことができる。</j>
+<e type="trans" ver="1">This prevents expansion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This prevents expansion.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This prevents expansion.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>JASによる分類</j>
+<e type="trans" ver="1">Classification by JAS (Japan Agricultural Standards)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Classification by JAS (Japan Agricultural Standards)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Classification by JAS (Japan Agricultural Standards)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="44">
+<j>味噌は日本農林規格では「みそ」と表記され、次のように分類される。</j>
+<e type="trans" ver="1">According to Japan Agricultural Standards (JAS), miso is written as &apos;みそ&apos; and classified as follows.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to Japan Agricultural Standards (JAS), miso is written as &apos;みそ&apos; and classified as follows.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">According to Japan Agricultural Standards (JAS), miso is written as &apos;みそ&apos; and classified as follows.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="45">
+<j>みそ</j>
+<e type="trans" ver="1">Miso</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miso</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miso</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="46">
+<j>米みそ - 大豆と米を発酵・熟成させたもの。</j>
+<e type="trans" ver="1">Rice miso - it is made by fermenting and maturing soybeans and rice.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rice miso - made by fermenting and maturing soybeans and rice.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Rice miso - made by fermenting and maturing soybeans and rice.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="47">
+<j>麦みそ - 大豆と大麦又ははだか麦を発酵・熟成させたもの。</j>
+<e type="trans" ver="1">Barley miso - it is made by fermenting and maturing soybeans and barley or rye.</e>
+<cmt>用語検索で「麦みそ」は&quot;barley miso&quot;となっていますが、原文によると麦みそは「大麦またははだか麦」を使うとなっており、barleyでなくryeが使用される可能性もあります。ですが一応、用語をそのまま使用しました。</cmt>
+<e type="trans" ver="2">Barley miso - made by fermenting and maturing soybeans and barley or rye.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Barley miso - made by fermenting and maturing soybeans and barley or rye.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="48">
+<j>豆みそ - 大豆を発酵・熟成させたもの。</j>
+<e type="trans" ver="1">Soybean miso - it is made by fermenting and maturing soybeans.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Soybean miso - made by fermenting and maturing soybeans.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Soybean miso - made by fermenting and maturing soybeans.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="49">
+<j>調合みそ - 上記の各みそを混合したもの。</j>
+<e type="trans" ver="1">Blended miso - it is made by blending miso mentioned above.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Blended miso - made by blending miso mentioned above.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Blended miso - made by blending miso mentioned above.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>または、その他のみそ。</j>
+<e type="trans" ver="1">It also can be other kinds of miso.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It also can be other kinds of miso.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It also can be other kinds of miso.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>赤味噌・白味噌</j>
+<e type="trans" ver="1">Red miso and White miso</e>
+<cmt></cmt>
+<e type="trans" ver="2">Red miso and White miso</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Red miso and white miso</e>
+<cmt>文頭のみ大文字</cmt>
+</tit>
+<par id="1">
+<sen id="51">
+<j>赤味噌・白味噌の違いは、大豆や麹のたんぱく質と糖分によるメイラード反応により生まれ、主に熟成期間に由来する。</j>
+<e type="trans" ver="1">The difference between red miso and white miso is created by Maillard reaction caused by protein and sugar in soybean and koji, and mainly arises from the period of maturing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The difference between red miso and white miso is created by Maillard reaction caused by protein and sugar in soybean and koji, and mainly arises from a period of maturing.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The difference between red miso and white miso is created by Maillard reaction caused by protein and sugar in soybean and koji, and mainly arises from a period of maturing.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="52">
+<j>赤味噌は、1年以上熟成させたものであり、そのため塩分濃度が高い。</j>
+<e type="trans" ver="1">Red miso is matured for more than a year, therefore it contains salt at high concentration.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Red miso is matured for more than a year, therefore it contains salt at high concentration.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Red miso is matured for more than a year, therefore it contains salt at high concentration.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>熟成期間が長いので、メイラード反応が進み褐色の色が着く。</j>
+<e type="trans" ver="1">Because its maturing period is long, Maillard reaction proceeds so that miso takes on a brownish color.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because its maturing period is long, Maillard reaction proceeds so that miso takes on a brownish color.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Because its maturing period is long, Maillard reaction proceeds so that miso takes on a brownish color.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>白味噌は、塩分濃度が低く熟成期間が数ヶ月と短い。</j>
+<e type="trans" ver="1">White miso contains salt at low concentration and is matured for as short as several months.</e>
+<cmt></cmt>
+<e type="trans" ver="2">White miso contains salt at a low concentration and is matured for as short as several months.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">White miso contains salt at a low concentration and is matured for as short as several months.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="55">
+<j>熟成期間が短いので色が白く材料の麦などの粒子が残るものもある。</j>
+<e type="trans" ver="1">Because its maturing period is short, its color is white and sometimes grains of ingredient such as barley or others remain.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because its maturing period is short, its color is white and sometimes grains of ingredients such as barley or others remain.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because its maturing period is short, its color is white and sometimes grains of ingredients such as barley or others remain.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>その他メイラード反応を抑えるために、大豆を蒸すのではなく茹でたり、麹の種類や、量を調節するなどの方法がとられる。</j>
+<e type="trans" ver="1">Other measures are also taken to suppress Maillard reaction: boiling soybeans instead of steaming, or regulating the kind or amount of koji.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other measures are also taken to suppress the Maillard reaction: boiling soybeans instead of steaming, or regulating the kind or amount of koji.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Other measures are also taken to suppress the Maillard reaction: boiling soybeans instead of steaming, or regulating the kind or amount of koji.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="57">
+<j>赤味噌は塩分濃度が高く塩辛く、熟成期間が長いのでコクがある。</j>
+<e type="trans" ver="1">Red miso contains salt at high concentration and is salty, and has plenty of body to it because of the long period of maturing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Red miso contains salt at high concentrations and tastes salty, and has plenty of body to it because of the long period of maturing.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Red miso contains salt at high concentrations and tastes salty, and has plenty of body to it because of the long period of maturing.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>白味噌は塩分濃度が低く麹の糖分により甘い。</j>
+<e type="trans" ver="1">White miso contains salt at low concentration, and is sweet because of the sugar in koji.</e>
+<cmt></cmt>
+<e type="trans" ver="2">White miso contains salt at low concentration, and is sweet because of the sugar in koji.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">White miso contains salt at low concentration, and is sweet because of the sugar in koji.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>赤味噌は、東北地方（米）・中京圏（豆）を中心に作られている。</j>
+<e type="trans" ver="1">Red miso is produced mainly in Tohoku region (rice) and Chukyo area (soybean).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Red miso is produced mainly in the Tohoku region (rice) and Chukyo area (soybean).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Red miso is produced mainly in the Tohoku region (rice) and Chukyo area (soybean).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="60">
+<j>豆は糖分が少なくアミノ酸の材料である蛋白質が多く含まれているので、豆からは主に赤味噌が造られている。</j>
+<e type="trans" ver="1">Because beans are low in sugar and high in protein which is the material for amino acid, beans are mainly processed into red miso.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because beans are low in sugar and high in protein which is the material for amino acid, beans are mainly processed into red miso.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Because beans are low in sugar and high in protein which is the material for amino acid, beans are mainly processed into red miso.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>米味噌・豆味噌・麦味噌の特徴と地域</j>
+<e type="trans" ver="1">Characteristics and regions of rice miso, soybean miso, and barley miso</e>
+<cmt></cmt>
+<e type="trans" ver="2">Characteristics and regions of rice miso, soybean miso, and barley miso</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Characteristics and regions of rice miso, soybean miso, and barley miso</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="61">
+<j>全国的に見て、一般的な味噌は米味噌であり、豆味噌（赤）は、中京地域のみで造られている。</j>
+<e type="trans" ver="1">The kind of miso which is widely distributed nationwide is rice miso, and soybean miso (red) is produced only in Chukyo area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The kind of miso which is widely distributed nationwide is rice miso, and soybean miso (red) is produced only in the Chukyo area.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The kind of miso which is widely distributed nationwide is rice miso, and soybean miso (red) is produced only in the Chukyo area.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="62">
+<j>米味噌の色は、黄色や黄色を帯びた白色、赤色など多様。</j>
+<e type="trans" ver="1">Rice miso vary in color from yellow to yellowish white and red.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rice miso varies in color from yellow to yellowish white and red.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Rice miso varies in color from yellow to yellowish white and red.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>米味噌は淡色の場合、一般に煮大豆を用いるが、赤みのかなり濃い米味噌は蒸し大豆を用いる。</j>
+<e type="trans" ver="1">Light-colored rice miso is generally made from boiled soybeans, whereas deep-red rice miso is made from steamed soybeans.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Light-colored rice miso is generally made from boiled soybeans, whereas deep-red rice miso is made from steamed soybeans.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Light-colored rice miso is generally made from boiled soybeans, whereas deep-red rice miso is made from steamed soybeans.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="64">
+<j>また、米麹が多く使用される味噌ほど熟成期間が短く済む傾向もある。</j>
+<e type="trans" ver="1">Miso made with a lot of rice koji (malted rice) tend to mature in a short period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miso made with a lot of rice koji (malted rice) tend to mature in a short period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miso made with a lot of rice koji (malted rice) tend to mature in a short period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="65">
+<j>米の白味噌では信州味噌・西京味噌が代表的で、米の赤味噌では津軽味噌、仙台味噌などが代表的である。</j>
+<e type="trans" ver="1">The representative white miso made from rice are Shinshu miso (made in Nagano Prefecture) and Saikyo miso (made in Kyoto), and the representative red miso made from rice are Tsugaru miso (made in Aomori Prefecture) and Sendai miso (made in Miyagi Prefecture).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Representative white miso made from rice are Shinshu miso (made in Nagano Prefecture) and Saikyo miso (made in Kyoto), and the representative red miso made from rice are Tsugaru miso (made in Aomori Prefecture) and Sendai miso (made in Miyagi Prefecture).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Representative white miso made from rice are Shinshu miso (made in Nagano Prefecture) and Saikyo miso (made in Kyoto), and the representative red miso made from rice are Tsugaru miso (made in Aomori Prefecture) and Sendai miso (made in Miyagi Prefecture).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="66">
+<j>西京味噌は甘みが強く、仙台味噌は辛みが強い。</j>
+<e type="trans" ver="1">Saikyo miso is very sweet, and Sendai miso is very salty.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saikyo miso is very sweet, and Sendai miso is very salty.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Saikyo miso is very sweet, and Sendai miso is very salty.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="67">
+<j>津軽味噌はコクがあり、信州味噌はあっさりとした口当たりを特徴とするなど様々なタイプがある。</j>
+<e type="trans" ver="1">Tsugaru miso has a good body, and Shinshu miso has a light taste; there are various kinds of rice miso.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tsugaru miso has good body, and Shinshu miso has a light taste; there are various kinds of rice miso.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tsugaru miso has good body, and Shinshu miso has a light taste; there are various kinds of rice miso.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="68">
+<j>米味噌の多く消費される地域は、東日本全域と、北陸地方、近畿地方である。</j>
+<e type="trans" ver="1">Rice miso are mainly consumed in the whole eastern Japan, Hokuriku region, and Kinki region.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rice miso is mainly consumed in all eastern Japan, Hokuriku and Kinki regions.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Rice miso is mainly consumed in all eastern Japan, Hokuriku and Kinki regions.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="69">
+<j>麦味噌は生産量の11%ほどを占め、九州地方、中国地方西部、四国西部では主に麦の白味噌が造られている。</j>
+<e type="trans" ver="1">Barley miso accounts for about 11 percent of the total production, and Kyushu region, the west of Chugoku region, and the west of Shikoku region are where white miso made from barley is mainly produced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Barley miso accounts for about eleven percent of the total production, and the Kyushu region, west of Chugoku region, and west of Shikoku region are where white miso made from barley is mainly produced.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Barley miso accounts for about eleven percent of the total production, and the Kyushu region, west of Chugoku region, and west of Shikoku region are where white miso made from barley is mainly produced.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="70">
+<j>北関東では、大麦を使った赤味噌が造られている。</j>
+<e type="trans" ver="1">In Kita Kanto (Northern Kanto), red miso made from barley is produced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Kita Kanto (Northern Kanto), red miso made from barley is produced.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In Kita Kanto (Northern Kanto), red miso made from barley is produced.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="71">
+<j>豆の赤味噌は蒸し大豆（或は煮大豆）と豆麹を用いる。</j>
+<e type="trans" ver="1">Soybean red miso is made from steamed soybeans (or boiled soybeans) and soybean koji.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Soybean red miso is made from steamed soybeans (or boiled soybeans) and soybean koji.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Soybean red miso is made from steamed soybeans (or boiled soybeans) and soybean koji.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="72">
+<j>米の赤味噌よりも熟成期間が長いので、その色は米の赤味噌よりもさらに赤みが強く黒味を帯びた濃い赤茶色である。</j>
+<e type="trans" ver="1">It has a longer maturing period than rice red miso, so that its color of red is deeper than rice red miso: deep reddish brown tinged with black.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It has a longer maturing period than rice red miso, so that its color red is deeper than rice red miso: deep reddish brown tinged with black.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It has a longer maturing period than rice red miso, so that its color red is deeper than rice red miso: deep reddish brown tinged with black.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="73">
+<j>米味噌や麦味噌に比べて甘味が少なく、渋味がありうまみが強いのが、大きな特徴である。</j>
+<e type="trans" ver="1">Compared to rice miso and barley miso, it is less sweet and have a nasty bitter taste and strong umami, which are distinguishing characteristics of soybean red miso.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Compared to rice miso and barley miso, it is less sweet and has a nasty bitter taste and strong umami, which are distinguishing characteristics of soybean red miso.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Compared to rice miso and barley miso, it is less sweet and has a nasty bitter taste and strong umami, which are distinguishing characteristics of soybean red miso.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="74">
+<j>豆味噌を主として消費するのは中京圏の愛知県全域、岐阜県美濃国の中南部・西部、三重県北東部に限られる。</j>
+<e type="trans" ver="1">The regions in which soybean miso is mainly consumed are limited to the whole Aichi Prefecture of Chukyo area, the south-central and western Mino Province of Gifu Prefecture, and the north-eastern part of Mie Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The regions in which soybean miso is mainly consumed are limited to all of the Aichi Prefecture of Chukyo area, the south-central and western Mino Province of Gifu Prefecture, and the north-eastern part of Mie Prefecture.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The regions in which soybean miso is mainly consumed are limited to all of the Aichi Prefecture of Chukyo area, the south-central and western Mino Province of Gifu Prefecture, and the north-eastern part of Mie Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="75">
+<j>豆味噌では、八丁味噌が代表的である。</j>
+<e type="trans" ver="1">The representative soybean miso is Haccho miso.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Representative soybean miso is Haccho miso.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Representative soybean miso is Haccho miso.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="76">
+<j>なお、近年ではこの他に雑穀のアワ、ヒエ、キビを使った味噌が一部の自然食品店などで販売されている。</j>
+<e type="trans" ver="1">In recent years, miso made from various grains such as foxtail millet, barnyard millet, and common millet, are also sold at some natural food stores.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In recent years, miso made from various grains such as foxtail millet, barnyard millet, and common millet, are also sold at some natural food stores.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In recent years, miso made from various grains such as foxtail millet, barnyard millet, and common millet, are also sold at some natural food stores.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="77">
+<j>麹酸の発がん性</j>
+<e type="trans" ver="1">Carcinogenicity of kojic acid</e>
+<cmt></cmt>
+<e type="trans" ver="2">Carcinogenicity of kojic acid</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Carcinogenicity of kojic acid</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="78">
+<j>麹酸（コウジ酸／Kojic acid）は、平成7年の食品衛生法改正に伴う既存添加物として使用が認められている食品添加物である。</j>
+<e type="trans" ver="1">Kojic acid is a food additive which is approved for use as existing additive, according to the revision of the Food Sanitation Law in 1995.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kojic acid is a food additive which is approved for use as an existing additive, according to the revision of the Food Sanitation Law in 1995.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kojic acid is a food additive which is approved for use as an existing additive, according to the revision of the Food Sanitation Law in 1995.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="79">
+<j>この麹酸は味噌やしょう油等の製造に用いられる麹菌（Aspergillus属等）が生成する、抗菌作用を持ち原料の腐敗を防ぐ効果がある重要な物質である。</j>
+<e type="trans" ver="1">The acid is produced by Aspergillus oryzae (the genus Aspergillus or others), which is used for production of miso, soy sauce, and so on; it is an important substance which has an antibacterial effect and prevents the ingredients from rotting.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The acid is produced by Aspergillus oryzae (the genus Aspergillus or others), which is used for production of miso, soy sauce, and so on; it is an important substance which has an antibacterial effect and prevents the ingredients from rotting.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The acid is produced by Aspergillus oryzae (the genus Aspergillus or others), which is used for production of miso, soy sauce, and so on; it is an important substance which has an antibacterial effect and prevents the ingredients from rotting.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="80">
+<j>ところが、その麹酸に肝臓癌などを誘発する危険性が指摘されるに至り、味噌や醤油の発がん性が問題になった。</j>
+<e type="trans" ver="1">On the other hand, carcinogenicity of miso and soy sauce became an issue when it was pointed out that kojic acid leads to a risk of liver cancer.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the other hand, the carcinogenicity of miso and soy sauce became an issue when it was pointed out that kojic acid leads to the risk of liver cancer.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">On the other hand, the carcinogenicity of miso and soy sauce became an issue when it was pointed out that kojic acid leads to the risk of liver cancer.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="81">
+<j>しかし、食品中のコウジ酸は熟成中に微生物、酵素等によって分解されるし（塩分が不足するとカビが生える）動物試験での濃度に比して食品中の濃度はごく微量でしかない。</j>
+<e type="trans" ver="1">However, kojic acid in food is resolved by microbes and enzymes in maturing (the lack of salt makes mold grow) and its amount in food is minute compared to its concentration in biological tests.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, kojic acid in food is resolved by microbes and enzymes upon maturing (the lack of salt allows mold to grow) and its amount in food is minute compared to its concentration in biological tests.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, kojic acid in food is resolved by microbes and enzymes upon maturing (the lack of salt allows mold to grow) and its amount in food is minute compared to its concentration in biological tests.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="82">
+<j>味噌により、肝がんを含めがんの発生が抑制されるという動物試験結果があることや古くから摂取され続けてきた食物であることから、麹酸の毒性は問題にならないとされている。</j>
+<e type="trans" ver="1">Because animal experiments show that miso prevents the incidence of cancers including lung cancer, and it is a traditional food which have been eaten for a long time; the toxicity of kojic acid is considered to have little effect.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because animal experiments show that miso prevents the incidence of cancer including lung cancer, and it is a traditional food which has been eaten for a long time; the toxicity of kojic acid is considered to have little effect.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because animal experiments show that miso prevents the incidence of cancer including lung cancer, and it is a traditional food which has been eaten for a long time; the toxicity of kojic acid is considered to have little effect.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="83">
+<j>以上代表的なブランド的な味噌をあげたが、全国各地で味噌は作られているということを付記しておく。</j>
+<e type="trans" ver="1">Although only some representative and famous kinds of miso are listed above, miso are produced all over the country.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although only some representative and famous kinds of miso are listed above, miso are produced all over the country.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Although only some representative and famous kinds of miso are listed above, miso are produced all over the country.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="84">
+<j>味噌の風味・色は各地方でそれぞれ特徴があり、地方色の強い食材でもある。</j>
+<e type="trans" ver="1">Miso vary in flavor and color by region, making them a home-grown food.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miso varies in flavor and color by region, making them a home-grown food.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Miso varies in flavor and color by region, making them a home-grown food.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>健康に役立つとの説</j>
+<e type="trans" ver="1">The theory about miso&apos;s health benefit</e>
+<cmt></cmt>
+<e type="trans" ver="2">The theory about miso&apos;s health benefit</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The theory about miso&apos;s health benefit</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="85">
+<j>発酵によって作られる「脂肪酸エチル」が、癌を引き起こす変異原の力を抑制するという説がある。</j>
+<e type="trans" ver="1">There is a theory that &apos;fatty acid ethyl&apos; produced by fermentation reduces the power of mutagen which causes cancer.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a theory that &apos;fatty acid ethyl&apos; produced by fermentation reduces the power of mutagen which causes cancer.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There is a theory that &apos;fatty acid ethyl&apos; produced by fermentation reduces the power of mutagen which causes cancer.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="86">
+<j>味噌汁を飲む回数が多い人は、胃がん死亡率が低くなるという調査結果がある。</j>
+<e type="trans" ver="1">Investigation results show that people often drink miso soup have low death rate from stomach cancer.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Results of investigation show that people who often drink miso soup have low death rate from stomach cancer.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Results of investigation show that people who often drink miso soup have low death rate from stomach cancer.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="87">
+<j>（1981年がん学会）</j>
+<e type="trans" ver="1">(Japanese Cancer Association in 1981)</e>
+<cmt>「がん学会」は「日本癌学会」のことと推測し（&quot;がん学会&quot;、&quot;1981&quot;、&quot;みそ&quot;をキーワードに検索）、訳出しました。</cmt>
+<e type="trans" ver="2">(Japanese Cancer Association in 1981)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(Japanese Cancer Association in 1981)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="88">
+<j>もっとも、味噌には塩分が含まれている為、塩分の過剰摂取には気をつける必要がある。</j>
+<e type="trans" ver="1">However, you should be careful not to consume excessive amount of salt because miso contains it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, you should be careful not to consume excessive amounts of salt because miso has a lot of it.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, you should be careful not to consume excessive amounts of salt because miso has a lot of it.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Ypacaraí(id:11031), Hhaithait(id:37092), 0null0(id:582), DragonBot(id:161936), TPK(id:123522), Bot-chan(id:39886), Tgmsito(id:15714), ＲＪＡＮＫＡ(id:118019), Ultratomio(id:1090), Revth(id:12179), Smallers(id:74093), Ygn kamiya(id:627), Tsk(id:1153), らりた(id:1327), 赤井彗星(id:18381), たぬき(id:27723), Michey.M(id:906), Kenpei(id:11349), A-Taul(id:41790), Knua(id:66861), Tamago915(id:11009), Point136(id:211299), 百楽天(id:5266), FlaBot(id:30804), Tomo33611(id:22856), Kouko0515(id:100370), Natsubon(id:1515), Starbacks(id:1018), いろはにほへと(id:89648), マクガイア(id:33346), Yucyandesyo(id:114835), Jud(id:15582), PixelBot(id:166734), リファイル(id:91084), SUMAKO(id:206516), ウェルワィ(id:15692), Rusk(id:9895), Doratea(id:37080), SilvonenBot(id:190970), Tietew(id:4054), あんも騎士(id:139357), Chlewbot(id:33904), Chatamabot(id:304037), Kuha455405(id:35818), Bigben(id:1039), You-kan(id:33117), ウミユスリカ(id:9504), Suisui(id:69), 立志堂(id:132177), 唐変木(id:17050), Modeha(id:1276), Charenji(id:7908), Roger(id:9883), TXiKiBoT(id:107492), Toto-tarou(id:16648), Freedonian(id:110955), Bandalgom(id:31841), くっちゃめ(id:86793), Loveless(id:129239), Jenson(id:168953), Nachi(id:2723), Moririn(id:37390), Xanut(id:48705), Izayohi(id:13095), Kentin(id:6768), なおぞー(id:80442), 水野白楓(id:22811), Dancing fool(id:90442), Tamera63(id:159316), Hogué(id:18263), Monado(id:53906), 竃馬(id:102733), VolkovBot(id:105371), Yukichin(id:725), YurikBot(id:18605), TottyBot(id:101680), Corwin(id:973), 商事品川(id:68669), SieBot(id:126695), Kisitani(id:26556), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>竜宮浜海水浴場</j>
+<e type="trans" ver="1">Ryuguhama Seaside Resort</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ryuguhama Seaside Resort</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ryuguhama Seaside Resort</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>竜宮浜海水浴場（りゅうぐうはま かいすいよくじょう）は、京都府舞鶴市の日本海に面する海水浴場。</j>
+<e type="trans" ver="1">Ryuguhama Kaisui Yokujo (Ryuguhama Seaside Resort) is a seaside resort facing the Sea of Japan located in Maizuru City, Kyoto Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ryuguhama Kaisui Yokujo (Ryuguhama Seaside Resort) is a seaside resort facing the Sea of Japan, located in Maizuru City, Kyoto Prefecture.</e>
+<cmt>「,」挿入</cmt>
+<e type="check" ver="1">Ryuguhama Kaisui Yokujo (Ryuguhama Seaside Resort) is a seaside resort facing the Sea of Japan, located in Maizuru City, Kyoto Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>三浜海水浴場と小橋海水浴場の二つの浜で構成される。</j>
+<e type="trans" ver="1">It consists of two beaches: Mihama beach, and Kohama beach.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It consists of two beaches: Mihama beach, and Kohama beach.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It consists of two beaches: Mihama beach, and Kohashi beach.</e>
+<cmt>地名を修正しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>特徴</j>
+<e type="trans" ver="1">Features</e>
+<cmt></cmt>
+<e type="trans" ver="2">Features</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Features</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>大浦半島の西にある遠浅の白浜で、全長は約1.5km。</j>
+<e type="trans" ver="1">It is a white shallow beach of approximately 1.5 km in total length located on the west side of Oura Peninsula.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a beach of white sand where the sea is shallow, approximately 1.5 km in length located on the west side of Oura Peninsula.</e>
+<cmt>「white shallow beach of」→「beach of white sand where the sea is shallow,」, 「total」削除</cmt>
+<e type="check" ver="1">It is a beach of white sand where the sea is shallow, approximately 1.5 km in length located on the west side of Oura Peninsula.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>一帯は若狭湾国定公園に指定され、沖合いの島々が望める豊かな自然が魅力的である。</j>
+<e type="trans" ver="1">Its neighborhood is designated as Wakasa Wan Quasi-National Park blessed with rich natural environment and great scenery of many islands on the sea.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its neighborhood is designated as Wakasa Wan Quasi-National Park, which is blessed with a rich natural environment and has great views of the many islands on the sea.</e>
+<cmt>「, which is」挿入,「a」挿入,「has」挿入,「the」挿入, 「on」→「in」</cmt>
+<e type="check" ver="1">Its neighborhood is designated as Wakasa Bay Quasi-National Park, which is blessed with a rich natural environment and has great views of the many islands on the sea.</e>
+<cmt>Wakasa Bay としました。</cmt>
+</sen>
+<sen id="5">
+<j>海開きは毎年7月上旬。</j>
+<e type="trans" ver="1">The beaches open in early July every year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The beaches open in early July every year.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The beaches open in early July every year.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>交通アクセス</j>
+<e type="trans" ver="1">Access</e>
+<cmt></cmt>
+<e type="trans" ver="2">Access</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Access</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>西日本旅客鉄道 舞鶴線 東舞鶴駅からバスで約35分。</j>
+<e type="trans" ver="1">From Higashimaizuru Station on Maizuru Line of West Japan Railway Company, a bus takes you to the beaches in approximately 35 minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Higashimaizuru Station on the Maizuru Line run by the West Japan Railway Company, a bus takes you to the beaches in approximately 35 minutes.</e>
+<cmt>「the」挿入, 「of」→「run by the」. Giving the name of the company is a little unnatural - it may be better to remove &apos;run by the West Japan Railway Company&apos;.</cmt>
+<e type="check" ver="1">From Higashi-Maizuru Station on the Maizuru Line run by the West Japan Railway Company, a bus takes you to the beaches in approximately thirty-five minutes.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>京都駅から特別急行列車まいづるに乗り、約1時間30分で東舞鶴駅着。</j>
+<e type="trans" ver="1">From Kyoto Station, Limited Express Maizuru takes you to Higashimaizuru Station in approximately 90 minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Kyoto Station, the Limited Express Maizuru takes you to Higashimaizuru Station in approximately 90 minutes.</e>
+<cmt>「the」挿入</cmt>
+<e type="check" ver="1">From Kyoto Station, the Limited Express Maizuru takes you to Higashimaizuru Station in approximately 90 minutes.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>舞鶴若狭自動車道 舞鶴東インターチェンジから大浦半島方面。</j>
+<e type="trans" ver="1">From the exit at Higashimaizuru Interchange of Maizuru-Wakasa Expressway, drive headed for Oura Peninsula.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From the Higashimaizuru Interchange on the Maizuru-Wakasa Expressway, drive towards Oura Peninsula.</e>
+<cmt>「exit at」削除, 「of」→「on the」, 「headed」→「towards」</cmt>
+<e type="check" ver="1">From the Higashi-Maizuru Interchange on the Maizuru-Wakasa Expressway, drive towards Oura Peninsula.</e>
+<cmt>Higashi-Maizuru としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>施設概要</j>
+<e type="trans" ver="1">Summary of the facilities</e>
+<cmt></cmt>
+<e type="trans" ver="2">Facilities</e>
+<cmt>「Summary of the」削除</cmt>
+<e type="check" ver="1">Facilities</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="9">
+<j>駐車場</j>
+<e type="trans" ver="1">Parking</e>
+<cmt></cmt>
+<e type="trans" ver="2">Parking</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Parking</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>1,000円/日</j>
+<e type="trans" ver="1">\1000 per day</e>
+<cmt></cmt>
+<e type="trans" ver="2">\1000 per day</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">1000 yen per day</e>
+<cmt>yen としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="11">
+<j>トイレ・公共シャワー</j>
+<e type="trans" ver="1">Communal rest rooms and showers</e>
+<cmt></cmt>
+<e type="trans" ver="2">Communal rest rooms and showers</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Public rest rooms and showers</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>あり</j>
+<e type="trans" ver="1">Available</e>
+<cmt></cmt>
+<e type="trans" ver="2">Available</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Available</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Rusk(id:9895), Fuji-77(id:22233), ぱむ(id:24323), Fromm(id:71291), Sea of Japan(id:3230), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

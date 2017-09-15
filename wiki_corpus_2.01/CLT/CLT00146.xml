@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>芋棒</j>
+<e type="trans" ver="1">imobo (Dish of boiled shrimp potato and dried cod. A famous local cuisine of Kyoto.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">imobo (Dish of boiled shrimp potato and dried cod. A famous local cuisine of Kyoto.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">imobo (Dish of boiled shrimp-shaped potato and dried cod. A famous local cuisine of Kyoto.)</e>
+<cmt>用語修正</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>芋棒（いもぼう）とは、京料理として名高い、京都市の郷土料理。</j>
+<e type="trans" ver="1">As a famous cuisine of Kyoto, imobou is a local specialty of Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As famous cuisine of Kyoto, imobou is a local specialty of Kyoto City.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As famous cuisine of Kyoto, imobou is a local specialty of Kyoto City.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>エビイモと棒鱈を炊き合わせたもの。</j>
+<e type="trans" ver="1">It is a dish of cooked mixture of shrimp-shaped potato with dried cod.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a cooked mixture of shrimp-shaped potato with dried cod.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is a cooked mixture of shrimp-shaped potato with dried cod.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>京野菜である海老芋はサトイモの一種である。</j>
+<e type="trans" ver="1">The Kyoto vegetable shrimp-shaped potato is a kind of taro. It originated from the Chinese potato planted in Kyushu during mid Edo Era which was brought to Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto vegetable shrimp-shaped potato is a kind of taro. It originated from the Chinese potato planted in Kyushu brought to Kyoto during the mid Edo Era.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The Kyoto vegetable shrimp-shaped potato is a kind of taro.</e>
+<cmt>一原文一訳文例外対処。原文の文末を修正。</cmt>
+</sen>
+<sen id="5">
+<j>江戸時代中期に九州で作られていた唐芋（とうのいも）を京都に持ち込んだのが始まり。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It originated from the Chinese potato planted in Kyushu brought to Kyoto during the mid Edo Period.</e>
+<cmt>用語修正一原文一訳文例外対処</cmt>
+</sen>
+<sen id="6">
+<j>棒鱈は真鱈を干したもので、その昔、宮中への献上品だった。</j>
+<e type="trans" ver="1">The dried cod is dried pacific cod. In the past, it was an item presented to the Imperial Court.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The dried pacific cod was an item presented to the Imperial Court In the past..</e>
+<cmt>redundant, grammar</cmt>
+<e type="check" ver="1">The dried cod (pacific cod) was an item presented to the Imperial Court in the past..</e>
+<cmt>用語修正小文字</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>作り方</j>
+<e type="trans" ver="1">How to make</e>
+<cmt></cmt>
+<e type="trans" ver="2">How to make</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">How to make</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>厚く面取りした海老芋と、1週間～10日程かけて柔らかく戻した棒鱈を、1日以上かけて炊き上げる。</j>
+<e type="trans" ver="1">Deep peeled shrimp-shaped potatoes mixed with dried cod softened beforehand (after 7 to 10 days) are simmered for at least 1 day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Peeled shrimp-shaped potatoes mixed with dried cod softened beforehand (after 7 to 10 days) are simmered for at least 1 day.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Peeled shrimp-shaped potatoes mixed with dried cod softened beforehand (after 7 to 10 days) are simmered for at least 1 day.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>煮崩れしやすい芋と煮えにくい棒鱈を普通は一緒に煮ない。</j>
+<e type="trans" ver="1">Usually, potato that boils and softens easily, and dried cod that is not easily cooked though are not put together to boil. However, the ingredient that goes out of the dried cod wraps up the shrimp-shaped potato and thus prevents it from becoming mushy easily. At the same time, the lye that comes out from the shrimp-shaped potato softens the dried cod.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usually, the potato boils and softens easily, but the dried cod is not easily cooked though so, they are not put together to boil. However, the ingredients that seep out of the dried cod covers up the shrimp and potato mixture preventing it from becoming mushy. At the same time, the juices that from the shrimp-shaped potato softens the dried cod.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">The potato boils and softens easily, but the dried cod is not easily cooked through; so, usually they are not put together to boil.</e>
+<cmt>一原文一訳文例外対処原文の文末を修正。原文の内容に合わせて訳文を修正。</cmt>
+</sen>
+<sen id="10">
+<j>しかし、棒鱈から出る成分が海老芋を包み込み煮崩れを防ぎ、海老芋から出る灰汁が棒鱈を柔らかくする。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, the ingredients that seep out of the dried cod covers up the shrimp-shaped potato preventing it from becoming mushy; at the same time, the juices that from the shrimp-shaped potato softens the dried cod.</e>
+<cmt>一原文一訳文例外対処原文を若干修正。用語修正、セル内を一文に。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 パの字(id:34188), BitBucket(id:30999), 軽功(id:40602), Greenland4(id:114494), 1029man(id:93235), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

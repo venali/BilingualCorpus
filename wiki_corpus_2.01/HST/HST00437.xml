@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>官物</j>
+<e type="trans" ver="1">Kanmotsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanmotsu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kanmotsu</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>官物（かんもつ）とは、律令制において租庸調以下、租税として朝廷及び令制国に納入された貢納物のこと。</j>
+<e type="trans" ver="1">Kanmotsu are the tithes that were collected by the court and Rryoseikoku (province) as tax such as Soyocho under the Ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanmotsu are the tithes that were collected by the court and Ryoseikoku (province) as tax such as Soyocho under the Ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Kanmotsu are the tithes that were collected by the imperial court and Ryoseikoku (province) as tax such as Soyocho under the Ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>imperialを追加</cmt>
+</sen>
+<sen id="2">
+<j>租のみを限定して指す場合もある。</j>
+<e type="trans" ver="1">In some cases it is a term restricted to So.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In some cases it is a term restricted to So.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In some cases it is a term restricted to So.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>律令制が崩壊した平安時代中期以後においては、公田などの公領からの貢納物を指した。</j>
+<e type="trans" ver="1">After the Rotsuryo system deteriorated in the middle of the Heian Period, it was the term to describe the tithes from public fields such as Koden.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the Ritsuryo system deteriorated in the middle of the Heian Period, it was the term to describe the tithes from public fields such as Koden.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">After the Ritsuryo system deteriorated in the middle of the Heian Period, it was the term to describe the tithes from public fields such as Koden (field administered directly by a ruler).</e>
+<cmt>(field administered directly by a ruler)を追加</cmt>
+</sen>
+<sen id="4">
+<j>和訓は「おほやけもの」。</j>
+<e type="trans" ver="1">The Japanese reading is &quot;Ohoyakemono&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Japanese reading is &quot;Ohoyakemono.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The Japanese reading is &apos;Ohoyakemono.&apos;</e>
+<cmt>シングルクォート</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>本来は地税である田租を指して官物と呼んだと考えられているが、律令制以後には租庸調をはじめとする貢納物や出挙・正税などのその運用・集積物を含めて「官物」と呼ばれるようになった。</j>
+<e type="trans" ver="1">Originally Kanmotsu is thought to have been the term for Taso, a property tax, but after the Ritsuryo system, &quot;Kanmotsu&quot; became the term to describe tithes such as Soyocho and suiko (government loans), shozei (the rice tax stored in provincial offices&apos; warehouse) and its use and accumulate products.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Originally Kanmotsu is thought to have been the term for Taso, a property tax, but after the Ritsuryo system, &quot;Kanmotsu&quot; became the term to describe tithes such as Soyocho and suiko (government loans), shozei (the rice tax stored in a provincial office&apos;s warehouse) and its use and accumulated products.</e>
+<cmt>articles; singular/plural</cmt>
+<e type="check" ver="1">Originally Kanmotsu is thought to have been the term for Denso (rice field tax), a property tax, but after the Ritsuryo system was established, &apos;Kanmotsu&apos; became the term to describe tithes such as Soyocho and suiko (government loans), shozei (the rice tax stored in a provincial office&apos;s warehouse) and its use and accumulated products.</e>
+<cmt>was establishedを追加シングルクォート</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>租庸調制の崩壊に伴って、人頭税的な庸・調は徴収されなくなる。</j>
+<e type="trans" ver="1">With the deterioration of the Soyocho system, per capita tax such as yo and cho were not enforced.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">With the deterioration of the Soyocho system, per capita taxes such as yo and cho were not enforced.</e>
+<cmt>plural taxes</cmt>
+<e type="check" ver="1">With the deterioration of the Soyocho system, per capita taxes such as yo and cho were not enforced.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>代わって田租と地子米からなる地税的な官物と人頭税的な名残を残した雑役（及びその一種である臨時雑役）に収斂していくことになる。</j>
+<e type="trans" ver="1">Instead, a property tax-like Kanmotsu consisting of Taso and Jishimai (rice paid as rent), and per capita like tax, Zatsueki (and a variation, temporary Zatsueki) were collected</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Instead, a property tax-like Kanmotsu consisting of Taso and Jishimai (rice paid as rent), and per capita tax, Zatsueki (and a variation, temporary Zatsueki) were collected.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Instead, a property tax-like Kanmotsu consisting of Denso and Jishimai (rice paid as rent), and per capita tax, Zatsueki (and a variation, temporary Zatsueki) were collected.</e>
+<cmt>taso→denso</cmt>
+</sen>
+<sen id="8">
+<j>更に雑役も次第に地税化していくことになる。</j>
+<e type="trans" ver="1">Eventually, Zatsueki became like a property tax as well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Eventually, Zatsueki became like a property tax as well.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Eventually, Zatsueki became like a property tax as well.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>ただし、10世紀においてはまだ官物の徴収基準がそれぞれの令制国の国例に定められて稲穀（官稲（かんとう））や米（官米（かんまい））、絹、布などの形で徴収されていたが、実際にはそれぞれの国司によって定められていた。</j>
+<e type="trans" ver="1">However, in the tenth century, the collection standards for Kanmotsu were still decided by the Kokure (provincial law) in each Ritsuryo province and was collected in the form of Inekoku (kanto) and rice (kanmai), silk, and cloth, but in actuality was decided by each Kokushi (officer in local government).</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, in the tenth century, the collection standards for Kanmotsu were still decided by the Kokure (provincial law) in each Ritsuryo province and it was collected in the form of Inekoku (kanto) and rice (kanmai), silk, and cloth, but in actuality was decided by each Kokushi (officer in local government).</e>
+<cmt>added pronoun to clarify subject in the latter half of this run-on sentence</cmt>
+<e type="check" ver="1">However, in the tenth century, the collection standards for Kanmotsu were still decided by the Kokurei (provincial law) in each Ritsuryo province and it was collected in the form of rice grain (kanto [rice grain owned by the government]) and rice (kanmai [rice owned by the government]), silk, and cloth, but in actuality was decided by each Kokushi (officer in local government).</e>
+<cmt>Kokure→Kokureirice grain (kanto [rice grain owned by the government]) rice (kanmai [rice owned by the government])</cmt>
+</sen>
+<sen id="10">
+<j>だが、そのために国例に定められた賦課を上回る官物が徴収されることになる。</j>
+<e type="trans" ver="1">However, as a result, Kanmotsu more than that decided in the Kokurei was collected.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, as a result, Kanmotsu more than that decided in the Kokurei was collected.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, as a result, Kanmotsu more than that decided in the Kokurei was collected.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>これを官物加徴（かんもつかちょう）と呼び、それによって徴収された米を加徴米（かちょうまい）と呼んだ。</j>
+<e type="trans" ver="1">This was called Kanmotsu kacho and the rice collected by this system was called Kacho-mai.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was called Kanmotsu kacho and the rice collected by this system was called Kacho-mai.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This was called Kanmotsu kacho and the rice collected by this system was called Kacho-mai.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>だが、加徴を巡って国司と現地の農民との対立が激化するようになり、11世紀中期には一定の基準（官物率法）に従って官物・雑物が徴収されるようになり、それ以外の臨時の賦課を臨時雑物と呼ぶようになった。</j>
+<e type="trans" ver="1">However, the conflict between Kokushi and the local farmers over Kacho became bigger, and in the middle of the eleventh century, Kanmotsu and Zatsumotsu were collected following a certain standard (Kanmotsu rippo) and other temporary taxation was called Rinjizatsumotsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the conflict between Kokushi and the local farmers over Kacho became bigger, and in the middle of the eleventh century, Kanmotsu and Zatsumotsu were collected following a certain standard (Kanmotsu rippo) and other temporary taxation was called Rinjizatsumotsu.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, conflicts between Kokushi and the local farmers over Kacho became serious, and in the middle of the eleventh century, Kanmotsu and Zatsumotsu were collected following a certain standard (Kanmotsu rippo) and other temporary taxation was called Rinjizatsumotsu.</e>
+<cmt>bigger→seriousthe conflict→conflicts</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="13">
+<j>12世紀に入ると既存の官物率法に代わって、国衙領の公田のみならず、荘園の年貢に対しても一国平均役・御家人役などの形で公租が賦課されるようになり、これらの賦課による貢納物に対しても官物という言葉が用いられるようになり、南北朝時代 (日本)の頃までこの呼称が用いられた。</j>
+<e type="trans" ver="1">In the twelfth century, in place of the previous Kanmotsu rippo, public taxes called Ikkoku heikinyaku (taxes and labor uniformly imposed on shoen (manor) and kokugaryoi (provincial land) in a province)), Gokeninnyaku were collected from not only Kokuga owned public fields but also Shoen and the tithes from these taxes were also called Kanmotsu and this term was used until the period of the Northern and Southern Courts (Japan).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the twelfth century, in place of the previous Kanmotsu rippo, public taxes called Ikkoku heikinyaku (taxes and labor uniformly imposed on shoen manors and provincial lands), Gokeninnyaku were collected from not only Kokuga owned public fields but also Shoen, and the tithes from these taxes were also called Kanmotsu and this term was used until the period of the Northern and Southern Courts (Japan).</e>
+<cmt>deleted some unnecessary bits</cmt>
+<e type="check" ver="1">In the twelfth century, in place of the previous Kanmotsu rippo, public taxes called Ikkoku heikinyaku (taxes and labor uniformly imposed on shoen manors and provincial lands) and Gokeninnyaku (odd-jobs for vassals) were collected from not only Kokuga owned public fields but also Shoen, and the tithes from these taxes were also called Kanmotsu and this term was used until the period of the Northern and Southern Courts (Japan).</e>
+<cmt>(odd-jobs for vassals)を追加</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Law soma(id:45202), 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

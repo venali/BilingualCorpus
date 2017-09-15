@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>覚仁</j>
+<e type="trans" ver="1">Priest Kakunin</e>
+<cmt></cmt>
+<e type="trans" ver="2">Priest Kakunin</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kakunin</e>
+<cmt>Priest削除</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>覚仁（かくにん、生没年不詳）は、平安時代末期の東大寺の僧。</j>
+<e type="trans" ver="1">Priest Kakunin (dates of birth and death unknown), was a priest at Todaiji Temple in the latter part of the Heian Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Priest Kakunin (dates of birth and death unknown), was a priest at Todaiji Temple in the latter part of the Heian Period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kakunin (dates of birth and death unknown), was a priest at Todai-ji Temple in the latter part of the Heian period.</e>
+<cmt>Priest削除ハイフン挿入用語統一</cmt>
+</sen>
+<sen id="2">
+<j>父は東大寺威儀師慶寿。</j>
+<e type="trans" ver="1">His father was Priest Keiji of Todaiji Temple.</e>
+<cmt>威儀師 Priest</cmt>
+<e type="trans" ver="2">His father was Priest Keiji of Todaiji Temple.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">His father was Keiji, an igishi (master of deportment) of Todai-ji Temple.</e>
+<cmt>ハイフン挿入用語統一</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>1132年（長承元年）以前に威儀師となり、1165年（永万元年）の役務停止となるまで東大寺が所有する荘園の拡大や東大寺の再興に功績を上げた。</j>
+<e type="trans" ver="1">He became a priest prior to 1132, and between then and his retirement in 1165 he expanded the grounds of Todaiji and reinvigorated Todaiji Temple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He became a priest prior to 1132, and between then and his retirement in 1165 he expanded the grounds of Todaiji and reinvigorated Todaiji Temple.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He became an igishi prior to 1132, and between then and his retirement in 1165 he expanded the grounds of Todai-ji Temple and reinvigorated Todai-ji Temple.</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="4">
+<j>伊賀国黒田荘や大和国高殿荘をめぐり、目代（もくだい）や興福寺西金堂衆などと争ったが、僧綱を背景にした政治力と流暢な弁舌で有利に決着させ、相手側から「南京の悪僧」とまでいわれた。</j>
+<e type="trans" ver="1">Regarding the Kuroda-no-sho estates in Iga-no-kuni and Koden-sho in Yamato-no-kuni, there were disputes with agents and priests in the &apos;seisando&apos; or image hall west of Kofukuji Temple however with the political strength of the priest administrators and his eloquent speech he won the upper hand and his opponents called him the &apos;wayward priest of the southern capital.&apos;</e>
+<cmt>高殿荘 Koden-sho か不明。 目代　agents 興福寺西金堂衆priests in the &apos;seisando&apos; or image hall west of Kofukuji Temple 僧綱 priest administrators 南京の悪僧 wayward priest of the southern capital</cmt>
+<e type="trans" ver="2">Regarding the Kuroda-no-sho estates in Iga-no-kuni and Koden-sho in Yamato-no-kuni, there were disputes with agents and priests in the &apos;seisando&apos; or image hall west of Kofukuji Temple however with the political strength of the priest administrators and his eloquent speech he won the upper hand and his opponents called him the &apos;wayward priest of the southern capital.&apos;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Regarding the Kuroda-no-sho estates in Iga Province and Koden-sho in Yamato Province, there were disputes with agents and priests in the Saikon-do Hall (An image hall situated to the west of a pagoda in temple grounds) however with the political strength of the priest administrators and his eloquent speech he won the upper hand and his opponents called him the &apos;wayward priest of the southern capital.&apos;</e>
+<cmt>用語統一</cmt>
+</sen>
+<sen id="5">
+<j>自らも大和国清澄荘の田を東大寺に寄進し、1127年（大治2年）東寺が炎上した際には「十二天画像」や「五大尊画像」などを修理している。</j>
+<e type="trans" ver="1">He himself donated fields of Kiyosumi-no-sho in Yamato-no-kuni to Todaiji Temple, and after a fire at the temple in 1127, he repaired the &apos;Juniten Images&apos; (&apos;Image of Twelve Divas&apos;) and the &apos;Godaison Images&apos; (&apos;Five Buddhist Deities).</e>
+<cmt>十二天画像 Juniten Images (&apos;Image of Twelve Divas&apos;) 五大尊画像Godaison Images (Five Buddhist Deities)</cmt>
+<e type="trans" ver="2">He himself donated fields of Kiyosumi-no-sho in Yamato-no-kuni to Todaiji Temple, and after a fire at the temple in 1127, he repaired the &apos;Juniten Images&apos; (&apos;Image of Twelve Divas&apos;) and the &apos;Godaison Images&apos; (&apos;Five Buddhist Deities).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He himself donated fields of Kiyosumi-no-sho in Yamato Province to Todai-ji Temple, and after a fire at To-ji Temple in 1127, he repaired the &apos;Juniten Images&apos; (&apos;Image of Twelve Divas&apos;) and the &apos;Godaison Images&apos; (&apos;Five Buddhist Deities&apos;).</e>
+<cmt>用語統一</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 R28Bot(id:177951), 松茸(id:27535), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>勘定帳</j>
+<e type="trans" ver="1">Kanjocho (Account Books)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanjocho (Account Books)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kanjocho (Account Books)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>勘定帳（かんじょうちょう）とは、米や大豆、金・銀などの収支決算を行うために作成した会計帳簿の1つ。</j>
+<e type="trans" ver="1">Kanjosho is a kind of account book prepared for settlement of balances on rice, soy beans, gold, silver and others.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanjosho is a kind of account book prepared for settlement of balances on rice, soy beans, gold, silver and others.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kanjosho is a kind of account book prepared for settlement of balances on rice, soy beans, gold, silver and others.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>諸藩や商家など民間でも用いられたが、狭義においては江戸幕府から派遣された代官が勘定所に報告するために作成した各種帳簿を指す。</j>
+<e type="trans" ver="1">Kanjocho were also used at domains, merchants and other citizens, but in a more limited sense they mean a variety of account books prepared by local governors dispatched from the Edo bakufu (Japanese feudal government headed by a shogun) for reports to be submitted to kanjosho (financial offices).</e>
+<cmt>「勘定所」は２箇所あるため、ministryは不適切と判断しました。officeを使ってあります。</cmt>
+<e type="trans" ver="2">Kanjocho were also used by domains, merchants and other citizens, but in a more limited sense they mean a variety of account books prepared by local governors dispatched from the Edo bakufu (Japanese feudal government headed by a shogun) for reports to be submitted to kanjosho (financial offices).</e>
+<cmt>used at を used by に訂正しました。</cmt>
+<e type="check" ver="1">Kanjocho were also used by domains, merchants and other citizens, but in a more limited sense they mean a variety of account books prepared by local governors dispatched from the Edo bakufu (Japanese feudal government headed by a shogun) for reports to be submitted to kanjosho (financial offices).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>幕府で採用されていたものには大きく分けて以下の3つある。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Those adopted by the bakufu are roughly classified into the following three:</e>
+<cmt>「幕府で採用されていたものには大きく分けて3つあり、」を独立させて、「幕府で採用されていたものには大きく分けて以下の3つある。」としました。一原文一訳文の例外対処</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>地方勘定帳（じかたかんじょうちょう）は、年貢・小物成・運上・冥加などの出納・皆済後決算を扱う。</j>
+<e type="trans" ver="1">Those adopted by the bakufu are roughly classified into three: local account books used to record revenue and expenditure, as well as settlements after payments in full, for land taxes, miscellaneous taxes, public levies imposed on workers, license fees, etc.;</e>
+<cmt>「農業以外の各種産業（商業・工業・漁業など）の従事者に対して一定の税率を定めて課税したものを運上と呼んだ。これに対して特定の免許を得てその代わりに一定の税率等を定めずに必要に応じて上納させたものを冥加（冥加金）と呼んだ運上（うんじょう）とは、近代の日本における租税の一種」を参考に訳出。</cmt>
+<e type="trans" ver="2">OK</e>
+<cmt>７～９行目の英文は厳密には1文となっています。7行目に全てをまとめることを考えましたが、長文となるためそのままとしました。</cmt>
+<e type="check" ver="1">Local account books used to record revenue and expenditure, as well as settlements after payments in full, for land taxes, miscellaneous taxes, public levies imposed on workers, license fees, etc.</e>
+<cmt>最初を大文字で始めました。最後の;を削除しました。一原文一訳文の例外対処</cmt>
+</sen>
+<sen id="5">
+<j>御金蔵勘定帳（おかねぐらかんじょうちょう）は、年貢以外の出納、すなわち行政経費などの出費、諸手当の支給、拝借金などを扱った。</j>
+<e type="trans" ver="1">treasure house account books used to record non-tax revenue and expenditure for administrative expenses, allowances, borrowings, etc.; and</e>
+<cmt></cmt>
+<e type="trans" ver="2">treasure house account books used to record non-tax revenue and expenditure for administrative expenses, allowances, borrowings, etc.; and</e>
+<cmt>余分な余白を削除しました。</cmt>
+<e type="check" ver="1">Treasure house account books used to record non-tax revenue and expenditure for administrative expenses, allowances, borrowings, etc.</e>
+<cmt>最初を大文字で始めました。最後の;を削除しました。</cmt>
+</sen>
+<sen id="6">
+<j>年貢勘定帳（ねんぐかんじょうちょう）は村方と代官の間で用いられ、村請年貢を村内高持百姓に割り付けてその収支を計算したものであった。</j>
+<e type="trans" ver="1">land tax account books used between village officers and local governors for calculating balance of payments by allocating the land tax imposed on the village to independent farmers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">land tax account books used between village officers and local governors for calculating the balance of payments by allocating the land tax imposed on the village to independent farmers.</e>
+<cmt>balance of payments の頭に the を付加しました。</cmt>
+<e type="check" ver="1">Land tax account books used between village officers and local governors for calculating the balance of payments by allocating the land tax imposed on the village to independent farmers.</e>
+<cmt>最初を大文字で始めました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>勘定帳の本体は厚程村紙・袋綴で小口紙張り、寸法は長さ1尺4寸・横7寸6分・綴目外7分の様式が定められていた。</j>
+<e type="trans" ver="1">The format of these account books is prescribed as dual page binding using thick Japanese paper with paper fore-edge, which are 53.2cm in length, 28.88cm in width and 2.66cm in stitching margin.</e>
+<cmt>程村紙は烏山和紙を代表 する厚手の和紙</cmt>
+<e type="trans" ver="2">The format of these account books is prescribed as dual page binding using thick Japanese paper with paper fore-edge, which are 53.2cm in length, 28.88cm in width and 2.66cm in stitching margin.</e>
+<cmt>一部修正しました。</cmt>
+<e type="check" ver="1">The format of these account books was prescribed as dual page binding using thick Japanese paper called &apos;Hodomora-shi&apos; with edges being wrapped by paper; the size had to be 53.2 cm in length, 28.88 cm in width and 2.66 cm in stitching margin.</e>
+<cmt>「小口」は本を綴じる側に対して本の切断面のこと。(=an end)「程村紙（ほどむらし）」：烏山和紙を代表する厚手の和紙→thick Japanese paper called &apos;Hodomora-shi&apos;と紙の名称を入れました。</cmt>
+</sen>
+<sen id="8">
+<j>地方勘定帳は翌年の10月までに提出を義務付けられ、特別な事情がある場合でも3年以内に勘定仕上げをして下勘定所に提出し、監査を経たのちに老中・若年寄・勘定吟味役・勘定奉行・勘定組頭らの前で代官が改めて収支報告をする地方総勘定が行われ、勘定吟味役・勘定奉行・勘定組頭の奥書と老中・勝手掛担当の若年寄による奥印、勝手方老中の綴目印と調印を行って代官に返却された。</j>
+<e type="trans" ver="1">With final settlement of accounts, local account books had to be submitted to Shimo kanjosho (financial office) by October in the following year or within three years under special circumstances for auditing and general local accounting, where the balance of payments was reported by the local governor in front of higher officers such as roju, wakadoshiyori, kanjo ginmiyaku, kanjo bugyo, kanjo kumigashira, and the account books were returned to the local governor with postscripts by kanjo ginmiyaku, kanjo bugyo and kanjo kumigashira attached, certified seals affixed by roju and wakadoshiyori in charge of finance, and a stitching seal and a verification seal affixed by roju in charge of finance.</e>
+<cmt>「奥印：記載した事実が正しいことを証明するために 書類の終わりに押す印」「勝手方：勘定奉行をはじめ老中・ 若年寄などのうち、もっぱら財政を担当したもの」「綴目印と調印は、調べましたが、意味が分かりませんでした。綴じ目の印（これは、ページを抜いたりして改ざんしていないという証拠に押したのでは？）と調べた（検証）印としてあります」</cmt>
+<e type="trans" ver="2">For the final settlement of accounts, local account books had to be submitted to the Shimo kanjosho (financial office) by October in the following year or within three years under special circumstances for auditing and general local accounting, where the balance of payments was reported by the local governor in front of higher officers such as roju, wakadoshiyori, kanjo ginmiyaku, kanjo bugyo, kanjo kumigashira, and the account books were returned to the local governor with postscripts by kanjo ginmiyaku, kanjo bugyo and kanjo kumigashira attached, certified seals were affixed by the roju and wakadoshiyori in charge of finance, and a stitching seal and a verification seal were affixed by the roju in charge of finance.</e>
+<cmt>With final settlement を For the final settlement に変更しました。 roju および　Shimokanjosho に the を付加しました。　affixed の前に were をつけました。</cmt>
+<e type="check" ver="1">For the final settlement of accounts, local account books had to be submitted to the Shimo kanjosho (financial office) by October in the following year or within three years under special circumstances for auditing and general local accounting, where the balance of payments was reported by the local governor in front of higher officers such as roju, wakadoshiyori, kanjo ginmiyaku, kanjo bugyo, kanjo kumigashira, and the account books were returned to the local governor with postscripts by kanjo ginmiyaku, kanjo bugyo and kanjo kumigashira attached, certified seals were affixed by the roju and wakadoshiyori in charge of finance, and a stitching seal and a verification seal were affixed by the roju in charge of finance.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 目蒲東急之介(id:34741), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

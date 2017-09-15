@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>稲荷寿司</j>
+<e type="trans" ver="1">Inari sushi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Inari Sushi</e>
+<cmt>タイトルなので、大文字にしました。</cmt>
+<e type="check" ver="1">Inarizushi</e>
+<cmt>Inarizushi と一単語にしました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>稲荷寿司（いなりずし）は、油揚げの中に飯を詰めた寿司。</j>
+<e type="trans" ver="1">Inari sushi is a kind of sushi made of aburaage (deep-fried tofu) stuffed with rice.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Inari sushi is a kind of sushi made of aburaage (deep-fried tofu) stuffed with rice.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Inarizushi is a kind of sushi made of aburaage (deep-fried tofu) stuffed with rice.</e>
+<cmt>Inarizushi と一単語にしました。次セルの内容を考慮し、漢字を追記しました。</cmt>
+</sen>
+<sen id="2">
+<j>稲荷鮨とも書く。</j>
+<e type="trans" ver="1">It is called inari zushi, too.</e>
+<cmt>日本語の表記についてなので英語では意味がないので,濁音のzushiとしておきました。</cmt>
+<e type="trans" ver="2">It is usually written as 稲荷寿司 in Japanese, but can also be written as 稲荷鮨, too.</e>
+<cmt>OKI&apos;ve included the kanji in the translation because without them, it would be impossible for a native speaker of English to understand the translation.</cmt>
+<e type="check" ver="1">It is usually written as 稲荷寿司 in Japanese, but can also be written as 稲荷鮨, too.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>甘くあるいは甘辛く煮付けた油揚げを袋状に開き、寿司飯（酢飯）をそのまま、あるいはニンジンやシイタケなどの具材を混ぜ込んで詰める。</j>
+<e type="trans" ver="1">Sweetly or salty-sweetly boil-cooked aburaage (deep-fried tofu) being cut in a half, opened in the shape of a bag and stuffed with sushi rice (vinegared rice) directly or mixed with ingredients like carrots, mushrooms.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sweet or salty-sweet boiled aburaage (deep-fried tofu), opened into the shape of a bag and stuffed with sushi rice (vinegared rice) or sushi rice mixed with ingredients like carrots and mushrooms.</e>
+<cmt>「甘くあるいは甘辛く煮付けた」の箇所を訂正しました。「being cut in a half」は原文にないため削除しました。</cmt>
+<e type="check" ver="1">It is made of sweet or salty-sweet boiled aburaage, which is opened into the shape of a bag and stuffed with sushi rice (vinegared rice) or sushi rice mixed with ingredients like carrots and mushrooms.</e>
+<cmt>it is と文頭に追加しました。</cmt>
+</sen>
+<sen id="4">
+<j>もっと具だくさんの、いわゆる「ちらし寿司」を詰めることもある。</j>
+<e type="trans" ver="1">In some cases, it is stuffed with rice with more ingredients which is so-called &apos;chirashi sushi&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In some cases, it is stuffed with &apos;chirashi sushi&apos;, rice with more ingredients.</e>
+<cmt>ちらし寿司と稲荷寿司の関係がわかりにくかったので順序を入れ替えました。</cmt>
+<e type="check" ver="1">In some cases, it is stuffed with &apos;chirashizushi&apos;, rice with more ingredients.</e>
+<cmt>chirashizushi としました。</cmt>
+</sen>
+<sen id="5">
+<j>米俵に模して四角に仕上げる。</j>
+<e type="trans" ver="1">It is formed into a square modeling a komedawara (bag of rice).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is formed into a square modeling a komedawara (bag of rice).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is formed into a square modeling a komedawara (bag of rice).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>いわゆる高級な寿司屋ではあまり見られないが、庶民的な店やテイクアウト専門の寿司屋では人気の寿司。</j>
+<e type="trans" ver="1">This is not seen very much in so-called high-class sushi shops, but is a popular sushi in common shops and takeout specified sushi shops.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is not seen very much in high-class sushi shops, but is a popular sushi in common shops and takeout sushi shops.</e>
+<cmt>「so-called」および「specified」は不要と考え削除しました。</cmt>
+<e type="check" ver="1">This is not seen very much in high-class sushi shops, but is a popular sushi in common shops and takeout sushi shops.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>行楽の弁当などにも良く登場する。</j>
+<e type="trans" ver="1">It is often prepared as an item in a bento (lunch box) of a picnic, too.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is often prepared as an item in bentos (boxed lunch) for picnics, too.</e>
+<cmt>「行楽の弁当」の箇所の前置詞などを変更しました。</cmt>
+<e type="check" ver="1">It is often prepared as an item in bentos (boxed lunch) for picnics, too.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>稲荷寿司と海苔巻きを組み合わせた折り詰めは助六寿司と呼ばれる。</j>
+<e type="trans" ver="1">The box lunch consisted of the combination of inari sushi and norimaki (rolled shshi in dried laver) is called sukeroku sushi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A boxed lunch that consists of a combination of inari sushi and norimaki (rolled sushi in dried laver seaweed) is called Sukeroku sushi.</e>
+<cmt>冠詞を変更しました。寿司のスペルミスを変更しました。</cmt>
+<e type="check" ver="1">A boxed lunch that consists of a combination of inarizushi and norimaki (rolled sushi in dried laver seaweed) is called Sukeroku-zushi.</e>
+<cmt>Inarizushi, Sukeroku-zushi としました。</cmt>
+</sen>
+<sen id="9">
+<j>歌舞伎十八番「助六由縁江戸桜」の主人公、助六の愛人の名が揚巻であることから、 油揚げとのり巻きの洒落から名付けられている。</j>
+<e type="trans" ver="1">This name is taken from the hero&apos;s name in a Kabuki &apos;juhachiban&apos; play, &apos;Sukeroku yuen Edosakura&apos;, and because the name of Sukeroku&apos;s mistress is Agemaki, the sushi of the combination of aburaage(deep-fried tofu) and norimaki (rolled shshi in dried laver) was so named as a pun.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This name is taken from the hero&apos;s name in a Kabuki &apos;juhachiban&apos; play, &apos;Sukeroku yukarino Edosakura&apos;, and because the name of Sukeroku&apos;s mistress is Agemaki, the sushi of a combination of aburaage (deep-fried tofu) and norimaki (rolled sushi in dried laver seaweed) was so named as a pun.</e>
+<cmt>「助六由縁江戸桜」のよみがなを変更しました。揚巻と油揚げとのり巻きの洒落がわかりやすいように下線を引きました。寿司のスペルミスを変更しました。</cmt>
+<e type="check" ver="1">This name is taken from the hero&apos;s name in a Kabuki &apos;juhachiban&apos; play, &apos;Sukeroku yukarino Edozakura&apos; (Sukeroku, Flower of Edo), and because the name of Sukeroku&apos;s mistress is Agemaki, the sushi of a combination of aburaage (age) and norimaki (maki) was so named as a pun.</e>
+<cmt>油揚げ、海苔巻き　既出単語のため、補足を削除しました。「助六由縁江戸桜」　補足を追加しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>各地の稲荷寿司</j>
+<e type="trans" ver="1">Inari sushi of various areas.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Inari sushi of various areas.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Inarizushi of various areas</e>
+<cmt>ピリオドを削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="10">
+<j>埼玉県熊谷市（旧・大里郡妻沼町）名物の稲荷寿司（歓喜院 (熊谷市)聖天寿司）は通常の倍ほどの長径がある。</j>
+<e type="trans" ver="1">The inari sushi called &apos;Shoten sushi&apos; of Kankiin temple (Kumagaya city), which is a specialty of Kumagaya city, Saitama Prefecture (former Menuma Machi, Osato Country), has almost a double diameter of the ordinary one.</e>
+<cmt>一原文一訳文の例外対処&apos;聖天&apos;は&apos;しょうてん&apos;と読むようです</cmt>
+<e type="trans" ver="2">The inari sushi called &apos;Shoten sushi&apos; of Kankiin temple (Kumagaya city), which is a specialty of Kumagaya city, Saitama Prefecture (former Menuma Machi, Osato Country), has almost a double diameter of the ordinary one.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The inarizushi called &apos;Shoten-zushi&apos; of Kanki-in Temple (Kumagaya City), which is a specialty of Kumagaya City, Saitama Prefecture (former Menuma-machi, Osato-gun), has almost a double diameter of the ordinary one.</e>
+<cmt>Shoten-zushi としました。City, Temple 大文字から始めました。</cmt>
+</sen>
+<sen id="11">
+<j>これは江戸時代のいなり寿司の形を反映しているとされている。</j>
+<e type="trans" ver="1">It is believed that this reflects the shape of inari sushi in the Edo period.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It is believed that this reflects the shape of inari sushi in the Edo period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is believed that this reflects the shape of inarizushi in the Edo period.</e>
+<cmt>Inarizushi と一単語にしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="12">
+<j>西日本ではお稲荷さん（おいなりさん）という呼び方も一般的で「揚寿司（あげずし）」と呼ばれることもある。</j>
+<e type="trans" ver="1">In the western Japan, it is usual to call it &apos;oinari-san&apos;, and it is called &apos;age sushi&apos; in some cases.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In western Japan, it is usual to call it &apos;oinari-san&apos;, and it is called &apos;age sushi&apos; in some cases.</e>
+<cmt>冠詞を変更しました。</cmt>
+<e type="check" ver="1">In western Japan, it is usual to call it &apos;oinari-san&apos;, and it is called &apos;age-zushi&apos; in some cases.</e>
+<cmt>age-zushi としました。</cmt>
+</sen>
+<sen id="13">
+<j>近畿地方の年配者には「しのだ寿司」、「信太鮨」、「信田鮨」、「信田寿司」と呼ばれることもある。</j>
+<e type="trans" ver="1">Some elderly people in the Kinki region call it shinoda sushi&apos;, &apos;shinta sushi&apos; etc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some elderly people in the Kinki region call it shinoda sushi&apos;, &apos;shinta sushi&apos; etc.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some elderly people in the Kinki region call it &apos;shinoda-zushi.&apos;</e>
+<cmt>信太鮨、信田鮨、信田寿司はともに「しのだずし」と読まれるようです。</cmt>
+</sen>
+<sen id="14">
+<j>西日本ではごまなどの具材の入った稲荷寿司（五目稲荷ともいう）が多いとされる。</j>
+<e type="trans" ver="1">In the western Japan, it is said that inari sushi with ingredients like sesame (also called &apos;gomoku inari&apos;) are prevalent.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In western Japan, inari sushi with ingredients like sesame (also called &apos;gomoku inari&apos;) are prevalent.</e>
+<cmt>冠詞を変更しました。「It is said that」は不要と考え削除しました。</cmt>
+<e type="check" ver="1">In western Japan, inarizushi with ingredients like sesame (also called &apos;gomoku-inari&apos;) are prevalent.</e>
+<cmt>Inarizushi, gomoku-inari としました。</cmt>
+</sen>
+<sen id="15">
+<j>その上から煮あげた干瓢などで縛ることもある。</j>
+<e type="trans" ver="1">Sometimes it is tied up with an ingredient like boil-cooked kanpyo (dried gourd shavings) around it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sometimes it is tied up with an ingredient like boiled kanpyo (dried gourd shavings) around it.</e>
+<cmt>「煮あげた」の箇所を変更しました。</cmt>
+<e type="check" ver="1">Sometimes it is tied up with an ingredient like boiled kanpyo (dried gourd shavings) around it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>キツネの耳に模して三角形に仕上げたものが主流とされている。</j>
+<e type="trans" ver="1">It is considered that the one shaped into a triangular form imitating the ear of a fox is the mainstream.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is considered that the one shaped into a triangular form imitating the ear of a fox is the most common.</e>
+<cmt>「主流」の箇所を変更しました。</cmt>
+<e type="check" ver="1">It is considered that the one shaped into a triangular form imitating the ear of a fox is the most common.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="17">
+<j>稲荷寿司に関する最古の史料として江戸時代末期に書かれた『守貞謾稿』があり、下記のようにと記載されている。</j>
+<e type="trans" ver="1">The oldest historical document concerning inari sushi is &quot;Morisadamanko&quot; written in the late Edo period, and it describes it as the following.</e>
+<cmt>一原文一訳文の例外対処&apos;</cmt>
+<e type="trans" ver="2">The oldest historical document concerning inari sushi is &quot;Morisadamanko&quot; written in the late Edo period, and it describes it as the following:</e>
+<cmt>ピリオドを:コロンに変更しました。</cmt>
+<e type="check" ver="1">The oldest historical document concerning inarizushi is &quot;Morisada manko&quot; (a kind of encyclopedia of folkways and other affairs in the Edo Period written by Morisada KITAGAWA) written in the late Edo period, and it describes it as the following:</e>
+<cmt>守貞謾稿→Morisada manko　と分け、補足を追加しました。</cmt>
+</sen>
+<sen id="18">
+<j>「天保（1830年～1844年）末年、江戸にて油揚げ豆腐の一方をさきて袋形にし、キノコかんぴょうを刻み交へたる飯を納て鮨として売巡る。」</j>
+<e type="trans" ver="1">In the late Tenpo era (1830 - 1844), a kind of sushi was peddled at Edo, that one side of aburaage (deep-fried tofu) being cut in a half and opened in the shape of a bag, and stuffed with rice mixed with minced mushrooms and kanpyo (dried gourd shavings).&apos;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In the late Tenpo era (1830 - 1844), a kind of sushi was peddled in Edo (old Tokyo), aburaage (deep-fried tofu) opened from one side into the shape of a bag, and stuffed with rice mixed with minced mushrooms and kanpyo (dried gourd shavings).&apos;</e>
+<cmt>江戸の説明を加えました。「being cut in a half」は原文にないため削除しました。</cmt>
+<e type="check" ver="1">In the late Tenpo era (1830 - 1844), a kind of sushi was peddled in Edo (old Tokyo), aburaage opened from one side into the shape of a bag, and stuffed with rice mixed with minced mushrooms and kanpyo.</e>
+<cmt>既出の補足を削除しました。シングルクォーテーションを削除しました（文頭になるため）。</cmt>
+</sen>
+<sen id="19">
+<j>「（中略）なづけて稲荷鮨、或は篠田鮨といい、ともに狐に因ある名にて、野干（狐の異称）は油揚げを好む者故に名とす。」</j>
+<e type="trans" ver="1">...it is called inari sushi or shinoda sushi, both of which are the names relating to the fox, as yakan (another name of fox) is fond of aburaage (deep-fried tofu).&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">...it is called inari sushi or shinoda sushi, both of which are the names relating to the fox, as yakan (another name of fox) is fond of aburaage (deep-fried tofu).&apos;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(abbreviation)...it is called inarizushi or shinoda-zushi, both of which are the names relating to a fox, as yakan (another name of fox) is fond of aburaage.</e>
+<cmt>シングルクォーテーションを削除しました（文頭になるため）。（中略）　を追加しました。</cmt>
+</sen>
+<sen id="20">
+<j>「最も賤価鮨なり。」</j>
+<e type="trans" ver="1">This is the cheapest sushi.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is the cheapest sushi.&apos;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This is the cheapest sushi.</e>
+<cmt>シングルクォーテーションを削除しました（文頭になるため）。</cmt>
+</sen>
+<sen id="21">
+<j>「尾張国の名古屋等、従来これあり。」</j>
+<e type="trans" ver="1">There has been this sushi in Nagoya and others, Owari Province since before.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">There has been this sushi in Nagoya and other parts of Owari Province since before this era.&apos;</e>
+<cmt>「名古屋等」「従来」の個所を変更しました。</cmt>
+<e type="check" ver="1">There has been this sushi in Nagoya and other parts of Owari Province since before this era.</e>
+<cmt>シングルクォーテーションを削除しました（文頭になるため）。</cmt>
+</sen>
+<sen id="22">
+<j>「江戸も天保前より店売りにはこれあるか。」</j>
+<e type="trans" ver="1">There may have been this before Tenpo era as store sales at Edo also.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">This sushi may have also been sold in stores in Edo since before the Tenpo era.&apos;</e>
+<cmt>全体的に変更しました。</cmt>
+<e type="check" ver="1">This sushi may have also been sold in stores in Edo since before the Tenpo era.</e>
+<cmt>シングルクォーテーションを削除しました（文頭になるため）。</cmt>
+</sen>
+<sen id="23">
+<j>『天言筆記』（明治成立）には飯や豆腐ガラ（オカラ）などを詰めてワサビ醤油で食べるとあり、「はなはだ下直」ともある。</j>
+<e type="trans" ver="1">Tengen-hikki (written in the Meiji period) describes it as being stuffed with rice and tofugara (left after making tofu) etc. and eaten with soy source and Japanese horseradish, and there is also a comment &apos;very cheap.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tengen-hikki (a document written in the Meiji period) describes it as being stuffed with rice and tofugara (the material left after making tofu) etc. and eaten with soy sauce and Japanese horseradish, and there is also a comment &apos;very cheap.&apos;</e>
+<cmt>「醤油」にスペルミスがあり変更しました。かっこ内の説明に名詞を補いました。</cmt>
+<e type="check" ver="1">&quot;Tengen-hikki&quot; (a document written in the Meiji period) describes it as being stuffed with rice and tofugara (the material left after making tofu) etc., and eaten with soy sauce and Japanese horseradish, and there is also a comment &apos;very cheap.&apos;</e>
+<cmt>&quot;Tengen-hikki&quot;　としました。</cmt>
+</sen>
+<sen id="24">
+<j>『近世商売尽狂歌合』（1852年）の挿絵には、今日ではみられない細長い稲荷ずしを、切り売りする屋台の様子が描かれている。</j>
+<e type="trans" ver="1">One of the pictures in &quot;Kinsei-shobaizukushi-kuruiutaawase&quot; (anthology of comic poems about all Modern businesses) of 1852 portrayed the state of a sushi stall which was selling long inari sushi that is rarely seen today.</e>
+<cmt>近世=Modern,商売=business,尽=all,狂歌=comic poems,合=anthology と解釈しました。</cmt>
+<e type="trans" ver="2">One of the pictures in &quot;Kinsei-shobaizukushi-kuruiutaawase&quot; (anthology of comic poems about all post-Meiji era businesses) of 1852 portrayed the state of a sushi stall which was selling long inari sushi by the slice that is rarely seen today.</e>
+<cmt>「近世」は「post-Meiji era」としました。「切り売り」の「切り」部分が抜けていたので「by the slice」を追加しました。</cmt>
+<e type="check" ver="1">One of the pictures in &quot;Kinsei-shobaizukushi-kyoka-awase&quot; (collection of comic tanka [kyoka] about all modern businesses) of 1852 portrayed the state of a sushi stall which was selling long inarizushi by the slice that is rarely seen today.</e>
+<cmt>狂歌合→きょうかあわせ　と読むと解釈し、タイトルの読みを一部変更しました。タイトルを、(collection of comic tanka [kyoka] about all modern businesses)としました　(定訳不明です）。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="25">
+<j>本来、稲荷神は狐ではないが、江戸時代には俗信により同化とみなす向きがあった。</j>
+<e type="trans" ver="1">Originally, Inari-shin (the god of harvest) had not been the fox, but there was a tendency to identify them by a folk belief in the Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Originally, Inari-shin (the god of the harvest) had not been a fox, but there was a tendency to identify it by a folk belief in the Edo period.</e>
+<cmt>冠詞を変更しました。</cmt>
+<e type="check" ver="1">Originally, Inari-shin (the god of the harvest) had not been a fox, but there was a tendency to identify it by a folk belief in the Edo period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>これにより、稲荷神の神使である狐の好物が油揚げであるという言い伝えからその名がつき、最も安い寿司として天保の末期には江戸や名古屋で食べられていたと考えられている。</j>
+<e type="trans" ver="1">It is thought that in this way, it took its name from the traditional belief that the fox was the messenger of Inari-shin and favored aburaage (deep-fried tofu), and it was eaten as the cheapest sushi in Edo and Nagoya at the later Tenpo Era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is thought that in this way, it took its name from the traditional belief that the fox was the messenger of Inari-shin and favored aburaage (deep-fried tofu), and it was eaten as the cheapest sushi in Edo and Nagoya in the late Tenpo Era.</e>
+<cmt>「天保後期には」の部分を変更しました。</cmt>
+<e type="check" ver="1">It is thought that in this way, it took its name from the traditional belief that the fox who was the messenger of Inari-shin favored aburaage, and it was eaten as the cheapest sushi in Edo and Nagoya in the late Tenpo Era.</e>
+<cmt>「稲荷神の神使である狐の好物が油揚げである」の部分の翻訳を変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Izayohi(id:13095), Nnh(id:474), 0null0(id:582), MIO(id:31681), Roger(id:9883), Huu6789(id:199652), Mishika(id:276), Hykw-a4(id:14184), KAWASAKI Hiroyuki(id:1514), Opponent(id:720), Kazoooo(id:129492), Miketsukunibito(id:10208), PPP(id:22924), Boca samba(id:137526), Ekakinomachi(id:71650), 午後紅茶(id:14285), こきりこ(id:46365), 志摩ペディア・ウォッチャー(id:47752), N yotarou(id:60870), KSKS(id:97637), くっちゃめ(id:86793), Point136(id:211299), はぜ(id:24807), Sprinkler(id:14399), Corwin(id:973), Rommy(id:60198), Wingdao(id:182393), Peek-poke(id:68004), 1029man(id:93235), ちゅんちゃん(id:180758), 弥(id:61590), Hotei(id:7664), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

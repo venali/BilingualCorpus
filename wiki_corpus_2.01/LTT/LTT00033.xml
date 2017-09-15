@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>増鏡</j>
+<e type="trans" ver="1">The Clear Mirror (Masukagami)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Masukagami (The Clear Mirror)</e>
+<cmt>Used original Japanese and put English in parenthesis.</cmt>
+<e type="check" ver="1">Masukagami (The Clear Mirror)</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>増鏡（ますかがみ）は、歴史物語。</j>
+<e type="trans" ver="1">The Clear Mirror (Masukagami) is a historical tale.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Masukagami is a historical tale.</e>
+<cmt>Cut English translation.</cmt>
+<e type="check" ver="1">Masukagami is a historical tale.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>成立は南北朝時代_(日本)と推定される。</j>
+<e type="trans" ver="1">It is believed to have been compiled during the Northern and Southern Courts (Nanbokucho) period (in Japan).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is believed to have been compiled during the Nanbokucho (Northern and Southern Courts) period in Japan.</e>
+<cmt>Despite it being written that way in the original Japanese, it seemed a little strange to have &quot;in Japan&quot; in parenthesis so I cut them. Also put English in parenthesis as above.</cmt>
+<e type="check" ver="1">It is believed to have been compiled during the Northern and Southern Court period in Japan.</e>
+<cmt>Nanbokucho ()削除</cmt>
+</sen>
+<sen id="3">
+<j>作者は未詳だが、二条良基説や洞院公賢説、四条家関係者説などがある。</j>
+<e type="trans" ver="1">Although the compiler is unknown, there are various theories holding it to be Yoshimoto NIJO or Kinkata TOIN or someone related to the Shijo family.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the author is unknown, there are various theories holding it to be either Yoshimoto NIJO, Kinkata TOIN or someone related to the Shijo family.</e>
+<cmt>I think &quot;author&quot; might be more accurate than &quot;compiler&quot; here. Removed superfluous &quot;or&quot;.</cmt>
+<e type="check" ver="1">Although the author is unknown, there are various theories holding it to be either Yoshimoto NIJO, Kinkata TOIN or someone related to the Shijo family.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>いわゆる「四鏡」の成立順では最後に位置する作品である。</j>
+<e type="trans" ver="1">It is the final work in order of composition among the so-called &quot;Four Mirrors&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In order of composition, it is the final work among what is known as the shikyo (Four Mirrors, a series of four historical works compiled between the late Heian period and the early Muromachi period).</e>
+<cmt>This word order makes the sentence a bit easier to read. Added a quick explanation of Four Mirrors for context. Removed quotation marks from the title. Changed &quot;so called&quot; to &quot;what is known as&quot; for 「いわゆる」. Added Japanese title.</cmt>
+<e type="check" ver="1">In order of composition, it is the final work among what is known as the shikyo (Four Mirrors, a series of four historical works compiled between the late Heian period and the early Muromachi period).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>内容的には最も新しい時代を扱っている。</j>
+<e type="trans" ver="1">In content, it handles the latest period among them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its contents deal with the most recent period in the shikyo.</e>
+<cmt>Changed &quot;in content&quot; to &quot;its contents&quot;, and &quot;latest&quot; to &quot;recent&quot; to read a bit more naturally. I also think that &quot;deals with&quot; is a little more natural than &quot;handles&quot; here. Added &quot;in the shikyo&quot; at the end for clarity.</cmt>
+<e type="check" ver="1">Its contents deal with the most recent period in the shikyo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sec id="1">
+<tit>
+<j>内容</j>
+<e type="trans" ver="1">Contents</e>
+<cmt></cmt>
+<e type="trans" ver="2">Contents</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Contents</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>現在のものは二十巻からなり、「四鏡」（現在亡失）を継承して、寿永3年（1183年）の後鳥羽天皇の即位から元弘3年（1333年）後醍醐天皇が隠岐に流され、その後、京都に戻るまでの、15代150年の事跡を編年体で述べている。</j>
+<e type="trans" ver="1">The existing text consists of 20 volumes, and following &apos;The Four Mirrors&apos; (now lost), it annalistically covers 150 years and the reigns of 15 Emperors, from Emperor Go-Toba&apos;s accession to the throne in 1183 to Emperor Go-Daigo&apos;s exile on Oki island, and ends with his coming back to Kyoto in 1333.</e>
+<cmt>・原文「四鏡」（現在亡失）とありますが、「四鏡」は大鏡、今鏡、水鏡、増鏡の四作をまとめて呼ぶときの名称であり、固有の作品ではないため、間違いなく他の作品名が入ると思います。(6/22現在のウィキペディアでは『弥世継』となっておりました）ひとまず原文通りに訳しておりますが、ご確認をお願いいたします。・確認したところ、後醍醐天皇が隠岐に流されたのは1332年、隠岐から脱出して京に戻ったのが1333年のため、訳文はこれを反映しました（参考：年表　http://www.rekishikan.museum.ibk.ed.jp/07_jiten/untitled_001.htm）</cmt>
+<e type="trans" ver="2">The existing text consists of 20 volumes, and succeeding the other shikyo (now lost), it annalistically covers 150 years and the reigns of 15 Emperors, from Emperor Go-Toba&apos;s accession to the throne in 1183 to Emperor Go-Daigo&apos;s exile on Oki island, and ends with his coming back to Kyoto in 1333.</e>
+<cmt>I thought &quot;succeeding&quot; was more appropriate here. Also removed the English title in favor of the Japanese one. Removed quotation marks from the title.</cmt>
+<e type="check" ver="1">The existing text consists of 20 volumes, and succeeding the other shikyo (now lost), it annalistically covers 150 years and the reigns of 15 Emperors, from Emperor Gotoba&apos;s accession to the throne in 1183 to Emperor Godaigo&apos;s exile on Oki island, and ends with his coming back to Kyoto in 1333.</e>
+<cmt>人名のスペルを修正</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>嵯峨野の清凉寺へ詣でた100歳の老尼が語る昔話を筆記した体裁をとっている（ただし、現存の本においては尼は最初の場面だけの登場になっていることから、当初は他の「四鏡」と同様に尼が登場する最後の場面が書かれた部分が存在していたとする説もある）。</j>
+<e type="trans" ver="1">The description is in the form of taking notes on the tales of a 100-year-old Buddhist nun on a visit to the Seiryo-ji Temple in Sagano. (However, as the nun appears only in the first scene in the existing text, there is an opinion that, as in the other &apos;The Four Mirrors&apos;, there once existed a scene at the end where the nun appeared.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">It takes the format of the author taking notes on the tales of a 100-year-old Buddhist nun on a visit to the Seiryo-ji Temple in Sagano (However, as the nun appears only in the first scene in the existing text, there is an opinion that, as in the other shikyo, there once existed a scene at the end where the nun appeared.)</e>
+<cmt>Removed quotation marks from title. Used Japanese title.</cmt>
+<e type="check" ver="1">It takes the format of the author taking notes on the tales of a 100-year-old Buddhist nun on a visit to the Seiryo-ji Temple in Sagano. (However, as the nun appears only in the first scene in the existing text, there is an opinion that, as in the other shikyo, there once existed a scene at the end where the nun appeared.)</e>
+<cmt>ピリオド補足</cmt>
+</sen>
+<sen id="8">
+<j>典雅な文体で公家の生活が描かれた文芸味豊かな作品である。</j>
+<e type="trans" ver="1">One can enjoy the rich literary flavor in its descriptions of the life of the court aristocracy and its elegant style.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One can enjoy its rich literary flavor and elegent style in its descriptions of the life of the court aristocracy.</e>
+<cmt>Changed &quot;in&quot; to &quot;of&quot;. Moved &quot;elegent style&quot; to the middle to make it read a bit more naturally.</cmt>
+<e type="check" ver="1">One can enjoy its rich literary flavor and elegant style in its descriptions of the life of the court aristocracy.</e>
+<cmt>スペルを修正</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>巻数については古くは十七巻本と十九巻本が存在していた。</j>
+<e type="trans" ver="1">In the past, there was a 17-chapter text and a 19-chapter text.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the past, there was a 17-chapter text and a 19-chapter text.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the past, there was a 17-chapter text and a 19-chapter text.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>俗に前者を「古本」・後者を「流布本」と読んで区別している。</j>
+<e type="trans" ver="1">They are distinguished by calling the former &apos;the Old Text&apos; and the latter &apos;the Vulgate Text&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They are distinguished by calling the former &apos;the Old Text&apos; and the latter &apos;the Vulgate Text&apos;.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They are distinguished by calling the former &apos;the Old Text&apos; and the latter &apos;the Vulgate Text.&apos;</e>
+<cmt>ピリオドの位置</cmt>
+</sen>
+<sen id="11">
+<j>両者の違いは物語の中盤あたり（後嵯峨天皇の即位後からその院政期）の記述が大きく違っているところにある。</j>
+<e type="trans" ver="1">The two texts are especially different around the middle part (from Emperor Go-Saga&apos;s accession up to the period of his cloistered government).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The two texts are especially different around the middle section (from Emperor Go-Saga&apos;s accession up to the period of his cloistered government).</e>
+<cmt>Changed &quot;part&quot; to &quot;section&quot; as it seemed more appropriate in this context.</cmt>
+<e type="check" ver="1">The two texts are especially different around the middle section (from Emperor Gosaga&apos;s accession up to the period of his cloistered government).</e>
+<cmt>人名のスペルを修正</cmt>
+</sen>
+<sen id="12">
+<j>通説では前者を増補改訂して後者が作られたと考えられているが、後者の方が先に書かれて後に様々な事情によって一部が削除したものが前者だとする説もある。</j>
+<e type="trans" ver="1">The standard theory is that the latter text was produced by enlarging, expanding, and revising the former, but there is another theory that it was written first, and that the former text was produced though various deletions.</e>
+<cmt>一原文一訳文の例外対処。()以下はもとはこのセルに入っておりましたが、明らかに別々の文章であり二文で書いたほうが自然なため、（）以下は下記に分けました。</cmt>
+<e type="trans" ver="2">The standard theory is that the latter text was produced by enlarging, expanding, and revising the former, but there is another theory that it was written first, and that the former text was produced from various sections that had been deleted from the latter.</e>
+<cmt>Added &quot;from various selections that had been deleted from the latter.&quot; at the end to make it a bit clearer.</cmt>
+<e type="check" ver="1">The standard theory is that the latter text was produced by enlarging, expanding, and revising the former, but there is another theory that it was written first, and that the former text was produced from various sections that had been deleted from the latter.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>（ちなみに年代の錯簡は後者の方が少ないと考えられている）</j>
+<e type="trans" ver="1">(The latter is thought to have less pages chronically out of order due to errors in binding.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(The latter is thought to have less pages chronologically out of order due to binding errors than the former.)</e>
+<cmt>Corrected &quot;chronically&quot; to &quot;chronologically&quot;. Added &quot;than the former&quot; and changed &quot;errors in binding&quot; to &quot;binding errors&quot;to make it read a bit more naturally.</cmt>
+<e type="check" ver="1">(The latter is thought to have less pages chronologically out of order due to binding errors than the former.)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>いずれが先であったとしても14世紀末には既に2種類の『増鏡』が存在したようである。</j>
+<e type="trans" ver="1">Whichever came first, it seems that there already existed two versions of &quot;The Clear Mirror&quot; by the end of the 14th century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Whichever came first, it seems that there already existed two versions of Masukagami by the end of the 14th century.</e>
+<cmt>Used Japanese title.</cmt>
+<e type="check" ver="1">Whichever came first, it seems that there already existed two versions of &quot;Masukagami&quot; by the end of the 14th century.</e>
+<cmt>&quot;戻す</cmt>
+</sen>
+<sen id="15">
+<j>なお、現在存在する二十巻本は増補改訂の校訂成果を元に明治時代に和田英松らが2種類の矛盾を無くすべく校訂しなおしたものであり、国文学の研究家の間では古典作品に対して必要以上に手を加えた行為であるとして批判する声も強く、今日では十七巻本・十九巻本を元に研究が行われるのが一般的である。</j>
+<e type="trans" ver="1">Also, the existing text with 20 chapters is an edition produced in the Meiji era by Hidematsu WADA and others, to eliminate the inconsistencies between the two texts on the basis of successes in editing the enlargements, expansions, and revisions in them, and is strongly criticized by Japanese literature researchers as having modified the classical work more than necessary, so that today study of the work is generally based on 17- and 19-chapter texts.</e>
+<cmt>原文「元に」→「基に」の変換ミスではないかと考えます。</cmt>
+<e type="trans" ver="2">Furthermore, the existing 20 chapter text is a revised and enlarged edition produced in the Meiji era by Hidematsu WADA and others to eliminate the inconsistencies between the two texts, and is strongly criticized by Japanese literature researchers as having modified the classical work more than necessary, so that today study of the work is generally based on 17 and 19 chapter texts.</e>
+<cmt>&quot;Furthermore&quot; seemed more appropriate than &quot;also&quot; here. Changed &quot;text with 20 chapters&quot; to &quot;20 chapter text&quot; to read a bit more naturally. Cut the slightly confusing &quot;on the basis of successes in editing the enlargements, expansions, and revisions in them&quot; and replaced it with a more succinct &quot;revised and enlarged edition&quot;.</cmt>
+<e type="check" ver="1">Furthermore, the existing 20 chapter text is a revised and enlarged edition produced in the Meiji period by Hidematsu WADA and others to eliminate the inconsistencies between the two texts, and is strongly criticized by Japanese literature researchers as having modified the classical work more than necessary, so that today study of the work is generally based on 17 and 19 chapter texts.</e>
+<cmt>era→period</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Masyu(id:31065), Non-stop24(id:10471), Nnh(id:474), Miya(id:1881), 水野白楓(id:22811), Ash(id:15625), Revth(id:12179), Kiev(id:13022), Yuming(id:17854), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

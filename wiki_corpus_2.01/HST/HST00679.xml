@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>坂本城</j>
+<e type="trans" ver="1">Sakamoto-jo Castle</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sakamoto-jo Castle</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Sakamoto-jo Castle</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>丹羽長秀、浅野長政</j>
+<e type="trans" ver="1">Nagahide NIWA, Nagamasa ASANO</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nagahide NIWA, Nagamasa ASANO</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Nagahide NIWA, Nagamasa ASANO</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>明智光秀、丹羽長秀、杉原家次、浅野長政</j>
+<e type="trans" ver="1">Mitsuhide AKECHI, Ietsugu SUGIHARA, Nagamasa ASANO</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mitsuhide AKECHI, Ietsugu SUGIHARA, Nagamasa ASANO</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Mitsuhide AKECHI, Nagahide NIWA, Ietsugu SUGIHARA, Nagamasa ASANO</e>
+<cmt>「丹羽長秀」→訳漏れのため訳出しました。</cmt>
+</sen>
+<sen id="3">
+<j>石垣、井戸、暗渠、礎石建物等</j>
+<e type="trans" ver="1">stone walls, well, ankyo (culvert), foundation stones, structures and other things</e>
+<cmt></cmt>
+<e type="trans" ver="2">stone walls, well, ankyo (culvert), foundation stones, structures and other things</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">stone walls, well, ankyo (culvert), foundation stones, structures and other things</e>
+<cmt>修正なし</cmt>
+</sen>
+<par id="1">
+<sen id="4">
+<j>坂本城（さかもとじょう）は近江国滋賀郡坂本 (大津市)（滋賀県大津市下阪本3丁目の坂本城址公園内）にあった城。</j>
+<e type="trans" ver="1">Sakamoto-jo Castle is the castle that existed in Sakamoto, Shiga County, Omi Province (Otsu City) (in Sakamoto-joshi Park (Sakamoto-jo ruins of a castle park) 3-chome, Shimosakamoto, Otsu City, Shiga Prefecture).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sakamoto-jo Castle is the castle that existed in Sakamoto, Shiga County, Omi Province (Otsu City) (in Sakamoto-joshi Park (Sakamoto-jo ruins of a castle park) 3-chome, Shimosakamoto, Otsu City, Shiga Prefecture).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Sakamoto-jo Castle is the castle that existed in Sakamoto, Shiga County, Omi Province (in Sakamoto-joshi Park [Sakamoto-jo ruins of a castle park] 3-chome, Shimosakamoto, Otsu City, Shiga Prefecture).</e>
+<cmt>重複のため、(Otsu City)削除、カッコ表記修正</cmt>
+</sen>
+<sen id="5">
+<j>琵琶湖に面した平城であり、明智光秀によって築かれた城。</j>
+<e type="trans" ver="1">It is a hira-jiro (a castle built on the level ground) that faced Lake Biwa and was built Mitsuhide AKECHI.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a hira-jiro (a castle built on level ground) that faced Lake Biwa and was built by Mitsuhide AKECHI.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">It is a hira-jiro (a castle built on level ground) that faced Lake Biwa and was built by Mitsuhide AKECHI.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>坂本城は、琵琶湖の南湖西側にあり、大津市の北郊に位置する。</j>
+<e type="trans" ver="1">Sakamoto-jo Castle was located on the west side of Lake Nanko of Lake Biwa in northern part of Otsu City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sakamoto-jo Castle was located on the west side of Lake Nanko of Lake Biwa in the northern part of Otsu City.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Sakamoto-jo Castle was located on the west side of Lake Nanko of Lake Biwa in the northern part of Otsu City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>西側には比叡山の山脈があり、東側は琵琶湖に面していることから、天然の要害を具えた地であった。</j>
+<e type="trans" ver="1">As the place faces the mountain range in the west that Mt. Hiei belongs to and Lake Biwa in the east, it was a natural fort.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As the place faces the mountain range in the west that Mt. Hiei belongs to and Lake Biwa in the east, it was a natural fort.</e>
+<cmt>Spacing</cmt>
+<e type="check" ver="1">As the place faces the mountain range in the west that Mt. Hiei belongs to and Lake Biwa in the east, it was a natural fort.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>比叡山は近江国と山城国にまたがっており、白鳥道と山中道の2つの道は両国を結ぶ道路が通じていた。</j>
+<e type="trans" ver="1">Mt. Hiei stretches to Omi Province and Yamashiro Province, and two roads of shiratori-do and yamanaka-do connected the two provinces.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Mt. Hiei stretches to Omi Province and Yamashiro Province, and two roads of shiratori-do and yamanaka-do connected the two provinces.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Mt. Hiei stretches to Omi Province and Yamashiro Province, and two roads of Shiratori-do and Yamanaka-do connected the two provinces.</e>
+<cmt>Shiratori-do, Yamanaka-doとしました。</cmt>
+</sen>
+<sen id="9">
+<j>中世、近世において頻繁に利用され、比叡山の物資輸送のために港町として、坂本は交通の要所として繁栄していた。</j>
+<e type="trans" ver="1">The roads were frequently used during medieval and early modern period, so Sakamoto thrived as a port town for cargo shipment through Mt. Hiei and a key point for transportation.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The roads were frequently used during the medieval and early modern period, so Sakamoto thrived as a port town for cargo shipment through Mt. Hiei and a key point for transportation.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">The roads were frequently used during the medieval and early modern period, so Sakamoto thrived as a port town for cargo shipment through Mt. Hiei and a key point for transportation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>現在城郭の大半は宅地化され、推定地の中央には国道161号が貫通している。</j>
+<e type="trans" ver="1">Presently most part of the place where the castle used to be has been developed as residential area, and National Route 161 runs through the center of the estimated place of Sakamoto-jo Castle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Presently, most parts of the place where the castle used to be have been developed as residential areas, and National Route 161 runs through the center of the estimated place of Sakamoto-jo Castle.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Presently, most parts of the place where the castle used to be have been developed as residential areas, and National Route 161 runs through the center of the estimated place of Sakamoto-jo Castle.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="11">
+<j>1571年、比叡山焼き討ちの後、明智光秀に近江国滋賀郡が与えられ、織田信長の命によって京と比叡山の抑えとして築城した。</j>
+<e type="trans" ver="1">In 1571, after the fire attack against Enryaku-ji Temple on Mt. Hiei, the land of Shiga County, Omi Province was given to Mitsuhide AKECHI, and Sakamoto-jo Castle was built by the order of Nobunaga ODA as a defense against the forces of Kyo (the capital) and Enryaku-ji Temple on Mt. Hiei.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1571, after the fire attack against Enryaku-ji Temple on Mt. Hiei, the land of Shiga County, Omi Province was given to Mitsuhide AKECHI, and Sakamoto-jo Castle was built by the order of Nobunaga ODA as a defense against the forces of Kyo (the capital) and Enryaku-ji Temple on Mt. Hiei.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">In 1571, after the fire attack against Enryaku-ji Temple on Mt. Hiei, the land of Shiga County, Omi Province was given to Mitsuhide AKECHI, and Sakamoto-jo Castle was built by the order of Nobunaga ODA as a defense against the forces of Kyo (the capital) and Enryaku-ji Temple on Mt. Hiei.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>宣教師のルイス・フロイスは著書『日本史』にて豪壮華麗で安土城に次ぐ名城と記している。</j>
+<e type="trans" ver="1">Luis FROIS, a missionary, described in his book &quot;History of Japan&quot; that the great castle was the second most magnificent and gorgeous next to Azuchi-jo Castle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Luis FROIS, a missionary, described in his book &quot;History of Japan&quot; that the great castle was the second most magnificent and gorgeous next to Azuchi-jo Castle.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Luis FROIS, a missionary, described in his book &quot;History of Japan&quot; that the great castle was the second most magnificent and gorgeous next to Azuchi-jo Castle.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>沿革</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>元亀2年（1571年）9月比叡山焼き討ちの後、宇佐山城の城主であった明智光秀に対して、織田信長は滋賀郡の支配を命じ坂本城を築城させた。</j>
+<e type="trans" ver="1">In September, 1571 Nobunaga ODA ordered Mitsuhide AKECHI, who had been the lord of Usayama-jo Castle, to govern Shiga County and to build Sakamoto-jo Castle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In September, 1571 Nobunaga ODA ordered Mitsuhide AKECHI, who had been the lord of Usayama-jo Castle, to govern Shiga County and to build Sakamoto-jo Castle.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">In September, 1571 Nobunaga ODA ordered Mitsuhide AKECHI, who had been the lord of Usayama-jo Castle, to govern Shiga County and to build Sakamoto-jo Castle.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>比叡山延暦寺の監視と琵琶湖の制海権の獲得が目的であったと思われている。</j>
+<e type="trans" ver="1">It is estimated that the purpose of this order was to observe the activities of Enryaku-ji Temple on Mt. Hiei and to acquire the marine control of Lake Biwa.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is estimated that the purpose of this order was to observe the activities of Enryaku-ji Temple on Mt. Hiei and to acquire the marine control of Lake Biwa.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It is estimated that the purpose of this order was to observe the activities of Enryaku-ji Temple on Mt. Hiei and to acquire the marine control of Lake Biwa.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>『永禄以来年代記』によると、&quot;明智坂本に城をかまへ、山領を知行す、山上の木にまできり取&quot;とある。</j>
+<e type="trans" ver="1">According to &quot;Chronicle of Eiroku Period&quot;, there is a description that &quot;AKECHI built a castle in Sakamoto, governed the estate and cut down the trees on the mountain.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to &quot;Chronicle of Eiroku Period,&quot; there is a description that &quot;AKECHI built a castle in Sakamoto, governed the estate and cut down the trees on the mountain.&quot;</e>
+<cmt>Punctuation</cmt>
+<e type="check" ver="1">According to &quot;Choronicle of Eiroku Era,&quot; there is a description that &quot;AKECHI built a castle in Sakamoto, governed the estate and cut down the trees on the mountain.&quot;</e>
+<cmt>Eiroku Period→Eiroku Eraとしました。</cmt>
+</sen>
+<sen id="16">
+<j>山領というのは延暦寺の事で、比叡山焼き討ち後、1571年中に築城が開始されたと思われている。</j>
+<e type="trans" ver="1">The estate means the estate of Enryaku-ji Temple, and it is estimated that the construction of Sakamoto-jo Castle was stared in 1571 after the fire attack against Mt. Hiei.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The estate means the estate of Enryaku-ji Temple, and it is estimated that the construction of Sakamoto-jo Castle was stared in 1571 after the fire attack against Mt. Hiei.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The estate means the estate of Enryaku-ji Temple, and it is estimated that the construction of Sakamoto-jo Castle was stared in 1571 after the fire attack against Mt. Hiei.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>また『兼見卿記』元亀3年（1572年）12月22日の記述よると、&quot;明智見廻の為、坂本に下向、杉原十帖、包丁刀一、持参了、城中天守作事以下悉く披見也、驚目了&quot;とされている。</j>
+<e type="trans" ver="1">Also, according to the description of &quot;KANEMI-yo ki (Kanemi&apos;s Diary) on December 22, there is a description that &quot;明智見廻の為、坂本に下向、杉原十帖、包丁刀一、持参了、城中天守作事以下悉く披見也、驚目了.&quot;</e>
+<cmt>一原文一訳文の例外対処 &quot;明智見廻の為、坂本に下向、杉原十帖、包丁刀一、持参了、城中天守作事以下悉く披見也、驚目了&quot;　の正確な意味は不明です。</cmt>
+<e type="trans" ver="2">Also, according to the description of &quot;KANEMI-yo ki (Kanemi&apos;s Diary) on December 22, there is a description that &quot;明智見廻の為、坂本に下向、杉原十帖、包丁刀一、持参了、城中天守作事以下悉く披見也、驚目了.&quot;</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Also, according to the description of &quot;Kanemi-kyo Ki&quot; (The Diary of Kanemi YOSHIDA) on February 4, 1573, there is a description that &quot;明智見廻の為、坂本に下向、杉原十帖、包丁刀一、持参了、城中天守作事以下悉く披見也、驚目了.&quot;</e>
+<cmt>クォーテーション不足分追加、KANEMI-yo ki→&quot;Kanemi-kyo Ki&quot;とし、補足修正、「元亀3年（1572年）」→訳漏れのため訳出、旧暦→新暦に修正分割後の処理がされていないため原文を修正しました。</cmt>
+</sen>
+<sen id="18">
+<j>このことから坂本城には天守があり、作事が行われ翌12月頃には天守がかなり進捗していたと思われている。</j>
+<e type="trans" ver="1">By the description it is considered that Sakamoto-jo Castle had a tenshu, and the construction having been started, construction of tenshu was rather progressing by the next December.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">By this description, it is known that Sakamoto-jo Castle had a tenshu, and having a tenshu by the December after construction started is considered a fast pace.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">By this description, it is known that Sakamoto-jo Castle had a tenshu (main keep or tower of a castle), and it is considered that the construction of a tenshu was well under way by January 1573 after the construction of the Castle started.</e>
+<cmt>「翌12月」→前文から判断し、「元亀3年（1572年）12月」の新暦に修正、tenshuの補足追加、原文に沿わない部分を一部訳し直しました。分割後の処理がされていないため原文を修正しました。</cmt>
+</sen>
+<sen id="19">
+<j>『兼見卿記』の筆者でもある吉田兼見は、短文ながら天守の壮大さに驚いている様子が伺え知れる。</j>
+<e type="trans" ver="1">From his sentence, though it is short, the surprise at the magnificence of the castle by Yoshida KANEMI, the author of &quot;Kanemi-kyo ki,&quot; can be imagined.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From his sentence, though it is short, the surprise at the magnificence of the castle by Yoshida KANEMI, the author of &quot;Kanemi-kyo ki,&quot; can be imagined.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">From his sentence, though it is short, the surprise at the magnificence of the castle by Kanemi YOSHIDA, the author of &quot;Kanemi-kyo Ki,&quot; can be imagined.</e>
+<cmt>Yoshida KANEMI→Kanemi YOSHIDAに修正、&quot;Kanemi-kyo Ki&quot;としました。</cmt>
+</sen>
+<sen id="20">
+<j>また坂本城はイエズス会宣教師のルイス・フロイスの『フロイス日本史』にも、以下のように記されている。</j>
+<e type="trans" ver="1">Also, Sakamoto-jo Castle was mentioned by Luis FROIS, one of the missionaries of the Society of Jesus, in his book titled &quot;Frois&apos;s History of Japan.&quot;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Also, Sakamoto-jo Castle was mentioned by Luis FROIS, one of the missionaries of the Society of Jesus, in his book titled &quot;Frois&apos;s History of Japan.&quot;</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Also, Sakamoto-jo Castle was mentioned by Luis FROIS, one of the missionaries of the Society of Jesus, in his book titled &quot;Frois&apos;s History of Japan&quot; as follows.</e>
+<cmt>as follows追加分割後の処理がされていないため原文を修正しました。</cmt>
+</sen>
+<sen id="21">
+<j>&quot;明智は、都から4レーグァほど離れ、比叡山に近く、近江国の25レーグァもあるかの大湖のほとりにある坂本と呼ばれる地に、邸宅と城砦を築いた。&quot;</j>
+<e type="trans" ver="1">&quot;Akechi built his residence and castle in the place called Sakamoto on the shore of the huge lake which is 25 legua in length and about four legua from Kyo and near Mt. Hiei in Omi Province.</e>
+<cmt>一原文一訳文の例外対処、「レーグァ」のつづりと距離は不明です。&apos;legua&apos;は推測です。</cmt>
+<e type="trans" ver="2">&quot;Akechi built his residence and castle in the place called Sakamoto on the shore of the huge lake which is more than 25 legua in length and about four legua from Kyo and near Mt. Hiei in Omi Province.</e>
+<cmt>Spacing</cmt>
+<e type="check" ver="1">&quot;Akechi built his residence and castle in the place called Sakamoto on the shore of the huge lake which is more than 25 legua in length and about four legua from Kyo and near Mt. Hiei in Omi Province.&quot;</e>
+<cmt>クォーテーションの片方を追加分割後の処理がされていないため原文を修正しました。</cmt>
+</sen>
+<sen id="22">
+<j>それは日本人にとって豪壮華麗にもので、信長が安土山に建てたものにつぎ、この明智の城ほど有名なものは天下にないほどであった。</j>
+<e type="trans" ver="1">It seemed that it was the second most magnificent and gorgeous castle for the Japanese next to the one built by Nobunaga ODA on Mt. Azuchi, and that it was more famous than any other castle in Japan.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It seemed that it was the second most magnificent and gorgeous castle for the Japanese next to the one built by Nobunaga ODA on Mt. Azuchi, and that it was more famous than any other castle in Japan.</e>
+<cmt>Spacing</cmt>
+<e type="check" ver="1">It seemed that it was the second most magnificent and gorgeous castle for the Japanese next to the one built by Nobunaga ODA on Mt. Azuchi, and that it was more famous than any other castle in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>この記述はルイス・フロイスの感想ではあるが、名城安土城と並び称される建物として意識されていた。</j>
+<e type="trans" ver="1">Although this is Luis Frois&apos;s personal impression, Sakamoto-jo Castle was recognized as magnificent no less than the great Azuchi-jo Castle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although this is Luis Frois&apos;s personal impression, Sakamoto-jo Castle was recognized as no less magnificent than the great Azuchi-jo Castle.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Although this is Luis FROIS&apos;s personal impression, Sakamoto-jo Castle was recognized as no less magnificent than the great Azuchi-jo Castle.</e>
+<cmt>Luis FROISとしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="24">
+<j>その後明智光秀は坂本城を拠点に近江国の平定を目指す。</j>
+<e type="trans" ver="1">Later Mitsuhide AKECHI aimed to suppress Omi Province based on Sakamoto-jo Castle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Later Mitsuhide AKECHI aimed to suppress Omi Province based on Sakamoto-jo Castle.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Later Mitsuhide AKECHI aimed to suppress Omi Province based on Sakamoto-jo Castle.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>1572年-1573年にかけて、木戸城、田中城 (近江国)を落城させ、また湖面より囲船にて湖北の浅井氏勢に襲撃し打撃を与えた。</j>
+<e type="trans" ver="1">From 1572 through 1573, he attacked and defeated Kido-jo Castle and Tanaka-jo Castle (Omi Province), and he also attacked Asai clan on the northern shore of Lake Biwa by battle ships and damaged the clan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From 1572 through 1573, he attacked and defeated Kido-jo Castle and Tanaka-jo Castle (Omi Province), and he also attacked the Asai clan on the northern shore of Lake Biwa with battle ships and damaged the clan.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">From 1572 through 1573, he attacked and defeated Kido-jo Castle and Tanaka-jo Castle (Omi Province), and he also attacked the Asai clan on the northern shore of Lake Biwa with battle ships and damaged the clan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>その後、石山城、今堅田城も攻城戦湖南はほぼ手中に収めた。</j>
+<e type="trans" ver="1">After that, Akechi attacked Ishiyama-jo Castle and Imakata-jo Castle and gained the almost all the area on the shore of southern part of Lake Biwa.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After that, Akechi attacked Ishiyama-jo Castle and Imakata-jo Castle and gained almost all of the shore of the southern part of Lake Biwa.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">After that, Akechi attacked Ishiyama-jo Castle and Imakata-jo Castle and gained almost all of the shore of the southern part of Lake Biwa.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>その後坂本城は近江国における反織田信長に対する重要な軍事施設として使用された。</j>
+<e type="trans" ver="1">Later Sakamoto-jo Castle was used as an important military facility as a defense against the forces of anti- Nobunaga ODA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Later Sakamoto-jo Castle was used as an important military facility as a defense against the anti-Nobunaga ODA forces.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Later Sakamoto-jo Castle was used as an important military facility as a defense against the anti-Nobunaga ODA forces.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>黒井城の戦い第二次黒井城の戦いでほぼ丹波国を手中に収めると、1580年亀山城 (丹波国)の城主となった。</j>
+<e type="trans" ver="1">After obtaining almost all the area of Tanba Province in the Battle of Kuroi-jo Castle, he became the lord of Kameyama-jo Castle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After obtaining almost all of Tanba Province in the Battle of Kuroi-jo Castle, he became the lord of Kameyama-jo Castle.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">After obtaining almost all of Tanba Province in the Battle of Kuroi-jo Castle, he became the lord of Kameyama-jo Castle in 1580.</e>
+<cmt>「1580年」→訳漏れのため訳出しました。</cmt>
+</sen>
+<sen id="29">
+<j>だが、坂本城もそのまま城主となっていたようである。</j>
+<e type="trans" ver="1">But it seems that he kept being the lord of Sakamoto-jo Castle as well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">But it seems that he kept being the lord of Sakamoto-jo Castle as well.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">But it seems that he kept being the lord of Sakamoto-jo Castle as well.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="30">
+<j>天正10年（1582年）6月2日、明智光秀は中国攻めには向かわず本能寺の織田信長軍を急襲し、織田信長を炎の中に追い込んだ。</j>
+<e type="trans" ver="1">On June 2, 1582, he did not leave for the attack on the Chugoku district, instead he attacked the army of Nobunaga ODA in Honno-ji Temple, and he drove his lord Nobunaga into the fire.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">On June 2, 1582, he did not leave for the attack on the Chugoku district, instead he attacked the army of Nobunaga ODA in Honno-ji Temple, and he drove his lord Nobunaga into the fire.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">On July 1, 1582, he did not leave for the attack on the Chugoku region, instead he attacked the army of Nobunaga ODA in Honno-ji Temple, and he drove his lord Nobunaga into the fire.</e>
+<cmt>旧暦→新暦表記に修正、Chugoku district→Chugoku regionとしました。</cmt>
+</sen>
+<sen id="31">
+<j>次いで二条城を攻城し織田信忠を自害させた。</j>
+<e type="trans" ver="1">Then he attacked Nobutada ODA in Nijo-jo Castle and forced him to kill himself.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Then he attacked Nobutada ODA in Nijo-jo Castle and forced him to kill himself.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Then he attacked Nobutada ODA in Nijo-jo Castle and forced him to kill himself.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>しかし、同年6月13日山崎の戦いで敗れた明智光秀は一旦勝竜寺城に退いた。</j>
+<e type="trans" ver="1">However, defeated in the Battle of Yamazaki on June 13 in the same year, he temporality retreated to Shoryu-ji Castle.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, defeated in the Battle of Yamazaki on June 13 in the same year, he temporarily retreated to Shoryu-ji Castle.</e>
+<cmt>Typo</cmt>
+<e type="check" ver="1">However, defeated in the Battle of Yamazaki on July 12 in the same year, he temporarily retreated to Shoryuji-jo Castle.</e>
+<cmt>旧暦→新暦表記に修正、Shoryuji-jo Castleとしました。</cmt>
+</sen>
+<sen id="33">
+<j>その後坂本城を目指している途中、山城国の小栗栖周辺で百姓らに襲われ死去したと言われている。</j>
+<e type="trans" ver="1">Then it is said that while returning to Sakamoto-jo Castle, he was attacked by peasants and killed at around Ogurisu in Yamashiro Province.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Then it is said that while returning to Sakamoto-jo Castle, he was attacked by peasants and killed around Ogurisu in Yamashiro Province.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Then it is said that while returning to Sakamoto-jo Castle, he was attacked by peasants and killed around Ogurisu in Yamashiro Province.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>一方安土城の城主となっていた明智秀満は、山崎の戦いで敗戦を知り安土城から移ってきた。</j>
+<e type="trans" ver="1">On the other hand, Hidemitsu AKECHI who had become the lord of Azuchi-jo Castle moved to Sakamoto-jo Castle to know his father&apos;s defeat in the Battle of Yamazaki.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">On the other hand, Hidemitsu AKECHI who had become the lord of Azuchi-jo Castle moved to Sakamoto-jo Castle to know his father&apos;s defeat in the Battle of Yamazaki.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">On the other hand, Hidemitsu AKECHI who had become the lord of Azuchi-jo Castle moved to Sakamoto-jo Castle to know his father&apos;s defeat in the Battle of Yamazaki.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>だが、豊臣秀吉軍が城を囲む中、明智秀満自身が天守に火を放ち光秀の妻子もろとも落城した。</j>
+<e type="trans" ver="1">Surrounded by the army of Hideyoshi TOYOTOMI, Hidemitsu AKECHI set a fire on the tenshu by himself and killed himself and Mitsuhide&apos;s wife and children.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Surrounded by the army of Hideyoshi TOYOTOMI, Hidemitsu AKECHI set a fire on the tenshu by himself and killed himself and Mitsuhide&apos;s wife and children.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Surrounded by the army of Hideyoshi TOYOTOMI, Hidemitsu AKECHI set a fire on the tenshu by himself and killed himself and Mitsuhide&apos;s wife and children.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="36">
+<j>その後、羽柴秀吉が丹羽長秀に再建を命じ城主となった。</j>
+<e type="trans" ver="1">Later, Hideyoshi HASHIBA ordered Nagahide NIWA to rebuild the castle and Hideyoshi became the lord of it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Later, Hideyoshi HASHIBA ordered Nagahide NIWA to rebuild the castle and Hideyoshi became the lord of it.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Later, Hideyoshi HASHIBA ordered Nagahide NIWA to rebuild the castle and Hideyoshi became the lord of it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>その後賤ヶ岳の戦いの軍事上の基地として使用された。</j>
+<e type="trans" ver="1">After that, the castle was used as the military base for the Battle of Shizugatake.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">After that, the castle was used as the military base for the Battle of Shizugatake.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">After that, the castle was used as the military base for the Battle of Shizugatake.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>後に杉原家次そして浅野長政が城主となった。</j>
+<e type="trans" ver="1">Later Ietsugu SUGIHARA and Nagamasa ASANO became the lord of the castle successively.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Later Ietsugu SUGIHARA and Nagamasa ASANO became the lord of the castle successively.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Later Ietsugu SUGIHARA and Nagamasa ASANO became the lord of the castle successively.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>この時に城下町が形成されたと思われている。</j>
+<e type="trans" ver="1">It is considered that the castle town was formed at around this period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is considered that the castle town was formed at around this period.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It is considered that the castle town was formed at around this period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>しかし1586年秀吉の命を受けた浅野長政が大津城築城により廃城になった。</j>
+<e type="trans" ver="1">However, in 1586 the castle was disposed with Nagamasa ASAI&apos;s building Otsu-jo Castle under the order of Hideyoshi.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, in 1586 the castle was disposed with Nagamasa ASAI&apos;s building Otsu-jo Castle under the order of Hideyoshi.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">However, in 1586 the castle was disposed with Nagamasa ASAI&apos;s building Otsu-jo Castle under the order of Hideyoshi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>資材は大津城築城に使用された。</j>
+<e type="trans" ver="1">The components of the castle were used for building Otsu-jo Castle.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The components of the castle were used for building Otsu-jo Castle.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The components of the castle were used for building Otsu-jo Castle.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="42">
+<j>築城から約15年後のことであった。</j>
+<e type="trans" ver="1">It was 15 years since the castle was built.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was 15 years after the castle was built.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">It was 15 years after the castle was built.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="43">
+<j>なぜ廃城になったか『信長戦国近江』によると2つの理由を紹介している。</j>
+<e type="trans" ver="1">&quot;nobunaga sengoku omi&quot; introduces two reasons for the disposing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Nobunaga sengoku omi&quot; introduces two reasons for the disposing.</e>
+<cmt>Capitalization</cmt>
+<e type="check" ver="1">&quot;Nobunaga Sengoku Omi&quot; introduces two reasons for the disposing.</e>
+<cmt>&quot;Nobunaga Sengoku Omi&quot;としました。</cmt>
+</sen>
+<sen id="44">
+<j>ひとつは豊臣秀吉が1584年に山門復興を許可。</j>
+<e type="trans" ver="1">One reason is because Hideyoshi TOYOTOMI allowed restoration of Sanmon (Enryaku-ji Temple).</e>
+<cmt></cmt>
+<e type="trans" ver="2">One reason is because Hideyoshi TOYOTOMI allowed the restoration of Sanmon (Enryaku-ji Temple).</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">One reason is because Hideyoshi TOYOTOMI allowed the restoration of Sanmon (Enryaku-ji Temple) in 1584.</e>
+<cmt>「1584年に」→訳漏れのため訳出しました。</cmt>
+</sen>
+<sen id="45">
+<j>山門に対する監視の必要性が薄くなったためである。</j>
+<e type="trans" ver="1">This is by the fact that there was less necessity to observe Sanmon.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">This is because of the fact that there was less of a need to observe Sanmon.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">This is because of the fact that there was less of a need to observe Sanmon.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>もうひとつは1583年-1588年に大坂城を築城しており、大津の地が東海道や淀川を通じた北国を結ぶ上に重要視された為ではないかとしている。</j>
+<e type="trans" ver="1">The other reason is that as Osaka-jo Castle was built from 1583 to 1588, the place of Otsu recognized as more important to connect Hokkoku and Tokaido Road and Yodo River.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The other reason is that as Osaka-jo Castle was built from 1583 to 1588, the place of Otsu was recognized as more important to connect Hokkoku, the Tokaido Road, and Yodo River.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">The other reason is that as Osaka-jo Castle was built from 1583 to 1588, the place of Otsu was recognized as more important to connect Hokkoku, the Tokai-do Road, and Yodo-gawa River.</e>
+<cmt>Tokai-do Road, Yodo-gawa Riverとしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>城郭</j>
+<e type="trans" ver="1">Castle</e>
+<cmt></cmt>
+<e type="trans" ver="2">Castle</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Castle</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="47">
+<j>坂本城は歴史上重要な役割を果たしていたが、ながらく城の位置や構造については不明となっていた。</j>
+<e type="trans" ver="1">Although Sakamoto-jo Castle had played important role in history, the location and its structure were not known for a long time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although Sakamoto-jo Castle had played an important role in history, its location and structure were not known for a long time.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Although Sakamoto-jo Castle had played an important role in history, its location and structure were not known for a long time.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>しかしに1979年に実施された発掘調査によって一定の構造が明確になってきた。</j>
+<e type="trans" ver="1">However, the structure of the castle started to become clear to some extent by the excavation and research conducted in 1979.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the structure of the castle started to become clear to some extent by the excavation and research conducted in 1979.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">However, the structure of the castle started to become clear to some extent by the excavation and research conducted in 1979.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="49">
+<j>水城</j>
+<e type="trans" ver="1">Mizu-shiro (castles on lakes or marshes for defensive reasons)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mizu-shiro (castles on lakes or marshes for defensive reasons)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Mizu-shiro (castles on lakes or marshes for defensive reasons)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>天正6年（1578年）1月11日に明智光秀の茶の師匠であった堺の津田宗及が坂本城に招かれ茶会がひらかれている。</j>
+<e type="trans" ver="1">On January 11, 1578, Sogyu TSUDA who was the tea master of Mitsuhide AKECHI was invited to Sakamoto-jo Castle to hold a tea ceremony.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On January 11, 1578, Sogyu TSUDA who was the tea master of Mitsuhide AKECHI was invited to Sakamoto-jo Castle to hold a tea ceremony.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">On February 27, 1578, Sogyu TSUDA who was the tea master of Mitsuhide AKECHI was invited to Sakamoto-jo Castle to hold a tea ceremony.</e>
+<cmt>旧暦→新暦表記に修正</cmt>
+</sen>
+<sen id="51">
+<j>この時の『天王寺屋会記』によると、&quot;御座船を城の内より乗り候て、安土へ参&quot;と記載されている。</j>
+<e type="trans" ver="1">According to &quot;Tennojiya-kaiki,&quot; the record of the tea ceremony at the time, there is a description to the effect that &quot;went to Azuchi, getting on a gozabune (a roofed pleasure boat) inside the castle.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to &quot;Tennojiya-kaiki,&quot; the record of the tea ceremony at the time, there is a description to the effect that &quot;went to Azuchi, getting on a gozabune (a roofed pleasure boat) inside the castle.&quot;</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">According to &quot;Tennojiya-kaiki,&quot; the record of the tea ceremony at the time, there is a description to the effect that &quot;went to Azuchi, getting on a gozabune (a roofed pleasure boat) inside the castle.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="52">
+<j>城内には琵琶湖の水が引き入れており、城内から直接船に乗り込み、そのまま安土城に向かったようである。</j>
+<e type="trans" ver="1">It seems that the water of Lake Biwa was brought into the castle and they directly got on the boat inside the castle and headed for Azuchi-jo Castle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It seems that the water of Lake Biwa was brought into the castle and they directly got on the boat inside the castle and headed for Azuchi-jo Castle.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It seems that the water of Lake Biwa was brought into the castle and they directly got on the boat inside the castle and headed for Azuchi-jo Castle.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>従って城郭の建物が湖水に接した「水城」形式の城であったと思われている。</j>
+<e type="trans" ver="1">Therefore, it is considered that the castle was a &apos;mizu-shiro&apos; whose building is on the shore of a lake.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, it is considered that the castle was a &apos;mizu-shiro&apos; whose building is on the shore of a lake.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Therefore, it is considered that the castle was a &apos;mizu-shiro&apos; whose building is on the shore of a lake.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>また吉田兼見が天正10年（1582年）1月20日に坂本城に訪れた時に「小天守」で茶湯を喫している。</j>
+<e type="trans" ver="1">Also, on January 20 1582 when Kanemi YOSHIDA visited Sakamoto-jo Castle, he had some tea in &apos;sho-tenshu (small turret)&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, on January 20, 1582, when Kanemi YOSHIDA visited Sakamoto-jo Castle, he had some tea in &apos;sho-tenshu (small turret).&apos;</e>
+<cmt>Punctuation</cmt>
+<e type="check" ver="1">Also, on February 22, 1582, when Kanemi YOSHIDA visited Sakamoto-jo Castle, he had some tea in &apos;sho-tenshu&apos; (small turret).</e>
+<cmt>旧暦→新暦表記に修正、クォーテーションの位置を移動</cmt>
+</sen>
+<sen id="55">
+<j>これによりただちに小天守があったと断言はできない。</j>
+<e type="trans" ver="1">It cannot be immediately claimed that there was a sho-tenshu at the castle just by this fact.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It cannot be immediately claimed that there was a sho-tenshu at the castle just by this claim.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">It cannot be immediately claimed that there was a sho-tenshu at the castle just by this claim.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>だが、『信長戦国近江』によると「姫路城のような大天守と小天守が並び建つ壮麗な城だったのであろうか」と紹介している。</j>
+<e type="trans" ver="1">But &quot;nobunaga sengoku omi&quot; introduces the castle by describing &apos;it must have been a splendid castle with dai-tenshu and sho-tenshu standing side by side.&apos;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">But &quot;nobunaga sengoku omi&quot; introduces the castle by describing &apos;it must have been a splendid castle with dai-tenshu and sho-tenshu standing side by side.&apos;</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">But &quot;Nobunaga Sengoku Omi&quot; introduces the castle by describing &apos;it must have been a splendid castle with dai-tenshu and sho-tenshu standing side by side.&apos;</e>
+<cmt>&quot;Nobunaga Sengoku Omi&quot;としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>発掘調査</j>
+<e type="trans" ver="1">Excavation and Research</e>
+<cmt></cmt>
+<e type="trans" ver="2">Excavation and Research</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Excavation and research</e>
+<cmt>他の見出し表記と統一するため、文頭の単語の頭文字のみ大文字としました。</cmt>
+</tit>
+<par id="1">
+<sen id="57">
+<j>1979年まで坂本城は一度も発掘調査されることは無かったため、坂本城の遺構に関しては殆ど注目される事は無かった。</j>
+<e type="trans" ver="1">Sakamoto-jo Castle had never been excavated and researched until 1979, so little attention was paid to the ancient structural remnants of the castle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sakamoto-jo Castle had never been excavated and researched until 1979, so little attention was paid to the ancient structural remnants of the castle.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Sakamoto-jo Castle had never been excavated and researched until 1979, so little attention was paid to the ancient structural remnants of the castle.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>しかし、坂本城跡の中心部で大規模な宅地開発が計画されたので、これに伴う調査を実施された。</j>
+<e type="trans" ver="1">However, as a large scale of developing housing land in the center of site of Sakamoto-jo castle was planned, a survey was conducted with the developing plan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, as a large scale housing development was planned right in the center of Sakamoto-jo castle, a survey was conducted with the developing plan.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">However, as a large scale housing development was planned right in the center of Sakamoto-jo castle, a survey was conducted with the developing plan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>このことがきっかけとなり、現在に至り断続的に発掘調査が行われ、城の縄張りなどが少しずつ明らかになってきている。</j>
+<e type="trans" ver="1">The survey set off an intermittent excavation and research until now, and the nawabari (castle plan; general term for the layout of a castle and its component structures) of the castle and other things have come to be known little by little.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The survey set off an intermittent excavation and research that&apos;s still ongoing, and the nawabari (castle plan; general term for the layout of a castle and its component structures) of the castle and other things have come to be known little by little.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">The survey set off an intermittent excavation and research that&apos;s still ongoing, and the nawabari (castle plan; general term for the layout of a castle and its component structures) of the castle and other things have come to be known little by little.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="60">
+<j>1979年に行われた発掘調査では、10cm-30cmの焼土層が発見された。</j>
+<e type="trans" ver="1">In the survey conducted in 1979 a layer of 10 to 20cm-wide scorched soil was found.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the survey conducted in 1979, a layer of 10 to 20cm deep scorched soil was found.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">In the survey conducted in 1979, a layer of 10 to 30cm deep scorched soil was found.</e>
+<cmt>20cm→30cmに修正</cmt>
+</sen>
+<sen id="61">
+<j>これは明智秀満が天守に火を放ち光秀の妻子もろとも落城した時のものと考えられている。</j>
+<e type="trans" ver="1">It is considered that the soil was scorched when Hidemitsu AKECHI killed himself with Mitsuhide&apos;s wife and his children setting a fire on the tenshu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is considered that the soil was scorched when Hidemitsu AKECHI killed himself with Mitsuhide&apos;s wife and his children by setting the tenshu on fire.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">It is considered that the soil was scorched when Hidemitsu AKECHI killed himself with Mitsuhide&apos;s wife and his children by setting the tenshu on fire.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="62">
+<j>その焼土層の上に整地した層があり、この遺構は丹羽秀長時代のものと考えられている。</j>
+<e type="trans" ver="1">Over the layer of the scorched soil there is a layer of leveled ground, which is considered the remnant belonging to the period of Nagahide NIWA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Over the layer of scorched soil, there is a layer of leveled ground, which is considered to be the remnants of the period of Nagahide NIWA.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Over the layer of scorched soil, there is a layer of leveled ground, which is considered to be the remnants of the period of Nagahide NIWA.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>以下のものが発見されている。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The following have been found.</e>
+<cmt>後列になる「が発見されている。」をここに持ってきて「以下のものが発見されています」としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="64">
+<j>焼土層下部分（明智光秀部分）</j>
+<e type="trans" ver="1">the layer under the scorched soil (the part belonging to the period of Mitsuhide AKECHI)</e>
+<cmt></cmt>
+<e type="trans" ver="2">the layer under the scorched soil (the part belonging to the period of Mitsuhide AKECHI)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The layer under the scorched soil (the part belonging to the period of Mitsuhide AKECHI)</e>
+<cmt>文頭の頭文字を大文字に変更</cmt>
+</sen>
+<sen id="65">
+<j>礎石建物4棟</j>
+<e type="trans" ver="1">foundation stones of four structures</e>
+<cmt></cmt>
+<e type="trans" ver="2">foundation stones of four structures</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">foundation stones of four structures</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="66">
+<j>柵1条</j>
+<e type="trans" ver="1">a fence</e>
+<cmt></cmt>
+<e type="trans" ver="2">a fence</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">a fence</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="67">
+<j>石組み井戸1基</j>
+<e type="trans" ver="1">a well made of stones</e>
+<cmt></cmt>
+<e type="trans" ver="2">a well made of stones</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">a well made of stones</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="68">
+<j>石組み溝1条</j>
+<e type="trans" ver="1">a gutter made of stones</e>
+<cmt></cmt>
+<e type="trans" ver="2">a gutter made of stones</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">a gutter made of stones</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="69">
+<j>焼土層上部分（丹羽長秀以降部分）</j>
+<e type="trans" ver="1">the layer over the scorched soil (the layer belonging to the period of Nagahide NIWA)</e>
+<cmt></cmt>
+<e type="trans" ver="2">the layer over the scorched soil (the layer belonging to the period of Nagahide NIWA)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The layer over the scorched soil (the layer belonging to the period of Nagahide NIWA)</e>
+<cmt>文頭の頭文字を大文字に変更</cmt>
+</sen>
+<sen id="70">
+<j>礎石建物2棟</j>
+<e type="trans" ver="1">foundation stones of two structures</e>
+<cmt></cmt>
+<e type="trans" ver="2">foundation stones of two structures</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">foundation stones of two structures</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="71">
+<j>掘立柱建物1棟</j>
+<e type="trans" ver="1">a structure with hottate bashira (earthfast post)</e>
+<cmt></cmt>
+<e type="trans" ver="2">a structure with hottate bashira (earthfast post)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">a structure with hottate bashira (earthfast post)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="72">
+<j>石組み溝1条</j>
+<e type="trans" ver="1">a gutter made of stones</e>
+<cmt></cmt>
+<e type="trans" ver="2">a gutter made of stones</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">a gutter made of stones</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="73">
+<j>石組み溜升遺構1基</j>
+<e type="trans" ver="1">tamemasu (a stone box for sewage to dwell) made of stones</e>
+<cmt></cmt>
+<e type="trans" ver="2">tamemasu (a stone box for sewage to dwell) made of stones</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">tamemasu (a stone box for sewage to dwell) made of stones</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="74">
+<j>石垣</j>
+<e type="trans" ver="1">stone wall</e>
+<cmt></cmt>
+<e type="trans" ver="2">stone wall</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">stone wall</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="75">
+<j>本丸部分で発掘された遺構は、礎石の規模や配列から推察して、邸宅遺構の可能性が強い。</j>
+<e type="trans" ver="1">There is a strong possibility that, inferring from the scale and placement of the foundation stones, the remnant excavated in hon maru area is a residential remnant.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">There is a strong possibility that, inferring from the scale and placement of the foundation stones, the remnant excavated in the hon maru area is a residential remnant.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">There is a strong possibility that, inferring from the scale and placement of the foundation stones, the remnant excavated in the hon maru (the keep of a castle) area is a residential remnant.</e>
+<cmt>hon maruの補足追加</cmt>
+</sen>
+<sen id="76">
+<j>城主が使用されていた可能性が高いと考えられている。</j>
+<e type="trans" ver="1">It is highly possible that hon maru, the main part of the castle, was actually lived in.</e>
+<cmt>一原文一訳文の例外対処　「城主」は「本丸」であると判断しました。</cmt>
+<e type="trans" ver="2">It is highly possible that hon maru, the main part of the castle, was actually lived in.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It is highly possible that hon maru, the main part of the castle, was actually lived in.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="77">
+<j>またこの周辺からは、大量の瓦、壺、甕、碗、鉢、擂鉢、天目茶碗の他、中国から輸入されたと思われる青磁、青白磁、白磁などの遺物が発掘された。</j>
+<e type="trans" ver="1">In addition, in this part of the castle many relics were excavated such as roof tiles, pots, earthenware pots, bowls, basins, motar, tenmoku tea bowl including seiji (celadon porcelain), seihakuji (bluish white porcelain) and hakuji (white porcelain).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, in this part of the castle many relics were excavated such as roof tiles, pots, earthenware pots, bowls, basins, mortar, tenmoku tea bowls including seiji (celadon porcelain), seihakuji (bluish white porcelain) and hakuji (white porcelain).</e>
+<cmt>Flow, Typo</cmt>
+<e type="check" ver="1">In addition, in this part of the castle many relics were excavated such as roof tiles, pots, earthenware pots, bowls, basins, mortar, tenmoku tea bowls including seiji (celadon porcelain), seihakuji (bluish white porcelain) and hakuji (white porcelain), which are considered to have been imported from China.</e>
+<cmt>「中国から輸入されたと思われる」→訳漏れのため訳出しました。</cmt>
+</sen>
+<sen id="78">
+<j>このことより贅を尽くした城内の様子が伺える。</j>
+<e type="trans" ver="1">Judging from these relics it can be imagined that people in the castle at that time lived a lavish life.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Judging from these relics it can be imagined that people in the castle at that time lived a lavish life.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Judging from these relics it can be imagined that people in the castle at that time lived a lavish life.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="79">
+<j>また金属製品としては、銭貨、鏡、刀装具、鋲等が出土した。</j>
+<e type="trans" ver="1">Also, metal ware such as coins, mirrors, accouterment of sword and tacks were unearthed</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, metal ware such as coins, mirrors, accouterments of swords, and tacks were unearthed.</e>
+<cmt>Flow, Typo, Punctuation</cmt>
+<e type="check" ver="1">Also, metal ware such as coins, mirrors, accouterments of swords, and tacks were unearthed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="80">
+<j>これらの出土物は室町時代後期から安土桃山時代のもと判断された。</j>
+<e type="trans" ver="1">These unearthed articles were estimated to be the things belonging to the period of late Muromachi through Azuchi-Momoyama.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These unearthed articles were estimated to be the things belonging to the period of late Muromachi through Azuchi-Momoyama.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">These unearthed articles were estimated to be the things belonging to the period of late Muromachi through Azuchi-Momoyama.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="81">
+<j>坂本城は後に築かれた大津城、膳所城も琵琶湖に面して本丸がその先端部に位置していること等、類似点が多い縄張りとなっている。</j>
+<e type="trans" ver="1">Sakamoto-jo Castle has many similar features with Otsu-jo Castle and Zeze-jo Castle in terms of nawabari that it faced Lake Biwa and that the hon maru was positioned in its tip section.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Sakamoto-jo Castle has many similar features with Otsu-jo Castle and Zeze-jo Castle in terms of nawabari in that it faced Lake Biwa and that the hon maru was positioned in its tip section.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Sakamoto-jo Castle has many similar features with Otsu-jo Castle and Zeze-jo Castle in terms of nawabari in that it faced Lake Biwa and that the hon maru was positioned in its tip section.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="82">
+<j>坂本城が先行した城ではないかと考えられている。</j>
+<e type="trans" ver="1">It is considered that this is because Sakamoto-jo Castle preceded the two other castles.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It is considered that this is because Sakamoto-jo Castle preceded the two other castles.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It is considered that this is because Sakamoto-jo Castle preceded the two other castles.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>城跡へのアクセス</j>
+<e type="trans" ver="1">Access to the castle site</e>
+<cmt></cmt>
+<e type="trans" ver="2">Access to the castle site</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Access to the castle site</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="83">
+<j>電車でのアクセス</j>
+<e type="trans" ver="1">Access by train</e>
+<cmt></cmt>
+<e type="trans" ver="2">Access by train</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Access by train</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="84">
+<j>西日本旅客鉄道　湖西線　比叡山坂本駅　→　徒歩約10分</j>
+<e type="trans" ver="1">About ten minutes&apos; walk from Hieizan-Sakamoto Station of West Japan Railway Company Kosei Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">About a ten minute walk from Hieizan-Sakamoto Station of West Japan Railway Company Kosei Line</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">About a ten minute walk from Hieizan-Sakamoto Station of West Japan Railway Company Kosei Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="85">
+<j>京阪電気鉄道　京阪石山坂本線 坂本駅 (滋賀県)　→　徒歩約15分</j>
+<e type="trans" ver="1">About 15 minutes&apos; walk from Sakamoto Station (Shiga Prefecture) of Keihan Electric Railway Keihan Ishiyama-sakamoto Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">About a 15 minute walk from Sakamoto Station (Shiga Prefecture) of Keihan Electric Railway Keihan Ishiyama-sakamoto Main Line</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">About a 15 minute walk from Sakamoto Station (Shiga Prefecture) of Keihan Electric Railway Keihan Ishiyama-sakamoto Main Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="86">
+<j>車でのアクセス</j>
+<e type="trans" ver="1">Access by cars</e>
+<cmt></cmt>
+<e type="trans" ver="2">Access by car</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Access by car</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="87">
+<j>西大津バイパス　滋賀里ランプ　→　国道161号</j>
+<e type="trans" ver="1">From Shigasato ramp of Nishi-otsu Bypass to National Route 161</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Shigasato ramp of Nishi-otsu Bypass to National Route 161</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">From Shigasato ramp of Nishi-otsu Bypass to National Route 161</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="88">
+<j>坂本城址公園に無料駐車場有り</j>
+<e type="trans" ver="1">There is a free parking area in Sakamoto-joshi Park (Sakamoto-jo ruins of a castle park).</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a free parking area in Sakamoto-joshi Park (Sakamoto-jo castle ruins park).</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">There is a free parking area in Sakamoto-joshi Park (Sakamoto-jo castle ruins park).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Carkuni(id:79281), T@ka(id:12814), カテゴリ整理専用(id:146185), Aotake(id:34929), Reggaeman(id:6214), ブレイズマン(id:183852), Aboshi(id:9318), 寒漁夫(id:99134), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

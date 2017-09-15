@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>解官</j>
+<e type="trans" ver="1">Removal from office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gekan (removal from office)</e>
+<cmt>次の文で Gekan となっているため、統一しました。</cmt>
+<e type="check" ver="1">Gekan (removal from office)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>解官（げかん）とは、律令制において、現職の官人が解任されること。</j>
+<e type="trans" ver="1">Gekan (removal from office) means that the govermental official in-service is dismissed in the ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gekan means that a government official in-service is dismissed in the ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>(removal from office) はタイトルに使用したため削除しました。官人→government official としました。律令制を補足しました。（用語検索より）</cmt>
+<e type="check" ver="1">Gekan means that an incumbent government official is dismissed in the ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>表現を変えました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>解官の理由としては、下記のものなどが挙げられる。</j>
+<e type="trans" ver="1">The reason of gekan is :</e>
+<cmt></cmt>
+<e type="trans" ver="2">The reasons for gekan are as follows.</e>
+<cmt>読点で切れていたため、ファイル末尾の「などが挙げられる」を移動し「下記のものなどが挙げられる」としました。reason of→reasons for とし、文末を調整しました。</cmt>
+<e type="check" ver="1">The reasons for gekan are as follows.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>考解（こうげ）…勤務評定による成績が悪いことを理由として、懲戒処分として行われる。</j>
+<e type="trans" ver="1">Koge…Carried on as disciplinary action due to the unfavorable results in the service evaluation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Koge…Carried on as disciplinary action due to the unfavorable results in the service evaluation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Koge…Carried on as disciplinary action due to the unfavorable results in the service evaluation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>その年の俸禄は没収されるが、1年後には同じ官位で復職可能となる。</j>
+<e type="trans" ver="1">The horoku (salary) in the same year is forfeited, but in a year, they could come back to work at the same official court rank.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The horoku (salary) in the same year is forfeited, but in a year, they could come back to work at the same official court rank.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The horoku (salary) in the same year is forfeited, but in a year, they could come back to work at the same official court rank.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>犯罪解（はんざいげ）…官人が徒刑・流刑に相当する罪を犯した場合の換刑や除名・免官等の処分を受けた場合。</j>
+<e type="trans" ver="1">Hanzaige…In the case that governmental official who had commit a crime corresponding to penal servitude or deportaton received any alternative criminal sentence, or that he received the punishment of expulsion or dismissal.</e>
+<cmt>「換刑」は定訳がなかったため「alternative criminal sentence」と英訳しました。</cmt>
+<e type="trans" ver="2">Hanzaige…In the case that an government official who had committed a crime corresponding to penal servitude or deportation received any alternative criminal sentence, or that he received the punishment of expulsion or dismissal.</e>
+<cmt>官人→an government official としました。commit→committed としました。deportation スペル修正しました。</cmt>
+<e type="check" ver="1">Hanzaige…In the case that an government official who had committed a crime corresponding to penal servitude or deportation received any alternative criminal sentence, or that he received the punishment of expulsion or dismissal.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>一定期間の後に規定によって官位を数等降格させた上で再叙任される。</j>
+<e type="trans" ver="1">After a certain period of time, he was reinvested to the official court rank demoted by a few ranks as the regulations prescribed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After a certain period of time, he was reinvested with the official court rank demoted by a few ranks as the regulations prescribed.</e>
+<cmt>to→with としました。</cmt>
+<e type="check" ver="1">After a certain period of time, he was reinvested with the official court rank demoted by several ranks as the regulations prescribed.</e>
+<cmt>a few → several</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>以理解（いりげ）…考解・犯罪解にあたらないその他の理由による解任。</j>
+<e type="trans" ver="1">Irige…Dismissal due to the reasons other than koge and hanzaige.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Irige…Dismissal due to the reasons other than koge and hanzaige.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Irige…Dismissal due to the reasons other than koge and hanzaige.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="8">
+<j>致仕…高齢を理由とするもの。</j>
+<e type="trans" ver="1">Chishi…Due to the advanced age.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chishi…Due to the advanced age.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chishi…Due to the advanced age.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="9">
+<j>交満…一定の任期を経て交替の年限が到来したとき。</j>
+<e type="trans" ver="1">Koman…When the term of office expired, that needs a replacement.</e>
+<cmt>インターネットで「交満」がヒットせず、読み方の確認がとれませんでした。</cmt>
+<e type="trans" ver="2">Koman (交満)…For the regular replacement at the expiration of his term of office.</e>
+<cmt>読み方不明の漢字を追加しました。</cmt>
+<e type="check" ver="1">Koman (交満)…In order to replace him following the expiration of his term of office.</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="10">
+<j>廃官…所属する官衙・官職が廃止されたとき。</j>
+<e type="trans" ver="1">Haikan…At the time when kanga (government office) or the job grade someone is belonging to was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Haikan…At the time when kanga (government office) or the government post someone had belonged to was abolished.</e>
+<cmt>job grade→government post としました。</cmt>
+<e type="check" ver="1">Haikan…At the time when kanga (government office) or the government post someone had belonged to was abolished.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="11">
+<j>省員…所属する官衙の人員整理に伴うもの。</j>
+<e type="trans" ver="1">Shoin…Accompanied by the personal reduction in kanga someone is belonging to.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shoin…For the personnel reduction in kanga someone belonged to.</e>
+<cmt>Accompanied by→For としました。personal→personnel に修正しました。is belonging→belonged としました。</cmt>
+<e type="check" ver="1">Shoin…For the personnel reduction in kanga someone belonged to.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="12">
+<j>充侍…父母の老病によってその介護を命じる場合。</j>
+<e type="trans" ver="1">Juji…In the case of ordering the care of someone&apos;s own parents aged or sick.</e>
+<cmt>インターネットで「充侍」がヒットせず、読み方の確認がとれませんでした。</cmt>
+<e type="trans" ver="2">Juji (充侍)…In the case of ordering the care of someone&apos;s own parents aged or sick.</e>
+<cmt>読み方不明の漢字を追加しました。</cmt>
+<e type="check" ver="1">Juji (充侍)…In the case of ordering the care of someone&apos;s own parents aged or sick.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="13">
+<j>遭喪…父母などの親族の死による服喪。</j>
+<e type="trans" ver="1">Soso…Mourning due to the death of parent or relative</e>
+<cmt>インターネットで「遭喪」がヒットせず、読み方の確認がとれませんでした。</cmt>
+<e type="trans" ver="2">Soso (遭喪)…Mourning due to the death of a parent or relative.</e>
+<cmt>読み方不明の漢字を追加しました。a を追加しました。ピリオドを追加しました。</cmt>
+<e type="check" ver="1">Soso (遭喪)…Mourning due to the death of a parent or relative.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="14">
+<j>悪解…本人が病気をして120日を経た場合。</j>
+<e type="trans" ver="1">Oge…In the case of 120 days having past after struck by a disease.</e>
+<cmt>インターネットで「悪解」がヒットせず、読み方の確認がとれませんでした。</cmt>
+<e type="trans" ver="2">Oge (悪解)…In the case of 120 days having past after struck by a disease.</e>
+<cmt>読み方不明の漢字を追加しました。</cmt>
+<e type="check" ver="1">Oge (悪解)…In the case of 120 days having past after struck by a disease.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

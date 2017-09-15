@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>藤原頼通</j>
+<e type="trans" ver="1">FUJIWARA no Yorimichi</e>
+<cmt></cmt>
+<e type="trans" ver="2">FUJIWARA no Yorimichi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">FUJIWARA no Yorimichi</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>藤原 頼通（ふじわら の よりみち、正暦3年（992年） - 承保元年2月2日 (旧暦)（1074年3月2日））は、平安時代の公卿・廷臣。</j>
+<e type="trans" ver="1">FUJIWARA no Yorimichi (992 to February 2, 1074) was a noble/courtier of the Heian Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">FUJIWARA no Yorimichi (992 to February 2, 1074) was a noble and Imperial retainer of the Heian Period.</e>
+<cmt>&quot;/courtier&quot;→&quot;and Imperial retainer&quot;</cmt>
+<e type="check" ver="1">FUJIWARA no Yorimichi (992 - March 2, 1074) was a noble and Imperial retainer of the Heian period.</e>
+<cmt>月日を修正しました。</cmt>
+</sen>
+<sen id="2">
+<j>摂政・関白、太政大臣。</j>
+<e type="trans" ver="1">Regent/ Chief Adviser to the Emperor/ Prime Minister</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was regent, Kanpaku (Chief Adviser to the Emperor) and Prime Minister</e>
+<cmt>Added &quot;He was&quot;slash→comma Added &quot;Kanpaku&quot;, bracketsslash→&quot;and&quot;</cmt>
+<e type="check" ver="1">He served as Sessho (regent), Kanpaku (the chief adviser to the Emperor), and Daijo-daijin (Grand minister of state).</e>
+<cmt>役職表現を修正しました。</cmt>
+</sen>
+<sen id="3">
+<j>父は、藤原道長、母は源倫子（りんし）。</j>
+<e type="trans" ver="1">Father was FUJIWARA no Michinaga, mother was MINAMOTO no Rinshi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">His father was FUJIWARA no Michinaga, and his mother was MINAMOTO no Rinshi.</e>
+<cmt>Added &quot;His&quot;, &quot;and his&quot;</cmt>
+<e type="check" ver="1">His father was FUJIWARA no Michinaga, and his mother was MINAMOTO no Rinshi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>正室は源隆姫（後に源氏を賜って臣籍降下）、子に藤原通房・藤原師実。</j>
+<e type="trans" ver="1">Legal wife was MINAMOTO no Takahime (later the Minamoto Clan honored by becoming part of the imperial family) and children were: FUJIWARA no Michifusa/ FUJIWARA no Morozane.</e>
+<cmt></cmt>
+<e type="trans" ver="2">His wife was MINAMOTO no Takahime (who was given the Minamoto name after leaving the imperial family) and their children were FUJIWARA no Michifusa and FUJIWARA no Morozane.</e>
+<cmt>Added &quot;His&quot;Deleted &quot;Legal&quot;Reworded section in bracketsAdded &quot;their&quot;Deleted colonslash→&quot;and&quot;</cmt>
+<e type="check" ver="1">His wife was MINAMOTO no Takahime (who was given the Minamoto name after leaving the imperial family) and their children were FUJIWARA no Michifusa and FUJIWARA no Morozane.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>幼名は田鶴。</j>
+<e type="trans" ver="1">Childhood name was Tazu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">His childhood name was Tazu.</e>
+<cmt>Added &quot;His&quot;</cmt>
+<e type="check" ver="1">His childhood name was Tazu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>通称宇治殿。</j>
+<e type="trans" ver="1">His nickname was &quot;Uji-dono&quot; (lit. &quot;Master Uji&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">His nickname was &quot;Uji-dono&quot; (lit. &quot;Master Uji&quot;).</e>
+<cmt>OK- though maybe &quot;Lord&quot; is better than &quot;Master&quot;</cmt>
+<e type="check" ver="1">His nickname was Uji-dono (lit. Master Uji).</e>
+<cmt>”を削除しました。</cmt>
+</sen>
+<sen id="7">
+<j>法名は蓮花覚、後に寂覚。</j>
+<e type="trans" ver="1">His attributed posthumous Buddhist name is &quot;蓮花覚&quot; (lit. &quot;Lotus Awakened&quot;) later simplified to &quot;寂覚&quot; (lit. &quot;Melancholy Awakened&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">His posthumous Buddhist name was &quot;蓮花覚&quot; (lit. &quot;Lotus Awakened&quot;) later simplified to &quot;寂覚&quot; (lit. &quot;Melancholy Awakened&quot;).</e>
+<cmt>Deleted &quot;attributed&quot;&quot;is&quot;→&quot;was&quot;-Don&apos;t think the kanji are useful for English speakers here but don&apos;t know the readings of the names.</cmt>
+<e type="check" ver="1">His posthumous Buddhist name was 蓮花覚 (literally &quot;Lotus Awakened&quot;) later simplified to 寂覚 (literally &quot;Melancholy Awakened&quot;).</e>
+<cmt>”→&quot;としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>父道長から若くして後一条天皇の摂政を譲られて、その後見を受ける。</j>
+<e type="trans" ver="1">His father Michinaga assigned him at a young age to be regent to Emperor Goichijo and falls under his guardianship.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was assigned at a young age to be regent to Emperor Goichijo by his father, who continued to support him.</e>
+<cmt>Changed word order&quot;and falls under his guardianship&quot;→&quot;who continued to support him&quot;</cmt>
+<e type="check" ver="1">He was assigned at a young age to be Sessho (regent) to Emperor Goichijo by his father, who continued to support him.</e>
+<cmt>Sessho を追加しました。</cmt>
+</sen>
+<sen id="9">
+<j>父の死後は朝政の第一人者として後朱雀天皇・後冷泉天皇の御代に渡り、関白を50年の長きに渡って務め、父道長と共に藤原氏全盛時代を築いた。</j>
+<e type="trans" ver="1">After his father&apos;s death, as a leading member of the imperial government, spanning the reigns of Emperor Gosuzaku and Emperor Goreizen, he served as Kanpaku (Chief Adviser) to Emperors over a lengthy 50 year period and together with his father Michinaga, built what was the golden age of the Fujiwara Clan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After his father&apos;s death, he was one of the leading members of the imperial government, serving as Kanpaku for 50 years, spanning the reigns of Emperor Gosuzaku and Emperor Goreizen and, together with his father Michinaga, built what was the golden age of the Fujiwara Clan.</e>
+<cmt>&quot;as a leading member&quot;→&quot;he was one of the leading members&quot;&quot;he served as Kanpaku (Chief Adviser) to Emperors over a lengthy 50 year period&quot;→&quot;serving as Kanpaku for 50 years&quot; and moved</cmt>
+<e type="check" ver="1">After his father&apos;s death, he was one of the leading members of the imperial government, serving as Kanpaku for 50 years, spanning the reigns of Emperor Gosuzaku and Emperor Goreizei and, together with his father Michinaga, built what was the golden age of the Fujiwara clan.</e>
+<cmt>Goreizei に修正しました。</cmt>
+</sen>
+<sen id="10">
+<j>現代に残るその栄華の象徴が頼通が造営した平等院鳳凰堂である。</j>
+<e type="trans" ver="1">Remaining to this day as a symbol of splendor is the Ho-o-do hall at Byodo-in Temple built by Yorimichi.</e>
+<cmt>hoodo&apos; is too close to English word &quot;hoodoo&quot; (=voodoo/bad luck). I changed to similar to JNTO format.</cmt>
+<e type="trans" ver="2">The Phoenix Hall (or Ho-o-do) at Byodo-in Temple, built by Yorimichi, is still standing.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">The Hoo-do Hall (Phoenix Hall) at Byodoin Temple, built by Yorimichi, is still standing to show the symbol of their glory.</e>
+<cmt>Hoo-do Hall としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="11">
+<j>しかし、天皇の后にした娘が男子に恵まれなかった事や刀伊の入寇・平忠常の乱・前九年の役など戦乱が相次ぎ、朝廷内部での絶対的な権勢とは裏腹に内外においてはその政治的基盤を揺るがせる事態が相次ぎ、晩年には藤原氏と縁のない後三条天皇が即位して、摂関家は衰退へ向かい、やがて院政と武士の台頭の時代へと移ることになる。</j>
+<e type="trans" ver="1">However, because the maiden taken by the Emperor as Empress was not blessed with a son and, due to the successive Toi Invasion, TAIRA no Tadatsune Rebellion and the Zenkunen War etc, the absolute power of the inner circles of the imperial court was wound-back at home and abroad and rocked to its political foundations time and again. In its final years, the Fujiwara Clan saw the unrelated Emperor Gosanjo enthroned and as such, headed towards decline as advisors. In time, there was a transition to a period of cloistered government and ascendance of samurai warriors.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, because the maiden taken by the Emperor as Empress was unable to provide a son and, due to conflicts such as the Toi Invasion, the TAIRA no Tadatsune Rebellion and the Zenkunen War, the absolute power of the inner circles of the imperial court was eroded at home and abroad and rocked to its political foundations time and again. In its final years, the Fujiwara Clan saw the unrelated Emperor Gosanjo enthroned and as such, headed towards decline as advisors. In time, there was a transition to a period of cloistered government and the ascendance of samurai warriors.</e>
+<cmt>&quot;not blessed with a son&quot;→&quot;unable to provide a son&quot;Added &quot;conflicts such as&quot;, &quot;the&quot;Deleted &quot;etc&quot;&quot;wound-back&quot;→&quot;eroded&quot;Added &quot;the&quot;</cmt>
+<e type="check" ver="1">However, because the maiden taken by the Emperor as Empress was unable to provide a son and, due to conflicts such as the Toi Invasion, the TAIRA no Tadatsune Rebellion and the Zenkunen War, the absolute power of the Fujiwara clan in the inner circles of the imperial court was eroded at home and abroad and rocked to its political foundations time and again; in its final years, the Fujiwara clan, who kept the posision of Sessho and Kanpaku, saw the unrelated Emperor Gosanjo enthroned and as such, and headed towards decline; in time, there was a transition to a period of cloistered government and the ascendance of samurai warriors.</e>
+<cmt>文章をセミコロンでつなげました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>いくつかのネット上には藤原頼“道”と記載してあるところがあるが“通”なので気をつけること。</j>
+<e type="trans" ver="1">On the internet there are numerous instances of FUJIWARA no Yori&quot;michi&quot; recorded using the &quot;道&quot; kanji character for &quot;michi&quot;, however, care should be taken to use the correct character which is &quot;通&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the internet there are numerous instances of FUJIWARA no Yori&quot;michi&quot; recorded using the &quot;道&quot; kanji character for &quot;michi&quot;; however, care should be taken to use the correct character which is &quot;通&quot;.</e>
+<cmt>comma→semicolon</cmt>
+<e type="check" ver="1">On the internet there are numerous instances of FUJIWARA no Yori&quot;michi&quot; recorded using the &quot;道&quot; kanji character for &quot;michi&quot;; however, care should be taken to use the correct character which is &quot;通&quot;.</e>
+<cmt>”→&quot;としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="13">
+<j>生涯</j>
+<e type="trans" ver="1">Lifetime</e>
+<cmt></cmt>
+<e type="trans" ver="2">Life</e>
+<cmt>&quot;Lifetime&quot;→&quot;Life&quot;</cmt>
+<e type="check" ver="1">Biography</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="14">
+<j>父道長には左大臣源雅信の娘倫子と安和の変で失脚した左大臣源高明の娘源明子の二人の妻がいた。</j>
+<e type="trans" ver="1">His father Michinaga had two wives; Rinshi who was daughter of sadaijin (Minister of the Left) MINAMOTO no Masanobu and, MINAMOTO no Akiko who was daughter of sadaijin (Minister of the Left) MINAMOTO no Takaakira&apos;s (overthrown in the Anna War).</e>
+<cmt></cmt>
+<e type="trans" ver="2">His father Michinaga had two wives; Rinshi, who was the daughter of Sadaijin (Minister of the Left) MINAMOTO no Masanobu, and MINAMOTO no Akiko, who was daughter of Sadaijin MINAMOTO no Takaakira (who had been overthrown in the Anna War).</e>
+<cmt>Added commasCapitalised &apos;s&apos;Deleted second &quot;(Minister of the Left)&quot;Deleted &quot;’s&quot;Added &quot;who had been&quot;</cmt>
+<e type="check" ver="1">His father Michinaga had two wives; Rinshi, who was the daughter of Sadaijin (Minister of the Left) MINAMOTO no Masanobu, and MINAMOTO no Akiko, who was daughter of Sadaijin MINAMOTO no Takaakira (who had been overthrown in the Anna War).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>倫子が正妻とみなされ、倫子の子の頼通、藤原教通は、明子の子の藤原頼宗、藤原能信らより昇進の面で優遇され、また娘も倫子の子が皇妃とされた。</j>
+<e type="trans" ver="1">Rinshi was viewed as his legal wife, Rinshi&apos;s child Yorimichi, FUJIWARA no Norimichi, Akiko&apos; child FUJIWARA no Yorimune, and FUJIWARA no Yoshinobu were given favorable treatment in promotions and again, a daughter of Rinshi became Empress.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rinshi was viewed as his legal wife and her sons, Yorimichi and FUJIWARA no Norimichi, were given preference in promotions over Akiko&apos;s children, FUJIWARA no Yorimune and FUJIWARA no Yoshinobu, and her daughter became Empress.</e>
+<cmt>Reworded middle section - mistranslated&quot;again, a daughter of Rinshi&quot;→&quot;her daughter&quot;</cmt>
+<e type="check" ver="1">Rinshi was viewed as his legal wife and her sons, Yorimichi and FUJIWARA no Norimichi, were given preference in promotions over Akiko&apos;s children, FUJIWARA no Yorimune and FUJIWARA no Yoshinobu, and her daughter became Empress.</e>
+<cmt>’→&apos;　としました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="16">
+<j>道長は一条天皇のもとで内覧左大臣として朝政を主導し、権勢を振るった。</j>
+<e type="trans" ver="1">As a Private Minister of the Left to Emperor Ichijo, Michinaga led the imperial government and exerted influence.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As the Nairan (inspector of documents submitted to the Emperor) and Minister of the Left to Emperor Ichijo, Michinaga was the most important person in the imperial government, wielding immense influence.</e>
+<cmt>&quot;a Private&quot;→&quot;the Nairan (inspector of documents submitted to the Emperor) and&quot;&quot;led the imperial government and exerted&quot;→&quot;was the most important person in the imperial government, wielding immense&quot;</cmt>
+<e type="check" ver="1">As the Nairan (inspector of documents submitted to the Emperor) and Sadaijin to Emperor Ichijo, Michinaga was the most important person in the imperial government, wielding immense influence.</e>
+<cmt>sadaijin としました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="17">
+<j>長保5年（1003年）頼通は12歳で元服し、正五位下に叙せられる。</j>
+<e type="trans" ver="1">In 1003 at the age of 12, Yorimichi celebrated his coming of age ceremony and was conferred the court rank of Shogoige (Lower Senior Fifth Rank).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1003 at the age of 12, Yorimichi celebrated his coming of age ceremony and was awarded the court rank of Shogoige (Lower Senior Fifth Rank).</e>
+<cmt>&quot;conferred&quot;→&quot;awarded&quot;</cmt>
+<e type="check" ver="1">In 1003 at the age of 12, Yorimichi celebrated his coming of age ceremony and was awarded the court rank of Shogoige (Lower Senior Fifth Rank).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>寛弘3年（1006年）、15歳にして従三位に叙せられ公卿に達した。</j>
+<e type="trans" ver="1">In 1006 as a 15 year old, he was conferred the official rank of Jusani (Junior Third Rank) entering the ranks of the nobility.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1006 as a 15 year old, he was awarded the official rank of Jusani (Junior Third Rank), entering the ranks of the nobility.</e>
+<cmt>&quot;conferred&quot;→&quot;awarded&quot;Added comma</cmt>
+<e type="check" ver="1">In 1006 as a 15 year old, he was awarded the official rank of Jusani (Junior Third Rank), entering the ranks of the nobility.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>累進して長和2年（1013年）に権大納言に任ぜられる。</j>
+<e type="trans" ver="1">Through successive promotions, in 1013 he was made Gondainagon (Major Counselor).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Through successive promotions, in 1013 he was made Gondainagon (Major Counselor).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Through successive promotions, in 1013 he was made Gon Dainagon (provisional major counselor).</e>
+<cmt>Gon Dainagon (provisional major counselor） としました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="20">
+<j>村上天皇の第七皇子具平親王が娘の隆子女王を頼通の妻にと申し入れた、道長はこの高貴な姫との縁談を「男は妻がらなり」と言って喜んだ。</j>
+<e type="trans" ver="1">When it was proposed that Princess Takako (daughter of Prince Tomohira the 7th prince of Emperor Murakami) become Yorimichi&apos;s wife, Michinaga was overjoyed with the engagement to a princess of elevated rank and said &quot;The wife makes the man&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When it was proposed that Princess Takako (the daughter of Prince Tomohira, the 7th son of Emperor Murakami) become Yorimichi&apos;s wife, Michinaga was overjoyed at the engagement to a princess of elevated rank and said &quot;The wife makes the man&quot;.</e>
+<cmt>Added &quot;the&quot;, comma&quot;prince&quot;→&quot;son&quot;&quot;with&quot;→&quot;at&quot;</cmt>
+<e type="check" ver="1">When it was proposed that Princess Takako (the daughter of Prince Tomohira, the seventh son of Emperor Murakami) become Yorimichi&apos;s wife, Michinaga was overjoyed at the engagement to a princess of elevated rank and said &apos;The wife makes the man.&apos;</e>
+<cmt>”→&apos;としました。 数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="21">
+<j>隆姫は美女であり、頼通と仲睦まじかったが、子が生まれなかった。</j>
+<e type="trans" ver="1">Princess Taka was a beautiful woman and on good terms with Yorimichi but, bore him no children.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Princess Taka was a beautiful woman and on good terms with Yorimichi but bore him no children.</e>
+<cmt>Deleted comma</cmt>
+<e type="check" ver="1">Princess Taka was a beautiful woman and on good terms with Yorimichi but bore him no children.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="22">
+<j>一条天皇の後を継いだ三条天皇と道長とは確執があり、天皇が失明寸前の眼病を患ったことから、道長はしきりと譲位を迫っていた。</j>
+<e type="trans" ver="1">Emperor Ichijo was succeeded by Emperor Sanjo who did not get on well with Michinaga and, after the Emperor was on the verge of blindness due to eye disease, repeatedly urged him to abdicate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Emperor Ichijo was succeeded by Emperor Sanjo who did not get on well with Michinaga and, because the Emperor was on the verge of blindness due to eye disease, Michinaga repeatedly urged him to abdicate.</e>
+<cmt>&quot;after&quot;→&quot;because&quot;Added &quot;Michinaga&quot;</cmt>
+<e type="check" ver="1">Emperor Ichijo was succeeded by Emperor Sanjo who did not get on well with Michinaga and, because the Emperor was on the verge of blindness due to eye disease, Michinaga repeatedly urged him to abdicate.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>東宮（皇太子）は道長の長女藤原彰子の生んだ後一条天皇であった。</j>
+<e type="trans" ver="1">The Crown Prince, was born to Michinaga&apos;s eldest daughter FUJIWARA no Akiko and became Emperor Go-Ichijo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Crown Prince was born to Michinaga&apos;s eldest daughter, FUJIWARA no Akiko, later becoming Emperor Go-Ichijo.</e>
+<cmt>Deleted commaAdded commas&quot;and became&quot;→&quot;later becoming&quot;</cmt>
+<e type="check" ver="1">The Crown Prince was born to Michinaga&apos;s eldest daughter, FUJIWARA no Akiko, later becoming Emperor Goichijo.</e>
+<cmt>→&apos;としました。 数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="24">
+<j>天皇は道長を憎み譲位に応じようとしなかった。</j>
+<e type="trans" ver="1">The Emperor did not react to Michinaga&apos;s loathing and pressure to abdicate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Emperor did not react to Michinaga&apos;s loathing and pressure to abdicate.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Emperor loathed Michinaga, and did not react to the pressure to abdicate.</e>
+<cmt>一部翻訳を修正しました。</cmt>
+</sen>
+<sen id="25">
+<j>『栄花物語』によると、天皇は道長を懐柔すべく頼通への皇女禔子内親王の降嫁を申し出た。</j>
+<e type="trans" ver="1">According to the &quot;Tale of Eiga&quot;, the Emperor demanded conciliation with Nagamichi and proposed a marriage between Yorimichi and Imperial Princess Teishi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the &quot;Tale of Eiga&quot;, the Emperor proposed a marriage between Yorimichi and Imperial Princess Teishi as a gesture of conciliation with Michinaga.</e>
+<cmt>&quot;demanded conciliation with Nagamichi and&quot;→&quot;as a gesture of conciliation with Michinaga&quot; and moved</cmt>
+<e type="check" ver="1">According to the &quot;Tale of Eiga&quot; (A Tale of Flowering Fortunes), the Emperor proposed a marriage between Yorimichi and Imperial Princess Teishi as a gesture of conciliation with Michinaga.</e>
+<cmt>栄花物語　を補足しました。</cmt>
+</sen>
+<sen id="26">
+<j>道長は同意したが、隆姫のみを愛する頼通はこの縁談を憂いた。</j>
+<e type="trans" ver="1">Michinaga consented however, for Yorimichi who only loved Princess Taka, the proposal was met with sorrow.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Michinaga consented, but for Yorimichi, who only loved Princess Taka, the proposal was met with sorrow.</e>
+<cmt>Moved comma&quot;however&quot;→&quot;but&quot;Added comma</cmt>
+<e type="check" ver="1">Michinaga consented, but for Yorimichi, who only loved Princess Taka, the proposal was met with sorrow.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>これに対して道長は「男子がなぜ一人の妻で止まるのか。</j>
+<e type="trans" ver="1">To this Michinaga responded &quot;Why must a man stop at one wife?&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">To this Michinaga responded &quot;Why must a man stop at one wife?&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">To this Michinaga responded &apos;Why must a man stop at one wife?</e>
+<cmt>”→&apos;としました。 数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="28">
+<j>しかも子がないのだから、広く継嗣を求めよ」と叱咤して無理強いに縁組しようとさせたが、やがて頼通は重病となり、加持調伏の結果、具平親王の怨霊が出たため、この結婚は止み沙汰になったという。</j>
+<e type="trans" ver="1">&quot;Moreover, because there are no children, I want you to have many heirs&quot; Michinaga scolded and he was forced into the marriage however, before long, Michinaga fell seriously ill, and through faith healing and exorcism, because the revengeful ghost of Prince Tomohira emerged, the wedding was instructed to be halted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Moreover, you have no children and I want you to have many heirs,&quot; Michinaga rebuked and forced Yorimichi into the marriage but before long, Michinaga fell seriously ill, and the wedding was instructed to be halted when, as a result of faith healing and exorcism, the ghost of Prince Tomohira emerged.</e>
+<cmt>&quot;because there are&quot;→&quot;you have&quot;comma→&quot;and&quot;Added comma&quot;scolded&quot;→&quot;rebuked&quot;Deleted &quot;he was&quot;Added &quot;Yorimichi&quot;&quot;however,&quot;→&quot;but&quot;Moved &quot;the wedding was instructed to be halted&quot;Added &quot;when&quot;, commas&quot;through&quot;→&quot;as a result of&quot;Deleted &quot;because&quot;, &quot;revengeful&quot;&quot;emerged&quot;→&quot;appeared&quot;</cmt>
+<e type="check" ver="1">Moreover, you have no children and I want you to have many heirs,&apos; Michinaga rebuked and forced Yorimichi into the marriage but before long, Yorimichi fell seriously ill, and the wedding was instructed to be halted when, as a result of faith healing and exorcism, the ghost of Prince Tomohira emerged.</e>
+<cmt>”→&apos;としました。 数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="29">
+<j>同5年（1016年）、結局、三条天皇は道長の圧力に屈して、敦成親王に譲位した（後一条天皇）。</j>
+<e type="trans" ver="1">Ultimately, in 1016, Emperor Sanjo succumbed to Michinaga&apos;s pressure and abdicated to Imperial Prince Atsuyasu (Emperor Goichijo).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Eventually, in 1016, Emperor Sanjo succumbed to Michinaga&apos;s pressure and abdicated in favor of Imperial Prince Atsuyasu (Emperor Goichijo).</e>
+<cmt>&quot;Ultimately&quot;→&quot;Eventually&quot;&quot;to&quot;→&quot;in favor of&quot;</cmt>
+<e type="check" ver="1">Eventually, in 1016, Emperor Sanjo succumbed to Michinaga&apos;s pressure and abdicated in favor of Imperial Prince Atsuyasu (Emperor Goichijo).</e>
+<cmt>→&apos;としました。</cmt>
+</sen>
+<sen id="30">
+<j>外祖父の道長が摂政となった。</j>
+<e type="trans" ver="1">His maternal grandfather Michinaga became Regent.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Michinaga, his maternal grandfather, became Regent.</e>
+<cmt>Moved &quot;Michinaga&quot;Added commas</cmt>
+<e type="check" ver="1">Michinaga, his maternal grandfather, became Sessho.</e>
+<cmt>Sessho　としました。</cmt>
+</sen>
+<sen id="31">
+<j>翌同6年（1017年）頼通は内大臣に進むとともに、父に代わって摂政の宣下を受け藤原氏長者も譲られた。</j>
+<e type="trans" ver="1">In 1017, Yorimichi was promoted to Minister of the Center as well as being commanded by imperial proclamation to replace his father as Regent and the wealht of the Fujiwara Clan surrendered.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1017, Yorimichi was promoted to Minister of the Center as well as being commanded by imperial proclamation to replace his father as Regent and was made head of the Fujiwara Clan.</e>
+<cmt>&quot;the wealht of the Fujiwara Clan surrendered&quot;→&quot;was made head of the Fujiwara Clan&quot;</cmt>
+<e type="check" ver="1">In 1017, Yorimichi was promoted to Naidaijin (Minister of the Center) as well as being commanded by imperial proclamation to replace his father as Regent and was made head of the Fujiwara clan.</e>
+<cmt>Naidaijin を追加しました。</cmt>
+</sen>
+<sen id="32">
+<j>頼通は僅か26歳であり、最年少の摂政だった。</j>
+<e type="trans" ver="1">Yorimichi was a mere 26 years old and the youngest Regent ever.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yorimichi was a mere 26 years old and the youngest Regent ever.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yorimichi was a mere 26 years old and the youngest Sessho ever.</e>
+<cmt>Sessho　としました。</cmt>
+</sen>
+<sen id="33">
+<j>道長は同年末に太政大臣に上るが、翌年には辞して、前太政大臣として若い頼通を後見することで後継体制を固めた。</j>
+<e type="trans" ver="1">At the end of the same year, Michinaga was elevated to the role of Dajodaijin (Prime Minister) but, in the following year resigned and as former Prime Minister, being the guardian of the young Yorimichi, reinforced the system of succession.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the end of the same year, Michinaga was elevated to the role of Dajodaijin (Prime Minister) but resigned the following year and in his role as former Prime Minister, advised the young Yorimichi, reinforced the system of reinforcing.</e>
+<cmt>Deleted comma, &quot;in&quot;Moved &quot;resigned&quot;Added &quot;in his role&quot;&quot;being the guardian of&quot;→&quot;advised&quot;&quot;reinforced&quot;→&quot;reinforcing&quot;</cmt>
+<e type="check" ver="1">At the end of the same year, Michinaga was elevated to the role of Daijo-daijin but resigned the following year and in his role as former Daijo-daijin, advised the young Yorimichi, reinforced the arrangements for the succession.</e>
+<cmt>後継体制→arrangements for the succession　としました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="34">
+<j>寛仁3年（1019年）関白となり、治安 (元号)元年（1021年）に左大臣に転じた。</j>
+<e type="trans" ver="1">In 1019 he became Kanpaku (Chief Adviser to the Emperor) and in 1021 turned to the role of Sadaijin (Minister of the Left).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1019, Yorimichi became Kanpaku (Chief Adviser to the Emperor) and in 1021, transferred to the role of Sadaijin (Minister of the Left).</e>
+<cmt>Added comma&quot;he&quot;→&quot;Yorimichi&quot;Added comma&quot;turned&quot;→&quot;transferred&quot;</cmt>
+<e type="check" ver="1">In 1019, Yorimichi became Kanpaku and in 1021, transferred to the role of Sadaijin.</e>
+<cmt>関白、左大臣　既出のため補足を削除しました。</cmt>
+</sen>
+<sen id="35">
+<j>この間に父の道長は後一条天皇に三女の藤原威子を入れて中宮となし、また東宮後朱雀天皇には末子の藤原嬉子を入れ、嬉子は親仁親王（後の後冷泉天皇）を生み、将来への布石を打った。</j>
+<e type="trans" ver="1">During this period his father, Michinaga, placed his 3rd daughter FUJIWARA no Ishi as Empress to Emperor Gosanjo and, the Crown Prince Emperor Gosuzaku&apos;s youngest child, FUJIWARA no Kishi was enthroned and gave birth to Imperial Prince Chikahito (later to be Emperor Goreizen) and thus putting the strategic pieces in place for the future.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During this period his father, Michinaga, placed his 3rd daughter FUJIWARA no Ishi as Empress to Emperor Gosanjo and married his youngest daughter, FUJIWARA no Kishi, to the Crown Prince Emperor Gosuzaku, with Kishi giving birth to Imperial Prince Chikahito (later to be Emperor Goreizen) and thus putting the strategic pieces in place for the future.</e>
+<cmt>&quot;, the Crown Prince Emperor Gosuzaku’s youngest child, FUJIWARA no Kishi was enthroned&quot;→&quot;married his youngest daughter, FUJIWARA no Kishi, to the Crown Prince Emperor Gosuzaku&quot;&quot;and gave&quot;→&quot;, with Kishi giving&quot;</cmt>
+<e type="check" ver="1">During this period his father, Michinaga, placed his third daughter FUJIWARA no Ishi as Empress to Emperor Gosanjo and married his youngest daughter, FUJIWARA no Kishi, to the Crown Prince Emperor Gosuzaku, with Kishi giving birth to Imperial Prince Chikahito (later to be Emperor Goreizei) and thus putting the strategic pieces in place for the future.</e>
+<cmt>一部翻訳を修正しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="36">
+<j>寛仁3年（1019年）に道長は出家したが依然として実権を握り、頼通もその意向に従ってむしろ大事にはその判断を仰いでいる。</j>
+<e type="trans" ver="1">In 1019 Michinaga entered the priesthood but, as of old he held onto real power, with Yorimichi also adhering to this arrangement and instead was careful to solicit his judgment.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1019, Michinaga entered the priesthood but continued to hold onto the real power, with Yorimichi also adhering to this arrangement and taking care to solicit his judgment.</e>
+<cmt>Added comma&quot;, as of old he held&quot;→&quot;continued to hold&quot;Added &quot;the&quot;&quot;instead was careful&quot;→&quot;taking care&quot;</cmt>
+<e type="check" ver="1">In 1019, Michinaga entered the priesthood but continued to hold onto the real power, with Yorimichi also adhering to this arrangement and taking care to solicit his judgment.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>道長が公卿たちの前で関白の頼通を罵倒することもあったといい、治安 (元号)3年（1023年）と万寿2年（1025年）に不始末から父より一時勘当の処分を受けている。</j>
+<e type="trans" ver="1">It is said that Michinaga also abused Yorimichi who was Kanpaku (Chief Adviser to the Emperor) in front of the nobility, and in 1023 and 1025 was punished for misconduct by being disinherited for a time by his father.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that Michinaga also abused Yorimichi who was Kanpaku (Chief Adviser to the Emperor) in front of the nobility, and in 1023 and 1025 was punished for misconduct by being disinherited for a time by his father.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is said that Michinaga also abused Yorimichi who was Kanpaku in front of the nobility, and in 1023 and 1025 was punished for misconduct by being disinherited for a time by his father.</e>
+<cmt>関白　既出のため補足を削除しました。</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="38">
+<j>頼通は有職故実に通じた当代の学識者だった小野宮流の藤原実資に師事して親交を結び、道長への批判者だった実資も頼通には好意を持っていた。</j>
+<e type="trans" ver="1">Yorimichi was well versed in the rules and practice of the imperial court and military houses by virtue of tutelage received and developing an intimate friendship with FUJIWARA no Sanesuke of the Ononomiya school. Sanuseke was critic of Michinaga was also well disposed towards Yorimichi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yorimichi was taught the rules and practices of the imperial court and military houses by the scholar FUJIWARA no Sanesuke of the Ononomiya school, who was a critic of Michinaga, and the two became close friends.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Yorimichi was taught the rules and practices of the imperial court and military houses by the scholar FUJIWARA no Sanesuke of the Ononomiya school, who was a critic of Michinaga, and the two became close friends.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="39">
+<j>万寿4年（1027年）道長が死去した。</j>
+<e type="trans" ver="1">In 1027 Michinaga passed away.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1027, Michinaga passed away.</e>
+<cmt>Added comma</cmt>
+<e type="check" ver="1">In 1027, Michinaga passed away.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>その半年後の長元元年（1028年）に関東で平忠常の乱が起こる。</j>
+<e type="trans" ver="1">Six months later in 1028 the Taira No Tadatsune Rebellion erupted in the Kanto (Eastern) region.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Six months later, in 1028, the Taira No Tadatsune Rebellion erupted in the Kanto (Eastern) region.</e>
+<cmt>Added commas</cmt>
+<e type="check" ver="1">Six months later, in 1028, the TAIRA no Tadatsune Rebellion erupted in the Kanto (Eastern) region.</e>
+<cmt>TAIRA　としました。</cmt>
+</sen>
+<sen id="41">
+<j>その鎮圧には3年を要し、そのため主戦場の房総半島がひどく荒廃した。</j>
+<e type="trans" ver="1">It took 3 years to suppress the revolt and, for this reason the Boso Peninsula theatre of battle was left in ruins.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It took 3 years to suppress the revolt, leaving the Boso Peninsula, where the main fighting took place, in ruins.</e>
+<cmt>&quot;and, for this reason the Boso Peninsula theatre of battle was left&quot;→&quot;, leaving the Boso Peninsula, where the main fighting took place,&quot;</cmt>
+<e type="check" ver="1">It took three years to suppress the revolt, leaving the Boso Peninsula, where the main fighting took place, in ruins.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="42">
+<j>この乱を鎮圧したのが源頼信であり、これを契機に清和源氏が関東に勢力を持ち、武士が本格的に表舞台に登場するようになる。</j>
+<e type="trans" ver="1">MINAMOTO no Yorinobu suppressed the rebellion and by grasping the opportunity, Seiwa GENJI exerted control over Kanto and it is said that this was when samurai warriors arrived centre-stage in earnest.</e>
+<cmt></cmt>
+<e type="trans" ver="2">MINAMOTO no Yorinobu suppressed the rebellion and by grasping the opportunity, the Seiwa GENJI exerted control over Kanto; it is said that this was when samurai warriors arrived centre-stage in earnest.</e>
+<cmt>Added &quot;the&quot;&quot;and&quot;→semicolon</cmt>
+<e type="check" ver="1">MINAMOTO no Yorinobu suppressed the rebellion and by grasping the opportunity, the Seiwa-Genji (Minamoto clan) exerted control over Kanto region; it is said that this was when samurai warriors arrived center-stage in earnest.</e>
+<cmt>Seiwa-Genji (Minamoto clan) としました。</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="43">
+<j>道長亡き後、頼通は自立して独自の権力確立に努め、同2年（1029年）には太政大臣藤原公季の薨去に伴い、一座となる。</j>
+<e type="trans" ver="1">After the death of Michinaga, Yorimichi endeavored to establish his own particular independent authority and, with the death of in 1029 of Dajodaijin (Prime Minister) FUJIWARA no Kinsue, his own circle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the death of Michinaga, Yorimichi endeavored to establish his own particular independent authority and, with the death in 1029 of Dajodaijin (Prime Minister) FUJIWARA no Kinsue, his own circle.</e>
+<cmt>Deleted &quot;of&quot;</cmt>
+<e type="check" ver="1">After the death of Michinaga, Yorimichi endeavored to establish his own particular independent authority and, with the death in 1029 of Daijo-daijin FUJIWARA no Kinsue, he reached the top rank in his own circle.</e>
+<cmt>一座となる→reach the top rank in his own circleとしました。</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="44">
+<j>同9年（1036年）後一条天皇が崩御し、同母弟の後朱雀天皇が即位した。</j>
+<e type="trans" ver="1">Emperor Goichijo died in 1036 and, his maternal younger brother Emperor Gosuzaku was enthroned.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Emperor Goichijo died in 1036 and his maternal younger brother, Emperor Gosuzaku, was enthroned.</e>
+<cmt>Deleted commaAdded commas</cmt>
+<e type="check" ver="1">Emperor Goichijo died in 1036 and his maternal younger brother, Emperor Gosuzaku, was enthroned.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="45">
+<j>頼通は引き続き外叔父として関白を務める。</j>
+<e type="trans" ver="1">Yorimichi continued on serving as Kanpaku (Chief Adviser) to his other uncle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yorimichi continued to serve as Kanpaku (Chief Adviser) to his other uncle.</e>
+<cmt>&quot;on serving&quot;→&quot;to serve&quot;</cmt>
+<e type="check" ver="1">Yorimichi continued to serve as Kanpaku to his other uncle.</e>
+<cmt>関白　既出のため補足を削除しました。</cmt>
+</sen>
+<sen id="46">
+<j>だが「一家三立后」を実現した道長と異なり、頼通は子女に恵まれず、やむなく正妻隆姫の縁で敦康親王の娘の藤原嫄子を養女として後朱雀天皇に入内させて中宮となした。</j>
+<e type="trans" ver="1">However, he differed from Michinaga, who had implemented a &quot;One household three empresses&quot; policy: Yorimichi was not blessed with any daughters and for compelling reasons of his bond with his legal wife Takahime, FUJIWARA no Genshi became an adopted daughter and was taken by Emperor Gosuzaku as Empress.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, unlike Michinaga, who had implemented a &quot;One household, three empresses&quot; policy, Yorimichi was not blessed with any daughters and so, using his wife&apos;s connections, he adopted Prince Atsuyasu&apos;s daughter, FUJIWARA no Genshi, and had her made consort of Emperor Gosuzaku.</e>
+<cmt>&quot;he differed from&quot;→&quot;unlike&quot;Added commacolon→commaReworded last part of sentence - clarity, mistranslation</cmt>
+<e type="check" ver="1">However, unlike Michinaga, who had implemented a &apos;One household, three empresses&apos; policy, Yorimichi was not blessed with any daughters and so, using his wife&apos;s connections, he adopted Prince Atsuyasu&apos;s daughter, FUJIWARA no Genshi, and had her made consort of Emperor Gosuzaku.</e>
+<cmt>”→&apos;としました。 数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="47">
+<j>後朱雀天皇は道長の娘の嬉子を妻としたが、嬉子は東宮に立てられた親仁親王を生んですぐに死去しており、別に後三条天皇を生んだ禎子内親王（三条天皇の皇女）を皇后に立てていた。</j>
+<e type="trans" ver="1">Emperor Gosuzaku had taken Michinaga&apos;s daughter Kishi as his wife but, died soon after giving birth to Imperial Prince Chikahito, who was to become the Crown Prince. Separately, Imperial Princess Teishi (Emperor Sanjo&apos;s princess) born to Emperor Gosanjo was made Empress.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Emperor Gosuzaku had taken Michinaga&apos;s daughter, Kishi, as his wife but she died soon after giving birth to Imperial Prince Chikahito, who was to become the Crown Prince, and Imperial Princess Teishi, who was the daughter of Emperor Sanjo and the mother of Emperor Gosanjo, was made Empress.</e>
+<cmt>Added commascomma→&quot;she&quot;&quot;. Separately&quot;→&quot;and&quot;&quot;(Emperor Sanjo’s princess) born to Emperor Gosanjo&quot;→&quot;, who was the daughter of Emperor Sanjo and the mother of Emperor Gosanjo,&quot;</cmt>
+<e type="check" ver="1">Emperor Gosuzaku had taken Michinaga&apos;s daughter, Kishi, as his wife but she died soon after giving birth to Imperial Prince Chikahito, who was to become the Crown Prince, and Imperial Princess Teishi, who was the daughter of Emperor Sanjo and the mother of Emperor Gosanjo, was made Empress.</e>
+<cmt>→&apos;　としました。</cmt>
+</sen>
+<sen id="48">
+<j>頼通は嫄子による皇子誕生に期待したが、嫄子は皇女を生んだのみで死去してしまった。</j>
+<e type="trans" ver="1">According to Genshi, Yorimichi hoped for the birth of a prince but, Genshi passed away having only given birth to princesses.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yorimichi had hoped that Genshi would give birth to a prince but she passed away having only given birth to princesses.</e>
+<cmt>&quot;According to Genshi, Yorimichi hoped for the birth of a prince but Genshi&quot;→&quot;Yorimichi had hoped that Genshi would give birth to a prince but she&quot;</cmt>
+<e type="check" ver="1">Yorimichi had hoped that Genshi would give birth to a prince but she passed away having only given birth to princesses.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="49">
+<j>弟の教通も対抗して娘の藤原生子を入内させるが皇子を生むことはなかった。</j>
+<e type="trans" ver="1">There was also rivalry with his younger brother Norimichi whose daughter FUJIWARA no Nariko had entered the court however, she was unable to give birth to a prince.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There was also rivalry with his younger brother Norimichi whose daughter, FUJIWARA no Nariko, had entered the court but had been unable to give birth to a prince.</e>
+<cmt>Added commas&quot;however, she was&quot;→&quot;but had been&quot;</cmt>
+<e type="check" ver="1">There was also rivalry with his younger brother Norimichi whose daughter, FUJIWARA no Nariko, had entered the court but had been unable to give birth to a prince.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="50">
+<j>寛徳2年（1045年）、後朱雀天皇は危篤に陥り、次代の東宮に尊仁親王を望んだ。</j>
+<e type="trans" ver="1">In 1045 Emperor Gosuzaku fell critically ill and Imperial Prince Takahito emerges as the following era&apos;s Crown Prince.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1045 Emperor Gosuzaku fell critically ill and Imperial Prince Takahito emerged as the next Crown Prince.</e>
+<cmt>&quot;emerges&quot;→&quot;emerged&quot;&quot;following era’s&quot;→&quot;next&quot;</cmt>
+<e type="check" ver="1">In 1045 Emperor Gosuzaku fell critically ill and hoped that Imperial Prince Takahito be the next Crown Prince.</e>
+<cmt>一部翻訳を変更しました。</cmt>
+</sen>
+<sen id="51">
+<j>尊仁親王は頼通はもちろん藤原氏自体と縁がなく、頼通は東宮を立てるのはまだ時期尚早であると反対した。</j>
+<e type="trans" ver="1">Imperial Prince Takahito was no relation to the Fujiwara Clan nor Yorimichi of course and, Yorimichi thought it was premature for the Crown Prince to ascend the throne and opposed the move.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Imperial Prince Takahito was no relation to the Fujiwara Clan nor, of course, Yorimichi, who thought it was premature for the Crown Prince to ascend the throne and opposed the move.</e>
+<cmt>Moved &quot;of course&quot;Added comma&quot;and, Yorimichi&quot;→&quot;, who&quot;</cmt>
+<e type="check" ver="1">Imperial Prince Takahito was no relation to the Fujiwara clan nor, of course, Yorimichi, who thought it was premature for the Crown Prince to ascend the throne and opposed the move.</e>
+<cmt>Fujiwara clanとしました。</cmt>
+</sen>
+<sen id="52">
+<j>これに対し頼通の異母弟の権大納言能信（源明子の子）が天皇に対して懸命に尊仁親王の立太子を懇願し、遂に天皇は決意して遺命を残して崩御した。</j>
+<e type="trans" ver="1">In regards to this, Yorimichi&apos;s younger half-brother, Yoshinobu (child of MINAMOTO no Akiko), the Gondainagon (Grand Chief Counselor), earnestly petitioned the Emperor to make Imperial Prince Takahito the Crown Prince and at last the Emperor made his decision and set it down in his last will and testament then passed away.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the same time, Yorimichi&apos;s younger half-brother, Yoshinobu (the son of MINAMOTO no Akiko), the Gondainagon (Grand Chief Counselor), earnestly petitioned the Emperor to make Imperial Prince Takahito the Crown Prince and finally the Emperor made his decision, setting it down in his last will and testament before passing away.</e>
+<cmt>&quot;In regards to this&quot;→&quot;At the same time&quot;&quot;child&quot;→&quot;the son&quot;&quot;at last&quot;→&quot;finally&quot;&quot;and set&quot;→&quot;, setting&quot;&quot;then passed&quot;→&quot;before passing&quot;</cmt>
+<e type="check" ver="1">At the same time, Yorimichi&apos;s younger half-brother, Yoshinobu (the son of MINAMOTO no Akiko), the Gon Dainagon, earnestly petitioned the Emperor to make Imperial Prince Takahito the Crown Prince and finally the Emperor made his decision, setting it down in his last will and testament before passing away.</e>
+<cmt>Gon Dainagon としました。</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="53">
+<j>親仁親王が即位し（後冷泉天皇）、尊仁親王が東宮に立てられた。</j>
+<e type="trans" ver="1">Imperial Prince Chikahito was enthroned (Emperor Goreizen) and, Imperial Prince Takahito was elevated to Crown Prince.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Imperial Prince Chikahito was enthroned as Emperor Goreizen and Imperial Prince Takahito was elevated to Crown Prince.</e>
+<cmt>Deleted bracketsAdded &quot;as&quot;Deleted comma</cmt>
+<e type="check" ver="1">Imperial Prince Chikahito was enthroned as Emperor Goreizei and Imperial Prince Takahito was elevated to Crown Prince.</e>
+<cmt>Goreizei としました。</cmt>
+</sen>
+<sen id="54">
+<j>頼通は東宮には協力せず、永承5年（1050年）に一人娘の藤原寛子を入内させ皇后となし、皇子誕生に望みを繋いだがやはり皇子を生むことはなかった。</j>
+<e type="trans" ver="1">Cooperation between Yorimichi and the Crown Prince was lacking and, in 1050 his only daughter FUJIWARA no Kanshi entered the court to become Empress accompanied by great hopes that a prince would be born but, the birth of a prince was not to be.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yorimichi did not cooperate with the Crown Prince and, in 1050, his only daughter, FUJIWARA no Kanshi, entered the court to become Empress, accompanied by great hopes that a prince would be born but this was not to be.</e>
+<cmt>&quot;Cooperation between Yorimichi and the Crown Prince was lacking&quot;→&quot;Yorimichi did not cooperate with the Crown Prince&quot;Added commas&quot;, the birth of a prince&quot;→&quot;this&quot;</cmt>
+<e type="check" ver="1">Yorimichi did not cooperate with the Crown Prince and, in 1050, his only daughter, FUJIWARA no Kanshi, entered the court to become Empress, accompanied by great hopes that a prince would be born but this was not to be.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="55">
+<j>同6年（1051年）、陸奥国で前九年の役が勃発する。</j>
+<e type="trans" ver="1">In 1051 the Zenkunen War broke out in Mutsu Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1051, the Zenkunen War broke out in Mutsu Province.</e>
+<cmt>Added comma</cmt>
+<e type="check" ver="1">In 1051, the Zenkunen War broke out in Mutsu Province.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>地方の世情が不安になる中、道長を受け継ぎ長年関白を務めた頼通の権勢は表面的には衰えず、御所の傍に巨大な高陽院_(邸宅)を造営し、同7年3月28日_(旧暦)（1052年)には道長の別荘であった宇治殿を現代に残る壮麗な平等院鳳凰堂に改修した。</j>
+<e type="trans" ver="1">With unrest in the regions as a backdrop, having succeeded Michinaga and worked for many years as Chief Adviser to the Emperor, Yorimichi found his influence was not waning on the surface. He built his enormous Kayain residence (mansion) in close proximity to the palace and, in 1052 he remodeled Michinaga&apos;s villa &quot;Uji Mansion&quot; into the magnificent Ho-o-do hall at Byodo-in Temple which remains to the present day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Against this backdrop of unrest in the provinces, and having succeeded Michinaga and worked for many years as Chief Adviser to the Emperor, Yorimichi&apos;s influence appeared, on the surface, as strong as ever; he built his enormous Kayain residence (mansion) in close proximity to the imperial palace and, in 1052, he remodeled Michinaga&apos;s villa, &quot;Uji Mansion,&quot; into the magnificent Phoenix hall at Byodo-in Temple, which remains to the present day.</e>
+<cmt>&quot;With unrest in the regions as a backdrop, &quot;→&quot;Against this backdrop of unrest in the provinces, and&quot;&quot;Yorimichi found his influence was not waning on the surface.&quot;→&quot;Yorimichi&apos;s influence appeared, on the surface, as strong as ever;&quot;Added &quot;imperial&quot;, commas&quot;Ho-o-do&quot;→&quot;Phoenix&quot;</cmt>
+<e type="check" ver="1">Against this backdrop of unrest in the provinces, having succeeded Michinaga and worked for many years as Kanpaku to the Emperor, Yorimichi&apos;s influence appeared, on the surface, as strong as ever; he built his enormous Kayain residence (mansion) in close proximity to the imperial palace and, on May 5 1052, he remodeled Michinaga&apos;s villa, &quot;Uji Mansion,&quot; into the magnificent Hoo-do Hall (Phoenix Hall) at Byodoin Temple, which remains to the present day.</e>
+<cmt>”→&apos;としました。 グレゴリオ暦に修正しました。</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="57">
+<j>この頃荘園の増加によって国家財政が危機的状態にあり、その整理が必要とされていた。</j>
+<e type="trans" ver="1">Accompanying the expansion in mansions around that time was a troubling deterioration in state finances which necessitated adjustments.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Around this time, due to an increase in the number of manors, the nation&apos;s finances were in a critical condition and required reorganizing.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Around this time, due to an increase in the number of manors, the nation&apos;s finances were in a critical condition and required reorganizing.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>それら荘園の主たる領主が頼通ら権門であった。</j>
+<e type="trans" ver="1">Lord of these powerful manors was in large part, Yorimichi&apos;s powerful family.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The lords of these manors were mostly powerful families like Yorimichi&apos;s.</e>
+<cmt>&quot;Lord&quot;→&quot;The lords&quot;Deleted &quot;powerful&quot;&quot;was&quot;→&quot;were&quot;&quot;in large part, Yorimichi’s powerful family&quot;→&quot;mostly powerful families like Yorimichi&apos;s&quot;</cmt>
+<e type="check" ver="1">The lords of these manors were mostly powerful families like Yorimichi&apos;s.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>頼通は長久元年（1040年）、寛徳2年（1045年）、天喜3年（1055年）に荘園整理令に着手するが、結果的には権門擁護策に終わる（増加の抑制の成果については肯定的な見方もある）。</j>
+<e type="trans" ver="1">Yorimichi gave orders in 1040, 1045 and 1055 to embark on reorganizing the manors but, which in effect ended the support of the powerful families (or there are other viewpoints that the resulting curtailment of expansion was a positive thing).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yorimichi gave orders in 1040, 1045 and 1055 to embark on reorganizing the manors but his resulted in the loss of the support of the powerful families (although other viewpoints contend that the resulting curtailment of expansion was a positive thing).</e>
+<cmt>&quot;, which in effect ended&quot;→&quot;this resulted in the loss of&quot;&quot;or there are&quot;→&quot;although&quot;Added &quot;contend&quot;</cmt>
+<e type="check" ver="1">Yorimichi gave orders in 1040, 1045 and 1055 to embark on reorganizing the manors but his resulted in the support of the powerful families (although other viewpoints contend that the resulting curtailment of expansion was a positive thing).</e>
+<cmt>一部翻訳を変更しました。</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="60">
+<j>康平4年（1061年）、70歳になった頼通は太政大臣宣下を受け位人臣を極めた。</j>
+<e type="trans" ver="1">In 1061 at 70 years of age, Yorimichi was declared Dajodaijin (Prime Minister) by imperial proclamation thus being elevated to the highest civil rank in the country.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1061, at 70 years of age, Yorimichi was declared Dajodaijin (Prime Minister) by imperial proclamation, thus being elevated to the highest civil rank in the country.</e>
+<cmt>Added commas</cmt>
+<e type="check" ver="1">In 1061, at 70 years of age, Yorimichi was declared Daijo-daijin by imperial proclamation, thus being elevated to the highest civil rank in the country.</e>
+<cmt>太政大臣　既出のため括弧での補足を削除しました。</cmt>
+</sen>
+<sen id="61">
+<j>翌年には父の例に倣い太政大臣を1年足らずで辞している。</j>
+<e type="trans" ver="1">The next year he followed his father&apos;s example and stepped aside as Dajodaijin (Prime Minister) year less than a year after taking office.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The next year he followed his father&apos;s example and stepped aside as Dajodaijin (Prime Minister) less than a year after taking office.</e>
+<cmt>Deleted &quot;year&quot;</cmt>
+<e type="check" ver="1">The next year he followed his father&apos;s example and stepped aside as Daijo-daijin less than a year after taking office.</e>
+<cmt>太政大臣　既出のため括弧での補足を削除しました。</cmt>
+</sen>
+<sen id="62">
+<j>治暦3年（1067年）には関白を辞して、准三宮を宣下された。</j>
+<e type="trans" ver="1">In 1067 he stood he stood-down from his role as Kanpaku (Chief Adviser to the Emperor) and was given the imperial title of Jusangu by proclamation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1067 he stood down from his role as Kanpaku (Chief Adviser to the Emperor) and was given the imperial title of Jusangu by proclamation.</e>
+<cmt>Deleted &quot;he stood-&quot;</cmt>
+<e type="check" ver="1">In 1067 he stood down from his role as Kanpaku and was given the imperial title of Jusangu (rank equal to the member of imperial family) by proclamation.</e>
+<cmt>関白　既出のため括弧での補足を削除しました。</cmt>
+</sen>
+<sen id="63">
+<j>後任の関白には同母弟の教通が任じられた。</j>
+<e type="trans" ver="1">His biological younger brother Norimichi was appointed as his successor in the Kanpaku (Chief Adviser to the Emperor) role.</e>
+<cmt></cmt>
+<e type="trans" ver="2">His biological younger brother, Norimichi, was appointed to succeed him as Kanpaku (Chief Adviser to the Emperor).</e>
+<cmt>Added commas&quot;as his successor in the&quot;→&quot;to succeed him as&quot;Deleted &quot;role&quot;</cmt>
+<e type="check" ver="1">His biological younger brother, Norimichi, was appointed to succeed him as Kanpaku.</e>
+<cmt>関白　既出のため括弧での補足を削除しました。</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="64">
+<j>同4年（1068年）後冷泉天皇が崩御し、尊仁親王が即位した（後三条天皇）。</j>
+<e type="trans" ver="1">In the same year (1068) Emperor Goreizen passed away and, Imperial Prince Takahito ascended to the throne (Emperor Gosanjo).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the same year (1068), Emperor Goreizen passed away and Imperial Prince Takahito ascended the throne as Emperor Gosanjo.</e>
+<cmt>Added commaDeleted commaDeleted &quot;to&quot;Deleted bracketsAdded &quot;as&quot;</cmt>
+<e type="check" ver="1">In the same year (1068), Emperor Goreizei passed away and Imperial Prince Takahito ascended the throne as Emperor Gosanjo.</e>
+<cmt>Goreizeiとしました。</cmt>
+</sen>
+<sen id="65">
+<j>新帝は藤原氏とは直接の血縁がなく、35歳と壮年で25年の長い東宮時代を耐えた天皇は意欲的に国家財政の改革に着手し、有名な延久の荘園整理令を出した。</j>
+<e type="trans" ver="1">The new Mikado (Sovereign) was not a direct blood relative of the Fujiwara Clan, at 35 years of age was in the prime of life, and tempered by enduring the 25 year long Crown Prince period of his life. The Emperor embarked on an ambitious program to reform the nation&apos;s finances and, during the Enkyu era (1069 – 1074) issued orders to reorganize the manors.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The new Mikado (Sovereign), unrelated by blood to the Fujiwara Clan and, at 35, in the prime of his life, having endured 25 years as Crown prince, embarked on an ambitious program to reform the nation&apos;s finances and, during the Enkyu era (1069 – 1074), issued orders to reorganize the manors.</e>
+<cmt>Reworded first part of sentence</cmt>
+<e type="check" ver="1">The new emperor, unrelated by blood to the Fujiwara clan and, at 35, in the prime of his life, having endured 25 years as Crown Prince, embarked on an ambitious program to reform the nation&apos;s finances and, during the Enkyu era (1069 – 1074), issued orders to reorganize the manors.</e>
+<cmt>Fujiwara clanとしました。</cmt>
+</sen>
+<sen id="66">
+<j>藤原氏ら権門の荘園も審査の対象たるを逃れなかった。</j>
+<e type="trans" ver="1">The manors of the powerful families of the Fujiwara Clan did not escape coming under scrutiny.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The manors of the powerful families of the Fujiwara Clan did not escape coming under scrutiny.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The manors of the powerful families of the Fujiwara clan did not escape coming under scrutiny.</e>
+<cmt>Fujiwara clanとしました。</cmt>
+</sen>
+<sen id="67">
+<j>『愚管抄』は記録所が頼通にも文書提出を求めたとき、「そんなものはないので全て没収しても構わない」と答え、頼通の荘園のみ文書の提出を免除されたという話を伝えている。</j>
+<e type="trans" ver="1">When Yorimichi was requested to submit writings as part of the &quot;Gukansho&quot; (&quot;Record of Foolish Random Thoughts&quot;) written records, he responded: &quot;I have none of those so I don&apos;t mind if you confiscate everything&quot;. It is reported that only Yorimichi&apos;s manor was exempted from submitting writings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the &quot;Gukansho&quot; (&quot;Record of Foolish Random Thoughts&quot;), when Yorimichi was requested to submit documents, he responded: &quot;I have none of those, so I don&apos;t mind if you confiscate everything&quot;; it is reported that only Yorimichi&apos;s manor was exempted from submitting documents.</e>
+<cmt>&quot;writings&quot;→&quot;documents&quot;&quot;as part of the &quot;Gukansho&quot; (“Record of Foolish Random Thoughts”) written records&quot;→&quot;According to the &quot;Gukansho&quot; (“Record of Foolish Random Thoughts”),&quot;&quot;. It&quot;→&quot;; it&quot;</cmt>
+<e type="check" ver="1">According to the &quot;Gukansho&quot; (Record of Foolish Random Thoughts), when Yorimichi was requested to submit documents, he responded: &apos;I have none of those, so I don&apos;t mind if you confiscate everything&apos;; it is reported that only Yorimichi&apos;s manor was exempted from submitting documents.</e>
+<cmt>”→&apos;としました。</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="68">
+<j>延久4年（1072年）4月に出家して宇治市に閉居した。</j>
+<e type="trans" ver="1">In 1072 he entered the priesthood and cloistered himself in Uji City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1072 he entered the priesthood and cloistered himself in Uji City.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In April, 1072 he entered the priesthood and cloistered himself in Uji City.</e>
+<cmt>4月　に追加しました。</cmt>
+</sen>
+<sen id="69">
+<j>同年12月、後三条天皇は在位4年で貞仁親王に譲位した（白河天皇）。</j>
+<e type="trans" ver="1">In December of the same year, Emperor Gosanjo abdicated in favor of Imperial Prince Sadahito (Emperor Shirakawa).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In December of the same year, Emperor Gosanjo abdicated in favor of Imperial Prince Sadahito (Emperor Shirakawa).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In January 1073 (December, 1072 in old lunar calendar), Emperor Gosanjo abdicated in favor of Imperial Prince Sadahito (Emperor Shirakawa).</e>
+<cmt>グレゴリオ暦に変更しました。</cmt>
+</sen>
+<sen id="70">
+<j>上皇となり新帝を後見して院政を意図していたとも云われるが、僅か半年ほどで翌年5月に崩御した。</j>
+<e type="trans" ver="1">It is said that the retired emperor planned for a cloistered government by acting as guardian of the new emperor but, in just 6 months (May the following year) he was dead.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that the retired emperor planned for a cloistered government by acting as guardian of the new emperor but in just 6 months (May the following year) he was dead.</e>
+<cmt>Deleted comma</cmt>
+<e type="check" ver="1">It is said that the retired emperor planned for a cloistered government by acting as guardian of the new emperor but in just six months (in June of the same year) he passed away.</e>
+<cmt>グレゴリオ暦に変更しました。</cmt>
+</sen>
+<sen id="71">
+<j>後三条天皇とは東宮時代から対立した頼通だが、賢主の早世を嘆息したという。</j>
+<e type="trans" ver="1">Yorimichi had confronted Emperor Gosanjo during his days as Crown Prince but, is said to have been grieved at the wise leaders early death.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yorimichi had confronted Emperor Gosanjo during his days as Crown Prince but is said to have grieved over the wise leader&apos;s early death.</e>
+<cmt>Deleted commaAdded apostropheDeleted &quot;been&quot;&quot;at&quot;→&quot;over&quot;</cmt>
+<e type="check" ver="1">Yorimichi had confronted Emperor Gosanjo during his days as Crown Prince but is said that he grieved over the wise leader&apos;s early death.</e>
+<cmt>一部翻訳を修正しました。</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="72">
+<j>若い頃は長者風の温和な性格だった頼通だが、長年権力を持ち続けると豪華な奢侈を好み権勢に固執するようになったという。</j>
+<e type="trans" ver="1">In his younger days, Yorimichi had the warm demeanor of a wealthy individual but, it is said that by continuously holding on to power over so many years he developed a taste for extravagant luxury and his influence became pervasive.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In his younger days, Yorimichi had the warm demeanor of a wealthy individual but it is said that by continuously holding on to power over so many years he developed a taste for extravagant luxury and his influence became pervasive.</e>
+<cmt>Deleted comma</cmt>
+<e type="check" ver="1">In his younger days, Yorimichi had the warm demeanor of a wealthy individual but it is said that by continuously holding on to power over so many years he developed a taste for extravagant luxury and persisted in his influence.</e>
+<cmt>一部翻訳を修正しました。</cmt>
+</sen>
+<sen id="73">
+<j>『古事談』によると頼通は実子師実に摂関を伝えることを強く望み、関白となった弟の教通に約束させたが、教通は一向に実行しようとしなかったので「自分は師実が職（摂関）にあることを目にしなければ、冥することができない」と言ったが、これに対して教通は「私の勝手で、できることではない」と答え、頼通はひどく恨んだという。</j>
+<e type="trans" ver="1">According to the ancient &quot;Kojidan&quot; written narratives, Yorimichi had a strong desire to tell his real child Morozane about the regents and made his younger brother Norimichi who had become Kanpaku (Chief Adviser to the Emperor) promise to do. However, because Norimichi apparently did not actually do this at all, he said &quot;I have to see the job (as regent) Morozane does with my own eyes&quot; but, in regards to this Norimichi responded &quot;This I can not allow for my own reasons.&quot; which is something Yorimichi is said to have bitterly resented.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the ancient &quot;Kojidan&quot; written narratives, Yorimichi had a strong desire to tell his son, Morozane, about the regents and made his younger brother Norimichi, who had become Kanpaku (Chief Adviser to the Emperor) promise to do. However, because Norimichi apparently did not actually do this at all, he said &quot;I have to see the job (as regent) Morozane does with my own eyes,&quot; to which Norimichi responded, &quot;This I can not allow for my own reasons.&quot; which is something Yorimichi is said to have bitterly resented.</e>
+<cmt>&quot;real child&quot;&quot;son&quot;Added commas&quot;but, in regards to this&quot;→&quot;to which&quot;</cmt>
+<e type="check" ver="1">According to the ancient Kojidan&quot; written narratives, Yorimichi had a strong desire to pass the position of Sessho and Kanpaku to his son, Morozane, and made his younger brother Norimichi, who had become Kanpaku promise to do; however, because Norimichi apparently did not actually do this at all, he said &apos;I have to see the job (as Sessho and Kanpaku) Morozane does with my own eyes,&apos; to which Norimichi responded, &apos;This I can not allow for my own reasons&apos; which is something Yorimichi is said to have bitterly resented.</e>
+<cmt>摂関を伝える→pass the position of Sessho Kanpaku としました。”→&apos;としました。</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="74">
+<j>延久6年（1074年）、頼通は83歳の長寿をもって死去した。</j>
+<e type="trans" ver="1">Yorimichi&apos;s long life ended with his death at the age of 83 in 1074.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yorimichi&apos;s long life ended with his death at the age of 83 in 1074.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yorimichi&apos;s long life ended with his death at the age of 83 in 1074.</e>
+<cmt>→&apos;　としました。</cmt>
+</sen>
+</par>
+<par id="27">
+<sen id="75">
+<j>当時の例に漏れず頼通も日記を書いていた。</j>
+<e type="trans" ver="1">In his day Yorimichi was no exception in also keeping a diary.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As was common at the time, Yorimichi kept a diary.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">As was common at the time, Yorimichi kept a diary.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="76">
+<j>しかし、弟の教通・頼宗の日記と同じく散逸してしまった。</j>
+<e type="trans" ver="1">However, as with the diaries of his younger brothers Norimichi and Yorimune, the records were lost.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, as with the diaries of his younger brothers, Norimichi and Yorimune, the records were lost.</e>
+<cmt>Added comma</cmt>
+<e type="check" ver="1">However, as with the diaries of his younger brothers, Norimichi and Yorimune, the records were lost.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="77">
+<j>『院号定部類記』、『改元部類』、『園太暦』に「宇治殿御記」「槐記」として逸文が収められている。</j>
+<e type="trans" ver="1">Lost writings that he completed include: 院号定部類記 &quot;Diaries&quot;, &quot;Kaigenburui&quot; (&quot;Changing Categories&quot;), &quot;Entairyaku&quot;, 宇治殿御記 (&quot;Master Uji&apos;s Diaries&quot;) and &quot;Kaiki&quot; (&quot;Chinese pagoda tree Chronicle&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Lost writings that he completed include: 院号定部類記 &quot;Diaries&quot;, &quot;Kaigenburui&quot; (&quot;Changing Categories&quot;), &quot;Entairyaku&quot;, 宇治殿御記 (&quot;Master Uji&apos;s Diaries&quot;) and &quot;Kaiki&quot; (&quot;Japanese pagoda tree Chronicle&quot;).</e>
+<cmt>- Not sure the kanji add much &quot;Chinese&quot;→&quot;Japanese&quot;- I think the name is either Japanese pagoda tree or Chinese scholar tree</cmt>
+<e type="check" ver="1">Lost writings that he completed include: &quot;Ingoteiburuiki,&quot; &quot;Kaigenburui&quot; (Changing Categories), and in &quot;Entairyaku,&quot; surviving document of &apos;Ujidengoki&apos; (Master Uji&apos;s Diaries) and &apos;Kaiki&apos; (Japanese pagoda tree Chronicle) are included.</e>
+<cmt>一部翻訳を修正しました。不明用語に仮の読みを入れておきました。</cmt>
+</sen>
+</par>
+<par id="28">
+<sen id="78">
+<j>官歴</j>
+<e type="trans" ver="1">Record in Government</e>
+<cmt></cmt>
+<e type="trans" ver="2">Record in Government</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chronology of government posts and ranks</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="79">
+<j>※日付＝旧暦</j>
+<e type="trans" ver="1">* Date = lunar calendar</e>
+<cmt></cmt>
+<e type="trans" ver="2">* Date = lunar calendar</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Dates follow the lunar calendar.</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+</par>
+<par id="29">
+<sen id="80">
+<j>2月28日、侍従に任官。</j>
+<e type="trans" ver="1">28 February: appointed as Chaimberlain</e>
+<cmt></cmt>
+<e type="trans" ver="2">28 February: appointed as Chamberlain</e>
+<cmt>Spelling of &quot;Chamberlain&quot;</cmt>
+<e type="check" ver="1">On February 28, he was appointed as Chamberlain.</e>
+<cmt>月・日　の表現に変更しました。日付の後にカンマが入っているため、文章形式に変更しました（以下全て）。</cmt>
+</sen>
+</par>
+<par id="30">
+<sen id="81">
+<j>月日不詳、右近衛少将に転任。</j>
+<e type="trans" ver="1">Date Not Recorded: Minor Captain, Right Division of the Inner Palace Guards</e>
+<cmt></cmt>
+<e type="trans" ver="2">Date Not Recorded: Minor Captain, Right Division of the Inner Palace Guards</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was reassigned as Ukone no shosho (Minor Captain of the Right Division of Inner Palace Guards) (date not recorded).</e>
+<cmt>月・日　の表現に変更しました。官職の表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="31">
+<sen id="82">
+<j>1月24日、近江介を兼任。</j>
+<e type="trans" ver="1">24 January: Hold omi-no-suke role concurrently</e>
+<cmt></cmt>
+<e type="trans" ver="2">24 January: Held the position of Inspector of Omi Province (Omi-no-Suke) concurrently</e>
+<cmt>&quot;Hold omi-no-suke role&quot;→&quot;Held the position of Governor of Omi Province (Omi-no-Suke)&quot;</cmt>
+<e type="check" ver="1">On January 24, he held the position of Omi no suke (Inspector of Omi Province) concurrently.</e>
+<cmt>月・日　の表現に変更しました。官職の表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="32">
+<sen id="83">
+<j>9月2日、正三位に昇叙し、右近衛少将如元。</j>
+<e type="trans" ver="1">Promoted to Senior Third court rank, Minor Captain, Right Division of the Inner Palace Guards Jogen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Promoted to Senior Third court rank, Minor Captain, Right Division of the Inner Palace Guards.</e>
+<cmt>Deleted &quot;Jogen&quot;</cmt>
+<e type="check" ver="1">On September 2, he was promoted to Shosanmi (Senior Third Rank), and retained his position as Ukone no shosho.</e>
+<cmt>月・日　の表現に変更しました。官職の表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="33">
+<sen id="84">
+<j>6月13日、春宮権大夫如元。</j>
+<e type="trans" ver="1">13 June: Commissioned as Crown Prince Grand Commissioner</e>
+<cmt></cmt>
+<e type="trans" ver="2">13 June: Commissioned as Chamberlain to the Crown Prince</e>
+<cmt>&quot;Crown Prince Grand Commissioner&quot;→&quot;Chamberlain to the Crown Prince&quot;</cmt>
+<e type="check" ver="1">On June 13, he retained his position as Togu Gon no daibu (Provisional Master of the Crown Prince&apos;s Quarters).</e>
+<cmt>月・日　の表現に変更しました。官職の表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="34">
+<sen id="85">
+<j>3月6日、左近衛大将如元。</j>
+<e type="trans" ver="1">3 June: Commissioned as Major Captain Left Division of the Inner Palace Guards</e>
+<cmt></cmt>
+<e type="trans" ver="2">3 June: Commissioned as Major Captain, Left Division of the Inner Palace Guards</e>
+<cmt>Added comma</cmt>
+<e type="check" ver="1">On June 3, he retained his position as Sakone no daisho (Major Captain of the Left Division of Inner Palace Guards).</e>
+<cmt>月・日　の表現に変更しました。官職の表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="35">
+<sen id="86">
+<j>3月16日、摂政宣下。</j>
+<e type="trans" ver="1">16 March: Proclaimed Regent.</e>
+<cmt></cmt>
+<e type="trans" ver="2">16 March: Proclaimed Regent.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 16, he proclaimed Sessho (Regent).</e>
+<cmt>月・日　の表現に変更しました。官職の表現を変更しました。</cmt>
+</sen>
+<sen id="87">
+<j>内大臣・左近衛大将如元。</j>
+<e type="trans" ver="1">Commissioned as Minister of the Center/Major Captain Left Division of the Inner Palace Guards</e>
+<cmt></cmt>
+<e type="trans" ver="2">Commissioned as Minister of the Center/Major Captain, Left Division of the Inner Palace Guards</e>
+<cmt>Added comma</cmt>
+<e type="check" ver="1">He retained his positions as Naidaijin (Minister of the Center) and Sakone no daisho.</e>
+<cmt>官職の表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="36">
+<sen id="88">
+<j>3月22日、左近衛大将を辞任。</j>
+<e type="trans" ver="1">22 March: Resigns as Major Captain Left Division of the Inner Palace Guards</e>
+<cmt></cmt>
+<e type="trans" ver="2">22 March: Resigns as Major Captain, Left Division of the Inner Palace Guards</e>
+<cmt>Added comma</cmt>
+<e type="check" ver="1">On March 22, he resigned as Sakone no daisho.</e>
+<cmt>月・日　の表現に変更しました。官職の表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="37">
+<sen id="89">
+<j>改元して治安元年（1021年）</j>
+<e type="trans" ver="1">1021: Change of an Era</e>
+<cmt></cmt>
+<e type="trans" ver="2">1021:</e>
+<cmt>Deleted &quot;Change of an Era&quot; - not necessary for English speakers</cmt>
+<e type="check" ver="1">1021:</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="90">
+<j>7月25日、左大臣に転任し、関白如元。</j>
+<e type="trans" ver="1">25 July: Changes role to Minister of the Left and, Commissioned as Kanpaku (Chief Adviser to the Emperor).</e>
+<cmt></cmt>
+<e type="trans" ver="2">25 July: Changes role to Minister of the Left and commissioned as Kanpaku (Chief Adviser to the Emperor).</e>
+<cmt>Deleted commaMade &apos;C&apos; lower case</cmt>
+<e type="check" ver="1">On July 25, he changed role to Sadaijin and retained his position as Kanpaku.</e>
+<cmt>月・日　の表現に変更しました。官職の表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="38">
+<sen id="91">
+<j>8月10日、太政大臣（藤原公季）の下に列する旨の宣旨あり。</j>
+<e type="trans" ver="1">10 August: Commanded by the Emperor to rank below Prime Minister (FUJIWARA no Kinsue).</e>
+<cmt></cmt>
+<e type="trans" ver="2">10 August: Commanded by the Emperor to the rank below Prime Minister, FUJIWARA no Kinsue.</e>
+<cmt>Added &quot;the&quot;Deleted bracketsAdded comma</cmt>
+<e type="check" ver="1">On August 10, he was commanded by the Emperor to the rank below Daijo-daijin, FUJIWARA no Kinsue.</e>
+<cmt>月・日　の表現に変更しました。官職の表現を変更しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 釣ちごちゅが(id:22605), Kawai(id:5634), Cprobot(id:97843), Charenji(id:7908), Eskimbot(id:29676), 松茸(id:27535), 水野白楓(id:22811), 三浦大輔(id:93377), ふたりはGoki鰤MaxHeart(id:19635), 味っ子(id:17086), 鵺草(id:32499), El bot de la dieta(id:181702), Aboshi(id:9318), Masyu(id:31065), Azusayumi7(id:21082), 代言人(id:33675), Ktmchi(id:113301), Point136(id:211299), 麦塚ほとり(id:54917), Yas(id:739), 伏儀(id:142093), 小川尚明(id:93076), Kouko0515(id:100370), 氏名不詳者(id:133523), 小太刀(id:18154), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

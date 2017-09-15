@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>木津川台駅</j>
+<e type="trans" ver="1">Kizugawadai Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kizugawadai Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kizugawadai Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>木津川台駅（きづがわだいえき）は、京都府木津川市吐師高樋10-2にある近畿日本鉄道（近鉄）近鉄京都線の鉄道駅。</j>
+<e type="trans" ver="1">Kizugawadai Station (Kizugawa-eki), located in 10-2, Takahi, Haze, Kizugawa City, Kyoto Prefecture, is a railway station on the Kintetsu Kyoto Line of Kintetsu Corporation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kizugawadai Station (Kizugawa-eki), located at 10-2, Takahi, Haze, Kizugawa City, Kyoto Prefecture, is a railway facility on the Kintetsu Kyoto Line of Kintetsu Corporation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kizugawadai Station, located at 10-2, Takahi, Haze, Kizugawa City, Kyoto Prefecture, is a railway facility on the Kintetsu Kyoto Line of Kintetsu Corporation.</e>
+<cmt>kizukawa-eki　を削除しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>西側の丘陵上にある木津川台住宅地の開設に伴い設置された。</j>
+<e type="trans" ver="1">The station was constructed, following the development of the Kizugawa residential area on the west side of the hill.</e>
+<cmt>木津川台住宅地→定訳不明 [Kizugawadai residential areaとしました]</cmt>
+<e type="trans" ver="2">The station&apos;s construction followed the development of the Kizugawa residential area on the west side of the hill.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The station&apos;s construction followed the development of the Kizugawa residential area on the west side of the hill.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="3">
+<j>駅構造</j>
+<e type="trans" ver="1">Station structure</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="4">
+<j>相対式プラットホーム2面2線を持つ橋上駅。</j>
+<e type="trans" ver="1">It is a over-track station equipped with opposite platforms with two sides and twotracks.</e>
+<cmt>相対式プラットホーム→opposite platforms[http://yougo.rtri.or.jp/dic/]、橋上駅→over-track station [http://yougo.rtri.or.jp/dic/]</cmt>
+<e type="trans" ver="2">It&apos;s an over-track station equipped with opposing platforms having two sides and two tracks.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It&apos;s an over-track station equipped with two separate platforms serving two tracks between them.</e>
+<cmt>ホームの表現を変更しました。</cmt>
+</sen>
+<sen id="5">
+<j>普通列車しか停車しないが、6両編成に対応している。</j>
+<e type="trans" ver="1">Only local trains make a stop and the platform setup is for a 6-car train.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Only local trains stop at the station, and the platforms accommodate six-car trains.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Only local trains stop at the station, and the platforms accommodate six-car trains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>出入口は東西双方にある。</j>
+<e type="trans" ver="1">It has two entrances/exits, one on the east side and the other on the west.</e>
+<cmt>出入口(複数）→定訳不明 [entrances /exits]</cmt>
+<e type="trans" ver="2">It has two entrances/exits: one on the east side and the other on the west.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It has two entrances/exits: one on the east side and the other on the west.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>改札口は1ヶ所のみ。</j>
+<e type="trans" ver="1">It has only one ticket barrier.</e>
+<cmt>改札口→ticket barrier [http://yougo.rtri.or.jp/dic/]</cmt>
+<e type="trans" ver="2">It has only one ticket barrier.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It has only one ticket gate.</e>
+<cmt>改札口→ticket gateとしました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="8">
+<j>なお自動改札機は東芝製が設置されている。</j>
+<e type="trans" ver="1">Automatic ticket gate made by Toshiba is installed.</e>
+<cmt>自動改札機→automatic ticket gates [http://yougo.rtri.or.jp/dic/]</cmt>
+<e type="trans" ver="2">The automatic ticket gate was manufactured by Toshiba.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The automatic ticket gate was manufactured by Toshiba.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>赤い自動改札機（EG-2000）は出場時2枚一括処理、PiTaPa・ICOCAに対応する。</j>
+<e type="trans" ver="1">A red colored automatic ticket gate (EC-2000) has 2-ticket processing function at outgoing ticket usage check, and accepts PiTaPa and ICOCA.</e>
+<cmt>出場時→定訳不明「鉄道技術用語辞典(自動改札機の入出場検査→ticket usage check) http://yougo.rtri.org.jp/dic/をもとに、at outgoing ticket usage checkとしました]、2枚一括処理→ (2-ticket processing function [東芝文献（東芝レビュー）：http://www.toshiba.co.jp/tech/review/2000/01/f01.pdf]</cmt>
+<e type="trans" ver="2">A red-colored automatic ticket gate (EC-2000) has the two-ticket processing function at the outgoing ticket usage check, and it accepts PiTaPa and ICOCA.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">A red-colored automatic ticket gate (EG-2000) has the two-ticket processing function at the outgoing ticket usage check, and it accepts PiTaPa and ICOCA.</e>
+<cmt>EGとしました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="10">
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization situation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger usage statistics</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="11">
+<j>2005年11月8日の調査結果によると、1日の利用客は2136人。</j>
+<e type="trans" ver="1">According to the survey made on November 8, 2005, the number of users a day was 2136.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to a survey conducted on November 8, 2005, the number of users was 2,136.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">According to a survey conducted on November 8, 2005, the number of users was 2,136.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="12">
+<j>近鉄の全調査対象駅（323駅、但し調査当時の数）中、191位。</j>
+<e type="trans" ver="1">This is the 191st position out of all the stations of Kintetsu Railway targeted by the survey (323 stations, as of the date of survey).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is the 191st position out of all the stations of the Kintetsu Railway targeted by the survey (323 as of the survey date).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">This is the 191st position out of all the stations of the Kintetsu Railway targeted by the survey (323 as of the survey date).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="13">
+<j>京都線の駅（26駅、大和西大寺駅含む）の中では、25位。</j>
+<e type="trans" ver="1">It ranks the 25th out of all the stations on the Kyoto Line (26 stations including Yamato-Saidaiji Station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It ranks twenty-fifth out of all the stations on the Kyoto Line (26, including Yamato-Saidaiji Station).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It ranks twenty-fifth out of all the stations on the Kyoto Line (26, including Yamato-Saidaiji Station).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="14">
+<j>京都府内の近鉄の駅（23駅）の中では、22位。</j>
+<e type="trans" ver="1">It ranks the 22nd out of all the Kintetsu Railway stations within Kyoto City (23 stations).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It ranks twenty-second out of all the Kintetsu Railway stations within Kyoto City (23 stations).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It ranks twenty-second out of all the Kintetsu Railway stations within Kyoto City (23 stations).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="15">
+<j>木津川台住宅地等の付近住民の利用が主である。</j>
+<e type="trans" ver="1">The principle users are local residents such as those living in the Kizugawadai residential area.</e>
+<cmt>木津川台住宅地→定訳不明 [Kizugawadai residential areaとしました]</cmt>
+<e type="trans" ver="2">The principle users are local residents such as those living in the Kizugawadai residential area.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The principle users are local residents such as those living in the Kizugawadai residential area.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Around the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="16">
+<j>近鉄木津川台住宅地</j>
+<e type="trans" ver="1">Kintetsu Kizugawa residential area</e>
+<cmt>近鉄木津川台住宅地→定訳不明 [Kintetsu Kizugawadai residential areaとしました]</cmt>
+<e type="trans" ver="2">The Kintetsu Kizugawa residential area</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kintetsu Kizugawadai residential area</e>
+<cmt>Kizugawadai としました。</cmt>
+</sen>
+<sen id="17">
+<j>近商ストア（ハーベス）</j>
+<e type="trans" ver="1">Kinsho Store (Harves)</e>
+<cmt>http://www.kinshostore.co.jp</cmt>
+<e type="trans" ver="2">Kinsho Store (Harves)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kinsho Store (Harves)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>京都府道22号八幡木津線</j>
+<e type="trans" ver="1">Kyoto Prefectural Highway 22 Yawata-Kizu Route</e>
+<cmt>京都府道22号八幡木津線→定訳不明 [Kyoto Prefectural Highway 22 Yawata-Kizu Routeとしました]</cmt>
+<e type="trans" ver="2">Kyoto Prefectural Highway 22, Yawata-Kizu Route</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Kyoto Prefectural Route 22: Yawata-Kizu Line</e>
+<cmt>道路表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="19">
+<j>付近には田畑が目立ち、駅前広場には小さな車寄せがある程度。</j>
+<e type="trans" ver="1">The vicinity is densely dotted with agricultural fields and the station square has nothing special but a small driveway apron.</e>
+<cmt>車寄せ→driveway apron [英辞郎 on the WEB]</cmt>
+<e type="trans" ver="2">The vicinity is dotted with agricultural fields, while the station square has nothing special but a small driveway apron.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The vicinity is dotted with agricultural fields, while the station square has nothing special but a small driveway apron.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="20">
+<j>西側の直近に平行して片町線が通っていることもあり、住宅地方面へ直接向かう道は細く、川沿いを通って片町線の下をくぐり向かう事になる。</j>
+<e type="trans" ver="1">Since the Katamachi Line is parallelly running along the west side of the station, the direct road toward the residential area is narrow, and after passing along the riverside and then under the Katamachi Line, it directs to the residential area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the Katamachi Line runs in parallel along the west side of the station, the direct road toward the residential area is narrow, and after passing along the riverside and under the Katamachi Line, it directs to the residential area.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because the Katamachi Line runs in parallel along the west side of the station, the direct road toward the residential area is narrow, which goes along the riverside and under the Katamachi Line.</e>
+<cmt>一部翻訳を変更しました。</cmt>
+</sen>
+<sen id="21">
+<j>このためか、駅前から住宅地方面へのバスはない。</j>
+<e type="trans" ver="1">This might be why no bus services available to the residential area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This might be why no bus service is available to the residential area.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This might be why no bus service is available to the residential area.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>なお、片町線に同様の駅は設けられていない。</j>
+<e type="trans" ver="1">And the Katamachi Line has no station in the vicinity.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, the Katamachi Line has no station in the vicinity.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Moreover, the Katamachi Line has no station in the vicinity.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="23">
+<j>新しく開かれた街に新設された駅であり、周囲からは駅舎がよく目立つ。</j>
+<e type="trans" ver="1">This is a station constructed in a newly developed town and its building is highly visible anywhere around.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is a station constructed in a newly developed town, and its building is visible throughout the community.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">This is a station constructed in a newly developed town, and its building is visible throughout the community.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>この駅はとても複雑な経緯を持つ。</j>
+<e type="trans" ver="1">This station has a very complicated history.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station has a very complicated history.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This station has a very complicated history.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>まず駅一帯にある住宅街は近鉄不動産が開発したが、その地域に「駅ができる」とのことで家を購入した人が存在する。</j>
+<e type="trans" ver="1">Firstly, the residential area extended all around the station was developed by Kintetsu Real Estate Co., Ltd., and among the people who purchased their house, there are those who bought it because &quot;a station was to be constructed&quot; in the area.</e>
+<cmt>近鉄不動産→Kintetsu Real Estate Co., Ltd.[http://ww.kintetsu-re.co.jp]</cmt>
+<e type="trans" ver="2">First, the residential area surrounding the station was developed by Kintetsu Real Estate Co., Ltd., and among the people who purchased their houses there are those who bought them because &quot;a station was to be constructed&quot; in the area.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">First, the residential area surrounding the station was developed by Kintetsu Real Estate Co., Ltd., and among the people who purchased their houses there are those who bought them because &apos;a station was to be constructed&apos; in the area.</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+<sen id="26">
+<j>その後10数年間駅は出来ず、近鉄不動産は大反発を受けた。</j>
+<e type="trans" ver="1">However, it took more than a decade to construct the station and Kintetsu Real Estate was criticized fiercely.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, it took more than a decade to construct the station, and Kintetsu Real Estate was fiercely criticized.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">However, it took more than a decade to construct the station, and Kintetsu Real Estate was fiercely criticized.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>一方、この街はそもそも「農村」のままでいたかったため、旧・木津町側では開発前から駅ができることを不服にしていた。</j>
+<e type="trans" ver="1">On the other hand, since this town itself wanted to be remained as a &quot;rural area,&quot; in the former Kizu-cho side there were objections to the construction of a station even before the development set out,.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the other hand, since the town wanted to remain as a &quot;rural area,&quot; on the former Kizu-cho side there were objections to the construction of a station even before the development was started.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">On the other hand, since the town wanted to remain as a &apos;rural area,&apos; on the former Kizu-cho side there were objections to the construction of a station even before the development was started.</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+<sen id="28">
+<j>近商は昔からあり、近年すぐ横へ移った。</j>
+<e type="trans" ver="1">Kinsho Store is a longtime store and recently it was relocated to a few feet away.</e>
+<cmt>近商→Kinsho Store [http://www.kinshostore.co.jp]</cmt>
+<e type="trans" ver="2">Kinsho Store is a longtime business, and recently it was relocated to a site just a few feet away.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Kinsho Store is a longtime business, and recently it was relocated to a site just a few feet away.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>なお旧近商はりそな銀行（旧・奈良銀行）になっている。</j>
+<e type="trans" ver="1">And the site of former Kinsho Store is now occupied by a office of Risona Bank (former Nara Bank).</e>
+<cmt>りそな銀行→Risona Bank [http://www.resona-gr.co.jp/holdings/english/about/group/index.html]、奈良銀行→定訳不明 [Nara Bankとしました]</cmt>
+<e type="trans" ver="2">Moreover, the site of the former Kinsho Store is now occupied by a office of Risona Bank (formerly Nara Bank).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Moreover, the site of the former Kinsho Store is now occupied by a office of Risona Bank (formerly Nara Bank).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="30">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="31">
+<j>1994年（平成6年）9月21日 開業。</j>
+<e type="trans" ver="1">September 21, 1994: The station was inaugurated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 21, 1994: The station was inaugurated.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">September 21, 1994: The station was inaugurated.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="32">
+<j>2007年（平成19年）4月1日 PiTaPa使用開始。</j>
+<e type="trans" ver="1">April 1, 2007: PiTaPa became operable at the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 2007: PiTaPa became accepted at the station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 2007: PiTaPa became accepted at the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="33">
+<j>隣の駅</j>
+<e type="trans" ver="1">Next stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">The next stations</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="34">
+<j>近畿日本鉄道</j>
+<e type="trans" ver="1">Kintetsu railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kintetsu Railway</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Kintetsu Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>京都線</j>
+<e type="trans" ver="1">Kyoto Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>■急行</j>
+<e type="trans" ver="1">Express</e>
+<cmt></cmt>
+<e type="trans" ver="2">Express</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Express</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+<sen id="37">
+<j>通過</j>
+<e type="trans" ver="1">Nonstop</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nonstop</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nonstop</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>■普通</j>
+<e type="trans" ver="1">Local train</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Local</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+<sen id="39">
+<j>新祝園駅 - 木津川台駅 - 山田川駅</j>
+<e type="trans" ver="1">Shin-housono Station - Kizugawadai Station - Yamadagawa Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shin-housono Station - Kizugawadai Station - Yamadagawa Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shin-Hosono Station - Kizugawadai Station - Yamadagawa Station</e>
+<cmt>Hosono　としました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), 城山(id:104901), Takashi4678(id:19085), Mo star20(id:79618), Ikaxer(id:61759), Yamanamann(id:9761), Fjord(id:15599), Aska-sacra(id:8180), Sunen(id:10700), Bandalgom(id:31841), Kouchiumi(id:19253), 金山銀山銅山(id:163855), Kone(id:377), Hirotaro(id:1437), Mipu(id:5360), Sprinkler(id:14399), 扇風機のせんちゃん(id:161810), 210.(id:9838), Hirohisat(id:128431), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

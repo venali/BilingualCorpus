@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>宝林伝</j>
+<e type="trans" ver="1">Horinden</e>
+<cmt></cmt>
+<e type="trans" ver="2">Horinden</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Horinden</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>宝林伝（ほうりんでん）は、正しくは大唐韶州雙峰山曹侯渓寶林傳（だいとう しょうしゅう そうほうざん そうこうけい ほうりんでん）を書名とする、唐の貞元_(唐)17年（801年）に成立した禅の燈史である。</j>
+<e type="trans" ver="1">Horinden is the abbreviated name for Daito Shoshu Sohonzan Sokokei Horinden, a historical account of Zen Buddhism that was established in 801.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Horinden is the abbreviated name for Daito Shoshu Sohonzan Sokokei Horinden, a historical account of Zen Buddhism that was established in 801.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Horinden is the abbreviated name for Daito Shoshu Sohonzan Sokokei Horinden, a historical account of Zen Buddhism that was established in 801.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>本来は全10巻であるが、現行テキストは、巻2は『聖冑集』によって補われたものであり、巻7、巻9、巻10の3巻を欠いている。</j>
+<e type="trans" ver="1">The entire work originally consisted of 10 volumes, but the current text has Volume 2 supplemented by the Seichu-shu. Volumes 7, 9 and 10 are missing.</e>
+<cmt>聖冑集: Seichu-shu</cmt>
+<e type="trans" ver="2">The entire work originally consisted of 10 volumes, but the current text has Volume 2 supplemented by the Seichu-shu and Volumes 7, 9 and 10 are missing.</e>
+<cmt>文中のピリオドを削除し、and と置き換えました。</cmt>
+<e type="check" ver="1">The entire work originally consisted of 10 volumes, but the current text has Volume 2 supplemented by the &quot;Seichu-shu&quot; and Volumes 7, 9 and 10 are missing.</e>
+<cmt>クォーテーション追加</cmt>
+</sen>
+<sen id="3">
+<j>作者は智炬（或いは慧炬）。</j>
+<e type="trans" ver="1">The author is Eko.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The author is Eko (writes; 智炬 or 慧炬).</e>
+<cmt>補足内で漢字の違いを説明しているので、漢字表記を加えました。</cmt>
+<e type="check" ver="1">The author is Eko (writes; 智炬 or 慧炬).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>古くは、円仁将来の記録もある。</j>
+<e type="trans" ver="1">Ancient records indicate the Horinden was brought to Japan by the monk Ennin. It is reported that the work was distributed widely during the reign of the Tang Dynasty.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Ancient records indicate the Horinden was brought to Japan by the monk Ennin.</e>
+<cmt>一原文一訳文例外対処分割処理がされていませんでした。</cmt>
+<e type="check" ver="1">Ancient records indicate the Horinden was brought to Japan by the monk Ennin.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>唐代には広範に流布していたとされる。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2">It is reported that the work was distributed widely during the reign of the Tang Dynasty.</e>
+<cmt>一原文一訳文例外対処分割処理がされていませんでした。</cmt>
+<e type="check" ver="1">It is reported that the work was distributed widely during the reign of the Tang Dynasty.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>だが、北宋代になると、『景徳伝灯録』などの新出の灯史が出現し、またそれらが、大蔵経に入蔵されたことによって、急速に存在の意義を失ってしまい、やがて散佚することとなってしまった。</j>
+<e type="trans" ver="1">However, newly published historical accounts such as the Keitokuden Toroku were introduced and included as holy Buddhist scriptures, leading to the importance of the Horinden declining rapidly and finally dispersed and lost.</e>
+<cmt>一原文一訳文例外対処景徳傳燈録: Keitokuden Toroku</cmt>
+<e type="trans" ver="2">However, newly published historical accounts, such as the Keitokuden Toroku, were introduced the Northern Song period and as they were included in Daizo-kyo Sutra (the Tripitaka), the importance of the Horinden declined rapidly, and finally they were dispersed and lost.</e>
+<cmt>「北宋代になると」が訳漏れです。カンマを加えました。「大蔵経」を用語集にある「Daizo-kyo Sutra (the Tripitaka)」に置き換えました。And included as&gt;&gt; and as they were included inと変更しました。Leadding to を削除しました。Declining &gt;&gt; declined</cmt>
+<e type="check" ver="1">However, newly published historical accounts, such as the &quot;Keitokuden Toroku,&quot; were introduced the Northern Song period and as they were included in Daizo-kyo Sutra (the Tripitaka), the importance of the Horinden declined rapidly, and finally they were dispersed and lost.</e>
+<cmt>クォーテーション追加</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>現行本は、山西省趙城県で発見された金蔵所収本（巻1 - 巻5, 巻8）、京都の青蓮院蔵本（巻6）の合本である。</j>
+<e type="trans" ver="1">The existing volumes of the work are the archived books (Volumes 1-5 and 8) found in Hongdong County, Shanxi Province and a compilation copy (Volume 6) found at Shorei-in Temple in Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The existing volumes of the work are the archived books (Volumes 1-5 and 8) found in Hongdong County, Shanxi Province and a compilation copy (Volume 6) found at Shorei-in Temple in Kyoto.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The existing volumes of the work are the archived books (Volumes 1-5 and 8) found in Hongdong County, Shanxi Province and a compilation copy (Volume 6) found at Shorei-in Temple in Kyoto.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>また、佚書ではあるが、唐末の南嶽惟勁によって、『続宝林伝』が編纂されたことが知られる。</j>
+<e type="trans" ver="1">It is also known that the sequel to Horinden, Zoku-Horinden, had been compiled by 南嶽惟勁 during the late Tang period.</e>
+<cmt>南嶽惟勁；読みが確認出来ませんでした</cmt>
+<e type="trans" ver="2">It is also known that the sequel to Horinden, &quot;Zoku-Horinden&quot;, had been compiled by 南嶽惟勁 during the late Tang period.</e>
+<cmt>&quot;&quot;を加えました。</cmt>
+<e type="check" ver="1">It is also known that the sequel to Horinden, &quot;Zoku-Horinden,&quot; had been compiled by 南嶽惟勁 during the late Tang period.</e>
+<cmt>カンマの位置を調整</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Chi-Ham(id:143515), Kstigarbha(id:13376), R28Bot(id:177951), Saaki(id:43602), 遠藤(id:30275), D.h(id:79056), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>宮津城</j>
+<e type="trans" ver="1">Miyazu-jo Castle</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miyazu-jo Castle</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyazu-jo Castle</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>宮津城（みやづじょう）は京都府宮津市にある城。</j>
+<e type="trans" ver="1">Miyazu-jo Castle is located in Miyazu City, Kyoto Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miyazu-jo Castle is located in Miyazu City, Kyoto Prefecture.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyazu-jo Castle is located in Miyazu City, Kyoto Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>国府のあった宮津の地は、古代より丹後の中心地であった。</j>
+<e type="trans" ver="1">The place of Miyazu where Kokufu (a local government of the ancient dynasty of Japan) was placed had been a center city of Tango area since ancient times.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area of Miyazu, where the Kokufu (a local government of one of the ancient dynasties of Japan) was placed, had been a central city in the Tango area since ancient times.</e>
+<cmt>「place」→「area」, 「the」挿入,「,」挿入x2, 「center」→「central」, 「of」→「in the」. I am a little confused what &apos;the ancient dynasty of Japan&apos; refers to - I assume that this was one of several dynastic families.</cmt>
+<e type="check" ver="1">The area of Miyazu, where the Kokufu (a local government of one of the ancient dynasties of Japan) was placed, had been a central city in the Tango area since ancient times.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>この付近には一色氏の本拠地があり、いたる所に支城や砦が築かれていた。</j>
+<e type="trans" ver="1">Its neighborhood was ISSHIKI clan&apos;s home turf with many branch castles and forts all over the area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its neighborhood was the ISSHIKI clan&apos;s home turf with many branch castles and forts all over the area.</e>
+<cmt>「the」挿入</cmt>
+<e type="check" ver="1">Its neighborhood was the Isshiki clan&apos;s home turf with many branch castles and forts all over the area.</e>
+<cmt>Isshiki clan としました。</cmt>
+</sen>
+<sen id="4">
+<j>1579年（天正6年）、細川幽斎と明智光秀は信長の命により、丹後国を侵略し、旧国主であった一色氏を滅亡させた。</j>
+<e type="trans" ver="1">In 1579, Yusai HOSOKAWA and Mitsuhide AKECHI invaded Tango no Kuni by Nobunaga&apos;s command to destroy ISSHIKI clan who was a former kokushu (a major feudal lord).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1579, Yusai HOSOKAWA and Mitsuhide AKECHI invaded Tango no Kuni following Nobunaga&apos;s command to destroy the ISSHIKI clan who were former kokushu (major feudal lords).</e>
+<cmt>「by」→「following」,「the」挿入, I changed the last part to plural, but I am not sure whether what is being referred to is a single person or a clan.</cmt>
+<e type="check" ver="1">In 1579, Yusai HOSOKAWA and Mitsuhide AKECHI invaded Tango Province following Nobunaga&apos;s command to destroy the Isshiki clan who were former kokushu (major feudal lords).</e>
+<cmt>Isshiki clan としました。Tango Province としました。</cmt>
+</sen>
+<sen id="5">
+<j>その功により細川藤孝には丹後国が与えられ、明智光秀には丹波国が与えられた。</j>
+<e type="trans" ver="1">For their success, Fujitaka (Yusai) HOSOKAWA was rewarded with Tango no Kuni, and Mitsuhide AKECHI, with Tanba no Kuni.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For their success, Fujitaka (Yusai) HOSOKAWA was rewarded with Tango no Kuni, and Mitsuhide AKECHI with Tanba no Kuni.</e>
+<cmt>「,」削除</cmt>
+<e type="check" ver="1">For their success, Fujitaka (Yusai) HOSOKAWA was rewarded with Tango Province, and Mitsuhide AKECHI with Tanba Province.</e>
+<cmt>Provinceとしました。</cmt>
+</sen>
+<sen id="6">
+<j>藤孝は、はじめ宮津城に入ったが、後、田辺城を築き、丹後経営の中心地とした、しかし、支城として宮津城ものこした。</j>
+<e type="trans" ver="1">Fujitaka first settled in Miyazu-jo Castle, and later built Tanabe-jo Castle as the center of governing Tango no Kuni along with Miyazu-jo Castle as a branch.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fujitaka first settled in Miyazu-jo Castle, but later built Tanabe-jo Castle as the center of governing Tango no Kuni, using Miyazu-jo Castle as a branch.</e>
+<cmt>「and」→「but」, 「along with」→「, using」</cmt>
+<e type="check" ver="1">Fujitaka first settled in Miyazu-jo Castle, but later built Tanabe-jo Castle as the center of governing Tango Province, using Miyazu-jo Castle as a branch.</e>
+<cmt>Provinceとしました。</cmt>
+</sen>
+<sen id="7">
+<j>1582年（天正10年）の本能寺の変に際しては明智家との非協力を内外に伝えるため出家し、宮津城に隠居した。</j>
+<e type="trans" ver="1">In 1582, after Honnoji Incident (a battle in which Mitsuhide killed Nobunaga at Honno-ji Temple), Fujitaka went into religion and retired at Miyazu-jo Castle in order to let people know that he would not support Akechi Family.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1582, after the Honnoji Incident (a battle in which Mitsuhide killed Nobunaga at Honno-ji Temple), Fujitaka devoted himself to religion and retired at Miyazu-jo Castle in order to let people know that he would not support the Akechi Family.</e>
+<cmt>「the」挿入, 「went into」→「devoted himself to」, 「the」挿入</cmt>
+<e type="check" ver="1">In 1582, after the Honnoji Incident (a battle in which Mitsuhide killed Nobunaga at Honno-ji Temple), Fujitaka devoted himself to religion and retired at Miyazu-jo Castle in order to let people know that he would not support the Akechi Family.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>その後の田辺城は細川家当主である細川忠興の居城となるが、忠興が会津征伐へ赴いている最中に石田三成が、豊臣秀吉の遺命を無視する徳川家康の打倒を宣言した。</j>
+<e type="trans" ver="1">Tadaoki HOSOKAWA, a head of HOSOKAWA family, succeeded Tanabe-jo Castle, and while Tadaoki was absent for Aizu seibatsu (expedition to punish and conquer Aizu), Mitsunari ISHIDA announced he would overthrow Ieyasu TOKUGAWA who was behaving in defiance of Hideyoshi TOYOTOMI&apos;s last will.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tadaoki HOSOKAWA, a head of the HOSOKAWA family, succeeded to Tanabe-jo Castle, and while Tadaoki was absent during the Aizu seibatsu (an expedition to punish and conquer Aizu), Mitsunari ISHIDA announced he would overthrow Ieyasu TOKUGAWA who was behaving in defiance of Hideyoshi TOYOTOMI&apos;s last will.</e>
+<cmt>「the」挿入,「to」挿入,「for」→「during the」, 「an」挿入</cmt>
+<e type="check" ver="1">Tadaoki HOSOKAWA, a head of the Hosokawa family, succeeded to Tanabe-jo Castle, and while Tadaoki was absent during the Aizu seibatsu (an expedition to punish and conquer Aizu), Mitsunari ISHIDA announced he would overthrow Ieyasu TOKUGAWA who was behaving in defiance of Hideyoshi TOYOTOMI&apos;s last will.</e>
+<cmt>Hosokawa family としました。</cmt>
+</sen>
+<sen id="9">
+<j>細川家は徳川家と婚姻関係があったため徳川方に味方するが、これにより西軍から攻撃を受けることになった。</j>
+<e type="trans" ver="1">Hosokawa family supported Tokugawa army because they were in a marital relationship, but this caused Seigun (Mitsunari&apos;s allied army) to attack Hosokawa Family.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Hosokawa family supported the Tokugawa army because they had marital connections, but this caused Seigun (an army allied to Mitsunari) to attack the Hosokawa Family.</e>
+<cmt>「the」挿入x3, 「were in a marital relationship」→「had marital connections」, 「Mitsunari&apos;s allied army」→「an army allied to Mitsunari」</cmt>
+<e type="check" ver="1">The Hosokawa family supported the Tokugawa army because they had marital connections, but this caused Seigun (an army allied to Mitsunari) to attack the Hosokawa Family.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>留守を守る藤孝は宮津城を出、田辺城に篭城し、後、勅命により開城した（田辺城の戦い）。</j>
+<e type="trans" ver="1">Fujitaka, who was holding a fort, got out of Miyazu-jo Castle and his army barricaded themselves in Tanabe-jo Castle, but eventually surrendered by order of the Emperor (the Battle of Tanabe Castle).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fujitaka, who was holding a fort, got out of Miyazu-jo Castle and his army barricaded themselves in Tanabe-jo Castle, but eventually they surrendered by order of the Emperor (the Battle of Tanabe Castle).</e>
+<cmt>「they」挿入</cmt>
+<e type="check" ver="1">Fujitaka, who was holding a fort, got out of Miyazu-jo Castle and his army barricaded themselves in Tanabe-jo Castle, but eventually they surrendered by order of the Emperor (the Battle of Tanabe Castle).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="11">
+<j>関ヶ原の戦い後、細川家は豊前国に転封され、代わりに京極高知が丹後国12万3千石を拝領し入封した。</j>
+<e type="trans" ver="1">After the Battle of Sekigahara, Hosokawa family was transferred to Buzen no Kuni in Kyushu, and in place Takatomo KYOGOKU entered Tanabe-jo Castle with 123 thousand koku to govern Tango no Kuni.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the Battle of Sekigahara, the Hosokawa family was transferred to Buzen no Kuni in Kyushu, and in place Takatomo KYOGOKU entered Tanabe-jo Castle with 123 thousand koku to govern Tango no Kuni.</e>
+<cmt>「the」挿入. Perhaps &apos;koku&apos; may need an explanation in English.</cmt>
+<e type="check" ver="1">After the Battle of Sekigahara, the Hosokawa family was transferred to Buzen Province in Kyushu, and in place Takatomo KYOGOKU entered Tanabe-jo Castle with 123 thousand koku to govern Tango Province.</e>
+<cmt>Provinceとしました。</cmt>
+</sen>
+<sen id="12">
+<j>高知は、晩年、丹後の中心地を、ふたたび舞鶴城から宮津城に移し、城も、この時、大規模に改修された。</j>
+<e type="trans" ver="1">Takatomo, in his late years, moved again the center of Tango from Maizuru-jo Castle to Miyazu-jo Castle, which he renovated in a large scale.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takatomo, in his later years, again moved the center of Tango from Maizuru-jo Castle to Miyazu-jo Castle, which he renovated and expanded.</e>
+<cmt>「late」→「later」, 「moved again」→「again moved」,「in a large scale」→「and expanded」. I&apos;m not sure about the meaning of 大規模に改修された. If this means made bigger then &apos;renovated and expanded&apos; would be best, but if this means greatly then &apos;completely renovated&apos; would be better I think.</cmt>
+<e type="check" ver="1">Takatomo, in his later years, again moved the center of Tango from Maizuru-jo Castle to Miyazu-jo Castle, which he completely renovated.</e>
+<cmt>completely renovated に変更しました。</cmt>
+</sen>
+<sen id="13">
+<j>高知は丹後を3分割し、本藩の宮津藩・支藩の丹後田辺藩・支藩の峰山藩を創設した。</j>
+<e type="trans" ver="1">Takatomo divided Tango into three: the main domain Miyazu han: a branch domain Tango-Tanabe han: and a branch domain Mineyama han.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takatomo divided Tango into three: the main domain Miyazu han, a branch domain Tango-Tanabe han, and a branch domain Mineyama han.</e>
+<cmt>「:」→「,」x2</cmt>
+<e type="check" ver="1">Takatomo divided Tango into three: the main domain Miyazu Domain, a branch domain Tango-Tanabe Domain, and a branch domain Mineyama Domain.</e>
+<cmt>Domain としました。</cmt>
+</sen>
+<sen id="14">
+<j>宮津藩主になった京極高広は、さらに、宮津城を大規模に改修し、本丸に七基の二重櫓をあげるなど、近世の城として宮津城を作り直した。</j>
+<e type="trans" ver="1">Takahiro KYOGOKU, the head of Miyazu han, further massively renovated Miyazu-jo Castle into a new castle of recent times, by, for example, building seven two-storied towers at Honiara (a main part of the castle).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takahiro KYOGOKU, the head of Miyazu han, further massively renovated Miyazu-jo Castle into the castle we see today, by, for example, building seven two-storied towers at Honiara (a main part of the castle).</e>
+<cmt>「a new castle of recent times」→「the castle we see today」</cmt>
+<e type="check" ver="1">Takahiro KYOGOKU, the head of Miyazu Domain, further massively renovated Miyazu-jo Castle into the castle we see today, by, for example, building seven two-storied towers at Honmaru (a main part of the castle).</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+<sen id="15">
+<j>なお、当初、田辺藩や峰山藩は、丹後宮津藩の藩内の分家であり、独立した藩ではないという見かたもある。</j>
+<e type="trans" ver="1">Some historians say Tanabe han and Mineyama han were not initially independent, but only cadet families within Miyazu han.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some historians say Tanabe han and Mineyama han were not initially independent, but only cadet families within Miyazu han.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some historians say Tanabe Domain and Mineyama Domain were not initially independent, but only cadet families within Miyazu Domain.</e>
+<cmt>Domain としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="16">
+<j>しかし京極宮津藩も２代目当主・京極高国の時代に領国を召し上げられ、旗本となった。</j>
+<e type="trans" ver="1">However, Kyogoku Miyazu han&apos;s fief was later confiscated, and Kyogoku Family became Hatamoto (a direct retainer of the shogun) in the days of second head Takakuni KYOGOKU.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, Kyogoku Miyazu han&apos;s fief was later confiscated, and the Kyogoku Family became Hatamoto (a direct retainer of the shogun) in the days of the second head of the dynasty Takakuni KYOGOKU.</e>
+<cmt>「the」挿入x2, 「second head」→「the second head of the dynasty」</cmt>
+<e type="check" ver="1">However, Kyogoku Miyazu Domain&apos;s fief was later confiscated, and the Kyogoku family became Hatamoto (a direct retainer of the shogun) in the days of the second head, Takakuni KYOGOKU.</e>
+<cmt>Domain としました。</cmt>
+</sen>
+<sen id="17">
+<j>京極家は名家でもあったので、高家になっていた時期もある。</j>
+<e type="trans" ver="1">Since Kyogoku Family was a noble family, it was once Koke (a privileged family ranked higher than Hatamoto under Tokugawa Sogunate) for a certain period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the Kyogoku Family was a noble family, it was once Koke (a privileged family ranked higher than Hatamoto under the Tokugawa Shogunate) for a certain period.</e>
+<cmt>「the」挿入x2, 「Sogunate」→「Shogunate」</cmt>
+<e type="check" ver="1">Since the Kyogoku family was a noble family, it was once Koke (a privileged family ranked higher than Hatamoto under the Tokugawa Shogunate) for a certain period.</e>
+<cmt>family としました。</cmt>
+</sen>
+<sen id="18">
+<j>その後は永井家・阿部家・奥平家・青山家と目まぐるしく城主は替わったが、1758年(宝暦8年)に松平資昌が7.7万石で入封し、以後7代続いて明治維新を迎えた。</j>
+<e type="trans" ver="1">After that, the castellan changed one after another, from the NAGAI family to the ABE family, then the OKUDAIRA family, and to the AOYAMA family, but in 1758, Sukemasa MATSUDAIRA succeeded the castle with 77 thousand koku to keep it for seven generations until Maiji Restoration.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After that, ownership of the castle was transferred from one family to another, from the NAGAI family to the ABE family, then the OKUDAIRA family, and to the AOYAMA family, but in 1758, Sukemasa MATSUDAIRA succeeded the castle with 77 thousand koku to keep it for seven generations until the Meiji Restoration.</e>
+<cmt>「the castellan changed one after」→「ownership of the castle was transferred from one family to」,「the」挿入, 「Maiji」→「Meiji」</cmt>
+<e type="check" ver="1">After that, ownership of the castle was transferred from one family to another, from the Nagai family to the Abe family, then the Okudaira family, and to the Aoyama family, but in 1758, Sukemasa MATSUDAIRA succeeded the castle with 770 thousand koku to keep it for seven generations until the Meiji Restoration.</e>
+<cmt>名字の表記を修正しました。数字を修正しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="19">
+<j>現在の現存建物</j>
+<e type="trans" ver="1">Remains today</e>
+<cmt></cmt>
+<e type="trans" ver="2">Remains today</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Remains today</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>観光面からは城郭そのものは完全に姿を消し、当時の面影は全く残していない。</j>
+<e type="trans" ver="1">Since all of the castle building has disappeared leaving no signs of its glory then, is has little value for tourism.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since all of the castle building has disappeared leaving no sign of its former glory, it has little value for tourism.</e>
+<cmt>「signs」→「sign」, 「glory then」→「former glory」,「is」→「it」</cmt>
+<e type="check" ver="1">Since all of the castle building has disappeared leaving no sign of its former glory, it has little value for tourism.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>市立宮津小学校裏に馬場先御門の太鼓門を残す他は城の存在自体言われなければ気づかない。</j>
+<e type="trans" ver="1">No one would notice a castle used be there if not told referring to remaining Taiko-mon (a gate that housed a drum) of Babasaki-gomon gate at the back side of municipal Miyazu Elementary School.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The only thing that remains to show that the castle existed on the site at all is the Taiko-mon (a gate that housed a drum) of Babasaki-gomon gate to the rear of municipal Miyazu Elementary School.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The only thing that remains to show that the castle existed on the site at all is the Taiko-mon (a gate that housed a drum) of Babasaki-gomon gate to the rear of municipal Miyazu Elementary School.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="22">
+<j>また、愛宕神社(与謝町）拝殿は城内殿舎の玄関を移築した唐破風の建物である。</j>
+<e type="trans" ver="1">Also, an entrance of a samurai house in the castle was moved to Atago-jinja Shrine to build its hall of worship, which is a building in Karaha Style.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, an entrance of a samurai house in the castle was moved to Atago-jinja Shrine to build its hall of worship, which is a building in Karaha Style.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also, an entrance of a samurai house in the castle was moved to Atago-jinja Shrine to build its hall of worship, which is a building in Karaha Style.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Mnd(id:15140), カテゴリ整理専用(id:146185), Roga246(id:53246), Kangoshiyouichi(id:100531), Reggaeman(id:6214), Sea of Japan(id:3230), 樒(id:35770), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

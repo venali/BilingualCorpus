@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>長押</j>
+<e type="trans" ver="1">Nageshi (a horizontal piece of timber)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nageshi (a horizontal piece of timber)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nageshi (a horizontal piece of timber)</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>長押（なげし）とは、日本建築に見られる部材で、柱を水平方向につなぐもの。</j>
+<e type="trans" ver="1">A nageshi is a pillar-connecting material used in Japanese-style buildings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A nageshi is a pillar-connecting material used in Japanese-style buildings.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A nageshi is a pillar-connecting material used in Japanese-style buildings.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>普通、長押と呼んでいる住宅などの和室にあるものは特に内法長押（うちのりなげし）という。</j>
+<e type="trans" ver="1">The nageshi used in Japanese-style rooms is called uchinori-nageshi specifically.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The nageshi used in Japanese-style rooms is specifically.called uchinori-nageshi.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">The nageshi used in Japanese-style rooms is specifically called uchinori-nageshi.</e>
+<cmt>不要なピリオド削除しました。</cmt>
+</sen>
+<sen id="3">
+<j>寺院建築では和様建築、住宅などでは書院造の特徴になっている。</j>
+<e type="trans" ver="1">Use of it constitutes a feature of Japanese-style buildings in shrines and temples and of shoin-zukuri concerning houses.</e>
+<cmt></cmt>
+<e type="trans" ver="2">its use factors into the features of Japanese-style buildings in shrines and temples and of shoin-zukuri for houses.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Its use factors into the features of Japanese-style buildings in shrines and temples and of shoin-zukuri (a traditional Japanese style of residential architecture that includes a tokonoma alcove) for houses.</e>
+<cmt>文頭を大文字にし、「(a traditional Japanese style of residential architecture that includes a tokonoma alcove)」を追加しました。</cmt>
+</sen>
+<par id="1">
+<sen id="4">
+<j>柱同士の上部などを水平方向につなぎ、構造を補強するために、柱の外側から打ち付けられたもの。</j>
+<e type="trans" ver="1">To connect upper parts of pillars horizontally to reinforce the structure, it is put into the place by being struck from the ouside of the pillars.</e>
+<cmt></cmt>
+<e type="trans" ver="2">To connect upper parts of pillars horizontally to reinforce the structure, it is put into place by being struck from the ouside of the pillars.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">It horizontally connects the upper parts or other parts of pillars and is hammered into place from outside of the pillars to reinforce the structure.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="5">
+<j>古代の寺院建築では部材も厚く、本来の構造的な意味合いが強かった。</j>
+<e type="trans" ver="1">In the ancient shirine buildings, the material was thick and use of it had the original structural meaning strongly.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In ancient shirine buildings, the material was thick and use of it implied structural strength.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">In ancient shrine buildings, the material was thick and was required for structural purposes.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="6">
+<j>住宅では次第に部材も薄くなり、構造的な意義は乏しくなり、もっぱら装飾的な部材になった。</j>
+<e type="trans" ver="1">However, the material became gradually thinner in use for houses, and has become only decorative, losing most of the structual meaning.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, the material became gradually thinner in use for houses, and has become only decorative, losing most of its structual function.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">However, it lost its structural function as material used in houses became thinner and is now exclusively a decorative material.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>鴨居の上から被せたり、柱間を渡するように壁に沿って取り付けられる。</j>
+<e type="trans" ver="1">It is attached so as to cover kamoi (a generic term for a head jamb, normally have tracks for sliding doors or partitions) or along walls across pillars.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is attached so as to cover kamoi (a generic term for a head jamb, which normally has tracks for sliding doors or partitions) or along walls across pillars.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">It is attached so as to cover kamoi (a generic term for a head jamb, which normally has tracks for sliding doors or partitions) or along walls across pillars.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>法隆寺をはじめ奈良時代以降の寺院建築にも使われている。</j>
+<e type="trans" ver="1">In addtion to Horyu-ji Temple, it was used in temple buildings in the Nara and later periods as well.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In addtion to Horyu-ji Temple, it was used in temple buildings in Nara and later periods.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">It is used in temple buildings since the Nara period, such as Horyu-ji Temple.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="9">
+<j>鎌倉時代に中国から伝わった様式である大仏様、禅宗様では見られないため、和様の特徴になっている。</j>
+<e type="trans" ver="1">However, it constitutes a feature of the Japanese style, because not used in the Buddhist archtecture and Zenshu-yo (Zen-sect-style architecture) both of which came from China in the Kamakura period.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, it constitutes a feature of Japanese style, because it is not used in Buddhist archtecture and Zenshu-yo (Zen-sect-style architecture), both of which came from China in the Kamakura period.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">However, it constitutes a feature of Japanese style, because it is not used in Daubutsu-yo (Buddhist architecture style) and Zenshu-yo (Zen-sect-style architecture), both of which came from China in the Kamakura period.</e>
+<cmt>スペル修正、「Daubutsu-yo」「style」を追加しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>神社建築でも用いられる。</j>
+<e type="trans" ver="1">It is used in shrine buildings as well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is used in shrine buildings as well.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is used in shrine buildings as well.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="11">
+<j>住宅建築は、『源氏物語絵巻』などに見られる寝殿造にも見られ、書院造では必ず長押を打つ。</j>
+<e type="trans" ver="1">Concerning houses, it was also used in shinden-zukuri, as seen, for example, in the &quot;Genji monogatari emak (the Illustrated Handscroll of the Tale of Genji),&quot; and shoin-zukuri was always provided with nageshi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was also used in shinden-zukuri in houses, as seen, for example, in the Genji monogatari emaki (the Illustrated Handscroll of the Tale of Genji); and, shoin-zukuri was always provided with nageshi.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">In housing, it is also seen in shinden-zukuri style (typical architecture of a nobleman&apos;s residence during the Heian period) as depicted in the Genji monogatari emaki (the Illustrated Hand Scroll of the Tale of Genji) and shoin-zukuri always have nageshi.</e>
+<cmt>FBに従って修正しました。アポストロフィを修正</cmt>
+</sen>
+<sen id="12">
+<j>茶室には用いられないため、その影響を受けた数寄屋造りでは省略される。</j>
+<e type="trans" ver="1">With no nageshi used in tea-ceremony rooms, it was not used in sukiya-zukuri influenced by the tea ceremony.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since nageshi was not being used in tea-ceremony rooms, sukiya-zukuri received little influence from the tea ceremony.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Since nageshi were not used in tea-ceremony rooms, Sukiya-zukuri style, influenced by the style of tea-ceremony houses do not have nageshi.</e>
+<cmt>FBに従って修正しました。アポストロフィを修正</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="13">
+<j>長押のせいの大きさは柱寸法を基準として決められることがあり、その8～9割のせいを持つものを本長押、6～7割のものを半長押等という。</j>
+<e type="trans" ver="1">The height of a nageshi is sometimes determined based on the horizontal size of the pillars concerned, and a nageshi whose height is 80% to 90% of the pillar size is called a hon-nageshi and a nageshi whose height is 60% to 70% of the pillar size a han-nageshi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The height of a nageshi is sometimes determined based on the horizontal size of the pillars concerned. A nageshi whose height is 80% to 90% of the pillar size is called a hon-nageshi, and a nageshi whose height is 60% to 70% of the pillar size a han-nageshi.</e>
+<cmt>run-on sentence</cmt>
+<e type="check" ver="1">The height of a nageshi is sometimes determined by the horizontal size of the pillars and a nageshi whose height is 80% to 90% of the pillar size is called a hon-nageshi, and a nageshi whose height is 60% to 70% of the pillar size is called a han-nageshi.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="14">
+<j>現在では衣紋掛けやフックを手軽に吊るせるように室内に取り付けられた横木になってしまっているが、本来は物を掛けるための部材ではない。</j>
+<e type="trans" ver="1">Now, it has become a horizontal board that is attached in a room to enable hangers and/or hooks to be hanged easily, but originally it is not a material for hanging something on it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Now, it has become a horizontal board that is installed in a room to allow hangers and/or hooks to be hung easily. However, it was not originally intended for hanging items.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Currently, it has become a horizontal board that is installed in a room to allow hangers and/or hooks to be hung easily but it was not originally intended for hanging items.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 水野白楓(id:22811), Oine(id:132217), うぃき野郎(id:53567), 竹麦魚(id:11012), Corwin(id:973), Wiiii(id:59641), ムカイ(id:72972), Dabofish(id:239582), Chuta(id:10457), 小太刀(id:18154), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

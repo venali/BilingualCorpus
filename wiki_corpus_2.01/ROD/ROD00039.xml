@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>佐井通</j>
+<e type="trans" ver="1">Sai-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sai-dori Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sai-dori Street</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>佐井通（さいどおり）は京都市の南北の通り。</j>
+<e type="trans" ver="1">Sai-dori Street is one of the major north-south running streets of Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sai-dori Street is one of the major north-south streets in Kyoto City.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sai-dori Street is one of the major north-south streets in Kyoto City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>西大路通の西に位置し北は鹿苑寺付近の、北区 (京都市)平野天神森町から南は八条通の南までとなっている。</j>
+<e type="trans" ver="1">The street located west of the Nishioji-dori Street starts, in the north, from Hirano-jinja and Kinugasa-Tenjinmoricho near Rokuon-ji Temple and, in the north, leads to the south of Hachijo-dori Street.</e>
+<cmt>http://web.kyoto-inet.or.jp/people/kurituka/torina.hthttp://kaiwai.city.kyoto.jp/search/view_sight.php?ManageCode=1000243&amp;InforKindCode=1&amp;whole=truehttp://www.excite.co.jp/map/address/26/]平野天神森町→Hirano-jinja and Kinugasa-Tenjinmoricho[該当する地名はなく、「平野神社および衣笠天神森町」と訳出しました。http://kaiwai.city.kyoto.jp/search/view_sight.php?ManageCode=3000085&amp;InforKindCode=1&amp;whole=true</cmt>
+<e type="trans" ver="2">The street located west of Nishioji-dori Street starts, in the north, from Hirano-jinja and Kinugasa-Tenjinmoricho near Rokuon-ji Temple and, in the north, leads to the south of Hachijo-dori Street.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The street located west of Nishioji-dori Street starts in the north, from Kinugasa-Tenjinmori-cho near Rokuon-ji Temple in Kita Ward (Kyoto City), and in the south it leads to the south of Hachijo-dori Street.</e>
+<cmt>京都市北区　追加　佐井通りは、「平野天神森町」からスタートではなく、衣笠天神森町　からのスタートのようですので、そのように修正しました。</cmt>
+</sen>
+<par id="1">
+<sen id="3">
+<j>途中四条通との交差点付近に西院春日神社があり、春日通の通称で呼ばれる。</j>
+<e type="trans" ver="1">It is commonly called Kasuga-dori Street, because Saiin-Kasuga-jinja Shrin is around the crossing with Shijo-dori Street.</e>
+<cmt>http://kaiwai.city.kyoto.jp/search/view_sight.php?ManageCode=3000050&amp;InforKindCode=1&amp;whole=truehttp://kaiwai.city.kyoto.jp/search/view_sight.php?ManageCode=1000077&amp;InforKindCode=1&amp;whole=truehttp://web.kyoto-inet.or.jp/people/kurituka/torina.htm</cmt>
+<e type="trans" ver="2">It is commonly called Kasuga-dori Street because Saiin-Kasuga-jinja Shrine is around the crossing with Shijo-dori Street.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It is commonly called Kasuga-dori Street because Saiin-Kasuga-jinja Shrine is located in the vicinityof the crossing with Shijo-dori Street.</e>
+<cmt>located in the vicinity ofとしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>五条付近ではクリスマスの季節には沿道のロームによりイルミネーションが行われる。</j>
+<e type="trans" ver="1">In a area around Gojo, ROHM, Co. decorates the street with Christmas illumination every year.</e>
+<cmt>http://www.rohm.com/index.html</cmt>
+<e type="trans" ver="2">In the area around Gojo, the ROHM, Co. decorates the street with Christmas illumination every year.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">In the area around Gojo, the ROHM Co., Ltd., decorates the street with Christmas illumination every year.</e>
+<cmt>Co., Ltd.としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>沿道の主な施設</j>
+<e type="trans" ver="1">Main Facilities along the Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Main Facilities Along the Street</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Main facilities along the street</e>
+<cmt>表現を統一しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="6">
+<j>鹿苑寺</j>
+<e type="trans" ver="1">Rokuon-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rokuon-ji Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rokuon-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>西院春日神社</j>
+<e type="trans" ver="1">Saiin-Kasuga-jinja Shrin</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saiin-Kasuga-jinja Shrin</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Saiin-Kasuga-jinja Shrine</e>
+<cmt>spellを修正しました。</cmt>
+</sen>
+<sen id="8">
+<j>島津製作所</j>
+<e type="trans" ver="1">Shimadzu Corporation</e>
+<cmt>http://www.shimadzu.co.jp/</cmt>
+<e type="trans" ver="2">Shimadzu Corporation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shimadzu Corporation</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>ローム</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">ROHM Co., Ltd.</e>
+<cmt>訳を補いました。</cmt>
+</sen>
+<sen id="10">
+<j>日本新薬</j>
+<e type="trans" ver="1">Nippon Shinyaku Co., Ltd</e>
+<cmt>http://www.nippon-shinyaku.co.jp/</cmt>
+<e type="trans" ver="2">Nippon Shinyaku Co., Ltd.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Nippon Shinyaku Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>嵯峨野線 - 円町駅</j>
+<e type="trans" ver="1">Sagano Line - Emmachi Station</e>
+<cmt>http://www.jr-odekake.net/]</cmt>
+<e type="trans" ver="2">Sagano Line - Emmachi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sagano Line - Enmachi Station</e>
+<cmt>Enmachiとしました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 ＋－(id:17104), Ktr(id:30468), Nnh(id:474), Jade0416(id:104181), Ritsuka(id:6464), Felicemente(id:43126), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

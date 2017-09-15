@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>長岡京駅</j>
+<e type="trans" ver="1">Nagaokakyo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nagaokakyo Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nagaokakyo Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>長岡京駅（ながおかきょうえき）は、京都府長岡京市神足一丁目にある、西日本旅客鉄道（JR西日本）東海道本線（JR京都線）の鉄道駅。</j>
+<e type="trans" ver="1">Nagaokakyo Station, located at 1-chome Kotari, Nagaokakyo City, Kyoto Prefecture, is a railway station of the Tokaido Main Line (JR Kyoto Line) that is operated by West Japan Railway Company (JR West).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nagaokakyo Station, located at 1-chome Kotari, Nagaokakyo City, Kyoto Prefecture, is a railway facility of the Tokaido Main Line (JR Kyoto Line), which is operated by West Japan Railway Company (JR West).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Nagaokakyo Station, located at 1-chome Kotari, Nagaokakyo City, Kyoto Prefecture, is a railway facility of the Tokaido Main Line (JR Kyoto Line), which is operated by West Japan Railway Company (JR West).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>ICOCA・Jスルー利用可能駅。</j>
+<e type="trans" ver="1">ICOCA and J-through are available at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">ICOCA and J-through are available at this station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">ICOCA and J-Through cards can be used at this station.</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="3">
+<j>ICOCAの相互利用対象であるPiTaPa（スルッとKANSAI協議会）も利用可能。</j>
+<e type="trans" ver="1">PiTaPa (SURUTTO KANSAI ASSOCIATION), which is mutually usable between ICOCA, is also available.</e>
+<cmt></cmt>
+<e type="trans" ver="2">PiTaPa (SURUTTO KANSAI ASSOCIATION), which is mutually usable with ICOCA, is also available.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">PiTaPa (SURUTTO KANSAI ASSOCIATION), which is mutually usable with ICOCA, can also be used.</e>
+<cmt>統一しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Structure of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>プラットホーム形状と配置2面4線の地上駅で、橋上駅を有している。</j>
+<e type="trans" ver="1">This station is a ground station that has 2 platforms for 4 tracks and the station building on the bridge.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is a ground facility having two platforms for four tracks and a station building on the bridge.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">This station is a ground facility having two platforms for four tracks and a station building on the bridge.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>駅から村田製作所・バンビオには直通の連絡道路が併結されている。</j>
+<e type="trans" ver="1">Direct access way connects the station with Murata Manufacturing Co., Ltd. and Bambio.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A direct access way connects the station with Murata Manufacturing Co., Ltd., and Bambio.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">A direct access way connects the station with Murata Manufacturing Co., Ltd., and Bambio.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>1・4番のりばはロープで封鎖されており、停車列車が入る時のみロープが外される。</j>
+<e type="trans" ver="1">Track 1 and 4 are usually sealed off by rope and the rope is removed only when trains that stop at this station come in.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tracks 1 and 4 are usually sealed off by rope, which is removed only when trains that stop at this station come in.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Platform 1 and 4 are usually sealed off by rope, which is removed only when trains that stop at this station come in.</e>
+<cmt>「No.番線」の表記を統一</cmt>
+</sen>
+<sen id="7">
+<j>2007年8月現在、通常ダイヤで1番のりばに停車する列車（高槻以東で外側線走行の上り快速）は設定されていない。</j>
+<e type="trans" ver="1">According to the effective timetable as of August 2007, trains that stop at track 1 (up Rapid trains that run on the outer track in the section of Takatsuki eastward) are not scheduled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the effective timetable as of August 2007, trains that stop at track 1 (rapid up trains that run on the outer track in the section of Takatsuki eastward) aren&apos;t scheduled.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">According to the effective timetable as of August 2007, trains that stop at Platform 1 (rapid inbound trains that run on the outer track in the section of Takatsuki eastward) aren&apos;t scheduled.</e>
+<cmt>上り→inbound としました。「No.番線」の表記を統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>利用状況</j>
+<e type="trans" ver="1">Status of usage</e>
+<cmt></cmt>
+<e type="trans" ver="2">Conditions of usage</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>2006年度の1日あたりの乗車人員は約19,512人である（京都府統計書より）。</j>
+<e type="trans" ver="1">Average number of passengers a day is 19,512 (based on the statistics compiled by Kyoto Prefectural Government).</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to statistics compiled by the Kyoto Prefectural Government, the average number of passengers a day is 19,512.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">According to Kyoto Prefecture Statistics Report, the average number of passengers a day in fiscal year 2006 was 19,512.</e>
+<cmt>表現を統一しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="9">
+<j>長岡京市の中心部からはやや離れてはいるものの、企業への通勤客を中心にそこそこの利用客がいる。</j>
+<e type="trans" ver="1">Although the station is situated a bit far from the central district of Nagaokakyo City, the number of passengers, especially commuters, is relatively big.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the station is somewhat far from the central district of Nagaokakyo City, the number of passengers, especially commuters, is relatively large.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although the station is somewhat far from the central district of Nagaokakyo City, the number of passengers, especially commuters, is relatively large.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="10">
+<j>また京都府の運転免許試験場（当駅下車後阪急バス利用）への利用がある。</j>
+<e type="trans" ver="1">In addition, people who go to Kyoto Driver&apos;s License Center use this station (by Hankyu Bus from this station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, people who go to Kyoto Driver&apos;s License Center use this station (by Hankyu Bus from this station).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, people who go to Kyoto Driver&apos;s License Center use this station (by Hankyu Bus from this station).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>近年駅周辺にマンション、ビルが建設され、道路も舗装され外観は綺麗になり、近い将来町の中心になると思われる。</j>
+<e type="trans" ver="1">As many condominiums ・ buildings were constructed and roads were paved around the station in recent years, the appearance of the area have become rather pretty and this area is likely to become the center of the town in near future.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because many condominiums and other buildings have been constructed and roads have been paved around the station in recent years, the area&apos;s appearance has become somewhat attractive, and as a result this area is likely to become the center of the town in the near future.</e>
+<cmt>punctuation PLEASE TELL TRANS NOT TO USE BULLETS IN TEXT.</cmt>
+<e type="check" ver="1">Because many condominiums and other buildings have been constructed and roads have been paved around the station in recent years, the area&apos;s appearance has become somewhat attractive, and as a result this area is likely to become the center of the town in the near future.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>同じ長岡京市の中でも、より中心部に近い阪急電鉄長岡天神駅の利用者の方が多い。</j>
+<e type="trans" ver="1">However, as far as the number of passengers is concerned, that of Hankyu Railway&apos;s Nagaokatenjin Station, which also is located in Nagaokakyo City, is bigger than that of this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, as far as the number of passengers is concerned, that of Hankyu Railway&apos;s Nagaokatenjin Station, which also is located in Nagaokakyo City, is greater than that of this station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, as far as the number of passengers is concerned, that of Hankyu Railway&apos;s Nagaokatenjin Station, which also is located in Nagaokakyo City, is greater than that of this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Area around the Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area around the station</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>前述したが、JRでは長岡天満宮への最寄駅になるが、長岡京市では阪急電鉄京都本線長岡天神駅の方が中心部の意味合いが近く、当駅周辺の建物の密度は低い。</j>
+<e type="trans" ver="1">As mentioned above, although this station is the nearest JR station from Nagaoka Temman-gu Shrine, the area around Nagaokatenjin Station of Hankyu Kyoto Line is deemed as the central district of Nagaokakyo City and the density of buildings around this station is low.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As mentioned above, although this station is the JR facility nearest to Nagaoka Temman-gu Shrine, the area around Nagaokatenjin Station of the Hankyu Kyoto Line is considered the central district of Nagaokakyo City and the density of buildings around this station is low.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">As mentioned above, although this station is the JR facility nearest to Nagaoka Tenman-gu Shrine, the area around Nagaokatenjin Station of the Hankyu Kyoto Line is considered the central district of Nagaokakyo City and the density of buildings around this station is low.</e>
+<cmt>Tenmangu としました。</cmt>
+</sen>
+<sen id="14">
+<j>阪急長岡天神駅には西口から徒歩約15分。</j>
+<e type="trans" ver="1">It takes about 15 minutes on foot from the west entrance of this station to Nagaokatenjin Station of Hankyu Kyoto Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It takes about 15 minutes on foot from the west entrance of this station to reach Nagaokatenjin Station of the Hankyu Kyoto Line.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">It takes about fifteen minutes on foot from the west exit of this station to reach Nagaokatenjin Station of the Hankyu Kyoto Line.</e>
+<cmt>数字をスペルアウトしました。Entrance →exit　としました。</cmt>
+</sen>
+<sen id="15">
+<j>京阪電気鉄道京阪本線淀駅までの距離は遠く、徒歩での乗り継ぎには適さない。</j>
+<e type="trans" ver="1">As the distance from this station to Yodo Station of Keihan Main Line that is operated by Keihan Electric Railway is long, it is not appropriate to transfer on foot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the distance from this station to Yodo Station of the Keihan Main Line (operated by Keihan Electric Railway) is considerable, it isn&apos;t appropriate to transfer on foot.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Because the distance from this station to Yodo Station of the Keihan Main Line (operated by Keihan Electric Railway) is considerable, it isn&apos;t appropriate to transfer on foot.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>西口</j>
+<e type="trans" ver="1">West entrance</e>
+<cmt></cmt>
+<e type="trans" ver="2">West entrance</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West exit</e>
+<cmt>Entrance →exit　としました。</cmt>
+</tit>
+<par id="1">
+<sen id="16">
+<j>阪急長岡天神駅に向けて伸びる通り沿いに商店が続く。</j>
+<e type="trans" ver="1">Many shops are located along the street extending to Nagaokatenjin Station of Hankyu Kyoto Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many shops are located along the street extending to Nagaokatenjin Station of the Hankyu Kyoto Line.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Many shops are located along the street extending to Nagaokatenjin Station of the Hankyu Kyoto Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="17">
+<j>2004年11月～2005年5月にかけペデストリアンデッキ、バスロータリー、駐車場などの大幅工事。</j>
+<e type="trans" ver="1">Large scale construction work, including pedestrian decks, bus rotary and a parking space, was carried out from November 2004 till May 2005.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Large-scale construction work, including pedestrian decks, a bus rotary and parking area, was carried out from November 2004 till May 2005.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Large-scale construction work, including pedestrian decks, a bus rotary and parking area, was carried out from November 2004 till May 2005.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="18">
+<j>2005年4月20日に平和堂（「フレンドマート」というスーパーマーケット）を含む総合ショッピングモール完成。</j>
+<e type="trans" ver="1">Integrated shopping mall, including Heiwado (a supermarket named &quot;Friend Mart&quot;, was completed on April 20, 2005.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An integrated shopping mall, including Heiwado (a supermarket called &quot;Friend Mart,&quot; was completed on April 20, 2005.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">An integrated shopping mall, including Heiwado (a supermarket called &apos;Friend Mart&apos;), was completed on April 20, 2005.</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="19">
+<j>その他の施設</j>
+<e type="trans" ver="1">Other facilities</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other facilities</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Other facilities</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="20">
+<j>銀行ATM、居酒屋、不動産屋、歯科医院、ファミリーマート、本屋、フィットネスクラブ、有料駐車場、病院、学習塾など</j>
+<e type="trans" ver="1">Bank ATM, Japanese-style pub, real estate agent, dentist, Familymart store, bookshop, fitness club, toll parking lot, hospital, cram school etc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A bank ATM, Japanese-style pub, real-estate brokerage, dental office, Familymart store, bookstore, fitness club, toll parking lot, hospital, cram school, etc.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">A bank ATM, Japanese-style pub, real-estate brokerage, dental office, Familymart store, bookstore, fitness club, toll parking lot, hospital, cram school, etc.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>東口</j>
+<e type="trans" ver="1">East entrance</e>
+<cmt></cmt>
+<e type="trans" ver="2">East entrance</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">East exit</e>
+<cmt>Entrance →exit　としました。</cmt>
+</tit>
+<par id="1">
+<sen id="21">
+<j>三菱電機、松下電器産業、村田製作所などの企業オフィスへ向かう人によって階段、周辺歩道は通勤時間帯に非常に込み合う。</j>
+<e type="trans" ver="1">Stairs and sidewalks around the station are very crowded during commuting hours with people going to the offices of Mitsubishi Electric Corporation, Panasonic Corporation and Murata Manufacturing Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The stairs and sidewalks around the station are very crowded during commuting hours with people going to the offices of Mitsubishi Electric Corporation, Panasonic Corporation and Murata Manufacturing Co., Ltd.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The stairs and sidewalks around the station are very crowded during commuting hours with people going to the offices of Mitsubishi Electric Corporation, Panasonic Corporation, Murata Manufacturing Co., Ltd., etc.</e>
+<cmt>etc. を追加しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="22">
+<j>交番</j>
+<e type="trans" ver="1">Koban (police box)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Koban (police box)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Koban (police box)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>バス乗り場</j>
+<e type="trans" ver="1">Bus stop</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus stop</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus stop</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="23">
+<j>西口（阪急バス）長岡京線（市内循環　大山崎営業所（一部は、向日出張所）担当　いずれも阪急田園バスに運行委託）。</j>
+<e type="trans" ver="1">West entrance (Hankyu Bus) Nagaokakyo Route (loop in the city, Oyamazaki business office (partly Muko subbranch) is in charge, operation is being outsourced to Hankyu Den&apos;en Bus Co.,Ltd.).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The west entrance (Hankyu Bus) Nagaokakyo Route (loop in the city, Oyamazaki business office (partly the Muko sub-branch)) is in charge, but operations are outsourced to the Hankyu Den&apos;en Bus Co., Ltd.).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The west exit (Hankyu Bus) : Nagaokakyo Route (loop in the city; Oyamazaki business office (partly the Muko sub-branch)) is in charge, but operations are outsourced to the Hankyu Denen Bus Co., Ltd.)</e>
+<cmt>Entrance →exit　としました。Denen としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="24">
+<j>阪急長岡天神・太鼓山・金ヶ原・友岡・小泉橋（大山崎町）・西日本旅客鉄道山崎駅（大山崎町）・奥海印寺・光風台住宅・美竹台住宅・光明寺・東台・薬師堂・舞塚・免許試験場前（京都市伏見区）・阪急東向日（向日市）　向日町郵便局前・向日台団地前（京都市西京区大原野・勝山町）・向日市役所前　経由）・新山崎橋（大山崎町）方面行き</j>
+<e type="trans" ver="1">Buses bound for Shin-Yamazaki-bashi (Oyamazaki-cho) via Hankyu Nagaokatenjin Station ・Taikoyama ・ Kanegahara ・ Tomooka ・ Koizumibashi (Oyamazaki-cho) ・ JR Yamazaki Station (Oyamazaki-cho) ・ Okukaiinji ・Kofudai Jutaku-mae ・ Mitakedai Jutaku-mae ・ Komyoji ・ Higashidai ・ Yakushido ・ Maizuka ・ Driver&apos;s License Center-mae (Fushimi Ward, Kyoto Prefecture) ・ Hankyu Higashimuko (Station) ・ Mukomachi Yubinkyoku-mae ・ Mukodai Danchi-mae (Oharano, Nishikyo Ward, Kyoto City ・ Katsuyama-cho) ・ Muko City Hall</e>
+<cmt></cmt>
+<e type="trans" ver="2">Buses bound for Shin-Yamazaki-bashi (Oyamazaki-cho) via Hankyu Nagaokatenjin Station ・Taikoyama ・ Kanegahara ・ Tomooka ・ Koizumibashi (Oyamazaki-cho) ・ JR Yamazaki Station (Oyamazaki-cho) ・ Okukaiinji ・Kofudai Jutaku-mae ・ Mitakedai Jutaku-mae ・ Komyoji ・ Higashidai ・ Yakushido ・ Maizuka ・ Driver&apos;s License Center-mae (Fushimi Ward, Kyoto Prefecture) ・ Hankyu Higashimuko (Station) ・ Mukomachi Yubinkyoku-mae ・ Mukodai Danchi-mae (Oharano, Nishikyo Ward, Kyoto City ・ Katsuyama-cho) ・ Muko City Hall</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Buses bound for Shin-Yamazaki-bashi (Oyamazaki-cho) via Hankyu Nagaokatenjin Station, Taikoyama, Kanegahara, Tomooka, Koizumibashi (Oyamazaki-cho), JR Yamazaki Station (Oyamazaki-cho), Okukaiinji, Kofudai Jutaku (Kofudai residential district), Mitakedai Jutaku (Mitakedai residential district), Komyoji (Komyo-ji Temple), Higashidai, Yakushido, Maizuka, Driver&apos;s License Center (Fushimi Ward, Kyoto Prefecture), Hankyu Higashimuko Station (Muko City), Mukomachi Yubinkyoku-mae (Mukomachi Post Office), Mukodai Danchi-mae (Mukomachi Housing Complex) (Oharano and Katsuyama-cho in Nishikyo Ward, Kyoto City) and Muko City Hall</e>
+<cmt>・→ カンマに変更しました。英語の補足可能な箇所は追加しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="25">
+<j>西口（長岡京はっぴぃバス）長岡京市が運営するコミュニティバス。</j>
+<e type="trans" ver="1">West entrance (Nagaokakyo Happy bus) community bus operated by Nagaokakyo City</e>
+<cmt></cmt>
+<e type="trans" ver="2">West entrance (Nagaokakyo Happy bus), a community bus operated by Nagaokakyo City</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">West exit (Nagaokakyo Happy Bus): a community bus operated by Nagaokakyo City</e>
+<cmt>Entrance →exit　としました。</cmt>
+</sen>
+<sen id="26">
+<j>阪急バスに運行委託。</j>
+<e type="trans" ver="1">Operation is being outsourced to Hankyu Bus.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operation is being outsourced to Hankyu Bus.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Operation is being outsourced to Hankyu Bus.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="27">
+<j>北コース（滝ノ町、西の京、今里、うぐいす台方面）、西コース（友岡、泉が丘、高台、河陽が丘方面）</j>
+<e type="trans" ver="1">North route (to Takinocho, Nishinokyo, Imazato, Uguisudai) West route (to Tomooka, Izumigaoka, Takadai, Kayogaoka)</e>
+<cmt></cmt>
+<e type="trans" ver="2">North route (to Takinocho, Nishinokyo, Imazato, Uguisudai) West route (to Tomooka, Izumigaoka, Takadai, Kayogaoka)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">North route (to Takino-cho, Nishinokyo, Imazato, Uguisudai) and West route (to Tomooka, Izumigaoka, Takadai, Kayogaoka)</e>
+<cmt>and を追加しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="28">
+<j>東口（阪急バス）　長岡京線（市内循環　大山崎営業所（阪急田園バスに運行委託）担当）</j>
+<e type="trans" ver="1">East entrance (Hankyu Bus) Nagaokakyo route (loop inside the city, Oyamazaki business office is in charge (operation is being outsourced to Hankyu Den&apos;en Bus Co.,Ltd.))</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Oyamazaki business office is in charge of the east entrance (Hankyu Bus) of the Nagaokakyo route (a loop within the city), but operations are outsourced to the Hankyu Den&apos;en Bus Co., Ltd.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">The East exit (Hankyu Bus) : Nagaokakyo Route (loop in the city; Oyamazaki business office is in charge, but operations are outsourced to the Hankyu Denen Bus Co., Ltd.)</e>
+<cmt>表現を統一しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="29">
+<j>城の里・芝本・落合橋・友岡・一文橋・あかね・今里・菱川（向日市）・下久世（京都市南区 (京都市)）中久世（京都市南区）・JR向日町・阪急東向日（いずれも向日市）方面行き</j>
+<e type="trans" ver="1">Buses bound for Shironosato ・ Shibamoto ・ Ochiaibashi ・ Tomooka ・ Ishimonbashi ・ Akane ・ Imazato ・ Hishikawa (Muko City) ・ Shimo-kuze (Minami Ward, Kyoto City)・ Naka-kuze (Minami Ward, Kyoto City) ・ JR Mukomachi (Station) ・ Hankyu Higashi-muko (both are in Muko City)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Buses bound for Shironosato ・ Shibamoto ・ Ochiaibashi ・ Tomooka ・ Ishimonbashi ・ Akane ・ Imazato ・ Hishikawa (Muko City) ・ Shimo-kuze (Minami Ward, Kyoto City)・ Naka-kuze (Minami Ward, Kyoto City) ・ JR Mukomachi (Station) ・ Hankyu Higashi-muko (both are in Muko City)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Buses bound for Shironosato, Shibamoto, Ochiaibashi, Tomooka, Ichimonbashi, Akane, Imazato, Hishikawa (Muko City), Shimo-kuze (Minami Ward, Kyoto City), Naka-kuze (Minami Ward, Kyoto City), JR Mukomachi Station, Hankyu Higashi-muko Station (both are in Muko City)</e>
+<cmt>・→ カンマに変更しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="30">
+<j>また、阪急バス委託でサントリー京都工場見学客向けの無料送迎バス（オリジナル塗装の専用バスが運用されているが、検査の都合で代車での運行となる場合がある）が昼間帯に運行されている。</j>
+<e type="trans" ver="1">Free shuttle bus service for visitors to Suntory Kyoto Brewery, operated by Hankyu Bus on consignment basis, is provided during daytime (a private bus with original coating is used but from time to time, a substitute bus is used due to inspection).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Free shuttle-bus service for visitors to the Suntory Kyoto Brewery, which is operated by Hankyu Bus on consignment basis, is provided during the daytime (a private bus with original coating is used, but during inspections a substitute bus is used).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Free shuttle-bus service for visitors to the Suntory Kyoto Brewery, which is operated by Hankyu Bus on consignment basis, is provided during the daytime (a private bus with original coating is used, but during inspections a substitute bus is used).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="31">
+<j>東口（京都市バス）　南2系統・特南2系統（阪急バス(横大路支社)に、運行委託）</j>
+<e type="trans" ver="1">East entrnce (Kyoto City bus) South 2 route ・ Special south 2 route (operation is being outsourced to Hankyu Bus (Yokooji branch office))</e>
+<cmt></cmt>
+<e type="trans" ver="2">East entrance (Kyoto City bus) South 2 route ・ Special south 2 route (operations are outsourced to Hankyu Bus (Yokooji branch office))</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">East exit (Kyoto City bus): South 2 route, Special south 2 route (operations are outsourced to Hankyu Bus (Yokooji branch office))</e>
+<cmt>・→ カンマに変更しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="32">
+<j>城の里・芝本・免許試験場前（南2系統のみ）・樋爪口・久我（こが）のもり・久我・国道赤池・竹田駅 (京都府)西口方面行き</j>
+<e type="trans" ver="1">Buses bound for Shironosato ・ Shibamoto ・ Driver&apos;s License Center-mae (south 2 route only) ・ Hizume-guchi ・ Koganomori ・Koga ・ Kokudo Akaike ・ Takeda Sta. (Nishiguchi)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Buses bound for Shironosato ・ Shibamoto ・ Driver&apos;s License Center-mae (south 2 route only) ・ Hizume-guchi ・ Koganomori ・Koga ・ Kokudo Akaike ・ Takeda Sta. (Nishiguchi)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Buses bound for Shironosato, Shibamoto, Driver&apos;s License Center (south 2 route only), Hizume-guchi, Koganomori, Koga, Kokudo Akaike, Takeda Station (Kyoto Prefecture) West exit</e>
+<cmt>・→ カンマに変更しました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="33">
+<j>京都市バスの南2系統・特南2系統（阪急バス（横大路支社）に運行委託）は、芝本までは、阪急バス長岡京線（市内循環　大山崎営業所（一部は向日出張所）担当　阪急田園バスに、運行委託）と重複しての運転となる。</j>
+<e type="trans" ver="1">South 2 route and special south 2 route of Kyoto City bus (operation is being outsourced to Hankyu Bus (Yokooji branch office)) overlap with Nagaokakyo route of Hankyu Bus (loop inside the city, Oyamazaki business office (partly Muko sub branch) is in charge, operation is being outsourced to Hankyu Den&apos;en Bus Co.,Ltd.).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Oyamazaki business office (partly the Muko sub-branch) is in charge of the south 2 route and special south 2 route of Kyoto City bus (operations are outsourced to Hankyu Bus (Yokooji branch office)), which overlap the Nagaokakyo route of Hankyu Bus (the loop within the city), but operations are outsourced to Hankyu Den&apos;en Bus Co., Ltd.).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The Oyamazaki business office (partly the Muko sub-branch) is in charge of the south 2 route and special south 2 route of Kyoto City bus (operations are outsourced to Hankyu Bus (Yokooji branch office)), which overlap the Nagaokakyo route of Hankyu Bus (the loop within the city; operations are outsourced to Hankyu Denen Bus Co., Ltd.).</e>
+<cmt>括弧の場所を移動しました。Denen としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="34">
+<j>1931年（昭和6年）8月1日 - 日本国有鉄道の神足駅（こうたりえき）として開業。</j>
+<e type="trans" ver="1">August 1, 1931 - this station commenced operation as Kotari Station of Japan National Railways (JNR).</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 1, 1931 - This station commenced operations as Kotari Station of Japan National Railways (JNR).</e>
+<cmt>case</cmt>
+<e type="check" ver="1">August 1, 1931: The station commenced operations as Kotari Station of Japan National Railways (JNR).</e>
+<cmt>- →:　としました。</cmt>
+</sen>
+<sen id="35">
+<j>客貨取扱を開始。</j>
+<e type="trans" ver="1">It commenced passengers service as well as freight service.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It commenced both passenger and freight services.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It commenced both passenger and freight services.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="36">
+<j>1985年（昭和60年）11月1日 - 貨物取扱が廃止。</j>
+<e type="trans" ver="1">November 1, 1985 - Freight service was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 1, 1985 - Freight service was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">November 1, 1985: Freight service was abolished.</e>
+<cmt>- →:　としました。</cmt>
+</sen>
+<sen id="37">
+<j>川の東側にあった住友大阪セメントのサービスステーションへ専用鉄道が続き、貨物輸送を行っていた。</j>
+<e type="trans" ver="1">Freight service had been provided using the exclusive track that had once connected to the service station of Sumitomo Osaka Cement Co.,Ltd., located on the opposite side of the river.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Freight service had been provided using the exclusive track that had once connected to the service station of the Sumitomo Osaka Cement Co., Ltd., located on the opposite side of the river.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Freight service had been provided using the exclusive track that had once connected to the service station of the Sumitomo Osaka Cement Co., Ltd., located on the opposite side of the river.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="38">
+<j>1987年（昭和62年）2月 - 橋上駅舎に改築。</j>
+<e type="trans" ver="1">February 1987 - The station building on the bridge was completed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">February 1987 - The station building on the bridge was completed.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">February 1987: The station building on the bridge was completed.</e>
+<cmt>- →:　としました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="39">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により西日本旅客鉄道の駅となる。</j>
+<e type="trans" ver="1">April 1, 1987 - The station became the station of West Japan Railway Company thanks to the division and privatization of JNR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1987 - The station became a facility of the West Japan Railway Company due to the division and privatization of JNR.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">April 1, 1987: The station became a facility of the West Japan Railway Company due to the division and privatization of JNR.</e>
+<cmt>- →:　としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="40">
+<j>1995年（平成7年）9月1日 - 長岡京駅に改称。</j>
+<e type="trans" ver="1">September 1, 1995 - The station was renamed Nagaokakyo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 1, 1995 - The station was renamed Nagaokakyo Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">September 1, 1995: The station was renamed Nagaokakyo Station.</e>
+<cmt>- →:　としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>その他</j>
+<e type="trans" ver="1">Others</e>
+<cmt></cmt>
+<e type="trans" ver="2">Others</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Others</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="41">
+<j>神足駅当時に使われていた駅の看板は、現在長岡京市神足2丁目に立てられている。</j>
+<e type="trans" ver="1">The display which was used when Kotari Station commenced operation is now being set at 2-chome Kotari, Nagaoka City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The display, which was used when Kotari Station commenced operations, is now being erected at 2-chome Kotari, Nagaoka City.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The display, which was used when Kotari Station commenced operations, is now being erected at 2-chome Kotari, Nagaoka City.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="42">
+<j>現在の駅舎前に車掌車国鉄ヨ8000形貨車が静態保存、かつて使われていた新幹線0系電車と国鉄D51形蒸気機関車の車輪が展示保存されている。</j>
+<e type="trans" ver="1">In front of the current station building, a JNR Freight Car Type Yo 8000 is being preserved as it was and the wheels of JR SHINKANSEN Super Express Series 0 and JNR steam locomotive D51 class which were actually in use in the past are being preserved and put on display.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In front of the current station building, a JNR Type Yo 8000 freight car is being preserved as it was, and the wheels of JR SHINKANSEN Super Express Series 0 and JNR steam locomotive D51 class (which were actually in use in the past) are preserved for display.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">In front of the current station building, a JNR Type Yo 8000 freight car is being preserved as it was, and the wheels of JR SHINKANSEN Super Express Series 0 and JNR steam locomotive D51 class (which were in fact in use in the past) are preserved for display.</e>
+<cmt>&quot;actually&quot;→&quot;in fact&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="43">
+<j>島田紳助の特技に「東海道本線東京～神戸間全駅を空で言う」といったものがあるが、当人は旧駅名の「神足」と言う。</j>
+<e type="trans" ver="1">Shinsuke SHIMADA is known for his specialty of reciting all station names between Tokyo and Kobe from memory, but he calls this station by its old name &quot;Kotari&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinsuke SHIMADA is known for his specialty of reciting all the station names between Tokyo and Kobe from memory, but he refers to this station by its old name, &quot;Kotari.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Shinsuke SHIMADA is known for his specialty of reciting all the station names between Tokyo and Kobe from memory, but he refers to this station by its old name, &apos;Kotari.&apos;</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Adjoining stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjoining stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="44">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Railway Company</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>(JR West) 追加しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="45">
+<j>■JR京都線（東海道本線）</j>
+<e type="trans" ver="1">JR Kyoto Line (Tokaido Main Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR Kyoto Line (Tokaido Main Line)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR Kyoto Line (Tokaido Main Line)</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="46">
+<j>■新快速</j>
+<e type="trans" ver="1">Special Rapid trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Special rapid trains</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Special Rapid</e>
+<cmt>統一しました。■を削除しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="47">
+<j>通過</j>
+<e type="trans" ver="1">They pass through this station</e>
+<cmt></cmt>
+<e type="trans" ver="2">They pass through this station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">They pass through this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="48">
+<j>■快速（京都～明石駅間快速、朝・夜のみ運転）</j>
+<e type="trans" ver="1">Rapid trains (Rapid service between Kyoto and Akashi, run only in the morning and nighttime)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid trains (rapid service between Kyoto and Akashi, running in the morning and at night)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Rapid (rapid service between Kyoto and Akashi, running in the morning and at night)</e>
+<cmt>統一しました。■を削除しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="49">
+<j>京都駅 - 長岡京駅 - 高槻駅</j>
+<e type="trans" ver="1">Kyoto Station - Nagaokakyo Station - Takatsuki Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Station - Nagaokakyo Station - Takatsuki Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Station - Nagaokakyo Station - Takatsuki Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="50">
+<j>■普通（高槻～明石間で快速となる列車含む）</j>
+<e type="trans" ver="1">Local trains (including trains which become Rapid trains between Takatsuki and Akashi)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local trains (including those that become rapid trains between Takatsuki and Akashi)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Local (including those that become rapid trains between Takatsuki and Akashi)</e>
+<cmt>統一しました。■を削除しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="51">
+<j>向日町駅 - 長岡京駅 - 山崎駅 (京都府)</j>
+<e type="trans" ver="1">Mukomachi Station - Nagaokakyo Station - Yamazaki Station (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mukomachi Station - Nagaokakyo Station - Yamazaki Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mukomachi Station - Nagaokakyo Station - Yamazaki Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), 城山(id:104901), V-TWIN POWER(id:49244), Hikichimin Jr.(id:147077), S.S.Exp.Hashimoto(id:4001), Lupinoid(id:68), Yen80(id:6146), ２２３系８０００番台(id:82336), Wikipedianet(id:9608), Tigers boy(id:15761), エアスマップIRE(id:13873), Tokyo(id:8987), 継之助(id:39352), ひらりんげんぞう(id:28783), Goki(id:7107), 鍛高譚(id:154933), TERMINAL(id:107022), Kone(id:377), C775(id:192955), Alljal(id:46858), Hirotaro(id:1437), Apidr(id:155448), Vivo(id:24436), Kumoha590(id:47430), Sushiya(id:110938), Washisama(id:9333), るなあるてみす(id:168261), Aphaia(id:3132), Memeja(id:110500), Bukang-liwayway(id:89706), Rusk(id:9895), R28Bot(id:177951), Hidama(id:73276), Tetumusi(id:19527), 210.(id:9838), Elthy(id:5957), Ariesmarine(id:70919), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

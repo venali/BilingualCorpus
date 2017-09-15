@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>玉水駅</j>
+<e type="trans" ver="1">Tamamizu Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tamamizu Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tamamizu Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>玉水駅（たまみずえき）は、京都府綴喜郡井手町にある、西日本旅客鉄道（JR西日本）奈良線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Ide-cho, Tsuzuki-gun of Kyoto Prefecture, Tamamizu Station is a stop on the Nara Line, a West Japan Railway Company (JR-West) Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tamamizu Station, located in Ide-cho, Tsuzuki-gun of Kyoto Prefecture, is a stop on the Nara Line, a West Japan Railway Company (JR-West) Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tamamizu Station, located in Ide-cho, Tsuzuki-gun of Kyoto Prefecture, is a stop on the Nara Line of the West Japan Railway Company (JR West).</e>
+<cmt>表現統一</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station layout</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>プラットホーム形状と配置2面2線を有する行違い可能な地上駅。</j>
+<e type="trans" ver="1">It is an above ground station with two platforms and double tracks at which trains can pass each other or pass others.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an above-ground station with two platforms and double tracks at which trains can pass each other or pass others.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It is an above-ground station with two platforms and double tracks at which trains can pass each other or pass others.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>駅本屋側が1番ホーム、跨線橋を渡った反対側のホームが2番ホームである。</j>
+<e type="trans" ver="1">Platform nearer the station building is Track #1 platform and the one opposite crossing a passengers&apos; overpass is Track #2 platform.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The platform nearer the station building is the track No. 1 platform, and the one opposite crossing a passengers&apos; overpass is the track No. 2 platform.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The platform nearer the station building is Platform 1, and the one opposite crossing a passengers&apos; overpass is Platform 2.</e>
+<cmt>「No.番ホーム」の表記を統一</cmt>
+</sen>
+<sen id="5">
+<j>上り線にあたる1番線が一線スルーのため、2番線は当駅で行違いを行う下り列車のみ入線する（2006年度のダイヤでの下り列車は、1番線発着と2番線発着が半々。</j>
+<e type="trans" ver="1">As the inbound track or Track #1 is the thoroughfare, only outbound trains which pass each other or pass others at this station come in on Track #2 (the number of outbound trains departing from/arriving at Track #1 and Track #2 per fiscal 2006 timetable was the same.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the inbound track (track No. 1) is the thoroughfare, only outbound trains that pass each other or pass others at this station come in on track No. 2 (the number of outbound trains departing from/arriving at track nos. 1 and 2 per fiscal year 2006 timetable was the same).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Because the inbound platform (Platform 1) is the thoroughfare, only outbound trains that pass each other or pass others at this station come in on Platform 2 (the number of outbound trains departing from/arriving at Platform 1 and 2 per fiscal year 2006 timetable was the same).</e>
+<cmt>「No.番線」の表記を統一</cmt>
+</sen>
+<sen id="6">
+<j>なお当駅は全列車停車のため、原則として上り列車が2番線に入ることはない）。</j>
+<e type="trans" ver="1">Furthermore, as all trains stop at this station, inbound trains, in principle, do not come in on Track #2.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, as all trains stop at this station, inbound trains, in principle, do not come in on track No. 2.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">(Moreover, because all trains stop at this station, inbound trains, in principle, don&apos;t come in on Platform 2.)</e>
+<cmt>「No.番線」の表記を統一</cmt>
+</sen>
+<sen id="7">
+<j>駅業務はジェイアール西日本交通サービスへ委託されており、マルス (システム)端末の設備はない。</j>
+<e type="trans" ver="1">Operations of the station are commissioned to JR West Japan Transportation Service Co., Ltd. but a Multi Access seat Reservation System (MARS) terminal is not installed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The operations of the station are commissioned to JR West Japan Transportation Service Co., Ltd., but a Multi Access seat Reservation System (MARS) terminal is not installed.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The operations of the station are commissioned to JR West Japan Transportation Service Co., Ltd., but a Multi Access seat Reservation System (MARS) terminal is not installed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>自動改札機は簡易式。</j>
+<e type="trans" ver="1">Automated ticket gates are of simplified type.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Automated ticket gates are of the simplified type.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Automated ticket gates are of the simplified type.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>ICOCA・Jスルー利用可能駅であり、ICOCAの相互利用対象であるPiTaPa（スルッとKANSAI協議会）も利用可能。</j>
+<e type="trans" ver="1">Both ICOCA and J Through Cards can be used as well as PiTaPa (Surutto Kansai Association) Cards which are subject ｔｏ mutual use with ICOCA Cards.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Both the ICOCA and J Through cards can be used as well as the PiTaPa (Surutto Kansai Association) cards, which are subject ｔｏ combined use with ICOCA cards.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Both the ICOCA and J-Thru cards can be used as well as the PiTaPa (Surutto KANSAI Association) cards, which are subject ｔｏ mutual use with ICOCA cards.</e>
+<cmt>J-Thru, KANSAIとしました。</cmt>
+</sen>
+<sen id="10">
+<j>但しJスルーカードについては、簡易改札機による対応のため複数枚の処理不可。</j>
+<e type="trans" ver="1">However, as ticket gates are of simplified type, more than one J Through Card cannot be processed.</e>
+<cmt>この記述は事実に反していますことを確認しました。</cmt>
+<e type="trans" ver="2">However, as ticket gates are of the simplified type, more than one J Through Card cannot be processed.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">However, the ticket gates are of the simplified type and can&apos;t process more than one J-Thru Card.</e>
+<cmt>J-Thru</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="11">
+<j>駅構内には、日本国有鉄道の鉄道の電化9000km達成記念碑（1984年建立）が立てられている。</j>
+<e type="trans" ver="1">A monument (erected in 1984) commemorating Japanese National Railways electrifying 9,000km of its railway system stands within station premises.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A monument (erected in 1984) commemorating Japanese National Railways electrifying 9,000km of its railway system stands within the station premises.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">A monument (erected in 1984) commemorating Japan National Railways electrifying 9,000 km of its railway system stands within the station premises.</e>
+<cmt>Japanとしました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization status</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usage status</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Usage status</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>2006年度の1日あたりの乗車人員は約1,101人である。</j>
+<e type="trans" ver="1">The nunber of passengers getting on at this station was approximately 1,101 per day in fiscal 2006.</e>
+<cmt>&quot;約&quot;は&quot;平均&quot;でないとつじつまが合わないと思います。</cmt>
+<e type="trans" ver="2">The number of passengers getting on at this station was approximately 1,101 per day in fiscal 2006.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The number of passengers boarding at this station came to approximately 1,101 per day in fiscal year 2006.</e>
+<cmt>表現統一</cmt>
+</sen>
+<sen id="14">
+<j>（京都府統計書より）</j>
+<e type="trans" ver="1">(Source: Kyoto Prefecture Statistical Report)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Source: Kyoto Prefecture Statistical Report)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(Source: Kyoto Prefecture Statistical Report)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="15">
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station surroundings</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>井手町役場</j>
+<e type="trans" ver="1">Ide Town Hall</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ide Town Hall</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ide Town Hall</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>井手町立井手小学校</j>
+<e type="trans" ver="1">Ide Municipal Ide Elementary School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ide Municipal Ide Elementary School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ide Municipal Ide Elementary School</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>井手町立泉ヶ丘中学校</j>
+<e type="trans" ver="1">Ide Municipal Izumigaoka Junior High School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ide Municipal Izumigaoka Junior High School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ide Municipal Izumigaoka Junior High School</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>井手郵便局</j>
+<e type="trans" ver="1">Ide Post Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ide Post Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ide Post Office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>玉川</j>
+<e type="trans" ver="1">Tama-gawa River</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tama-gawa River</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tama-gawa River</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="21">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>1896年（明治29年）1月25日 - 奈良鉄道 桃山駅～玉水間延伸時に、その終着駅として開業。</j>
+<e type="trans" ver="1">Inaugurated on Jan. 25, 1896 as the terminal station of the Nara Line when extended from Momoyama Ｓｔａｔｉｏｎ to this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was inaugurated on Jan. 25, 1896 as the terminal station of the Nara Line when it was extended from Momoyama Ｓｔａｔｉｏｎ to this station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">January 25, 1896: The station was inaugurated as the terminal station of the Nara Line when it was extended from Momoyama Station to this station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="23">
+<j>1896年（明治29年）3月13日 - 当駅から木津駅まで路線延伸。</j>
+<e type="trans" ver="1">Ｎａｒａ Ｌｉｎｅ ｆｕｒｔｈｅｒ extended from this station to Kizu Station on March 13, 1896.</e>
+<cmt>&quot;路線延伸&quot;の後に　&quot;工事完了&quot;または&quot;区間開通&quot;等がつかないと、1日でそうなったかの表現です。</cmt>
+<e type="trans" ver="2">The Ｎａｒａ Ｌｉｎｅ was ｆｕｒｔｈｅｒ extended from this station to Kizu Station on March 13, 1896.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">March 13, 1896: The Nara Line was further extended from this station to Kizu Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="24">
+<j>途中駅となる。</j>
+<e type="trans" ver="1">Became an intermediate station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It became an intermediate station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It became an intermediate station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="25">
+<j>1905年（明治38年）2月7日 - 合併により関西鉄道の駅となる。</j>
+<e type="trans" ver="1">Became a Kansei Railway Company station on Feb. 7, 1905 as a result of amalgamation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It became a Kansei Railway Company station on Feb. 7, 1905 as a result of amalgamation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">February 7, 1905: The station became a Kansai Railway Company station as a result of amalgamation.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="26">
+<j>1907年（明治40年）10月1日 - 関西鉄道が鉄道国有法。</j>
+<e type="trans" ver="1">Kansei Railway nationalized on Oct. 1, 1907 under the Railway Nationalization Act.</e>
+<cmt>国有化法ピリオド？</cmt>
+<e type="trans" ver="2">Kansei Railway was nationalized on Oct. 1, 1907 under the Railway Nationalization Act.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 1, 1907: Kansai Railway Company was nationalized under the Railway Nationalization Act.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="27">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により、JR西日本の駅となる。</j>
+<e type="trans" ver="1">Became a JR-West station on April 1, 1987 from split privatization of Japan National Railways.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It became a JR-West station on April 1, 1987 from the split privatization of Japan National Railways.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 1987: The station became a JR West station due to the split privatization of Japan National Railways.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="28">
+<j>2003年（平成15年）3月15日 - ダイヤ改正により、快速停車駅に格上げされる。</j>
+<e type="trans" ver="1">The station upgraded to a rapid train stopping station on March 15, 2003 pursuant to timetable revision.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station was upgraded to a rapid train stopping station on March 15, 2003 pursuant to the timetable revision.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">March 15, 2003: The station was upgraded to a rapid train stopping station pursuant to the timetable revision.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="29">
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Neighboring stations</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Railway Company (JR-West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR-West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>JR Westとしました。</cmt>
+</sen>
+<sen id="31">
+<j>■奈良線</j>
+<e type="trans" ver="1">■Nara Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Nara Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Nara Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="32">
+<j>■みやこ路快速・■快速</j>
+<e type="trans" ver="1">■Miyakoji rapid train・■Rapid service</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Miyakoji rapid train・■Rapid service</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Miyakoji Rapid Service/■Rapid Service</e>
+<cmt>表現統一・を/に変更しました。</cmt>
+</sen>
+<sen id="33">
+<j>城陽駅 - 玉水駅 - 木津駅 (京都府)</j>
+<e type="trans" ver="1">Joyo Station - Tamamizu Station - Kizu Station (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Joyo Station - Tamamizu Station - Kizu Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Joyo Station - Tamamizu Station - Kizu Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>■区間快速・■普通</j>
+<e type="trans" ver="1">Regional rapid ・■Local</e>
+<cmt></cmt>
+<e type="trans" ver="2">Regional rapid ・■Local</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Regional Rapid Service/■Local</e>
+<cmt>表現統一・を/に変更しました。</cmt>
+</sen>
+<sen id="35">
+<j>山城多賀駅 - 玉水駅 - 棚倉駅</j>
+<e type="trans" ver="1">Yamashiro-Taga Station - Tamamizu Station - Taｎakura Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yamashiro-Taga Station - Tamamizu Station - Taｎakura Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yamashiro-Taga Station - Tamamizu Station - Tanakura Station</e>
+<cmt>二バイト文字修正</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Los688(id:12316), Bakkai(id:7233), たね(id:10372), Hikichimin Jr.(id:147077), Yuta415(id:149253), FREEZA(id:68069), Cprobot(id:97843), UE-PON2600(id:18149), Kagoya(id:9458), KARS(id:43022), Utsuda(id:605), Rusk(id:9895), Sunen(id:10700), Voeod(id:86066), Kouchiumi(id:19253), R28Bot(id:177951), Kone(id:377), Hooa(id:167750), Hirotaro(id:1437), オナガドリ(id:15179), LERK(id:4460), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

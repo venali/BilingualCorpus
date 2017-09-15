@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>花散里</j>
+<e type="trans" ver="1">Hanachirusato</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hanachirusato</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hanachirusato</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>花散里（はなちるさと）は</j>
+<e type="trans" ver="1">Hanachirusato is</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hanachirusato is</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hanachirusato is</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>源氏物語の巻名のひとつ。</j>
+<e type="trans" ver="1">one of the chapter titles of Genji Monogatari (The tale of Genji).</e>
+<cmt>「巻」「帖」は「chapter」で統一いたします。</cmt>
+<e type="trans" ver="2">one of the chapter titles of Genji Monogatari (The tale of Genji).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">one of the chapter titles of Genji Monogatari (The tale of Genji).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>第11帖。</j>
+<e type="trans" ver="1">It is the Chapter 11.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is the 11th Chapter.</e>
+<cmt>11th chapter</cmt>
+<e type="check" ver="1">It is the 11th Chapter.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>作中最も短い巻である。</j>
+<e type="trans" ver="1">This is the shortest chapter in this novel.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is the shortest chapter in the novel.</e>
+<cmt>this-&gt;the</cmt>
+<e type="check" ver="1">This is the shortest chapter in the novel.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>巻名は光源氏の詠んだ歌「タチバナの香をなつかしみホトトギス花散る里をたづねてぞとふ」に因む。</j>
+<e type="trans" ver="1">The chapter name derived from the poem Hikarugenji composed, &apos;It catches the scent of memory, and favors The village where the orange blossoms fall.</e>
+<cmt>和歌の訳は、下記サイトのサイデンステッカーさんのものです。「ホトトギス」が出てこないのが気になりますが。http://www.genji.co.jp/uta/11uta.htm</cmt>
+<e type="trans" ver="2">The chapter name derived from the poem Hikarugenji composed, &apos;It catches the scent of memory, and favors The village where the orange blossoms fall.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The chapter name is derived from the poem Hikaru Genji composed, &quot;It catches the scent of memory, and favors the village where the orange blossoms fall.&quot;</e>
+<cmt>is を挿入しました。Hikarugenji→Hikaru Genji,クォーツを修正しました。スペース、大文字を修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>源氏物語に登場する架空の人物。</j>
+<e type="trans" ver="1">She is a fictional character who appears on the scenes of Genji Monogatari.</e>
+<cmt></cmt>
+<e type="trans" ver="2">She is a fictional character who appears in Genji Monogatari.</e>
+<cmt>deleted “on the scenes of”</cmt>
+<e type="check" ver="1">She is a fictional character who appears in Genji Monogatari.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>転じて香合せ、其扇流投扇興の銘定、などの伝統的芸事の得点名のひとつ。</j>
+<e type="trans" ver="1">It changed its meaning to one of the score names of such traditional performing arts as koawase (incense-smelling game) and kisenryu-tosenkyo no meitei (rating of the kisen style fan-tossing game).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It came to be one of the score names of such traditional performing arts as koawase (incense-smelling game) and kisenryu-tosenkyo no meitei (rating of the kisen style fan-tossing game).</e>
+<cmt>came to be</cmt>
+<e type="check" ver="1">It came to be one of the score names of such traditional performing arts as koawase (incense-smelling game) and kisenryu-tosenkyo no meitei (rating of the kisen style fan-tossing game).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>あらすじ</j>
+<e type="trans" ver="1">Story line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Story line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Story line</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>光源氏25歳夏の話。</j>
+<e type="trans" ver="1">It is a story in the summer when Hikarugenji was 25 years old.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is set in the summer when Hikarugenji was 25 years old.</e>
+<cmt>set</cmt>
+<e type="check" ver="1">It is set in the summer when Hikaru Genji was 25 years old.</e>
+<cmt>Hikarugenji→Hikaru Genji</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="9">
+<j>五月雨の頃、源氏は故桐壺帝の妃の一人麗景殿女御を訪ねる。</j>
+<e type="trans" ver="1">In the Samidare (early summer rain) season, Genji visited Reikeiden no nyogo (Lady Reikeiden), one of the Empresses of late Kiritubotei (Emperor Kiritsubo).</e>
+<cmt>原文が「源氏」となっている場合は、「Hikarugenji」とせずに、「Genji」としました。</cmt>
+<e type="trans" ver="2">In the early summer rainy season, Genji visited Reikeiden no nyogo (Lady Reikeiden), one of the Empresses of late Kiritsubotei (Emperor Kiritsubo).</e>
+<cmt>spelling, also shortened a little</cmt>
+<e type="check" ver="1">In the early summer rainy season, Genji visited Reikeiden no nyogo (Lady Reikeiden), one of the Empresses of the late Kiritsubotei (Emperor Kiritsubo).</e>
+<cmt>the を挿入しました。</cmt>
+</sen>
+<sen id="10">
+<j>妹の三の君（花散里）は源氏の恋人で、姉妹は院の没後源氏の庇護を頼りにひっそりと暮らしていた。</j>
+<e type="trans" ver="1">Her younger sister, San no kimi (Third daughter) (Hanachirusato) was a lover of Genji and the sisters lived in obscurity under the patronage of Genji after the Emperor&apos;s death.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Her younger sister, the third daughter Hanachirusato, was Genji&apos;s lover, and the sisters lived in obscurity under the Genji&apos;s patronage after the Emperor&apos;s death.</e>
+<cmt>of genji-&gt;genji&apos;s</cmt>
+<e type="check" ver="1">Her younger sister, the third daughter Hanachirusato, was Genji&apos;s lover, and the sisters lived in obscurity under the Genji&apos;s patronage after the Emperor&apos;s death.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>訪問の途中、かつて会った中川の女の元に歌を詠みかけるが、既に心変わりしてしまったのかやんわりと拒絶される。</j>
+<e type="trans" ver="1">Hikarugenji, on his way, wrote a poem to Nakagawa no onna (woman in Nakagawa) with whom he once met, but was gently rejected perhaps because she had already changed her mind.</e>
+<cmt>コメント「地域名から中川はにごる方にしました。」は、ファイル受領時に既に記入されており、訳者のコメントではありません。</cmt>
+<e type="trans" ver="2">Hikarugenji, on his way, wrote a poem to a woman of Nakagawa whom he once met, but who gently rejected him, perhaps because she had already changed her mind.</e>
+<cmt>changed to active voice</cmt>
+<e type="check" ver="1">Hikaru Genji, on his way, wrote a poem to a woman of Nakagawa whom he once met, but who gently rejected him, perhaps because she had already changed her mind.</e>
+<cmt>Hikarugenji→Hikaru Genji</cmt>
+</sen>
+<sen id="12">
+<j>女御の邸は橘の花が香り、昔を忍ばせるほととぎすの声に源氏は女御としみじみと昔話を語り合い、その後そっと三の君を訪れた。</j>
+<e type="trans" ver="1">At the Nyogo&apos;s residence filled with the aroma of tachibana (mandarin orange tree) flowers, Genji talked with Nyogo quietly about the past hearing the singing of little cuckoos which reminded him of the old days, and later secretly visited San no kimi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the Nyogo&apos;s residence filled with the aroma of tachibana (mandarin orange tree) flowers, Genji talked with Nyogo quietly about the singing of little cuckoos which reminded him of the old days, and later secretly visited San no kimi.</e>
+<cmt>deleted “the past”</cmt>
+<e type="check" ver="1">At the Nyogo&apos;s residence filled with the aroma of tachibana (mandarin orange tree) flowers, Genji talked with Nyogo quietly about the singing of little cuckoos which reminded him of the old days, and later secretly visited San no kimi.</e>
+<cmt>スペースの修正をしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>人物</j>
+<e type="trans" ver="1">Character</e>
+<cmt></cmt>
+<e type="trans" ver="2">Character</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Personal profile</e>
+<cmt>Character→Personal Profile と修正しました。</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>光源氏の妻の一人。</j>
+<e type="trans" ver="1">She was one of Hikarugenji&apos;s wives.</e>
+<cmt></cmt>
+<e type="trans" ver="2">She was one of Hikarugenji&apos;s wives.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">She was one of Hikaru Genji&apos;s wives.</e>
+<cmt>Hikarugenji→Hikaru Genji</cmt>
+</sen>
+<sen id="14">
+<j>「花散里」帖に初登場し、その呼称は巻名の由来ともなった上記の和歌による。</j>
+<e type="trans" ver="1">She made her first appearance in the Chapter of &apos;Hanachirusato&apos; and her name came from the above Waka poem which led to the chapter name.</e>
+<cmt></cmt>
+<e type="trans" ver="2">She made her first appearance in the Chapter of &apos;Hanachirusato&apos; and her name came from the aforementioned Waka poem, from which the chapter name was derived.</e>
+<cmt>above-&gt;aforementioned</cmt>
+<e type="check" ver="1">She made her first appearance in the Chapter of &quot;Hanachirusato&quot; and her name came from the aforementioned Waka poem, from which the chapter name was derived.</e>
+<cmt>クォーツを修正しました。</cmt>
+</sen>
+<sen id="15">
+<j>源氏の父桐壺帝の麗景殿女御を姉に持ち、源氏とは若い頃から関係があったと見られる。</j>
+<e type="trans" ver="1">She had Reikeiden no nyogo of Genji&apos;s father, Kiritubotei as her elder sister and seems to have been associated with Genji from her earlier years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Genji&apos;s father&apos;s Reikeiden no nyogo, Kiritsubotei was her elder sister and seems to have been associated with Genji from her earlier years.</e>
+<cmt>reworded to improve flow</cmt>
+<e type="check" ver="1">Genji&apos;s father&apos;s Reikeiden no nyogo, Kiritsubotei was her elder sister and seems to have been associated with Genji from her earlier years.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>容貌はそれほど美しくはないが温和な慎ましい性格で出自も高く、また裁縫・染物などにも堪能な女性。</j>
+<e type="trans" ver="1">She was not so goodlooking but had a gentle and modest nature with high origin and good at sewing/dyeing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">She was not so good looking but had a gentle and modest nature, was of high birth, and was good at sewing and dyeing.</e>
+<cmt>origin-&gt;birth</cmt>
+<e type="check" ver="1">She was not so good looking but had a gentle and modest nature, was of high birth, and was good at sewing and dyeing.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>源氏の妻の中では紫の上に次ぐ立場となる。</j>
+<e type="trans" ver="1">She came to have the highest position next to Murasaki no ue among Genji&apos;s wives.</e>
+<cmt></cmt>
+<e type="trans" ver="2">She came to have the next highest position after Murasaki no ue among Genji&apos;s wives.</e>
+<cmt>next after; also there were some excess spaces in here for some reason</cmt>
+<e type="check" ver="1">She came to have the next highest position after Murasaki no ue among Genji&apos;s wives.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="18">
+<j>始めは源氏の通い所の一人であったが、後新造の二条東院の西の対に迎えられ（「松風 (源氏物語)」）、六条院造営後は夏の町の主となって「夏の御方」「東の御方」とも呼ばれる（「少女 (源氏物語)」）。</j>
+<e type="trans" ver="1">At first, she was one of the lovers of Genji, but later received into the west annex of newly-built Nijyohigashi no in (&apos;Matsukaze(Genji Monogatari)&apos;), and after Rokujo in was built, became the lady of Natsu no machi (the rooms which is named the summer town) and also called Natsu no onkata (the lady living in the summer town) or Higashi no onkata (the lady living in the east area of Rokujo in)(&apos;Otome (Genji Monogatari)&apos;).</e>
+<cmt>コメント「（　）内は内容から作成しました。」は、ファイル受領時に既に記入されており、訳者のコメントではありません。「後新造の」は、「後に新造の」解釈して訳しました。 定訳の欄の「松風→Matukaze」「夏の町→Natu no machi」「夏の御方→Natu no onkata」は、それぞれ「Matsukaze」「Natsu no machi」「Natsu no onkata」に変更しました。</cmt>
+<e type="trans" ver="2">At first, she was one of Genji&apos;s lovers, but was later received into the west annex of the newly built Nijyohigashi no in (&apos;Matsukaze&apos;, Genji Monogatari), and after Rokujo in was built, became the lady of Natsu no machi (the rooms called &apos;summer town&apos;) and also was called Natsu no onkata (lady of summer town) or Higashi no onkata (lady of eastern Rokujo in, or &apos;Otome&apos; in Genji Monogatari).</e>
+<cmt>removed some nested parentheses</cmt>
+<e type="check" ver="1">At first, she was one of Genji&apos;s lovers, but was later received into the west annex of the newly built Nijohigashi no in (&quot;Matsukaze,&quot; Genji Monogatari), and after Rokujo in was built, became the lady of Natsu no machi (the rooms called &apos;summer town&apos;) and also was called &quot;Natsu no onkata&quot; (lady of summer town) or &quot;Higashi no onkata&quot; (lady of eastern Rokujo in, or &quot;Otome&quot; in Genji Monogatari).</e>
+<cmt>Nijyohigashi→Nijohigashi,クォーツを修正、挿入しました。</cmt>
+</sen>
+<sen id="19">
+<j>源氏とは早くから夫婦の営みは途絶えていたが、家庭的で信頼の置ける人柄を見込まれて夕霧 (源氏物語)と玉鬘 (源氏物語)の母代わりとなり、後には夕霧の子の一人を孫として引き取り愛育した。</j>
+<e type="trans" ver="1">Although the conjugal rites was discontinued between Genj and her early on, she won his confidence due to her home-oriented and trustworthy personality, and reared Yugiri (Genji Monogatari) and Tamakazura (Genji Monogatari) functioning as their mother, and later took in one of Yugiri&apos;s children and nurtured the child as her grandchild.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although her marital affairs with Genj ended early on, she won his confidence due to her home-oriented and trustworthy personality, and reared Yugiri (Genji Monogatari) and Tamakazura (Genji Monogatari) functioning as their mother, and later took in one of Yugiri&apos;s children and nurtured the child as her grandchild.</e>
+<cmt>rephrased the first part to make it clearer</cmt>
+<e type="check" ver="1">Although her marital affairs with Genj ended early on, she won his confidence due to her home-oriented and trustworthy personality, and reared Yugiri (Genji Monogatari) and Tamakazura (Genji Monogatari) functioning as their mother, and later took in one of Yugiri&apos;s children and nurtured the child as her grandchild.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>「幻 (源氏物語)」帖を最後に物語から退場、源氏の死後は二条東院を遺産として譲り受け、再びそちらに移った（「匂宮」）。</j>
+<e type="trans" ver="1">She exited from the story with the final appearance in &apos;Maboroshi (Genji Monogatari)&apos; chapter and after Genj&apos;s death, succeeded his Nijyohigashi no in and moved into it again (&apos;Nioumiya&apos;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">She exited from the story with the final appearance in the &apos;Maboroshi&apos; (Genji Monogatari) chapter, and after Genj&apos;s death, inherited his Nijohigashi no in and moved into it again (&apos;Nioumiya&apos;).</e>
+<cmt>articles; succeeded-&gt;inherited</cmt>
+<e type="check" ver="1">She exited from the story with the final appearance in the &quot;Maboroshi&quot; (Genji Monogatari) chapter, and after Genj&apos;s death, inherited his Nijohigashi no in and moved into it again (&quot;Nioumiya&quot;).</e>
+<cmt>クォーツを修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Camelia(id:112815), 釣ちごちゅが(id:22605), Masyu(id:31065), Rusk(id:9895), 十月之交(id:586), Rai koku(id:1661), Aphaia(id:3132), FlaBot(id:30804), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

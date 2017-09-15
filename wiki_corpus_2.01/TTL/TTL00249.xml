@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>郡司</j>
+<e type="trans" ver="1">Gunji</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gunji</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gunji</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>郡司（ぐんじ）とは、</j>
+<e type="trans" ver="1">Gunji (district manager) is:</e>
+<cmt>文章が途中で切れていますが、そのまま訳しました。</cmt>
+<e type="trans" ver="2">Gunji (district manager) was:</e>
+<cmt>is --&gt; was</cmt>
+<e type="check" ver="1">Gunji (district manager) was:</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>律令制下の地方行政官。</j>
+<e type="trans" ver="1">a local government official under the ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>文章が途中で切れていますが、そのまま訳しました。</cmt>
+<e type="trans" ver="2">a local government official under the ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A local government official under the ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>２つの意味があって、「日本における～」と同様に、大文字で始めました。</cmt>
+</sen>
+<sen id="3">
+<j>以下で述べる。</j>
+<e type="trans" ver="1">It is described below.</e>
+<cmt>意図がよくわかりませんでした。</cmt>
+<e type="trans" ver="2">It is described below.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is described below.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>日本における姓の一つ。</j>
+<e type="trans" ver="1">One of family names in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One of family names in Japan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">One of family names in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>郡司（ぐんじ）は、律令制下において、中央から派遣された国司の下で郡を治める地方官である。</j>
+<e type="trans" ver="1">Gunji is a local government official who ruled a Gun/Kori (a county) under Kokushi (an officer of a province) who was appointed from the central aristocracy under the ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gunji was a local government official who ruled a Gun/Kori (a county) under Kokushi (an officer of a province) who was appointed from the central aristocracy under the ritsuryo system.</e>
+<cmt>Gunji is --&gt; Gunji was</cmt>
+<e type="check" ver="1">Gunji was a local government official who ruled a Gun/Kori (a county) under Kokushi (an officer of a province) who was appointed from the central aristocracy under the ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>大化の改新により、日本でも本格的に律令制が導入され、地方制度も整えられるようになった。</j>
+<e type="trans" ver="1">Due to the Taika Reforms, the ritsuryo system was officially introduced in Japan, and the local system was also organized.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Due to the Taika Reforms, the ritsuryo system was officially introduced in Japan, and the local system was also organized.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Due to the Taika Reforms, the ritsuryo system was officially introduced in Japan, and the local system was also organized.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>大化5年（649年）頃、地方豪族である国造（くにのみやつこ）の「国」が廃止され、評が置かれた。</j>
+<e type="trans" ver="1">Around 649, the &apos;Kuni&apos; (an administrative unit) administrated by local Gozoku (powerful local clans), Kuninomiyatsuko (provincial governors), was abolished, and Kori/Ryo (local administrative organization) was implemented.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Around 649, the &apos;Kuni&apos; (an administrative unit) administrated by local Gozoku (powerful local clans), i.e., Kuninomiyatsuko (provincial governors), was abolished, and Kori/Ryo (local administrative organization) was implemented.</e>
+<cmt>i.e., を追記</cmt>
+<e type="check" ver="1">Around 649, the &apos;Kuni&apos; (an administrative unit) administrated by local Gozoku (powerful local clans), i.e., Kuninomiyatsuko (provincial governors), was abolished, and Kori/Hyo (local administrative organization) was implemented.</e>
+<cmt>Webで評のリンク先を調べると、「こおり、ひょう」となっているので、Ryo→Hyoにしました。</cmt>
+</sen>
+<sen id="8">
+<j>旧国造は、評造・評督などと呼ばれる地方官に任命された。</j>
+<e type="trans" ver="1">Old Kuninomiyatsuko were assigned to be Chihokan (local officials) called Kori no miyatsuko and Kori no kami (district chieftains).</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Old Kuninomiyatsuko were assigned to be Chihokan (local officials) called Kori no miyatsuko and Kori no kami (district chieftains).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Old Kuninomiyatsuko were assigned to be Chihokan (local officials) called Kori no miyatsuko and Kori no kami (district chieftains).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>（孝徳制評）</j>
+<e type="trans" ver="1">(A district or provincial administration that emerged in the realm of Great King Kotoku)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(A district or provincial administration that emerged in the realm of Great King Kotoku)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(A district or provincial administration that emerged in the realm of Great King Kotoku)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>やがて、701年（大宝 (日本)元年）に編纂された大宝律令により、評が廃止されて郡が置かれ、郡司として大領・少領・主政・主帳の四等官に整備される。</j>
+<e type="trans" ver="1">Later, due to Taiho Ritsuryo (Taiho Code) edited in 701, Kori/Ryo was abolished, and Gun (administrative district) was implemented and was administrated by Shitokan (four classifications of bureaucrats&apos; ranks) as Gunji: Dairyo (first-ranked Gunji), Shoryo (second-ranked Gunji), Shusei (third-ranked Gunji) and Shucho (fourth-ranked Gunji in charge of drafting and accepting documents).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Later, due to Taiho Ritsuryo (Taiho Code) edited in 701, Kori/Ryo was abolished, and Gun (administrative district) was implemented and was administrated by Shitokan (four classifications of bureaucrats&apos; ranks) as Gunji: Dairyo (first-ranked Gunji), Shoryo (second-ranked Gunji), Shusei (third-ranked Gunji) and Shucho (fourth-ranked Gunji in charge of drafting and accepting documents).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Later, due to Taiho Ritsuryo (Taiho Code) edited in 701, Kori/Ryo was abolished, and Gun (administrative district) was implemented and was administrated by Shitokan (four classifications of bureaucrats&apos; ranks) as Gunji: Dairyo (first-ranked Gunji), Shoryo (second-ranked Gunji), Shusei (third-ranked Gunji) and Shucho (fourth-ranked Gunji in charge of drafting and accepting documents).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>特に権限が強かった大領・少領のみを差して「郡領」とも言う。</j>
+<e type="trans" ver="1">Dairyo and Shoryo who especially had high authorities were also called, &apos;Gunryo&apos; (hereditary district magistrates).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dairyo and Shoryo who especially had high authorities were also called, &apos;Gunryo&apos; (hereditary district magistrates).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Dairyo and Shoryo who especially had high authorities were also called, &apos;Gunryo&apos; (hereditary district magistrates).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>中央の官人が任期制で派遣されていた国司と異なり、郡司は、旧国造などの地方豪族が世襲的に任命され、任期のない終身官であった。</j>
+<e type="trans" ver="1">Unlike Kokushi who was appointed from the central government officials with a fixed term, Gunji was appointed from local Gozoku including old Kuninomiyatsuko by heredity and was a lifelong official without a fixed term.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Unlike Kokushi who was appointed from the central government officials with a fixed term, Gunji was appointed from local Gozoku including old Kuninomiyatsuko by heredity and was a lifelong official without a fixed term.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Unlike Kokushi who was appointed from the central government officials with a fixed term, Gunji was appointed from local Gozoku including old Kuninomiyatsuko by heredity and was a lifelong official without a fixed term.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>更に養老律令の官位令には郡司が官位相当の対象とされておらず、更に公式令 (律令法)（52条）では郡司が職事官ではないことが明記されていた。</j>
+<e type="trans" ver="1">Moreover, according to the court ranking law of the Yoro ritsuryo code (code promulgated in the Yoro period), Gunji is not included in Kanisoto (the ranks of the bureaucracy of the ritsuryo system), and also it is clearly mentioned in Kushiki-ryo (the Ritsuryo law) (Article 52) that Gunji is not Shikijikan (a person with an official rank).</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Moreover, according to the court ranking law of the Yoro ritsuryo code (code promulgated in the Yoro period), Gunji is not included in Kanisoto (the ranks of the bureaucracy of the ritsuryo system), and also it is clearly mentioned in Kushiki-ryo (the Ritsuryo law) (Article 52) that Gunji is not Shikijikan (a person with an official rank).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Moreover, according to the court ranking law of the Yoro ritsuryo code (code promulgated in the Yoro period), Gunji is not included in Kanisoto (the ranks of the bureaucracy of the ritsuryo system), and also it is clearly mentioned in Kushiki-ryo (the Ritsuryo law) (Article 52) that Gunji is not Shikijikan (a person with an official rank).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>律令法に基づく制度でありながら実際には律令官制の体系には属さないという特殊な身分であった。</j>
+<e type="trans" ver="1">Gunji was a special position which was based on the Ritsuryo law but was not included in the government organization of the ritsuryo codes.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Gunji was a special position which was based on the Ritsuryo law but was not included in the government organization of the ritsuryo system.</e>
+<cmt>the ritsuryo codes --&gt; the ritsuryo system</cmt>
+<e type="check" ver="1">Gunji was a special position which was based on the Ritsuryo law but was not included in the government organization of the ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="15">
+<j>郡司は徴税権のみならず、保管、貢進、運用、班田の収受も任されるなど絶大な権限を有していた。</j>
+<e type="trans" ver="1">Gunji not only had the right to collect taxes, but also they had great responsibility and were in charge of: saving the taxes, paying taxes as tribute and using them, as well as controlling Handen Shuju (a regulation of land ownership).</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Gunji not only had the right to collect taxes, but also had great authority to be in charge of: saving the taxes, paying taxes as tribute and using them, as well as controlling Handen Shuju (a regulation of land ownership).</e>
+<cmt>表現の見直しをしました。</cmt>
+<e type="check" ver="1">Gunji not only had the right to collect taxes, but also had great authority to be in charge of: saving the taxes, paying taxes as tribute and using them, as well as controlling Handen Shuju (a regulation of land ownership).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>律令制初期の地方行政は朝廷から派遣されていた国司と在地首長としての権威を保持していた郡司との二重構造による統治が行われていた。</j>
+<e type="trans" ver="1">The local administration at the beginning of the ritsuryo system was a two-tired administration by Kokushi sent by the Imperial Court and by Gunji having authorities as a local chief.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">The local administration at the beginning of the ritsuryo system was a two-tiered administration by Kokushi sent by the Imperial Court and by Gunji having authorities as a local chief.</e>
+<cmt>a two-tired　--&gt; a two-tiered</cmt>
+<e type="check" ver="1">The local administration at the beginning of the ritsuryo system was a two-tiered administration by Kokushi sent by the Imperial Court and by Gunji having authorities as a local chief.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>しかし、朝廷は郡の分割や郷の編入などで郡の再編を進め、豪族の勢力圏と切り離した行政単位としての郡の整備を進める。</j>
+<e type="trans" ver="1">However, the Imperial Court started restructuring Gun by dividing them and introducing Go (village) in order to create Gun as administrative units detached from the influence of Gozoku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the Imperial Court started restructuring Gun by dividing them and introducing Go (village) in order to create Gun as administrative units detached from the influence of Gozoku.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, the Imperial Court started restructuring Gun by dividing them and introducing Go (village) in order to create Gun as administrative units detached from the influence of Gozoku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>また、郡内に複数の豪族が拠点を置く場合は、持ち回りで郡司に任命するなど、特定の豪族が郡司を独占しないように配慮した。</j>
+<e type="trans" ver="1">Moreover, when there were many Gozoku in a Gun, each Gozoku was assigned to be Gunji in turn so that one specific Gozoku would not monopolize the position of Gunji.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, when there were multiple Gozoku in a Gun, each Gozoku was assigned to be Gunji in turn so that one specific Gozoku would not monopolize the position of Gunji.</e>
+<cmt>many --&gt; multiple</cmt>
+<e type="check" ver="1">Moreover, when there were multiple Gozoku in a Gun, each Gozoku was assigned to be Gunji in turn so that one specific Gozoku would not monopolize the position of Gunji.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>律令制下の郡司</j>
+<e type="trans" ver="1">Gunji under the ritsuryo system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gunji under the ritsuryo system</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gunji under the ritsuryo system</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="19">
+<j>郡司の任免は式部省が管轄した。</j>
+<e type="trans" ver="1">Shikibu-sho (Ministry of Ceremonial) exercised jurisdiction over the appointment and dismissal of Gunji.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shikibu-sho (Ministry of Ceremonial) exercised jurisdiction over the appointment and dismissal of Gunji.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shikibu-sho (Ministry of Ceremonial) exercised jurisdiction over the appointment and dismissal of Gunji.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>国司が推薦する郡司候補者は式部省に直接赴き、試問を受けて任命された。</j>
+<e type="trans" ver="1">A Gunji candidate recommended by Kokushi had to visit Shikibu-sho to have an interview before being appointed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A Gunji candidate recommended by Kokushi had to visit Shikibu-sho to have an interview before being appointed.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A Gunji candidate recommended by Kokushi had to visit Shikibu-sho to have an interview before being appointed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>国司が推薦する者が必ずしも郡司に任命されるとは限らず、その地方の情勢で判断されることが多かった。</j>
+<e type="trans" ver="1">Not everyone recommended by Kokushi was assigned to be Gunji, and this decision was made depending on the situation of the area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Not everyone recommended by Kokushi was assigned to be Gunji, and this decision was made depending on the situation of the area.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Not everyone recommended by Kokushi was assigned to be Gunji, and this decision was made depending on the situation of the area.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>郡司任命に最も重要視されるのは令制上は個人の能力であったが、実際には譜第と呼ばれる候補者の氏・家の系譜経歴であった。</j>
+<e type="trans" ver="1">Although the most important factor in assigning Gunji, according to the ryo system, was the personal ability, it was actually the family record of clan and family of the candidate, called Fudai (hereditary) that was prioritized.</e>
+<cmt>「令制」は「律令制」のことかと思いましたが、そのまま「ryo system」と訳しました。</cmt>
+<e type="trans" ver="2">Although the most important factor in assigning Gunji, according to the ritsuryo system, was personal ability, it was the record and line of clan and family of the candidate, called Fudai (hereditary) that was actually prioritized.</e>
+<cmt>ryo system を ritsuryo system　に変更、その他表現の見直しをしました。</cmt>
+<e type="check" ver="1">Although the most important factor in assigning Gunji, according to the ritsuryo system, was personal ability, it was the record and line of clan and family of the candidate, called Fudai (hereditary) that was actually prioritized.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>また、正員の郡司が任命されるまでの間、臨時の郡司（擬任郡司）を国司は任命することができた。</j>
+<e type="trans" ver="1">Kokushi could assign a temporary Gunji (called Ginin Gunji [literally, a quasi-appointed district manager]) until an official Gunji was assigned.</e>
+<cmt>用語集では「擬任郡司」の訳が「extra district managers」となっていましたが、ここでは意味が合わない(次に出てくる「擬任郡司」のみを指す）ような気がしたので、ローマ字表記「Ginin Gunji （literally, a quasi-appointed district manager）」にしました。</cmt>
+<e type="trans" ver="2">Kokushi was able to assign a temporary Gunji (called Ginin Gunji [literally, a quasi-appointed district manager]) until an official Gunji was assigned.</e>
+<cmt>could --&gt; was able to</cmt>
+<e type="check" ver="1">Kokushi was able to assign a temporary Gunji (called Ginin Gunji [literally, a quasi-appointed district manager]) until an official Gunji was assigned.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>正員の郡司が決まると、擬任郡司は自然に失職したが、後に国によっては国司が郡司を臨時に増員する権限を与えられ、臨時増員の郡司も擬任郡司と呼ぶ。</j>
+<e type="trans" ver="1">When an official Gunji was appointed, Ginin Gunji naturally lost their position, but Kokushi in some Gunji were later given authority to increase the number of Gunji temporarily, and those temporary Gunji were also called Ginin Gunji.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When an official Gunji was appointed, Ginin Gunji naturally lost their position, but Kokushi in some provinces were later given authority to increase the number of Gunji temporarily, and those temporary Gunji were also called Ginin Gunji.</e>
+<cmt>Kokushi in some Gunji --&gt; Kokushi in some provinces</cmt>
+<e type="check" ver="1">When an official Gunji was appointed, Ginin Gunji naturally lost their position, but Kokushi in some provinces were later given authority to increase the number of Gunji temporarily, and those temporary Gunji were also called Ginin Gunji.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="25">
+<j>社会的側面としては、郡司は任地における伝統的権威とともに豊富な財力を有しており、貧農の救済など地方社会の秩序維持に”地方の有力豪族”として努めた。</j>
+<e type="trans" ver="1">Socially, Gunji had traditional authority as well as enormous financial power, and maintained the order of local societies by rescuing poor peasants as &quot;influential local Gozoku&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Socially, Gunji had traditional authority as well as enormous financial power, and maintained the order of local societies by relieving poor peasants as &quot;influential local Gozoku.&quot;</e>
+<cmt>rescuingをrelievingに変更、ピリオドを引用符の内側に収容しました。</cmt>
+<e type="check" ver="1">Socially, Gunji had traditional authority as well as enormous financial power, and maintained the order of local societies by relieving poor peasants as &quot;influential local Gozoku.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>政治的側面としては、”国司の下の地方官”としての意味合いが強く、立場上は国司よりも下であったが、徴税や軽い刑罰の執行など地方行政の実務を執り行っていたために、律令制の地方支配は、中央政府が郡司による地方社会の把握を媒介として成立していたと評価されている。</j>
+<e type="trans" ver="1">Politically, they were more like &quot;local officials under Kokushi&quot; and their position was lower than Kokushi, however, since they were practically in charge of local administration including the tax collection and the execution of the punishment of minor criminals, it is recognized that the central government maintained the local ruling through Gunji who kept track of the local societies.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Politically, they were more like &quot;local officials under Kokushi&quot; and their position was lower than Kokushi, however, since they were practically in charge of local administration including the tax collection and the execution of the punishment of minor criminals, it is recognized that the central government maintained the local ruling through Gunji who kept track of the local societies.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Politically, they were more like &quot;local officials under Kokushi&quot; and their position was lower than Kokushi, however, since they were practically in charge of local administration including the tax collection and the execution of the punishment of minor criminals, it is recognized that the central government maintained the local ruling through Gunji who kept track of the local societies.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="27">
+<j>郡司は郡衙と呼ばれる役所で政務を執ったが、しばしば郡司に任命された豪族の私的居館が郡衙として用いられた。</j>
+<e type="trans" ver="1">Gunji conducted government affairs at a public office called Gunga (provincial office), but sometimes a private residence of Gozoku who were assigned to be Gunji was used as Gunga.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gunji conducted government affairs at a public office called Gunga (provincial office), but sometimes a private residence of Gozoku who were assigned to be Gunji was used as Gunga.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gunji conducted government affairs at a public office called Gunga (provincial office), but sometimes a private residence of Gozoku who were assigned to be Gunji was used as Gunga.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>このような場合を特に郡家（ぐうけ・ぐんげ・こおげ）と呼ぶこともある。</j>
+<e type="trans" ver="1">Such Gunga is sometimes called Guke/Gunge/Kooge.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Such Gunga was sometimes called Guke/Gunge/Kooge.</e>
+<cmt>is --&gt; was</cmt>
+<e type="check" ver="1">Such Gunga was sometimes called Guke/Gunge/Kooge.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="29">
+<j>郡司は、職田（しきでん）を支給され、子弟を国学に進め、健児（こんでい）にするなど多くの特権を有した。</j>
+<e type="trans" ver="1">Gunji had a lot of privileges such as receiving Shikiden (office-rice fields), sending their children to Kokugaku (provincial schools) and allowing them to be Kondei (regular soldiers guarding Kokubu [ancient provincial offices] or Sekisho [checking station]).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gunji had a lot of privileges such as receiving Shikiden (office-rice fields), sending their children to Kokugaku (provincial schools) and allowing them to be Kondei (regular soldiers guarding Kokubu [ancient provincial offices] or Sekisho [checking station]).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gunji had a lot of privileges such as receiving Shikiden (office-rice fields), sending their children to Kokugaku (provincial schools) and allowing them to be Kondei (regular soldiers guarding Kokubu [ancient provincial offices] or Sekisho [checking station]).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>職田は大領が6町、少領が4町、主政、主張が2町と国司より多かったが、禄や食封は無かった。</j>
+<e type="trans" ver="1">Gunji received more Shikiden than Kokushi: Dairyo received 6-cho, Shoryo received 4-cho, Shusei and Shucho each received 2-cho (&quot;cho&quot; means measure in length of approximately 109 meters.), but they did not receive any stipend nor Jikifu (a vassal household allotted to courtier, shrines and temples).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gunji received more Shikiden than Kokushi: Dairyo received 6-cho, Shoryo received 4-cho, Shusei and Shucho each received 2-cho (&quot;cho&quot; means measure in length of approximately 109 meters.), but they did not receive any stipend nor Jikifu (a vassal household allotted to courtier, shrines and temples).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gunji received more Shikiden than Kokushi: Dairyo received 6-cho, Shoryo received 4-cho, Shusei and Shucho each received 2-cho (&quot;cho&quot; means measure in length of approximately 109 meters.), but they did not receive any stipend nor Jikifu (a vassal household allotted to courtier, shrines and temples).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>郡司の消滅</j>
+<e type="trans" ver="1">Elimination of Gunji</e>
+<cmt></cmt>
+<e type="trans" ver="2">Elimination of Gunji</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Elimination of Gunji</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="31">
+<j>律令制の行き詰まりから、9世紀中頃より、現実に即した行政改革が行われた。</j>
+<e type="trans" ver="1">Due to the stalemate of the ritsuryo system, a practical administrative reform was implemented around the middle of the 9th century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Due to the stalemate of the ritsuryo system, a practical administrative reform was implemented around the middle of the 9th century.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Due to the stalemate of the ritsuryo system, a practical administrative reform was implemented around the middle of the 9th century.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>地方でも、朝廷の税収確保のため、国司の権限を強化した。</j>
+<e type="trans" ver="1">Also, in the provinces, the authority of Kokushi was enforced in order for the Imperial Court to ensure the tax revenue.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, in the provinces, the authority of Kokushi was enforced in order for the Imperial Court to ensure the tax revenue.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also, in the provinces, the authority of Kokushi was enforced in order for the Imperial Court to ensure the tax revenue.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>これに伴い、郡司の権限は国司権限に吸収されていく。</j>
+<e type="trans" ver="1">Accordingly, the authority of Gunji was being absorbed by the authority of Kokushi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accordingly, the authority of Gunji was gradually absorbed by the authority of Kokushi.</e>
+<cmt>was being absorbed --&gt; was gradually absorbed</cmt>
+<e type="check" ver="1">Accordingly, the authority of Gunji was gradually absorbed by the authority of Kokushi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>各郡にあった正倉の管理も国司が行うようになり、徴税権のみならず、郡司の主要な収入源であった出挙の権限も奪われる。</j>
+<e type="trans" ver="1">Kokushi became in charge of Shoso (warehouse) in each Gun, and deprived Gunji of the right to collect taxes as well as the authority over the suiko (government loans, often seed rice, made to peasants in Japan from the 7th through 12th centuries) which was the Gunji&apos;s major source of income.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kokushi became in charge of Shoso (warehouse) in each Gun, and deprived Gunji of the right to collect taxes as well as the authority over the suiko (government loans, often seed rice, made to peasants in Japan from the 7th through 12th centuries) which had been the Gunji&apos;s major source of income.</e>
+<cmt>which was the Gunji&apos;s major source --&gt; which had been the Gunji&apos;s major source</cmt>
+<e type="check" ver="1">Kokushi became in charge of Shoso (warehouse) in each Gun, and deprived Gunji of the right to collect taxes as well as the authority over the suiko (government loans, often seed rice, made to peasants in Japan from the 7th through 12th centuries) which had been the Gunji&apos;s major source of income.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>そのため、郡司を努めてきた地方豪族は変質を迫られていった。</j>
+<e type="trans" ver="1">As a result, local Gozoku who had been serving as Gunji were required to change.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a result, local Gozoku who had been serving as Gunji were required to change.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As a result, local Gozoku who had been serving as Gunji were required to change.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>これに対し、国司の権限を分掌する幹部地方公務員とも言える在庁官人が急速に成長する。</j>
+<e type="trans" ver="1">On the other hand, Zaichokanjin (the local officials in Heian and Kamakura periods) or executive local government officials, who had the authority of Kokushi, became influential rapidly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the other hand, Zaichokanjin (the local officials in the Heian and Kamakura periods) or executive local government officials, who had the authority of Kokushi, became influential rapidly.</e>
+<cmt>in Heian and Kamakura periods --&gt; in the Heian and Kamakura periods</cmt>
+<e type="check" ver="1">On the other hand, Zaichokanjin (the local officials in the Heian and Kamakura periods) or executive local government officials, who had the authority of Kokushi, became influential rapidly.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>地方豪族の中には、郡司就任を忌避し、在庁官人として生き残る道を選ぶ者も少なくなかった。</j>
+<e type="trans" ver="1">Some local Gozoku avoided the position of Gunji, and chose to survive as Zaichokanjin instead.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some local Gozoku avoided the position of Gunji, and chose to survive as Zaichokanjin instead.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some local Gozoku avoided the position of Gunji, and chose to survive as Zaichokanjin instead.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>このような、郡司権限の縮小に伴い、郡衙・郡家も縮小・消滅していく。</j>
+<e type="trans" ver="1">Along with the reduction of Gunji authority, Gunga and Guke were diminished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Along with the reduction of Gunji authority, Gunga and Guke were diminished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Along with the reduction of Gunji authority, Gunga and Guke were diminished.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>さらに、全国規模で古代的郡・郷・荘園が解体・再編され、中世的な郡・郷・保・荘園が成立していく。</j>
+<e type="trans" ver="1">Moreover, the ancient-style Gun, Go and Shoen (manor in medieval Japan) were dissolved or reformed, and the medieval-style Gun, Go and Shoen were established.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, the ancient-style Gun, Go and Shoen (manor in medieval Japan) were dissolved or reformed, and the medieval-style Gun, Go and Shoen were established.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Moreover, the ancient-style Gun, Go and Shoen (manor in medieval Japan) were dissolved or reformed, and the medieval-style Gun, Go and Shoen were established.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>また、旧郡司豪族達は名田経営を行い、田堵へ変わっていった。</j>
+<e type="trans" ver="1">Also, Gozoku of Old Gunji started running Myoden (rice field lots in charge of a nominal holder), and became Tato (cultivators).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, Gozoku of Old Gunji started running Myoden (rice field lots in charge of a nominal holder), and became Tato (cultivators).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also, Gozoku of Old Gunji started running Myoden (rice field lots in charge of a nominal holder), and became Tato (cultivators).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>こうして地方官としての郡司は有名無実化していくが、中世に於いても、郡司を輩出した地方豪族の系統を引く武士が「郡司」を名乗っている例も散見できる他、一部の地区では職の体系の一つとして細々と生き残っていった。</j>
+<e type="trans" ver="1">Gunji as local officials became in name only, however, there appeared some cases that samurai inherited from Gozoku who had produced Gunji took &apos;Gunji&apos; as their name, and also in some area, Gunji survived meagerly as one of the Shiki system (stratified land ruling structure).</e>
+<cmt>「有名無実」は「figureheads」と迷いましたが、「in name only」と訳しました。「細々と」をうまく表現できず、「meagerly」を使用しました。</cmt>
+<e type="trans" ver="2">Gunji as local officials became in name only, however, there appeared some cases that samurai inherited from Gozoku who had produced Gunji took &apos;Gunji&apos; as their name, and also in some area, Gunji survived meagerly as one of the Shiki system (stratified land ruling structure).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gunji as local officials became in name only, however, there appeared some cases that samurai inherited from Gozoku who had produced Gunji took &apos;Gunji&apos; as their name, and also in some area, Gunji survived meagerly as one of the Shiki system (stratified land ruling structure).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Carkuni(id:79281), 水野白楓(id:22811), 怪蘇(id:45514), Aibot(id:104981), オレンジ(id:80474), BAKU(id:55205), Ons(id:21830), 幣原外交(id:97257), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>チキンライス</j>
+<e type="trans" ver="1">Chicken rice</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chicken Rice</e>
+<cmt>Punctuation.</cmt>
+<e type="check" ver="1">Chicken Rice</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>チキンライスとは、細切れの鶏肉を混ぜた飯をケチャップ味に炒めた、日本の炒め飯である。</j>
+<e type="trans" ver="1">Chicken rice is a stir-fried rice dish created in Japan, with thinly sliced chicken flavored with ketchup.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chicken rice is a stir-fried rice dish created in Japan, with thinly sliced chicken flavored with ketchup.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chicken rice is a stir-fried rice dish created in Japan, with thinly sliced chicken flavored with ketchup.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Outline</e>
+<cmt></cmt>
+<e type="trans" ver="2">Outline</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>OutlineをSummaryに変更しました。</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>この料理は日本発祥の洋食であるチキンライスと呼ばれる料理である。</j>
+<e type="trans" ver="1">A dish called chicken rice is a western style dish originated in Japan.</e>
+<cmt>一原文一訳文の例外対処。「日本発祥の洋食であるチキンライスと呼ばれる料理で」を一文で訳した為、「この料理は」という主語を補い、文章にしました。</cmt>
+<e type="trans" ver="2">Chicken rice is a western style dish which originated in Japan.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Chicken rice is a western style dish which originated in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>鶏肉、タマネギ、マッシュルーム、人参、グリーンピース、トウモロコシなどをみじん切り、あるいは小さな賽の目切りにして、米飯とともに炒めた料理である。</j>
+<e type="trans" ver="1">Ingredients, such as chicken, onions, mushrooms, carrots, green peas, corns, are finely chopped or diced and stir fried with rice.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">The main ingredients, such as chicken, onions, mushrooms, carrots, green peas, and corn, are finely chopped or diced and stir fried with rice.</e>
+<cmt>Changed for clarity, punctuation.</cmt>
+<e type="check" ver="1">The main ingredients, such as chicken, onions, mushrooms, carrots, green peas, and corn, are finely chopped or diced and stir-fried with rice.</e>
+<cmt>stir friedをstir-friedに変更しました。</cmt>
+</sen>
+<sen id="4">
+<j>油で炒めずにピラフのように炊き込む場合もある。</j>
+<e type="trans" ver="1">Some chicken rice is cooked like a pilaf, rather than being fried.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some versions of chicken rice are cooked like a pilaf rather than being fried.</e>
+<cmt>Changed for clarity, punctuation.</cmt>
+<e type="check" ver="1">Some versions of chicken rice are cooked like a pilaf rather than being fried.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>そのままを食べるだけでなく、溶き卵を薄く焼いたもので包み、オムライスにすることも多い。</j>
+<e type="trans" ver="1">Chicken rice is not only eaten as it is but in many cases it is also served as rice omlette, chicken rice wrapped with a thinly fried beaten egg.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chicken rice is not only eaten as it is, but in many cases it is also served as a rice omelette: chicken rice wrapped in thinly fried beaten eggs.</e>
+<cmt>Grammar, spelling, punctuation.</cmt>
+<e type="check" ver="1">Chicken rice is not only eaten as it is, but in many cases it is also served as a rice omelette: chicken rice wrapped in thinly fried beaten eggs.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>味付けにはほとんどの場合トマトケチャップが用いられる。</j>
+<e type="trans" ver="1">In most cases, it is flavored with ketchup.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In most cases, it is flavored with ketchup.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In most cases, it is flavored with ketchup.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>このため一部では、鶏肉とは関係なく単にケチャップで味付けされた炒め飯のことであると誤認されている。</j>
+<e type="trans" ver="1">Thus, sometimes it is misunderstood that a chicken rice refers to a stir fried rice flavored with ketchup, regardless of chicken.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">Thus, sometimes chicken rice is misunderstood to be stir fried rice flavored with ketchup, regardless of whether it contains chicken or not.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">Thus, sometimes chicken rice is misunderstood to be stir-fried rice flavored with ketchup, regardless of whether it contains chicken or not.</e>
+<cmt>stir friedをstir-friedに変更しました。</cmt>
+</sen>
+<sen id="8">
+<j>ハムやベーコンなどを具材としたケチャップライスのことをチキンライスと呼ぶ例も散見される。</j>
+<e type="trans" ver="1">Sometimes the dishes with hams or bacons are called chicken rice.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">Sometimes dishes containing ham or bacon are called chicken rice.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Sometimes dishes containing ham or bacon are called chicken rice.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>基本的な作り方はフライパンに油をひき、鶏肉を入れて色が変わるまで炒める。</j>
+<e type="trans" ver="1">Basically, first you apply oil in a frying pan, stir fry chickens until it gets brown, then add other ingredients.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">Basically, the method of cooking is to heat a little oil in a frying pan, stir fry the chicken until it gets brown, then add the other ingredients.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">Basically, the method of cooking is to heat a little oil in a frying pan, stir-fry the chicken until it gets brown, then add the other ingredients.</e>
+<cmt>stir fryをstir-fryに変更しました。</cmt>
+</sen>
+<sen id="10">
+<j>しばらくしたら炊いた米の飯を入れる。</j>
+<e type="trans" ver="1">After cooking them for a while, add the cooked rice.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">After cooking them for a while, add the cooked rice.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">After cooking them for a while, add the cooked rice.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>塩、コショウなどで味付けし、最後にケチャップを加えて炒めればできあがりである。</j>
+<e type="trans" ver="1">Season it with salt and pepper, before flavoring it with ketchup in the end, stir fry it and it is ready.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Season it with salt and pepper, before finally adding the ketchup and stir frying it until it is ready.</e>
+<cmt>Changed for clarity, grammar.</cmt>
+<e type="check" ver="1">Season it with salt and pepper, before finally adding the ketchup and stir-frying it until it is ready.</e>
+<cmt>stir fryingをstir-fryingに変更しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>名門洋食店として知られる、東京の資生堂パーラーのチキンライスはケチャップを使用しない。</j>
+<e type="trans" ver="1">At Shiseido Parlor in Tokyo, a western style restaurant known as a pedigree, ketchup is not used to flavor chicken rice.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">At Shiseido Parlor, a prestigious western style restaurant in Tokyo, ketchup is not used to flavor chicken rice.</e>
+<cmt>Word choice, grammar.</cmt>
+<e type="check" ver="1">At Shiseido Parlor, a prestigious western style restaurant in Tokyo, ketchup is not used to flavor chicken rice.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>鶏肉と玉葱、マッシュルームをトマトソースで煮込んだものを米飯と炒め合わせてつくる。</j>
+<e type="trans" ver="1">Instead, chicken, onions and mushrooms stewed in a tomato sauce are mixed and stir fried with rice.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">Instead, chicken, onions and mushrooms stewed in a tomato sauce are mixed and stir fried with the rice.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Instead, chicken, onions and mushrooms stewed in a tomato sauce are mixed and stir-fried with the rice.</e>
+<cmt>stir friedをstir-friedに変更しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="14">
+<j>チャーハンと同じく、お子様ランチに盛られることが多い。</j>
+<e type="trans" ver="1">Like chahan (Chinese-style fried rice), chicken rice is served on a kid&apos;s plate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Like chahan (Chinese-style fried rice), chicken rice is a staple of children&apos;s lunches served in restaurants.</e>
+<cmt>Rewritten.</cmt>
+<e type="check" ver="1">Like chahan (Chinese-style fried rice), chicken rice is a staple of children&apos;s lunches served in restaurants.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>最も典型的なイメージの一つとして、山形に盛られたチキンライスの上に小さな飾りの旗を立てる、という盛りつけがある。</j>
+<e type="trans" ver="1">Typically, chicken rice is served in a shape of a mountain with a small flag as a decoration on top.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Typically, chicken rice is served in the shape of a mountain with a small flag as a decoration on top.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Typically, chicken rice is served in the shape of a mountain with a small flag as a decoration on top.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>チキンライスと呼ばれる日本以外の料理</j>
+<e type="trans" ver="1">Chicken rice outside Japan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chicken rice outside Japan</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chicken rice outside Japan</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="16">
+<j>海南鶏飯 - シンガポールの名物料理。</j>
+<e type="trans" ver="1">Hainanese chicken rice--Speciality in Singapore</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hainanese chicken rice is a speciality in Singapore.</e>
+<cmt>Grammar, punctuation.</cmt>
+<e type="check" ver="1">Hainanese chicken rice is a specialty in Singapore.</e>
+<cmt>specialityをspecialtyに変更しました。</cmt>
+</sen>
+<sen id="17">
+<j>日本では海南チキンライスとも呼ばれる。</j>
+<e type="trans" ver="1">It is referred to as Hainanese chicken rice in Japan.</e>
+<cmt>英語にすると両方とも&quot;Hainanese chicken rice&quot;なので、この文章は不要ではないかと思われます。</cmt>
+<e type="trans" ver="2">It is referred to as Hainanese chicken rice in Japan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is referred to as Hainanese chicken rice in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="18">
+<j>アロス・コン・ポヨ（enArroz con pollo） - 中南米の料理のチキンライスとして紹介される料理。</j>
+<e type="trans" ver="1">Arroz con pollo--Dish popular in the South and Central America, known as chicken rice.</e>
+<cmt>スペイン語表記中&quot;arroz&quot;の前の&quot;en&quot;は不要です。</cmt>
+<e type="trans" ver="2">Arroz con pollo is a dish popular in South and Central America, and is also known as chicken rice.</e>
+<cmt>Grammar, punctuation.</cmt>
+<e type="check" ver="1">Arroz con pollo is a dish popular in South and Central America, and is also known as chicken rice.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Takoradee(id:82103), Kaznyan(id:25268), こたつ狼(id:27622), マクガイア(id:33346), Hhaithait(id:37092), Cprobot(id:97843), Roger(id:9883), Clarin(id:60278), 音羽ゆきち(id:123834), 逆Ｌの男(id:8978), 死郎(id:1683), Goch(id:17164), Carkuni(id:79281), Rusk(id:9895), Opponent(id:720), 竃馬(id:102733), 月下美人(id:116398), Mochi(id:9489), Rislimric(id:54531), R28Bot(id:177951), Hyolee2(id:16439), Point136(id:211299), Nekosuki600(id:21263), 扇風機のせんちゃん(id:161810), Sjw(id:18831), Yas(id:739), Filler(id:21172), NDR(id:5500), 1masuda(id:140726), Nipisiquit(id:62077), Yukarin(id:42276), 特急東海(id:1014), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

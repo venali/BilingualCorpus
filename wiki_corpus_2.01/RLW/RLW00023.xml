@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>草津線</j>
+<e type="trans" ver="1">Kusatsu Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kusatsu Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kusatsu Line</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>草津線（くさつせん）は、三重県伊賀市の柘植駅から滋賀県草津市の草津駅 (滋賀県)に至る西日本旅客鉄道（JR西日本）の鉄道路線（幹線）である。</j>
+<e type="trans" ver="1">The Kusatsu Line is a railway track (arterial line) of the West Japan Railway Company (JR West) between Tsuge Station in Iga City, Mie Prefecture, and Kusatsu Station (Shiga Prefecture) in Kusatsu City, Shiga Prefecture.</e>
+<cmt>JR西日本HP (http://www.westjr.co.jp/)</cmt>
+<e type="trans" ver="2">The Kusatsu Line is a railway track (arterial line) of the West Japan Railway Company (JR West) between Tsuge Station in Iga City, Mie Prefecture, and Kusatsu Station (Shiga Prefecture) in Kusatsu City, Shiga Prefecture.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Kusatsu Line is a railway line (arterial line) of the West Japan Railway Company (JR West) that runs between Tsuge Station in Iga City, Mie Prefecture, and Kusatsu Station (Shiga Prefecture) in Kusatsu City, Shiga Prefecture.</e>
+<cmt>railway lineとしました。</cmt>
+</sen>
+<sen id="2">
+<j>全線が大都市近郊区間に含まれる。</j>
+<e type="trans" ver="1">The entire line is included in the section of the metropolitan area and its suburbs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The entire line is included in the section of the metropolitan area and its suburbs.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The entire line is included in the section of the metropolitan area and its suburbs.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>路線データ</j>
+<e type="trans" ver="1">Track data</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track data</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Railway data</e>
+<cmt>既出記事と統一</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>管轄（事業種別）：西日本旅客鉄道（鉄道事業者）</j>
+<e type="trans" ver="1">Administration (type of business): West Japan Railway Company (Railway Business Operator)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Administration (type of business): West Japan Railway Company (railway business operator)</e>
+<cmt>Capital</cmt>
+<e type="check" ver="1">Administration (type of business): West Japan Railway Company (railway business operator)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>路線距離（営業キロ）：36.7km</j>
+<e type="trans" ver="1">Track length (operating kilometers): 36.7 km</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track length (operating kilometers): 36.7 km</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Railway distance (operation kilometers): 36.7 km</e>
+<cmt>既出記事と統一</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>軌間：1067mm</j>
+<e type="trans" ver="1">Track gauge: 1067 mm</e>
+<cmt>英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">Track gauge: 1067 mm</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Track gauge: 1067 mm</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="6">
+<j>駅数：11駅（起終点駅含む）</j>
+<e type="trans" ver="1">Number of stations: 11 (including the stations at both ends of the track section)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Number of stations: 11 (including the stations at both ends of the track section)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Number of stations: 11 (including the stations at both ends of the track section)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="7">
+<j>複線区間：なし（全線単線）</j>
+<e type="trans" ver="1">Double-track section: None (The entire line is a single track.)</e>
+<cmt>英辞郎 on the WEB、プログレッシブ和英中辞典</cmt>
+<e type="trans" ver="2">Double-track section: none (the entire line is a single track)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Double-track section: none (the entire line is a single track)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="8">
+<j>閉塞 (鉄道)：自動閉塞式（特殊）</j>
+<e type="trans" ver="1">Block (railway): automatic block system (special)</e>
+<cmt>英辞郎 on the WEB、およびhttp://www.wdic.org/d/RAIL/FAC/BLK</cmt>
+<e type="trans" ver="2">Block (railway): automatic block system (special)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Block (railway) system: automatic block system (special)</e>
+<cmt>既出記事と統一</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="9">
+<j>電化区間：全線電化（直流1500V）</j>
+<e type="trans" ver="1">Electrified section: The entire line is electrified (DC 1500V).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Electrified section: entire line electrified (DC 1500V)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Electrified section: entire line electrified (DC 1500V)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="10">
+<j>最高速度：95km/h</j>
+<e type="trans" ver="1">Maximum speed: 95 km/h</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maximum speed: 95 km/h</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maximum speed: 95 km/h</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="11">
+<j>運転指令所：亀山指令所</j>
+<e type="trans" ver="1">Operation direction center: Kameyama direction center</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operation direction center: Kameyama direction center</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Operation direction center: Kameyama direction center</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="12">
+<j>※柘植駅を除き西日本旅客鉄道京都支社の管轄。</j>
+<e type="trans" ver="1">※The Kyoto branch of the West Japan Railway Company manages all the stations except for Tsuge Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">※The Kyoto branch of the West Japan Railway Company manages all the stations except for Tsuge Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">※The Kyoto branch of the West Japan Railway Company manages all the stations except for Tsuge Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>柘植駅のみ同西日本旅客鉄道大阪支社亀山鉄道部が管理。</j>
+<e type="trans" ver="1">Only the Tsuge Station is managed by the Railway Department of Kameyama, Osaka branch of the West Japan Railway Company.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Only the Tsuge Station is managed by the Railway Department of Kameyama, Osaka branch of the West Japan Railway Company.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Only the Tsuge Station is managed by the Railway Department of Kameyama, Osaka branch of the West Japan Railway Company.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="14">
+<j>主に、杣川（そまがわ）、野洲川沿いの忍者の里甲賀市を走る。</j>
+<e type="trans" ver="1">The Kusatsu Line mainly runs along Soma-gawa River and Yasu-gawa River in Koka City, which is known for ninja.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kusatsu Line mainly runs along the Soma-gawa River and Yasu-gawa River in Koka City, which is historically known for its ninja.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kusatsu Line mainly runs along the Soma-gawa River and Yasu-gawa River in Koka City, which is historically known for its ninja.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>沿線の町は、旧宿場街や農村を形成し、田畑を中心に広がっている。</j>
+<e type="trans" ver="1">The towns along the Kusatsu Line form old post towns and agricultural areas, consisting mainly of fields.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The towns along the Kusatsu Line are old post towns and agricultural areas consisting mainly of fields.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The towns along the Kusatsu Line are old post towns and agricultural areas consisting mainly of fields.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>比較的平地を走るが、三雲～貴生川間では山と川の狭間の林を縫って旧杣街道と併走する（実際、全線が杣街道の道筋に沿って走っている）。</j>
+<e type="trans" ver="1">Running on the flatlands mostly, the Kusatsu Line between Mikumo Station and Kibugawa Station runs through mountains and narrow woods along the river, parallel to the Old Soma Highway (旧杣街道) (in fact, the entire line runs along the Soma Highway).</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">Running mostly on the flatlands, the Kusatsu Line between Mikumo Station and Kibugawa Station runs through mountains and narrow woods along the river, parallel to the Old Soma Highway (旧杣街道) (in fact, the entire line runs along the Soma Highway).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Running mostly on the flatlands, the Kusatsu Line between Mikumo Station and Kibugawa Station runs through mountains and narrow woods along the river, parallel to the Old Soma Highway (旧杣街道) (in fact, the entire line runs along the Soma Highway).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>甲賀～柘植間も森林地帯を貫いている。</j>
+<e type="trans" ver="1">The Kusatsu Line between Koka Station and Tsuge Station also runs through the woodland.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kusatsu Line between Koka Station and Tsuge Station also runs through woodlands.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The Kusatsu Line between Koka Station and Tsuge Station also runs through woodlands.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>一部区間を除き線路状態もよく、電化されているので表定速度は速い。</j>
+<e type="trans" ver="1">The scheduled speed is fast because the track is well-conditioned and electrified except for part of the section.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The scheduled speed is fast because the track is well conditioned and electrified (except for part of the section).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The scheduled speed is fast because the track is well conditioned and electrified (except for part of the section).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>また、草津から名古屋までの距離は、米原経由より草津線から四日市を経由する方が短い。</j>
+<e type="trans" ver="1">As to the distance from Kusatsu Station to Nagoya Station, it is shorter to go through Yokkaichi Station from the Kusatsu Line than through Maibara Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As to the distance from Kusatsu Station to Nagoya Station, it is shorter to go through Yokkaichi Station from the Kusatsu Line than through Maibara Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As to the distance from Kusatsu Station to Nagoya Station, it is shorter to go through Yokkaichi Station from the Kusatsu Line than through Maibara Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>しかし、後述の通り現在は直通列車はなく、時間的には乗り換えなどで所要時間は長くなる。</j>
+<e type="trans" ver="1">However, as described later, now there is no through train to Nagoya Station, and thus it takes longer due to a transfer etc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, as described later, today there is no through-train to Nagoya Station, so it takes longer due to a transfer, etc.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">However, as described later, today there is no through-train to Nagoya Station, so it takes longer due to a transfer, etc.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="21">
+<j>甲西・寺庄・油日以外の各駅で列車交換ができる。</j>
+<e type="trans" ver="1">Trains can pass by at the stations except for Kosei, Terasho, and Aburahi Stations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Trains can pass by at the stations except for the Kosei, Terasho and Aburahi stations.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Trains can pass by at the stations except for the Kosei, Terasho and Aburahi stations.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="22">
+<j>貴生川～草津間の各駅ではJスルー・ICOCA、及び東日本旅客鉄道（JR東日本）のSuica、東海旅客鉄道（JR東海）のTOICA、またスルッとKANSAIのPiTaPaが使用できる。</j>
+<e type="trans" ver="1">J-THRU/ICOCA, Suica of the East Japan Railway Company (JR East) and TOICA of the Central Japan Railway Company (JR Central), as well as, PiTaPa of KANSAI THRU PASS can be used at all stations between Kibugawa and Kusatsu.</e>
+<cmt>JR東日本HP (http://www.jreast.co.jp/) JR東海HP (http://jr-central.co.jp/) http://www.surutto.com/conts/ticket/3dayeng/index.html</cmt>
+<e type="trans" ver="2">J-THRU/ICOCA, Suica of the East Japan Railway Company (JR East) and TOICA of the Central Japan Railway Company (JR Central), as well as PiTaPa of KANSAI THRU PASS can be used at all stations between Kibugawa and Kusatsu.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">J-Thru/ICOCA, Suica of the East Japan Railway Company (JR East) and TOICA of the Central Japan Railway Company (JR Central), as well as PiTaPa of KANSAI THRU PASS, can be used at all stations between Kibugawa and Kusatsu.</e>
+<cmt>J-Thruとしました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="23">
+<j>明治期の早い時期に敷設されたが、沿線の鉄道構造物（駅のプラットホーム、立体交差部など）で、現在に至って使用されているものが多く、その構造や装飾などに（ここだけではないが）意匠に富んだものがしばしば見られる。</j>
+<e type="trans" ver="1">The line was established in the early Meiji era; many of the railway structures (such as station platforms and grade separations) on the Kusatsu Line are still in use, and some of them have various designs in their structure or decoration (this is not limited to the Kusatsu Line).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line was established in the early Meiji era; many of the railway structures (such as station platforms and grade separations) on the Kusatsu Line are still in use, and some of them have various designs in their structure or decoration (this is not limited to the Kusatsu Line).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The line was established in the early Meiji period; many of the railway structures (such as station platforms and grade separations) on the Kusatsu Line are still in use, and some of them have various designs in their structures or decorations (this is not limited to the Kusatsu Line).</e>
+<cmt>era→period</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>「南びわ湖駅」関係</j>
+<e type="trans" ver="1">Description relating to &apos;Minami-Biwako Station&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Description relating to &apos;Minami-Biwako Station&apos;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Description relating to &apos;Minami-Biwako Station&apos;</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="24">
+<j>米原～京都間に東海道新幹線の新駅南びわ湖駅（仮称）が計画・着工され2012年度に開業予定であった。</j>
+<e type="trans" ver="1">A new station, tentatively called Minami-Biwako Station, was going to open in 2012 on the Tokaido Shinkansen between Maibara Station and Kyoto Station, and its construction began.</e>
+<cmt>英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">A new station, tentatively called Minami-Biwako Station, was going to open in 2012 on the Tokaido Shinkansen between Maibara Station and Kyoto Station, and its construction began.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A new station, tentatively called Minami-Biwako Station, was going to open in fiscal year 2012 on the Tokaido Shinkansen between Maibara Station and Kyoto Station, and its construction began.</e>
+<cmt>&quot;2012&quot;→&quot;fiscal year 2012&quot;に変更しました。</cmt>
+</sen>
+<sen id="25">
+<j>そのため、草津線にも草津～手原間に接続の駅が設けられる計画だった。</j>
+<e type="trans" ver="1">Accordingly, a connecting station was also going to open on the Kusatsu Line between Kusatsu Station and Tehara Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accordingly, a connecting station was going to open on the Kusatsu Line between Kusatsu Station and Tehara Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Accordingly, a connecting station was going to open on the Kusatsu Line between Kusatsu Station and Tehara Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>しかし2006年7月の滋賀県知事選で新駅建設凍結派の嘉田由紀子が当選したため、予定が大幅に変更になり2007年10月に新幹線新駅の建設中止が決定した。</j>
+<e type="trans" ver="1">However, Yukiko KADA, who was against the construction of a new station, won an election for governor of Shiga Prefecture on July 2006, thereby making a significant change in the plan to halt the construction of a new Shinkansen station on October 2007.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, Yukiko KADA, who was against the construction of a new station, won the Shiga Prefecture governor&apos;s election on July 2006, thereby making a significant change in the plan to halt the construction of a new Shinkansen station in October 2007.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, Yukiko KADA, who was against the construction of a new station, won the Shiga Prefecture governor&apos;s election on July 2006, thereby making a significant change in the plan to halt the construction of a new Shinkansen station in October 2007.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>この一連の問題については南びわ湖駅の項目参照。</j>
+<e type="trans" ver="1">As to this issue, refer to the section of Minami-Biwako Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Refer to the section on Minami-Biwako Station for more details on this issue.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Refer to the section on Minami-Biwako Station for more details on this issue.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="28">
+<j>もとより栗東市を除く沿線自治体は新幹線新駅の費用負担に消極的で、新幹線新駅よりむしろ草津線複線化を求める声も多かった。</j>
+<e type="trans" ver="1">Primarily, local governors along the Kusatsu Line except for Ritto City were reluctant to bear the costs of a new Shinkansen station, and many of them requested double-tracking of the Kusatsu Line rather than the construction of a new Shinkansen station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Primarily, local governments along the Kusatsu Line except for Ritto City were reluctant to bear the costs of a new Shinkansen station, and many of them requested the double-tracking of the Kusatsu Line instead of the construction of a new Shinkansen station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Primarily, local governments along the Kusatsu Line except for Ritto City were reluctant to bear the costs of a new Shinkansen station, and many of them requested the double-tracking of the Kusatsu Line instead of the construction of a new Shinkansen station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>しかも、新幹線新駅が県と栗東市、周辺自治体の共同出資に対し、草津線接続新駅に滋賀県は関与しない（草津線新駅は栗東市の都市整備事業の中で行うべきもの）というスタンスだったため、今後草津線に新駅ができるかどうかは微妙である。</j>
+<e type="trans" ver="1">Additionally, in contrast to the new Shinkansen station to be jointly financed by Shiga Prefecture, Ritto City, and other surrounding local governors, a new connecting station on the Kusatsu Line was not involved by the Shiga Prefecture (because the Shiga Prefecture considered that the construction of a new station on the Kusatsu Line should be included in the urban development of Ritto City); therefore it is uncertain whether a new station would be built on the Kusatsu Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, in contrast to the new Shinkansen station to be jointly financed by Shiga Prefecture, Ritto City and other surrounding local governments, a new connecting station on the Kusatsu Line did not involve Shiga Prefecture (because the Shiga Prefecture considered that the construction of a new station on the Kusatsu Line should be included in the urban development of Ritto City); therefore, it was uncertain whether a new station would be built on the Kusatsu Line.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Additionally, in contrast to the new Shinkansen station to be jointly financed by Shiga Prefecture, Ritto City and other surrounding local governments, a new connecting station on the Kusatsu Line did not involve Shiga Prefecture (because the Shiga Prefecture considered that the construction of a new station on the Kusatsu Line should be included in the urban development of Ritto City); therefore, it was uncertain whether a new station would be built on the Kusatsu Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>運行形態</j>
+<e type="trans" ver="1">Form of operation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Form of operation</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Types of operations</e>
+<cmt>既出記事と統一</cmt>
+</tit>
+<par id="1">
+<sen id="30">
+<j>戦前から1965年まで続いた姫路～鳥羽間の快速列車（俗に参宮快速などと呼ばれ、戦前は食堂車も連結されていた）と、その格上げ列車の「志摩 (列車)」のほか、京都と名古屋を草津線経由で結ぶ「かすが (列車)」、京都から南紀へ向かう「南紀 (列車)」などの気動車急行があったが、日本国有鉄道末期にいずれも廃止になり、優等列車は姿を消した。</j>
+<e type="trans" ver="1">Superior trains were operated: a rapid train operated before the war until 1965 between Himeji Station and Toba Station (called Sangu-Kaisoku (Rapid train) which was connected to a dining car before the war), its superior train Express &apos;Shima,&apos; as well as Express &apos;Kasuga&apos; connecting Kyoto and Nagoya via Kusatsu Line and Express &apos;Nanki&apos; operated from Kyoto to Nanki; all of these diesel cars were abolished in the late Japan National Railways (JNR) era.</e>
+<cmt>http://www.rokko1go.jpn.org/main/photo/english/eng_jpnkind1.htm http://www.railstation.net/duke/ressha/exp_kasuga.html http://www.rokko1go.jpn.org/main/photo/english/eng_jpnkind1.htm 英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">Superior trains were operated: a rapid train operated before the war until 1965 between Himeji Station and Toba Station (called Sangu-Kaisoku (Rapid train) which was connected to a dining car before the war), its superior train Express &apos;Shima,&apos; as well as Express &apos;Kasuga&apos; connecting Kyoto and Nagoya via Kusatsu Line and Express &apos;Nanki&apos; operated from Kyoto to Nanki; all of these diesel cars were abolished in the late Japan National Railways (JNR) era.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Higher-category trains were operated: a rapid train operated before the war until 1965 between Himeji Station and Toba Station (called Sangu-Kaisoku (Rapid train), which was connected to a dining car before the war), its superior train, the express &apos;Shima,&apos; as well as the express &apos;Kasuga&apos; connecting Kyoto and Nagoya via the Kusatsu Line and the express &apos;Nanki&apos; operated from Kyoto to Nanki were all diesel cars that were ultimately abolished in the late Japan National Railways (JNR) era.</e>
+<cmt>優等列車をhigher-category trainsで既出記事と統一</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="31">
+<j>そのため現在は普通列車のみの運転。</j>
+<e type="trans" ver="1">Now, only a local train is operated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Now, only a local train is operated.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Now, only a local train is operated.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>運行本数は毎時1～2本程度（草津～貴生川間は1～3本）である。</j>
+<e type="trans" ver="1">The train is operated once or twice an hour (once to three times an hour between Kusatsu Station and Kibugawa Station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The train is operated once or twice an hour (once to three times an hour between Kusatsu Station and Kibugawa Station).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The train is operated once or twice an hour (once to three times an hour between Kusatsu Station and Kibugawa Station).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>客車時代には多くが京都やまた鳥羽へ直通していたが、気動車化、さらには電車化により線内折り返しが主となった。</j>
+<e type="trans" ver="1">During the era of passenger train, the train would frequently run through to Kyoto or Toba, but after being replaced with a diesel train and further with an electric train, the train would mainly return within the line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the era of passenger trains, the train would frequently run through to Kyoto or Toba, but after being replaced by a diesel train and further with an electric train, the train would mainly return within the line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">During the era of passenger trains, the train would frequently run through to Kyoto or Toba, but after being replaced by a diesel train and further with an electric train, the train would mainly return within the line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>その経緯と、かつ草津線乗客の大多数の流動が大津・京都を向いていることもあり、朝夕には京都（平日朝は大阪駅）まで直通する電車もある。</j>
+<e type="trans" ver="1">Under the circumstances and with most of the passengers of Kusatsu Line going to Otsu and Kyoto, some trains run through to Kyoto during the morning and evening (through to Osaka during the morning on weekdays).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under the circumstances and with most of the passengers of Kusatsu Line going to Otsu and Kyoto, some trains run through to Kyoto during the morning and evening (through to Osaka during the morning on weekdays).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Under the circumstances and with most of the passengers of the Kusatsu Line going to Otsu and Kyoto, some trains run through to Kyoto during the morning and evening (through to Osaka during the morning on weekdays).</e>
+<cmt>&quot;Kusatsu Line&quot;→&quot;the Kusatsu Line&quot;に変更しました。</cmt>
+</sen>
+<sen id="35">
+<j>かつては網干駅発着の直通電車があったものの、2006年3月ダイヤ改正で網干発柘植行が野洲行に変更されたのをもって、草津線直通電車が大阪以西を走ることはなくなった。</j>
+<e type="trans" ver="1">Some through trains would depart from and arrive at Aboshi Station, but it was changed from a train leaving Aboshi Station to Tsuge Station, to a train bound for Yasu Station with the schedule revision of March 2006, resulting in the abolishment of the through train on Kusatsu Line running west of Osaka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some through-trains would depart from and arrive at Aboshi Station, but this was changed from a train leaving Aboshi Station to Tsuge Station, to a train bound for Yasu Station with the schedule revision of March 2006, resulting in the abolishment of the through-train on Kusatsu Line running west of Osaka.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Some through-trains would depart from and arrive at Aboshi Station, but this was changed from a train leaving Aboshi Station to Tsuge Station, to a train bound for Yasu Station with the schedule revision of March 2006, resulting in the abolishment of the through-train on the Kusatsu Line running west of Osaka.</e>
+<cmt>&quot;Kusatsu Line&quot;→&quot;the Kusatsu Line&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="36">
+<j>かつて草津線から京都への直通列車が客車の時代は外側線を走行し瀬田は通過していた。</j>
+<e type="trans" ver="1">During the era of passenger train, the through train from the Kusatsu Line to Kyoto Station would run the outer track and pass through Seta Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the era of passenger trains, the through-train from the Kusatsu Line to Kyoto Station would run the outer track and pass through Seta Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">During the era of passenger trains, the through-train from the Kusatsu Line to Kyoto Station would run the outer line and pass through Seta Station.</e>
+<cmt>外側線をouter lineで統一</cmt>
+</sen>
+<sen id="37">
+<j>電車化後瀬田停車となったが、依然として外側を走る普通電車は残っている。</j>
+<e type="trans" ver="1">After being replaced with an electric train, the through train stops at Seta Station, but still some local trains run the outer track and pass through Seta Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After being replaced with an electric train, the through-train stops at Seta Station, but still some local trains run the outer track and pass through Seta Station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">After being replaced by an electric train, the through-train stops at Seta Station, but some local trains still run the outer line.</e>
+<cmt>外側線をouter lineで統一　瀬田駅通過　を削除</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="38">
+<j>なお、時折お伊勢参りの団体や関西から伊勢志摩へ向かう修学旅行生の臨時列車が関西本線直通で走っている。</j>
+<e type="trans" ver="1">Occasionally, special trains reserved for groups of a pilgrimage to Ise (Shrine) or students from Kansai area on a school trip to Ise-Shima run through to the Kansai Main Line.</e>
+<cmt>プログレッシブ和英中辞典</cmt>
+<e type="trans" ver="2">Occasionally, special trains reserved for groups on pilmigrages to Ise (Shrine) or students from Kansai area on a school trip to Ise-Shima run through to the Kansai Main Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Occasionally, special trains reserved for groups on pilmigrages to Ise (Shrine) or students from Kansai area on a school trip to Ise-Shima run through to the Kansai Main Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>また、気動車列車の時代には信楽高原鐵道信楽線への直通もあり、JR化後もしばしば臨時の直通列車があったが、1991年の信楽高原鐵道列車衝突事故後、直通列車は運転されていない。</j>
+<e type="trans" ver="1">During the era of diesel train, some trains would run through to Shigaraki Line of Shigaraki Kogen Railway, and special through trains were frequently operated after being transferred to the JR, but no through train has been operated since the train crash of the Shigaraki Kogen Railway in 1991.</e>
+<cmt>英辞郎 on the WEB、プログレッシブ和英中辞典 http://www.biwa.ne.jp/~skr/</cmt>
+<e type="trans" ver="2">During the era of diesel trains, some trains would run through to the Shigaraki Line of the Shigaraki Kogen Railway, and special through-trains were frequently operated after being transferred to JR, but no through-train has been operated since the train crash of the Shigaraki Kogen Railway in 1991.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">During the era of diesel trains, some trains would run through to the Shigaraki Line of the Shigaraki Kogen Railway, and special through-trains were frequently operated after being transferred to JR, but no through-train has been operated since the train crash of the Shigaraki Kogen Railway in 1991.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>路線の環境</j>
+<e type="trans" ver="1">Environment of Track</e>
+<cmt></cmt>
+<e type="trans" ver="2">Environment of Track</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Environment of Track</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="40">
+<j>徐々に列車本数は増加しており、JR化後に草津～貴生川間は昼間毎時2本の運転まで拡大された。</j>
+<e type="trans" ver="1">The number of trains was gradually increased to run twice an hour during the day between Kusatsu Station and Kibugawa Station, after the line was transferred to the JR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of trains was gradually increased to run twice an hour during the day between Kusatsu Station and Kibugawa Station, after the line was transferred to the JR.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The number of trains was gradually increased to run twice an hour during the day between Kusatsu Station and Kibugawa Station, after the line was transferred to the JR.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>沿線は自動車依存の強い地域ではあるが、この地域の動脈である国道1号線の道路事情がよくないこともあり、利用者数が減少するまでには至っていない。</j>
+<e type="trans" ver="1">The area along the line heavily depends on automobiles, but the number of passengers are not decreasing due to the traffic congestion on National Highway 1 which is an artery in this area.</e>
+<cmt>ジーニアス和英辞典、プログレッシブ和英中辞典</cmt>
+<e type="trans" ver="2">The area along the line heavily depends on automobiles, but the number of passengers is not decreasing due to the traffic congestion on National Highway 1, which is an artery in this area.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The area along the line depends heavily on automobiles, but the number of passengers isn&apos;t decreasing due to the traffic congestion on National Route 1, which is an artery in this area.</e>
+<cmt>National Route 1としました</cmt>
+</sen>
+<sen id="42">
+<j>また、地域の自治体が草津線の各駅を始終端とするコミュニティバスを多数運行し、地域の足として草津線が位置づけられているため、自治体・利用者からは比較的暖かく迎え入れられている。</j>
+<e type="trans" ver="1">Moreover, community buses, operated by the local governors, frequently run to connect the stations on the Kusatsu Line, which thus serves as an important transportation for the community and the passengers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, community buses, operated by the local governments, frequently run to connect the stations on the Kusatsu Line, which serves as an important transportation for the community and passengers.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Moreover, community buses, operated by the local governments, frequently run to connect the stations on the Kusatsu Line, which serves as an important transportation for the community and passengers.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="43">
+<j>とはいえ単線であり、また甲西駅等に行き違い設備がないことから、ラッシュ時も含め1時間に3本以上の列車本数の増加は難しく、利便性向上は望めないため自治体・住民からはJR西日本に対して複線化・増発要望が出ている。</j>
+<e type="trans" ver="1">However, due to the line being a single track and no passing facility installed at Kosei Station and other stations, it is difficult to increase the number of trains by more than twice an hour including rush hours to enhance the convenience; therefore the local governors and residents are requesting the JR West for double-tracking and an increase in the number of trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, because the line is a single track and no passing facilities are installed at Kosei Station and other stations, it is difficult to increase the number of trains by more than two an hour (including rush hours) in order to enhance the convenience; therefore, the local governments and residents are requesting that JR West use double-tracking and increase the number of trains.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, because the line is a single track and no passing facilities are installed at Kosei Station and other stations, it is difficult to increase the number of trains by more than two an hour (including rush hours) in order to enhance the convenience; therefore, the local governments and residents are requesting that JR West use double-tracking and increase the number of trains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>しかし、JRはこれ以上の利用増は見込めないとして消極的である。</j>
+<e type="trans" ver="1">However, the JR is negative about the request, asserting that no further increase in passengers is expected.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the JR is negative about the request, asserting that no further increase in passengers is expected.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, the JR is negative about the request, asserting that no further increase in passengers is expected.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="45">
+<j>今後もしばらくこの沿線の特に草津方では人口増が見込まれ、また県と地元市の公費補助による新駅設置や複線化の可能性もあり、さらなる展開もありうる。</j>
+<e type="trans" ver="1">A population increase along the Kusatsu Line is expected for a while especially in the Kusatsu area, and thus there is a possibility of installing a new station or double-tracking of the line with the aid of public expense by the prefecture and the local city.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A population increase along the Kusatsu Line is expected for a while, especially in the Kusatsu area, so there is a possibility of installing a new station or double-tracking the line with the aid of public expense by the prefecture and local city.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">A population increase along the Kusatsu Line is expected for a while, especially in the Kusatsu area, so there is a possibility of installing a new station or double-tracking the line with the aid of public expense by the prefecture and local city.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>使用車両</j>
+<e type="trans" ver="1">Rolling stock</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rolling stock</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rolling stock</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="46">
+<j>国鉄113系電車 - 湖西線開業・草津線電化時に投入された700・2700代車を中心に使用され、草津線電車の主力。</j>
+<e type="trans" ver="1">The JNR/JR Suburban Train Series 113, mainly 700s and 2700s cars were introduced in the opening of Kosei Line and the electrification of the Kusatsu Line; the JNR/JR Suburban Train Series 113 is the major electric train operated on the Kusatsu Line.</e>
+<cmt>http://www.uraken.net/rail/alltrain/uratetsu113.html</cmt>
+<e type="trans" ver="2">The JNR/JR Suburban Train Series 113 (mainly the 700 and 2700 series cars) were introduced in the opening of Kosei Line and the electrification of the Kusatsu Line; the JNR/JR Suburban Train Series 113 is the major electric train operated on the Kusatsu Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The JNR/JR Suburban Train Series 113 (mainly the 700 and 2700 series cars) were introduced in the opening of Kosei Line and the electrification of the Kusatsu Line; the JNR/JR Suburban Train Series 113 is the major electric train operated on the Kusatsu Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="47">
+<j>原型の湘南色の他、車体更新をした新色車も多い。</j>
+<e type="trans" ver="1">There are many renewed cars in new body color as well as in the original Shonan color.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are many renewed cars in new body color as well as in the original Shonan color.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">There are many renewed cars in new body color as well as in the original Shonan color.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>4両編成に組まれて運転される他、朝夕には2編成連結の8両編成も見られる。</j>
+<e type="trans" ver="1">The JNR/JR Suburban Train Series 113 comprising four cars is operated, as well as that comprising eight cars (four cars joining four other cars) during the morning and evening.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The JNR/JR Suburban Train Series 113 comprising four cars is operated, as well as that comprising eight cars (four cars joining four other cars) during the morning and evening.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The JNR/JR Suburban Train Series 113 comprising four cars is operated, as well as that comprising eight cars (four cars joining four other cars) during the morning and evening.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="49">
+<j>国鉄117系電車 - 新快速の運用離脱後に草津線で運用開始。</j>
+<e type="trans" ver="1">The JNR/JR Suburban Train Series 117 began operating on the Kusatsu Line after its operation ended as a Special Rapid.</e>
+<cmt>http://www.uraken.net/rail/alltrain/uratetsu117.html http://www.rokko1go.jpn.org/main/photo/english/eng_jpnkind1.htm</cmt>
+<e type="trans" ver="2">The JNR/JR Suburban Train Series 117 began operating on the Kusatsu Line after its operation as a special rapid ended.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The JNR/JR Suburban Train Series 117 began operating on the Kusatsu Line after its operation as a special rapid ended.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>原型車と福知山線用に一部ロングシート改造したものが走っている。</j>
+<e type="trans" ver="1">The original type of the JNR/JR Suburban Train Series 117 and one having partly modified long seats for Fukuchiyama Line are operated.</e>
+<cmt>http://www.isok.jp/cgi-bin/rl_term.cgi?`longst</cmt>
+<e type="trans" ver="2">The original type of the JNR/JR Suburban Train Series 117 and one having partly modified long seats for Fukuchiyama Line are operated.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The original type of the JNR/JR Suburban Train Series 117 and one having partly modified long seats for the Fukuchiyama Line are operated.</e>
+<cmt>&quot;Fukuchiyama Line&quot;→&quot;the Fukuchiyama Line&quot;に変更しました。</cmt>
+</sen>
+<sen id="51">
+<j>6両編成で運転。</j>
+<e type="trans" ver="1">The JNR/JR Suburban Train Series 117 comprises six cars.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The JNR/JR Suburban Train Series 117 comprises six cars.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The JNR/JR Suburban Train Series 117 comprises six cars.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="52">
+<j>JR西日本223系電車 - 2006年3月改正では夜の上りと、翌朝の大阪直通の1往復に8両貫通編成が使われている。</j>
+<e type="trans" ver="1">The JR (West) Suburban Train Series 223 (comprising eight cars) is used for the up trains during the night and for the train going through to Osaka (one round trip) in the next morning with the revision of March 2006.</e>
+<cmt>http://www.uraken.net/rail/alltrain/uratetsu223.html</cmt>
+<e type="trans" ver="2">The JR (West) Suburban Train Series 223 (comprising eight cars) is used for the up trains during the night and for the train going through to Osaka (one round trip) in the next morning, effective with the revision of March 2006.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The JR (West) Suburban Train Series 223 (comprising eight cars) is used for the up trains during the night and for the train going through to Osaka (one round trip) in the next morning, effective with the revision of March 2006.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="53">
+<j>旧東海道沿いに大津市と名古屋市を結ぶ鉄道を計画した関西鉄道の最初の路線として1889年に開業した。</j>
+<e type="trans" ver="1">The Kusatsu Line was opened as the first track of the Kansei Railway Company which planned to connect the Otsu City and Nagoya City along the Old Tokaido.</e>
+<cmt>http://www.rtri.or.jp/japanrail/History1_E.html</cmt>
+<e type="trans" ver="2">The Kusatsu Line was opened as the first track of the Kansei Railway Company, which planned to connect the Otsu City and Nagoya City along the Old Tokaido.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The Kusatsu Line was opened as the first track of the Kansai Railway Company in 1889, which planned to connect the Otsu City and Nagoya City along the Old Tokaido.</e>
+<cmt>Kansai Railwayで統一in 1889 を補足</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="54">
+<j>1969年には東海道本線の複々線化に合わせて、手原～草津間の一部区間が高架化され、東海道本線を乗り越す立体交差で合流するようになった。</j>
+<e type="trans" ver="1">Along with the quadruple-tracking of the Tokaido Main Line, part of the section between Tehara Station and Kusatsu Station was elevated in 1969, thereby crossing over the Tokaido Main Line with the grade separation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Along with the quadruple-tracking of the Tokaido Main Line, part of the section between Tehara Station and Kusatsu Station was elevated in 1969, thereby crossing over the Tokaido Main Line with the grade separation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Along with the quadruple-tracking of the Tokaido Main Line, part of the section between Tehara Station and Kusatsu Station was elevated in 1969, thereby crossing over the Tokaido Main Line with the grade separation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="55">
+<j>あわせて、草津駅を出て同駅構内の転車台直前でカーブしていた旧線は廃止され、営業距離が0.3km伸びている。</j>
+<e type="trans" ver="1">At the same time, the old Kusatsu Line, which curved short of a turn table in the premises of Kusatsu Station, was abandoned, thereby the operating distance was extended by 0.3 km.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the same time, the old Kusatsu Line, which curved short of a turntable in the premises of Kusatsu Station, was abandoned, whereby the operating distance was extended by 0.3 km.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">At the same time, the old Kusatsu Line, which curved short of a turntable in the premises of Kusatsu Station, was abandoned, whereby the operating distance was extended by 0.3 km.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>1980年には全線が電化された。</j>
+<e type="trans" ver="1">The entire line was electrified in 1980.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The entire line was electrified in 1980.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The entire line was electrified in 1980.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="57">
+<j>1889年（明治22年）12月15日 - 関西鉄道により草津～三雲間（9マイル72チェーン (単位)≒15.93km）が開業。</j>
+<e type="trans" ver="1">On December 15, 1889 the line between Kusatsu Station and Mikumo Station (9 miles 72 chains ≃ 15.93 km) was opened by the Kansei Railway Company.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 15, 1889 the line between Kusatsu Station and Mikumo Station (9 miles 72 chains ≃ 15.93 km) was opened by the Kansei Railway Company.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">December 15, 1889: The line between Kusatsu Station and Mikumo Station (9 miles 72 chains ≒ 15.93 km) was opened by the Kansai Railway Company.</e>
+<cmt>Kansai Railwayで統一年表表記に統一=→≒に修正</cmt>
+</sen>
+<sen id="58">
+<j>石部駅、三雲駅開業。</j>
+<e type="trans" ver="1">Ishibe and Mikumo Stations were opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ishibe and Mikumo stations were opened.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Ishibe and Mikumo stations were opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="59">
+<j>1890年（明治23年）2月19日 - 三雲～柘植間（12M63C≒20.58km）が延伸開業し全線開通。</j>
+<e type="trans" ver="1">On February 19, 1890 the line between Mikumo Station and Tsuge Station (12 miles 63 chains ≃ 20.58 km) was extended and opened, thereby the entire Kusatsu Line completed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On February 19, 1890 the line between Mikumo Station and Tsuge Station (12 miles 63 chains ≃ 20.58 km) was extended and opened, thus completing the entire Kusatsu Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">February 19, 1890: The line between Mikumo Station and Tsuge Station (12 miles 63 chains ≒ 20.58 km) was extended and opened, thus completing the entire Kusatsu Line.</e>
+<cmt>年表表記に統一=→≒に修正</cmt>
+</sen>
+<sen id="60">
+<j>貴生川駅、深川駅、柘植駅開業。</j>
+<e type="trans" ver="1">Kibugawa, Fukawa, and Tsuge Stations were opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kibugawa, Fukawa and Tsuge stations were opened.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kibugawa, Fukawa and Tsuge stations were opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="61">
+<j>1898年（明治31年）4月19日 - 本線を草津～名古屋駅間から名古屋～加茂駅 (京都府)間に変更し、柘植～草津間は支線となる。</j>
+<e type="trans" ver="1">On April 19, 1898 the main line was changed from Kusatsu Station - Nagoya Station to Nagoya Station - Kamo Station (Kyoto Prefecture), and the line between Tsuge Station and Kusatsu Station became a branch line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 19, 1898 the main line was changed from Kusatsu Station - Nagoya Station to Nagoya Station - Kamo Station (Kyoto Prefecture), and the line between Tsuge Station and Kusatsu Station became a branch line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">April 19, 1898: The main line was changed from Kusatsu Station - Nagoya Station to Nagoya Station - Kamo Station (Kyoto Prefecture), and the line between Tsuge Station and Kusatsu Station became a branch line.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="62">
+<j>1900年（明治33年）12月29日 - 近江鉄道本線乗り換え駅として貴生川駅開業。</j>
+<e type="trans" ver="1">On December 29, 1900 Kibugawa Station was opened as a transfer station on the main line of the Ohmi Railway Corporation.</e>
+<cmt>http://www.ohmitetudo.co.jp/railway/index.html</cmt>
+<e type="trans" ver="2">On December 29, 1900 Kibugawa Station was opened as a transfer station on the main line of the Ohmi Railway Corporation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">December 29, 1900: Kibugawa Station was opened as a transfer station on the main line of the Ohmi Railway Corporation.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="63">
+<j>1901年（明治34年）1月25日 - 全線で6C（≒0.12km）短縮。</j>
+<e type="trans" ver="1">The entire line was shortened by 6 chains (≃ 0.12 km) on January 25, 1901.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The entire line was shortened by 6 chains (≃ 0.12 km) on January 25, 1901.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">January 25, 1901: The entire line was shortened by 6 chains (≒ 0.12 km).</e>
+<cmt>表記を統一=→≒に修正年表表記に統一</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="64">
+<j>1902年（明治35年）11月12日 - 営業距離の単位をマイル・チェーンからマイルのみに簡略化（22M49C→22.6M）。</j>
+<e type="trans" ver="1">On November 12, 1902 the operating distance was changed to be given simply by miles from miles and chains (e.g., from 22M49C to 22.6M).</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 12, 1902 the operating distance was changed to be given simply by miles from miles and chains (e.g., from 22M49C to 22.6M).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">November 12, 1902: The operating distance was changed to be given simply by miles from miles and chains (e.g., from 22M49C to 22.6M).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="65">
+<j>1904年（明治37年）3月1日 - 大原駅（現在の甲賀駅）開業。</j>
+<e type="trans" ver="1">Ohara Station (currently Koka Station) was opened on March 1, 1904.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ohara Station (currently Koka Station) opened on March 1, 1904.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">March 1, 1904: Ohara Station (currently Koka Station) opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="66">
+<j>1907年（明治40年）10月1日 - 関西鉄道が国有化。</j>
+<e type="trans" ver="1">The Kansei Railway Company was nationalized on October 1, 1907.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kansei Railway Company was nationalized on October 1, 1907.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">October 1, 1907: The Kansai Railway Company was nationalized.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="67">
+<j>1909年（明治42年）10月12日 - 線路名称制定、柘植～草津間を草津線とする。</j>
+<e type="trans" ver="1">On October 12, 1909, the line names were given and the line between Tsuge Station and Kusatsu Station was called the Kusatsu Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 12, 1909, the line names were given and the line between Tsuge Station and Kusatsu Station was called the Kusatsu Line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">October 12, 1909: The line names were given and the line between Tsuge Station and Kusatsu Station was called the Kusatsu Line.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="68">
+<j>1918年（大正7年）5月1日 - 大原駅を大原市場駅に改称。</j>
+<e type="trans" ver="1">On May 1, 1918 Ohara Station was changed to be called Ohara-ichiba Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On May 1, 1918, the name of Ohara Station was changed to Ohara-ichiba Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">May 1, 1918: The name of Ohara Station was changed to Ohara-ichiba Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="69">
+<j>1922年（大正11年）11月5日 - 手原駅開業。</j>
+<e type="trans" ver="1">Tehara Station was opened on November 5, 1922.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tehara Station opened on November 5, 1922.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">November 5, 1922: Tehara Station opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="70">
+<j>1930年（昭和5年）4月1日 - 営業距離の単位をマイルからメートルに変更（22.6M→36.4km）。</j>
+<e type="trans" ver="1">On April 1, 1930, the operating distance was changed to be given by meters from miles (e.g., from 22.6M to 36.4 km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1930, the operating distance was changed from miles to kilometers (e.g., from 22.6M to 36.4 km).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 1930: The operating distance was changed from miles to kilometers (e.g., from 22.6M to 36.4 km).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="71">
+<j>1956年（昭和31年）4月10日 - 大原市場駅を甲賀駅に、深川駅を甲南駅に改称。</j>
+<e type="trans" ver="1">On April 10, 1956 Ohara-ichiba Station was changed to be called Koka Station, and Fukawa Station to Konan Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 10, 1956 Ohara-ichiba Station&apos;s name was changed to Koka Station, and Fukawa Station&apos;s name was changed to Konan Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 10, 1956: Ohara-ichiba Station&apos;s name was changed to Koka Station, and Fukawa Station&apos;s name was changed to Konan Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="72">
+<j>10月2日 - 一部列車を気動車列車に置き換え。</j>
+<e type="trans" ver="1">On October 2, part of the trains were replaced with diesel trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 2, some of the trains were replaced with diesel trains.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 2: Some of the trains were replaced with diesel trains.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="73">
+<j>1959年（昭和34年）12月15日 - 油日駅開業。</j>
+<e type="trans" ver="1">Aburahi Station was opened on December 15, 1959.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Aburahi Station opened on December 15, 1959.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">December 15, 1959: Aburahi Station opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="74">
+<j>12月25日 - 寺庄駅開業。</j>
+<e type="trans" ver="1">Terasho Station was opened on December 25.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Terasho Station opened on December 25.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">December 25: Terasho Station opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="75">
+<j>1969年（昭和44年） 11月23日 - 東海道線乗り越え交差完成。</j>
+<e type="trans" ver="1">The construction for crossing over the Tokaido Line completed on November 23, 1969.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The construction of a crossing over the Tokaido Line was completed on November 23, 1969.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">November 23, 1969: The construction of a crossing over the Tokaido Line was completed.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="76">
+<j>11月29日 - 石部～手原間、気動車列車に落下岩石が衝撃。</j>
+<e type="trans" ver="1">On November 29, the falling rocks crashed down the diesel train between Ishibe Station and Tehara Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 29, falling rocks crashed down on the diesel train between Ishibe Station and Tehara Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">November 29: Falling rocks crashed down on the diesel train between Ishibe Station and Tehara Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="77">
+<j>運転士1名死亡、乗客17名乗員2名負傷。</j>
+<e type="trans" ver="1">One driver was killed, and 17 passengers and 2 train crews were injured.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One driver was killed, and 17 passengers and two train crew members were injured.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">One driver was killed, and 17 passengers and two train crew members were injured.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="78">
+<j>12月1日 - 手原～草津間営業距離変更 (+0.3km)。</j>
+<e type="trans" ver="1">On December 1, the operating distance between Tehara Station and Kusatsu Station was changed to add 0.3 km.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 1, the operating distance between Tehara Station and Kusatsu Station was changed with the addition of 0.3 km.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">December 1: The operating distance between Tehara Station and Kusatsu Station was changed with the addition of 0.3 km.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="79">
+<j>1972年（昭和47年）10月2日 - 蒸気機関車引退に伴い無煙化。</j>
+<e type="trans" ver="1">The steam locomotive was abolished to achieve a smokeless track on October 2, 1972.</e>
+<cmt>英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">The steam locomotive was abolished to achieve a smokeless track on October 2, 1972.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">October 2, 1972: The steam locomotive was abolished to achieve a smokeless track.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="80">
+<j>1979年（昭和54年） 7月4日 - 自動信号化。</j>
+<e type="trans" ver="1">The automatic signaling was introduced on July 4, 1979.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Automatic signaling was introduced on July 4, 1979.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">July 4, 1979: Automatic signaling was introduced.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="81">
+<j>12月20日 - 列車集中制御装置化。</j>
+<e type="trans" ver="1">The Centralized Traffic Control (CTC) was introduced on December 20.</e>
+<cmt>英辞郎 on the WEB、プログレッシブ和英中辞典</cmt>
+<e type="trans" ver="2">Centralized Traffic Control (CTC) was introduced on December 20.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">December 20: Centralized Traffic Control (CTC) was introduced.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="82">
+<j>1980年（昭和55年）3月3日 - 全線電化。</j>
+<e type="trans" ver="1">The entire line was electrified on March 3, 1980.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The entire line was electrified on March 3, 1980.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">March 3, 1980: The entire line was electrified.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="83">
+<j>1981年（昭和56年）10月1日 - 甲西駅開業。</j>
+<e type="trans" ver="1">Kosei Station was opened on October 1, 1981.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kosei Station opened on October 1, 1981.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 1, 1981: Kosei Station opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="27">
+<sen id="84">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により西日本旅客鉄道が承継。</j>
+<e type="trans" ver="1">On April 1, 1987, the Japan National Railways was split and privatized as the JR Group, including the West Japan Railway Company.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1987, the Japan National Railways was split and privatized as the JR Group, including the West Japan Railway Company.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">April 1, 1987: The Japan National Railways was split and privatized as the JR Group, including the West Japan Railway Company.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="85">
+<j>日本貨物鉄道が貴生川～草津間の鉄道事業者となる。</j>
+<e type="trans" ver="1">The Japan Freight Railway Company became a railway business operator for the line between Kibugawa Station and Kusatsu Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Japan Freight Railway Company became a railway business operator for the line between Kibugawa Station and Kusatsu Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Japan Freight Railway Company became a railway business operator for the line between Kibugawa Station and Kusatsu Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="86">
+<j>柘植～貴生川間の貨物営業廃止。</j>
+<e type="trans" ver="1">The freight service between Tsuge Station and Kibugawa Station was abandoned.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The freight service between Tsuge Station and Kibugawa Station was abandoned.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The freight service between Tsuge Station and Kibugawa Station was abandoned.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="28">
+<sen id="87">
+<j>1999年（平成11年）3月31日 - 日本貨物鉄道の第二種鉄道事業（貴生川～草津間）廃止。</j>
+<e type="trans" ver="1">On March 31, 1999 the Japan Freight Railway Company left the Type II railway business (between Kibugawa Station and Kusatsu Station).</e>
+<cmt>日本貨物鉄道株式会社HP (www.jrfreight.co.jp/)</cmt>
+<e type="trans" ver="2">On March 31, 1999 the Japan Freight Railway Company left the type II railway business (between Kibugawa Station and Kusatsu Station).</e>
+<cmt>case</cmt>
+<e type="check" ver="1">March 31, 1999: The Japan Freight Railway Company left the type II railway business (between Kibugawa Station and Kusatsu Station).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>駅一覧</j>
+<e type="trans" ver="1">List of Stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">List of Stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">List of Stations</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<copyright>copyright (c) 2010 ＳＴＫ(id:29099), AlleborgoBot(id:119729), 国鉄５８３系(id:44223), FREEZA(id:68069), CS30(id:129800), Makiharashouten(id:1021), Cassiopeia sweet(id:29811), 鈴原みさきち(id:168059), 章奴(id:50198), Wikipedianet(id:9608), DJ Teethree(id:88464), Utsuda(id:605), Shinkansen(id:13703), Mop(id:12061), わだらん(id:84854), Rusk(id:9895), Sunen(id:10700), 継之助(id:39352), Rislimric(id:54531), Ribbon(id:172), Kone(id:377), Hirotaro(id:1437), CC(id:4162), Zzz2(id:38365), 三菱善次郎(id:21924), 12425183(id:80345), 210.(id:9838), 韓国と音楽を愛する男(id:59246), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

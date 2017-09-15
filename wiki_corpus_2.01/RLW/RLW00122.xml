@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>丸太町駅 (京都市営地下鉄)</j>
+<e type="trans" ver="1">Marutamachi Station (Kyoto City Subway)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Marutamachi Station (Kyoto City Subway)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Marutamachi Station (Kyoto Municipal Subway)</e>
+<cmt>city→ municipalとしました。</cmt>
+</tit>
+<sen id="1">
+<j>丸太町駅（まるたまちえき）は、京都府京都市中京区にある、京都市営地下鉄京都市営地下鉄烏丸線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Nakagyo Ward, Kyoto City, Kyoto Prefecture, Marutamachi Station is a stop on the Karasuma Line, which is operated by Kyoto City Subway</e>
+<cmt>”京都市営地下鉄京都市営地下鉄”：”京都市営地下鉄”がだぶっていると考え、一方を削除したとして訳してあります。</cmt>
+<e type="trans" ver="2">Marutamachi Station, located in Nakagyo Ward, Kyoto City, Kyoto Prefecture, is a stop on the Karasuma Line, which is operated by Kyoto City Subway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Marutamachi Station, located in Nakagyo Ward, Kyoto City, Kyoto Prefecture, is a stop on the Karasuma Line, which is operated by Kyoto Municipal Subway.</e>
+<cmt>city→ municipalとしました。</cmt>
+</sen>
+<sen id="2">
+<j>駅番号はK07。</j>
+<e type="trans" ver="1">The station number is K07.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station number is K07.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The station number is K07.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>駅名は、烏丸線と交叉する、丸太町通に由来する。</j>
+<e type="trans" ver="1">The station is named after Marutamachi-dori Street that crosses Karasuma Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station is named after Marutamachi-dori Street, which crosses the Karasuma Line.</e>
+<cmt>gp</cmt>
+<e type="check" ver="1">The station is named after Marutamachi-dori Street, which crosses the Karasuma Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s layout</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他ファイルと統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>烏丸通丸太町通交差点の地下に位置する、プラットホーム1面2線の地下駅。</j>
+<e type="trans" ver="1">This station is located in the underground of the crossing of Karasuma-dori Street and Marutamachi-dori Street, and is provided with an island platform serving two tracks</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is located in the underground of the crossing of Karasuma-dori and Marutamachi-dori streets, and is provided with an island platform serving two tracks.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This station is located in the underground of the crossing of Karasuma-dori and Marutamachi-dori streets, and is provided with an island platform serving two tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>改札は有人改札口が国際会館寄りの北側に、無人改札口が竹田寄りの南側にある。</j>
+<e type="trans" ver="1">As for the entrance/exit gates, a manned one is located on the north side or on the Kokusaikaikan (the international conference hall) side and an unmanned one on the south side or on the Takeda side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As for the entrance/exit gates, a manned one is located on the north side or on the Kokusaikaikan (the international conference hall) side and an unmanned one is found on the south side (the Takeda side).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As for the entrance/exit gates, a manned one is located on the north side or on the Kokusaikaikan (the international conference hall) side and an unmanned one is found on the south side (the Takeda side).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>1～4番出口へは有人改札口、6・7番出口は無人改札口、5番出口は丁度中間にある。</j>
+<e type="trans" ver="1">Exits 1 to 4 are placed nearer to the manned entrance/exit gate, exits 6 and 7 to the unmanned entrance/exit gate, and exit 5 was placed at the mid-point between the gates.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Exits 1 to 4 are placed nearer to the manned entrance/exit gate, exits 6 and 7 are nearer to the unmanned entrance/exit gate, and exit 5 is midway between the gates.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Exits 1 to 4 are placed nearer to the manned entrance/exit gate, exits 6 and 7 are nearer to the unmanned entrance/exit gate, and exit 5 is midway between the gates.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他ファイルと統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="7">
+<j>烏丸丸太町交差点へは今出川・国際会館寄りの北側の1～4番出口へ。</j>
+<e type="trans" ver="1">For the Karasuma-Marutamachi crossing, use exit 1 to exit 4 on the north side or on the Imadegawa/Kokusaikaikan side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For the Karasuma-Marutamachi crossing, use any of the exits 1 to exit 4 on the north side or the Imadegawa/Kokusaikaikan side.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">For the Karasuma-Marutamachi crossing, use any of the exit 1 to exit 4 on the north side or the Imadegawa/Kokusaikaikan side.</e>
+<cmt>exit単数にしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>駅北東方面</j>
+<e type="trans" ver="1">The northeast area of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area northeast of the station</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The area northeast of the station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>京都御苑 - 京都御所</j>
+<e type="trans" ver="1">Kyoto Gyoen National Garden - Kyoto Imperial Palace</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Gyoen National Garden - Kyoto Imperial Palace</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Gyoen National Garden - Kyoto Imperial Palace</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>京都地方裁判所・簡易裁判所</j>
+<e type="trans" ver="1">Kyoto District Court and Kyoto Summary Court</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto District Court and Kyoto Summary Court</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto District Court and Kyoto Summary Court</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>五条警察署烏丸丸太町交番</j>
+<e type="trans" ver="1">The Marutamachi police box of the Gojo police station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Marutamachi police box of the Gojo police station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Marutamachi police box of the Gojo police station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="12">
+<j>駅北西方面</j>
+<e type="trans" ver="1">The northwest area of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area northwest of the station</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The area northwest of the station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>京都府</j>
+<e type="trans" ver="1">Kyoto Prefecture</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Prefecture</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Prefecture</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>京都府警察本部</j>
+<e type="trans" ver="1">The Kyoto Prefectural police station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto Prefectural police station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Kyoto Prefectural police station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>京都放送</j>
+<e type="trans" ver="1">Kyoto Broadcasting System Company Limited (KBS)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Broadcasting System Company, Limited (KBS)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Kyoto Broadcasting System Company, Limited (KBS)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>平安女学院高等学校・中学校</j>
+<e type="trans" ver="1">The high school and junior high school of Heian Jogakuin St.Agnes School</e>
+<cmt></cmt>
+<e type="trans" ver="2">The high school and junior high school of Heian Jogakuin St. Agnes School</e>
+<cmt>space</cmt>
+<e type="check" ver="1">The high school and junior high school of Heian Jogakuin St. Agnes School</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>京都建築専門学校</j>
+<e type="trans" ver="1">Kyoto Architectural College</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Architectural College</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Architectural College</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>京都第二赤十字病院</j>
+<e type="trans" ver="1">Kyoto Second Red Cross Hospital</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Second Red Cross Hospital</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Second Red Cross Hospital</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="19">
+<j>駅南東方面</j>
+<e type="trans" ver="1">The southeast area of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area southeast of the station</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The area southeast of the station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>京都新聞本社</j>
+<e type="trans" ver="1">The headquartes of The Kyoto Shimbun Co.,Ltd</e>
+<cmt></cmt>
+<e type="trans" ver="2">The headquarters of The Kyoto Shimbun Co., Ltd.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The headquarters of The Kyoto Shimbun Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>日経新聞社・テレビ大阪京都支局</j>
+<e type="trans" ver="1">Nikkei Inc. and the Kyoto branch of Television Osaka, Inc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nikkei, Inc., and the Kyoto branch of Television Osaka, Inc.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Nikkei, Inc., and the Kyoto branch of Television Osaka, Inc.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>京都府立総合社会福祉会館（ハートピア京都）</j>
+<e type="trans" ver="1">Heartpia Kyoto</e>
+<cmt></cmt>
+<e type="trans" ver="2">Heartpia Kyoto</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Heartpia Kyoto</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>京都市こどもみらい館</j>
+<e type="trans" ver="1">Kyoto City Kodomo Miraikan (hall for chldren&apos;s future)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Kodomo Miraikan (a hall dedicated to children and their future)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Kyoto City Kodomo Miraikan (a hall dedicated to children and their future)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>京都市立中京もえぎ幼稚園</j>
+<e type="trans" ver="1">The Kyoto City-run Nakagyo Moegi kindergarten</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Nakagyo Moegi kindergarten, run by Kyoto City</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The Nakagyo Moegi kindergarten, run by Kyoto City</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>京都ハリストス正教会</j>
+<e type="trans" ver="1">Kyoto Orthodox Church</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Orthodox Church</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Orthodox Church</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="26">
+<j>駅南西方面</j>
+<e type="trans" ver="1">The southwest area of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area southwest of the station</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The area southwest of the station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>京都商工会議所</j>
+<e type="trans" ver="1">Kyoto Chamber of Commerce and Industry (KCCI)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Chamber of Commerce and Industry (KCCI)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Chamber of Commerce and Industry (KCCI)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>衣棚夷川郵便局</j>
+<e type="trans" ver="1">The Koromonotana Ebisugawa post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Koromonotana Ebisugawa post office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Koromonotana Ebisugawa post office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>成基学園本部ビル</j>
+<e type="trans" ver="1">The headquarters building of Seiki</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Seiki headquarters building</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The Seiki headquarters building</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="30">
+<j>京阪鴨東線の丸太町駅_(京阪)とは1kmほど離れている。</j>
+<e type="trans" ver="1">Marutamachi Station (Keihan) on Keihan Oto Line is located about 1 km apart from this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Marutamachi Station (Keihan), on the Keihan Oto Line, is located about 1 km from this station.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Marutamachi Station (Keihan), on the Keihan Oto Line, is located about one kilometer from this station.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="31">
+<j>なお、2008年10月19日に京阪の駅は「神宮丸太町駅」に改称する予定。</j>
+<e type="trans" ver="1">The name of Marutamachi Station on the Keihan line is scheduled to be changed to Jingu-Marutamachi Station on October 19, 2008.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The name of Marutamachi Station on the Keihan line was scheduled to be changed to Jingu-Marutamachi Station on October 19, 2008.</e>
+<cmt>I&apos;ve changed this to past tense.</cmt>
+<e type="check" ver="1">The name of Marutamachi Station on the Keihan line was scheduled to be changed to Jingu-Marutamachi Station on October 19, 2008.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>バスのりば</j>
+<e type="trans" ver="1">Bus stops</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus stops</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus stops</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="32">
+<j>丸太町通と烏丸通との交差点にある。</j>
+<e type="trans" ver="1">Located at the crossing between Marutamachi-dori Street and Karasuma-dori Street.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is located at the crossing between Marutamachi-dori Street and Karasuma-dori Street.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It is located at the crossing between Marutamachi-dori Street and Karasuma-dori Street.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>最寄出口は1番出口。</j>
+<e type="trans" ver="1">Nearest from exit 1.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It&apos;s nearest to exit 1.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It&apos;s nearest to exit 1.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="34">
+<j>京都市交通局</j>
+<e type="trans" ver="1">Kyoto Municipal Transportation Bureau</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Municipal Transportation Bureau</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Transportation Bureau</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>10号系統 (京都市営バス)：（河原町丸太町経由）河原町駅 (京都府)・四条駅 (京阪)まわり、三条京阪行／（北野天満宮経由）宇多野・山越行</j>
+<e type="trans" ver="1">Route 10 (Kyoto City Bus): bound for Sanjo Station through Kawaramachi Station (Kyoto Prefecture) and Shijo Station Keihan) (via Kawaramachi and Marutamachi)/ for Utano and Yamagoe (via Kitano Temman-gu shrine)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 10 (Kyoto City Bus): Bound for Sanjo Station through Kawaramachi Station (Kyoto Prefecture) and Shijo Station Keihan) (via Kawaramachi and Marutamachi) and/or Utano and Yamagoe (via Kitano Temman-gu shrine)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 10 (Kyoto City Bus): Bound for Sanjo Keihan through Kawaramachi Station (Kyoto Prefecture) and Shijo Station (Keihan) (via Kawaramachi and Marutamachi) / Utano and Yamagoe (via Kitano Tenman-gu shrine)</e>
+<cmt>三条駅→三条京阪　としました。Tenman-guとしました。</cmt>
+</sen>
+<sen id="36">
+<j>65号系統 (京都市営バス)：（熊野神社経由）岩倉操車場行／（烏丸通経由）四条駅 (京都市営地下鉄)行</j>
+<e type="trans" ver="1">Route 65 (Kyoto City Bus): bound for the Iwakura-soshajo buss yard (via Kumano-jinja Shrine)/for Shijo Station (Kyoto City Subway) (via Karasuma-dori Street)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 65 (Kyoto City Bus): Bound for the Iwakura-soshajo bus yard (via Kumano-jinja Shrine) and/or Shijo Station (Kyoto City Subway) (via Karasuma-dori Street)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 65 (Kyoto City Bus): Bound for the Iwakura-soshajo bus yard (via Kumano-jinja Shrine) / Shijo Station (Kyoto Municipal Subway) (via Karasuma-dori Street)</e>
+<cmt>city→ municipalとしました。他ファイルと統一し、and or を削除してスラッシュのみ　としました。</cmt>
+</sen>
+<sen id="37">
+<j>93号系統 (京都市営バス)：（東天王町経由）錦林車庫行／（円町駅経由）嵯峨・嵐山行</j>
+<e type="trans" ver="1">Route 93 (Kyoto City Bus): bound for the Kinrin-shako depot (via Higashitennocho)/for Saga Arasiyama (via Emmachi Station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 93 (Kyoto City Bus): Bound for the Kinrin-shako depot (via Higashitennocho) and/or Saga Arasiyama (via Emmachi Station)</e>
+<cmt>case. SPELLING: Arashiyama?</cmt>
+<e type="check" ver="1">Route 93 (Kyoto City Bus): Bound for the Kinrin-shako depot (via Higashitenno-cho) / Saga Arashiyama (via Emmachi Station)</e>
+<cmt>他ファイルと統一し、and or を削除してスラッシュのみ　としました。</cmt>
+</sen>
+<sen id="38">
+<j>202号系統 (京都市営バス)：（熊野神社経由）九条車庫方面／西ノ京円町・西大路九条方面</j>
+<e type="trans" ver="1">Route 202 (Kyoto City Bus): in the direction of the Kujo-shako depot (via Kumano-jinja Shrine)/in the direction of Nishinokyo Emmachi and Nishioji Kujo</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 202 (Kyoto City Bus): In the direction of the Kujo-shako depot (via Kumano-jinja Shrine) and/or in the direction of Nishinokyo Emmachi and Nishioji Kujo</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 202 (Kyoto City Bus): In the direction of the Kujo-shako depot (via Kumano-jinja Shrine) / in the direction of Nishinokyo Emmachi and Nishioji Kujo</e>
+<cmt>他ファイルと統一し、and or を削除してスラッシュのみ　としました。Higashitenno-choとしました。</cmt>
+</sen>
+<sen id="39">
+<j>204号系統 (京都市営バス)：（東天王町経由）銀閣寺方面／西ノ京円町・金閣寺方面</j>
+<e type="trans" ver="1">Route 204 (Kyoto City Bus): in the direction of Ginkaku-ji Temple (via Higashitennocho)/in the direction of Nishinokyo Emmachi and Kinkaku-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 204 (Kyoto City Bus): In the direction of Ginkaku-ji Temple (via Higashitennocho) and/or in the direction of Nishinokyo Emmachi and Kinkaku-ji Temple</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 204 (Kyoto City Bus): In the direction of Ginkaku-ji Temple (via Higashitenno-cho) / in the direction of Nishinokyo Emmachi and Kinkaku-ji Temple</e>
+<cmt>他ファイルと統一し、and or を削除してスラッシュのみ　としました。Higashitenno-choとしました。</cmt>
+</sen>
+<sen id="40">
+<j>51号系統 (京都市営バス)：</j>
+<e type="trans" ver="1">Route 51 (Kyoto City Bus):</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 51 (Kyoto City Bus)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 51 (Kyoto City Bus)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="41">
+<j>1981年5月29日 烏丸線が北大路～京都間で開業した際に設置。</j>
+<e type="trans" ver="1">May 29, 1981: This station was establishied when Karasuma Line started its operation between Kitaoji and Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">May 29, 1981: This station was established when Karasuma Line started operating between Kitaoji and Kyoto.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">May 29, 1981: This station was established when Karasuma Line started operating between Kitaoji and Kyoto.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="42">
+<j>2005年11月14日～11月16日 ジョージ・ウォーカー・ブッシュ米大統領入洛に伴い、駅ロッカー及び1番出口を閉鎖。</j>
+<e type="trans" ver="1">Through the 14th to 16th of November, 2005, use of the lockers and exit 1 of the station was stopped corresponding to the US president George W. BUSH&apos;s visit to Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the period of November 14 - 16, 2005, the use of the lockers and exit 1 of the station was stopped corresponding to the Kyoto visit of U.S. President George W. BUSH.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">November 14 - 16, 2005: The use of the lockers and exit 1 of the station was stopped corresponding to the Kyoto visit of U.S. President George W. BUSH.</e>
+<cmt>月日の後にコロンを表記しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="43">
+<j>2007年4月1日 PiTaPa(ICOCA)使用開始。</j>
+<e type="trans" ver="1">April 1, 2007, PiTaPa (ICOCA) became usable.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 2007: PiTaPa (ICOCA) became usable.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">April 1, 2007: PiTaPa (ICOCA) became usable.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="44">
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="45">
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto City Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>city→ municipalとしました。</cmt>
+</sen>
+<sen id="46">
+<j>■烏丸線</j>
+<e type="trans" ver="1">■ Karasuma Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">■ Karasuma Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karasuma Line</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+<sen id="47">
+<j>今出川駅(K06) - 丸太町駅(K07) - 烏丸御池駅(K08)</j>
+<e type="trans" ver="1">Imadegawa Station (K06) - Marutamachi Station (K07) - Karasuma Oike Station (K08)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Imadegawa Station (K06) - Marutamachi Station (K07) - Karasuma Oike Station (K08)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Imadegawa Station (K06) - Marutamachi Station (K07) - Karasuma Oike Station (K08)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Sushiya(id:110938), 城山(id:104901), Etopirica(id:32491), 春野秋葉(id:36725), Wikipedianet(id:9608), Memeja(id:110500), Rusk(id:9895), Miyuki h(id:84952), Special rapid(id:96013), Sunen(id:10700), Ktr(id:30468), Kouchiumi(id:19253), Rislimric(id:54531), 金山銀山銅山(id:163855), Mochi(id:9489), Goki(id:7107), Hidama(id:73276), Har-Poon-SSM(id:72987), トマ(id:42664), Hirotaro(id:1437), 210.(id:9838), Cpro(id:28341), Takatetu(id:3231), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

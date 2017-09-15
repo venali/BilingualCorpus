@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>寛平御時后宮歌合</j>
+<e type="trans" ver="1">Kanpyono Ontoki Kisainomiya Utaawase (Utaawase held by the Empress in the Kanpyo period)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanpyono Ontoki Kisainomiya Utaawase (Utaawase held by the Empress during the Kanpyo period)</e>
+<cmt>in→during</cmt>
+<e type="check" ver="1">Kanpyono Ontoki Kisainomiya Uta-awase</e>
+<cmt>タイトルですので、補足を削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>寛平御時后宮歌合（かんぴょうのおんとききさいのみやうたあわせ）は、歌合の一。1巻。</j>
+<e type="trans" ver="1">Kanpyono Ontoki Kisainomiya Utaawase was one of the poetry competitions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanpyono Ontoki Kisainomiya Utaawase a poetry competitions that consisted of one volume.</e>
+<cmt>combined this sentence with the one below to reduce sentence fragmentation; 1→one</cmt>
+<e type="check" ver="1">Kanpyono Ontoki Kisainomiya Uta-awase (Uta-awase held by the Empress during the Kanpyo period) was one of the poetry competitions, which consisted of one volume.</e>
+<cmt>文法の修正を行いました。</cmt>
+</sen>
+<sen id="2">
+<j>寛平初年（889年）ころ宇多天皇の母后（光子后）班子内親王の邸でもよおされた。</j>
+<e type="trans" ver="1">This poetry competition was held at the residence of Imperial Princess Hanshi (the empress dowager Mitsuko), mother of Emperor Uda around 889.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This poetry competition was held at around 889 at the residence of Imperial Princess Hanshi (the empress dowager Mitsuko), mother of Emperor Uda.</e>
+<cmt>moved location of &quot;around 889&quot; to read more naturally</cmt>
+<e type="check" ver="1">This poetry competition was held at around 889 at the residence of Imperial Princess Hanshi (the empress dowager Mitsuko), mother of Emperor Uda.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>四季・恋各20番、計100番。</j>
+<e type="trans" ver="1">There were 100 poems broken down into 20 each of 5 themes including 4 seasons and love.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were 100 poems in total, broken down into 20 for each of the 5 themes which were on love and the four seasons.</e>
+<cmt>rearranged sentence structure to read more naturally; changed 4→four before &quot;seasons&quot;</cmt>
+<e type="check" ver="1">There were 100 poems in total, broken down into 20 for each of the 5 themes which were on love and the four seasons.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>作者は紀友則以下、当代の代表歌人十数人。</j>
+<e type="trans" ver="1">The writers included over 10 representative poets of the time such as KI no Tomonori.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The writers included over 10 representative poets of the time, such as KI no Tomonori.</e>
+<cmt>added comma</cmt>
+<e type="check" ver="1">The writers included over 10 representative poets of the time, such as KI no Tomonori.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>記録の現存する歌合としては、在民部卿家歌合についで古い。</j>
+<e type="trans" ver="1">It was the second oldest utaawase of which the record remains in existence today after Zaiminbukyoke Utaawase (Utaawase held at Minbusho, the Ministry of Civil Affairs, during ARIWARA no Yukihira&apos;s service as the administrator).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This collection is the second oldest utaawase on record remaining in existence today after Zaiminbukyoke Utaawase (Utaawase held at Minbusho, the Ministry of Civil Affairs, during ARIWARA no Yukihira&apos;s service as the administrator).</e>
+<cmt>It→This collection; fixed grammar</cmt>
+<e type="check" ver="1">This collection is the second oldest uta-awase on record remaining in existence today after Zaiminbukyoke Uta-awase (uta-awase held at Minbusho, the Ministry of Civil Affairs, during ARIWARA no Yukihira&apos;s service as the administrator).</e>
+<cmt>OK</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Point136(id:211299), Ks8823(id:130146), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

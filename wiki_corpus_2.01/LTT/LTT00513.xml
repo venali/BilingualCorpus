@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>歌経標式</j>
+<e type="trans" ver="1">Kakyo Hyoshiki</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kakyo Hyoshiki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kakyo Hyoshiki (the oldest extant Kagakusho [a book on the study of waka poems] by FUJIWARA no Hamanari)</e>
+<cmt>補足しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>歌経標式（かきょうひょうしき）は、藤原浜成が著した、現存最古の歌学書。</j>
+<e type="trans" ver="1">&quot;Kakyo hyoshiki&quot; is the oldest existent Kagakusho (a book on the study of waka poems) by FUJIWARA no Hamanari.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Kakyo hyoshiki&quot; is the oldest extant Kagakusho (a book on the study of waka poems) by FUJIWARA no Hamanari.</e>
+<cmt>existent-&gt;extant</cmt>
+<e type="check" ver="1">Kakyo Hyoshiki is the oldest extant Kagakusho written by FUJIWARA no Hamanari.</e>
+<cmt>前出補足を削除しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>成立年代</j>
+<e type="trans" ver="1">Date of Completion</e>
+<cmt></cmt>
+<e type="trans" ver="2">Date of Completion</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Date of Completion</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>序文には宝亀三（772）年五月七日の、跋文には同月二十五日の日付がある。</j>
+<e type="trans" ver="1">The preface dated May 7 (old lunar calendar) (June 16), 772 and the postscript dated May 25 (old lunar calendar) (July 4) of the same year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The preface is dated May 7, 772 and the postscript is dated May 25 of the same year.</e>
+<cmt>sentence fragment</cmt>
+<e type="check" ver="1">The preface is dated June 16, 772 and the postscript is dated July 4 of the same year.</e>
+<cmt>グレゴリオ暦に直しました。</cmt>
+</sen>
+<sen id="3">
+<j>序文から光仁天皇に奉られたものであることがわかる。</j>
+<e type="trans" ver="1">The preface indicates that this book was dedicated to Emperor Konin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The preface indicates that this book was dedicated to Emperor Konin.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The preface indicates that this book was dedicated to Emperor Konin.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>内容</j>
+<e type="trans" ver="1">Contents</e>
+<cmt></cmt>
+<e type="trans" ver="2">Contents</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Contents</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>中国の詩学を下にして、それを歌に応用し歌とはどのようにあるべきかを論じたもの。</j>
+<e type="trans" ver="1">Kakyo Hyosiki discussed how Japanese poems should be through the application of rules derived from the Chinese poetic tradition.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kakyo Hyoshiki discussed how Japanese poems should be through the application of rules derived from the Chinese poetic tradition.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Kakyo Hyoshiki discussed how Japanese poems should be through the application of rules derived from the Chinese poetic tradition.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>ただ、言語上に根本的な相違を有する中国語、そこから生まれた漢詩の理論を、日本語、更には歌に援用したために、そこには”無理”が生じることとなる。</j>
+<e type="trans" ver="1">By applying the theory of poems in Chinese that is a fundamentally different language to Japanese and its poems, however, some unreasonableness was inevitable.</e>
+<cmt></cmt>
+<e type="trans" ver="2">By applying the theory of poems in Chinese that is a fundamentally different language to Japanese and its poems, however, some unreasonableness was inevitable.</e>
+<cmt>This doesn&apos;t make any sense.</cmt>
+<e type="check" ver="1">By applying the theory of poems in Chinese that is a fundamentally different language to Japanese and its poems, however, some &quot;unreasonableness&quot; was inevitable.</e>
+<cmt>クォーテーションを補足しました。</cmt>
+</sen>
+<sen id="6">
+<j>結果、現在では文学史上の存在意義は認められるが、後の和歌（実作）に対する価値は低いと言わざるを得ない。</j>
+<e type="trans" ver="1">As a result, it should be stated that this book has worth meaning of existence in the history of literature, but it is less valuable in terms of influence on Japanese poetry of later days.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a result, it should be stated that this book has value in the history of literature, but it is less valuable in terms of influence on Japanese poetry of later days.</e>
+<cmt>worth-&gt;value</cmt>
+<e type="check" ver="1">As a result, it should be stated that this book has value in the history of literature, but it is less valuable in terms of influence on Japanese poetry of later days.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>だが、一方でそのような”無理”を抱えながら、何故当時かようなものが著されたのかは、考えられる必要があろう。</j>
+<e type="trans" ver="1">It is yet worth considering the reason why such book was written at that time although it had unreasonableness.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is yet worth considering the reason why such a book was written at that time although it had unreasonableness.</e>
+<cmt>articles</cmt>
+<e type="check" ver="1">It is yet worth considering the reason why such a book was written at that time although it had &quot;unreasonableness.&quot;</e>
+<cmt>クォーテーションを補足しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 月下薄氷(id:47743), 玄史生(id:43670), Ai yuto(id:97523), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

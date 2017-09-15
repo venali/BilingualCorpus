@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>暦道</j>
+<e type="trans" ver="1">Rekido</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rekido</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rekido</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>暦道（れきどう）とは、古代日本における暦を作成するための学問（暦学）のことである。</j>
+<e type="trans" ver="1">Rekido is the study to make calendars in ancient Japan.</e>
+<cmt>Webに「暦学」:the study of the calendarの定訳が掲載されていましたが、これを挿入すると重複になるため、入れませんでした。</cmt>
+<e type="trans" ver="2">Rekido is the ancient Japanese study of calendar-making.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Rekido is the ancient Japanese study of calendar-making.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>『日本書紀』には、欽明天皇の時代に百済の暦博士が来日した記事が記されている。</j>
+<e type="trans" ver="1">Nihonshoki (Chronicles of Japan) states that a reki hakase (master of reki (calendar)) came to Japan from Paekche in the era of Emperor Kinmei.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">&quot;Nihonshoki (Chronicles of Japan)&quot; states that a reki hakase (master of reki (calendar)) had come to Japan from Paekche during the era of Emperor Kinmei.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">&quot;Nihonshoki&quot; (Chronicles of Japan) states that a reki hakase (master of reki (calendar)) had come to Japan from Paekche during the era of the Emperor Kinmei.</e>
+<cmt>()を&quot; &quot;の外に出しました。Emperorの前にtheを挿入しました。</cmt>
+</sen>
+<sen id="3">
+<j>しかし、本格的な暦学の伝来は推古天皇12年（602年）の百済僧・観勒の来日による。</j>
+<e type="trans" ver="1">However, the study of the calendar did not take root in Japan until the 12th year of Empress Suiko (602) when priest Kanroku came to Japan from Paekche.</e>
+<cmt>一原文一訳文の例外対処 http://www.ndl.go.jp/koyomi/e/history/pic01_1_exp.html</cmt>
+<e type="trans" ver="2">However, the study of the calendar didn&apos;t take root in Japan until the twelfth year of Empress Suiko (602), when the priest Kanroku came to Japan from Paekche.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">However, the study of the calendar didn&apos;t take root in Japan until the twelfth year of the Empress Suiko (602), when the priest Kanroku came to Japan from Paekche.</e>
+<cmt>Empressの前にtheを挿入しました。</cmt>
+</sen>
+<sen id="4">
+<j>従って日本の暦道の起源はここに求められる。</j>
+<e type="trans" ver="1">Therefore, Japan&apos;s rekido originates from Kanroku&apos;s visit.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, Japan&apos;s rekido originates from Kanroku&apos;s visit.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Therefore, Japan&apos;s rekido originates from Kanroku&apos;s visit.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>律令制においては、大学寮ではなくて陰陽寮の管轄とされ、太陽・月を観測して暦を作成することが規定された。</j>
+<e type="trans" ver="1">Under the Ritsuryo system (a system of centralized government based on the ritsuryo code), the task of preparing the calendar based on the observations of the sun and the moon was carried out by the Onmyoryo (a government office that had jurisdiction over calendar preparation, astronomy, divination, etc.) instead of the Daigaku-ryo (Bureau of Education under the ritsuryo system).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Under the Ritsuryo system (a system of centralized government based on the ritsuryo code), the task of preparing the calendar based on the observations of the sun and moon was carried out by the Onmyoryo (a government office that had jurisdiction over calendar preparation, astronomy, divination, etc.) instead of the Daigaku-ryo (the Bureau of Education under the ritsuryo system).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Under the Ritsuryo system (a system of centralized government based on the ritsuryo code), the task of preparing the calendar based on the observations of the sun and moon was carried out by the Onmyoryo (a government office that had jurisdiction over calendar preparation, astronomy, divination, etc.) instead of the Daigaku-ryo (the Bureau of Education under the ritsuryo system).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>暦博士（1名もしくは2名）・暦生（10名）などが定められた</j>
+<e type="trans" ver="1">There were one or two reki hakase and ten reki no sho (student of calendar)</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">There were one or two reki hakase and ten reki no sho (students of the calendar).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There were one or two reki hakase and ten reki no sho (students of the calendar).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>しかし、実際には中国の暦法を輸入して日本で採用していた。</j>
+<e type="trans" ver="1">However, Japan had already adopted Chinese rekiho (method of making calendars).</e>
+<cmt>一原文一訳文の例外対処 「実際には」は訳出していません。</cmt>
+<e type="trans" ver="2">However, Japan had already adopted the Chinese rekiho (method of making calendars).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">However, Japan had already adopted the Chinese rekiho (method of making calendars).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>そのため、暦道は毎年の暦注の記入と暦の頒布（具注暦）、七曜暦・中星暦の作成や日食の予測に限定された。</j>
+<e type="trans" ver="1">This limited the application of rekido to a few tasks, such as the writing of rekichu (various information recorded in the almanac), the making of shichiyoreki (calendar of the seven luminaries) and chuseireki (chusei calendar), and the prediction of solar eclipses.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">This limited the application of rekido to a few tasks, such as the writing of rekichu (various information recorded in the almanac), the making of shichiyoreki (calendar of the seven luminaries) and chuseireki (chusei calendar), and the prediction of solar eclipses.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This limited the application of rekido to a few tasks, such as the writing of rekichu (various information recorded in the almanac), the making of shichiyoreki (calendar of the seven luminaries) and chuseireki (chusei calendar), and the prediction of solar eclipses.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>また天文道や算道とも被るところがあったため振るわなかった。</j>
+<e type="trans" ver="1">Moreover, rekido covered the same area as tenmondo (ancient horoscopy) and sando (study of mathematics), which prevented it from gaining popularity.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Moreover, rekido covered the same area as tenmondo (ancient horoscopy) and sando (study of mathematics), which prevented it from gaining popularity.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Moreover, rekido covered the same area as tenmondo (ancient horoscopy) and sando (study of mathematics), which prevented it from gaining popularity.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>このため、天平2年（730年）より暦生のうち優秀者2名を暦得業生として給費を行うなどの措置を取った。</j>
+<e type="trans" ver="1">In a bid to reverse the situation, various programs got underway in 730, including the setup of the scholarship program that offered financial aid to two reki tokugyo no sho (reki student) chosen from excellent reki no sho.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In a bid to reverse the situation, various programs got underway in 730, including the establishment of a scholarship program that offered financial aid to two reki tokugyo no sho (reki students) chosen from among the excellent reki no sho.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In a bid to reverse the situation, various programs got underway in 730, including the establishment of a scholarship program that offered financial aid to two reki tokugyo no sho (reki students) chosen from among the excellent reki no sho.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>教科書としては『漢書』・『晋書』の暦律志や採用されている暦の注釈書（『大衍暦議』・『宣明暦経』）、『定天論』・『周髀算経』などが用いられた。</j>
+<e type="trans" ver="1">The textbooks they used included 暦律志 such as &quot;Kanjo&quot;(historical records of the Han Dynasty) and &quot;Jin shu&quot; (History of the Jin Dynasty), commentaries for the adopted calendar (&quot;Daienrekigi&quot; (annotation book of the calendar), &quot;Senmyorekikyo&quot; (annotation book of calendar)), and other books such as &quot;Teitenron&quot; (annotation book of the calendar) and &quot;Shuhisankei&quot; (a mathematic book of ancient China).</e>
+<cmt>一原文一訳文の例外対処　　　　　　　　　　暦律志:「定訳不明」および「読み方不明」(サイトには「律暦志（りつれきし）が正しいようです。」と登録されています。)</cmt>
+<e type="trans" ver="2">The textbooks they used included 暦律志, such as &quot;Kanjo&quot;(historical records of the Han Dynasty) and &quot;Jin shu (History of the Jin Dynasty),&quot; commentaries for the adopted calendar (&quot;Daienrekigi&quot; (annotation book of the calendar), &quot;Senmyorekikyo&quot; (annotation book of the calendar)), and other books such as &quot;Teitenron&quot; (annotation book of the calendar) and &quot;Shuhisankei&quot; (a mathematics book from ancient China).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The textbooks they used included 暦律志, such as &quot;Kanjo&quot;(historical records of the Han Dynasty) and &quot;Jin shu&quot; (History of the Jin Dynasty), commentaries for the adopted calendar (&quot;Daienrekigi&quot; (annotation book of the calendar), &quot;Senmyorekikyo&quot; (annotation book of the calendar)), and other books such as &quot;Teitenron&quot; (annotation book of the calendar) and &quot;Shuhisankei&quot; (a mathematics book from ancient China).</e>
+<cmt>一か所、()を&quot; &quot;の外に移動させました。</cmt>
+</sen>
+<sen id="12">
+<j>その他、算道の教科書である『九章算術』・『六章』などの数学書も用いられている。</j>
+<e type="trans" ver="1">Other than these, they also used the textbooks of sando (study of mathematics) such as &quot;Kyushosanjutsu&quot; (the oldest mathematic book in China) and &quot;Rokusho.&quot;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Additionally, they used the textbooks of sando (study of mathematics) such as &quot;Kyushosanjutsu&quot; (the oldest mathematics book in China) and &quot;Rokusho.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, they used the textbooks of sando (study of mathematics) such as &quot;Kyushosanjutsu&quot; (the oldest mathematics book in China) and &quot;Rokusho.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>また、暦注の記載に関しては『大唐陰陽書』などを参照したとされている。</j>
+<e type="trans" ver="1">It is believed that they referred to &quot;Daito Onmyosho&quot; (the book of yin and yang in the Tang era) and other books to write rekichu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is believed that they referred to &quot;Daito Onmyosho&quot; (the book of yin and yang in the Tang era) and other books in order to write rekichu.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is believed that they referred to &quot;Daito Onmyosho&quot; (the book of yin and yang in the Tang era) and other books in order to write rekichu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>平安時代に入ると、暦日と密接な方角禁忌が貴族の間で尊重された。</j>
+<e type="trans" ver="1">In the Heian period, nobles seriously believed that there were taboo directions which varied by day.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">During the Heian period, nobles seriously believed that there were taboo directions that varied from day to day.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">During the Heian period, nobles seriously believed that there were taboo directions that varied from day to day.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>そのため、それらを知るための暦注が含まれた具注暦への需要が高まった。</j>
+<e type="trans" ver="1">This boosted the popularity of guchureki (annotated calendar) that included rekichu which showed a taboo direction for each day.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">This boosted the popularity of guchureki (annotated calendar), which included rekichu showing a taboo direction for each day.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This boosted the popularity of guchureki (annotated calendar), which included rekichu showing a taboo direction for each day.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>このため、次第に暦道も科学的な暦学から陰陽道的な色を帯びたものに変質していくことになる。</j>
+<e type="trans" ver="1">So, rekido, originally a scientific study of the calendar, began taking on the flavor of Onmyodo (way of Yin and Yang; occult divination system based on the Taoist theory of the five elements).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Therefore, rekido, which was originally a scientific study of the calendar, began to take on the flavor of Onmyodo (way of Yin and Yang, an occult divination system based on the Taoist theory of the five elements).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Therefore, rekido, which was originally a scientific study of the calendar, began to take on the flavor of Onmyodo (way of Yin and Yang, an occult divination system based on the Taoist theory of the five elements).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="17">
+<j>平安時代中期の賀茂保憲が子の賀茂光栄に伝授して以後、賀茂氏の家学となる。</j>
+<e type="trans" ver="1">In the mid Heian period, rekido became the hereditary learning of the Kamo clan since the astrologer, KAMO no Yasunori, initiated his son, KAMO no Yasunori.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In the mid-Heian period, rekido became the hereditary learning of the Kamo clan since the astrologer, KAMO no Yasunori, initiated his son, KAMO no Yasunori.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">In the mid-Heian period, rekido became the hereditary learning of the Kamo clan since the astrologer, KAMO no Yasunori, initiated his son, KAMO no Mitsuyoshi.</e>
+<cmt>二番目のYasunoriをMitsuyoshiに変更しました。</cmt>
+</sen>
+<sen id="18">
+<j>保憲は日食予想の成功率の低下などを憂慮して呉越に留学していた日延（天台宗）に依頼して持ち帰らせた符天暦の採用を図った。</j>
+<e type="trans" ver="1">Concerned about a decline in the success rate in solar eclipse prediction, the KAMO no Yasunori asked Nichien (a priest of theTendai sect) who was studying in Wu-yueh to bring back the futenreki (the Futian calendar table) and tried to use it.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Concerned about a decline in the success rate of solar eclipse prediction, the KAMO no Yasunori asked Nichien, a priest of the Tendai sect who was studying in Wu-yueh, to bring back the futenreki (the Futian calendar table) and then tried to use it.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Concerned about a decline in the success rate of solar eclipse prediction, the KAMO no Yasunori asked Nichien, a priest of the Tendai sect who was studying in Wu-yueh, to bring back the futenreki (the Futian calendar table) and then tried to use it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>しかし、朝廷に採用されなかった。</j>
+<e type="trans" ver="1">However, the court did not allow him to use it.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, the court did not allow him to use it.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, the court did not allow him to use it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>そのため、光栄以後は表面上は宣明暦を掲げながら、秘かに符天暦も併用した。</j>
+<e type="trans" ver="1">So, after KAMO no Mitsuyoshi, the Kamo clan pretended to adopt only the Senmyo Calendar in the eyes of the public, while they also used the futenreki in secret.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Consequently, after KAMO no Mitsuyoshi, the Kamo clan pretended to adopt only the Senmyo calendar in the eyes of the public, while in secret they also used the futenreki.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Consequently, after KAMO no Mitsuyoshi, the Kamo clan pretended to adopt only the Senmyo calendar in the eyes of the public, while in secret they also used the futenreki.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>その一方で、符天暦と密教が結びついた宿曜道の台頭が暦道を脅かした。</j>
+<e type="trans" ver="1">In the meanwhile, rekido was overshadowed by sukuyodo, the emerging astrology that was established by combining the futenreki and Esoteric Buddhism.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meanwhile, rekido was overshadowed by sukuyodo, the emerging astrology that had been established by combining the futenreki and Esoteric Buddhism.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Meanwhile, rekido was overshadowed by sukuyodo, the emerging astrology that had been established by combining the futenreki and Esoteric Buddhism.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>当初、暦道と宿曜道が共同して暦を作成していた時期もあった（『小右記』長和4年7月8日条）。</j>
+<e type="trans" ver="1">At first, scholars of rekido and sukuyodo collaborated to make a calendar (according to an entry in &quot;Shoyuki&quot; (the diary of FUJIWARA no Sanesuke) dated on 30 August, 1015).</e>
+<cmt>一原文一訳文の例外対処 原文のままですと、()内の情報が何のためにあるかはっきりしないので、&quot;according to&quot;を加えました。</cmt>
+<e type="trans" ver="2">Initially, scholars of rekido and sukuyodo collaborated to make a calendar (according to an entry in &quot;Shoyuki&quot; (the diary of FUJIWARA no Sanesuke) dated August 30, 1015).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Initially, scholars of rekido and sukuyodo collaborated to make a calendar (according to an entry in &quot;Shoyuki&quot; (the diary of FUJIWARA no Sanesuke) dated August 30, 1015).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>しかし、長暦2年（1038年）頃に両者の対立から宿曜道側が暦道の批判に回ったという（『春記』長暦2年11月27日条）。</j>
+<e type="trans" ver="1">However, around in 1038, a conflict arose between them and the scholars of sukuyodo began criticizing those of rekido (according to an entry in &quot;Shunki&quot; (Spring Tale) dated on 31 December, 1038).</e>
+<cmt>一原文一訳文の例外対処　　　　　　　　　　原文のままですと、()内の情報が何のためにあるかはっきりしないので、&quot;according to&quot;を加えました。</cmt>
+<e type="trans" ver="2">However, in about 1038 a conflict arose between them, and the scholars of sukuyodo began criticizing those of rekido (according to an entry in &quot;Shunki (Spring Tale)&quot; dated December 31, 1038).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, in about 1038 a conflict arose between them, and the scholars of sukuyodo began criticizing those of rekido (according to an entry in &quot;Shunki (Spring Tale)&quot; dated December 31, 1038).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="24">
+<j>更に当時の風習として、「朔旦冬至」の到来や回避を行うため、天体の動きとは無関係に人為的な暦の調整（「改暦」）が行われた。</j>
+<e type="trans" ver="1">It was the custom of the day to manipulate the calendar in order to pretend that sakutan toji came or did not come regardless of the cycle of celestial bodies (which is called kaireki).</e>
+<cmt>一原文一訳文の例外対処　　　　　　　　　「更に」は訳出していません。　原文のままですと、()内の情報とそれ以外の情報のつながりがはっきりしないので、&quot;which is called&quot;を加えました。 http://koyomi.vis.ne.jp/directjp.cgi?http://koyomi.vis.ne.jp/reki_doc/doc_0748.htm</cmt>
+<e type="trans" ver="2">It was the custom of the day to manipulate the calendar in order to pretend that sakutan toji came or did not come regardless of the cycle of celestial bodies (which is called kaireki).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was the custom of the day to manipulate the calendar in order to pretend that &apos;sakutan toji&apos; came or did not come regardless of the cycle of celestial bodies (which is called &apos;kaireki&apos;).</e>
+<cmt>原文の「」の部分に&apos; &apos;を付加しました。</cmt>
+</sen>
+<sen id="25">
+<j>（「朔旦冬至」とは19年周期の最初の年に11月1日 (旧暦)が冬至となること。)</j>
+<e type="trans" ver="1">(When winter solstice happens to be the first day of November (in old lunar calendar) once in 20 years, it is called sakuten toji.)</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">(When the winter solstice happens to be the first day of November (in the old lunar calendar) once in 20 years, it is called sakuten toji.)</e>
+<cmt>article</cmt>
+<e type="check" ver="1">(When the winter solstice happens to be the first day of November (in the old lunar calendar) once in 20 years, it is called sakuten toji.)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>（慶事とされる一方で、大規模な儀式に費用がかかった。）</j>
+<e type="trans" ver="1">(Sauten toji was considered auspicious and a huge ceremony was held on this day, which cost a lot.)</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">(Sauten toji was considered auspicious, and a huge and very expensive ceremony was held on this day.)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">(Sauten toji was considered auspicious, and a huge and very expensive ceremony was held on this day.)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>また、下記のような迷信が信じられた。</j>
+<e type="trans" ver="1">People believed superstitions such as the following.</e>
+<cmt>一原文一訳文の例外対処 「また」は訳出していません。</cmt>
+<e type="trans" ver="2">People believed superstitions such as the following:</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">People believed superstitions such as the following:</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>「19年周期に閏月は7回訪れる。」</j>
+<e type="trans" ver="1">&quot;An intercalary month is added on seven occasions during the nineteen-year period.&quot;</e>
+<cmt>一原文一訳文の例外対処 http://homepage2.nifty.com/o-tajima/rekidaso/calendar2.htm</cmt>
+<e type="trans" ver="2">&quot;An intercalary month is added on seven occasions during a 19-year period.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">An intercalary month is added on seven occasions during a 19-year period.&apos;</e>
+<cmt>&quot; &quot;を&apos; &apos;に変更しました。</cmt>
+</sen>
+<sen id="29">
+<j>「閏月の最初が閏8月ではいけない。」</j>
+<e type="trans" ver="1">&quot;If the first intercalary month becomes intercalary August, it is unlucky.&quot;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">&quot;If the first intercalary month becomes intercalary August, it is unlucky.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">If the first intercalary month becomes intercalary August, it is unlucky.&apos;</e>
+<cmt>&quot; &quot;を&apos; &apos;に変更しました。</cmt>
+</sen>
+<sen id="30">
+<j>「大の月が4連続してはならない。」</j>
+<e type="trans" ver="1">&quot;If a month that consists of 30 days continues four times in a row, it is unlucky.&quot;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">&quot;If a month that consists of 30 days continues four times in a row, it is unlucky.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">If a month that consists of 30 days continues four times in a row, it is unlucky.&apos;</e>
+<cmt>&quot; &quot;を&apos; &apos;に変更しました。</cmt>
+</sen>
+<sen id="31">
+<j>これに基づいて、人為的な暦の調整（「改暦」）が行われた。</j>
+<e type="trans" ver="1">These superstitions prompted the manipulation of the calendar (which is called kaireki).</e>
+<cmt>一原文一訳文の例外対処 原文のままですと、()内の情報とそれ以外の情報のつながりがはっきりしないので、&quot;which is called&quot;を加えました。</cmt>
+<e type="trans" ver="2">These superstitions prompted the manipulation of the calendar (which is called kaireki).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">These superstitions prompted the manipulation of the calendar (which is called kaireki).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>また、場合によっては暦算の誤りとそれを隠すために至った。</j>
+<e type="trans" ver="1">In some cases, the scholars of rekido changed the calendar just to cover up mistakes in rekizan (calculation of calendar).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In some cases, the scholars of rekido changed the calendar just to cover up mistakes in rekizan (calculation of the calendar).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In some cases, the scholars of rekido changed the calendar just to cover up mistakes in rekizan (calculation of the calendar).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>符天暦の仕組を巧に用いて「口伝・秘伝」と称して本来あり得ない置閏法の設定などをした。</j>
+<e type="trans" ver="1">Cunningly cheating the system of the futenreki (the Futian calendar table), they concocted a fake Chijun-ho (a calendar technique of setting leap month and leap day) while insisting that they were following kuden (oral instructions) or inherited secret teachings passed on to them.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Cunningly cheating the system of the futenreki (the Futian calendar table), they concocted a fake Chijun-ho (a calendar technique of setting a leap month and leap day) while insisting that they were following kuden (oral instructions) or secret teachings they had inherited.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Cunningly cheating the system of the futenreki (the Futian calendar table), they concocted a fake Chijun-ho (a calendar technique of setting a leap month and leap day) while insisting that they were following kuden (oral instructions) or secret teachings they had inherited.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>そのように暦を作成して極秘に調整した（日食や夏至・冬至の予定が狂う可能性が高くなる）。</j>
+<e type="trans" ver="1">Thus, they manipulated the calendar in secret (which raised the possibility that solar eclipses and summer and winter solstices would not occur as forecasted).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Thus they manipulated the calendar in secret (which raised the possibility that solar eclipses and summer and winter solstices would not occur according to the forecasts).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Thus they manipulated the calendar in secret (which raised the possibility that solar eclipses and summer and winter solstices would not occur according to the forecasts).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>このような暦道の振舞いに対して算道・宿曜道側からの激しい攻撃を受けた。</j>
+<e type="trans" ver="1">These acts of the rekido scholars came under fire from the scholars of sando (study of mathematics) and sukuyodo (the astrology brought as a part of esoteric Buddhism).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">These acts of the rekido scholars came under fire from the scholars of sando (study of mathematics) and sukuyodo (the astrology brought as part of Esoteric Buddhism).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">These acts of the rekido scholars came under fire from the scholars of sando (study of mathematics) and sukuyodo (the astrology brought as part of Esoteric Buddhism).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>更に鎌倉時代以後には仮名暦・民間暦も登場した事によりその地位は大きく低下する事となる。</j>
+<e type="trans" ver="1">After the Kamakura era, the status of rekido further declined by the advent of the Kana-goyomi calendar (calendar written in the Japanese syllabaries, kana) and the Minkan-reki calendar.</e>
+<cmt>http://library.nao.ac.jp/kichou/open/012/index.html</cmt>
+<e type="trans" ver="2">After the Kamakura era, the status of rekido further declined through the advent of the Kana-goyomi calendar (a calendar written in the Japanese syllabaries, or kana) and the Minkan-reki calendar.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After the Kamakura era, the status of rekido further declined through the advent of the Kana-goyomi calendar (a calendar written in the Japanese syllabaries, or kana) and the Minkan-reki calendar.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>室町時代に入ると、暦博士が天文密奏を行う例も見られた。</j>
+<e type="trans" ver="1">In the Muromachi era, reki hakase occasionally carried out tenmon misso (reporting unusual astronomical phenomena to the emperor).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In the Muromachi era, reki hakase occasionally carried out tenmon misso (reporting unusual astronomical phenomena to the emperor).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the Muromachi era, reki hakase occasionally carried out tenmon misso (reporting unusual astronomical phenomena to the emperor).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>しかし、賀茂氏の嫡流である勘解由小路家の断絶により、土御門家 (安倍氏)が暦道の主導権を握り、賀茂氏の庶流幸徳井家を圧迫して傘下に加えた。</j>
+<e type="trans" ver="1">However, after the extinction of the Kadenokoji family line, the direct descendant of the Kamo clan, the Tsuchimikado family (the main branch of the Abe clan) became the leading figure in rekido and forced the Kotokui family, a branch family of the Kamo clan, to come under their control.</e>
+<cmt>一原文一訳文の例外対処 原文のママですと、(安倍氏)と挿入されている意味が分からないので、訳は（安倍氏嫡流）とし、土御門家との関係を明らかにしました。http://members2.jcom.home.ne.jp/sengokubusyou/tutimikadokesyou.htm</cmt>
+<e type="trans" ver="2">However, after the extinction of the Kadenokoji family line, the direct descendant of the Kamo clan, the Tsuchimikado family (the main branch of the Abe clan), became the leading figure in rekido and forced the Kotokui family, a branch family of the Kamo clan, to come under their control.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">However, after the extinction of the Kadenokoji family line, the direct descendant of the Kamo clan, the Tsuchimikado family (the main branch of the Abe clan), became the leading figure in rekido and forced the Kotokui family, a branch family of the Kamo clan, to come under their control.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="39">
+<j>更に全国の陰陽師・暦師を傘下に加えて暦の販売に関して冥加金を取り立てる権限を獲得した。</j>
+<e type="trans" ver="1">They also gained control over Onmyoji (Master of Yin yang) and koyomi-shi (calendar makers) throughout the country, which enabled them to acquire the right to charge myogakin (money to dedicate) for the sales of calendars.</e>
+<cmt>http://www.geocities.jp/mishimagoyomi/yakata/yakata.htm</cmt>
+<e type="trans" ver="2">They also gained control over Onmyoji (Master of Yin yang) and koyomi-shi (calendar makers) throughout the country, which enabled them to acquire the right to charge myogakin (money to dedicate) for the sales of their calendars.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">They also gained control over Onmyoji (Master of Yin yang) and koyomi-shi (calendar makers) throughout the country, which enabled them to acquire the right to charge myogakin (money to dedicate) for the sales of their calendars.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>だが、明治維新後に陰陽寮が廃止され、暦道に代わって東京天文台が暦に関する業務を行うようになる。</j>
+<e type="trans" ver="1">After Meiji Restoration, however, the Onmyoryo was abolished and the Tokyo astronomical observatory replaced rekido in all matters relating to the calendar.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the Meiji Restoration, however, the Onmyoryo was abolished and the Tokyo astronomical observatory replaced rekido in all matters relating to the calendar.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">After the Meiji Restoration, however, the Onmyoryo was abolished and the Tokyo astronomical observatory replaced rekido in all matters relating to the calendar.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Straysheep(id:42448), 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

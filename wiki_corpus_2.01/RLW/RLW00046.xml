@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>蹴上駅</j>
+<e type="trans" ver="1">Keage Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keage Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keage Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>蹴上駅（けあげえき）は、京都市東山区にある、京都市営地下鉄東西線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Higashiyama Ward, Kyoto City, Keage Station is a stop on Kyoto Municipal Subway Tozai Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Located in Higashiyama Ward, Kyoto City, Keage Station is a stop on the Kyoto Municipal Subway Tozai Line.</e>
+<cmt>Added &quot;the&quot;</cmt>
+<e type="check" ver="1">Located in Higashiyama Ward, Kyoto City, Keage Station is a stop on the Kyoto Municipal Subway Tozai Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>駅番号はT09。</j>
+<e type="trans" ver="1">The station number is T09.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station number is T09.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The station number is T09.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Structure of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station Layout</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Station Layout</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>他の東西線の駅と同様、複線島式ホームで、プラットホーム安全対策が設置されている。</j>
+<e type="trans" ver="1">Just the same as the other stations of Tozai Line, Keage Station has a double track, an island platform and safety measures for the platforms.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Like other stations on the Tozai Line, Keage Station has a double track, an island platform and security doors between the platform and tracks.</e>
+<cmt>&quot;Just the same as the&quot;→&quot;Like&quot;&quot;of&quot;→&quot;on the&quot;&quot;プラットホーム安全対策&quot; are probably the gates to stop people falling on the track but I&apos;m not sure</cmt>
+<e type="check" ver="1">Like other stations on the Tozai Line, Keage Station has a double track, an island platform and security doors between the platform and tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>東西線の駅は駅ごとにステーションカラーが制定されているが、蹴上駅のステーションカラーは菫（すみれ）色。</j>
+<e type="trans" ver="1">Every station of Tozai Line has its own color, and Keage Station&apos;s is violet.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Every station of Tozai Line has its own color, and Keage Station&apos;s is violet.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Every station of the Tozai Line has its own color, and Keage Station&apos;s is violet.</e>
+<cmt>&quot;Tozai Line&quot;→&quot;the Tozai Line&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>地下4階にホームがある。</j>
+<e type="trans" ver="1">Keage Station&apos;s platform is located in the fourth basement.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keage Station&apos;s platform is located on sub-level 4.</e>
+<cmt>&quot;in the fourth basement&quot;→&quot;on sub-level 4&quot;</cmt>
+<e type="check" ver="1">Keage Station&apos;s platform is located on sub-level four.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="6">
+<j>エレベーターは三菱製で、ホームへのエレベーターはストレッチャー対応で、ホーム(地下4階)とコンコース(地下1階)に停止するが、その間に中間階が2ヶ所ある。</j>
+<e type="trans" ver="1">The station is equipped with two elevators that were manufactured by Mitsubishi Electric Corporation, and the elevator that links the platform (in the fourth basement) with the concourse (in the first basement) can load and transport a strecher, but it doesn&apos;t make a stop at the other two basements in between.</e>
+<cmt>①一原文一訳文の例外対処。（文章の後半はエレベーターのボタンに関する説明であり、内容的に前半とは区別されるので、文章も別にしたほうがよいと考えました。）　②オリジナルの「その間に中間階が2ヶ所ある」についてはやや舌足らずであり、英訳では「その間に２ヶ所ある中間階ではエレベーターは止まらない。」と、言い回しを変えています。　③ホームとコンコースを結ぶエレベーターとは別に、コンコースと地上を結ぶエレベーターがありますので、英訳の一行目では「二つの」としています。 [http://www.city.kyoto.lg.jp/kotsu/page/0000009957.html] 参照。</cmt>
+<e type="trans" ver="2">The station is equipped with two elevators that were manufactured by Mitsubishi Electric Corporation, and the elevator that links the platform (sub-level 4) with the concourse (sub-level 1) can load and transport a strecher, but it doesn&apos;t stop at the two floors in between.</e>
+<cmt>&quot;in the fourth basement&quot;→&quot;sub-level 4&quot;&quot;in the first basement&quot;→&quot;sub-level 1&quot;Deleted &quot;make a&quot;, &quot;other&quot;&quot;basements&quot;→&quot;floors&quot;</cmt>
+<e type="check" ver="1">The station is equipped with two elevators that were manufactured by Mitsubishi Electric Corporation, and the elevator that links the platform (sub-level four) with the concourse (sub-level one) can load and transport a stretcher, but it doesn&apos;t stop at the two floors in between.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="7">
+<j>ボタンもあるが、何も書かれておらず、押しても止まらないとの音声が流れる。</j>
+<e type="trans" ver="1">With all the buttons on that elevator&apos;s cage wall, there is no description about what they are for, and the elevator&apos;s announcement notifies that it doesn&apos;t make a stop at those two basements even when passengers push the buttons.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">There are buttons for the two floors but they are unmarked and when pushed, an announcement states that the elevator doesn&apos;t stop at those floors.</e>
+<cmt>Reworded sentence for clarity</cmt>
+<e type="check" ver="1">There are buttons for the two floors but they are unmarked and when pushed, an announcement states that the elevator doesn&apos;t stop at those floors.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>地上への出口は2ヶ所。</j>
+<e type="trans" ver="1">The station has two exits that open to the ground.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station has two exits to street level.</e>
+<cmt>&quot;that open to the ground&quot;→&quot;to street level&quot;</cmt>
+<e type="check" ver="1">The station has two exits to street level.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>風致地区に設定されており、出入り口はレンガ調のタイル仕上げになっている。</j>
+<e type="trans" ver="1">The area around the station is designated as the planned scenic zone because the entrance &amp; exit building has a finish of brick-style tiles.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area around the station is designated a scenic zone because the entrances have a finish of brick-style tiles.</e>
+<cmt>&quot;as the planned&quot;→&quot;a&quot;&quot;&amp; exit building has a finish of&quot;→&quot;have&quot;</cmt>
+<e type="check" ver="1">The area around the station is designated a scenic zone and the entrances have a finish of brick-style tiles.</e>
+<cmt>because→ and　としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>利用状況</j>
+<e type="trans" ver="1">Situation of passengers&apos; use</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger Use</e>
+<cmt>Deleted &quot;Situation&quot; and &quot;&apos;s&quot;</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>小タイトル用に変更しました。</cmt>
+</tit>
+<par id="1">
+<sen id="10">
+<j>岡崎公園周辺や東山山麓の観光拠点として利用されている。</j>
+<e type="trans" ver="1">The station is used as a starting point to go sightseeing spots in the foot area of Higashiyama Mountain Range, including the area around Okazaki Park.</e>
+<cmt>地図上で確認すると、「岡崎公園周辺」も「東山山麓」の一部です。それゆえ、B.オリジナルの言い回しを多少変えて「岡崎公園周辺を含む東山山麓」と表現してみました。</cmt>
+<e type="trans" ver="2">The station is used as a starting point to go to sightseeing spots in the Higashiyama Mountain Range, including the area around Okazaki Park.</e>
+<cmt>Added &quot;to&quot;Deleted &quot;foot area of &quot;</cmt>
+<e type="check" ver="1">The station is used as a starting point to go to sightseeing spots in the Higashiyama Mountain Range, including the area around Okazaki Park.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>また付近に東山高校があり、男子高校生の利用が多い。</j>
+<e type="trans" ver="1">There is Higashiyama High School nearby, so many male students there use the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With Higashiyama High School nearby, many students use the station.</e>
+<cmt>&quot;There is&quot;→&quot;With&quot;Although the school is a boys&apos; school, I don&apos;t think the gender of the students is important for this article.</cmt>
+<e type="check" ver="1">With Higashiyama High School nearby, many students use the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="12">
+<j>午前8時前後は利用者の8割が東山中学高校の学生である。</j>
+<e type="trans" ver="1">Around 8 a.m, almost 80% of the passengers are students of Higashiyama High &amp; Junior High School.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Around 8 a.m, almost 80% of the passengers are students of Higashiyama High &amp; Junior High School.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Around 8 a.m., almost eighty percent of the passengers are students of Higashiyama High and Junior High School.</e>
+<cmt>数字を一部 スペルアウトしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Surroundings of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Surroundings</e>
+<cmt>Deleted &quot;of the station&quot;</cmt>
+<e type="check" ver="1">Surroundings</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>京都盆地の東端、東山 (京都府)の山麓に位置する。</j>
+<e type="trans" ver="1">The station is located at the eastern edge of Kyoto Basin, or the foot area of Higashiyama Mountain Range (in Kyoto Prefecture).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station is located on the eastern edge of Kyoto Basin, at the foot of the Higashiyama Mountain Range.</e>
+<cmt>&quot;at&quot;→&quot;on&quot;&quot;or the foot area of&quot;→&quot;at the foot of the&quot;Deleted &quot;(in Kyoto Prefecture)&quot; - I think it&apos;s obvious that it is talking about Kyoto.</cmt>
+<e type="check" ver="1">The station is located on the eastern edge of Kyoto Basin, at the foot of the Higashiyama Mountain Range.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>北西方向は市街地であるが、南東方向には東海道（三条通）が山を越えていくのみである。</j>
+<e type="trans" ver="1">From the station, you can see a downtown area in the northwest direction, but in the southeast direction, all you can see is Tokaido (Sanjo-dori Street) that goes over the mountain.</e>
+<cmt></cmt>
+<e type="trans" ver="2">To the northwest is the downtown area but to the southeast, there is only the Tokaido (Sanjo-dori Street), heading over the mountains.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">To the northwest is the downtown area but to the southeast, there is only the Tokaido Road (Sanjo-dori Street), heading over the mountains.</e>
+<cmt>Tokaido Road としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="15">
+<j>ウェスティン都ホテル京都</j>
+<e type="trans" ver="1">The Westin Miyako Kyoto</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Westin Miyako Kyoto hotel</e>
+<cmt>Added &quot;hotel&quot; for clarity</cmt>
+<e type="check" ver="1">The Westin Miyako Kyoto hotel</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="16">
+<j>南禅寺</j>
+<e type="trans" ver="1">Nanzen-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nanzen-ji Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nanzen-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="17">
+<j>琵琶湖疏水</j>
+<e type="trans" ver="1">Lake Biwa Canal</e>
+<cmt></cmt>
+<e type="trans" ver="2">Lake Biwa Canal</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Lake Biwa Canal</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="18">
+<j>琵琶湖疏水記念館</j>
+<e type="trans" ver="1">Lake Biwa Canal Museum of Kyoto</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Lake Biwa Canal Museum of Kyoto</e>
+<cmt>Added &quot;The&quot;</cmt>
+<e type="check" ver="1">The Lake Biwa Canal Museum of Kyoto</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="19">
+<j>インクライン</j>
+<e type="trans" ver="1">Incline</e>
+<cmt></cmt>
+<e type="trans" ver="2">Canal inclined plane</e>
+<cmt>Added &quot;canal&quot; and &quot;plane&quot; for clarity though maybe needs more explanation</cmt>
+<e type="check" ver="1">Canal inclined plane</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="20">
+<j>ねじりマンポ（レンガ造りの一風変わったトンネル）</j>
+<e type="trans" ver="1">&quot;Nejiri-Mampo&quot; (a peculiar tunnel made up of bricks)</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Nejiri-Mampo&quot; (a peculiar tunnel made up of bricks)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;Nejiri-Manpo&quot; (a peculiar tunnel made up of bricks)</e>
+<cmt>manpo としました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="21">
+<j>蹴上発電所（日本最初の水力発電所）</j>
+<e type="trans" ver="1">The Keage Hydroelectric Power Plant</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Keage Hydroelectric Power Plant (Japan&apos;s first hydroelectric plant)</e>
+<cmt>Added &quot;(Japan&apos;s first hydroelectric plant)&quot;</cmt>
+<e type="check" ver="1">The Keage Hydroelectric Power Plant (Japan&apos;s first hydroelectric plant)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="22">
+<j>蹴上浄水場</j>
+<e type="trans" ver="1">The Keage Purification Plant</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Keage Purification Plant</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Keage Purification Plant</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="23">
+<j>九条山浄水場</j>
+<e type="trans" ver="1">The Kujoyama Purification Plant</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kujoyama Purification Plant</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Kujoyama Purification Plant</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="24">
+<j>禅林寺 (京都市)（永観堂）</j>
+<e type="trans" ver="1">Zenrin-ji Temple, or Eikando (in Kyoto City)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Zenrin-ji Temple, or Eikando (in Kyoto City)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Zenrin-ji Temple, or Eikando (Kyoto City)</e>
+<cmt>in　を削除しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="25">
+<j>無鄰庵</j>
+<e type="trans" ver="1">Murin&apos;an</e>
+<cmt></cmt>
+<e type="trans" ver="2">Murin&apos;an Villa and Gardens</e>
+<cmt>Added &quot;Villa and Gardens&quot;</cmt>
+<e type="check" ver="1">Murinan Villa and Gardens</e>
+<cmt>Murinan　としました。</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="26">
+<j>東山高等学校</j>
+<e type="trans" ver="1">Higashiyama High School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Higashiyama High School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Higashiyama High School</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="27">
+<j>京都市国際交流会館</j>
+<e type="trans" ver="1">Kyoto Internatioal Community House</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Internatioal Community House</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto International Community House</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="28">
+<j>京都市動物園ほか -- 東山駅 (京都府)に近接しているが当駅からもアクセス可能。</j>
+<e type="trans" ver="1">Kyoto City Zoo, etc.---The zoo is near to Higashiyama Station (in Kyoto Prefecture), but it is also accessible from Keage Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Zoo, etc.---The zoo is near to Higashiyama Station (in Kyoto Prefecture), but it is also accessible from Keage Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Zoo, etc. : The zoo is near to Higashiyama Station (Kyoto Prefecture), but it is also accessible from Keage Station.</e>
+<cmt>in　を削除しました。 --- → :　としました。</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="29">
+<j>日向大神宮</j>
+<e type="trans" ver="1">Himukai-daijingu Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Himukai-daijingu Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Himukai-daijingu Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="30">
+<j>京都市交通局の蹴上駅としては、京都市電蹴上線の蹴上駅に次ぐ2代目の駅である。</j>
+<e type="trans" ver="1">As the station under control of Kyoto Municipal Transportation Bureau, the present Keage Station is the second generation, following former Keage Station which was operated by Keage Line of Kyoto City Trams.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is the second Keage Station to be run by Kyoto Municipal Transportation Bureau, the first one being a tram stop on the defunct Keage Tram Line.</e>
+<cmt>Rewrote sentence</cmt>
+<e type="check" ver="1">This is the second Keage Station to be run by Kyoto Municipal Transportation Bureau, the first one being a tram stop on the defunct Keage Tram Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>また、京阪京津線の蹴上駅 は現在の地下鉄駅より交差点をはさんで西側にあった。</j>
+<e type="trans" ver="1">And another Keage Station, which was operated by Keihan Keishin Line, was located at the point where you go westward from the present Keage Station across the intersection.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There was also another Keage Station, operated by Keihan Keishin Line, which was located to the west of the present Keage Station, across the intersection.</e>
+<cmt>Rewrote sentence</cmt>
+<e type="check" ver="1">There was also another Keage Station, operated by the Keihan Keishin Line, which was located to the west of the present Keage Station, across the intersection.</e>
+<cmt>&quot;Keihan Keishin Line&quot;→&quot;the Keihan Keishin Line&quot;に変更しました。</cmt>
+</sen>
+<sen id="32">
+<j>1997年10月12日　東西線醍醐ー二条間開業に伴い設置。</j>
+<e type="trans" ver="1">October 12, 1997---the present Keage Station was established when Tozai Line began the operation for the section between Daigo Station and Nijo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 12, 1997 --- Establishment of Keage Station and Daigo Station to Nijo Station section of Tozai Line.</e>
+<cmt>Reworded sentence and made it more &apos;note-like&apos;</cmt>
+<e type="check" ver="1">October 12, 1997: Establishment of Keage Station and Daigo Station to Nijo Station section of Tozai Line.</e>
+<cmt>--- → :　としました。</cmt>
+</sen>
+<sen id="33">
+<j>2007年4月1日 - PiTaPa使用開始。</j>
+<e type="trans" ver="1">April 1, 2007---PiTaPa, an IC card for payment of railway fares and others, was made available.</e>
+<cmt>「PiTaPa」は説明を要するところですが、「鉄道料金等の支払いに利用できるICカード」としました。</cmt>
+<e type="trans" ver="2">April 1, 2007--- Introduction of PiTaPa smart card ticketing and electronic money system.</e>
+<cmt>Added &quot;Introduction of&quot;Removed &quot;was made available&quot;I think &quot;IC card&quot; is a little Japanesey.</cmt>
+<e type="check" ver="1">April 1, 2007: Introduction of PiTaPa Card ticketing and electronic money system.</e>
+<cmt>PiTaPa Card としました。</cmt>
+</sen>
+</sec>
+<sec id="5">
+<tit>
+<j>備考</j>
+<e type="trans" ver="1">Note</e>
+<cmt></cmt>
+<e type="trans" ver="2">Note</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Note</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="34">
+<j>駅施設は第三セクターである京都高速鉄道株式会社が建設。</j>
+<e type="trans" ver="1">The facilities of Keage Station were built by Kyoto Kosoku Railway Co., Ltd., a joint public-private venture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The facilities of Keage Station were built by Kyoto Kosoku Railway Co., Ltd., a joint public-private venture.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The facilities of Keage Station were built by Kyoto Kosoku Railway Co., Ltd., a joint public-private venture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="35">
+<j>（詳しくは京都市営地下鉄東西線の歴史の項を参照）</j>
+<e type="trans" ver="1">(For details, please refer to the article of history in the homepage of Kyoto Municipal Subway Tozai Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(For details, please refer to the article on the history of the Kyoto Municipal Subway Tozai Line)</e>
+<cmt>&quot;of &quot;→&quot;on the&quot;&quot;in the homepage of&quot;→&quot;of the&quot;</cmt>
+<e type="check" ver="1">(For details, please refer to the article on the history of the Kyoto Municipal Subway Tozai Line)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Next station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjacent station</e>
+<cmt>&quot;Next&quot;→&quot;Adjacent&quot;</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>複数にしました。</cmt>
+</tit>
+<par id="1">
+<sen id="36">
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto Municipal Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Municipal Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="37">
+<j>■東西線</j>
+<e type="trans" ver="1">Tozai Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tozai Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tozai Line</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="38">
+<j>御陵駅(T08) - 蹴上駅(T09) - 東山駅 (京都府)(T10)</j>
+<e type="trans" ver="1">Misasagi Station (T08)-Keage Station (T09)-Higashiyama Station (Kyoto Prefecture) (T10)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Misasagi Station (T08)-Keage Station (T09)-Higashiyama Station (Kyoto Prefecture) (T10)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Misasagi Station (T08)-Keage Station (T09)-Higashiyama Station (Kyoto Prefecture) (T10)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Rsa(id:38453), Bakkai(id:7233), 城山(id:104901), Kamuin(id:5241), Wikipedianet(id:9608), Tigers boy(id:15761), Useful(id:80591), Sunen(id:10700), Goki(id:7107), Har-Poon-SSM(id:72987), Hirotaro(id:1437), Haruno Akiha(id:107628), SElefant(id:10344), Sushiya(id:110938), Carbuncle(id:346), Etopirica(id:32491), Felicemente(id:43126), Utsuda(id:605), Memeja(id:110500), Shinkansen(id:13703), Wideangle(id:100385), Rusk(id:9895), Carkuni(id:79281), Godai59(id:86776), Matsukaze(id:51778), Ktr(id:30468), Ando Yoshinari(id:19886), 金山銀山銅山(id:163855), Honkou(id:93315), Hidama(id:73276), Unamu(id:14627), Hno3(id:56786), オナガドリ(id:15179), Takatetu(id:3231), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>亀山公園 (京都市)</j>
+<e type="trans" ver="1">Kameyama-koen Park</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kameyama-koen Park</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kameyama-koen Park</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>亀山公園（かめやまこうえん）は、京都市右京区の嵯峨亀ノ尾町にある公園。</j>
+<e type="trans" ver="1">Kameyama-koen Park is located at Sagakameno Cho, Ukyo Ward, Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kameyama-koen Park is located in Sagakameno Cho, Ukyo Ward, Kyoto City.</e>
+<cmt>「at」→「in」</cmt>
+<e type="check" ver="1">Kameyama-koen Park is located in Sagakamenoo-cho Town, Ukyo Ward, Kyoto City.</e>
+<cmt>Sagakameno→Sagakamenoo-cho, Town補足</cmt>
+</sen>
+<sen id="2">
+<j>正式には京都府立嵐山公園（亀山地区）というが、公園内の高台に亀山天皇を含む3天皇の火葬塚があるため、亀山公園と通称される。</j>
+<e type="trans" ver="1">Although its official name is Kyoto Prefectural Arashiyama-koen Park (Kameyama District), since it has cremation-cemeteries of three ancient Emperors including Emperor Kameyama on the hill, it is commonly called Kameyama-koen Park.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although its official name is Kyoto Prefectural Arashiyama-koen Park (Kameyama District), since it has the cremation mounds of three ancient Emperors including Emperor Kameyama on a hill there, it is commonly called Kameyama-koen Park.</e>
+<cmt>「-cemeteries」→「mounds」、「on the hill」→「on a hill there」</cmt>
+<e type="check" ver="1">Although its official name is Kyoto Prefectural Arashiyama-koen Park (Kameyama District), since it has the cremation mounds of three ancient Emperors including Emperor Kameyama on a hill there, it is commonly called Kameyama-koen Park.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>周辺はいわゆる嵐山地区であり、四季を通じて観光客が多く、特にサクラと紅葉の季節は賑わう。</j>
+<e type="trans" ver="1">The area around this park is so called Arashiyama District, which is crowded with tourists throughout the year, particularly in the seasons of cherry blossoms and autumn color leaves.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area around this park is the so called Arashiyama District, which is full of tourists throughout the year, particularly in the cherry blossom season and at the time the leaves turn in autumn.</e>
+<cmt>「crowded with」→「full of」、「in the seasons of cherry blossoms and autumn color leaves」→「 in the cherry blossom season and at the time the leaves turn in autumn」</cmt>
+<e type="check" ver="1">The area around this park is the so called Arashiyama District, which is full of tourists throughout the year, particularly in the cherry blossom season and at the time the leaves turn in autumn.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>東隣は天龍寺、北隣は大河内山荘があり、嵯峨野めぐりのルートのひとつにもなっている。</j>
+<e type="trans" ver="1">With Tenryu-ji Temple on the east, and Okochi Sanso on the north, this park is included in the route to enjoy sightseeing of Sagano.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With Tenryu-ji Temple to the east, and Okochi Sanso to the north, this park is included on the Sagano sightseeing route.</e>
+<cmt>「on」→「to」x2,「in the route to enjoy sightseeing of Sagano」→「on the Sagano sightseeing route」</cmt>
+<e type="check" ver="1">With Tenryu-ji Temple to the east, and Okochi Sanso Villa to the north, this park is included on the Sagano sightseeing route.</e>
+<cmt>理解を助けるためVillaを補足</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>嵯峨野観光鉄道嵯峨野観光線のトロッコ嵐山駅が近く、園内の展望台からトロッコ列車の走行を含め桂川の風景を見ることができる。</j>
+<e type="trans" ver="1">It is close to Trokko Arashiyama Station of the Sagano Sightseeing Tram, and you can see tram trains running and enjoy the scenery of Katsura-gawa River from its observation deck.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is close to Trokko Arashiyama Station of the Sagano Sightseeing Railway, and you can see tram trains running and enjoy the scenery of Katsura-gawa River from its observation point.</e>
+<cmt>「Tram」→「Railway」、「deck」→「point」. I think 鉄道 is better rendered as &apos;Railway&apos;, as it is not the vehicle that is being indicated.</cmt>
+<e type="check" ver="1">It is close to Trokko Arashiyama Station of the Sagano Sightseeing Railway, and you can see tram trains running and enjoy the scenery of the Katsura-gawa River from its observation point.</e>
+<cmt>&quot;Katsura-gawa River&quot;→&quot;the Katsura-gawa River&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>保津川に面した公園の南の入り口に中華人民共和国の国務院総理を務めた周恩来が、京都留学中に嵐山で作ったと言われる「雨中嵐山」の詩を刻んだ石碑があり、中国の要人が関西を訪問した際にこの碑を訪れることが多く、中国人観光客の訪問も多い。</j>
+<e type="trans" ver="1">At its south entrance on Hozu-gawa River stands a stone monument with an inscription of a poem &quot;Uchu Ranzan&quot; made by Enlai ZHOU, the former Premier of the State Council of the People&apos;s Republic of China, so Chinese important dignitaries often visit this monument when they come to Kansai area, and many Chinese tourists visit here.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At its south entrance facing Hozu-gawa River there is a stone monument with an inscription of a poem &quot;Uchu Ranzan&quot; made by Enlai ZHOU, the former Premier of the State Council of the People&apos;s Republic of China, so Chinese dignitaries often visit this monument when they come to the Kansai area, and many Chinese tourists visit here.</e>
+<cmt>「on」→「facing」,「stands」→「there is」,「important」削除, 「the」挿入</cmt>
+<e type="check" ver="1">At its south entrance facing the Hozu-gawa River there is a stone monument with an inscription of a poem called &apos;Uchu Ranzan&apos; (literally, &quot;rainy Arashiyama&quot;) written by Enlai ZHOU, the former Premier of the State Council of the People&apos;s Republic of China, when he was studying in Kyoto so Chinese dignitaries often visit this monument when they come to the Kansai area, and many Chinese tourists visit here.</e>
+<cmt>when he was studying in Kyoto補足Uchu Ranzan に英語の説明をつけました。&quot;Hozu-gawa River&quot;→&quot;the Hozu-gawa River&quot;に変更しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 ＋－(id:17104), Nike(id:15576), Nnh(id:474), Bergmann(id:85282), たね(id:10372), Skink(id:11281), ZZZ(id:9462), 663highland(id:18755), NDR(id:5500), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

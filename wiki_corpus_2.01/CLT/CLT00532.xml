@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>番茶</j>
+<e type="trans" ver="1">Bancha</e>
+<cmt></cmt>
+<e type="trans" ver="2">OK</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">OK</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>番茶（ばんちゃ）とは日本で飲まれる緑茶の一種である。</j>
+<e type="trans" ver="1">Bancha is a type of green tea drunk in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">OK</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">OK</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>その製法は煎茶とほぼ同一であるが、原料として夏以降に収穫した茶葉（三番茶・四番茶）・次期の栽培に向けて枝を整形したときの茶葉（秋冬番茶）・煎茶の製造工程ではじかれた大きな葉（川柳）などを用いている。</j>
+<e type="trans" ver="1">The manufacturing method is almost the same as that of sencha, but as its ingredients, tea leaves harvested after the summer (sanbancha, yobancha), tea leaves gathered when branch is shaped for next cultivation (shutobancha), big leaves removed in manufacturing process of sencha (senryu), and others are used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The manufacturing method is almost the same as that of sencha, but its ingredients include tea leaves harvested after the summer (sanbancha, yobancha), tea leaves gathered when branch is shaped for next cultivation (shutobancha), large leaves (senryu) removed during the sencha manufacturing process.</e>
+<cmt>&quot;as its ingredients,&quot; &gt; &quot;its ingredients include&quot;&quot;big&quot; &gt; &quot;large&quot;&quot;in manufacturing process of sencha&quot; &gt; &quot;during the sencha manufacturing process&quot;Moved &quot;(senryu)&quot;Deleted &quot;and others are used&quot;</cmt>
+<e type="check" ver="1">The manufacturing method is almost the same as that of sencha (green tea of middle grade), but its ingredients include tea leaves harvested after the summer (sanbancha [third picked tea leaves], yobancha [fourth picked tea leaves]), tea leaves gathered when branch is shaped for next cultivation (shutobancha [tea leaves picked in autumn and winter]), large leaves (senryu) removed during the sencha manufacturing process.</e>
+<cmt>煎茶→sencha (green tea of middle grade) と補足しました。三番茶、四番茶、秋冬番茶　補足を追加しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="3">
+<j>煎茶のように若葉ではなく成長した葉を原料とするため、タンニンが多めで逆にカフェインは少なめになっている。</j>
+<e type="trans" ver="1">Since it has grown up leaves as its ingredients, not like sencha, using young leaves, there are more tannin and less caffeine.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since it is made from mature leaves as opposed to sencha which using young leaves, it contains more tannins and less caffeine.</e>
+<cmt>Retranslated to read more naturally.</cmt>
+<e type="check" ver="1">Since it is made from mature leaves as opposed to sencha which uses young leaves, it contains more tannins and less caffeine.</e>
+<cmt>文法を修正しました。</cmt>
+</sen>
+<sen id="4">
+<j>味は淡白でさっぱりとした飲み口だが渋みを含む。</j>
+<e type="trans" ver="1">The taste is light and plain, but has a bitterness.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The taste is light and refreshing, but has bitterness.</e>
+<cmt>&quot;plain&quot; &gt; &quot;refreshing&quot;Added &quot;a&quot;</cmt>
+<e type="check" ver="1">The taste is light and refreshing, but has bitterness.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>地方によっては原料の収穫時期や製法を変えている所もある。</j>
+<e type="trans" ver="1">In some regions, the period of harvesting ingredients and manufacturing method are changed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The harvesting period and manufacturing method differ in some regions.</e>
+<cmt>Retranslated to read more naturally.</cmt>
+<e type="check" ver="1">The harvesting period and manufacturing method differ in some regions.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>香ばしい風味を出すために茶葉を乾煎りし、ほうじ茶として飲まれることも多い。</j>
+<e type="trans" ver="1">It is common to be drunk as Hojicha, dried and roasted for a savory flavor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is commonly drunk as hojicha, dried and roasted for savory flavor.</e>
+<cmt>&quot;common to be&quot; &gt; &quot;commonly&quot;&quot;Hojicha&quot; &gt; &quot;hojicha&quot;Added &quot;a&quot;</cmt>
+<e type="check" ver="1">It is commonly drunk as hojicha, dried and roasted for savory flavor.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>なお、北海道、東北地方において「番茶」とは「ほうじ茶」全般を指すことが多い。</j>
+<e type="trans" ver="1">Further, in Hokkaido and Tohoku Region, &apos;Bancha&apos; indicates &apos;Hojicha&apos; in general.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, the word &quot;bancha&quot; often refers to hojicha in Hokkaido and the Tohoku Region.</e>
+<cmt>Retranslated to read more naturally.</cmt>
+<e type="check" ver="1">Moreover, the word &apos;bancha&apos; often refers to &apos;hojicha&apos; in Hokkaido and the Tohoku region.</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="8">
+<j>石川県においての番茶は茶の茎をほうじた棒茶を指す。</j>
+<e type="trans" ver="1">In Ishikawa Prefecture, Bancha indicates Bocha, which is roasted stems of tea.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Ishikawa Prefecture, &apos;bancha&apos; refers to bocha, which is roasted tea stems.</e>
+<cmt>Retranslated to read more naturally.</cmt>
+<e type="check" ver="1">In Ishikawa Prefecture, &apos;bancha&apos; refers to bocha, which is roasted tea stems.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="9">
+<j>「ほうじ茶」も独特の製法によるほうじ茶を指し、使用される茶葉は「番茶」とは限らない。</j>
+<e type="trans" ver="1">Hojicha&apos; indicates Hojicha with peculiar manufacturing method, too, and the tea leaves used is not always &apos;Bancha.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hojicha&apos; also indicates hojicha produced by a particular manufacturing method, and the leaves used are not necessarily &apos;bancha&apos; leaves.</e>
+<cmt>Retranslated to read more naturally.</cmt>
+<e type="check" ver="1">Hojicha also indicates hojicha produced by a particular manufacturing method, and the leaves used are not necessarily &apos;bancha&apos; leaves.</e>
+<cmt>文頭のシングルクォーテーションを削除しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>由来と歴史</j>
+<e type="trans" ver="1">Origin and history</e>
+<cmt></cmt>
+<e type="trans" ver="2">Origin and History</e>
+<cmt>Title case</cmt>
+<e type="check" ver="1">Origin and history</e>
+<cmt>小タイトルのため、一部小文字にしました。</cmt>
+</tit>
+<par id="1">
+<sen id="10">
+<j>番茶の名称の由来としては以下の2つの説が知られている。</j>
+<e type="trans" ver="1">There are 2 theories mentioned below for origin of the name of Bancha.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are two theories mentioned below regarding the origin of the name &apos;bancha.&apos;</e>
+<cmt>&quot;2&quot; &gt; &quot;two&quot;&quot;for&quot; &gt; &quot;regarding the&quot;&quot;of Bancha&quot; &gt; &apos;bancha&quot;</cmt>
+<e type="check" ver="1">There are two theories mentioned below regarding the origin of the name &apos;bancha.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="11">
+<j>番傘、おばんざい（御番菜）などの言葉に使われるように「番」には「普段の」「日常的な」という意味があるので、高級品ではない日常的に飲まれるお茶という意味で名づけられた。</j>
+<e type="trans" ver="1">Like used in words like bangasa (coarse oilpaper umbrella) and obanzai (vegetables on duty), &apos;ban&apos; has meaning as &apos;ordinary&apos; or &apos;daily,&apos; and bancha was named with meaning as tea which is not high-ranked and being drunk everyday.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As used in words like bangasa (coarse oilpaper umbrella) and obanzai (Kyoto-style home cooking), &apos;ban&apos; has meaning as &apos;ordinary&apos; or &apos;everyday,&apos; and bancha was named as such to mean tea which is not high grade but rather drunk routinely.</e>
+<cmt>&quot;Like&quot; &gt; &quot;As&quot;&quot;(vegetables on duty)&quot; &gt; &quot;(Kyoto-style home cooking)&quot;&quot;daily&quot; &gt; &quot;everyday&quot;&quot;with meaning as&quot; &gt; &quot;as such to mean&quot;&quot;high-ranked&quot; &gt; &quot;high grade&quot;&quot;and being&quot; &gt; &quot;but rather&quot;&quot;everyday&quot; &gt; &quot;routinely&quot;</cmt>
+<e type="check" ver="1">As used in words like bangasa (coarse oilpaper umbrella) and obanzai (Kyoto-style home cooking), &apos;ban&apos; has meaning as &apos;ordinary&apos; or &apos;everyday,&apos; and bancha was named as such to mean tea which is not high grade but rather drunk routinely.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="12">
+<j>一番茶、二番茶を摘んだあとの遅い時期に収穫される事から晩茶と呼ばれ、後に変化して番茶となった。</j>
+<e type="trans" ver="1">Since it is harvested in late period, after ichibanca (first picked tea leaves) and nibancha (second picked tea leaves), it was first called Bancha (late tea), and was later changed to Bancha.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since it is harvested in a late season, after ichibanca (first picked tea leaves) and nibancha (second picked tea leaves), it was first called &apos;晩茶&apos; (bancha; lit. &apos;late tea&apos;), which was later changed to &apos;番茶&apos; (bancha; lit. coarse tea&apos;).</e>
+<cmt>&quot;in late period&quot; &gt; &quot;in a late season&quot;&quot;Bancha&quot; &gt; &apos;bancha&apos; (x2)&quot;and&quot; &gt; &quot;which&quot;Added kanji for clarification.</cmt>
+<e type="check" ver="1">Since it is harvested in a late season, after ichibanca (first picked tea leaves) and nibancha (second picked tea leaves), it was first called &apos;晩茶&apos; (bancha; lit. &apos;late tea&apos;), which was later changed to &apos;番茶&apos; (bancha; lit. coarse tea&apos;).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="13">
+<j>江戸時代の中期までは一般に出回る茶のほとんどは現在の基準で考えると番茶であったといわれている。</j>
+<e type="trans" ver="1">Until in middle period of the Edo period, almost every tea leaves which appeared in common places are thought to be Bancha in present-day standard.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that until the mid-Edo period, the majority of the commonly sold tea was bancha according to modern standards.</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">It is said that until the mid-Edo period, the majority of the commonly sold tea was bancha according to modern standards.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>製法や品質に対する工夫が施されて煎茶が出回るようになったのはそれ以降の時代になる。</j>
+<e type="trans" ver="1">Sencha appeared in later period, by putting ideas into manufacturing methods and quality.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sencha appeared later when production methods and quality had been refined.</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">Sencha appeared later when production methods and quality had been refined.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>現在の番茶は煎茶の製法に準拠したものであるが、煎茶の製法が標準化されたのは比較的近年である。</j>
+<e type="trans" ver="1">Bancha in present days is manufactured based on the method of manufacturing Sencha, but the manufacturing method of Sencha was standardized in relatively recent years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Modern bancha is manufactured based on the production method of sencha but it was only relatively recently that sencha production methods became standardized.</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">Modern bancha is manufactured based on the production method of sencha but it was only relatively recently that sencha production methods became standardized.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>このため、各地に古くから伝わる伝統的な番茶には様々な製法で作られたものがあり、茶の木から葉を摘み取って自然乾燥させただけの薬草茶の様なものから中国茶のような発酵茶まで存在する。</j>
+<e type="trans" ver="1">Because of this, traditional bancha handed down in various regions have various manufacturing methods, such as ones like herb tea which have tea leaves picked and only dried naturally, or ones like Chinese tea, which is fermented.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because of this, traditional bancha of various regions have differing manufacturing methods, ranging from those like herbal teas. which consist only of leaves which have been dried naturally, to fermented teas like those from China.</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">Because of this, traditional bancha of various regions have differing manufacturing methods, ranging from those like herbal teas which consist only of leaves which have been dried naturally, to fermented teas like those from China.</e>
+<cmt>文中のピリオドを削除しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>地方に伝わる色々な番茶</j>
+<e type="trans" ver="1">Various Bancha handed down in regions</e>
+<cmt></cmt>
+<e type="trans" ver="2">Regional Variations</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">Regional variations</e>
+<cmt>小タイトルのため、小文字にしました。</cmt>
+</tit>
+<par id="1">
+<sen id="17">
+<j>吉野の日干（にっかん）番茶</j>
+<e type="trans" ver="1">Nikkan Bancha (sun-dried Bancha) in Yoshino</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nikkan Bancha (Sun-dried Bancha) from Yoshino</e>
+<cmt>Title case&quot;in&quot; &gt; &quot;from&quot;</cmt>
+<e type="check" ver="1">Nikkan Bancha (Sun-dried Bancha) from Yoshino</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="18">
+<j>奈良県吉野地方で古くから伝わっている番茶である。</j>
+<e type="trans" ver="1">This is Bancha handed down from old days in Yoshino Region, Nara Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bancha made in the Yoshino Region of Nara Prefecture since ancient times.</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">Bancha made in the Yoshino region of Nara Prefecture since ancient times.</e>
+<cmt>region 小文字にしました。</cmt>
+</sen>
+<sen id="19">
+<j>これは「天日干し番茶」とも呼ばれている。</j>
+<e type="trans" ver="1">This is also called as &apos;Tenpiboshi Bancha&apos; (sun-dried Bancha).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also known as &apos;Tenpiboshi Bancha&apos; (sun-dried Bancha).</e>
+<cmt>&quot;This&quot; &gt; &quot;It&quot;&quot;called&quot; &gt; &quot;known&quot;</cmt>
+<e type="check" ver="1">It is also known as &apos;Tenpiboshi Bancha&apos; (sun-dried Bancha).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>摘み取った茶葉をよく蒸し、その後長ければ1日以上天日でしっかりと乾燥させ、その後焙じて出来上がりとなる。</j>
+<e type="trans" ver="1">Picked tea leaves are steamed thoroughly, and if long, it is dried under the sun for more than a day to dry out surely, and is completed by the following roasting.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Picked tea leaves are thoroughly steamed, then completely dried in the sun for over a day if being dried for a long time before being roasted to completion.</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">Picked tea leaves are thoroughly steamed, then completely dried in the sun for over a day if being dried for a long time before being roasted to completion.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>機械で揉みながら乾燥させるものに比べると香りが高く、渋味が少なくあっさりとした味わいになる。</j>
+<e type="trans" ver="1">Compare to tea leaves crumpled in a machine for drying, it has good fragrance and less bitterness with a light taste.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Compared to tea leaves that have been crumpled while being dried in a machine, it has a better fragrance, less bitterness and a lighter taste.</e>
+<cmt>Retranslated to read more naturally.</cmt>
+<e type="check" ver="1">Compared to tea leaves that have been crumpled while being dried in a machine, it has a better fragrance, less bitterness and a lighter taste.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>また、葉の形がそのまま残っていることもこの製法の特長である。</j>
+<e type="trans" ver="1">Also, the characteristic of this method is that the shapes of leaves is remained as they are.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, a characteristic of this method is that the leaves retain their shape.</e>
+<cmt>Retranslated to read more naturally.</cmt>
+<e type="check" ver="1">Also, a characteristic of this method is that the leaves retain their shape.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>したがって、これは実際には「焙じ番茶」の一種ということになる。</j>
+<e type="trans" ver="1">Because of this, this Bancha should actually be considered as a kind of &apos;Hojibancha.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because of this, this bancha should actually be considered as a kind of &apos;Hojibancha.&apos;</e>
+<cmt>&quot;Bancha&quot; &gt; &quot;bancha&quot;</cmt>
+<e type="check" ver="1">Because of this, this bancha should actually be considered as a kind of &apos;Hojibancha.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="24">
+<j>美作の日干番茶</j>
+<e type="trans" ver="1">Nikkan Bancha in Mimasaka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nikkan Bancha from Mimasaka</e>
+<cmt>&quot;in&quot; &gt; &quot;from&quot;</cmt>
+<e type="check" ver="1">Nikkan Bancha from Mimasaka</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="25">
+<j>岡山県英田郡美作町、作東町に伝わっている番茶。</j>
+<e type="trans" ver="1">This is Bancha handed down in Mimasaka-cho and Sakuto-cho in Aida District, Okayama Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bancha made in Mimasaka-cho and Sakuto-cho in Aida District, Okayama Prefecture.</e>
+<cmt>Deleted &quot;This is&quot;</cmt>
+<e type="check" ver="1">Bancha made in Mimasaka-cho and Sakuto-cho in Aida-gun, Okayama Prefecture.</e>
+<cmt>Aida-gun としました。</cmt>
+</sen>
+<sen id="26">
+<j>「美作番茶」ともいわれている。</j>
+<e type="trans" ver="1">It is also called &apos;Mimasaka Bancha.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also called &apos;Mimasaka Bancha.&apos;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also called &apos;Mimasaka Bancha.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>土用の暑い日（7月中旬〜8月中旬）、枝ごと刈ったお茶の葉を大きな鉄釜で蒸すように煮る。</j>
+<e type="trans" ver="1">On hot day of Doyo (midsummer) (mid July - mid August), tea leaves cut with whole branch is boiled like steaming in big iron pot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In hot days during midsummer (mid-July to mid-August), tea leaves cut by the branch are boiled in a large iron pot.</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">In hot days during midsummer (mid-July to mid-August), tea leaves cut by the branch are boiled in a large iron pot.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>むしろの上に煮たお茶を広げ、煮汁をかけながら太陽の光で干す。</j>
+<e type="trans" ver="1">Boiled tea leaves are spread on woven mat, and dried under the sun with the stock sprinkled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The boiled tea leaves are spread on woven mat, and dried under the sun with the cooking water sprinkled on them.</e>
+<cmt>Added &quot;the&quot;&quot;stock&quot; &gt; &quot;cooking water&quot;Added &quot;on them&quot;</cmt>
+<e type="check" ver="1">The boiled tea leaves are spread on woven mat, and dried under the sun with the cooking water sprinkled on them.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>日干番茶は煮汁をかけて天日で干した番茶は煮汁の茶渋ために、あめ色に輝いていることから”天日干し番茶”ともよばれている</j>
+<e type="trans" ver="1">Because of tea incrustation in sprinkled stock, this Bancha shines in ameiro (light-brown), and is also called &apos;Tenpiboshi Bancha.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because of tea incrustation resulting from the sun-drying of the leaves sprinkled with cooking water, they develop an amber color and are also known as &apos;Tenpiboshi Bancha.&apos;</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">Because of tea incrustation resulting from the sun-drying of the leaves sprinkled with cooking water, they develop an amber color and are also known as &apos;Tenpiboshi Bancha.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="30">
+<j>（中国四国農政局&gt;地産地消&gt;伝統料理（岡山県）より）</j>
+<e type="trans" ver="1">(from Local production and consumption of traditional dishes published by Chugoku-Shikoku Agricultural Administration Office).</e>
+<cmt></cmt>
+<e type="trans" ver="2">(From http://www.maff.go.jp/chushi/chisanchisyo/dentou/ryouri/33okayama)</e>
+<cmt>This is a specific website footprint path (中国四国農政局&gt;地産地消&gt;伝統料理（岡山県）) which has since changed to 地産地消 &gt; 地域の伝統文化 &gt; 伝統料理（岡山県）. It is therefore more appropriate to give the URL as is the standard when citing a source.</cmt>
+<e type="check" ver="1">(from Traditional dishes (Okayama Prefecture) &lt; Local production and consumption &lt; Chugoku-Shikoku Agricultural Administration Office)</e>
+<cmt>原文wikiの表現に従い、&gt;を使用して表記しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="31">
+<j>陰干し番茶</j>
+<e type="trans" ver="1">Kageboshi Bancha (Bancha dried in shade)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kageboshi Bancha (Shade-dried Bancha)</e>
+<cmt>&quot;Bancha dried in shade&quot; &gt; &quot;Shade-dried Bancha&quot;</cmt>
+<e type="check" ver="1">Kageboshi Bancha (Shade-dried Bancha)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="32">
+<j>福井県勝山市に製法が伝わっている番茶。</j>
+<e type="trans" ver="1">It is Bancha with its manufacturing method handed down in Katuyama City, Fukui Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bancha made in Katuyama City, Fukui Prefecture.</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">Bancha made in Katsuyama City, Fukui Prefecture.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+<sen id="33">
+<j>秋に茶の枝を鎌で刈り、縄ですだれのように編んで軒先に吊るしておくだけの、陰干し番茶がある。</j>
+<e type="trans" ver="1">There is Kageboshi Bancha, which is made by cutting the branches of tea in autumn, and just hanging those tea branches weaved by ropes like bamboo screens at the frontage of a house.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In autumn, there is Kageboshi Bancha which is made by cutting tea branches with a sickle, weaving them with rope like a bamboo screen and hanging them from the eaves.</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">There is Kageboshi Bancha which is made by cutting tea branches in autumn with a sickle, weaving them with rope like a bamboo screen and hanging them from the eaves.</e>
+<cmt>in autumn の場所を移動しました。</cmt>
+</sen>
+<sen id="34">
+<j>飲む前に鍋で軽く炒って煮出すもので、ちょうど薬草と同じ方法で利用されている。</j>
+<e type="trans" ver="1">It is lightly roasted and boiled in a pot before drinking, and is used as same as herbs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is lightly roasted and boiled in a pot before being drunk, and is used in the same way as herbs.</e>
+<cmt>&quot;drinking&quot; &gt; &quot;being drunk&quot;&quot;as same as&quot; &gt; &quot;in the same way as&quot;</cmt>
+<e type="check" ver="1">It is lightly roasted and boiled in a pot before being drunk, and is used in the same way as herbs.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>ことわざ</j>
+<e type="trans" ver="1">Proverb</e>
+<cmt></cmt>
+<e type="trans" ver="2">Proverb</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Proverb</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="35">
+<j>鬼も十八、番茶も出端（でばな）</j>
+<e type="trans" ver="1">Oni mo juhachi, Bancha mo debana. (18 years old ogre, and just made Bancha, meaning that both of them are relatively pleasing, even though their bases are not very good).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oni mo juhachi, bancha mo debana (lit. As even an ogress at eighteen is desirable, so coarse tea at its first infusion is delicious) meaning that everything is good in its season.</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">Oni mo juhachi, bancha mo debana (lit. As even an ogres at eighteen is desirable, so coarse tea at its first infusion is delicious) meaning that everything is good in its season.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="36">
+<j>『広辞苑』によると、出花（でばな）が正しい。</j>
+<e type="trans" ver="1">According to &quot;Kojien&quot; dictionary, debana is correct.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the &quot;Kojien&quot; dictionary, the characters for &apos;debana&apos; should be &apos;出花&apos; as opposed to &apos;出端,&apos;</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">According to the &quot;Kojien&quot; dictionary, the characters for &apos;debana&apos; should be &apos;出花&apos; as opposed to &apos;出端,&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>出だしの香しさを表す。</j>
+<e type="trans" ver="1">It expresses the good fragrance right after the tea was made.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These characters express the aroma produced at the first brew of tea.</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">These characters express the aroma produced at the first brew of tea.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>対して出端は話の出だしなどに使われる。</j>
+<e type="trans" ver="1">Compared to that, debana is used as the beginning of a story.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In contrast, &apos;出端&apos; is used at the beginning of a story.</e>
+<cmt>&quot;debana&quot; &gt; &quot;出端&quot;</cmt>
+<e type="check" ver="1">In contrast, &apos;出端&apos; is used meaning the beginning of a story and the like.</e>
+<cmt>話の出だし　という意味で使われる、と変更しました。</cmt>
+</sen>
+<sen id="39">
+<j>この場合の鬼は鬼娘、醜女を指しているので、「娘十八、番茶も出花」や「花も十八、番茶も出花」もひろく使われている。</j>
+<e type="trans" ver="1">In this situation, oni (ogre) indicates ogre girl, or ugly girl, so &apos;girl in 18, just made Bancha&apos; and &apos;flower in 18, just made Bancha&apos; are used broadly, also.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In this proverb, &apos;oni&apos; refers to a female ogre, or ugly girl, and the variations &apos;Musume (lit. young girl) juhachi, bancha mo debana&apos; and &apos;Hana (lit. flower) mo juhachi, bancha mo debana&apos; are widely used.</e>
+<cmt>Poor translation. Completely retranslated.</cmt>
+<e type="check" ver="1">In this proverb, &apos;oni&apos; refers to a female ogre, or ugly girl, and the variations &apos;Musume (lit. young girl) juhachi, bancha mo debana&apos; and &apos;Hana (lit. flower) mo juhachi, bancha mo debana&apos; are widely used.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 AlleborgoBot(id:119729), Izayohi(id:13095), Nyango(id:8484), Deepimpact(id:129352), Linusaja(id:296382), マクガイア(id:33346), Booboowambo(id:105940), Nighthawks(id:36125), Matsumatsumatsu(id:213718), HPa(id:234381), Fenrirsaqua(id:132833), 瑠璃川(id:108322), ウェルワィ(id:15692), Yoichi4(id:213650), Kiso(id:94763), Commonsenses(id:11185), Mymelo(id:122034), Green(id:24154), じゅらい(id:199203), Mzaki(id:61977), Kusunose(id:5719), Loveless(id:129239), Cho-ji(id:45537), Alexbot(id:157199), 博多商人コイツミ(id:63820), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

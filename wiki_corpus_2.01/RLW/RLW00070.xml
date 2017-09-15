@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>西大路駅</j>
+<e type="trans" ver="1">Nishioji Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishioji Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nishioji Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>西大路駅（にしおおじえき）は、京都府京都市南区 (京都市)唐橋西平垣町にある、西日本旅客鉄道（JR西日本）東海道本線（JR京都線）の鉄道駅。</j>
+<e type="trans" ver="1">Nishioji Station, located in Karahashi-nishi-hiragaki-cho, Minami Ward, Kyoto City, Kyoto Prefecture, is a railway station of the Tokaido Main Line (JR Kyoto Line) that is operated by West Japan Railway Company (JR West).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishioji Station, located in Karahashi-nishi-hiragaki-cho, Minami Ward, Kyoto City, Kyoto Prefecture, is a railway station of the Tokaido Main Line (JR Kyoto Line) that is operated by West Japan Railway Company (JR West).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nishioji Station, located in Karahashi-nishi-hiragaki-cho, Minami Ward, Kyoto City, Kyoto Prefecture, is a railway station of the Tokaido Main Line (JR Kyoto Line) that is operated by West Japan Railway Company (JR West).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>ICOCA・Jスルー利用可能駅。</j>
+<e type="trans" ver="1">ICOCA and J-through are available at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">ICOCA and J-through are available at this station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">ICOCA and J-through cards can be used at this station.</e>
+<cmt>表現を一部変更しました。</cmt>
+</sen>
+<sen id="3">
+<j>ICOCAの相互利用対象であるPiTaPa（スルッとKANSAI協議会）も利用可能。</j>
+<e type="trans" ver="1">PiTaPa (SURUTTO KANSAI ASSOCIATION), which is mutually usable between ICOCA, is also available.</e>
+<cmt></cmt>
+<e type="trans" ver="2">PiTaPa (SURUTTO KANSAI ASSOCIATION), which is mutually usable between ICOCA, is also available.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">PiTaPa (SURUTTO KANSAI ASSOCIATION) card, which is mutually usable between ICOCA, can also be used.</e>
+<cmt>表現を一部変更しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Structure of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>プラットホーム2面4線の盛土上にある地上駅。</j>
+<e type="trans" ver="1">This station is a ground station located on the mound and has 2 platforms for 4 tracks.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is a ground station located on a mound, and it has two platforms to serve four tracks.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">This station is a ground station located on a mound, and it has two platforms to serve four tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>乗降には内側線の2線のみ使用（但し内側線も時間帯によっては快速の通過がある）。</j>
+<e type="trans" ver="1">Only 2 inner tracks are used for passengers&apos; getting on and off (depending on the time zone, however, Rapid trains pass through the inner tracks)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Only two inner tracks are used for passengers&apos; getting on and off (however, depending on the time zone rapid trains pass through on the inner tracks).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Only two inner tracks are used for passengers&apos; getting on and off (however, depending on the time zone rapid trains pass through on the inner tracks).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>駅舎および1番線の頭上を東海道新幹線が通過する。</j>
+<e type="trans" ver="1">The track of Tokaido Shinkansen is located above the station building and track 1.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The track for the Tokaido Shinkansen is located above the station building and Platform 1.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The track for the Tokaido Shinkansen is located above the station building and Platform 1.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>JRの特定都区市内制度における「京都市内」の駅であり、東海道線としては最も西となる。</j>
+<e type="trans" ver="1">According to JR&apos;s fare calculation system called &quot;Inside of Specified Cities System&quot;, this station is categorized as the station of &quot;inside of Kyoto City&quot; and it is the westernmost station of the Tokaido Main Line in this category.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to JR&apos;s fare calculation system, called &quot;Inside of Specified Cities System,&quot; this station is categorized as being &quot;inside Kyoto City&quot; and is the westernmost station of the Tokaido Main Line in this category.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">According to JR&apos;s railway fare system of specific metropolitan and urban areas, this station is categorized as being &apos;inside Kyoto City&apos; and is the westernmost station of the Tokaido Main Line in this category.</e>
+<cmt>特定都区市内制度の表現を統一しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>利用状況</j>
+<e type="trans" ver="1">Status of usage</e>
+<cmt></cmt>
+<e type="trans" ver="2">Conditions of usage</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>表現を他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>2006年度の1日あたりの乗車人員は約15,496人である（京都府統計書より）。</j>
+<e type="trans" ver="1">Average number of passengers a day in 2006 was 15,496 (based on the statistics compiled by Kyoto Prefectural Government).</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to statistics compiled by the Kyoto Prefectural Government, the average number of passengers a day in 2006 was 15,496.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">According to statistics compiled by the Kyoto Prefectural Government, the average number of passengers a day in fiscal year 2006 was 15,496.</e>
+<cmt>fiscal を追加しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Area around the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area around the station</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="9">
+<j>京都市立洛陽工業高等学校</j>
+<e type="trans" ver="1">Rakuyo Technical High School, Kyoto City</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rakuyo Technical High School, Kyoto City</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rakuyo Technical High School, Kyoto City</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>京都御所ノ内郵便局</j>
+<e type="trans" ver="1">Kyoto Goshonouchi post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto Goshonouchi post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kyoto Goshonouchi post office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="11">
+<j>ワコール本社</j>
+<e type="trans" ver="1">Wacoal Holdings Corp. Head office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wacoal Holdings Corp. Head Office</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Wacoal Holdings Corp. Head Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>ロプロ本社（旧・日栄）</j>
+<e type="trans" ver="1">Lopro Corporation Head Office (former Nichiei)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Lopro Corporation Head Office (formerly Nichiei)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Lopro Corporation Head Office (formerly Nichiei)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="13">
+<j>ジーエス・ユアサコーポレーション本社（旧・日本電池）</j>
+<e type="trans" ver="1">GS Yuasa Corporation (Kyoto) Head Office (former Yuasa Denchi)</e>
+<cmt></cmt>
+<e type="trans" ver="2">GS Yuasa Corporation (Kyoto) Head Office (formerly Yuasa Denchi)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">GS Yuasa Corporation (Kyoto) Head Office (formerly Yuasa Denchi)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="14">
+<j>日本新薬本社</j>
+<e type="trans" ver="1">Nippon Shinyaku Co.,Ltd. Head Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nippon Shinyaku Co., Ltd., Head Office</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Nippon Shinyaku Co., Ltd., Head Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="15">
+<j>堀場製作所本社</j>
+<e type="trans" ver="1">HORIBA, Ltd. Head Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">HORIBA, Ltd., Head Office</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">HORIBA, Ltd., Head Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="16">
+<j>西高瀬川</j>
+<e type="trans" ver="1">Nishitakase-gawa River</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Nishitakase-gawa River</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Nishitakase-gawa River</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="17">
+<j>西大路通</j>
+<e type="trans" ver="1">Nishioji-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishioji-dori Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nishioji-dori Street</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>バスのりば</j>
+<e type="trans" ver="1">Bus stop</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus stop</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus stop</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="18">
+<j>西大路駅前</j>
+<e type="trans" ver="1">Nishioji-Eki (station)-Mae</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishioji-Eki (station)-Mae</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nishioji-Eki (station)-Mae</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="19">
+<j>バス停は駅前ではなく、駅から徒歩2分の西大路通沿いにある。</j>
+<e type="trans" ver="1">Bus stop is not situated in front of the station but along the Nishioji-dori Street, 2 minutes walk from the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The bus stop isn&apos;t situated in front of the station but instead along Nishioji-dori Street, a two-minute walk from the station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The bus stop isn&apos;t situated in front of the station but instead along Nishioji-dori Street, a two-minute walk from the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>これは駅直下の立体交差が掘割構造になっており、その位置にバス停を設置する事が不可能なことによる。</j>
+<e type="trans" ver="1">The background of the above is that the canal structure of the grade separate crossing situated just below the station makes it impossible to set a bus stop there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The background of the above is that the canal structure of the grade separate crossing situated just below the station made it impossible to place a bus stop there.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The background of the above is that the canal structure of the grade separate crossing situated just below the station made it impossible to place a bus stop there.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>ちなみに、昭和58年（1983年）までは西大路九条を名乗っていたが、現在の位置に西大路九条を新設し、従来の西大路九条を西大路駅前と改称した。</j>
+<e type="trans" ver="1">Incidentally, the name of this bus stop used to be Nishioji Kujo until 1983 but after Nishioji Kujo bus stop was set at the place where it is now situated, the name of this bus stop was changed from Nishioji Kujo to Nishioji-Eki (station)-Mae.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Incidentally, the name of this bus stop was Nishioji Kujo until 1983, but after the Nishioji Kujo bus stop was placed in its current location, the name of this bus stop was changed from Nishioji Kujo to Nishioji-Eki (station)-Mae.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Incidentally, the name of this bus stop was Nishioji Kujo until 1983, but after the Nishioji Kujo bus stop was placed in its current location, the name of this bus stop was changed from Nishioji Kujo to Nishioji-Eki (station)-Mae.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="22">
+<j>京都市営バス</j>
+<e type="trans" ver="1">Kyoto City bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="23">
+<j>13系統：久世工業団地行／（西大路通経由）四条烏丸行</j>
+<e type="trans" ver="1">Route 13 : Buses bound for Kuze Kogyodanchi-mae/Shijo Karasuma (via the Nishioji-dori Street)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 13: Buses bound for Kuze Kogyodanchi-mae/Shijo Karasuma (via Nishioji-dori Street)</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Route 13: Buses bound for Kuze Kogyodanchi (industrial park) /Shijo Karasuma (via Nishioji-dori Street)</e>
+<cmt>industrial park と補足しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="24">
+<j>特13系統：久我石原町行／（西大路通経由）四条烏丸行</j>
+<e type="trans" ver="1">Route 13 Special : Buses bound for Koga Ishiharacho/Shijo Karasuma (via the Nishioji-dori Street)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 13 Special: Buses bound for Koga Ishiharacho/Shijo Karasuma (via Nishioji-dori Street)</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Route 13 Special: Buses bound for Koga Ishiharacho/Shijo Karasuma (via Nishioji-dori Street)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="25">
+<j>臨13系統：上鳥羽馬廻行／（西大路通経由）四条烏丸行</j>
+<e type="trans" ver="1">Route 13 Ad hoc : Buses bound for Kamitoba Umamawashi/Shijo Karasuma (via the Nishioji-dori Street)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 13 Ad hoc: Buses bound for Kamitoba Umamawashi/Shijo Karasuma (via Nishioji-dori Street)</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Route 13 Ad hoc: Buses bound for Kamitoba Umamawashi/Shijo Karasuma (via Nishioji-dori Street)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="26">
+<j>43系統：久世橋東詰行／（五条通経由）四条烏丸行</j>
+<e type="trans" ver="1">Route 43 : Buses bound for Kuzebashi Higashizume/Shijo Karasuma (via the Gojo-dori Street)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 43: Buses bound for Kuzebashi Higashizume/Shijo Karasuma (via Gojo-dori Street)</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Route 43: Buses bound for Kuzebashi Higashizume/Shijo Karasuma (via Gojo-dori Street)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="27">
+<j>202系統：（西大路九条経由）九条車庫方面／（西ノ京円町経由）熊野神社方面</j>
+<e type="trans" ver="1">Route 202 : Buses bound for Kujo Shako-mae (via Nishioji Kujo)/Kumano Jinja-mae (via Nishinokyo Emmachi)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 202: Buses bound for Kujo Shako-mae (via Nishioji Kujo)/Kumano Jinja-mae (via Nishinokyo Emmachi)</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Route 202: Buses bound for Kujo-shako Depot (via Nishioji Kujo)/Kumano Jinja (shrine) (via Nishinokyo Enmachi)</e>
+<cmt>車庫、神社など補足しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="28">
+<j>快速202系統：九条車庫行／（北野白梅町経由）立命館大学行</j>
+<e type="trans" ver="1">Rapid Route 202 : Buses bound for Kujo Shako-mae/Ritsumeikan Univ. (via Kitano Hakubaicho)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid Route 202: Buses bound for Kujo Shako-mae/Ritsumeikan University (via Kitano Hakubaicho)</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Rapid Route 202: Buses bound for Kujo-shako Depot/Ritsumeikan University (via Kitano Hakubaicho)</e>
+<cmt>車庫を補足しました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="29">
+<j>208系統：（東山七条経由）京都駅方面／（七条通経由）京都駅、東山七条方面</j>
+<e type="trans" ver="1">Route 208 : Buses bound for Kyoto Station (via Higashiyama Nanajo)/Kyoto Station, Higashiyama Nanajo (via Nanajo-dori Street)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 208: Buses bound for Kyoto Station (via Higashiyama Nanajo)/Kyoto Station, Higashiyama Nanajo (via Nanajo-dori Street)</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Route 208: Buses bound for Kyoto Station (via Higashiyama Nanajo)/Kyoto Station, Higashiyama Nanajo (via Nanajo-dori Street)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="30">
+<j>1938年（昭和13年）9月16日 - 日本国有鉄道の駅として開業。</j>
+<e type="trans" ver="1">September 16, 1938 - The station commenced operation as the station of Japan National railways (JNR).</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 16, 1938 - The station commenced operation as a facility of Japan National Railways (JNR).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">September 16, 1938: The station commenced operation as a facility of Japan National Railways (JNR).</e>
+<cmt>-→ : としました。</cmt>
+</sen>
+<sen id="31">
+<j>旅客取扱のみ。</j>
+<e type="trans" ver="1">Passengers service only.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger service only</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger service only</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="32">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により、JR西日本の駅となる。</j>
+<e type="trans" ver="1">April 1, 1987 - The station became the station of JR West thanks to the division and privatization of JNR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1987 - The station became a facility of JR West thanks to the division and privatization of JNR.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 1987: The station became a facility of JR West due to the division and privatization of JNR.</e>
+<cmt>due to としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>その他</j>
+<e type="trans" ver="1">Others</e>
+<cmt></cmt>
+<e type="trans" ver="2">Others</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Others</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="33">
+<j>この先向日町駅まで京都市南区→西京区→再び南区→向日市となっている。</j>
+<e type="trans" ver="1">From this station to Mukomachi Station, the line runs in Minami Ward of Kyoto City, Nishikyo Ward, Minami Ward again and Muko City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From this station to Mukomachi Station, the line runs through Minami Ward of Kyoto City, Nishikyo Ward, Minami Ward again, and Muko City.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">From this station to Mukomachi Station, the line runs through Minami Ward of Kyoto City, Nishikyo Ward, Minami Ward again, and Muko City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>「再び南区」の地点にはJR桂駅（仮称）が設置予定であるが、結局西京区は素通りとなった（なお、西京区内のJR西日本の駅は山陰本線（嵯峨野線）の保津峡駅がある（亀岡市との市境付近））。</j>
+<e type="trans" ver="1">Katsuragawa Station was established at the place where the line &quot;runs in Minami Ward again&quot; but eventually no station was established in Nishikyo Ward (JR West&apos; station located in Nishikyo Ward is Hozukyo Station of the San&apos;in Main Line (Sagano Line) (located nearly at the border between Kameoka City)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katsuragawa Station was established at the place where the line &quot;runs through Minami Ward again,&quot; but eventually no station was established in Nishikyo Ward (JR West&apos; station located in Nishikyo Ward is Hozukyo Station of the San&apos;in Main Line (Sagano Line) (located nearly at the border with Kameoka City).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Katsuragawa Station was established at the place where the line &apos;runs through Minami Ward again,&apos; but eventually no station was established in Nishikyo Ward (JR West&apos; station located in Nishikyo Ward is Hozukyo Station of the Sanin Main Line (Sagano Line) (located nearly at the border with Kameoka City)).</e>
+<cmt>&quot; → &apos;　としました。Sanin としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="35">
+<j>朝ラッシュ時の混雑はひどく列車から降りた客で乗車客がホームにあがれず列車が発車してしまうケースが多発した。</j>
+<e type="trans" ver="1">The congestion at this station in the morning rush hour is so heavy that passengers often miss the train which they want to get on because they cannot go up to the platform due to too many passengers who have got down from the train in question.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The congestion at this station in the morning rush hour is so heavy that passengers often miss their trains because they can&apos;t go up to the platform due to the large numbers of passengers who have left the train in question.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The congestion at this station in the morning rush hour is so heavy that passengers often miss their trains because they can&apos;t go up to the platform due to the large numbers of passengers who have left the train in question.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>そのため階段に上り下りをわける線が引かれたが全くと言っていいほど守られておらず状況は改善されていない。</j>
+<e type="trans" ver="1">In order to improve such situation, the line which divides passengers going up and those going down was drawn on the stairs but it is not observed at all and the situation has not been improved.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In order to improve the situation, the line that divides passengers going up and those going down was drawn on the stairs; however, it isn&apos;t observed at all, so there has been no improvement in the situation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In order to improve the situation, the line that divides passengers going up and those going down was drawn on the stairs; however, it isn&apos;t observed at all, so there has been no improvement in the situation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>未だにエレベーターやエスカレーターは設置されていないが、狭いホームと階段では設置するには大規模改修をしなければならず、また駅舎が東海道新幹線の橋脚と一体化しているためバリアフリーの面でも課題を残している。</j>
+<e type="trans" ver="1">Though elevators and/or escalators are not yet installed, large scale renovation is required for installing such facilities because of narrow platforms and stairs and barrier-free facilities are also not enough because the station building is unified with the bridge piers of the Tokaido Shinkansen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though elevators and/or escalators aren&apos;t yet installed, large-scale renovation is required for the installation of such facilities due to narrow platforms and stairs; moreover, barrier-free facilities aren&apos;t sufficient because the station building is unified with the bridge piers of the Tokaido Shinkansen.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Though elevators and/or escalators aren&apos;t yet installed, large-scale renovation is required for the installation of such facilities due to narrow platforms and stairs; moreover, barrier-free facilities aren&apos;t sufficient because the station building is unified with the bridge piers of the Tokaido Shinkansen.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Adjoining stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjoining stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="38">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Raiway Company (JR Weast)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR West)</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="39">
+<j>■JR京都線（東海道本線）</j>
+<e type="trans" ver="1">JR Kyoto Line (Tokaido Main Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR Kyoto Line (Tokaido Main Line)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR Kyoto Line (Tokaido Main Line)</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="40">
+<j>■新快速・■快速</j>
+<e type="trans" ver="1">Special Rapid・Rapid trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Special Rapid・Rapid trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Special Rapid/Rapid</e>
+<cmt>統一しました。・を/に変更しました。■を削除しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="41">
+<j>通過</j>
+<e type="trans" ver="1">They pass through this station</e>
+<cmt></cmt>
+<e type="trans" ver="2">They pass through this station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">They pass through this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="42">
+<j>■普通（一部高槻駅～明石駅間快速）</j>
+<e type="trans" ver="1">Local trains (some trains are Rapid between Takatsuki Station and Akashi Station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local trains (some trains are rapid between Takatsuki Station and Akashi Station)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Local (some trains are rapid between Takatsuki Station and Akashi Station)</e>
+<cmt>統一しました。■を削除しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="43">
+<j>京都駅 - 西大路駅 - 向日町駅</j>
+<e type="trans" ver="1">Kyoto Station - Nishioji Station - Mukomachi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Station - Nishioji Station - Mukomachi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Station - Nishioji Station - Mukomachi Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 ヒロリン(id:15886), Bakkai(id:7233), V-TWIN POWER(id:49244), 城山(id:104901), BJP039(id:47469), Hikichimin Jr.(id:147077), Takashi4678(id:19085), 春野秋葉(id:36725), Yen80(id:6146), Im224(id:57113), Highexpress(id:48556), 継之助(id:39352), Goki(id:7107), 鍛高譚(id:154933), Kone(id:377), C775(id:192955), Alljal(id:46858), Hirotaro(id:1437), HK3817(id:21293), 目蒲東急之介(id:34741), Kumoha590(id:47430), Sushiya(id:110938), Hideyuki(id:9577), Etopirica(id:32491), Bergmann(id:85282), Mover(id:7146), Memeja(id:110500), Bukang-liwayway(id:89706), Rusk(id:9895), Ktr(id:30468), Mako10(id:43861), 金山銀山銅山(id:163855), Hidama(id:73276), R28Bot(id:177951), Ariesmarine(id:70919), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

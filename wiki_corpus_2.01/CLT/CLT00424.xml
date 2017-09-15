@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>切り干し大根</j>
+<e type="trans" ver="1">Kiriboshi Daikon</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kiriboshi Daikon</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kiriboshi Daikon</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>切り干し大根（きりぼしだいこん、単に切り干しとも）は、ダイコンの乾燥品。</j>
+<e type="trans" ver="1">Kiriboshi daikon (or simply called kiriboshi) is the dried product of daikon (Japanese radish).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kiriboshi daikon (or simply called kiriboshi) is a dried product of daikon (Japanese radish).</e>
+<cmt>the→a</cmt>
+<e type="check" ver="1">Kiriboshi daikon (or simply called kiriboshi) is a dried product of daikon (Japanese radish).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>秋の終わりから冬にかけて収穫したダイコンを細切りにし、広げて天日干しする。</j>
+<e type="trans" ver="1">Thinly slice daikon that is harvested from the end of autumn to winter and spread it out to dry in the sun.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thinly slice daikon that is harvested from the end of autumn to winter is spread out to dry in the sun.</e>
+<cmt>and spread it→is spread</cmt>
+<e type="check" ver="1">Thinly sliced daikon that is harvested from the end of autumn to winter is spread out to dry in the sun.</e>
+<cmt>slice→sliced</cmt>
+</sen>
+<sen id="3">
+<j>切る太さによっていくつかの種類に分かれる。</j>
+<e type="trans" ver="1">There are some varieties depend on the thickness of its piece.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are some varieties depending on the thickness of its pieces.</e>
+<cmt>depend→dependingpiece→pieces</cmt>
+<e type="check" ver="1">There are some varieties depending on the thickness of its pieces.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>たて四つ割にしたものは「割り干し大根」という。</j>
+<e type="trans" ver="1">The one cut lengthwise in quarters is called &apos;kiriboshi daikon.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The one cut lengthwise in quarters is called &apos;wariboshi daikon.&apos;</e>
+<cmt>kiriboshi→wariboshi</cmt>
+<e type="check" ver="1">The one cut lengthwise in quarters is called &apos;wariboshi daikon.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>乾物であるので常温で保存が可能だが、夏季には茶色く変色してしまう為、春を過ぎたら冷蔵庫での保存が望ましい。</j>
+<e type="trans" ver="1">Since it is dried product, it is possible to preserve it at room temperature, but it turns blown during summer, so it is desirable to preserve it in the refrigerator.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since it is a dried product, it is possible to preserve it at room temperature, but it turns brown during summer, so it is desirable to preserve it in the refrigerator after spring.</e>
+<cmt>dried→a driedblown→brown「春を過ぎたら」訳漏れ対応しました。</cmt>
+<e type="check" ver="1">Since it is a dried product, it is possible to preserve it at room temperature, but it turns brown during summer, so it is desirable to preserve it in the refrigerator after spring.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>軽く洗ってから水に漬けて戻し、醤油や酢をかけてそのまま食べる他、煮物などの料理に用いる。</j>
+<e type="trans" ver="1">Reconstitute it after rinsing it lightly and eat it plain with soy sauce and vinegar or use it for cooked dishes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Reconstituted after rinsing lightly and it is eaten plain with soy sauce and vinegar or used for cooked dishes.</e>
+<cmt>Reconstitute it→Reconstitutedrinsing it→rinsingeat it→it is eatenuse it→used</cmt>
+<e type="check" ver="1">After being rinsed lightly and reconstituted, kiriboshi daikon is eaten as it is with soy sauce and vinegar, or it is used for cooking.</e>
+<cmt>再編成しました。</cmt>
+</sen>
+<sen id="7">
+<j>また「はりはり漬け」などの漬物にも用いられる。</j>
+<e type="trans" ver="1">It is also used for tsukemono called &apos;hari hari zuke.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also used for tsukemono (Japanese pickles) called &apos;hari hari zuke.&apos;</e>
+<cmt>漬物の説明追記</cmt>
+<e type="check" ver="1">It is also used for tsukemono (Japanese pickles) called &apos;hari hari zuke.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>精進料理ではそのコリコリとした食感を生かし、中華料理のクラゲなどに見立てることもある。</j>
+<e type="trans" ver="1">By utilizing its crunchy texture, use it for a vegetarian dish to resemble jelly fish used in Chinese cuisine.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because of its crunchy texture, it is used for vegetarian dishes instead of jelly fish used in Chinese cuisine.</e>
+<cmt>By utilizing→Because ofuse it→it is useda vegetarian dish→vegetarian dishesto resemble→instead of</cmt>
+<e type="check" ver="1">Because of its crunchy texture, it is used for vegetarian dishes instead of jelly fish used in Chinese cuisine.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>良質の食物繊維やカルシウムが多く含まれており、健康食品としても有用である。</j>
+<e type="trans" ver="1">It contains a lot of good-quality dietary fiber and calcium, so it is useful for health food.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It contains a lot of good-quality dietary fiber and calcium, so it is useful for a health food.</e>
+<cmt>health→a health</cmt>
+<e type="check" ver="1">It contains a lot of good-quality dietary fiber and calcium, so it is of great value as a health food.</e>
+<cmt>it is useful for a health food→it is of great value as a health food</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Roger(id:9883), BoB774(id:148281), Pieria(id:48925), 竹麦魚(id:11012), Corwin(id:973), マクガイア(id:33346), Nighthawks(id:36125), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

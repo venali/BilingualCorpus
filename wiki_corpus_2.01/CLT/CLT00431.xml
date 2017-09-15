@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>がんもどき</j>
+<e type="trans" ver="1">Ganmodoki</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ganmodoki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ganmodoki</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>がんもどきは、豆腐の食品加工食品のひとつ。</j>
+<e type="trans" ver="1">Ganmodoki is one of processed foods made of tofu (bean curd).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ganmodoki is one of processed foods made of tofu (bean curd).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ganmodoki is one of processed foods made of tofu (bean curd).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>略してがんもともいう。</j>
+<e type="trans" ver="1">It is also called ganmo for short.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also called ganmo for short.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also called ganmo for short.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>雁擬きと字をあてることもある。</j>
+<e type="trans" ver="1">雁擬き&apos; is sometimes allocated for its kanji.</e>
+<cmt>漢字が焦点となっているため、漢字表記を残すとともに&apos;　&apos;を付け加えました。</cmt>
+<e type="trans" ver="2">The kanji &apos;雁擬き&apos; is sometimes allocated for it.</e>
+<cmt>文頭に &apos;&apos; がこないように the kanji を文頭にしました。NC_Check</cmt>
+<e type="check" ver="1">The kanji &apos;雁擬き&apos; is sometimes allocated for it.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>水気をしぼった豆腐に、すったヤマノイモ、ニンジン、ゴボウ、シイタケ、コンブ、ギンナンなどを混ぜ合わせて丸く成型し、油で揚げたもの。</j>
+<e type="trans" ver="1">After squeezing out excess moisture from tofu, mix it with grated Japanese yam, carrots, burdock roots, shiitake mushrooms, kelp, and a ginkgo nuts, shape it roundly, and deep-fries it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After squeezing out excess moisture from tofu, it is mixed with grated Japanese yam, carrots, burdock roots, shiitake mushrooms, kelp, and ginkgo nuts, shaped roundly, and deep-fried.</e>
+<cmt>NC_Checkmix it →it is mixeda ginko→ginkoshape it→shapeddeep-fries it→deep-fried</cmt>
+<e type="check" ver="1">After squeezing out excess moisture from tofu, it is mixed with grated Japanese yam, carrots, burdock roots, shiitake mushrooms, kelp, and ginkgo nuts, shaped roundly, and deep-fried.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>おでんや煮物に用いられることが多い。</j>
+<e type="trans" ver="1">It is frequently used for oden (a Japanese dish containing all kinds of ingredients cooked in a special broth of soy sauce, sugar, sake, etc.) or food boiled and seasoned.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is frequently used for oden (a Japanese dish containing all kinds of ingredients cooked in a special broth of soy sauce, sugar, sake, etc.) or food boiled and seasoned.</e>
+<cmt>NC_CheckDoes &apos;food&apos; need an artile?</cmt>
+<e type="check" ver="1">It is frequently used for oden (a Japanese dish containing all kinds of ingredients cooked in a special broth of soy sauce, sugar, sake, etc.) or food boiled and seasoned.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>もともとは精進料理（もどき料理）で肉のコピー食品として作られた。</j>
+<e type="trans" ver="1">It was originally made as imitated food for meat for a vegetarian dish (mock dish).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was originally made as an imitated food for meat for a vegetarian dish (mock dish).</e>
+<cmt>NC_Checkimitated→an imitated</cmt>
+<e type="check" ver="1">It was originally made as an imitated food for meat for a vegetarian dish (mock dish).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>名前の由来については諸説あり、最も知られているのは雁の肉に味を似せたとされることから「がんもどき」だという説である。</j>
+<e type="trans" ver="1">There are several theories about the origin of its name, but the most well known theory was that it was called &apos;ganmodoki&apos; since its taste imitated (pronounce modoki in Japanese) the goose (pronounce gan in Japanese) meat.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are several theories about the origin of its name, but the most well known theory is that it was called &apos;ganmodoki&apos; since its taste imitated (pronounced modoki in Japanese) the goose (pronounced gan in Japanese) meat.</e>
+<cmt>NC_Checkpronounce→pronouncedwas→is</cmt>
+<e type="check" ver="1">There are several theories about the origin of its name, but the most well known theory is that it was called &apos;ganmodoki&apos; since its taste imitated (pronounced modoki in Japanese) the goose (pronounced gan in Japanese) meat.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>他にも、鳥類の肉のすり身を鶏卵大に丸めて煮たり蒸したりする料理「つくね」に似せて作った説。</j>
+<e type="trans" ver="1">Other than that, one theory said that it imitated &apos;tsukune&apos; (meatballs) made by boiling or steaming minced chicken meat rounded in hen&apos;s egg-sized</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other than that, one theory says that it imitated &apos;tsukune&apos; (meatballs) made by boiling or steaming minced chicken meat rounded in hen&apos;s egg-sized</e>
+<cmt>NC_Checksaid→says</cmt>
+<e type="check" ver="1">Other than that, one theory says that it imitated &apos;tsukune&apos; (meatballs) made by boiling or steaming minced chicken meat rounded in hen&apos;s egg-sized</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>また、がんもどきの中にきくらげではなく安物の昆布で代用したら丸めた形の表面に糸昆布が現れて、その様子が雁が飛んでいるかのように見えたため、などの説が存在する。</j>
+<e type="trans" ver="1">Another theory said that when cheep kelp was used for its ingredient instead of Judas&apos;s-ear, threadlike kelp was appeared on the rounded shape surface, and it looked like a flying goose.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Another theory says that when cheep kelp was used for its ingredient instead of Judas&apos;s-ear, threadlike kelp appeared on the rounded shape surface, and they looked like flying geese.</e>
+<cmt>NC_Checksaid→sayswas appeared→appeareda flying goose→flying geeseit→they</cmt>
+<e type="check" ver="1">Another theory says that when cheep kelp was used for its ingredient instead of Judas&apos;s-ear, threadlike kelp appeared on the rounded shape surface, and they looked like flying geese.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>関西では飛竜頭（ひりゅうず、ひりうず、ひろうす、ひりょうず）と呼ばれる。</j>
+<e type="trans" ver="1">In Kansai region, it is called hiryuzu (also pronounce as hiriuzu, hirousu, hiryozu).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Kansai region, it is called hiryuzu (also pronounce as hiriuzu, hirousu, hiryozu).</e>
+<cmt>In→In the</cmt>
+<e type="check" ver="1">In the Kansai region, it is called hiryuzu (also pronounce as hiriuzu, hirousu, hiryozu).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>ヒロウスとはポルトガル語のフィリョース（filhos、小麦粉と卵を混ぜ合わせて油で揚げたお菓子）が語源といわれる。</j>
+<e type="trans" ver="1">The origin of hirousu is said to be filhos (deep-fried sweets mixed with flour and eggs) in Portuguese.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The origin of hirousu is said to be filhos (deep-fried sweets mixed with flour and eggs) in Portuguese.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">The origin of hirousu is said to be filhos (deep-fried sweets mixed with flour and eggs) in Portuguese.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>「がんもどき」の名称が「癌（がん）」につながり縁起が悪いとも言われる。</j>
+<e type="trans" ver="1">It is believed to bring bad luck since the name of &apos;ganmodoki&apos; could lead to &apos;gan&apos; (cancer).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is sometimes said to bring bad luck since the name of &apos;ganmodoki&apos; could lead to &apos;gan&apos; (cancer).</e>
+<cmt>believed→sometime said</cmt>
+<e type="check" ver="1">It is sometimes said to bring bad luck since the name of &apos;ganmodoki&apos; could lead to &apos;gan&apos; (cancer).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="13">
+<j>江戸時代の終わりまでは、こんにゃくを油で炒めた料理をがんもどきといった。</j>
+<e type="trans" ver="1">Until the end of Edo period, a dish with sauteed konjac in the oil was called ganmodoki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Until the end of the Edo period, a dish with sauteed konjac with oil was called ganmodoki.</e>
+<cmt>NC_CheckEdo→the Edoin the oil→with oil</cmt>
+<e type="check" ver="1">Until the end of the Edo period, a dish with sauteed konjac with oil was called ganmodoki.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 BoB774(id:148281), News20(id:89468), Standclub(id:234328), マクガイア(id:33346), ポピュラーポプラ(id:157724), Nighthawks(id:36125), MIO(id:31681), Roger(id:9883), Pieria(id:48925), ShikiH(id:181574), ＋－(id:17104), Opponent(id:720), VolkovBot(id:105371), 製造法(id:228183), Point136(id:211299), 曼珠沙華(id:26417), Corwin(id:973), 1029man(id:93235), Mizumono(id:606), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

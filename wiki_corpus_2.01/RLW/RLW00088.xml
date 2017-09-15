@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>嵐山駅</j>
+<e type="trans" ver="1">Arashiyama Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Arashiyama Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Arashiyama Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>嵐山駅（あらしやまえき）は京都市にある駅。</j>
+<e type="trans" ver="1">Arashiyama Station (Arashiyama-eki) is a station in Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Arashiyama Station (Arashiyama-eki) is a station in Kyoto City.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Arashiyama stations are stations located in Kyoto City.</e>
+<cmt>複数あるので、複数形としました。</cmt>
+</sen>
+<sen id="2">
+<j>複数の駅が離れた場所に存在する。</j>
+<e type="trans" ver="1">There are several stations in separate places.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are several stations in separate places.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There are several stations in separate places.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>嵐山駅 (阪急) - 西京区にある阪急嵐山線の駅。</j>
+<e type="trans" ver="1">Arashiyama Station(Hankyu Railway) is a station of Hankyu Arashiyama Line in Nishikyo Ward.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Arashiyama Station (Hankyu Railway) is a station of the Hankyu Arashiyama Line in Nishikyo Ward.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Arashiyama Station (Hankyu Railway) is a station of the Hankyu Arashiyama Line in Nishikyo Ward.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>嵐山駅 (京福電気鉄道) - 右京区にある京福電気鉄道嵐山本線の駅。</j>
+<e type="trans" ver="1">Arashiyama (Keifuku Electric Railroad Co.,Ltd.), is a station of Keifuku Electric Railroad&apos;s Arashiyama Main Line in Ukyo Ward (Kyoto City)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Arashiyama (Keifuku Electric Railroad Co., Ltd.) is a station of Keifuku Electric Railroad&apos;s Arashiyama Main Line in Ukyo Ward (Kyoto City)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Arashiyama Station (Keifuku Electric Railroad Co., Ltd.) is a station of Keifuku Electric Railroad&apos;s Arashiyama Main Line in Ukyo Ward.</e>
+<cmt>Station を追加しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="5">
+<j>嵯峨嵐山駅 - 右京区にあるJR西日本嵯峨野線（山陰本線）の駅。</j>
+<e type="trans" ver="1">Saga-Arashiyama Station is a station of JR West Sagano Line (San&apos;in Main Line) in Ukyo Ward</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saga-Arashiyama Station is a facility of the JR West Sagano Line (San&apos;in Main Line) in Ukyo Ward.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Saga-Arashiyama Station is a facility of the JR West Sagano Line (Sanin Main Line) in Ukyo Ward.</e>
+<cmt>アポストロフィーを削除し、sanin としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="6">
+<j>トロッコ嵐山駅 - 右京区にある嵯峨野観光鉄道嵯峨野観光線の駅。</j>
+<e type="trans" ver="1">Arashiyama Torokko Stationis a station of Sagano Scenic Railway&apos;sSagano Sight-Seeing Tram Line in Ukyo Ward.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Arashiyama Torokko Stationis a station of Sagano Scenic Railway&apos;s Sagano Sightseeing Tram Line in Ukyo Ward.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Arashiyama Torokko Stationis a station of Sagano Scenic Railway&apos;s Sagano Sightseeing Tram Line in Ukyo Ward.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="7">
+<j>嵐山駅（らんざんえき）</j>
+<e type="trans" ver="1">Ranzan station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ranzan Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Ranzan Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="8">
+<j>武蔵嵐山駅 - 埼玉県比企郡嵐山町にある東武東上線の駅。</j>
+<e type="trans" ver="1">Musashi-Ranzan Station is a station of the Tobu Tojo Line in Ranzanmachi, Hiki-gun, Saitama Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Musashi-Ranzan Station is a facility of the Tobu Tojo Line in Ranzanmachi, Hiki-gun, Saitama Prefecture.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Musashi-Ranzan Station is a facility of the Tobu Tojo Line in Ranzan-machi, Hiki-gun, Saitama Prefecture.</e>
+<cmt>Ranzan-machi としました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Kone(id:377), Rusk(id:9895), Im224(id:57113), Alecs.bot(id:194707), Hideyuki(id:9577), Yas(id:739), 小太刀(id:18154), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

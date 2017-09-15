@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>時範記</j>
+<e type="trans" ver="1">Tokinoriki</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tokinoriki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tokinoriki</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>時範記（ときのりき）は、平安時代後期の官人、平時範が記した日記。</j>
+<e type="trans" ver="1">Tokinoriki was a diary by TAIRA no Tokinori, a court official in the late Heian period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tokinoriki is a diary written by a court official named TAIRA no Tokinori during the Heian period.</e>
+<cmt>rearranged sentece to avoid a comma and fixed to read more naturally</cmt>
+<e type="check" ver="1">Tokinoriki is a diary written by a court official named TAIRA no Tokinori during the Heian period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>右大記、平右記、右大丞記とも。</j>
+<e type="trans" ver="1">Also called Udaiki, Heiyuki, Udaishoki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The diary is also called Udaiki, Heiyuki and Udaishoki.</e>
+<cmt>Translation 1 is ambiguous on whether these terms refer to the person or the diary, so I added &quot;The diary&quot; for clarity</cmt>
+<e type="check" ver="1">The diary is also called Udaiki, Heiyuki and Udaishoki.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>その逸文から承保2年（1075年）から嘉承3年（1108年）にかけて書かれていたことが確認される。</j>
+<e type="trans" ver="1">It has been confirmed from parts that have been cited by other documents that the diary ran from 1075 to 1108.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Through parts of the diary being cited by other sources, it has been confirmed that the diary ran from 1075 to 1108.</e>
+<cmt>translation 1 is not entirely clear, so I fixed the grammar to read more understandably</cmt>
+<e type="check" ver="1">Through parts of the diary being cited by other sources, it has been confirmed that the diary ran from 1075 to 1108.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>自筆原本は伝存しない。</j>
+<e type="trans" ver="1">The actual diary written by Tokinori does not exist anymore.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The actual diary written by Tokinori does not exist anymore.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The actual diary written by Tokinori does not exist anymore.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>宮内庁書陵部に永長2年（1097年）七月条と承徳3年（1099年）正月から三月条、国立歴史民俗博物館に永長元年三七月条など一部写本が伝存する。</j>
+<e type="trans" ver="1">Copies of part of the diary still exist such as the entry for July 1097 and January to March 1099 at the Archives and Mausolea Department of the Imperial Household Agency and the entry for July 1098 at the National Museum of Japanese History.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Partial copies of the diary still exist, such as entries from August of 1097 and from January to April of 1099 at the Archives and Mausolea Department of the Imperial Household Agency, as well as an entry for July 1096 at the National Museum of Japanese History.</e>
+<cmt>「永長２年七月」 began August 10th, and ended September 8th, 1097, so I changed July 1097 to August 1097; 「承徳３年正月から３月案」 is January 24 - April 22, so I changed &quot;January to March&quot; to &quot;January to April&quot;; 「永長元年」 is in 1096, so I fixed this, but I am unclear if 「三七」 means &quot;March to July&quot;...; Perhaps it would be easier just to not translate the months since it is impossible to be entirely accurate without translating the Japanese time periods in every case?; fixed grammar</cmt>
+<e type="check" ver="1">Partial copies of the diary still exist, such as entries from August of 1097 and from January to April of 1099 at the Archives and Mausolea Department of the Imperial Household Agency, as well as an entry for July 1096 at the National Museum of Japanese History.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>宮内庁書陵部所蔵分は、早川庄八と宮崎康充によって「書陵部紀要」14・17・32号に翻刻されている。</j>
+<e type="trans" ver="1">The portion held by the Archives and Mausolea Department of the Imperial Household Agency has been reprinted in the &quot;Journal of the Archives and Mausolea Department&quot; No. 14, 17 and 32 by Shohachi HAYAKAWA and Yasumasa MIYAZAKI.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The portion held by the Archives and Mausolea Department of the Imperial Household Agency has been reprinted in the &quot;Journal of the Archives and Mausolea Department,&quot; No. 14, 17 and 32, by Shohachi HAYAKAWA and Yasumasa MIYAZAKI.</e>
+<cmt>added commas</cmt>
+<e type="check" ver="1">The portion held by the Archives and Mausolea Department of the Imperial Household Agency has been reprinted in the &apos;Journal of the Archives and Mausolea Department,&apos; No. 14, 17 and 32, by Shohachi HAYAKAWA and Yasumasa MIYAZAKI.</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 子パンダ(id:178397), 黒砂糖(id:38164), 伊集院聖(id:53199), Hideki1976(id:106957), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

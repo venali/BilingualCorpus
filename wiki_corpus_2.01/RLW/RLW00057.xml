@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>上川口駅</j>
+<e type="trans" ver="1">Kami-Kawaguchi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kami-Kawaguchi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kami-Kawaguchi Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>上川口駅（かみかわぐちえき）は、京都府福知山市大字六十内（むそち）上小田小字石郡12番地2にある、西日本旅客鉄道（JR西日本）山陰本線の鉄道駅。</j>
+<e type="trans" ver="1">Kami-Kawaguchi Station is a railway station on the San-in Main Line of West Japan Passenger Railways (JR West Japan) located at 2-2 Koaza Ishigori, Kamioda, Oaza Musochi, Fukuchiyama City, Kyoto Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kami-Kawaguchi Station, a railway facility on the San-in Main Line of West Japan Passenger Railways (JR West Japan) is located at 2-2 Koaza Ishigori, Kamioda, Oaza Musochi, Fukuchiyama City, Kyoto Prefecture.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Kami-Kawaguchi Station, located at 12-2 Koaza Ishigori, Kamioda, Oaza Musochi, Fukuchiyama City, Kyoto Prefecture, is a stop on the Sanin Main Line, which is operated by the West Japan Railway Company (JR West).</e>
+<cmt>他の記事と表現を統一しました。会社名を修正しました。</cmt>
+</sen>
+<par id="1">
+<sen id="2">
+<j>駅構造</j>
+<e type="trans" ver="1">Station Construction</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="3">
+<j>単式・島式複合型2面3線のプラットホームを持つ、待避・行違い可能な地上駅。</j>
+<e type="trans" ver="1">Above-ground station with a standard array of multiple island-style dual-sided platforms servicing 3 sets of tracks, with waiting shelter-sheds capable of handling traffic in both directions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It&apos;s an above-ground station with a standard array of multiple island-style dual-sided platforms serving three sets of tracks, with waiting shelter sheds capable of handling traffic in both directions.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It&apos;s an aboveground station with a single platform serving a track as well as an island platform serving two tracks, being capable of handling traffic in both directions.</e>
+<cmt>ホームの表現を変更しました。</cmt>
+</sen>
+<sen id="4">
+<j>駅舎はあるが無人駅。</j>
+<e type="trans" ver="1">A station building exists but is unmanned.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A station building exists but is unmanned.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A station building exists but is unmanned.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>その駅舎は単式の1番ホーム側にあり、島式の2・3番ホームへは跨線橋で連絡している。</j>
+<e type="trans" ver="1">The simple style station building itself is the Platform #1 side which is connected to the island-like platforms 2 &amp; 3 by a footbridge.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The simple station building is the platform No. 1 side, which is connected by a footbridge to the island-like platform nos. 2 and 3.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station building stands on Platform 1 side, which is a single platform, and is connected by a footbridge to Platform 2 and 3 which is an island platform.</e>
+<cmt>Platform と大文字にしました。</cmt>
+</sen>
+<sen id="6">
+<j>駅舎内に自動券売機があるが、いわゆる食券販売機タイプのもので、発券された乗車券は自動改札機に対応していない。</j>
+<e type="trans" ver="1">Within the station building there is an automatic ticket vending machine but, similar to the type of vending machine that prints meal coupons and as such, the tickets produced are not compatible with automatic ticket reading equipment at ticket barriers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Within the station building there is an automatic ticket vending machine that&apos;s similar to a vending machine that prints meal coupons; consequently, the tickets produced aren&apos;t compatible with the automatic ticket reading equipment at ticket barriers.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Within the station building there is an automatic ticket vending machine that&apos;s similar to a vending machine that prints meal coupons; consequently, the tickets produced aren&apos;t compatible with the automatic ticket checker at ticket gates.</e>
+<cmt>barrier →gates　としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>便所は、改札内に男女共用の汲み取り式便所がある。</j>
+<e type="trans" ver="1">There are separate septic tank style toilet facilities for males and females within the ticket-barrier.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are separate septic-tank-style toilet facilities for men and women within the ticket barrier.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">There is a vault toilet used by both men and women within the ticket gate.</e>
+<cmt>vault toilet としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>2007年10月現在、当駅での特急待避はないが、昼間時の下り普通列車2本が3番のりばに停車する。</j>
+<e type="trans" ver="1">As at October 2007, express trains did not stop at the station however, during daytime hours local trains stop at platform 3 twice daily.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As of October 2007, express trains didn&apos;t stop at the station; however, during daytime hours local trains stop at platform No. 3 twice daily.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As of October 2007, local trains did not have to wait for limited express trains at this station; however, during daytime hours local outbound trains stopped at Platform 3 twice daily.</e>
+<cmt>Platform と大文字にしました。下り　を追加しました。</cmt>
+</sen>
+<sen id="9">
+<j>なお、3番のりばからは上り列車も発車可能であるが、定期での設定はない。</j>
+<e type="trans" ver="1">Furthermore, it is possible for trains headed to Kyoto to stop at platform 3 but this is not the current arrangement.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, it&apos;s possible for trains headed to Kyoto to stop at platform No. 3, but that isn&apos;t the current arrangement.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Furthermore, it&apos;s possible for trains headed to Kyoto to stop at Platform 3, but that isn&apos;t the current arrangement.</e>
+<cmt>Platform と大文字にしました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>駅周辺</j>
+<e type="trans" ver="1">Station Vicinity</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="11">
+<j>立原郵便局（ゆうちょ銀行ATM併設）</j>
+<e type="trans" ver="1">Tatsuhara Post Office (with postal savings bank ATM facility).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Tatsuhara post office (with postal savings bank ATM facility)</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Tatsuhara post office (with postal savings bank ATM facility)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>ローソン福知山野花店</j>
+<e type="trans" ver="1">Lawson Nobana Fukuchiyama Store</e>
+<cmt></cmt>
+<e type="trans" ver="2">Lawson Nobana Fukuchiyama Store</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">LAWSON Fukuchiyama Nobana store</e>
+<cmt>福知山野花としました。</cmt>
+</sen>
+<sen id="13">
+<j>京都北都信用金庫ATM（篠尾支店ローソン福知山野花店出張所）</j>
+<e type="trans" ver="1">Kyoto Hokuto Shinkin Bank ATM (Saso Branch Lawson Nobana Fukuchiyama Store　agency）</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Hokuto Shinkin Bank ATM (Saso branch, Lawson Nobana Fukuchiyama store agency）</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Kyoto Hokuto Shinkin Bank ATM (Saso branch, Lawson Fukuchiyama Nobana store agency）</e>
+<cmt>福知山野花としました。</cmt>
+</sen>
+<sen id="14">
+<j>国道9号</j>
+<e type="trans" ver="1">National Highway #9</e>
+<cmt></cmt>
+<e type="trans" ver="2">National Highway 9</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">National Route 9</e>
+<cmt>国道→national routeとしました。</cmt>
+</sen>
+<sen id="15">
+<j>姫髪山</j>
+<e type="trans" ver="1">Mt. Himegami</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mt. Himegami</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mt. Himegami</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>長安寺（ちょうあんじ）</j>
+<e type="trans" ver="1">Choan-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Choan-ji Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Choan-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="17">
+<j>バス</j>
+<e type="trans" ver="1">Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>京都交通 (舞鶴)・夜久野線</j>
+<e type="trans" ver="1">Keihan Kyoto Kotsu (Maizuru)/Yakuno Route</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Kyoto Kotsu (Maizuru)/Yakuno Route</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Kyoto Kotsu (Maizuru)/Yakuno Route</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>停留所名「野花」・「立原」</j>
+<e type="trans" ver="1">Name of bus stop: “Nobana”/”Tatsuwara”</e>
+<cmt></cmt>
+<e type="trans" ver="2">Name of bus stop: “Nobana”/”Tatsuwara”</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Name of bus stop: &apos;Nobana&apos;/&apos;Tatsuhara&apos;</e>
+<cmt>&quot;→&apos;　としました。</cmt>
+</sen>
+<sen id="20">
+<j>下夜久野駅前行き</j>
+<e type="trans" ver="1">Bound for the front of Shimo-Yakuno Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bound for the front of Shimo-Yakuno Station</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Bound for the front of Shimo-Yakuno Station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>牧・西本町経由福知山駅前行き</j>
+<e type="trans" ver="1">Bound for the front of Fukuchiyama Station via West Honmachi/Maki</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bound for the front of Fukuchiyama Station via West Honmachi/Maki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bound for the front of Fukuchiyama Station via Maki and Nishi-Honmachi/Maki</e>
+<cmt>Nishi-Honmachi としました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="22">
+<j>利用状況</j>
+<e type="trans" ver="1">Usage</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger usage statistics</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="23">
+<j>2006年度の1日あたりの乗車人員は約93人である。</j>
+<e type="trans" ver="1">In FY 2006 there were approximately 93 passengers per day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Approximately 93 passengers per day used the station in fiscal year 2006.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The number of daily passengers was about 93 in fiscal year 2006.</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="24">
+<j>（京都府統計書より）</j>
+<e type="trans" ver="1">(Source: Kyoto Prefecture statistics)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Source: Statistics from Kyoto Prefecture)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">(According to the Kyoto Prefecture Statistics Report)</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="25">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>1911年（明治44年）10月25日 - 日本国有鉄道の駅として開業（福知山～和田山間の開通と同時）。</j>
+<e type="trans" ver="1">October 25, 1911 – Opened as a Japanese National Railways station (at the same time the Fukuchiyama – Wadayama section opened).</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 25, 1911 – It opened as a facility of Japanese National Railways concurrently with the opening of the Fukuchiyama – Wadayama section.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 25, 1911: It opened as a facility of Japanese National Railways concurrently with the opening of the Fukuchiyama – Wadayama section.</e>
+<cmt>コロンを追加しました。文頭のハイフンを削除しました。</cmt>
+</sen>
+<sen id="27">
+<j>客貨取扱を開始。</j>
+<e type="trans" ver="1">Commences taking paying passengers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line began to serve paying passengers.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger and freight services were started.</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="28">
+<j>1963年（昭和38年）3月1日 - 貨物取扱を廃止。</j>
+<e type="trans" ver="1">March 1, 1963 - Ceases handling freight.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 1, 1963 - Freight handling was ceased.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">March 1, 1963: Freight service was terminated.</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="29">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により、JR西日本の駅となる。</j>
+<e type="trans" ver="1">April 1, 1987 – With the split-up and privatization of the national railways, becomes a JR West Japan station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1987 – With the split-up and privatization of the national railway system, it became a JR West Japan station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 1987: The station became a JR West facility as a result of the split and privatization of the Japan National Railways.</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="30">
+<j>隣の駅</j>
+<e type="trans" ver="1">Adjacent Stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjacent Stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="31">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Passenger Railways</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Passenger Railways</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>会社名を修正しました。</cmt>
+</sen>
+<sen id="32">
+<j>山陰本線</j>
+<e type="trans" ver="1">San-in Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">San-in Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sanin Main Line</e>
+<cmt>Sanin としました。</cmt>
+</sen>
+<sen id="33">
+<j>福知山駅 - 上川口駅 - 下夜久野駅</j>
+<e type="trans" ver="1">‘Fukuchiyama Station - Kami-Kawaguchi Station - Shimo-Yakuno Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">‘Fukuchiyama Station - Kami-Kawaguchi Station - Shimo-Yakuno Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fukuchiyama Station - Kami-Kawaguchi Station - Shimo-Yakuno Station</e>
+<cmt>アポストロフィを削除しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 ヒロリン(id:15886), 城山(id:104901), Hikichimin Jr.(id:147077), Makiharashouten(id:1021), Sangyou(id:4655), Jhnexco(id:191199), Wikipedianet(id:9608), エアスマップIRE(id:13873), 樒(id:35770), Zlan(id:11942), Sunen(id:10700), 継之助(id:39352), Goki(id:7107), R28Bot(id:177951), Kone(id:377), 663highland(id:18755), Chobot(id:20846), Hirotaro(id:1437), SVS(id:18615), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

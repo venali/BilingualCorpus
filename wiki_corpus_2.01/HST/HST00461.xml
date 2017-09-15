@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>石盛</j>
+<e type="trans" ver="1">Kokumori</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kokumori</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kokumori</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>石盛（こくもり）とは、検地における田畠屋敷の法定の段あたりの見積生産高（斗代）のこと。</j>
+<e type="trans" ver="1">&quot;Kokumori&quot; refers to statutory estimated production output (To-dai; To was about 18 liters) per tan (an old unit showing the area of land; 991.7 square meters) of the field and the residence area in land survey.</e>
+<cmt>「斗代」は用語集の用語共有で&apos;todai (the standard crop per Tan according to the grade of the fields in the Edo period)&apos;となっていましたが、ここでは斗という単位や２斗下りという使い方も出てきていて、その斗に対する代なのでTo-daiとしました。斗自体が引きあいに出されている箇所はToとし、18リットル換算も（）で入れ、その他斗が単なる単位の時はリットル換算で入れました。</cmt>
+<e type="trans" ver="2">&quot;Kokumori&quot; refers to the estimated production output (To-dai; one To was about eighteen liters) per tan (an old land area unit; 991.7 square meters) of rice in fields and residential areas in a land survey.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">Kokumori refers to the estimated production output (To-dai; one To was about 18 liters) per tan (an old land area unit; 991.7 square meters) of rice in rice paddies, fields and residential areas in a land survey.</e>
+<cmt>18　をアラビア数字にしました。田畑屋敷→rice paddies, fields and residential areas としました。</cmt>
+</sen>
+<sen id="2">
+<j>これに基づいて全体の石高を算定した。</j>
+<e type="trans" ver="1">Whole Kokudaka (crop yield) was figured out according to this.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Based on this system, a whole Kokudaka (crop yield) was calculated using these measurements.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">Based on this system, a whole Kokudaka (crop yield) was calculated using these measurements.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>ただし、本来は斗代・石高の算出についてを指していた。</j>
+<e type="trans" ver="1">However, it used to refer to calculating of To-dai/Kokudaka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Originally, however, these measurements were used to refer to calculations of To-dai and Kokudaka.</e>
+<cmt>changed &quot;it used to&quot; to &quot;Originally&quot;; fixed grammar</cmt>
+<e type="check" ver="1">Originally, however, these measurements were used to refer to calculations of To-dai and Kokudaka.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>時代によって基準は違うものの、生産高など田畠の優劣に応じて上田・中田・下田を基本としてその上に上々田、その下に下々田という等級を設置するのが通例であった。</j>
+<e type="trans" ver="1">Although the standard varied across the ages, it was customary to set basic grades, the first rice field, the second rice field and the third rice field along with grades of 上々田 (superfine rice field) for a better rice field than the first and 下々田 (bottom-ranked rice field) for a worse one than the third according to the superiority of the field such as productivity.</e>
+<cmt>定訳不明　読み方不明　「上々田」は　&apos;superfine rice field&apos;、「下々田」&apos;は bottom-ranked rice field&apos;と（）内に訳をつけました。</cmt>
+<e type="trans" ver="2">Although standards varied over the ages, it was customary to set basic grades. Field grades were given according to their merits, such as productivity, on three basic levels: high grade (very fertile rice field), medium grade and lower grade (worn-out rice land). Rice fields with better production than high grade fields were &quot;superfine rice fields&quot; and fields with worse production than lower grade were &quot;bottom-ranked rice fields.&quot;</e>
+<cmt>split into three sentences for easier reading; fixed grammar and word choice to read more understandably</cmt>
+<e type="check" ver="1">Although standards varied over the ages, it was customary to set basic grades; grades for rice paddies and fields were given according to their merits, such as productivity, on three basic levels: high grade (very fertile rice paddy), medium grade and lower grade (worn-out rice paddy); rice paddies with better production than high grade were &quot;superfine rice paddies&quot; and those with worse production than lower grade were &quot;bottom-ranked rice paddies.&quot;</e>
+<cmt>田と畠でランクが違ったようですので、田→rice paddy, 畠→field　として区別しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>太閤検地においては、上田を1石 (単位)5斗、中田を1石3斗、下田を1石1斗としてランクが1つ落ちるごとに2斗ずつ下げる方法（2斗下り）が採用され、屋敷地は1石2斗を基準とすること、下々田・畠・河原などについては「見計い」とされ、検地担当者の裁量によるものとされた。</j>
+<e type="trans" ver="1">In Taiko kenchi (the cadastral surveys conducted by Hideyoshi TOYOTOMI) the method was adopted in which the first rice field being 1 koku (unit) and 90 liters, the second one being 1 koku and 54 liters and the third one being1 koku and 18 liters, these fields were reduced by 36 liters when downgraded (2 To kudari; 2 To is 36 liters), and while residential area was to be 1 koku and 36 liters as a standard, 下々田, field, riverside and so on were &apos;mihakarai&apos;, that is, were left to discretion of the person in charge of the kench.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Taiko Kenchi (land surverys conducted by Hideyoshi TOYOTOMI), the method for ranking fields was to reduce a field by one grade when its production fell by two To (also known as &quot;two To kudari,&quot; literally meaning &quot;reduction of two To&quot; or thirty six liters). Fields producing five To (ninety liters) in one koku (land unit) were ranked high grade, fields producing three To (fifty-four liters) in one koku were ranked medium grade, and fields producing one To (eighteen liters) in one koku were ranked lower grade. While the standard for residential areas was to be two To per koku, other fields known as &quot;mihakarai,&quot; such as bottom-ranked rice fields, personal gardens and riverside fields were left to the discretion of the person in charge of the land survey.</e>
+<cmt>changed &quot;cadastral surveys&quot; to &quot;land surveys&quot;; added literal translation for &quot;two To kudari&quot;; changed &quot;field&quot; to &quot;personal gardens&quot; for &quot;畠&quot;; split into three sentences for easier reading</cmt>
+<e type="check" ver="1">In the Taiko Kenchi (land surveys conducted by Hideyoshi TOYOTOMI), the method for ranking rice paddies was to reduce 2 To (36 liters) when the rank of the rice paddy is downgraded by one (also known as &quot;Nitokudari,&quot; literally meaning &quot;reduction of Two To&quot;); rice paddies that produced 1 Koku and 5 To (about 270 liters) was ranked as high grade, those that produced 1 Koku and 3 To (about 235 liters) as medium grade, and those that produced 1 Koku and 1 To (about 198 liters) as lower grade; while the standard for residential areas was to be 1 Koku and 2 To (about 216 liters), other fields known as &apos;mihakarai,&apos; such as bottom-ranked rice paddies, fields and riverside fields were left to the discretion of the person in charge of the land survey.</e>
+<cmt>翻訳を変更しました。</cmt>
+</sen>
+<sen id="6">
+<j>江戸時代には、下々田は9斗、畠は上畠を1石2斗として2斗下りする方法が採用されている。</j>
+<e type="trans" ver="1">During the Edo period a method of 2 To kudari in the setting of 下々田 being 162 liters and high-grade field being 1 koku and 36 liters was adopted.</e>
+<cmt>定訳不明　「上畠」をhigh-grade fieldにしました。</cmt>
+<e type="trans" ver="2">During the Edo period, a method was adopted using two To kudari with bottom-ranked rice fields producing nine To (162 liters) and high-grade fields producing two To in one koku.</e>
+<cmt>The Japanese does not make sense to me here, with &quot;bottom-ranked rice fields&quot; producing more rice than high-grade(??); I did what I could to make the sentence grammatical…</cmt>
+<e type="check" ver="1">During the Edo period, a method was adopted using Nitokudari in which rice paddies producing 9 To (162 liters) as bottom-ranked rice paddies and fields producing 1 Koku and 2 To (about 216 liters) as high-grade fields.</e>
+<cmt>翻訳を変更しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>ある田畠の中でランダムに数ヶ所を選んで付近1坪を収穫してその平均収穫高を算出する。</j>
+<e type="trans" ver="1">Several places in a rice field were picked out at random and average crop per 3.3 sq.m. of these places was figured out after harvesting.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Several places in a rice field would be selected at random and the average of the crop per 3.3 square meters of these locations was calculated after harvesting.</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">Several places in rice paddies and fields would be selected at random and the average of the crop per 3.3 square meters of these locations was calculated after harvesting.</e>
+<cmt>田畠→rice paddies and fields としました。</cmt>
+</sen>
+<sen id="8">
+<j>もし、平均の稲籾の収穫高が1坪あたり1升とすれば、1段（３30坪）あたり換算で3石（30斗＝300升）となる。</j>
+<e type="trans" ver="1">When average crop of unhulled rice was 1 sho (1.8 liters) per 3.3 sq.m., it was equivalent to 3 koku (30 To = 300 sho, about 540 liters) per1 tan (about 1,089 sq.m.).</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the average crop of unhulled rice was one sho (1.8 liters) per 3.3 square meters, it was equivalent to three koku (30 To = 300 sho, or about 540 liters) per tan (about 1,089 square meters).</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">When the average crop of unhulled rice was 1 Sho (1.8 liters) per 3.3 square meters, it was equivalent to 3 Koku (30 To = 300 Sho, or about 541 liters) per tan.</e>
+<cmt>Sho, Koku, To など大文字で統一しました。1段→セル４に既出のため、補足を削除しました。</cmt>
+</sen>
+<sen id="9">
+<j>5分摺りで脱穀をした場合、玄米の量は半分の1石5斗になると算定できるため、「1石5斗代」すなわち1段あたり1石5斗ということになり、「上田」に相当することになる。</j>
+<e type="trans" ver="1">When rice was roughly (by 50%) threshed, it was calculated the amount of brown rice was 1 koku 90 liters, that is, &quot;1 koku 5 To-dai&apos; per 1 tan, and it corresponded to the &apos;the first rice field&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">When rice was roughly threshed, it was calculated that the amount of brown rice was equal to ninety liters in one koku. In other words, it was &quot;one koku five To-dai&quot; per tan, meaning it corresponded to the &quot;high grade&quot; rice field.</e>
+<cmt>split into two sentences for easier reading; fixed grammar</cmt>
+<e type="check" ver="1">When rice was threshed by 50%, it was calculated that the amount of brown rice was equal to 1 Koku and 5 To; in other words, it was &apos;1 Koku 5 To-dai&apos; per tan, meaning it corresponded to the &apos;high grade&apos; rice paddy.</e>
+<cmt>翻訳を一部変更しました。</cmt>
+</sen>
+<sen id="10">
+<j>また、大名によっては干減引2割を行って、収穫高を2割減で算定（3石を2割引の2石4斗に修正して、最終的に「1石2斗代」と算出）する方法を用いる藩もあった。</j>
+<e type="trans" ver="1">Also, some daimyos adopted a method of calculating harvest yield 20% reduced by enforcing kangenbiki (subtraction for reasons of the loss by drying) (and revised from 3 koku to 2 koku 72 liters by reducing 20% and ended up with &apos;1 koku 2 To-dai&apos;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">A number of Daimyo also adopted a method of calculating a harvest yield by reducing it by 20% and enforcing Kangenbiki (subtraction due to losses by drying) (this calculation was done by modifying three koku to two koku four To (seventy two liters) by reducing it twenty percent and ending up with &quot;one koku two To-dai&quot;).</e>
+<cmt>I do not understand the explanation in parenthesis very well. I tried to make my own translation but could not make perfect sense of it</cmt>
+<e type="check" ver="1">A number of daimyo also adopted a method of calculating a harvest yield by reducing it by 20% and enforcing Kangenbiki (subtraction due to losses by drying) (this calculation was done by modifying three koku to 2 Koku 4 To (about 432 liters) by reducing it 20 percent and ending up with &apos;1 Koku 2 To-dai&apos;).</e>
+<cmt>2石4斗→432 liters と変更しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="11">
+<j>もっとも、検地における土地の評価は担当者の判断に依拠するところが大きく、街道沿いなどの商工業が盛んな地域の田畠では高く見積もられ、政治的・軍事的要地や僻地では民心掌握のために低く見積もられ事があった。</j>
+<e type="trans" ver="1">However, in land survey the valuation of the land greatly depended on the judgment of the person in charge, so sometimes rice fields in commercial and industrial business areas were estimated highly while rice fields in politically and militarily important areas and in remote areas were estimated low to attract support from the public.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Evaluations of land in land surveys depended largely on the judgement of the person in charge. This sometimes resulted in rice fields in commercial and industrial business areas being given high estimates and rice fields in important political, military and remote areas being given low estimates in order to attract support from the public.</e>
+<cmt>split into two sentences for easier reading; fixed grammar and word selection to read more naturally</cmt>
+<e type="check" ver="1">Evaluations of land in land surveys depended largely on the judgment of the person in charge, and this sometimes resulted in rice paddies and fields in commercial and industrial business areas being given high estimates and those in important political and military areas as well as remote areas being given low estimates in order to attract support from the public.</e>
+<cmt>翻訳を一部変更しました。</cmt>
+</sen>
+<sen id="12">
+<j>これが農民から見ると賦課の不公平にも見られ、時には農民一揆の原因になることもあった。</j>
+<e type="trans" ver="1">This sometimes seemed unfair imposition to the peasants and led to peasant&apos;s revolts in some cases.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As this was seen to be unfair imposition on the peasants, there are some cases of these estimates resulting in revolts.</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">As this was seen to be unfair imposition on the peasants, there are some cases of these estimates resulting in revolts.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="13">
+<j>江戸時代中期頃には、条件に関わらず一律の石盛が採用されるようになり、干減引が廃されて屋敷地と上畠を下田の石盛1石1斗に揃え、畠についてはそこから2斗下りする方法が採用されるようになった。</j>
+<e type="trans" ver="1">In the middle of the Edo period uniform Kokumori was adopted regardless of any conditions, kangenbiki was abolished and kokumori of residence area and high-grade field were made the same amount of 1 koku 18 liter as that of the third rice field and the method of exercising 2 To kudari (reducing 36 liters) from that amount on Hata (fields) was adopted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the middle of the Edo period, Kokumori based on evenness came to be adopted regardless of any conditions. Kangenbiki was abolished and Kokumori taken on residential areas and high-grade fields were altered to be the same amount of lower-grade fields, or one To (eighteen liters) for one Koku. For lower grade fields, the method of exercising two To kudari from this amount was adopted.</e>
+<cmt>changed &quot;uniform kokumori&quot; to &quot;Kokumori based on evenness&quot;; split into three sentences and fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">During the middle of the Edo period, Kokumori based on evenness came to be adopted regardless of any conditions; Kangenbiki was abolished and Kokumori taken on residential areas and high-grade fields were altered to be the same amount of lower-grade rice paddies, or 1 Koku and 1 To, while for fields, the method of exercising Nitokudari from this amount was adopted.</e>
+<cmt>翻訳を一部変更しました。</cmt>
+</sen>
+<sen id="14">
+<j>だが、農地の生産力向上に伴い、石盛の算定額より実際の収穫量が上回る事が多くなっていくが、算出方法はほぼそのまま明治の地租改正まで引き継がれている。</j>
+<e type="trans" ver="1">However, as the productivity advanced in farmlands, actual harvest yield often exceeded calculated amount of kokumori, but this calculating method continued until the land-tax reform in the Meiji period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As productivity advanced in farmlands, actual harvest yields often exceeded the calculated amount of Kokumori, but this calculating method continued until the land-tax reform during the Meiji period.</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">As productivity advanced in farmlands, actual harvest yields often exceeded the calculated amount of Kokumori, but this calculating method continued until the land-tax reform during the Meiji period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="15">
+<j>なお、検地による石盛の修正があった場合、石盛の増加分を石盛出目（こくもりでめ）、減少分を石盛違引（こくもりちがいびき）と称し、土地の名目が上昇（畠→田）を石間出石（こくましゅっこく）、反対に下落（田→畠）を石間引（こくまびき）と称した。</j>
+<e type="trans" ver="1">And when kokumori was to be revised in land survey, the increase in kokumori was called &apos;kokumori-deme&apos;, the decrease in it was called &apos;kokumori-chigaibiki&apos;, the upgrade of the term of the land (from Hata to rice field) was called &apos;kokuma-shukkoku&apos; and the downgrade (from rice field to Hata) was called &apos;kokuma-biki&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, when Kokumori was to be revised in a land survey, an increase in Kokumori was called &quot;Kokumori-deme&quot; and a decrease was called &quot;Kokumori-chigaibiki.&quot; The term used when upgrading a piece of land (e.g.: from Hata to rice field) became called &quot;Kokuma-shukkoku&quot; and downgrading (e.g.: from rice field to Hata) became called &quot;Kokuma-biki.&quot;</e>
+<cmt>changed &quot;And&quot; to &quot;Furthermore&quot;; fixed grammar</cmt>
+<e type="check" ver="1">Furthermore, when Kokumori was to be revised in a land survey, an increase in Kokumori was called &quot;Kokumori-deme&quot; and a decrease was called &quot;Kokumori-chigaibiki&quot;; the term used when upgrading a piece of land (e.g.: from a field to a rice paddy) became called &quot;Kokuma-shukkoku&quot; and downgrading (e.g.: from a rice paddy to a field) became called &quot;Kokuma-biki.&quot;</e>
+<cmt>田と畑をそれぞれ→rice paddies, fields としました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 チューバ吹きの休日(id:162255), くにゃこ(id:38684), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

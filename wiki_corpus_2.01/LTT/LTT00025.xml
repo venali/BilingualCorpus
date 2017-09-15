@@ -1,0 +1,3040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>保元物語</j>
+<e type="trans" ver="1">Hogen Monogatari (Tale of Hogen)</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Hogen Monogatari (The Tale of Hogen)&quot;</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Hogen Monogatari (The Tale of Hogen)</e>
+<cmt>&quot;　&quot;を削除</cmt>
+</tit>
+<sen id="1">
+<j>『保元物語』（ほうげんものがたり）は保元の乱の顛末を描いた軍記物語である。</j>
+<e type="trans" ver="1">&quot;Hogen Monogatari&quot; is a war tale dealing with Hogen Disturbance.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Hogen Monogatari&quot; is a war tale that describes the Hogen Disturbance.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">&quot;Hogen Monogatari&quot; is a war tale that describes the Hogen Disturbance.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Overview</e>
+<cmt></cmt>
+<e type="trans" ver="2">Overview</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>Overview→Summary</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>保元元年（1156年）に起こった保元の乱を中心に、その前後の事情を和漢混淆文で描く。</j>
+<e type="trans" ver="1">It was written in a mixed writing of Japanese and Chinese, focusing especially on the Hogen Disturbance in 1156, and also dealing with the circumstances before and after the conflict.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was written in a mixture of Japanese and Chinese, focusing especially on the Hogen Disturbance of 1156 and also dealing with the circumstances before and after the conflict.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It was written in a mixture of Japanese and Chinese, focusing especially on the Hogen Disturbance of 1156 and also dealing with the circumstances before and after the conflict.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>鳥羽天皇の崇徳天皇への譲位問題より始まり、鳥羽法皇が崩御したのをきっかけに崇徳院が挙兵。</j>
+<e type="trans" ver="1">Emperor Sutoku was forced to abdicate the throne by Emperor Toba, so Sutoku-in raised an army when cloistered Emperor Toba demised.</e>
+<cmt>『新和英中辞典』研究社</cmt>
+<e type="trans" ver="2">Emperor Sutoku was forced to abdicate the throne by Emperor Toba, so Sutoku-in raised an army upon the demise of the cloistered Emperor Toba.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Emperor Sutoku was forced to abdicate the throne by Emperor Toba, so Sutoku-in raised an army upon the demise of the Cloistered Emperor Toba.</e>
+<cmt>cloistered→Cloistered</cmt>
+</sen>
+<sen id="4">
+<j>崇徳院と後白河天皇との皇位継承争いを軸に、崇徳側の敗退、以降の平治の乱、治承・寿永の源平合戦の予兆までを記す。</j>
+<e type="trans" ver="1">Centering on a struggle for succession to the Imperial throne between Sutoku-in and Emperor Go-Shirakawa, it includes accounts of Sutoku&apos;s retreat, the following Heiji Disturbance, and signs of Genpei war in Jisho-Jyuei era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Centering on a struggle for succession to the Imperial Throne between Sutoku-in and Emperor Go-Shirakawa, it includes accounts of Sutoku&apos;s retreat, the following Heiji Disturbance and signs of the Genpei War of the Jisho-Jyuei era.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Centering on a struggle for succession to the Imperial Throne between Sutoku-in and Emperor Goshirakawa, it includes accounts of Sutoku&apos;s retreat, the following Heiji Disturbance and signs of the Genpei War of the Jisho-Jyuei era.</e>
+<cmt>Go-Shirakawa→Goshirakawa</cmt>
+</sen>
+<sen id="5">
+<j>藤原忠通、藤原頼長の摂関家の対立、源義朝と源為義の源氏の対立、平清盛と平忠正との平家の対立が加わる。</j>
+<e type="trans" ver="1">The rivalry among the Sekkan (regent) Houses, FUJIWARA no Tadamichi vs. FUJIWARA no Yorinaga, the rivalry among Genji clans, MINAMOTO no Yoshitomo vs. MINAMOTO no Tameyoshi, and the rivalry among Heike clans, TAIRA no Kiyomori vs. TAIRA no Tadamasa are interweaved in the tale.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The rivalry between the Sekkan (regent) houses FUJIWARA no Tadamichi versus FUJIWARA no Yorinaga, the rivalry between the Genji clans MINAMOTO no Yoshitomo versus MINAMOTO no Tameyoshi, and the rivalry between the Heike clans TAIRA no Kiyomori versus TAIRA no Tadamasa are interwoven in the tale.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The rivalry between the Sekkan (regent) houses FUJIWARA no Tadamichi versus FUJIWARA no Yorinaga, the rivalry between the Minamoto clans MINAMOTO no Yoshitomo versus MINAMOTO no Tameyoshi, and the rivalry between the Heike families TAIRA no Kiyomori versus TAIRA no Tadamasa are interwoven in the tale.</e>
+<cmt>Genji clans→Minamoto clansclans→families</cmt>
+</sen>
+<sen id="6">
+<j>細かい内容は諸本によって差異があるが、何れも源為朝の活躍がメインとなっている。</j>
+<e type="trans" ver="1">Details differ among the versions of the tale, but all of them feature a splendid work of MINAMOTO no Tametomo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The details differ among the versions of the tale, but each of them features a splendid work of MINAMOTO no Tametomo.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The details differ among the versions of the tale, but each of them features a splendid work of MINAMOTO no Tametomo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>また為朝の父の源為義をはじめ、敗者となった崇徳・頼長らに同情的であり、この敗者への視点が本作品の主題ともいえる。</j>
+<e type="trans" ver="1">Also, it shows sympathy for the losers, Sutoku and Yorinaga, including Tametomo&apos;s father MINAMOTO no Tameyoshi, and this perspective on the losers can be said a theme of this work.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, it shows sympathy for the losers, Sutoku and Yorinaga, including Tametomo&apos;s father MINAMOTO no Tameyoshi, and this perspective on the losers can be attributed as a theme in this work.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Moreover, it shows sympathy for the losers, Sutoku and Yorinaga, including Tametomo&apos;s father MINAMOTO no Tameyoshi, and this perspective on the losers can be said to be a theme in this work.</e>
+<cmt>文法間違い。 “and this perspective on the losers can be attributed as a theme in this work.”=&gt; “and this perspective on the losers can be said to be a theme in this work.”</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>この『保元物語』に『平治物語』『平家物語』『承久記』を合わせた4作品は「四部の合戦状」（『平家物語勘文録』）と称され、保元から承久にいたる武士の勃興期の戦乱をひと続きのもとして理解する見方が中世からあったことが確認できる。</j>
+<e type="trans" ver="1">In addition to &quot;Hogen Monogatari,&quot; &quot;Heiji Monogatari (The Tale of Heiji),&quot; &quot;&quot;Heike Monogatari (The Tale of the Heike),&quot; and &quot;Jokyu Ki (A Record of Jokyu)&quot; are known generically as &apos;Four Volumes of Battle Story&apos; (&quot;Heike Monogatari Kanbunroku (report),&quot; which confirms that in Middle Ages, the way of taking these battles in the periods of Hogen to Jokyu --a period of warriors&apos; rising-- as a series of incidents has already existed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition to &quot;Hogen Monogatari,&quot; &quot;Heiji Monogatari (The Tale of Heiji),&quot; &quot;Heike Monogatari (The Tale of the Heike)&quot; and &quot;Jokyu Ki (A Record of Jokyu)&quot; are known generically as &apos;Four Volumes of Battle Story&apos; (&quot;Heike Monogatari Kanbunroku (Report),&quot; which confirms that in the Middle Ages the manner of taking these battles in the periods of Hogen to Jokyu--a period of warriors&apos; uprisings--as a series of incidents had already existed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In addition to &quot;Hogen Monogatari,&quot; &quot;Heiji Monogatari (The Tale of Heiji),&quot; &quot;Heike Monogatari (The Tale of the Heike)&quot; and &quot;Jokyu Ki (A Record of Jokyu)&quot; are known generically as &apos;Four Volumes of Battle Story&apos; (&quot;Heike Monogatari Kanbunroku (Report),&quot; which confirms that in the Middle Ages the manner of taking these battles in the periods of Hogen to Jokyu--a period of warriors&apos; uprisings--as a series of incidents had already existed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>これは、保元の乱を「武者ノ世」のはじまりであるとする『愚管抄』の認識とも一致しており、時代の画期であると考えてられていたことがわかる。</j>
+<e type="trans" ver="1">This perspective accords with the view appearing in &quot;Gukansho (essay),&quot; which regards Hogen Disturbance as a beginning of &apos;the age of warriors.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">This perspective is consistent with the assertion of &quot;Gukansho (essay),&quot; which regards the Hogen Disturbance as the beginning of &apos;the age of warriors.&apos;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This perspective is consistent with the assertion of &quot;Gukansho (essay),&quot; which regards the Hogen Disturbance as the beginning of &apos;the age of warriors.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>『将門記』などの先行する軍記物語はいくばくか存在するものの、『平家物語』などとともに、あらたな文学のジャンル形成に寄与した作であるといえるだろう。</j>
+<e type="trans" ver="1">Though a few of preceding war tales like &quot;Shomon Ki (Tale of Masakado)&quot; had already existed, it could be said to have made a contribution to developing a new literary genre together with &quot;Heike Monogatari.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though a few preceding war tales, such as &quot;Shomon Ki (Tale of Masakado),&quot; had already existed, it could be said to have made a contribution to the development of a new literary genre together with &quot;Heike Monogatari.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although a few preceding war tales, such as &quot;Shomon Ki (Tale of Masakado),&quot; had already existed, it could be said to have made a contribution to the development of a new literary genre together with &quot;Heike Monogatari.&quot;</e>
+<cmt>&quot;Though&quot; -&gt; &quot;Although&quot; に変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>作者</j>
+<e type="trans" ver="1">Authorship</e>
+<cmt></cmt>
+<e type="trans" ver="2">Authorship</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Authorship</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="11">
+<j>古くから何人かの名前が挙がっているが、明らかにはなっていない。</j>
+<e type="trans" ver="1">Though several names have been mentioned as the author of the work from long ago, it still remains unknown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though several names have been mentioned as the author of the work from long ago, the author&apos;s true identity remains unknown.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although several names have been mentioned as the author of the work from long ago, the author&apos;s true identity remains unknown.</e>
+<cmt>&quot;Though&quot; -&gt; &quot;Although&quot; に変更しました。</cmt>
+</sen>
+<sen id="12">
+<j>近世までの説としては、葉室時長説（『醍醐雑抄』）、中原師梁説（『参考保元物語』）、源瑜説（『旅宿問答』）、公瑜僧正説（『新続古事談』）などがあるが、現在ではどれも根拠は薄弱とされる。</j>
+<e type="trans" ver="1">Some hypotheses which were made by the early modern times are now all considered unreliable: Tokinaga HAMURO&apos;s hypothesis (&quot;Daigo Zassho&quot;), 中原師梁 hypothesis (&quot;Reference on tale of Hogen&quot;), Genyu&apos;s hypothesis (&quot;Ryoshuku mondo&quot;), Koyu Sojo&apos;s hypothesis (&quot;New continuation of Kojidan, episode on old accounts&quot;), and so on.</e>
+<cmt>中原師梁の読み方不明</cmt>
+<e type="trans" ver="2">The various hypotheses that were made in the early modern times are all considered unreliable: Tokinaga HAMURO&apos;s hypothesis (&quot;Daigo Zassho&quot;), 中原師梁 hypothesis (&quot;Reference on tale of Hogen&quot;), Genyu&apos;s hypothesis (&quot;Ryoshuku mondo&quot;), Koyu Sojo&apos;s hypothesis (&quot;New continuation of Kojidan, an episode on old accounts&quot;), and so on.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The various hypotheses that were made in the early modern times are all considered unreliable: Tokinaga HAMURO&apos;s hypothesis (&quot;Daigo Zassho&quot;), 中原師梁 hypothesis (&quot;Reference on tale of Hogen&quot;), Genyu&apos;s hypothesis (&quot;Ryoshuku mondo&quot;), Koyu Sojo&apos;s hypothesis (&quot;New continuation of Kojidan, an episode on old accounts&quot;), and so on.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>なお、このうち「旅宿問答」は『新続古事談』を引用しており、源瑜と公瑜はおなじ人物であるとされる。</j>
+<e type="trans" ver="1">Among of them, &apos;Ryoshuku mondo&apos; referred to &quot;New continuation of Kojidan,&quot; and Genyu and Kouyu are considered the same person.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Among them, &apos;Ryoshuku mondo&apos; referred to &quot;New continuation of Kojidan,&quot; and Genyu and Kouyu are considered to be one and the same.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Among them, &apos;Ryoshuku mondo&apos; referred to &quot;New continuation of Kojidan,&quot; and Genyu and Koyu are considered to be one and the same.</e>
+<cmt>Kouyu→Koyu</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="14">
+<j>なお「旅宿問答」は伊勢貞丈の『安斎随筆』に引用されているもので、現存はしていない。</j>
+<e type="trans" ver="1">Also, &quot;Ryoshuku mondo&apos; was quoted in &quot;Ansai Zuihitsu (essay)&quot; by Sadatake ISE, but doesn&apos;t exist now.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, &quot;Ryoshuku mondo&apos; was quoted in &quot;Ansai Zuihitsu (essay)&quot; by Sadatake ISE, but it now longer exists.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also, &quot;Ryoshuku mondo&apos; was quoted in &quot;Ansai Zuihitsu (essay)&quot; by Sadatake ISE, but it no longer exists.</e>
+<cmt>now→no</cmt>
+</sen>
+<sen id="15">
+<j>そこでは保元・平治の両物語を二条天皇の時代の作であるとしている。</j>
+<e type="trans" ver="1">In the essay, both Hogen and Heiji Monogatari were regarded as the works written in the reign of Emperor Nijo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the essay, both Hogen and Heiji Monogatari were regarded as the works written during the reign of Emperor Nijo.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the essay, both Hogen and Heiji Monogatari were regarded as the works written during the reign of Emperor Nijo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>事実とすれば、もっとも古い物語に関する記述である。</j>
+<e type="trans" ver="1">If it is true, the essay would be the oldest account concerning the tale.</e>
+<cmt></cmt>
+<e type="trans" ver="2">If it is true, the essay would be the oldest account concerning the tale.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">If it is true, the essay would be the oldest account concerning the tale.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>しかし、この「旅宿問答」では「保元平治、源ノ義賢、義平ト一（ひとつの）乱ヲ作出シ玉フ」とあるところをみると、久寿2年（1155年）の源義賢・源義平の争いを含んだ物語のことを述べているらしい。</j>
+<e type="trans" ver="1">However, &apos;Ryoshuku mondo&apos; says, &apos;in the periods of Hogen and Heiji, MINAMOTO no Yoshitaka has created conflict with Yoshihira,&apos; which seems to mention a tale including the battle of MINAMOTO no Yoshikata and MINAMOTO no Yoshihira in 1155.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, &apos;Ryoshuku mondo&apos; states, &apos;In the periods of Hogen and Heiji, MINAMOTO no Yoshitaka has created conflict with Yoshihira,&apos; which implies a tale including the battle of MINAMOTO no Yoshikata and MINAMOTO no Yoshihira in 1155.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, &apos;Ryoshuku mondo&apos; states, &apos;In the periods of Hogen and Heiji, MINAMOTO no Yoshikata has created conflict with Yoshihira,&apos; which implies a tale including the battle of MINAMOTO no Yoshikata and MINAMOTO no Yoshihira in 1155.</e>
+<cmt>Yoshitaka→Yoshikata</cmt>
+</sen>
+<sen id="18">
+<j>しかし、この事件にふれた諸本は残されておらず、「旅宿問答」の言う「保元平治」が、本当に『保元』『平治』の物語のことであるのかどうかは、かなり疑わしい。</j>
+<e type="trans" ver="1">As no variant texts mentioning this incident exists, it is quite doubtful whether the &apos;Hogen and Heiji&apos; in &apos;Ryoshuku mondo&apos; really refers to the tales of &quot;Hogen&quot; and &quot;Heiji.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because no variant texts mentioning this incident exists, it is quite doubtful whether the &apos;Hogen and Heiji&apos; in &apos;Ryoshuku mondo&apos; really refers to the tales of &quot;Hogen&quot; and &quot;Heiji.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because no variant texts mentioning this incident exists, it is quite doubtful whether the &apos;Hogen and Heiji&apos; in &apos;Ryoshuku mondo&apos; really refers to the tales of &quot;Hogen&quot; and &quot;Heiji.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="19">
+<j>また、『安斎随筆』自体が江戸時代の作で、信憑性にもとぼしい。</j>
+<e type="trans" ver="1">Also, &quot;Ansai Zuihitsu&quot; itself was written in the Edo era, and lacks credibility.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, &quot;Ansai Zuihitsu&quot; was written during the Edo era, and it lacks credibility.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Moreover, &quot;Ansai Zuihitsu&quot; was written during the Edo era, and lacks credibility.</e>
+<cmt>“ it ”削除。</cmt>
+</sen>
+<sen id="20">
+<j>なによりも、『保元物語』中、古態本である半井本が治承年間の記事を有している。</j>
+<e type="trans" ver="1">Above all, Nakaraibon (one of the variant texts) preserving the original form of &quot;Hogen Monogatari&quot; contains an article on an incident that occurred during the Jisho era,</e>
+<cmt>「半井本」の訳語は&quot;Hogen monogatari : tale of the disorder in Hogen&quot; translated with annotations and an essay by William R. Wilsonによる。（以下、&quot;HM&quot;と表記）一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Above all, Nakaraibon (one of the variant texts) preserving the original form of &quot;Hogen Monogatari&quot; contains an article on an incident that occurred during the Jisho period.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Above all, Nakaraibon (one of the variant texts) preserving the original form of &quot;Hogen Monogatari&quot; contains an article on an incident that occurred during the Jisho period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>これが二条天皇の死後のものであることを考えれば、仮に「旅宿問答」の記述が事実であっても、『保元物語』のことを指しているとは思われない。</j>
+<e type="trans" ver="1">Considering that the article appeared after the death of Emperor Nijo, the account in &apos;Ryoshuku mondo&apos; can&apos;t indicate &quot;Hogen Monogatari,&quot; even if what was written there is true.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Considering that the article appeared after the death of Emperor Nijo, the account in &apos;Ryoshuku mondo&apos; can&apos;t indicate &quot;Hogen Monogatari,&quot; even if what was written there is true.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Considering that the article appeared after the death of Emperor Nijo, the account in &apos;Ryoshuku mondo&apos; can&apos;t indicate &quot;Hogen Monogatari,&quot; even if what was written there is true.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>いずれにせよ、これらの諸説は、現在ではほとんどかえりみられてはいない。</j>
+<e type="trans" ver="1">Anyway these hypotheses are not taken seriously today.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nevertheless, these hypotheses are not taken seriously today.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Nevertheless, these hypotheses are not taken seriously today.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>戦後になってからは高橋貞一によって葉室長方説も提出された。</j>
+<e type="trans" ver="1">After the war, Sadaichi TAKAHASI advanced a theory that Tokinaga HAMURO is the author.</e>
+<cmt>高橋貞一（さだいち）</cmt>
+<e type="trans" ver="2">After the war, Sadaichi TAKAHASHI advanced a theory that Tokinaga HAMURO authored the work.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After the war, Sadaichi TAKAHASHI advanced a theory that Tokinaga HAMURO authored the work.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="24">
+<j>近年では、その制作にかかわって、複数の人、ないしは集団を想定する説が多くなっており、波多野義通を物語のいくつかの伝承者とする安部元雄の説、藤原忠実・頼長父子周辺の人物を想定する原水民樹・砂川博などの説が提出されている。</j>
+<e type="trans" ver="1">In recent years, most people tend to assume that it was written by several authors or a group, and some hypotheses were advanced like the one by Motoo ABE that Yoshimichi HATANO handed some of the tale down, and the one by Tamiki HARAMIZU and Hiroshi SUNAGAWA that some people around FUJIWARA no Tadazane and Yorinaga, a father and a son, wrote it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">People in recent years tend to assume that it was written by several authors or a group, and hypotheses have been advanced such as the one by Motoo ABE that Yoshimichi HATANO handed some of the tale down; or the one by Tamiki HARAMIZU and Hiroshi SUNAGAWA, which asserts that some people around FUJIWARA no Tadazane and Yorinaga (a father and a son) wrote it.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">People in recent years tend to assume that it was written by several authors or a group, and hypotheses have been advanced such as the one by Motoo ABE that Yoshimichi HATANO handed some of the tale down; or the one by Tamiki HARAMIZU and Hiroshi SUNAGAWA, which asserts that some people around FUJIWARA no Tadazane and Yorinaga (a father and a son) wrote it.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="25">
+<j>なお、以下の「成立」でもふれるように『平治物語』と一組のものとして扱われていることが多い。</j>
+<e type="trans" ver="1">As it is going to be mentioned in the following &apos;Process of writing,&apos; this tale and &quot;Heiji Monogatari&quot; are often treated a set of tales.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because it is mentioned in the following &apos;Process of writing,&apos; this tale and &quot;Heiji Monogatari&quot; are often treated a set of tales.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because it is mentioned in the following &apos;The writing process,&apos; this tale and &quot;Heiji Monogatari&quot; are often treated a set of tales.</e>
+<cmt>Process of writing→The writing process</cmt>
+</sen>
+<sen id="26">
+<j>作者が同一であるという説も古くからあり、葉室時長らは『平治物語』の作者にも擬されている。</j>
+<e type="trans" ver="1">There has been a hypothesis that the same author wrote both tales since long time ago, and Tokinaga HAMURO and others mentioned above have been also assumed the author of &quot;Heiji Monogatari.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">There has for a long time been a hypothesis that the same author wrote both tales, and Tokinaga HAMURO and others as mentioned above have been attributed with the authorship of &quot;Heiji Monogatari.&quot;</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">There has for a long time been a hypothesis that the same author wrote both tales, and Tokinaga HAMURO and others as mentioned above have been attributed with the authorship of &quot;Heiji Monogatari.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>別人物を作者とする説は戦前の藤井信男などに早くみられる。</j>
+<e type="trans" ver="1">A hypothesis that different authors wrote them was made by Nobuo FUJII and others before the war.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A hypothesis that different authors wrote them was made by Nobuo FUJII and others before the war.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">A hypothesis that different authors wrote them was made by Nobuo FUJII and others before the war.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>「諸本」の項目にかかわるが、第4類などは内容が対応しており、同一作者を想起させるものがある。</j>
+<e type="trans" ver="1">Contents of the manuscripts in Class 4, a group of variant texts which is going to be discussed in &apos;Variant texts,&apos; correspond to the contents of &quot;Heiji Monogatari,&quot; which makes people assume that these are the works written by the same author.</e>
+<cmt>「第4類」という言葉は唐突なので、訳文に「a group of variant texts which is going to be discussed in &apos;Vairant texts,&apos;」という補足説明を入れました。</cmt>
+<e type="trans" ver="2">The contents of the manuscripts in class 4, a group of variant texts as discussed in &apos;Variant Texts,&apos; correspond to the contents of &quot;Heiji Monogatari,&quot; which leads people to assume that these are works written by the same author.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The contents of the manuscripts in class 4, a group of variant texts as discussed in &apos;Variant Texts,&apos; correspond to the contents of &quot;Heiji Monogatari,&quot; which leads people to assume that these are works written by the same author.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>一方、『保元物語』では古態と思われる半井本が、『平治物語』では金刀比羅本に近いなど、対応関係にはとぼしく、作者がおなじであるとみることは難しい。</j>
+<e type="trans" ver="1">However, Nakaraibon, which seems to preserve the original form of &quot;Hogen Monogatari,&quot; has a similarity to Kotohirabon (one of the variant texts) of &quot;Heiji Monogatari,&quot; so there is little correspondence between them and it is difficult to consider them to be the works by the same author.</e>
+<cmt>「金刀比羅本」の訳語は&quot;HM&quot;より。</cmt>
+<e type="trans" ver="2">However, Nakaraibon, which seems to preserve the original form of &quot;Hogen Monogatari,&quot; bears a similarity to Kotohirabon (one of the variant texts) of &quot;Heiji Monogatari,&quot; so there is little correlation between them and it is difficult to consider them as works by the same author.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, Nakaraibon, which seems to preserve the original form of &quot;Hogen Monogatari,&quot; bears a similarity to Kotohirabon (one of the variant texts) of &quot;Heiji Monogatari,&quot; so there is little correlation between them and it is difficult to consider them as works by the same author.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>すくなくとも、このふたつの物語を同一作者と認定するだけの根拠はないといえる。</j>
+<e type="trans" ver="1">At least, there is no evidence to attribute these two tales to the same author.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At least, there is no evidence to attribute these two tales to the same author.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At least, there is no evidence to attribute these two tales to the same author.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>成立</j>
+<e type="trans" ver="1">Process of writing</e>
+<cmt></cmt>
+<e type="trans" ver="2">The writing process</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The writing process</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="31">
+<j>『保元物語』の成立に関しては、わかっていることはあまり多くない。</j>
+<e type="trans" ver="1">Little is known as to the process of writing &quot;Hogen Monogatari.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Little is known in regard to the process in &quot;Hogen Monogatari&quot; was written.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Little is known in regard to the process in &quot;Hogen Monogatari&quot; was written.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>「作者」でふれたように治承年間の記事を含むので、それ以降であることだけは動かない。</j>
+<e type="trans" ver="1">As mentioned in the preceding &apos;Authorship,&apos; the tale contains the account on incidents during Jisho era, so it is certain that it was written after that.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As mentioned in the preceding &apos;Authorship,&apos; the tale contains the account on incidents during the Jisho era, so it is certain that it was written after that time.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">As mentioned in the preceding &apos;Authorship,&apos; the tale contains an account off incidents during the Jisho era, so it is certain that it was written after that time.</e>
+<cmt>“the account on”=&gt; “an account off”</cmt>
+</sen>
+<sen id="33">
+<j>ただ、『愚管抄』に保元の乱についての話が「少々アルトカヤウケタマハレドモ、イマダ見侍ラズ」とあること、また永仁5年（1297年）成立の『普通唱導集』に「平治・保元・平家の物語」が琵琶法師によって語られたことが記されている。</j>
+<e type="trans" ver="1">&quot;Gukansho&quot; mentions Hogen Disturbance saying, &apos;Although I have heard there may be a little something of the sort, I have not been able to see it,&apos; and &quot;Futsu-shodo shu (A Selection of Ordinary Advocate)&quot; completed in 1297 says that &apos;Tales of Heiji, Hogen, and Heike&apos; were told by Biwa-hoshi (a biwa (lute)-playing blind minstrel).</e>
+<cmt>「少々アルトカヤウケタマハレドモ、イマダ見侍ラズ」&quot;HM&quot;より。『新和英中辞典』研究社(出典訳に、&quot;blind&quot; を補った。)</cmt>
+<e type="trans" ver="2">&quot;Gukansho&quot; mentions the Hogen Disturbance, saying, &apos;Although I have heard there may be a little something of the sort, I have not been able to see it,&apos; and &quot;Futsu-shodo shu (A Selection of Ordinary Advocates),&quot; completed in 1297, says that &apos;Tales of Heiji, Hogen and Heike&apos; were told by Biwa-hoshi (a blind minstrel who played the biwa (lute)).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">&quot;Gukansho&quot; mentions the Hogen Disturbance, saying, &apos;Although I have heard there may be a little something of the sort, I have not been able to see it,&apos; and &quot;Futsu-shodo shu (A Selection of Ordinary Advocates),&quot; completed in 1297, says that &apos;Tales of Heiji, Hogen and Heike&apos; were told by Biwa-hoshi (a blind minstrel who played the biwa (lute)).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>これらが、断片的ながら、成立についての材料として挙げられている程度である。</j>
+<e type="trans" ver="1">Though they are fragmentary, these are the only materials showing the process of writing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though they are fragmentary, these are the only materials that depict the process of writing.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although they are fragmentary, these are the only materials that depict the process of writing.</e>
+<cmt>&quot;Though&quot; -&gt; &quot;Although&quot; に変更しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="35">
+<j>とくに前者の『愚管抄』の記述については、このことを根拠のひとつとして永積安明は『愚管抄』成立（1220年）以前に『保元物語』の誕生をみる。</j>
+<e type="trans" ver="1">On the basis of the account in the former &quot;Gukansho,&quot; Yasuaki NAGAZUMI assumed that &quot;Hogen Monogatari&quot; came into existence before &quot;Gukansho&quot; was completed in 1220.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Based on the account in the former &quot;Gukansho,&quot; Yasuaki NAGAZUMI assumed that &quot;Hogen Monogatari&quot; came into existence before &quot;Gukansho&quot; was completed in 1220.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Based on the account in the former &quot;Gukansho,&quot; Yasuaki NAGAZUMI assumed that &quot;Hogen Monogatari&quot; came into existence before &quot;Gukansho&quot; was completed in 1220.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>しかし、著者である慈円自身が見たことがない、と言っているように、本当に『保元物語』のことを言っているのかどうか、不安視されてもいる。</j>
+<e type="trans" ver="1">But as the author Jien himself wrote that he had not been able to see it, it is questioned that the account really refers to &quot;Hogen Monogatari.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, as the author Jien himself wrote that he had not been able to see it, it is questioned that the account really refers to &quot;Hogen Monogatari.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, as the author Jien himself wrote that he had not been able to see it, it is questioned that the account really refers to &quot;Hogen Monogatari.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>一方では、この『愚管抄』の「少々アル」を論拠に、物語の成立は1220年以降とみる野村八良のような見解もあり、この曖昧な記載から『保元物語』の成立をうかがい知るのは困難であろうと思われる。</j>
+<e type="trans" ver="1">While Hachiro NOMURA advocated a view that the tale would have been completed after 1220 based on the words in &quot;Gukansho,&quot; &apos;I have heard there may be a little something of the sort,&apos; but it seems to be hard to know the process of writing &quot;Hogen Monogatari&quot; with this ambiguous record as a clue.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While Hachiro NOMURA advocated a view that the tale would have been completed after 1220 based on the words in &quot;Gukansho,&quot; &apos;I have heard there may be a little something of the sort,&apos; so it seems difficult to know the process of writing &quot;Hogen Monogatari&quot; with this ambiguous record as a clue.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">While Hachiro NOMURA advocated a view that the tale would have been completed after 1220 based on the words in &quot;Gukansho,&quot; &apos;I have heard there may be a little something of the sort,&apos; so it seems difficult to know the process of writing &quot;Hogen Monogatari&quot; with this ambiguous record as a clue.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="38">
+<j>また、『平家物語』の異本である『源平盛衰記』の清盛の台詞として、「保元・平治の日記」なるものがみえている。</j>
+<e type="trans" ver="1">Also, in &quot;Gen-Pei Seisuiki (a story of ups and down of Gen-Pei),&quot; a variant of &quot;Heike Monogatari,&quot; Kiyomori says, &apos;diaries of Hogen and Heiji.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, in &quot;Gen-Pei Seisuiki (a story of ups and down of Gen-Pei),&quot; a variant of &quot;Heike Monogatari,&quot; Kiyomori mentions the &apos;diaries of Hogen and Heiji.&apos;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, in &quot;Gen-Pei Seisuiki (a story of ups and down of Gen-Pei),&quot; a variant of &quot;Heike Monogatari,&quot; Kiyomori mentions the &apos;diaries of Hogen and Heiji.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>これを『保元』『平治』物語とみる理解もあるが、反対意見も多い。</j>
+<e type="trans" ver="1">Some regard this as the tales of &quot;Hogen&quot; and &quot;Heiji,&quot; but there are many opposing opinions, too.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some regard this as the tales of &quot;Hogen&quot; and &quot;Heiji,&quot; but there are many opposing opinions.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Some regard this as the tales of &quot;Hogen&quot; and &quot;Heiji,&quot; but there are many opposing opinions.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>仮にこの「日記」を『保元』『平治』の物語とおなじと認めた場合でも、『平家物語』の古態本である延慶 (日本)本などにはこの話はなく、本当に清盛生存時の事実を伝えているかどうかはかなり疑問もある。</j>
+<e type="trans" ver="1">Even though this &apos;diary&apos; is admitted to be the same as the tales of &quot;Hogen&quot; and &quot;Heiji,&quot; Enkeibon, which preserves the original form of &quot;Heike Monogatari&quot; doesn&apos;t contain the words, therefore it is questioned whether it really tells the truth in the period when Kiyomori was alive.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even though it is conceded that this &apos;diary&apos; is the same as the tales of &quot;Hogen&quot; and &quot;Heiji,&quot; Enkeibon, which preserves the original form of &quot;Heike Monogatari&quot; but doesn&apos;t contain the same words, it is questioned whether it really tells the truth about the period when Kiyomori was alive.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Even though it is conceded that this &apos;diary&apos; is the same as the tales of &quot;Hogen&quot; and &quot;Heiji,&quot; Enkeibon, which preserves the original form of &quot;Heike Monogatari&quot; but doesn&apos;t contain the same words, it is questioned whether it really tells the truth about the period when Kiyomori was alive.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="41">
+<j>近年では、『保元物語』現存伝本中、もっとも古態をとどめていると思われる半井本などに、貞応2年（1223年）、ないしは３年の成立である『六代勝事記』の文章が引かれているとする弓削繁の論などによって、承久の変以降の成立とみる見方もあらわれている。</j>
+<e type="trans" ver="1">In recent years, a view that it was completed after the Jokyu Disturbance has been advocated by Shigeru YUGE and others, who claim that Nakaraibon, which seems to preserve the original form most among the existent manuscripts of &quot;Hogen Monogatari,&quot; quoted a text of &quot;Rokudai Shojiki (a story of the victory of six generation)&quot; written in 1223 or 1224.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In recent years the assertion that it was completed after the Jokyu Disturbance has been advocated by Shigeru YUGE and others, claiming that Nakaraibon, which seems to preserve the original form most among the existent manuscripts of &quot;Hogen Monogatari,&quot; quoted a text from &quot;Rokudai Shojiki (a story of the victory of six generations),&quot; which was written in 1223 or 1224.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In recent years the assertion that it was completed after the Jokyu Disturbance has been advocated by Shigeru YUGE and others, claiming that Nakaraibon, which seems to preserve the original form most among the existent manuscripts of &quot;Hogen Monogatari,&quot; quoted a text from &quot;Rokudai Shojiki (a story of the victory of six generations),&quot; which was written in 1223 or 1224.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="42">
+<j>いずれにせよ、『普通唱導集』以前には、この物語の確実な存在を想定させる史料はなく、成立を承久の乱前後とみるのが通説であるが、確かな証拠は得られていない。</j>
+<e type="trans" ver="1">Anyway, there is no historical record before &quot;Futsu-shodo shu&quot; which makes us assume the existence of this tale, so it is generally considered that the tale was completed before or after Jokyo Disturbance, but there is no evidence to prove it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Anyway, there is no historical record before &quot;Futsu-shodo shu,&quot; which leads one to assume the existence of this tale, so it is generally considered that the tale was completed before or after the Jokyo Disturbance; however, no evidence exists to prove it.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Anyway, there is no historical record before &quot;Futsu-shodo shu,&quot; which leads one to assume the existence of this tale, so it is generally considered that the tale was completed before or after the Jokyo Disturbance; however, no evidence exists to prove it.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>流布</j>
+<e type="trans" ver="1">Circulation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Circulation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Circulation</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="43">
+<j>『徒然草』という著名な作品に琵琶法師の語りがあったことを記されている『平家物語』と違い、『保元物語』には流布について語る史料はそれほど多くない。</j>
+<e type="trans" ver="1">A prominent work of &quot;Essays in Idleness&quot; mentions that &quot;Heike Monogatari&quot; was told by Biwa-hoshi, while &quot;Hogen Monogatari&quot; doesn&apos;t have many records concerning its circulation.</e>
+<cmt>『徒然草』→Turezure gusa; Idle Jottings→Essays in Idleness[新和英大辞典（研究社）]</cmt>
+<e type="trans" ver="2">A prominent work entitled &quot;Essays in Idleness&quot; mentions that &quot;Heike Monogatari&quot; was told by Biwa-hoshi, but there aren&apos;t many records concerning the circulation of &quot;Hogen Monogatari.&quot;</e>
+<cmt>by a biwa-hoshi?</cmt>
+<e type="check" ver="1">A prominent work entitled &quot;Essays in Idleness&quot; mentions that &quot;Heike Monogatari&quot; was told by Biwa-hoshi, but there aren&apos;t many records concerning the circulation of &quot;Hogen Monogatari.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>すでに「成立」でふれた『普通唱導集』を除けば、花園天皇の手になる『花園院宸記』の元亨元年（1321年）4月16日 (旧暦)の記事に「平治・平家等」の琵琶語りがおこなわれたとあるのを挙げ得る程度である。</j>
+<e type="trans" ver="1">Except &quot;Futsu-shodo shu&quot; mentioned in &apos;Process of writing,&apos; there is only an article dated April 16, 1321 (according to the lunar calendar) of &quot;Kazan-in Shinki&quot; by Emperor Kazan, which says that &apos;Heiji, Heike, and other&apos; were told by Biwa-hoshi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Except for &quot;Futsu-shodo shu,&quot; as mentioned in &apos;The Writing Process,&apos; there is only an article dated April 16, 1321 (according to the lunar calendar) of &quot;Kazan-in Shinki&quot; by Emperor Kazan, which says that &apos;Heiji, Heike and others&apos; were told by Biwa-hoshi.</e>
+<cmt>by a biwa-hoshi?</cmt>
+<e type="check" ver="1">Except for &quot;Futsu-shodo shu,&quot; as mentioned in &apos;The Writing Process,&apos; there is only an article dated April 16, 1321 (according to the lunar calendar) of &quot;Hanazono-in Shinki&quot; by Emperor Hanazono, which says that &apos;Heiji, Heike and others&apos; were told by Biwa-hoshi.</e>
+<cmt>Kazan-in→Hanazono-inKazan→Hanazono</cmt>
+</sen>
+<sen id="45">
+<j>『保元』とはないが、「平治・平家等」とあるのによれば、おそらくは含んでいるものと思われる。</j>
+<e type="trans" ver="1">Though it didn&apos;t say &quot;Hogen,&quot; the description &apos;Heiji, Heike, and other&apos; seems to probably include &quot;Hogen.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though it didn&apos;t say &quot;Hogen,&quot; it seems likely that the description &apos;Heiji, Heike and others&apos; includes &quot;Hogen.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although it didn&apos;t say &quot;Hogen,&quot; it seems likely that the description &apos;Heiji, Heike and others&apos; includes &quot;Hogen.&quot;</e>
+<cmt>Though -&gt; &quot;Although&quot; に変更しました。</cmt>
+</sen>
+<sen id="46">
+<j>すくなくとも、鎌倉時代も半ばから後期には為朝の武勇譚などが巷間に広まっていたのであろう。</j>
+<e type="trans" ver="1">At least, tale of Tametomo&apos;s heroism would have been well known to everybody from the middle to the late Kamakura period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At least, the tale of Tametomo&apos;s heroism would have been well known to everyone from the mid- to late-Kamakura period.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">At least, the tale of Tametomo&apos;s heroism would have been well known to everyone from the mid- to late-Kamakura period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>後世への影響</j>
+<e type="trans" ver="1">An influence on posterity</e>
+<cmt></cmt>
+<e type="trans" ver="2">An influence on posterity</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">An influence on posterity</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="47">
+<j>もっとも問題なのは『平治物語』『平家物語』との関係である。</j>
+<e type="trans" ver="1">The influences exerted on &quot;Heiji Monogatari&quot; and &quot;Heike Monogatari&quot; are most controversial.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The influences exerted on &quot;Heiji Monogatari&quot; and &quot;Heike Monogatari&quot; are most controversial.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The influences exerted on &quot;Heiji Monogatari&quot; and &quot;Heike Monogatari&quot; are most controversial.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>しかし、この3つの物語の先後関係については不明な点が多く、影響を述べるのは難しい。</j>
+<e type="trans" ver="1">However, it is hard to say something about the influences because little is known about the order of completing these three tales.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, it is difficult to comment on the influences because little is known about the order in which these three tales were completed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, it is difficult to comment on the influences because little is known about the order in which these three tales were completed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="49">
+<j>しかし、諸本で述べる鎌倉本と延慶本『平家物語』がほぼ同文を採用している箇所があるなど、関係があることは間違いない。</j>
+<e type="trans" ver="1">But Kamakurabon and Enkeibon of &quot;Heike Monogatari,&quot; which are going to be mentioned in &apos;Variant texts,&apos; have partly the almost same texts, so it confirms that these works are connected with each other.</e>
+<cmt>この文脈での諸本は見だし項目のこと。（「諸本」の項目で述べることになる～と解釈して&apos; &apos;を加えて訳しました）鎌倉本→Kamakura Printing→Kamakurabon[諸本の種類は一般的に～bonと表記されているため]</cmt>
+<e type="trans" ver="2">However, Kamakurabon and Enkeibon, of &quot;Heike Monogatari,&quot; as mentioned in &apos;Variant Texts,&apos; have nearly identical texts in places, so this confirms the connection between these works.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, Kamakurabon and Enkeibon, of &quot;Heike Monogatari,&quot; as mentioned in &apos;Variant Texts,&apos; have nearly identical texts in places, so this confirms the connection between these works.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>また、『平治物語』の悪源太義平と為朝の造形の関係なども注目されるところのではあるが、確かなことはわからない。</j>
+<e type="trans" ver="1">Also, a relation in forming characters such as the wicked Genta-Yoshihira in &quot;Heiji Monogatari&quot; and Tametomo should be noted, but it is not certain yet.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, a relationship is suggest in the formation of characters such as the wicked Genta-Yoshihira in &quot;Heiji Monogatari&quot; and Tametomo should be noted, but it is not yet certain.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also, a relationship suggested in the formation of characters such as the wicked Genta-Yoshihira in &quot;Heiji Monogatari&quot; and Tametomo should be noted, but it is not yet certain.</e>
+<cmt>is suggest→suggested</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="51">
+<j>ただし、半井本・鎌倉本などの『保元』と延慶本・長門本などの『平家』に崇徳院の怨霊にまつわるほぼ同じ内容の文章が見られ、これは明らかに一方が一方を参考にしたものと考えられる。</j>
+<e type="trans" ver="1">However, Nakaraibon and Kamakurabon of &quot;Hogen,&quot; and Enkeibon and Nagatobon of &quot;Heike&quot; have almost the same texts concerning a vengeful ghost of Sutoku-in, so it seems to be clear that one was modeled after another.</e>
+<cmt>長門本→Nagato Printing→Nagatobon[同上]</cmt>
+<e type="trans" ver="2">However, Nakaraibon and Kamakurabon of &quot;Hogen,&quot; and Enkeibon and Nagatobon of &quot;Heike&quot; have nearly the same texts concerning a vengeful ghost of Sutoku-in, so it seems to be clear that one was modeled after the other.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, Nakaraibon and Kamakurabon of &quot;Hogen,&quot; and Enkeibon and Nagatobon of &quot;Heike&quot; have nearly the same texts concerning a vengeful ghost of Sutoku-in, so it seems to be clear that one was modeled after the other.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="52">
+<j>この崇徳院説話については、類話が『発心集』『古事談』『撰集抄』にもみえており、口頭伝承なども含めて、影響を与えあった可能性が高い。</j>
+<e type="trans" ver="1">A similar story of Sutoku-in also appears in &quot;Hosshin-shu (A Collection to Promote Religious Awakening),&quot; &quot;Koji-dan (episode on old accounts),&quot; and &quot;Senshu sho (collection of tales),&quot; and there is a strong possibility that these works had influences on each other, including oral transmission of the tales.</e>
+<cmt>崇徳院説話→preaching story of Sutoku-in→story of Sutoku-in[この文脈での「説話」は説教ではなく伝承や物語のようなものと思われます]発心集→&quot;Hosshin-shu&quot;, a selection of awakenings to Buddhism→&quot;Hosshin-shu (A Collection to Promote Religious Awakening)&quot;[新和英大辞典（研究社）]撰集抄→&quot;Senshu sho&quot;, notes on selections→&quot;Senshu sho (a collection of tales)&quot;[スーパー大辞林 3.0とルミナス和英辞典（研究社）]口頭伝承→hand down orally→oral transmission[ルミナス和英辞典（研究社）]</cmt>
+<e type="trans" ver="2">A similar story of Sutoku-in also appears in &quot;Hosshin-shu (A Collection to Promote Religious Awakening),&quot; &quot;Koji-dan (An Episode of Old Accounts),&quot; and &quot;Senshu sho (A Collection of Tales),&quot; and there is a strong possibility that there was a mutual influence among these works, including the oral transmission of tales.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">A similar story of Sutoku-in also appears in &quot;Hosshin-shu (A Collection to Promote Religious Awakening),&quot; &quot;Koji-dan (An Episode of Old Accounts),&quot; and &quot;Senshu sho (A Collection of Tales),&quot; and there is a strong possibility that there was a mutual influence among these works, including the oral transmission of tales.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="53">
+<j>次に、以下の「史実との関係」にかかわるが、『尊卑分脈』の為義・義朝等の伝記はこの乱についての根本資料である『兵範記』との間に齟齬がみられ、『保元物語』に近い。</j>
+<e type="trans" ver="1">Though it is related to the following &apos;Relations to the historical facts,&apos; there is a conflict between biographies of Tameyoshi, Yoshitomo, and others in &quot;Sonpi Bunmyaku (biographies of nobles and the humble)&quot; and &quot;Heihan-ki,&quot; which is a main source of this disturbance, and &quot;Sonpi Bunmyaku&quot; is closer to &quot;Hogen Monogatari.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although it is related to the following &apos;Relationship to the Historical Facts,&apos; there is a conflict among the biographies of Tameyoshi, Yoshitomo and others in &quot;Sonpi Bunmyaku (Biographies of Nobles and the Humble)&quot; and &quot;Heihan-ki (TAIRA no Nobunori&apos;s diary)&quot; (which is a main source of this disturbance); moreover, &quot;Sonpi Bunmyaku&quot; is closer to &quot;Hogen Monogatari.&quot;</e>
+<cmt>(TAIRA no Nobunori&apos;s diary)補足</cmt>
+<e type="check" ver="1">Although it is related to the following &apos;Relationship to the Historical Facts,&apos; there is a conflict among the biographies of Tameyoshi, Yoshitomo and others in &quot;Sonpi Bunmyaku (Biographies of Nobles and the Humble)&quot; and &quot;Heihan-ki (TAIRA no Nobunori&apos;s diary)&quot; (which is a main source of this disturbance); moreover, &quot;Sonpi Bunmyaku&quot; is closer to &quot;Hogen Monogatari.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>これは『尊卑分脈』の伝記が物語にしたがって書かれたことを示唆している。</j>
+<e type="trans" ver="1">This indicates that the biographies in &quot;Sonpi Bunmyaku&quot; were written according to the tale.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This indicates that the biographies in &quot;Sonpi Bunmyaku&quot; were written according to the tale.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This indicates that the biographies in &quot;Sonpi Bunmyaku&quot; were written according to the tale.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="55">
+<j>また原水民樹によって、『神皇正統録』や『北条記』（『関東合戦記』）などに物語の本文が利用されていることが指摘されている。</j>
+<e type="trans" ver="1">Also, Tamiki HARAMIZU pointed out that some lines from the tale appear in &quot;Jinno Shoto-roku (A Record of Authentic Line of Emperor)&quot; and &quot;Hojo-ki (A Record of HOJO Family)&quot; (&quot;Kanto Kassen-ki (A Record of Battles of Kanto Region)&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, Tamiki HARAMIZU pointed out that some lines from the tale appear in &quot;Jinno Shoto-roku (A Record of the Authentic Line of Emperors)&quot; and &quot;Hojo-ki (A Record of the HOJO Family)&quot; (&quot;Kanto Kassen-ki (A Record of Battles of the Kanto Region)&quot;).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Additionally, Tamiki HARAMIZU pointed out that some lines from the tale appear in &quot;Jinno Shoto-roku (A Record of the Authentic Line of Emperors)&quot; and &quot;Hojo-ki (A Record of the Hojo family)&quot; (&quot;Kanto Kassen-ki (A Record of Battles of the Kanto Region)&quot;).</e>
+<cmt>HOJO Family→Hojo family</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="56">
+<j>しかし、なんといっても著名なのは曲亭馬琴の『椿説弓張月』で、これは『保元物語』から為朝のエピソードを中心にを取り上げ、増補し、脚色したものである。</j>
+<e type="trans" ver="1">Above all, &quot;Chinzei Yumiharizuki&quot; by Bakin KYOKUTEI is well known for its adaptation from &quot;Hogen Monogatari,&quot; and the work was created centering on episodes of Tametomo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Above all, &quot;Chinzei Yumiharizuki,&quot; by Bakin KYOKUTEI, is well known for its adaptation from &quot;Hogen Monogatari,&quot; and the work was created with emphasis on the episodes of Tametomo.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Above all, &quot;Chinzei Yumiharizuki,&quot; by Bakin KYOKUTEI, is well known for its adaptation from &quot;Hogen Monogatari,&quot; and the work was created with emphasis on the episodes of Tametomo.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>内容とあらすじ</j>
+<e type="trans" ver="1">Contents and plot</e>
+<cmt></cmt>
+<e type="trans" ver="2">Contents and plot</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Contents and plot</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="57">
+<j>ここまで諸本についてふれてきたとおり、『保元物語』は複数の伝本が残されており、内容・話の順序には変更点が多い。</j>
+<e type="trans" ver="1">As it has been mentioned so far, &quot;Hogen Monogatari&quot; has many versions of manuscript, and its contents and the order of the story vary among them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As has been mentioned so far, &quot;Hogen Monogatari&quot; has many versions of manuscript, and its contents and the order of the story vary among them.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As has been mentioned, &quot;Hogen Monogatari&quot; has many versions of manuscript, and its contents and the order of the story vary among them.</e>
+<cmt>“As has been mentioned so far, “ =&gt; “As has been mentioned, ”</cmt>
+</sen>
+<sen id="58">
+<j>これらの内容を整理して、逐一違いを述べていくのはきわめて煩雑となる。</j>
+<e type="trans" ver="1">It is too complicated to organize all these contents and mention every difference one by one.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is too complicated to organize all these contents and describe each single difference.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is too complicated to organize all these contents and describe each single difference.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>そのため、以下では主として後に紹介する現存最古の写本「諸本・第1類」の半井本系統に即して物語の内容についてまとめる。</j>
+<e type="trans" ver="1">Therefore the contents of the tale mentioned here are mainly based on the Nakaraibon line, the oldest existent manuscript &apos;Variant texts; Class 1,&apos; which is going to be introduced later.</e>
+<cmt>現存最古の写本→the oldest copy printing→the oldest existent manuscript「諸本・第1類」→&quot;Various Printings; Group One&quot;→&apos;Variant texts; Class 1&apos;[&quot;HM&quot;]</cmt>
+<e type="trans" ver="2">Therefore, the contents of the tale mentioned here are mainly based on the Nakaraibon line, being the oldest existent manuscript &apos;Variant texts; Class 1,&apos; which will be introduced later.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Therefore, the contents of the tale mentioned here are mainly based on the Nakaraibon line, being the oldest existent manuscript &apos;Variant texts; Class 1,&apos; which will be introduced later.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>上巻</j>
+<e type="trans" ver="1">Volume 1</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 1</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Volume 1</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="60">
+<j>物語は鳥羽法皇の治世のことから筆を起こす。</j>
+<e type="trans" ver="1">The tale starts with a description of the reign of cloistered Emperor Toba.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The tale starts with a description of the reign of the cloistered Emperor Toba.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The tale starts with a description of the reign of the Cloistered Emperor Toba.</e>
+<cmt>cloistered→Cloistered</cmt>
+</sen>
+<sen id="61">
+<j>この法皇の治世が優れたもので、その時代が素晴らしいものであったことを記す。</j>
+<e type="trans" ver="1">It says that the emperor&apos;s reign is splendid and it is a wonderful period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It says that the emperor&apos;s reign is splendid and it is a wonderful period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It says that the emperor&apos;s reign is splendid and it is a wonderful period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="62">
+<j>しかし、そんな法皇にも翳りがみえはじめる。</j>
+<e type="trans" ver="1">However, there are some signs of Emperor&apos;s reign declining.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, there are signs of decline in the Emperor&apos;s reign.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, there are signs of decline in the Emperor&apos;s reign.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>まず、息子の近衛天皇が父に先んじて崩御する。</j>
+<e type="trans" ver="1">First, his son Emperor Konoe passes away before him.</e>
+<cmt></cmt>
+<e type="trans" ver="2">First, his son Emperor Konoe passes away before him.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">First, his son Emperor Konoe passes away before him.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="64">
+<j>このとき院であった崇徳は自身の息子である重仁親王の即位を期待するが、美福門院の差し金で、即位したのは四宮（後白河天皇）であった。</j>
+<e type="trans" ver="1">Sutoku, who has already been cloistered, expects his son Prince Shigehito to succeed to the throne, but it is Prince Yon no Miya (Emperor Go-Shirakawa) who takes the throne at Bifukumonin&apos;s prompting.</e>
+<cmt>美福門院→Bifukumon-in→Bifukumonin[翻訳仕様指示書]</cmt>
+<e type="trans" ver="2">Sutoku, who has already been cloistered, expects his son Prince Shigehito to succeed to the throne, but instead Prince Yon no Miya (Emperor Go-Shirakawa) takes the throne at the prompting of Bifukumonin.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sutoku, who has already been cloistered, expects his son Prince Shigehito to succeed to the throne, but instead Prince Yon no Miya (Emperor Goshirakawa) takes the throne at the prompting of Bifukumonin.</e>
+<cmt>Go-Shirakawa→Goshirakawa</cmt>
+</sen>
+<sen id="65">
+<j>このため、崇徳は深く恨みに思う。</j>
+<e type="trans" ver="1">Because of this, Sutoku feels vexation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because of this, Sutoku feels vexation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Because of this, Sutoku feels vexation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="66">
+<j>続いて鳥羽法皇も天命にはかなわず、巫女の占いのとおりに世を去る。</j>
+<e type="trans" ver="1">And cloistered Emperor Toba, too, submits to fate and passes away as a divine message received by a shrine maiden.</e>
+<cmt>巫女の占い→divine of a shrine maiden→devine message received by a shrine maiden[新和英大辞典、和英中辞典などを参照]</cmt>
+<e type="trans" ver="2">Additionally, the cloistered Emperor Toba submits to fate and passes away as a divine message is received by a shrine maiden.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, the Cloistered Emperor Toba submits to fate and passes away as a divine message is received by a shrine maiden.</e>
+<cmt>cloistered→Cloistered</cmt>
+</sen>
+<sen id="67">
+<j>この法皇の死をきっかけとして、崇徳は皇位を重仁のものとするべく計画を練りはじめ、兄忠通との争いとの争いをかかえていた左大臣・藤原頼長も崇徳に加担する。</j>
+<e type="trans" ver="1">At the death of the cloistered Emperor, Sutoku begins to make a plan to have Shigehito succeed to the throne, and the Minister of the Left, FUJIWARA no Yorinaga, who is in conflict with his brother Tadamichi, sides with Sutoku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Upon the death of the cloistered Emperor, Sutoku begins devising a plan by which Shigehito can succeed to the throne, and the minister of the left, FUJIWARA no Yorinaga, who is in conflict with his brother Tadamichi, sides with Sutoku.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Upon the death of the Cloistered Emperor, Sutoku begins devising a plan by which Shigehito can succeed to the throne, and the minister of the left, FUJIWARA no Yorinaga, who is in conflict with his brother Tadamichi, sides with Sutoku.</e>
+<cmt>cloistered→Cloistered</cmt>
+</sen>
+<sen id="68">
+<j>ふたりは自分たちに味方する武士や僧兵を集めはじめる。</j>
+<e type="trans" ver="1">Both of them begin to gather warriors and warrior-monks who sides with them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Both of them begin to gather warriors and warrior-monks who will side with them.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Both of them begin to gather warriors and warrior-monks who will side with them.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="69">
+<j>そんななか、崇徳に味方しようとした源親治が後白河方の平基盛によってとらえられ、また、頼長の依頼によって後白河を調伏しようとした三井寺の僧侶勝尊が捕らえられるなどの事件が相次ぎ、両陣営の緊張は高まっていく。</j>
+<e type="trans" ver="1">During such a time, some incidents occur one after another and tensions in both camps are heightening, for example, MINAMOTO no Chikaharu is captured by TAIRA no Motomori, who is on the side of Go-Shirakawa, and a priest Shoson of Miidera Temple is also captured, who tries to invoke disaster upon Go-Shirakawa at the request of Yorinaga.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During this time, incidents occur one after another and tensions in both camps are heightened, such as when MINAMOTO no Chikaharu is captured by TAIRA no Motomori, who is on the side of Go-Shirakawa, and the priest Shoson of Miidera Temple is captured, having tried to invoke disaster upon Go-Shirakawa at the request of Yorinaga.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">During this time, incidents occur one after another and tensions in both camps are heightened, such as when MINAMOTO no Chikaharu is captured by TAIRA no Motomori, who is on the side of Goshirakawa, and the priest Shoson of Miidera Temple is captured, having tried to invoke disaster upon Goshirakawa at the request of Yorinaga.</e>
+<cmt>Go-Shirakawa→Goshirakawa</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="70">
+<j>両陣営は武力衝突に備えて、それぞれ有力な武士を集めはじめる。</j>
+<e type="trans" ver="1">Both camps start to gather powerful warriors respectively to prepare for an armed conflict.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Both camps begin to gather powerful warriors in preparation for an armed conflict.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Both camps begin to gather powerful warriors in preparation for an armed conflict.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="71">
+<j>崇徳側に集まったのは源為義と、為朝らその息子たち。</j>
+<e type="trans" ver="1">Those who sides with Sutoku are MINAMOTO no Tameyoshi and his sons.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Those who side with Sutoku are MINAMOTO no Tameyoshi and his sons.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Those who side with Sutoku are MINAMOTO no Tameyoshi and his sons including Tametomo.</e>
+<cmt>including Tametomo を補足しました。</cmt>
+</sen>
+<sen id="72">
+<j>また平家弘・平忠正といった人々である。</j>
+<e type="trans" ver="1">Also, people such as TAIRA no Iehiro and TAIRA no Tadamasa come to him.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, people such as TAIRA no Iehiro and TAIRA no Tadamasa come to him.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also, people such as TAIRA no Iehiro and TAIRA no Tadamasa come to him.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="73">
+<j>このなかでも為義は高齢を理由に従軍を断わり、為朝を対象に推薦するが、最後には藤原教長に説得されて腰をあげる。</j>
+<e type="trans" ver="1">Among them, Tameyoshi refuses to follow the army because of his old age, recommending Yoshitomo instead of him, but finally he is persuaded to join the army.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Among them, Tameyoshi refuses to follow the army because of his old age, recommending Yoshitomo instead of him, but finally he is persuaded to join the army.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Among them, Tameyoshi refuses to follow the army because of his old age, recommending Tametomo instead of him, but finally he is persuaded by FUJIWARA no Norinaga to join the army.</e>
+<cmt>Yoshitomo→Tametomoby FUJIWARA no Norinaga を補足しました。</cmt>
+</sen>
+<sen id="74">
+<j>これにあわせて、宇治にいた頼長も崇徳の御所である白河殿に戻ってくる。</j>
+<e type="trans" ver="1">Because of this, Yorinaga, who has been in Uji, also returns to Shirakawaden (Shirakawa palace) which is the residence of the Emperor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Consequently, Yorinaga, who has been in Uji, returns to Shirakawaden (Shirakawa Palace), where the Emperor resides.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Consequently, Yorinaga, who has been in Uji, returns to Shirakawadono (Shirakawa Palace), where the Emperor resides.</e>
+<cmt>Shirakawaden→Shirakawadono[広辞苑など]</cmt>
+</sen>
+<sen id="75">
+<j>この際、紀信の故事にふれられている。</j>
+<e type="trans" ver="1">To describe this, the tale mentions 紀信の故事.</e>
+<cmt>紀信の故事の定訳不明。</cmt>
+<e type="trans" ver="2">To describe this, the tale mentions 紀信の故事.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">To describe this, the tale mentions 紀信の故事.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="76">
+<j>一方、後白河側に集まったのは源義朝・平清盛・源義康・源頼政らが集まる。</j>
+<e type="trans" ver="1">While, MINAMOTO no Yoshitomo, TAIRA no Kiyomori, MINAMOTO no Yoshiyasu, and MINAMOTO no Yorimasa gather around Go-Shirakawa.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meanwhile, MINAMOTO no Yoshitomo, TAIRA no Kiyomori, MINAMOTO no Yoshiyasu and MINAMOTO no Yorimasa gather around Go-Shirakawa.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Meanwhile, MINAMOTO no Yoshitomo, TAIRA no Kiyomori, MINAMOTO no Yoshiyasu and MINAMOTO no Yorimasa gather around Goshirakawa.</e>
+<cmt>Go-Shirakawa→Goshirakawa</cmt>
+</sen>
+<sen id="77">
+<j>このうち、清盛は重仁親王の乳母であることから、後白河は遠慮しようとするが、美福門院が鳥羽法皇の遺言と偽って清盛を呼び寄せる。</j>
+<e type="trans" ver="1">Of them, Go-Shirakawa tries to refuse Kiyomori&apos;s help because Kiyomori has taken care of Prince Shigehito, but Bifukumonin calls Kiyomori under the pretense of cloistered Emperor Toba&apos;s will.</e>
+<cmt>乳母：貴人の子どもを育てる役の男性。お守り役。[スーパー大辞林3.0]</cmt>
+<e type="trans" ver="2">Of them, Go-Shirakawa tries to refuse Kiyomori&apos;s help because Kiyomori has taken care of Prince Shigehito, but Bifukumonin calls Kiyomori under the pretense that it is the will of the cloistered Emperor Toba.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Of them, Goshirakawa tries to refuse Kiyomori&apos;s help because Kiyomori has taken care of Prince Shigehito, but Bifukumonin calls Kiyomori under the pretense that it is the will of the Cloistered Emperor Toba.</e>
+<cmt>Go-Shirakawa→Goshirakawacloistered→Cloistered</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="78">
+<j>崇徳側で戦評定がはじめる。</j>
+<e type="trans" ver="1">Conference about the war begins at Sutoku side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A war conference begins on the Sutoku side.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">A war conference begins on the Sutoku side.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="79">
+<j>頼長は為義に意見を求めるが、為義は為朝を推薦する。</j>
+<e type="trans" ver="1">Yorinaga asks Tameyoshi&apos;s opinion, and Tameyoshi recommends Tametomo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yorinaga asks Tameyoshi&apos;s opinion, and Tameyoshi recommends Tametomo.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yorinaga asks Tameyoshi&apos;s opinion, and Tameyoshi recommends Tametomo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="80">
+<j>為朝は兵力でおとる自分たちが勝つためには、夜襲をかけて火を放ち、天皇を奪い取るしかないと献策するが、頼長は若気のいたりと取り上げない。</j>
+<e type="trans" ver="1">Tametomo suggests that all they can do for their victory is to make a night attack, set fire, and take the Emperor away, but Yorinaga treats it as an inexperienced idea.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tametomo suggests that all they can do to ensure their victory is make a night attack, set a fire and take the Emperor away, but Yorinaga treats it as the idea of an inexperienced person.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tametomo suggests that all they can do to ensure their victory is make a night attack, set a fire and take the Emperor away, but Yorinaga treats it as the idea of an inexperienced person.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="81">
+<j>興福寺の僧兵が援軍に来るのを待って持久戦を挑むべきであると結論する。</j>
+<e type="trans" ver="1">And he concludes that they should wait for the warrior-monks of Kofuku-ji Temple to help them, and opens a war of attrition.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He also concludes that they should wait for the warrior-monks of Kofuku-ji Temple to help them, and opens a war of attrition.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He also concludes that they should wait for the warrior-monks of Kofuku-ji Temple to help them, and opens a war of attrition.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="82">
+<j>これを聞いて為朝はひとり嘆息する。</j>
+<e type="trans" ver="1">Tametomo is disappointed alone to hear this.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tametomo alone is disappointed to hear this.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tametomo alone is disappointed to hear this.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="83">
+<j>天皇側も戦にそなえ、後白河は三種の神器とともに大内裏から東三条通に移る。</j>
+<e type="trans" ver="1">The Emperor side also prepares for the war, and Go-Shirakawa moves to East Sanjo Street from the Inner Court, taking the Three Sacred Treasures of the Imperial Family with him.</e>
+<cmt>三種の神器→three sacred imperial treasures[英辞郎 on WEB]→the Three Sacred Treasures of the Imperial Family[新和英代辞典（研究社）]</cmt>
+<e type="trans" ver="2">The Emperor side also prepares for the war, and Go-Shirakawa moves to East Sanjo Street from the inner court, taking with him the Three Sacred Treasures of the Imperial Family.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The Emperor side also prepares for the war, and Goshirakawa moves to East Sanjo Street from the inner court, taking with him the Three Sacred Treasures of the Imperial Family.</e>
+<cmt>Go-Shirakawa→Goshirakawaスペース削除</cmt>
+</sen>
+<sen id="84">
+<j>そして、信西に命じて、義朝の意見を求めさせる。</j>
+<e type="trans" ver="1">And he orders Shinzei to ask Yoshitomo&apos;s opinion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He also orders Shinzei to ask for Yoshitomo&apos;s opinion.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He also orders Shinzei to ask for Yoshitomo&apos;s opinion.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="85">
+<j>義朝は戦に勝つためには今夜にでも仕掛けて、一気に決選を挑むべきだと進言し、信西はこれを許可する。</j>
+<e type="trans" ver="1">Yoshitomo advises that they should start a war this night and fight a decisive battle at once, and Shinzei admits this.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshitomo advises that they should start a war that night and fight a decisive battle at once, and Shinzei accedes to the idea.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Yoshitomo advises that they should start a war that night and fight a decisive battle at once, and Shinzei accedes to the idea.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="86">
+<j>崇徳側が戦の準備をしている間にも、義朝や清盛は兵を動かし、敵が動き出すまえに白河殿を包囲する。</j>
+<e type="trans" ver="1">While Sutoku side is preparing for the war, Yoshitomo and Kiyomori lead their warriors and enclose the Shirakawaden before their enemy starts to move.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While the Sutoku side is preparing for war, Yoshitomo and Kiyomori lead their warriors and enclose the Shirakawaden before their enemy starts to move.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">While the Sutoku side is preparing for war, Yoshitomo and Kiyomori lead their warriors and enclose the Shirakawadono before their enemy starts to move.</e>
+<cmt>Shirakawaden→Shirakawadono</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>中巻</j>
+<e type="trans" ver="1">Volume 2</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 2</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Volume 2</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="87">
+<j>為義の3男、頼方は先手をうって出撃し、義朝の軍勢に損害を与える。</j>
+<e type="trans" ver="1">Tameyoshi&apos;s third son Yorikata forestalls the Yoshitomo&apos;s army making a sortie, and inflicts damage on them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tameyoshi&apos;s third son, Yorikata, prevents the Yoshitomo&apos;s army from making a sortie, and inflicts damage upon them.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tameyoshi&apos;s third son, Yorikata, prevents the Yoshitomo&apos;s army from making a sortie, and inflicts damage upon them.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="88">
+<j>義朝は先陣にたって反撃しようとするが、乳母子の鎌田正清に諫められる。</j>
+<e type="trans" ver="1">Yoshitomo tries to counterattack being in the vanguard of the army, but is dissuaded by Masakiyo KAMATA, who is a son of his caretaker.</e>
+<cmt>乳母子：乳母（貴人の子どもを育てる役の男性）の子[スーパー大辞林3.0]乳母子→menotogo, the son of a breast-feed mother (a woman by whom breast-feed was provided when a noble was baby)→a son of a caretaker</cmt>
+<e type="trans" ver="2">Yoshitomo attempts a counterattack, being in the vanguard of the army, but is dissuaded by Masakiyo KAMATA, who is a son of his caretaker.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Yoshitomo attempts a counterattack, being in the vanguard of the army, but is dissuaded by Masakiyo KAMATA, who is a son of his caretaker.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="89">
+<j>一方、清盛は為朝の守る門に攻める。</j>
+<e type="trans" ver="1">While Kiyomori attacks the gate which Tametomo is guarding.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meanwhile, Kiyomori attacks the gate that Tametomo is guarding.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Meanwhile, Kiyomori attacks the gate that Tametomo is guarding.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="90">
+<j>先陣の伊藤六、山田是行らが為朝に挑戦するが、為朝の強弓の前に撃ち落とされる。</j>
+<e type="trans" ver="1">The vanguard Roku ITO and Koreyuki YAMADA challenge Tametomo, but they are shot by Tametomo&apos;s powerful bow.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The vanguard Roku ITO and Koreyuki YAMADA challenge Tametomo, but they are shot by Tametomo&apos;s powerful bow.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The vanguard Roku ITO and Koreyuki YAMADA challenge Tametomo, but they are shot by Tametomo&apos;s powerful bow.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="91">
+<j>清盛の軍勢は色をなくすが、ただひとり、平重盛だけは為朝に挑もうとする。</j>
+<e type="trans" ver="1">Though Kiyomori&apos;s army becomes tired, TAIRA no Shigemori tries to challenge Tametomo all by himself.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although Kiyomori&apos;s army becomes tired, TAIRA no Shigemori attempts to challenge Tametomo by himself.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although Kiyomori&apos;s army becomes tired, TAIRA no Shigemori attempts to challenge Tametomo by himself.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="92">
+<j>しかし清盛は自軍の損害が多きくなることをおそれて引き返す。</j>
+<e type="trans" ver="1">However, Kiyomori retreats for fear of increasing the damage of his army.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, Kiyomori retreats for fear that his army will suffer increased damage.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, Kiyomori retreats for fear that his army will suffer increased damage.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="93">
+<j>続いて義朝が為朝の守る門を攻めるが、鎌田の軍勢が蹴散らされ、義朝自身も兜の飾りを射ぬかれるなど窮地に陥る。</j>
+<e type="trans" ver="1">And Yoshitomo attacks the gate which Tametomo is guarding, but KAMATA&apos;s army is defeated and Yoshitomo himself is driven into a difficult situation with an ornament of his battle helmet shot with bow.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, Yoshitomo attacks the gate that Tametomo is guarding, but KAMATA&apos;s army is defeated and Yoshitomo himself is driven into a difficult situation in which an ornament of his battle helmet is shot through with an arrow.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, Yoshitomo attacks the gate that Tametomo is guarding, but KAMATA&apos;s army is defeated and Yoshitomo himself is driven into a difficult situation in which an ornament of his battle helmet is shot through with an arrow.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="94">
+<j>金子家忠が為朝の郎等を打ち取るなど一矢報いる場面もあったが、大庭景義が重症を負うなど、大きな損害を受ける。</j>
+<e type="trans" ver="1">The war situation enters a new phase of retaliation, with Ietada KANEKO killing vassals of Tametomo, but the severe damage are inflicted on them and Kageyoshi OBA gets seriously injured.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The war situation enters a new phase of retaliation, with Ietada KANEKO killing the vassals of Tametomo, but severe damage is inflicted on them and Kageyoshi OBA is seriously injured.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The war situation enters a new phase of retaliation, with Ietada KANEKO killing the vassals of Tametomo, but severe damage is inflicted on them and Kageyoshi OBA is seriously injured.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="95">
+<j>為朝は義朝や家忠を殺そうと思えば殺すことができたが、兄への遠慮や勇者への共感があってあえて討つことをしなかった。</j>
+<e type="trans" ver="1">Tametomo could kill Yoshitomo and Ietada if he wantｓ to do so, but he doesn&apos;t on purpose because of consideration for his older brother and sympathy toward the brave warriors.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tametomo could kill Yoshitomo and Ietada if he wantｓ to do so, but he doesn&apos;t on purpose because of consideration for his older brother and sympathy toward the brave warriors.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tametomo could kill Yoshitomo and Ietada if he wantｓ to do so, but he doesn&apos;t on purpose because of consideration for his older brother and sympathy toward the brave warriors.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="96">
+<j>義朝勢は風で門が開いたのも為朝勢の突撃と恐れて逃げ惑う有様だった。</j>
+<e type="trans" ver="1">Yoshitomo&apos;s army is weakened and they run about trying to escape, mistaking the gate opened in the wind for the attack made by Tametomo&apos;s army</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshitomo&apos;s army is weakened and runs amok in an effort to escape, mistaking the gate opened in the wind for an attack by Tametomo&apos;s army.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Yoshitomo&apos;s army is weakened and runs amok in an effort to escape, mistaking the gate opened in the wind for an attack by Tametomo&apos;s army.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="97">
+<j>為朝以外の崇徳側の武士も善戦し、後白河側は一歩も攻め入ることができなかった。</j>
+<e type="trans" ver="1">The warriors on the Sutoku side other than Tametomo also fight well, and Go-Shirakawa&apos;s army can&apos;t invade their place at all.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The warriors on the Sutoku side (other than Tametomo) also fight well, and Go-Shirakawa&apos;s army can&apos;t invade their position at all.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The warriors on the Sutoku side (other than Tametomo) also fight well, and Goshirakawa&apos;s army can&apos;t invade their position at all.</e>
+<cmt>Go-Shirakawa→Goshirakawa</cmt>
+</sen>
+<sen id="98">
+<j>このため、義朝は火をかけることを信西に献策し、信西もこれを認める。</j>
+<e type="trans" ver="1">Because of this, Yoshitomo suggests to Shinzei that they should set fire to the enemy, and Shinzei also admits this.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because of this, Yoshitomo suggests to Shinzei that they should set fire to the enemy, and Shinzei agrees to the assessment.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because of this, Yoshitomo suggests to Shinzei that they should set fire to the enemy, and Shinzei agrees to the assessment.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="99">
+<j>この火責めには為朝もかなわず、崇徳たちは白河殿を脱出する。</j>
+<e type="trans" ver="1">Tametomo can&apos;t resist the torture by fire, and Sutoku and his followers escape out of the Shirakawaden.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tametomo can&apos;t resist the torture by fire, and Sutoku and his followers escape out of the Shirakawaden.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tametomo can&apos;t resist the torture by fire, and Sutoku and his followers escape out of the Shirakawadono.</e>
+<cmt>Shirakawaden→Shirakawadono</cmt>
+</sen>
+<sen id="100">
+<j>その際、頼長は流れ矢を首に受けて重症を負う。</j>
+<e type="trans" ver="1">When they escape, Yorinaga gets fatally injured by a stray arrow.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During their escape, Yorinaga is killed by a stray arrow.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">During their escape, Yorinaga is fatally injured by a stray arrow.</e>
+<cmt>killed→fatally injured原文に合わせて訳し直しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="101">
+<j>崇徳は如意山へと逃亡するが、気力を失い、ここまでしたがってきた為義たちとも別れる。</j>
+<e type="trans" ver="1">Sutoku flees to Mt. Nyoisan, but he loses his energy there, parting from Tameyoshi and others who have followed him until then.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sutoku flees to Mt. Nyoisan, but he loses his energy there, parting from Tameyoshi and the others who had followed him until then.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sutoku flees to Mt. Nyoisan, but he loses his energy there, parting from Tameyoshi and the others who had followed him until then.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="102">
+<j>その間には義朝たちは白河殿や、敵の残勢が逃げ込んだ法勝寺を焼き払う。</j>
+<e type="trans" ver="1">During that time, Yoshitomo and others burn down Shirakawaden and Hossho-ji Temple, into which the rest of the enemy have fled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During that time, Yoshitomo and others burn down Shirakawaden and Hossho-ji Temple, into which the rest of the enemy had fled.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">During that time, Yoshitomo and others burn down Shirakawadono and Hossho-ji Temple, into which the rest of the enemy had fled.</e>
+<cmt>Shirakawaden→Shirakawadono</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="103">
+<j>崇徳はかつて関係の深かったひとたちの家々を訪ねるが、誰も彼を出迎えない。</j>
+<e type="trans" ver="1">Sutoku visits houses of the people who were closely connected with him once, but nobody welcomes him.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sutoku visits the houses of the people who were once closely connected with him, but nobody welcomes Sutoku.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Sutoku visits the houses of the people who were once closely connected with him, but nobody welcomes Sutoku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="104">
+<j>悲しみくれる崇徳は、知足院に入り出家する。</j>
+<e type="trans" ver="1">Sutoku, who is in deep sorrow, becomes a priest entering Chisoku-in Temple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sutoku, who is in deep sorrow, enters Chisoku-in Temple to become a priest.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sutoku, who is in deep sorrow, enters Chisoku-in Temple to become a priest.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="105">
+<j>その後、弟の覚性法親王のいる仁和寺へと向かい、そこで腰を落ち着ける。</j>
+<e type="trans" ver="1">Afterward, he heads for Ninna-ji Temple, where his younger brother Prince Kakushobo lives, and settles down there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Afterward, he heads for Ninna-ji Temple, where his younger brother Prince Kakushobo lives, and settles down there.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Afterward, he heads for Ninna-ji Temple, where his younger brother Prince Kakushobo lives, and settles down there.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="106">
+<j>すぐに天皇方の武士がやってきて、仁和寺を包囲する。</j>
+<e type="trans" ver="1">Soon the warriors of the Emperor come over, and enclose the Ninna-ji Temple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Soon the warriors of the Emperor come and enclose Ninna-ji Temple.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Soon the warriors of the Emperor come and enclose Ninna-ji Temple.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="107">
+<j>その間にも忠通は頼長から氏の長者の地位と取り戻し、一方の忠実は自分も討伐されることを恐れて、僧兵を集めて宇治にひきこもる。</j>
+<e type="trans" ver="1">While Tadamichi retrieves a position of the head of the clan from Yorinaga, and Tadazane gathers warrior-monks and secludes himself in Uji for fear of being killed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meanwhile, Tadamichi retrieves a position as the head of the clan from Yorinaga, and Tadazane gathers warrior-monks and secludes himself in Uji for fear of being killed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Meanwhile, Tadamichi retrieves a position as the head of the clan from Yorinaga, and Tadazane gathers warrior-monks and secludes himself in Uji for fear of being killed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="108">
+<j>義朝と清盛は三条の崇徳の御所、頼長の五条壬生の邸を焼き払い、内裏に帰還する。</j>
+<e type="trans" ver="1">Yoshitomo and Kiyomori burn down both Sutoku&apos;s residence and Yorinaga&apos;s residence of Gojomibu, returning to the Imperial Palace.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshitomo and Kiyomori burn down Sutoku&apos;s residence and Yorinaga&apos;s residence of Gojomibu before returning to the Imperial Palace.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Yoshitomo and Kiyomori burn down Sutoku&apos;s residence of Sanjo and Yorinaga&apos;s residence of Gojomibu before returning to the Imperial Palace.</e>
+<cmt>of Sanjo を補足しました。</cmt>
+</sen>
+<sen id="109">
+<j>ここで恩賞が授けられるは、義朝は一族全員を敵にまわしてまで天皇にしたがったのに、あまりにも報いるところがすくないことに再考を求め、信西と論争の挙句にこれを認めさせる。</j>
+<e type="trans" ver="1">Though he receives a reward, but thinks it is too little because he has turned his all relatives into the enemy, so he argues with Shinzei to make him reconsider it and succeed in persuading him.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although he receives a reward, he feels that it&apos;s too little because he has turned his all relatives into enemies, so he argues with Shinzei to make him reconsider it and succeeds in persuading him.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although he receives a reward, he feels that it&apos;s too little because he has turned his all relatives into enemies and sided with the Emperor, so he argues with Shinzei to make him reconsider it and succeeds in persuading him.</e>
+<cmt>and sided with the Emperor を補足しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="110">
+<j>その頃、頼長は生死をさまよいながら、父忠実のもとを訪れるが、かかわり合いを恐れた忠実は面会を拒否。</j>
+<e type="trans" ver="1">Around the time, Yoshinaga visits his father Tadazane, hovering between life and death, but Tadazane is afraid of getting involved in the conflict and refuses to meet him</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Around that time, Yoshinaga attempts to visit his father Tadazane, who hovers between life and death, but Tadazane is afraid of getting involved in the conflict and refuses to meet him</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Around that time, Yorinaga, who hovers between life and death, attempts to visit his father Tadazane but Tadazane is afraid of getting involved in the conflict and refuses to meet him</e>
+<cmt>Yoshinaga→Yorinaga, who hovers between life and death,の位置を頼長にかかるように移動</cmt>
+</sen>
+<sen id="111">
+<j>頼長は舌を噛み切って悔しがり、しばらくして息を引き取る。</j>
+<e type="trans" ver="1">Yorinaga is bitterly disappointed, biting his tongue, and before long he breathes his last breath.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Yorinaga is bitterly disappointed, biting his tongue, and before long he takes his last breath.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Yorinaga is bitterly disappointed, biting his tongue, and before long he takes his last breath.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="112">
+<j>彼の亡骸は奈良の般若野に埋葬された。</j>
+<e type="trans" ver="1">His dead body is buried in Hannya-no, Nara.</e>
+<cmt></cmt>
+<e type="trans" ver="2">His dead body is buried in Hannya-no, Nara.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">His dead body is buried in Hannya-no, Nara.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="113">
+<j>忠実はこの報告を聞いて嘆き悲しみ、戦で名の知れた人は誰も死んでいないのに、どうして氏の長者である頼長だけが命を落としたのかと慟哭する。</j>
+<e type="trans" ver="1">Tadazane mourns over this report, and laments questioning why only Yorinaga, the head of the clan, has passed away, though nobody who has been well known for their fighting well dies.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tadazane mourns over this report and laments, questioning why only Yorinaga, the head of the clan, has passed away, despite the belief that no one who is known for fighting well should die.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Tadazane mourns over this report and laments, questioning why only Yorinaga, the head of the clan, has passed away, despite the belief that no one who is known for fighting well should die.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>下巻</j>
+<e type="trans" ver="1">Volume 3</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 3</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Volume 3</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="114">
+<j>崇徳側についた教長らは次々と捕らえられ、頼長の居場所などを聞き出すために拷問にかけられる。</j>
+<e type="trans" ver="1">Norinaga and others who have sided with Sutoku are captured one after another, and they are tortured and asked where Yorinaga is.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Norinaga and others who have sided with Sutoku are captured one after another, and they are tortured and asked where Yorinaga is.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Norinaga and others who have sided with Sutoku are captured one after another, and they are tortured and asked where Yorinaga is.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="115">
+<j>父の敗北を知った重仁親王も、仁和寺に向かって出家する。</j>
+<e type="trans" ver="1">Prince Shigehito, who knows his father&apos;s loss, heads for Ninna-ji Temple and becomes a priest.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Prince Shigehito, who has learned of the loss of his father, goes to Ninna-ji Temple and becomes a priest.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Prince Shigehito, who has learned of the loss of his father, goes to Ninna-ji Temple and becomes a priest.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="116">
+<j>そして、近江国坂本 (大津市)から蓑浦へと逃亡を続けていた為義も熱病にかかり、天台山に登って出家する。</j>
+<e type="trans" ver="1">And Tameyoshi, who has been fleeing from Sakamoto, Omi Province (Otsu City) to Minoura, catches a fever and climbs up the Mt. Tendai to become a priest.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tameyoshi, who has been fleeing from Sakamoto, Omi Province (Otsu City) to Minoura, catches a fever but nevertheless ascends Mt. Tendai to become a priest.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tameyoshi, who has been fleeing from Sakamoto, Omi Province (Otsu City) to Minoura, catches a fever and ascends Mt. Tendai to become a priest.</e>
+<cmt>but nevertheless→and原文に沿って訳し直しました。</cmt>
+</sen>
+<sen id="117">
+<j>息子たちも合流し、為朝は東国へ逃げのび再帰をはかるべきであると検索するが、為義は老齢などを理由にこれを断り、長男の義朝を頼ることに決める。</j>
+<e type="trans" ver="1">Joined by his sons, Tametomo runs away to the eastern provinces and plans to raise an army again, but Tameyoshi refuses his offer because of his old age, so he decides to ask his oldest son Yoshitomo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Joined by his sons, Tametomo flees to the eastern provinces with a plan to raise an army again, but Tameyoshi refuses his offer due to his old age, so he decides to ask his oldest son, Yoshitomo.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Joined by his sons, Tametomo flees to the eastern provinces with a plan to raise an army again, but Tameyoshi refuses his offer due to his old age, so he decides to ask his oldest son, Yoshitomo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="118">
+<j>親子は涙ながらにわかれ、義朝は喜んで父を引き取る。</j>
+<e type="trans" ver="1">The father and son separate with tears in their eyes, and Yoshitomo is willing to take his father.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The father and son separate with tears in their eyes, and Yoshitomo is willing to take his father.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The father and son separate with tears in their eyes, and Yoshitomo is willing to take his father.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="119">
+<j>崇徳側についた武士たちについて、源雅定・藤原実能らの高官たちは、死罪は久しくおこなっていないこと、また鳥羽法皇の服喪中であることを理由に、罪を軽くすることを言上する。</j>
+<e type="trans" ver="1">High officials such as MINAMOTO no Masasada and FUJIWARA no Saneyoshi announce that they will reduce punishments on the warriors who have sided with Sutoku because no death sentence has been carried out for a long time and they are still in mourning for cloistered Emperor Toba.</e>
+<cmt></cmt>
+<e type="trans" ver="2">High officials such as MINAMOTO no Masasada and FUJIWARA no Saneyoshi announce that they will reduce the punishments on the warriors who had sided with Sutoku because no death sentence has been carried out for a long time and they are still in mourning for the cloistered Emperor Toba.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">High officials such as MINAMOTO no Masasada and FUJIWARA no Saneyoshi announce that they will reduce the punishments on the warriors who had sided with Sutoku because no death sentence has been carried out for a long time and they are still in mourning for the Cloistered Emperor Toba.</e>
+<cmt>cloistered→Cloistered</cmt>
+</sen>
+<sen id="120">
+<j>しかし、信西は謀反人たちを生かしておけば後々まで禍根を残すと反論し、律のとおりに死罪するべきであると勧め、後白河もこれを認め、家弘・忠正らは斬られる。</j>
+<e type="trans" ver="1">However, Shinzei disagrees about it, saying if they keep the traitors alive, they will create a problem for the future, so he recommends a death sentence as by law enacted and persuades Go-Shirakawa to kill Iehiro, Tadamasa, and others.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, Shinzei disagrees, saying that if they keep the traitors alive they will create a problem for the future, so he recommends a death sentence in accordance with the law and persuades Go-Shirakawa to kill Iehiro, Tadamasa and others.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, Shinzei disagrees, saying that if they keep the traitors alive they will create a problem for the future, so he recommends a death sentence in accordance with the law and persuades Goshirakawa to kill Iehiro, Tadamasa and others.</e>
+<cmt>Go-Shirakawa→Goshirakawa</cmt>
+</sen>
+<sen id="121">
+<j>このうち忠正は甥の清盛が助命してくれることを期待していたが、清盛は自分が伯父を斬れば、義朝も父を斬らざるをえなくなるだろうと陰謀をはたらかせて自ら斬った。</j>
+<e type="trans" ver="1">Tadamasa expects his nephew Kiyomori will save him, but Kiyomori kills his uncle, thinking if he kills his uncle, Yoshitomo also has to kill his father.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tadamasa expects his nephew Kiyomori will save him, but Kiyomori kills his uncle, thinking if he kills his uncle, Yoshitomo also has to kill his father.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tadamasa expects his nephew Kiyomori will save him, but Kiyomori kills his uncle, thinking if he kills his uncle, Yoshitomo also has to kill his father.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="122">
+<j>為義をかくまっていた義朝だが、鎌田の進言にしたがって勅命のとおりに父を斬ることを決意する。</j>
+<e type="trans" ver="1">Though Tameyoshi has hidden Yoshitomo, he decides to kill his father following KAMATA&apos;s advice.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although Tameyoshi has hidden Yoshitomo, he decides to kill his father upon the advice of KAMATA.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although Yoshitomo has hidden Tameyoshi, he decides to kill his father upon the advice of KAMATA.</e>
+<cmt>TameyoshiとYoshitomoの位置を入れ替え</cmt>
+</sen>
+<sen id="123">
+<j>鎌田と波多野義通は七条通朱雀大路に為義を連れ出し、死罪の勅命がくだったことを告げる。</j>
+<e type="trans" ver="1">KAMATA and Yoshimichi HATANO take Tameyoshi to the Shichi-jo Street, Suzaku Boulevard, telling him that Emperor&apos;s order to kill him has been issued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">KAMATA and Yoshimichi HATANO take Tameyoshi to Shichi-jo Street (Suzaku Boulevard), telling him that the Emperor&apos;s order to kill him has been issued.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">KAMATA and Yoshimichi HATANO take Tameyoshi to Shichi-jo Street (Suzaku Boulevard), telling him that the Emperor&apos;s order to kill him has been issued.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="124">
+<j>為義は涙にくれる。</j>
+<e type="trans" ver="1">Tameyoshi is in tears.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tameyoshi is in tears.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Tameyoshi is in tears.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="125">
+<j>父を見殺しにする義朝を恨み、いっぽうでは彼が父殺しとして世間から非難されることを恐れ、またおさない息子たちの行く末を心配しつつ、最後には南無阿弥陀仏を唱えながら静かに首を打たれる。</j>
+<e type="trans" ver="1">While he blames Yoshitomo for seeing his father die without any attempt to save him, he is afraid of his son&apos;s being blamed for killing his father by everyone, and finally he is killed chanting Namu-amidabutsu, a (single) sincere call upon the name of Amida, worrying about his young sons&apos; future.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While he blames Yoshitomo for seeing his father die without any attempt to save him, he is afraid that his son will be blamed by everyone for killing his father, and finally he is killed while chanting Namu-amidabutsu, a (single) sincere call upon the name of Amida, worrying about the future of his young son.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">While he blames Yoshitomo for seeing his father die without any attempt to save him, he is afraid that his son will be blamed by everyone for killing his father, and finally he is killed while chanting Namu-amidabutsu, a (single) sincere call upon the name of Amida, worrying about the future of his young son.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="126">
+<j>源氏に対する処断は過酷を極め、頼方たち弟５人、またいまだ元服さえ迎えていない乙若ら４人の幼子たちまでも処刑することになる。</j>
+<e type="trans" ver="1">Punishment which has been given Genji clan is so severe, and five younger brothers including Yorikata and even four children who haven&apos;t celebrated their coming of age yet, including Otowaka, come to be killed.</e>
+<cmt>JAPAN-From Prehistory to Modern Times by John Whitney Hall, published by Charles E. Tuttle Company</cmt>
+<e type="trans" ver="2">The punishment handed down by the Genji clan is so severe that five younger brothers (including Yorikata) and even four children who haven&apos;t celebrated their coming of age yet (including Otowaka) are killed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The punishment handed down to the Minamoto clan is so severe that five younger brothers (including Yorikata) and even four children who haven&apos;t celebrated their coming of age yet (including Otowaka) are killed.</e>
+<cmt>by→to原文に沿って訳し直しました。&quot;Genji&quot; -&gt; &quot;Minamoto&quot; に変更しました。</cmt>
+</sen>
+<sen id="127">
+<j>乙若は身内をことごとく殺す義朝の末路は碌なものにはならないことを呪いつつ、処刑される。</j>
+<e type="trans" ver="1">Otowaka is killed cursing Yoshitomo&apos;s future, who has killed all his relatives,</e>
+<cmt></cmt>
+<e type="trans" ver="2">Otowaka is killed while cursing the future of Yoshitomo, who has killed all his relatives,</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Otowaka is killed while cursing the future of Yoshitomo, who has killed all his relatives.</e>
+<cmt>,→.</cmt>
+</sen>
+<sen id="128">
+<j>また、幼いこどもたちが処刑されたことを知った為義の北の方も嘆きのあまりに川面に身を投げて夫やこどもたちの後を追う。</j>
+<e type="trans" ver="1">Also, Tameyoshi&apos;s wife, who has known her young children are killed, throws herself down the river to death in the excess of her grief, following her husband and children.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, Tameyoshi&apos;s wife, knowing that her young children are dead, throws herself down the river to death in the excess of her grief, following her husband and children.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also, Tameyoshi&apos;s wife, knowing that her young children are dead, throws herself down the river to death in the excess of her grief, following her husband and children.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="129">
+<j>このころ、頼長の死が天皇方に伝わる。</j>
+<e type="trans" ver="1">Around this time, Yorinaga&apos;s death is reported to the Emperor&apos;s side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Around this time, Yorinaga&apos;s death is reported to the Emperor&apos;s side.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Around this time, Yorinaga&apos;s death is reported to the Emperor&apos;s side.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="130">
+<j>信西はそれを確かめるため、遺骸を掘り起こさせる。</j>
+<e type="trans" ver="1">Shinzei makes his people dig up the dead bodies to confirm whether it is true or not.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinzei makes his people dig up the dead bodies to confirm whether it is true or not.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shinzei makes his people dig up the dead bodies to confirm whether it is true or not.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="131">
+<j>頼長の遺骸は埋め戻されることもなく、路傍に捨てられる。</j>
+<e type="trans" ver="1">Yorinaga&apos;s dead body is not buried back and deserted on the street.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yorinaga&apos;s dead body is not reburied but is left deserted on the street.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Yorinaga&apos;s dead body is not reburied but is left deserted on the street.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="132">
+<j>この酷い仕打ちに、頼長の息子である師長たちは出家することを志すが、いつか再起をはかるべきであるという祖父忠実の言葉に思いとどまる。</j>
+<e type="trans" ver="1">Yorinaga&apos;s sons including Moronaga decide to be a priest to hear this heartless treatment, but his grandfather Tadazane persuades them out of it, saying that they should revenge their father&apos;s death some day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Upon hearing of this heartless treatment, Yorinaga&apos;s sons, including Moronaga, decide to enter the priesthood, but his grandfather Tadazane dissuades them, saying they should someday avenge their father&apos;s death.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Upon hearing of this heartless treatment, Yorinaga&apos;s sons, including Moronaga, decide to enter the priesthood, but his grandfather Tadazane dissuades them, saying they should someday avenge their father&apos;s death.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="133">
+<j>この厳しい処罰は崇徳にもおよび、彼は讃岐に流されることに決まる。</j>
+<e type="trans" ver="1">Sutoku is also punished heavily, and he is to be exiled to Sanuki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sutoku is also punished heavily, and he is to be exiled to Sanuki.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sutoku is also punished heavily, and he is to be exiled to Sanuki.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="134">
+<j>多くの供をつれていくことも、父鳥羽法皇の墓前に赴くことも許されず、流罪の憂き目にある。</j>
+<e type="trans" ver="1">He suffers misery of exile, not allowed to take many servants with him and visit a grave of his father cloistered Emperor Toba.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He suffers the misery of exile, being prevented from taking many servants with him, but he visits the grave of his father, the cloistered Emperor Toba.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">He suffers the misery of exile, being prevented from taking many servants with him and visiting the grave of his father, the Cloistered Emperor Toba.</e>
+<cmt>, but he visits→and visiting原文に沿って訳し直しました。cloistered→Cloistered</cmt>
+</sen>
+<sen id="135">
+<j>流された讃岐でも厳重に監視されることになり、崇徳は光源氏・在原行平・淳仁天皇（淡路廃帝）ら、かつて流離にあった人々に自身を重ね合わせて、我が身の不運を思い嘆く。</j>
+<e type="trans" ver="1">He is to be kept under surveillance even at Sanuki, where he has been exiled, and Sutoku identifies himself with Hikaru Genji, ARIWARA no Narihira, and Emperor Junnin (Awaji haitei-eliminated emperor), who went into exile once, lamenting his hard fate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He is to be kept under surveillance even at Sanuki, where he has been exiled, and Sutoku identifies himself with Hikaru Genji, ARIWARA no Narihira and Emperor Junnin (Awaji haitei, or the eliminated emperor), who had once gone into exile, lamenting the harshness of his fate.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He is to be kept under surveillance even at Sanuki, where he has been exiled, and Sutoku identifies himself with Hikaru Genji, ARIWARA no Narihira and Emperor Junnin (Awaji haitei, or the eliminated emperor), who had once gone into exile, lamenting the harshness of his fate.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="136">
+<j>このとき崇徳の御所の焼け跡か「夢ノ記」が発見される。</j>
+<e type="trans" ver="1">At this time, &apos;A Record of Dream&apos; is found in the Sutoku&apos;s residence burnt down by a fire.</e>
+<cmt>原文「焼け跡か」→「焼け跡から」？「夢ノ記」→A Record of Dream[定訳不明]</cmt>
+<e type="trans" ver="2">At this time, &apos;A Record of Dreams&apos; is found in Sutoku&apos;s residence, which was burned down in a fire.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At this time, &apos;A Record of Dreams&apos; is found in Sutoku&apos;s residence, which was burned down in a fire.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="137">
+<j>「夢ノ記」とは皇位に異変があるたびに現れるものである。</j>
+<e type="trans" ver="1">A Record of Dream&apos; is a record which appears every time when something happens to the Emperor&apos;s throne.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A Record of Dream&apos; is a record which appears every time when something happens to the Emperor&apos;s throne.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">A Record of Dream&apos; is a record which appears every time when something happens to the Emperor&apos;s throne.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="138">
+<j>ついで、崇徳についた貴族たちや、頼長の息子たちも流罪になる。</j>
+<e type="trans" ver="1">And court nobles who have been on Sutoku&apos;s side and Yorinaga&apos;s sons are to be exiled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And court nobles who have been on Sutoku&apos;s side and Yorinaga&apos;s sons are to be exiled.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">And court nobles who have been on Sutoku&apos;s side and Yorinaga&apos;s sons are to be exiled.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="139">
+<j>師長は忠実に書簡を贈って自身の嘆きをうちあける。</j>
+<e type="trans" ver="1">Moronaga sends a letter to Tadazane confessing his lamentation in it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moronaga sends a letter to Tadazane confessing his lamentation in it.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Moronaga sends a letter to Tadazane confessing his lamentation in it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="140">
+<j>世の人々はこのあまりに過酷な刑罰、とくに老齢の為義を処刑したことをいぶかしむ。</j>
+<e type="trans" ver="1">People are suspicious of this too severe punishment, especially killing Tameyoshi of old age.</e>
+<cmt></cmt>
+<e type="trans" ver="2">People are suspicious of this too severe punishment, especially killing Tameyoshi of old age.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">People are suspicious of this too severe punishment, especially killing Tameyoshi of old age.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="141">
+<j>その不審は、処刑を命じた天皇にまで及んでいる。</j>
+<e type="trans" ver="1">The suspicions then turn on the Emperor, who has issued the death sentence.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The suspicions then turn toward the Emperor, who has issued the death sentence.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The suspicions then turn toward the Emperor, who has issued the death sentence.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="142">
+<j>鳥羽法皇の旧臣たちは、この悲劇を思い、とりわけ崇徳が讃岐に流されたことについて、玄宗皇帝などと重ね合わせて、いかに帝でもあっても因果から離れることはできないと嘆息する。</j>
+<e type="trans" ver="1">Old retainers of cloistered Emperor Toba grieve at this tragedy, especially Sutoku&apos;s exile to Sanuki, and lament that even Emperor can&apos;t escape from karma, identifying him with Emperor Hsuan Tsung/Xuan Zong.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The old retainers of the cloistered Emperor Toba grieve at this tragedy, particularly of Sutoku&apos;s exile to Sanuki, and lament that even the Emperor can&apos;t escape from karma, identifying him with Emperor Hsuan Tsung/Xuan Zong.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The old retainers of the Cloistered Emperor Toba grieve at this tragedy, particularly of Sutoku&apos;s exile to Sanuki, and lament that even the Emperor can&apos;t escape from karma, identifying him with Emperor Hsuan Tsung/Xuan Zong.</e>
+<cmt>cloistered→Cloistered</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="143">
+<j>信西は忠実までも流罪にしようとするが、これは忠通が拒否したので頓挫する。</j>
+<e type="trans" ver="1">Shinzei tries to exile even Tadazane, but Tadamichi stops him so he gives up it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinzei tries to exile even Tadazane, but Tadamichi stops him so he gives up.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Shinzei tries to exile even Tadazane, but Tadamichi stops him so he gives up.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="144">
+<j>為義の息子のなかで唯一逃げ延びていた為朝も、温泉で養生しているところを平家貞に発見され、丸腰のところを捕らえられてしまう。</j>
+<e type="trans" ver="1">Tametomo, the only survivor among Tameyoshi&apos;s sons is found and captured by TAIRA no Iesada while he is recuperating himself in hot spring without a sword.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tametomo, the only survivor among Tameyoshi&apos;s sons, is found and captured by TAIRA no Iesada while he is recuperating at a hot spring without a sword.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tametomo, the only survivor among Tameyoshi&apos;s sons, is found and captured by TAIRA no Iesada while he is recuperating at a hot spring without a sword.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="145">
+<j>為朝は死罪となるべきところだったが、罪を減じられて、腕の筋を切られ、弓を引けないようされたうえで伊豆に流される。</j>
+<e type="trans" ver="1">A death sentence is to be given Tametomo, but his punishment is reduced, so his arm muscle is torn not to draw a bow and he is exiled to Izu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tametomo is to be given the death sentence, but his punishment is reduced so his arm muscle is torn so as to prevent him from drawing a bow, and he is exiled to Izu.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tametomo is to be given the death sentence, but his punishment is reduced so his arm muscle is torn so as to prevent him from drawing a bow, and he is exiled to Izu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="146">
+<j>しかし、自分を運ぶ輿を踏み抜いてみせるなど、為朝の剛勇ぶりはあいかわらずであった。</j>
+<e type="trans" ver="1">However, Tametomo is still intrepid, breaking a bottom of a palanquin which carries him when he stamps his feet on it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, Tametomo is intrepid, and he stamps his feet in order to break through the bottom of the palanquin that carries him.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, Tametomo is intrepid, and he stamps his feet in order to break through the bottom of the palanquin that carries him.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="147">
+<j>崇徳は讃岐で自身の不運を嘆きながら日を送っていた。</j>
+<e type="trans" ver="1">Sutoku spends his days lamenting his misfortune at Sanuki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sutoku spends his days lamenting his misfortune at Sanuki.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sutoku spends his days lamenting his misfortune at Sanuki.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="148">
+<j>ある日、思いいたって五部大乗経を写経し、和歌を添えて、都のあたりの寺に奉納することを願う。</j>
+<e type="trans" ver="1">One day he thinks of copying Five Volumes of Mahayana Sutras, and hopes to dedicate it with his waka poem to a temple around the capital.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One day he thinks of copying the Five Volumes of Mahayana Sutras, and hopes to dedicate it with his waka poem to a temple near the capital.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">One day he thinks of copying the Five Volumes of Mahayana Sutras, and hopes to dedicate it with his waka poem to a temple near the capital.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="149">
+<j>これは後世の安寧を得るためであった。</j>
+<e type="trans" ver="1">This is for maintaining peace and order for posterity.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is for the purpose of maintaining peace and order for posterity.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This is for the purpose of maintaining peace and order for posterity.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="150">
+<j>しかし後白河はこれを拒否、崇徳は激怒し、後白河は未来永劫までも敵であると宣言し、「悪魔」となることを誓って舌先を噛み切り、その血でもって誓状をしたためる。</j>
+<e type="trans" ver="1">However Go-Shirakawa rejects it, so Sutoku becomes infuriated, declaring that Go-Shirakawa is to be his enemy forever, and he bites the tip of his tongue swearing to be the &apos;Devil&apos; and writes a solemn vow with his blood.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, Go-Shirakawa rejects it, at which Sutoku becomes infuriated, declaring that Go-Shirakawa is to be his enemy forever; he bites the tip of his tongue, swearing to be the &apos;Devil&apos; and writes a solemn vow with his own blood.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">However, Goshirakawa rejects it, at which Sutoku becomes infuriated, declaring that Goshirakawa is to be his enemy forever; he bites the tip of his tongue, swearing to be the &apos;Devil&apos; and writes a solemn vow with his own blood.</e>
+<cmt>Go-Shirakawa→Goshirakawa</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="151">
+<j>この崇徳の願いのとおり、世は一向におさまることはなかった。</j>
+<e type="trans" ver="1">The country has never been pacified as Sutoku has hoped.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The country has never been pacified, as Sutoku had hoped.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The country has never been pacified, as Sutoku had hoped.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="152">
+<j>平治元年には藤原信頼が義朝を語らって反乱を起こし、信西を殺害、獄門にする。</j>
+<e type="trans" ver="1">FUJIWARA no Nobuyori rises in revolt assuming Yoshitomo&apos;s name in the first year of Heiji, and kills Shinzei and exposes his head at the gates of a prison.</e>
+<cmt></cmt>
+<e type="trans" ver="2">FUJIWARA no Nobuyori rises in revolt, assuming Yoshitomo&apos;s name in the first year of Heiji; he kills Shinzei and displays his severed head at the prison gates.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">FUJIWARA no Nobuyori rises in revolt, assuming Yoshitomo&apos;s name in the first year of Heiji; he kills Shinzei and displays his severed head at the prison gates.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="153">
+<j>これは頼長の死骸を放棄した報いだろうとささやかれた。</j>
+<e type="trans" ver="1">It is rumored behind the scenes that this is retribution for his deserting Yorinaga&apos;s dead body.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is rumored behind the scenes that this is retribution for his desertion of Yorinaga&apos;s body.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is rumored behind the scenes that this is retribution for his desertion of Yorinaga&apos;s body.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="154">
+<j>一方、いったんは勝者となった義朝も清盛に敗北、逃亡中に長田忠致に裏切られて殺される。</j>
+<e type="trans" ver="1">While Yoshitomo, who was a winner for a while, is defeated by Kiyomori, betrayed, and killed on the run by Tadamune OSADA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meanwhile, Yoshitomo, who was once victorious, is defeated by Kiyomori, betrayed and killed by Tadamune OSADA while on the run.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Meanwhile, Yoshitomo, who was once victorious, is defeated by Kiyomori, betrayed and killed by Tadamune OSADA while on the run.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="155">
+<j>これは、義朝によって処刑された乙若の言葉どおりだった。</j>
+<e type="trans" ver="1">What Otowaka, who was killed by Yoshitomo, predicted has happened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thus the prediction of Otowaka, who was killed by Yoshitomo, has come to pass.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Thus the prediction of Otowaka, who was killed by Yoshitomo, has come to pass.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="156">
+<j>ある日、崇徳に仕えていた是成というものが、出家して蓮如となのっていたが、讃岐にわたって面会する。</j>
+<e type="trans" ver="1">One day, Korenari, who has served Sutoku and become a priest changing his name into Rennyo, goes to Sanuki to see Sutoku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One day, Korenari, who has served Sutoku and become a priest, changing his name to Rennyo, goes to Sanuki to visit Sutoku.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">One day, Korenari, who has served Sutoku and become a priest, changing his name to Rennyo, goes to Sanuki to visit Sutoku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="157">
+<j>蓮如は都に帰ってきてから、怨霊となった崇徳が、為義らを率いて後白河上皇の御所法住寺 (京都市)を襲う夢を見る。</j>
+<e type="trans" ver="1">After Rennyo returns to the capital, he has a dream that Sutoku becoming a vengeful ghost leads Tameyoshi and others to attack the Hoju-ji Temple (Kyoto City), where cloistered Emperor Go-Shirakawa resides.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After Rennyo returns to the capital, he has a dream in which Sutoku becomes a vengeful ghost that leads Tameyoshi and others to attack the Hoju-ji Temple (Kyoto City), in which the cloistered Emperor Go-Shirakawa resides.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After Rennyo returns to the capital, he has a dream in which Sutoku becomes a vengeful ghost that leads Tameyoshi and others to attack the Hoju-ji Temple (Kyoto City), in which the Cloistered Emperor Goshirakawa resides.</e>
+<cmt>Go-Shirakawa→Goshirakawacloistered→Cloistered</cmt>
+</sen>
+<sen id="158">
+<j>しかし法住寺殿は不動明王の結界によって守られていたため、崇徳は西八条の清盛のもとへと向かい、難なく中へ入った。</j>
+<e type="trans" ver="1">However, Hojo-ji Temple is protected by Fudo-myoo&apos;s barrier, so Sutoku heads for Kiyomori at West Hachijo instead and succeed in invading without any difficulty.</e>
+<cmt>不動明王の結界→barrier by Fudo-myo&apos;o→Fudo-myoo&apos;s barrier</cmt>
+<e type="trans" ver="2">However, Hojo-ji Temple is protected by Fudo-myoo&apos;s barrier, so instead Sutoku heads for Kiyomori at West Hachijo and succeeds in invading without difficulty.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, Hoju-ji Temple is protected by Fudo-myoo&apos;s barrier, so instead Sutoku heads for Kiyomori at West Hachijo and succeeds in invading without difficulty.</e>
+<cmt>Hojo-ji</cmt>
+</sen>
+<sen id="159">
+<j>このときから清盛が増長し、天皇をも脅かすようになっていくのは、崇徳の力によるものである。</j>
+<e type="trans" ver="1">Since then Kiyomori comes to increase his power to threaten Emperor because of Sutoku&apos;s help.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Subsequently, Kiyomori increases his power and, with Sutoku&apos;s help, becomes a threat to the Emperor.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Subsequently, Kiyomori increases his power and, with Sutoku&apos;s help, becomes a threat to the Emperor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="160">
+<j>しかし、この崇徳の怨霊も西行の歌によってなだめられ、鎮魂される。</j>
+<e type="trans" ver="1">However, this Sutoku&apos;s vengeful ghost is pacified by Saigyo&apos;s poem and calmed down.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the vengeful ghost of Sutoku is pacified and becalmed by Saigyo&apos;s poem.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, the vengeful ghost of Sutoku is pacified and becalmed by Saigyo&apos;s poem.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="161">
+<j>伊豆に流された為朝だったが、傷も癒えて、八丈島など周囲の島の代官を追い出して占領してしまう。</j>
+<e type="trans" ver="1">Though Tametomo has been exiled to Izu, his injuries get well and he expels local magistrates in Hachijo-jima Island and other nearby islands, occupying the lands.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although Tametomo has been exiled to Izu, his injuries heal; soon he expels the local magistrates from Hachijo-jima and other nearby islands, occupying their lands.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although Tametomo has been exiled to Izu, his injuries heal; soon he expels the local magistrates from Hachijo-jima and other nearby islands, occupying their lands.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="162">
+<j>さらには、鬼島に渡って、ここの住民までもしたがえてしまう。</j>
+<e type="trans" ver="1">Moreover, he sails over to Oniga-shima Island and subdues even inhabitants there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, he sails to Oniga-shima Island and subdues even the inhabitants there.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Moreover, he sails to Oniga-shima Island and subdues even the inhabitants there.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="163">
+<j>伊豆国を任されていた斉藤茂光はこの為朝の威勢を恐れ、天皇に討伐の許可を求める。</j>
+<e type="trans" ver="1">Shigemitsu SAITO, who is in charge of governing Izu Province, is afraid of Tametomo&apos;s power, and asks for permission to put down his army.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shigemitsu SAITO, who is in charge of governing Izu Province, is afraid of Tametomo&apos;s power and asks for permission to put down his army.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Shigemitsu SAITO, who is in charge of governing Izu Province, is afraid of Tametomo&apos;s power and asks for permission by the Emperor to put down his army.</e>
+<cmt>by the Emperor補足</cmt>
+</sen>
+<sen id="164">
+<j>この申し出はすぐに許可され、為朝討伐の軍勢が差し向けられる。</j>
+<e type="trans" ver="1">His offer is approved instantly, and an army to put down Tametomo is sent.</e>
+<cmt></cmt>
+<e type="trans" ver="2">His offer is immediately accepted, and an army to put down Tametomo is sent.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">His offer is immediately accepted, and an army to put down Tametomo is sent.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="165">
+<j>為朝はたった一矢で船を沈めるなど奮戦するが、多勢に無勢を悟って、息子の首をはねて自身は切腹する。</j>
+<e type="trans" ver="1">Tametomo fights desperately sinking a boat with only an arrow, but he realizes that it is no use contending against heavy odds, so he cuts his son&apos;s head off and commits hara-kiri.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tametomo fights desperately, sinking a boat with a single arrow, but he sees the futility of contending against heavy odds, so he cuts off his son&apos;s head and commits hara-kiri.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tametomo fights desperately, sinking a boat with a single arrow, but he sees the futility of contending against heavy odds, so he cuts off his son&apos;s head and commits hara-kiri.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="166">
+<j>為朝の首は加藤景高がはねて都に送る。</j>
+<e type="trans" ver="1">Tametomo&apos;s head is cut by Kagetaka KATO and sent to the capital.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tametomo&apos;s head is severed by Kagetaka KATO and sent to the capital.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tametomo&apos;s head is severed by Kagetaka KATO and sent to the capital.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="167">
+<j>物語は最後に、為朝以上の源氏はいないことを述べて、運つたなく朝敵となって果てたことを慨歎する。</j>
+<e type="trans" ver="1">In the end, the tale says that there is no such Genji clan as Tametomo, and laments angrily his misfortune to be the Emperor&apos;s enemy and killed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ultimately, the tale says there is no such Genji clan, as Tametomo, who in anger laments his misfortune at being the Emperor&apos;s enemy, must die.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Ultimately, the tale says that the Minamoto clan will come to an end because, as an enemy of the emperor, Tametomo must, unfortunately, die.</e>
+<cmt>「運がなく天皇の適になって死ななければならなかった」のを嘆いたのは為朝ではなくて、この物語という意味が出るように訳しました。&quot;Genji&quot; -&gt; &quot;Minamoto&quot; に変更しました。</cmt>
+</sen>
+<sen id="168">
+<j>そして、子が親を斬り、叔父を甥が斬り、兄が弟を流罪にし、女性も身を投げる「日本の不思議」であると結んでいる。</j>
+<e type="trans" ver="1">And it concludes &apos;Oddity of Japan,&apos; because of those incidents: a son kills his father; an uncle kills his nephew; an older brother exiles his younger brother; and a woman throws herself to death.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It also makes a conclusion regarding the &apos;oddity of Japan,&apos; because of the incidents in which a son kills his father, an uncle kills his nephew, an older brother exiles his younger brother and a woman hurls herself toward a certain death.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It also makes a conclusion regarding the &apos;oddity of Japan,&apos; because of the incidents in which a son kills his father, a nephew kills his uncle, an older brother exiles his younger brother and a woman hurls herself toward a certain death.</e>
+<cmt>an uncle kills his nephew→a nephew kills his uncle</cmt>
+</sen>
+</par>
+</sec>
+<sec id="10">
+<tit>
+<j>史実との関係</j>
+<e type="trans" ver="1">Relation to historical facts</e>
+<cmt></cmt>
+<e type="trans" ver="2">The relationship to historical facts</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The relationship to historical facts</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="169">
+<j>『保元物語』は保元の乱を題材とした軍記物語であるが、物語である以上、そこには虚構、ないしは史実との乖離も認められる。</j>
+<e type="trans" ver="1">&quot;Hogen Monogatari&quot; is a war tale based on Hogen Disturbance, but since it is a tale, so there are some fictions and divergences from historical facts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Hogen Monogatari&quot; is a war tale based on the Hogen Disturbance, but since it is a tale there are aspects of fiction and divergence from the historical facts.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">&quot;Hogen Monogatari&quot; is a war tale based on the Hogen Disturbance, but since it is a tale there are aspects of fiction and divergence from the historical facts.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="170">
+<j>保元の乱に関する史料としては、『兵範記』『愚管抄』『百錬抄』『帝王編年記』などを挙げることができる。</j>
+<e type="trans" ver="1">As historical materials for Hogen Disturbance, there are &quot;Heihan-ki&quot;, &quot;Gukansho&quot;, &quot;Hyakurensho&quot;, &quot;Teio Hen-nenki,&quot; and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As historical materials for the Hogen Disturbance, there are &quot;Heihan-ki,&quot; &quot;Gukansho,&quot; &quot;Hyakurensho,&quot; &quot;Teio Hen-nenki,&quot; and so on.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Historical texts describing the Hogen Disturbance include the &quot;Heihan-ki,&quot; &quot;Gukansho,&quot; &quot;Hyakurensho,&quot; and &quot;Teio Hen-nenki.&quot;</e>
+<cmt>より自然な英語になるように修正しました。</cmt>
+</sen>
+<sen id="171">
+<j>とくに『兵範記』は乱に実際かかわった平信範の日記であり、信憑性はきわめて高い。</j>
+<e type="trans" ver="1">Among them, &quot;Heihan-ki&quot; is a diary of TAIRA no Nobunori, who was actually involved in the conflict, and considered to be credible.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Among them, &quot;Heihan-ki&quot; is a diary of TAIRA no Nobunori, who was actually involved in the conflict, and is considered to be credible.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Among them, &quot;Heihan-ki&quot; is a diary of TAIRA no Nobunori, who was in fact involved in the conflict, and is considered to be credible.</e>
+<cmt>actually -&gt; &quot;in fact&quot; に変更しました。</cmt>
+</sen>
+<sen id="172">
+<j>また、『愚管抄』は成立自体はすこしくだるものの、乱にかかわったひと（源雅頼）の日記を手控えとして利用しており、こちらも史料として尊重されている。</j>
+<e type="trans" ver="1">Though &quot;Gukansho&quot; was completed a little later, it refers to a diary of MINAMOTO no Masayori, who was get involved in the disturbance, and is relied on as a historical material.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although &quot;Gukansho&quot; was completed a bit later, it refers to a diary of MINAMOTO no Masayori, who was involved in the disturbance, and is therefore relied on as an historical material.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although &quot;Gukansho&quot; was completed a bit later, it refers to a diary of MINAMOTO no Masayori, who was involved in the disturbance, and is therefore relied on as an historical material.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="173">
+<j>以下、主として『兵範記』『愚管抄』との関係を述べる。</j>
+<e type="trans" ver="1">The following is a relation between &quot;Heihan-ki&quot; and &quot;Gukansho.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following is the relationship between &quot;Heihan-ki&quot; and &quot;Gukansho&quot;:</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The following is the relationship between &quot;Heihan-ki&quot; and &quot;Gukansho&quot;:</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="174">
+<j>為朝の造形</j>
+<e type="trans" ver="1">Forming the character of Tametomo</e>
+<cmt></cmt>
+<e type="trans" ver="2">Forming the character of Tametomo</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Forming the character of Tametomo</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="175">
+<j>『保元物語』の主人公といってもいい源為朝であるが、物語と史料において造形には大きな隔たりがある。</j>
+<e type="trans" ver="1">MINAMOTO no Tametomo could be said a main character in &quot;Hogen Monogatari,&quot; but there is a great difference in forming the character between the tale and the historical material.</e>
+<cmt></cmt>
+<e type="trans" ver="2">MINAMOTO no Tametomo could be said to be a main character in &quot;Hogen Monogatari,&quot; but there is a great difference in the formation of the character between the tale and the historical materials.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">MINAMOTO no Tametomo could be said to be a main character in &quot;Hogen Monogatari,&quot; but there is a great difference in the formation of the character between the tale and the historical materials.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="176">
+<j>物語における為朝は、保元の乱における記述だけに話をしぼっても、まさしく一騎当千の勇者であり、その強弓で馬ごと鎧武者を打ち抜き、わずか28騎の手勢のみで、清盛率いる600余騎、義朝率いる250余騎を退けるという活躍を見せている。</j>
+<e type="trans" ver="1">Tametomo in the tale is depicted as an invincible warrior even in the scenes of Hogen Disturbance, and Tametomo plays an active part, shooting an armored warrior and the horse together with his strong bow and making Kiyomori&apos;s more than 600 warriors on horseback and Yoshitomo&apos;s more than 250 warriors on horseback retreat with his only 28 warriors on horseback.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tametomo in the tale is depicted as an invincible warrior even in the scenes of Hogen Disturbance, and Tametomo plays an active part, shooting an armored warrior and the horse together with his strong bow and making Kiyomori&apos;s more than 600 warriors on horseback and Yoshitomo&apos;s more than 250 warriors on horseback retreat with his only 28 warriors on horseback.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Tametomo in the tale is depicted as an invincible warrior even in the scenes of Hogen Disturbance, and Tametomo plays an active part, shooting an armored warrior and the horse together with his strong bow and making Kiyomori&apos;s more than 600 warriors on horseback and Yoshitomo&apos;s more than 250 warriors on horseback retreat with his only 28 warriors on horseback.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="177">
+<j>とくに長時間戦闘をおこなった義朝勢は50人以上の死者を出し、重傷者も80人を超えるという有様だった。</j>
+<e type="trans" ver="1">Yoshitomo&apos;s army had a long fight, losing more than 50 warriors and more than 80 warriors got severely injured.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshitomo&apos;s army had a long fight in which more than 50 warriors were killed and more than 80 were injured.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Yoshitomo&apos;s army had a long fight in which more than 50 warriors were killed and more than 80 were injured.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="178">
+<j>同時に、為朝は兄を射殺そうとすれば可能であったのに、不孝となることを思ってためらうという、優しさも見せている。</j>
+<e type="trans" ver="1">Besides, Tametomo could have shot his older brother but he didn&apos;t showing mercy to him and hesitating about killing his brother because he thought it would be a lack of respect for him.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, Tametomo could have shot his older brother but didn&apos;t; instead, he was merciful to him and hesitated about killing his brother because he thought it would be disrespectful toward him.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Moreover, Tametomo could have shot his older brother but didn&apos;t; instead, he was merciful to him and hesitated about killing his brother because he thought it would be disrespectful toward him.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="179">
+<j>このような為朝の造形は冨倉徳次郎によって智・勇・仁の三徳を兼ねそなえた理想的な武人の姿であると言われている。</j>
+<e type="trans" ver="1">Such Tametomo&apos;s character is praised as an ideal warrior with three virtues of wisdom, courage, and benevolence by Tokujiro TOMIKURA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This characteristic of Tametomo is praised by Tokujiro TOMIKURA as the ideal of a warrior possessing the three virtues of wisdom, courage and benevolence.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This characteristic of Tametomo is praised by Tokujiro TOMIKURA as the ideal of a warrior possessing the three virtues of wisdom, courage and benevolence.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="180">
+<j>なお、為朝の配下が28騎であるのには、『史記』項羽本紀の影響であろうと田中芳樹が述べている。</j>
+<e type="trans" ver="1">As to the description of Tametomo&apos;s having 28 followers, Yoshiki TANAKA says that it would be an influence of a book of Xiang Yu in &quot;Historical Records.&quot;</e>
+<cmt>項羽本紀の定訳不明。</cmt>
+<e type="trans" ver="2">Regarding the description of Tametomo&apos;s having 28 followers, Yoshiki TANAKA says it indicates the influence of a book of Xiang Yu in &quot;Historical Records.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Regarding the description of Tametomo&apos;s having 28 followers, Yoshiki TANAKA says it indicates the influence of a book of Xiang Yu in &quot;Historical Records.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="181">
+<j>一方、史料では為朝の記述はほとんどない。</j>
+<e type="trans" ver="1">While there is little article about Tametomo in historical materials.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meanwhile, there is little reference to Tametomo in historical materials.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Meanwhile, there is little reference to Tametomo in historical materials.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="182">
+<j>『愚管抄』で「小男」とされるのは、父為義の言葉であるから謙遜としても、具体的な活躍の場面は残されていない。</j>
+<e type="trans" ver="1">He is described as &apos;a small man&apos; in &quot;Gukansho,&quot; though it would be based on his father Tameyoshi&apos;s humble words, and there is no explicit article about his fighting.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He is described as &apos;a small man&apos; in &quot;Gukansho,&quot; though such a description would be based on his father Tameyoshi&apos;s humble words, and there is no explicit article to describe his performance in battle.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He is described as &apos;a small man&apos; in &quot;Gukansho,&quot; although such a description would be based on his father Tameyoshi&apos;s humble words, and there is no explicit article to describe his performance in battle.</e>
+<cmt>though -&gt; &quot;although&quot; に変更しました。</cmt>
+</sen>
+<sen id="183">
+<j>ただし、『兵範記』保元元年8月27日の記事では為朝を捕縛した平家貞が特別に恩賞にあずかっており、為朝が崇徳院に味方した武士のなかでも特別な存在であったとみなされていた可能性は高い。</j>
+<e type="trans" ver="1">However, an article in &quot;Heihan-ki&quot; dated August 27, the first year of Hogen says that TAIRA no Iesada, who captured Tametomo, received a special reward, which indicates that Tametomo was probably considered especially an important man among the warriors who sided with Sutoku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, an article in &quot;Heihan-ki&quot; dated August 27, 1156, says that TAIRA no Iesada, who had captured Tametomo, received a special reward; this indicates that Tametomo was probably considered a particularly important man among the warriors who had sided with Sutoku.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">However, an article in &quot;Heihan-ki&quot; dated August 27, 1156, says that TAIRA no Iesada, who had captured Tametomo, received a special reward; this indicates that Tametomo was probably considered a particularly important man among the warriors who had sided with Sutoku.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="184">
+<j>また、『吾妻鏡』建久２年（1191年）8月1日 (旧暦)の記事には、保元の乱に参加した大庭景義が為朝を「吾朝無双の弓矢の達者」と評している。</j>
+<e type="trans" ver="1">Also, an article in &quot;Azumakagami&quot; dated August 1, 1191 says that Kageyoshi OBA, who joined Hogen Disturbance, praises Tametomo as &apos;an incomparable adept in shooting an arrow.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, an article in &quot;Azumakagami&quot; dated August 1, 1191 states that Kageyoshi OBA, who had participated in the Hogen Disturbance, had praised Tametomo as &apos;incomparably adept at shooting an arrow.&apos;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, an article dated August 1, 1191 (according to the lunar calendar) in the chronicle of the Kamakura bakufu from 1180 to 1266 known as &quot;Azumakagami&quot; states that Kageyoshi OBA, who had participated in the Hogen Disturbance, had praised Tametomo as &apos;incomparably adept at shooting an arrow.&apos;</e>
+<cmt>(according to the lunar calendar)補足『吾妻鏡』の説明を加えました。</cmt>
+</sen>
+<sen id="185">
+<j>ただし大庭景義は「然れども弓箭の寸法を案ずるに、その涯分に過ぎるか」とし、また「鎮西より出で給うの間、騎馬の時、弓聊か心に任せざるか」</j>
+<e type="trans" ver="1">Though Kageyoshi OBA also said, &apos;but he might not deserve the praise,&apos; and &apos; he is from Kyushu District, so while he is on horseback, it would be difficult for him to draw a bow.&apos;</e>
+<cmt>一原文一訳文の例外対処大庭景義の言葉は定訳不明</cmt>
+<e type="trans" ver="2">However, Kageyoshi OBA also said that &apos;he might not deserve the praise,&apos; and &apos; he is from the Kyushu district, so while he is on horseback, it would be difficult for him to draw a bow.&apos;</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">However, Kageyoshi OBA also said that &apos;he might not deserve the praise,&apos; and &apos; he is from the Kyushu district, so while he is on horseback, it would be difficult for him to draw a bow.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="186">
+<j>「この故実を存ぜざれば、忽ち命を失うべきか。勇士はただ騎馬に達すべき事なり。壮士等耳の底に留むべし。老翁の説嘲哢すること莫れ」と武者の騎射戦の心得を述べている。</j>
+<e type="trans" ver="1">He tells what should be kept in mind at a cavalry battle, saying, &apos;if he doesn&apos;t know the fact, he will lose his life soon. The brave warrior should be adept at horseback riding. 壮士等耳の底に留むべし You shouldn&apos;t laugh at what old man says.&apos;</e>
+<cmt>一原文一訳文の例外対処大庭景義の言葉は定訳不明</cmt>
+<e type="trans" ver="2">He describes what should be kept in mind at a cavalry battle, saying, &apos;If he doesn&apos;t know the fact, he will lose his life soon; the brave warrior should be adept at horseback riding; 壮士等耳の底に留むべし; one should not laugh at what an old man says.&apos;</e>
+<cmt>case</cmt>
+<e type="check" ver="1">He describes what should be kept in mind at a cavalry battle, saying, &apos;If he doesn&apos;t know the fact, he will lose his life soon; the brave warrior should be adept at horseback riding; 壮士等耳の底に留むべし; one should not laugh at what an old man says.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="187">
+<j>『吾妻鏡』の編年が鎌倉時代中期以降とされることからも、この話しは「騎射戦の心得」の伝授に力点があり、事実と断定は出来ないが、しかし物語のような武勇譚が生まれる下地は実際にあったのかもしれない。</j>
+<e type="trans" ver="1">&quot;Azumakagami&quot; seems to have been compiled after the middle of Kamakura period, it is difficult to consider this article to be true because it focuses on knowledge on a cavalry battle, but there might have actually been a foundation of generating a heroic episode like a tale.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Azumakagami&quot; seems to have been compiled after the middle of the Kamakura period and it is difficult to consider this article to be true because it focuses on knowledge on a cavalry battle, but there might have actually been a basis for generating a heroic episode such as this tale.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">&quot;Azumakagami&quot; seems to have been compiled after the middle of the Kamakura period and it is difficult to consider this article to be true because it focuses on knowledge on a cavalry battle, but there might have in fact been a basis for generating a heroic episode such as this tale.</e>
+<cmt>though -&gt; &quot;although&quot; に変更しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="188">
+<j>なお、物語では伊豆大島に流された後、鬼の子孫をしたがえた等、荒唐無稽といっていい話を載せているが、流罪後の為朝については、わずかに『尊卑分脈』に伊豆で討たれたことが記されるのみである。</j>
+<e type="trans" ver="1">The tale includes an absurd episode such as after he was exiled to Izu Oshima Island, he had followers of ogre&apos;s offspring, but as to Tametomo after his exile, only the fact that he was killed at Izu is known by the article in &quot;Sonpi Bunmyaku.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The tale includes an absurd episode in which, after he was exiled to Izu Oshima Island, he had followers of the ogre&apos;s offspring; however, regarding Tametomo after his exile, only the fact that he was killed at Izu is known based on the article in &quot;Sonpi Bunmyaku.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The tale includes an absurd episode in which, after he was exiled to Izu Oshima Island, he had followers of the ogre&apos;s offspring; however, regarding Tametomo after his exile, only the fact that he was killed at Izu is known based on the article in &quot;Sonpi Bunmyaku.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="11">
+<tit>
+<j>忠実・頼長への評価</j>
+<e type="trans" ver="1">Evaluations of Tadazane and Yorinaga</e>
+<cmt></cmt>
+<e type="trans" ver="2">Evaluations of Tadazane and Yorinaga</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Evaluations of Tadazane and Yorinaga</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="189">
+<j>忠実と頼長への評価は、『保元物語』と『愚管抄』では対照的である。</j>
+<e type="trans" ver="1">Evaluations of Tadazane and Yorinaga are quite different between &quot;Hogen Monogatari&quot; and &quot;Gukansho.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The evaluations of Tadazane and Yorinaga different significantly between &quot;Hogen Monogatari&quot; and &quot;Gukansho.&quot;</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The evaluations of Tadazane and Yorinaga differ significantly between &quot;Hogen Monogatari&quot; and &quot;Gukansho.&quot;</e>
+<cmt>different→differ</cmt>
+</sen>
+<sen id="190">
+<j>物語では頼長が勉学にすぐれ、部下を平等に扱い、摂政として欠けたところはなかったことを賞賛している。</j>
+<e type="trans" ver="1">In the tale, Yorinaga is praised for his excellence in study and impartial way of treating his followers, and described as a perfect regent.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the tale, Yorinaga is praised for his excellence in study and impartial manner in the treatment of his followers, and he is described as a perfect regent.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the tale, Yorinaga is praised for his excellence in study and impartial manner in the treatment of his followers, and he is described as a perfect regent.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="191">
+<j>また、忠実についても、兄の忠通から頼長に氏の長者を禅譲させたことについても親子の愛情によるものであるから批判することはできないと庇う。</j>
+<e type="trans" ver="1">Also, Tadazane is defended by saying though he made his older brother Tadamichi hand over the position of clan&apos;s head to Yorinaga, it was based on the love between a father and a son and can&apos;t be criticized.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Additionally, Tadazane is defended with the statement that although he made his older brother Tadamichi surrender to Yorinaga his position as the head of the clan, it was based on the love between a father and a son and cannot be criticized.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, Tadazane is defended with the statement that although he made his older brother Tadamichi surrender to Yorinaga his position as the head of the clan, it was based on the love between a father and a son and cannot be criticized.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="192">
+<j>頼長に先立たれ、孫たちが流罪になった際の嘆きについても同情的な筆致をみせている。</j>
+<e type="trans" ver="1">And it describes sympathetically his lamentation at the death of Yorinaga and his grandchildren&apos;s exile.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Moreover, it sympathetically describes his lamentation at the death of Yorinaga and the exile of his grandchildren.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Moreover, it sympathetically describes his lamentation at the death of Yorinaga and the exile of his grandchildren.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="193">
+<j>一方の『愚管抄』はこの親子の悪行を口をすぼめて非難している。</j>
+<e type="trans" ver="1">On the other hand, &quot;Gukansho&quot; critically describes the wicked acts carried out by the father and the son.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the other hand, &quot;Gukansho&quot; critically describes the wicked acts carried out by the father and son.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">On the other hand, &quot;Gukansho&quot; critically describes the wicked acts carried out by the father and son.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="194">
+<j>もっとも、これは著者の慈円が忠通の息子であるから、当然の評価である。</j>
+<e type="trans" ver="1">However, it is not surprising evaluation because the author Jien was a son of Tadamichi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, it is not a surprising evaluation because the author, Jien, was a son of Tadamichi.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, it is not a surprising evaluation because the author, Jien, was a son of Tadamichi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="195">
+<j>『愚管抄』の評価をもって、忠実・頼長の像を決定してしまう必要はないだろう。</j>
+<e type="trans" ver="1">There would be no need to conclude the images of Tadazane and Yorinaga by a judgement of &quot;Gukansho.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">There would be no need to conclude the images of Tadazane and Yorinaga by a judgment of &quot;Gukansho.&quot;</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">There would be no need to conclude the images of Tadazane and Yorinaga by a judgment of &quot;Gukansho.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="196">
+<j>しかし、一方で頼長に関するさまざまな悪評を、物語が取り上げていないことも事実である。</j>
+<e type="trans" ver="1">However, it is true that the tale didn&apos;t take up various bad reputations about Yorinaga.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, it is true that the tale does not take up the various aspects of a bad reputation concerning Yorinaga.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, it is true that the tale does not take up the various aspects of a bad reputation concerning Yorinaga.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="197">
+<j>男色については当時とくに批判されるようなことではないが、『台記』などに多く記されている私的制裁などのことを、物語は一切記さない。</j>
+<e type="trans" ver="1">As to male homosexuality, it was not something unusual in those days, but the tale doesn&apos;t contain a description of his lynching at all, while &quot;Taiki&quot; does.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As to male homosexuality, it was not something unusual in those days, but the tale doesn&apos;t contain a description of his lynching at all, while &quot;Taiki&quot; does.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Male homosexuality was not unusual in those days, but the tale does not contain a description of his lynching at all, while a diary written by FUJIWARA no Yorinaga &quot;Taiki&quot; does.</e>
+<cmt>『台記』の説明を加えました。</cmt>
+</sen>
+<sen id="198">
+<j>これは忠実についてもおなじことである。</j>
+<e type="trans" ver="1">Tadazane is also treated in the same way.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tadazane is also treated in the same way.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tadazane is also treated in the same way.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="199">
+<j>『保元物語』がこの親子に同情的と言われる所以である。</j>
+<e type="trans" ver="1">This is why &quot;Hogen Monogatari&quot; is said to have a sympathetic viewpoint toward the father and the son.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is why &quot;Hogen Monogatari&quot; is said to have a sympathetic viewpoint toward the father and the son.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This is why &quot;Hogen Monogatari&quot; is said to have a sympathetic viewpoint toward the father and the son.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="12">
+<tit>
+<j>為義の幼子の処刑</j>
+<e type="trans" ver="1">Execution of Tameyoshi&apos;s young children</e>
+<cmt></cmt>
+<e type="trans" ver="2">The execution of Tameyoshi&apos;s young children</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The execution of Tameyoshi&apos;s young children</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="200">
+<j>物語後半で為義の幼いこどもたち４人が、兄義朝によって処刑される著名な件で、物語のなかでももっとも哀切な場面として享受されてきた。</j>
+<e type="trans" ver="1">It is a famous scene taking place in the latter part of the tale in which Tameyoshi&apos;s four young children are executed by his older brother Yoshitomo, and it has been taken as the most pathetic scene in the tale.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A famous scene that takes place in the latter part of the tale in which Tameyoshi&apos;s four young children are executed by his older brother Yoshitomo, and it has been taken as the most pathetic scene in the tale.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">A famous scene that takes place in the latter part of the tale in which Tameyoshi&apos;s four young children are executed by his older brother Yoshitomo, and it has been taken as the most pathetic scene in the tale.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="201">
+<j>しかし、このこどもたちの処刑については、ほかに拠るべき史料にとぼしい。</j>
+<e type="trans" ver="1">However, there is little historical material which proves the children&apos;s execution.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, there is little historical material to support the assertion that the children were executed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, there is little historical material to support the assertion that the children were executed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="202">
+<j>物語では天皇方からの命令によってやむを得ず切ったことになっているが、こどもたちを殺すようにとの勅が出た形跡もない。</j>
+<e type="trans" ver="1">In the tale he is reluctant to kill the children by order of Emperor, but there is no evidence to prove the Imperial order to kill them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the tale he is reluctant to kill the children as ordered by the Emperor, but there is no evidence to indicate there was an imperial order to kill them.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the tale he is reluctant to kill the children as ordered by the Emperor, but there is no evidence to indicate there was an imperial order to kill them.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="203">
+<j>近時、元木泰雄は、弟たちを処刑したのは義朝自身の意思で、対立状態の続く河内源氏を統制するためにおこなったものではないかとの推測をしている。</j>
+<e type="trans" ver="1">Yasuo MOTOKI recently made a conjecture that Yoshitomo would have killed younger brother and others to control Kawachi Genji being in conflict.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yasuo MOTOKI recently made a conjecture that Yoshitomo would have killed the younger brother and others in order to control Kawachi Genji, being in conflict.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Yasuo MOTOKI recently made a conjecture that Yoshitomo would have killed the younger brother and others in order to control Kawachi Genji (Minamoto clan), being in conflict.</e>
+<cmt>(Minamoto clan)補足</cmt>
+</sen>
+<sen id="204">
+<j>為義と義朝の関係が険悪であったことは『愚管抄』にみえており、これが事実だとすると物語における親子関係も虚構による面が多い。</j>
+<e type="trans" ver="1">&quot;Gukansho&quot; tells the tense relationship between Tameyoshi and Yoshitomo, and if it is true, the relationship between parent and children depicted in the tale would be mostly pure fiction.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Gukansho&quot; tells of the tense relationship between Tameyoshi and Yoshitomo, but if it is true then the relationship between parent and children depicted in the tale would be mostly pure fiction.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">&quot;Gukansho&quot; tells of the tense relationship between Tameyoshi and Yoshitomo, but if it is true then the relationship between parent and children depicted in the tale would be mostly pure fiction.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="205">
+<j>あるいは、このこどもたちも河内源氏の主導権争いに巻き込まれたものであるかもしれない。</j>
+<e type="trans" ver="1">Or it might be considered that these children also got involved in the struggle for the leadership among the Kawachi Genji.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Alternatively, it might be considered that these children also became involved in the struggle for leadership among the Kawachi Genji.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Alternatively, it might be considered that these children also became involved in the struggle for leadership among the Kawachi Genji.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="206">
+<j>一方、『愚管抄』よりも物語のほうが真実に近いのではないかとする飯田悠紀子のような理解もある。</j>
+<e type="trans" ver="1">While Yukiko IIDA considers that the tale is closer to the truth than &quot;Gukansho.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">While Yukiko IIDA considers that the tale is closer to the truth than &quot;Gukansho.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">While Yukiko IIDA considers that the tale is closer to the truth than &quot;Gukansho.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="207">
+<j>確かにこの親子が仲たがいしていたという史料も『愚管抄』以外にはない。</j>
+<e type="trans" ver="1">It is certain that there is no historical material except &quot;Gukansho&quot; which contains the article about the conflict between the father and the son.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is certain that except for &quot;Gukansho&quot; there is no historical material that contains an article regarding the conflict between the father and the son.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It is certain that except for &quot;Gukansho&quot; there is no historical material that contains an article regarding the conflict between the father and the son.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="208">
+<j>しかし、橋本義彦が指摘しているように、保元の乱の数年前からは為義は忠実・頼長に接近し、義朝は鳥羽院・後白河天皇側に接近していることは確かで、この親子の間が密接なものでなかったことは事実のようである。</j>
+<e type="trans" ver="1">However as Yoshihiko HASHIMOTO pointed out, it is true that Tameyoshi approached Tadazane and Yorinaga, and Yoshitomo got close to cloistered Emperor Toba and Emperor Go-Shirakawa a few years before Hogen Disturbance, so it is an indisputable fact that the relationship between them were not close.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, as Yoshihiko HASHIMOTO pointed out, it is true that Tameyoshi approached Tadazane and Yorinaga, and Yoshitomo got close to the cloistered Emperor Toba and Emperor Go-Shirakawa a few years before the Hogen Disturbance, so it is an indisputable fact that they did not have a close relationship.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">However, as Yoshihiko HASHIMOTO pointed out, it is true that Tameyoshi approached Tadazane and Yorinaga, and Yoshitomo got close to Toba-in and Emperor Goshirakawa a few years before the Hogen Disturbance, so it is an indisputable fact that they did not have a close relationship.</e>
+<cmt>the cloistered Emperor Toba→Toba-in 他の○○院に合わせるGo-Shirakawa→Goshirakawa</cmt>
+</sen>
+</par>
+</sec>
+<sec id="13">
+<tit>
+<j>為義の処刑地</j>
+<e type="trans" ver="1">A place where Tameyoshi was executed</e>
+<cmt></cmt>
+<e type="trans" ver="2">The place of Tameyoshi&apos;s execution</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The place of Tameyoshi&apos;s execution</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="209">
+<j>『兵範記』では平安京北の船岡山で息子5人とともに処刑されたとある。</j>
+<e type="trans" ver="1">&quot;Heihan-ki&quot; says that he was executed with his five sons at Mt. Funaoka-yama in the north of Heiankyo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Heihan-ki&quot; states that he was executed along with his five sons at Mt. Funaoka-yama in the north of Heiankyo.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">&quot;Heihan-ki&quot; states that he was executed along with his five sons at Mt. Funaoka-yama in the north of Heiankyo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="210">
+<j>一方、物語では七条朱雀でひとり切られたことになっている。</j>
+<e type="trans" ver="1">While the tale says that he was killed alone at Shichijo-suzaku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the tale asserts that he was killed alone at Shichijo-suzaku.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, the tale asserts that he was killed alone at Shichijo-suzaku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="211">
+<j>また、『兵範記』によれば、処刑は息子である義朝自身が実行したと考えられるが、物語では鎌田正清と波多野義通によっておこなわれている。</j>
+<e type="trans" ver="1">According to &quot;Heihan-ki,&quot; he was executed by his son Yoshitomo, but the tale says Masakiyo KAMATA and Yoshimichi HATANO killed him.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to &quot;Heihan-ki,&quot; he was executed by his son Yoshitomo, but the tale says Masakiyo KAMATA and Yoshimichi HATANO killed him.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">According to &quot;Heihan-ki,&quot; he was executed by his son Yoshitomo, but the tale says Masakiyo KAMATA and Yoshimichi HATANO killed him.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="212">
+<j>この為義の処刑をめぐっては異説が多く、『愚管抄』は義朝が実行、場所は四塚（平安京からわずかに南）とし、『尊卑分脈』は実行者・場所ともに物語とおなじである。</j>
+<e type="trans" ver="1">There are many different views about Tameyoshi&apos;s execution, and &quot;Gukansho&quot; says that Yoshitomo did it at Yotsuzuka (a little south of Heiankyo), while &quot;Sonpi Bunmyaku&quot; has the same executor and place as the tale.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are many different views regarding Tameyoshi&apos;s execution, and &quot;Gukansho&quot; says that Yoshitomo did it at Yotsuzuka (not far south of Heiankyo), while &quot;Sonpi Bunmyaku&quot; has the same executor and place as described in the tale.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There are many different views regarding Tameyoshi&apos;s execution, and &quot;Gukansho&quot; says that Yoshitomo did it at Yotsuzuka (not far south of Heiankyo), while &quot;Sonpi Bunmyaku&quot; has the same executor and place as described in the tale.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="213">
+<j>しかし、『兵範記』にはわざわざ為義の首実検が行われたことまで記録されており、これらのことは史料の年代からしても事実と思われる。</j>
+<e type="trans" ver="1">However, &quot;Heihan-ki&quot; contains a description of the inspection of Tameyoshi&apos;s head cut off, and it seems to be true in light of the year when the work was completed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, &quot;Heihan-ki&quot; contains a description of the inspection of Tameyoshi&apos;s severed head, which would be hard to verify given the year in which the work was completed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, &quot;Heihan-ki&quot; contains a description of the inspection of Tameyoshi&apos;s severed head, which would be true given the year in which the work was completed.</e>
+<cmt>hard to verify→true</cmt>
+</sen>
+<sen id="214">
+<j>すくなくとも、室町時代の成立である『尊卑分脈』は信用し難い。</j>
+<e type="trans" ver="1">At least &quot;Sonpi Bunmyaku,&quot; which was completed in Muromachi period, is not reliable.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In any case, &quot;Sonpi Bunmyaku,&quot; which was completed during the Muromachi period, is not reliable.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In any case, &quot;Sonpi Bunmyaku,&quot; which was completed during the Muromachi period, is not reliable.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="215">
+<j>崇徳・頼長への献策</j>
+<e type="trans" ver="1">Advice for Sutoku and Yorinaga</e>
+<cmt></cmt>
+<e type="trans" ver="2">Advice for Sutoku and Yorinaga</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Advice for Sutoku and Yorinaga</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="216">
+<j>『愚管抄』によれば、味方の人数はすくなく、敵は多勢であるから、御所に夜襲を仕掛けるべきことを、為義が崇徳・頼長に進言している。</j>
+<e type="trans" ver="1">According to &quot;Gukansho,&quot; Tameyoshi advised Sutoku and Yorinaga to make a night attack on the Imperial residence because they were heavily outnumbered by their enemy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to &quot;Gukansho,&quot; Tameyoshi advised Sutoku and Yorinaga to make a night attack on the Imperial Residence because they were heavily outnumbered by the enemy.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">According to &quot;Gukansho,&quot; Tameyoshi advised Sutoku and Yorinaga to make a night attack on the Imperial Residence because they were heavily outnumbered by the enemy.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="217">
+<j>これが物語では息子の為朝の献策とされている。</j>
+<e type="trans" ver="1">While in the tale, it was an advice given by his son Tametomo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, in the tale it was advice given by his son, Tametomo.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, in the tale it was advice given by his son, Tametomo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="218">
+<j>ただし、この献策は史実・物語のいずれでも頼長にとって却下されており、実行にはいたらなかった。</j>
+<e type="trans" ver="1">However, this advice was rejected by Yorinaga both in the historical material and the tale, and was not carried out.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, this advice was rejected by Yorinaga both in the historical material and the tale, so it was not implemented.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, this advice was rejected by Yorinaga both in the historical material and the tale, so it was not implemented.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="219">
+<j>一方、義朝の夜襲の献策を信西は入れて、崇徳らの本拠地であった白河殿を攻めさせている。</j>
+<e type="trans" ver="1">While Shinzei accepted Yoshitomo&apos;s advice to make a night attack, and made his army attack the Shirakawaden, which was a base of Sutoku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meanwhile, Shinzei accepted Yoshitomo&apos;s advice to make a night attack, and he had his army attack the Shirakawaden, which was the base of Sutoku.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Meanwhile, Shinzei accepted Yoshitomo&apos;s advice to make a night attack, and he had his army attack the Shirakawadono, which was the base of Sutoku.</e>
+<cmt>Shirakawaden→Shirakawadono</cmt>
+</sen>
+</par>
+</sec>
+<sec id="14">
+<tit>
+<j>鎌田正清の扱い</j>
+<e type="trans" ver="1">Treatment of Masakiyo KAMATA</e>
+<cmt></cmt>
+<e type="trans" ver="2">The treatment of Masakiyo KAMATA</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The treatment of Masakiyo KAMATA</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="220">
+<j>『愚管抄』によれば、鎌田正清は「義朝の一の郎党」とあり、義朝の乳母子であった。</j>
+<e type="trans" ver="1">According to &quot;Gukansho,&quot; Masakiyo KAMATA was &apos;Yoshitomo&apos;s number one vassal&apos; and a son of Yoshitomo&apos;s caretaker.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to &quot;Gukansho,&quot; Masakiyo KAMATA was &apos;Yoshitomo&apos;s number-one vassal&apos; and a son of Yoshitomo&apos;s caretaker.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">According to &quot;Gukansho,&quot; Masakiyo KAMATA was &apos;Yoshitomo&apos;s number-one vassal&apos; and a son of Yoshitomo&apos;s caretaker.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="221">
+<j>彼が白河殿攻撃の司令官として、何度も攻撃をおこなったとある。</j>
+<e type="trans" ver="1">It says that he made attacks on the Shirakawaden many times as a commander.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It says that he made attacks on the Shirakawaden many times as a commander.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It says that he made attacks on the Shirakawadono many times as a commander.</e>
+<cmt>Shirakawaden→Shirakawadono</cmt>
+</sen>
+<sen id="222">
+<j>しかし、物語（とくに半井本）では、為朝の弓に恐れをなして、逃亡、その後も恐れおののいて前線に出ることさえできなかった人物として描かれている。</j>
+<e type="trans" ver="1">However, in the tale (especially Nakaraibon), Tametomo was described as a man who was afraid of Tametomo&apos;s bow and fled, and even couldn&apos;t go up to the front line after that.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, in the tale (particularly Nakaraibon), Tametomo was described as a man who was afraid of Tametomo&apos;s bow and fled, and that subsequently he couldn&apos;t even go to the front line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, in the tale (particularly Nakaraibon), he was described as a man who was afraid of Tametomo&apos;s bow and fled, and that subsequently he couldn&apos;t even go to the front line.</e>
+<cmt>Tametomo→he</cmt>
+</sen>
+<sen id="223">
+<j>また、為義を処刑するときにも、半井本では体が震えて首を打つことさえできず、波多野義通に譲っている。</j>
+<e type="trans" ver="1">Also, in Nakaraibon, at the execution of Tameyoshi, he trembled for fear and couldn&apos;t cut off the head, giving the work to Yoshimichi HATANO.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, in Nakaraibon, at the execution of Tameyoshi he trembled in fear and couldn&apos;t cut off the head, but instead gave the task to Yoshimichi HATANO.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also, in Nakaraibon, at the execution of Tameyoshi he trembled in fear and couldn&apos;t cut off the head, but instead gave the task to Yoshimichi HATANO.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="224">
+<j>全体に、物語は鎌田に対するあつかいが、史実と比較すると悪くなっている。</j>
+<e type="trans" ver="1">As a whole, the tale deals with KAMATA badly compared with the historical fact.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a whole, the tale deals with KAMATA badly compared with the historical fact.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As a whole, the tale deals with KAMATA badly compared with the historical fact.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="15">
+<tit>
+<j>崇徳院の流罪後</j>
+<e type="trans" ver="1">After the exile of Sutoku-in</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the exile of Sutoku-in</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">After the exile of Sutoku-in</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="225">
+<j>乱後、崇徳院は讃岐に流され、自身の罪業を償うために五部大乗経をしたため、朝廷に石清水八幡宮か長谷寺へと納経の許可を求める。</j>
+<e type="trans" ver="1">After the disturbance, Sutoku-in was exiled to Sanuki, and copied Five Volumes of Mahayana Sutras to atone for his sins, asking the Imperial court to dedicate the copy to Iwashimizu-Hachimangu Shrine or Hasedera Temple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Subsequent to the disturbance, Sutoku-in was exiled to Sanuki, and copied the Five Volumes of Mahayana Sutras in order to atone for his sins, asking the Imperial Court to dedicate a copy to Iwashimizu-Hachimangu Shrine or Hasedera Temple.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Subsequent to the disturbance, Sutoku-in was exiled to Sanuki, and copied the Five Volumes of Mahayana Sutras in order to atone for his sins, asking the Imperial Court to dedicate a copy to Iwashimizu-Hachimangu Shrine or Hasedera Temple.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="226">
+<j>しかし、後白河天皇はこれを拒否、恨みに思った崇徳はみずからを大悪魔と称し、怨霊となることを誓う。</j>
+<e type="trans" ver="1">However, Emperor Go-Shirakawa refused it, and Sutoku blamed him and called himself Great Devil, swearing to be a vengeful ghost.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, Emperor Go-Shirakawa refused it, and Sutoku blamed him and called himself the &quot;Great Devil,&quot; swearing to be a vengeful ghost.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">However, Emperor Goshirakawa refused it, and Sutoku blamed him and called himself the &quot;Great Devil,&quot; swearing to be a vengeful ghost.</e>
+<cmt>Go-Shirakawa→Goshirakawa</cmt>
+</sen>
+<sen id="227">
+<j>この崇徳院の怨霊にまつわる話は『平家物語』『太平記』にもたびたび引き合いに出され、『百錬抄』など、史書にも見えているため、当時実際に信じられていたことについては疑いはない。</j>
+<e type="trans" ver="1">This episode about a vengeful ghost of Sutoku-in often appears in &quot;Heike Monogatari,&quot; &quot;Taiheiki,&quot; and even in history books like &quot;Hyakurensho,&quot; therefore there is no doubt that it was actually believed at that time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This episode about the vengeful ghost of Sutoku-in often appears in &quot;Heike Monogatari,&quot; &quot;Taiheiki,&quot; and even in history books like &quot;Hyakurensho,&quot; so there is no doubt that it was actually believed at that time.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This episode about the vengeful ghost of Sutoku-in often appears in &quot;Heike Monogatari,&quot; &quot;Taiheiki (the chronicle describing the civil war between the Northern and Southern Dynasties in the late fourteen century),&quot; and even in history books like &quot;Hyakurensho,&quot; so there is no doubt that it was in fact believed at that time.</e>
+<cmt>『太平記』の説明を加えました。&quot;actually&quot; -&gt; &quot;in fact&quot; に変更しました。</cmt>
+</sen>
+<sen id="228">
+<j>しかし、山田雄司の近時の研究によれば、院の讃岐での晩年は穏やかなものであったという。</j>
+<e type="trans" ver="1">However, according to Yuji YAMADA&apos;s recent study, In&apos;s later years at Sanuki was tranquil.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, according to Yuji YAMADA&apos;s recent study, In&apos;s later years at Sanuki were tranquil.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, according to Yuji YAMADA&apos;s recent study, In&apos;s later years at Sanuki were tranquil.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="229">
+<j>また、この崇徳院の怨霊を鎮めるために、西行が讃岐へ渡り、歌を捧げる逸話が半井本などのいくつかの諸本、また延慶本『平家物語』などに見えている。</j>
+<e type="trans" ver="1">Also, an anecdote about Saigyo&apos;s going to Sanuki and dedicating his poem in order to calm down the vengeful ghost of Sutoku-in appears in several texts like Nakaraibon and also Enkeibon of &quot;Heike Monogatari.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, an anecdote about Saigyo&apos;s going to Sanuki and dedicating his poem in order to calm the vengeful ghost of Sutoku-in appears in several texts, such as in Nakaraibon and also Enkeibon of &quot;Heike Monogatari.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also, an anecdote about Saigyo&apos;s going to Sanuki and dedicating his poem in order to calm the vengeful ghost of Sutoku-in appears in several texts, such as in Nakaraibon and also Enkeibon of &quot;Heike Monogatari.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="230">
+<j>これは『山家集』『西行物語』など、近い時代の歌集・説話集をはじめ、上田秋成の「白峯」（『雨月物語』）にまで伝えられる著名な話である。</j>
+<e type="trans" ver="1">It is a famous story which is told in collections of poems and stories belonging to the near time of the tale like &quot;Sanka Shu&quot; and &quot;Saigyo monogatari (A Story of Saigyo),&quot; and even in &apos;Shiramine&apos; by Akinari UEDA (&quot;Tales of Moonlight and Rain&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a famous story that is told in collections of poems and stories from around the time of the tale, including &quot;Sanka Shu,&quot; &quot;Saigyo monogatari (A Story of Saigyo)&quot; and even &apos;Shiramine,&apos; by Akinari UEDA (&quot;Tales of Moonlight and Rain&quot;).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is a famous story that is told in collections of poems and stories from around the time of the tale, including &quot;Sanka Shu&quot; (Saigyo&apos;s representative collection of poems called &quot;Poems of a Mountain Home&quot; in English), &quot;Saigyo monogatari&quot; (A Story of Saigyo) and even &apos;Shiramine&apos; (&quot;Tales of Moonlight and Rain&quot;) by Akinari UEDA.</e>
+<cmt>『山家集』の説明を加えました。</cmt>
+</sen>
+<sen id="231">
+<j>しかし、西行が讃岐へくだったのは仁安 (日本)3年（1168年）のことで、崇徳院の怨霊が巷間で騒がれるのはもっと後になってからである。</j>
+<e type="trans" ver="1">However, it was in 1168 when Saigyo went down to Sanuki, and it was later that the vengeful ghost of Sutoku-in was received much attention widely.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, it was in 1168 that Saigyo went down to Sanuki, and it was later that the vengeful ghost of Sutoku-in began to receive great attention.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">However, it was in 1168 that Saigyo went down to Sanuki, and it was later that the vengeful ghost of Sutoku-in began to receive great attention.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="232">
+<j>物語では怨霊の力で清盛の性格を変化させ、のちの平家の横暴を引き起こしたとするが、たとえば鹿ケ谷の陰謀が治承元年（1177年）のことであるから、時間の辻褄があっていないのである。</j>
+<e type="trans" ver="1">The tale explains that Kiyomori&apos;s personality was changed by the power of the vengeful ghost, which led the tyranny of Heike, but it is incoherent because the conspiracy of Shishiga-dani occurred in 1177.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The tale explains that Kiyomori&apos;s personality was changed by the power of the vengeful ghost, which led the tyranny of Heike, but it is inconsistent because the conspiracy of Shishiga-dani occurred in 1177.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The tale explains that Kiyomori&apos;s personality was changed by the power of the vengeful ghost, which led the tyranny of the Taira family, but it is inconsistent because the conspiracy of Shishiga-dani occurred in 1177.</e>
+<cmt>Heike</cmt>
+</sen>
+<sen id="233">
+<j>この例などは史実を曲げてでも、あえて崇徳院の怨霊を西行が鎮魂したという構成を物語が求めた例として注目される。</j>
+<e type="trans" ver="1">This example should be noted because the tale distorted the historical fact and required the structure of Saigyo&apos;s calming down the vengeful ghost of Sutoku-in.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This example should be noted because the tale distorted the historical fact and required the structural element in which Saigyo calmed the vengeful ghost of Sutoku-in.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This example should be noted because the tale distorted the historical fact and required the structural element in which Saigyo calmed the vengeful ghost of Sutoku-in.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="16">
+<tit>
+<j>諸本</j>
+<e type="trans" ver="1">Variant texts</e>
+<cmt></cmt>
+<e type="trans" ver="2">Variant texts</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Variant texts</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="234">
+<j>『保元物語』には多くの本文系統があり、3巻本、2巻本のものが現存している。</j>
+<e type="trans" ver="1">&quot;Hogen Monogatari&quot; has may different lines of text, and 3-volume book and 2-volume book exist.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Hogen Monogatari&quot; has many different lines of text, and the book exists in three-volume and two-volume versions.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">&quot;Hogen Monogatari&quot; has many different lines of text, and the book exists in three-volume and two-volume versions.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="235">
+<j>分類については種々の論があるが、現在では9類に分ける永積安明の説が定説となっている。</j>
+<e type="trans" ver="1">Though there are various views as to the classification of the texts, Yasuaki NAGAZUMI&apos;s theory that the variant texts are classified into 9 groups is widely accepted today.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though there are various views regarding the classification of the texts, Yasuaki NAGAZUMI&apos;s theory that the variant texts are classified into nine groups is widely accepted today.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Although there are various views regarding the classification of the texts, Yasuaki NAGAZUMI&apos;s theory that the variant texts are classified into nine groups is widely accepted today.</e>
+<cmt>Though -&gt; &quot;Although&quot; に変更しました。</cmt>
+</sen>
+<sen id="236">
+<j>以下に、各系統の代表的な本文を掲げる。</j>
+<e type="trans" ver="1">The following is a representative text of each line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following is a representative text of each line:</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The following is a representative text of each line:</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="17">
+<tit>
+<j>第1類</j>
+<e type="trans" ver="1">Class 1</e>
+<cmt></cmt>
+<e type="trans" ver="2">Class 1</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Class 1</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="237">
+<j>文保・半井本系統</j>
+<e type="trans" ver="1">Bunpo, Nakaraibon line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bunpo, the Nakaraibon line</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Bunpo, the Nakaraibon line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="238">
+<j>文保本は中巻のみの端本であるが、文保２年（1318年）年書写の奥書を持つ、現存最古の写本である。</j>
+<e type="trans" ver="1">Though Bunpobon is an incomplete set consisting of only the second volume, it has a colophon dating it to 1318 and is the oldest manuscript in existence.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though Bunpobon is an incomplete set consisting of only the second volume, it has a colophon that dates it to 1318 and is the oldest manuscript in existence.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although Bunpobon is an incomplete set consisting of only the second volume, it has a colophon that dates it to 1318 and is the oldest manuscript in existence.</e>
+<cmt>Though -&gt; &quot;Although&quot; に変更しました。</cmt>
+</sen>
+<sen id="239">
+<j>半井本は3巻本。</j>
+<e type="trans" ver="1">Nakaraibon consists of 3 volumes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nakaraibon consists of three volumes.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Nakaraibon consists of three volumes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="240">
+<j>この系統は内閣文庫蔵本をはじめ、いずれも室町時代後期以降の写本であるが、文保本と内容がきわめて近似していることから、もっとも古態を残していると考えられている。</j>
+<e type="trans" ver="1">This lineage of text was all copied after Muromachi period including a text in the Cabinet Library, and its contents is quite close to that of Bunpobon, so it is considered that it preserves the original form most.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This lineage of the text was copied after the Muromachi period, including a text housed in the Cabinet Library; moreover, its overall content is quite close to that of Bunpobon, so it is considered to most faithfully preserve the original form.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">This lineage of the text was copied after the Muromachi period, including a text housed in the Cabinet Library; moreover, its overall content is quite close to that of Bunpobon, so it is considered to most faithfully preserve the original form.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="241">
+<j>内閣文庫蔵本は新日本古典文学大系本の底本である。</j>
+<e type="trans" ver="1">A text in the Cabinet Library is a source book for New Complete Collection of Japanese Classic Literature.</e>
+<cmt>新日本文学大系の定訳不明</cmt>
+<e type="trans" ver="2">A text in the Cabinet Library is a source book for &quot;New Complete Collection of Japanese Classic Literature.&quot;</e>
+<cmt>article</cmt>
+<e type="check" ver="1">A text in the Cabinet Library is a source book for &quot;New Complete Collection of Japanese Classic Literature.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="242">
+<j>また、現代語訳も勉誠出版から出版されている。</j>
+<e type="trans" ver="1">Also, a modern translation was published by Bensei publishing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, a modern translation has been released by Bensei Publishing.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Also, a modern translation has been released by Bensei Publishing.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="243">
+<j>また文保本、水戸彰考館所蔵本については、汲古書院から影印本が出版されている。</j>
+<e type="trans" ver="1">As to Bunpobon owned by Mito Shoko-kan, a facsimile edition was published by Oiko-shoin publishing.</e>
+<cmt>影印本→printing of photograph→a facsimile edition[新和英大辞典（研究社）]</cmt>
+<e type="trans" ver="2">As to Bunpobon owned by Mito Shoko-kan, a facsimile edition has been released by Oiko-shoin Publishing.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As to Bunpobon owned by Mito Shoko-kan, a facsimile edition has been released by Oiko-shoin Publishing.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="18">
+<tit>
+<j>第2類</j>
+<e type="trans" ver="1">Class 2</e>
+<cmt></cmt>
+<e type="trans" ver="2">Class 2</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Class 2</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="244">
+<j>鎌倉本系統</j>
+<e type="trans" ver="1">Kamakurabon line</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kamakurabon line</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kamakurabon line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="245">
+<j>彰考館所蔵の鎌倉本がある。</j>
+<e type="trans" ver="1">There is a Kamakurabon owned by Shoko-kan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a Kamakurabon owned by Shoko-kan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There is a Kamakurabon owned by Shoko-kan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="246">
+<j>半井本とともに古態本文と目される。</j>
+<e type="trans" ver="1">It is considered the oldest form of the text together with Nakaraibon.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is considered, along with Nakaraibon, to be the oldest form of the text.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">It is considered, along with Nakaraibon, to be the oldest form of the text.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="247">
+<j>作中の年次などが史実に近い点などに特徴がある。</j>
+<e type="trans" ver="1">It is a characteristic of this line that the years appearing in the work are approximate to the historical facts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a characteristic of this line that the years appearing in the work are approximate to the historical facts.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is a characteristic of this line that the years appearing in the work are approximate to the historical facts.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="248">
+<j>ただし、中巻のみは第４類の属する本文で補っている。</j>
+<e type="trans" ver="1">However, it makes up for the second volume by the text belonging to the Class 4.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, it makes up for the second volume based on the text belonging to class 4.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, it makes up for the second volume based on the text belonging to class 4.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="249">
+<j>三弥井書店から翻刻が出版されている。</j>
+<e type="trans" ver="1">It was reprinted by Miyai-shoten publishing.</e>
+<cmt>翻刻→printing of typograph→reprint[新和英大辞典（研究社）]</cmt>
+<e type="trans" ver="2">It has been reprinted by Miyai-shoten Publishing.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">It has been reprinted by Miyai-shoten Publishing.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="250">
+<j>この翻刻は、欠損の中巻については文保本で補っている。</j>
+<e type="trans" ver="1">This reprinting makes up for the missing second volume by Bunpobon.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This reprinting makes up for the missing second volume by Bunpobon.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This reprinting makes up for the missing second volume by Bunpobon.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="19">
+<tit>
+<j>第3類</j>
+<e type="trans" ver="1">Class 3</e>
+<cmt></cmt>
+<e type="trans" ver="2">Class 3</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Class 3</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="251">
+<j>京図本系統</j>
+<e type="trans" ver="1">Kyozuhon line</e>
+<cmt>京図本の定訳不明</cmt>
+<e type="trans" ver="2">The Kyozuhon line</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kyozuhon line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="252">
+<j>京都大学図書館蔵本が代表的な本文。</j>
+<e type="trans" ver="1">A text owned by Kyoto University Library is representative.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A text owned by the Kyoto University Library is representative.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">A text owned by the Kyoto University Library is representative.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="253">
+<j>この本文は京都大学図書館のホームページで写真を閲覧することができる。</j>
+<e type="trans" ver="1">This text can be read on the Web site of Kyoto University Library.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This text can be read on the Kyoto University Library website.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">This text can be read on the Kyoto University Library website.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="254">
+<j>話の順序・文体は第1類とも第4類ともかなり異なっている。</j>
+<e type="trans" ver="1">An order and a style of the tale are quite different from Class 1 and Class 4.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The order and style of the tale differs significantly between class 1 and class 4.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The order and style of the tale differs significantly between class 1 and class 4.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="255">
+<j>和泉書院から翻刻が出版されている。</j>
+<e type="trans" ver="1">Reprinting was published by Izumi-shoin publishing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Izumi-shoin Publishing has released it as a reprinted version.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Izumi-shoin Publishing has released it as a reprinted version.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="20">
+<tit>
+<j>第4類</j>
+<e type="trans" ver="1">Class 4</e>
+<cmt></cmt>
+<e type="trans" ver="2">Class 4</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Class 4</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="256">
+<j>金刀比羅本系統</j>
+<e type="trans" ver="1">Kotohirabon line</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kotohirabon line</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kotohirabon line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="257">
+<j>金比羅宮所蔵の金刀比羅本に代表される。</j>
+<e type="trans" ver="1">It is represented by the Kotohirabon owned by Kompira-gu Shrine.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is represented by the Kotohirabon owned by Kompira-gu Shrine.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">It is represented by the Kotohirabon owned by Konpira-gu Shrine.</e>
+<cmt>Kompira-gu→Konpira-gu</cmt>
+</sen>
+<sen id="258">
+<j>基本的に全編にわたって仮名を附されており、文藝性が豊かであると説かれている。</j>
+<e type="trans" ver="1">Kana is basically put beside whole text and it is said that the literary quality is rich.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kana is basically placed beside the entire text, and it is said that the literary quality is rich.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Kana is basically placed beside the entire text, and it is said that the literary quality is rich.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="259">
+<j>高橋貞一によってかつては最古の系統とする理解もあったが、近年では従う人はあまりいない。</j>
+<e type="trans" ver="1">It was considered the oldest line by Sadaichi TAKAHASHI, but little follows his opinion in recent years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was considered by Sadaichi TAKAHASHI to be the oldest line, but in recent years there has been little follow-up to his opinion.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It was considered by Sadaichi TAKAHASHI to be the oldest line, but in recent years there has been little follow-up to his opinion.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="260">
+<j>金刀比羅本自体についても、鎌倉時代成立（小林智昭）とも室町時代までくだる（永積氏）とも言われており、成立年代は定まっていない。</j>
+<e type="trans" ver="1">Kotohirabon itself is said to have been compiled in Kamakura period (Chisho KOBAYASHI) or in Muromachi period (NAGAZUMI), so the compiled year remains unknown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kotohirabon itself is said to have been compiled during the Kamakura period (Chisho KOBAYASHI) or the Muromachi period (NAGAZUMI), so the year of compilation remains unknown.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kotohirabon itself is said to have been compiled during the Kamakura period (Chisho KOBAYASHI) or the Muromachi period (NAGAZUMI), so the year of compilation remains unknown.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="261">
+<j>日本古典文学大系の底本である。</j>
+<e type="trans" ver="1">It is a source book for Complete Works of Japanese Classic Literature.</e>
+<cmt>日本古典文学大系の定訳不明</cmt>
+<e type="trans" ver="2">It is a source book for &quot;Complete Works of Japanese Classic Literature.&quot;</e>
+<cmt>article</cmt>
+<e type="check" ver="1">It is a source book for &quot;Complete Works of Japanese Classic Literature.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="262">
+<j>また、陽明文庫が所蔵する宝徳本（陽明乙本）もこの系統に属しており、新編日本古典文学全集本の底本となっている。</j>
+<e type="trans" ver="1">Hotokubon (Yomei second printing) owned by Yomei Library belongs to this line, and it was a source book for New Complete Works of Japanese Classic Literature.</e>
+<cmt>新編日本古典文学全集の定訳不明</cmt>
+<e type="trans" ver="2">Hotokubon (Yomei second printing), owned by the Yomei Library, belongs to this line, and it was a source book for &quot;New Complete Works of Japanese Classic Literature.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Hotokubon (Yomei second printing), owned by the Yomei Library, belongs to this line, and it was a source book for &quot;New Complete Works of Japanese Classic Literature.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="263">
+<j>また思文閣から影印も出版されている。</j>
+<e type="trans" ver="1">Also, a facsimile edition was published by Shibunkaku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, a facsimile edition was published by Shibunkaku.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also, a facsimile edition was published by Shibunkaku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="264">
+<j>『保元物語』は『平家物語』と違い、読み本系・語り本系という分類は明確にはできないものであるが、この宝徳本は犬井善壽によって、語り本系統のものではないかとされている。</j>
+<e type="trans" ver="1">Unlike &quot;Heike Monogatari,&quot; it is hard to clearly classify the variant texts of &quot;Hogen Monogatari&quot; into Yomihon (books for reading) line and Katarihon (books for telling) line, but it is thought that the Hotokubon belongs to Katarihon line by Yoshitoshi INUI.</e>
+<cmt>語り本の定訳不明一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Unlike &quot;Heike Monogatari,&quot; it is hard to clearly classify the variant texts of &quot;Hogen Monogatari&quot; into the Yomihon (books for reading) and Katarihon (books for telling) lines, but Yoshitoshi INUI asserts that the Hotokubon belongs to the Katarihon line.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Unlike &quot;Heike Monogatari,&quot; it is hard to clearly classify the variant texts of &quot;Hogen Monogatari&quot; into the Yomihon (books for reading) and Katarihon (books for telling) lines, but Yoshitoshi INUI asserts that the Hotokubon belongs to the Katarihon line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="265">
+<j>また内容の1部が第5類と重なることもあって、第4類のなかでも特殊な写本である。</j>
+<e type="trans" ver="1">Also, a part of the contents is similar to Class 5, and it is a unique manuscript among the Class 4.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Additionally, a portion of the content is similar to class 5, and it is a unique manuscript in the context of class 4.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, a portion of the content is similar to class 5, and it is a unique manuscript in the context of class 4.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="21">
+<tit>
+<j>第5類</j>
+<e type="trans" ver="1">Class 5</e>
+<cmt></cmt>
+<e type="trans" ver="2">Class 5</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Class 5</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="266">
+<j>京師本系統</j>
+<e type="trans" ver="1">京師本 line</e>
+<cmt>京師本の定訳不明</cmt>
+<e type="trans" ver="2">The 京師本 line</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The 京師本 line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="267">
+<j>第5類は第4類本文を増補した本文と目される。</j>
+<e type="trans" ver="1">Class 5 is regarded as a text supplemented by Class 4.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Class 5 is regarded as a text supplemented by class 4.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Class 5 is regarded as a text supplemented by class 4.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="268">
+<j>具体的には、第4類が省略している源為朝が伊豆大島に流された後の挿話を附け加えている。</j>
+<e type="trans" ver="1">For example, an episode, which Class 4 omitted, after MINAMOTO no Tametomo&apos;s exile to Izu Oshima Island was added.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For example, an episode after MINAMOTO no Tametomo&apos;s exile to Izu Oshima Island has been added, though it was omitted from class 4.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">For example, an episode after MINAMOTO no Tametomo&apos;s exile to Izu Oshima Island has been added, although it was omitted from class 4.</e>
+<cmt>though -&gt; &quot;although&quot; に変更しました。</cmt>
+</sen>
+<sen id="269">
+<j>このため、本文の1部に重複が起こっている。</j>
+<e type="trans" ver="1">Because of this, a part of the text is repeated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Consequently, a portion of the text is repeated.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Consequently, a portion of the text is repeated.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="270">
+<j>テキスト化・翻刻はされていないが、汲古書院から影印本が出版されている。</j>
+<e type="trans" ver="1">It is neither texted nor reprinted, but a facsimile edition was published by Oiko-shoin publishing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is neither texted nor reprinted, but a facsimile edition was published by Oiko-shoin publishing.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">It is neither texted nor reprinted, but a facsimile edition was published by Oiko-shoin publishing.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="22">
+<tit>
+<j>第6類</j>
+<e type="trans" ver="1">Class 6</e>
+<cmt></cmt>
+<e type="trans" ver="2">Class 6</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Class 6</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="271">
+<j>正木本系統</j>
+<e type="trans" ver="1">Masakibon line</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Masakibon line</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Masakibon line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="272">
+<j>基本的には第5類と等しい。</j>
+<e type="trans" ver="1">It is basically equivalent to Class 5.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is basically equivalent to class 5.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">It is basically equivalent to class 5.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="273">
+<j>ただし、為朝流罪以降の挿話の附け足しの跡が明確で、京師本のように重複が起こっていない。</j>
+<e type="trans" ver="1">However, it is obvious for the episode after Tametomo&apos;s exile to be added, and it doesn&apos;t have overlap text like 京師本.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, it is obvious that the episode after Tametomo&apos;s exile has been added, but it doesn&apos;t have overlapping text like 京師本.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, it is obvious that the episode after Tametomo&apos;s exile has been added, but it doesn&apos;t have overlapping text like 京師本.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="274">
+<j>基本的には第４類の本文である。</j>
+<e type="trans" ver="1">The text is basically same as Class 4.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The text is basically the same as class 4.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The text is basically the same as class 4.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="275">
+<j>所蔵者の正木信一私家版によって影印が出版されている。</j>
+<e type="trans" ver="1">A facsimile edition was privately published by the owner of the text, Shinichi MASAKI.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A facsimile edition has been privately published by Shinichi MASAKI, the owner of the text.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">A facsimile edition has been privately published by Shinichi MASAKI, the owner of the text.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="23">
+<tit>
+<j>第7類</j>
+<e type="trans" ver="1">Class 7</e>
+<cmt></cmt>
+<e type="trans" ver="2">Class 7</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Class 7</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="276">
+<j>杉原本</j>
+<e type="trans" ver="1">Sugiharabon</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sugiharabon</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sugiharabon</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="277">
+<j>冒頭に第8類と共通する序文があり、目次を有している。</j>
+<e type="trans" ver="1">It has a prologue common to the Class 8 in the opening, and a table of contents.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It has a prologue common to class 8 in the opening, as well as a table of contents.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">It has a prologue common to class 8 in the opening, as well as a table of contents.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="278">
+<j>本文として第4類と第8類の混淆本文で、為朝流罪後の挿話もおさめている。</j>
+<e type="trans" ver="1">The text is a mixture of the Class 4 and the Class 8, and it contains an episode after Tametomo&apos;s exile.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The text is a mixture of class 4 and class 8, and it contains an episode after the exile of Tametomo.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The text is a mixture of class 4 and class 8, and it contains an episode after the exile of Tametomo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="279">
+<j>『保元物語』の諸本のなかで、もっとも大部なものである。</j>
+<e type="trans" ver="1">It is the biggest among the variant texts of &quot;Hogen Monogatari.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is the largest among the variant texts of &quot;Hogen Monogatari.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is the largest among the variant texts of &quot;Hogen Monogatari.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="280">
+<j>汲古書院から影印本が出版されている。</j>
+<e type="trans" ver="1">A facsimile edition was published by Oiko-shoin publishing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A facsimile edition has been released by Oiko-shoin Publishing.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">A facsimile edition has been released by Oiko-shoin Publishing.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="24">
+<tit>
+<j>第8類</j>
+<e type="trans" ver="1">Class 8</e>
+<cmt></cmt>
+<e type="trans" ver="2">Class 8</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Class 8</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="281">
+<j>流布本系統</j>
+<e type="trans" ver="1">Rufubon line</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Rufubon line</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Rufubon line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="282">
+<j>流布本系統は大きく分けて写本系統と、古活字本（版本）にわけることができる。</j>
+<e type="trans" ver="1">Rufubon line can be divided roughly into the hand-copied manuscript line and the line of the text printed with old engraved wooden blocks.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Rufubon line can be roughly divided into the hand-copied manuscript line and the line of the text printed with old, engraved wooden blocks.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Rufubon line can be roughly divided into the hand-copied manuscript line and the line of the text printed with old, engraved wooden blocks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="283">
+<j>原型は室町後期と目され、日本古典文学大系などが出版される前は、もっとも広く読まれていた系統である。</j>
+<e type="trans" ver="1">The original form seems to have been completed in the late Muromachi period, and it was read most widely before Complete Works of Japanese Classic Literature and others were published.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The original form seems to have been completed during the late Muromachi period, and it was read most widely before &quot;Complete Works of Japanese Classic Literature&quot; and others were published.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The original form seems to have been completed during the late Muromachi period, and it was read most widely before &quot;Complete Works of Japanese Classic Literature&quot; and others were published.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="284">
+<j>このうち、古活字本については宮内庁書陵部蔵本が、日本古典文学大系に附録としておさめられている。</j>
+<e type="trans" ver="1">Among this, the old printed book owned by Archive and Mausolea Department, Imperial Household Agency was added as a supplement edition to the Complete Works of Japanese Classic Literature.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Among this, the old printed book owned by the Archive and Mausolea Department of the Imperial Household Agency was added as a supplemental edition to &quot;Complete Works of Japanese Classic Literature.&quot;</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Among this, the old printed book owned by the Archive and Mausolea Department of the Imperial Household Agency was added as a supplemental edition to &quot;Complete Works of Japanese Classic Literature.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="25">
+<tit>
+<j>第9類</j>
+<e type="trans" ver="1">Class 9</e>
+<cmt></cmt>
+<e type="trans" ver="2">Class 9</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Class 9</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="285">
+<j>その他の諸本</j>
+<e type="trans" ver="1">Other variant texts</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other variant texts</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Other variant texts</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="286">
+<j>複数の系統の本文を混合したもので、宮内庁書陵部蔵のものが知られる。</j>
+<e type="trans" ver="1">It is a mixture of several lines of the text, and the one owned by Archive and Mausolea Department, Imperial Household Agency is well known.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a mixture of several lines of text, and the one owned by the Archive and Mausolea Department of the Imperial Household Agency is well known.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is a mixture of several lines of text, and the one owned by the Archive and Mausolea Department of the Imperial Household Agency is well known.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="287">
+<j>永積説によれば、第5・6類に近い本文という。</j>
+<e type="trans" ver="1">According to NAGAZUMI, its text is approximate to the Class 5 and Class 6.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to NAGAZUMI, its text is approximate to classes 5 and 6.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">According to NAGAZUMI, its text is approximate to classes 5 and 6.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 AlleborgoBot(id:119729), Nnh(id:474), Ktmchi(id:113301), Zerozeros(id:189962), NDR(id:5500), Kiev(id:13022), 白文鳥(id:103465), Yuming(id:17854), DorganBot(id:149946), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>詩仙堂</j>
+<e type="trans" ver="1">Shisendo</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shisendo</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shisendo</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>詩仙堂（しせんどう）は、京都市左京区にある国の史跡。</j>
+<e type="trans" ver="1">Shisendo is a National Historic Site located in Sakyo Ward of Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shisendo is a National Historic Site located in Sakyo Ward in Kyoto City.</e>
+<cmt>「of」→「in」</cmt>
+<e type="check" ver="1">Shisendo is a National Historic Site located in Sakyo Ward in Kyoto City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>現在は曹洞宗永平寺派の寺でもあり丈山寺という。</j>
+<e type="trans" ver="1">It is now also a temple named Jozan-ji Temple affiliated with the Eihei-ji School of Soto Zen sect.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is now also a temple named Jozan-ji Temple affiliated with the Eihei-ji School of Soto Zen sect.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is now also a temple named Jozan-ji Temple affiliated with the Eihei-ji School of Soto Zen sect.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>詩仙堂は徳川家の家臣であった石川丈山が隠居のため造営した山荘である。</j>
+<e type="trans" ver="1">Shisendo is a mountain retreat which Jozan ISHIKAWA, a retainer of TOKUGAWA Family, built to lead his retired life.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shisendo is a mountain retreat which Jozan ISHIKAWA, a retainer of the TOKUGAWA Family, built in which to lead his retired life.</e>
+<cmt>「the」挿入, 「in which」挿入</cmt>
+<e type="check" ver="1">Shisendo is a mountain retreat which Jozan ISHIKAWA, a retainer of the TOKUGAWA family, built in which to lead his retired life.</e>
+<cmt>family としました。</cmt>
+</sen>
+<sen id="4">
+<j>名前の由来は、中国の詩家36人の肖像を掲げた詩仙の間による。</j>
+<e type="trans" ver="1">Its name comes from the portraits of 36 Chinese poets displayed in Shisen no Ma (literally, a room of poetry immortals).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its name comes from the portraits of 36 Chinese poets displayed in Shisen no Ma (literally, &apos;room of poetry immortals&apos;).</e>
+<cmt>「a」削除, 「&apos;」挿入x2</cmt>
+<e type="check" ver="1">Its name comes from the portraits of thirty-six Chinese poets displayed in Shisen no Ma (literally, &apos;room of poetry immortals&apos;).</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>詩仙は日本の三十六歌仙にならい林羅山の意見をもとめながら漢晋唐宋の各時代から選ばれた。</j>
+<e type="trans" ver="1">These Shisen (poetry immortals) were selected from poets of each era of Han, Jin, Tang, and Song in China following the example of Japanese Thirty-six Poetry Immortals (a group of medieval Japanese poets), and also respecting the opinion of Razan HAYASHI (a Confucian scholar in the early Edo Period).</e>
+<cmt></cmt>
+<e type="trans" ver="2">These Shisen (poetry immortals) were selected from poets of each of the Han, Jin, Tang, and Song eras in China following the example of the Japanese Thirty-six Poetry Immortals (a group of medieval Japanese poets), and also influenced by the tastes of Razan HAYASHI (a Confucian scholar in the early Edo Period).</e>
+<cmt>「the」挿入x2, 「respecting the opinion」→「influenced by the tastes」</cmt>
+<e type="check" ver="1">These Shisen (poetry immortals) were selected from poets of each of the Han, Jin, Tang, and Song eras in China following the example of the Japanese Thirty-six Poetry Immortals (a group of medieval Japanese poets), and also influenced by the tastes of Razan HAYASHI (a Confucian scholar in the early Edo period).</e>
+<cmt>period 小文字にしました。</cmt>
+</sen>
+<sen id="6">
+<j>肖像は狩野探幽によって描かれ詩仙の間の四方の壁に掲げられている。</j>
+<e type="trans" ver="1">These portraits by Tanyu KANO (a most influential painter from Kano School in the early Edo Period) are hung on the four walls of Shisen no Ma.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These portraits by Tanyu KANO (one of the most influential painters from the Kano School in the early Edo Period) are hung on the four walls of Shisen no Ma.</e>
+<cmt>「a」→「one of the」, 「s」挿入,「the」挿入</cmt>
+<e type="check" ver="1">These portraits by Tanyu KANO (one of the most influential painters from the Kano School in the early Edo period) are hung on the four walls of Shisen no Ma.</e>
+<cmt>period 小文字にしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>造営は寛永18年(1641年)丈山59才の時に行われ90才で没するまでここで詩歌三昧の生活を送った。</j>
+<e type="trans" ver="1">Jozan built Shisendo in 1641 when he was 59 years old, and lived here enjoying poets until he died at the age of 91.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jozan built Shisendo in 1641 when he was 59 years old, and lived here enjoying poetry until he died at the age of 91.</e>
+<cmt>「poets」→「poetry」</cmt>
+<e type="check" ver="1">Jozan built Shisendo in 1641 when he was 59 years old, and lived here enjoying poetry until he died at the age of 90.</e>
+<cmt>数字を修正しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>詩仙堂は正確には凹凸窠（おうとつか）という。</j>
+<e type="trans" ver="1">Shisendo&apos;s real name is Ototsutsuka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shisendo&apos;s real name is Ototsutsuka.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shisendo&apos;s real name is Ototsuka.</e>
+<cmt>Ototsuka としました。</cmt>
+</sen>
+<sen id="9">
+<j>凹凸窠とはでこぼこの土地に建てられた住居の意味であり、建物や庭園は山の斜面に沿って作られている。</j>
+<e type="trans" ver="1">&quot;Ototsutsuka&quot; means a residence built on an unlevel land, and its building and garden are built on a slope of the mountain.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Ototsutsuka&quot; means a residence built on unlevel land, and the building and garden are built on a slope of the mountain.</e>
+<cmt>「an」削除, 「its」→「the」</cmt>
+<e type="check" ver="1">&quot;Ototsuka&quot; means a residence built on unlevel land, and the building and garden are built on a slope of the mountain.</e>
+<cmt>Ototsuka としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>丈山は詩仙の間を含め建物や庭の10個の要素を凹凸窠十境と見立てた。</j>
+<e type="trans" ver="1">Jozan assumed those ten items of building and garden including Shisen no Ma as the &apos;Ototsutsuka jukkyo&apos; (ten spaces on unlevel lands).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jozan named the ten elements of the building and garden including Shisen no Ma as the &apos;Ototsutsuka jukkyo&apos; (ten spaces on unlevel lands).</e>
+<cmt>「assumed those」→「named the」, 「items」→「elements」, 「the」挿入</cmt>
+<e type="check" ver="1">Jozan named the ten elements of the building and garden including Shisen no Ma as the &apos;Ototsuka jukkyo&apos; (ten spaces on unlevel lands).</e>
+<cmt>Ototsuka としました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="11">
+<j>庭園造りの名手でもある丈山自身により設計された庭は四季折々に楽しむことができ、特に春(5月下旬)のサツキと秋(11月下旬)の紅葉が有名で観光客で賑わう。</j>
+<e type="trans" ver="1">Designed by Jozan who was also a master of landscape gardening, its garden is enjoyable in every season, and especially azalea blossoms in spring (late May) and colored leaves in autumn (late November) are famous attracting many tourists.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Designed by Jozan, who was also a master of landscape gardening, its garden is enjoyable in every season, and the azalea blossoms in spring (late May) and the colored leaves in autumn (late November) are especially famous, attracting many tourists.</e>
+<cmt>「,」挿入x2,「the」挿入x2,「especially」箇所異動</cmt>
+<e type="check" ver="1">Designed by Jozan, who was also a master of landscape gardening, its garden is enjoyable in every season, and the azalea blossoms in spring (late May) and the colored leaves in autumn (late November) are especially famous, attracting many tourists.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>縁の前に大きく枝を広げた白い山茶花も見所のひとつ。</j>
+<e type="trans" ver="1">You should also see white blossoms on a widely stretched sasanqua tree in front of the veranda.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The white blossoms on a broad-branched sasanqua tree in front of the veranda are also an attraction.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The white blossoms on a broad-branched sasanqua tree in front of the veranda are also an attraction.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>一般にししおどしとして知られる、添水(そうず)と呼ばれる仕掛けにより時折り響く音は、鹿や猪の進入を防ぐという実用性とともに静寂な庭のアクセントになっており丈山も好んだという。</j>
+<e type="trans" ver="1">Jozan is said to have loved the sound occasionally echoed from a mechanical device called &quot;Sozu&quot; also known as &quot;Shishiodoshi&quot; (an automatic sound maker made of bamboo and powered by running water in a Japanese garden), because it not only practically kept dears or bores away but also provided the quiet garden with a bit of excitement.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jozan is said to have loved the sound that occasionally echoed from the &quot;Sozu&quot;, also known as &quot;Shishiodoshi&quot; (a water feature with bamboo in a Japanese garden), because it was not only practical in keeping deer and boars away but also provided the quiet garden with a bit of interest.</e>
+<cmt>Using words like &apos;mechanical&apos; and &apos;powered&apos; indicate machinery, so I have removed the references.再構成しました。</cmt>
+<e type="check" ver="1">Jozan is said to have loved the sound that occasionally echoed from the &quot;Sozu,&quot; also known as &quot;Shishiodoshi&quot; (a water feature with bamboo in a Japanese garden), because it was not only practical in keeping deer and boars away but also provided the quiet garden with a bit of interest.</e>
+<cmt>カンマの場所を移動しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>交通アクセス</j>
+<e type="trans" ver="1">Access</e>
+<cmt></cmt>
+<e type="trans" ver="2">Access</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Access</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="14">
+<j>車 門前にいくつかの駐車場がある。</j>
+<e type="trans" ver="1">By car: a few parking areas are available close to the gate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">By car: a few parking areas are available close to the gate.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">By car: a few parking areas are available close to the gate.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="15">
+<j>バス 京都市交通局5、北8、65系統　京都バス　55、18系統　一乗寺下り松町下車　東へ約300m(いちじょうじさがりまつちょう）</j>
+<e type="trans" ver="1">By bus: take Kyoto City Bus 5, north 8 of route 65, or Kyoto Bus 55 of route 18, and get off at &apos;Ichijoji Sagarimatsucho&apos; bus stop, and walk approximately 300 m eastward from the bus stop.</e>
+<cmt></cmt>
+<e type="trans" ver="2">By bus: take Kyoto City Bus 5, north 8 on route 65, or Kyoto Bus 55 on route 18, and get off at &apos;Ichijoji Sagarimatsucho&apos; bus stop; it is approximately 300m to the east.</e>
+<cmt>「of」→「on」, 「, and walk approximately 300 m eastward from the bus stop」→「; it is approximately 300m to the east」. I don&apos;t know what &apos;Kyoto City Bus 5, north 8&apos; means - is 5 referring to a division of some kind? This may need to be altered.</cmt>
+<e type="check" ver="1">By bus: take Kyoto City Bus route 5, north 8 or 65, or Kyoto Bus route 55 or route 18, and get off at &apos;Ichijoji Sagarimatsucho&apos; bus stop; it is approximately 300 meters to the east.</e>
+<cmt>バスの系統を修正しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="16">
+<j>鉄道 叡山電鉄一乗寺駅下車　東へ約600m</j>
+<e type="trans" ver="1">By train: from Ichijoji Station of Eizan Electric Railway, walk approximately 600 m eastward.</e>
+<cmt></cmt>
+<e type="trans" ver="2">By train: approximately 600m east of Ichijoji Station on the Eizan Electric Railway.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">By train: approximately 600 meters east of Ichijoji Station on the Eizan Electric Railway.</e>
+<cmt>スペースを追加しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 ＋－(id:17104), Asqle(id:43348), KMT(id:1772), КОЛЯ(id:59429), Suutaroka(id:174573), Reggaeman(id:6214), Kstigarbha(id:13376), 水野白楓(id:22811), R28Bot(id:177951), Himazin(id:22034), 663highland(id:18755), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

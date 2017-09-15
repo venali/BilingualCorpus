@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>頃</j>
+<e type="trans" ver="1">Kei (a unit of area, qing)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kei (a unit of area)</e>
+<cmt>カッコ内を修正しました。</cmt>
+<e type="check" ver="1">Kei (a unit of area)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>頃（けい）は市制 (単位系)における面積の単位である。</j>
+<e type="trans" ver="1">&quot;Kei&quot;or qing is a unit of area used in the Chinese traditional system of measurement (unit system).</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Kei&quot;or qing is a unit of area used in the Chinese traditional system of measurement (unit system).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;Kei&quot;or qing is a unit of area used in the Chinese traditional system of measurement (unit system).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>100畝中国の畝が1頃であり、畝は5尺四方の120倍（古代は100平方歩）であった。</j>
+<e type="trans" ver="1">One quing equaled to one hundred mu (Chinese area unit) and one mu was 120 times as large as five square chi (and in ancient times, mu was 100 square bu).</e>
+<cmt></cmt>
+<e type="trans" ver="2">1 qing equaled to 100 mu (Chinese area unit) and 1 mu was 120 times as large as 5 square chi (And in ancient times, mu was 100 square bu.)</e>
+<cmt>quing→qing,One,one→1,one hundred→100,five→5,スペースを修正しました。カッコ内、ピリオドの位置を修正しました。</cmt>
+<e type="check" ver="1">1 qing equaled to 100 mu (Chinese area unit) and 1 mu was 120 times as large as 5 square chi (And in ancient times, mu was 100 square bu.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>中華民国成立後の1929年に市制の単位が10進法化された。</j>
+<e type="trans" ver="1">In 1929 after the establishment of the Republic of China, the decimal system was introduced into the measurement unit system.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In 1929 after the establishment of the Republic of China, the decimal system was introduced into the measurement unit system.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In 1929 after the establishment of the Republic of China, the decimal system was introduced into the measurement unit system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>1/15ヘクタールを1畝としたため数量が変化しているが、概ね6ha前後である。</j>
+<e type="trans" ver="1">Although one mu was redefined as one fifteenth hectares to slightly change the area size represented by qing, one qing covered approximately six hectares in general.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Although 1 mu was redefined as 1/15 hectares to slightly change the volume, 1 qing covered approximately 6 hectares in general.</e>
+<cmt>one fifteenth→1/15,area size represented by qing→volume,one→1,six→6 と修正しました。（用語統一、その他31項に従い）</cmt>
+<e type="check" ver="1">Although 1 mu was redefined as 1/15 hectares to slightly change the volume, 1 qing covered approximately 6 hectares in general.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>現代中国ではhaにも頃の字をあてている為、市制を市頃、haを公頃と書き、区別している。</j>
+<e type="trans" ver="1">In modern China, since the same kanji letter &quot;頃&quot; is used to represent &quot;ha&quot;, they distinguish qing in the traditional unit system from &quot;ha&quot; by writing quing as &quot;市頃&quot; while &quot;ha&quot; as &quot;公頃&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In modern China, since the same character &quot;頃&quot; is used to represent &quot;hal,&quot; they distinguish qing in the traditional unit system from &quot;hal&quot; by writing quing as &quot;市頃&quot; while &quot;ha&quot; as &quot;公頃.&quot;</e>
+<cmt>kanji letter→character, ha→hal,カンマ、ピリオドの位置を修正しました。</cmt>
+<e type="check" ver="1">In modern China, since the same character &quot;頃&quot; is used to represent &quot;hal,&quot; they distinguish qing in the traditional unit system from &quot;hal&quot; by writing quing as &quot;市頃&quot; while &quot;ha&quot; as &quot;公頃.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>時代別のヘクタール換算</j>
+<e type="trans" ver="1">Variation in conversion into hectares over time</e>
+<cmt></cmt>
+<e type="trans" ver="2">Variation in conversion into hectares over time</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Variation in conversion into hectares over time</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<copyright>copyright (c) 2010 隼鷹(id:89949), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

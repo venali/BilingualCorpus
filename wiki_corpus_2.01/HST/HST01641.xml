@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>正税</j>
+<e type="trans" ver="1">Shozei (the rice tax stored in provincial offices&apos; warehouse)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shozei (the rice tax stored in provincial offices&apos; warehouse)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shozei (the rice tax stored in provincial offices&apos; warehouse)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>正税（しょうぜい・大税（たいぜい））とは、律令制の下において令制国内にある正倉に蓄えられた稲穀・穎稲（えいとう）のこと。</j>
+<e type="trans" ver="1">Shozei (Taizei) refers to tokoku (rice grains plucked off the straws, with chaff on) and eito (reaped rice plants holding grains) stored in shoso (public repository) in ryoseikoku (province) under the ritsuryo system.</e>
+<cmt>「稲穀」「穎稲」は定訳が見つかりませんでした。</cmt>
+<e type="trans" ver="2">Shozei (Taizei) refers to tokoku (rice grains plucked off the straws, with chaff on) and eito (reaped rice plants holding grains) stored in shoso (public repository) in ryoseikoku (province) under the ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>律令制を補足しました。</cmt>
+<e type="check" ver="1">Shozei (Taizei) refers to tokoku (rice grains plucked off the straws, with chaff on) and eito (reaped rice plants holding grains) stored in shoso (public repository) in ryoseikoku (province) under the ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>特にそのうちの出挙本稲（元本部分）の部分のみを限定して指す場合もある。</j>
+<e type="trans" ver="1">Sometimes it refers to only the part of suiko-honto (rice equivalent to principal of suiko 〔government loans made to peasants〕) of them.</e>
+<cmt>「本稲」の読み方をインターネットで検索しましたが見つからなかったので確認とれていません。</cmt>
+<e type="trans" ver="2">Sometimes it refers to only the part of suiko honto (rice equivalent to principal of suiko [government loans made to peasants]) of them.</e>
+<cmt>ハイフンを削除しました。〔 〕→[]としました。</cmt>
+<e type="check" ver="1">Sometimes it refers to only the part of suiko honto (rice equivalent to principal of suiko [government loans made to peasants]) of them.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>主として毎年の租税収入と正税からの出挙による利息分から構成されている。</j>
+<e type="trans" ver="1">It was mainly consisted of the yearly yield of tax and the interest of suiko from shozei (the rice tax stored in provincial offices&apos; warehouse).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was mainly consisted of the yearly yield of tax and the interest on suiko from shozei.</e>
+<cmt>interest of suiko→interest on suiko としました。正税の補足は既出のため削除しました。</cmt>
+<e type="check" ver="1">It was mainly consisted of the yearly yield of tax and the interest on suiko from shozei.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>正税は、以下のものなどに充てられることになっていた。</j>
+<e type="trans" ver="1">Shozei was</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shozei was supposed to be allotted to the following.</e>
+<cmt>原文は「正税は、」のみで、概要の最後の文の「などに充てられることになっており、」に続いていたため、その部分をこちらに移動し文を調整しました。</cmt>
+<e type="check" ver="1">Shozei was supposed to be allotted to the following.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>出挙本稲としての利用（利息は上記のように正税の増加分となる）。</j>
+<e type="trans" ver="1">used as suiko-honto (as mentioned above, the increased part of shozei becomes interest.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was used as suiko honto (as mentioned above, the increased part of shozei becomes interest).</e>
+<cmt>It was を追加しました。ハイフンを削除しました。ピリオドを括弧の外に移動しました。</cmt>
+<e type="check" ver="1">It was used as suiko honto (as mentioned above, the increased part of shozei becomes interest).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>平安時代には、この部分のみを指して「正税」と呼ばれる場合があった。</j>
+<e type="trans" ver="1">In Heian period, sometimes, only this part was called &apos;shozei&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Heian period, sometimes, only this part was called &apos;shozei.&apos;</e>
+<cmt>ピリオドを引用符の中に移動しました。</cmt>
+<e type="check" ver="1">In Heian period, sometimes, only this part was called &apos;shozei.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>不動穀として、国衙や郡衙の正倉に貯蔵する（理想として、田租収入30年分（年間収穫量に匹敵）の備蓄が想定されていた）。</j>
+<e type="trans" ver="1">As fudokoku (staples for an emergency), it was stored in shoso in kokuga (provincial government office compounds) and gunga (county government offices), and the ideal amount was thirty years&apos; worth of denso (rice field tax) income (equivalent to yearly yield).</e>
+<cmt></cmt>
+<e type="trans" ver="2">As fudokoku (staples for an emergency), it was stored in shoso in kokuga (provincial government office compounds) and gunga (county government offices) (the ideal amount was 30 years&apos; worth of denso [rice field tax] income [equivalent to yearly yield]).</e>
+<cmt>原文に合わせて括弧の有無・種類を調整、and を削除しました。アラビア数字としました。</cmt>
+<e type="check" ver="1">As fudokoku (staples for an emergency), it was stored in shoso in kokuga (provincial government office compounds) and gunga (county government offices) (the ideal amount was 30 years&apos; worth of denso [rice field tax] income [equivalent to yearly yield]).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>事務経費や官人給与など、地方行政の運営費用に充てる。</j>
+<e type="trans" ver="1">It was alloted to the running cost of local administration such as clerical expense and salary of government officials.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was allotted to the running cost of local administration such as clerical expense and salary of government officials.</e>
+<cmt>allotted スペル修正しました。</cmt>
+<e type="check" ver="1">It was allotted to the running cost of local administration such as clerical expense and salary of government officials.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>中央への貢納品の購入と租税・貢納品上供のための運送費用。</j>
+<e type="trans" ver="1">Fee for purchase of tribute articles to the central and for transportation of land tax and tribute articles.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fee for purchase of tribute articles to the central and for transportation of land tax and tribute articles.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Expenses incurred in the purchase of tribute articles to give to the central government and for the transportation of land taxes and the tribute articles.</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>主に租税収入は稲穀として不動穀（必要に応じて災害・飢饉に対する臨時出費及び穎稲の補充・増強に回す場合もある）に、出挙の利息は穎稲（正税稲/出挙稲）として出挙本稲及び諸経費にあてることが行われた。</j>
+<e type="trans" ver="1">The yield of tax was mainly alloted to fudokoku staple as tokoku (when needed, it was alloted to the emergency expense for disaster and hunger, and the fund to refill or enhance the eito), and the interest of suiko was to suiko-honto and sundry expenses as eito (shozeito 〔rice paid as shozei〕 or suikoto 〔loaned rice plant〕).</e>
+<cmt>文頭について、どう処理すればいいかわからなかったので、「主に租税収入は…」から英訳してあります。</cmt>
+<e type="trans" ver="2">The yield of tax was mainly allotted to fudokoku staple as tokoku (when needed, it was allotted to the emergency expense for disaster and famine, and the fund to refill or enhance the eito), and the interest on suiko was to suiko honto and sundry expenses as eito (shozeito [rice paid as shozei] or suikoto [loaned rice plant]).</e>
+<cmt>allotted スペル修正しました。hunger→famine としました。interest of suiko→interest on suiko としました。ハイフンを削除しました。〔 〕→[] としました。</cmt>
+<e type="check" ver="1">The yield of tax was mainly allotted to fudokoku staple as tokoku (when needed, it was allotted to the emergency expense for disaster and famine, and the fund to refill or enhance the eito), and the interest on suiko was to suiko honto and sundry expenses as eito (shozeito [rice paid as shozei] or suikoto [loaned rice plant]).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>正税の沿革</j>
+<e type="trans" ver="1">History of shozei</e>
+<cmt></cmt>
+<e type="trans" ver="2">History of shozei</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History of shozei</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="3">
+<tit>
+<j>正税の成立</j>
+<e type="trans" ver="1">Establishment of shozei</e>
+<cmt></cmt>
+<e type="trans" ver="2">Establishment of shozei</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Establishment of shozei</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="11">
+<j>正税は本来、「大税」と呼ばれて飛鳥浄御原令期の691年に登場している。</j>
+<e type="trans" ver="1">Shozei initially called &apos;taizei&apos; appeared in 691 during the period of Asukakiyomihararyo.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Shozei, initially called &apos;taizei,&apos; appeared in 691 during the period of Asukakiyomihararyo (the legal code of Japanese ancient state).</e>
+<cmt>コンマを追加しました。飛鳥浄御原令を補足しました。</cmt>
+<e type="check" ver="1">Shozei, initially called &apos;taizei,&apos; appeared in 691 during the period of Asukakiyomihararyo (the legal code of Japanese ancient state).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>以前には評に所属していた見られる郡稲との関係やそれ以前から続く屯倉との関連性については様々な学説が出ており、屯倉や国造領に納められていた租税や出挙、評稲などが大化改新以後に再編される過程で大税と郡稲に統合・分離したと考えられるということ以外には不明である。</j>
+<e type="trans" ver="1">It is not clear, despite the various theories, about the connection to gunto that used to belong to kori (provincial administrative organization), and the relation to miyake (a governing system in Yamato sovereignty 〔the ancient Japan sovereignty〕) that was older than the first, but it can be considered that land tax, suiko and hyoto (rice in kori) stored in miyake and Kuninomiyatsuko-ryo (territory of the heads of local governments) were integrated or separated into taizei and gunto in the process of reorganization after the Taika Reforms.</e>
+<cmt>一原文一訳文例外対処 「評稲」はインターネットで調べましたが読み方が載っていなかったので、確認がとれていません。ここでは「hyoto」としました。また同様に意味の確認もとれていませんが、ここでは（rice in kori)としました(評＝kori)。</cmt>
+<e type="trans" ver="2">It is not clear, despite the various theories, about its connection to gunto (rice stored in a county) that used to belong to kori (provincial administrative organization), and the relation to miyake (a governing system in Yamato sovereignty [the ancient Japan sovereignty]) that was older than the first, but it can be considered that land tax, suiko and hyoto (rice in kori) stored in miyake and Kuninomiyatsuko-ryo (territory of the heads of local governments) were integrated or separated into taizei and gunto in the process of reorganization after the Taika Reforms.</e>
+<cmt>the→its としました。郡稲を補足しました。〔 〕→[]としました。</cmt>
+<e type="check" ver="1">It is not clear, despite the various theories, about its connection to gunto (rice stored in a county) that used to belong to kori (provincial administrative organization), and the relation to miyake (a governing system in Yamato sovereignty [the ancient Japan sovereignty]) that was older than the first, but it can be considered that land tax, suiko and hyoto (rice in kori) stored in miyake and Kuninomiyatsuko-ryo (territory of the heads of local governments) were integrated or separated into taizei and gunto in the process of reorganization after the Taika Reforms.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="13">
+<j>大宝律令の制定後、大税は民部省の監督下に置かれて708年には不動穀の制度が開始された。</j>
+<e type="trans" ver="1">After the establishment of Taiho Ritsuryo, taizei was put under the control of Minbusho (Ministry of Popular Affairs), then, in 708, the system of Fudokoku staple was put in force.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the establishment of Taiho Ritsuryo (Taiho Code), taizei was put under the control of Minbusho (Ministry of Popular Affairs), then, in 708, the system of Fudokoku staple was put in operation.</e>
+<cmt>force→operation としました。大宝律令を補足しました。</cmt>
+<e type="check" ver="1">After the establishment of Taiho Ritsuryo (Taiho Code), taizei was put under the control of Minbusho (Ministry of Popular Affairs), then, in 708, the system of Fudokoku staple was put in operation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>一方、この他に郡稲・公用稲・駅起稲などの「官稲」が定められた。</j>
+<e type="trans" ver="1">On the other hand, apart from this, kanto (rice gathered as denso 〔rice field tax〕 and stored in various provinces) such as gunto, koyoine and ekikito (also referred to ekito 〔rice harvested from ekiden (rice field provided by government, exempted from tax) to allot to the cost of stations〕 in Yoro-ryo 〔Yoro Code〕) was established.</e>
+<cmt>「公用稲」の詳細をインターネットで調べましたが不明でした。</cmt>
+<e type="trans" ver="2">On the other hand, apart from this, &apos;kanto&apos; (rice gathered as denso and stored in various provinces) such as gunto, koyoine and ekikito (rice harvested from ekiden [rice field provided by government, exempted from tax] to allot to the cost of stations in Yoro-ryo [Yoro Code]) was established.</e>
+<cmt>引用符を追加しました。田租の補足は既出のため削除しました。駅起稲の説明を簡略化しました。（括弧が三重になっていたため）〔 〕→[] としました。</cmt>
+<e type="check" ver="1">On the other hand, apart from this, &apos;kanto&apos; (rice gathered as denso and stored in various provinces) such as gunto, koyoine and ekikito (rice harvested from ekiden [rice field provided by government, exempted from tax] to allot to the cost of stations in Yoro-ryo [Yoro Code]) was established.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>ところが、734年に郡稲以下の官稲が大税に統合されて「正税」が正式な名称となり、例外とされた駅起稲なども739年には統合された。</j>
+<e type="trans" ver="1">However, kanto below gunto was integrated into taizei with the change of the formal name to shozei in 734, and ekikito that had been considered exception was also integrated in 739.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, kanto below gunto was integrated into taizei with the change of its formal name to &apos;shozei&apos; in 734, and ekikito that had been considered exception was also integrated in 739.</e>
+<cmt>the→its としました。引用符を追加しました。</cmt>
+<e type="check" ver="1">However, kanto below gunto was integrated into taizei with the change of its formal name to &apos;shozei&apos; in 734, and ekikito that had been considered exception was also integrated in 739.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>これを歴史学的には「官稲混合」と呼ばれている。</j>
+<e type="trans" ver="1">This is called kanto-kongo (mixed kanto) in the field of historical studies.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is called &apos;kanto kongo&apos; (mixed kanto) in the field of historical studies.</e>
+<cmt>引用符を追加しました。ハイフンを削除しました。</cmt>
+<e type="check" ver="1">This is called &apos;kanto kongo&apos; (mixed kanto) in the field of historical studies.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>以後、正税に一本化されたために官稲と併称する呼称であった「大税」という言葉も用いられなくなった。</j>
+<e type="trans" ver="1">Afterward, it was unified to shozei, and accordingly, the word of taizei which used to be put down with kanto also died out.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Afterward, it was unified to shozei, and accordingly, the word &apos;taizei&apos; which used to be put down with kanto also died out.</e>
+<cmt>引用符を追加し、of を削除しました。</cmt>
+<e type="check" ver="1">Afterward, it was unified to shozei, so the word &apos;taizei&apos;, which used to be used in conjunction with the word &apos;kanto&apos;, also died out.</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+<sen id="18">
+<j>ちなみに当時の正税の豊富さのエピソードとして740年には規定通りに忠実に守って絶対に外部に出されることがなかった正倉の不動穀が腐敗しているのが見つかる事故が相次いだために、いくら不動穀と言えども古い稲を同量の新しい稲には入れ替えるようにという命令が出されていたことが『三代類聚格』に集録された大同3年8月3日（808年8月27日）付太政官符に記されている。</j>
+<e type="trans" ver="1">Incidentally, as an episode showing how various shozei was at the time, Daijokanpu (official documents from Daijokan to local governments) dated August 27, 808 compiled in Ruijusandaikyaku (a law code) tells that, in 740, Fudokoku staple of shoso that had never been put outside to respect the regulations was found decomposed one after another, so that an order was issued to replace the old rice by the same volume of new rice.</e>
+<cmt>「三代類聚格」は、インターネットの全てで「類聚三代格」となっていますので、「Ruijusandaikyaku」と英訳しました。</cmt>
+<e type="trans" ver="2">Incidentally, as an episode showing the abundance of shozei at the time, Daijokanpu (official documents from Daijokan to local governments) dated August 31, 808 compiled in &quot;Sandairuijukyaku&quot; (a law code) tells that, in 740, Fudokoku staple of shoso that had never been put outside to respect the regulations was found decomposed one after another, so that an order was issued to replace the old rice by the same volume of new rice.</e>
+<cmt>ここでの「豊富」は量の多さのことだと思いますので、how various shozei was→the abundance of shozei としました。引用符を追加しました。『三代類聚格』の正しい表記は、『類聚三代格』かと思われますが、原文に忠実に訳しました。原文には (日本)（旧暦） とありましたが、リンク先の単語が抽出されるバグのようですので削除しました。グレゴリオ暦に修正しました。</cmt>
+<e type="check" ver="1">Incidentally, as an episode showing the abundance of shozei at the time, Daijokanpu (official documents from Daijokan to local governments) dated August 31, 808 compiled in &quot;Sandairuijukyaku&quot; (a law code) tells that, in 740, Fudokoku staple of shoso that had never been put outside to respect the regulations was found decomposed one after another, so that an order was issued to replace the old rice by the same volume of new rice.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>正税の崩壊</j>
+<e type="trans" ver="1">Collapse of shozei</e>
+<cmt></cmt>
+<e type="trans" ver="2">Collapse of shozei</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Collapse of shozei</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="19">
+<j>ところが、744年に国分寺・国分尼寺造営のために、各令制国がそれぞれに正税2万束ずつの施入と出挙利息の造営費転用が命じられた。</j>
+<e type="trans" ver="1">However, in 744, for building Kokubun-ji Temple and Kokubun-ni-ji Temple, each ryoseikoku (province) was ordered a senyu (offer something to a temple) of twenty thousands bunches of shozei to provide each temple respectively as well as a diversion of suiko interest into construction costs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, in 744, for building Kokubun-ji Temple and Kokubun-ni-ji Temple, each ryoseikoku (province) was ordered a senyu (offer something to a temple) of 20 thousand bunches of shozei to provide each temple respectively as well as a diversion of suiko interest into construction costs.</e>
+<cmt>thousands→thousand としました。</cmt>
+<e type="check" ver="1">However, in 744, for building Kokubun-ji Temple and Kokubun-ni-ji Temple, each ryoseikoku (province) was ordered a senyu (offer something to a temple) of 20 thousand bunches of shozei to provide each temple respectively as well as a diversion of suiko interest into construction costs.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>続いてその翌年には、大国40万束・上国30万束・中国20万束・下国10万束を正税から割いて公廨稲が設置され、国司らの給与などにあてる出挙が正税とは別個に開始された。</j>
+<e type="trans" ver="1">In the following year, Kugaito (local source of reveneu) was established with the fund diverted from shozei; fourty thousands bunches from Taikoku (major provinces), thirty thousands bunches from ogoku (second-biggest provinces next to Taigoku), twenty thousands bunches from chugoku (middle sized provinces) and ten thousands bunches from gekoku (minor provinces), thus, suiko which was supposed to be alloted to kokushi&apos;s salary began to be set separately from shozei.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">In the following year, Kugaito (rice as local source of revenue) was established with the fund diverted from shozei; 4 hundred thousand bunches from Taigoku (major provinces), 3 hundred thousand bunches from jogoku (second-biggest provinces next to Taigoku), 2 hundred thousand bunches from chugoku (middle sized provinces) and 1 hundred thousand bunches from gekoku (minor provinces), thus, suiko which was supposed to be allotted to kokushi&apos;s salary began to be set separately from shozei.</e>
+<cmt>公廨稲の補足に、稲であることが分かるよう rice as を追加、revenue スペル修正しました。スペースを削除しました。数値を修正しました。ファイル内統一のため、Taikoku→Taigoku としました。jogoku スペル修正しました。allotted スペル修正しました。</cmt>
+<e type="check" ver="1">In the following year, Kugaito (rice as local source of revenue) was established with the fund diverted from shozei; 4 hundred thousand bunches from Taigoku (major provinces), 3 hundred thousand bunches from jogoku (second-biggest provinces next to Taigoku), 2 hundred thousand bunches from chugoku (middle sized provinces) and 1 hundred thousand bunches from gekoku (minor provinces), thus, suiko which was supposed to be allotted to kokushi&apos;s salary began to be set separately from shozei.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>すると、国司は自己の収入につながる公廨稲の出挙に力を入れたために、結果的に地方財政が増加する一方で正税管理が疎かになり始めた。</j>
+<e type="trans" ver="1">Then, kokushi began to focus on suiko of kugaito conneced to their income, that led to the consequence of the growth of provincial financial affairs while the control of shozei began to be neglected.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Then, kokushi began to focus on suiko of kugaito connected with their income, leading to the consequence of the growth of provincial finances while the control of shozei began to be neglected.</e>
+<cmt>connected スペル修正しました。to→with としました。that led→leading としました。financial affairs→finances としました。</cmt>
+<e type="check" ver="1">Then, kokushi began to focus on suiko of kugaito connected with their income, leading to the consequence of the growth of provincial finances while the control of shozei began to be neglected.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>加えて朝廷も不動穀の充実振りに目を付けて本来であれば中央に上げられる上供分で賄うべき経費を正税から得ようとした。</j>
+<e type="trans" ver="1">In addition, Imperial Court remarked the enhancement of fudokoku, and they tried to cover the running cost with shozei, although it was supposed to be made up with the tribute to the central.</e>
+<cmt>一原文一訳文例外対処　　「年料別料租穀」は、インターネットの検索結果では「年料別納租穀」となっていました。英訳に影響はありません。また「上供」という言葉が何回が使われていますが、ネット上で専門用語としてヒットしなかったので、「献上」の意味で英訳しました。</cmt>
+<e type="trans" ver="2">In addition, Imperial Court remarked the enhancement of fudokoku, and they tried to cover the running cost with shozei, although it was supposed to be made up with the tribute to the central.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In addition, the Imperial Court focused on ensuring that there was a sufficient quantity of fudokoku, and they tried to cover the cost of this with shozei, even though it was supposed to be made up with tributes to the central government.</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+<sen id="23">
+<j>そのため、臨時に穎稲を上供させる「年料舂米」・「年料別料租穀」や大粮米を正税の穎稲で補う「年料租舂米」などが導入されたために大量の正税が中央に運ばれた。</j>
+<e type="trans" ver="1">Therefore, they introduced nenryo shomai (rice made by pounding it in a mortar and paid in kind for the taxes) and nenryo betsuryo sokoku (denso stored in shoso separately from fudokoku to supply in case of central&apos;s financial difficulties) that could bring them extra eito (reaped rice plants holding grains), and nenryo soshomai (tax payment in milled rice) that could cover tairomai (rice given to low-ranking staff under the Ritsuryo system) with eito of shozei, accordingly, a large amount of shozei brought in the central.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Therefore, they introduced &apos;nenryo shomai&apos; (rice made by pounding it in a mortar and paid in kind for the taxes) and &apos;nenryo betsuryo sokoku&apos; (denso stored in shoso separately from fudokoku to supply in case of central&apos;s financial difficulties) that could bring them extra eito, and &apos;nenryo soshomai&apos; (tax payment in milled rice) that could cover tairomai (rice given to low-ranking staff under the Ritsuryo system) with eito of shozei, accordingly, a large amount of shozei brought in the central.</e>
+<cmt>引用符を追加しました。穎稲の補足は既出のため削除しました。</cmt>
+<e type="check" ver="1">Therefore, they introduced &apos;nenryo shomai&apos; (rice made by pounding it in a mortar and paid in kind for the taxes) and &apos;nenryo betsuryo sokoku&apos; (denso stored in shoso separately from fudokoku to supply in case of central government&apos;s financial difficulties) that could bring them extra eito, and &apos;nenryo soshomai&apos; (tax payment in milled rice) that could cover tairomai (rice given to low-ranking staff under the Ritsuryo system) with eito of shozei, accordingly, a large amount of shozei brought in the central government.</e>
+<cmt>central→central government</cmt>
+</sen>
+<sen id="24">
+<j>更に神火による正倉焼失などに反映される地方政治の腐敗も深刻化して、各地の正税は急速に不足するようになった（「正税用尽」）。</j>
+<e type="trans" ver="1">Besides, the corruption of local government became more critical as reflected on the shoso burned out by sacred flame, therefore, shozei in each province was running short rapidly (Shozei yojin).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Besides, the corruption of local governments became more critical as reflected on the shoso burned out by sacred flame, therefore, shozei in each province was running short rapidly (&apos;Shozei yojin&apos;).</e>
+<cmt>government→governments としました。引用符を追加しました。</cmt>
+<e type="check" ver="1">Besides, the corruption of local governments became more critical as reflected on the shoso burned out by sacred flame, therefore, shozei in each province was running short rapidly (&apos;Shozei yojin&apos;).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>そこで平安時代に入ると、朝廷も公廨稲の利息より正税の不足分を補わせる「正税率分」の導入や格式に必要最低限の正税出挙に対する国司の支出義務（農民への強制的な貸付強制と徴収（返済）の義務化）を定めた「正税式数」を規定するなど、中央への上供体制維持を目的とした正税回復政策を取り始めた。</j>
+<e type="trans" ver="1">Thus, in Heian period, Imperial Court began to launch political measurements to recover the shozei for the purpose of maintaining the tribute-to-central system, such as introduction of &apos;shozei ritsubun (the tax system where two-tenth of the tax delivered from the provinces to the Ministry of Finance at Heian-kyo were supplied to the tax storage called &quot;ritsubun-do&quot;) &apos; that makes up the shortage of shozei with the interest of kugaito (local source of reveneu) and establishment of &apos;shozei shikisu&apos; in which kokushi&apos;s minumum liability for shozei suiko (compulsory loaning and collecting (repayment) to/from peasants) was prescribed in kyakushiki (a kind of law in the ritsuryo system).</e>
+<cmt>一原文一訳文例外対処  「正税式数」については、インターネットのwikipedia以外のサイトでヒットせず、また定訳も見つかりませんでした。</cmt>
+<e type="trans" ver="2">Thus, in Heian period, Imperial Court began to launch political measures to recover the shozei for the purpose of maintaining the tribute-to-central system, such as introduction of &apos;shozei ritsubun (the tax system where two-tenth of the tax delivered from the provinces to the Ministry of Finance at Heian-kyo [the ancient capital of Japan in current Kyoto] were supplied to the tax storage called &quot;ritsubun-do&quot;)&apos; that made up the shortage of shozei with the interest on kugaito and establishment of &apos;shozei shikisu&apos; in which kokushi&apos;s minimum liability for shozei suiko (compulsory loaning to and collecting repayments from peasants) was prescribed in kyakushiki (a kind of law in the ritsuryo system).</e>
+<cmt>political measurements→political measures としました。平安京を補足しました。スペースを削除しました。makes up→made up としました。公廨稲の補足は既出のため削除しました。interest of kugaito→interest on kugaito としました。minimum スペル修正しました。(repayment)→repayments としました。to/from を分けました。</cmt>
+<e type="check" ver="1">Thus, in Heian period, Imperial Court began to launch political measures to recover the shozei for the purpose of maintaining the tribute-to-central system, such as introduction of &apos;shozei ritsubun (the tax system where two-tenth of the tax delivered from the provinces to the Ministry of Finance at Heian-kyo [the ancient capital of Japan in current Kyoto] were supplied to the tax storage called &quot;ritsubun-do&quot;)&apos; that made up the shortage of shozei with the interest on kugaito and establishment of &apos;shozei shikisu&apos; in which kokushi&apos;s minimum liability for shozei suiko (compulsory loaning to and collecting repayments from peasants) was prescribed in kyakushiki (a kind of law in the ritsuryo system).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>しかし、律令制の荒廃による租税・出挙未納もあり、平安時代中期には事実上崩壊することになった。</j>
+<e type="trans" ver="1">However, the ruin of the ritsuryo system and the unpaid land tax and suiko led to the virtual corruption in the mid Heian period.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">However, the decline of the ritsuryo system and the unpaid land tax and suiko led shozei system to the virtual corruption in the mid Heian period.</e>
+<cmt>ruin→decline としました。shozei system を追加しました。</cmt>
+<e type="check" ver="1">However, the decline of the ritsuryo system and the unpaid land tax and suiko led shozei system to the virtual corruption in the mid Heian period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Doorurban(id:132333), 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

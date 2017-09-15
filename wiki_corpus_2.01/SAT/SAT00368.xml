@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>賣太神社</j>
+<e type="trans" ver="1">Meta-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meta-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Meta-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>賣太神社（めたじんじゃ、売太神社）は奈良県大和郡山市の稗田環濠集落の端にある神社である。</j>
+<e type="trans" ver="1">Meta-jinja Shrine also written as &quot;売太神社&quot; is a shrine located at the end of Heida village surrounded by a moat at Yamatokoriyama City, Nara Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meta-jinja Shrine, written as 賣太神社 or 売太神社 in Japanese, is a shrine located at the end of Heida Village, a village surrounded by a moat in Yamatokoriyama City, Nara Prefecture.</e>
+<cmt>漢字表記の箇所を変更、また、稗田集落は固有名詞なのでVillageの頭文字を大文字にしました。</cmt>
+<e type="check" ver="1">Meta-jinja Shrine, written as 賣太神社 or 売太神社 in Japanese, is a shrine located at the end of Heida Village, a village surrounded by a moat in Yamatokoriyama City, Nara Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>式内社で、旧社格は県社。</j>
+<e type="trans" ver="1">It is a Shikinai-sha (shrine listed in Engishiki laws) and its old shrine ranking is that of prefectural shrine (of prefectures other than Kyoto and Osaka).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a Shikinai-sha (shrine listed in the Engishiki laws) and its old shrine ranking is kensha (prefectural shrine [of prefectures other than Kyoto and Osaka]).</e>
+<cmt>Engishikiの前に冠詞を挿入、「県社」は社格を表す用語なのでローマ字表記を挿入しました。</cmt>
+<e type="check" ver="1">It is a Shikinai-sha (shrine listed in the Engishiki laws) and its old shrine ranking is kensha (prefectural shrine [of prefectures other than Kyoto and Osaka]).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>祭神</j>
+<e type="trans" ver="1">Enshried deity</e>
+<cmt></cmt>
+<e type="trans" ver="2">Enshried Deities</e>
+<cmt>Deityを複数形に、また見出しなので頭文字を大文字にしました。</cmt>
+<e type="check" ver="1">Enshried Deities</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>古事記編纂に携わった稗田阿礼を主斎神（主祭神）、アメノウズメ、サルタヒコを副斎神（配祀神）として祀る。</j>
+<e type="trans" ver="1">Worshipping HIEDA no Are who edited Kojiki (The Records of Ancient Matters) as shusaijin (main enshrined deity), and worshipping Amenouzume (goddess of entertainment) and Sarutahiko (an earthly deity) as Fukusaishin (vice enshrined deity).</e>
+<cmt></cmt>
+<e type="trans" ver="2">HIEDA no Are, who participated in the compilation of Kojiki (The Records of Ancient Matters), is worshipped as the shusaijin (main enshrined deity), and Amenouzume (goddess of entertainment) and Sarutahiko (an earthly deity) are worshipped as fukusaishin (vice enshrined deities).</e>
+<cmt>述語がなかったので書き直した。またここでの関係代名詞は制限用法ではなく比制限用法とすべき。「携わる」が訳されていないので追加しました。</cmt>
+<e type="check" ver="1">HIEDA no Are, who participated in the compilation of Kojiki (The Records of Ancient Matters), is worshipped as the shusaijin (main enshrined deity), and Amenouzume (goddess of entertainment) and Sarutahiko (an earthly deity) are worshipped as fukusaishin (vice enshrined deities).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>稗田阿礼命は学問の神、物語の神。</j>
+<e type="trans" ver="1">HIEDA no Are no mikoto is the god of literature and the god of tales.</e>
+<cmt></cmt>
+<e type="trans" ver="2">HIEDA no Are no mikoto is the god of scholarship and the god of tales.</e>
+<cmt>「学問」をliteratureからscholarshipへ変更しました。</cmt>
+<e type="check" ver="1">HIEDA no Are no mikoto is the god of scholarship and the god of tales.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>天鈿女命は芸能の始祖神。</j>
+<e type="trans" ver="1">Ame no Uzume (one of the female gods in Japanese mythology) is Shiso Shin (an original god) for entertainment.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ame no Uzume (a goddess in Japanese mythology) is a shiso-shin (an original god) for entertainment.</e>
+<cmt>女性の神はgoddessなので置き換えました。また「始祖神」は固有名詞ではないので頭文字を大文字から小文字にしました。</cmt>
+<e type="check" ver="1">Ame no Uzume (a goddess in Japanese mythology) is a shiso-shin (an original god) for entertainment.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>猿田彦命は土地・方位の神であり、天鈿女命の夫神である。</j>
+<e type="trans" ver="1">Sarutahiko no mikoto is the god of land and direction, and is the okami (husband god) of Ame no Uzume.</e>
+<cmt>夫神: not sure of translation.</cmt>
+<e type="trans" ver="2">Sarutahiko no mikoto is the god of land and direction, and is the okami (husband god) of Ame no Uzume.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sarutahiko no mikoto is the god of land and direction, and is the okami (husband god) of Ame no Uzume.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>稗田阿礼は猿女君稗田氏の出で、天鈿女命は猿女君の祖神・氏神である。</j>
+<e type="trans" ver="1">HIEDA no Are comes from Sarume no kimi, the Hieda clan and Ame no Uzume is ujigami (a guardian god or spirit of a particular place in the Shinto religion) of Sarume no kimi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">HIEDA no Are is originally from the Hieda clan of the Sarumenokimi clan, and Ame no Uzume is the ujigami (a guardian god or spirit of a particular place in the Shinto religion) of the Sarumenokimi clan and the deity from which the clan is descended.</e>
+<cmt>猿女君は氏族の名前なので、前後に冠詞と「clan」と追加しました。また「始神」が訳抜けしていたので追加しました。</cmt>
+<e type="check" ver="1">HIEDA no Are is originally from the Hieda clan of the Sarumenokimi clan, and Ame no Uzume is the ujigami (a guardian god or spirit of a particular place in the Shinto religion) of the Sarumenokimi clan and the deity from which the clan is descended.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>中世には「祭神不詳」とされていた。</j>
+<e type="trans" ver="1">In middle ages, it was referred to as &apos;unknown enshrined deity.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the middle ages, no one knew what deities were worshipped at this shrine.</e>
+<cmt>全体を書き直しました。</cmt>
+<e type="check" ver="1">In the middle ages, no one knew what deities were worshipped at this shrine.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>稗田は天鈿女命を祖とする猿女君稗田氏の本拠地であり、祖先の廟祠として創建されたものとみられる。</j>
+<e type="trans" ver="1">Hieda is Sarume no kimi&apos;s hometown, the Hieda clan whose ancestor is Ame no Uzume and was built as Byoshi (worship) for the ancestors.</e>
+<cmt>The original texts are a bit confusing here. Is Hieda being a shrine in this context??</cmt>
+<e type="trans" ver="2">Hieda is the hometown of the Hieda clan of the Sarumenokimi clan, whose progenitor is Ame no Uzume, and Meta-jinja Shrine was built as a byoshi (small shrine) for their ancestors.</e>
+<cmt>わかりにくいので全体的に書き直しました。文脈より「稗田」は地名、「祖先の廟祠として創建されたものとみられる」の主語は「賣太神社」。</cmt>
+<e type="check" ver="1">Hieda is the hometown of the Hieda clan of the Sarumenokimi clan, whose progenitor is Ame no Uzume, and Meta-jinja Shrine was built as a byoshi (small shrine) for their ancestors.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>かつてこの神社は平城京の羅城門付近に存在しており、道祖神としての役割もあったとされる。</j>
+<e type="trans" ver="1">It once existed around Rajomon Gate of Heijo-kyo (the ancient capital of Japan in current Nara) and is said that the shrine had a role as Doso-shin (traveler&apos;s guardian deity).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This shrine once existed near the Rajo-mon Gate of Heijo-kyo (the ancient capital of Japan in current Nara), and it is said that the shrine had a role as a doso-shin (travelers&apos; guardian deity).</e>
+<cmt>わかりやすいように主語を変更しました。Rajo-mon Gateの前には冠詞が必要です。後半部分の文章に主語がないので追加しました。「道祖神」は固有名詞ではないので頭文字を小文字にしました。</cmt>
+<e type="check" ver="1">This shrine once existed near the Rajo-mon Gate of Heijo-kyo (the ancient capital of Japan in current Nara), and it is said that the shrine had a role as a doso-shin (travelers&apos; guardian deity).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="13">
+<j>延喜式神名帳に「大和国添上郡 賣太神社」と記載され、小社に列している。</j>
+<e type="trans" ver="1">It is written as &apos;Meta-jinja Shrine of Yamamura village in Sou upper district, Yamato province&apos; in Jimmyocho (the list of deities) of Engishiki (codes and procedures on national rites and prayers) and is listed in a small shrine section.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The shrine is listed as &apos;Meta-jinja Shrine in Soekami County, Yamato Province&apos; in the Engishiki Jinmyocho (the register of shrines in Japan), and it ranks among shosha (minor shrines).</e>
+<cmt>全体的に書き直しました。添上郡は「そえかみぐん」と読みます。小社は小さい神社というより主要ではない神社という意味の社格です。</cmt>
+<e type="check" ver="1">The shrine is listed as &apos;Meta-jinja Shrine in Soekami County, Yamato Province&apos; in the Engishiki Jinmyocho (the register of shrines in Japan), and it ranks among shosha (minor shrines).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="14">
+<j>江戸時代までは「三社明神」と呼ばれており、明治7年に「十三社明神」となり、明治24年に「賣田神社」、昭和17年に現在の「賣太神社」に改称した。</j>
+<e type="trans" ver="1">Up until the Edo period, it was called &apos;sanja myojin&apos; then became &apos;jusanja myojin&apos; in 1874, &apos;Meta-jinja Shrine&apos; (賣田神社) in 1891, and is currently &apos;Meta-jinja Shrine&apos; (賣太神社).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Up until the Edo period, it was called &apos;Sanja Myojin,&apos; and then it became &apos;Jusanja Myojin&apos; in 1874 followed by &apos;Meta-jinja Shrine&apos; (written as 賣田神社 in Japanese) in 1891, and afterward, the name was changed to the currently-used name &apos;Meta-jinja Shrine&apos; (written as賣太神社 in Japanese) in 1942.</e>
+<cmt>「三社明神」と「十三社明神」は名称なのでそれぞれ頭文字を大文字にしました。「昭和17年に現在の「賣太神社」に改称した。」の部分で年が訳抜け、また全体的に誤訳になっているので書き直しました。</cmt>
+<e type="check" ver="1">Up until the Edo period, it was called &apos;Sanja Myojin,&apos; and then it became &apos;Jusanja Myojin&apos; in 1874 followed by &apos;Meta-jinja Shrine&apos; (written as 賣田神社 in Japanese) in 1891, and afterward, the name was changed to the currently-used name &apos;Meta-jinja Shrine&apos; (written as賣太神社 in Japanese) in 1942.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>祭事</j>
+<e type="trans" ver="1">Festival</e>
+<cmt></cmt>
+<e type="trans" ver="2">Festival</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Festival</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="2">
+<tit>
+<j>阿礼祭</j>
+<e type="trans" ver="1">Are-sai (Are festival)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Are-sai (Are festival)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Are-sai (Are festival)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="15">
+<j>毎年8月16日に行われる阿礼祭（あれいさい）は、稗田阿礼の遺徳を偲ぶ祭である。</j>
+<e type="trans" ver="1">Are-sai is held every August 16 and is the festival to remember the illustrious memory of HIEDA no Are.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Are-sai is held every August 16, and this festival is held to remember the illustrious memory of HIEDA no Are.</e>
+<cmt>後半をわかりやすくまとめました</cmt>
+<e type="check" ver="1">Are-sai is held every August 16, and this festival is held to remember the illustrious memory of HIEDA no Are.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>児童文学者の久留島武彦が、ハンス・クリスチャン・アンデルセンに匹敵する「話の神様」は稗田阿礼が最もふさわしいと、全国各地の童話家の協力を得て昭和5年（1930年）に始めたものである。</j>
+<e type="trans" ver="1">Takehiko KUMESHIMA, a writer for children, decided that HIEDA no Are is equal to Hans Christian Andersen in terms of &apos;the god of tales,&apos; and started the festival with the cooperation of fairy tale writers from around the country in 1930.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takehiko KUMESHIMA, a writer of children&apos;s stories, thought that HIEDA no Are deserved to be called a god of tales like Hans Christian Andersen, and he started the festival backed up by children&apos;s story writers throughout Japan in 1930.</e>
+<cmt>decidedからthe god of talesの箇所が特に不自然だったので書き直しました。</cmt>
+<e type="check" ver="1">Takehiko KUMESHIMA, a writer of children&apos;s stories, thought that HIEDA no Are deserved to be called a god of tales like Hans Christian Andersen, and he started the festival backed up by children&apos;s story writers throughout Japan in 1930.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="17">
+<j>稗田舞の奉納の後、地域の子供たちが阿礼様音頭、阿礼様祭子どもの歌を奉納する。</j>
+<e type="trans" ver="1">After the dedication of Hieda-mai (dance of Hieda), local children dedicate their Are-sama Ondo (dance song for HIEDA no Are) and children&apos;s song for Are-sai.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the dedication of Hieda-mai (dance of Hieda), local children dedicate their Are-sama Ondo (dance song for HIEDA no Are) and children&apos;s song for Are-sai.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">After the dedication of Hieda-mai (dance of Hieda), local children dedicate their Are-sama Ondo (dance song for HIEDA no Are) and children&apos;s song for Are-sai.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>童話の読み聞かせなども行われる。</j>
+<e type="trans" ver="1">There is also storytelling and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They also read books to children.</e>
+<cmt>不自然だったので書き直しました</cmt>
+<e type="check" ver="1">They also read books to children.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>施設</j>
+<e type="trans" ver="1">Facility</e>
+<cmt></cmt>
+<e type="trans" ver="2">Facilities</e>
+<cmt>複数形にしました</cmt>
+<e type="check" ver="1">Facilities</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="19">
+<j>春日神社</j>
+<e type="trans" ver="1">Kasuga-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kasuga-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kasuga-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>嚴島神社</j>
+<e type="trans" ver="1">Itsukushima-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Itsukushima-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Itsukushima-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>八柱神社</j>
+<e type="trans" ver="1">Yahashira-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yahashira-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yahashira-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>語り部の碑</j>
+<e type="trans" ver="1">A stone monument of storyteller</e>
+<cmt></cmt>
+<e type="trans" ver="2">A stone monument of storytellers</e>
+<cmt>storytellerを複数形にしました</cmt>
+<e type="check" ver="1">A stone monument of storytellers</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 釣ちごちゅが(id:22605), Nnh(id:474), Kanjy(id:36859), 怪蘇(id:45514), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

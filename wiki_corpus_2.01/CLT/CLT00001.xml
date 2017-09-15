@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>京都将棋</j>
+<e type="trans" ver="1">Kyoto Shogi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Shogi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Shogi</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>京都将棋（きょうとしょうぎ）とは将棋の一種であり、二人で行なうボードゲーム（盤上遊戯）の一種である。</j>
+<e type="trans" ver="1">Kyoto Shogi is a kind of Shogi, which is a board game played between two people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Shogi is a kind of Shogi, which is a board game played between two people.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Shogi is a kind of board game that is played between two players.</e>
+<cmt>フィードバックに基づき翻訳を修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>1976年に田宮克哉が発表した、ごく新しい将棋である。</j>
+<e type="trans" ver="1">It is a very new kind of Shogi, started In 1976 by Katsuya TAMIYA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a very new kind of Shogi, started in 1976 by Katsuya TAMIYA.</e>
+<cmt>Inを修正。</cmt>
+<e type="check" ver="1">It is a very new kind of Shogi, started in 1976 by Katsuya TAMIYA.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>京都銀閣将棋、京都銀閣金鶏秘譜将棋とも言う。</j>
+<e type="trans" ver="1">Also known as Kyoto Silver Palace Shogi, or Kyoto Silver Palace Kinkei Hifu Shogi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also known as Kyoto Silver Palace Shogi, or Kyoto Silver Palace Kinkei Hifu Shogi.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also known as Kyoto Silver Palace Shogi, or Kyoto Silver Palace Kinkei Hifu Shogi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>こう言うが香車の裏がと金だからで京都には関係ない。</j>
+<e type="trans" ver="1">It is called that because the back of the lance piece is gold, and has nothing to do with Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The game has the names because the back of the lance piece is gold, and it has nothing to do with Kyoto.</e>
+<cmt>自然な表現に修正。</cmt>
+<e type="check" ver="1">The reason why the game has this name is because the back of the lance piece is gold; it has nothing to do with Kyoto.</e>
+<cmt>フィードバックに基づき翻訳を修正しました。</cmt>
+</sen>
+<sen id="5">
+<j>駒を1手ごとに裏返すという斬新なルールで知られる。</j>
+<e type="trans" ver="1">It is known for the unconventional rule that dictates pieces are turned over each turn.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is known for the unconventional rule that pieces should be turned over each turn.</e>
+<cmt>自然な表現に修正。</cmt>
+<e type="check" ver="1">It is known for the unconventional rule that pieces should be turned over each turn.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>大山康晴十五世名人が絶賛したとの逸話がある。</j>
+<e type="trans" ver="1">There is a story that Yasuharu OYAMA, the 15th Shogi Grand Master, praised the game.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a story that Yasuharu OYAMA, the 15th Shogi Grand Master, praised the game.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There is a story that Yasuharu OYAMA, the 15th Shogi Grand Master, praised the game.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>ルール</j>
+<e type="trans" ver="1">Rules</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rules</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rules</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>ほぼ将棋と同様だが、以下の点で異なる。</j>
+<e type="trans" ver="1">Mostly the same as Shogi, but differing in the following points.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mostly the same as Shogi, but differing in the following points.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mostly the same as Shogi, but differing in the following points.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="9">
+<j>盤面は縦横5マス。</j>
+<e type="trans" ver="1">The board has 5 squares on each side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The board has five squares on each side.</e>
+<cmt>数字を修正。</cmt>
+<e type="check" ver="1">The board has five squares on each side.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>自陣・敵陣はない。</j>
+<e type="trans" ver="1">There is no home territory or enemy territory.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is no home territory or enemy territory.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There is no home territory or enemy territory.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="11">
+<j>初期状態では、右図のように駒を配置する。</j>
+<e type="trans" ver="1">The initial placement of pieces is as in the figure at the right.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The initial placement of pieces is as in the right figure.</e>
+<cmt>自然な表現に修正。</cmt>
+<e type="check" ver="1">The initial placement of pieces is as in the right figure.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="12">
+<j>駒は次の5種類。</j>
+<e type="trans" ver="1">There are the following 5 kinds of game pieces.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are the following five kinds of game pieces.</e>
+<cmt>数字を修正。</cmt>
+<e type="check" ver="1">There are the following five kinds of game pieces.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>動きは将棋のものと同じ。</j>
+<e type="trans" ver="1">Their movements are the same as in Shogi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Their movements are the same as in Shogi.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Their movements are the same as in Shogi.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="14">
+<j>玉 - 表裏とも玉将</j>
+<e type="trans" ver="1">Gyoku – Front and back are both King (gyokusho)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gyoku – Front and back are both King (gyokusho)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gyoku – Front and back are both King (gyokusho)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="15">
+<j>香と（きょうと） - 表が香車、裏がと金</j>
+<e type="trans" ver="1">Kyoto – Front is a Lance (kyosha), back is a gold &quot;to&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto – Front is a Lance (kyosha), back is a gold &quot;to&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto – Front is a Lance (kyosha), back is a gold &quot;to&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="16">
+<j>銀角（ぎんかく） - 表が銀将、裏が角行</j>
+<e type="trans" ver="1">Ginkaku – Front is a Silver General (ginsho), back is a Bishop (kakugyo)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ginkaku – Front is a Silver General (ginsho), back is a Bishop (kakugyo)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ginkaku – Front is a Silver General (ginsho), back is a Bishop (kakugyo)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="17">
+<j>金桂（きんけい） - 表が金将、裏が桂馬</j>
+<e type="trans" ver="1">Kinkei – Front is a Gold General (kinsho), back is a Knight (keima)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kinkei – Front is a Gold General (kinsho), back is a Knight (keima)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kinkei – Front is a Gold General (kinsho), back is a Knight (keima)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="18">
+<j>飛歩（ひふ） - 表が飛車、裏が歩兵 (将棋)</j>
+<e type="trans" ver="1">Hifu – Front is a Rook (hisha), back is a Pawn (fuhyo)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hifu – Front is a Rook (hisha), back is a Pawn (fuhyo)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hifu – Front is a Rook (hisha), back is a Pawn (fuhyo)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="19">
+<j>駒は成らず、その代わりに1手動くごとにその駒を裏返す。</j>
+<e type="trans" ver="1">Pieces are not promoted, instead being flipped over each time they move.</e>
+<cmt>In standard Shogi, this means to flip the piece over</cmt>
+<e type="trans" ver="2">Pieces are not promoted, instead being flipped over each time they move.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Pieces are not promoted, instead being flipped over each time they move.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>すなわち駒は1手ごとに性能が変わる。</j>
+<e type="trans" ver="1">That is, they change their function each turn.</e>
+<cmt></cmt>
+<e type="trans" ver="2">That is, they change their function each turn.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">That is, they change their function each turn.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="21">
+<j>将棋同様取った駒は打てるが、表裏どちらで打ってもよい。</j>
+<e type="trans" ver="1">Just as in Shogi, captured pieces can be played, but can be played either on the front or the back.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Just as in Shogi, captured pieces can be played, but can be played either on the front or the back.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Just as in Shogi, captured pieces can be placed anywhere on the board, but can be placed either on the front or the back.</e>
+<cmt>「打つ」の説明を修正</cmt>
+</sen>
+<sen id="22">
+<j>また最後列に歩や桂馬で打っても構わない。</j>
+<e type="trans" ver="1">Also, pawns and knights can be played on the last row.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, pawns and knights can be played on the last row.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also, pawns and knights can be placed on the last row.</e>
+<cmt>「打つ」の説明を修正</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="23">
+<j>打ち歩詰め、二歩は禁止されていない。</j>
+<e type="trans" ver="1">The placing of two pawns in one row, and achieving checkmate by placing a pawn, are not prohibited moves.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The placing of two pawns in one row, and achieving checkmate by placing a pawn, are not prohibited moves.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The placing of two pawns in one row, and achieving checkmate by placing a pawn, are not prohibited moves.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 桜井和人(id:19452), Tamago915(id:11009), KMT(id:1772), Dream100(id:41924), Rei-bot(id:94097), Kyoku(id:2540), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

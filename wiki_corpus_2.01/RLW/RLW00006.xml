@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto City Subway</e>
+<cmt>(http://www.city.kyoto.jp/koho/eng/access/subway.html/)</cmt>
+<e type="trans" ver="2">Kyoto City Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>Municipalと記載されている例が多いようですので、こちらにしました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>京都市営地下鉄（きょうとしえいちかてつ）は、京都市交通局が運営する地下鉄。</j>
+<e type="trans" ver="1">Kyoto City Subway is a subway operated by the Kyoto Municipal Transportation Bureau.</e>
+<cmt>京都交通局→Kyoto Municipal Transoportation Bureau (http://www.city.kyoto.jo/html/kotsu/)</cmt>
+<e type="trans" ver="2">Kyoto City Subway is operated by the Kyoto Municipal Transportation Bureau.</e>
+<cmt>REDUNDANT</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway is operated by the Kyoto Municipal Transportation Bureau.</e>
+<cmt>Kyoto Municipal Subwayとしました。</cmt>
+</sen>
+<sen id="2">
+<j>京都市営地下鉄烏丸線・京都市営地下鉄東西線の2つの路線があり、西京区を除く京都市内10区と宇治市を通っている。</j>
+<e type="trans" ver="1">It consists of two lines, Kyoto City Subway Karasuma Line and Kyoto City SubwayTozai Line, covering the 10 wards except Saikyo Ward, and Uji City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It consists of two lines--the Kyoto City Subway Karasuma Line and Kyoto City Subway Tozai Line--covering the ten wards except for Saikyo Ward, and Uji City.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">It consists of two lines--the Kyoto Municipal Subway Karasuma Line and Kyoto Municipal Subway Tozai Line--covering the ten wards (except for Saikyo Ward) and Uji City.</e>
+<cmt>Kyoto Municipal Subwayとしました。</cmt>
+</sen>
+<sen id="3">
+<j>条例上は「京都市高速鉄道」と呼ばれている。</j>
+<e type="trans" ver="1">In the ordinance, it is denominated &quot;Kyoto Municipal Rapid Trailway&quot;.</e>
+<cmt>京都高速鉄道→Kyoto Municipal Rapid Transit Rail (http://sciencelinks.jp/j-east/article/200216/000020021602A0643902.php)</cmt>
+<e type="trans" ver="2">In the ordinance it is denominated as &quot;Kyoto Municipal Rapid Trailway.&quot;</e>
+<cmt>TRAILWAY??</cmt>
+<e type="check" ver="1">In the ordinance it is denominated as &apos;Kyoto High Speed Railway.&apos;</e>
+<cmt>京都市高速鉄道→Kyoto High Speed Railway →定訳不明　括弧修正</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>路線</j>
+<e type="trans" ver="1">Diagram</e>
+<cmt>以下、駅名、路線名は京都市営地下鉄路線図（英文）を参照（http://www.city.kyoto.jp/koho/eng/access/subway.html/）</cmt>
+<e type="trans" ver="2">Diagram</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Lines</e>
+<cmt>文中の表現とあわせました。</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>竹田駅から近鉄京都線と相互直通運転。</j>
+<e type="trans" ver="1">From Takeda Station it runs through the same track with Kintetsu Kyoto Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Takeda Station it runs through the same track as the Kintetsu Kyoto Line.</e>
+<cmt>USAGE</cmt>
+<e type="check" ver="1">From Takeda Station it runs through the same track as the Kintetsu Kyoto Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>普通列車は新田辺駅、急行は近鉄奈良駅まで運転。</j>
+<e type="trans" ver="1">The local train goes to Shin-Tanabe Station, and the express goes to Kintetsu Nara Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The local train goes to Shin-Tanabe Station, and the express goes to Kintetsu Nara Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The local train goes to Shin-Tanabe Station, and the express goes to Kintetsu Nara Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>京阪京津線の電車が浜大津駅から御陵駅を経て太秦天神川駅まで直通運転（京都市役所前駅で折り返す列車もある）。</j>
+<e type="trans" ver="1">From Hama-Otsu Station the trains on the Keihan Keishin Line are operated through to Uzumasa-Tenjingawa Station via Misasagi Station (some trains turn around at Kyoto Shiyakusho-mae Station).</e>
+<cmt>京津線→定訳不明：読み方（けいしんせん）からKeishin Lineとしました。</cmt>
+<e type="trans" ver="2">From Hama-Otsu Station the trains on the Keihan Keishin Line are operated through to Uzumasa-Tenjingawa Station via Misasagi Station (some trains turn around at Kyoto Shiyakusho-mae Station).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">From Hamaotsu Station the trains on the Keihan Keishin Line are operated through to Uzumasa-Tenjingawa Station via Misasagi Station (but some trains turn around at Kyoto Shiyakusho-mae Station).</e>
+<cmt>浜大津駅の訳を用語リスト#3436参照</cmt>
+</sen>
+<sen id="7">
+<j>京都市営地下鉄の電車は京津線への直通運転を行わない（車両連結両数が違うことや、車両装備の関係で京津線への直通運転は不可能）。</j>
+<e type="trans" ver="1">The trains on Kyoto City Subway (on the other hand) are not operated directly to the Keishin Line (it is impossible to go through to the Keishin Line, because of the difference of the number of cars that can be coupled and the incompatibility of some equipment).</e>
+<cmt>京津線→定訳不明：読み方（けいしんせん）からKeishin Lineとしました。</cmt>
+<e type="trans" ver="2">However, the trains on the Kyoto City Subway aren&apos;t operated directly to the Keishin Line (it is impossible to go through to the Keishin Line, because of the difference in the number of cars that can be coupled and the incompatibility of some equipment).</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">However, the trains on the Kyoto Municipal Subway don&apos;t operate directly to the Keishin Line (it is impossible to go through to the Keishin Line, because of the difference in the number of cars that can be coupled and the incompatibility of certain equipment).</e>
+<cmt>Kyoto Municipal Subwayとしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>1968年に市が設置した諮問機関である交通対策協議会がその年の11月に出した答申が、京都における地下鉄建設計画の始まりである。</j>
+<e type="trans" ver="1">The Subway Construction Project in Kyoto was launched based on the report presented in November, 1968 by the &quot;Kotsutaisaku Kyogikai,&quot; a transport policy council set up by the city in the same year.</e>
+<cmt>地下鉄建設計画→定訳不明：Subway Construction Projectとしました。諮問機関である交通対策協議会→定訳不明：　the &quot;Kotsutaisaku Kyogikai&quot;, transport policy councilとしました。</cmt>
+<e type="trans" ver="2">The Subway Construction Project in Kyoto was launched based on the report presented in November 1968 by the &quot;Kotsutaisaku Kyogikai,&quot; a transport policy council set up by the city in the same year.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">The Subway Construction Project in Kyoto was launched based on the report presented in November 1968 by the Kotsutaisaku Kyogikai, a transport policy council established by the city in the same year.</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="9">
+<j>その後、1972年に事業免許を取得し、1974年に工事を始め、1981年に開業した。</j>
+<e type="trans" ver="1">After the construction was licensed in 1972, the work started in 1974 and the Subway began the operation in 1981.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the construction was licensed in 1972, the work started in 1974 and the subway became operational in 1981.</e>
+<cmt>GRAMMAR, SPACE</cmt>
+<e type="check" ver="1">After the construction was licensed in 1972, the work started in 1974 and the subway became operational in 1981.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>開業当時の京都地下鉄の特色は主要4駅にエレベーターを備えたことで、当時の日本の地下鉄では先進的であった。</j>
+<e type="trans" ver="1">When Kyoto City Subway was inaugurated, its big feature was the elevators equipped in 4 principal stations, which were highly advanced installations for a Japanese subway at that time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When Kyoto City Subway was inaugurated, its big feature was the elevators provided in four principal stations, which were highly advanced installations for a Japanese subway at that time.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">When Kyoto Municipal Subway was inaugurated, its main feature was the elevators provided in four principal stations, which were highly advanced installations for a Japanese subway at that time.</e>
+<cmt>city →municipal</cmt>
+</sen>
+<sen id="11">
+<j>バリアフリーなる用語が広まる前の1972年頃から車椅子常用者、障害者支援団体などが運動をおこして市に請願し、京都市会と舩橋求己市長を動かした成果である。</j>
+<e type="trans" ver="1">This was the result of the campaign launched by the wheelchair users and support groups for the disabled, who had presented petitions and lobbied the Kyoto City Assembly and the mayor, Motoki FUNAHASHI, to take measures since around 1972, although at that time, the word &quot;Barrier-Free&quot; was little known among the people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was the result of a campaign launched by wheelchair users and support groups for the disabled, who had since about 1972 presented petitions and lobbied the Kyoto City Assembly and the mayor, Motoki Funahashi, to take measures, although at that time the term &quot;barrier-free&quot; was little known among the people.</e>
+<cmt>GRAMMAR, STRUCTURE</cmt>
+<e type="check" ver="1">This was the result of a campaign launched by wheelchair users and support groups for the disabled, who had since about 1972 presented petitions and lobbied the Kyoto City Assembly and the mayor, Motoki FUNAHASHI, to take measures, although at that time the term &quot;barrier-free&quot; was little known among the people.</e>
+<cmt>FUNAHASHIと大文字にしました。</cmt>
+</sen>
+<sen id="12">
+<j>市は、そのために当初プラットホームで設計されていた駅を急遽プラットホームに変更し、将来は全駅にエレベーターを設置することにした。</j>
+<e type="trans" ver="1">Then, the city suddenly decided to modify the design of the station to change the initially designed XX platform to YY platform, anticipating to install the elevators in all stations, in the future.</e>
+<cmt>XX, YYで示したところに何か言葉が入るようです。</cmt>
+<e type="trans" ver="2">The city, however, suddenly decided to modify the design of the station and change the initially designed XX platform to the YY platform, anticipating the future installation of elevators in all stations.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The city, however, suddenly decided to modify the design of the station and change the initially designed XX platform to the YY platform, anticipating the future installation of elevators in all stations.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="13">
+<j>1981年（昭和56年）5月29日 烏丸線北大路～京都間が開業。</j>
+<e type="trans" ver="1">May 29, 1981: Karasuma Line began operating between Kitaoji Station and Kyoto Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Karasuma Line started operating between Kitaoji Station and Kyoto Station on May 29, 1981.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">May 29, 1981: The Karasuma Line started operating between Kitaoji Station and Kyoto Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="14">
+<j>1988年（昭和63年）6月11日 烏丸線京都～竹田間が開業。</j>
+<e type="trans" ver="1">June 11, 1988: Karasuma Line began operating between Kyoto Station and Takeda Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Karasuma Line started operating between Kyoto Station and Takeda Station on June 11, 1988.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">June 11, 1988: The Karasuma Line started operating between Kyoto Station and Takeda Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="15">
+<j>1988年（昭和63年）8月28日 烏丸線近鉄京都線と相互直通運転開始・新田辺まで。</j>
+<e type="trans" ver="1">August 28, 1988: Karasuma Line began a shared operation with the Kintetsu Line (up to Shin-Tanabe Station.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Karasuma Line started a shared operation with the Kintetsu Line (up to Shin-Tanabe Station) on August 28, 1988.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">August 28, 1988: The Karasuma Line started a shared operation with the Kintetsu Kyoto Line (up to Shin-Tanabe Station).</e>
+<cmt>近鉄京都線の訳を追加年表表記に統一</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="16">
+<j>1990年（平成2年）10月24日 烏丸線北山～北大路間が開業。</j>
+<e type="trans" ver="1">October 24, 1990: Karasuma Line began operating between Kitayama Station and Kitaoji Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Karasuma Line started operating between Kitayama Station and Kitaoji Station on October 24, 1990.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">October 24, 1990: The Karasuma Line started operating between Kitayama Station and Kitaoji Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="17">
+<j>1993年（平成5年）7月1日 トラフィカ京カードが利用可能に。</j>
+<e type="trans" ver="1">July 1, 1993: Traffica Kyoto Card became available.</e>
+<cmt>トラフィカ京カード(http://www.city.kyoto.jp/koho/eng/access/subway.html/)「利用可能に」とありますが、このカードはバス･地下鉄のみ使用可能なので多分、導入ではないかと思います。</cmt>
+<e type="trans" ver="2">The Traffica Kyoto Card became available on July 1, 1993.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">July 1, 1993: The Traffica Kyoto Card became available.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="18">
+<j>1997年（平成9年）5月22日 御池駅が烏丸御池駅に改称。</j>
+<e type="trans" ver="1">May 22, 1997: Oike Station changed its name to Karasuma Oike Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oike Station changed its name to Karasuma Oike Station, effective on May 22, 1997.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">May 22, 1997: Oike Station changed its name to Karasuma Oike Station, effective.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="19">
+<j>1997年（平成9年）6月3日 烏丸線国際会館～北山間が開業。</j>
+<e type="trans" ver="1">June 3, 1997: Karasuma Line began operating between Kokusaikaikan Station and Kitayama Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Karasuma Line started operating between Kokusaikaikan Station and Kitayama Station on June 3, 1997.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">June 3, 1997: The Karasuma Line started operating between Kokusaikaikan Station and Kitayama Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="20">
+<j>1997年（平成9年）10月12日 東西線醍醐～二条間が開業。</j>
+<e type="trans" ver="1">October 12, 1997: Tozai Line began operating between Daigo Station and Nijo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Tozai Line started operating between Daigo Station and Nijo Station on October 12, 1997.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">October 12, 1997: The Tozai Line started operating between Daigo Station and Nijo Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="21">
+<j>京阪京津線が御陵から京都市役所前まで乗り入れ開始。</j>
+<e type="trans" ver="1">Keihan Keishin Line began using the same track from Misasagi Station to Kyoto Shiyakusho-mae Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Keihan Keishin Line started using the same track from Misasagi Station to Kyoto Shiyakusho-mae Station.</e>
+<cmt>ARTICLE</cmt>
+<e type="check" ver="1">The Keihan Keishin Line started using the same track from Misasagi Station to Kyoto Shiyakusho-mae Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="22">
+<j>2000年（平成12年）3月1日 スルッとKANSAI対応カードが利用可能に。</j>
+<e type="trans" ver="1">March 1, 2000: A convertible card with KANSAI THRU PASS became available.</e>
+<cmt>対応カード→定訳不明、ただし正式名称はSurutto Kansai Miyako Cardで、他線でも使用可能なもののようです。ここではconvertible cardとしました。</cmt>
+<e type="trans" ver="2">A convertible card with KANSAI THRU PASS became available on March 1, 2000.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">March 1, 2000: A card compatible with KANSAI THRU PASS became available.</e>
+<cmt>convertible→compatible年表表記に統一</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="23">
+<j>2000年（平成12年）3月15日 烏丸線国際会館～近鉄奈良間直通の急行を運転開始。</j>
+<e type="trans" ver="1">March 15, 2000: Karasuma Line began operating the direct express trains between Kokusaikaikan Station and Kintetsu Nara Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Karasuma Line started operating the direct express trains between Kokusaikaikan Station and Kintetsu Nara Station on March 15, 2000.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">March 15, 2000: The Karasuma Line started operating the direct express trains between Kokusaikaikan Station and Kintetsu Nara Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="24">
+<j>2004年（平成16年）11月26日 東西線六地蔵～醍醐間が開業。</j>
+<e type="trans" ver="1">November 26, 2004: Tozai Line began operating between Rokujizo Station and Daigo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Tozai Line started operating between Rokujizo Station and Daigo Station on November 26, 2004.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">November 26, 2004: The Tozai Line started operating between Rokujizo Station and Daigo Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="25">
+<j>京都市外の宇治市に初めて地下鉄駅が開業。</j>
+<e type="trans" ver="1">The first subway station was opened in Uji City, a city located on the outskirts of Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uji City, on the outskirts of Kyoto, saw the opening of its first subway station.</e>
+<cmt>MORE EFFECTIVE</cmt>
+<e type="check" ver="1">Uji City, on the outskirts of Kyoto, saw the opening of its first subway station.</e>
+<cmt>OK</cmt>
+</sen>
+<sen id="26">
+<j>駅ナンバリング導入。</j>
+<e type="trans" ver="1">Station numbering system was introduced.</e>
+<cmt>駅ナンバリング→定訳不明：station numbering systemとしました。</cmt>
+<e type="trans" ver="2">A system of station numbering was introduced.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">A system of station numbering was introduced.</e>
+<cmt>OK</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="27">
+<j>2007年（平成19年）4月1日 PiTaPa導入（乗入れしている近畿日本鉄道、京阪電気鉄道大津線も同時導入）。</j>
+<e type="trans" ver="1">Aprl1, 2007: PiTiPa was introduced (also introduced to those lines that were sharing the track, such as Kintetsu Railways and Keihan Electric Railway Otsu Line).</e>
+<cmt>近畿日本鉄道（ｈｔｔｐ://www.Kintetsu.jp）、京阪電気大津線（http://www.kkeihan.co.jp）</cmt>
+<e type="trans" ver="2">PiTiPa was introduced (also introduced to those lines that were sharing the track, such as Kintetsu Railways and Keihan Electric Railway Otsu Line) on April 1, 2007.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">April 1, 2007: PiTaPa was introduced (also introduced to those lines that were sharing the track, such as Kintetsu Railways and Keihan Electric Railway Otsu Line).</e>
+<cmt>PiTaPaに修正年表表記に統一</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="28">
+<j>2008年（平成20年）1月16日 東西線二条～太秦天神川間が開業。</j>
+<e type="trans" ver="1">January 16, 2008: Tozai Line began operating between Nijo Station and Uzumasa-tenjingawa Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Tozai Line started operating between Nijo Station and Uzumasa-tenjingawa Station on January 16, 2008.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">January 16, 2008: The Tozai Line started operating between Nijo Station and Uzumasa-Tenjingawa Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="29">
+<j>京阪京津線の乗り入れ区間を太秦天神川まで延長。</j>
+<e type="trans" ver="1">The shared section with the Keihan Keishin Line was extended to Uzumasa-Tenjingawa Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The section shared with the Keihan Keishin Line was extended to Uzumasa-Tenjingawa Station.</e>
+<cmt>WORD ORDER</cmt>
+<e type="check" ver="1">The section shared with the Keihan Keishin Line was extended to Uzumasa-Tenjingawa Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>料金</j>
+<e type="trans" ver="1">Fares</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fares</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fares</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="30">
+<j>大人普通旅客料金（小児半額・10円未満切り上げ）。</j>
+<e type="trans" ver="1">Normal passenger fare for adults (half fare for children: less than 10 yen is rounded up)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Normal passenger fare for adults (half fare for children, less than 10 yen rounded up)</e>
+<cmt>CLEANER</cmt>
+<e type="check" ver="1">Normal passenger fare for adults (half fare for children, less than 10 yen rounded up)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>2006年1月7日改定。</j>
+<e type="trans" ver="1">Revised on January 7, 2006</e>
+<cmt></cmt>
+<e type="trans" ver="2">Revised on January 7, 2006</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">January 7, 2006: It was revised</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="32">
+<j>2006年1月7日実施の料金改定で政令指定都市における地下鉄の初乗り料金が埼玉高速鉄道と同様に最高額となった。</j>
+<e type="trans" ver="1">January 7, 2006: As a consequence of the fare revision, together with Saitama Railway Corporation, Kyoto City Subway became the most expensive subway as for the base fare among the subways in the ordinance-designated cities.</e>
+<cmt>政令指定都市→ordinance-designated cty (小学館プログレッシブ）埼玉高速鉄道→Saitama Railway Corporation (http://www.s-rail.co.jp/line/index.html)</cmt>
+<e type="trans" ver="2">January 7, 2006: As a result of the fare revision, Kyoto City Subway, together with Saitama Railway Corporation, became the most expensive subway as for the base fare among subways in the ordinance-designated cities.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">January 7, 2006: As a result of the fare revision, Kyoto Municipal Subway, together with Saitama Railway Corporation, became the most expensive subway in terms of base fare among subways in the ordinance-designated cities.</e>
+<cmt>Kyoto Municipal Subwayとしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="33">
+<j>京阪京津線との乗継割引については、京阪電気鉄道運賃の項を参照。</j>
+<e type="trans" ver="1">For the details of the discounted fares in case of using a connecting train to the Keihan Keishin Line, please refer to the section &quot;Keihan Electric Railway fares&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For the details of the discounted fares in case of using a connecting train to the Keihan Keishin Line, please refer to the section &quot;Keihan Electric Railway Fares.&quot;</e>
+<cmt>PUNCTUATION, SPACE</cmt>
+<e type="check" ver="1">For the details of the discounted fares in case of using a connecting train to the Keihan Keishin Line, please refer to the section on Keihan Electric Railway Fares.</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>車両</j>
+<e type="trans" ver="1">Rolling stock</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rolling stock</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rolling stock</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="34">
+<j>烏丸線</j>
+<e type="trans" ver="1">Karasuma Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Karasuma Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karasuma Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="35">
+<j>京都市交通局10系電車</j>
+<e type="trans" ver="1">Kyoto City Subway Series 10</e>
+<cmt>定訳不明：用語リスト#3436参照。ただし、京都市HPの地下鉄名称にあわせMunicipal Subway Series→Kyoto City Subway Seriesにしました。</cmt>
+<e type="trans" ver="2">Kyoto City Subway Series 10</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway Series 10</e>
+<cmt>Kyoto Municipal Subwayとしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="36">
+<j>東西線</j>
+<e type="trans" ver="1">Tozai Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tozai Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tozai Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="37">
+<j>京都市交通局50系電車</j>
+<e type="trans" ver="1">Kyoto City Subway Series 50</e>
+<cmt>定訳不明：用語リスト#3436参照。ただし、京都市HPの地下鉄名称にあわせMunicipal Subway Series→Kyoto City Subway Seriesにしました。</cmt>
+<e type="trans" ver="2">Kyoto City Subway Series 50</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway Series 50</e>
+<cmt>Kyoto Municipal Subwayとしました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="38">
+<j>三菱電機製制御装置と東芝製モーターの組み合わせが一貫して守られているが、台車は10系が住友金属工業、50系が日立製作所と分けられている。</j>
+<e type="trans" ver="1">To these series, a combination of a control device made by Mitsubishi Electric Corp. with a motor by Toshiba is consistently applied, but as for the train body, Series 10 uses the body made by Sumitomo Metal Industries and Series 50 uses the body by Hitachi.</e>
+<cmt>三菱電機→Mitsubishi Electric Corporation、東芝→Toshiba Corp.、住友金属→Sumitomo Metal Industries Ltd.、日立→Hitachi Ltd.（和英翻訳データブック:ジャパンタイムズ編参照）</cmt>
+<e type="trans" ver="2">For these series the combination of a control device made by Mitsubishi Electric Corp. with a motor by Toshiba is consistently applied, but the Series 10 train uses a body made by Sumitomo Metal Industries and the Series 50 uses a body by Hitachi.</e>
+<cmt>ARTICLES</cmt>
+<e type="check" ver="1">For these series the combination of a control device made by Mitsubishi Electric Corp. with a motor by Toshiba is consistently applied, but the Series 10 train uses a body made by Sumitomo Metal Industries and the Series 50 uses a body by Hitachi.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="39">
+<j>10系・50系ともに、基本的には近畿車輛で製造されているが、10系の一部には日立製のものがある。</j>
+<e type="trans" ver="1">Series 10 as well as Series 50 are fabricated by The Kinki Sharyo, though, some trains of the Series 10 are fabricated by Hitachi.</e>
+<cmt>近畿車輛→The Kinki Sharyo (The Kinki Sharyo, Co., Ltd.)(和英翻訳データブック:ジャパンタイムズ編)</cmt>
+<e type="trans" ver="2">Series 10 and Series 50 are fabricated by The Kinki Sharyo Co., but some trains in Series 10 are fabricated by Hitachi.</e>
+<cmt>GRAMMAR, Added &quot;CO.&quot; to &quot;The Kinki Sharp.&quot;</cmt>
+<e type="check" ver="1">Series 10 and Series 50 are fabricated by The Kinki Sharyo Co., but some trains in Series 10 are fabricated by Hitachi.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>経営状況</j>
+<e type="trans" ver="1">Business conditions</e>
+<cmt></cmt>
+<e type="trans" ver="2">Business conditions</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Business conditions</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="40">
+<j>2004年度は約192億5000万円の赤字となっている。</j>
+<e type="trans" ver="1">Fiscal Year 2004, the company ended in a deficit of approximately 19,250,000,000 (19 billion 250 million) yen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In fiscal year 2004, the company ended with a deficit of approximately 19,250,000,000 (19 billion 250 million) yen.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">In fiscal year 2004, the company ended with a deficit of approximately 19,250,000,000 (19 billion 250 million) yen.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>1日あたり約5500万円の赤字とも言われ、累積赤字額は2384億円。</j>
+<e type="trans" ver="1">Some sources say that the company records a loss of around 55,000,000 (55 million) yen every day, with the accumulated deficit of 23,840,000,000 (23 billion 840 million) yen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some sources say the company records a loss of approximately 55,000,000 (55 million) yen every day, which amounts to an accumulated deficit of 23,840,000,000 (23 billion 840 million) yen.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Some sources say the company records a loss of approximately 55,000,000 (55 million) yen every day, which amounts to an accumulated deficit of 238,400,000,000 (238 billion 400 million) yen.</e>
+<cmt>数字を修正</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="42">
+<j>両線とも、古都と言う土地柄ゆえに、開削工法を採用した工区の多くで、文化財保護法によって工事着工前に埋蔵文化財（遺跡）の発掘調査が義務づけられ、そのための経費と期間が必要になった。</j>
+<e type="trans" ver="1">Both lines, which are running in the ancient capital, have suffered financial and time burdens, because prior to the railroading, research on the buried cultural properties (archaeological sites) has been obliged by the Cultural Assets Preservation Act at many of the sites where the company decided to adopt the open-cut method.</e>
+<cmt>開削工法→open-cut method、文化財保護法→the Cultural Assets Preservation Act、埋蔵文化財（遺跡）buried cultural properties (archaeological sites) ともに(英辞郎 on the WEB)</cmt>
+<e type="trans" ver="2">Both lines, which run in the ancient capital, have suffered financial and time burdens because, prior to railroading, research on the buried cultural properties (archaeological sites) was required by the Cultural Assets Preservation Act at many of the sites where the company had decided to employ the open-cut method.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Both lines, which run in the ancient capital, have suffered financial and time burdens because, prior to railroading, research on the buried cultural properties (archaeological sites) was required by the Cultural Assets Preservation Act at many of the sites where the company had decided to employ the open-cut method.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="43">
+<j>昼間の運転間隔は乗り入れる近鉄京都線や京阪京津線に合わせて1時間8本運転されるが、平日昼間は両線ともに（東西線は特に）混雑することは少ない。</j>
+<e type="trans" ver="1">As for operation intervals in the daytime, 8 trains are operated an hour in connection with the shared lines, Kintetsu Kyoto Line and the Keihan Keishin Line, and on weekday afternoons, the trains (especially on the Tozai Line) are seldom crowded.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As for operation intervals in the daytime, eight trains an hour are operated in connection with the shared lines (Kintetsu Kyoto and Keihan Keishin), and on weekday afternoons the trains (especially on the Tozai Line) are seldom crowded.</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">As for operation intervals in the daytime, eight trains an hour are operated in connection with the shared lines (Kintetsu Kyoto Line and Keihan Keishin Line), and on weekday afternoons the trains (particularly those on the Tozai Line) are seldom crowded.</e>
+<cmt>Kintetsu Kyoto Line and Keihan Keishin Lineとしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>営業路線の概要</j>
+<e type="trans" ver="1">Outline of the operation routes</e>
+<cmt></cmt>
+<e type="trans" ver="2">Outline the routes of operation</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Operation Routes</e>
+<cmt>タイトルなので、簡潔にしました。</cmt>
+</tit>
+</sec>
+<copyright>copyright (c) 2010 Yamato-i(id:12357), V-TWIN POWER(id:49244), STBot(id:137943), Mover(id:7146), Kumatora(id:16941), Utsuda(id:605), Zwobot(id:23873), Cfour(id:30340), Gombe(id:27), Rusk(id:9895), Legodoll(id:164966), Ktr(id:30468), 金山銀山銅山(id:163855), Kinori(id:443), Hiro36(id:22800), 秀の介(id:490), ブレービー(id:108476), NRR(id:184861), 三菱善次郎(id:21924), Dnssgh(id:118255), Hno3(id:56786), ジャスト宣言(id:33592), Trashwriter(id:79181), 210.(id:9838), Aoironokanzyousen(id:55140), Sinryow(id:4485), SieBot(id:126695), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>朱印地・黒印地</j>
+<e type="trans" ver="1">Shuinchi/Kokuinchi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shuinchi/Kokuinchi</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Shuinchi/Kokuinchi</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>朱印地・黒印地（しゅいんち・こくいんち）とは、江戸時代に幕府・大名より神社・寺院の領地として安堵（領有権の承認・確認）された土地のことである。</j>
+<e type="trans" ver="1">The term Shuinchi/Kokuinchi means the lands which were secured (approval/confirmation of ownership) by bakufu/daimyo (feudal lords) in the Edo period as the property of shrines/temples.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The term Shuinchi/Kokuinchi means the lands which were secured (approval/confirmation of ownership) by the bakufu/daimyo (feudal lords) in the Edo period as the property of shrines/temples.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">The term Shuinchi/Kokuinchi means the lands which were secured (approval/confirmation of ownership) by the bakufu (Japanese feudal government headed by a shogun)/daimyo (feudal lords) in the Edo period as the property of shrines/temples.</e>
+<cmt>bakufuの補足追加</cmt>
+</sen>
+<sen id="2">
+<j>朱印地は幕府より朱色の印が押された朱印状により、黒印地は大名より黒の印が押された黒印状により所領の安堵がなされたので、その名称がある。</j>
+<e type="trans" ver="1">These name derived from the fact that Shuinchi were secured by bakufu with shuinjo (letter stamped with shuin (red stamp)) and Kokuinchi were secured by daimyo with kokuinjo (letter stamped with kokuin (black stamp)) respectively.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These names derived from the fact that Shuinchi were secured by the bakufu with shuinjo (letter stamped with shuin (red stamp)) and Kokuinchi were secured by the daimyo with kokuinjo (letter stamped with kokuin (black stamp)) respectively.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">These names derived from the fact that Shuinchi were secured by the bakufu with shuinjo (letter stamped with shuin (red stamp)) and Kokuinchi were secured by the daimyo with kokuinjo (letter stamped with kokuin (black stamp)) respectively.</e>
+<cmt>スペース消去</cmt>
+</sen>
+<sen id="3">
+<j>朱印領・黒印領ともいう。</j>
+<e type="trans" ver="1">These are also called Shuinryo/Kokuinryo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These are also called Shuinryo/Kokuinryo.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">These are also called Shuinryo/Kokuinryo.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>元々寺社は寺領・神領などと呼ばれる広大な所領を有していた。</j>
+<e type="trans" ver="1">Shrines/temples used to own vast lands called jiryo (temple estate)/jinryo (shrine estate).</e>
+<cmt>一原文一訳文の例外処理</cmt>
+<e type="trans" ver="2">Shrines/temples used to own vast lands called jiryo (temple estate)/jinryo (shrine estate).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Shrines/temples used to own vast lands called jiryo (temple estate)/jinryo (shrine estate).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>しかし、戦国時代には諸大名により所領が次第に侵蝕されていき、豊臣秀吉の太閤検地によりそれが決定的となった。</j>
+<e type="trans" ver="1">However, they were gradually deprived of their lands by daimyo during the Sengoku period (period of warring states) and finally they lost all lands through taiko kenchi (the cadastral surveys conducted by Hideyoshi) conducted by Hideyoshi TOYOTOMI.</e>
+<cmt>一原文一訳文の例外処理</cmt>
+<e type="trans" ver="2">However, they were gradually deprived of their lands by the daimyo during the Sengoku period (period of warring states) and finally they lost all lands through taiko kenchi (the cadastral surveys conducted by Hideyoshi) conducted by Hideyoshi TOYOTOMI.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">However, they were gradually deprived of their lands by the daimyo during the Sengoku period (period of warring states) and finally they lost all lands through taiko kenchi (the cadastral surveys conducted by Hideyoshi) conducted by Hideyoshi TOYOTOMI.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>江戸時代に入り、各寺社がかつて領有していた土地の一部が寺社に返還され、幕府・大名より朱印状・黒印状によってその所領が安堵された。</j>
+<e type="trans" ver="1">In the Edo period, some lands that were formerly owned by temples/shrines were returned to them and secured by bakufu/daimyo with shuinjo/kokuinjo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Edo period, some lands that were formerly owned by temples/shrines were returned to them and secured by the bakufu/daimyo with shuinjo/kokuinjo.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">In the Edo period, some lands that were formerly owned by temples/shrines were returned to them and secured by the bakufu/daimyo with shuinjo/kokuinjo.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>朱印地・黒印地は寺社の私有地ではなく公領という扱いであるが、領内の租税は免除されており、収益は全て寺社のものとなった。</j>
+<e type="trans" ver="1">Although Shuinchi/Kokuinchi were deemed not as private lands but as public lands, temples/shrines were exempted from tax and all revenues obtained from their lands belonged to them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although Shuinchi/Kokuinchi were deemed not as private lands but as public lands, temples/shrines were exempted from tax and all revenues obtained from lands belonging to them.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Although Shuinchi/Kokuinchi were deemed not as private lands but as public lands, temples/shrines were exempted from tax and all revenues obtained from lands belonging to them.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>しかし、その土地は最も広い日光東照宮でも1万石、最も狭いものではわずか1石であった。</j>
+<e type="trans" ver="1">Among such lands, however, even the largest one, that of Nikko Toshogu shrine, was equivalent to ten thousands Goku crop yield and the smallest one was equivalent to merely one Goku crop yield.</e>
+<cmt>一原文一訳文の例外処理</cmt>
+<e type="trans" ver="2">Among such lands, however, even the largest one, that of Nikko Toshogu shrine, was equivalent to tens of thousands of Goku crop yield and the smallest one was equivalent to merely one Goku crop yield.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Among such lands, however, even the largest one, that of Nikko Toshogu shrine, was equivalent to tens of thousands of koku crop yield and the smallest one was equivalent to merely one koku crop yield.</e>
+<cmt>統一事項より、Goku→kokuに修正</cmt>
+</sen>
+<sen id="9">
+<j>このため、朱印地・黒印地からの収益だけで寺社の経営が成り立った例はほとんどなく、多くは自ら開墾した土地、あるいは大名などから寄進された米や金銭で経営を維持していた。</j>
+<e type="trans" ver="1">Under such circumstances, it was almost impossible to maintain the management of temples/shrines only by the revenues obtained from Shuinchi/Kokuinchi and many of temples/shrines managed to sustain relying on revenues obtained from the lands reclaimed by themselves or rice/money donated by daimyo.</e>
+<cmt>一原文一訳文の例外処理</cmt>
+<e type="trans" ver="2">Under such circumstances, it was almost impossible to maintain the management of temples/shrines only by the revenues obtained from Shuinchi/Kokuinchi and many of temples/shrines managed to sustain themselves relying on revenues obtained from the lands reclaimed by themselves or rice/money donated by the daimyo.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Under such circumstances, it was almost impossible to maintain the management of temples/shrines only by the revenues obtained from Shuinchi/Kokuinchi and many of temples/shrines managed to sustain themselves relying on revenues obtained from the lands reclaimed by themselves or rice/money donated by the daimyo.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>明治4年の「上知令」によって朱印地・黒印地は国有地とされ、寺社にはごくわずかの境内地だけが残された。</j>
+<e type="trans" ver="1">Shuinchi/Kokuinchi became nationally-owned lands by &quot;Jochirei&quot; issued in 1872 and only limited precincts remained as the estate of temples/shrines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shuinchi/Kokuinchi became nationally-owned lands by &quot;Jochirei&quot; issued in 1872 and only limited precincts remained as the estate of temples/shrines.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Shuinchi/Kokuinchi became nationally-owned lands by &apos;Agechi-rei&apos; (confiscation command of territory) issued in 1872 and only limited precincts remained as the estate of temples/shrines.</e>
+<cmt>Jochirei→Agechi-reiとし、補足追加、シングルクォーテーションに変更 (参照: http://dictionary.goo.ne.jp/leaf/jn/2222/m0u/, 用語集)</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Nnh(id:474), R28Bot(id:177951), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

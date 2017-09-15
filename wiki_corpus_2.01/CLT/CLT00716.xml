@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>醸造年度</j>
+<e type="trans" ver="1">Jozonendo (Brewing Year)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jozonendo (Brewing Year)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jozonendo (Brewing Year)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>醸造年度（じょうぞうねんど）とは、醸造業界・酒造業界における一年の区切り方で、毎年の7月1日から翌年の6月30日までをいう。</j>
+<e type="trans" ver="1">Jozonendo is the annual cycle used by brewing and sake (Japanese rice wine) brewing industry that ranges from July 1 each year to June 30 of the following year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jozonendo is the annual cycle used by the brewing industry that ranges from July 1 each year to June 30 of the following year.</e>
+<cmt>repetitions</cmt>
+<e type="check" ver="1">Jozonendo is the annual cycle used by the brewing industry that ranges from July 1 each year to June 30 of the following year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>酒造年度（しゅぞうねんど）、または単に製造年度（せいぞうねんど）ともいう。</j>
+<e type="trans" ver="1">It is also called as Shuzonendo (year of brewery) or simply as seizonendo (year of production).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also called Shuzonendo (sake brewing year) or simply seizonendo (production year).</e>
+<cmt>prepositions; word order</cmt>
+<e type="check" ver="1">It is also called Shuzonendo (sake brewing year) or simply seizonendo (production year).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>英語でBrewing Year (Brewery Year) ということから「BY」と略される。</j>
+<e type="trans" ver="1">It is abbreviated as &apos;BY&apos; since it is called as Brewing Year (Brewery Year) in English.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is abbreviated as &apos;BY&apos; since it is called Brewing Year (Brewery Year) in English.</e>
+<cmt>prepositions; word order</cmt>
+<e type="check" ver="1">It is abbreviated as &apos;BY&apos; since it is called Brewing Year (Brewery Year) in English.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>しかし使われる年数字は西暦ではなく、元号にもとづく。</j>
+<e type="trans" ver="1">However, the number of years used is not based on western almanac but an era name.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the number used for the year is not based on western reckoning but the Japanese era name.</e>
+<cmt>rephrased for clarity</cmt>
+<e type="check" ver="1">However, the number used for the year is not based on western calendar but the Japanese era name.</e>
+<cmt>reckoningをcalendarに変更しました。</cmt>
+</sen>
+<sen id="5">
+<j>たとえば2006年7月1日から2007年6月30日は、2006年が平成18年であることから「BY18」または「18BY」と記される。</j>
+<e type="trans" ver="1">For an example, the cycle ranges from July 1, 2006 to June 30, 2007 is the 18th year of Heisei Era and labeled as &apos;BY18&apos; or &apos;18BY.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">For example, the year from July 1, 2006 to June 30, 2007 is the 18th year of Heisei Era and labeled as &apos;BY18&apos; or &apos;18BY.&apos;</e>
+<cmt>cycle-&gt;year; prepositions</cmt>
+<e type="check" ver="1">For example, the year from July 1, 2006 to June 30, 2007 is the 18th year of Heisei Era and labeled as &apos;BY18&apos; or &apos;18BY.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>古酒や大古酒といった語の定義は統一されていないようであるが、蔵人言葉では醸造年度を越したものはすべて「古酒」と呼ぶ。</j>
+<e type="trans" ver="1">Terms such as kusu (well-cured sake) or vintage sake are not defined, and all sake that were brewed beyond the Jozonendo are called as &apos;kusu&apos; according to a skilled sake brewer language.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Terms such as kusu (well-cured sake) or vintage sake are not defined, and all sake that were brewed beyond the Jozonendo are called &apos;kusu&apos; in brewery lingo.</e>
+<cmt>brewery lingo</cmt>
+<e type="check" ver="1">Terms such as kusu (well-cured sake) or vintage sake are not defined, and all sake that were brewed beyond the Jozonendo are called &apos;kusu&apos; in brewery lingo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>だから、6月に造った酒でも9月に出荷すれば「古酒」である。</j>
+<e type="trans" ver="1">As a result, even sake that is made in June and shipped in September is considered as &apos;Kusu.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a result, even sake that is made in June and shipped in September is considered &apos;Kusu.&apos;</e>
+<cmt>prepositions</cmt>
+<e type="check" ver="1">As a result, even sake that is made in June and shipped in September is considered &apos;Kusu.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 BitBucket(id:30999), Isourou(id:31617), ぱむ(id:24323), Nevylax(id:38464), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

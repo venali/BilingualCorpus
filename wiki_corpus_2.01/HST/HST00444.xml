@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>年料舂米</j>
+<e type="trans" ver="1">Nenryoshomai</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nenryoshomai</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nenryoshomai</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>年料舂米（ねんりょうしょうまい）とは、日本の律令制において、令制国より毎年一定量の白米を中央に貢進させる制度、またその舂米そのもののこと。</j>
+<e type="trans" ver="1">Nenryoshomai was the term for the shomai itself or the system under the Ritsuryo system which required a designated amount of white rice from the province countries to be tithed to the central government every year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nenryoshomai was the term for the shomai itself or the system under the Ritsuryo system which required a designated amount of white rice from the province countries to be tithed to the central government every year.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nenryoshomai was the term for the shomai itself or the system under the Ritsuryo system which required a designated amount of white rice from the provinces to be tithed to the central government every year.</e>
+<cmt>province countries→provinces</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>田令によれば、租として納められた稲穀は一旦正倉として納められて正税とされたが、そのうちの一部を精米して所属する国に対して指定された時期（2-8月）に都へと運んだ。</j>
+<e type="trans" ver="1">According to the Denryo, raw grain collected as So was taken to the Shoso and considered shozei but part was refined into white rices and transported to the capital at the designated period (February to August) depending upon the province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the Denryo, raw grain collected as So was taken to the Shoso and considered shozei but part was refined into white rices and transported to the capital during the designated period (February to August) depending upon the province.</e>
+<cmt>prepositions</cmt>
+<e type="check" ver="1">According to the Denryo, raw grain collected as So was taken to the Shoso (public repository) and considered shozei (rice tax) but part of them was refined into white rice and transported to the capital during the designated period (February to August) depending upon the province they belonged.</e>
+<cmt>一原文一訳文例外対処(public repository)(rice tax)they belongedを追加</cmt>
+</sen>
+<sen id="3">
+<j>租を納める農民の個人負担によったが、後に民部省格式によって官による運送費の支給が定められる。</j>
+<e type="trans" ver="1">The costs of refinement and transport was paid by the farmer who paid So, but later the transport costs were paid by the Kan determined by the Ministry of Popular Affairs kakushiki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The costs of milling and transport was paid by the farmer who paid So, but later the transport costs were paid by the Kan determined by the Ministry of Popular Affairs kakushiki.</e>
+<cmt>refinement-&gt;milling</cmt>
+<e type="check" ver="1">The costs of milling and transport was paid by the farmer who paid So, but later the transport costs were paid by the government according to the Kyakushiki (regulations) of the Ministry of Popular Affairs.</e>
+<cmt>一原文一訳文例外対処Kan determined by the Ministry of Popular Affairs kakushiki→government according to the Kyakushiki (regulations) of the Ministry of Popular Affairs</cmt>
+</sen>
+<sen id="4">
+<j>朝廷の大炊寮に貢進して京官官人の常食（月給）に充てられた。</j>
+<e type="trans" ver="1">This was donated to the Daisuiryo of the court and used to pay the Kyokan kanjin &apos;s Jyoshoku(monthly salary).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was donated to the Daisuiryo of the court and used to pay the Kyokan kanjin&apos;s Jyoshoku (monthly salary).</e>
+<cmt>spacing</cmt>
+<e type="check" ver="1">This was donated to the Oiryo (Bureau of Palace Kitchens under the Ministry of the Imperial Household) and used to pay the Kyokan kanjin&apos;s Jyoshoku (monthly salary).</e>
+<cmt>一原文一訳文例外対処Daisuiryo of the court→Oiryo (Bureau of Palace Kitchens under the Ministry of the Imperial Household)</cmt>
+</sen>
+<sen id="5">
+<j>当初は田令の規定通り田租の一部が貢進されたが、田租を不動穀として備蓄する制度が始まると、国司による出納が許されていた動用倉正税の中から出挙が行われ、それによって得られた利息の一部を田租に替わって年料舂米にあてるようになった。</j>
+<e type="trans" ver="1">Initially，part of Taso was donated as determined by the Denryo, but after the system where Taso became stored as Fudokoku started, Suikyo was taken from the Doyoso Shozei that was allowed to be taken out by the Kunishi, part of the interest earned from this was used instead of Taso to pay for Nenryoshomai.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Initially, part of Taso was donated as determined by the Denryo, but after the system for storing Taso as Fudokoku started, Suikyo was taken from the Doyoso Shozei that was allowed to be taken out by the Kunishi, part of the interest earned from this was used instead of Taso to pay for Nenryoshomai.</e>
+<cmt>Double-byte characters; rephrased a portion</cmt>
+<e type="check" ver="1">Initially, part of Denso was donated as determined by the Denryo, but after the system for storing Denso as Fudokoku (staples for an emergency) started, Suiko (government loans, often seed rice) was taken from the Doyoso Shozei (movable resource) that was allowed to be taken out by the Kunishi, part of the interest earned from this was used instead of Denso to pay for Nenryoshomai.</e>
+<cmt>Taso→DensoSuikyo→Suiko (government loans, often seed rice)(movable resource)</cmt>
+</sen>
+<sen id="6">
+<j>正税帳や平城宮跡から発掘された木簡などによって、天平年間にはシステムとして確立されていたこと、貢進は5斗（1俵）単位で行われたこと、ウマを用いて輸送する場合には1頭あたり3俵を運ぶと決められていたことが判明している。</j>
+<e type="trans" ver="1">The Shozeicho and wooden tablets found from the Heijyo site have shown that this was established as a system around the Tenpyo era and donations were made in 5 sho (1 tawara) units, and it was determined that 3 tawara per head was to be transported if using a horse.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Shozeicho and wooden tablets found from the Heijo site have shown that this was established as a system around the Tenpyo era and donations were made in units of 5 sho (1 tawara), and it was determined that 3 tawara per head was to be transported if using a horse.</e>
+<cmt>units of...; spelling</cmt>
+<e type="check" ver="1">The Shozeicho and wooden tablets found from the Heijo site have shown that this was established as a system around the Tenpyo era and donations were made in units of 5 &quot;to&quot; (1 hyo/pyo), and it was determined that 3 hyo/pyo per head was to be transported if using a horse.</e>
+<cmt>sho→&quot;to&quot;tawara→hyo/pyo</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>延喜式においては、畿内周辺及び沿岸諸国を中心とした22ヶ国より貢進が行われ、大炊寮に対して白米17,330石 (単位)ともち米260斛、内蔵寮に対して黒米200斛、民部省に対して黒米500斛の貢進が行われた。</j>
+<e type="trans" ver="1">&quot;Engishiki&quot; (an ancient book for codes and procedures on national rites and prayers) states that about 22 provinces surrounding Kinai and the coastal provinces donated 17,330 koku of white rice and 260 koku(measure, unit of volume, about 180 liters) of mochi riche to the Oiryo (Bureau of Palace Kitchens under the Ministry of the Imperial Household), 200 koku of black rice to the Kuraryo (Bureau of Palace Storehouses) and 500 koku (measure, unit of volume, about 180 liters) of black rice to the Minbusho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Engishiki&quot; (an ancient book for codes and procedures on national rites and prayers) states that about 22 provinces surrounding Kinai and the coastal provinces donated 17,330 koku of white rice and 260 koku of mochi rice to the Oiryo (Bureau of Palace Kitchens under the Ministry of the Imperial Household), 200 koku of black rice to the Kuraryo (Bureau of Palace Storehouses) and 500 koku of black rice to the Minbusho.</e>
+<cmt>spacing; deleted the parenthetical explanations of “koku,” which was odd in that it was repeated twice in this sentence, but not at every, or even the first, instance of the term</cmt>
+<e type="check" ver="1">&quot;Engishiki&quot; (an ancient book for codes and procedures on national rites and prayers) states that about 22 provinces surrounding Kinai and the coastal provinces donated 17,330 koku of white rice and 260 koku of mochi rice to the Oiryo (Bureau of Palace Kitchens under the Ministry of the Imperial Household), 200 koku of black rice to the Kuraryo (Bureau of Palace Storehouses) and 500 koku of black rice to the Minbusho (Ministry of Popular Affairs).</e>
+<cmt>(Ministry of Popular Affairs)を追加</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>なお、後年において不動穀の一部を中央に貢進させる年料租舂米の制が布かれた際には主として年料舂米負担国が対象とされている。</j>
+<e type="trans" ver="1">When the Nenryososhomai system which required part of the Fudokoku (emergency grain) to be tithed to the central government, the target of the system was mainly the Nenryoshomai provinces.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the Nenryososhomai system required part of the Fudokoku (emergency grain) to be tithed to the central government, the target of the system was mainly the Nenryoshomai provinces.</e>
+<cmt>deleted “which”</cmt>
+<e type="check" ver="1">When the Nenryososhomai system required part of the Fudokoku (emergency grain) to be tithed to the central government, the target of the system was mainly the Nenryoshomai provinces.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Kaboyose-DSD(id:123658), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

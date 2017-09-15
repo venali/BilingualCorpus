@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>関所</j>
+<e type="trans" ver="1">Sekisho (Barrier Checkpoint)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sekisho (Barrier Station)</e>
+<cmt>Checkpoint→Station と修正しました。</cmt>
+<e type="check" ver="1">Sekisho (Barrier Station)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>関所（せきしょ）とは、交通の要所に設置された、徴税や検問のための施設である。</j>
+<e type="trans" ver="1">Sekisho (barrier checkpoints) were facilities set up at key traffic chokepoints in order to collect taxes and perform inspections.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sekisho (barrier station) were facilities installed at the important points of traffic, in order to collect taxes and perform inspections.</e>
+<cmt>文脈より修正しました。</cmt>
+<e type="check" ver="1">Sekisho (barrier station) were facilities installed at the important points of traffic, in order to collect taxes and perform inspections.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>単に関（せき）とも。</j>
+<e type="trans" ver="1">Sekisho were also sometimes referred to simply as &quot;seki&quot; (barriers).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sekisho were also referred to simply as &quot;seki&quot; (barriers).</e>
+<cmt>sometimes を削除しました。</cmt>
+<e type="check" ver="1">Sekisho were also referred to simply as &quot;seki&quot; (barriers).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>陸路（街道）上に設置された関所は「道路関」、海路に設置された関所は「海路関」とも呼ばれる。</j>
+<e type="trans" ver="1">Those barrier checkpoints set up along overland routes (highways) were called &quot;road barriers,&quot; while those established along sea trade routes were called &quot;sea route barriers.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Those barrier stations installed along overland routes (roads, highways) were called &quot;road barriers,&quot; while those established along sea trade routes were called &quot;sea route barriers.&quot;</e>
+<cmt>checkpoints→stations,set up→installed と修正しました。カッコ内にroad を補いました。（これ以降の”街道”の訳を補うため。用語集上はこれが主、またウェブ上でも街道＝Road の記述が多いことから）</cmt>
+<e type="check" ver="1">Those barrier stations installed along overland routes (roads, highways) were called &quot;road barriers,&quot; while those established along sea trade routes were called &quot;sea route barriers.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>陸路では、峠や川に設置されることが多い。</j>
+<e type="trans" ver="1">Most of the barriers on overland routes were set up near mountain passes or rivers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Most of the barriers on overland routes were installed at mountain passes or rivers.</e>
+<cmt>set up→installed,near→at と修正しました。</cmt>
+<e type="check" ver="1">Most of the barriers on overland routes were installed at mountain passes or rivers.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>日本</j>
+<e type="trans" ver="1">Barriers in Japan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Barriers in Japan</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Barriers in Japan</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="2">
+<tit>
+<j>古代</j>
+<e type="trans" ver="1">Barriers in ancient Japan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Barriers in ancient Japan</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Barriers in ancient Japan</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>日本では古代に既に制度化されており、東海道の鈴鹿関、東山道の不破関、北陸道の愛発関が畿内を防御するために特に重視され、これを三関という。</j>
+<e type="trans" ver="1">Even from its most ancient times Japan already possessed the system of barrier checkpoints; among the barriers of ancient Japan, three, namely the Suzuka-no-seki barrier along the Tokaido highway, the Fuwa-no-seki barrier on the Tosando highway, and the Arachi-no-seki barrier along the Hokurikudo highway, were considered especially significant given their intended role of guarding the entrances to the Kinai region (the central region around the capital), and were thus termed the sangen (the Big Three Barriers).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even from its most ancient times Japan already possessed the system of barrier checkpoints; among the barriers of ancient Japan, three, namely the Suzuka-no-seki barrier along the Tokaido Road, the Fuwa-no-seki barrier on the Tosando Road, and the Arachi-no-seki barrier along the Hokurikudo Road, were considered especially significant given their intended roles of guarding the entrances to the Kinai region (the central region around the capital), and were thus termed the sangen (the three major barrier stations).</e>
+<cmt>highway→Road,role→roles,Big Three Barriers→three major barrier stations と修正しました。</cmt>
+<e type="check" ver="1">Even from its most ancient times Japan already possessed the system of barrier checkpoints; among the barriers of ancient Japan, three, namely the Suzuka-no-seki barrier along the Tokaido Road, the Fuwa-no-seki barrier on the Tosando Road, and the Arachi-no-seki barrier along the Hokurikudo Road, were considered especially significant given their intended roles of guarding the entrances to the Kinai region (the central region around the capital), and were thus termed the sangen (the three major barrier stations).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>三関から東は東国または関東と呼ばれた。</j>
+<e type="trans" ver="1">All the land east of the Big Three Barriers was called either Togoku (the Eastern lands) or Kanto (literally &quot;east of the barriers&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">All the land east of the three major barrier stations was called either Togoku (the Eastern lands) or Kanto (literally &quot;east of the barriers&quot;).</e>
+<cmt>Big Three Barriers→three major barrier stations と修正しました。</cmt>
+<e type="check" ver="1">All the land east of the three major barrier stations was called either Togoku (the Eastern lands) or Kanto (literally &quot;east of the barriers&quot;).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>平安時代中期以後は、愛発関に代わり、逢坂関が三関に加えられた。</j>
+<e type="trans" ver="1">From the mid-Heian period onwards, the Ausaka (Osaka) no seki barrier replaced the Arachi-no-seki barrier as one of the Big Three Barriers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From the mid-Heian period onwards, the Ausaka (Osaka) no seki barrier replaced the Arachi-no-seki barrier as one of the three major barrier stations.</e>
+<cmt>Big Three Barriers→three major barrier stations と修正しました。</cmt>
+<e type="check" ver="1">From the mid-Heian period onwards, the Ausaka (Osaka) no seki barrier replaced the Arachi-no-seki barrier as one of the three major barrier stations.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>三関のほか、東海道の駿河・相模国境には足柄関、同じく東海道の常陸・陸奥国境には勿来、東山道の信濃・上野国境には碓氷峠、同じく東山道の下野・陸奥国境には白河関、北陸道の越後・出羽国境には鼠ヶ関がそれぞれ設置された。</j>
+<e type="trans" ver="1">In addition to the Big Three Barriers, several other barriers were also erected, including: along the Tokaido highway, the Ashigara no seki Barrier on the border of Suruga and Sagami provinces and the Nakoso barrier on the border of Hitachi and Mutsu provinces; along the Tosando highway, the Usui-toge Pass Barrier on the border of Shinano and Kozuke provinces and the Shirakawa-no-seki Barrier on the border of Shimotsuke and Hitachi provinces; and along the Hokurikudo highway, the Nezumigaseki Barrier on the border of Echigo and Dewa provinces.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition to the three major barrier stations, several other barriers were also erected, including: along the Tokaido Road, the Ashigara no seki Barrier on the border of Suruga and Sagami Provinces and the Nakoso barrier on the border of Hitachi and Mutsu Provinces; along the Tosando Road, the Usui-toge Pass Barrier on the border of Shinano and Kozuke Provinces and the Shirakawa-no-seki Barrier on the border of Shimotsuke and Hitachi Provinces; and along the Hokurikudo Road, the Nezumigaseki Barrier on the border of Echigo and Dewa Provinces.</e>
+<cmt>Big Three Barriers→three major barrier stations,highway→Road,provinces→Provinces, と修正しました。</cmt>
+<e type="check" ver="1">In addition to the three major barrier stations, several other barriers were also erected, including: along the Tokaido Road, the Ashigara no seki Barrier on the border of Suruga and Sagami Provinces and the Nakoso barrier on the border of Hitachi and Mutsu Provinces; along the Tosando Road, the Usui-toge Pass Barrier on the border of Shinano and Kozuke Provinces and the Shirakawa-no-seki Barrier on the border of Shimotsuke and Hitachi Provinces; and along the Hokurikudo Road, the Nezumigaseki Barrier on the border of Echigo and Dewa Provinces.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>このうち、念珠関・白河関・勿来関を「奥羽三関」という。</j>
+<e type="trans" ver="1">Among these various barriers, the Nezumigaseki, Shirakawa, and Nakoso Barriers were known as the &quot;Big Three Barriers of the Ou region (Mutsu and Dewa).&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Among these various barriers, the Nezumigaseki, Shirakawa, and Nakoso Barriers were known as the &apos;Big Three Barriers of the Ou region&apos; (Mutsu and Dewa).</e>
+<cmt>クォーツを修正しました。</cmt>
+<e type="check" ver="1">Among these various barriers, the Nezumigaseki, Shirakawa, and Nakoso Barriers were known as the &apos;Big Three Barriers of the Ou region&apos; (Mutsu and Dewa).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>中世</j>
+<e type="trans" ver="1">Barriers in the medieval period</e>
+<cmt></cmt>
+<e type="trans" ver="2">Barriers in the medieval period</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Barriers in the medieval period</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="10">
+<j>中世には、朝廷や武家政権、荘園領主・有力寺社などの権門勢家がおのおの独自に関所を設置し、金儲けのため、関銭（通行税）を徴収した。</j>
+<e type="trans" ver="1">During Japan&apos;s middle ages, powerful and influential families or other groups, including the Imperial Court, the various warrior governments, lords of private estates, and powerful temples and shrines all established their own dedicated barrier checkpoints, levying a &quot;barrier toll&quot; (also known as a &quot;passage tax&quot;) at such barriers in order to make money.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During Japan&apos;s middle ages, powerful and influential families or other groups, including the Imperial Court, the various warrior governments, lords of private estates, and powerful temples and shrines all established their own dedicated barrier stations, levying a &quot;barrier toll&quot; (also known as a &quot;passage tax&quot;) at such barriers in order to make money.</e>
+<cmt>checkpoints→stations と修正しました。</cmt>
+<e type="check" ver="1">During Japan&apos;s middle ages, powerful and influential families or other groups, including the Imperial Court, the various warrior governments, lords of private estates, and powerful temples and shrines all established their own dedicated barrier stations, levying a &quot;barrier toll&quot; (also known as a &quot;passage tax&quot;) at such barriers in order to make money.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>室町時代には京都七口関が設置され、京都に入るにはいずれかの関所を通行せざるを得ない状況が生まれた。</j>
+<e type="trans" ver="1">During the Muromachi period, the seven barriers of the Kyoto nanakuchi (seven roads into Kyoto) were erected, leading to a state of affairs in which anyone entering Kyoto would have no choice but to pass through one of the barrier checkpoints.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the Muromachi period, the seven barriers of the Kyoto nanakuchi (seven roads into Kyoto) were erected, leading to a state of affairs in which anyone entering Kyoto would have no choice but to pass through one of the barrier stations.</e>
+<cmt>checkpoints→stations と修正しました。</cmt>
+<e type="check" ver="1">During the Muromachi period, the seven barriers of the Kyoto nanakuchi (seven roads into Kyoto) were erected, leading to a state of affairs in which anyone entering Kyoto would have no choice but to pass through one of the barrier stations.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="12">
+<j>戦国時代 (日本)には、各地の戦国大名が領国の一円知行を強めた結果、多様な主体が銘々に設置する関所は否定され、次第に減少していった。</j>
+<e type="trans" ver="1">During Japan&apos;s Warring States period, the sengoku (warring) daimyo ruling the various parts of Japan intensified their complete proprietary control over their own domains, and as a result the barrier checkpoints that had been erected by all the various influential players lost their significance, and gradually fell into decline.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the Sengoku Period (Period of Warring States) (Japan), the sengoku (warring) daimyo ruling the various parts of Japan intensified their complete proprietary control over their own domains, and as a result the barrier stations that had been erected by all the various influential players lost their significance, and gradually fell into decline.</e>
+<cmt>「戦国時代」を修正しました。checkpoints→stations と修正しました。</cmt>
+<e type="check" ver="1">During the Sengoku Period (Period of Warring States) (Japan), the sengoku (warring) daimyo ruling the various parts of Japan intensified their complete proprietary control over their own domains, and as a result the barrier stations that had been erected by all the various influential players lost their significance, and gradually fell into decline.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>天下統一事業を遂行した織田信長・豊臣秀吉は、関所の廃止を徹底して実施した。</j>
+<e type="trans" ver="1">Nobunaga ODA and Hideyoshi TOYOTOMI, who between them accomplished the task of reunifying Japan, completely and thoroughly abolished the barrier checkpoint system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nobunaga ODA and Hideyoshi TOYOTOMI, who between them accomplished the task of unifying the whole country, completely and thoroughly abolished the barrier checkpoint system.</e>
+<cmt>reunifying Japan→unifying the whole country と修正しました。</cmt>
+<e type="check" ver="1">Nobunaga ODA and Hideyoshi TOYOTOMI, who between them accomplished the task of unifying the whole country, completely and thoroughly abolished the barrier checkpoint system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>近世・近代</j>
+<e type="trans" ver="1">Barriers during the early modern and modern periods</e>
+<cmt></cmt>
+<e type="trans" ver="2">Barriers during the early modern and modern periods</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Barriers during the early modern and modern periods</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="14">
+<j>江戸時代には、江戸幕府や諸藩が、軍事・警察上の必要から再び関所を設置した。</j>
+<e type="trans" ver="1">During the Edo period, the Edo shogunate and the various domains re-established barrier checkpoints, as they were necessary for military and police purposes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Edo period, the Edo bakufu (Japanese feudal government headed by a shogun) and the various domains re-established barrier checkpoints, as they were necessary for military and police purposes.</e>
+<cmt>During→In,「江戸幕府」を修正しました。</cmt>
+<e type="check" ver="1">In the Edo period, the Edo bakufu (Japanese feudal government headed by a shogun) and the various domains re-established barrier checkpoints, as they were necessary for military and police purposes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>主な関所には、東海道の箱根関や新居関所や鈴鹿関、中山道の碓氷関所や福島宿、甲州街道の小仏関所、日光街道の栗橋宿などがある。</j>
+<e type="trans" ver="1">Important barrier checkpoints during this period included the Hakone-seki, Arai-seki and Suzuka-no-seki Barriers along the Tokaido highway, the Usui and Fukushima-yado Barriers along the Nakasendo highway, the Kobotoke Barrier along the Koshu-kaido highway, and the Kuribashi-yado Barrier on the Nikko-kaido highway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Important barrier checkpoints included, the Hakone-no-seki, Arai-sekisho and Suzuka-no-seki Barriers along the Tokaido Road, the Usui-sekisho and Fukushima-yado Barriers along the Nakasendo Road, the Kobotoke-sekisho Barrier along the Koshu-kaido Road, and the Kuribashi-yado Barrier on the Nikko-kaido Road.</e>
+<cmt>during this period を削除しました。カンマを補いました。「箱根関＝はこねのせき」の記述がウェブ上多く見られるのでそのようにしました。それぞれ必要に応じて、seki→sekisho と修正しました。　highway→Road と修正しました。</cmt>
+<e type="check" ver="1">Important barrier checkpoints included, the Hakone-no-seki, Arai-sekisho and Suzuka-no-seki Barriers along the Tokaido Road, the Usui-sekisho and Fukushima-yado Barriers along the Nakasendo Road, the Kobotoke-sekisho Barrier along the Koshu-kaido Road, and the Kuribashi-yado Barrier on the Nikko-kaido Road.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="16">
+<j>これら関所は幕府直営では無く近隣の大名や旗本などに業務委託されていた。</j>
+<e type="trans" ver="1">The abovementioned barrier checkpoints were not under the direct control of the shoguante, but rather were entrusted to the supervision of nearby daimyo, hatamoto (shogunal vassals) or other such figure.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The above mentioned barrier checkpoints were not under the direct control of the bakufu, but rather were entrusted to the supervision of nearby daimyo, hatamoto (shogunal vassals) or other such figures.</e>
+<cmt>abovementioned→ above mentioned,shoguante→bakufu,figure→figures と修正しました。</cmt>
+<e type="check" ver="1">The above mentioned barrier checkpoints were not under the direct control of the bakufu, but rather were entrusted to the supervision of nearby daimyo, hatamoto (shogunal vassals) or other such figures.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="17">
+<j>関所の番人は陪臣身分ではあったが幕府の役人であっても祝儀名目の通行料を支払わされるなど大変な権勢を誇った。</j>
+<e type="trans" ver="1">The position of barrier checkpoint guard brought one only baishin (rear shogunal vassal) status, but in fact such guards came to wield enormous influence thanks to the fact that passersby, under the guise of giving &quot;tips,&quot; were made to pay passage fees despite the fact that the guards were shogunal officials.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The status of the guards at the barrier checkpoints was baishin (indirect vassal), but in fact such guards came to wield enormous influence due to the fact that passersby, under the guise of giving &quot;tips,&quot; were made to pay passage fees despite the fact that the guards were shogunal officials.</e>
+<cmt>the を補いました。カッコ内を修正しました。thanks to→due to と修正しました。</cmt>
+<e type="check" ver="1">The status of the guards at the barrier checkpoints was baishin (indirect vassal), but in fact such guards came to wield enormous influence due to the fact that passersby, under the guise of giving &quot;tips,&quot; were made to pay passage fees despite the fact that the guards were shogunal officials.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="18">
+<j>これらの関所を通行しようとする者は、通行手形を提示し、関所による確認を受けた。</j>
+<e type="trans" ver="1">Anyone wishing to pass through such barriers would first have to submit a checkpoint passage license to the checkpoint and then receive confirmation of payment from the checkpoint staff.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Anyone wishing to pass through such barriers would first have to present a checkpoint passage license to the checkpoint, and then received the confirmation from the checkpoint staff.</e>
+<cmt>submit→present,カンマ、the を補いました。receive→received,of payment を削除しました。</cmt>
+<e type="check" ver="1">Anyone wishing to pass through such barriers would first have to present a checkpoint passage license to the checkpoint, and then received the confirmation from the checkpoint staff.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>特に江戸から西方へつながる東海道沿いの関所では、女性と鉄砲の通行が厳しい制限を受けていた。</j>
+<e type="trans" ver="1">Restrictions on allowing women and firearms to pass were strict, particularly at the barrier checkpoints along the Tokaido highway from Edo on westwards.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Restrictions on allowing women and firearms to pass were strict, particularly at the barrier checkpoints along the Tokaido Road from Edo on westwards.</e>
+<cmt>highway→Road と修正しました。</cmt>
+<e type="check" ver="1">Restrictions on allowing women and firearms to pass were strict, particularly at the barrier checkpoints along the Tokaido Road from Edo on westwards.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>これを「入鉄砲出女」と言うが、江戸在住の大名の妻が密かに領国へ帰国することと、江戸での軍事活動を可能にする江戸方面への鉄砲の流入の2つが、幕府によって厳重に規制されたのである（童謡「通りゃんせ」）。</j>
+<e type="trans" ver="1">These were collectively known as the restriction on &quot;letting in guns and letting out women,&quot; referring to the severe limitations placed by the shogunate on two things, namely the ability of the wives of daimyo stationed in Edo to return in secret to their own territories, and the influx of guns into the Edo region, the latter of which might render military action against the shogunate feasible (in a then-current children&apos;s rhyme, this was known as the &quot;Ain&apos;t gettin&apos; by!&quot; restriction).</e>
+<cmt>I have added &quot;against the shogunate&quot; for reasons of clarity, since otherwise it sounds as though the shogunate wished to stop the influx of guns in order to prevent its OWN forces from being able to engage in military action.</cmt>
+<e type="trans" ver="2">These were collectively known as the restriction on &quot;letting in guns and letting out women,&quot; referring to the severe limitations placed by the bakufu on two things, namely the ability of the wives of daimyo stationed in Edo to return in secret to their own territories, and the influx of guns into the Edo region, the latter of which might render military action against the bakufu feasible (In a children&apos;s song, &quot;Toryanse&quot; [Ain&apos;t gettin&apos; by!].)</e>
+<cmt>shogunate→bakufu と修正しました。カッコ内、ピリオドを修正しました。「通りゃんせ」の定訳については確認できておりません。</cmt>
+<e type="check" ver="1">These were collectively known as the restriction on &quot;letting in guns and letting out women,&quot; referring to the severe limitations placed by the bakufu on two things, namely the ability of the wives of daimyo stationed in Edo to return in secret to their own territories, and the influx of guns into the Edo region, the latter of which might render military action against the bakufu feasible (In a children&apos;s song, &quot;Toryanse&quot; [Ain&apos;t gettin&apos; by!].)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>また、芸人や力士などは通行手形の代わりに芸を披露することもあった。</j>
+<e type="trans" ver="1">Some, like for example entertainers and sumo wrestlers, were able to give a performance of their skills in lieu of paying for a checkpoint passage license.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, such as entertainers and sumo wrestlers, gave performances of their skills in lieu of paying for checkpoint passage licenses.</e>
+<cmt>文脈より修正しました。</cmt>
+<e type="check" ver="1">Also, such as entertainers and sumo wrestlers, gave performances of their skills in lieu of paying for checkpoint passage licenses.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>関所破りは重罪とされ、磔刑に処せられた。</j>
+<e type="trans" ver="1">Sekisho yaburi (breaking or sneaking through a barrier checkpoint) was considered a serious crime, and was punished with crucifixion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sekisho yaburi (breaking or sneaking through a barrier checkpoint) was considered a serious crime, and was punished by crucifixion.</e>
+<cmt>with→by と修正しました。</cmt>
+<e type="check" ver="1">Sekisho yaburi (breaking or sneaking through a barrier checkpoint) was considered a serious crime, and was punished by crucifixion.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>しかし実際には関所役人も関与した宿場ぐるみでの関所破りが常態化していたという。</j>
+<e type="trans" ver="1">In reality, however, sekisho yaburi is said to have been fully normalized throughout the post stations--and with the collusion of checkpoint officials.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In reality, however, sekisho yaburi is said to have been fully normalized throughout the post stations with the collusion of the checkpoint officials.</e>
+<cmt>パンクチュエーションを修正しました。the を補いました。</cmt>
+<e type="check" ver="1">In reality, however, sekisho yaburi is said to have been fully normalized throughout the post stations with the collusion of the checkpoint officials.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="24">
+<j>日本における関所は、1869年（明治2年）に完全に廃止された。</j>
+<e type="trans" ver="1">As regards barrier checkpoints in Japan, the system of using such checkpoints was completely ended in 1869.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The barrier checkpoints in Japan were completely abolished in 1869.</e>
+<cmt>文脈より修正しました。</cmt>
+<e type="check" ver="1">The barrier checkpoints in Japan were completely abolished in 1869.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Mnd(id:15140), Nnh(id:474), China(id:10362), 水野白楓(id:22811), GoGoDoll(id:131511), Ans(id:27735), Rikumio(id:99645), Oohamazaki(id:204398), Tomokazu(id:311), Hokahoka(id:37244), でここ(id:9565), Rusk(id:9895), 橄欖岩(id:24996), 663highland(id:18755), Shimoxx(id:9332), ウィキ豊(id:82961), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

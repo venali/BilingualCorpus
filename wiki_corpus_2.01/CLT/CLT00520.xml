@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>生利節</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2">Namaribushi</e>
+<cmt>訳漏れ対応しました。</cmt>
+<e type="check" ver="1">Namaribushi</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>生利節（なまりぶし）、または生節（なまぶし）とは、生のカツオを解体し、蒸す、茹でるなどの処理を施した一次加工食品。</j>
+<e type="trans" ver="1">Namaribushi or Namabushi is a primary processed food made from raw bonito, which is cut, steamed, and boiled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Namaribushi or Namabushi is a primary processed food made of raw bonito, which are cut, steamed, and boiled.</e>
+<cmt>NC_Checkfrom→ofis→are</cmt>
+<e type="check" ver="1">Namaribushi or Namabushi is a primary processed food made of raw bonito, which is cut, steamed, and boiled.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="2">
+<j>原料として、カツオ以外にマグロ、サバを使うこともある。</j>
+<e type="trans" ver="1">Other the bonito, tuna or mackerel may used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other than bonito, tuna and mackerel may be used.</e>
+<cmt>the→thanor→andmay→may beNC_Check</cmt>
+<e type="check" ver="1">Other than bonito, tuna and mackerel may be used.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>軽度の燻製加工が施されている場合もある。</j>
+<e type="trans" ver="1">It may smoked lightly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It may be smoked lightly.</e>
+<cmt>may→may be</cmt>
+<e type="check" ver="1">It may be smoked lightly.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>江戸時代以降に製造が盛んになる。</j>
+<e type="trans" ver="1">It has been produced actively since Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It has been produced actively since the Edo period.</e>
+<cmt>Edo→the EdoNC_Check</cmt>
+<e type="check" ver="1">It has been actively produced since the Edo period.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="5">
+<j>生魚を直接加工するため、現代では静岡県、鹿児島県、三重県、高知県、和歌山県、千葉県などカツオやマグロの水揚げが多い漁港周辺で生産される。</j>
+<e type="trans" ver="1">It is now produced in places near big landing ports of bonito or tuna located in Shizuoka prefecture, Kagoshima prefecture, Mie prefecture, kochi prefecture, Wakayama prefecture and Chiba prefecture as the process raw fish directly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is now produced in the places near big landing ports of bonito or tuna located in Shizuoka Prefecture, Kagoshima Prefecture, Mie Prefecture, Kochi Prefecture, Wakayama Prefecture and Chiba Prefecture because raw fish is directly processed.</e>
+<cmt>prefecture→Prefecturekochi→Kochi上の行が空いていたため詰めました。NC_Checkplaces→the placesas the process raw fish directly→because raw fish is directly processed</cmt>
+<e type="check" ver="1">It is now produced near big landing ports of bonito or tuna located in Shizuoka Prefecture, Kagoshima Prefecture, Mie Prefecture, Kochi Prefecture, Wakayama Prefecture and Chiba Prefecture because raw fish is directly processed there.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="6">
+<j>水分を40%程度含み、保存期間に制限があるため、長期保存が可能な鰹節よりも生産量は少なく、鉄道での輸送が始まるまでは生産地周辺の地域、鮮魚より少し広い程度の範囲にしか流通させることができなかった。</j>
+<e type="trans" ver="1">Because the preserving period is restricted as it contains about 40% of water, amount of product was smaller than dried bonito which can be stored for longer time, and product can only be distributed around the place of production which was a little wider than fresh fish until the transportation by railway began.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the preserving period is restricted as it contains about 40% of water, the amount of product was smaller than dried bonitos which could be stored for a longer time, and product can only be distributed around the place of production which was a little wider than fresh fish until the transportation by railway began.</e>
+<cmt>NC_Checkbonito→bonitoslong time→a long timeamount→the amountcan→could</cmt>
+<e type="check" ver="1">Because freshness is limited, as it contains about fourty percent water, the amount of the product was less than for dried bonito which could be stored for a longer time, and product can only be distributed near the place of production, a little larger area than for fresh fish until transportation by railway began.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="7">
+<j>静岡県の焼津からは1889年（明治22年）の東海道本線開通以後、鉄道輸送により東京・大阪など大都市まで流通させるようになったが、鮮魚よりも日持ちする生利節でも腐敗してしまうことがあったという。</j>
+<e type="trans" ver="1">From Yaize in Shizuoka prefecture, since the opening of Tokaido Main Line in 1889, the product had become distributed even to the metropolitan area of Tokyo and Osaka, but sometimes namaribushi got rotten although it was said that namaribushi has better keeping than fresh fish.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Yaize in Shizuoka Prefecture, since the opening of the Tokaido Main Line in 1889, the product had become distributed even to the metropolitan areas of Tokyo and Osaka, but sometimes namaribushi got rotten although namaribushi has better keeping than fresh fish.</e>
+<cmt>it was said that 削除NC_CheckTokaido→the Tokaidparea→areasprefecture→Prefecture</cmt>
+<e type="check" ver="1">From Yaize in Shizuoka Prefecture, since the opening of the Tokaido Main Line in 1889, it had become distributed even to the metropolitan areas of Tokyo and Osaka, but sometimes namaribushi became rotten although though it could be kept longer than than fresh fish.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="8">
+<j>魚の鮮度保持のために氷が使われるようになった1908年（明治41年）には、生利節の鉄道輸送にも氷が使用されるようになった。</j>
+<e type="trans" ver="1">Since 1908 when it began to use ice for keeping fish fresh, ice also used for railway transportation of namaribushi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since 1908 when it began to use ice for keeping fish fresh, ice was also used for the railway transportation of namaribushi.</e>
+<cmt>NC_Checkice→ice wasrailway→the railwayI changed some words but something seems to be wrong with this sentence.</cmt>
+<e type="check" ver="1">Since 1908 when ice began to be used ice for keeping fish fresh, ice was also used during railway transportation of namaribushi.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>加工工程は、以下の通り。</j>
+<e type="trans" ver="1">The working process is as follows.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The working process is as follows.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">The preparation is as follows.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="10">
+<j>生魚の頭部を切断し、内臓を除去する。</j>
+<e type="trans" ver="1">Cut off the head of the fish and remove internal organs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Cut away the head of the fish and remove internal organs.</e>
+<cmt>NC_Checkoff→away</cmt>
+<e type="check" ver="1">Cut off the head of the fish and remove the internal organs.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="11">
+<j>次に、体長方向と平行に切れ目を入れ、3分割する（三枚におろす）。</j>
+<e type="trans" ver="1">Make slit along longer direction and cut into symmetrical right and left halves, leaving the backbone</e>
+<cmt></cmt>
+<e type="trans" ver="2">Make slit along longer direction and cut into symmetrical right and left halves, leaving the backbone</e>
+<cmt>NC_CheckDoes this sentence make sense?</cmt>
+<e type="check" ver="1">Make a slit along the length and cut the symmetrical right and left halves, leaving the backbone</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="12">
+<j>背骨以外の片身を数十分、茹でる。</j>
+<e type="trans" ver="1">Boil filet (except backbone) for several tens of minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Boil filet (except backbone) for several tens of minutes.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Boil the filets (except for the backbone) for several tens of minutes.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="13">
+<j>その後、骨などを除去する。</j>
+<e type="trans" ver="1">After boiled, remove bone.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After boiled, remove bones.</e>
+<cmt>NC_Checkbone→bones</cmt>
+<e type="check" ver="1">After boiling, remove the bones.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="14">
+<j>鰹節と違い、魚皮を残すことが多い。</j>
+<e type="trans" ver="1">Unlike dried bonito, skins are left generally.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Unlike dried bonito, the skins are left generally.</e>
+<cmt>skins→the skinsNC_Check</cmt>
+<e type="check" ver="1">Unlike dried bonito, the skin is left.</e>
+<cmt>gramamr</cmt>
+</sen>
+<sen id="15">
+<j>カツオの魚皮の模様には商業的な価値があるため、皮がはがれないように乾燥させる工程を入れる場合もある。</j>
+<e type="trans" ver="1">As the pattern of bonito skin has commercial value, a process of drying may be inserted to protect the skin from peeling off.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As the pattern of bonito skin has commercial value, a process of drying may be inserted to protect the skin from peeling off.</e>
+<cmt>NC_CheckDoes &apos;commercial value&apos; need an article?</cmt>
+<e type="check" ver="1">As the pattern of bonito skin has a commercial value, a process of drying may be used to protect the skin from peeling off.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="16">
+<j>製品としては、三枚におろした形状のもの、一口で食べられるよう数cmの幅に切り分けたものなどさまざまな形状を取る。</j>
+<e type="trans" ver="1">The final products are in various forms including the shape of filet of half body or pieces cut as few cm width which can be eat at a mouthful.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The final products are in various forms including the shape of filet of half body or pieces cut as few cm width which can be eat at a mouthful.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">The final products include the shape of the filet half or pieces cut a few cm wide that can easily eaten.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="17">
+<j>加工工程が単純であるため、生鰹から個人で加工、調理することも可能である。</j>
+<e type="trans" ver="1">Because the step of process is simple, it is possible to process and cook from fresh fish personally.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the step of process is simple, it is possible to process and cook from fresh fish personally.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Because the step of process is simple, it is possible to process and cook from fresh fish personally.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="18">
+<j>「節」とあるが、鰹節のように完全には乾燥していないため、そのまま食材として利用できる。</j>
+<e type="trans" ver="1">Bushi in the name of namaribushi is common to the bushi of katsuobushi (dried bonito), but namaribushi is not dried so much as katsuobushi, therefore it can be used as foodstuff as it is.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bushi of namaribushi is common to the bushi of katsuobushi (dried bonito), but namaribushi is not dried so much as katsuobushi, therefore it can be used as foodstuff as it is.</e>
+<cmt>in the name→削除NC_Check</cmt>
+<e type="check" ver="1">Bushi of namaribushi is common to the bushi of katsuobushi (dried bonito), but namaribushi is not dried as much as katsuobushi, therefore it can be eaten as it is.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="19">
+<j>特に加工を必要とせず食用となる。</j>
+<e type="trans" ver="1">It is edible without special process.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is edible without special process.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">It is edible without any special preparation.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="20">
+<j>調味料は通常加わっていないため、醤油などを付ける、ショウガと煮付けにする、酢の物、味噌汁に入れるなどの調理方法が多いようだ。</j>
+<e type="trans" ver="1">As no seasoning added, it generally cooked by pouring soy source, boiling with ginger, as a vinegared food or put into miso soup.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As no seasoning added, it is generally eaten with soy source, boiled with ginger, made into a vinegared food or put into miso soup.</e>
+<cmt>NC_Checkit→it iscooked by pouring→eaten with boiling→boiledas→made into</cmt>
+<e type="check" ver="1">As no seasoning is added, it is generally eaten with soy sauce, boiled with ginger, made into a vinegar flavored food or put into miso soup.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="21">
+<j>初鰹と同じく、夏の季語でもある。</j>
+<e type="trans" ver="1">Namaribushi is also a season word of Summer together with hatsugatsuo (the season&apos;s first bonito.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Namaribushi is a season word of summer together with hatsugatsuo (the season&apos;s first bonito).</e>
+<cmt>Summer→summeralso 削除（不要と考えます。）ピリオドを括弧外へ移動</cmt>
+<e type="check" ver="1">Namaribushi is a season word of summer together with hatsugatsuo (the season&apos;s first bonito).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Hareno(id:9960), Oinari-san(id:50413), Glebe(id:6486), Miketsukunibito(id:10208), マクガイア(id:33346), N yotarou(id:60870), 0null0(id:582), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

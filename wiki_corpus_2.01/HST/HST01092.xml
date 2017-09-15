@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>寛政異学の禁</j>
+<e type="trans" ver="1">Kansei Igaku no Kin (Prohibition of heterodoxy in the Kansei era)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kansei Igaku no Kin (the Kansei Prohibition of Heterodox Studies)</e>
+<cmt>heterodoxは比較的良く使われますが、heterodoxyは殆ど使用されていません。「寛政異学の禁」の英訳で使用頻度の高い物を採用しました。</cmt>
+<e type="check" ver="1">Kansei Igaku no Kin (the Kansei Prohibition of Heterodox Studies)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>寛政異学の禁（かんせいいがくのきん）とは、1790年（寛政2年）、江戸幕府老中松平定信が寛政の改革で行った学問の統制である。</j>
+<e type="trans" ver="1">The Kansei Igaku no Kin was an academic control performed during the Kansei Reforms in 1790, by a roju (senior councilor) of the Edo Shogunate, Sadanobu MTTSUDAIRA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kansei Igaku no Kin was an academic control performed during the Kansei Reforms in 1790, by a roju (senior councilor) of the Edo Shogunate, Sadanobu MATSUDAIRA.</e>
+<cmt>文頭のtheは不要なため削除しました。また「松平」のスペルミスを修正しました。</cmt>
+<e type="check" ver="1">Kansei Igaku no Kin was an academic control performed during the Kansei Reforms in 1790, by a roju (senior councilor) of the Edo Shogunate, Sadanobu MATSUDAIRA.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>概要</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>英訳が抜けていたので補いました。</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>田沼意次時代の天明の大飢饉を乗り越え、低下した幕府の指導力を取り戻すために、儒学のうち農業と上下の秩序を重視した朱子学を正学とし、当時流行していた古文辞学や古学を「風俗を乱すもの」として禁じた。</j>
+<e type="trans" ver="1">After getting through the Tenmei Famine in times of Okitsugu TANUMA, to take a depressed leadership back to the Edo Shogunate, among Confucianism, Neo-Confucianism, which respected the order of hierarchy and agriculture was placed as the official scholarship, then, the Kobunjigaku, (study of ancient rhetoric school) and the Ko-gaku (learning about ancient teachings), which were popular learning at that time, were banned because the both were considered to corrupt public morals.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In order to regain leadership after going through the Tenmei Famine in times of Okitsugu TANUMA, the shogunate chose Neo-Confucianism out of Confucianism for the official learning, which put importance on the hierarchic order and agriculture; on the other hand, they banned Kobunjigaku, (study of ancient rhetoric) and the Kogaku (learning about ancient teachings), which were popular learning at that time for corrupting public morals.</e>
+<cmt>英語で理解しやすい順序に書き換えました。また、getは口語的でありgo throughが一般的なので変えました。Shogunateに関してですが、原文に「幕府」としかないので「江戸」を取りました。Amongは選ぶことを前提にしている感じがするので「選び抜いた」感を与えるout ofにしました。Scholarshipは第一義が「奨学金」であるうえ、learningが一般的に使われているので置き換えました。Respectは「（規則などを）守る」の意味もあるため、「重視する」意を明確にするためput importance onに変更しました。また「上下の秩序」は形容詞hierarchicを用いることで単純明快な形にしました。文が長いためon the other handで一度意味を区切り、対比を明確にしました。</cmt>
+<e type="check" ver="1">In order to regain leadership after going through the Tenmei Famine in times of Okitsugu TANUMA, the shogunate chose Neo-Confucianism out of Confucianism for the official learning, which put importance on the hierarchic order and agriculture; on the other hand, they banned Kobunjigaku, (study of ancient rhetoric) and the Kogaku (learning about ancient teachings), which were popular learning at that time for corrupting public morals.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>幕府の学問所である昌平坂学問所の講義や、役人登用試験も朱子学だけで行わせた。</j>
+<e type="trans" ver="1">Only Neo-Confucianism was applied for the lectures in the Shoheizaka School, which was a governmental school and the appointment examination of the government officials.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, the lectures at Shoheizaka School (a governmental school), and the appointment examinations of the government officials adopted Neo-Confucianism only.</e>
+<cmt>役人登用試験「も」にあたるalsoを文頭に挿入しました。また昌平坂学問所での講義の部分の前置詞はschoolで一般的に用いられるatに変えました。試験は一度だけではない筈なので複数形にしました。またapplyは「応募する」意が強いのでadoptで代用しました。</cmt>
+<e type="check" ver="1">Also, the lectures at Shoheizaka School (a governmental school), and the appointment examinations of the government officials adopted Neo-Confucianism only.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>諸藩の藩校でもこれにならうものも出、朱子学に反対する学問を唱えていた儒者は生徒が少なくなり困窮したものもあったという。</j>
+<e type="trans" ver="1">Some domain schools followed the government, so some Confucians who had taught different leaning against Neo-Confucianism lost their students and were in great difficulty.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some domain schools followed these examples, and as a result, some Confucians who had taught different leanings opposed to Neo-Confucianism lost many of their students and fell into great difficulty.</e>
+<cmt>「これ」に倣うとあるのでgovernmentの代わりにthese examplesを用いました。また文章が長いので、原因と結果がはっきりさせるためにas a resultを使用しました。学問は複数あったと見られるのでlearningを複数形にしました。またagainstを用いた場合、learningsにかかるのかtaughtにかかるのか曖昧になってしまうためopposed toで代用しました。</cmt>
+<e type="check" ver="1">Some domain schools followed these examples, and as a result, some Confucians who had taught different leanings opposed to Neo-Confucianism lost many of their students and fell into great difficulty.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="6">
+<j>なお、異学の禁に反対した儒者五名（亀田鵬斎、山本北山、冢田大峯、豊島豊洲、市川鶴鳴)を特に寛政の五鬼という。</j>
+<e type="trans" ver="1">The five Confucians (Bosai KAMEDA, Hokuzan YAMAMOTO, Taiho TSUKADA, Hoshu TOSHIMA, and Kakumei ICHIKAWA) who opposed the Kansei Igaku no Kin were especially called as Goki (five oni demons) of the Kansei era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The five Confucians who opposed the Kansei Igaku no Kin (Bosai KAMEDA, Hokuzan YAMAMOTO, Taiho TSUKADA, Hoshu TOSHIMA, and Kakumei ICHIKAWA) were called Goki (five demons) of the Kansei era.</e>
+<cmt>「～と呼ばれる」にはasが不要なため、削除し、&apos;&apos;oni&apos;&apos;はdemonsで意味が通るのでこちらも削除しました。</cmt>
+<e type="check" ver="1">The five Confucians who opposed the Kansei Igaku no Kin (Bosai KAMEDA, Hokuzan YAMAMOTO, Taiho TSUKADA, Hoshu TOSHIMA, and Kakumei ICHIKAWA) were called Goki (five demons) of the Kansei era.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="7">
+<j>昌平坂学問所では異学の講義を禁じられたが、国内の異学派による学問や講義を禁じられたわけではない。</j>
+<e type="trans" ver="1">In the Shoheizaka school, other leaning of Confucianism was prohibited but leaning or lecture by other Japanese Confucians were not prohibited.</e>
+<cmt>「国内の異学派による学問が、どこで禁じられなかったのか」、ここの日本語が不明でした。</cmt>
+<e type="trans" ver="2">In Shoheizaka School, while the heterodox leanings were prohibited, learnings and lectures of Japanese heterodox schools were still allowed.</e>
+<cmt>固有名詞でもあり、上記での前例もあるのでschoolを大文字で始めlました。Leaningのスペルを直し、複数形にしました。最初のコメントに関してですが、昌平坂学問所で禁じられなかったと解釈し、否定形では回りくどいので肯定のstill allowedで言い換えました。</cmt>
+<e type="check" ver="1">In Shoheizaka School, while the heterodox leanings were prohibited, learnings and lectures of Japanese heterodox schools were still allowed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 サンプ(id:25012), Straysheep(id:42448), Touryuuuan(id:89696), Aotake(id:34929), 竹麦魚(id:11012), Renjyuman(id:247014), Kaznov17(id:68122), 酢溜まり氷(id:65987), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

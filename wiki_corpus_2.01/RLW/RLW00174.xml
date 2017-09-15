@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>六地蔵駅</j>
+<e type="trans" ver="1">Rokujizo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rokujizo Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rokujizo Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>六地蔵駅（ろくじぞうえき）は、京都府京都市伏見区と宇治市にある、京阪電気鉄道・西日本旅客鉄道（JR西日本）・京都市営地下鉄の鉄道駅。</j>
+<e type="trans" ver="1">Rokujizo Stations are located in Fushimi Ward of Kyoto City, Kyoto Prefecture and in Uji City, stops of Keihan Electric Railway, Wｅｓｔ Japan Railway Company (JR-West) and Kyoto Municipal Subway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rokujizo stations are located in Fushimi ward of Kyoto City, Kyoto Prefecture and in Uji City, stops of Keihan Electric Railway, Wｅｓｔ Japan Railway Company (JR-West) and Kyoto Municipal Subway.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Located in the Fushimi ward of Kyoto City and in Uji City of Kyoto Prefecture, Rokujizo Station is a stop on Keihan Electric Railway, West Japan Railway Company (JR West) and Kyoto Municipal Subway lines.</e>
+<cmt>ward小文字にしました。表現統一しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>JR西日本および京都市営地下鉄の駅所在地は宇治市、京阪電気鉄道の駅所在地は京都市伏見区である。</j>
+<e type="trans" ver="1">Rokujizo Stations of JR-West and Kyoto Municipal Subway are located in Uji City and that of Keihan Electric Railway, in Fushimi Ward of Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rokujizo stations of JR-West and Kyoto Municipal Subway are located in Uji City and that of Keihan Electric Railway, in the Fushimi ward of Kyoto City.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Rokujizo stations of JR West and Kyoto Municipal Subway are located in Uji City and that of Keihan Electric Railway, in Kyoto City&apos;s Fushimi Ward.</e>
+<cmt>JR Westとしました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>利用可能な鉄道路線</j>
+<e type="trans" ver="1">Accessible railway facilities</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accessible railway facilities</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Accessible railway facilities</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>京阪電気鉄道</j>
+<e type="trans" ver="1">Ｋｅｉｈａｎ Electric Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ｋｅｉｈａｎ Electric Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Electric Railway</e>
+<cmt>2バイト文字修正</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>京阪宇治線</j>
+<e type="trans" ver="1">Keihan Uji Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Uji Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Uji Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Railway Company (JR-West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR-West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>JR Westとしました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="6">
+<j>奈良線</j>
+<e type="trans" ver="1">Nara Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nara Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nara Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="7">
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoyo Municipal Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoyo Municipal Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>Kyotoに修正</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="8">
+<j>京都市営地下鉄東西線（T01） - 終着駅</j>
+<e type="trans" ver="1">Kyoyo Municipal Subway Tozai Line (T01) -Terminal station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoyo Municipal Subway Tozai Line (T01) -Terminal Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway Tozai Line (T01) -Terminal Station</e>
+<cmt>Kyotoに修正</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="9">
+<j>3線ともICOCA（西日本旅客鉄道）・PiTaPa（スルッとKANSAI協議会）の利用が可能。</j>
+<e type="trans" ver="1">ICOCA (JR-West) and PiTaPa (Surutto Kansai Association) Cards can be used on all three lines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">ICOCA (JR-West) and PiTaPa (Surutto Kansai Association) cards can be used on all three lines.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">ICOCA (JR West) and PiTaPa (Surutto KANSAI Association) cards can be used on all three lines.</e>
+<cmt>JR Westとしました。</cmt>
+</sen>
+<sen id="10">
+<j>ただし、JスルーはJR線、スルッとKANSAI対応各種カードは京都市営地下鉄と京阪線、トラフィカ京カード（京都市交通局）は京都市営地下鉄でのみ使用可能。</j>
+<e type="trans" ver="1">However, use of J Through Cards is limited to JR Lines, various Kansai Thru Pass compatible cards limited to Kyoto Municipal Subway Line and Keihan Line and, Traffica Kyo Cards (Kyoto Municipal Subway) can be used only on Kyoto Municipal Subway Lines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the use of J Through cards is limited to JR Lines, various Kansai Thru Pass-compatible cards limited to Kyoto Municipal Subway Line and Keihan Line, but Traffica Kyo Cards (Kyoto Municipal Subway) can be used only on Kyoto Municipal Subway Lines.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">However, the use of J-Thru cards is limited to JR Lines, various KANSAI THRU PASS-compatible cards limited to Kyoto Municipal Subway Line and Keihan Line, and Traffica Kyo cards (Kyoto Municipal Transportation Bureau) can be used only on Kyoto Municipal Subway Lines.</e>
+<cmt>J-Thru、KANSAI THRU PASS、 Kyoto Municipal Transportation Bureauとしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Overview</e>
+<cmt>他の記事と統一</cmt>
+</tit>
+<par id="1">
+<sen id="11">
+<j>京都市営地下鉄の六地蔵駅は、同地下鉄では唯一、京都市外に位置する。</j>
+<e type="trans" ver="1">Kyoto Municipal Subway&apos;s Rokujizo Station is their only station located outside Kyoto City limits.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Municipal Subway&apos;s Rokujizo Station is its only station located outside Kyoto City limits.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway&apos;s Rokujizo Station is its only station located outside Kyoto City limits.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="12">
+<j>JRと京都市営地下鉄の駅は、地上と地下のほぼ同位置にある。</j>
+<e type="trans" ver="1">The stations of JR-West and Kyoto Municipal Subway are located at just about the same location above ground and underground.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The stations of JR-West and Kyoto Municipal Subway are located at nearly the same relative location above ground and underground.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The stations of JR West and Kyoto Municipal Subway are located at nearly the same relative location above ground and underground.</e>
+<cmt>JR Westとしました。</cmt>
+</sen>
+<sen id="13">
+<j>これらは京阪の駅と徒歩10分程度離れている。</j>
+<e type="trans" ver="1">Both stations are some 10min. walk from the Keihan station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Both stations are some 10 minutes on foot from the Keihan station.</e>
+<cmt>sp</cmt>
+<e type="check" ver="1">Both stations are some 10 minutes on foot from the Keihan station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>両駅の乗り換えには山科川沿いの道を歩くことになる。</j>
+<e type="trans" ver="1">Transfer between the two stations entails a walk on the road along the Yamashina-gawa River.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The transfer between the two stations entails a walk on the road along the Yamashina-gawa River.</e>
+<cmt>art</cmt>
+<e type="check" ver="1">The transfer between the two stations entails a walk on the road along the Yamashina-gawa River.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="15">
+<j>付近を走る路線バスは、京阪六地蔵駅をターミナル（バス停の名称は「京阪六地蔵」）としている。</j>
+<e type="trans" ver="1">The terminal of routed buses running on nearby roads is Keihan Rokiujizo Station (bus stop is &apos;Keihan Roikujizo&apos;.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The terminal of routed buses running on nearby roads is Keihan Rokiujizo Station (the bus stop is &apos;Keihan Roikujizo&apos;.)</e>
+<cmt>art</cmt>
+<e type="check" ver="1">The terminal of routed buses running on nearby roads is Keihan Rokujizo Station (the bus stop is &apos;Keihan Rokujizo&apos;).</e>
+<cmt>Rokujizoに修正</cmt>
+</sen>
+<sen id="16">
+<j>三条京阪・四条河原町・京阪山科駅・御蔵山団地などへのバスが発着する。</j>
+<e type="trans" ver="1">This is the bus depot for Sanjo-Keihan, Shijo-Kawaramachi, Keihan-Yamashina, Okurayama-danchi, etc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is the bus depot for Sanjo-Keihan, Shijo-Kawaramachi, Keihan-Yamashina, Okurayama-danchi, etc.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This is the bus depot for Sanjo-Keihan, Shijo-Kawaramachi, Keihan-Yamashina, Okurayama-danchi, etc.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>JRおよび京都市営地下鉄の六地蔵駅の最寄りのバス停は「JR六地蔵」および「JR六地蔵北口」である（京阪宇治バスには「JR六地蔵イトーヨーカドー前」も存在する）。</j>
+<e type="trans" ver="1">The nearest bus stop for JR and Kyoto Municipal Subway Rokujizo Station is &apos;JR Rokujizo&apos; and &apos;JR Rokujizo-kitaguchi&apos; (also a &apos;JR Rokujizo-Itoyokado-mae&apos; stop on Keihan Uji Bus route.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The nearest bus stops for JR and Kyoto Municipal Subway&apos;s Rokujizo Station is &apos;JR Rokujizo&apos; and &apos;JR Rokujizo-kitaguchi&apos; (also a &apos;JR Rokujizo-Itoyokado-mae&apos; stop on Keihan Uji Bus route).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The nearest bus stops for JR and Kyoto Municipal Subway&apos;s Rokujizo Station is &apos;JR Rokujizo&apos; and &apos;JR Rokujizo-kitaguchi&apos; (also a &apos;JR Rokujizo-Itoyokado-mae&apos; stop on Keihan Uji Bus route).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station layout</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="4">
+<tit>
+<j>京阪電気鉄道</j>
+<e type="trans" ver="1">Keihan Electric Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="18">
+<j>相対式2面2線のプラットホームを持つ盛土にある地上駅。</j>
+<e type="trans" ver="1">An above ground station with two platforms opposite each other and double tracks constructed on an embankment.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an above-ground station with two platforms opposite each other and double tracks constructed on an embankment.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is an above-ground station with two platforms opposite each other and double tracks constructed on an embankment.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>改札は1階、ホームは2階にある。</j>
+<e type="trans" ver="1">Tickets gates are on the first floor and platforms on the second.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tickets gates are located on the first floor, and platforms are on the second.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Tickets gates are located on the first floor, and platforms are on the second.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>改札口は1か所のみ。</j>
+<e type="trans" ver="1">Ticket gates are installed at only one place.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ticket gates are installed at only one place.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ticket gates are installed at only one place.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>御手洗は中書島方面行ホームへ続く階段の付近にある。</j>
+<e type="trans" ver="1">Restrooms are located near the stairway leading to the platform for Chushojima.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Restrooms are located near the stairway leading to the platform for Chushojima.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Restrooms are located near the stairway leading to the platform for Chushojima.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>改札からホームへ上がる手段は階段のみで、宇治線で唯一エレベーター・エスカレーター多目的トイレなどのバリアフリー対策がされていない。</j>
+<e type="trans" ver="1">The only means to go from ticket gates to platforms is by way of stairs and it is the only station on the Uji Line lacking so-called barrier-free facilities such as elevators, escalators, multiple-use restrooms, etc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The only means to go from the ticket gates to the platforms is by way of stairs, and it&apos;s the only station on the Uji Line lacking so-called barrier-free facilities such as elevators, escalators, multiple-use restrooms, etc.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The only means to go from the ticket gates to the platforms is by way of stairs, and it&apos;s the only station on the Uji Line lacking so-called barrier-free facilities such as elevators, escalators, multiple-use restrooms, etc.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>ホーム上では、JRや京都市営地下鉄への乗り換えは案内されていない。</j>
+<e type="trans" ver="1">Transfer related guidance and information to JR and Kyoto Municipal Subway is not made available on platforms.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Transfer-related guidance and information to JR and Kyoto Municipal Subway is not made available on the platforms.</e>
+<cmt>art</cmt>
+<e type="check" ver="1">Transfer-related guidance and information to JR and Kyoto Municipal Subway is not made available on the platforms.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="24">
+<j>駅前にバスターミナルがあり、京阪バス（山科駅・三条京阪・日野方面など）、京阪宇治バス（御蔵山方面）が出ている。</j>
+<e type="trans" ver="1">Keihan buses (for Yamashina Station, Sanjo-Keihan, Hino, etｃ.) and Keihan Uji buses (for Mikurayama) leave for their respective destinations from the bus terminal in front of the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan buses (for Yamashina Station, Sanjo-Keihan, Hino, etｃ..) and Keihan Uji buses (for Mikurayama) leave for their respective destinations from the bus terminal in front of the station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Keihan buses (for Yamashina Station, Sanjo-Keihan, Hino, etｃ..) and Keihan Uji buses (for Okurayama) leave for their respective destinations from the bus terminal in front of the station.</e>
+<cmt>Okurayamaに修正</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="25">
+<j>かつては地平にホームがあったが、山科川の堤防を築くに当たって線路を移動して盛土上の駅となった。</j>
+<e type="trans" ver="1">Platforms at one time were located at ground level, but tracks were relocated when installing embankments for Yamashina-gawa River and the station became one constructed on filling.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Platforms were once located at ground level, but the tracks were relocated when embankments for the Yamashina-gawa River and the station became one constructed on back-fill.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Platforms at one time were located at ground level, but the tracks were relocated when embankments for the Yamashina-gawa River were constructed, and the station came to be constructed on back-fill.</e>
+<cmt>文章追加</cmt>
+</sen>
+<sen id="26">
+<j>なお、地平ホーム時代の旧線跡が駅の東側200m先の現線路脇に残っている。</j>
+<e type="trans" ver="1">Where the former railway track used to be laid in the days of the ground level platform remain at a site 200m along the eastern side of the station.</e>
+<cmt>&quot;先&quot;が何を指すか不詳。</cmt>
+<e type="trans" ver="2">The former railway track used to be laid in the days of the ground-level platform remains at a site 200m along the eastern side of the station.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The former railway track used to be laid in the days of the ground-level platform remains at a site 200 meters along the eastern side of the station.</e>
+<cmt>200 metersとしました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="27">
+<j>1998年～1999年に京阪本線直通の季節列車として運転されていた「宇治快速」の停車駅でもあった。</j>
+<e type="trans" ver="1">It was also one station at which &apos;Uji Rapid Trains&apos; operated in 1998 and 1999 on Keihan Main Line as seasonal trains　stopped.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was also one station at which &apos;Uji Rapid Trains&apos; operated in 1998 and 1999 on Keihan Main Line, as the seasonal trains had stopped.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">It was also one station at which &apos;Uji Rapid Trains&apos; operated in 1998 and 1999 on Keihan Main Line, as the seasonal trains had stopped.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="28">
+<j>※両ホームとも有効長は5両。</j>
+<e type="trans" ver="1">※Both platforms have an effective length to accommodate five car trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">※Both platforms have an effective length to accommodate a five-car train.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">※Both platforms have an effective length to accommodate a five-car train.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>番線表示はない。</j>
+<e type="trans" ver="1">Platform numbers are not indicated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Platform numbers are not indicated.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Track/platform numbers are not indicated.</e>
+<cmt>他の記事と統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>JR西日本</j>
+<e type="trans" ver="1">JR-West</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR-West</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR West</e>
+<cmt>JR Westとしました。</cmt>
+</tit>
+<par id="1">
+<sen id="30">
+<j>島式1面2線のプラットホームを持つ高架駅で、ホームはカーブ上にあり、幅も狭い上に車両とホームの間が空いているため、電車車内でもその旨の注意喚起放送がなされている。</j>
+<e type="trans" ver="1">As it is an elevated station having an Island type curved and narrow platform with tracks on both sides, a rather excessive gap is created between the train and platform, a fact which is announced in trains to arouse the attention of alighting passengers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As it is an elevated station having a narrow, island-type curved platform with tracks on both sides, so that a rather excessive gap is created between the train and platform, a fact that is announced on the trains to gain the attention of alighting passengers.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As it is an elevated station having an narrow, island-type platform that is located on a curved section with tracks on both sides, so that a rather excessive gap is created between the train and the platform, announcement of that fact is made in the trains to gain the attention of alighting passengers.</e>
+<cmt>修正</cmt>
+</sen>
+<sen id="31">
+<j>改札口は1か所のみ。</j>
+<e type="trans" ver="1">Ticket gates are installed at only one place.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ticket gates are installed at only one place.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ticket gates are installed at only one place.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto Municipal Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Municipal Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="32">
+<j>東西線の終着駅で、駅ナンバリングはT01。</j>
+<e type="trans" ver="1">The terminal station of the Tozai Line and its station number is T01.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The terminal station of the Tozai Line and its station number is T01.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The terminal station of the Tozai Line and its station number is T01.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>島式1面2線のプラットホームを持ち、ホームドアが設置されている。</j>
+<e type="trans" ver="1">The single platform is of Island type between tracks and platform doors are installed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A single, island-type platform between tracks and platform doors is installed.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">A single, island-type platform between tracks and platform doors is installed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>改札口は1ヶ所のみ。</j>
+<e type="trans" ver="1">Tickets gates are installed at only one place.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tickets gates are installed at only one place.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tickets gates are installed at only one place.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="35">
+<j>東西線の駅は駅ごとにステーションカラーが制定されているが、当駅のステーションカラーは勿忘草（わすれなぐさ）色。</j>
+<e type="trans" ver="1">Each station on the Tozai Line has its own color, and the color used at Rokujizo Station is that of Forget-me-not (light blue.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Each station on the Tozai Line has its own color, and the color used at Rokujizo Station is that of Forget-me-not (light blue.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Each station on the Tozai Line has its own color, and the color used at Rokujizo Station is that of Forget-me-not (light blue.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="36">
+<j>地下鉄の六地蔵駅からJRの六地蔵駅は目と鼻の先だが、京阪の六地蔵駅までは徒歩10分ほどかかる。</j>
+<e type="trans" ver="1">Kyoto Subway&apos;s Rokujizo Station is only a stone&apos;s throw from JR Rokujizo Station, but some 10min. walk to the Keihan Rokujizo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Subway&apos;s Rokujizo Station is only a stone&apos;s throw from JR Rokujizo Station but a 10-minute walk to the Keihan Rokujizo Station.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Kyoto Subway&apos;s Rokujizo Station is only a stone&apos;s throw from JR Rokujizo Station but a 10-minute walk to the Keihan Rokujizo Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>しかしこの2駅の間を利用する人は意外に多い。</j>
+<e type="trans" ver="1">However, those getting on for the short distance between the two stations is of a surprisingly large number.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, surprisingly large numbers of people get on for the short distance between the two stations.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, surprisingly large numbers of people get on for the short distance between the two stations.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>また、京阪の六地蔵駅では同じ京阪である京阪京津線の乗車券が発売されていないが、地下鉄の六地蔵駅では御陵経由の連絡乗車券が購入できる。</j>
+<e type="trans" ver="1">Again, tickets for a Keihan Keishin Line station cannot be purchased at Keihan&apos;s Rokujizo Station despite its being the same Keihan, but a connecting ticket via Misasagi can be purchased at the subway Rokujizo station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Again, tickets for a Keihan Keishin Line station cannot be purchased at Keihan&apos;s Rokujizo Station despite its being the same Keihan, but a connecting ticket via Misasagi can be purchased at the subway Rokujizo station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Again, tickets for a Keihan Keishin Line station cannot be purchased at Keihan&apos;s Rokujizo Station despite its being the same Keihan, but a connecting ticket via Misasagi can be purchased at the subway Rokujizo station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="39">
+<j>地下道のうち1つは地下の食料品売り場に続いている。</j>
+<e type="trans" ver="1">One underpass leads to the basement foodstuffs department.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One underpass leads to the basement foodstuffs department.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">One underpass leads to the basement foodstuffs department.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="40">
+<j>エレベーターは、日本オーチス製が採用されているが、四番出入口のみ日立製。</j>
+<e type="trans" ver="1">Elevators installed are all of Otis (Japan) manufacture except only those installed at gateway #4 which are of manufactured by Hitachi.</e>
+<cmt>台数不詳につき、表現が間違っているかもしれません。</cmt>
+<e type="trans" ver="2">Elevators installed are all of Otis (Japan) manufacture except for those installed at gateway No. 4, which were manufactured by Hitachi.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Elevators installed are all of Otis Elevator Company (Japan) manufacture except for those installed at gateway No. 4, which were manufactured by Hitachi.</e>
+<cmt>Otis Elevator Companyとしました。</cmt>
+</sen>
+<sen id="41">
+<j>このうち、二番出入口と四番出入口のエレベーターは通り抜け型。</j>
+<e type="trans" ver="1">Elevators installed at gateways #2 and #4 are of thoroughfare type (doors on opposite sides.)</e>
+<cmt>台数不詳につき、表現が間違っているかもしれません。</cmt>
+<e type="trans" ver="2">Elevators installed at gateway nos. 2 and 4 are of the thoroughfare type (with doors on opposite sides).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Elevators installed at gateway nos. 2 and 4 are of the thoroughfare type (with doors on opposite sides).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station surroundings</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="42">
+<j>イトーヨーカ堂（六地蔵店）</j>
+<e type="trans" ver="1">Ito-Yokado (Rokujizo Store)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ito-Yokado (Rokujizo Store)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ito-Yokado (Rokujizo Store)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="43">
+<j>木幡小学校</j>
+<e type="trans" ver="1">Kohata Elementary School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kohata Elementary School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kohata Elementary School</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="44">
+<j>京都外環状線</j>
+<e type="trans" ver="1">Kyoto Soto-Kanjo-sen Loop Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Soto-Kanjo-sen Loop Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Soto-Kanjo-sen Loop Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="45">
+<j>大善寺 (京都市)（六地蔵めぐりの寺院のひとつ）</j>
+<e type="trans" ver="1">Daizen-ji Temple (Kyoto Prefecture) (One of the Temples of Rokujizo pilgrimage)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Daizen-ji Temple (Kyoto Prefecture) (one of the Temples of Rokujizo pilgrimage)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Daizen-ji Temple (Kyoto Prefecture) (one of the Temples of Rokujizo pilgrimage)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="46">
+<j>六地蔵総合病院</j>
+<e type="trans" ver="1">Rokujizo General Hospital</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rokujizo General Hospital</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rokujizo General Hospital</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="47">
+<j>MOMO近鉄（近鉄百貨店桃山店）</j>
+<e type="trans" ver="1">MOMO Kintetsu (Kintetsu Department Store Momoyama Store)</e>
+<cmt></cmt>
+<e type="trans" ver="2">MOMO Kintetsu (Kintetsu Department Store Momoyama Store)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">MOMO Kintetsu (Kintetsu Department Store Momoyama Store)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="48">
+<j>イズミヤ六地蔵店</j>
+<e type="trans" ver="1">Izumiya Rokujizo Store</e>
+<cmt></cmt>
+<e type="trans" ver="2">Izumiya Rokujizo Store</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Izumiya Rokujizo Store</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="49">
+<j>京都府道7号京都宇治線</j>
+<e type="trans" ver="1">Kyoto Prefectural Highway Route No,7 Kyoto Uji Road</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Prefectural Highway Route No. 7, Kyoto Uji Road</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Kyoto-Uji Line of the Kyoto Prefectural Route 7</e>
+<cmt>他の記事と表現を統一</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="50">
+<j>京都アニメーション新スタジオ</j>
+<e type="trans" ver="1">Kyoto Animation New Studio</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Animation New Studio</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Animation New Studio</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization status</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usage status</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Usage status</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="51">
+<j>JR西日本 - 2006年度の1日あたりの乗車人員は約6,647人（京都府統計書より）。</j>
+<e type="trans" ver="1">JR-West Rokujizo station: Number of passengers getting on at this station was approximately 6,647 per day in fiscal 2006. (Source; Kyoto Prefecture Statistical Report)</e>
+<cmt>&quot;約&quot;は&quot;平均&quot;であるべきと思われるがそのままに。六地蔵駅を挿入。</cmt>
+<e type="trans" ver="2">JR-West Rokujizo station: The number of passengers getting on at this station was approximately 6,647 per day in fiscal 2006 (source: Kyoto Prefecture Statistical Report).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">JR West Rokujizo station: The number of passengers boarding at this station came to approximately 6,647 per day in fiscal year 2006 (source: Kyoto Prefecture Statistical Report).</e>
+<cmt>JR Westとしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="52">
+<j>京阪電気鉄道 - 2006年度の1日あたりの乗車人員は約4,578人（同）。</j>
+<e type="trans" ver="1">Keihan Electric Railway Rokujizo Station: Number of passengers getting on at this station was approximately 4,578 per day in fiscal 2006. (Source: Same as above)</e>
+<cmt>&quot;約&quot;は&quot;平均&quot;であるべきと思われるがそのままに。六地蔵駅を挿入。</cmt>
+<e type="trans" ver="2">Keihan Electric Railway Rokujizo Station: The number of passengers getting on at this station was approximately 4,578 per day in fiscal 2006 (source: same as above).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Keihan Electric Railway Rokujizo Station: The number of passengers boarding at this station came to approximately 4,578 per day in fiscal year 2006 (source: same as above).</e>
+<cmt>表現統一</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="53">
+<j>京都市営地下鉄 - 2006年度の1日あたりの乗車人員は約5,682人（同）。</j>
+<e type="trans" ver="1">Kyoto Municipal Subway Rokujizo Station: Number of passengers getting on at this station was approximately 5,682 per day in fiscal 2006. (Source: Same as above)</e>
+<cmt>&quot;約&quot;は&quot;平均&quot;であるべきと思われるがそのままに。六地蔵駅を挿入。</cmt>
+<e type="trans" ver="2">Kyoto Municipal Subway Rokujizo Station: The number of passengers getting on at this station was approximately 5,682 per day in fiscal 2006 (source: same as above).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway Rokujizo Station: The number of passengers boarding at this station came to approximately 5,682 per day in fiscal year 2006 (source: same as above).</e>
+<cmt>表現統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="54">
+<j>1913年（大正2年）6月1日 京阪電気鉄道の駅が開業。</j>
+<e type="trans" ver="1">Keihan Electric Railway station inaugurated on June 1, 1913.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway station was inaugurated on June 1, 1913.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">June 1, 1913: Keihan Electric Railway station was inaugurated.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="55">
+<j>1943年（昭和18年）10月1日 京阪電気鉄道の駅が、会社合併により京阪神急行電鉄（阪急電鉄）の駅となる。</j>
+<e type="trans" ver="1">Keihan Electric Railway station became a Keihanshin-kyuko-dentetsu (Hankyu Corporation) station on Oct. 1, 1943 as a result of amalgamation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway station became a Keihanshin-kyuko-dentetsu (Hankyu Corporation) station on Oct. 1, 1943 as a result of amalgamation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">October 1, 1943: Keihan Electric Railway station became a Keihanshin-kyuko-dentetsu (Hankyu Corporation) station as a result of amalgamation.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="56">
+<j>1949年（昭和24年）12月1日 京阪神急行電鉄の駅が、会社分離により京阪電気鉄道の駅となる。</j>
+<e type="trans" ver="1">Keihanshin-kyuko-dentetsu station became a Keihan Electric Railway Company station on Dec. 1, 1949 as a result of corporate severance.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihanshin-kyuko-dentetsu Station became a Keihan Electric Railway Company station on Dec. 1, 1949 as a result of corporate severance.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">December 1, 1949: Keihanshin-kyuko-dentetsu station became a Keihan Electric Railway Company station as a result of corporate severance.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="57">
+<j>1953年（昭和28年）9月25日 台風13号で宇治川から逆流した水で山科川が氾濫、京阪駅が浸水。</j>
+<e type="trans" ver="1">Keihan Station inundated on Sept. 25, 1953 from Yamashina-gawa River overflowing by Uji-gawa River back-flow caused by Typhoon No.13.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Station was inundated on Sept. 25, 1953 when the Yamashina-gawa River was brought to overflowing by the Uji-gawa River back-flow, which was caused by Typhoon No. 13.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">September 25, 1953: Keihan Station was inundated when the Yamashina-gawa River was brought to overflowing by the Uji-gawa River back-flow, which was caused by Typhoon No. 13.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="58">
+<j>1966年（昭和41年）3月6日 山科川堤防嵩上げ工事・橋梁架け替えで中書島行きホームを新堤防上に移設。</j>
+<e type="trans" ver="1">Platform for Chushojima relocated to atop new embankment on March 6, 1966 while raising Yamashina-gawa River bank and reconstructing bridge.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The platform for Chushojima was relocated atop a new embankment on March 6, 1966 while raising Yamashina-gawa riverbank and reconstructing the bridge.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">March 6, 1966: The platform for Chushojima was relocated atop a new embankment while raising Yamashina-gawa riverbank and reconstructing the bridge.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="59">
+<j>1966年（昭和41年）3月20日 山科川堤防嵩上げ工事・橋梁架け替えで宇治行きホームを堤防上に移設。</j>
+<e type="trans" ver="1">Platform for Uji relocated to atop new embankment on March 20, 1966 while raising Yamashina-gawa River bank and reconstructing bridge.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The platform for Uji was relocated atop a new embankment on March 20, 1966 while raising the Yamashina-gawa riverbank and reconstructing the bridge.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">March 20, 1966: The platform for Uji was relocated atop a new embankment while raising the Yamashina-gawa riverbank and reconstructing the bridge.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="60">
+<j>旧駅跡が現在の京阪駅前バスターミナル部分。</j>
+<e type="trans" ver="1">Site of former station is now the bus terminal in front of Keihan Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The site of the former station is now the bus terminal in front of Keihan Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The site of the former station is now the bus terminal in front of the current Keihan station.</e>
+<cmt>current追加</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="61">
+<j>1992年（平成4年）10月22日 JR西日本の駅が開業。</j>
+<e type="trans" ver="1">JR-West station inaugurated on Oct. 22, 1992.</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR-West station was inaugurated on Oct. 22, 1992.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">October 22, 1992: JR West station was inaugurated.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="62">
+<j>1999年（平成11年）5月10日 ダイヤ改正により、JR西日本の駅が終日快速停車駅に格上げとなる。</j>
+<e type="trans" ver="1">JR-West station upgraded to a station at which all rapid trains stop throughout the day from timetable revision.</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR-West station was upgraded to a station at which all rapid trains stopped throughout the day, based on the timetable revision.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">May 10, 1999: JR West station was upgraded to a station at which all rapid trains stopped throughout the day, based on the timetable revision.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="63">
+<j>2004年（平成16年）11月26日 京都市営地下鉄東西線六地蔵～醍醐間延伸に伴い同線の駅が開業。</j>
+<e type="trans" ver="1">Inaugurated on Nov. 26, 2004 as a stop on the Tozai Line of Municipal Subway Tozai Line incidental to its being extended from Daigo Station.</e>
+<cmt>&quot;が&quot;を&quot;として&quot;に変えました。</cmt>
+<e type="trans" ver="2">It was inaugurated on Nov. 26, 2004 as a stop on the Tozai Line of Municipal Subway Tozai Line incidental to its being extended from Daigo Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">November 26, 2004: The station was inaugurated as a stop on the Tozai Line of the Kyoto Municipal Subway Tozai Line incidental to its extension from Daigo Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="10">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Neighboring stations</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="64">
+<j>京阪電気鉄道</j>
+<e type="trans" ver="1">Keihan Electric Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="65">
+<j>宇治線</j>
+<e type="trans" ver="1">Uji Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uji Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Uji Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="66">
+<j>桃山南口駅 - 六地蔵駅 - 木幡駅 (京阪)</j>
+<e type="trans" ver="1">Momoyama-Minamiguchi Station - Rokujizo Station - Kohata Station (Keihan)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Momoyama-Minamiguchi Station - Rokujizo Station - Kohata Station (Keihan)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Momoyama-Minamiguchi Station - Rokujizo Station - Kohata Station (Keihan)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="67">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Railway Company</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>(JR West)追加</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="68">
+<j>■奈良線</j>
+<e type="trans" ver="1">■Nara Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Nara Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Nara Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="69">
+<j>■みやこ路快速・■快速・■区間快速</j>
+<e type="trans" ver="1">■Miyakoji rapid train・■Rapid service ・■Regional rapid</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Miyakoji rapid train・■Rapid service ・■Regional rapid</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Miyakoji Rapid Service/■Rapid Service/■Regional Rapid Service</e>
+<cmt>表現統一・を/に変更しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="70">
+<j>東福寺駅 - 六地蔵駅 - 宇治駅 (JR西日本)</j>
+<e type="trans" ver="1">Tofukuji Station - Rokujizo Station - Uji Station (JR-West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tofukuji Station - Rokujizo Station - Uji Station (JR-West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tofukuji Station - Rokujizo Station - Uji Station (JR West)</e>
+<cmt>JR Westとしました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="71">
+<j>■普通</j>
+<e type="trans" ver="1">■Local train</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Local train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Local</e>
+<cmt>表現統一</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="72">
+<j>桃山駅 - 六地蔵駅 - 木幡駅 (JR西日本)</j>
+<e type="trans" ver="1">Momoyama Station - Rokujizo Station - Kohata Station (JR-West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Momoyama Station - Rokujizo Station - Kohata Station (JR-West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Momoyama Station - Rokujizo Station - Kohata Station (JR West)</e>
+<cmt>JR Westとしました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="73">
+<j>京都市営地下鉄</j>
+<e type="trans" ver="1">Kyoto Municipal Subway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Municipal Subway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Subway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="74">
+<j>■東西線</j>
+<e type="trans" ver="1">■Tozai Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Tozai Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Tozai Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="75">
+<j>六地蔵駅(T01) - 石田駅 (京都府)(T02)</j>
+<e type="trans" ver="1">Rokujizo Station (T01) - Ishida Station (Kyoto Prefecture) (T02)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rokujizo Station (T01) - Ishida Station (Kyoto Prefecture) (T02)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rokujizo Station (T01) - Ishida Station (Kyoto Prefecture) (T02)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), Nnh(id:474), SAM(id:4827), Hikichimin Jr.(id:147077), Yuta415(id:149253), Espa(id:43726), 天然ガス(id:98149), UE-PON2600(id:18149), 春野秋葉(id:36725), Wikipedianet(id:9608), KARS(id:43022), Highexpress(id:48556), Fjord(id:15599), Bandalgom(id:31841), Sunen(id:10700), Goki(id:7107), くっちゃめ(id:86793), 鍛高譚(id:154933), Point136(id:211299), Hirotaro(id:1437), 目蒲東急之介(id:34741), SUCCESS(id:15934), Etopirica(id:32491), Otemoto(id:64180), Kagoya(id:9458), Utsuda(id:605), Memeja(id:110500), Rusk(id:9895), Ktr(id:30468), Kouchiumi(id:19253), 金山銀山銅山(id:163855), Tp2415(id:84801), Hidama(id:73276), Ribbon(id:172), R28Bot(id:177951), Mipu(id:5360), Hno3(id:56786), 扇風機のせんちゃん(id:161810), NIKE(id:16342), オナガドリ(id:15179), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

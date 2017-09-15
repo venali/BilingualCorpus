@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>棚倉駅</j>
+<e type="trans" ver="1">Tanakura Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanakura Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tanakura Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>棚倉駅（たなくらえき）は、京都府木津川市山城町 (京都府)平尾里屋敷にある、西日本旅客鉄道（JR西日本）奈良線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Satoyashiki Hirao, Yamashiro-cho, Kizu City of Kyoto Prefecture, Tanakura Station is a stop on the Nara Line, a West Japan Railway Company (JR-West.) Line.</e>
+<cmt>（京都府）は冗長･重複につき削除。</cmt>
+<e type="trans" ver="2">Tanakura Station, located in Satoyashiki Hirao, Yamashiro-cho, Kizu City of Kyoto Prefecture, is a stop on the Nara Line, a West Japan Railway Company (JR-West). Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tanakura Station, located in Satoyashiki, Hirao, Yamashiro-cho, Kizu City in Kyoto Prefecture, is a stop on the Nara Line of West Japan Railway Company (JR West).</e>
+<cmt>JR Westとしました。住所中にカンマ追加</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station layout</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>相対式2面2線のプラットホームを持つ行違い可能な地上駅。</j>
+<e type="trans" ver="1">It is an above ground station with two platforms opposite each other and double tracks and at which trains can pass each other or pass others.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an above-ground station with two platforms opposite each other and double tracks, at which trains can pass each other or pass others.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It is an above-ground station with two platforms opposite each other and double tracks, at which trains can pass each other or pass others.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>駅本屋側ホームが2番ホーム（下り）、跨線橋を渡って反対側のホームが1番ホーム（上り）。</j>
+<e type="trans" ver="1">The platform nearer the main structure is that for Track #2 (outbound) and the opposite one across a passengers&apos; overpass is the Track #1 platform (inbound.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The platform nearer the main structure is for track No. 2 (outbound) and the opposite one across a passenger overpass is the track No. 1 platform (inbound).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">The platform nearer the main structure is for Platform 2 (outbound) and the opposite one across a passenger overpass is Platform 1 (inbound).</e>
+<cmt>「No.番ホーム」の表記を統一</cmt>
+</sen>
+<sen id="5">
+<j>駅舎は小さめの木造で、自動改札機は簡易式。</j>
+<e type="trans" ver="1">The station structure is of wooden construction on the smaller side and ticket gates are of simplified type.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station structure is of wooden construction on the smaller side, and the ticket gates are of the simplified type.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The station structure is of wooden construction on the smaller side, and the ticket gates are of the simplified type.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>窓口は昼前から夜間にかけてのみ営業。</j>
+<e type="trans" ver="1">Windows are manned only during certain hours of the day, usually from a little before noon till evening.</e>
+<cmt>時間帯が漠然としております。</cmt>
+<e type="trans" ver="2">Windows are manned only during certain hours of the day, usually from a little before noon till evening.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Windows are manned only during certain hours of the day, usually from a little before noon till evening.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>ICOCA・Jスルー利用可能駅であり、ICOCAの相互利用対象であるPiTaPa（スルッとKANSAI協議会）も利用可能。</j>
+<e type="trans" ver="1">ICOCA and J Through Cards can be used as well as PiTaPa (Surutto Kansai Association) Cards which are subject to mutual use with ICOCA Cards.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ICOCA and J Through cards can be used as well as PiTaPa (Surutto Kansai Association) cards, which are subject to combined use with ICOCA cards.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Both the ICOCA and J-Thru cards can be used as well as the PiTaPa (Surutto KANSAI Association) cards, which are subject ｔｏ mutual use with ICOCA cards.</e>
+<cmt>J-Thru Cards, KANSAIとしました。</cmt>
+</sen>
+<sen id="8">
+<j>但しJスルーカードについては、簡易改札機による対応のため複数枚の処理不可。</j>
+<e type="trans" ver="1">However, as ticket gates are of simplified type, processing more than one J Through Card is not possible.</e>
+<cmt>この表現では日本語でも理解不能であり、事実にも反しています。</cmt>
+<e type="trans" ver="2">However, since the ticket gates are of simplified type, it isn&apos;t possible to process more than one J Through Card per passenger.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">However, as ticket gates are of the simplified type, more than one J-Thru Card can&apos;t be processed.</e>
+<cmt>J-Thru</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>現在は京都方面へ向かう快速列車が、この駅で運転停車（客扱いなし）し、対向列車の通過を待つ様になっている。</j>
+<e type="trans" ver="1">Rapid trains bound for Kyoto currently make operational stops (no passengers alighting/boarding) at this station to standby for the train approaching from the opposite direction to pass by.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid trains bound for Kyoto currently make operational stops (no passengers alighting/boarding) at this station to standby in order for the train approaching from the opposite direction to pass by.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Rapid trains bound for Kyoto currently make operational stops (no passengers alighting/boarding) at this station to standby in order for the train approaching from the opposite direction to pass by.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization status</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usage status</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Usage status</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>2006年度の1日あたりの乗車人員は約562人である。</j>
+<e type="trans" ver="1">The number of passengers getting on at this station was approximately 562 per day in fiscal 2006.</e>
+<cmt>&quot;約&quot;は&quot;平均&quot;のこと言わんとしていると思われますが。</cmt>
+<e type="trans" ver="2">The number of passengers getting on at this station was approximately 562 per day in fiscal 2006.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The number of passengers boarding at this station came to approximately 562 per day in fiscal year 2006.</e>
+<cmt>表現統一</cmt>
+</sen>
+<sen id="12">
+<j>（京都府統計書より）</j>
+<e type="trans" ver="1">（Source: Kyoto Prefecture Statistical Report)</e>
+<cmt></cmt>
+<e type="trans" ver="2">（Source: Kyoto Prefecture Statistical Report)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">（Source: Kyoto Prefecture Statistical Report)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="13">
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station surroundings</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>涌出宮</j>
+<e type="trans" ver="1">Wakideno-miya Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wakideno-miya Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Wakideno-miya Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>蟹満寺</j>
+<e type="trans" ver="1">Kaniman-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kaniman-ji Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kaniman-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>越中谷1980年代の新興住宅地。</j>
+<e type="trans" ver="1">Ecchudani Newly Developed Residential Area of the &apos;80s.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ecchudani residential area was developed in the 1980s.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Ecchudani residential area was developed in the 1980s.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="17">
+<j>不動川天井川で有名、昭和28年には京都府南部の大雨により大洪水をおこす。</j>
+<e type="trans" ver="1">The Fudo-gawa River or Ceiling River is well known as the torrential rainfall of 1953 in the southern part of Kyoto Prefecture caused partial collapse of its banks and serious inundation of its environs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Fudo-gawa River (or the Ceiling River) is well known, as the torrential rainfall of 1953 in the southern part of Kyoto Prefecture caused a partial collapse of its banks and serious inundation of its environs.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The Fudo-gawa River (or the Ceiling River) is well known, as the torrential rainfall of 1953 in the southern part of Kyoto Prefecture caused a partial collapse of its banks and serious inundation of its environs.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="18">
+<j>棚倉保育園跡 : 『窓ぎわのトットちゃん』ばりの京都市電の払い下げ車両をもとに運営された保育園跡。</j>
+<e type="trans" ver="1">Tanakura Nursery Site: Site of a nursery managed and based on a disposed Kyoto City tram reminiscent of &quot;Totto-chan: The little girl by the window.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanakura Nursery Site: Site of a nursery managed and based on a disposed Kyoto City tram reminiscent of &quot;Totto-chan: The Little Girl by the Window.&quot;</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Tanakura Nursery Site: Site of a nursery managed and based on a disposed Kyoto City tram reminiscent of &quot;Totto-chan: The Little Girl by the Window.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>今は上述の湧出宮の境内になっている。</j>
+<e type="trans" ver="1">It is now the precincts of the aforesaid Wakide-no-miya Shrine.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is now the grounds of the aforesaid Wakide-no-miya Shrine.</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">It is now the grounds of the aforementioned Wakideno-miya Shrine.</e>
+<cmt>Wakideno-miyaとしました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="20">
+<j>お稲荷さん : 当駅周辺は椿井大塚山古墳に代表される大和朝廷時代の古墳群がある。</j>
+<e type="trans" ver="1">Oinari-san: A cluster of ancient tombs of the era of the Yamato Dynasty represesented by the Tsubai-Otsukayama Tomb can be found around this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oinari-san: A cluster of ancient tombs of the era of the Yamato Dynasty represented by the Tsubai-Otsukayama Tomb can be found around this station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Oinari-san: A cluster of ancient tombs of the era of the Yamato Dynasty represented by the Tsubai-Otsukayama Tomb can be found around this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>奈良線の線路開設時に発見された稲荷山古墳および椿井大塚山古墳は有名。</j>
+<e type="trans" ver="1">Inariyama Tomb and Tsubai-Otsukayama Tomb discovered when constructing the Nara Line are renowned.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Inariyama Tomb and Tsubai-Otsukayama Tomb, discovered during construction of the Nara Line, are renowned.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Inariyama Tomb and Tsubai-Otsukayama Tomb, discovered during construction of the Nara Line, are renowned.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>椿井大塚山古墳は邪馬台国卑弥呼に中国より献上された三角鳥獣神鏡が発掘されるなど邪馬台国や卑弥呼伝説にも一石を投じる遺跡地帯である。</j>
+<e type="trans" ver="1">A mirrow with triangular rims and designs of divinities and animals presented from China to Himiko of the Yamatai Kingdom was excavated from the Tsubai-Otsukayama Tomb amongst others and the area is sort of a region of relics which has caused a stir to legends concerning the Yamatai Kingdom and Himiko.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A mirror with triangular rims and designs of divinities and animals presented from China to Himiko, of the Yamatai Kingdom, was excavated from the Tsubai-Otsukayama Tomb (among others), and the area is sort of a region of relics that has caused a stir regarding legends concerning the Yamatai Kingdom and Himiko.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">A mirror with triangular rims and designs of divinities and animals presented from China to Himiko, of the Yamatai Kingdom, was excavated from the Tsubai-Otsukayama Tomb (among others), and the area is sort of a region of relics that has caused a stir regarding legends concerning the Yamatai Kingdom and Himiko.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>駅より徒歩3km。</j>
+<e type="trans" ver="1">A distance of 3km. from the station.</e>
+<cmt>何が対象か不詳。3kmは車でも同じ距離のはず。</cmt>
+<e type="trans" ver="2">A distance of 3km from the station.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">A distance of 3 km from the station.</e>
+<cmt>スペース追加</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="24">
+<j>木津川市立山城図書館</j>
+<e type="trans" ver="1">Kizugawa Municipal Yamashiro Library</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kizugawa Municipal Yamashiro Library</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kizugawa Municipal Yamashiro Library</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>棚倉郵便局</j>
+<e type="trans" ver="1">Tanakura Post Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanakura Post Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tanakura Post Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="26">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>1896年（明治29年）3月13日 - 奈良鉄道 玉水～木津間延伸時に開業。</j>
+<e type="trans" ver="1">Inaugurated on March 13, 1896 when the newly extended section of Nara Railway between Tamamizu and Kizu became operational.</e>
+<cmt>&quot;延伸時&quot;だけでは不十分と思われます。</cmt>
+<e type="trans" ver="2">It was inaugurated on March 13, 1896 when the newly extended section of Nara Railway between Tamamizu and Kizu became operational.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">March 13, 1896: The station was inaugurated when the newly extended section of Nara Railway between Tamamizu and Kizu became operational.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="28">
+<j>駅舎開設時には近隣住人の土地より土を購入し上狛方面への線路敷設に用いた。</j>
+<e type="trans" ver="1">Soil purchased from neighboring landlord at time of establishing station building and used to lay tracks towards Kamikoma.</e>
+<cmt>&quot;土地&quot;と&quot;土&quot;が併記されている故、&quot;土&quot;は土壌を意味すると解釈しました。</cmt>
+<e type="trans" ver="2">Soil purchased from a neighboring landlord at time of the station building&apos;s establishment was used to lay tracks toward Kamikoma.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Soil purchased from a neighboring landlord at time of the station building&apos;s establishment was used to lay tracks toward Kamikoma.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>その際の貢献が多大であった商家「中野家」の功労をたたえて駅舎を面前に設置した。</j>
+<e type="trans" ver="1">In honor of the Merchant Family &apos;Nakano&apos; which contributed a great deal at the time, the station building was constructed in front of the Nakano residence.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In honor of the merchant family &apos;Nakano,&apos; which contributed a great deal at the time, the station building was constructed in front of the Nakano residence.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">In honor of the merchant family &apos;Nakano,&apos; which contributed a great deal at the time, the station building was constructed in front of the Nakano residence.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>地元では知る人ぞ知る歴史的事実。</j>
+<e type="trans" ver="1">It is a historical fact known by locals who really know.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a historical fact among the locals who really know.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is a historical fact among the locals who really know.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>奈良線で、個人民家の前に駅舎があるのは棚倉駅だけ。</j>
+<e type="trans" ver="1">Tanakura Station is the only station on the Nara Line located in front of an individual&apos;s private home.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanakura Station is the only station on the Nara Line located in front of an individual&apos;s private home.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tanakura Station is the only station on the Nara Line located in front of an individual&apos;s private home.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="32">
+<j>1905年（明治38年）2月7日 - 合併により関西鉄道の駅となる。</j>
+<e type="trans" ver="1">Became a Kansei Railway station on Feb. 7, 1905 as a result of amalgamation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Became a Kansei Railway station on Feb. 7, 1905 as a result of amalgamation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">February 7, 1905: The station became a Kansai Railway Company station as a result of amalgamation.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="33">
+<j>1907年（明治40年）10月1日 - 関西鉄道が鉄道国有法。</j>
+<e type="trans" ver="1">Kansei Railway was nationalized on Oct. 1, 1907 under the Railway Nationalizaton Act.</e>
+<cmt>&quot;鉄道国有法&quot;ピリオド？</cmt>
+<e type="trans" ver="2">Kansei Railway was nationalized on Oct. 1, 1907 under the Railway Nationalizaton Act.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">October 1, 1907: Kansai Railway Company was nationalized under the Railway Nationalization Act.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="34">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により、JR西日本の駅となる。</j>
+<e type="trans" ver="1">Became a JR-West Station on April 1, 1987 from split privatization of Japan National Railways.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Became a JR-West Station on April 1, 1987 from split privatization of Japan National Railways.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 1987: The station became a JR West station due to the split privatization of Japan National Railways.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="35">
+<j>現在は複線電化にむけて工事が進行中。</j>
+<e type="trans" ver="1">Works are currently under way for electrification and laying double tracks.</e>
+<cmt>何/何処が対象か不詳。</cmt>
+<e type="trans" ver="2">Work is currently under way for electrification and laying double tracks.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Work is currently under way for electrification and laying double tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="36">
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Neighboring stations</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>西日本旅客鉄道（JR西日本）</j>
+<e type="trans" ver="1">West Japan Railway Coｍpany (JR-West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Coｍpany (JR-West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>二バイト文字</cmt>
+</sen>
+<sen id="38">
+<j>■奈良線</j>
+<e type="trans" ver="1">■Nara Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Nara Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Nara Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="39">
+<j>■みやこ路快速・■快速</j>
+<e type="trans" ver="1">■Miyakoji rapid train・■Rapid service</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Miyakoji rapid train・■Rapid service</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyakoji Rapid Service/Rapid Service</e>
+<cmt>表現統一・を/に変更しました。</cmt>
+</sen>
+<sen id="40">
+<j>通過（運転停車の場合あり）</j>
+<e type="trans" ver="1">Nonstop (Occasional operational stops)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nonstop (Occasional operational stops)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nonstop (Occasional operational stops)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>■区間快速・■普通</j>
+<e type="trans" ver="1">■Regional rapid ・■Local</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Regional rapid ・■Local</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Regional Rapid Service/Local</e>
+<cmt>表現統一・を/に変更しました。</cmt>
+</sen>
+<sen id="42">
+<j>玉水駅 - 棚倉駅 - 上狛駅</j>
+<e type="trans" ver="1">Tamamizu Station - Tanakura Station - Kamikoma Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tamamizu Station - Tanakura Station - Kamikoma Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tamamizu Station - Tanakura Station - Kamikoma Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Bakkai(id:7233), 城山(id:104901), Ignis(id:28979), Hikichimin Jr.(id:147077), Yuta415(id:149253), UE-PON2600(id:18149), Kagoya(id:9458), Ultratomio(id:1090), KARS(id:43022), Sunen(id:10700), Bandalgom(id:31841), R28Bot(id:177951), Kone(id:377), Baffclan(id:499), Hirotaro(id:1437), Sprinkler(id:14399), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

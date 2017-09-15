@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>京阪山科駅</j>
+<e type="trans" ver="1">Keihan Yamashina Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Yamashina Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan-Yamashina Station</e>
+<cmt>ハイフンを追加しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>京阪山科駅（けいはんやましなえき）は、京都府京都市山科区安朱桟敷町にある京阪電気鉄道京津線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Anshu-sajiki-cho, Yamashina Ward, Kyoto City, Kyoto Prefecture, Keihan Yamashina Station is stop on the Keishin Line, which is operated by Keihan Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Yamashina Station, located in Anshu-sajiki-cho, Yamashina Ward, Kyoto City, Kyoto Prefecture, is a stop on the Keishin Line, which is operated by Keihan Electric Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Keihan-Yamashina Station, located in Anshu-sajiki-cho, Yamashina Ward, Kyoto City, Kyoto Prefecture, is a stop on the Keishin Line, which is operated by Keihan Electric Railway.</e>
+<cmt>ハイフンを追加し、Keihan-Yamashinaとしました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>相対式2面2線のホームを持つ地上駅。</j>
+<e type="trans" ver="1">It is located on the ground level, provided with two separate platforms with two tracks served between them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Situated on the ground level, it&apos;s provided with two separate platforms serving two tracks between them.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Situated on the ground level, it&apos;s provided with two separate platforms serving two tracks between them.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>駅舎（改札口）は上下線ホームの浜大津寄りにそれぞれ設けられており、互いのホームは構内踏切で連絡している。</j>
+<e type="trans" ver="1">The station house (entrance/exit gate places) is located on the Hamaotsu side of both platforms (one for the up-trains and the other for the down-trains), and a railroad crossing within the premises must be used to move between the platforms.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station house (entrance/exit gates) is located on the Hamaotsu side of both platforms (one for the up trains and the other for the down trains), so a railroad crossing within the premises must be used to move between the platforms.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station house (entrance/exit gates) is located on the Hamaotsu side of both platforms (one for the inbound trains and the other for the outbound trains), so a railroad crossing within the premises must be used to move between the platforms.</e>
+<cmt>上り、下り→inbound, outboundとしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>かつては「京阪60形電車」用の追い抜き線が設置されていた。</j>
+<e type="trans" ver="1">In the past, other tarcks, used for eanbling the Keihan 60 series train cars to run through this station even when the ordinary track of te station was occupied by another train, were provided as well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the past, other tracks, used to allow the Keihan 60 Series cars to run through this station even when the ordinary track of the station was occupied by another train, were provided as well.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">In the past, other tracks, used to allow the Keihan model 60 electric cars to run through this station even when the ordinary track of the station was occupied by another train, were provided as well.</e>
+<cmt>京阪60形電車→Keihan model 60 electric cars　としました（他ファイルと統一）。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>京津線他駅と同様に、京阪本線・鴨東線方面の切符（京阪四条駅までの切符）は購入できない。</j>
+<e type="trans" ver="1">As at other stations on the Keishin line, no train ticket for a station on the Keihan Mian Line or the Oto Line (for example, for Keihan Shijo Station) can be bought at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As at other stations on the Keishin Line, no train ticket for a station on the Keihan Main Line or the Oto Line (for example, for Keihan Shijo Station) can be bought at this station.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">As at other stations on the Keishin Line, no train ticket for a station on the Keihan Main Line or the Oto Line (for example, for Keihan Shijo Station) can be bought at this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>地下鉄線の丸太町駅・四条駅などへの切符は購入可能であるため、誤購入防止のための注意書きがある。</j>
+<e type="trans" ver="1">However, tickets for stations on the subway lines can be bought here, and therefore, a warning to prevent a wrong ticket from being bought is displayed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, tickets for stations on the subway lines can be bought here, and therefore a warning to prevent the purchase of the wrong ticket is displayed.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">However, tickets for stations on the subway lines, such as Marutamachi Station and Shijo Station, can be bought here, and therefore a warning to prevent the purchase of the wrong ticket is displayed.</e>
+<cmt>翻訳を追加しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>この駅のすぐ南に京阪バスのターミナルがあり、山科各地の住宅地、および醍醐・六地蔵方面への足となっている。</j>
+<e type="trans" ver="1">A terminal for buses of Keihan Bus Co.,Ltd. is located just infront of this station, providing transportation means for persons living in various areas of Yamashina, and for the Digo/Rokujizo areas</e>
+<cmt></cmt>
+<e type="trans" ver="2">A terminal for the buses of Keihan Bus Co., Ltd., is located just in front of this station, providing transportation for persons living in various areas of Yamashina as well as for the Digo/Rokujizo areas.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">A terminal for the buses of Keihan Bus Co., Ltd., is located just in front of this station, providing transportation for persons living in various areas of Yamashina as well as for the Daigo/Rokujizo areas.</e>
+<cmt>Daigo に修正しました。</cmt>
+</sen>
+<sen id="8">
+<j>かつては、京阪の線路より北で、JR駅よりは南の大変狭い場所に京阪バスのターミナルが存在したが、再開発にともなって移転した。</j>
+<e type="trans" ver="1">In the past, the terminal was placed in a quite narrow space in the north of the Keihan line and in the south of the JR station, but has been moved to the present place corresponding to the redeveopment of the area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the past, the terminal was located in a very narrow space north of the Keihan Line and south of the JR station, but it has been moved to the present place corresponding to the area&apos;s redevelopment.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the past, the terminal was located in a very narrow space north of the Keihan Line and south of the JR station, but it has been moved to the present place corresponding to the area&apos;s redevelopment.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="9">
+<j>※当初は1両長、次いで2両長のホームであったが、地下鉄東西線開業時に西方向に延伸され4両化された。</j>
+<e type="trans" ver="1">* The home length was initially for one-car train, then extended for two-car trains, and further exteded to the west for four-car trains when the subway Tozai Line started its operation</e>
+<cmt></cmt>
+<e type="trans" ver="2">* The home length was initially for a one-car train but it was extended for two-car trains and then further extended to the west for four-car trains when the subway Tozai Line started its operations.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">* The platform length was initially for a one-car train but it was extended for two-car trains and then further extended to the west for four-car trains when the subway Tozai Line started its operations.</e>
+<cmt>home →platform　としました。</cmt>
+</sen>
+<sen id="10">
+<j>案内上ののりば番号は設定されていない。</j>
+<e type="trans" ver="1">No track number for guiding station users has been set.</e>
+<cmt></cmt>
+<e type="trans" ver="2">No track number has been set as guidance for station users.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">No track number has been set as guidance for station users.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>乗降客数</j>
+<e type="trans" ver="1">Number of users getting on or off trains at this station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger usage statistics</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="11">
+<j>1日：4605人（2003年11月調べ）</j>
+<e type="trans" ver="1">4605 persons a day (as of November, 2003)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The average daily number, as of November 2004, was 4,605 persons.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The average daily number, as of November 2003, was 4,605 persons.</e>
+<cmt>2003に修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="12">
+<j>JR東海道本線・湖西線、京都市営地下鉄東西線の山科駅と徒歩連絡している。</j>
+<e type="trans" ver="1">The Yamashina station on the JR Tokaido Main Line and JR Kosie Line and that on the Kyoto City Subway Tozai Line are located within walking distances of this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yamashina Station on the JR Tokaido Main Line and JR Kosie Line, as well as that on the Kyoto City Subway Tozai Line, are located within walking distance of this station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Yamashina Station on the JR Tokaido Main Line and JR Kosei Line, as well as that on the Kyoto Municipal Subway Tozai Line, are located within walking distance of this station.</e>
+<cmt>city→ municiapal　とｓｈました。Kosei に修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="13">
+<j>毘沙門堂</j>
+<e type="trans" ver="1">Bishamon-do Shirine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bishamon-do Shrine</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Bishamon-do Temple</e>
+<cmt>寺院ですので、templeとしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="14">
+<j>旧三条通（旧東海道）</j>
+<e type="trans" ver="1">The former Sanjo-dori street (of the former Tokai-do road)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The former Sanjo-dori Street (of the former Tokai-do Road)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The former Sanjo-dori Street (of the former Tokai-do Road)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="15">
+<j>三条通・京都外環状線</j>
+<e type="trans" ver="1">Sanjo-dori Street and the Kyoto outer ring road</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sanjo-dori Street and the Kyoto outer ring road</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sanjo-dori Street and the Kyoto Outer Loop Expressway</e>
+<cmt>京都外環状線→Kyoto Outer Loop Expressway　としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="16">
+<j>京都山科竹鼻郵便局</j>
+<e type="trans" ver="1">Kyoto Yamashina Takehana Post Office (the post office in Takehana, Yamashina Ward, Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto Yamashina Takehana post office (the post office in Takehana, Yamashina Ward, Kyoto Prefecture)</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kyoto Yamashina Takehana post office (the post office in Takehana, Yamashina Ward, Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="17">
+<j>京都府立洛東高等学校</j>
+<e type="trans" ver="1">Kyoto Prefectural Rakutoh High School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Prefectural Rakutoh High School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Prefectural Rakutoh High School</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="18">
+<j>京都薬科大学</j>
+<e type="trans" ver="1">Kyoto Pharmaceutical University</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Pharmaceutical University</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Pharmaceutical University</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="19">
+<j>ラクト山科（大丸やましな店、他専門店、公共施設、住宅等が入居する複合施設）</j>
+<e type="trans" ver="1">Racto Yamashina (a comlex facility including the Yamshina Daimaru store, speciality shops, public facilities and living quarters)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Racto Yamashina (a complex that includes the Yamashina Daimaru store, specialty shops, public facilities and living quarters)</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Racto Yamashina (a complex that includes the Yamashina Daimaru store, specialty shops, public facilities and living quarters)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="20">
+<j>琵琶湖第一疏水</j>
+<e type="trans" ver="1">The first Lake Biwa canal</e>
+<cmt></cmt>
+<e type="trans" ver="2">The first Lake Biwa canal</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The first Lake Biwa canal</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>バス</j>
+<e type="trans" ver="1">Buses</e>
+<cmt></cmt>
+<e type="trans" ver="2">Buses</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Buses</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="5">
+<tit>
+<j>路線バス</j>
+<e type="trans" ver="1">Buses on regular routes</e>
+<cmt></cmt>
+<e type="trans" ver="2">Buses on regular routes</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Buses on regular routes</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="21">
+<j>京阪バス</j>
+<e type="trans" ver="1">Keihan Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="22">
+<j>19号経路：河原町駅 (京都府)行</j>
+<e type="trans" ver="1">Route 19: bound for Kawaramachi Station (located in Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 19: Bound for Kawaramachi Station (located in Kyoto Prefecture)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 19: Bound for Kawaramachi Station (Kyoto Prefecture)</e>
+<cmt>括弧内のlocated in を削除しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="23">
+<j>20号経路：小山行</j>
+<e type="trans" ver="1">Route 20: bound for koyama</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 20: Bound for Koyama</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 20: Bound for Koyama</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="24">
+<j>21号経路：大宅行</j>
+<e type="trans" ver="1">Route 21: bound for Oyake</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 21: Bound for Oyake</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 21: Bound for Oyake</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="25">
+<j>22号経路：京阪六地蔵駅 行</j>
+<e type="trans" ver="1">Route 22: bound for Keihan Rokujizou Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 22: Bound for Keihan Rokujizou Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 22: Bound for Keihan Rokujizo Station</e>
+<cmt>Rokujizo　としました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="26">
+<j>24号経路：石田行</j>
+<e type="trans" ver="1">Route 24: bound for Ishida</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 24: Bound for Ishida</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 24: Bound for Ishida</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="27">
+<j>22A号経路：京阪六地蔵行</j>
+<e type="trans" ver="1">Route 22A: bound for Keihan Rokujizou Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 22A: Bound for Keihan Rokujizou Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 22: Bound for Keihan Rokujizo Station</e>
+<cmt>Rokujizo　としました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="28">
+<j>24A号経路：石田行</j>
+<e type="trans" ver="1">Route 24A: bound for Ishida</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 24A: Bound for Ishida</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 24A: Bound for Ishida</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="29">
+<j>26号経路：大宅行</j>
+<e type="trans" ver="1">Route 26: bound for Oyake</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 26: Bound for Oyake</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 26: Bound for Oyake</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="30">
+<j>26A号経路：京都橘大学行</j>
+<e type="trans" ver="1">Route 26A: bound for Kyoto Tachibana University</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 26A: Bound for Kyoto Tachibana University</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 26A: Bound for Kyoto Tachibana University</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="31">
+<j>28A号経路：（快速）京都橘大学行</j>
+<e type="trans" ver="1">Route 28A: bound for Kyoto Tachibana University (rapid buses)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 28A: Bound for Kyoto Tachibana University (rapid buses)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 28A: Bound for Kyoto Tachibana University (rapid buses)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="32">
+<j>29号経路：清水焼団地・西野山団地経由大宅行</j>
+<e type="trans" ver="1">Route 29: bound for Oyake via the Kiyomizuyaki-danchi housing complex and the Nishinoyam-danchi housing complex</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 29: Bound for Oyake via the Kiyomizuyaki-danchi and Nishinoyama-danchi housing complexes</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 29: Bound for Oyake via the Kiyomizuyaki-danchi and Nishinoyama-danchi housing complexes</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="33">
+<j>45号経路：藤尾・小金塚行</j>
+<e type="trans" ver="1">Route 45: bound for Fujio and Koganezuka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 45: Bound for Fujio and Koganezuka</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 45: Bound for Fujio and Koganezuka</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="34">
+<j>47号経路：西大津駅行（バス停は2008年4月中旬に大津京駅に改称予定）</j>
+<e type="trans" ver="1">Route 47: bound for Nishiotsu Station (the name of this bus stop will be changed to Otsukyo Station in the middle of April, 2008.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 47: Bound for Nishiotsu Station (the name of this bus stop was to become Otsukyo Station in mid-April 2008).</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 47: Bound for Nishiotsu Station (the name of this bus stop was to become Otsukyo Station in mid-April 2008).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="35">
+<j>48号経路：藤尾・小金塚行</j>
+<e type="trans" ver="1">Route 48: bound for Fujio and Koganezuka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 48: Bound for Fujio and Koganezuka</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 48: Bound for Fujio and Koganezuka</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="36">
+<j>くるり200：山科総合庁舎行</j>
+<e type="trans" ver="1">Kururi 200: boud for the Ymashina integrated ward office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kururi 200: Bound for the Yamashina integrated ward office</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Kururi 200: Bound for the Yamashina integrated ward office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>高速バス</j>
+<e type="trans" ver="1">High-speed buses</e>
+<cmt></cmt>
+<e type="trans" ver="2">High-speed buses</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Express buses</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="37">
+<j>北陸ハイウェイバス：金沢行</j>
+<e type="trans" ver="1">Hokuriku Highway Bus: bound for Kanazawa</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hokuriku Highway Bus: Bound for Kanazawa</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Hokuriku Highway Bus: Bound for Kanazawa</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="38">
+<j>東京ミッドナイトエクスプレス宇治号：渋谷・新宿行</j>
+<e type="trans" ver="1">The Tokyo Midnight Express Uji-go bus: bound for Shibuya and Shinjuku</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Tokyo Midnight Express Uji-go bus: Bound for Shibuya and Shinjuku</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The Tokyo Midnight Express Uji-go bus: Bound for Shibuya and Shinjuku</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="39">
+<j>上野・東京ディズニーリゾート・千葉行</j>
+<e type="trans" ver="1">Bound for Ueno, Tokyo Disney Resort and Chiba</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bound for Ueno, Tokyo Disney Resort and Chiba</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bound for Ueno, Tokyo Disney Resort and Chiba</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="40">
+<j>1912年（大正元年）8月15日 京津電気軌道古川町（後の東山三条）～札ノ辻（後に廃止）間開通時に毘沙門道駅として開業。</j>
+<e type="trans" ver="1">August 15, 1921: Operation of this station started as Bishamondo Station when Keishin Tramway started its soperation between Furukawa-cho (later Higashiyama Sanjo) and Fudanotsuji (use of this station was discontinued later).</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 15, 1921: The operation of this station started as Bishamondo Station when Keishin Tramway started running between Furukawa-cho (later Higashiyama Sanjo) and Fudanotsuji (the use of this station was later discontinued).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">August 15, 1912: The operation of this station started as Bishamondo Station when Keishin Electric Tramway started running between Furukawacho (later Higashiyama Sanjo) and Fudanotsuji (the use of this station was later discontinued).</e>
+<cmt>electric を追加しました。1912に修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="41">
+<j>1921年（大正10年）8月13日 山科駅前駅に改称。</j>
+<e type="trans" ver="1">August 13, 1921: The name of this station was changed to Yamashinaekimae Station (a station in front of Yamashina Station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 13, 1921: The facility&apos;s name was changed to Yamashinaekimae Station (a station in front of Yamashina Station).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">August 13, 1921: The facility&apos;s name was changed to Yamashinaeki-mae Station.</e>
+<cmt>Yamashinaeki-mae Station と統一しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="42">
+<j>1925年（大正14年）2月1日 会社合併により京阪電気鉄道京津線の駅となる。</j>
+<e type="trans" ver="1">February 1, 1925: The companies concerned merged, and this station became a station on the Keishin Line, which was operated by Keihan Electric Railway..</e>
+<cmt></cmt>
+<e type="trans" ver="2">February 1, 1925: The companies concerned merged, and this station became a facility on the Keishin Line, which was operated by Keihan Electric Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">February 1, 1925: The companies concerned merged, and this station became a facility on the Keishin Line, which was operated by Keihan Electric Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="43">
+<j>1934年（昭和9年）4月17日 待避線が造られ島式ホーム2面4線の緩急接続可能駅になる。</j>
+<e type="trans" ver="1">April 17, 1934: With side-tracks added, the station layout was changed to that of two island platforms serving four tracks, enabling connections at this station between a local train and another higher-class train.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 17, 1934: With sidetracks added, the station layout was changed to that of two island platforms serving four tracks, thus enabling connections at this station between a local train and another, higher-class train.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">April 17, 1934: With sidetracks added, the station layout was changed to that of two island platforms serving four tracks, thus enabling connections at this station between a local train and another, higher-class train.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="44">
+<j>1943年（昭和18年）10月1日 会社合併により京阪神急行電鉄の駅となる。</j>
+<e type="trans" ver="1">October 1, 1943: The companies concerned merged, and this station became a station of Keihanshin Express Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 1, 1943: The companies concerned merged, and this station became a station of Keihanshin Express Railway.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">October 1, 1943: The companies concerned merged, and this station became a station of Keihanshin Express Electric Railway.</e>
+<cmt>Electric を追加しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="45">
+<j>1949年（昭和24年）12月1日 会社分離により、再び京阪電気鉄道の駅となる。</j>
+<e type="trans" ver="1">December 1, 1949: Due to separation of the company, it became a station of Keihan Electric Railway again.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 1, 1949: Due to the separation of the company, it again became a station of Keihan Electric Railway.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">December 1, 1949: Due to the separation of the company, it again became a station of Keihan Electric Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="46">
+<j>1953年（昭和28年）4月1日 京阪山科駅に改称。</j>
+<e type="trans" ver="1">April 1, 1953: Its name was changed to Keihan Yamashina Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1953: Its name was changed to Keihan Yamashina Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">April 1, 1953: Its name was changed to Keihan-Yamashina Station.</e>
+<cmt>ハイフンを追加し、Keihan-Yamashinaとしました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="47">
+<j>1955年（昭和30年）8月20日 国鉄駅側に東改札口新設。</j>
+<e type="trans" ver="1">August 20, 1955: An east entrance/exit gate place was newly provided on the JR side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 20, 1955: An east entrance/exit gate was provided on the JR side.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">August 20, 1955: An east entrance/exit gate was provided on the side of the Japan National Railways.</e>
+<cmt>国鉄→Japan Naional Railways　としました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="48">
+<j>1973年（昭和48年） ホームがそれまでの島式2面4線から相対式2面2線に改造される。</j>
+<e type="trans" ver="1">1973: The station layout was changed from two island platforms serving four tracks to two opposite platforms with two tracks served between them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">1973: The station layout was changed from two island platforms serving four tracks to two opposite platforms with two tracks served between them.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">1973: The station layout was changed from two island platforms serving four tracks to two opposite platforms with two tracks served between them.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="49">
+<j>1977年（昭和52年）8月15日 大津線で始めて券売機設置。</j>
+<e type="trans" ver="1">August 15, 1977: The first automatic ticket vending machines on the Otsu Line were introduced in this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 15, 1977: The first automatic ticket vending machines on the Otsu Line were introduced in this station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">August 15, 1977: The first automatic ticket vending machines on the Otsu Line were introduced in this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="50">
+<j>1996年（平成8年） 地下鉄東西線開業に伴う駅改良工事、東改札口の改築と、列車4両化にあわせホームが有効長が2両から4両に延長される。</j>
+<e type="trans" ver="1">1996: The station house was reformed in preparation for the opening of the Tozai Line of the subway: The entrance/exit gate area was reformed and the effective length of the platforms was extended from that for two-car tarins to that for four-car trains, because it was scheduled that use of four-car trains would be started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">1996: The station house was reformed in preparation for the opening of the subway&apos;s Tozai Line, whereby the entrance/exit gate area was renovated and the effective length of the platforms was extended from that for two-car trains to that for four-car trains, because it was scheduled that the use of four-car trains would soon start.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">1996: The station house was reformed in preparation for the opening of the subway&apos;s Tozai Line, whereby the entrance/exit gate area on the east side was renovated and the effective length of the platforms was extended from that for two-car trains to that for four-car trains, because it was scheduled that the use of four-car trains would soon start.</e>
+<cmt>on the east sideを追加しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="51">
+<j>2002年（平成14年）1月15日 自動改札機使用開始。</j>
+<e type="trans" ver="1">January 15, 2002: Use of automatic ticket checking machines started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">January 15, 2002: The use of automatic ticket checking machines started.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">January 15, 2002: The use of automatic ticket checking machines started.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>最初で最後の浜大津発・京阪山科行き電車</j>
+<e type="trans" ver="1">The last as well as first train that started at Hamaotsu for Keihan Yamashina.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The last as well as first train that started at Hamaotsu for Keihan Yamashina.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The last as well as first train that started at Hamaotsu for Keihan-Yamashina.</e>
+<cmt>ハイフンを追加し、Keihan-Yamashinaとしました。</cmt>
+</tit>
+<par id="1">
+<sen id="52">
+<j>京津三条～御陵間3.9kmの最終営業日となった1997年（平成9年）10月11日。</j>
+<e type="trans" ver="1">On October 11, 1997, when trains were last operated in the 3.9-km section between Keishin Sanjo and Misasagi,</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 11, 1997, when trains were last operated in the 3.9-km section between Keishin Sanjo and Misasagi,</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On October 11, 1997, trains were last operated in the 3.9-km section between Keishin Sanjo and Misasagi.</e>
+<cmt>文章を完結させました。</cmt>
+</sen>
+<sen id="53">
+<j>京津三条を最後の列車（浜大津行き準急）が発車した22時14分以降、御陵～京阪山科間では線路の切り替えが行われ、京阪バスによる代替輸送が行われた。</j>
+<e type="trans" ver="1">After the last train (a semi-express train bound for Hamaotsu) departed from Keishin Sanj at 22: 14, tracks-swtiching work was conducted between Misasagi and Keihin yamashina, with alternative tranportation means provided for the section.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the last train (a semi-express bound for Hamaotsu) departed from Keishin Sanji at 22:14, track-switching work was conducted between Misasagi and Keihin Yamashina, with alternative transportation means provided for the section.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After the last train (a sub-express bound for Hamaotsu) departed from Keishin-Sanjo at 22:14, track-switching work was conducted between Misasagi and Keishin-Yamashina, with alternative transportation means provided for the section by Keihan Bus.</e>
+<cmt>準急→sub-express としました。京阪バス　を追加しました。</cmt>
+</sen>
+<sen id="54">
+<j>京阪山科～浜大津間では、600形・260形を用いて鉄道による輸送が確保された。</j>
+<e type="trans" ver="1">Between Keihan Yamashina and Hamaotsu, railway-using transportion was secured by using 600 series and 260 series train cars.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Between Keihan Yamashina and Hamaotsu, railway-using transportation was secured through the use of train cars from the 600 and 260 series.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Between Keihan-Yamashina and Hamaotsu, railway-using transportation was secured through the use of train cars from the model 600 and 260 train cars.</e>
+<cmt>ハイフンを追加し、Keihan-Yamashinaとしました。他ファイルと統一し、xx系→ model xxとしました。</cmt>
+</sen>
+<sen id="55">
+<j>この時、600形には「京阪山科」の行先表示は用意されていないので、「浜大津 京阪山科」の方向板を付けて運行された。</j>
+<e type="trans" ver="1">At that time, no destination display board for &quot;Keihan Yamashina&quot; was available for the 600 series train cars and the trains were operated with a desnination display board for &quot;Hamaotsu/Keihan Yamashina.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">At that time, no destination display board for &quot;Keihan Yamashina&quot; was available for the 600 Series train cars, so the trains were operated with a destination display board that read &quot;Hamaotsu/Keihan Yamashina.&quot;</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">At that time, no destination display board for &apos;Keihan-Yamashina&apos; was available for the model 600 train cars, so the trains were operated with a destination display board that read &apos;Hamaotsu/Keihan-Yamashina.&apos;</e>
+<cmt>&quot;→ &apos;　としました。他ファイルと統一し、xx系→ model xxとしました。</cmt>
+</sen>
+<sen id="56">
+<j>これは、260形の最後の運行になったほか、方向板も最後の最後で新しいものが用意されたことになる。</j>
+<e type="trans" ver="1">This means that this operation was the last one for the series 260 train cars and a new final distination display board was provided on the last occasion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Consequently, this operation was the last one for the 260 Series train cars and a new final destination display board was provided on the last occasion.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Consequently, this operation was the last one for the model 260 train cars and a new final destination display board was provided on the last occasion.</e>
+<cmt>他ファイルと統一し、xx系→ model xxとしました。</cmt>
+</sen>
+<sen id="57">
+<j>そして、この日の最終電車が運行された後、600形は1500Vへの昇圧のために錦織車庫へ、そして260形は解体までの留置場所となった九条山へと回送されたのである。</j>
+<e type="trans" ver="1">After the last train was run on this day, the 600 series trains cars were sent to the Nishikiori depot for making them prepared for 1500-V operation, and the 260 series train cars to Kujo-yama to be kept there until being dismantled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the last train was run on this day, the 600 Series trains cars were sent to the Nishikiori depot so that they could be prepared for 1500-V operation, and the 260 series train cars to Kujo-yama were to be kept there until the time of their disassembly.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After the last train was run on this day, the model 600 trains cars were sent to the Nishigori-shako Depot so that they could be prepared for 1500V operation, and the model 260 train cars to Kujoyama were to be kept there until the time of their disassembly.</e>
+<cmt>shako depot としました。他ファイルと統一し、xx系→ model xxとしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="58">
+<j>京阪電気鉄道</j>
+<e type="trans" ver="1">Keihan Electric Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="59">
+<j>■京津線</j>
+<e type="trans" ver="1">Keishin Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keishin Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keishin Line</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="60">
+<j>御陵駅 - 京阪山科駅 - 四宮駅</j>
+<e type="trans" ver="1">Misasagi Station - Keihin Yamashina Station - Shinomiya Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Misasagi Station - Keihin Yamashina Station - Shinomiya Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Misasagi Station - Keihan-Yamashina Station - Shinomiya Station</e>
+<cmt>ハイフンを追加し、Keihan-Yamashinaとしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="10">
+<tit>
+<j>直通運転と2つの「山科駅」の運賃問題</j>
+<e type="trans" ver="1">The through service and fare problems ralated to two Yamashina stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">The through service and fare problems ralated to two Yamashina stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The through service and fare problems related to two Yamashina stations</e>
+<cmt>スペルを修正しました。</cmt>
+</tit>
+<par id="1">
+<sen id="61">
+<j>原因</j>
+<e type="trans" ver="1">Causes</e>
+<cmt></cmt>
+<e type="trans" ver="2">Causes</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Causes</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="62">
+<j>京阪電気鉄道京津線と京都市営地下鉄東西線との重複区間は、三条（三条京阪）～京阪山科（山科）間で、当初、京阪電気鉄道は、京津線の三条～京阪山科を廃止し、京阪山科から京都市営地下鉄東西線へ乗り入れる予定であったが、京都市営地下鉄東西線の線形（京都府道外環状線を北上し、京阪電気鉄道京津線と十字に交差）の問題などの理由から物理的に不可能となり、御陵に変更された。</j>
+<e type="trans" ver="1">The operation of the Keishin Line of Keihan Electric Railway and that of the Tozai Line of Kyoto City Subway overlap between Sanjo (Keihan Sanjo) and Keihan Yamashina; Initially it was planned that the operation between Sanjo and Keihan Yamashina on the Keishin Line should be discontinued and Keihan trains should run into the Tozai Line at Keihan Yamashina, but it was found physically impossible to execute the plan, mainly because of the linearlity problem of the Tozai LIne (the Tozai LIne was laid along the Kyoto outer ring road in the north-south direction, and the Keishin Line of Keihan Electric Railway and the Tozai Line of Kyoto City Subway are to be crossed at right angles with each other), and therefore, it was decided that the keihan trains should run into the Tozi LIne at Missasagi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The operation of the Keishin Line of Keihan Electric Railway and that of the Tozai Line of Kyoto City Subway overlap between Sanjo (Keihan Sanjo) and Keihan Yamashina; initially it was planned that the operation between Sanjo and Keihan Yamashina on the Keishin Line would be discontinued and Keihan trains should run into the Tozai Line at Keihan Yamashina, but it was deemed physically impossible to execute the plan, mainly because of the linearity problem of the Tozai Line (the Tozai Line was laid along the Kyoto outer ring road in the north-south direction, and the Keishin Line of Keihan Electric Railway and the Tozai Line of Kyoto City Subway were to cross one another at right angles), and therefore it was decided that the Keihan trains would run into the Tozai Line at Missasagi.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The operation of the Keishin Line of Keihan Electric Railway and that of the Tozai Line of Kyoto Municipal Subway overlap between Sanjo (Keihan Sanjo) and Keihan-Yamashina; initially it was planned that the operation between Sanjo and Keihan-Yamashina on the Keishin Line would be discontinued and Keihan trains should run into the Tozai Line at Keihan-Yamashina, but it was deemed physically impossible to execute the plan, mainly because of the linearity problem of the Tozai Line (the Tozai Line was laid along the Kyoto Outer Loop Expressway in the north-south direction, and the Keishin Line of Keihan Electric Railway and the Tozai Line of Kyoto Municipal Subway were to cross one another at right angles), and therefore it was decided that the Keihan trains would run into the Tozai Line at Misasagi.</e>
+<cmt>city→ municipal　としました。京都外環状線→Kyoto Outer Loop Expressway　としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="63">
+<j>京都市内中心部へ向かう場合、京阪山科駅を利用すると京阪線と地下鉄線の運賃の合算となり、地下鉄山科駅を利用すると地下鉄線のみの運賃となる。</j>
+<e type="trans" ver="1">When going to a statin in the central area of Kyoto, you must pay both the fare for the Keihan Line section and that for the Tozai Line section if you use Keihan Yamashina Station and only the fare for the Tozai Line if you use Yamashina Station on the subway line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When going to a station in the central area of Kyoto, one must pay both the fare for the Keihan Line section and that for the Tozai Line section if one wants to use Keihan Yamashina Station, but one should pay only the fare for the Tozai Line if using Yamashina Station on the subway line.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">When going to a station in the central area of Kyoto, one must pay both the fare for the Keihan Line section and that for the Tozai Line section if one wants to use Keihan-Yamashina Station, but one should pay only the fare for the Tozai Line if using Yamashina Station on the subway line.</e>
+<cmt>ハイフンを追加し、Keihan-Yamashinaとしました。</cmt>
+</sen>
+<sen id="64">
+<j>後者の方が当然安いが、京阪山科駅のホームが地上にあり行き来が楽であることからこちらを利用する客もいる。</j>
+<e type="trans" ver="1">Naturally, the fare of the latter case is less than the total fare of the former case, but many people use keihan Yamashina Station because the platforms are provided on the ground level and are more comfortable to use.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Naturally, the fare of the latter case is less than the total fare of the former case, but many people use Keihan Yamashina Station because the platforms are provided on the ground level and are more comfortable to use.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Naturally, the fare of the latter case is less than the total fare of the former case, but many people use Keihan-Yamashina Station because the platforms are provided on the ground level and are more comfortable to use.</e>
+<cmt>ハイフンを追加し、Keihan-Yamashinaとしました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="65">
+<j>京都市内中心部から山科へ向かう場合も、全く同様の問題が発生する。</j>
+<e type="trans" ver="1">The same problem also exist when you go to the Yamashina area from the central area of Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The same problem also exists when going to the Yamashina area from the central area of Kyoto City.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The same problem also exists when going to the Yamashina area from the central area of Kyoto City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="66">
+<j>このことを知らない利用者が、両者の駅を区別せずに、京阪山科駅で下車してしまい追加運賃が発生し、駅員から説明を受け追加の運賃を支払う場面が時折発生している。</j>
+<e type="trans" ver="1">Some users do not know this situation, and it sometimes happens that, when going to get off at Keihin Yamashina Station such a user is stopped by a station officer and becomes to pay an additional fare after hearing an explanation by the officer.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some users aren&apos;t aware of this situation, and it sometimes happens that, when going to get off at Keihin Yamashina Station, such a user is stopped by a station officer and has to pay an additional fare after hearing an explanation by the officer.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Some users aren&apos;t aware of this situation, and it sometimes happens that, when going to get off at Keihan-Yamashina Station, such a user is stopped by a station officer and has to pay an additional fare after hearing an explanation by the officer.</e>
+<cmt>ハイフンを追加し、Keihan-Yamashinaとしました。</cmt>
+</sen>
+<sen id="67">
+<j>なお、その回避策として、京阪の車両が地下鉄東西線から京津線に直通する直前の御陵駅到着時および始発駅発車時に、運賃に関する車内アナウンスが放送されている。</j>
+<e type="trans" ver="1">To avoid such a case from occurring, fare-related announcements are made withing the train cars when Keihan trains depart from their starting stations and imediately before they arrive at Missasagi Station where they enter into the Keishin Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">To avoid such a case from occurring, fare-related announcements are made within the train cars when Keihan trains depart from their starting stations and immediately before they arrive at Missasagi Station where they enter the Keishin Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">To avoid such a case from occurring, fare-related announcements are made within the train cars when Keihan trains depart from their starting stations and immediately before they arrive at Misasagi Station where they enter the Keishin Line.</e>
+<cmt>OK</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="68">
+<j>この問題については、地下鉄開業に際して京阪電気鉄道と京都市とで運賃調整の協議が行われたが、京都市が歩み寄らず、結局物別れに終わった経緯がある。</j>
+<e type="trans" ver="1">Before the subway line started its operation, discussions to solve this fare problem were made between Keihan Electric Railway and Kyoto City, but the City side made no concession, failing to reach any agreement.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Before the subway line started its operation, discussions to solve this fare problem were held between Keihan Electric Railway and Kyoto City, but the city side made no concession so no agreement was reached.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Before the subway line started its operation, discussions to solve this fare problem were held between Keihan Electric Railway and Kyoto City, but the city side made no concession so no agreement was reached.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="69">
+<j>なお、京都市営地下鉄では他にも、京都市営地下鉄烏丸線と、竹田駅 (京都府)を介して同線と直通運転する近鉄京都線においても、京都駅～竹田間の運賃不整合の問題が起きている（尤も、こちらは地下鉄の方が高額になるため、地下鉄直通列車側で運賃に関する車内アナウンスがある）。</j>
+<e type="trans" ver="1">Similar problems exist on another Kyto City Subway line; Between Takeda Station (located in Kyoto prefecture) and Kyoto Station, either of the Karasuma Line of Kyoto City Subway and the Kintetsu Kyoto Line are available, but their fares are different (in this case, the fare for the subway line is costly and fare-related announments are made within the trains cars operated by the subway).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Similar problems exist on another Kyoto City Subway line: between Takeda Station (located in Kyoto Prefecture) and Kyoto Station, either the Karasuma Line of Kyoto City Subway or the Kintetsu Kyoto Line is available, but their fares are different (in this case, the fare for the subway line is costly and fare-related announcements are made within the trains cars operated by the subway).</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Similar problems exist on another Kyoto Municipal Subway line: between Takeda Station (Kyoto Prefecture) and Kyoto Station, either the Karasuma Line of Kyoto Municipal Subway or the Kintetsu Kyoto Line which runs directly into the subway line via Takeda Station, is available, but their fares are different (in this case, the fare for the subway line is costly and fare-related announcements are made within the trains cars operated by the subway).</e>
+<cmt>city→ municipal　としました。竹田駅を介して直通運転する　を追加しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 東京特許許可局(id:7229), Bakkai(id:7233), Hideyuki(id:9577), Basedview(id:182448), 城山(id:104901), 章奴(id:50198), KARS(id:43022), お掃除大好き(id:99320), Memeja(id:110500), Utsuda(id:605), Mop(id:12061), Zzzz(id:16596), Sunen(id:10700), 金山銀山銅山(id:163855), Unamu(id:14627), Har-Poon-SSM(id:72987), くっちゃめ(id:86793), Kone(id:377), Hirotaro(id:1437), 扇風機のせんちゃん(id:161810), オナガドリ(id:15179), 目蒲東急之介(id:34741), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

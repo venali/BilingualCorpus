@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>長岡天神駅</j>
+<e type="trans" ver="1">Nagaokatenjin Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nagaokatenjin Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nagaokatenjin Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>長岡天神駅（ながおかてんじんえき）は、京都府長岡京市にある、阪急電鉄阪急京都本線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Nagaokakyo City, Kyoto Prefecture, Nagaokatenjin Station is a stop on the Hankyu Kyoto Line, which is operated by the Hankyu Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nagaokatenjin Station, located in Nagaokakyo City, Kyoto Prefecture, is a stop on the Hankyu Kyoto Line, which is operated by the Hankyu Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Nagaokatenjin Station, located in Nagaokakyo City, Kyoto Prefecture, is a stop on the Hankyu Kyoto Line, which is operated by the Hankyu Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>以前は通過列車も多かったが、現在は全列車停車。</j>
+<e type="trans" ver="1">Although many trains on this line would pass through the station, all trains on this line stop at this station now.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although formerly many trains on this line would pass through the station, today all trains on the line stop here.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although formerly many trains on this line would pass through the station, today all trains on the line stop here.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>早朝・深夜には河原町方面との当駅始終着列車がある（駅北側に渡り線がある）。</j>
+<e type="trans" ver="1">In the early morning and at late-evening, the first train for Kawaramachi Station departs from this station and the last train from Kawaramachi Station arrives at this station (there is a crossover on the north side of the station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the early morning and late evening, the first train for Kawaramachi Station departs from this station and the last train from Kawaramachi Station arrives at this station (there is a crossover on the north side of the station).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the early morning and late evening, the first train for Kawaramachi Station departs from this station and the last train from Kawaramachi Station arrives at this station (there is a crossover on the north side of the station).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>また、早朝に快速急行・準急の梅田行き列車が運転されている。</j>
+<e type="trans" ver="1">In the early morning, Rapid Express and Semi Express trains for Umeda Station are operated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the early morning, rapid express and semi-express trains for Umeda Station are operated.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">During the early morning, rapid express and semi-express trains for Umeda Station are operated.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>プラットホーム形状と配置2面4線のホームを持つ、待避設備を備えた地上駅で、橋上駅を有している。</j>
+<e type="trans" ver="1">Nagaokatenjin Station is an aboveground station with two platforms serving four tracks (the form of platform and its arrangement) and a passing facility, the station being on the bridge.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nagaokatenjin Station is an aboveground station with two platforms serving four tracks (the form of platform and its arrangement) and a passing facility, the station being on the bridge.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">An aboveground station with two island platforms serving four tracks, Nagaokatenjin Station has a passing loop and the station building is located on the bridge.</e>
+<cmt>原文の「プラットフォーム形状」は(the form of platform and its arrangement) ですが、ウェブのwikiを参照したところ、島式ということでしたので、左記のように訳にいれました。ご確認をお願いします。NR: &quot;Passing facility&quot; seems very vague to me. I assume it means &quot;passing loop&quot;. Also, I&apos;m not sure what a &quot;station house&quot; is supposed to be.</cmt>
+</sen>
+<sen id="6">
+<j>東西双方に入り口がある。</j>
+<e type="trans" ver="1">There are entrances on the east and the west.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are entrances on the east and west.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There are exits on the east and west.</e>
+<cmt>entrance→ exit　としました。</cmt>
+</sen>
+<sen id="7">
+<j>改札口は1か所のみ。</j>
+<e type="trans" ver="1">There is only one ticket gate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is only one ticket gate.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There is only one ticket gate.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>東側には上下エスカレーターがあるが西側は上りエスカレーターしかない。</j>
+<e type="trans" ver="1">There is a two-way escalator on the east side, but there is only an up-escalator on the west side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a two-way escalator on the east side, but the west side ha only an up escalator.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There is a two-way escalator on the east side, but the west side has only an up escalator.</e>
+<cmt>ha →has　としました。</cmt>
+</sen>
+<sen id="9">
+<j>エレベーターは東西共にある。</j>
+<e type="trans" ver="1">There are elevators on both the east and west sides.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are elevators on both the east and west sides.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There are elevators on both the east and west sides.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>利用状況</j>
+<e type="trans" ver="1">Use of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Conditions of usage</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="10">
+<j>平成15年度の1日あたりの乗車人員は約18,992人（京都府統計書より）。</j>
+<e type="trans" ver="1">The number of passengers per day was about 18,992 in 2003 (adapted from Kyoto Prefecture Statistical Book).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of passengers per day was about 18,992 in 2003 (according to the Kyoto Prefecture Statistical Book).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The number of passengers per day was about 18,992 in fiscal year 2003 (according to the Kyoto Prefecture Statistics Report).</e>
+<cmt>統一しました。fiscal → fiscal yearに変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="11">
+<j>長岡天満宮</j>
+<e type="trans" ver="1">Nagaoka Temman-gu Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nagaoka Temman-gu Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nagaoka Tenman-gu Shrine</e>
+<cmt>Tenmangu としまｓｈた。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="12">
+<j>長岡京市役所</j>
+<e type="trans" ver="1">Nagaokakyo city office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Nagaokakyo city office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Nagaokakyo City Hall</e>
+<cmt>City Hall としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="13">
+<j>長岡開田郵便局</j>
+<e type="trans" ver="1">Nagaoka Kaiden post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Nagaoka Kaiden post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Nagaoka Kaiden post office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="14">
+<j>西友</j>
+<e type="trans" ver="1">The Seiyu, Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Seiyu, Ltd.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Seiyu, Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="15">
+<j>イズミヤ</j>
+<e type="trans" ver="1">Izumiya Co.,Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Izumiya Co., Ltd.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Izumiya Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="16">
+<j>西日本旅客鉄道長岡京駅</j>
+<e type="trans" ver="1">West Japan Railway Company (JR West), Nagaokakyo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR West), Nagaokakyo Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West), Nagaokakyo Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="17">
+<j>ローソン（東口）</j>
+<e type="trans" ver="1">LAWSON. INC. (located at the east exit of the station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">LAWSON. INC. (located at the east exit of the station)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">LAWSON. INC. (located at the east exit of the station)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>バス</j>
+<e type="trans" ver="1">Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="18">
+<j>阪急長岡天神（西口から西へ徒歩2分ほど）</j>
+<e type="trans" ver="1">Hankyu Nagaokatenjin (a 2-minute walk from the west exit of the station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Nagaokatenjin (a two-minute walk from the station&apos;s west exit)</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Hankyu Nagaokatenjin (a two-minute walk from the station&apos;s west exit)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="19">
+<j>阪急バス（大山崎営業所担当・71/72系統のみ、大山崎営業所向日出張所担当）「いずれも阪急田園バスに運転委託」</j>
+<e type="trans" ver="1">Hankyu Bus Co.,Ltd. (The operation is managed by Oyamazaki business office (only Route 71/72 are operated by the Muko subbranch of the Oyamazaki business office).) &apos;Both services are subcontracted to Hankyu Den&apos;en Bus Co.,Ltd.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The operations of Hankyu Bus Co., Ltd., are managed by the Oyamazaki business office (while only routes 71 and 72 are operated by the Muko sub-branch of the Oyamazaki business office); however, both services are subcontracted to Hankyu Den&apos;en Bus Co., Ltd.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">The operations of Hankyu Bus Co., Ltd., are managed by the Oyamazaki business office (while only routes 71 and 72 are operated by the Muko sub-branch of the Oyamazaki business office); however, services are subcontracted to Hankyu Denen Bus Co., Ltd.</e>
+<cmt>アポストロフィーを削除し、Denen としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="20">
+<j>12/13系統 運転免許試験場行</j>
+<e type="trans" ver="1">Route 12/13: for Driver&apos;s License Center</e>
+<cmt></cmt>
+<e type="trans" ver="2">Routes 12/13: Bound for the Driver&apos;s License Center</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Routes 12/13: Bound for the Driver&apos;s License Center</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="21">
+<j>長岡京駅行</j>
+<e type="trans" ver="1">for Nagaokakyo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bound for Nagaokakyo Station</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Bound for Nagaokakyo Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="22">
+<j>71/72系統 友岡・久貝長岡京駅行/長岡京駅・菱川・下久世・中久世向日町駅経由 阪急東向日行</j>
+<e type="trans" ver="1">Route 71/72: for Tomooka, Kugai, and Nagaokakyo Station/for Hankyu Higashimuko Station via Nagaokakyo Station, Hishikawa, Shimo-Kuze, Nakakuze, and JR Mukomachi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Routes 71/72: Bound for Tomooka, Kugai, and Nagaokakyo Station/for Hankyu Higashimuko Station via Nagaokakyo Station, Hishikawa, Shimo-Kuze, Nakakuze and JR Mukomachi Station</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Routes 71/72: Bound for Tomooka, Kugai, and Nagaokakyo Station/for Hankyu Higashimuko Station via Nagaokakyo Station, Hishikawa, Shimo-Kuze, Nakakuze and JR Mukomachi Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="23">
+<j>その他 長岡京市内各方面。</j>
+<e type="trans" ver="1">Others are for destinations in Nagaokakyo City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Others are bound for destinations in Nagaokakyo City.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Others are bound for destinations in Nagaokakyo City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>また、サントリー京都工場見学客向けの無料送迎バス（オリジナル塗装の専用バスが運用されているが、検査の都合で代車での運行となる場合がある）が長岡京駅経由で昼間帯に運行されている。</j>
+<e type="trans" ver="1">Complimentary shuttle service is provided for visitors of Suntory Kyoto Brewery during the day via Nagaokakyo Station (the special bus of original coating is operated, but sometimes an alternative bus is operated due to inspection).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Complimentary shuttle service is provided for visitors to the Suntory Kyoto Brewery during the day via Nagaokakyo Station (the special bus with an original coating is used, but during inspections an alternate bus is used).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Complimentary shuttle service is provided for visitors to the Suntory Kyoto Brewery during the day via Nagaokakyo Station (the special bus with an original coating is used, but during inspections an alternate bus is used).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="25">
+<j>長岡京はっぴぃバス</j>
+<e type="trans" ver="1">Nagaokakyo HAPPY Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nagaokakyo HAPPY Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nagaokakyo HAPPY Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="26">
+<j>北コース　と　西コース　の2系統。</j>
+<e type="trans" ver="1">Two routes: North course and West course</e>
+<cmt></cmt>
+<e type="trans" ver="2">Two routes: the north course and west course</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Two routes: the north course and west course</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="27">
+<j>阪急長岡天神南（東口から南へ徒歩3分ほど）</j>
+<e type="trans" ver="1">Hankyu Nagaokatenjin-minami (a 3-minute walk from the east exit of the station to the south)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Nagaokatenjin-minami (a three-minute walk from the east exit of the station to the south)</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Hankyu Nagaokatenjin-minami (a three-minute walk from the east exit of the station to the south)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="28">
+<j>阪急バス</j>
+<e type="trans" ver="1">Hankyu Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hankyu Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="29">
+<j>12系統 阪急長岡天神経由 免許試験所前行</j>
+<e type="trans" ver="1">Route 12: for Driver&apos;s License Center via Hankyu Nagaokatenjin</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 12: Bound for the Driver&apos;s License Center via Hankyu Nagaokatenjin</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 12: Bound for the Driver&apos;s License Center via Hankyu Nagaokatenjin</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="30">
+<j>14系統 小泉橋方面</j>
+<e type="trans" ver="1">Route 14: for Koizumibashi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 14: Bound for Koizumibashi</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 14: Bound for Koizumibashi</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="31">
+<j>16系統 阪急長岡天神行き</j>
+<e type="trans" ver="1">Route 16: for Hankyu Nagaokatenjin</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 16: Bound for Hankyu Nagaokatenjin</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 16: Bound for Hankyu Nagaokatenjin</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>タクシーのりば</j>
+<e type="trans" ver="1">Taxi stand</e>
+<cmt></cmt>
+<e type="trans" ver="2">Taxi stand</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Taxi stand</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="32">
+<j>阪急タクシー（西口）</j>
+<e type="trans" ver="1">Hankyu Taxi Inc. (located at the west exit of the station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Taxi, Inc. (located at the station&apos;s west exit)</e>
+<cmt>grammarpunctuation</cmt>
+<e type="check" ver="1">Hankyu Taxi, Inc. (located at the station&apos;s west exit)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="33">
+<j>1928年（昭和3年）11月1日 新京阪鉄道高槻町～西院開通時に開業。</j>
+<e type="trans" ver="1">On November 1, 1928 Nagaokatenjin Station was opened when the section between Takatsuki-cho Station and Saiin Station of the Shinkeihan Railway was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 1, 1928: Nagaokatenjin Station opened, concurrently with the opening of the section between Takatsuki-cho Station and Saiin Station of the Shinkeihan Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">November 1, 1928: Nagaokatenjin Station opened, concurrently with the opening of the section between Takatsuki-cho Station and Saiin Station of the Shinkeihan Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="34">
+<j>1930年（昭和5年）9月15日 会社合併により京阪電気鉄道新京阪線の駅となる。</j>
+<e type="trans" ver="1">On September 15, 1930 Nagaokatenjin Station became a stop on the Shinkeihan Line operated by the Keihan Electric Railway as a result of amalgamation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 15, 1930: Nagaokatenjin Station became a stop on the Shinkeihan Line, operated by the Keihan Electric Railway, as a result of amalgamation.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">September 15, 1930: Nagaokatenjin Station became a stop on the Shinkeihan Line, operated by the Keihan Electric Railway, as a result of amalgamation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="35">
+<j>1943年（昭和18年）10月1日 会社合併により京阪神急行電鉄（現在の阪急電鉄）の駅となる。</j>
+<e type="trans" ver="1">On October 1, 1943 Nagaokatenjin Station came to be operated by the Keihanshin Express Railway (currently Hankyu Railway) as a result of amalgamation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 1, 1943: Nagaokatenjin Station came to be operated by the Keihanshin Express Railway (currently Hankyu Railway) as a result of amalgamation.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">October 1, 1943: Nagaokatenjin Station came to be operated by the Keihanshin Express Railway (currently Hankyu Railway) as a result of amalgamation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="36">
+<j>1979年（昭和54年）3月5日 全ての急行（現在の快速急行）が停車するようになる（それまではラッシュ時の通勤急行のみ停車）。</j>
+<e type="trans" ver="1">On March 5, 1979 all Express (currently Rapid Express) trains came to stop at Nagaokatenjin Station (before that, only (Commuter) Express trains would stop at the station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 5, 1979: All express (currently rapid express) trains came to stop at Nagaokatenjin Station (prior to that point, only (commuter) express trains would stop at the station).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 5, 1979: All express (currently rapid express) trains came to stop at Nagaokatenjin Station (prior to that point, only (commuter) express trains would stop at the station).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="37">
+<j>2001年（平成13年）3月24日 特急停車駅となる。</j>
+<e type="trans" ver="1">On March 24, 2001 Limited Express trains came to stop at the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 24, 2001: Limited express trains came to stop at the station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 24, 2001: Limited express trains came to stop at the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="38">
+<j>2007年（平成19年）3月17日 通勤特急停車駅となる。</j>
+<e type="trans" ver="1">On March 17, 2007 (Commuter) Limited Express came to stop at the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 17, 2007: Commuter limited express began making stops at the station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 17, 2007: Commuter limited express began making stops at the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>その他</j>
+<e type="trans" ver="1">Others</e>
+<cmt></cmt>
+<e type="trans" ver="2">Others</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Others</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="39">
+<j>当駅は、阪急電鉄初の橋上駅である。</j>
+<e type="trans" ver="1">Nagaokatenjin Station is the first station on the bridge operated by the Hankyu Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nagaokatenjin Station is the first station on a bridge to be operated by the Hankyu Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Nagaokatenjin Station is the first station on a bridge to be operated by the Hankyu Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="40">
+<j>昼間時、室内灯をオフにしていた梅田行きの電車は、当駅で灯すことがある（この先東海道本線とアンダークロスする区間があるためで、通過時はトンネルを通過するような暗さになる）。</j>
+<e type="trans" ver="1">Trains bound for Umeda Station turn off the lights during the day, but they sometimes turn on the lights at Nagaokatenjin Station (in the section where trains cross the Tokaido Main Line, it becomes as dark as in the tunnel).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Trains bound for Umeda Station run with their lights off during the day, but they sometimes turn on the lights at Nagaokatenjin Station because, in the section where trains cross the Tokaido Main Line, it becomes as dark as in the tunnel.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Trains bound for Umeda Station run with their lights off during the day, but they sometimes turn on the lights at Nagaokatenjin Station because, in the section where trains cross the Tokaido Main Line, it becomes as dark as in the tunnel.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="41">
+<j>阪急電鉄</j>
+<e type="trans" ver="1">Hankyu Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hankyu Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="42">
+<j>■京都本線</j>
+<e type="trans" ver="1">Kyoto Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Main Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="43">
+<j>■通勤特急・■特急・■快速急行</j>
+<e type="trans" ver="1">(Commuter) Limited Express Limited Express Rapid Express</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Commuter) limited express Limited express Rapid express</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Commuter Limited Express/Limited Express/Rapid Express</e>
+<cmt>統一しました。記号変更。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="44">
+<j>高槻市駅 - 長岡天神駅 - 桂駅</j>
+<e type="trans" ver="1">Takatsuki-Shi Station - Nagaokatenjin Station - Katsura Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takatsuki-Shi Station - Nagaokatenjin Station - Katsura Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Takatsukishi Station - Nagaokatenjin Station - Katsura Station</e>
+<cmt>Takatsukishi としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="45">
+<j>■準急・■普通</j>
+<e type="trans" ver="1">Semi Express Local</e>
+<cmt></cmt>
+<e type="trans" ver="2">Semi-express Local</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Semi Express/Local</e>
+<cmt>統一しました。記号変更。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="46">
+<j>大山崎駅 - 長岡天神駅 - 西向日駅</j>
+<e type="trans" ver="1">Oyamazaki Station - Nagaokatenjin Station - Nishimuko Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oyamazaki Station - Nagaokatenjin Station - Nishimuko Station</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Oyamazaki Station - Nagaokatenjin Station - Nishimuko Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="47">
+<j>※長岡天神駅～大山崎駅間の、京都第二外環状道路（計画中）との交差地点に新駅を設置することで、長岡京市と阪急電鉄が合意した。</j>
+<e type="trans" ver="1">*Nagaokakyo City and Hankyu Railway agreed to build a new station on the intersection of Kyoto Second Outer Ring Road (under contemplation) and the section between Nagaokatenjin Station and Oyamazaki Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">*Nagaokakyo City and Hankyu Railway agreed to build a new station at the intersection of the Kyoto Second Outer Ring Road (under contemplation) and the section between Nagaokatenjin and Oyamazaki stations.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Nagaokakyo City and Hankyu Railway agreed to build a new station at the intersection of the Kyoto Second Outer Ring Road (under contemplation) and the section between Nagaokatenjin and Oyamazaki stations.</e>
+<cmt>※削除</cmt>
+</sen>
+<sen id="48">
+<j>但し、着工、開業時期などは未定。</j>
+<e type="trans" ver="1">It has not been decided when the construction begins or when the new station opens.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It has not been decided when the construction will begin or when the new station will open.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It has not been decided when the construction will begin or when the new station will open.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Sushiya(id:110938), Gargoyle(id:49233), 東京特許許可局(id:7229), Hideyuki(id:9577), Bakkai(id:7233), るなあるてみす(id:168261), 城山(id:104901), V-TWIN POWER(id:49244), Wikipedianet(id:9608), Ohura(id:5986), Fanvio(id:116155), MACHA-KUN(id:140454), Shinkansen(id:13703), Sixty-five(id:11022), Rusk(id:9895), 準急三条(id:25072), 鍛高譚(id:154933), Kone(id:377), Hirotaro(id:1437), 扇風機のせんちゃん(id:161810), 計記録(id:124500), 捕澤(id:23785), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

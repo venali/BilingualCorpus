@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>幽庵焼き</j>
+<e type="trans" ver="1">Yuan Yaki (Japanese grill, using meat or fish which are marinated, impaled on long skewers and broiled over hot coals)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yuan Yaki</e>
+<cmt>説明を削除しました。（あまりに長いことと、本文中で説明されるためです。）</cmt>
+<e type="check" ver="1">Yuan Yaki (a kind of grilled fish or meat)</e>
+<cmt>()の補足を追加しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>幽庵焼き（ゆうあんやき）は、和食の焼き物のひとつ。</j>
+<e type="trans" ver="1">Yuan yaki is a kind of yakimono (grilled or broiled fish or meat) of washoku (Japanese food.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yuan yaki is a kind of yakimono (grilled or broiled fish or meat) of Japanese cuisine.</e>
+<cmt>washoku 不要と考え削除food→cuisine</cmt>
+<e type="check" ver="1">Yuan yaki is a kind of yakimono (grilled fish or meat) of Japanese cuisine.</e>
+<cmt>or broiled削除しました</cmt>
+</sen>
+<sen id="2">
+<j>柚庵焼き、祐庵焼きともいう。</j>
+<e type="trans" ver="1">Yuan yaki (幽庵焼き in kanji) is also written as 柚庵焼き or 祐庵焼き.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yuan yaki (幽庵焼き in kanji) is also written as 柚庵焼き or 祐庵焼き.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yuan yaki (幽庵焼き in kanji) is also written as 柚庵焼き or 祐庵焼き.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>江戸時代の茶人で、食通でもあった北村祐庵（堅田幽庵）が創案したとされる。</j>
+<e type="trans" ver="1">It is thought that Yuan yaki was came up with by an chajin (master of the tea ceremony) of Edo period, Yuan KITAMURA (Yuan KATADA), also known as a epicure.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is thought that Yuan yaki was come up with by a chajin (master of the tea ceremony) of the Edo period, Yuan KITAMURA (Yuan KATADA), also known as a gourmet.</e>
+<cmt>came→comean→aEdo→the Edoepicure→gourmet</cmt>
+<e type="check" ver="1">It is said that Yuan yaki was invented by a chajin (master of the tea ceremony) from the Edo period, Yuan KITAMURA (Yuan KATADA), who is also known as a gourmet.</e>
+<cmt>come up with→inventedwho is を追加しました。thought →saidof→from</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>アマダイ、マナガツオ、ブリ、サワラ、カマスなどの魚の切り身や鶏肉などを、醤油、酒、みりんを111であわせ、ユズの輪切りを加えてつくった漬けダレである「ゆうあん地」に数日間漬けこみ、汁気を切った後に焼き上げたもの。</j>
+<e type="trans" ver="1">Fillet of such fish as tilefish, butterfish, yellowtail, Japanese Spanish mackerel, or Japanese barracuda as well as chicken are marinated for several days in sauce called as yuanji, which is made from equal quantities of soy sauce, sake, and mirin (type of sweet sake used in cooking) and added round slices of citron, then broiled after excess liquid has been removed.</e>
+<cmt>「～鶏肉などを、」と点で終わっていたので、下のセルと結合しました。</cmt>
+<e type="trans" ver="2">Fillet of such fish as tilefish, butterfish, yellowtail, Japanese Spanish mackerel, or Japanese barracuda as well as chicken are marinated for several days in sauce called &apos;yuanji,&apos; which is made of equal quantities of soy sauce, sake, and mirin (a type of sweet sake used in cooking) and added round slices of citron, then broiled after excess liquid has been removed.</e>
+<cmt>一原文一訳文の例外対処as 削除「」に &apos;&apos;type→a typefrom→of</cmt>
+<e type="check" ver="1">Fillet of fish such as tilefish, butterfish, yellowtail, Japanese Spanish mackerel, or Japanese barracuda as well as chicken are marinated for several days in a sauce called &apos;yuanji,&apos; which is made of equal amount of soy sauce, sake, and mirin (a type of sweet sake used in cooking) with round slices of citron, then grilled after draining excess liquid.</e>
+<cmt>and added round slices of citron→with round slices of citronafter excess liquid has been removed→after draining excess liquid broiled →grilled(江戸時代のためオーブンは使わないため）quantities →amount</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="5">
+<j>汁気を切って蒸すと幽庵蒸しとなる。</j>
+<e type="trans" ver="1">If it is steamed after liquid has removed, it will be Yuan Musi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">If it is steamed after the liquid is removed, it is called Yuan mushi.</e>
+<cmt>has→iswill be→isliquid→the liquidMusi→mushiis→is called</cmt>
+<e type="check" ver="1">If it is steamed after draining excess liquid, it is called Yuan mushi.</e>
+<cmt>the liquid is removed→draining excess liquid</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="6">
+<j>ユズの香りが清々しい焼き料理である。</j>
+<e type="trans" ver="1">Yuan yaki is a broiled plate with pleasant odor of citron.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yuan yaki is a broiled plate with pleasant aroma of citron.</e>
+<cmt>ordor→aroma</cmt>
+<e type="check" ver="1">Yuan yaki is a grilled dish with a refreshing smell of citron.</e>
+<cmt>broiled plate →grilled dishpleasant aroma →a refreshing smell</cmt>
+</sen>
+<sen id="7">
+<j>熱いまま、または冷まし常温で供する。</j>
+<e type="trans" ver="1">It is served while hot or after cooled to room temperature.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is served while hot or after cooled to room temperature.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is served while hot or after cooled to room temperature.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Point136(id:211299), 竃馬(id:102733), Corwin(id:973), 月下美人(id:116398), マクガイア(id:33346), Lebit(id:11805), Nighthawks(id:36125), Hanabishi(id:34182), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

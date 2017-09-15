@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>神崎海水浴場</j>
+<e type="trans" ver="1">Kanzaki Seaside Resort</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanzaki Seaside Resort</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kanzaki Seaside Resort</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>神崎海水浴場（かんざきかいすいよくじょう）は、京都府舞鶴市にある日本海に面する風光明媚な海水浴場。</j>
+<e type="trans" ver="1">Located on a coast facing the Sea of Japan in Maizuru City of Kyoto Prefecture, Kanzaki Seaside Resort is blessed with scenic beauty.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Located on the coast facing the Sea of Japan in Maizuru City in Kyoto Prefecture, Kanzaki Seaside Resort is blessed with scenic beauty.</e>
+<cmt>「a」→「the」, 「of」→「in」</cmt>
+<e type="check" ver="1">Located on the coast facing the Sea of Japan in Maizuru City in Kyoto Prefecture, Kanzaki Seaside Resort is blessed with scenic beauty.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>一級河川由良川河口の右岸にある。</j>
+<e type="trans" ver="1">It is on the right bank at the mouth of Yura-gawa River.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is on the right bank at the mouth of the Yura-gawa River.</e>
+<cmt>「the」挿入</cmt>
+<e type="check" ver="1">It is on the right bank at the mouth of the Yura-gawa River, a first-class river.</e>
+<cmt>一級河川を追加しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>特徴</j>
+<e type="trans" ver="1">Features</e>
+<cmt></cmt>
+<e type="trans" ver="2">Features</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Features</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>遠浅で、約2kmにも及ぶ浜辺は日本海側の海水浴場でも有数である。</j>
+<e type="trans" ver="1">Its shallow beach is approximately 2 km, one of the longest beaches on the Sea of Japan side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The gently sloping beach is approximately 2 km long, and is one of the longest beaches on the Sea of Japan.</e>
+<cmt>「Its shallow」→「The gently sloping」,「long」挿入,「side」削除, &apos;Shallow beach&apos; is a little confusing as it is actually the sea that is shallow.</cmt>
+<e type="check" ver="1">The gently sloping beach is approximately two kilometers long, and is one of the longest beaches on the Sea of Japan.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="4">
+<j>一級河川由良川から運ばれる広い砂浜と松林をもつのが特徴で、一帯は若狭湾国定公園に指定されていることから風光明媚な海水浴場であり、白砂青松の海岸として有名である。</j>
+<e type="trans" ver="1">This sea resort is famous for the scenic beauty with beautiful pine trees along the long beach and its white sand which has been brought here by the first class river Yura-gawa, and its neighborhood area including this beach is designated as Wakasa Wan Quasi-National Park.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This sea resort is famous for its scenic beauty, with beautiful pine trees along the long beach and white sand brought here by the first class river Yura-gawa, and the beach and its surrounding area is designated as Wakasa Wan Quasi-National Park.</e>
+<cmt>「the」→「its」, 「,」挿入,「its」削除,「which has been」削除,「its neighborhood area including this beach」→「the beach and its surrounding area」, the phrase &apos;first class&apos; may need some explanation.</cmt>
+<e type="check" ver="1">This sea resort is famous for its scenic beauty, with beautiful pine trees along the long beach and white sand brought here by the Yura-gawa River which is a first-class river, and the beach and its surrounding area are designated as Wakasa Bay Quasi-National Park.</e>
+<cmt>若狭湾国定公園の表現を修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>海開きの前には、村人総出のボランティアで海開きの前に「浜掃除」がされ、地元では「ハマナシ」(学名)と呼ぶ「ハマナス」や「ササユリ」「オニユリ」が松林のそばに咲き乱れる。</j>
+<e type="trans" ver="1">Before the beach opens, all the people of its nearby community volunteer to come out to clean the beach, where, at the side of pine trees, bloom a variety of flowers such as &apos;rugosa roses&apos; (local people call them &apos;hamanashi&apos;), &apos;tiger lilies,&apos; and &apos;sasa-yuri&apos; (Japanese lilies).</e>
+<cmt>「ハマナス」も「ハマナシ」も和名として使われているようですが，英語での学名は異なりますので，「ハマナシ」を「学名」として訳すのを避けました．参考URL(http://mc1.cc.iwate-u.ac.jp/FloralCalendarMorioka/EarlySummer1/hamanashi.html)</cmt>
+<e type="trans" ver="2">Before the beach opens each year, people of the nearby community volunteer to come out to clean the beach, where, at the side of pine trees, bloom a variety of flowers such as rugosa roses (local people call them &apos;hamanashi&apos;), tiger lilies, and &apos;sasa-yuri&apos; (Japanese lilies).</e>
+<cmt>「each year」挿入,「all the」削除,「its」→「the」, the English names of flowers do not need to be in inverted commas I think.</cmt>
+<e type="check" ver="1">Before the beach opens each year, people of the nearby community volunteer to come out to clean the beach, where, at the side of pine trees, bloom a variety of flowers such as rugosa roses (local people call them &apos;hamanashi&apos;), &apos;sasa-yuri&apos; (Japanese lilies) and &apos;oni-yuri&apos; (tiger lilies).</e>
+<cmt>「オニユリ」を追加しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>キス釣の名所でもある。</j>
+<e type="trans" ver="1">It is also known as a good fishing spot of sillagos.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also known as a good fishing spot for sillagos.</e>
+<cmt>「of」→「for」,</cmt>
+<e type="check" ver="1">It is also known as a good fishing spot for sillagos.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>海開きは毎年7月1日。</j>
+<e type="trans" ver="1">The beach opens on July 1st every year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The beach opens on July 1st every year.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The beach opens on July 1 every year.</e>
+<cmt>月日の表現を修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>アクセス</j>
+<e type="trans" ver="1">Access</e>
+<cmt></cmt>
+<e type="trans" ver="2">Access</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Access</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>北近畿タンゴ鉄道 北近畿タンゴ鉄道宮津線 丹後神崎駅から徒歩約10分。</j>
+<e type="trans" ver="1">From Tango Kanzaki Station of Kitakinki Tango Railway Miyazu Line, it is approximately 10 minutes on foot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Tango Kanzaki Station on the Kitakinki Tango Railway Miyazu Line, it is approximately 10 minutes on foot.</e>
+<cmt>「of」→「on the」,</cmt>
+<e type="check" ver="1">From Tango Kanzaki Station on the Kitakinki Tango Railway Miyazu Line, it is approximately ten minutes on foot.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="9">
+<j>京都駅から特別急行列車タンゴディスカバリーに乗り約2時間。</j>
+<e type="trans" ver="1">From Kyoto Station, Limited Express Tango Discovery takes you there in approximately 2 hours.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Kyoto Station, the Limited Express Tango Discovery takes approximately 2 hours.</e>
+<cmt>「the」挿入,「you there in」削除,</cmt>
+<e type="check" ver="1">From Kyoto Station, the Limited Express Tango Discovery takes approximately two hours.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="10">
+<j>舞鶴若狭自動車道 舞鶴西インターチェンジから国道27号、国道175号、京都府道571号西神崎上東線を経由し神崎方面へ。</j>
+<e type="trans" ver="1">From the exit of Maizuru-Nishi Interchange of Maizuru-Wakasa Expressway, drive on National Routes 27, 175, and then head for Kanzaki via Kyoto Prefectural Route 571 Nishikanzaki Kamihigashi Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From the Maizuru-Nishi exit on the Maizuru-Wakasa Expressway, take National Route 27, then 175, and head for Kanzaki via Kyoto Prefectural Route 571 Nishikanzaki Kamihigashi Line.</e>
+<cmt>再構成しました。I am confused by the word &apos;line&apos; as the reader might imagine this is a train line.</cmt>
+<e type="check" ver="1">From the Maizuru-Nishi Interchange on the Maizuru-Wakasa Expressway, take National Route 27, then 175, and head for Kanzaki via the Nishikanzaki Kamihigashi Line of the Kyoto Prefectural Route 571.</e>
+<cmt>一部道路表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="11">
+<j>京都縦貫自動車道 舞鶴大江インターチェンジから国道175号を宮津方面へ、大川橋または八雲橋を経て府道571号線を神崎方面へ。</j>
+<e type="trans" ver="1">From the exit of Maizuru-Oe Interchange of Trans-Kyoto Expressway, drive on National Route 175 headed for Miyazu, then via Okawa-bashi Bridge or Yakumo-bashi Bridge, and head for Kanzaki on Kyoto Prefectural Route 571.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From the Maizuru-Oe exit on the Trans-Kyoto Expressway, take National Route 175 towards Miyazu, then via Okawa-bashi Bridge or Yakumo-bashi Bridge head for Kanzaki on Kyoto Prefectural Route 571.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">From the Maizuru-Oe Interchange on the Kyoto Longitudinal Expressway, take National Route 175 towards Miyazu, then via Okawa-bashi Bridge or Yakumo-bashi Bridge head for Kanzaki on Kyoto Prefectural Route 571.</e>
+<cmt>Interchangeと しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>施設概要</j>
+<e type="trans" ver="1">Summary of the facilities</e>
+<cmt></cmt>
+<e type="trans" ver="2">Facilities</e>
+<cmt>「Summary of the」削除</cmt>
+<e type="check" ver="1">Facilities</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="12">
+<j>問い合わせ</j>
+<e type="trans" ver="1">Information</e>
+<cmt></cmt>
+<e type="trans" ver="2">Information</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Information</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="13">
+<j>舞鶴神崎浜観光協会（0773-82-5120）</j>
+<e type="trans" ver="1">Maizuru Kanzaki Beach Tourist Office (舞鶴神崎浜観光協会): phone: 0773-82-5120</e>
+<cmt>舞鶴神崎浜観光協会→Maizuru Kanzaki Beach Tourist office（舞鶴神崎浜観光協会）[定訳不明]</cmt>
+<e type="trans" ver="2">Maizuru Kanzaki Beach Tourist Office (舞鶴神崎浜観光協会): phone: 0773-82-5120</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maizuru Kanzaki Beach Tourist Office (舞鶴神崎浜観光協会): phone: 0773-82-5120</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="14">
+<j>宿泊施設</j>
+<e type="trans" ver="1">Accommodations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accommodation</e>
+<cmt>「s」削除</cmt>
+<e type="check" ver="1">Accommodation</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="15">
+<j>民宿11軒（約190名収容可能）</j>
+<e type="trans" ver="1">Minshuku (a private home that runs an inn providing room and board): 11 facilities (total capacity: approximately 190 guests)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Minshuku (private homes that run an inn providing room and board): 11 facilities (total capacity: approximately 190 guests)</e>
+<cmt>Changed to plural form.</cmt>
+<e type="check" ver="1">Minshuku (private homes that run an inn providing room and board): 11 facilities (total capacity: approximately 190 guests)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="16">
+<j>駐車場</j>
+<e type="trans" ver="1">Parking</e>
+<cmt></cmt>
+<e type="trans" ver="2">Parking</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Parking</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="17">
+<j>1,000円/1日</j>
+<e type="trans" ver="1">\1000 per day</e>
+<cmt></cmt>
+<e type="trans" ver="2">\1000 per day</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">1000 yen per day</e>
+<cmt>yen としました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="18">
+<j>便所・公共シャワー</j>
+<e type="trans" ver="1">Public rest rooms and showers</e>
+<cmt></cmt>
+<e type="trans" ver="2">Public rest rooms and showers</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Public rest rooms and showers</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="19">
+<j>あり。</j>
+<e type="trans" ver="1">Available</e>
+<cmt></cmt>
+<e type="trans" ver="2">Available</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Available</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Rusk(id:9895), ぱむ(id:24323), Suisui(id:69), Sea of Japan(id:3230), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

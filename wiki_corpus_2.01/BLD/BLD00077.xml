@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>上津屋橋</j>
+<e type="trans" ver="1">Kozuya-bashi Bridge</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kozuya-bashi Bridge</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kozuya-bashi Bridge</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>上津屋橋(こうづやばし)は、京都府久世郡久御山町と八幡市を結ぶ、木津川に架けられた木造橋である。</j>
+<e type="trans" ver="1">Kozuya-bashi Bridge is a bridge over Kizu-gawa River connecting Kumiyama Cho of Kuse Gun, Kyoto Prefecture and Yawata City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kozuya-bashi Bridge is a bridge over Kizu-gawa River connecting Kumiyama Cho, Kuse Gun, Kyoto Prefecture and Yawata City.</e>
+<cmt>「of」→「,」</cmt>
+<e type="check" ver="1">Kozuya-bashi Bridge is a bridge over the Kizu-gawa River connecting Kumiyama-cho, Kuse-gun, Kyoto Prefecture and Yawata City.</e>
+<cmt>住所表記を一部修正&quot;Kizu-gawa River&quot; -&gt; &quot;the Kizu-gawa River&quot; に変更しました。</cmt>
+</sen>
+<sen id="2">
+<j>川が増水すると橋桁が流される独特の構造から、流れ橋と呼ばれることが多い。</j>
+<e type="trans" ver="1">Because its unique structure is so fragile against a swollen river that it can easily be swept away, it is called &quot;Nagare-bashi&quot;, or an easy-to-be-swept-away bridge.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because its unique structure is so fragile and can easily be swept away by the river after times of heavy rain, it is called &quot;Nagare-bashi&quot;, or a bridge that is easily swept away.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">Because its unique structure is so fragile and can easily be swept away by the river after times of heavy rain, it is called &quot;Nagare-bashi,&quot; or a bridge that is easily swept away.</e>
+<cmt>カンマの位置を移動</cmt>
+</sen>
+<sen id="3">
+<j>全長は356.5mで、幅は3.3mで流れ橋としては日本最長(2007年10月)。</j>
+<e type="trans" ver="1">It is 356.5 m long and 3.3 m wide, the longest Nagare-bashi in Japan (as of October 2007).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is 356.5 m long and 3.3 m wide, the longest Nagare-bashi in Japan (as of October 2007).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is 356.5 meters long and 3.3 meters wide, the longest Nagare-bashi in Japan (as of October 2007).</e>
+<cmt>m→metersとしました。</cmt>
+</sen>
+<sen id="4">
+<j>京都府道281号八幡城陽線の一部となっている。</j>
+<e type="trans" ver="1">It is part of Yawatajoyo Route of Kyoto Prefectural Road 281.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is part of Yawatajoyo Route on Kyoto Prefectural Road 281.</e>
+<cmt>「of」→「on」</cmt>
+<e type="check" ver="1">It is part of Yawata-Joyo Route on Kyoto Prefectural Road 281.</e>
+<cmt>Yawatajoyo Route→Yawata-Joyo Routeとしました。</cmt>
+</sen>
+<sen id="5">
+<j>歩行者と自転車の専用橋となっている。</j>
+<e type="trans" ver="1">It is dedicated to pedestrians and bicycles.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is dedicated to pedestrians and bicycles.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is dedicated to pedestrians and bicycles.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>位置情報｡</j>
+<e type="trans" ver="1">Information on the location</e>
+<cmt></cmt>
+<e type="trans" ver="2">Information on the location</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Information on the location.</e>
+<cmt>原文に合わせピリオド追加</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>昭和28年3月 渡し船を置き換える形で完成。</j>
+<e type="trans" ver="1">It was built in 1953 to replace a river ferry service.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was built in 1953 to replace a river ferry service.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">1953: It was built to replace a river ferry service.</e>
+<cmt>「&quot;On&quot;を使わない日付+半角コロン+半角スペース+文章」の形式に変更しました。</cmt>
+</sen>
+<sen id="9">
+<j>この当時から流れ橋だった。</j>
+<e type="trans" ver="1">It was born as Nagare-bashi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was known as a Nagare-bashi from the beginning.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">It was known as a Nagare-bashi from the beginning.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="10">
+<j>昭和28年8月 初めて橋桁が流される。</j>
+<e type="trans" ver="1">Its bridge beam was swept away for the first time in August 1953.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its bridge beam was swept away for the first time in August 1953.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">August 1953: Its bridge beam was swept away for the first time.</e>
+<cmt>「&quot;On&quot;を使わない日付+半角コロン+半角スペース+文章」の形式に変更しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="11">
+<j>以来現在までに、集中豪雨や台風、梅雨などで15回以上流されている。</j>
+<e type="trans" ver="1">It has bee swept away 15 times or more by swollen torrents caused by torrential downpours, typhoons, and heavy rains during Tsuyu (Japan&apos;s rainy season).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It has been swept away at least 15 times when the river is swollen by torrential downpours, typhoons, and heavy rains during Tsuyu (Japan&apos;s rainy season).</e>
+<cmt>「bee」→「been」, 「15 times or more by swollen torrents caused」→「at least 15 times when the river is swollen」</cmt>
+<e type="check" ver="1">It has been swept away at least 15 times when the river is swollen by torrential downpours, typhoons, and heavy rains during Tsuyu (Japan&apos;s rainy season).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="12">
+<j>構造</j>
+<e type="trans" ver="1">Structure</e>
+<cmt></cmt>
+<e type="trans" ver="2">Structure</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Structure</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>通常の桁橋では橋脚と橋桁は固定してあるが、上津屋橋では橋桁は橋脚に乗せてあるだけで、水位が上昇するとそのまま水に浮かんで流されるようになっている。</j>
+<e type="trans" ver="1">Its beam is only put on the footing so that high water can carry it away, in contrast to a usual bridge beam that is fixed to the footing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its beam is only placed on the footing so that high water can carry it away, in contrast to a usual bridge beam where the beam is fixed to the footing.</e>
+<cmt>「put」→「placed」, 「that」→「where the beam」</cmt>
+<e type="check" ver="1">Its beam is only placed on the footing so that high water can carry it away, in contrast to a usual bridge beam where the beam is fixed to the footing.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>橋を丈夫にして流されるのを防ぐのではなく、流されてしまおうという考え方である。</j>
+<e type="trans" ver="1">The idea is to let it go without standing up to the water.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The idea is to let it go without resisting the water.</e>
+<cmt>「standing up to」→「resisting」</cmt>
+<e type="check" ver="1">The idea is to let it go without resisting the water.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>また、上流から流されてきた物が橋脚と橋桁の間に引っかかってダムを造り、増水して堤防が決壊することも防げる。</j>
+<e type="trans" ver="1">Its structure also prevents high water from making things from the upstream pile up between the beam and the piers to form a dam and break levees.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its structure also prevents high water making things washed downstream pile up between the beam and the piers to form a dam and break levees.</e>
+<cmt>「from」削除, 「from the upstream」→「washed downstream」</cmt>
+<e type="check" ver="1">Its structure also prevents high water making things washed downstream pile up between the beam and the piers to form a dam and break levees.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>流された橋桁が下流に流失するのを防ぐために、橋桁を8つに分け、その1つごとにロープで橋脚につないである。</j>
+<e type="trans" ver="1">The beam consists of eight separate parts each connected to the pier with ropes so that they can not be carried away to the downstream.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The beam consists of eight separate parts each connected to the pier with ropes so that they can not be carried away downstream.</e>
+<cmt>「to the」削除</cmt>
+<e type="check" ver="1">The beam consists of eight separate parts each connected to the pier with ropes so that they can not be carried away downstream.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>なお、73基ある橋脚の内17基はコンクリート製となっている。</j>
+<e type="trans" ver="1">Seventeen piers out of 73 in total are made of concrete.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Seventeen piers out of 73 in total are made of concrete.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">17 piers out of 73 in total are made of concrete.</e>
+<cmt>73に合わせ、Seventeen→17としました。</cmt>
+</sen>
+<sen id="18">
+<j>床版の木の板の枚数が1784であるらしいことが、平成19年6月8日放送の朝日放送・「探偵!ナイトスクープ」であきらかになったが、同年8月28日未明に花火のものと思われる小火により、一部損傷し修復されたため、現状の枚数は不明となった。</j>
+<e type="trans" ver="1">The TV program &quot;Tantei Night Scoop&quot; of Asahi Broadcasting Corporation showed that the number of woodblocks for the bridge floor turned out to be 1784 on its broadcast of June 8, 2007, but after a fire probably caused by a firework burned some of them on August 28 of the same year, the repair work made the precise number unclear again.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The TV program &quot;Tantei Night Scoop&quot; made by Asahi Broadcasting Corporation showed that the number of woodblocks for the bridge floor turned out to be 1784 in its broadcast of June 8, 2007, but after a fire probably caused by a firework burned some of them on August 28 of the same year, the repair work made the precise number unclear again.</e>
+<cmt>「of」→「made by」, 「on」→「in」</cmt>
+<e type="check" ver="1">The TV program &apos;Tantei Night Scoop&apos; made by Asahi Broadcasting Corporation showed that the number of woodblocks for the bridge floor turned out to be 1784 in its broadcast of June 8, 2007, but after a fire probably caused by a firework burned some of them on August 28 of the same year, the repair work made the precise number unclear again.</e>
+<cmt>”Tantei Night Scoop”のクォーテーションをシングルおよび半角に変更</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="19">
+<j>付近</j>
+<e type="trans" ver="1">Neighborhood</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighborhood</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Neighborhood</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>上津屋橋の八幡市側には、やわた流れ橋交流プラザという施設があって、食事や入浴、宿泊も出来る。</j>
+<e type="trans" ver="1">At the side of this bridge in Yawata City, a facility &quot;Yawata Nagarebashi Community Plaza&quot; provides a restaurant, a communal bath, and accommodation as well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the side of this bridge in Yawata City, a facility &quot;Yawata Nagarebashi Community Plaza&quot; provides a restaurant, a communal bath, and accommodation as well.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At the side of this bridge in Yawata City, a facility &quot;Yawata Nagarebashi Community Plaza&quot; provides a restaurant, a communal bath, and accommodation as well.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="21">
+<j>その他</j>
+<e type="trans" ver="1">Others</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other</e>
+<cmt>「s」削除</cmt>
+<e type="check" ver="1">Other</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>上津屋橋の周囲は堤防の外側（注：河川の堤防は、市街地側が内側（堤内））のため、民家や電柱などが存在しない。</j>
+<e type="trans" ver="1">There are no private houses or electric poles in the area around this bridge, because it is outside the levees (a river is on the &quot;outside&quot; of a levee).</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are no private houses or electric poles in the area around this bridge, because it is outside the levees (the river is on the &quot;outside&quot; of a levee).</e>
+<cmt>「a」→「the」</cmt>
+<e type="check" ver="1">There are no private houses or electric poles in the area around this bridge, because it is outside the levees (the river is on the &quot;outside&quot; of a levee).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>また木造の雰囲気もマッチするため、時代劇のロケ地としても有名である。</j>
+<e type="trans" ver="1">This bridge is famous for a location spot for samurai movies because its wooden structure fits their scenes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This bridge is famous as a location for samurai movies because its wooden structure fits the atmosphere of the era.</e>
+<cmt>「for」→「as」,「spot」削除, 「their scenes」→「the atmosphere of the era」</cmt>
+<e type="check" ver="1">This bridge is famous as a location for samurai movies because its wooden structure fits the atmosphere of the era.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Zenzai-Doji(id:98967), Jkr2255(id:16760), Sunen(id:10700), カテゴリ整理専用(id:146185), Ignis(id:28979), 珊底(id:143081), Azhrtr(id:173503), 663highland(id:18755), Dojima(id:104278), Criche(id:58609), TAMA(id:25299), 目蒲東急之介(id:34741), Morusa(id:73625), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>平有盛</j>
+<e type="trans" ver="1">TAIRA no Arimori</e>
+<cmt></cmt>
+<e type="trans" ver="2">TAIRA no Arimori</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">TAIRA no Arimori</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>平 有盛（たいら の ありもり）は、平安時代末期の武将。</j>
+<e type="trans" ver="1">TAIRA no Arimori was busho (a Japanese military commander) at the end of Heian period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">TAIRA no Arimori was a busho (a Japanese military commander) lived in the end of Heian period.</e>
+<cmt>武将に冠詞を加え，時代の前置詞をinに変更，livedを追加しました。</cmt>
+<e type="check" ver="1">TAIRA no Arimori was a busho (a Japanese military commander) lived during the end of Heian period.</e>
+<cmt>in→during</cmt>
+</sen>
+<sen id="2">
+<j>平重盛の四男。</j>
+<e type="trans" ver="1">He was the forth son of TAIRA no Shigemori.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was the forth son of TAIRA no Shigemori.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was the forth son of TAIRA no Shigemori.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>母は正室の藤原経子 (藤原家成の四女)。</j>
+<e type="trans" ver="1">His mother was seishitsu (legal wife) FUJIWARA no Keishi (the forth daughter of FUJIWARA no Ienari).</e>
+<cmt></cmt>
+<e type="trans" ver="2">His mother was FUJIWARA no Keishi (the forth daughter of FUJIWARA no Ienari), the legal wife of Shigemori.</e>
+<cmt>わかりづらいので書き換えました。</cmt>
+<e type="check" ver="1">His mother was FUJIWARA no Keishi (the forth daughter of FUJIWARA no Ienari), the legal wife of Shigemori.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>官位は従四位下右近衛権少将。</j>
+<e type="trans" ver="1">His official court rank was Jushiinoge (Junior Fourth Rank, Lower Grade) and Ukone no Gon no shosho (Provisional Minor Captain of the Right Division of Inner Palace Guards).</e>
+<cmt></cmt>
+<e type="trans" ver="2">His official court rank was Jushiinoge (Junior Fourth Rank, Lower Grade) and Ukonoe no Gon no shosho (Provisional Minor Captain of the Right Division of Inner Palace Guards).</e>
+<cmt>右近衛の訳は&quot;Ukonoe&quot;と思われます。</cmt>
+<e type="check" ver="1">His official court rank was Jushiinoge (Junior Fourth Rank, Lower Grade) and Ukonoe no Gon no shosho (Provisional Minor Captain of the Right Division of Inner Palace Guards).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>異母兄の平資盛に従い、三草山の戦いに参戦。</j>
+<e type="trans" ver="1">He followed his paternal half-brother TAIRA no Sukemori and participated in Battle of Mikusayama.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accompanying his paternal half-brother TAIRA no Sukemori, he participated in the Battle of Mikusayama.</e>
+<cmt>戦に冠詞を加えました。「従い・・」の訳を替えました。</cmt>
+<e type="check" ver="1">Accompanying his paternal half-brother TAIRA no Sukemori, he participated in the Battle of Mikusayama.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>源義経に敗れた後は、屋島の平家本陣に落ち延びた。</j>
+<e type="trans" ver="1">After being defeated by MINAMOTO no Yoshitsune, they escaped to Heike honjin (the camp of a supreme commander) in the Yashima peninsula.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After being defeated by MINAMOTO no Yoshitsune, they evacuated to the headquarters of the Heike clan in the Yashima peninsula.</e>
+<cmt>本陣の説明がわかりづらいと考え変更しました。</cmt>
+<e type="check" ver="1">After being defeated by MINAMOTO no Yoshitsune, they evacuated to the headquarters of the Heike clan in the Yashima peninsula.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>最後は壇ノ浦の戦いにおいて、資盛、従兄弟の平行盛と三名で手を取り合い、海中に身を投じた。</j>
+<e type="trans" ver="1">Eventually, at the Battle of Dannoura, he, Sukemori and his cousin TAIRA no Yukimori drowned themselves in the sea together.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He died in the Battle of Dannoura. He, Sukemori and his cousin TAIRA no Yukimori drowned themselves in the sea, hand in hand.</e>
+<cmt>一原文一訳文の例外対処。「最後は」をeventuallyで訳すのは不自然かと思われます。「手を取り合い」をtogetherよりも具体的に表現しました。</cmt>
+<e type="check" ver="1">In the end, he drowned himself in the sea with Sukemori and his cousin TAIRA no Yukimori, hand in hand, in the Battle of Dannoura.</e>
+<cmt>原文を分割する必要はないので一文にしました。</cmt>
+</sen>
+<sen id="8">
+<j>享年22。</j>
+<e type="trans" ver="1">He died at the age of twenty-two.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was 22-year-old at the time.</e>
+<cmt>文の流れから書き換えました。</cmt>
+<e type="check" ver="1">He was 22-year-old at the time.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>伝説</j>
+<e type="trans" ver="1">Legend</e>
+<cmt></cmt>
+<e type="trans" ver="2">Folklore</e>
+<cmt>原文の「伝説」は民間伝承と考えられるので変更しました。</cmt>
+<e type="check" ver="1">Folklore</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="9">
+<j>奄美諸島には資盛、行盛、有盛が落ち延びたという平家の落人伝説がある。</j>
+<e type="trans" ver="1">In the Amami Islands, the folklore of fleeing Heike warriors has it that Sukemori, Yukimori and Arimori escaped alive.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Amami Islands, there is folklore of fleeing Heike warriors saying that Sukemori, Yukimori and Arimori fled to the islands.</e>
+<cmt>原文と訳文の意味が異なります。</cmt>
+<e type="check" ver="1">In the Amami Islands, there is folklore of fleeing Heike warriors saying that Sukemori, Yukimori and Arimori fled to the islands.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>行盛神社、有盛神社、資盛の大屯神社が祀られ、重要無形民族文化財に指定されている。</j>
+<e type="trans" ver="1">Yukimori-jinja Shrine commemorating Yukimori, Arimori-jinja Shrine commemorating Arimori and Ochon-jinja Shrine commemorating Sukemori are designated as significant intangible folk cultural assets.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yukimori-jinja Shrine, Arimori-jinja Shrine and Ochon-jinja Shrine are dedicated to Yukimori, Arimori and Sukemori respectively, all of which are designated as Important intangible folk cultural assets.</e>
+<cmt>「祀られ」のニュアンスが訳文では足りないと思います。「重要・・」は単語サイトから&quot;important・・&quot;が適当と考えます。</cmt>
+<e type="check" ver="1">Yukimori-jinja Shrine, Arimori-jinja Shrine and Ochon-jinja Shrine are dedicated to Yukimori, Arimori and Sukemori respectively, all of which are designated as Important intangible folk cultural assets.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>「諸鈍シバヤ」などの風習も残っている。</j>
+<e type="trans" ver="1">&quot;Shodon-Shibaya&quot; (traditional entertainment on the grounds of Odon-jinja shrine in Shodon) is one of the customs that continue today.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shodon-Shibaya&apos; (traditional dance and play that have been handed down in Shodon Village) and other customs still survive.</e>
+<cmt>「・・」なので&apos;・・&apos;に，「風習が残る」の訳を替えました。諸鈍シバヤの説明を調べ替えました。</cmt>
+<e type="check" ver="1">Shodon-Shibaya&apos; (traditional dance and play that have been handed down in Shodon Village) and other customs still survive.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 釣ちごちゅが(id:22605), Non-stop24(id:10471), Azusayumi7(id:21082), ゐ(id:795), 代言人(id:33675), Cprobot(id:97843), Nekosuki600(id:21263), 味っ子(id:17086), Andee(id:20421), Klesha(id:203751), Kouko0515(id:100370), 小者(id:172526), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

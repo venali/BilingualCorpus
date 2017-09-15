@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>伏見駅 (京都府)</j>
+<e type="trans" ver="1">Fushimi Station (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fushimi Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fushimi Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>伏見駅（ふしみえき）は、京都府京都市伏見区深草柴田屋敷町にある近畿日本鉄道近鉄京都線の鉄道駅。</j>
+<e type="trans" ver="1">Fushimi Station (Fushimi-eki), located in Shibatayashiki-cho, Fushimi Ward, Kyoto City, Kyoto Prefecture, is a railroad station on the Kintetsu Kyoto Line of Kintetsu Corporation.</e>
+<cmt>近畿日本鉄道→Kintetsu Company [http://www.kintetsu.jp、会社名として]</cmt>
+<e type="trans" ver="2">Fushimi Station (Fushimi-eki), located in Shibatayashiki-cho, Fushimi Ward, Kyoto City, Kyoto Prefecture, is a railroad facility on the Kintetsu Kyoto Line of Kintetsu Corporation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Fushimi Station, located in Shibatayashiki-cho, Fukakusa, Fushimi Ward, Kyoto City, Kyoto Prefecture, is a railroad facility on the Kintetsu Kyoto Line of Kintetsu Corporation.</e>
+<cmt>Fushimi-eki を削除しました。Fukakusa を追加しました。</cmt>
+</sen>
+<par id="1">
+<sen id="2">
+<j>駅構造</j>
+<e type="trans" ver="1">Station structure</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="3">
+<j>相対式2面2線のプラットホームを持つ高架駅。</j>
+<e type="trans" ver="1">It is an elevated station equipped with opposite platforms with two sides and two tracks.</e>
+<cmt>相対式プラットホーム→ opposite platforms [http://yougo.rtri.jp/dic/]、高架駅→elevated station [http://yougo.rtri.jp/dic/]</cmt>
+<e type="trans" ver="2">It is an elevated station equipped with opposing platforms, each of which has two sides and two tracks.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is an elevated station equipped with two separate platforms serving two tracks between them.</e>
+<cmt>ホーム表現を変更しました。</cmt>
+</sen>
+<sen id="4">
+<j>ホーム有効長は6両。</j>
+<e type="trans" ver="1">Effective length of the platforms is 6 cars long.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The effective platform length is equal to six cars.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The effective platform length is equal to six cars.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>改札・コンコースは1階、ホームは2階にある。</j>
+<e type="trans" ver="1">The ticket inspection facility and concourse are on the 1st floor and the platforms are on the 2nd floor.</e>
+<cmt>改札→ticket inspection facility[http://yougo.rtri.jp/dic/]　コンコース→concourse[http://yougo.rtri.jp/dic/]</cmt>
+<e type="trans" ver="2">The ticket inspection facility and concourse are on the first floor, and the platforms are on the second floor.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">The ticket inspection facility and concourse are on the first floor, and the platforms are on the second floor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>改札口は1ヶ所のみ。</j>
+<e type="trans" ver="1">There is only a ticket barrier.</e>
+<cmt>改札口→ticket barrier [http://yougo.rtri.jp/dic/]</cmt>
+<e type="trans" ver="2">There is only one ticket barrier.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It has only one ticket gate.</e>
+<cmt>改札→ticket gate　としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>当駅が高架で建設されたのは、建設当時に当駅北方の国道24号（竹田街道）上に京都市電伏見線（1970年廃止）が走っており、立体交差の必要があったためである。</j>
+<e type="trans" ver="1">The station was constructed by elevating the railway, because at the time of the construction, the then Kyoto City Fushimi Line (disused in 1970) was running on the National Highway 24 (Takeda-kaido Way) to the north of the station, and it was necessary to replace the existing crossings with overhead crossings.</e>
+<cmt>国道24号（竹田街道）→National Highway 24 (Takeda-kaido Way) [小学館プログレッシブ和英, 英辞郎 on the WEB]、京都市電伏見線→Kyoto City Fushimi Line [http://kyoto.trolley.net]、立体交差→overhead crossing [http://yougo.rtri.jp/dic/]</cmt>
+<e type="trans" ver="2">The station was constructed by elevating the railway, because at the time of the construction the Kyoto City Fushimi Line (disused in 1970) was running on National Highway 24 (Takeda-kaido Way) to the north of the station, and it was necessary to replace the existing crossings with those of the overhead type.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The station was constructed by elevating the railway, because at the time of the construction the Kyoto City Tram Fushimi Line (disused in 1970) was running on National Route 24 (Takeda-kaido Road) to the north of the station, and it was necessary to replace the existing crossings with those of the overhead type.</e>
+<cmt>City Tramとしました。国道→national routeとしました。Takeda-kaido Roadとしました。</cmt>
+</sen>
+<sen id="8">
+<j>奈良鉄道～奈良線時代は平面交差であり、両者の衝突事故が何度か起きた。</j>
+<e type="trans" ver="1">During the time of Nara Railway and when it was a part of the Nara Line, the line had grade crossings and there were several crashes of the trains running on both lines.</e>
+<cmt>平面交差→grade crossing [http://yougo.rtri.jp/dic/]</cmt>
+<e type="trans" ver="2">During the time of the Nara Railway, when it was a part of the Nara Line, the line had grade crossings and on both lines there were several incidents of train crashes.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">During the time of the Nara Railway, when it was a part of the Nara Line, the line had grade crossings and on both lines there were several incidents of train crashes.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>なお自動改札機は東芝製が設置されている。</j>
+<e type="trans" ver="1">Automatic ticket gate made by Toshiba are installed.</e>
+<cmt>自動改札機→automatic ticket gate [http://www.yougo.rtri.jp/dic/]</cmt>
+<e type="trans" ver="2">The automatic ticket gates were manufactured by Toshiba.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The automatic ticket gates were manufactured by Toshiba.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>赤い自動改札機（EG-2000）は出場時2枚一括処理、PiTaPa・ICOCAに対応する。</j>
+<e type="trans" ver="1">A red colored automatic ticket gate (EC-2000) has 2-ticket processing function at outgoing ticket usage check, and accepts PiTaPa and ICOCA.</e>
+<cmt>出場時→定訳不明「鉄道技術用語辞典(自動改札機の入出場検査→ticket usage check) http://yougo.rtri.org.jp/dic/をもとに、at outgoing ticket usage checkとしました]、2枚一括処理→ (2-ticket processing function [東芝文献（東芝レビュー）：http://www.toshiba.co.jp/tech/review/2000/01/f01.pdf]</cmt>
+<e type="trans" ver="2">A red-colored automatic ticket gate (EC-2000) has the two-ticket processing function at the outgoing ticket usage check, and it accepts PiTaPa and ICOCA.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">A red-colored automatic ticket gate (EG-2000) has the two-ticket processing function at the outgoing ticket usage check, and it accepts PiTaPa and ICOCA.</e>
+<cmt>EGとしました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="11">
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization situation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger usage statistics</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="12">
+<j>2005年11月8日の調査結果によると、1日の利用客は6,361人。</j>
+<e type="trans" ver="1">According to the survey carried out on November 8, 2005, the number of the users a day was 6,361.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to a survey conducted on November 8, 2005, the number of the users was 6,361.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">According to a survey conducted on November 8, 2005, the number of the users was 6,361.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="13">
+<j>近鉄の全調査対象駅（323駅、但し調査当時の数）中、101位。</j>
+<e type="trans" ver="1">This was the 101st position among all the Kintetsu Railway stations targeted by the survey (323 stations, as of the date of the survey).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was the 101st position among all the Kintetsu Railway stations targeted by the survey (323 as of the survey date).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">This was the 101st position among all the Kintetsu Railway stations targeted by the survey (323 as of the survey date).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="14">
+<j>京都線の駅（26駅、大和西大寺駅含む）の中では、19位。</j>
+<e type="trans" ver="1">It ranked the 19th out of all the stations on the Kyoto Line (26 stations including Yamato-Saidaiji Station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It ranked nineteenth out of all the stations on the Kyoto Line (26, including Yamato-Saidaiji Station).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It ranked nineteenth out of all the stations on the Kyoto Line (26, including Yamato-Saidaiji Station).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="15">
+<j>京都府内の近鉄の駅（23駅）の中では、17位。</j>
+<e type="trans" ver="1">It ranked the 17th out of all the Kintetsu Railway stations within Kyoto City (23 stations).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It ranked seventeenth out of all the Kintetsu Railway stations within Kyoto City (23 stations).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It ranked seventeenth out of all the Kintetsu Railway stations within Kyoto City (23 stations).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="16">
+<j>駅周辺</j>
+<e type="trans" ver="1">Around the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="17">
+<j>伏見郵便局</j>
+<e type="trans" ver="1">Fushimi Post Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Fushimi post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Fushimi post office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>イズミヤ伏見店</j>
+<e type="trans" ver="1">Izumiya Fushimi Store</e>
+<cmt></cmt>
+<e type="trans" ver="2">Izumiya Fushimi Store</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Izumiya Fushimi Store</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>国道24号</j>
+<e type="trans" ver="1">Ｎational Route 24</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ｎational Route 24</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">National Route 24</e>
+<cmt>2バイト文字を修正しました。</cmt>
+</sen>
+<sen id="20">
+<j>京都市立伏見住吉小学校</j>
+<e type="trans" ver="1">Kyoto City Fushimi Sumiyoshi Elementary School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Fushimi Sumiyoshi Elementary School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Fushimi Sumiyoshi Elementary School</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>京都教育大学附属高等学校</j>
+<e type="trans" ver="1">Senior High School attached to Kyoto University of Education</e>
+<cmt>京都教育大学附属高等学校→Senior High School attached to Kyoto University of Education [http://www117.sakura.ne.jp/%7Ekyokyofk/index.html]</cmt>
+<e type="trans" ver="2">The senior high school attached to the Kyoto University of Education</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The senior high school attached to the Kyoto University of Education</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>京阪本線墨染駅</j>
+<e type="trans" ver="1">Keihan Main Line Sumizome Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Main Line Sumizome Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Main Line Sumizome Station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>駅北側の柴田屋敷町公園には京都市交通局1800形電車（1829号）が、集会所として保存されている。</j>
+<e type="trans" ver="1">At Shibatayashiki-cho Park located to the north side of the station, an old-time Kyoto Municipal Traffic Bureau Type 1800 train (No. 1829) is conserved and used as an assembly room.</e>
+<cmt>京都市交通局1800形電車（1829号）→定訳不明 [Kyoto Municipal Trafic Bureau Type 1800 (1829) としました]</cmt>
+<e type="trans" ver="2">At Shibatayashiki-cho Park located to the north side of the station, an old-time Kyoto Municipal Traffic Bureau Type 1800 train (No. 1829) is conserved and used as an assembly room.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At Shibatayashiki-cho Park located to the north side of the station, an old-time Kyoto Municipal Traffic Bureau Type 1800 train (No. 1829) is conserved and used as an assembly room.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>バス</j>
+<e type="trans" ver="1">Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Buses</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Buses</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="24">
+<j>最寄バス停は駅から徒歩5分の竹田街道沿いにある棒鼻となる。</j>
+<e type="trans" ver="1">The nearest bus stop is Bohana which is situated along the Takeda-kaido Way a 5-minute walk from the station.</e>
+<cmt>棒鼻→Bohana [http://www.city.kyoto.jp/kotsu/busdia/hyperdia/menu713.html/]</cmt>
+<e type="trans" ver="2">The nearest bus stop is Bohana, situated along the Takeda-kaido Way a five-minute walk from the station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The nearest bus stop is Bohana, situated along the Takeda-kaido Road a five-minute walk from the station.</e>
+<cmt>Takeda-kaido Roadとしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="25">
+<j>京都市営バス横大路営業所81号・特81号系統：京都駅行/横大路車庫行</j>
+<e type="trans" ver="1">Kyoto City Bus Yokooji Office Route 81/Route toku-81: for Kyoto Station/for Yokooji Shako (depot).</e>
+<cmt>京都市営バス横大路営業所81号・特81号系統→定訳不明 [Kyoto City Bus Yokooji Office Route 81/Route toku-81としました]</cmt>
+<e type="trans" ver="2">Kyoto City Bus Yokooji Office Route 81/Route toku-81: Bound for Kyoto Station/for Yokooji Shako (depot).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kyoto City Bus Yokooji Office Route 81/Route toku-81: Bound for Kyoto Station/for Yokooji Shako (depot).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="26">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>1928年（昭和3年）11月15日 奈良電気鉄道京都駅～桃山御陵前駅間開通時に開業。</j>
+<e type="trans" ver="1">November 15, 1928: The station was inaugurated when Nara Electric Railway began operating between Kyoto Station and Momoyamagoryomae Station.</e>
+<cmt>奈良電気鉄道→Nara Electric Railway [http://www.fundinguniverse.com/company-histories/KINKI-NIPPON=RAILWAY-COMPANY-LTD-Company-History.html]</cmt>
+<e type="trans" ver="2">November 15, 1928: The station was inaugurated when the Nara Electric Railway began operating between Kyoto Station and Momoyamagoryomae Station.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">November 15, 1928: The station was inaugurated when the Nara Electric Railway began operating between Kyoto Station and Momoyamagoryomae Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="28">
+<j>1963年（昭和38年）10月1日 会社合併により近畿日本鉄道の駅となる。</j>
+<e type="trans" ver="1">October 1, 1963: With the merger of the company, it became a station of Kintetsu Railway.</e>
+<cmt>近畿日本鉄道→Kintetsu Railway [http://www.kintetsu.jp]</cmt>
+<e type="trans" ver="2">October 1, 1963: It became a station of Kintetsu Railway due to the company merger.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 1, 1963: It became a station of Kintetsu Railway due to the company merger.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="29">
+<j>2007年（平成19年）4月1日 PiTaPa使用開始。</j>
+<e type="trans" ver="1">April 1, 2007: PiTaPa started to be accepted at the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 2007: PiTaPa became accepted at the station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 2007: PiTaPa became accepted at the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="30">
+<j>その他</j>
+<e type="trans" ver="1">Others</e>
+<cmt></cmt>
+<e type="trans" ver="2">Others</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Others</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>当駅を含む区間は、日本国有鉄道奈良線（旧奈良鉄道&amp;amprarr関西鉄道）が1921年にルート変更する前の路盤を利用して建設されているが、奈良線時代にもほぼ同位置に伏見駅があった。</j>
+<e type="trans" ver="1">The section including this station in between was constructed making use of the roadbed that the Japan National Railway (JNR) Nara Line (former Nara Railway, which was later transferred to Kansai Railway Company) had been using until the route was changed in 1921, and during the times of Nara Railway, there was also a station at almost the same place.</e>
+<cmt>「（旧奈良鉄道&amp;amprarr関西鉄道）」は「&amp;amprarr」の部分が分からなかったのですが、一応「(ｆormer Nara Railway, which was later transferred to Kansai Railway Company)」としました、関西鉄道→Kansai Railway Company [http://www.rtri.or.jp/japanrail/History1_E.html]</cmt>
+<e type="trans" ver="2">The section (with this station as a midpoint) was constructed, making use of the road bed that the Japan National Railway (JNR) Nara Line (former Nara Railway, which was later transferred to Kansai Railway Company) had been using until the route was changed in 1921, and during the times of the Nara Railway there was a station at nearly the same place.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The section (with this station as a midpoint) was constructed, making use of the road bed that the Japan National Railways (JNR) Nara Line (former Nara Railway, which was later transferred to Kansai Railway Company) had been using until the route was changed in 1921, and during the times of the Nara Railway there was a station at nearly the same place.</e>
+<cmt>Japan National Railways　としました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="32">
+<j>1895年（明治28年）9月5日 奈良鉄道により開設。</j>
+<e type="trans" ver="1">September 5, 1985: The station was opened by Nara Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 5, 1985: The station was opened by Nara Railway.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">September 5, 1895: The station was opened by Nara Railway.</e>
+<cmt>1895に修正しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="33">
+<j>1905年（明治38年）2月7日 奈良鉄道が関西鉄道に譲渡。</j>
+<e type="trans" ver="1">February 7, 1905: Nara Railway was transferred to Kansai Railway Company.</e>
+<cmt></cmt>
+<e type="trans" ver="2">February 7, 1905: The Nara Railway was transferred to the Kansai Railway Company.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">February 7, 1905: The Nara Railway was transferred to the Kansai Railway Company.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="34">
+<j>1907年（明治40年）10月1日 関西鉄道が鉄道国有法。</j>
+<e type="trans" ver="1">October 1, 1907: Kansai Railway Company became subject to the Railway Nationalization Act.</e>
+<cmt>鉄道国有法→Railway Nationalization Act [http://www.geocities.com/The Tropics/Cove/5750/history.html]、「関西鉄道が鉄道国有法の対象になる」→「関西鉄道が鉄道国有法の対象になる」ということと解釈しました。ご確認ください。</cmt>
+<e type="trans" ver="2">October 1, 1907: The Kansai Railway Company became subject to the Railway Nationalization Act.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">October 1, 1907: The Kansai Railway Company became subject to the Railway Nationalization Act.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="35">
+<j>1921年（大正10年）8月1日 京都駅～当駅間廃止（ルート変更）。</j>
+<e type="trans" ver="1">August 1, 1921: The section between Kyoto Station and this station was disused (because of route change).</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 1, 1921: The section between Kyoto Station and this station was discontinued due to the route change.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">August 1, 1921: The section between Kyoto Station and this station was discontinued due to the route change.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>貨物駅となる。</j>
+<e type="trans" ver="1">It became a freight station.</e>
+<cmt>貨物駅→freight station [http://www.yougo.rtri.jp/dic/]</cmt>
+<e type="trans" ver="2">It became a freight station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It became a freight station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="37">
+<j>1928年（昭和3年）9月3日 桃山駅～当駅間廃止。</j>
+<e type="trans" ver="1">September 3, 1928: The operation between Momoyama Station and this station was discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 3, 1928: The operation between Momoyama Station and this station was discontinued.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">September 3, 1928: The operation between Momoyama Station and this station was discontinued.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>廃駅となる。</j>
+<e type="trans" ver="1">It became a disused station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It became a disused station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It became a disused station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="39">
+<j>隣の駅</j>
+<e type="trans" ver="1">Next stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">The next stations</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="40">
+<j>近畿日本鉄道</j>
+<e type="trans" ver="1">Kintetsu Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kintetsu Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kintetsu Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>京都線</j>
+<e type="trans" ver="1">Kyoto Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="42">
+<j>■急行・■準急</j>
+<e type="trans" ver="1">Express Semi-express</e>
+<cmt></cmt>
+<e type="trans" ver="2">Express Semi-express</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Express/Semi-express</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+<sen id="43">
+<j>通過</j>
+<e type="trans" ver="1">Nonstop</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nonstop</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nonstop</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>■普通</j>
+<e type="trans" ver="1">Local train</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Local</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+<sen id="45">
+<j>竹田駅 (京都府) - 伏見駅 - 近鉄丹波橋駅</j>
+<e type="trans" ver="1">Takeda Station (Kyoto Prefecture) - Fushimi Station - Kintetsu Tanbabashi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takeda Station (Kyoto Prefecture) - Fushimi Station - Kintetsu Tanbabashi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Takeda Station (Kyoto Prefecture) - Fushimi Station - Kintetsu-Tambabashi Station</e>
+<cmt>Kintetsu-Tambabashi としました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 東京特許許可局(id:7229), AlleborgoBot(id:119729), A TRAIN(id:13889), Bakkai(id:7233), 城山(id:104901), Etopirica(id:32491), ポピュラーポプラ(id:157724), Maxima m(id:28947), Wikipedianet(id:9608), KARS(id:43022), Memeja(id:110500), Aska-sacra(id:8180), Shinkansen(id:13703), Carkuni(id:79281), Rusk(id:9895), Sunen(id:10700), Kouchiumi(id:19253), R28Bot(id:177951), Unamu(id:14627), Kone(id:377), Hirotaro(id:1437), 扇風機のせんちゃん(id:161810), Mipu(id:5360), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

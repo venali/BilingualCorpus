@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>枕草子春曙抄</j>
+<e type="trans" ver="1">Makura no Soshi Shunshosho</e>
+<cmt></cmt>
+<e type="trans" ver="2">Makura no Soshi Shunshosho</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Makura no Soshi Shunshosho</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>『枕草子春曙抄』（まくらのそうししゅんしょしょう）は、江戸時代に書かれた『枕草子』の注釈書。</j>
+<e type="trans" ver="1">Makura no Soshi Shunshosho is a commentary of Makura no Soshi (The Pillow Book) written in the Edo Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Makura no Soshi Shunshosho is a commentary on Makura no Soshi (The Pillow Book) written in the Edo period.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">&quot;Makura no Soshi Shunshosho&quot; is a commentary on Makura no Soshi (The Pillow Book) written in the Edo period.</e>
+<cmt>&quot; &quot; を追加しました。</cmt>
+</sen>
+<sen id="2">
+<j>単に『春曙抄』ともいい、著者は江戸時代初期の著名な古典学者北村季吟（1624年 － 1705年）。</j>
+<e type="trans" ver="1">It is also called simply &quot;Shunshosho&quot; and the author is Kigin KITAMURA (1624 -1705) who was a famous classical scholar in the beginning of the Edo Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also called simply &quot;Shunshosho,&quot; it was written by Kigin KITAMURA (1624 -1705), who was famous as a classical scholar early in the Edo period.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also known simply as &quot;Shunshosho,&quot; it was written by Kigin KITAMURA (1624 - 1705), who was famous as a classical scholar early during the Edo period.</e>
+<cmt>FBに基づき修正しました。スペース補足しました。</cmt>
+</sen>
+<sen id="3">
+<j>底本は能因本。</j>
+<e type="trans" ver="1">The original text is Noin bon.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The original text is Noin bon.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The original manuscript is noin-bon (a type of transcription).</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="4">
+<j>刊記がないため、正確な出版年月日は明らかではない。</j>
+<e type="trans" ver="1">Exact date of publication is not clear because no information on publication is shown.</e>
+<cmt>一原文一訳文の例外措置</cmt>
+<e type="trans" ver="2">The exact date of publication isn&apos;t clear, because no information on publication is given.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The precise date of its publication is unclear due to the lack of a publication record.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="5">
+<j>漢文による跋文に延宝2年（1674年）とあることから、これ以後の出版と考えられる。</j>
+<e type="trans" ver="1">However, as afterword in Chinese includes description of 1674, it seems that it was issued after that.</e>
+<cmt>一原文一訳文の例外措置</cmt>
+<e type="trans" ver="2">However, because afterword in Chinese includes the description &quot;1674,&quot; it seems that the book was issued after that.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, due to the fact that the classical Chinese epilogue includes a reference to the year 1674, it is thought to have been published after this time.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="6">
+<j>12巻。</j>
+<e type="trans" ver="1">Twelve volumes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are 12 volumes.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There are twelve volumes.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="7">
+<j>享保14年（1729年）発梓本では巻ごとに1冊に分けられ、巻末に壺井義知著『枕草子装束撮要抄』（「装束抄」）1冊が合綴されて袋綴じ13冊となっている。</j>
+<e type="trans" ver="1">With respect to copies issued in 1729, each volume forms a book and a book of &quot;Makura no Soshi Shozoku Satuyosho&quot; (&quot;Shozokusho&quot; (Notes on Court Costume)) by Yoshitomo TSUBOI is bound together and a set consists of thirteen books by covered binding.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Regarding the copies issued in 1729, each volume binds together the book &quot;Makura no Soshi Shozoku Satuyosho&quot; (&quot;Shozokusho (Notes on Court Costume&quot;)) by Yoshitomo TSUBOI, and a set consists of 13 books in covered binding.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Each of the printed copies published in 1729 comprises one volume of the full text, and another book by Yoshitomo TSUBOI entitled &quot;Makura no Soshi Shozoku Satsuyosho&quot; (&apos;Shozokusho&apos;) is bound to the final volume to make a total of 13 double-leaved books.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="8">
+<j>ほかに『装束抄』が付かない六冊本もある。</j>
+<e type="trans" ver="1">Other than that, there is a set consisting of six books without &quot;Shozokusho.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other than that, there is a set consisting of six books without &quot;Shozokusho.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In addition, there are six books unrelated to &quot;Shozokusho.&quot;</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="9">
+<j>「清少納言枕草子者、中古文学之遺風、日本語之俊烈也。并義於紫式部源氏物語、尤当閲翫之者也」で始まる「延宝二年七月十七日甲寅北村季吟書」の跋を持つ。</j>
+<e type="trans" ver="1">It has afterword of &quot;July 17, 1674 written by Kigin KITAMURA&quot; that starts with &quot;清少納言枕草子者、中古文学之遺風、日本語之俊烈也。并義於紫式部源氏物語、尤当閲翫之者也.&quot;</e>
+<cmt>漢文の個所は正確な意味不明のため、原文のまま表記しました。</cmt>
+<e type="trans" ver="2">It has the afterword &quot;July 17, 1674 written by Kigin KITAMURA,&quot; which starts with &quot;清少納言枕草子者、中古文学之遺風、日本語之俊烈也。并義於紫式部源氏物語、尤当閲翫之者也.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The book has an epilogue written by Kigin KITAMURA on August 18, 1674 which begins &apos;Sei Shonagon, the author of Makura no Soshi, was a genius of Heian literature and the Japanese language. She was greatly admired by Murasaki Shikibu, author of Genji Monogatari.&apos;</e>
+<cmt>FBに基づき修正しました。グレゴリオ暦に訂正しました。</cmt>
+</sen>
+<sen id="10">
+<j>能因本系統の枕草子本文に、詳細な傍注・標注・校合・考証などを施す。</j>
+<e type="trans" ver="1">Ｄｅｔａｉｌｅｄ marginal notes, commentaries, collations, historical artifacts, etc. are written on the text of Makura no Soshi of the noin bon type.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ｄｅｔａｉｌｅｄ marginal notes, commentaries, collations, historical artifacts, etc., are written in the text of Makura no Soshi of the noin bon type.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The book contains detailed marginal notes, commentaries, collations and historical artefacts regarding the noin-bon &quot;Makura no Soshi.&quot;</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="11">
+<j>近世における枕草子注釈の最高峰として、同じ年に刊印された加藤盤斎（1625－1674）の『清少納言枕草紙抄』を圧倒したばかりでなく、明治まで版を重ねて広く流布した（元禄の頃にはすでに海賊版が横行したという）。</j>
+<e type="trans" ver="1">As the high point of commentary of Makura no Soshi in the early modern period, it not only overwhelmed &quot;Seishonagon Makura no Soshi Sho&quot; by Bansai KATO (1625 - 1674) issued in the same year, but also widely circulated going through editions until the Meiji era (reportedly, already in the Genroku era (1688 - 1703). pirated editions were rife.).</e>
+<cmt></cmt>
+<e type="trans" ver="2">As the high point of commentary on Makura no Soshi in the early modern period, it not only overwhelmed &quot;Seishonagon Makura no Soshi Sho&quot; by Bansai KATO (1625 - 1674), which was issued the same year, but it was also widely circulated in multiple editions until the Meiji period (reportedly, pirated editions were already common in the Genroku period (1688 - 1703).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As the pinnacle of commentary on &quot;Makura no Soshi&quot; in the early modern period, it not only overwhelmed Bansai KATO&apos;s (1625 - 1674) &quot;Seishonagon Makura no Soshi Sho,&quot; another commentary on &quot;The Pillow Book&quot; which was published the same year, but it was also widely circulated in multiple editions until the Meiji period (it is said that pirated editions were already commonplace circa the Genroku era (1688 - 1703).</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 湖沼亭(id:126910), Yume149(id:17504), Sapphire123(id:147732), Mooko(id:36162), 松茸(id:27535), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

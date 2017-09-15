@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>等持院駅</j>
+<e type="trans" ver="1">Tojiin Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tojiin Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tojiin Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>等持院駅（とうじいんえき）は、京都市北区 (京都市)等持院西町にある京福電気鉄道北野線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Tojiinnishi-machi, Kita Ward, Kyoto City, Tojiin Station is a stop on the Kitano Line, which is operated by Keifuku Electric Railroad Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tojiin Station, located in Tojiinnishi-machi, Kita Ward, Kyoto City, is a stop on the Kitano Line, which is operated by Keifuku Electric Railroad Co., Ltd.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tojiin Station, located in Tojiinnishi-machi, Kita Ward, Kyoto City, is a stop on the Kitano Line, which is operated by Keifuku Electric Railroad Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>駅ナンバリングはB8。</j>
+<e type="trans" ver="1">Its station number is B8.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its station number is B8.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Its station number is B8.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>相対式2面2線ホームを持つ地上駅。</j>
+<e type="trans" ver="1">It is an aboveground station having two bar-like structure platforms, only one side of which is used for boarding and exiting trains, and the up train and down train can pass each other at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an aboveground station having two platforms of bar-like structure, only one side of which is used for boarding and exiting trains; thus the up trains and down trains can pass one another at this station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is an aboveground station having two platforms serving two tracks; the inbound trains and outbound trains can pass one another at this station.</e>
+<cmt>two platforms serving two tracks と統一しました。上り、下り→inbound, outbound としました。</cmt>
+</sen>
+<sen id="4">
+<j>駅の東側に主要な出入り口があるが、北野白梅町駅行きホームには、駅上屋の西側に柵が切れている部分があり、その部分でも北側の道路に出入ができる。</j>
+<e type="trans" ver="1">The main entrance is located on the east side of the station; however, people can access to the road on the north side through a chasm of the fence on the platform for Kitano Hakubaicho Station, which is placed on the west side of the station shed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The main entrance is located on the east side of the station, but people can access the road on the north side through a break in the fence on the platform for Kitano Hakubaicho Station, which is placed on the west side of the station shed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The main entrance is located on the east side of the station, but people can access the road on the north side through a break in the fence on the platform for Kitano-Hakubaicho Station, which is placed on the west side of the station shed.</e>
+<cmt>京福のサイトより、Kitano-Hakubaicho としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>ここから龍安寺駅方にある踏切まで、道路が平行する区間は複線分の用地が確保されている。</j>
+<e type="trans" ver="1">Land needed for constructing two tracks is ensured in the section between this point and the railway crossing near Ryoanji Station, in which a road is running in parallel with the railway track.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Land needed for the construction of two tracks is ensured in the section between this point and the railway crossing near Ryoanji Station, where a road runs parallel to the railway track.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Land needed for the construction of two tracks is ensured in the section between this point and the railway crossing near Ryoanji Station, where a road runs parallel to the railway track.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>複線化によって鳴滝～常盤間のように駅間で電車が行き違う事ができる様にする為と思われるが、残りの区間は民家が密集して、用地の確保が困難である事から実現してない。</j>
+<e type="trans" ver="1">The double track railway in this section will make it possible to let up trains and down trains pass each other freely as the system is already established in the section between Narutaki and Tokiwa; however, this idea has not been achieved yet because necessary land has not been ensured in other sections in which houses are densely packed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The double-track railway in this section will make it possible for up trains and down trains to pass each other freely, since the system is already established in the section between Narutaki and Tokiwa; however, this idea hasn&apos;t yet been achieved because the necessary land hasn&apos;t been ensured in other sections in which houses are densely packed.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The double-track railway in this section will make it possible for inbound trains and outbound trains to pass each other freely, since the system is already established in the section between Narutaki and Tokiwa; however, this idea hasn&apos;t yet been achieved because the necessary land hasn&apos;t been ensured in other sections in which houses are densely packed.</e>
+<cmt>上り、下り→inbound, outbound としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Periphery of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="7">
+<j>等持院</j>
+<e type="trans" ver="1">Tojiin Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tojiin Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Toji-in Temple</e>
+<cmt>Toji-in としました。</cmt>
+</sen>
+<sen id="8">
+<j>立命館大学衣笠キャンパス</j>
+<e type="trans" ver="1">Ritsumeikan University Kinugasa Campus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ritsumeikan University Kinugasa Campus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ritsumeikan University Kinugasa Campus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="9">
+<j>1925年（大正14年）11月3日 京都電燈の駅として開業。</j>
+<e type="trans" ver="1">November 3, 1925: Started as a station operated by Kyoto Dento, an electric power corporation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 3, 1925: The station started operation under Kyoto Dento, an electric power corporation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">November 3, 1925: The station started operation under Kyoto Dento, an electric power company.</e>
+<cmt>他の記事と統一し、electric power company としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>1942年（昭和17年）3月2日 路線継承により京福電気鉄道の駅となる。</j>
+<e type="trans" ver="1">March 2, 1942: It became a station under the control of Keifuku Electric Railroad Co., Ltd., a company succeeded the railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 2, 1942: It was placed under the control of Keifuku Electric Railroad Co., Ltd., a company that succeeded to the railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">March 2, 1942: It was placed under the control of Keifuku Electric Railroad Co., Ltd., a company that succeeded to the railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Next stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="11">
+<j>京福電気鉄道</j>
+<e type="trans" ver="1">Keifuku Electric Railroad</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keifuku Electric Railroad</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keifuku Electric Railroad</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>北野線</j>
+<e type="trans" ver="1">Kitano Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitano Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitano Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>北野白梅町駅 B9 - 等持院駅 B8 - 龍安寺駅 B7</j>
+<e type="trans" ver="1">Kitano Hakubaicho Station B9 - Tojiin Station B8 - Ryoanji Station B7</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitano Hakubaicho Station B9 - Tojiin Station B8 - Ryoanji Station B7</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitano-Hakubaicho Station (B9) - Tojiin Station (B8) - Ryoanji Station (B7)</e>
+<cmt>他の記事と統一し、駅番号に括弧を追加しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Rusk(id:9895), Bakkai(id:7233), Sunen(id:10700), Si-take.(id:91094), Etopirica(id:32491), Bergmann(id:85282), 扇風機のせんちゃん(id:161810), Goncyan(id:92158), Jade0416(id:104181), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

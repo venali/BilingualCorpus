@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>歳時記</j>
+<e type="trans" ver="1">Saijiki (literary calendar)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saijiki (literary calendar)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Saijiki (literary calendar)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>歳時記(さいじき)とは、国や地方または各種団体の年中行事の事柄や自然の風物等をまとめた書物。</j>
+<e type="trans" ver="1">Saijiki are books in which is compiled the matters related with annual events by the national and local, or various organizations, and scenery and customs.</e>
+<cmt>原文が、句読点で区切られていたので、１文にしました。</cmt>
+<e type="trans" ver="2">Saijiki are books on the matters related with annual events by the national and local, or various organizations, and scenery and customs.</e>
+<cmt>books in which is compiled the matters→books on the mattersとしました。</cmt>
+<e type="check" ver="1">Saijiki are books on the matters related with annual events by the national and local, or various organizations, and scenery and customs.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>俳句の季語・季題をまとめたもの。</j>
+<e type="trans" ver="1">It collects kigo (a season word) for haiku (Japanese seventeen-syllable poem) and kidai (a seasonal topic in haiku poetry).</e>
+<cmt></cmt>
+<e type="trans" ver="2">They collect kigo (a season word) for haiku (Japanese seventeen-syllable poem) and kidai (a seasonal topic in haiku poetry).</e>
+<cmt>前文でSaijikiが複数扱いになっているため、It collects→They collectとしました。</cmt>
+<e type="check" ver="1">They collect kigo (season words) and kidai (seasonal topics) for haiku (Japanese seventeen-syllable poem).</e>
+<cmt>and kidai (a seasonal topic in haiku poetry)の場所を変更しました。季語・季題を複数形にしました。 in haiku poetryは重複するので削除しました。</cmt>
+</sen>
+<sen id="3">
+<j>季寄せ。</j>
+<e type="trans" ver="1">Kiyose (a practical catalog of season-specific words used in composing haiku).</e>
+<cmt>用語集の用語をそのまま使用しました。</cmt>
+<e type="trans" ver="2">Kiyose (a practical catalog of season-specific words used in composing haiku).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kiyose (a practical catalog of season-specific words used in composing haiku).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>四季の風物や動植物、衣食住などの生活、年中行事などが季節ごとにまとめられている。</j>
+<e type="trans" ver="1">Seasonal scenery and customs, animals and plants, daily life such as housing, food, and clothing, and annual events are written season by season.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Seasonal scenery and customs, animals and plants, daily life such as housing, food, and clothing, and annual events are written season by season.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Seasonal scenery and customs, animals and plants, daily life such as housing, food, and clothing, and annual events are written season by season.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>歳時とは、一年のうち、その時々、つまり四季折々というほどの意味である。</j>
+<e type="trans" ver="1">Saiji (event in the year) means different times in a year, or occasions in all seasons.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saiji (event in the year) means different times in a year, or occasions in all seasons.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Saiji means different times in a year, or occasions in all seasons.</e>
+<cmt>(event in the year) は説明があるので削除しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 でここ(id:9565), Nmaeda(id:9788), Ligar(id:12623), Izayohi(id:13095), 月下薄氷(id:47743), Deepimpact(id:129352), サニードレッシング(id:15736), Hamlet(id:50119), ＮｉＫｅ(id:7512), Miya(id:1881), IwaimBot(id:190695), Toto-tarou(id:16648), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

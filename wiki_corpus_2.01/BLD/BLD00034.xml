@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>亀岡運動公園</j>
+<e type="trans" ver="1">Kameoka Sports Park</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kameoka Sports Park</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kameoka Sports Park</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>亀岡運動公園（かめおかうんどうこうえん）とは、京都府亀岡市にある複合スポーツ施設を併設した公園。</j>
+<e type="trans" ver="1">Kameoka Sports Park is a park in Kameoka-City of Kyoto Prefecture that has a sports complex.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kameoka Sports Park is a park in Kameoka-City in Kyoto Prefecture that has a sports complex.</e>
+<cmt>Grammar</cmt>
+<e type="check" ver="1">Kameoka Sports Park is a park in Kameoka City, Kyoto Prefecture that has a sports complex.</e>
+<cmt>「京都府亀岡市」 指示書入力要領に従い、亀岡市のハイフンおよび in を削除　Kameoka-City in Kyoto Prefecture → Kameoka City, Kyoto Prefecture</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>亀岡市は京都府のちょうど中央辺りに位置するためか、市だけでなく府の体育大会などが数多く催される。</j>
+<e type="trans" ver="1">Probably because Kameoka-City is located near the center of Kyoto Prefecture, many city as well as prefecture-hosted athletic competitions are held here.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Probably because Kameoka-City is located near the center of Kyoto Prefecture, many city as well as prefecture-hosted athletic competitions are held here.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Probably because Kameoka-City is located near the center of Kyoto Prefecture, many city as well as prefecture-hosted athletic competitions are held here.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="3">
+<j>亀岡運動公園は、1988年（昭和63年）の京都国民体育大会に合わせて建設された体育館、競技場、野球場、プール、テニスコート、遊具などを兼ね備えた複合的なスポーツ施設であり、市や府の内外を問わず盛んに利用されている。</j>
+<e type="trans" ver="1">Kameoka Sports Park is a sports complex built for the Kyoto National Sports Festival held in 1988 consisting of gymnasiums, an athletics stadium, a baseball field, swimming pools, tennis courts, and various types of play equipment, and is used by a large number of visitors not only from inside but outside Kameoka-City or Kyoto Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kameoka Sports Park is a sports complex that was built for the Kyoto National Sports Festival held in 1988, consisting of gymnasiums, an athletics stadium, a baseball field, swimming pools, tennis courts, and various types of play equipment, and is used by a large number of visitors not only from Kameoka-City but also from outside Kyoto Prefecture.</e>
+<cmt>Changed for clarity and punctuation.</cmt>
+<e type="check" ver="1">Kameoka Sports Park is a sports complex that was built for the Kyoto National Sports Festival held in 1988, consisting of gymnasiums, an athletics stadium, a baseball field, swimming pools, tennis courts, and various types of play equipment, and is used by a large number of visitors not only from Kameoka-City but also from outside Kyoto Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="4">
+<j>施設内には亀岡市と提携を結んでいる海外の各都市にちなみ、西洋の城をモチーフにした小さくかわいらしい建物、水鳥が憩う池、中国・蘇州市から寄贈された重厚な鐘と枯山水風の庭園などがあり、多くの市民に親しまれている。</j>
+<e type="trans" ver="1">Based on the features of Kameoka-City&apos;s overseas sister cities, the park has a cute small building modeled after a Western castle, a pond where waterfowl gather, a large and heavy bell donated by Suzhou City, China, and a Japanese dry landscape garden, and all of them are popular among the city residents.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Based on the features of Kameoka-City&apos;s overseas sister cities, the park has a cute small building modeled after a Western castle, a pond with waterfowl, a large and heavy bell donated by Suzhou City in China, and a Japanese dry landscape garden, all of which are popular with the city&apos;s residents.</e>
+<cmt>Changed for clarity and flow.</cmt>
+<e type="check" ver="1">Within the facilities, based on the features of Kameoka City&apos;s overseas sister cities, the park has a cute small building modeled after a Western castle, a pond with waterfowl, a large and heavy bell donated by Suzhou City in China, a Japanese dry landscape garden and so on, all of which are popular with the city&apos;s residents.</e>
+<cmt>「施設内には」が訳漏れのため、Within the facilities を追記。「亀岡市」指示書入力要領に従い、ハイフンを削除Kameoka-City&apos;s → Kameoka City&apos;s「枯山水風の庭園などがあり」の「など」が訳漏れのため、and so on を追記。 and a Japanese dry landscape garden, → a Japanese dry land scape garden and so on,</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="5">
+<j>また、毎年秋には周辺でコスモス園が開かれ、無数のコスモスが色とりどりの美しさを見せる。</j>
+<e type="trans" ver="1">Also, the Cosmos Garden opens every fall near the park, and a countless number of beautiful Mexican asters in a wide variety of colors entertain the garden visitors.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, the Cosmos Garden opens every fall near the park, and countless beautiful Mexican asters in a wide variety of colors entertain the garden visitors.</e>
+<cmt>Flow improved.</cmt>
+<e type="check" ver="1">Also, the Cosmos Garden opens every fall near the park, and countless beautiful Mexican asters in a wide variety of colors entertain the garden visitors.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 663highland(id:18755), Rusk(id:9895), NDR(id:5500), Nnh(id:474), Sakura tsutsuji(id:13201), たね(id:10372), Skink(id:11281), 樒(id:35770), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

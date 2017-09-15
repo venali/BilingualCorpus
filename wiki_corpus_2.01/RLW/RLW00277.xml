@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>小浜線</j>
+<e type="trans" ver="1">JR Obama Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR Obama Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR Obama Line</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>小浜線（おばません）は、福井県敦賀市の敦賀駅から京都府舞鶴市の東舞鶴駅に至る西日本旅客鉄道（JR西日本）の鉄道路線（地方交通線）である。</j>
+<e type="trans" ver="1">Obama Line refers to the railway (local line) in West Japan Railway Company (JR West) from Suruga station in Suruga city, Fukui prefecture to Higashi-Maizuru station in Maizuru city, Kyoto prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Obama Line refers to the railway (local line) in West Japan Railway Company (JR West) from Suruga station in Suruga city, Fukui prefecture to Higashi-Maizuru station in Maizuru city, Kyoto prefecture.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Obama Line refers to the railway (local line) in West Japan Railway Company (JR West) from Suruga station in Suruga city, Fukui prefecture to Higashi-Maizuru station in Maizuru city, Kyoto prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>路線データ</j>
+<e type="trans" ver="1">Railway data</e>
+<cmt></cmt>
+<e type="trans" ver="2">Railway data</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Railway data</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>管轄（事業種別）：西日本旅客鉄道（鉄道事業者）</j>
+<e type="trans" ver="1">Jurisdiction (varying by operation) : West Japan Railway Company (railway operator).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jurisdiction (varying by operation) : West Japan Railway Company (railway operator).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jurisdiction (varying by operation) : West Japan Railway Company (railway operator).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>路線距離（営業キロ）：84.3km</j>
+<e type="trans" ver="1">The distance of railway (operation kilometers) : 84.3 km.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The distance of railway (operation kilometers) : 84.3 km.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The distance of railway (operation kilometers) : 84.3 km.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>軌間：1067mm</j>
+<e type="trans" ver="1">The gauge : 1067 mm.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The gauge : 1067 mm.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The gauge : 1067 mm.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>駅数：24駅（起終点駅含む）</j>
+<e type="trans" ver="1">The number of stations : 24 stations (including both of the terminal stations).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of stations : 24 stations (including both of the terminal stations).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The number of stations : 24 stations (including both of the terminal stations).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>複線区間：なし（全線単線）</j>
+<e type="trans" ver="1">The double track section : no (all single track)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The double track section : no (all single track)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The double track section : no (all single track)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>電化区間：全線（直流1500ボルト (単位)）</j>
+<e type="trans" ver="1">The electrified section : all (direct current 1500 volts (unit)).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The electrified section : all (direct current 1500 volts (unit)).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The electrified section : all (direct current 1500 volts (unit)).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>閉塞 (鉄道)：特殊自動閉塞式（軌道回路検知式）</j>
+<e type="trans" ver="1">The block (railway) : The special automatic block system (the track circuit detection method).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The block (railway) : The special automatic block system (the track circuit detection method).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The block (railway) : The special automatic block system (the track circuit detection method).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>最高速度：85km/h</j>
+<e type="trans" ver="1">The maximum speed : 85 km/h</e>
+<cmt></cmt>
+<e type="trans" ver="2">The maximum speed : 85 km/h</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The maximum speed : 85 km/h</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>※両端の駅を除き西日本旅客鉄道金沢支社小浜鉄道部の管轄である（なお、敦賀駅は同支社福井地域鉄道部が管理。東舞鶴駅は西日本旅客鉄道福知山支社直轄）。</j>
+<e type="trans" ver="1">*All the stations, except for the stations of both ends, are under the jurisdiction of Obama Railways Department, Kanazawa Branch Office, West Japan Railway Company (Suruga station is under the jurisdiction of the Fukui Railways Department.</e>
+<cmt></cmt>
+<e type="trans" ver="2">*All the stations, except for the stations at both ends, are under the jurisdiction of Obama Railways Department, Kanazawa Branch Office, West Japan Railway Company (Suruga station is under the jurisdiction of the Fukui Railways Department.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">*All the stations, except for the stations at both ends, are under the jurisdiction of Obama Railways Department, Kanazawa Branch Office, West Japan Railway Company (Tsuruga station is under the jurisdiction of the Fukui Railways Department. Higashi-Maizuru station is under direct jurisdiction of West Japan Railway Company (JR West) Fukuchiyama Branch).</e>
+<cmt>SurugaをTsurugaに変更しました。東舞鶴駅は西日本旅客鉄道福知山支社直轄）。は同じ括弧内なのでここにまとめました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="11">
+<j>若狭湾に沿って敦賀・小浜市・舞鶴の各都市を結ぶ鉄道。</j>
+<e type="trans" ver="1">The railway links Suruga city, Obama city and Maizuru city along Wakasa Bay.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The railway links Suruga city, Obama city and Maizuru city along Wakasa Bay.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The railway links Tsuruga city, Obama city and Maizuru city along Wakasa Bay.</e>
+<cmt>SurugaをTsurugaに変更しました。</cmt>
+</sen>
+<sen id="12">
+<j>沿線には海水浴場が多く、三方五湖といった観光地を控えていることから行楽・観光路線となっているが、沿線の通学としても利用されており、朝夕は一部区間で混雑が激しい。</j>
+<e type="trans" ver="1">As there are many bathing beaches and there is a tourist site like Mikatagoko Lake along the line, the line is regarded as that of resort and tourism, but it is also used as the line of commuters and some sections are very crowded in the morning and evening.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As there are many bathing beaches and there is a tourist site like Mikatagoko Lake along the line, the line is regarded as one of resorts and tourism, but it is also used as the line of commuters and some sections are very crowded in the morning and evening.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">As there are many bathing beaches and there are tourist sites like Mikatagoko Lake along the line, the line is regarded as one of resorts and tourism line, but it is also used as the line of commuters and some sections are very crowded in the morning and evening.</e>
+<cmt>一部、翻訳を変更しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="13">
+<j>小浜線は1922年12月20日に全通したが、これをもって北陸・山陰両線の連絡がなり、これを記念して東舞鶴において「裏日本鉄道全通・新舞鶴港開港記念博覧会」が1923年4月1日から5月10日までの40日間開催された（入場者総数179,982人）。</j>
+<e type="trans" ver="1">Obama Line was wholly opened on December 20, 1922, which enabled Hokuriku Line and Sanin Line to be connected, and commemoratively &quot;Exhibition of opening whole railroads of Japan Sea coastal areas and the Shin-Maizuru-ko Port&quot; was held in Higashi-Maizuru for 40 days from April 1 to May 10 in 1923 (The number of visitors were 179,982).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Obama Line was wholly opened on December 20, 1922, which enabled the Hokuriku Line and the Sanin Line to be connected, and commemoratively &quot;Exhibition of opening whole railroads for Japan Sea coastal areas and the Shin-Maizuru-ko Port&quot; was held in Higashi-Maizuru for 40 days from April 1 to May 10 in 1923 (The number of visitors was 179,982).</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">Obama Line was wholly opened on December 20, 1922, which enabled the Hokuriku Line and the Sanin Line to be connected, and commemoratively &apos;Exhibition of opening whole railroads for Japan Sea coastal areas and the Shin-Maizuru-ko Port&apos; was held in Higashi-Maizuru for 40 days from April 1 to May 10 in 1923 (The total number of visitors was 179,982).</e>
+<cmt>&quot; &quot; を&apos; &apos;に変更しました。Numberの前にtotalを挿入しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="14">
+<j>2003年に鉄道の電化されたが、これは匿名の寄付に加え、地元自治体の積立した資金を利用し、新型車両の導入も合わせて全額地元負担で実現した。</j>
+<e type="trans" ver="1">The Line was electrified in 2003 and a new type of vehicle was also introduced by using the reserve fund of local governments as well as the anonymous contribution and all the expenses were paid by the locals.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line was electrified in 2003 and a new type of vehicle was also introduced by using the reserve fund of local governments as well as anonymous contributions and all expenses were paid by the locals.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">The line was electrified in 2003 and a new type of vehicle was also introduced by using the reserve fund of local governments as well as anonymous contributions and all expenses were paid by the locals.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>ただし、電化費用を抑えるため変電所の数を通常より減らし（80kmを超える路線ながら4箇所しかない）、駅の分岐器には分岐器手動転轍器なども残るうえ区間内に制限速度25km/hの部分があるなど、その施設はローカル私鉄並で、加速度や最高速度を落として運転せざるをえないのが実情である（たとえば通常JR西日本125系電車電車は起動加速度2.5km/h/sであるが小浜線内では1.2km/h/sに落としている。北陸本線運用に入ると本来の加速度を発揮している）。</j>
+<e type="trans" ver="1">However, the number of transformer stations is reduced than usual to minimize the electrification cost (only four transformer stations in more than 80 km Line) and the turnout manual point-switch and so on remains in the station&apos;s turnout and in some sections the speed is limited to 25km/h and so on, whose facilities are in the level of local private railways, and in reality, they have to drive by keeping down the acceleration and the highest speed (for example, usually in JR West Suburban Trains Series 125, the acceleration at start-up is 2.5 km/h/s, but in Obama Line it is reduced to 1.2 km/h/s.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the number of transformer stations is reduced to less than usual to minimize the electrification cost (only four transformer stations in more than 80 km of line) and the turnout manual point-switch and so on remains in the station&apos;s turnout and in some sections the speed is limited to 25km/h and so on, and facilities are at the level of local private railways, and in reality, they have to drive by keeping down the acceleration and the highest speed (for example, usually in JR West Suburban Trains Series 125, the acceleration at start-up is 2.5 km/h/s, but in the Obama Line it is reduced to 1.2 km/h/s.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">However, the number of transformer stations is reduced to less than usual to minimize the electrification cost (only four transformer stations in more than 80 km of line) and the turnout manual point-switch and so on remains in the station&apos;s turnout and in some sections the speed is limited to 25km/h and so on, and facilities are at the level of local private railways, and in reality, they have to drive by keeping down the acceleration and the highest speed (for example, usually in JR West Suburban Trains Series 125, the acceleration at start-up is 2.5 km/h/s, but in the Obama Line it is reduced to 1.2 km/h/s. On the Hokuriku Main Line, the original acceleration is exerted).</e>
+<cmt>北陸本線運用に入ると本来の加速度を発揮している）。の部分は同じ括弧内なのでここにまとめました。</cmt>
+</sen>
+<sen id="16">
+<j>なお、電化の話が浮上した時点から交流電化の話は無かった。</j>
+<e type="trans" ver="1">And since when the electrification was considered, the alternate current electrification had not been mentioned.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And since the time when electrification was considered, alternate current electrification had not been mentioned.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">And since the time when electrification was considered, alternate current electrification had not been mentioned.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="17">
+<j>近年は大阪市内発着の近鉄バスの高速バス路線や近江今津駅で新快速に接続する若江線（西日本ジェイアールバス）に利便性などで押されている。</j>
+<e type="trans" ver="1">Recently, it has been excelled in convenience by the express bus route of Kintetsu Bus Co., Ltd, whose departure and arrival is in Osaka city, and the Jakko Line (West Japan JR Bus Company) connecting with Special Rapid at Omi-Imazu station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Recently, it has been superceded in convenience by the express bus route of Kintetsu Bus Co., Ltd, whose departure and arrival is in Osaka city, and the Jakko Line (West Japan JR Bus Company) connecting with the Special Rapid train at Omi-Imazu station.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">Recently, it has been superseded in convenience by the express bus route of Kintetsu Bus Co., Ltd, whose departure and arrival is in Osaka city, and the Jakko Line (West Japan JR Bus Company) connecting with the Special Rapid train at Omi-Imazu station.</e>
+<cmt>supercededをsupersededに変更しました。</cmt>
+</sen>
+<sen id="18">
+<j>沿線では敦賀まで直流電化されたのを機に北陸本線や湖西線からの直通列車の設定に期待している。</j>
+<e type="trans" ver="1">When the DC electrification was done until Suruga station, the direct line trains from Hokuriku Main Line or Kosei Line are expected to be set up.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When DC electrification was done up until Suruga station, the direct line trains from the Hokuriku Main Line or the Kosei Line are expected to be set up.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">When DC electrification was done up until Suruga station, the direct line trains from the Hokuriku Main Line or the Kosei Line are expected to be set up.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="19">
+<j>各駅にはワンマン運転列車用のほか、車椅子専用の乗車位置が別途に設けられているが、これは2003年暮れに125系の座席増設改造を行い、車椅子での車内移動が困難になったためである。</j>
+<e type="trans" ver="1">At each station, the boarding positions only for the wheel-chairs and for the train which runs without conductors on board are differently set because the number of seats in Suburban Trains Series 125 were increased in late 2003 and it became difficult for the wheel-chairs to move around in a vehicle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At each station, the boarding positions for wheel-chairs and for the train which runs without conductors on board are differently set because the number of seats on Suburban Trains Series 125 was increased in late 2003 and it became difficult for wheel-chairs to move around in the vehicle.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">At each station, the boarding positions for wheel-chairs and for the train which runs without conductors on board are differently set because the number of seats on Suburban Trains Series 125 was increased in late 2003 and it became difficult for wheel-chairs to move around in the vehicle.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>運行形態</j>
+<e type="trans" ver="1">The form of driving</e>
+<cmt></cmt>
+<e type="trans" ver="2">The form of driving</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The form of driving</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="20">
+<j>正式な起点は敦賀駅だが、列車運行上は東舞鶴駅から敦賀駅へ向かう列車が下り、逆方向が上りとなっている。</j>
+<e type="trans" ver="1">The official starting point is Suruga station, but when driving trains, the train from Higashi-Maizuru station to Suruga station is of the down line and the reverse is of the up line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The official starting point is Suruga station, but when driving trains, the train from Higashi-Maizuru station to Suruga station is on the down line and the reverse is on the up line.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">The official starting point is Tsuruga station, but when driving trains, the train from Higashi-Maizuru station to Tsuruga station is on the down line and the reverse is on the up line.</e>
+<cmt>SurugaをTsurugaに変更しました。</cmt>
+</sen>
+<sen id="21">
+<j>これは、敦賀駅で接続する北陸本線、東舞鶴駅で接続する舞鶴線に方向をあわせたためである。</j>
+<e type="trans" ver="1">This is because they met the direction for Hokuriku Main Line connecting at Suruga station and Maizuru Line connecting at Higashi-Maizuru station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is because they met the direction for the Hokuriku Main Line connecting at Suruga station and the Maizuru Line connecting at Higashi-Maizuru station.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">This is because they met the direction for the Hokuriku Main Line connecting at Tsuruga station and the Maizuru Line connecting at Higashi-Maizuru station.</e>
+<cmt>SurugaをTsurugaに変更しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="22">
+<j>定期運転の特別急行列車・急行列車はないが、2007年頃までは京都 - 東舞鶴間の特急「まいづる (列車)」が小浜駅まで臨時に延長運転されていたことがあった。</j>
+<e type="trans" ver="1">There are not a special express train or an express train in regular service, but until around 2007, the limited express train &quot;Maizuru (train)&quot; running between Kyoto and Higashi-Maizuru temporarily ran to Obama station extensionally.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is no special express train or express train in regular service, but until around 2007, the limited express train &quot;Maizuru (train)&quot; running between Kyoto and Higashi-Maizuru temporarily ran to Obama station extensionally.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">There is no special express train or express train in regular service, but until around 2007, the limited express train &apos;Maizuru (train)&apos; running between Kyoto and Higashi-Maizuru temporarily ran to Obama station extensionally.</e>
+<cmt>&quot; &quot;を&apos; &apos;に変更しました。</cmt>
+</sen>
+<sen id="23">
+<j>普通列車はおおむね1 - 2時間に1本程度の運転だが、小浜駅から東舞鶴方面は3時間近く列車がない時間帯がある。</j>
+<e type="trans" ver="1">Approximately one local train runs in each 1 to 2 hours, but there are some time zones when no train runs for nearly three hours between Obama station and Higashi-Maizuru region.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Approximately one local train runs per 1 to 2 hours, but there are some time zones where no train runs for nearly three hours between Obama station and the Higashi-Maizuru region.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">Approximately one local train runs per one to two hours, but there are some time zones where no train runs for nearly three hours between Obama station and the Higashi-Maizuru region.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="24">
+<j>また水曜日に日中の列車が運休となる月もある。</j>
+<e type="trans" ver="1">And in some months, some trains during the day are cancelled on Wednesdays.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And in some months, some trains during the day are cancelled on Wednesdays.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">And in some months, some trains during the day are cancelled on Wednesdays.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>一部の列車が舞鶴線西舞鶴駅を始発としているが、2006年10月20日までは舞鶴線・山陰本線と直通運転を行い綾部駅・福知山駅に乗り入れる列車もあった。</j>
+<e type="trans" ver="1">A part of the trains starts from Nishi-Maizuru station in Maizuru Line, but until October 20, 2006, they were directly connected with Maizuru Line and JR Sanin Main Line and some of them ran to Ayabe station and Fukuchiyama station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A part of the train starts from Nishi-Maizuru station on the Maizuru Line, but until October 20, 2006, they were directly connected with the Maizuru Line and JR Sanin Main Line and some of them ran to Ayabe station and Fukuchiyama station.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">A part of the train starts from Nishi-Maizuru station on the Maizuru Line, but until October 20, 2006, they were directly connected with the Maizuru Line and JR Sanin Main Line and some of them ran to Ayabe station and Fukuchiyama station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>夜の敦賀発の最終列車は快速列車として運行されていたが、2009年3月14日のダイヤ改正で再び普通列車に格下げされ、無人駅における大幅な改善が図られる。</j>
+<e type="trans" ver="1">The last train starting from Suruga station at night ran as a rapid train, but according to the timetable revision on March 14, 2009, it was degraded to the local train and the service in the ghost station was largely improved.</e>
+<cmt>「無人駅における大幅な改善」を、「無人駅におけるサービスの大幅な改善」と取りました。</cmt>
+<e type="trans" ver="2">The last train starting from Suruga station at night ran as a rapid train, but according to the timetable revision on March 14, 2009, it was changed to a local train and the service in the ghost station was largely improved.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">The last train starting from Tsuruga station at night ran as a rapid train, but according to the timetable revision on March 14, 2009, it was changed to a local train and the service in the ghost station was largely improved.</e>
+<cmt>SurugaをTsurugaに変更しました。</cmt>
+</sen>
+<sen id="27">
+<j>一部を除きワンマン運転を実施している。</j>
+<e type="trans" ver="1">Except for a part, the train runs without conductors on board.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Except for a part, the train runs without conductors on board.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Except for a part, the train runs without conductors on board.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>戦後（昭和30年代後半）立て続けに開業した同線内の無人駅すべてに言えることだが、利用者僅少という事情とあいまって1990年代後半までは、普通列車でも通過する列車が何本かあった（西敦賀駅・東美浜駅・気山駅・藤井駅・若狭有田駅・勢浜駅・三松駅がこれに該当）。</j>
+<e type="trans" ver="1">As for all the ghost stations in the Line, which serially opened after the war (the early 1960s), even some of the local trains did not stop at them until the late 1990s because the users decreased (such stations included Nishi-Suruga station, Higashi-Mihama station, Kiyama station, Fujii station, Wakasa-Arita station, Seihama station and Mitsumatsu station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">As for all the ghost stations on the line, which serially opened after the war (the early 1960s), even some of the local trains did not stop at them until the late 1990s because the users decreased (such stations included Nishi-Suruga station, Higashi-Mihama station, Kiyama station, Fujii station, Wakasa-Arita station, Seihama station and Mitsumatsu station).</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">As for all the ghost stations on the line, which serially opened after the war (the early 1960s), even some of the local trains did not stop at them until the late 1990s because the users decreased (such stations included Nishi-Tsuruga station, Higashi-Mihama station, Kiyama station, Fujii station, Wakasa-Arita station, Seihama station and Mitsumatsu station).</e>
+<cmt>SurugaをTsurugaに変更しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="29">
+<j>電化以前は2 - 4両での運用が多く敦賀方面から来た列車が、小浜駅で列車の切り離しを行い前1両は東舞鶴行き（1992年から4年間は天橋立行き、ワンマン運転時にも「お乗り間違いのないようにご注意ください」の注意放送がなされた）になり、後2両は折り返し敦賀行きになるパターンもあったが、電化以降は1 - 2両の運用がほとんどで小浜駅での列車切り離しもなくなった。</j>
+<e type="trans" ver="1">Before the electrification, many trains coming from Suruga region had two to four vehicles, cut off the vehicles at Obama station and the front one vehicle went to Higashi-Maizuru (for four years since 1992, also on the train for Amanohashidate running without conductors on board, the notice &quot;Be careful of not being on a wrong train&quot; was announced) and sometimes the back two vehicles returned to Suruga, but after the electrification, mostly one to two vehicles were used and were not cut off at Obama station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Before the electrification, many trains coming from the Suruga region had two to four vehicles, and separated the vehicles at Obama station and the front vehicle went to Higashi-Maizuru (for four years since 1992, also on the train for Amanohashidate running without conductors on board, the notice &quot;Be careful to not be on the wrong train&quot; was announced) and sometimes the back two vehicles returned to Suruga, but after the electrification, mostly one to two vehicles were used and were not cut off at Obama station.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">Before the electrification, many trains coming from the Tsuruga region had two to four vehicles, and separated the vehicles at Obama station and the front vehicle went to Higashi-Maizuru (for four years since 1992, also on the train for Amanohashidate running without conductors on board, the notice &apos;Be careful to not be on the wrong train&apos; was announced) and sometimes the back two vehicles returned to Tsuruga, but after the electrification, mostly one to two vehicles were used and were not cut off at Obama station.</e>
+<cmt>SurugaをTsurugaに変更しました。&quot; &quot;を&apos; &apos;に変更しました。</cmt>
+</sen>
+<sen id="30">
+<j>しかし、北陸本線の湖北地区が直流化した際に増備された125系電車が北陸本線の直流化された区間の普通列車と共通運用されるようになったために、編成が増強されたことにより2両での運行が増えている。</j>
+<e type="trans" ver="1">However, Suburban Trains Series 125, which were additionally in service when the DC electrification was done in Kohoku region in Hokuriku Main Line, came to be commonly used with the local trains in the DC electrification section and thus the organization was strengthened and the travel by two vehicles has increased.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, Suburban Trains Series 125, which were additionally in service when the DC electrification was done in the Kohoku region on the Hokuriku Main Line, came to be commonly used with the local trains in the DC electrification section and thus the organization was strengthened and travel with two vehicles has increased.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">However, Suburban Trains Series 125, which were additionally in service when the DC electrification was done in the Kohoku region on the Hokuriku Main Line, came to be commonly used with the local trains in the DC electrification section and thus the organization was strengthened and travel with two vehicles has increased.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>なかには、昼間の3両での運転が復活している。</j>
+<e type="trans" ver="1">Among them, the travel by three vehicles during the day revives.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Among them, travel with three vehicles during the day is revived.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">Among them, travel with three vehicles during the day is revived.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="32">
+<j>かつて小浜線は、北陸地方・中京圏方面と山陰地方を結ぶルートとしても利用され、1964年から金沢 - 出雲市間に、1966年から名古屋 - 出雲市間に小浜線・北近畿タンゴ鉄道宮津線経由の急行「はしだて (列車)」が1982年まで、福井 - 天橋立間に「はしだて (列車)」が1982年より1992年まで運行されていた。</j>
+<e type="trans" ver="1">Once, Obama Line was used also as the route linking Hokuriku region, Chukyo-area with Sanin region, and the express train &quot;Hashidate (train),&quot; going through Obama Line and Kitakinki Tango Railway Miyazu Line, ran between Kanazawa and Izumo city from 1964 to1982 and between Nagoya and Izumo city from 1966 to 1982, and it ran between Fukui and Amanohashidate from 1982 to 1992.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Once, Obama Line was used also as the route linking the Hokuriku region, the Chukyo-area with the Sanin region, and the express train &quot;Hashidate (train),&quot; going through the Obama Line and the Kitakinki Tango Railway Miyazu Line, ran between Kanazawa and Izumo city from 1964 to 1982 and between Nagoya and Izumo city from 1966 to 1982, and it ran between Fukui and Amanohashidate from 1982 to 1992.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">Once, Obama Line was used also as the route linking the Hokuriku region, the Chukyo-area with the Sanin region, and the express train &apos;Hashidate (train),&apos; going through the Obama Line and the Kitakinki Tango Railway Miyazu Line, ran between Kanazawa and Izumo city from 1964 to 1982 and between Nagoya and Izumo city from 1966 to 1982, and it ran between Fukui and Amanohashidate from 1982 to 1992.</e>
+<cmt>&quot; &quot;を&apos; &apos;に変更しました。</cmt>
+</sen>
+<sen id="33">
+<j>また、1999年10月まで京都・東舞鶴 - 敦賀間（京都直通は1996年まで）に急行「はしだて (列車)」が運転されていたが、その後電化されるまで優等列車の運転はなくなっていた。</j>
+<e type="trans" ver="1">And until October 1999, the express train &quot;Hashidate (train)&quot; ran between Kyoto, Higashi-Maizuru and Suruga (the direct line to Kyoto was until 1996), but until after the electrification the higher category trains disappeared.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And until October 1999, the express train &quot;Hashidate (train)&quot; ran between Kyoto, Higashi-Maizuru and Suruga (the direct line to Kyoto was until 1996), but after the electrification, the higher category trains disappeared.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">And until October 1999, the express train &apos;Hashidate (train)&apos; ran between Kyoto, Higashi-Maizuru and Tsuruga (the direct line to Kyoto was until 1996), but after the electrification, the higher category trains disappeared.</e>
+<cmt>&quot; &quot;を&apos; &apos;に変更しました。SurugaをTsurugaに変更しました。</cmt>
+</sen>
+<sen id="34">
+<j>こうした事情から「北陸と山陰との架け橋」として謳われたことがある。</j>
+<e type="trans" ver="1">For these reasons, it was called &quot;the bridge between Hokuriku and Sanin.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">For these reasons, it was called &quot;the bridge between Hokuriku and Sanin.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For these reasons, it was called &apos;the bridge between Hokuriku and Sanin.&apos;</e>
+<cmt>&quot; &quot;を&apos; &apos;に変更しました。</cmt>
+</sen>
+<sen id="35">
+<j>ただし、電化後は前述の通り休日などに小浜駅に一部が臨時で乗り入れていただけで本格的な定期運用はない状況である。</j>
+<e type="trans" ver="1">After the electrification, however, just a part of them temporarily went to Obama station on holidays as mentioned before and they are not in a full-fledged regular service.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the electrification, however, just a part of them temporarily went to Obama station on holidays as mentioned before and they are not in a full-fledged regular service.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">After the electrification, however, just a part of them temporarily went to Obama station on holidays as mentioned before and they are not in a full-fledged regular service.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="36">
+<j>そもそも、敦賀 - 京都間は湖西線経由が最短ルートなのに、敦賀経由の直通列車は設定されず、舞鶴線・山陰本線経由で直通列車を設定していたのは、京都・大阪方面から若狭地方西部への出入りに対応したのと、小浜線内の地域輸送とを兼用したためである（例として敦賀 - 福知山間を直通していた普通列車や、東舞鶴以東つまり小浜線内が普通列車となる京都発着の急行「丹後」などが挙げられる）。</j>
+<e type="trans" ver="1">Originally the shortest route between Suruga and Kyoto is by way of Kosei Line, but the direct line going through Suruga was not set up and instead the direct line going through Maizuru Line and Sanin Main Line was set up, because it met the coming and going from Kyoto, Osaka region to the west of Wakasa region and it also undertook the local transportation in Obama Line (for example, we can raise the local trains directly linking Suruga with Fukuchiyama or the express train &quot;Tango&quot; and so on, whose departure and arrival was in Kyoto and which ran as a local train eastward from Higashi-Maizuru, that is, in Obama Line).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Originally the shortest route between Suruga and Kyoto was by way of the Kosei Line, but the direct line going through Suruga was not set up and instead the direct line going through the Maizuru Line and the Sanin Main Line was set up, because it met the coming and going from Kyoto, Osaka region to the west of Wakasa region and it also undertook the local transportation on the Obama Line (for example, we can raise the local trains directly linking Suruga with Fukuchiyama or the express train &quot;Tango&quot; and so on, whose departure and arrival was in Kyoto and which ran as a local train eastward from Higashi-Maizuru, that is, on the Obama Line).</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">Originally the shortest route between Tsuruga and Kyoto was by way of the Kosei Line, but the direct line going through Tsuruga was not set up and instead the direct line going through the Maizuru Line and the Sanin Main Line was set up, because it met the coming and going from Kyoto, Osaka region to the west of Wakasa region and it also undertook the local transportation on the Obama Line (for example, we can raise the local trains directly linking Tsuruga with Fukuchiyama or the express train &apos;Tango&apos; and so on, whose departure and arrival was in Kyoto and which ran as a local train eastward from Higashi-Maizuru, that is, on the Obama Line).</e>
+<cmt>SurugaをTsurugaに変更しました。&quot; &quot;を&apos; &apos;に変更しました。</cmt>
+</sen>
+<sen id="37">
+<j>小浜 - 東舞鶴間は京都から山陰本線・舞鶴線経由が最短ルートで、京都・大阪方面から若狭高浜・若狭本郷方面へのほとんどの乗客は東舞鶴側から出入りしていた。</j>
+<e type="trans" ver="1">The shortest route between Obama and Higashi-Maizuru is by way of Sanin Main Line and Maizuru Line and most of the passengers from Kyoto and Osaka region, who visited Wakasa-Takahama and Wakasa-Hongo region, came and went from Higashi-Maizuru side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The shortest route between Obama and Higashi-Maizuru is by way of the Sanin Main Line and the Maizuru Line and most of the passengers from the Kyoto and Osaka region, who visited Wakasa-Takahama and Wakasa-Hongo region, came and went from the Higashi-Maizuru side.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">The shortest route between Obama and Higashi-Maizuru is by way of the Sanin Main Line and the Maizuru Line and most of the passengers from the Kyoto and Osaka region, who visited Wakasa-Takahama and Wakasa-Hongo region, came and went from the Higashi-Maizuru side.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="38">
+<j>なお、海水浴シーズンに大阪・京都方面から臨時列車が現在よりも多数乗り入れていた。</j>
+<e type="trans" ver="1">And in the season of sea bathing, the special trains from Osaka and Kyoto area went in the Line more than now.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And in the season of sea bathing, special trains from the Osaka and Kyoto area used the line more than now.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">And in the season of sea bathing, special trains from the Osaka and Kyoto area used the line more than now.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>名古屋方面からもJR東海の乗り入れ急行列車「はしだて (列車)」が設定されていた。</j>
+<e type="trans" ver="1">JR Tokai&apos;s express train &quot;Hashidate (train)&quot; going in the Line from Nagoya area was scheduled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR Tokai&apos;s express train &quot;Hashidate (train)&quot; going on the line from the Nagoya area was scheduled.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">JR Tokai&apos;s express train &apos;Hashidate&apos; (train) going on the line from the Nagoya area was scheduled.</e>
+<cmt>&quot; &quot;を&apos; &apos;に変更し、()を外に出しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="40">
+<j>2007年10月から2008年3月まで連続テレビ小説「ちりとてちん (朝ドラ)」が放送され、本編内でも幾度か小浜線が登場するほか、観光客の増加が見込まれるため、放送期間中の土曜と休日のみ敦賀→東舞鶴間、東舞鶴→小浜間（小浜から敦賀行き定期列車）で臨時快速、小浜→若狭高浜間（敦賀発定期列車の延長）、若狭高浜→敦賀間で臨時普通列車の運転が行われた。</j>
+<e type="trans" ver="1">The TV novel series &quot;Chiritotechin (morning drama series)&quot; was broadcast from October 2007 to March 2008 and in the drama Obama Line appeared several times, and as the of number of tourists was expected to increase, special rapid trains ran between Suruga and Higashi-Maizuru, between Higashi-Maizuru and Obama (the regular train for Suruga from Obama) and special local trains ran between Obama and Wakasa-Takahama (the extension of the regular train from Suruga), between Wakasa-Takahama and Suruga only on Saturdays and holidays during the broadcast.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The TV novel series &quot;Chiritotechin (morning drama series)&quot; was broadcast from October 2007 to March 2008 and in the drama Obama Line appeared several times, and as the of number of tourists was expected to increase, special rapid trains ran between Suruga and Higashi-Maizuru, between Higashi-Maizuru and Obama (the regular train for Suruga from Obama) and special local trains ran between Obama and Wakasa-Takahama (the extension of the regular train from Suruga), between Wakasa-Takahama and Suruga only on Saturdays and holidays during the broadcast.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The TV novel series &apos;Chiritotechin&apos; (morning drama series) was broadcast from October 2007 to March 2008 and in the drama Obama Line appeared several times, and as the of number of tourists was expected to increase, special rapid trains ran between Tsuruga and Higashi-Maizuru, between Higashi-Maizuru and Obama (the regular train for Tsuruga from Obama) and special local trains ran between Obama and Wakasa-Takahama (the extension of the regular train from Tsuruga), between Wakasa-Takahama and Tsuruga only on Saturdays and holidays during the broadcast.</e>
+<cmt>&quot; &quot;を&apos; &apos;に変更しました。SurugaをTsurugaに変更しました。</cmt>
+</sen>
+<sen id="41">
+<j>放送終了後の2008年4月以降も、小浜→若狭高浜の列車を除く3本が6月1日までの土曜と休日限定で運行が継続された（ただし若狭高浜→敦賀の列車は小浜→敦賀になった）。</j>
+<e type="trans" ver="1">After April 2008 when the broadcast was over, three of them, except for the trains running from Obama to Wakasa-Takahama, continuously ran only on Saturdays and holidays (however, the trains from Wakasa-Takahama to Suruga was changed to the ones from Obama to Suruga).</e>
+<cmt></cmt>
+<e type="trans" ver="2">After April 2008 when the broadcast was over, three of them, except for the trains running from Obama to Wakasa-Takahama, continuously ran only on Saturdays and holidays (however, the trains from Wakasa-Takahama to Suruga were changed to the ones from Obama to Suruga).</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">After April 2008 when the broadcast was over, three of them, except for the trains running from Obama to Wakasa-Takahama, continuously ran only on Saturdays and holidays (however, the trains from Wakasa-Takahama to Tsuruga were changed to the ones from Obama to Tsuruga).</e>
+<cmt>SurugaをTsurugaに変更しました。</cmt>
+</sen>
+<sen id="42">
+<j>また2009年度も4月4日から5月31日までの土曜・休日限定で、これらの臨時列車が運行されることになった。</j>
+<e type="trans" ver="1">Also in the year 2009, only on Saturdays and holidays from April 4 to May 31, these special trains ran.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also in the year 2009, only on Saturdays and holidays from April 4 to May 31, these special trains ran.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also in the year 2009, only on Saturdays and holidays from April 4 to May 31, these special trains ran.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="43">
+<j>臨時快速の停車駅</j>
+<e type="trans" ver="1">The stops for special rapid trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The stops for special rapid trains.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The stops for special rapid trains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>上り 敦賀 - 粟野 - 美浜 - 三方 - 十村 - 上中 - 東小浜 -（小浜 - 東舞鶴は各駅に停車）</j>
+<e type="trans" ver="1">The up line, Suruga – Awano – Mihama – Mikata – Tomura – Kaminaka – Higashi-Obama – (between Obama and Higashi-Maizure, trains stop at every station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The up line, Suruga – Awano – Mihama – Mikata – Tomura – Kaminaka – Higashi-Obama – (between Obama and Higashi-Maizuru, trains stop at every station).</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">The up line, Tsuruga – Awano – Mihama – Mikata – Tomura – Kaminaka – Higashi-Obama – (between Obama and Higashi-Maizuru, trains stop at every station).</e>
+<cmt>SurugaをTsurugaに変更しました。</cmt>
+</sen>
+<sen id="45">
+<j>下り 東舞鶴 - 若狭高浜 - 若狭本郷 - 小浜</j>
+<e type="trans" ver="1">The down line, Higashi-Maizuru – Wakasa-Takahama – Wakasa-Hongo - Obama</e>
+<cmt></cmt>
+<e type="trans" ver="2">The down line, Higashi-Maizuru – Wakasa-Takahama – Wakasa-Hongo - Obama</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The down line, Higashi-Maizuru – Wakasa-Takahama – Wakasa-Hongo - Obama</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="5">
+<tit>
+<j>1895年（明治28年）</j>
+<e type="trans" ver="1">In 1895</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1895</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In 1895</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="46">
+<j>- 鉄道敷設法に「舞鶴ヨリ福井県小浜ヲ経テ敦賀ニ至ル鉄道」が追加。</j>
+<e type="trans" ver="1">- In Tetsudo Fusetsu Ho (Railroad Construction Law), &quot;the railway running from Maizuru through Obama, Fukui prefecture to Suruga&quot; was added.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- In Tetsudo Fusetsu Ho (Railroad Construction Law), &quot;the railway running from Maizuru through Obama, Fukui prefecture to Suruga&quot; was added.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- In Tetsudo Fusetsu Ho (Railroad Construction Law), &apos;the railway running from Maizuru through Obama, Fukui prefecture to Tsuruga&apos; was added.</e>
+<cmt>&quot; &quot;を&apos; &apos;に変更しました。SurugaをTsurugaに変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>1904年（明治37年）</j>
+<e type="trans" ver="1">In 1904</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1904</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In 1904</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="47">
+<j>- 敦鶴線として建設用地調査。</j>
+<e type="trans" ver="1">The construction site was investigated for Tonkaku Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The construction site was investigated for the Tonkaku Line.</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">The construction site was investigated for the Tonkaku Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>1917年（大正6年）12月15日</j>
+<e type="trans" ver="1">On December 15, 1917</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 15, 1917</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On December 15, 1917</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="48">
+<j>- 小浜線 敦賀 - 十村間（18.2マイル≒29.29km）が開業。</j>
+<e type="trans" ver="1">- Obama Line between Suruga and Tomura (18.2 miles ≒29.29km) opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Obama Line between Suruga and Tomura (18.2 miles ≒29.29km) opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Obama Line between Tsuruga and Tomura (18.2 miles ≒29.29km) opened.</e>
+<cmt>SurugaをTsurugaに変更しました。</cmt>
+</sen>
+<sen id="49">
+<j>粟野駅、河原市駅、三方駅、十村駅開業。</j>
+<e type="trans" ver="1">Awano station, Kawaraichi station, Mikata station and Tomura station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Awano station, Kawaraichi station, Mikata station and Tomura station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Awano station, Kawaraichi station, Mikata station and Tomura station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>1918年（大正7年）11月10日</j>
+<e type="trans" ver="1">On November 10, 1918</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 10, 1918</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On November 10, 1918</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="50">
+<j>- 十村 - 小浜間（12.5M≒20.12km）が延伸開業。</j>
+<e type="trans" ver="1">- The line between Tomura and Obama (12.5 M≒20.12km) was extensionally opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Tomura and Obama (12.5 M≒20.12km) was extensionally opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- The line between Tomura and Obama (12.5 M≒20.12km) was extensionally opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="51">
+<j>大鳥羽駅、三宅駅、新平野駅、小浜駅開業。</j>
+<e type="trans" ver="1">Otoba station, Miyake station, Shin-Hirano station and Obama station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Otoba station, Miyake station, Shin-Hirano station and Obama station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Otoba station, Miyake station, Shin-Hirano station and Obama station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>1921年（大正10年）4月3日</j>
+<e type="trans" ver="1">On April 3, 1921</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 3, 1921</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On April 3, 1921</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="52">
+<j>- 小浜 - 若狭高浜間（12.1M≒19.47km）が延伸開業。</j>
+<e type="trans" ver="1">- The line between Obama and Wakasa-Takahama (12.1M≒19.47km) was extensionally opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Obama and Wakasa-Takahama (12.1M≒19.47km) was extensionally opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- The line between Obama and Wakasa-Takahama (12.1M≒19.47km) was extensionally opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>加斗駅、若狭本郷駅、若狭高浜駅開業。</j>
+<e type="trans" ver="1">Kato station, Wakasa-Hongo station, Wakasa-Takahama station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kato station, Wakasa-Hongo station, Wakasa-Takahama station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kato station, Wakasa-Hongo station, Wakasa-Takahama station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="10">
+<tit>
+<j>1922年（大正11年）12月20日</j>
+<e type="trans" ver="1">On December 20, 1922</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 20, 1922</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On December 20, 1922</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="54">
+<j>- 若狭高浜 - 新舞鶴間（9.6M≒15.45km）が延伸開業し全通。</j>
+<e type="trans" ver="1">- The line between Wakasa-Takahama and Shin-Maizuru (9.6M≒15.45km) was extensionally opened and completed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Wakasa-Takahama and Shin-Maizuru (9.6M≒15.45km) was extensionally opened and completed.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- The line between Wakasa-Takahama and Shin-Maizuru (9.6M≒15.45km) was extensionally opened and completed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="55">
+<j>松尾寺駅開業。</j>
+<e type="trans" ver="1">Matsunoodera station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Matsunoodera station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Matsunoodera station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="11">
+<tit>
+<j>1925年（大正14年）6月26日</j>
+<e type="trans" ver="1">On June 26, 1925</e>
+<cmt></cmt>
+<e type="trans" ver="2">On June 26, 1925</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On June 26, 1925</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="56">
+<j>- 若狭和田仮停車場開業。</j>
+<e type="trans" ver="1">- Wakasa-Wada temporal station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Wakasa-Wada temporal station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Wakasa-Wada temporal station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="12">
+<tit>
+<j>1930年（昭和5年）4月1日</j>
+<e type="trans" ver="1">On April 1, 1930</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1930</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On April 1, 1930</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="57">
+<j>- マイル表示からキロ表示に変更（52.4M→84.3km）。</j>
+<e type="trans" ver="1">- The indication by mile was changed to the one by kilometer (52.4M=&gt;84.3km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The indication in miles was changed to kilometers (52.4M=&gt;84.3km).</e>
+<cmt>slight modification</cmt>
+<e type="check" ver="1">- The indication in miles was changed to kilometers (52.4M=&gt;84.3km).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="13">
+<tit>
+<j>1934年（昭和9年）6月1日</j>
+<e type="trans" ver="1">On June 1, 1934</e>
+<cmt></cmt>
+<e type="trans" ver="2">On June 1, 1934</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On June 1, 1934</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="58">
+<j>- 若狭和田仮停車場が駅に昇格し若狭和田駅開業。</j>
+<e type="trans" ver="1">- Wakasa-Wada temporal station was upgraded to the station and Wakasa-Wada station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Wakasa-Wada temporal station was upgraded to the station and Wakasa-Wada station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Wakasa-Wada temporal station was upgraded to the station and Wakasa-Wada station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="14">
+<tit>
+<j>1939年（昭和14年）6月1日</j>
+<e type="trans" ver="1">On June 1, 1939</e>
+<cmt></cmt>
+<e type="trans" ver="2">On June 1, 1939</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On June 1, 1939</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="59">
+<j>- 新舞鶴駅が東舞鶴駅に改称。</j>
+<e type="trans" ver="1">- Shin-Maizuru station changed to Higashi-Maizuru station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Shin-Maizuru station changed to Higashi-Maizuru station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Shin-Maizuru station changed to Higashi-Maizuru station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="15">
+<tit>
+<j>1940年（昭和15年）11月1日</j>
+<e type="trans" ver="1">On November 1, 1940</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 1, 1940</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On November 1, 1940</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="60">
+<j>- 青郷駅開業。</j>
+<e type="trans" ver="1">- Aonogo station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Aonogo station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Aonogo station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="16">
+<tit>
+<j>1953年（昭和28年）8月14日</j>
+<e type="trans" ver="1">On August 14, 1953</e>
+<cmt></cmt>
+<e type="trans" ver="2">On August 14, 1953</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On August 14, 1953</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="61">
+<j>- 東小浜駅開業。</j>
+<e type="trans" ver="1">- Higashi-Obama station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Higashi-Obama station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Higashi-Obama station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="17">
+<tit>
+<j>1956年（昭和31年）4月10日</j>
+<e type="trans" ver="1">On April 10, 1956</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 10, 1956</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On April 10, 1956</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="62">
+<j>- 河原市駅を美浜駅に、三宅駅を上中駅に改称。</j>
+<e type="trans" ver="1">- Kawaraichi station changed to Mihama station and Miyake station to Kaminaka station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Kawaraichi station changed to Mihama station and Miyake station to Kaminaka station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Kawaraichi station changed to Mihama station and Miyake station to Kaminaka station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="18">
+<tit>
+<j>1961年（昭和36年）7月15日</j>
+<e type="trans" ver="1">On July 15, 1961</e>
+<cmt></cmt>
+<e type="trans" ver="2">On July 15, 1961</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On July 15, 1961</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="63">
+<j>- 勢浜駅、三松駅開業。</j>
+<e type="trans" ver="1">- Seihama station and Mitsumatsu station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Seihama station and Mitsumatsu station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Seihama station and Mitsumatsu station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="19">
+<tit>
+<j>1961年（昭和36年）8月1日</j>
+<e type="trans" ver="1">On August 1, 1961</e>
+<cmt></cmt>
+<e type="trans" ver="2">On August 1, 1961</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On August 1, 1961</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="64">
+<j>- 東美浜駅、気山駅、藤井駅開業。</j>
+<e type="trans" ver="1">- Higashi-Mihama station, Kiyama station and Fujii station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Higashi-Mihama station, Kiyama station and Fujii station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Higashi-Mihama station, Kiyama station and Fujii station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="20">
+<tit>
+<j>1962年（昭和37年）9月1日</j>
+<e type="trans" ver="1">On September 1, 1962</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 1, 1962</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On September 1, 1962</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="65">
+<j>- 西敦賀駅開業。</j>
+<e type="trans" ver="1">- Nishi-Suruga station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Nishi-Suruga station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Nishi-Tsuruga station opened.</e>
+<cmt>SurugaをTsurugaに変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="21">
+<tit>
+<j>1964年（昭和39年）6月20日</j>
+<e type="trans" ver="1">On June 20, 1964</e>
+<cmt></cmt>
+<e type="trans" ver="2">On June 20, 1964</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On June 20, 1964</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="66">
+<j>- 若狭有田駅開業。</j>
+<e type="trans" ver="1">Wakasa-Arita station opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wakasa-Arita station opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Wakasa-Arita station opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="22">
+<tit>
+<j>1981年（昭和56年）8月25日</j>
+<e type="trans" ver="1">On August 25, 1981</e>
+<cmt></cmt>
+<e type="trans" ver="2">On August 25, 1981</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On August 25, 1981</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="67">
+<j>- 蒸気機関車国鉄C56形蒸気機関車160号による「SLわかさ号」を敦賀 - 小浜で運転。</j>
+<e type="trans" ver="1">&quot;SL Wakasa&quot; by Kokutetsu C56 Steam Locomotive 160 ran between Suruga and Obama.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;SL Wakasa&quot; by Kokutetsu C56 Steam Locomotive 160 ran between Suruga and Obama.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">SL Wakasa&apos; by Kokutetsu C56 Steam Locomotive 160 ran between Tsuruga and Obama.</e>
+<cmt>&quot; &quot;を&apos; &apos;に変更しました。SurugaをTsurugaに変更しました。</cmt>
+</sen>
+<sen id="68">
+<j>31日まで。</j>
+<e type="trans" ver="1">Until August 31.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Until August 31.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Until August 31.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="23">
+<tit>
+<j>1987年（昭和62年）4月1日</j>
+<e type="trans" ver="1">On April 1, 1987</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1987</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On April 1, 1987</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="69">
+<j>- 国鉄分割民営化により西日本旅客鉄道が継承。</j>
+<e type="trans" ver="1">West Japan Railway Company succeeded it from the division and privatization of JNR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company succeeded it from the division and privatization of JNR.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company succeeded it from the division and privatization of JNR.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="70">
+<j>日本貨物鉄道が全線の鉄道事業者となる。</j>
+<e type="trans" ver="1">Japan Freight Railway Company became the railway enterprise for the whole Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Japan Freight Railway Company became the railway enterprise for the whole Line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Japan Freight Railway Company became the railway enterprise for the whole Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="24">
+<tit>
+<j>1991年（平成3年）4月1日</j>
+<e type="trans" ver="1">On April 1, 1991</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1991</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On April 1, 1991</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="71">
+<j>- 小浜鉄道部発足。</j>
+<e type="trans" ver="1">- Obama railway department was inaugurated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Obama railway department was inaugurated.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Obama railway department was inaugurated.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="25">
+<tit>
+<j>1992年（平成4年）3月14日</j>
+<e type="trans" ver="1">On March 14, 1992</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 14, 1992</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 14, 1992</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="72">
+<j>- ワンマン運転開始。</j>
+<e type="trans" ver="1">- The train which runs without conductors on board began to run.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The train which runs without conductors on board began to run.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- The train which runs without conductors on board began to run.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="26">
+<tit>
+<j>1993年（平成5年）3月18日</j>
+<e type="trans" ver="1">On March 18, 1993</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 18, 1993</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 18, 1993</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="73">
+<j>- 全列車敦賀駅発着に統一。</j>
+<e type="trans" ver="1">- All the trains were unified to arrive at and depart from Suruga station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- All the trains were unified to arrive at and depart from Suruga station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- All the trains were unified to arrive at and depart from Tsuruga station.</e>
+<cmt>SurugaをTsurugaに変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="27">
+<tit>
+<j>1997年（平成9年）3月22日</j>
+<e type="trans" ver="1">On March 22, 1997</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 22, 1997</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 22, 1997</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="74">
+<j>- 敦賀 - 松尾寺間の貨物列車設定廃止。</j>
+<e type="trans" ver="1">- The freight trains between Suruga and Matsunoodera were done away with.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The freight trains between Suruga and Matsunoodera were done away with.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- The freight trains between Tsuruga and Matsunoodera were done away with.</e>
+<cmt>SurugaをTsurugaに変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="28">
+<tit>
+<j>1999年（平成11年）4月1日</j>
+<e type="trans" ver="1">On April 1, 1999</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1999</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On April 1, 1999</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="75">
+<j>- 日本貨物鉄道の第二種鉄道事業廃止。</j>
+<e type="trans" ver="1">- Type II Railway Business of Japan Freight Railway Company was done away with.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Type II Railway Business of Japan Freight Railway Company was done away with.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Type II Railway Business of Japan Freight Railway Company was done away with.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="29">
+<tit>
+<j>1999年（平成11年）10月2日</j>
+<e type="trans" ver="1">On October 2, 1999</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 2, 1999</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On October 2, 1999</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="76">
+<j>- 舞鶴線との直通運転を中止。</j>
+<e type="trans" ver="1">- The direct line to Maizuru Line was cancelled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The direct line to Maizuru Line was cancelled.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- The direct line to Maizuru Line was cancelled.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="30">
+<tit>
+<j>2003年（平成15年）3月15日</j>
+<e type="trans" ver="1">On March 15, 2003</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 15, 2003</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 15, 2003</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="77">
+<j>- 敦賀 - 東舞鶴間が電化。</j>
+<e type="trans" ver="1">- The line between Suruga and Higashi-Maizuru was electrified.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The line between Suruga and Higashi-Maizuru was electrified.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- The line between Tsuruga and Higashi-Maizuru was electrified.</e>
+<cmt>SurugaをTsurugaに変更しました。</cmt>
+</sen>
+<sen id="78">
+<j>125系電車投入。</j>
+<e type="trans" ver="1">Suburban Trains Series 125 started to run.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Suburban Trains Series 125 started to run.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Suburban Trains Series 125 started to run.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="79">
+<j>舞鶴線との直通運転を再開。</j>
+<e type="trans" ver="1">The direct line to Maizuru Line was reopened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The direct line to Maizuru Line was reopened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The direct line to Maizuru Line was reopened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="31">
+<tit>
+<j>2006年（平成18年）10月21日</j>
+<e type="trans" ver="1">On October 21, 2006</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 21, 2006</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On October 21, 2006</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="80">
+<j>- 運用車両をすべて125系電車に統一。</j>
+<e type="trans" ver="1">- The trains were unified to be Suburban Trains Series 125.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- The trains were unified to be Suburban Trains Series 125.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- The trains were unified to be Suburban Trains Series 125.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="81">
+<j>同系初の3・4両ならびにツーマン運転開始。</j>
+<e type="trans" ver="1">Three or four vehicles of the same series, which runs with conductors on board, started to run.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Three or four vehicles of the same series, which runs with conductors on board, started to run.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Three or four vehicles of the same series, which runs with conductors on board, started to run.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="82">
+<j>同時に6両追加導入。</j>
+<e type="trans" ver="1">At the same time, the six vehicles were additionally introduced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the same time, the six vehicles were additionally introduced.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At the same time, the six vehicles were additionally introduced.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="83">
+<j>舞鶴線との直通運転を廃止。</j>
+<e type="trans" ver="1">The direct line to Maizuru Line was done away with.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The direct line to Maizuru Line was done away with.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The direct line to Maizuru Line was done away with.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="32">
+<tit>
+<j>2009年（平成21年）3月14日</j>
+<e type="trans" ver="1">On March 14, 2009</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 14, 2009</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On March 14, 2009</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="84">
+<j>- 521系電車運行開始。</j>
+<e type="trans" ver="1">- Suburban Trains Series 521 started to run.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Suburban Trains Series 521 started to run.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Suburban Trains Series 521 started to run.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="33">
+<tit>
+<j>駅一覧</j>
+<e type="trans" ver="1">The list of the stations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The list of the stations.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The list of the stations.</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="85">
+<j>凡例</j>
+<e type="trans" ver="1">Explanatory note.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Explanatory note.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Explanatory note.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="86">
+<j>列車交換 … ◇・∨・∧：交換可、｜：交換不可</j>
+<e type="trans" ver="1">The exchange of the trains … ◇・∨・∧ : interchangeable ｜: not iterchangeable</e>
+<cmt></cmt>
+<e type="trans" ver="2">The exchange of the trains … ◇・∨・∧ : interchangeable ｜: not iterchangeable</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The exchange of the trains … ◇・∨・∧ : interchangeable ｜: not interchangeable</e>
+<cmt>iterchangeableをinterchangeable に変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 AlleborgoBot(id:119729), クモハモハ大王(id:185685), Nnh(id:474), FREEZA(id:68069), Mkb(id:11233), Wikipedianet(id:9608), Tribot(id:186681), エアスマップIRE(id:13873), Mop(id:12061), Uenokami(id:179211), RailRider(id:239245), 継之助(id:39352), KTM(id:18085), Kone(id:377), Hirotaro(id:1437), Mahorosan10(id:127939), Pxc06142(id:296640), Sea of Japan(id:3230), Ki-palm(id:28338), 韓国と音楽を愛する男(id:59246), Root2004(id:14355), Tigers0022(id:59186), Sat.K(id:3751), Mover(id:7146), Tcyiswalk(id:7279), Chopper(id:16917), Utsuda(id:605), 彩雲館主人(id:72631), Rusk(id:9895), Kouchiumi(id:19253), 金山銀山銅山(id:163855), CC(id:4162), Mutumi06(id:82739), 金治(id:293255), 210.(id:9838), Super Hatsukari(id:46966), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

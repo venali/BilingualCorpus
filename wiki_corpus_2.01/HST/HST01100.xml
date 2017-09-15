@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>番屋</j>
+<e type="trans" ver="1">Banya</e>
+<cmt></cmt>
+<e type="trans" ver="2">Banya</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Banya</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>番屋（ばんや）</j>
+<e type="trans" ver="1">Banya</e>
+<cmt></cmt>
+<e type="trans" ver="2">Banya (a simple lodging house)</e>
+<cmt>英訳を加えました。</cmt>
+<e type="check" ver="1">Banya (a simple lodging house)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>江戸時代に、日本の消防歴史、自警団の役割をしていた自身番の詰所のこと。</j>
+<e type="trans" ver="1">A facility during the Edo Period, important in the Japanese history of firefighting, that served as a station for the common folk who volunteered in security patrol and firefighting (jishinban).</e>
+<cmt></cmt>
+<e type="trans" ver="2">They were stations for guards (jishinban) during the Edo period, who worked as vigilante corps (jikeidan), which made the history of firefighting in Japan.</e>
+<cmt>文章にするために主語を入れ、多数あったものなので複数形にしました。また「自警団」に相当する英語vigilante corpsを使用しました。また、「重要」という言葉が原文にないためimportantを削除し、日本の消防の歴史を作ったものとして解釈しました。</cmt>
+<e type="check" ver="1">They were stations for guards (jishinban) during the Edo period, who worked as vigilante corps (jikeidan), which made the history of firefighting in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>木戸番や火の見櫓を併設していることが多く江戸や大坂、京都などの大都市、地方の城下町で見られた。</j>
+<e type="trans" ver="1">Banya was often found in Edo, where it served also as fire watch and security stations, and in other major cities of Osaka and Kyoto, as well as castle towns in other regions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Banya often had lodges and a fire watchtowers, and were seen in major cities such as Edo, Osaka and Kyoto, and in castle towns in the countryside.</e>
+<cmt>木戸番や火の見櫓を「兼ねている」のではなく「併設している」のでserveの代わりにhaveを用いました。木戸番は小屋と解釈し、lodgeに変え、木戸番と火の見櫓の語順を原文通りに戻しました。また上に倣い複数形にしてあります。それから「ほかの大都市」とならないようotherを削除し、地方を田舎の意味で捉えcountrysideを使用しました。</cmt>
+<e type="check" ver="1">Banya often had lodges and a fire watchtowers, and were seen in major cities such as Edo, Osaka and Kyoto, and in castle towns in the countryside.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>自身番は、地元住民が交代で役割を担っていたことから、現在も地域の安全の拠点となる消防団の詰所や公民館として跡地が残る場所が多い。</j>
+<e type="trans" ver="1">Because the jishinban was comprised of local citizens working in shifts, the tradition lives to this day, with volunteer firefighting stations in various communities serving as a safety center for the local residents and some older stations transformed into civic centers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because local citizens took turns to work as guards, the tradition lives to this day, and many of these stations remain today as volunteer fire stations, which are bases for local security, or community centers.</e>
+<cmt>自身番は直前の文にないため英語のguardで置き換えました。また地域の安全の拠点はsafety centerという場所が存在するという語弊を招くため、逐語訳に変えました。公民館はより使用頻度の高いcommunity centerで置き換えました。</cmt>
+<e type="check" ver="1">Because local citizens took turns to work as guards, the tradition lives to this day, and many of these stations remain today as volunteer fire stations, which are bases for local security, or community centers.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>交番の元祖とも言える施設。</j>
+<e type="trans" ver="1">It can be regarded the origin of the koban (the local police box).</e>
+<cmt></cmt>
+<e type="trans" ver="2">They can be also regarded as the origin of koban (police boxes).</e>
+<cmt>localは不要なので削除し、複数形にしました。</cmt>
+<e type="check" ver="1">They can be also regarded as the origin of koban (police boxes).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>漁民が、漁場の近くの海岸線に作る作業場兼宿泊施設のこと。</j>
+<e type="trans" ver="1">Banya is a facility set up close to the coast near fishing grounds, used by fishermen as sleeping quarters and workplace.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Banya also means facilities for fishermen&apos;s lodgings and workshops set up along the coast near fishing grounds.</e>
+<cmt>ここでは違う番屋についての記述になっているため、also meansを用いて書き換えました。宿泊「街」ではなく「施設」なのでquarterをlodgingにしました。また仕事場ではなく作業場の雰囲気を出すため、一般的な訳workshopに変えました。「近く」は原文に一度しか出てこないため、最初のclose toは削除しました。</cmt>
+<e type="check" ver="1">Banya also means facilities for fishermen&apos;s lodgings and workshops set up along the coast near fishing grounds.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>現在でも、日本各地の離島や山間僻地の海岸に見られる。</j>
+<e type="trans" ver="1">They are still found today in the remote islands of Japan, as well as along the coasts of remote areas isolated by mountains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They are still found today on remote islands of Japan and along the coasts of isolated areas in the mountains.</e>
+<cmt>島なのでin ではなくonに修正しました。原文に「～と同様に」が無いためas well asを削除しました。山間僻地は山によって隠されているのではなく、山の中に隠れてしまっていると解釈し、byの代わりにinを用いました。</cmt>
+<e type="check" ver="1">They are still found today on remote islands of Japan and along the coasts of isolated areas in the mountains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>日本海沿岸に残る鰊御殿は、番屋の一種ともいえる。</j>
+<e type="trans" ver="1">Nishin-goten (herring castle) found along the coast of Sea of Japan can be regarded a type of banya.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishin-goten (herring castles) remaining along the coast of the Sea of Japan can be regarded as a type of banya.</e>
+<cmt>鰊御殿は複数あるため複数形にし、原文の「残る」に合うようfoundの代わりにremainingを使いました。またregardはasを入れた方が分かりやすいので入れました。</cmt>
+<e type="check" ver="1">Nishin-goten (herring castles) remaining along the coast of the Sea of Japan can be regarded as a type of banya.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>ユースホステルとして利用されているものもある（桃岩荘ユースホステル）。</j>
+<e type="trans" ver="1">Some are being used also as youth hostels (Momoiwaso Youth Hostel).</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are some banya now used as youth hostels (e.g. Momoiwaso Youth Hostel).</e>
+<cmt>桃岩荘ユースホステルは一例であることを示すためe.g.を加えました。</cmt>
+<e type="check" ver="1">There are some banya now used as youth hostels (e.g. Momoiwaso Youth Hostel).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 橄欖岩(id:24996), Yukuy(id:249197), 0null0(id:582), 水野白楓(id:22811), G.miyanomori(id:9984), Shimoxx(id:9332), 伏儀(id:142093), 大六天(id:191403), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

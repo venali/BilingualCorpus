@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>干物</j>
+<e type="trans" ver="1">Dried Fish</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dried Fish</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Dried Fish</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>干物（ひもの、英語 Dried fish）とは、魚などの魚介類の身を干した加工食品。</j>
+<e type="trans" ver="1">Himono (dried fish) is a generic term for cured foods made by drying various sea food such as fish.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Himono (dried fish) is a generic term for processed foods made by drying various sea foods such as fish.</e>
+<cmt>cured→processedfood→food</cmt>
+<e type="check" ver="1">Himono (dried fish) is a generic term for processed foods made by drying various sea foods such as fish.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>干すことで表面に固い膜を作り、保存性が高まる。</j>
+<e type="trans" ver="1">When dried, the surface of seafood looks hard and dry which ensures better shelf life.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Drying makes the surface of seafood become hard, which ensures a better shelf life.</e>
+<cmt>looks→becomeWhen dried,→Drying makesand dry→削除hard の後にカンマbetter→a better</cmt>
+<e type="check" ver="1">Drying makes the surface of seafood become hard, which ensures a better shelf life.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>また、独特の食感とそれに伴う食味も形成される。</j>
+<e type="trans" ver="1">The drying process also adds the distinct texture and flavor to the seafood.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">The drying process also makes the distinct texture and taste to the seafood.</e>
+<cmt>adds→makesflavor→taste</cmt>
+<e type="check" ver="1">The drying process also makes the distinct texture and taste to the seafood.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>身を開き、内臓を取り除いてから干す加工法が一般的だが、いわしなど小型の魚はそのまま干して「丸干し」として食用に供することもある。</j>
+<e type="trans" ver="1">Fish is generally cleaned, butterflied and dried but small fish such as sardines, however, are normally dried whole and served as &apos;Maruboshi&apos;(dried whole fish).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fish is generally cleaned, butterflied and dried but small fish such as sardines are normally dried whole and served as &apos;Maruboshi&apos;(dried whole fish).</e>
+<cmt>however 削除</cmt>
+<e type="check" ver="1">Fish is generally cleaned, butterflied and dried but small fish such as sardines are normally dried whole and served as &apos;Maruboshi&apos;(dried whole fish).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>魚が豊富に捕れる地域で行われる加工法であり、日本のみならず世界各国で作られている。</j>
+<e type="trans" ver="1">It is a common curing method used in areas where there is a large volume of fish catches and dried fish is being produced in all the countries around the world in addition to Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a common processing method used in areas where there is a large volume of fish catches and dried fish is being produced in all the countries around the world in addition to Japan.</e>
+<cmt>curing→processingNC_CheckIs this sentence redundant?</cmt>
+<e type="check" ver="1">This is a common processing method used in areas where there is a large volume of fish caught and dried fish is being produced in countries around the world in addition to Japan.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>日本ではご飯、味噌汁、漬物、卵焼き、海苔と並んで和食の朝食には欠かせない一品である。</j>
+<e type="trans" ver="1">In Japan, along with rice, miso soup, pickles, Japanese omelet and nori seaweed sheet, dried fish is one of the essential items on the breakfast table.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Aong with rice, miso soup, pickles, Japanese omelet and nori seaweed sheet, dried fish is one of the essential items on the breakfast table in Japan.</e>
+<cmt>in Japan 文末にしました。</cmt>
+<e type="check" ver="1">Aong with rice, miso soup, pickles, Japanese omelet and nori seaweed sheet, dried fish is one of the essential items on the breakfast table in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>また全国の海辺では土産品としてよく使われている。</j>
+<e type="trans" ver="1">It is also popular as souveniers in the oceanfront areas throughout Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also popular as a souvenier in the oceanfront areas throughout Japan.</e>
+<cmt>souveniers→a souvenier</cmt>
+<e type="check" ver="1">It is also popular as a souvenier in the oceanfront areas throughout Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>同じ魚介類の乾燥品としては乾物もあるが、乾物は身の一部または全てを完全乾燥させて作られている。</j>
+<e type="trans" ver="1">Kanbutsu (dry food) is another form of dried seafood but is made by thoroughly drying part or whole seafood.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanbutsu (dry food) is another form of dried seafood but is made by thoroughly drying part or whole seafood.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Kanbutsu (dry food) is another form of dried seafood, but is made by thoroughly drying part of it, or the whole seafood.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="9">
+<j>干物は風通しを特に重要視するため、乾燥した空気が吹き込む冬場の物が美味しいとされている。</j>
+<e type="trans" ver="1">Ventilation is considered particularly important when making dried fish whereby it is believed that the best dried fish is made when it is exposed to the blowing dry air in winter.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ventilation is considered particularly important when making dried fish whereby it is believed that the best dried fish is made when it is exposed to the blowing dry air in winter.</e>
+<cmt>NC_CheckIs this sentence redundant?</cmt>
+<e type="check" ver="1">Ventilation is considered particularly important when making dried fish and it is believed that the best dried fish is produced when it is exposed to dry air blowing in winter.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="10">
+<j>また、夏場は日光に当てると煮立ってしまい美味しさを損ねる。</j>
+<e type="trans" ver="1">In summer, the heat of the intense sun cooks fish spoiling its flavor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In summer, the heat of the intense sun cooks fish spoiling its flavor.</e>
+<cmt>NC_CheckIs this sentence redundant?</cmt>
+<e type="check" ver="1">In summer, the intense heat of the sun cooks the fish spoiling its flavor.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="11">
+<j>この為日陰干しが美味しいと言われている。</j>
+<e type="trans" ver="1">In view of the foregoing, it is said that shade-dried fish tastes better.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In view of the foregoing, it is said that shade-dried fish tastes better.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In view of the foregoing, it is said that shade-dried fish tastes better.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="12">
+<j>実際に天日干しと言っても１時間程度干すだけであとは影にて干す事が多い。</j>
+<e type="trans" ver="1">Even when the term &apos;drying in the sun&apos; is used, it is common to dry fish in the sun for approximately 1 hour and is then brought in the shade for the rest of drying process.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even when the term &apos;drying in the sun&apos; is used, it is common to dry fish in the sun for approximately one hour and is then brought in the shade for the rest of drying process.</e>
+<cmt>数字表記変更NC_Check</cmt>
+<e type="check" ver="1">Even when the term &apos;drying in the sun&apos; is used, it is common to dry fish in the sun for approximately one hour and then placed into the shade for the rest of drying process.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="13">
+<j>本稿の写真では天日で干しているが、その時間も短時間で、干したあと1時間程度で直ぐに販売される。</j>
+<e type="trans" ver="1">The photograph accompanying this article shows fish drying in the sun but fish stays in the sun for a very brief period of time and, approximately in an hour after being dried, fish will become available for sale.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The photograph accompanying this article shows fish drying in the sun but fish stays in the sun for a very brief period of time and, approximately in an hour after being dried, fish will become available for sale.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">The photograph accompanying this article shows fish drying in the sun, but they remain in the sun for a very brief period and approximately one hour after being dried, the fish will be available to sell.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="14">
+<j>干物の種類</j>
+<e type="trans" ver="1">Types of Dried Fish</e>
+<cmt></cmt>
+<e type="trans" ver="2">Types of Dried Fish</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Types of Dried Fish</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>素干し</j>
+<e type="trans" ver="1">Suboshi (whole wind died fish)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Suboshi (whole wind died fish)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Suboshi (whole wind died fish)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>昔からの干物である。</j>
+<e type="trans" ver="1"></e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">This method has been done since olden days.</e>
+<cmt>訳漏れ対応しました。</cmt>
+<e type="check" ver="1">This method has been done since olden days.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>保存性を重視し細菌類の繁殖を抑えるため、長い日数をかけて干し、かなりの水分を抜いていたが、風味が抜け身が硬くなり食感が悪くなる欠点がある。</j>
+<e type="trans" ver="1">With this long-standing method, the importance is placed on an extended shelf-life of the product whereby, to control the growth of bacteria, seafood is dried for days to remove substantial amount of water resulting in disadvantages that the finished product is less flavorful, is tough and has unattractive texture.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">With this long-standing method, the importance is placed on an extended shelf-life of the product whereby, to control the growth of bacteria, seafood is dried for days to remove substantial amount of water resulting in disadvantages that the finished product is less flavorful, is tough and has unattractive texture.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">With this long-standing method, the importance is placed upon extending the shelf-life of the product and to control the growth of bacteria seafood is dried for days to remove a substantial amount of water resulting in the disadvantage of the finished product having less flavor, is tough, and has an unattractive texture.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="18">
+<j>スルメ-イカ（「あたりめ」とも呼ぶ）</j>
+<e type="trans" ver="1">Surume-ika (also known as atarime)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Surume-ika (also known as atarime)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Surume-ika (also known as atarime)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="19">
+<j>生干し（若干し）や一夜干し</j>
+<e type="trans" ver="1">Namaboshi (also referred to as Wakaboshi) (lightly salted and semi-dried) and Ichiyaboshi (fish salted and dried overnight</e>
+<cmt></cmt>
+<e type="trans" ver="2">Namaboshi (also referred to as Wakaboshi) (lightly salted and semi-dried) and Ichiyaboshi (salted and dried overnight)</e>
+<cmt>文末に閉じ括弧fish 削除</cmt>
+<e type="check" ver="1">Namaboshi (also referred to as Wakaboshi) (lightly salted and semi-dried) and Ichiyaboshi (salted and dried overnight)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>軽く水分を抜くだけにとどめたもので、保存が効かないため、冷蔵庫での貯蔵が必要となっている。</j>
+<e type="trans" ver="1">Since very small amount of water has been removed, this type of dried fish has a poor shelf life requiring refrigeration.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since very small amount of water has been removed, this type of dried fish has a poor shelf-life requiring refrigeration.</e>
+<cmt>shelf life→shelf-lifeNC_Check</cmt>
+<e type="check" ver="1">Since a very small amount of water has been removed, this type of dried fish has a poor shelf-life and requires refrigeration.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="21">
+<j>乾燥度を上げたものは上乾○○などと呼ばれる。</j>
+<e type="trans" ver="1">This type of dried fish with lower water contents is referred to as superior dried something.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Well-dried fish is referred to as superior dried something.</e>
+<cmt>This type of dried fish with lower water contents→Well-dried fishNC_CheckIs this sentence all right?</cmt>
+<e type="check" ver="1">Well-dried fish is referred to as superior dried fish.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="22">
+<j>シシャモ、コマイ、カレイ類など。</j>
+<e type="trans" ver="1">This drying method is used for fish such as shishamo smelt (Spirinchus lanceolatus), saffron cod and flounder.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This drying method is used for fish such as shishamo smelts (Spirinchus lanceolatus), saffron cods and flounders.</e>
+<cmt>魚名を複数形に変更</cmt>
+<e type="check" ver="1">This drying method is used for fish such as shishamo smelts (Spirinchus lanceolatus), saffron cods and flounders.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="23">
+<j>丸干し</j>
+<e type="trans" ver="1">Maruboshi (whole dried fish)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maruboshi (whole dried fish)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Maruboshi (whole dried fish)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>内臓を取らずに生干ししたもの。</j>
+<e type="trans" ver="1">Whole fish with guts left intact dried in the namaboshi method.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Whole fish with guts left intact dried in the namaboshi method.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Whole fish with innards left intact are dried by the namaboshi method.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="25">
+<j>目刺</j>
+<e type="trans" ver="1">Mezashi (several dried fish held together by a bamboo skewer or a piece of straw passed through their eyes)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mezashi (several dried fish held together by a bamboo skewer or a piece of straw passed through their eyes)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mezashi (several dried fish held together by a bamboo skewer or a piece of straw passed through their eyes)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="26">
+<j>開き干し</j>
+<e type="trans" ver="1">Hirakiboshi (dried butterflied-fish)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hirakiboshi (dried butterflied-fish)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hirakiboshi (dried butterflied-fish)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>内臓を取り開いて干したもの。</j>
+<e type="trans" ver="1">Dried fish that has been cleaned and butterflied.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dried fish that has been cleaned and butterflied.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Dried fish that has been cleaned and butterflied.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>サンマ、アジ、サバ、ホッケ、カマスなど。</j>
+<e type="trans" ver="1">Fish used for this method includes saury (Cololabis saira), Japanese horse mackerel, mackerel, hokke (Okhostk Atka mackerel) and Japanese barracuda.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fish used for this method includes saury (Cololabis saira), Japanese horse mackerel, mackerel, hokke (Okhostk Atka mackerel) and Japanese barracuda.</e>
+<cmt>NC_CheckShoul the fish name be plural?</cmt>
+<e type="check" ver="1">Fish used for this method include saury (Cololabis saira), Japanese horse mackerel, mackerel, hokke (Okhostk Atka mackerel) and Japanese barracuda.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="29">
+<j>調味干し</j>
+<e type="trans" ver="1">Seasoned dried fish</e>
+<cmt></cmt>
+<e type="trans" ver="2">Seasoned dried fish</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Seasoned dried fish</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>調味液に漬け干したもの。</j>
+<e type="trans" ver="1">Fish that has been marinated in seasoning and dried.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fish that has been marinated in seasoning and dried.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Fish that have been marinated in seasoning and dried.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="31">
+<j>くさや-ムロアジ</j>
+<e type="trans" ver="1">Dried fish made by this processing method is kusaya muroaji (Decapterus) and to make kusaya muroaji, marinate muroaji in the kusaya marinade which is somewhat like fish sauce and dry in the sun.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dried fish made by this processing method is kusaya muroaji (Decapterus) and to make kusaya muroaji, marinate muroaji in the kusaya marinade which is somewhat like fish sauce and dry in the sun.</e>
+<cmt>NC_CheckIs this sentence all right?単にくさやとムロアジの説明で良いと思いますが、ご確認願います。</cmt>
+<e type="check" ver="1">Dried fish produced by this method are called kusaya muroaji (Decapterus) and are marinated into a kind of fish sauce and then dried in the sun.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="32">
+<j>味醂干し</j>
+<e type="trans" ver="1">Mirinboshi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mirinboshi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mirinboshi</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>味醂に漬け込み、干したもの。</j>
+<e type="trans" ver="1">Fish marinated in mirin (type of sweet sake used in cooking) and dried.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fish marinated in mirin (type of sweet sake used in cooking) and dried.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fish marinated in mirin (type of sweet sake used in cooking) and dried.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>小魚を開いて作った味醂干しのことを桜干しとも言う。</j>
+<e type="trans" ver="1">Mirinboshi (fish butterflied, marinated in the marinade made of mirin and soy sauce and dried in the sun) which is made using small butterflied fish also referred to as sakuraboshi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mirinboshi which is made using small butterflied fish is also referred to as sakuraboshi.</e>
+<cmt>味醂干しの説明削除also→is also</cmt>
+<e type="check" ver="1">Mirinboshi which is made using small butterflied fish is also referred to as sakuraboshi.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="35">
+<j>寒風干し</j>
+<e type="trans" ver="1">Kanpuboshi (drying in salt breeze)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanpuboshi (drying in salt breeze)</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Kanpuboshi (drying in a salt breeze)</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="36">
+<j>潮風に当てて干したもの。</j>
+<e type="trans" ver="1">Fish dried in salt breeze.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fish dried in salt breeze.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Fish dried in a salt breeze.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="37">
+<j>鮭とば。</j>
+<e type="trans" ver="1">Saketoba (the skin-on salmon fillets, thinly sliced lengthwise, rinsed in sea water and dried in salt breeze).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saketoba (the skin-on salmon fillets, thinly sliced lengthwise, rinsed in sea water and dried in salt breeze).</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Saketoba (the skin-on salmon fillets, thinly sliced lengthwise, rinsed in sea water and dried in a salt breeze).</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="38">
+<j>塩干し</j>
+<e type="trans" ver="1">Salt Dried Fish</e>
+<cmt></cmt>
+<e type="trans" ver="2">Salted Dried Fish</e>
+<cmt>NC_CheckSalt→Salted</cmt>
+<e type="check" ver="1">Salted Dried Fish</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>塩漬けにしたものを干したもの。</j>
+<e type="trans" ver="1">Fish cured in brine and dried.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fish salted and dried.</e>
+<cmt>cured in brine→salted</cmt>
+<e type="check" ver="1">Fish salted and dried.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="40">
+<j>焼き干し</j>
+<e type="trans" ver="1">Yakiboshi (fish toasted over charcoal)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yakiboshi (fish broiled over charcoal)</e>
+<cmt>toasted→broiled</cmt>
+<e type="check" ver="1">Yakiboshi (fish broiled over charcoal)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>焼いて水分を抜いたもの。</j>
+<e type="trans" ver="1">Fish that has been toasted over charcoal to reduce water content.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fish that is broiled over charcoal to reduce water content.</e>
+<cmt>thas been oasted→is broiled</cmt>
+<e type="check" ver="1">Fish that is broiled over charcoal to reduce water content.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="42">
+<j>凍干し</j>
+<e type="trans" ver="1">Koriboshi (freeze dry)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Koriboshi (freeze dry)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Koriboshi (freeze dry)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>乾物と同じ方法で何度も凍結させて乾燥させたもの。</j>
+<e type="trans" ver="1">In the manner similar to making the kanbutsu dry food, fish is repeatedly frozen a number of time until dry.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the manner similar to making the kanbutsu dry food, fish is repeatedly frozen a number of time until dry.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Using a similar method when producing kanbutsu dry food, fish are repeatedly frozen a number of times until dry.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="44">
+<j>煮干し</j>
+<e type="trans" ver="1">Niboshi (boiled and dried fish)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Niboshi (boiled and dried fish)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Niboshi (boiled and dried fish)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="45">
+<j>煮てから乾燥させたもの。</j>
+<e type="trans" ver="1">Fish that has been boiled and subsequently dried.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fish that has been boiled and subsequently dried.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Fish that have been boiled and subsequently dried.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="46">
+<j>しらす干し。</j>
+<e type="trans" ver="1">Shirasuboshi, boiled and dried young anchovies.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shirasuboshi, boiled and dried young anchovies.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shirasuboshi, boiled and dried young anchovies.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="47">
+<j>イワシ</j>
+<e type="trans" ver="1">Sardines</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sardines</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sardines</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>- 主にカタクチイワシを使う。</j>
+<e type="trans" ver="1">- Young anchovies are mainly used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Anchovies are mainly used.</e>
+<cmt>Young 削除</cmt>
+<e type="check" ver="1">- Anchovies are mainly used.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="49">
+<j>主な干物</j>
+<e type="trans" ver="1">Main Examples of Dried Fish</e>
+<cmt></cmt>
+<e type="trans" ver="2">Main Examples of Dried Fish</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Main Examples of Dried Fish</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>イワシ</j>
+<e type="trans" ver="1">Sardines</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sardines</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sardines</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="50">
+<j>- 主にカタクチイワシを使い、しらす干しや煮干し、目刺、ゴマメにする。</j>
+<e type="trans" ver="1">- Anchovies are mainly used to make shirasuboshi, niboshi, mezashi and gomame (dried anchovies)</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Anchovies are mainly used to make shirasuboshi, niboshi, mezashi and gomame (dried anchovies).</e>
+<cmt>文末にピリオド</cmt>
+<e type="check" ver="1">- Anchovies are mainly used to make shirasuboshi, niboshi, mezashi and gomame (dried anchovies).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>からすみ</j>
+<e type="trans" ver="1">Karasumi (botargo)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Karasumi (botargo)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Karasumi (botargo)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="51">
+<j>- ボラの卵巣を加工したもの。</j>
+<e type="trans" ver="1">- Botargo is cured mullet roe</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Botargo is cured mullet roe</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">- Botargo is cured mullet roe</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>数の子</j>
+<e type="trans" ver="1">Kazunoko (salt-cured herring roe)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kazunoko (salt-cured herring roe)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kazunoko (salt-cured herring roe)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="52">
+<j>- ニシンの魚卵。</j>
+<e type="trans" ver="1">- Herring roe</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Herring roe</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- Herring roe</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>塩蔵ではなく乾燥させたものがある。</j>
+<e type="trans" ver="1">There is herring roe that has been dried and not salt cured.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is herring roe that is dried, not salted.</e>
+<cmt>NC_Checkhas been→isand not salt cured→not salted</cmt>
+<e type="check" ver="1">There is herring roe that is dried and not salted.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="54">
+<j>棒だら</j>
+<e type="trans" ver="1">Dried Cod</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dried Cod</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Dried Cod</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="55">
+<j>鯵</j>
+<e type="trans" ver="1">Japanese horse mackerel</e>
+<cmt></cmt>
+<e type="trans" ver="2">Japanese horse mackerel</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Japanese horse mackerel</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="56">
+<j>- 内臓を取り除いて開き干しにしたり、小型のものは丸干しにも</j>
+<e type="trans" ver="1">- Japanese horse mackerel is cleaned, butterflied and dried with small fish being dried whole.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Japanese horse mackerels are cleaned, butterflied and dried with small fish being dried whole.</e>
+<cmt>small の前のスペース短縮NC_Checkmackerel is→mackerels are</cmt>
+<e type="check" ver="1">- Japanese horse mackerel are cleaned, butterflied, and dried, the smaller fish being dried whole.</e>
+<cmt>grammar, punctuation</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="57">
+<j>鯖</j>
+<e type="trans" ver="1">Mackerel</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mackerel</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mackerel</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="58">
+<j>- ２枚卸しにした身を乾燥させる。</j>
+<e type="trans" ver="1">- Mackarel is butterflied and dried.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Mackarels are butterflied and dried.</e>
+<cmt>NC_Checkmackerel is→mackerels are</cmt>
+<e type="check" ver="1">- Mackarel are butterflied and dried.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="59">
+<j>文化干しにも。</j>
+<e type="trans" ver="1">It is also cellophane-wrapped and dried using artificial dehydrator.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also cellophane-wrapped and dried using artificial dehydrator.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">They are also cellophane-wrapped and dried using an artificial dehydrator.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>さんま</j>
+<e type="trans" ver="1">Saury</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saury</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Saury</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="60">
+<j>- 開き干しにしたり、小型のものは丸干しにも。</j>
+<e type="trans" ver="1">- Saury is butterflied and dried with small-size fish being dried whole.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Saury is butterflied and dried with small-size fish being dried whole.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">- Saury are butterflied and dried, the smaller fish being dried whole.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="61">
+<j>稚魚の丸干しは特に「針子」(ハリゴ)ともいう。</j>
+<e type="trans" ver="1">Maruboshi made from young saury is specifically referred to as &apos;harigo.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maruboshi made from young sauries is specifically referred to as &apos;harigo.&apos;</e>
+<cmt>saury→sauries</cmt>
+<e type="check" ver="1">Maruboshi made from young saury are specifically referred to as &apos;harigo.&apos;</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>キンキ</j>
+<e type="trans" ver="1">Thornhead (Sebastolobus macrochir (Gunther))</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thornhead (Sebastolobus macrochir (Gunther))</e>
+<cmt>括弧書きが必要かご確認願います。</cmt>
+<e type="check" ver="1">Thornhead (Sebastolobus macrochir (Gunther))</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="62">
+<j>- キチジ、メンメとも。</j>
+<e type="trans" ver="1">- In Japan, thornhead is referred to as kinki, kichiji or menme.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- In Japan, a thornhead is referred to as kinki, kichiji or menme.</e>
+<cmt>NC_Checkthornhead→a thornheads</cmt>
+<e type="check" ver="1">- In Japan, thornhead are referred to as kinki, kichiji, or menme.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="63">
+<j>開き干しにする。</j>
+<e type="trans" ver="1">It is butterflied and dried.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is butterflied and dried.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It is butterflied and dried.</e>
+<cmt>OK</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="64">
+<j>干物の干し方</j>
+<e type="trans" ver="1">Drying Method</e>
+<cmt></cmt>
+<e type="trans" ver="2">Drying Method</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Drying Method</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="65">
+<j>ほとんどの干物では天日乾燥が基本であり、最近では虫付きを防ぎ乾燥を早めるため、つり下げた魚を回転させる干し台が作られている。</j>
+<e type="trans" ver="1">In most cases, sun drying is the basic method for making dried fish and, in recent years, rotating drying racks for hanging fish to keep insects away and to accelerate the drying process have become available.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In most cases, sun drying is the basic method for making dried fish and, in recent years, rotating drying racks for hanging fish to keep insects away and to accelerate the drying process have become available.</e>
+<cmt>NC_CheckIs this sentence natural?</cmt>
+<e type="check" ver="1">In most cases, sun drying is the basic method to produce dried fish and in recent years rotating drying racks for hanging fish, to keep insects away, and to accelerate the drying process, have become available.</e>
+<cmt>grammar, punctuation</cmt>
+</sen>
+<sen id="66">
+<j>工場など大量生産などを行う所では人工乾燥機が使われており、生干しでは水分を保つため低温の乾燥機を使うこともある。</j>
+<e type="trans" ver="1">In places such as processing plants where dried fish is mass produced, artificial dehydrators are used, and, with namaboshi, cool-temperature dehydrators are sometimes used to retain water contents of the fish.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In places such as processing plants where dried fish is mass produced, artificial dehydrators are used, and, with namaboshi, cool-temperature dehydrators are sometimes used to retain water contents of the fish.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">In places such as processing plants where dried fish is mass produced, artificial dehydrators are used, and, with namaboshi, cool-temperature dehydrators are sometimes used to retain the water contents of the fish.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="67">
+<j>なお乾燥する時に魚をセロファンで包む方法は、特別に文化干しと称されている。</j>
+<e type="trans" ver="1">The drying method in which fish is wrapped in cellophane is specifically referred to as bunkaboshi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The drying method in which fish is wrapped in cellophane is especially referred to as bunkaboshi.</e>
+<cmt>NC_Checkspecifically→especially</cmt>
+<e type="check" ver="1">The drying method whereby fish are wrapped in cellophane is especially referred to as bunkaboshi.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="68">
+<j>一般的な干物の作り方</j>
+<e type="trans" ver="1">Common method for making dried fish</e>
+<cmt></cmt>
+<e type="trans" ver="2">Common Method for Making Dried Fish</e>
+<cmt>他に合わせて大文字に変更</cmt>
+<e type="check" ver="1">Common Method for Making Dried Fish</e>
+<cmt>OK</cmt>
+</sen>
+<sen id="69">
+<j>魚を頭まで腹開きあるいは背開きにし、内臓を取り除いて水洗いする。</j>
+<e type="trans" ver="1">Butterfly the head-on fish along either the belly or back, clean and rinse in water.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Butterfly the head-on fish along either the belly or back, clean and rinse in water.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Butterfly the fish along either the belly or back, clean and rinse in water.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="70">
+<j>海水程度の塩水に一晩漬けるか、もしくはそのまま、半日ほど風に当たるよう日干しにする。</j>
+<e type="trans" ver="1">Dry immediately or dry after soaking in brine, with the salt concentration being approximately equivalent of that of seawater overnight, in the sunny, well-ventilated area for 12 hours.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Dry immediately or dry after soaking in brine, with the salt concentration being approximately equivalent of that of seawater overnight, in the sunny, well-ventilated place for a half day.</e>
+<cmt>NC_Checkarea→place12 hours→a half day</cmt>
+<e type="check" ver="1">Dry immediately, or dry, after soaking in brine overnight with the salt concentration being approximately equivalent to that of seawater, in a sunny, well-ventilated place for half a day.</e>
+<cmt>grammar, punctuation</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="71">
+<j>外国の干物</j>
+<e type="trans" ver="1">Dried Fish in Foreign Countries</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dried Fish in Foreign Countries</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Dried Fish in Foreign Countries</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="72">
+<j>アジア、アフリカ、ヨーロッパなど、漁業の盛んな地域では、さまざまなタイプの干物が製造されている。</j>
+<e type="trans" ver="1">In the regions including Asia, Africa and Europe where there is a vibrant fishing industry, various types of dried fish is being produced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the regions including Asia, Africa and Europe where there is a vibrant fishing industry, various types of dried fish are being produced.</e>
+<cmt>various の前のスペース短縮is→are</cmt>
+<e type="check" ver="1">In the regions including Asia, Africa and Europe where there is a vibrant fishing industry, various types of dried fish are being produced.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>咸魚(ハームユー(広東語)、シエンユー(北京語))</j>
+<e type="trans" ver="1">Haam yu (salted fish) in Cantonese and xian yu (salted fish) in Mandarin Chinese</e>
+<cmt></cmt>
+<e type="trans" ver="2">Haam yu (salted fish) in Cantonese and xian yu (salted fish) in Mandarin Chinese</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Haam yu (salted fish) in Cantonese and xian yu (salted fish) in Mandarin Chinese</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="73">
+<j>- 中華人民共和国のマカオや広東省などで作られる。</j>
+<e type="trans" ver="1">- It is made in some regions including Macau and Guangdong, China.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">- It is made in some regions including Macau and Guangdong, China.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">- It is made in some regions including Macau and Guangdong, China.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="74">
+<j>塩の中に直接漬けた後に、天日干ししたもので、塩分が強い。</j>
+<e type="trans" ver="1">Fish is sun dried subsequent to being salt cured, having a high salt content.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Fish is sun dried subsequent to being salt cured, having a high salt content.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Fish is sun dried subsequently to being salt cured, having a high salt content.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>バカラオ（Bacalhau）</j>
+<e type="trans" ver="1">Bacalhau</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bacalhau</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bacalhau</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="75">
+<j>- ポルトガルのタラの干物。</j>
+<e type="trans" ver="1">- Dried cod found in Portugal</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Dried cod found in Portugal.</e>
+<cmt>文末にピリオドNC_CheckShould &apos;cod&apos; be &apos;cods&apos;?</cmt>
+<e type="check" ver="1">- Dried cod found in Portugal.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="76">
+<j>グラタン風など、各種料理に再加工される。</j>
+<e type="trans" ver="1">Bacalhau is reprocessed to be used in various dishes including baked bacalhau au gratin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bacalhau is reprocessed to be used in various dishes including baked bacalhau au gratin.</e>
+<cmt>baked の後のスペース短縮NC_Check</cmt>
+<e type="check" ver="1">Bacalhau is reprocessed to be used in various dishes including baked bacalhau au gratin.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="77">
+<j>同様のものがイタリアではバッカラ（Baccalà）、スペインではバカラオ（Bacalao）の名で作られている。</j>
+<e type="trans" ver="1">The similar dried cod is made in Italy and Spain that are referred to as Baccalà and Bacalao, respectively.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The similar dried cod is made in Italy and Spain that are referred to as Baccalà and Bacalao, respectively.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Similar dried cod is produced in Italy and Spain that are referred to as Baccalà and Bacalao, respectively.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="78">
+<j>タンバジャン</j>
+<e type="trans" ver="1">Tambadiang</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tambadiang</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tambadiang</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="79">
+<j>- セネガルのボラ科の干物。</j>
+<e type="trans" ver="1">- Dried mullet found in the Republic of Senegal.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Dried mullet found in the Republic of Senegal.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">- Dried mullet found in the Republic of Senegal.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="80">
+<j>一昼夜塩漬けしたのち天日で乾燥させる。</j>
+<e type="trans" ver="1">After soaking in brine for 24 hours, dry in the sun.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After soaking in brine for 24 hours, dry in the sun.</e>
+<cmt>NC_CheckIs this sentence all right?</cmt>
+<e type="check" ver="1">After soaking in brine for twenty-four hours, dry in the sun.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Falia(id:60575), 与左衛門(id:159462), マクガイア(id:33346), Potbottle(id:72753), Kawai(id:5634), Hhaithait(id:37092), Hatenaboshi(id:190975), Nighthawks(id:36125), Nallimbot(id:230812), Koba-chan(id:860), Robbot(id:3063), Mkill(id:22697), ウェルワィ(id:15692), Tomomarusan(id:17060), SilvonenBot(id:190970), VolkovBot(id:105371), Miketsukunibito(id:10208), 午後紅茶(id:14285), にほんねこれん(id:186430), TaBOT-zerem(id:257085), Nevylax(id:38464), あんも騎士(id:139357), Chiew(id:39745), 竹麦魚(id:11012), YukkeBot2(id:251491), 1029man(id:93235), Hotei(id:7664), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

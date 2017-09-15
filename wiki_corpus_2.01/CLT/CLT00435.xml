@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>かき揚げ</j>
+<e type="trans" ver="1">Kakiage</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kakiage</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kakiage</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>かき揚げ（かきあげ）は、魚介類や野菜などを数種類組み合わせ、衣とともに揚げた天ぷらの一種。</j>
+<e type="trans" ver="1">Kakiage is a kind of tenpura (Japanese deep-fried dish) that deep-fries several kinds of seafood and vegetables with deep fry batter.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kakiage is a kind of tenpura, a Japanese deep-fried dish, where several kinds of seafood and vegetables are deep-fried in batter.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">Kakiage is a kind of tenpura, a Japanese deep-fried dish, where several kinds of seafood and vegetables are deep-fried in batter.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>蕎麦やうどんに載せたり、丼物種（天丼、掻き揚げ丼）として食べる。</j>
+<e type="trans" ver="1">It is served on top of Soba (buckwheat noodle) and Udon (noodle) or as varieties of donburimono (bowl of rice with food on top) (tendon (tempura rice bowl) and kakiage-don (deep-fried diced shrimp and vegetables over rice)).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is served on top of soba (buckwheat noodles) and udon (wide white noodles) or added to donburimono (a bowl of rice with food on top) such as tendon (tempura rice bowl) and kakiage-don (deep-fried diced shrimp and vegetables over rice).</e>
+<cmt>Punctuation, double parentheses removed, spelling.</cmt>
+<e type="check" ver="1">It is served on top of soba (buckwheat noodles) and udon (wide white noodles) or added to donburimono (a bowl of rice with food on top) such as tendon (tenpura rice bowl) and kakiage-don (deep-fried diced shrimp and vegetables over rice).</e>
+<cmt>tempura→tenpura</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>東京で掻き揚げと言えばシバエビ、小柱（バカガイの閉殻筋）、ミツバをごま油で揚げたものを指すが、具材の組み合わせは多種多様である。</j>
+<e type="trans" ver="1">Kakiage in Tokyo indicates a mixture of shiba shrimp, pillaret (adductor of a surf clam), and mitsuba (Japanese honewort) deep-fired with sesame oil, but the combinations of its ingredients range widely.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kakiage in Tokyo indicates a mixture of shiba shrimp, pillaret (adductor of a surf clam), and mitsuba (Japanese honewort) deep-fried with sesame oil, but the combination of ingredients vary widely.</e>
+<cmt>Changed for clarity, grammar.</cmt>
+<e type="check" ver="1">Kakiage in Tokyo indicates a mixture of shiba shrimp, pillaret (adductor of a surf clam), and mitsuba (Japanese honewort) deep-fried with sesame oil, but the combination of ingredients vary widely.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>具材の例</j>
+<e type="trans" ver="1">Examples of ingredients</e>
+<cmt></cmt>
+<e type="trans" ver="2">Example ingredients</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Example ingredients</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>魚介類</j>
+<e type="trans" ver="1">Seafood</e>
+<cmt></cmt>
+<e type="trans" ver="2">Seafood</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Seafood</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>- サクラエビ、イカの短冊切り、シラウオ</j>
+<e type="trans" ver="1">- Sakura shrimp, rectangle cut of squid, a Japanese icefish.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Sakura shrimps, chopped squid, Japanese icefish</e>
+<cmt>Grammar, word choice.</cmt>
+<e type="check" ver="1">Sakura shrimps, chopped squid, Japanese icefish</e>
+<cmt>文頭のハイフン削除しました。</cmt>
+</sen>
+<sen id="7">
+<j>野菜</j>
+<e type="trans" ver="1">Vegetables</e>
+<cmt></cmt>
+<e type="trans" ver="2">Vegetables</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Vegetables</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>- ネギ、タマネギ、ニンジンの繊切り</j>
+<e type="trans" ver="1">- Green onions, onions, sengiri (small pieces or strips of vegetables) of carrots</e>
+<cmt></cmt>
+<e type="trans" ver="2">- Green onions, onions, carrot sengiri (small pieces or strips of vegetables)</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Green onions, onions, carrot sengiri (small pieces or strips of vegetables)</e>
+<cmt>文頭のハイフン削除しました。</cmt>
+</sen>
+<sen id="9">
+<j>揚げる</j>
+<e type="trans" ver="1">Deep-fry</e>
+<cmt></cmt>
+<e type="trans" ver="2">Frying</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Frying</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>- 白絞油,サラダ油</j>
+<e type="trans" ver="1">-Shirashime oil (refined canola oil), cooking oil</e>
+<cmt></cmt>
+<e type="trans" ver="2">-Shirashime oil (refined canola oil), cooking oil</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shirashime oil (refined canola oil), cooking oil</e>
+<cmt>文頭のハイフン削除しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 アレシンロ(id:170344), Mymelo(id:122034), Ypacaraí(id:11031), Nnh(id:474), マクガイア(id:33346), そっふう(id:242369), Roger(id:9883), Fooke(id:6585), Point136(id:211299), Aphaia(id:3132), Martin(id:6394), Hykw-a4(id:14184), 1029man(id:93235), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

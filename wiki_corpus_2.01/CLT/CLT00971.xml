@@ -1,0 +1,1775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>和算</j>
+<e type="trans" ver="1">Wasan (Japanese mathematics)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wasan (Japanese mathematics)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Wasan (Japanese mathematics)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>和算（わさん）とは日本独自に発達した数学である。</j>
+<e type="trans" ver="1">Wasan (Japanese mathematics) is a type of mathematics which uniquely developed in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wasan (Japanese mathematics) is a type of mathematics uniquely developed in Japan.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Wasan (Japanese mathematics) is a type of mathematics uniquely developed in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>狭義には大いに発展した江戸時代の関孝和以降のそれを指すが、西洋数学導入以前の数学全体を指すこともある。</j>
+<e type="trans" ver="1">In a restricted sense of the word, wasan refers to mathematics developed by Takakazu SEKI and flourished in Edo period, but in a wider sense, it refers to mathematics in general which was practiced and studied in Japan before the introduction of mathematics from Europe.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In a strict sense, wasan refers to mathematics developed by Takakazu SEKI that flourished during the Edo period, but in a wider sense, it refers to mathematics in general practiced and studied in Japan before the introduction of mathematics from Europe.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In a strict sense, wasan refers to mathematics developed by Takakazu SEKI that flourished during the Edo period, but in a wider sense, it refers to mathematics in general practiced and studied in Japan before the introduction of mathematics from Europe.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>欧州の影響外で独自に様々な高度な数学、代数学、積分法、幾何が発展した。</j>
+<e type="trans" ver="1">Various and advanced mathematics, algebra, integration method, and geometry were developed independently of the European influence.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Various and advanced mathematics, algebra, integration method, and geometry were developed independently of European influence.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Various and advanced mathematics, algebra, integration method, and geometry were developed independently of European influence.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="2">
+<tit>
+<j>江戸時代以前</j>
+<e type="trans" ver="1">Before Edo period</e>
+<cmt></cmt>
+<e type="trans" ver="2">Before the Edo period</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Before the Edo period</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>和算は中国の数学から多大な影響を受けている。</j>
+<e type="trans" ver="1">Wasan was strongly influenced by Chinese mathematics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wasan was strongly influenced by Chinese mathematics.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Wasan was strongly influenced by Chinese mathematics.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>中国では『九章算術』と呼ばれる数学書が前漢には登場していた。</j>
+<e type="trans" ver="1">In China, a mathematical treatise titled &quot;Kyusho Sanjutsu&quot; (Art of Mathematics in Nine Chapters) appeared during the time of the Former Han Dynasty.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In China, a mathematical treatise titled &quot;Kyusho Sanjutsu&quot; (Art of Mathematics in Nine Chapters) appeared during the time of the Former Han Dynasty.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In China, a mathematical treatise titled &quot;Kyusho Sanjutsu&quot; (Art of Mathematics in Nine Chapters) appeared during the time of the Former Han Dynasty.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="6">
+<j>「九章算術」では面積の計算法、比例、反比例、ピタゴラスの定理などが紹介されている。</j>
+<e type="trans" ver="1">In &quot;Kyusho Sanjutsu,&quot; the topics including the method of calculating dimensions, proportion, inverse proportion, and the Pythagorean theorem are explained.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In &quot;Kyusho Sanjutsu,&quot; the topics including the methods of calculating dimensions, proportion, inverse proportion, and the Pythagorean theorem are explained.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In &apos;Kyusho Sanjutsu,&apos; the topics including the methods of calculating dimensions, proportion, inverse proportion, and the Pythagorean theorem are explained.</e>
+<cmt>記号を修正しました</cmt>
+</sen>
+<sen id="7">
+<j>7世紀以降、遣隋使、遣唐使の派遣などにより、中国の文化が日本に次々と流入するようになる。</j>
+<e type="trans" ver="1">Since the seventh century, Japanese envoys to Chinese Sui and Tang Dynasties were sent, and as a result, the Chinese culture was introduced to Japan on a larger scale.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the seventh century, Japanese envoys to the Chinese Sui and Tang Dynasties were sent, and as a result, Chinese culture was introduced to Japan on a larger scale.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Since the seventh century, Japanese envoys to the Chinese Sui and Tang Dynasties were sent, and as a result, Chinese culture was introduced to Japan on a larger scale.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>中国の律令制を元に作られた大宝律令では、算博士・算師と呼ばれる官職が定められていた。</j>
+<e type="trans" ver="1">In Taiho Code, which was based on the Chinese system of centralized governance, there were the governmental posts of San hakase (Professor of Mathematics) and Sanshi (a court official in charge of calculation).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Taiho Code, based on the Chinese system of centralized governance, there were the governmental posts of San hakase (Professor of Mathematics) and Sanshi (a court official in charge of calculation).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In Taiho Code, based on the Chinese system of centralized governance, there were the governmental posts of San hakase (Professor of Mathematics) and Sanshi (a court official in charge of calculation).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>算博士は算師の育成にあたるとともに、『九章算術』を始めとした中国の算書の知識が要求された（算道）。</j>
+<e type="trans" ver="1">As well as contributing to the education of Sanshi, to be a San hakase, it was required to have extent knowledge of Chinese mathematical books such as &quot;Kyusho Sanjutsu&quot; (sando, or arithmetic).</e>
+<cmt></cmt>
+<e type="trans" ver="2">As well as contributing to the education of Sanshi, to be a San hakase, it was required to have extent knowledge of Chinese mathematical books such as &quot;Kyusho Sanjutsu&quot; (sando, or arithmetic).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As well as contributing to the education of Sanshi, to be a San hakase, it was required to have extent knowledge of Chinese mathematical books such as &quot;Kyusho Sanjutsu&quot; (sando, or arithmetic).</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="10">
+<j>万葉集には次のような歌がみられる。</j>
+<e type="trans" ver="1">In &quot;Manyoshu&quot; (Collection of Ten Thousand Leaves), the following poem was included.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the &quot;Manyoshu&quot; (Collection of Ten Thousand Leaves), the following poem was included.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the Manyoshu (Collection of Ten Thousand Leaves), the following poem was included.</e>
+<cmt>&quot;&quot;を外しました</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="11">
+<j>若草乃 新手枕乎 巻始而 夜哉将間 二八十一不在國 （わかくさの　にひたまくらを　まきそめて　よをやへだてる　にくくあらなくに　巻十一　2542番）</j>
+<e type="trans" ver="1">Ever since I started to sleep with a hand of my new wife as a pillow, soft as young grass/ It is no longer possible to be separated from her over night/ How could I, when there is not a speck of hate in my heart (&quot;Wakakusa no niitamakura o makisomete yo o ya hedateru nikuku aranakuni&quot;: vol.11; no.2542).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ever since I started to sleep on the hand of my new wife as a pillow, soft as young grass/ It is no longer possible to be separated from her over night/ How could I, when there is not a speck of hate in my heart (&quot;Wakakusa no niitamakura o makisomete yo o ya hedateru nikuku aranakuni:&quot; vol.11; no.2542).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Ever since I started to sleep on the hand of my new wife as a pillow, soft as young grass/ It is no longer possible to be separated from her over night/ How could I, when there is not a speck of hate in my heart (Wakakusa no niitamakura o makisomete yo o ya hedateru nikuku aranakuni: vol.11; no.2542).</e>
+<cmt>&quot;&quot;を外しました</cmt>
+</sen>
+<sen id="12">
+<j>「くく」という読みに「八十一」という漢字が当てられており、すでに九九が日本で知られていたことがわかる。</j>
+<e type="trans" ver="1">For the word &quot;kuku&quot; (homonymous with &quot;9x9&quot;), the kanji characters of &quot;八十一,&quot; which denotes &quot;81,&quot; were used, indicating that multiplication tables were already known in Japan at that time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For the word &quot;kuku&quot; (homonymous with &quot;9x9&quot;), the kanji characters of &quot;八十一,&quot; that denotes &quot;81,&quot; were used, indicating that multiplication tables were already known in Japan at that time.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">For the word &apos;kuku&apos; (homonymous with &apos;9x9&apos;), the kanji characters of &apos;八十一,&apos; that denotes &apos;81,&apos; were used, indicating that multiplication tables were already known in Japan at that time.</e>
+<cmt>記号を修正しました</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="13">
+<j>中世および江戸時代以前の近世において、どのような数学が行われたかは全く分かっていない。</j>
+<e type="trans" ver="1">It is not known what kind of mathematics was practiced during the medieval period and the early-modern period before Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is not known what kind of mathematics was practiced during the medieval period and the early-modern period before the Edo period.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is not known what kind of mathematics was practiced during the medieval period and the early-modern period before the Edo period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>九章算術などは散逸してしまったようであるが、土木、建築、財務、暦の計算などにある程度の数学が必要であったことは確かである。</j>
+<e type="trans" ver="1">It seems that &quot;Kyusho Sanjutsu&quot; was scattered and lost during this time, but a certain level of knowledge of mathematics must have been required for civil engineering, architecture, finance, and the calculation of calendar.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It seems that &quot;Kyusho Sanjutsu&quot; was scattered and lost during this time, but a certain level of knowledge of mathematics must have been required for civil engineering, architecture, finance, and the calculation of the calendar.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It seems that Kyusho Sanjutsu was scattered and lost during this time, but a certain level of knowledge of mathematics must have been required for civil engineering, architecture, finance, and the calculation of the calendar.</e>
+<cmt>&quot;&quot;を外しました</cmt>
+</sen>
+<sen id="15">
+<j>江戸時代の古老が太閤検地のころは算木を使った、と回想しており、また『塵劫記』の開平計算が算木による方法に近いことから、江戸時代直前まで算木が優勢であったと思われる。</j>
+<e type="trans" ver="1">For there is an episode of an old man who lived during Edo period remembering using &quot;sangi&quot; (arithmetic blocks) around the time of Taiko kenchi (Hideyoshi TOYOTOMI&apos;s nationwide land survey), and also for the fact that the calculation method of &quot;kaihei&quot; recorded in &quot;Jinkoki&quot; is similar to the calculation using sangi, it is thought that sangi was used as a primary tool for calculation up until just before Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For there is a story about an old man who lived during the Edo period remembering using &quot;sangi&quot; (arithmetic blocks) around the time of the Taiko kenchi (Hideyoshi TOYOTOMI&apos;s nationwide land survey), and also for the fact that the calculation method of &quot;kaihei&quot; recorded in &quot;Jinkoki&quot; is similar to calculations using sangi, it is thought that sangi was used as a primary tool for calculation up until just before the Edo period.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">For there is a story about an old man who lived during the Edo period remembering using sangi (arithmetic blocks) around the time of the Taiko kenchi (Hideyoshi TOYOTOMI&apos;s nationwide land survey), and also for the fact that the method for calculating square roots recorded in &quot;Jinkoki&quot; is similar to calculations using sangi, it is thought that sangi was used as a primary tool for calculation up until just before the Edo period.</e>
+<cmt>不要な&quot;&quot;を外しました開平計算を訳出しました記号を半角に修正しました</cmt>
+</sen>
+<sen id="16">
+<j>日常の計算を電卓の普及まで担い続けたそろばんは、いつ導入されたかは不明であるが、毛利重能の『割算書』（1622年、元和８年）ではそろばんを用いた計算が解説されている。</j>
+<e type="trans" ver="1">Although it is not known when the abacus, which was used for everyday calculations until the time the electronic calculator became widely used, was introduced to Japan, there is an explanation of the method of calculation using an abacus in &quot;Warizan sho&quot; (the Book of Division) written by Shigeyoshi MORI in 1622.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although it is not known when the abacus, used for everyday calculations until the time the electronic calculator became widely used, was introduced to Japan, there is an explanation of the method of calculating using an abacus in &quot;Warizan sho&quot; (the Book of Division) written by Shigeyoshi MORI in 1622.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although it is not known when the abacus, used for everyday calculations until the time the electronic calculator became widely used, was introduced to Japan, there is an explanation of the method of calculating using an abacus in &quot;Warizan sho&quot; (the Book of Division) written by Shigeyoshi MORI in 1622.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>江戸時代</j>
+<e type="trans" ver="1">Edo Period</e>
+<cmt></cmt>
+<e type="trans" ver="2">Edo Period</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Edo Period</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="17">
+<j>江戸時代に日本の数学は大いに発展した。</j>
+<e type="trans" ver="1">During Edo period mathematics greatly developed in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the Edo period mathematics greatly developed in Japan.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">During the Edo period mathematics greatly developed in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="18">
+<j>このきっかけになったのが1627年、京都の吉田光由によって書かれた『塵劫記』である。</j>
+<e type="trans" ver="1">The beginning of the great development was triggered by &quot;Jinkoki,&quot; written by Mitsuyoshi YOSHIDA in Kyoto in 1627.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The beginning of the great development was triggered by &quot;Jinkoki,&quot; written by Mitsuyoshi YOSHIDA in Kyoto during 1627.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The beginning of the great development was triggered by &quot;Jinkoki,&quot; written by Mitsuyoshi YOSHIDA in Kyoto during 1627.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="19">
+<j>明の算術書『算法統宗』を模範としたもの。</j>
+<e type="trans" ver="1">The idea for the book was taken from the Ming mathematical treatise called &quot;Sanpo toso.&quot;</e>
+<cmt>一原文一訳文の例外対処をしました。</cmt>
+<e type="trans" ver="2">The idea for the book was taken from the Ming mathematical treatise called &quot;Sanpo toso.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The idea for the book was taken from the Ming mathematical treatise called &quot;Sanpo toso.&quot;</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="20">
+<j>そろばんの使用法や測量法といった実用数学に加え、「継子立て」や「ねずみ算」といった数学遊戯が紹介されている。</j>
+<e type="trans" ver="1">In it, there are explanations of practical mathematics such as how to use the abacus and the surveying method, as well as mathematical games such as &quot;mamako date&quot; and &quot;nezumi-zan.&quot;</e>
+<cmt>一原文一訳文の例外対処をしました。</cmt>
+<e type="trans" ver="2">In it, there are explanations of practical mathematics such as how to use the abacus and the surveying method, as well as mathematical games such as &quot;mamako date&quot; and &quot;nezumi-zan.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In it, there are explanations of practical mathematics such as how to use the abacus and the surveying method, as well as mathematical games such as &apos;mamakodate&apos; and &apos;nezumisan.&apos;</e>
+<cmt>&quot;&quot;を&apos;&apos;に修正しました一部用語を登録用語に修正しました</cmt>
+</sen>
+<sen id="21">
+<j>『塵劫記』はベストセラーとなり、初等数学の標準的教科書として江戸時代を通じて用いられた。</j>
+<e type="trans" ver="1">&quot;Jinkoki&quot; became a bestseller, and was used as a classic textbook for elementary mathematics throughout Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Jinkoki&quot; became a bestseller, and was used as a classic textbook for elementary mathematics throughout the Edo period.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">&quot;Jinkoki&quot; became a bestseller, and was used as a classic textbook for elementary mathematics throughout the Edo period.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="22">
+<j>また、本書を模倣したり、書名を『○○塵劫記』としたものも多く出版された。</j>
+<e type="trans" ver="1">Many books which imitated &quot;Jinkoki,&quot; as well as books that includes &quot;jinhoki&quot; in their titles, were published.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many books that imitated &quot;Jinkoki,&quot; as well as books including &quot;jinhoki&quot; in their titles, were published.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Many books that imitated &quot;Jinkoki,&quot; as well as books including &quot;jinhoki&quot; in their titles, were published.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="23">
+<j>『塵劫記』は初等的な教科書だったが、ある版には巻末に他の数学者への挑戦として、答えをつけない問題（遺題）を出した。</j>
+<e type="trans" ver="1">Although &quot;Jinkoki&quot; was an elementary textbook, some open mathematical problems called &quot;idai&quot; were presented at the end of certain editions as a challenge to other mathematicians.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although &quot;Jinkoki&quot; was an elementary textbook, some open mathematical problems called &quot;idai&quot; were presented at the end of certain editions as a challenge to other mathematicians.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Although &quot;Jinkoki&quot; was an elementary textbook, some mathematical problems (idai) were presented at the end of certain editions without answers as a challenge to other mathematicians.</e>
+<cmt>記号を半角に修正しました原文に沿って()をつけ、訳を一部修正しました訳漏れ</cmt>
+</sen>
+<sen id="24">
+<j>これ以降、先に出された遺題を解き新たな遺題を出すという連鎖（遺題継承）が始まり、和算で扱われる問題は急速に実用の必要を超え、技巧化・複雑化した。</j>
+<e type="trans" ver="1">Since then, the chain of solving an idai and presenting with a new one in a new edition started (the succession of idai), and as such, the mathematical problems in wasan became increasingly technical and complicated beyond its practical needs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since then, the chain of solving an idai and presenting a new one in a new edition started (the succession of idai), and as such, the mathematical problems in wasan became increasingly technical and complicated beyond practical needs.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Since then, the chain of solving an idai and presenting a new one in a new edition started (the succession of idai), and as such, the mathematical problems in wasan became increasingly technical and complicated beyond practical needs.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="25">
+<j>そして、その中に簡単な算術的手法では手に負えない問題が現れるようになった。</j>
+<e type="trans" ver="1">In such a trend of that time, mathematical problems, which could not be easily solved by using the basic method of calculation, started to be presented.</e>
+<cmt>一原文一訳文の例外対処をしました。</cmt>
+<e type="trans" ver="2">During the trends of that time, mathematical problems, not easily be solved using the basic method of calculation, started crop up.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">During the trends of that time, mathematical problems, not easily be solved using the basic method of calculation, started to crop up.</e>
+<cmt>文法を修正しました</cmt>
+</sen>
+<sen id="26">
+<j>沢村一之は『古今算法記』で中国の天元術、すなわち一変数の代数方程式とその数値的解法を導入し、また、同書の遺題で天元術では扱えない複数の変数をもった代数方程式を必要とする問題を提出した。</j>
+<e type="trans" ver="1">Kazuyuki SAWAMURA introduced Tengen-jutsu (an algebra developed in the 13th century China), which was an algebra equation for a variable number and its numerical method of solution, in his book &quot;Kokon Sanpo-ki&quot; (Old and New Mathematics), and he further presented a problem which required an algebra equation containing various variable numbers that cannot be solved using only Tengen-jutsu as an idai to the book.</e>
+<cmt>一原文一訳文の例外対処をしました。</cmt>
+<e type="trans" ver="2">Kazuyuki SAWAMURA introduced Tengen-jutsu (an algebra developed during thirteenth century China), which was an algebra equation for a variable number and its numerical method of solution, in his book &quot;Kokon Sanpo-ki&quot; (Old and New Mathematics), and he further presented a problem that required an algebra equation containing various numbers that could not be solved using only Tengen-jutsu as an idai to the book.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kazuyuki SAWAMURA introduced Tengen-jutsu (an algebra developed during 13th century China), which was an algebra equation for a variable number and its numerical method of solution, in his book &quot;Kokon Sanpo-ki&quot; (Old and New Mathematics), and he further presented a problem that required an algebra equation containing various numbers that could not be solved using only Tengen-jutsu as an idai to the book.</e>
+<cmt>数字をアラビア数字に修正しました記号を半角に修正しました</cmt>
+</sen>
+<sen id="27">
+<j>これに応えて、江戸の関孝和や京都の田中由真（たなかよしざね）があいついで点竄術（傍書法）を創造した。</j>
+<e type="trans" ver="1">As a response to this challenge, Takakazu SEKI of Edo and Yoshizane TANAKA of Kyoto created Tenzan-jutsu (also called Bosho-ho) in succession.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a response to this challenge, Takakazu SEKI from Edo and Yoshizane TANAKA from Kyoto created Tenzan-jutsu (also called Bosho-ho) in succession.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As a response to this challenge, Takakazu SEKI from Edo and Yoshizane TANAKA from Kyoto created Tenzan-jutsu (also called Bosho-ho) in succession.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>ここにおいて、日本の数学はそれまで全ての規範であった中国数学の学習の範囲を超えて独創の段階に入り、日本独自の「和算」が生まれた。</j>
+<e type="trans" ver="1">This was how such a uniquely Japanese &quot;wasan&quot; came into being which went beyond the level of merely studying Chinese mathematics, hitherto a model for everything in regard to mathematics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was how such a uniquely Japanese &quot;wasan&quot; came into being that went beyond the level of merely studying Chinese mathematics, hitherto a model for everything with regard to mathematics.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This was how such a uniquely Japanese &apos;wasan&apos; came into being that went beyond the level of merely studying Chinese mathematics, hitherto a model for everything with regard to mathematics.</e>
+<cmt>記号を修正しました</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="29">
+<j>また、江戸初期には数学の中心は京阪地方だったが、このころから江戸の関孝和の学統、関流が圧倒的な主流派になってゆく。</j>
+<e type="trans" ver="1">At the same time, despite the fact that Kyoto had been the center of learning mathematics in the early Edo period, Seki school of mathematics, started by Takakazu SEKI of Edo, became overwhelmingly dominant around this time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the same time, despite the fact that Kyoto had been the center of learning mathematics during the early Edo period, Seki school of mathematics, started by Takakazu SEKI of Edo, became overwhelmingly dominant around this time.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At the same time, despite the fact that Kyoto had been the center of learning mathematics during the early Edo period, Seki school of mathematics, started by Takakazu SEKI of Edo, became overwhelmingly dominant around this time.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>（この為か、京阪地方の和算家の実態があまり今日に伝わっていない。）</j>
+<e type="trans" ver="1">(Perhaps for this reason, the details of wasan mathematicians from the Kyoto and Osaka area are not widely known today.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Perhaps for this reason, the details of wasan mathematicians from the Kyoto and Osaka area are not widely known today.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(Perhaps for this reason, the details of wasan mathematicians from the Kyoto and Osaka area are not widely known today.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="31">
+<j>遺題継承の結果、高度な代数、整数方程式論、解析学、幾何学が実用の範囲を超えて発達した。</j>
+<e type="trans" ver="1">As a result of the succession of idai, the studies of algebra, the integer equation theory, mathematical analysis and geometry were developed to the advanced level beyond practical needs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a result of the succession of idai, the studies of algebra, the integer equation theory, mathematical analysis and geometry were developed to the advanced level beyond practical needs.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As a result of the succession of idai, the studies of algebra, the integer equation theory, mathematical analysis and geometry were developed to the advanced level beyond practical needs.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>それらの成果の中には西洋での発見と同時期、又はより早く発見されていたものもある。</j>
+<e type="trans" ver="1">Some of the mathematical discoveries as a result of such studies were known to be achieved around the same time as, or even earlier than, in Europe.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some of the mathematical discoveries as a result of such studies were known to be achieved around the same time as, or even earlier than, in Europe.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some of the mathematical discoveries as a result of such studies were known to be achieved around the same time as, or even earlier than, in Europe.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>総合的に評価して、西洋数学との差は論じるまでもないが、その発展の速さは驚異的であった。</j>
+<e type="trans" ver="1">Although there was a world of difference in the level of European mathematics and that of Japanese at that time, if we were to give a comprehensive evaluation, the speed in which wasan was developed was unprecedented.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although there was a world of difference in the level of European mathematics and that of Japanese at that time, if we were to give a comprehensive evaluation, the speed in which wasan was developed was unprecedented.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Although there was a world of difference in the level of European mathematics and that of Japanese at that time, if we were to give a comprehensive evaluation, the speed in which wasan was developed was unprecedented.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="34">
+<j>和算における解析学に関連した研究を、円理という。</j>
+<e type="trans" ver="1">The study concerning mathematical analysis in wasan is referred to as &quot;enri.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The study concerning mathematical analysis in wasan is referred to as &quot;enri.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The study concerning mathematical analysis in wasan is referred to as enri.</e>
+<cmt>不要な&quot;&quot;を外しました</cmt>
+</sen>
+<sen id="35">
+<j>関孝和やそれ以前は円周率、球の体積や表面積が主な問題となったので、その名がある。</j>
+<e type="trans" ver="1">Because in the time of Takakazu SEKI or before, the main problem in mathematical analysis was the circumference ratio or the volume and surface area of a sphere, it was called the study of enri (circle principle).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because, in the time of Takakazu SEKI or before, the main problem in mathematical analysis was the circumference ratio or the volume and surface area of a sphere, it was called the study of enri (circle principle).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Because, in the time of Takakazu SEKI or before, the main problem in mathematical analysis was the circumference ratio or the volume and surface area of a sphere, it was called the study of enri (circle principle).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>例えば、関孝和は円に接する正多角形の辺の長さを用い、円周率を11桁まで得ている。</j>
+<e type="trans" ver="1">To give an example, Takakazu SEKI derived 11 digits of pi using the length of the sides of a regular polygon which touch the circle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">To give an example, Takakazu SEKI derived eleven digits of pi using the length of the sides of a regular polygon which touched the circle.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">To give an example, Takakazu SEKI derived eleven digits of pi using the length of the sides of a regular polygon which touched the circle.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>また、関の弟子である建部賢弘は同様の手法をRichardson補外と組み合わせて、42桁まで正しい値を計算している。</j>
+<e type="trans" ver="1">Also, Katahiro TAKEBE, a disciple of SEKI, combined the method of Seki with the Richardson extrapolation, and correctly calculated up to 42 digits of pi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, Katahiro TAKEBE, a disciple of SEKI, combined the method of Seki with the Richardson extrapolation, and correctly calculated up to fourty-two digits of pi.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also, Katahiro TAKEBE, a disciple of SEKI, combined the method of Seki with the Richardson extrapolation, and correctly calculated up to fourty-two digits of pi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>彼はさらに進んで、数値計算の結果を手がかりに (arcsin x)2の冪級数展開を世界で初めて計算した。</j>
+<e type="trans" ver="1">Takabe further calculated the power series expansion of (arcsin x)2 for the first time in the world.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takabe further calculated the power series expansion of (arcsin x)2 for the first time in the world.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Using the result of the calculation, Takabe further calculated the power series expansion of (arcsin x)2 for the first time in the world.</e>
+<cmt>訳漏れ</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="39">
+<j>また、同年に大阪の鎌田俊清もarcsin(x), sin(x)の冪級数展開を求めた。</j>
+<e type="trans" ver="1">In the same year, Toshikiyo KAMATA of Osaka also obtained the power series expansion of (arcsin x)2 and sin(x).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the same year, Toshikiyo KAMATA of Osaka also obtained the power series expansion of (arcsin x)2 and sin(x).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the same year, Toshikiyo KAMATA of Osaka also obtained the power series expansion of arcsin(x) and sin(x).</e>
+<cmt>単語を修正しました</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="40">
+<j>以降、関流に属する松永良弼、久留島喜内、安島直円、和田寧らによってさらに研究がすすんだ。</j>
+<e type="trans" ver="1">The study on mathematics was further developed by mathematicians who belonged to Seki school, such as Yoshisuke MATSUNAGA, Kinai KURUSHIMA, Naonobu AJIMA, Nei WADA.</e>
+<cmt>一原文一訳文の例外対処をしました。</cmt>
+<e type="trans" ver="2">The study of mathematics was further developed by mathematicians who belonged to the Seki school, such as Yoshisuke MATSUNAGA, Kinai KURUSHIMA, Naonobu AJIMA, Nei WADA.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Since then, the study of mathematics was further developed by mathematicians who belonged to the Seki school, such as Yoshisuke MATSUNAGA, Kinai KURUSHIMA, Naonobu AJIMA, Nei WADA.</e>
+<cmt>訳漏れ</cmt>
+</sen>
+<sen id="41">
+<j>特に和田寧の円理表の出現によって、複雑な図形の面積や、立体の体積、重心、曲線の長さなど、今日の積分法に相当する計算がかなり自在にできるようになった。</j>
+<e type="trans" ver="1">Nei WADA&apos;s &quot;enri-hyo&quot; (enri table), in particular, enabled calculations which equals to today&apos;s integration method, including the calculation of areas of complicated diagrams, volumes of solids, median points, and lengths of curves.</e>
+<cmt>一原文一訳文の例外対処をしました。</cmt>
+<e type="trans" ver="2">Nei WADA&apos;s &quot;enri-hyo&quot; (enri table), in particular, enabled calculations equaling today&apos;s integration method, including the calculation of areas of complicated diagrams, volumes of solids, median points, and lengths of curves.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Nei WADA&apos;s enri-hyo (enri table), in particular, enabled calculations equaling today&apos;s integration method, including the calculation of areas of complicated diagrams, volumes of solids, median points, and lengths of curves.</e>
+<cmt>記号を半角に修正しました不要な&quot;&quot;を外しました</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="42">
+<j>ただし、積分の記号があったわけではなく、無限級数（と解釈できるもの）でこれらのものを表現した。</j>
+<e type="trans" ver="1">However, as the concept of integral signs did not exist, they were rendered by what can be classified as infinite series.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, as the concept of integral signs did not exist, they were rendered by what can be classified as an infinite series.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, as the concept of integral signs did not exist, they were rendered by what can be classified as an infinite series.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="43">
+<j>一方、微分の概念は和算ではあまりはっきりと立ち現れてこない。</j>
+<e type="trans" ver="1">On the other hand, the concept of differential did not come to the fore in wasan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the other hand, the concept of differentials did not come to the fore in wasan.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">On the other hand, the concept of differentials did not come to the fore in wasan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>これは、和算が「グラフ」の概念を欠いていたことが一つの理由であろう。</j>
+<e type="trans" ver="1">This was partly due to the fact that wasan did not have the concept of graph.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was partly due to the fact that wasan did not have the concept of a graph.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This was partly due to the fact that wasan did not have the concept of a &apos;graph.&apos;</e>
+<cmt>記号を追加しました</cmt>
+</sen>
+<sen id="45">
+<j>ただ、代数方程式の重解の考察にからんで多項式の微分が関孝和以来扱われている。</j>
+<e type="trans" ver="1">The exception was that since the time of Takakazu SEKI, polynomial differential had been considered in relation to the repeated roots in algebraic equations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The exception was that since the time of Takakazu SEKI, polynomial differentials had been considered in relation to repeated roots in algebraic equations.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The exception was that since the time of Takakazu SEKI, polynomial differentials had been considered in relation to repeated roots in algebraic equations.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>しかし、関による定義は、f(x+e)をeについて整理したときの一次の項で、接線との関係は全く念頭にない。</j>
+<e type="trans" ver="1">However, Seki&apos;s definition was a single term when f(x+e) was arranged for e, which did not consider its relation to the tangent.</e>
+<cmt>原文の意味を汲み取れませんでした。</cmt>
+<e type="trans" ver="2">However, Seki&apos;s definition was a single term when f(x+e) was arranged for e, which did not consider its relation to the tangent.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, Seki&apos;s definition was a single term when f(x+e) was arranged for e, which did not consider its relation to the tangent.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="47">
+<j>建部賢弘はこれを多項式関数の極値問題に応用している。</j>
+<e type="trans" ver="1">Katahiro TAKEBE applied this to the extreme value problem of polynomial function.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katahiro TAKEBE applied this to the extreme value problem of polynomial function.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Katahiro TAKEBE applied this to the extreme value problem of polynomial function.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>彼は、数値的に微小な差分をとった時の主要項と、関の定義による導多項式が一致していることには気がついていたようである。</j>
+<e type="trans" ver="1">He was probably aware of the fact that the principal term derived from the numerically miniscule difference and the derivative of polynomial equation defined by Seki was a same thing.</e>
+<cmt>原文の意味を汲み取れませんでした（特に「数値的に微小な差分をとった時の主要項」の部分）。</cmt>
+<e type="trans" ver="2">He was probably aware of the fact that the principal term derived from the numerically miniscule difference and the derivative of polynomial equation defined by Seki was a same thing.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was probably aware of the fact that the principal term derived from the numerically miniscule difference and the derivative of polynomial equation defined by Seki was a same thing.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="49">
+<j>また、久留島義太は極値問題を級数展開の視点で考察し、微分法の一歩手前まで来ている。</j>
+<e type="trans" ver="1">Yoshihiro KURUSHIMA studied the extreme value problem from the point of view of series expansion, and came within an inch of understanding complex differentiation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshihiro KURUSHIMA studied the extreme value problem from the point of view of series expansion, and came within an inch of understanding complex differentiation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yoshihiro KURUSHIMA studied the extreme value problem from the point of view of series expansion, and came within an inch of understanding complex differentiation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>同じ脈絡で、和田寧はフェルマーの方法、すなわち (f(x + e/2) - f(x - e/2))/e を計算し、e 0 とする方法を発表している。</j>
+<e type="trans" ver="1">Nei WADA also calculated Fermat&apos;s Principle, that is to say, (f(x + e/2) - f(x - e/2))/e, and delivered the method in which it was expressed as e 0.</e>
+<cmt>原文の意味を汲み取れませんでした（特に「e 0 とする方法」の部分）。</cmt>
+<e type="trans" ver="2">Nei WADA also calculated Fermat&apos;s Principle, that is to say, (f(x + e/2) - f(x - e/2))/e, and delivered the method in which it was expressed as e 0.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nei WADA also calculated Fermat&apos;s Principle, that is to say, (f(x + e/2) - f(x - e/2))/e, and delivered the method in which it was expressed as e 0.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="51">
+<j>微分が発達しなかった為、和算では微分積分学の基本定理がなかった。</j>
+<e type="trans" ver="1">Because the concept of differential was not developed, there was no fundamental theorem of calculus in wasan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the concept of differentials was not developed, there was no fundamental theorem of calculus in wasan.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because the concept of differentials was not developed, there was no fundamental theorem of calculus in wasan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="52">
+<j>したがって、微分の逆で積分を計算することも、部分積分を利用することもできなかった。</j>
+<e type="trans" ver="1">As such, in wasan it was not possible to calculate integration as an opposite of differential nor was it possible to utilize partial integration.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As such, in wasan it was not possible to calculate integration as an opposite of a differential nor was it possible to utilize partial integration.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As such, in wasan it was not possible to calculate integration as an opposite of a differential nor was it possible to utilize partial integration.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>複雑な関数の積分は、冪級数展開と級数の和の公式を巧みに用いた。</j>
+<e type="trans" ver="1">For calculating the integration of complicated function, they skillfully used the power series expansion and the formulae for sum of series.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For calculating the integration of a complicated function, they skillfully used power series expansion and the formulae for the sum of series.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">For calculating the integration of a complicated function, they skillfully used power series expansion and the formulae for the sum of series.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="54">
+<j>整数方程式や整数論では中国数学の伝統を引き継ぎ、さらに深い研究が進んだ。</j>
+<e type="trans" ver="1">The study of integral equation and arithmetic was further developed by inheriting the tradition of Chinese mathematics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The study of integral equations and arithmetic was further developed by inheriting the tradition of Chinese mathematics.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The study of integral equations and arithmetic was further developed by inheriting the tradition of Chinese mathematics.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="55">
+<j>たとえば、関孝和は一次連立不定方程式の一般解を与え、久留島義太はオイラー関数を導入している。</j>
+<e type="trans" ver="1">Takakazu SEKI, for example, gave a general solution of simultaneous linear diophantine equation, and Yoshihiro KURUSHIMA adopted Euler&apos;s function.</e>
+<cmt>「一次連立不定方程式」はlinear simultaneous diophantine equationか、simultaneous linear diophantine equationか確認できませんでした。</cmt>
+<e type="trans" ver="2">Takakazu SEKI, for example, gave a general solution of simultaneous linear diophantine equation, and Yoshihiro KURUSHIMA adopted Euler&apos;s function.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Takakazu SEKI, for example, gave a general solution of simultaneous linear diophantine equation, and Yoshihiro KURUSHIMA adopted Euler&apos;s function.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="56">
+<j>和算の中心的な手法は数値計算的な代数であった。</j>
+<e type="trans" ver="1">The main approach of wasan was characterized by the numerical calculation of algebra.</e>
+<cmt>一原文一訳文の例外対処をしました。</cmt>
+<e type="trans" ver="2">The main approach of wasan was characterized by numerical calculations of algebra.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The main approach of wasan was characterized by numerical calculations of algebra.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="57">
+<j>特に関孝和や建部のころは、図形の問題はピタゴラスの定理など、簡単な関係を用いて代数の問題に直して処理していた。</j>
+<e type="trans" ver="1">Especially during the period in which Takakazu SEKI and Katahiro TAKEBE were active, the problems concerning diagrams were represented and solved as algebra problems by applying simple relations such as Pythagorean theorem.</e>
+<cmt>一原文一訳文の例外対処をしました。</cmt>
+<e type="trans" ver="2">Especially during the period when Takakazu SEKI and Katahiro TAKEBE were active, problems concerning diagrams were represented and solved as algebra problems by applying simple relations such as Pythagorean theorem.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Especially during the period when Takakazu SEKI and Katahiro TAKEBE were active, problems concerning diagrams were represented and solved as algebra problems by applying simple relations such as Pythagorean theorem.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>算額に見られるような、互いに接する円や楕円の関係を求める問題は、松永良弼のころから盛んになる。</j>
+<e type="trans" ver="1">The problems which solved the relations between circles and ovals that touch each other, such as seen on Sangaku (Japanese votive tablets featuring mathematical puzzles), started to draw attentions during the time of Yoshisuke MATSUNAGA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The problems which solved the relationships between circles and ovals that touch each other, such as seen on Sangaku (Japanese votive tablets featuring mathematical puzzles), started to draw attention during the time of Yoshisuke MATSUNAGA.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The problems which solved the relationships between circles and ovals that touch each other, such as seen on Sangaku (Japanese votive tablets featuring mathematical puzzles), started to draw attention during the time of Yoshisuke MATSUNAGA.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>次の世代の安島直円は、三斜三円術（マルファッティの定理）などを発見し、これらの問題の系統的な解法の発展に寄与した。</j>
+<e type="trans" ver="1">Naonobu Ajima, who belonged to the next generation, found sansha sanen-jutsu (the method of three diagonals and three circles; Malfatti&apos;s Problem) and contributed to further solve these mathematical problems in a systematic manner.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Naonobu Ajima, who belonged to the next generation, founded sansha sanen-jutsu (the method of three diagonals and three circles; Malfatti&apos;s Problem) and contributed to further solving these mathematical problems in a systematic manner.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Naonobu Ajima, who belonged to the next generation, founded sansha sanen-jutsu (the method of three diagonals and three circles; Malfatti&apos;s Problem) and contributed to further solving these mathematical problems in a systematic manner.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="60">
+<j>幕末には法導寺善が反転で円を直線に写して簡略化する手法を導入した。</j>
+<e type="trans" ver="1">At the end of Edo period, Zen HODOJI introduced a simplifying technique in which inverted circles are reflected on straight lines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the end of the Edo period, Zen HODOJI introduced a simplifying technique in which inverted circles are reflected in straight lines.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At the end of the Edo period, Zen HODOJI introduced a simplifying technique in which inverted circles are reflected in straight lines.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="61">
+<j>近年、和算で発見された幾何の美しい定理は（趣味的な観点からではあるが）注目を浴び、海外にも広く紹介されている。</j>
+<e type="trans" ver="1">In recent years, the beautiful geometric theorem discovered by wasan mathematicians is drawing interests of people (at least on an avocational level), and is introduced world-wide.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In recent years, the beautiful geometric theorem discovered by wasan mathematicians is drawing the interests of people (at least on an avocational level), and is being introduced world-wide.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In recent years, the beautiful geometric theorem discovered by wasan mathematicians is drawing the interests of people (at least on an avocational level), and is being introduced world-wide.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="62">
+<j>ただし、問題の処理にあたって代数計算や数値計算に頼る傾向が最後まで残った。</j>
+<e type="trans" ver="1">On the other hand, the tendency to rely on algebra calculation and numerical calculation for solving problems always remained with wasan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the other hand, the tendency to rely on algebraic and numerical calculations for solving problems always remained with wasan.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">On the other hand, the tendency to rely on algebraic and numerical calculations for solving problems always remained with wasan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>また、作図問題などはあまり扱われず、いわんやユークリッド流の公理的な幾何学などは全く受け入れられなかった。</j>
+<e type="trans" ver="1">In wasan, construction problems were scarcely dealt with, not to mention Euclidean axiomatic geometry, which was entirely outside of their interest.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In wasan, construction problems were scarcely dealt with, not to mention Euclidean axiomatic geometry, which was entirely outside their interest.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In wasan, construction problems were scarcely dealt with, not to mention Euclidean axiomatic geometry, which was entirely outside their interest.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="64">
+<j>幕末、海軍伝習所で教えた外国人教官の追憶によると、日本人は代数の理解は早かったが、幾何は中々進まなかったという。</j>
+<e type="trans" ver="1">According to the memoir of a western teacher who taught at Kaigun Denshu-sho (the Naval School in Edo) at the end of Edo period, Japanese people were strong in algebra, but they were slow to understand geometry.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the memoir of a western teacher who taught at Kaigun Denshu-sho (the Naval School in Edo) at the end of the Edo period, Japanese people were strong in algebra, but they were slow to understand geometry.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">According to the memoir of a western teacher who taught at Kaigun Denshu-sho (the Naval School in Edo) at the end of the Edo period, Japanese people were strong in algebra, but they were slow to understand geometry.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="65">
+<j>和算における多くの成果は各流派の中で秘伝とされ続けてきた。</j>
+<e type="trans" ver="1">Many of the findings in wasan were considered secret and protected within each school of mathematics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many of the findings in wasan were considered secret and protected within each school of mathematics.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Many of the findings in wasan were considered secret and protected within each school of mathematics.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="66">
+<j>（実際にどの程度秘密が守られたかは不明。）</j>
+<e type="trans" ver="1">(It is unclear, however, how much of such a secrecy had been kept intact.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(It is unclear, however, how much of such a secrecy had been kept intact.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(It is unclear, however, how much of such a secrecy had been kept intact.)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="67">
+<j>しかし、関流算術を学んだ久留米藩主・有馬頼ゆきは1769年に出版した著書『拾璣算法』において関流の秘伝を公開し、和算文化の向上に大きな貢献を果たした。</j>
+<e type="trans" ver="1">Yoriyuki ARIMA, the lord of Kurume Domain who learned arithmetic of Seki school, revealed the mathematical secrets taught in Seki school in his &quot;Shuki Sanpo,&quot; published in 1769, and contributed greatly to the advancement of wasan culture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoriyuki ARIMA, lord of the Kurume Domain who learned arithmetic of the Seki school, revealed the mathematical secrets taught in Seki school in his &quot;Shuki Sanpo,&quot; published in 1769, and contributed greatly to the advancement of wasan culture.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Yoriyuki ARIMA, lord of the Kurume Domain who learned arithmetic of the Seki school, revealed the mathematical secrets taught in Seki school in his &quot;Shuki Sanpo,&quot; published in 1769, and contributed greatly to the advancement of wasan culture.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="68">
+<j>また、幕末の長谷川寛監修、千葉胤秀編の『算法新書』（1830年）では、初歩から最先端の結果までを丁寧に解説した。</j>
+<e type="trans" ver="1">&quot;Sanpo-shinsho&quot; (New Mathematics), supervised by Hiroshi HASEGAWA, edited by Tanehide CHIBA and published in 1830 (the end of Edo period), explained wasan in details from the entry level up to the latest findings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Sanpo-shinsho&quot; (New Mathematics), supervised by Hiroshi HASEGAWA, edited by Tanehide CHIBA and published in 1830 (the end of Edo period), explained wasan in detail from the entry level up to the latest findings.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">&quot;Sanpo-shinsho&quot; (New Mathematics), supervised by Hiroshi HASEGAWA, edited by Tanehide CHIBA and published in 1830 (the end of Edo period), explained wasan in detail from the entry level up to the latest findings.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>明治時代以後</j>
+<e type="trans" ver="1">After Meiji Period</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the Meiji Period</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After the Meiji Period</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="69">
+<j>明治時代に入ると、西洋数学が本格的に導入される（「和算」という語は西洋数学を表す「洋算」に対する日本数学の名で、この頃生まれた。）。</j>
+<e type="trans" ver="1">During Meiji period, western mathematics was introduced on a full scale (The word &quot;wasan,&quot; meaning Japanese mathematics, was coined around this time as a term that counters &quot;yosan,&quot; or western mathematics).</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the Meiji period, western mathematics were introduced on a full scale (The word &quot;wasan,&quot; meaning Japanese mathematics, was coined around this time as a term that counters &quot;yosan,&quot; or western mathematics).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">During the Meiji period, western mathematics were introduced on a full scale (The word &apos;wasan,&apos; meaning Japanese mathematics, was coined around this time as a term that counters &apos;yosan,&apos; or western mathematics).</e>
+<cmt>記号を修正しました</cmt>
+</sen>
+<sen id="70">
+<j>そして、それにより和算は衰退してゆくこととなる。</j>
+<e type="trans" ver="1">As a result, wasan followed a course of decline.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a result, wasan followed a course of decline.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As a result, wasan followed a course of decline.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="71">
+<j>その象徴的出来事は明治5年（1872年）の学制発布の際、時の政府が「和算を廃止し、洋算を専ら用ふるべし。」と決断したことである。</j>
+<e type="trans" ver="1">A symbolic event of such a decline was when the government at that time issued the proclamation of education in 1872 and declared that &quot;wasan should be abolished and we should practice only yosan.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">A symbolic event of such a decline was when the government at that time issued the proclamation of education in 1872 and declared that &quot;wasan should be abolished and we should practice only yosan.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A symbolic event of such a decline was when the government at that time issued the proclamation of education in 1872 and declared that &quot;wasan should be abolished and we should practice only yosan.&quot;</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="72">
+<j>（翌年、珠算のみ復活）</j>
+<e type="trans" ver="1">(The study of shuzan (calculation by abacus) was restarted next year, however.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(The study of shuzan - calculation using an abacus was restarted the next year, however.)</e>
+<cmt>punctuation, grammar</cmt>
+<e type="check" ver="1">(The study of shuzan - calculation using an abacus was restarted the next year, however.)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="73">
+<j>しかし、明治の初めの西洋数学導入は、技術を支える道具の輸入という面が強く、初期の「洋算家」には技術者など数学の専門家とは言えないものも多かった。</j>
+<e type="trans" ver="1">However, the introduction of western mathematics at the beginning of Meiji period emphasized the importation of technical tools from the west, and as such, the early &quot;yosan mathematicians&quot; were more of technicians, rather than experts of mathematics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the introduction of western mathematics at the beginning of the Meiji period emphasized the importation of technical tools from the west, and as such, the early &quot;yosan mathematicians&quot; were technicians, rather than experts of mathematics.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, the introduction of western mathematics at the beginning of the Meiji period emphasized the importation of technical tools from the west, and as such, the early &apos;yosan mathematicians&apos; were technicians, rather than experts of mathematics.</e>
+<cmt>記号を修正しました</cmt>
+</sen>
+<sen id="74">
+<j>明治10年（1877年）の日本数学会の前身、東京数学会社の設立には多数の和算家が参加しており、むしろ和算家の方が数学力は優れたものが多かったという。</j>
+<e type="trans" ver="1">When Tokyo Sugaku Gaisha (Tokyo Mathematical Company), the former The Mathematical Society of Japan, was established in 1877, many wasan mathematicians, who were indeed more skillful and had better understanding of mathematics than yosan mathematicians, joined.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When Tokyo Sugaku Gaisha (Tokyo Mathematical Company), the former The Mathematical Society of Japan, was established in 1877, many wasan mathematicians, who were indeed more skillful and had better understanding of mathematics than yosan mathematicians, joined.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">When Tokyo Sugaku Gaisha (Tokyo Mathematical Company), the former The Mathematical Society of Japan, was established in 1877, many wasan mathematicians, who were indeed more skillful and had better understanding of mathematics than yosan mathematicians, joined.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="75">
+<j>そして、このころになっても未だ、新たな和算書が出版されている。</j>
+<e type="trans" ver="1">Even then, new editions of books on wasan were published.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even then, new editions of books on wasan were published.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Even then, new editions of books on wasan were published.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="76">
+<j>また、和算への批判は「応用に役に立たない」というものが主流であった。</j>
+<e type="trans" ver="1">One of the main criticisms against wasan was that it was &quot;useless in terms of practical usage.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">One of the main criticisms against wasan was that it was &quot;useless in terms of practical usage.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">One of the main criticisms against wasan was that it was &quot;useless in terms of practical usage.&quot;</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="77">
+<j>本格的な西洋数学への移行は1884年、東京数学会社が日本数学物理学会に改組されたころである。</j>
+<e type="trans" ver="1">In 1884, the full-scale transition to western mathematics took place when Tokyo Sugaku Gaisha was incorporated into Japan Mathematics and Physics Society.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1884, the full-scale transition to western mathematics took place when Tokyo Sugaku Gaisha was incorporated into the Japan Mathematics and Physics Society.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In 1884, the full-scale transition to western mathematics took place when Tokyo Sugaku Gaisha was incorporated into the Japan Mathematics and Physics Society.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="78">
+<j>本格的な西洋数学導入までの間、和算（又は和算家）は応用面においても近代化を支えた。</j>
+<e type="trans" ver="1">But until the fully-fledged introduction of western mathematics was under way, wasan (as well as wasan mathematicians) played a part in the modernization of the country.</e>
+<cmt></cmt>
+<e type="trans" ver="2">But until the fully-fledged introduction of western mathematics was under way, wasan (as well as wasan mathematicians) played a part in the modernization of the country.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">But until the fully-fledged introduction of western mathematics was under way, wasan (as well as wasan mathematicians) also played a part in the modernization of the country on the practical side.</e>
+<cmt>訳漏れ</cmt>
+</sen>
+<sen id="79">
+<j>1873年の太陽暦採用の主役を務めたのは関流の有力な和算家、内田五観であった。</j>
+<e type="trans" ver="1">Itsumi UCHIDA, a famous wasan mathematician of Seki school, played a key role in the introduction of the solar calendar to Japan in 1873.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Itsumi UCHIDA, a famous wasan mathematician of Seki school, played a key role in the introduction of the solar calendar to Japan in 1873.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Itsumi UCHIDA, a famous wasan mathematician of Seki school, played a key role in the introduction of the solar calendar to Japan in 1873.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="80">
+<j>福田理軒のように測量で活躍したものもあった。</j>
+<e type="trans" ver="1">There were others, such as Riken FUKUDA, who became successful in the field of surveying.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were others, such as Riken FUKUDA, who became successful in the field of surveying.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There were others, such as Riken FUKUDA, who became successful in the field of surveying.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="81">
+<j>幕末・明治初めの技術官僚小野友五郎も和算家であり、咸臨丸の航路の計算には和算を用いたという。</j>
+<e type="trans" ver="1">Tomogoro ONO, a technician and a bureaucrat from the end of Edo period to the beginning of Meiji period, was also a wasan mathematician, and it is said that he applied wasan for calculating the shipping route of Kanrin Maru (the first Japanese ship ever to cross the Pacific).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tomogoro ONO, a technician and a bureaucrat from the end of Edo period to the beginning of the Meiji period, was also a wasan mathematician, and it is said that he applied wasan for calculating the shipping route of Kanrin Maru (the first Japanese ship ever to cross the Pacific).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tomogoro ONO, a technician and a bureaucrat from the end of Edo period to the beginning of the Meiji period, was also a wasan mathematician, and it is said that he applied wasan for calculating the shipping route of Kanrin Maru (the first Japanese ship ever to cross the Pacific).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="82">
+<j>また、大工のための作図技術である規矩術は幕末期より和算の応用によって理論的に整備された。</j>
+<e type="trans" ver="1">Wasan was also applied to kiku-jutsu, which is a drafting technique for carpenters, in order to re-organize its theoretical aspects at the end of Edo period.</e>
+<cmt>一原文一訳文の例外対処をしました。</cmt>
+<e type="trans" ver="2">Wasan was also applied to kiku-jutsu, which is a drafting technique for carpenters, in order to re-organize its theoretical aspects during the end of Edo period.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Wasan was also applied to kiku-jutsu, which is a drafting technique for carpenters, in order to re-organize its theoretical aspects during the end of Edo period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="83">
+<j>明治以降も引き続き研究が進み、しかも明治20年ころのものでも和算の影響が濃厚である。</j>
+<e type="trans" ver="1">The study on kiku-jutsu developed well into Meiji period, and the strong influence of wasan was palpable even as late as 1887.</e>
+<cmt>一原文一訳文の例外対処をしました。</cmt>
+<e type="trans" ver="2">The study on kiku-jutsu developed well into Meiji period, and the strong influence of wasan was palpable even as late as 1887.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The study on kiku-jutsu developed well into Meiji period, and the strong influence of wasan was palpable even as late as 1887.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="84">
+<j>明治の初等教育でも和算家は活躍しつづけ、現在の算数の鶴亀算などはその名残りだという。</j>
+<e type="trans" ver="1">Wasan mathematicians continued to play important roles in elementary education during Meiji period, and what is taught as tsurukamezan (solving a system of linear equations) for arithmetic classes today is said to be a vestige of wasan from earlier time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wasan mathematicians continued to play important roles in elementary education during the Meiji period, and what is taught as tsurukamezan (solving a system of linear equations) for arithmetic classes today is said to be a vestige of wasan from earlier times.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Wasan mathematicians continued to play important roles in elementary education during the Meiji period, and what is taught as tsurukamezan (solving a system of linear equations) for arithmetic classes today is said to be a vestige of wasan from earlier times.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="85">
+<j>数学の専門家を輩出しえた社会的背景としては、貨幣経済の興隆の他、国絵図作成、新田開発などのための測量に対する需要があると推測される。</j>
+<e type="trans" ver="1">In terms of the social background for producing the specialists in mathematics, there were several factors contributing to it: the active money economy; the production of territorial maps of provinces; and land surveying for the purpose of the new field developments.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In terms of the social background for producing specialists in mathematics, there were several contributing factors: the active money economy; the production of territorial maps of provinces; and land surveying for the purpose of new field development.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In terms of the social background for producing specialists in mathematics, there were several contributing factors: the active money economy; the production of territorial maps of provinces; and demand for land surveying for the purpose of new field development and so on.</e>
+<cmt>訳漏れ</cmt>
+</sen>
+<sen id="86">
+<j>また、暦学にも高度な数学が必要であった。</j>
+<e type="trans" ver="1">The study of the calendar also required an advanced level of mathematics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The study of the calendar also required an advanced level of mathematics.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The study of the calendar also required an advanced level of mathematics.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="87">
+<j>関孝和は甲州藩の国絵図の作成に参加し、（実現はしなかったものの）改暦の準備のために授時暦の研究をしている。</j>
+<e type="trans" ver="1">Takakazu SEKI joined a group who were producing the territorial map of Koshu Domain, and he also studied Juji-reki Calendar in preparation for the changing of calendar (which did not come to fruition in the end).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takakazu SEKI joined a group producing a territorial map of the Koshu Domain, and he also studied Juji-reki Calendar in preparation for the changing of a calendar (which did not come to fruition in the end).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Takakazu SEKI joined a group producing a territorial map of the Koshu Domain, and he also studied Juji-reki Calendar in preparation for the changing of a calendar (which did not come to fruition in the end).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="88">
+<j>とくに後者は、関孝和の数学研究の重要な動機である、との説もある。</j>
+<e type="trans" ver="1">Some suggest that the studying of calendar was the important incentive for Seki&apos;s research on mathematics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some suggest that the studying calendars was an important incentive for Seki&apos;s research in mathematics.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Some suggest that the studying calendars was an important incentive for Seki&apos;s research in mathematics.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="89">
+<j>算木とそろばん</j>
+<e type="trans" ver="1">Sangi and Abacus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sangi and the Abacus</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sangi and the Abacus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="90">
+<j>和算で用いられる道具として算木とそろばんが挙げられる。</j>
+<e type="trans" ver="1">Sangi (arithmetic blocks) and abacus are the tools used when practicing wasan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sangi (arithmetic blocks) and abacus are tools used when practicing wasan.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sangi (arithmetic blocks) and abacus are tools used when practicing wasan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="91">
+<j>いずれも『算法統宗』に使用法が紹介されている。</j>
+<e type="trans" ver="1">&quot;Sanpo toso&quot; explains how to use both sangi and abacus.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Sanpo toso&quot; explains how to use both sangi and the abacus.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">&quot;Sanpo toso&quot; explains how to use both sangi and the abacus.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="92">
+<j>また、『塵劫記』にはそろばんの使用法が絵入りで丁寧に解説されている。</j>
+<e type="trans" ver="1">&quot;Jinkoki&quot; also contains explanation of how to use abacus with detailed illustrations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Jinkoki&quot; also contains an explanation of how to use the abacus with detailed illustrations.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">&quot;Jinkoki&quot; also contains an explanation of how to use the abacus with detailed illustrations.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="93">
+<j>そろばんは会計等広く用いられたのに対し、算木は専ら和算家によって、天元術（中国の代数方程式の理論）などの計算に用いられた。</j>
+<e type="trans" ver="1">While abacus was used for wider purpose such as accounting, sangi was used exclusively by wasan mathematicians for calculating with Tengen-jutsu (the theory of algebra equation developed in China).</e>
+<cmt></cmt>
+<e type="trans" ver="2">While the abacus was used for a wider purpose such as accounting, sangi was used exclusively by wasan mathematicians for calculating with Tengen-jutsu (the theory of algebraic equations developed in China).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">While the abacus was used for a wider purpose such as accounting, sangi was used exclusively by wasan mathematicians for calculating with Tengen-jutsu (the theory of algebraic equations developed in China) and so on.</e>
+<cmt>訳漏れ</cmt>
+</sen>
+<sen id="94">
+<j>天元術では、算盤（さんばん）と呼ばれる表と算木を用いた。</j>
+<e type="trans" ver="1">In Tengen-jutsu, a combination of a chart and sangi called &quot;sanban&quot; was used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Tengen-jutsu, a combination of a chart and sangi called &quot;sanban&quot; was used.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In Tengen-jutsu, a combination of a chart and sangi called sanban was used.</e>
+<cmt>記号を削除修正しました</cmt>
+</sen>
+<sen id="95">
+<j>算盤とは碁盤の目状になった表であり、各列が一、十、百、千、万といった桁を表し、各行は商（答え）、実（定数項）、方　(x)、廉 (x2)、隅 (x3)、三乗 (x4)…と代数方程式の解および各係数を表した。</j>
+<e type="trans" ver="1">Sanban is a grid chart with each column expressing number such as 1, 10, 100, 1 thousand, 10 thousand, and each row expressing answers to algebra equations and their coefficients, such as &quot;sho&quot; (answer), &quot;jitsu&quot; (constant term), &quot;ho&quot; (x), &quot;ren&quot; (x2), &quot;gu&quot; (x3), &quot;sanjo&quot; (x4) and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sanban is a grid chart with each column expressing numbers such as one, ten, one hundred, one thousand, ten thousand, and each row expressing answers to algebraic equations and their coefficients, such as &quot;sho&quot; (answer), &quot;jitsu&quot; (constant term), &quot;ho&quot; (x), &quot;ren&quot; (x2), &quot;gu&quot; (x3), &quot;sanjo&quot; (x4) and so on.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sanban is a grid chart with each column expressing numbers such as one, ten, one hundred, one thousand, ten thousand, and each row expressing answers to algebraic equations and their coefficients, such as &quot;sho&quot; (answer), &quot;jitsu&quot; (constant term), &quot;ho&quot; (x), &quot;ren&quot; (x2), &quot;gu&quot; (x3), &quot;sanjo&quot; (x4) and so on.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="96">
+<j>各升目に置かれた算木を並べ替えることで、代数方程式を解いていった。</j>
+<e type="trans" ver="1">Algebra equations were solved by replacing a block of sangi with others in each cell.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Algebraic equations were solved by replacing a block of sangi with others in each cell.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Algebraic equations were solved by replacing a block of sangi with others in each cell.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="97">
+<j>関孝和は算木を用いずに筆算により代数方程式を解く計算法を編み出した。</j>
+<e type="trans" ver="1">Takakazu SEKI formulated a calculation method for solving algebra equations with a pen and a paper alone without using sangi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takakazu SEKI formulated a method of calculation for solving algebra equations with a pen and paper alone without using sangi.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Takakazu SEKI formulated a method of calculation for solving algebra equations with a pen and paper alone without using sangi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="98">
+<j>この方法は後に点竄術（てんざんじゅつ）とよばれ、和算の中心的な手法となった。</j>
+<e type="trans" ver="1">This method was later called Tenzan-jutsu, and became the principal method in wasan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This method was later called Tenzan-jutsu, and became the principal method in wasan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This method was later called Tenzan-jutsu, and became the principal method in wasan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="99">
+<j>算額</j>
+<e type="trans" ver="1">Sangaku</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sangaku</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sangaku</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="100">
+<j>算額（さんがく）とは額や絵馬に数学の問題や解法を記して、神社や寺院に奉納したものである。</j>
+<e type="trans" ver="1">Sangaku is a framed picture or Ema (a votive picture tablet) with mathematical problems and answers written on it, and dedicated to shrines and temples.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sangaku is a framed picture or Ema (a votive picture tablet) with mathematical problems and answers written on it, and dedicated to shrines and temples.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sangaku is a framed picture or Ema (a votive picture tablet) with mathematical problems and answers written on it, and dedicated to shrines and temples.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="101">
+<j>平面図形に関する問題の算額が多い。</j>
+<e type="trans" ver="1">Many of sangaku deal with problems concerning plain figures.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many of sangaku deal with problems concerning plain figures.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Many of sangaku deal with problems concerning plain figures.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="102">
+<j>数学者のみならず、一般の数学愛好家も数多く奉納している。</j>
+<e type="trans" ver="1">Sangaku were dedicated not only by mathematicians, but also by math-lovers and practitioners in general.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sangaku were dedicated not only by mathematicians, but also by math-lovers and practitioners in general.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sangaku were dedicated not only by mathematicians, but also by math-lovers and practitioners in general.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="103">
+<j>算額は数学の問題が解けたことを神仏に感謝し、益々勉学に励むことを祈願して奉納されたと言われる。</j>
+<e type="trans" ver="1">It is said that sangaku was dedicated as a sign of gratitude to gods for being able to solve mathematical problems and to promise them to devote oneself further to studying.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that sangaku was dedicated as a sign of gratitude to gods for being able to solve mathematical problems and to promise them to devote oneself further to studying.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is said that sangaku was dedicated as a sign of gratitude to gods for being able to solve mathematical problems and to promise them to devote oneself further to studying.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="104">
+<j>やがて、人の集まる神社仏閣を数学の発表の場として、難問や問題だけを書いて解答を付けずに奉納するものも現れ、その問題を見て解答を算額にしてまた奉納するといったことも行われた。</j>
+<e type="trans" ver="1">Such shrines and temples became a place where people gather to present and solve mathematical problems; some dedicated sangaku with difficult problems without answers written on them, and others who solved such problems dedicated their own sangaku with answers to the problems dedicated earlier.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Such shrines and temples became a place where people gathered to present and solve mathematical problems; some dedicated sangaku with difficult problems without answers written on them, and others who solved such problems dedicated their own sangaku with answers to problems dedicated earlier.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Such shrines and temples became a place where people gathered to present and solve mathematical problems; some dedicated sangaku with difficult problems without answers written on them, and others who solved such problems dedicated their own sangaku with answers to problems dedicated earlier.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="105">
+<j>算額奉納の習慣は世界に例を見ず、日本独自の文化である。</j>
+<e type="trans" ver="1">The dedication of sangaku is a practice unknown to other countries, and is unique to Japanese culture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The dedication of sangaku is a practice unknown to other countries, and is unique to Japanese culture.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The dedication of sangaku is a practice unknown to other countries, and is unique to Japanese culture.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="106">
+<j>明治時代になり鎖国が解けると、日本には洋算が導入されるようになったが、この導入を容易にしたことにも算額を奉納する風習が貢献した。</j>
+<e type="trans" ver="1">When yosan, or western mathematics, was introduced to Japan after the opening of the country in Meiji period, this practice of dedicating sangaku also contributed to the smooth introduction of new type of mathematics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When yosan, or western mathematics, was introduced to Japan after opening the country during the Meiji period, this practice of dedicating sangaku also contributed to the smooth introduction of a new type of mathematics.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">When yosan, or western mathematics, was introduced to Japan after opening the country during the Meiji period, this practice of dedicating sangaku also contributed to the smooth introduction of a new type of mathematics.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="107">
+<j>1997年に行われた調査結果によると、日本全国に975面の算額が現存している（『例題で知る日本の数学と算額』森北出版）。</j>
+<e type="trans" ver="1">According to the survey carried out in 1997, there are 975 pieces of existing sangaku all over Japan (&quot;Reidai de shiru nihon no sugaku to sangaku,&quot; published by Morikita Shuppan).</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the survey carried out in 1997, there are 975 pieces of existing sangaku all over Japan (&quot;Reidai de shiru nihon no sugaku to sangaku,&quot; published by Morikita Shuppan).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">According to the survey carried out in 1997, there are 975 pieces of existing sangaku all over Japan (&quot;Reidai de shiru nihon no sugaku to sangaku,&quot; published by Morikita Publishing Co., Ltd.).</e>
+<cmt>記号を半角に修正しました出版社名を修正しました</cmt>
+</sen>
+<sen id="108">
+<j>これら現存する算額で最も古いものは栃木県佐野市にある星宮神社 (佐野市)にあり、1657年に掲げられたとされる。</j>
+<e type="trans" ver="1">The oldest existing sangaku is the one known to be dedicated in 1657 in Hoshinomiya-jinja Shrine in Sano City, Tochigi Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The oldest existing sangaku is the one known to be dedicated in 1657 in Hoshinomiya-jinja Shrine in Sano City, Tochigi Prefecture.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The oldest existing sangaku is the one known to be dedicated in 1657 in Hoshinomiya-jinja Shrine in Sano City, Tochigi Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="109">
+<j>算額を扱った小説として遠藤寛子 (作家)『算法少女』がある。</j>
+<e type="trans" ver="1">Sangaku is a theme of a novel &quot;Sanpo shojo,&quot; written by the novelist Hiroko ENDO.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sangaku is the theme of the novel &quot;Sanpo shojo,&quot; written by the novelist Hiroko ENDO.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sangaku is the theme of the novel &quot;Sanpo shojo,&quot; written by the novelist Hiroko ENDO.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="110">
+<j>和算の発展に関わった人物</j>
+<e type="trans" ver="1">People who Contributed to the Development of Wasan</e>
+<cmt></cmt>
+<e type="trans" ver="2">People who Contributed to the Development of Wasan</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">People who Contributed to the Development of Wasan</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="111">
+<j>毛利重能</j>
+<e type="trans" ver="1">Shigeyoshi MORI</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shigeyoshi MORI</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shigeyoshi MORI</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="112">
+<j>吉田光由</j>
+<e type="trans" ver="1">Mitsuyoshi YOSHIDA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mitsuyoshi YOSHIDA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mitsuyoshi YOSHIDA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="113">
+<j>今村知商</j>
+<e type="trans" ver="1">Chisho IMAMURA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chisho IMAMURA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chisho IMAMURA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="114">
+<j>- 『竪亥録（じゅがいろく）』(1639)。</j>
+<e type="trans" ver="1">-He wrote &quot;Jugairoku&quot; (1639).</e>
+<cmt></cmt>
+<e type="trans" ver="2">-He wrote &quot;Jugairoku&quot; (1639).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He wrote &quot;Jugairoku&quot; (1639).</e>
+<cmt>記号を削除しました記号を半角に修正しました</cmt>
+</sen>
+<sen id="115">
+<j>測量や求積に関係する公式集。</j>
+<e type="trans" ver="1">&quot;Jugairoku&quot; was a collection of formulae regarding surveying and quadrature.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Jugairoku&quot; was a collection of formulae regarding surveying and quadrature.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;Jugairoku&quot; was a collection of formulae regarding surveying and quadrature.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="116">
+<j>漢文で専門家向けに書かれた。</j>
+<e type="trans" ver="1">It was written in kanbun (Sino-Japanese) targeting the specialists.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was written in kanbun (Sino-Japanese) targeting the specialists.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was written in kanbun (Sino-Japanese) targeting the specialists.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="117">
+<j>弓型の孤と弦の関係に関する近似公式が見られる。</j>
+<e type="trans" ver="1">An approximate formula regarding the relation between arc and chord was included.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An approximate formula regarding the relationship between the arc and chord was included.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">An approximate formula regarding the relationship between the arc and chord was included.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="118">
+<j>沢口一之</j>
+<e type="trans" ver="1">Kazuyuki SAWAGUCHI</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kazuyuki SAWAGUCHI</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kazuyuki SAWAGUCHI</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="119">
+<j>田中由真</j>
+<e type="trans" ver="1">Yoshizane TANAKA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshizane TANAKA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yoshizane TANAKA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="120">
+<j>- 京都の和算家。</j>
+<e type="trans" ver="1">- He was a wasan mathematician from Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- He was a wasan mathematician from Kyoto.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was a wasan mathematician from Kyoto.</e>
+<cmt>記号を削除しました</cmt>
+</sen>
+<sen id="121">
+<j>筆算による多変数代数。</j>
+<e type="trans" ver="1">He practiced multivariable algebra by writing them down on paper.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He practiced multivariable algebra equations by writing them down on paper.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He practiced multivariable algebra equations by writing them down on paper.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="122">
+<j>小さなサイズの行列式と終結式。</j>
+<e type="trans" ver="1">He studied small-sized determinants and resultants.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He studied small-sized determinants and resultants.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He studied small-sized determinants and resultants.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="123">
+<j>関孝和と独立。</j>
+<e type="trans" ver="1">Tanaka became independent from Takakazu SEKI.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanaka became independent from Takakazu SEKI.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tanaka became independent from Takakazu SEKI.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="124">
+<j>魔方陣、数学遊戯の研究。</j>
+<e type="trans" ver="1">The research on mahojin (magic square) and sugaku-yugi (mathematical tricks).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The research on mahojin (magic square) and sugaku-yugi (mathematical tricks).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He researched on mahojin (magic square) and sugaku-yugi (mathematical tricks).</e>
+<cmt>主語を変更しました</cmt>
+</sen>
+<sen id="125">
+<j>『算法明解』（1679）『算学紛解』(1690頃）</j>
+<e type="trans" ver="1">He wrote &quot;Sanpo meikai&quot; (1679) and &quot;Sangaku funkai&quot; (circa 1690).</e>
+<cmt>『算学紛解』は読みを確認できませんでした。</cmt>
+<e type="trans" ver="2">He wrote &quot;Sanpo meikai&quot; (1679) and &quot;Sangaku funkai&quot; (circa 1690).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He wrote &quot;Sanpo meikai&quot; (1679) and &quot;Sangaku funkai&quot; (circa 1690).</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="126">
+<j>井関知辰</j>
+<e type="trans" ver="1">Tomotoki IZEKI</e>
+<cmt>「ともたつ」とも読むようです。</cmt>
+<e type="trans" ver="2">Tomotoki IZEKI</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tomotoki IZEKI</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="127">
+<j>- 大阪の和算家。</j>
+<e type="trans" ver="1">- He was a wasan mathematician from Osaka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- He was a wasan mathematician from Osaka.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was a wasan mathematician from Osaka.</e>
+<cmt>記号を削除しました</cmt>
+</sen>
+<sen id="128">
+<j>行列式、終結式の理論。</j>
+<e type="trans" ver="1">He studied the theory of determinants and resultants.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He studied the theory of determinants and resultants.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He studied the theory of determinants and resultants.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="129">
+<j>関と独立。</j>
+<e type="trans" ver="1">Izeki became independent from Seki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Izeki became independent from Seki.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Izeki became independent from Seki.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="130">
+<j>『算法発揮』1690年</j>
+<e type="trans" ver="1">He wrote &quot;Sanpo hakki&quot; (1690).</e>
+<cmt></cmt>
+<e type="trans" ver="2">He wrote &quot;Sanpo hakki&quot; (1690).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He wrote &quot;Sanpo hakki&quot; (1690).</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="131">
+<j>鎌田俊清</j>
+<e type="trans" ver="1">Toshikiyo KAMATA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Toshikiyo KAMATA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Toshikiyo KAMATA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="132">
+<j>- 大阪の和算家。</j>
+<e type="trans" ver="1">- He was a wasan mathematician from Osaka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- He was a wasan mathematician from Osaka.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was a wasan mathematician from Osaka.</e>
+<cmt>記号を削除しました</cmt>
+</sen>
+<sen id="133">
+<j>円の内接及び外接多角形の周の計算から、円周率の上限と下限を評価。</j>
+<e type="trans" ver="1">He evaluated the least upper bound and the greatest lower bound of the circumference ratio by calculating the circumference of the inscribed polygon and the circumscribed polygon.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He evaluated the least upper bound and the greatest lower bound of the circumference ratio by calculating the circumference of the inscribed polygon and the circumscribed polygon.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He evaluated the least upper bound and the greatest lower bound of the circumference ratio by calculating the circumference of the inscribed polygon and the circumscribed polygon.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="134">
+<j>さらに、arcsin, sin などの無限級数展開を『宅間流円理』(1722)で発表。</j>
+<e type="trans" ver="1">In his &quot;Takuma-ryu Enri&quot; (1722), he presented the infinite series expansion such as arcsin and sin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In his &quot;Takuma-ryu Enri&quot; (1722), he presented the infinite series expansion such as arcsin and sin.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In his &quot;Takuma-ryu Enri&quot; (1722), he presented the infinite series expansion such as arcsin and sin.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="135">
+<j>これは建部とならんで日本初の無限級数展開。</j>
+<e type="trans" ver="1">Alongside with that of Katahiro TAKEBE, this was the first time the infinite series expansion was defined in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Alongside with that of Katahiro TAKEBE, this was the first time infinite series expansion was defined in Japan.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Alongside with that of Katahiro TAKEBE, this was the first time infinite series expansion was defined in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="136">
+<j>『円理秘術』。</j>
+<e type="trans" ver="1">He wrote &quot;Enri hijutsu.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">He wrote &quot;Enri hijutsu.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He wrote &quot;Enri hijutsu.&quot;</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="137">
+<j>関孝和</j>
+<e type="trans" ver="1">Takakazu SEKI</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takakazu SEKI</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Takakazu SEKI</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="138">
+<j>建部賢弘</j>
+<e type="trans" ver="1">Katahiro TAKEBE</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katahiro TAKEBE</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Katahiro TAKEBE</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="139">
+<j>荒木村英 関流初伝。</j>
+<e type="trans" ver="1">Murahide ARAKI: he learned up to the first level of learning in Seki school.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Murahide ARAKI: he reached the first level of learning in the Seki school.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Murahide ARAKI: he reached the first level of learning at the Seki school.</e>
+<cmt>文法</cmt>
+</sen>
+<sen id="140">
+<j>関孝和の死後、その遺稿を整理し『括要算法』を編集した。</j>
+<e type="trans" ver="1">After the death of Takakazu SEKI, he organized the posthumous writings of his master and edited &quot;Katsuyo sanpo.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the death of Takakazu SEKI, he organized the posthumous writings of his master and edited &quot;Katsuyo sanpo.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">After the death of Takakazu SEKI, he organized the posthumous writings of his master and edited &quot;Katsuyo sanpo.&quot;</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="141">
+<j>数学上、目立った業績はなく、『括要算法』に誤字が多いのも荒木の実力不足ゆえ、とも。</j>
+<e type="trans" ver="1">He did not achieve a great deal in terms of mathematics, and it is said that the fact that &quot;Katsuyo sanpo&quot; is full of spelling mistakes is an indication of Araki&apos;s lack of skill.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He did not achieve a great deal in terms of mathematics, and it is said that the fact that &quot;Katsuyo sanpo&quot; is full of spelling mistakes is an indication of Araki&apos;s lack of skill.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He did not achieve a great deal in terms of mathematics, and it is said that the fact that &quot;Katsuyo sanpo&quot; is full of spelling mistakes is an indication of Araki&apos;s lack of skill.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="142">
+<j>中根元圭</j>
+<e type="trans" ver="1">Genkei NAKANE</e>
+<cmt></cmt>
+<e type="trans" ver="2">Genkei NAKANE</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Genkei NAKANE</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="143">
+<j>- 和算家。</j>
+<e type="trans" ver="1">- He was a wasan mathematician.</e>
+<cmt></cmt>
+<e type="trans" ver="2">- He was a wasan mathematician.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was a wasan mathematician.</e>
+<cmt>記号を削除しました</cmt>
+</sen>
+<sen id="144">
+<j>「律原発揮」（1692年）において1オクターヴを12乗根に開き十二平均律を作る方法を発表した。</j>
+<e type="trans" ver="1">He presented a way to arrive at an equal temperament of 12 degrees by opening one octave into twelfth root in his &quot;Ritsugen hakki&quot; (1692).</e>
+<cmt>「1オクターヴを12乗根に開き」の意味を汲み取れませんでした。</cmt>
+<e type="trans" ver="2">He presented a way to arrive at an equal temperament of twelve degrees by opening one octave into the twelfth root in his &quot;Ritsugen hakki&quot; (1692).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He presented a way to arrive at an equal temperament of twelve degrees by opening one octave into the twelfth root in his &quot;Ritsugen hakki&quot; (1692).</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="145">
+<j>また、暦学に詳しく、建部とともに吉宗に西洋暦法の導入、漢訳西洋天文学書の輸入の必要性を訴えた。</j>
+<e type="trans" ver="1">He was also well-versed with the study of the calendar, and together with Takebe, he appealed to Shogun Yoshimune TOKUGAWA the need to import western books on astronomy translated into Chinese.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was also well-versed with the study of the calendar, and together with Takebe, he appealed to Shogun Yoshimune TOKUGAWA the need to import western books on astronomy translated into Chinese.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was also well-versed with the study of the calendar, and together with Takebe, he appealed to Shogun Yoshimune TOKUGAWA the need to import western books on astronomy translated into Chinese.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="146">
+<j>数学のみならず、諸学に造詣が深かった。</j>
+<e type="trans" ver="1">Not only mathematics, Nakane had great knowledge of many fields.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Besides mathematics, Nakane had great knowledge of many fields.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Besides mathematics, Nakane had great knowledge of many fields.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="147">
+<j>京都出身で、数学は初め田中由真に学んだが、後に建部の門下に入っている。</j>
+<e type="trans" ver="1">He was originally from Kyoto, and studied mathematics under Yoshizane TANAKA at first, but later became a disciple of Katahiro TAKEBE.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was originally from Kyoto, and studied mathematics under Yoshizane TANAKA at first, but later became a disciple of Katahiro TAKEBE.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was originally from Kyoto, and studied mathematics under Yoshizane TANAKA at first, but later became a disciple of Katahiro TAKEBE.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="148">
+<j>久留島義太</j>
+<e type="trans" ver="1">Yoshihiro KURUSHIMA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshihiro KURUSHIMA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yoshihiro KURUSHIMA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="149">
+<j>- ?－1757（宝暦7）詰将棋の作者としても有名。</j>
+<e type="trans" ver="1">Date of birth unknown – 1757: he was also famous as the originator of tsume shogi (tume shogi problems).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Date of birth unknown – 1757: he was also famous as the originator of tsume shogi (tume shogi problems).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Date of birth unknown – 1757: he was also famous as the originator of tsume shogi (tume shogi problems).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="150">
+<j>松永良弼</j>
+<e type="trans" ver="1">Yoshisuke MATSUNAGA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshisuke MATSUNAGA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yoshisuke MATSUNAGA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="151">
+<j>- 無限級数、とくに和算で最初の二重級数。</j>
+<e type="trans" ver="1">Yoshisuke MATSUNAGA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshisuke MATSUNAGA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He studied infinite series, especially double series for the first time in wasan.</e>
+<cmt>記号を削除しました</cmt>
+</sen>
+<sen id="152">
+<j>建部によって本格的に開始された円理の研究を本格化した。</j>
+<e type="trans" ver="1">He carried on further the study of enri (circle principle), which was started in earnest by Takebe.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He furthered the study of enri (circle principle), which was started in earnest by Takebe.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He furthered the study of enri (circle principle), which was started in earnest by Takebe.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="153">
+<j>その著作に多く友人の久留島の業績を紹介。</j>
+<e type="trans" ver="1">He presented the achievements of his friend Kurushima in his own writings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He presented the achievements of his friend Kurushima in his own writings.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He presented lots of the achievements of his friend Kurushima in his own writings.</e>
+<cmt>訳漏れ</cmt>
+</sen>
+<sen id="154">
+<j>関流二伝。</j>
+<e type="trans" ver="1">He learned up to the second level of learning in Seki school.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He reached the second level of learning at the Seki school.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He reached the second level of learning at the Seki school.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="155">
+<j>山路主住</j>
+<e type="trans" ver="1">Nushizumi YAMAJI</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nushizumi YAMAJI</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nushizumi YAMAJI</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="156">
+<j>- 関流三伝。</j>
+<e type="trans" ver="1">- He learned up to the third level of learning in Seki school.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He reached the third level of learning at the Seki school.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He reached the third level of learning at the Seki school.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="157">
+<j>関流の制度を整え、弟子を養成。</j>
+<e type="trans" ver="1">He reorganized the system of teaching at Seki school, and taught many disciples.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He reorganized the system of teaching at the Seki school, and taught many disciples.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He reorganized the system of teaching at the Seki school, and taught many disciples.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="158">
+<j>安島直円</j>
+<e type="trans" ver="1">Naonobu AJIMA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Naonobu AJIMA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Naonobu AJIMA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="159">
+<j>会田安明</j>
+<e type="trans" ver="1">Yasuaki AIDA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yasuaki AIDA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yasuaki AIDA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="160">
+<j>藤田貞資</j>
+<e type="trans" ver="1">Sadasuke FUJITA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sadasuke FUJITA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sadasuke FUJITA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="161">
+<j>- 1734－1807（享保19－文化4）すぐれた教育者で和算の普及に大いに貢献。</j>
+<e type="trans" ver="1">- 1734 – 1807: he was a excellent teacher and contributed greatly to the dissemination of wasan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">1734 – 1807: he was an excellent teacher and contributed greatly to the dissemination of wasan.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">1734 – 1807: he was an excellent teacher and contributed greatly to the dissemination of wasan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="162">
+<j>不要に複雑な問題をさけ、系統的で一般的な解法を重んじた。</j>
+<e type="trans" ver="1">He avoided unnecessarily complicated mathematical problems, and placed an emphasis on systematic and general solutions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He avoided unnecessarily complicated mathematical problems, and placed an emphasis on systematic and general solutions.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He avoided unnecessarily complicated mathematical problems, and placed an emphasis on systematic and general solutions.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="163">
+<j>『精要算法』（1781）。</j>
+<e type="trans" ver="1">He wrote &quot;Seiyo Sanpo&quot; (1781).</e>
+<cmt></cmt>
+<e type="trans" ver="2">He wrote &quot;Seiyo Sanpo&quot; (1781).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He wrote &quot;Seiyo Sanpo&quot; (1781).</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="164">
+<j>会田安明との論戦でも有名。</j>
+<e type="trans" ver="1">He also became famous with his debates with Yasuaki AIDA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He also became famous from debating with Yasuaki AIDA.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He also became famous from debating with Yasuaki AIDA.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="165">
+<j>関流四伝。</j>
+<e type="trans" ver="1">He learned up to the second level of learning in Seki school.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He reached the second level of learning at the Seki school.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He reached the fourth level of learning at the Seki school.</e>
+<cmt>単語を修正しました</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="166">
+<j>和田寧</j>
+<e type="trans" ver="1">Nei WADA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nei WADA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nei WADA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="167">
+<j>- 1787－1840 (天明7－天保11) 円理表（様々な関数の 0,1 区間 (数学)の定積分の結果を表にしたもの）完成者として名高い。</j>
+<e type="trans" ver="1">- 1787－1840: he is renowned for Enri-hyo (enri chart which charts the results of definite integral of 0.1 intervals of various functions), which he completed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">1787－1840: he is renowned for Enri-hyo (the enri chart that charts the results of the definite integral of 0.1 intervals of various functions), which he completed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">1787 - 1840: he is renowned for Enri-hyo (the enri chart that charts the results of the definite integral of 0.1 intervals of various functions), which he completed.</e>
+<cmt>記号を半角に修正しましたスペースを挿入しました</cmt>
+</sen>
+<sen id="168">
+<j>また、安島の二重級数の理論を一般化。</j>
+<e type="trans" ver="1">He also generalized the theory of double series of Ajima.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He also generalized the theory of the double series of Ajima.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He also generalized the theory of the double series of Ajima.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="169">
+<j>これらにより、複雑な求積問題がたやすく解かれるようになった。</j>
+<e type="trans" ver="1">As a result, complex quadrature problems became easier to solve.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a result, complex quadrature problems became easier to solve.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As a result, complex quadrature problems became easier to solve.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="170">
+<j>微分のフェルマーの方法も発表し、極値問題に応用している。</j>
+<e type="trans" ver="1">He presented Fermat&apos;s Principle of differential, and applied it to the extreme value problem.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He presented Fermat&apos;s Principle of differentials, and applied it to the extreme value problem.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He presented Fermat&apos;s Principle of differentials, and applied it to the extreme value problem.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+<sen id="171">
+<j>播州三日月藩土から増上寺の寺侍となったが，素行不良のゆえに追放され、数学、書道の教授と易で生計を立てる。</j>
+<e type="trans" ver="1">He was originally a feudal retainer of Mikazuki Domain of Harima Province and later became terazamurai (samurai who performed administrative functions at temples) at Zojo-ji Temple, but was expelled as a result of his bad behaviors, and ended up teaching mathematics and calligraphy, as well as practicing fortune-telling.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was originally a feudal retainer of the Mikazuki Domain of Harima Province and later became terazamurai (samurai who performed administrative functions at temples) at Zojo-ji Temple, but was expelled as a result of his bad behavior, and ended up teaching mathematics and calligraphy, as well as practicing fortune-telling.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He was originally a feudal retainer of the Mikazuki Domain of Harima Province and later became terazamurai (samurai who performed administrative functions at temples) at Zojo-ji Temple, but was expelled as a result of his bad behavior, and ended up teaching mathematics and calligraphy, as well as practicing fortune-telling.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="172">
+<j>浪費がはなはだしく、死後に妻子は路頭に迷ったという。</j>
+<e type="trans" ver="1">He was a high spender, and as such, his wife and children had to live on the street after his death.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was a high spender, and as such, his wife and children had to live on the street after his death.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was a high spender, and as such, his wife and children had to live on the street after his death.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="173">
+<j>しかし、その独創性は著しく当時の和算の大家の多くが和田の円理表を見るために入門している。</j>
+<e type="trans" ver="1">Wada&apos;s originality and talent, however, were truly distinguished, and many famous wasan mathematicians of the day became his disciple in order to see his enri-hyo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wada&apos;s originality and talent, however, were truly distinguished, and many famous wasan mathematicians of the day became his disciples in order to see his enri-hyo.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Wada&apos;s originality and talent, however, were truly distinguished, and many famous wasan mathematicians of the day became his disciples in order to see his enri-hyo.</e>
+<cmt>記号を半角に修正しました</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="174">
+<j>武田真元</j>
+<e type="trans" ver="1">Shingen TAKEDA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shingen TAKEDA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shingen TAKEDA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="175">
+<j>法導寺善</j>
+<e type="trans" ver="1">Zen HODOJI</e>
+<cmt></cmt>
+<e type="trans" ver="2">Zen HODOJI</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Zen HODOJI</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="176">
+<j>- 1820－1868 幕末に活躍。</j>
+<e type="trans" ver="1">- 1820－1868: he was active at the end of Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">1820－1868: he was active at the end of Edo period.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">1820 - 1868: he was active at the end of Edo period.</e>
+<cmt>記号を半角に修正しましたスペースを挿入しました</cmt>
+</sen>
+<sen id="177">
+<j>当時、互いに接する多数の円の半径の関係を求める問題が広く扱われた。</j>
+<e type="trans" ver="1">At that time, people were concerned with the problems concerning the relations of the radii of several circles which touch each other.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At that time, people were concerned with problems concerning the relationship of the radii of several circles that touch each other.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At that time, people were concerned with problems concerning the relationship of the radii of several circles that touch each other.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="178">
+<j>これを簡単化するため、算変法を導入し、円の一つを直線に変換することで計算を簡略化した。</j>
+<e type="trans" ver="1">In order to simplify the problem, he introduced Sanpenho, which simplifies the calculation by converting a circle into a straight line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In order to simplify the problem, he introduced Sanpenho, that simplified the calculation by converting a circle into a straight line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In order to simplify the problem, he introduced Sanpenho, that simplified the calculation by converting a circle into a straight line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="179">
+<j>これは現在の反転に相当する。</j>
+<e type="trans" ver="1">This method equals to inversion today.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This method equals inversion today.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This method equals inversion today.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="180">
+<j>そのほか、図形の重心問題やサイクロイドに関係した問題を扱う。</j>
+<e type="trans" ver="1">He also dealt with problems regarding center of gravity of diagrams as well as cycloids.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He also dealt with problems regarding the center of gravity of diagrams as well as cycloids.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He also dealt with problems regarding the center of gravity of diagrams as well as cycloids.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="181">
+<j>内田五観</j>
+<e type="trans" ver="1">Itsumi UCHIDA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Itsumi UCHIDA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Itsumi UCHIDA</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Cobodo(id:96077), 白駒(id:144373), Kanejan(id:78613), Kounosu0(id:134395), Arufu(id:733), Straysheep(id:42448), Keijin75th(id:43821), Wikipo(id:70033), Ideal(id:236), Ttwo(id:82880), Gejikeiji(id:171047), Oboe6415(id:119740), Tarosan(id:330), Doctor(id:14428), Reedo(id:155043), 禁断の地エウレカ(id:260087), Easyman(id:86871), Yujiyosi(id:54807), Archivist(id:52904), Redattore(id:30931), Num(id:10832), Komodo(id:45868), Vierzehn(id:89881), Tinecici(id:192914), Shin-Nippori(id:290857), 水野白楓(id:22811), TS(id:481), Sh(id:2707), Bnm(id:85590), 踊る姿(id:65242), Azu(id:1328), Carkuni(id:79281), SuisuiBot(id:10165), Mormormor(id:277654), Zhuozu(id:301023), Seelee(id:149131), ハエ叩き(id:71380), Mameneko(id:785), Suisui(id:69), 小太刀(id:18154), っ(id:4481), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

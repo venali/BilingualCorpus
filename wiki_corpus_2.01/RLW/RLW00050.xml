@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>福知山駅</j>
+<e type="trans" ver="1">Fukuchiyama Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukuchiyama Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fukuchiyama Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>福知山駅（ふくちやまえき）は、京都府福知山市にある、西日本旅客鉄道（JR西日本）・北近畿タンゴ鉄道（KTR）の鉄道駅。</j>
+<e type="trans" ver="1">Located in Fukuchiyama City, Kyoto Prefecture, Fukuchiyama Station is a stop of West Japan Railway Company (JR West) and Kitakinki Tango Railway Corporation (KTR).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Located in Fukuchiyama City, Kyoto Prefecture, Fukuchiyama Station is a station owned by West Japan Railway Company (JR West) and Kitakinki Tango Railway Corporation (KTR).</e>
+<cmt>&quot;stop of&quot;→&quot;station owned by&quot;</cmt>
+<e type="check" ver="1">Located in Fukuchiyama City, Kyoto Prefecture, Fukuchiyama Station is a station owned by West Japan Railway Company (JR West) and Kitakinki Tango Railway Corporation (KTR).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>北近畿の鉄道網の中心駅である。</j>
+<e type="trans" ver="1">It is a main station of the railway system in Kita (northern)-Kinki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a major station of the northern (kita) Kinki railway system.</e>
+<cmt>&quot;main&quot;→&quot;major&quot;Changed word order</cmt>
+<e type="check" ver="1">It is a major station of the northern (kita) Kinki railway system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>北近畿最大の福知山都市圏に位置する。</j>
+<e type="trans" ver="1">The station is located in the Fukuchiyama metropolitan area which is the largest metropolitan area in northern Kinki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station is located in the Fukuchiyama metropolitan area, the largest metropolitan area in northern Kinki.</e>
+<cmt>Deleted &quot;which is&quot;Added comma</cmt>
+<e type="check" ver="1">The station is located in the Fukuchiyama metropolitan area, the largest metropolitan area in northern Kinki.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>この駅より北近畿の各方面へ路線が広がる。</j>
+<e type="trans" ver="1">Railway lines expand from this station to each direction in northern Kinki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is the starting point for lines to all destinations in northern Kinki.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">It is the starting point for lines to all destinations in northern Kinki.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>利用可能な鉄道路線</j>
+<e type="trans" ver="1">Available railway lines</e>
+<cmt></cmt>
+<e type="trans" ver="2">Lines</e>
+<cmt>Deleted &quot;Available railway &quot; - although in original Japanese, they seem a bit superfluous</cmt>
+<e type="check" ver="1">Lines</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>西日本旅客鉄道（JR西日本）</j>
+<e type="trans" ver="1">West Japan Railway Company (JR West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>山陰本線</j>
+<e type="trans" ver="1">San&apos;in Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">San&apos;in Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sanin Main Line</e>
+<cmt>San&apos;in→Sanin</cmt>
+</sen>
+<sen id="8">
+<j>福知山線 ※始終着駅</j>
+<e type="trans" ver="1">Fukuchiyama Line *starting and terminal station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukuchiyama Line *starting point and terminus</e>
+<cmt>&quot;and terminal station&quot;→&quot;point and terminus&quot;</cmt>
+<e type="check" ver="1">Fukuchiyama Line *starting point and terminus</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>北近畿タンゴ鉄道（KTR）</j>
+<e type="trans" ver="1">Kitakinki Tango Railway Corporation (KTR)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitakinki Tango Railway Corporation (KTR)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitakinki Tango Railway Corporation (KTR)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>北近畿タンゴ鉄道宮福線 ※始終着駅</j>
+<e type="trans" ver="1">KTR Miyafuku Line *starting and terminal station</e>
+<cmt></cmt>
+<e type="trans" ver="2">KTR Miyafuku Line *starting point and terminus</e>
+<cmt>&quot;and terminal station&quot;→&quot;point and terminus&quot;</cmt>
+<e type="check" ver="1">KTR Miyafuku Line *starting point and terminus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="11">
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station layout</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>西日本旅客鉄道（JR西日本）の駅</j>
+<e type="trans" ver="1">Station of West Japan Railway Company (JR West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR West) station</e>
+<cmt>Moved &quot;station&quot;</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West) station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="12">
+<j>京都府福知山市天田談畑262番地</j>
+<e type="trans" ver="1">262 Amata [Amada] Danbata, Fukuchiyama City, Kyoto Prefecture</e>
+<cmt></cmt>
+<e type="trans" ver="2">262 Amata [Amada] Danbata, Fukuchiyama City, Kyoto Prefecture</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">262 Amata [Amada] Danbata, Fukuchiyama City, Kyoto Prefecture</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>2005年11月26日に高架化された。</j>
+<e type="trans" ver="1">The station was remodeled as an elevated station on November 26, 2005.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station was remodeled as an elevated station on November 26, 2005.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The station was remodeled as an elevated station on November 26, 2005.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>島式2面・単式1面の合計3面5線のホームを持ち、1番線からは旧福知山駅の一部を眺める事ができる。</j>
+<e type="trans" ver="1">It has two island platforms, both sides of which are used for boarding and exiting trains, another platform, only one side of which is used for boarding and exiting, and 5 railway tracks in total, and a part of the old Fukuchiyama Station can be seen from Platform 1.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It has two island platforms and one side platform serving a total of 5 tracks, with part of the old Fukuchiyama Station being visible from Platform 1.</e>
+<cmt>Deleted explanation of platform types.&quot;and a part&quot;→&quot;with part&quot;&quot;can be seen&quot;→&quot;being visible&quot;</cmt>
+<e type="check" ver="1">It has two island platforms and one side platform serving a total of 5 tracks, with part of the old Fukuchiyama Station being visible from Platform 1.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="15">
+<j>※北口側から1番のりば→5番のりばで、5番のりばのみ単式。</j>
+<e type="trans" ver="1">* Platform 1 is located in the farthest north, followed by Platform 2 to 5 to the south, and Platform 5 is the single platform, only one side of which is used for boarding and exiting.</e>
+<cmt></cmt>
+<e type="trans" ver="2">* Platform 1 is located closest to the North Entrance, followed by Platforms 2 to 5 to the south, with Platform 5 being the side platform.</e>
+<cmt>&quot;in the farthest north&quot;→&quot;closest to the North Entrance&quot;Made &quot;Platforms&quot; plural</cmt>
+<e type="check" ver="1">* Platform 1 is located closest to the North Entrance, followed by Platforms 2 to 5 to the south, with Platform 5 being the side platform.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="16">
+<j>※1･2番ホームの長さは230m。</j>
+<e type="trans" ver="1">* The length of Platform 1 and 2 is 230 m.</e>
+<cmt></cmt>
+<e type="trans" ver="2">* The length of Platform 1 and 2 is 230 m.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">* The length of Platform 1 and 2 is 230 m.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>（荷物車を含めると最大12両編成になる寝台列車「出雲_(列車)」が収まるようにするため。</j>
+<e type="trans" ver="1">(This is long enough for Overnight train service &quot;(Sunrise) Izumo,&quot; which can have up to 12 cars including freight cars, to fit in the platforms.</e>
+<cmt></cmt>
+<e type="trans" ver="2">(This was long enough to accommodate the overnight train &quot;(Sunrise) Izumo,&quot; which could have up to 12 cars including freight cars.</e>
+<cmt>In light of the following sentence, changed verbs to past tense.&quot;to fit in the platforms&quot;→&quot;to accomodate&quot;</cmt>
+<e type="check" ver="1">(This was long enough to accommodate the overnight train &apos;(Sunrise) Izumo,&apos; which could have up to 12 cars including freight cars.</e>
+<cmt>原文の「」に合わせて&quot;を&apos;に</cmt>
+</sen>
+<sen id="18">
+<j>なお、寝台特急「出雲」は2006年3月18日に廃止）</j>
+<e type="trans" ver="1">Incidentally, Overnight train service &quot;(Sunrise) Izumo&quot; was discontinued on March 18, 2006.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, this service was discontinued on March 18, 2006.</e>
+<cmt>&quot;Incidentally&quot;→&quot;However&quot;&quot;Overnight train service &quot;(Sunrise) Izumo&quot;→&quot;this service&quot;</cmt>
+<e type="check" ver="1">However, this service was discontinued on March 18, 2006.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="19">
+<j>福知山駅は、西日本旅客鉄道福知山支社が北近畿への観光PRとして提唱する「北近畿ビッグXネットワーク」の中心（福知山駅がアルファベットのXの真ん中に当たる）となっており、乗り継ぎ料金制度など特急同士の乗り継ぎをシームレスに行える配慮がなされている。</j>
+<e type="trans" ver="1">Fukuchiyama Station is the hub station of the North Kinki Big X Network (the cross point of Letter X represents Fukuchiyama Station), which is publicized as a promotion of tourism in northern Kinki by Fukuchiyama Branch Office of West Japan Railway Company, and thus some special ideas, including the connection train fare system, in which passengers can change Limited Express trains seamlessly, are being executed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukuchiyama Station is the hub station of the &apos;North Kinki Big X Network&apos; (the cross point of the letter X represents Fukuchiyama Station), which is being publicized by the Fukuchiyama Branch Office of West Japan Railway Company to promote tourism in northern Kinki and, therefore, schemes such as the connection train fare system, which allows passengers to change Limited Express trains smoothly, are being considered.</e>
+<cmt>Added inverted commasAdded &quot;the&quot;Added &quot;being&quot;&quot;a promotion of&quot;→&quot;to promote&quot;&quot;some special ideas&quot;→&quot;schemes such as&quot;&quot;executed&quot;→&quot;considered&quot;&quot;in which passengers can change Limited Express trains seamlessly→&quot;which allows passengers to change Limited Express trains smoothly&quot;</cmt>
+<e type="check" ver="1">Fukuchiyama Station is the hub station of the &apos;North Kinki Big X Network&apos; (the cross point of the letter X represents Fukuchiyama Station), which is being publicized by the Fukuchiyama Branch Office of West Japan Railway Company to promote tourism in northern Kinki and, therefore, schemes such as the connection train fare system, which allows passengers to change Limited Express trains smoothly, are being considered.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="20">
+<j>高架化と同時に、駅全体の広さは大幅に広くなり、駅の出口は高架化前の出口である北口と南口の2つとなった。</j>
+<e type="trans" ver="1">At the same time the station building was elevated, the size of the entire station was expanded substantially, and two exits, the north exit that used to be the only exit before elevated and the south exit, are now available.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the same time that the station building was elevated, the size of the entire station was expanded substantially, and two exits, the north exit that used to be the only exit before elevation and the south exit, are now available.</e>
+<cmt>Added &quot;that&quot;</cmt>
+<e type="check" ver="1">At the same time that the station building was elevated, the size of the entire station was expanded substantially, and two exits, the north exit that used to be the only exit before elevation and the south exit, are now available.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>またエスカレータとエレベーターが設置された。</j>
+<e type="trans" ver="1">Additionally, escalators and elevators have been set up.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, escalators and elevators were installed.</e>
+<cmt>&quot;have been set up&quot;→&quot;were installed&quot;</cmt>
+<e type="check" ver="1">Additionally, escalators and elevators were installed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>しかし、改札口は高架化前と同じく自動改札機はないままである。</j>
+<e type="trans" ver="1">However, no automatic ticket checkers have not been installed as before it was elevated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, as before evelation, there are no automatic ticket gates.</e>
+<cmt>Deleted &quot;no&quot;&quot;have not been&quot;→&quot;there are no&quot;&quot;it was elevated&quot;→&quot;elevation&quot;</cmt>
+<e type="check" ver="1">However, as before elevation, there are no automatic ticket gates.</e>
+<cmt>スペル修正</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="23">
+<j>1階南北コンコース横（西側）にテナントスペース「ビエラ福知山」がある。</j>
+<e type="trans" ver="1">A tenancy space, Vierra Fukuchiyama, is located next to (on the western side of) the north-south concourse.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A tenancy space, Vierra Fukuchiyama, is located on the ground floor of the western side of the north-south concourse.</e>
+<cmt>Deleted &quot;next to&quot; and brackets</cmt>
+<e type="check" ver="1">A tenancy space, Vierra Fukuchiyama, is located on the ground floor of the western side of the north-south concourse.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="24">
+<j>待合室、トイレがあり、店舗ではcafe北都（カフェ）、福島文進堂福知山駅店（書店）、ブレ・グラーノ（イートインベーカリー）、餃子の王将（中華料理店）、京都銀行・京都北都信用金庫（銀行現金自動預け払い機）、日本旅行(Tis)、デイリーイン（コンビニエンスストア）がある。</j>
+<e type="trans" ver="1">The station has a waiting room, bathrooms and stores including cafe Hokuto (coffee shop), Fukushima Bunshindo (book store), Ble Grano (eat-in bakery), Gyoza no Ohsho (Chinese restaurant), automated teller machines of the Bank of Kyoto and Kyoto Hokuto Shinkin Bank, Nippon Travel Agency Co.,Ltd (Tis), and Daily-in (convenience store).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station has a waiting room, toilets and stores including &apos;cafe Hokuto&apos; (coffee shop), &apos;Fukushima Bunshindo&apos; (book store), &apos;Ble Grano&apos; (eat-in bakery), &apos;Gyoza no Ohsho&apos; (Chinese restaurant), Bank of Kyoto and Kyoto Hokuto Shinkin Bank ATMs, &apos;Nippon Travel Agency Co.,Ltd&apos; (Tis), and &apos;Daily-in&apos; (convenience store).</e>
+<cmt>&quot;bathrooms&quot;→&quot;toilets&quot;&quot;automated teller machines of the&quot;→&quot;ATMs&quot;Added inverted commas to shop names</cmt>
+<e type="check" ver="1">The station has a waiting room, toilets and stores including cafe Hokuto (coffee shop), Fukushima Bunshindo (book store), Ble Grano (eat-in bakery), Gyoza no Ohsho (Chinese restaurant), Bank of Kyoto and Kyoto Hokuto Shinkin Bank ATMs, Nippon Travel Agency Co., Ltd (Tis), and Daily-in (convenience store).</e>
+<cmt>原文に「」のない&apos;　&apos;を削除スペース挿入</cmt>
+</sen>
+<sen id="25">
+<j>なお、比較的閉店は早い（しかし「餃子の王将」は000まで開いている）。</j>
+<e type="trans" ver="1">Most of the stores close a store relatively early (but Gyoza no Ohsho is open until midnight).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Most of the stores close relatively early (though Gyoza no Ohsho is open until midnight).</e>
+<cmt>Deleted &quot;a store&quot;&quot;but&quot;→&quot;though&quot;</cmt>
+<e type="check" ver="1">Most of the stores close relatively early (though Gyoza no Ohsho is open until midnight).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="26">
+<j>しかしながら、改札内は数台の飲料自動販売機があるだけになり、菓子や新聞などが買えなくなってしまい、駅弁や名物だった「鬼そば」も高架化で姿を消した。</j>
+<e type="trans" ver="1">However, after the station was elevated, stores disappeared inside the ticket wicket and only a few beverage vending machines are now available, and thus no other items, such as snack and newspaper, are available and Ekiben (lunch boxes available at some stations and on some trains) and Oni Soba noodle, which used to be its specialty, are no longer sold.</e>
+<cmt>駅弁はEkiben (lunch boxes available at some stations and on some trains)と、翻訳者が解説を入れました。</cmt>
+<e type="trans" ver="2">However, past the ticket gate there are now only a few beverage vending machines, and thus no other items, such as snacks and newspapers, are available and Ekiben (lunch boxes available at some stations and on some trains) and Oni Soba noodles, which used to be its specialty, are no longer sold.</e>
+<cmt>Reworded first part of sentenceMoved &quot;disappeared&quot;Made &quot;snack&quot;,&quot;newspaper&quot; and &quot;noodle&quot; plural</cmt>
+<e type="check" ver="1">However, past the ticket gate there are now only a few beverage vending machines, and thus no other items, such as snacks and newspapers, are available and Ekiben (lunch boxes available at some stations and on some trains) and Oni Soba noodles, which used to be its specialty, are no longer sold.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="27">
+<j>なお、ホームのすべての時計に描かれているのは、福知山市のイメージキャラクター「ドッコちゃん」である。</j>
+<e type="trans" ver="1">A picture drawn in all of the clocks on the platforms is &quot;Dokko-chan,&quot; the image character of Fukuchiyama City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All the clocks on the platforms are decorated with &quot;Dokko-chan,&quot; the mascot of Fukuchiyama City.</e>
+<cmt>Deleted &quot;A picture drawn in&quot; and &quot;of&quot;Added &quot;are decorated with&quot;&quot;image character&quot;→&quot;mascot&quot;</cmt>
+<e type="check" ver="1">All the clocks on the platforms are decorated with &apos;Dokko-chan,&apos; the mascot of Fukuchiyama City.</e>
+<cmt>原文の「」に合わせて&quot;を&apos;に</cmt>
+</sen>
+<sen id="28">
+<j>BGMとして小鳥のさえずりが流されるようになった。</j>
+<e type="trans" ver="1">Twittering of a little bird is now adopted as BGM.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The BGM is now birds singing.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">The BGM is now birds singing.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="29">
+<j>京都方面への列車が1・2番のりばに固定されている点と、5番のりばが福知山線の快速・普通列車専用となっている点以外は、発着ホームの変動が大きい。</j>
+<e type="trans" ver="1">Trains for Kyoto are always arrive at and start from Platform 1 or 2, and similarly, Rapid and Local trains that run on the Fukuchiyama Line always arrive at and start from Platform 5; however, from which platform other trains leave and at which platform other trains arrive are not really determined.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Trains for Kyoto are always arrive at and start from Platforms 1 or 2 and Rapid and Local trains that run on the Fukuchiyama Line always arrive at and start from Platform 5; however, the platforms for other trains are not really determined.</e>
+<cmt>Made &quot;Platform&quot; plural&quot;from which platform other trains leave and at which platform other trains arrive&quot;→&quot;the platforms for other trains&quot;</cmt>
+<e type="check" ver="1">Trains for Kyoto always arrive at and depart from Platform 1 or 2 and Rapid and Local trains that run on the Fukuchiyama Line always arrive at and start from Platform 5; however, the platforms for other trains are not really determined.</e>
+<cmt>文法間違い。 - “are always arrive ”=&gt;”always arrive”&quot;start&quot; -&gt; &quot;depart&quot; に変更しました。</cmt>
+</sen>
+<sen id="30">
+<j>また、北近畿タンゴ鉄道の列車の一部もJR線ホーム発着のため、注意が必要である。</j>
+<e type="trans" ver="1">Passengers need to pay attention to information on arriving and starting platforms as some trains of Kitakinki Tango Railway Corporation also use platforms originally intended for JR trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passengers need to pay attention to information on arriving and starting platforms as some Kitakinki Tango Railway Corporation trains also use the JR platforms.</e>
+<cmt>Moved &quot;trains&quot;Added &quot;the JR&quot;Deleted &quot;originally intended for JR trains&quot;</cmt>
+<e type="check" ver="1">Passengers need to pay attention on arriving and departuring platforms as some Kitakinki Tango Railway Corporation trains also use the JR platforms.</e>
+<cmt>&quot;starting&quot;→&quot;departure&quot; ”to infromation”削除。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="31">
+<j>豊岡方面への普通列車については、1・2番のりばに発着して京都方面の普通列車との対面乗換を可能とすることが多いが、2008年3月15日のダイヤ改正以降、京都方面と豊岡方面の普通列車の相互接続がないケースもあり、日中も豊岡方面行き普通列車が3・4番のりばに入るケースが多々見られるようになった。</j>
+<e type="trans" ver="1">Local trains for Toyooka often arrive at or start from Platform 1 or 2 so that passengers can change trains for Kyoto on the same platform (without using stairway to other platforms); however, since the timetable was revised on March 15, 2008, there are many Local trains that have no interconnection with trains between for Kyoto and for Toyooka, and accordingly, there are now quite a few Local trains for Toyooka that use Platform 3 or 4 even in the daytime.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local trains for Toyooka often arrive at or start from Platform 1 or 2 so that passengers can change trains for Kyoto on the same platform; however, since the timetable was revised on March 15, 2008, not many local trains for Kyoto or Toyooka connect, and a lot of the local trains for Toyooka now use Platform 3 or 4 even in the daytime.</e>
+<cmt>Deleted phrase in brackets&quot;there are&quot;→&quot;not many&quot; Reworded last part of sentence</cmt>
+<e type="check" ver="1">Local trains for Toyooka often arrive at or depart from Platform 1 or 2 so that passengers can change trains for Kyoto on the same platform; however, since the timetable was revised on March 15, 2008, not many local trains for Kyoto or Toyooka connect, and a lot of the local trains for Toyooka now use Platform 3 or 4 even in the daytime.</e>
+<cmt>&quot;start&quot; -&gt; &quot;depart&quot; に変更しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="32">
+<j>特急列車については、豊岡方面からの列車と宮津方面からの列車が1・2番のりばで、逆に豊岡方面行きと宮津方面行きが3・4番のりばで相互に乗り換えられるようダイヤ面で考慮されている。</j>
+<e type="trans" ver="1">Regarding Limited Express trains, the train diagram is carefully designed so that passengers of the train from Toyooka and those form Miyazu can change trains at Platform 1 and 2 mutually, and similarly, passengers of the train for Toyooka and those for Miyazu can change trains at Platform 3 and 4 mutually, using the same platform (without using stairway to other platforms) for both cases.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The timetable for Limited Express trains is carefully designed so that trains from Toyooka and trains from Miyazu stop at Platforms 1 and 2 and trains for Toyooka and trains for Miyazu stop at Platforms 3 and 4 mutually, allowing passengers to change trains on the same platform.</e>
+<cmt>&quot;Regarding Limited Express trains, the train diagram&quot;→&quot;The timetable for Limited Express trains&quot;Reworded sentence</cmt>
+<e type="check" ver="1">The timetable for Limited Express trains is carefully designed so that trains from Toyooka and trains from Miyazu stop at Platform 1 and 2 and trains for Toyooka and trains for Miyazu stop at Platform 3 and 4 respectively, allowing passengers to change trains on the same platform.</e>
+<cmt>“mutually”=&gt;”respectively”</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>北近畿タンゴ鉄道（KTR宮福線）の駅</j>
+<e type="trans" ver="1">Station of Kitakinki Tango Railway Corporation (KTR Miyafuku Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitakinki Tango Railway Corporation (KTR Miyafuku Line) station</e>
+<cmt>Moved &quot;station&quot;</cmt>
+<e type="check" ver="1">Kitakinki Tango Railway Corporation (KTR Miyafuku Line) station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="33">
+<j>京都府福知山市天田118番地の4</j>
+<e type="trans" ver="1">118-4 Amata [Amada], Fukuchiyama City, Kyoto Prefecture</e>
+<cmt></cmt>
+<e type="trans" ver="2">118-4 Amata [Amada], Fukuchiyama City, Kyoto Prefecture</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">118-4 Amata [Amada], Fukuchiyama City, Kyoto Prefecture</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>現在はまだ地平ホームで営業をしており、1面2線のホームを持つ。</j>
+<e type="trans" ver="1">Services are still operated on a platform, both sides of which are used for boarding and exiting, at ground level.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station still uses one ground level island platform serving two tracks.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">The station still uses one ground level island platform serving two tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>将来はこちらも高架化される予定である。</j>
+<e type="trans" ver="1">This station is planned to be elevated in the future as well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is planned to be elevated in the future as well.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This station is planned to be elevated in the future as well.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>尚、JR相互乗入れの特急電車はJR高架駅での乗降となっている（前述の通り、特急以外にもJR高架駅に発着する列車が少数ながら存在する）。</j>
+<e type="trans" ver="1">Passengers who take Limited Express trains entering the JR tracks are supposed to use the JR elevated station (as mentioned earlier, there are also a few trains that use the JR elevated station, other than the Limited Express trains).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Limited Express trains sharing the JR tracks use the JR elevated station for boarding and alighting (as mentioned above, some non-Limited Express trains also use the JR elevated station).</e>
+<cmt>Rewrote sentence - slightly mistranslated.</cmt>
+<e type="check" ver="1">Limited Express trains sharing the JR tracks use the JR elevated station for boarding and alighting (as mentioned above, some non-Limited Express trains also use the JR elevated station).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>余談であるが、現在のKTRのホームはかつての北丹鉄道の福知山駅があった位置にあたる。</j>
+<e type="trans" ver="1">Incidentally, the present platform of KTR is located where Fukuchiyama Station of old Hokutan Railway used to be located.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Incidentally, the present KTR platform is located where the old Hokutan Railway&apos;s Fukuchiyama Station used to be located.</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">Incidentally, the present KTR platform is located where the old Hokutan Railway&apos;s Fukuchiyama Station used to be located.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="38">
+<j>JR高架駅からはJR旧駅構内に設けられた北口への横断仮設通路により連絡。</j>
+<e type="trans" ver="1">A temporary pass connects between the JR elevated station and the north exit which is set up in the old station yard of JR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A temporary pass connects the north exit, which is in the grounds of the old JR station, with the JR elevated station.</e>
+<cmt>Deleted &quot;between&quot;Added &quot;with&quot;Changed word order</cmt>
+<e type="check" ver="1">A temporary pass connects the north exit, which is in the grounds of the old JR station, with the JR elevated station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>JR旧駅撤去の後、引き続き高架化工事にかかり、一体化する。</j>
+<e type="trans" ver="1">The exit will be integrated with the elevated station by continuing the elevating construction after the old JR station building is dismantled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The KTR station will be integrated with the elevated JR station by continuing the elevating construction after the old JR station building is demolished.</e>
+<cmt>&quot;exit&quot;→&quot;KTR station&quot;Added JR&quot;dismantled&quot;→&quot;demolished&quot;</cmt>
+<e type="check" ver="1">The KTR station will be integrated with the elevated JR station by continuing the elevating construction after the old JR station building is demolished.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>高架駅は、2008年(平成20年)度の末に完成予定である。</j>
+<e type="trans" ver="1">The elevated station is scheduled to be completed at the end of 2008.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The elevated KTR station is scheduled to be completed at the end of 2008.</e>
+<cmt>Added &quot;KTR&quot;</cmt>
+<e type="check" ver="1">The elevated KTR station is scheduled to be completed at the end of fiscal year 2008.</e>
+<cmt>fiscal year 2008 としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="41">
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization of Fukuchiyama Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger Volume</e>
+<cmt>&quot;Utilization of Fukuchiyama Station&quot;→&quot;Passenger Volume&quot; - not an exact translation but more succinct</cmt>
+<e type="check" ver="1">Passenger Volume</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="42">
+<j>1日平均乗車人員（2006年度）</j>
+<e type="trans" ver="1">Number of average daily passengers (in 2006)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Number of average daily passengers (in 2006)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Number of average daily passengers (in fiscal year 2006)</e>
+<cmt>&quot;fiscal year&quot; を追加しました。</cmt>
+</sen>
+<sen id="43">
+<j>西日本旅客鉄道 - 3,992人</j>
+<e type="trans" ver="1">West Japan Railway Company: 3,992</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company: 3,992</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company: 3,992</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>北近畿タンゴ鉄道 - 800人</j>
+<e type="trans" ver="1">Kitakinki Tango Railway Corporation: 800</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitakinki Tango Railway Corporation: 800</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitakinki Tango Railway Corporation: 800</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="45">
+<j>総計 - 4,792人</j>
+<e type="trans" ver="1">Total: 4,792</e>
+<cmt></cmt>
+<e type="trans" ver="2">Total: 4,792</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Total: 4,792</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="46">
+<j>年間乗降客数</j>
+<e type="trans" ver="1">Number of annual incoming and outgoing passengers</e>
+<cmt></cmt>
+<e type="trans" ver="2">Number of annual passengers</e>
+<cmt>Deleted &quot;incoming and outgoing&quot;</cmt>
+<e type="check" ver="1">Number of annual passengers</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="47">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Railway Company:</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company:</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company:</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>1996年まで180万人台で推移していたが、その後減少に転じ2006年では約146万人となっている。</j>
+<e type="trans" ver="1">Although the number remained at a level of 1.8 million&apos;s up to 1996; however, it started decreasing after that and was about 1.46 million in 2006.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Numbers were around the 1.8 million mark until 1996 when they started decreasing, reaching about 1.46 million passengers in 2006.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Numbers were around the 1.8 million mark until 1996 when they started decreasing, reaching about 1.46 million passengers in 2006.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="49">
+<j>北近畿タンゴ鉄道</j>
+<e type="trans" ver="1">Kitakinki Tango Railway Corporation:</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitakinki Tango Railway Corporation:</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitakinki Tango Railway Corporation:</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>1996年に48万人とピークを示したが、その後は40万人前後で推移しており、2006年は約29万人となっている。</j>
+<e type="trans" ver="1">The number peaked at 480,000 passengers in 1996 and remained stable around the 400,000 level after that, and it was 290,000 passengers in 2006.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Numbers peaked at 480,000 passengers in 1996 and remained around the 400,000 level after that, with 290,000 passengers in 2006.</e>
+<cmt>&quot;The number&quot;→&quot;numbers&quot;Deleted &quot;stable&quot;&quot;and it was&quot;→&quot;with&quot;</cmt>
+<e type="check" ver="1">Numbers peaked at 480,000 passengers in 1996 and remained around the 400,000 level after that, with 290,000 passengers in 2006.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="51">
+<j>駅周辺</j>
+<e type="trans" ver="1">Periphery of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Surroundings</e>
+<cmt>&quot;Periphery of the station&quot;→&quot;Surroundings&quot;</cmt>
+<e type="check" ver="1">Surroundings</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="52">
+<j>駅南側は福知山駅南口公園として整備された。</j>
+<e type="trans" ver="1">The area in the south of the station has been developed as Fukuchiyama Station Minamiguchi Park (Fukuchiyama Station South exit Park).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area to the south of the station has been developed as Fukuchiyama Station Minamiguchi Park (Fukuchiyama Station South exit Park).</e>
+<cmt>&quot;in&quot;→&quot;to&quot;</cmt>
+<e type="check" ver="1">The area to the south of the station has been developed as Fukuchiyama Station Minamiguchi Park (Fukuchiyama Station South exit Park).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>公園に接してタクシー乗り場、高速バスの発着場がある。</j>
+<e type="trans" ver="1">A taxi stand and a coach station are located next to the park.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A taxi stand and a coach station are located next to the park.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A taxi stand and a coach station are located next to the park.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>公園前に福知山温泉をひいたビジネスホテルが建設された。</j>
+<e type="trans" ver="1">A budget hotel to which hot water is brought from Fukuchiyama Onsen has been built in front of the park.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A budget hotel, which draws hot water from Fukuchiyama Onsen, has been built in front of the park.</e>
+<cmt>&quot;to which hot water is brought&quot;→&quot;which draws hot water from Fukuchiyama Onsen&quot;</cmt>
+<e type="check" ver="1">A budget hotel, which draws hot water from Fukuchiyama Onsen, has been built in front of the park.</e>
+<cmt>スペース削除</cmt>
+</sen>
+<sen id="55">
+<j>国道9号線沿いにコンビニエンスストア、マクドナルド、吉野家、壱番屋、TSUTAYAなど全国展開の店も多くなってきている。</j>
+<e type="trans" ver="1">The number of stores whose business is expanded throughout Japan, including convenience stores, McDonald&apos;s, Yoshinoya, Curry House CoCo Ichibanya and TSUTAYA, has been increasing along National Highway 9.</e>
+<cmt>社名の後の「Co., Ltd」などは、あくまでも社名であり、店自体の呼び名ではないため、省くか、別の言い方がある場合はそちらを採用いたしました。</cmt>
+<e type="trans" ver="2">The number of national chains, including convenience stores, McDonald&apos;s, Yoshinoya, Curry House CoCo Ichibanya and TSUTAYA, has been increasing along National Highway 9.</e>
+<cmt>&quot;stores whose business is expanded throughout Japan&quot;→&quot;national chains&quot;</cmt>
+<e type="check" ver="1">The number of national chains, including convenience stores, McDonald&apos;s, Yoshinoya, Curry House CoCo Ichibanya and TSUTAYA, has been increasing along National Highway 9.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>駅北側は再開発中である。</j>
+<e type="trans" ver="1">The area in the north of the station is currently being developed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area to the north of the station is currently being developed.</e>
+<cmt>&quot;in&quot;→&quot;to&quot;</cmt>
+<e type="check" ver="1">The area to the north of the station is currently being developed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="57">
+<j>路線バスのターミナルがある。</j>
+<e type="trans" ver="1">A route bus terminal is located in this area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A bus terminal is also located in this area.</e>
+<cmt>I don&apos;t think &quot;route&quot; is needed.Added &quot;also&quot;</cmt>
+<e type="check" ver="1">A bus terminal is also located in this area.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>24時間営業のコンビニエンスストアは、北南両側に数件あり、ローソン、セブンイレブン等がある。</j>
+<e type="trans" ver="1">Several around-the-clock convenience stores, such as Lawson and Seven-Eleven, are located in the areas in both the north and south of the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Several around-the-clock convenience stores, such as Lawson and Seven-Eleven, are located in the areas to both the north and south of the station.</e>
+<cmt>&quot;in&quot;→&quot;to&quot;</cmt>
+<e type="check" ver="1">Several around-the-clock convenience stores, such as Lawson and Seven-Eleven, are located in the areas to both the north and south of the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="59">
+<j>福知山城（福知山市立美術館・郷土資料館）</j>
+<e type="trans" ver="1">Fukuchiyama-jo Castle (Sato Taisei Memorial Art Museum, Fukuchiyama City Folk Museum)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukuchiyama-jo Castle (Sato Taisei Memorial Art Museum, Fukuchiyama City Folk Museum)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fukuchiyama-jo Castle (Sato Taisei Memorial Art Museum, Fukuchiyama City Folk Museum)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="60">
+<j>福知山駅から、京都交通バス各線「市役所前」、長田野線「城公園前」下車</j>
+<e type="trans" ver="1">Take a bus of Kyoto Kotsu Bus from Fukuchiyama Station and leave the bus at Shiyakusho-mae (City Office bus stop) or take a bus of Osadano Route from Fukuchiyama Station and leave the bus at Shirokoen-mae (Castle Park bus stop).</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Fukuchiyama Station, take any Kyoto Kotsu Bus to Shiyakusho-mae (City Hall bus stop) or take the Osadano Route to Shirokoen-mae (Castle Park bus stop).</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">From Fukuchiyama Station, take any Kyoto Kotsu Bus to Shiyakusho-mae (City Hall bus stop) or take the Osadano Route to Shirokoen-mae (Castle Park bus stop).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="61">
+<j>御霊神社（御霊公園内）</j>
+<e type="trans" ver="1">Goryo-jinja Shrine (in Goryo park)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Goryo-jinja Shrine (in Goryo park)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Goryo-jinja Shrine (in Goryo park)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="62">
+<j>福知山駅から、京都交通バス川北線「厚生会館前」下車</j>
+<e type="trans" ver="1">Take a bus of Kawakita Route, Kyoto Kotsu Bus from Fukuchiyama Station and leave the bus at Koseikaikan-mae (bus stop).</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Fukuchiyama Station, take the Kyoto Kotsu Bus Kawakita Route to Koseikaikan-mae (Welfare Hall bus stop).</e>
+<cmt>Reworded sentenceNot sure of translation of &quot;厚生会館&quot;</cmt>
+<e type="check" ver="1">From Fukuchiyama Station, take the Kyoto Kotsu Bus Kawakita Route to Koseikaikan-mae (Welfare Hall bus stop).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>三段池公園</j>
+<e type="trans" ver="1">Sandanike Park</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sandanike Park</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sandanike Park</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="64">
+<j>福知山駅から、京都交通バス川北線「三段池公園」下車（4～11月の日祝のみ運転）</j>
+<e type="trans" ver="1">Take a bus of Kawakita Route, Kyoto Kotsu Bus from Fukuchiyama Station and leave the bus at Sandanike Koen (Sandanike Park bus stop) (Services are available only Sundays and national holidays from April to November).</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Fukuchiyama Station, take the Kyoto Kotsu Bus Kawakita Route to Sandanike Koen (Sandanike Park bus stop) (from April to November, services are available only on Sundays and national holidays).</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">From Fukuchiyama Station, take the Kyoto Kotsu Bus Kawakita Route to Sandanike Koen (Sandanike Park bus stop) (from April to November, services are available only on Sundays and national holidays).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="65">
+<j>京都銀行 福知山支店（旧・丹和銀行・本店営業部）</j>
+<e type="trans" ver="1">The Bank of Kyoto, Fukuchiyama Office (Old Tanwa bank, central branch sales department)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Bank of Kyoto, Fukuchiyama Office (former Tanwa Bank, Head Office Sales Department)</e>
+<cmt>&quot;old&quot;→&quot;former&quot;&quot;central branch→&quot;head office&quot;</cmt>
+<e type="check" ver="1">The Bank of Kyoto, Fukuchiyama Office (former Tanwa Bank, Head Office Sales Department)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="66">
+<j>福知山駅から、京都交通バス川北線・丹後海陸交通バス（丹海バス）傘松ケーブル下（籠神社・一の宮乗船場前）及び、共栄高校前行きで、「西本町」下車、または、徒歩。</j>
+<e type="trans" ver="1">Take a bus of Kawakita Route, Kyoto Kotsu Bus or Tango Kairiku Kotsu Bus (Tankai Bus) to Kasamatsu Cable-shita (bus stop) (Kono-jinja Ichinomiya Josenjo-mae) and Kyoei-koko-mae (bus stop) from Fukuchiyama Station, and leave the bus at Nishi-hommachi (bus stop), or walk.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Fukuchiyama Station, take the Kyoto Kotsu Bus Kawakita Route or the Tango Kairiku Kotsu Bus (Tankai Bus) for Kasamatsu Cable-shita (Kono-jinja/ Ichinomiya Josenjo-mae) or for Kyoei-koko-mae (Kyoei High School bus stop), to Nishi-hommachi (bus stop), or walk.</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">From Fukuchiyama Station, take the Kyoto Kotsu Bus Kawakita Route or the Tango Kairiku Kotsu Bus (Tankai Bus) for Kasamatsu Cable-shita (Kono-jinja/ Ichinomiya Josenjo-mae) or for Kyoei-koko-mae (Kyoei High School bus stop), to Nishi-honmachi (bus stop), or walk.</e>
+<cmt>hommachi→honmachi</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="67">
+<j>京都北都信用金庫福知山中央支店</j>
+<e type="trans" ver="1">Kyoto Hokuto Shinkin Bank, Fukuchiyama Central Branch Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Hokuto Shinkin Bank, Fukuchiyama Central Branch Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Hokuto Shinkin Bank, Fukuchiyama Central Branch Office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="68">
+<j>福知山鉄道館ポッポランド</j>
+<e type="trans" ver="1">&quot;Poppo Land&quot; Fukuchiyama Railway Hall</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Poppo Land&quot; Fukuchiyama Railway Hall</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;Poppo Land&quot; Fukuchiyama Railway Hall</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="69">
+<j>福知山の鉄道に関わる実物（ライブスチームの模型や鉄道模型もあり）及び資料を展示。</j>
+<e type="trans" ver="1">It displays real objects (including steam locomotive models that actually run with steam engine and model trains) and materials related to railway of Fukuchiyama.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It displays relia (including steam locomotive models that actually run on steam and model railways) and materials related to railway of Fukuchiyama.</e>
+<cmt>&quot;real objects&quot;→&quot;relia&quot;&quot;with steam engine and model trains&quot;→&quot;on steam and model railways&quot;</cmt>
+<e type="check" ver="1">It displays relia (including steam locomotive models that in fact run on steam and model railways) and materials related to railway of Fukuchiyama.</e>
+<cmt>&quot;actually&quot; -&gt; &quot;in fact&quot; に変更しました。</cmt>
+</sen>
+<sen id="70">
+<j>ポッポランドオリジナル及び福知山の名産品・鉄道関係の土産を扱う売店もある。</j>
+<e type="trans" ver="1">It also has a shop that sells its original goods, and Fukuchiyama&apos;s specialties and souvenirs related to railway.</e>
+<cmt>売店はひとつと判断いたしました。</cmt>
+<e type="trans" ver="2">It also has a shop that sells original goods, Fukuchiyama&apos;s specialties and souvenirs related to railway.</e>
+<cmt>Deleted &quot;it&apos;s&quot; and &quot;and&quot;</cmt>
+<e type="check" ver="1">It also has a shop that sells original goods, Fukuchiyama&apos;s specialties and souvenirs related to railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="71">
+<j>2号館では、実際に福知山を走った、国鉄C58形蒸気機関車の56号機が静態保存展示されている。</j>
+<e type="trans" ver="1">In the No.2 building, a JNR steam locomotive C58 class, model No. 56, which has actually run in Fukuchiyama City, is stored and displayed statically.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the No.2 building, the JNR C58 Class steam locomotive, model No. 56, which used to run in Fukuchiyama City, is stored and displayed.</e>
+<cmt>&quot;a&quot;→&quot;the&quot;Changed word order&quot; has actually&quot;→&quot;used to&quot;Deleted &quot;statically&quot;</cmt>
+<e type="check" ver="1">In the No.2 building, the JNR C58 Class steam locomotive, model No. 56, which used to run in Fukuchiyama City, is stored and displayed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="72">
+<j>（運営：新町商店街振興組合・ポッポランド部）</j>
+<e type="trans" ver="1">(Operated by Poppo Land Department, Shinmachi Shopping District Promotion Association)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Operated by Poppo Land Department, Shinmachi Shopping District Promotion Association)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(Operated by Poppo Land Department, Shinmachi Shopping District Promotion Association)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="73">
+<j>福知山駅から、京都交通バス川北線「広小路」下車</j>
+<e type="trans" ver="1">Take a bus of Kawakita Route, Kyoto Kotsu Bus from Fukuchiyama Station and leave the bus at Hirokoji (bus stop).</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Fukuchiyama Station, take the Kyoto Kotsu Bus Kawakita Route to Hirokoji (bus stop).</e>
+<cmt>Changed word order</cmt>
+<e type="check" ver="1">From Fukuchiyama Station, take the Kyoto Kotsu Bus Kawakita Route to Hirokoji (bus stop).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="74">
+<j>路線バス</j>
+<e type="trans" ver="1">Route bus services</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus services</e>
+<cmt>Delted &quot;Route&quot;</cmt>
+<e type="check" ver="1">Bus services</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="75">
+<j>停留所名　「福知山駅」</j>
+<e type="trans" ver="1">Bus stop name: Fukuchiyama Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus stop name: Fukuchiyama Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus stop name: Fukuchiyama Station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="76">
+<j>西日本ジェイアールバス</j>
+<e type="trans" ver="1">West Japan JR Bus Company</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan JR Bus Company</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan JR Bus Company</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="77">
+<j>園福線（福知山駅～体育館前（長田野工業団地）～菟原～桧山～園部駅前）</j>
+<e type="trans" ver="1">Enfuku Route (Fukuchiyama Station - Taiikukan-mae (Osadano Kogyo-danchi) (bus stop)) - Ubara (bus stop) - Hiyama (bus stop) - Sonobe-ekimae (bus stop))</e>
+<cmt></cmt>
+<e type="trans" ver="2">Enfuku Route (Fukuchiyama Station - Taiikukan-mae (Osadano Kogyo-danchi) (bus stop)) - Ubara (bus stop) - Hiyama (bus stop) - Sonobe-ekimae (bus stop))</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Enfuku Route (Fukuchiyama Station - Taiikukan-mae (Osadano Kogyo-danchi) (bus stop)) - Ubara (bus stop) - Hiyama (bus stop) - Sonobe-ekimae (bus stop))</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="78">
+<j>停留所名　「福知山駅前」</j>
+<e type="trans" ver="1">Bus stop name: Fukuchiyama-ekimae</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus stop name: Fukuchiyama-ekimae</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus stop name: Fukuchiyama-ekimae</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="79">
+<j>京都交通 (舞鶴)</j>
+<e type="trans" ver="1">Kyoto Kotsu Bus (Maizuru)</e>
+<cmt>「京都交通」とは「京都交通バス」と同じものであると判断いたしました。</cmt>
+<e type="trans" ver="2">Kyoto Kotsu Bus (Maizuru)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Kotsu Bus (Maizuru)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="80">
+<j>福知山地区の全路線がここを起点とする</j>
+<e type="trans" ver="1">All routes running in Fukuchiyama area begin at this bus stop.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All routes running in Fukuchiyama area begin at this bus stop.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">All routes running in Fukuchiyama area begin at this bus stop.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="81">
+<j>福知山線（綾部駅前行き）、堀-市内循環線、長田野線、室循環線、川北線、小牧線、夜久野線　等</j>
+<e type="trans" ver="1">Fukuchiyama Route (to Ayabe-ekimae (bus stop)), Hori-City Loop Route, Osadano Route, Muro Loop Route, Kawakita Route, Komaki Route, Yakuno Route, etc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukuchiyama Route (to Ayabe-ekimae (bus stop)), Hori-City Loop Route, Osadano Route, Muro Loop Route, Kawakita Route, Komaki Route, Yakuno Route, etc.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fukuchiyama Route (to Ayabe-ekimae (bus stop)), Hori-City Loop Route, Osadano Route, Muro Loop Route, Kawakita Route, Komaki Route, Yakuno Route, etc.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="82">
+<j>丹後海陸交通</j>
+<e type="trans" ver="1">Tango Kairiku Kotsu Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tango Kairiku Kotsu Co., Ltd.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tango Kairiku Kotsu Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="83">
+<j>与謝・福知山線（東町・傘松ケーブル下行き、共栄高校前行き）</j>
+<e type="trans" ver="1">Yosa Fukuchiyama Route (to Higashi-machi/Kasamatsu Cable (Kasamatsu Keburu) (bus stop), Kyoei Koko-mae (bus stop))</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yosa Fukuchiyama Route (to Higashi-machi/Kasamatsu Cable (Kasamatsu Keburu) (bus stop), and to Kyoei Koko-mae (bus stop))</e>
+<cmt>Added &quot;and to&quot;</cmt>
+<e type="check" ver="1">Yosa Fukuchiyama Route (to Higashi-machi/Kasamatsu Cable (Kasamatsu Keburu) (bus stop), and to Kyoei Koko-mae (bus stop))</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="84">
+<j>このほか、三岳・庵我・中六人部への自主運行バスも発着する。</j>
+<e type="trans" ver="1">In addition, self-operating bus services to Mitake, Anga, and Nakamutobe are also available.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, independent bus services to Mitake, Anga, and Nakamutobe are also available.</e>
+<cmt>&quot;self-operating&quot;→&quot;independent&quot;</cmt>
+<e type="check" ver="1">In addition, independent bus services to Mitake, Anga, and Nakamutobe are also available.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="85">
+<j>かつて国鉄バス有路線があり、南有路まで運行していた。</j>
+<e type="trans" ver="1">JNR Bus Ariji Route used to exist and the bus service was operated up to Minami-Ariji.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There also used to be the JNR Bus Ariji Route to Minami-Ariji.</e>
+<cmt>There &quot;also used to be&quot;Deleted &quot;used to exist and the bus service was operated up&quot;</cmt>
+<e type="check" ver="1">There also used to be the JNR Bus Ariji Route to Minami-Ariji.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="86">
+<j>タクシー</j>
+<e type="trans" ver="1">Taxi services</e>
+<cmt></cmt>
+<e type="trans" ver="2">Taxi services</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Taxi services</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="87">
+<j>日本交通 (福知山市)</j>
+<e type="trans" ver="1">Nihon Kotsu Co., Ltd. (Fukuchiyama City)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nihon Kotsu Co., Ltd. (Fukuchiyama City)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nihon Kotsu Co., Ltd. (Fukuchiyama City)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="88">
+<j>京丹タクシー</j>
+<e type="trans" ver="1">Kyotan Taxi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyotan Taxi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyotan Taxi</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="89">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="90">
+<j>1904年（明治37年）11月3日 - 日本国有鉄道の駅として開業（当駅～東舞鶴駅間の開通と同時）。</j>
+<e type="trans" ver="1">November 3, 1904: Started as a station of Japan National Railways (JNR) (at the same time as the section between Fukuchiyama Station and Higashi-Maizuru Station was opened to traffic).</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 3, 1904: Opened as station of Japan National Railways (JNR) (at the same time, section between Fukuchiyama Station and Higashi-Maizuru Station opened).</e>
+<cmt>&quot;Started&quot;→&quot;Opened&quot;Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese.</cmt>
+<e type="check" ver="1">November 3, 1904: Opened as station of Japan National Railways (JNR) (at the same time, section between Fukuchiyama Station and Higashi-Maizuru Station opened).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="91">
+<j>同時に阪鶴鉄道福知駅～当駅間が開通。</j>
+<e type="trans" ver="1">At the same time, the section between Fukuchi Station of Hankaku Railway and this station was opened to traffic.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the same time, section between Hankaku Railway&apos;s Fukuchi Station and this station opened to traffic.</e>
+<cmt>Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese.</cmt>
+<e type="check" ver="1">At the same time, section between Hankaku Railway&apos;s Fukuchi Station and this station opened to traffic.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="92">
+<j>客貨取扱を開始。</j>
+<e type="trans" ver="1">Passenger and freight services started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger and freight services started.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Passenger and freight services started.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="93">
+<j>1907年（明治40年）8月1日 - 阪鶴鉄道が国有化。</j>
+<e type="trans" ver="1">August 1, 1907: Hankaku Railway was nationalized.</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 1, 1907: Hankaku Railway nationalized.</e>
+<cmt>Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese</cmt>
+<e type="check" ver="1">August 1, 1907: Hankaku Railway nationalized.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="94">
+<j>1923年（大正12年）9月22日 - 北丹鉄道線が開業。</j>
+<e type="trans" ver="1">September 22, 1923: Hokutan Railway Line was opened to traffic.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 22, 1923: Hokutan Railway Line opened.</e>
+<cmt>Deleted &quot;to traffic&quot;Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese.</cmt>
+<e type="check" ver="1">September 22, 1923: Hokutan Railway Line opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="95">
+<j>1971年（昭和46年）3月2日 - 北丹鉄道線が休止。</j>
+<e type="trans" ver="1">March 2, 1971: Hokutan Railway Line halted its services.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 2, 1971: Services suspended on Hokutan Railway Line halted its services.</e>
+<cmt>&quot;halted its services&quot;→&quot;Services suspended&quot;Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese</cmt>
+<e type="check" ver="1">March 2, 1971: Services suspended on Hokutan Railway Line.</e>
+<cmt>“halted its services.”不要。→削除。</cmt>
+</sen>
+<sen id="96">
+<j>1974年廃止。</j>
+<e type="trans" ver="1">1974: Hokutan Railway Line was discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">1974: Hokutan Railway Line discontinued.</e>
+<cmt>Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese.</cmt>
+<e type="check" ver="1">1974: Hokutan Railway Line discontinued.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="97">
+<j>1986年（昭和61年）11月1日 - 貨物取扱を廃止。</j>
+<e type="trans" ver="1">November 1, 1986: Freight services were discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 1, 1986: Freight services discontinued.</e>
+<cmt>Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese.</cmt>
+<e type="check" ver="1">November 1, 1986: Freight services discontinued.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="98">
+<j>貨物取扱施設福知山オフレールステーションを設置。</j>
+<e type="trans" ver="1">Fukuchiyama Off-rail-station, a freight handling facility, was set up.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukuchiyama Off-rail-station freight handling facility set up.</e>
+<cmt>Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese.</cmt>
+<e type="check" ver="1">Fukuchiyama Off-rail-station freight handling facility set up.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="99">
+<j>福知山線全線と・山陰本線城崎温泉駅まで電化。</j>
+<e type="trans" ver="1">The entire Fukuchiyama Line and the section of the San&apos;in Main Line up to Kinosakionsen Station were electrified.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Entire Fukuchiyama Line and section of San&apos;in Main Line up to Kinosakionsen Station electrified.</e>
+<cmt>Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese.</cmt>
+<e type="check" ver="1">Entire Fukuchiyama Line and section of Sanin Main Line up to Kinosakionsen Station electrified.</e>
+<cmt>San&apos;in→Sanin</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="100">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化によりJR西日本の駅となる。</j>
+<e type="trans" ver="1">April 1, 1987: Became a station under the control of JR West with the division and privatization of JNR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1987: Came under control of JR West following division and privatization of JNR.</e>
+<cmt>Added &quot;following&quot;Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese.</cmt>
+<e type="check" ver="1">April 1, 1987: Came under control of JR West following division and privatization of JNR.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="101">
+<j>1988年（昭和63年）7月16日 - 宮福鉄道（現在の北近畿タンゴ鉄道）宮福線が開業。</j>
+<e type="trans" ver="1">July 16, 1988: Miyafuku Line of Miyafuku Railway Company (current Kitakinki Tango Railway) was opened to traffic.</e>
+<cmt></cmt>
+<e type="trans" ver="2">July 16, 1988: Miyafuku Line of Miyafuku Railway Company (current Kitakinki Tango Railway) opened.</e>
+<cmt>Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese.</cmt>
+<e type="check" ver="1">July 16, 1988: Miyafuku Line of Miyafuku Railway Company (current Kitakinki Tango Railway) opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="102">
+<j>1995年（平成7年）4月20日 - 綾部駅～福知山駅間が電化。</j>
+<e type="trans" ver="1">April 20, 1995: The section between Ayabe Station and Fukuchiyama Station was electrified.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 20, 1995: Section between Ayabe Station and Fukuchiyama Station electrified.</e>
+<cmt>Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese.</cmt>
+<e type="check" ver="1">April 20, 1995: Section between Ayabe Station and Fukuchiyama Station electrified.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="103">
+<j>2005年（平成17年）11月26日 - JR線の当駅付近が高架化。</j>
+<e type="trans" ver="1">November 26, 2005: The JR lines around this station were elevated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 26, 2005: JR tracks around station elevated.</e>
+<cmt>&quot;Lines&quot;→&quot;tracks&quot;Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese.</cmt>
+<e type="check" ver="1">November 26, 2005: JR tracks around station elevated.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="104">
+<j>2008年度（平成20年度）末 - 北近畿タンゴ鉄道線の当駅付近が高架化予定。</j>
+<e type="trans" ver="1">End of 2008: Lines of Kitakinki Tango Railway around this station will be elevated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">End of 2008: Kitakinki Tango Railway tracks around station to be elevated.</e>
+<cmt>Rewrote in more &apos;note&apos; style, deleting articles, etc as in Japanese.</cmt>
+<e type="check" ver="1">End of fiscal year 2008: Kitakinki Tango Railway tracks around station to be elevated.</e>
+<cmt>&quot;fiscal year&quot; を追加しました。</cmt>
+</sen>
+</par>
+<par id="27">
+<sen id="105">
+<j>隣の駅</j>
+<e type="trans" ver="1">Next stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjacent stations</e>
+<cmt>&quot;Next&quot;→&quot;Adjacent&quot;</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="106">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Railway Company</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="107">
+<j>山陰本線</j>
+<e type="trans" ver="1">San&apos;in Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">San&apos;in Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sanin Main Line</e>
+<cmt>San&apos;in→Sanin</cmt>
+</sen>
+<sen id="108">
+<j>特急「北近畿 (列車)」「きのさき (列車)」「はしだて (列車)」「タンゴディスカバリー」停車駅、特急「たんば (列車)」始発駅</j>
+<e type="trans" ver="1">Fukuchiyama Station is the starting station of Limited Express &quot;Kitakinki,&quot; Limited Express &quot;Kinosaki,&quot; Limited Express service &quot;Hashidate,&quot; Limited Express service &quot;Tango Discovery&quot; and Limited Express &quot;Tanba.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukuchiyama Station is the starting station of the Limited Express &quot;Tanba&quot; and the Limited Expresses &quot;Kitakinki, &quot; &quot;Kinosaki,&quot; &quot;Hashidate,&quot; and &quot;Tango Discovery&quot; all stop at the station.</e>
+<cmt>Changed word orderMade &quot;Express&quot; pluralAdded &quot;all stop at the station&quot;</cmt>
+<e type="check" ver="1">Fukuchiyama Station is the starting station of the Limited Express &apos;Tanba&apos; and the Limited Expresses &apos;Kitakinki,&apos; &apos;Kinosaki,&apos; &apos;Hashidate,&apos; and &apos;Tango Discovery&apos; all stop at the station.</e>
+<cmt>原文の「」に合わせて&quot;を&apos;にスペース削除</cmt>
+</sen>
+<sen id="109">
+<j>■普通（園部駅から快速となる列車含む）</j>
+<e type="trans" ver="1">Local train service (including trains which are operated as a Rapid train from Sonobe Station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local train service (including trains which are operated as Rapid trains from Sonobe Station)</e>
+<cmt>Made &quot;train&quot; plural</cmt>
+<e type="check" ver="1">Local train service (including trains which are operated as Rapid trains from Sonobe Station)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="110">
+<j>石原駅 (京都府) - 福知山駅 - 上川口駅</j>
+<e type="trans" ver="1">Isa Station (Kyoto Prefecture) - Fukuchiyama Station - Kami-Kawaguchi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Isa Station (Kyoto Prefecture) - Fukuchiyama Station - Kami - Kawaguchi Station</e>
+<cmt>Added spaces</cmt>
+<e type="check" ver="1">Isa Station (Kyoto Prefecture) - Fukuchiyama Station - Kami-Kawaguchi Station</e>
+<cmt>スペース削除</cmt>
+</sen>
+<sen id="111">
+<j>福知山線</j>
+<e type="trans" ver="1">Fukuchiyama Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukuchiyama Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fukuchiyama Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="112">
+<j>特急「北近畿」「文殊 (列車)」「タンゴエクスプローラー」停車駅</j>
+<e type="trans" ver="1">This station is a stop for Limited Express &quot;Kita-Kinki,&quot; Limited Express &quot;Monju&quot; and Limited Express &quot;Tango Explorer.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is a stop for the Limited Expresses &quot;Kita-Kinki,&quot; &quot;Monju&quot; and &quot;Tango Explorer.&quot;</e>
+<cmt>Added &quot;the&quot;Made &quot;Express&quot; plural</cmt>
+<e type="check" ver="1">This station is a stop for the Limited Expresses &apos;Kita-Kinki,&apos; &apos;Monju&apos; and &apos;Tango Explorer.&apos;</e>
+<cmt>原文の「」に合わせて&quot;を&apos;に</cmt>
+</sen>
+<sen id="113">
+<j>■快速列車（三田駅 (兵庫県)まで各駅停車）・■普通</j>
+<e type="trans" ver="1">Rapid train service (stop at every station up to Sanda Station (Hyogo Prefecture)) Local train service</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid train service (stop at every station up to Sanda Station (Hyogo Prefecture)) Local train service</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rapid train service (trains stop at every station up to Sanda Station (Hyogo Prefecture))/ Local train service</e>
+<cmt>・を/に変更しました。</cmt>
+</sen>
+<sen id="114">
+<j>丹波竹田駅 - 福知山駅</j>
+<e type="trans" ver="1">Tanba-Takeda Station - Fukuchiyama Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanba Takeda Station - Fukuchiyama Station</e>
+<cmt>Deleted hyphen</cmt>
+<e type="check" ver="1">Tanba Takeda Station - Fukuchiyama Station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="115">
+<j>北近畿タンゴ鉄道</j>
+<e type="trans" ver="1">Kitakinki Tango Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitakinki Tango Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitakinki Tango Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="116">
+<j>宮福線</j>
+<e type="trans" ver="1">Miyafuku Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miyafuku Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyafuku Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="117">
+<j>特急「タンゴエクスプローラー」「タンゴディスカバリー」「はしだて」「文殊」停車駅</j>
+<e type="trans" ver="1">This station is a stop for Limited Express &quot;Tango Explorer,&quot; Limited Express service &quot;Tango Discovery,&quot; Limited Express service &quot;Hashidate&quot; and Limited Express &quot;Monju.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is a stop for the Limited Expresses &quot;Tango Explorer,&quot; &quot;Tango Discovery,&quot; &quot;Hashidate&quot; and &quot;Monju.&quot;</e>
+<cmt>Added &quot;the&quot;Made &quot;Express&quot; plural</cmt>
+<e type="check" ver="1">This station is a stop for the Limited Expresses &apos;Tango Explorer,&apos; &apos;Tango Discovery,&apos; &apos;Hashidate&apos; and &apos;Monju.&apos;</e>
+<cmt>原文の「」に合わせて&quot;を&apos;に</cmt>
+</sen>
+<sen id="118">
+<j>■快速</j>
+<e type="trans" ver="1">Rapid service</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid service</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rapid service</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="119">
+<j>福知山駅 - 大江駅 (京都府)</j>
+<e type="trans" ver="1">Fukuchiyama Station - Oe Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukuchiyama Station - Oe Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fukuchiyama Station - Oe Station (Kyoto Prefecture)</e>
+<cmt>(Kyoto Prefecture)補足</cmt>
+</sen>
+<sen id="120">
+<j>■快速「大江山号」</j>
+<e type="trans" ver="1">Rapid service &quot;Oeyama-go&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid service &quot;Oeyama-go&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rapid service &apos;Oeyama-go&apos;</e>
+<cmt>原文の「」に合わせて&quot;を&apos;に</cmt>
+</sen>
+<sen id="121">
+<j>福知山駅 - 荒河かしの木台駅</j>
+<e type="trans" ver="1">Fukuchiyama Station - Araga-Kashinokidai Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukuchiyama Station - Araga-Kashinokidai Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fukuchiyama Station - Araga-Kashinokidai Station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="122">
+<j>■普通</j>
+<e type="trans" ver="1">Local train service</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local train service</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Local train service</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="123">
+<j>福知山駅 - 厚中問屋駅</j>
+<e type="trans" ver="1">Fukuchiyama Station - Atsunakaton&apos;ya Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukuchiyama Station - Atsunakaton&apos;ya Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fukuchiyama Station - Atsunakatonya Station</e>
+<cmt>Atsunakaton&apos;ya→Atsunakatonya</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 ヒロリン(id:15886), Hikichimin Jr.(id:147077), 0null0(id:582), Kiha58-1047(id:86788), Hyoki(id:10874), Instant Dream(id:201622), Tagaru(id:30411), Wikipedianet(id:9608), エアスマップIRE(id:13873), Fjord(id:15599), Mois(id:30596), Sunen(id:10700), 継之助(id:39352), Goki(id:7107), Chobot(id:20846), Kone(id:377), Hirotaro(id:1437), エアスマップＩＲＥ(id:17869), Coldfoot(id:17281), HK3817(id:21293), 韓国と音楽を愛する男(id:59246), Jkr2255(id:16760), たね(id:10372), ポピュラーポプラ(id:157724), Makiharashouten(id:1021), FAT26(id:9460), Sat.K(id:3751), 上田達也(id:126672), ジョル(id:193779), Memeja(id:110500), Utsuda(id:605), Panorama8800(id:73666), 樒(id:35770), Rusk(id:9895), Yasu2006(id:93004), Kouchiumi(id:19253), R28Bot(id:177951), Ribbon(id:172), 663highland(id:18755), Mipu(id:5360), 210.(id:9838), オナガドリ(id:15179), Oota(id:140998), Takada@mex(id:28708), っ(id:4481), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

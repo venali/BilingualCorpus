@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>増阿弥</j>
+<e type="trans" ver="1">Zoami</e>
+<cmt></cmt>
+<e type="trans" ver="2">Zoami</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Zoami</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>増阿弥（ぞうあみ、生没年未詳）は世阿弥と同時期に活躍した田楽新座の役者。</j>
+<e type="trans" ver="1">Zoami (birth and death dates unknown) was the actor of Dengaku Shinza (New Dengaku Guild), who was active during the same time period as Zeami.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Zoami (birth and death dates unknown) was an actor of the Dengaku Shinza (New Dengaku Guild), who was active during the same time period as Zeami.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Zoami (year of birth and death unknown) was an actor of the Dengaku Shinza (New Dengaku Guild), who was active during the same time period as Zeami.</e>
+<cmt>生没年不詳 year of birth and death unknown 用語統一リストより訂正しました。</cmt>
+</sen>
+<sen id="2">
+<j>能の名手として世阿弥と人気を争った。</j>
+<e type="trans" ver="1">He competed along side Zeami as the person skilled in Noh play.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He competed along side Zeami as a person skilled in Noh play.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">He competed along side Zeami as a person skilled in Noh play.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>「冷えに冷えたり」（『申楽談義』）と評されるように、幽玄な芸風の持ち主であったらしく、応永二十年代ごろ足利義持の後援を受けて活躍した。</j>
+<e type="trans" ver="1">He was rumored to be &apos;Colder and cold&apos; (&quot;Lecture about Sarugaku&quot;) and was a person who seemed to have a mysterious air around him and performed with the support from Yoshimochi ASHIKAGA in around 1413.</e>
+<cmt>「冷えに冷えたり」→&apos;Colder and cold&apos;[定訳不明]</cmt>
+<e type="trans" ver="2">He was rumored to be &apos;Colder than cold&apos; (&quot;Lecture about Sarugaku&quot;) and was a person who seemed to have a mysterious air around him and performed with the support of Yoshimochi ASHIKAGA around 1413.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">He was rumored to be &apos;Colder than cold&apos; (&quot;Sarugaku Dangi&quot; (Talks about Sarugaku)) and was a person who seemed to have a mysterious air around him and performed with the support of Yoshimochi ASHIKAGA around 1413.</e>
+<cmt>&quot;Sarugaku Dangi&quot; (Talks about Sarugaku)用語集より訂正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>生年未詳ではあるが、応永21年（1414年）の年紀を持つ『竹生島縁起』に勧進者として名が挙がり、逆算して世阿弥と同年代かあるいはやや年下と考えられる。</j>
+<e type="trans" ver="1">His birth year is uncertain, but according to &quot;Legends of Chikubu Island&quot; written in 1414 recorded his name as kanjin (temple solicitation) person, and it is believed that he was at the same age as Zeami or slightly younger than him by calculating.</e>
+<cmt></cmt>
+<e type="trans" ver="2">His birth year is uncertain, but according to &quot;Legends of Chikubu Island&quot; written in 1414 his name was recorded as kanjin (temple solicitation) person, and it is believed that he was the same age as Zeami or slightly younger than him by calculating.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">His birth year is uncertain, but according to &quot;Chikubu-jima Engi&quot; (Legends of Chikubu Island) written in 1414 his name was recorded as kanjin (temple solicitation) person, and it is believed that he was the same age as Zeami or slightly younger than him by calculating.</e>
+<cmt>&quot;Chikubu-jima Engi&quot; (Legends of Chikubu Island)に訂正しました。</cmt>
+</sen>
+<sen id="5">
+<j>詳細不明ながら、『申楽談義』によれば「閑花風」（『九位』の第三位）の芸風で、東北院の立合能では「感涙も流るるばかり」の名演を見せたという。</j>
+<e type="trans" ver="1">Although details are uncertain, his artistic style was &apos;Kankafu&apos; (third of the &quot;Ninth&quot;) according to &quot;Lecture about Sarugaku&quot; and he showed &apos;moving tears just keep on falling&apos; performance at the tachiai (playing opposite) noh of Tohoku-in.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although details are uncertain, his artistic style was &apos;Kankafu&apos; (third of the &quot;Ninth&quot;) according to &quot;Lecture about Sarugaku&quot; and he showed &apos;moving tears just keep on falling&apos; performance at the tachiai (playing opposite) noh of Tohoku-in.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Although details are uncertain, his artistic style was &apos;Kankafu&apos; (third of the &quot;Ninth&quot;) according to &quot;Sarugaku Dangi&quot; and he showed &apos;moving tears just keep on falling&apos; performance at the tachiai (playing opposite) noh of Tohokuin.</e>
+<cmt>全角の括弧を半角に訂正しました。&quot;Sarugaku Dangi&quot;に訂正しました。不要なスペースを削除しました。ハイフン削除しました。</cmt>
+</sen>
+<sen id="6">
+<j>また「冷えに冷えたり」という有名な評言で知られる「尺八の能」を演じたことからも推測されるように、尺八をよくしたらしく、『体源抄』や『ささめごと』には豊原量秋に師事して名手であった旨の記載がある。</j>
+<e type="trans" ver="1">As it could be assumed from the famous word that described &apos;Shakuhachi no Noh&apos; (Noh play with Shakuhachi (bamboo flute), &apos;colder than cold,&apos; he was skilled in Shakuhachi, and &quot;Taigensho&quot; and &quot;Sasamegoto&quot; described him studying under 豊原量秋.</e>
+<cmt>豊原量秋[定訳不明]</cmt>
+<e type="trans" ver="2">As it could be assumed from the famous word that described &apos;Shakuhachi no Noh&apos; (Noh play with Shakuhachi (bamboo flute), &apos;colder than cold,&apos; he was skilled in Shakuhachi, and &quot;Taigensho&quot; and &quot;Sasamegoto&quot; described him studying under 豊原量秋.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">As it could be assumed from the famous word that described &apos;Shakuhachi no Noh&apos; (Noh play with Shakuhachi (bamboo flute)), &apos;colder than cold,&apos; he was skilled in Shakuhachi, and &quot;Taigensho&quot; and &quot;Sasamegoto&quot; described him studying under TOYOHARA no Kazuaki.</e>
+<cmt>)補足しました。豊原量秋→TOYOHARA no Kazuaki [http://www.rileylee.net/Thesis14Mar06%20Folder/chap3.html]</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>『仮面譜』以来、女面増の作者もしくはモデルとなった女性の夫に擬せられることがあるが、真偽不明。</j>
+<e type="trans" ver="1">Since &quot;Kamenfu,&quot; he supposedly became the writer for female monk or interpreted as the husband of the lady he modeled after but is not certain if this was true or not.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since &quot;Kamenfu,&quot; he supposedly became the writer for a female monk or interpreted as the husband of the lady he modeled after but it is not certain if this is true or not.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Since &quot;Kamenfu,&quot; he supposedly became the writer for a female monk or interpreted as the husband of the lady he modeled after but it is not certain if this is true or not.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 松茸(id:27535), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

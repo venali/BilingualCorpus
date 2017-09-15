@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>和名類聚抄</j>
+<e type="trans" ver="1">Wamyo Ruijusho (a dictionary)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wamyo Ruijusho (a dictionary)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Wamyo Ruijusho</e>
+<cmt>タイトルのため、括弧内の補足を削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>和名類聚抄（わみょうるいじゅしょう）は、平安時代中期に作られた辞書である。</j>
+<e type="trans" ver="1">Wamyo Ruijusho is a dictionary compiled in the middle era of the Heian period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wamyo Ruijusho is a dictionary compiled in the middle era of the Heian period.</e>
+<cmt>ｃ</cmt>
+<e type="check" ver="1">Wamyo Ruijusho is a dictionary compiled in the mid Heian period.</e>
+<cmt>mid Heian period として表現を統一しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>承平 (日本)年間 (931年 - 938年)、勤子内親王の求めに応じて源順（みなもとのしたごう）が編纂した。</j>
+<e type="trans" ver="1">In Shohei era (in Japan) (931 - 938), MINAMOTO no Shitago compiled it at a request of Imperial Princess Isoko.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Shohei era (in Japan) (931 - 938), MINAMOTO no Shitago compiled it at a request of Imperial Princess Isoko.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">In the Johei era (in Japan) (931 - 938), MINAMOTO no Shitago compiled it at a request of Imperial Princess Isoko.</e>
+<cmt>承平→Johei としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="3">
+<j>中国の分類辞典『爾雅』の影響を受けている。</j>
+<e type="trans" ver="1">It was affected by Jiga (Erya), a classification dictionary in China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was influenced by Jiga (Erya), a classification dictionary in China.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">It was influenced by &quot;Jiga&quot; (Erya), a classification dictionary in China.</e>
+<cmt>&quot; &quot; を追加しました。</cmt>
+</sen>
+<sen id="4">
+<j>名詞をまず漢語で類聚し、意味により分類して項目立て、万葉仮名で日本語に対応する名詞の読み（和名・倭名）をつけた上で、漢籍（字書・韻書・博物書）を出典として多数引用しながら説明を加える体裁をとる。</j>
+<e type="trans" ver="1">It was made in the following style: First, nouns were collected in Chinese, were grouped based on their meanings, an item name was given to each group of nouns, a Japanese pronunciation (called women: literally a Japanese name) of each of these nouns was given using Manyo-gana (a form of syllabary used in the Manyo-shu or Collection of Myriad Leaves), and to each noun, explanations were given by citing its Chinese document sources (dictionaries, Chinese dictionaries arranged by the final sound of each word, and encyclopedia).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was made in the following style: First, nouns were collected in Chinese, were grouped based on their meanings, an item name was given to each group of nouns, a Japanese pronunciation (called women: literally a Japanese name) of each of these nouns was given using Manyo-gana (a form of syllabary used in the Manyo-shu or Collection of Myriad Leaves), and to each noun, explanations were given by citing its Chinese document sources (dictionaries, Chinese dictionaries arranged by the final sound of each word, and encyclopedia).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It was made in the following style: First, nouns were collected in Chinese, were grouped based on their meanings, an item name was given to each group of nouns, a Japanese pronunciation (called &quot;wamyo,&quot; literally a Japanese name) of each of these nouns was given using Manyo-gana (a form of syllabary used in the Manyo-shu [Collection of Ten Thousand Leaves]), and to each noun, explanations were given by citing its Chinese document sources (dictionaries, Chinese dictionaries arranged by the final sound of each word, and encyclopedia).</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+<sen id="5">
+<j>今日の国語辞典の他、漢和辞典や百科事典の要素を多分に含んでいるのが特徴。</j>
+<e type="trans" ver="1">It is not only provided with factors of a Japanese language dictionary in the present day, but also provided with those of a Chinese-to-Japanese dictionary and of an encyclopedia, constituting its rare feature.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is not only provided with factors of a Japanese language dictionary in the present day, but also provided with those of a Chinese-to-Japanese dictionary and of an encyclopedia, constituting its rare feature.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It is not only provided with factors of a Japanese language dictionary in the present day, but also provided with those of a Chinese-to-Japanese dictionary and of an encyclopedia, constituting its rare feature.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="6">
+<j>当時から漢語の和訓を知るために重宝された。</j>
+<e type="trans" ver="1">Since having been compiled, this document was used frequently for knowing Japanese pronunciations for Chinese words</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Since having been compiled, this document was used frequently for knowing Japanese pronunciations for Chinese words</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Since having been compiled, this document was used frequently for knowing Japanese pronunciations for Chinese words</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>江戸時代の国学発生以降、平安時代以前の語彙・語音を知る資料として、また社会・風俗・制度などを知る史料として国文学・日本語学・日本史の世界で重要視されている書物である。</j>
+<e type="trans" ver="1">Since the time when the study of Japanese classical literatures started in the Edo period, it has been highly evaluated as a document where information about vocabulary and about pronunciations of words is available, and in addition, it has also been highly evaluated in the fields of Japanese literatures, of Japanese language study and of Japanese history, as a document in which information about states of society, customs and social systems is available.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Since the time when the study of Japanese classical literatures started in the Edo period, it has been highly evaluated as a document where information about vocabulary and about pronunciations of words is available, and in addition, it has also been highly evaluated in the fields of Japanese literatures, of Japanese language study and of Japanese history, as a document in which information about states of society, customs and social systems is available.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Since the time when the study of Japanese classical literatures started in the Edo period, it has been highly evaluated as a document where information about vocabulary and about pronunciations of words is available, and in addition, it has also been highly evaluated in the fields of Japanese literatures, of Japanese language study and of Japanese history, as a document in which information about states of society, customs and social systems is available.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="8">
+<j>書誌</j>
+<e type="trans" ver="1">About the document</e>
+<cmt></cmt>
+<e type="trans" ver="2">About the document</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">About the document</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>和名類聚抄は「倭名類聚鈔」「倭名類聚抄」とも書かれ、その表記は写本によって一定してしない。</j>
+<e type="trans" ver="1">The expression of &quot;倭名類聚鈔&quot; or &quot;倭名類聚抄&quot;is sometimes used instead of 和名類聚抄 (each of these expressions is pronounced as Wamyo Ruijusho equally), with the expression used depending on the copy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The expression of &quot;倭名類聚鈔&quot; or &quot;倭名類聚抄&quot;is sometimes used instead of 和名類聚抄 (each of these expressions is pronounced as Wamyo Ruijusho equally), with the expression used depending on the copy.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The expression of &apos;倭名類聚鈔&apos; or &apos;倭名類聚抄&apos; is sometimes used instead of 和名類聚抄 (each of these expressions is pronounced as Wamyo Ruijusho equally), with the expression used depending on the copy.</e>
+<cmt>&quot;→ &apos;　としました。</cmt>
+</sen>
+<sen id="10">
+<j>一般的に「和名抄」「倭名鈔」「倭名抄」と略称される。</j>
+<e type="trans" ver="1">Usually, the abbreviated expression of &quot;和名抄,&quot; &quot;倭名鈔,&quot; or &quot;倭名抄&quot; (each of these expressions is pronounced as Wamyosho equally).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usually, the abbreviated expression of &quot;和名抄,&quot; &quot;倭名鈔,&quot; or &quot;倭名抄&quot; (each of these expressions is pronounced as Wamyosho equally).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Usually, the abbreviated expression of &apos;和名抄,&apos; &apos;倭名鈔,&apos; or &apos;倭名抄&apos; (each of these expressions is pronounced as Wamyosho equally).</e>
+<cmt>&quot;→ &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="11">
+<j>巻数は十巻または二十巻である。</j>
+<e type="trans" ver="1">There are Wamyosho consisted of ten volumes and Wamyosho consisted of twenty volumes.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">There are Wamyosho consisting of ten volumes and Wamyosho consisting of twenty volumes.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">There are Wamyosho consisting of 10 volumes and Wamyosho consisting of 20 volumes.</e>
+<cmt>10, 20 アラビア数字にしました。</cmt>
+</sen>
+<sen id="12">
+<j>その内容に大きく異同があるため「十巻本」「二十巻本」として区別され、それぞれの系統の写本が存在する。</j>
+<e type="trans" ver="1">Because their contents are largely different with each other, each of them is called a 10-volume book or a 20-volume for differentiation, and copies of each book remain.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Because their contents are largely different with each other, each of them is called a 10-volume book or a 20-volume for differentiation, and copies of each book remain.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Because their contents are largely different with each other, each of them is called a &apos;10-volume book&apos; or a &apos;20-volume book&apos; for differentiation, and copies of each book remain.</e>
+<cmt>シングルクォーテーションを追加しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="13">
+<j>狩谷エキ斎は、十巻本を底本としている。</j>
+<e type="trans" ver="1">Ekisai KARIYA positions the 10-volume book as the standard.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ekisai KARIYA positions the 10-volume book as the standard.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Ekisai KARIYA positions the 10-volume book as the standard.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>また、国語学者の亀田次郎は、二十巻本は後人が増補したものとしている。</j>
+<e type="trans" ver="1">Jiro KAMEDA, a Japanese language scholar, says that the 20-volume book was augmented by later people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jiro KAMEDA, a Japanese language scholar, says that the 20-volume book was augmented by later people.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Jiro KAMEDA, a Japanese language scholar, says that the 20-volume book was augmented by later people.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="15">
+<j>なお二十巻本は古代律令制における行政区画である国・郡・郷の名称を網羅しており、この点でも基本史料となっている。</j>
+<e type="trans" ver="1">The 20-volume book covers the names of 国 (provinces), 郡 (counties), and 郷 (villages), which constituted area units for administrative control in the ancient ritsu-ryo code-based system, constituting a basic historical document even in this aspect.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The 20-volume book covers the names of 国 (provinces), 郡 (counties), and 郷 (villages), which constituted area units for administrative control in the ancient ritsu-ryo code-based system, constituting a basic historical document even in this aspect.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The 20-volume book covers the names of provinces, counties and villages, which constituted area units for administrative control in the ancient ritsuryo code-based system, constituting a basic historical document even in this aspect.</e>
+<cmt>漢字の表記は不要と考え、削除しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="16">
+<j>［例］ 大和国葛下郡神戸郷・山直郷・高額郷・加美郷・蓼田郷・品治（保無智）郷・當麻（多以末）郷</j>
+<e type="trans" ver="1">Examples: Kanbe-go (village), Yamadai-go,Takagaku-go, Kami-go, tadeda-go, Homuchi (品治r or 保無智 in Chinese characters)-go, and Taima (當麻 or 多以末 in Chinese characters)-go, in katsuge-gun (county) of the Yamato province</e>
+<cmt>高額郷・蓼田郷:　正しい読み方不明です。</cmt>
+<e type="trans" ver="2">Examples: Kanbe-go (village), Yamadai-go,Takagaku-go, Kami-go, tadeda-go, Homuchi (品治r or 保無智 in Chinese characters)-go, and Taima (當麻 or 多以末 in Chinese characters)-go, in katsuge-gun (county) of the Yamato province</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Examples: Kanbe-go (village), Yamadai-go, Takagaku-go, Kami-go, Tadeda-go, Homuchi (品治r or 保無智 in Chinese characters)-go, and Taima (當麻 or 多以末 in Chinese characters)-go, in Katsuge-gun (county) of the Yamato Province</e>
+<cmt>一部スペルを修正しました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="17">
+<j>構成</j>
+<e type="trans" ver="1">Configuration</e>
+<cmt></cmt>
+<e type="trans" ver="2">Configuration</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Configuration</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="18">
+<j>本書の構成は大分類である「部」と小分類の「門」より成っており、その構成は十巻本・二十巻本によってそれぞれ異なる。</j>
+<e type="trans" ver="1">This book is configured using 部 (categories) and 門 (sub-categories), and the configuration of either of the 10-volume book and 20-volume is different from the other.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This book is configured using 部 (categories) and 門 (sub-categories), and the configuration of either of the 10-volume book and 20-volume is different from the other.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">This book is configured using &apos;bu&apos; (部) (categories) and &apos;mon&apos; (門) (sub-categories), and the configuration of either of the 10-volume book and 20-volume book is different from the other.</e>
+<cmt>シングルクォーテーションを追加しました。Bu, mon 読みを追加しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="19">
+<j>諸本</j>
+<e type="trans" ver="1">Various Wamyosho books</e>
+<cmt></cmt>
+<e type="trans" ver="2">Various Wamyosho books</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Various Wamyosho books</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="20">
+<j>本書には完本・零本(端本)も含めて数多くの写本が存在する。</j>
+<e type="trans" ver="1">Many copies of Wamyosho exist including complete ones and incomplete ones (零本 or 端本 in Chinese characters).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many copies of Wamyosho exist including complete ones and incomplete ones (零本 or 端本 in Chinese characters).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Many copies of Wamyosho exist including complete ones and incomplete ones.</e>
+<cmt>漢字の表記は不要と考え、削除しました。</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="21">
+<j>また江戸時代には版本の形でも刊行されている。</j>
+<e type="trans" ver="1">In Edo period, Wamyosho books copied using woodblock printing were published.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In the Edo period, Wamyosho books copied using woodblock printing were published.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">In the Edo period, Wamyosho books copied using woodblock printing were published.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>しかしながら、十巻本は当時写本の形で流布したためほとんど梓に上らなかった。</j>
+<e type="trans" ver="1">However, the 10-volume books available at that time were manuscripts alone, scarcely published.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, the 10-volume books available at that time were manuscripts alone, scarcely published.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">However, the 10-volume books available at that time were manuscripts alone, and were scarcely published.</e>
+<cmt>were を追加しました。</cmt>
+</sen>
+<sen id="23">
+<j>二十巻本が重点的に刊行された。</j>
+<e type="trans" ver="1">Therefore, the 20-volume books were mostly published.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Therefore, the 20-volume books were mostly published.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Therefore, the 20-volume books were mostly published.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="24">
+<j>以下、影印・複製や直接閲覧により閲覧可能なものを筆写年代・刊行年代順に挙げる。</j>
+<e type="trans" ver="1">In the following, the Wamyosho books that can be viewed by photographing, copying or directly viewing them are listed first for manuscripts in the order of the hand-copied ages and then for published books in the order of the printed ages:</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the following, the Wamyosho books that can be viewed by photographing, copying or directly viewing them are listed first for manuscripts in the order of the hand-copied ages and then for published books in the order of the printed ages:</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">In the following, the Wamyosho books that can be viewed by photographing, copying or directly viewing them are listed first for manuscripts in the order of the hand-copied ages and then for published books in the order of the printed ages:</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="25">
+<j>十巻本</j>
+<e type="trans" ver="1">The 10-volume books</e>
+<cmt></cmt>
+<e type="trans" ver="2">The 10-volume books</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The 10-volume books</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="26">
+<j>現在、十巻本の本文として最も流布しているのは、狩谷エキ斎校注の『箋注倭名類聚抄』である。</j>
+<e type="trans" ver="1">Today, the most widely used text of the 10-volume book is &quot;Senchuwamyoruijusho&quot; revised and annotated by Ekisai KARIYA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Today, the most widely used text of the 10-volume book is &quot;Senchuwamyoruijusho&quot; revised and annotated by Ekisai KARIYA.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Today, the most widely used text of the 10-volume book is &quot;Senchu wamyo ruijusho&quot; revised and annotated by Ekisai KARIYA.</e>
+<cmt>Senchu wamyo ruijusho とスペースを入れました。</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="27">
+<j>ただし『箋注倭名類聚抄』は下にも書く通り明治時代刊なので、それまでは写本による流布が主であった。</j>
+<e type="trans" ver="1">However, &quot;Senchuwamyoruijusho&quot; was published in the Meiji period as described below, and until then, its manuscripts are mostly available.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, &quot;Senchuwamyoruijusho&quot; was published in the Meiji period as described below, and until then, its manuscripts are mostly available.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">However, &quot;Senchu wamyo ruijusho&quot; was published in the Meiji period as described below, and until then, its manuscripts were mostly available.</e>
+<cmt>are →were としました。</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="28">
+<j>なお十巻本の写本の中でも「下総本」とそれに連なる系統の本は、他の本と異なる記述を持つなど異質の本である。</j>
+<e type="trans" ver="1">Of the 10-volume manuscripts, &quot;Shimosa book&quot; is unique because the contents of it and of the books related to it are quite different from those of other 10-volume books.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Of the 10-volume manuscripts, &quot;Shimosa book&quot; is unique because the contents of it and of the books related to it are quite different from those of other 10-volume books.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Of the 10-volume manuscripts, &apos;Shimosa book&apos; is unique because the contents of it and of the books related to it are quite different from those of other 10-volume books.</e>
+<cmt>&quot;→ &apos;　としました。</cmt>
+</sen>
+<sen id="29">
+<j>このため十巻本の写本には、しばしば下総本系の本を参照し、朱でその校異を書き入れているものも少なくない。</j>
+<e type="trans" ver="1">Therefore, in not a few 10-volume book manuscripts, Shimosa book-related manuscripts are often referred to and corrections are written in red ink.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, in not a few 10-volume book manuscripts, Shimosa book-related manuscripts are often referred to and corrections are written in red ink.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Therefore, in not a few 10-volume book manuscripts, Shimosa book-related manuscripts are often referred to and corrections are written in red ink.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>しかし狩谷はこの下総本の本文を「後世の改竄によるもの」と見なし、「諸本の中で最も劣悪」として認めていない。</j>
+<e type="trans" ver="1">However, KARIYA considered the Shimosa book that the text of Shimosa books was not original, including altered portions, and rejects it as &quot;the most inferior one of the various books concerned.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, KARIYA considered the Shimosa book that the text of Shimosa books was not original, including altered portions, and rejects it as &quot;the most inferior one of the various books concerned.&quot;</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">However, KARIYA considered the Shimosa book as &apos;falsification by the posterity,&apos; and rejects it as &apos;the most inferior one of the various books concerned.&apos;</e>
+<cmt>一部翻訳を変更しました。</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="31">
+<j>写本</j>
+<e type="trans" ver="1">Manuscripts</e>
+<cmt></cmt>
+<e type="trans" ver="2">Manuscripts</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Manuscripts</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="32">
+<j>真福寺本＝鎌倉時代写・巻一～巻二のみ（宝生院真福寺蔵）</j>
+<e type="trans" ver="1">The Shinfuku-ji Temple book: Copied manually in the Kamakura period, only volumes 1 and 2 (owned by Hosho-in Shinfuku-ji Temple)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Shinfuku-ji Temple book: Copied manually in the Kamakura period, only volumes 1 and 2 (owned by Hosho-in Shinfuku-ji Temple)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The Shinpuku-ji Temple book: Copied manually in the Kamakura period, only volumes 1 and 2 (owned by Hosho-in Shinpuku-ji Temple)</e>
+<cmt>Shinpuku-ji としました。</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="33">
+<j>伊勢十巻本＝室町時代初期写・巻三～八のみ（神宮文庫蔵）</j>
+<e type="trans" ver="1">The Ise 10-volume book: Copied manually in the early Muromachi period, only volumes 3 - 8 (owned by the Jingu library)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ise 10-volume book: Copied manually in the early Muromachi period, only volumes 3 - 8 (owned by the Jingu library)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The Ise 10-volume book: Copied manually in the early Muromachi period, only volumes 3 - 8 (owned by the Jingu Library)</e>
+<cmt>Library　としました。</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="34">
+<j>京本＝江戸時代前期写・巻四～六のみ（東京大学国語研究室蔵）</j>
+<e type="trans" ver="1">The Kyo book: Copied manually in the first half of the Edo period, only volumes 4- 6 (owned by Laboratory of Japanese, the University of Tokyo)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyo book: Copied manually in the first half of the Edo period, only volumes 4- 6 (owned by the Laboratory of Japanese, the University of Tokyo)</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">The Kyo book: Copied manually in the first half of the Edo period, only volumes 4- 6 (owned by the Laboratory of Japanese, the University of Tokyo)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="35">
+<j>高松宮本＝江戸時代前期写・完本（国立歴史民俗博物館蔵）</j>
+<e type="trans" ver="1">The Takamatsunomiya book: Copied manually in the first half of the Edo period, a complete book (owned by National Museum of Japanese History)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Takamatsunomiya book: Copied manually in the first half of the Edo period, a complete book (owned by the National Museum of Japanese History)</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">The Takamatsunomiya book: Copied manually in the first half of the Edo period, a complete book (owned by the National Museum of Japanese History)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="36">
+<j>松井本＝江戸時代前期写・完本（静嘉堂文庫蔵）</j>
+<e type="trans" ver="1">The Matsui book: Copied manually in the first half of the Edo period, a complete book (owned by Seikado Bunko Art Museum)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Matsui book: Copied manually in the first half of the Edo period, a complete book (owned by Seikado Bunko Art Museum)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The Matsui book: Copied manually in the first half of the Edo period, a complete book (owned by Seikado Bunko Art Museum)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="37">
+<j>京一本＝江戸時代後期写・巻七～十のみ（東京大学国語研究室蔵）</j>
+<e type="trans" ver="1">The Kyoichi book: Copied manually in the latter half of the Edo period, only volumes 7- 10 (owned by Laboratory of Japanese, the University of Tokyo)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoichi book: Copied manually in the latter half of the Edo period, only volumes 7- 10 (owned by the Laboratory of Japanese, the University of Tokyo)</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">The Kyoichi book: Copied manually in the latter half of the Edo period, only volumes 7- 10 (owned by the Laboratory of Japanese, the University of Tokyo)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="27">
+<sen id="38">
+<j>狩谷エキ斎自筆訂本＝江戸時代後期写および校訂・完本（国立公文書館（旧内閣文庫）蔵）</j>
+<e type="trans" ver="1">The book copied manually by Ekisai KARIYA himself: Corrected as well as copied manually in the latter half of the Edo period, a complete book (owned by National Archive of Japan (former Cabinet Library))</e>
+<cmt></cmt>
+<e type="trans" ver="2">The book copied manually by Ekisai KARIYA himself: Corrected as well as copied manually in the latter half of the Edo period, a complete book (owned by the National Archive of Japan (former Cabinet Library))</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">The book copied manually by Ekisai KARIYA himself: Corrected as well as copied manually in the latter half of the Edo period, a complete book (owned by the National Archive of Japan [former Cabinet Library])</e>
+<cmt>括弧内の括弧を修正しました。</cmt>
+</sen>
+</par>
+<par id="28">
+<sen id="39">
+<j>前田本＝明治時代写・完本（前田尊経閣蔵）</j>
+<e type="trans" ver="1">The Maeda book: Copied manually in the Meiji period, a complete book (owned by Maeda Sonkeikaku)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Maeda book: Copied manually in the Meiji period, a complete book (owned by Maeda Sonkeikaku)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The Maeda book: Copied manually in the Meiji period, a complete book (owned by Maeda Sonkeikaku)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="29">
+<sen id="40">
+<j>※「下総本」系写本</j>
+<e type="trans" ver="1">* &quot;Shimosa book&quot;-related manuscripts</e>
+<cmt></cmt>
+<e type="trans" ver="2">* &apos;Shimosa book&apos;-related manuscripts</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">* &apos;Shimosa book&apos;-related manuscripts</e>
+<cmt>&quot;→ &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="30">
+<sen id="41">
+<j>天文本＝江戸時代後期写・完本（東京大学国語研究室蔵）</j>
+<e type="trans" ver="1">The Tenmon book: Copied manually in the latter half of the Edo period, a complete book (owned by Laboratory of Japanese, the University of Tokyo)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Tenmon book: Copied manually in the latter half of the Edo period, a complete book (owned by the Laboratory of Japanese, the University of Tokyo)</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">The Tenmon book: Copied manually in the latter half of the Edo period, a complete book (owned by the Laboratory of Japanese, the University of Tokyo)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="31">
+<sen id="42">
+<j>版本</j>
+<e type="trans" ver="1">Printed books</e>
+<cmt></cmt>
+<e type="trans" ver="2">Printed books</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Printed books</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="32">
+<sen id="43">
+<j>享和版本＝享和元年（1801年）刊・稲葉通邦校訂（底本＝真福寺本）</j>
+<e type="trans" ver="1">The Kyowa printed books: published in the first year of the Kyowa era (1801), corrected by Michikuni INABA (based on the Shinfuku-ji Temple book)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyowa printed books: published in the first year of the Kyowa era (1801), corrected by Michikuni INABA (based on the Shinfuku-ji Temple book)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The Kyowa printed books: Published in the first year of the Kyowa era (1801), corrected by Michikuni INABA (based on the Shinpuku-ji Temple book)</e>
+<cmt>コロンの後を大文字にしました。</cmt>
+</sen>
+</par>
+<par id="33">
+<sen id="44">
+<j>楊守敬刊本＝明治29年（1906年）刊・楊守敬校訂（底本＝下総本系写本）</j>
+<e type="trans" ver="1">Yang Shoujing&apos;s printed books: published in 1906, corrected by Yang Shoujing (based on Shimosa book-related manuscripts)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yang Shoujing&apos;s printed books: published in 1906, corrected by Yang Shoujing (based on Shimosa book-related manuscripts)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Yang Shoujing&apos;s printed books: Published in 1906, corrected by Yang Shoujing (based on Shimosa book-related manuscripts)</e>
+<cmt>コロンの後を大文字にしました。</cmt>
+</sen>
+</par>
+<par id="34">
+<sen id="45">
+<j>校注本</j>
+<e type="trans" ver="1">Corrected and annotated books</e>
+<cmt></cmt>
+<e type="trans" ver="2">Corrected and annotated books</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Corrected and annotated books</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="35">
+<sen id="46">
+<j>『箋注倭名類聚抄』＝文政10（1827年）成立、明治16年（1883年）刊・狩谷エキ斎校訂（底本＝京本を諸本で校訂）</j>
+<e type="trans" ver="1">&quot;Senchuwamyoruijusho&quot;: completed in 1827, corrected in 1882 by Ekisai KARIYA (corrections were made with the Kyo book as the base text)</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Senchuwamyoruijusho&quot;: completed in 1827, corrected in 1882 by Ekisai KARIYA (corrections were made with the Kyo book as the base text)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">&quot;Senchu wamyo ruijusho&quot;: Completed in 1827, published in 1883 by Ekisai KARIYA (corrections were made with the Kyo book as the base text)</e>
+<cmt>Senchu wamyo ruijusho　とスペースを入れました。Published in 1883 としました。</cmt>
+</sen>
+</par>
+<par id="36">
+<sen id="47">
+<j>二十巻本</j>
+<e type="trans" ver="1">Twenty-volume books</e>
+<cmt></cmt>
+<e type="trans" ver="2">Twenty-volume books</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The 20-volume books</e>
+<cmt>20 アラビア数字にしました。</cmt>
+</sen>
+</par>
+<par id="37">
+<sen id="48">
+<j>現在、二十巻本の本文として最も流布しているのは、那波道円校注の「元和古活字本」である。</j>
+<e type="trans" ver="1">Today, &quot;Genna kokatsujibon&quot; (literally, books printed using old types in the Genna era (1615 - 1624)) are used most widely as the text of the 20-volume books.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Today, &quot;Genna kokatsujibon&quot; (literally, books printed using old types in the Genna era (1615 - 1624)) are used most widely as the text of the 20-volume books.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Today, &apos;Genna kokatsuji-bon&apos; (literally, books printed using old types in the Genna era [1615 - 1624]) are used most widely as the text of the 20-volume books.</e>
+<cmt>&quot;→ &apos;　としました。Katsuji-bon としました。</cmt>
+</sen>
+</par>
+<par id="38">
+<sen id="49">
+<j>ただし「元和古活字本」は稀覯書で、昭和7年（1932年）に影印復刻されるまではほとんど世に出回らなかった。</j>
+<e type="trans" ver="1">However, &quot;Genna kokatsujibon&quot; was a rare book and was scarcely available in the market until its photo-copy version was published.,</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, &quot;Genna kokatsujibon&quot; was a rare book and was scarcely available in the market until its photo-copy version was published.</e>
+<cmt>Typo</cmt>
+<e type="check" ver="1">However, &apos;Genna kokatsuji-bon&apos; was a rare book and was scarcely available in the market until its photo-copy version was published in 1932.</e>
+<cmt>1932 を追加しました。</cmt>
+</sen>
+<sen id="50">
+<j>そのため、代わりに「慶安版本」「寛文版本」が広く用いられ、明治時代初期まで何度も刷を重ねた。</j>
+<e type="trans" ver="1">Therefore, &quot;Keian printed books&quot; (books printed in the Keian era (1648-1652)) and &quot;Kanbun printed books&quot; (books printed in the Kanbun era (1661-1673)) were widely used instead, being published many times until early Meiji era.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Therefore, &quot;Keian printed books&quot; (books printed in the Keian era (1648-1652)) and &quot;Kanbun printed books&quot; (books printed in the Kanbun era (1661-1673)) were widely used instead, being published many times until the early Meiji era.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Therefore, &apos;Keian printed books&apos; (books printed in the Keian era [1648-1652]) and &apos;Kanbun printed books&apos; (books printed in the Kanbun era [1661-1673]) were widely used instead, being published many times until the early Meiji period.</e>
+<cmt>era period としました。&quot;→ &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="39">
+<sen id="51">
+<j>また写本のうち「高山寺本」は、「国郡部」の後に古代律令制下の駅（うまや）を記してある。</j>
+<e type="trans" ver="1">Of the manuscripts concerned, the &quot;Kozan-ji Temple book&quot; includes descriptions of the names of inn-concentrated places along roads in the ancient ritsuryo code-based system, after those of the &quot;province/county category.&quot;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Of the manuscripts concerned, the &quot;Kozan-ji Temple book&quot; includes descriptions of the names of inn-concentrated places along roads in the ancient ritsuryo code-based system, after those of the &quot;province/county category.&quot;</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Of the manuscripts concerned, the &apos;Kozan-ji Temple book&apos; includes descriptions of the names of inn-concentrated places along roads in the ancient ritsuryo code-based system, after those of the &apos;province/county category.&apos;</e>
+<cmt>→ &apos;　としました。</cmt>
+</sen>
+<sen id="52">
+<j>他の二十巻本には見られない独自の本文を持つほか、本文の異同も多い。</j>
+<e type="trans" ver="1">In addition to including its own unique text that is not found in other 20-volume books, this book also includes many descriptions different from those of others.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In addition to including its own unique text that is not found in other 20-volume books, this book also includes many descriptions different from those of others.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">In addition to including its own unique text that is not found in other 20-volume books, this book also includes many descriptions different from those of others.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>そのため、特に「国郡部」を見る際に「元和古活字本」とともに参照される。</j>
+<e type="trans" ver="1">Therefore, this books is used together with &quot;Genna kokatsujibon,&quot; especially when referring to &quot;province/county category.&quot;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Therefore, this book is used together with &quot;Genna kokatsujibon,&quot; especially when referring to the &quot;province/county category.&quot;</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Therefore, this book is used together with &apos;Genna kokatsuji-bon,&apos; especially when referring to the &apos;province/county category.&apos;</e>
+<cmt>→ &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="40">
+<sen id="54">
+<j>写本</j>
+<e type="trans" ver="1">Manuscripts</e>
+<cmt></cmt>
+<e type="trans" ver="2">Manuscripts</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Manuscripts</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="41">
+<sen id="55">
+<j>高山寺本＝平安時代末期写・巻六～十のみ（天理大学附属天理図書館蔵）</j>
+<e type="trans" ver="1">The Kozan-ji Temple book: Copied manually towards the end of the Heian period, only volumes 6 - 10 (owned by the Tenri library attached to Tenri University)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kozan-ji Temple book: Copied manually towards the end of the Heian period, only volumes 6 - 10 (owned by the Tenri library attached to Tenri University)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The Kozan-ji Temple book: Copied manually towards the end of the Heian period, only volumes 6 - 10 (owned by the Tenri Library attached to Tenri University)</e>
+<cmt>Library としました。</cmt>
+</sen>
+</par>
+<par id="42">
+<sen id="56">
+<j>伊勢二十巻本＝室町時代初期写・巻一～二および巻九～二十のみ（神宮文庫蔵）</j>
+<e type="trans" ver="1">The Ise 20-volume book: Copied manually in the early Muromachi period, only volumes 1, 2 and 9 - 20 (owned by the Jingu Library)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ise 20-volume book: Copied manually in the early Muromachi period, only volumes 1, 2 and 9 - 20 (owned by the Jingu Library)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The Ise 20-volume book: Copied manually in the early Muromachi period, only volumes 1, 2 and 9 - 20 (owned by the Jingu Library)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="43">
+<sen id="57">
+<j>大東急本＝室町時代中期写・完本（大東急記念文庫蔵）</j>
+<e type="trans" ver="1">The Daitokyu book: Copied manually in the middle era of the Muromachi period, a complete book (owned by the Daitokyu memorial library)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Daitokyu book: Copied manually in the middle era of the Muromachi period, a complete book (owned by the Daitokyu memorial library)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The Daitokyu book: Copied manually in the middle era of the Muromachi period, a complete book (owned by the Daitokyu memorial library)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="44">
+<sen id="58">
+<j>版本</j>
+<e type="trans" ver="1">Printed books</e>
+<cmt></cmt>
+<e type="trans" ver="2">Printed books</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Printed books</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="45">
+<sen id="59">
+<j>元和古活字本＝元和３年（1617年）刊・那波道円校訂</j>
+<e type="trans" ver="1">Genna kokatsujibon: published in 1617, corrected by Doen NAWA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Genna kokatsujibon: published in 1617, corrected by Doen NAWA.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Genna kokatsuji-bon: Published in 1617, corrected by Doen NAWA</e>
+<cmt>コロンの後を大文字にしました。</cmt>
+</sen>
+</par>
+<par id="46">
+<sen id="60">
+<j>慶安版本＝慶安元年（1648年）刊</j>
+<e type="trans" ver="1">Keian printed books: published in 1648</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keian printed books: published in 1648</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Keian printed books: Published in 1648</e>
+<cmt>コロンの後を大文字にしました。</cmt>
+</sen>
+</par>
+<par id="47">
+<sen id="61">
+<j>寛文版本＝寛文11年（1671年）刊</j>
+<e type="trans" ver="1">Kanbun printed books: published in 1671</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanbun printed books: published in 1671</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Kanbun printed books: Published in 1671</e>
+<cmt>コロンの後を大文字にしました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Ligar(id:12623), Izayohi(id:13095), Papamaruchan22(id:71152), Nnh(id:474), KMT(id:1772), ゆいしあす(id:79629), Philolo(id:17346), 梁山泊智多星呉用(id:127114), Sketch(id:102), Samacat(id:133386), Kinori(id:443), Loveless(id:129239), Yas(id:739), 蔭人(id:80171), Trek011(id:7105), MasakiTomasawa(id:17687), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

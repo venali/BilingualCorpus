@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>大衍暦</j>
+<e type="trans" ver="1">Taienreki</e>
+<cmt></cmt>
+<e type="trans" ver="2">Taienreki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Taienreki</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>大衍暦（たいえんれき/だいえんれき）とは、かつて中国や日本で使われていた太陰太陽暦の暦法である。</j>
+<e type="trans" ver="1">Taienreki (大衍暦: also read as Daienreki) is a lunisolar calendar once used in China and Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Taienreki (大衍暦: also read as Daienreki) was a lunisolar calendar once used in China and Japan.</e>
+<cmt>is→wasとしました。</cmt>
+<e type="check" ver="1">Taienreki (大衍暦: also read as Daienreki) was a lunisolar calendar once used in China and Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>中国・唐の僧・一行（いちぎょう）が玄宗 (唐)の勅令を受けて編纂した暦法である。</j>
+<e type="trans" ver="1">It is the calendar which a Chinese monk Ichigyo formulated by an imperial ordinance of Emperor Genso (Emperor Xuan Zong of Tang).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was the calendar which a Chinese monk Yi Xing formulated by an imperial ordinance of Emperor Xuan Zong of Tang.</e>
+<cmt>is→was、Ichigyo→Yi Xing、Emperor Genso (Emperor Xuan Zong of Tang)→Emperor Xuan Zong of Tangに修正</cmt>
+<e type="check" ver="1">It was the calendar which a Chinese monk Yi Xing formulated by an imperial ordinance of Emperor Xuan Zong of Tang.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>一行らは南は交州から北は鉄勒にいたる子午線測量を行い、中国全土に及ぶ大規模な天文測量を実施した。</j>
+<e type="trans" ver="1">Ichigyo and his group conducted a meridian determination covering the area from the southern Jiao-zhou up to the northern Tie-le, and also a large scale astronomical surveying over the whole China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yi Xing and his group conducted a meridian determination covering the area from the southern Jiao-zhou up to the northern Tie-le, and also a large scale astronomical surveying over the whole China.</e>
+<cmt>Ichigyo→Yi Xingに修正</cmt>
+<e type="check" ver="1">Yi Xing and his group conducted a meridian determination covering the area from the southern Jiao-zhou up to the northern Tie-le, and also a large scale astronomical surveying over the whole China.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>中国では、開元17年（729年）から上元 (唐粛宗)2年（761年）まで33年間用いられた。</j>
+<e type="trans" ver="1">The calendar had been used in China for 33 years from 729 to 761.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The calendar had been used in China for 33 years from 729 to 761.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The calendar had been used in China for 33 years from 729 to 761.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>大衍暦は非常に整備された暦法であり、その形式が後世の模範となった。</j>
+<e type="trans" ver="1">It was an extremely well-formulated calendar, which became a model for the later generations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was an extremely well-formulated calendar, which became a model for the later generations.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was an extremely well-formulated calendar, which became a model for the later generations.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>太陽運行の不均等性を考慮して太陽運行表が編制され、計算に不等間隔二次差補間法が用いられた。</j>
+<e type="trans" ver="1">A solar motion table was developed taking into account the unevenness of the solar motion, and the interpolation method using unevenly-spaced quadratic difference was used as well.</e>
+<cmt>用語集では「不等間隔二次差補間法」がUnequally-spaced Quadratic Interpolation Methodとなっています。ところが私が調べたところ、どうもQuadratic Interpolation Methodの意味は「二次補間法」で「二次差補間法」とは違うようです。また「唐代における暦制定にまとわる諸問題の研究　(１９９４年度、長谷部英一　東京大学・文学部・助手）という論文の中に「この大衍暦では太陽の視運動の不等を考慮し、その計算に不等間隔二次差による内挿法を創立した」という文章がありました（内挿法＝補間法）。この表現を借りて、「不等間隔二次差 Unevenly-spaced quadratic difference」を使った「補間法 Interpolation method」という訳にしました。内容の理解を伴わない訳ですので仮訳ということになります。</cmt>
+<e type="trans" ver="2">A solar motion table was developed taking into account the unevenness of the solar motion, and the interpolation method using unevenly-spaced quadratic difference (不等間隔二次差補間法) was used as well.</e>
+<cmt>「不等間隔二次差補間法」→仮訳のため日本語表記追加 (trans1コメント参照)</cmt>
+<e type="check" ver="1">A solar motion table was developed taking into account the unevenness of the solar motion, and the interpolation method using unevenly-spaced quadratic difference (不等間隔二次差補間法) was used as well.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>また食 (天文)計算に食の地域的時間差が導入された。</j>
+<e type="trans" ver="1">Also a concept of regional time difference was brought into the eclipse calculation (astronomy).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also a concept of regional time difference was brought into the eclipse calculation (astronomy).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also a concept of regional time difference was brought into the eclipse calculation (astronomy).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>和暦として</j>
+<e type="trans" ver="1">As a Japanese Calendar</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a Japanese Calendar</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As a Japanese Calendar</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>日本には、吉備真備が天平7年（737年）に唐から持ち帰った。</j>
+<e type="trans" ver="1">KIBI no Makibi (a Japanese scholar and noble during the Nara period) brought it to Japan when he returned from China in 737.</e>
+<cmt>天平はどの辞書や参考書を見ても７２９年からとなっていて、それをベースに計算すると天平７年は７３５年になりますが、一応原文通りにしてあります。ちなみに、他に出てくる西暦を伴わない年号は広辞苑等をもとに西暦変換してあります。よって「天平７年＝737年」とは整合性がありません。</cmt>
+<e type="trans" ver="2">KIBI no Makibi (a Japanese scholar and noble during the Nara period) brought it to Japan when he returned from China in 735.</e>
+<cmt>原文には天平7年(737年)とありますが、天平7年は735年のため、in 737→in 735としました。</cmt>
+<e type="check" ver="1">KIBI no Makibi (a Japanese scholar and noble during the Nara period) brought it to Japan when he returned from China in 735.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>だが、当時の日本には暦学に通じた人材が不足していた（『続日本紀』天平2年3月辛亥条）ため、実施には慎重な準備が進められた（『続日本紀』天平宝字元年11月癸未条、『類聚三代格』所収同日（11月9日）勅）後に藤原仲麻呂政権下で実現される事になる。</j>
+<e type="trans" ver="1">However, as there were not many people who were versed in astronomy in Japan in those days (according to the Shoku Nihongi (Chronicle of Japan Continued), paragraph of Tenpyo 2 March - Year of Kanotoi (of the sexagenary cycle)), careful preparations had to be made (according to the Shoku Nihongi, paragraph of Tenpyo Hoji 1 November - Year of Mizunoto-hitsuji (of the sexagenary cycle), concerning which &apos;Ruiju Sandai Kyaku&apos; (Assorted Regulations from Three Reigns) describes that an imperial decree was issued on the same day (November 9)) before it was implemented under the FUJIWARA no Nakamaro government.</e>
+<cmt>『続日本紀』天平2年3月辛亥条について、年号は西暦にというルールですが、この場合は「続日本紀」の中の（第１０巻にある）’天平２年３月辛亥’という条」を指すので西暦に変換するのは無意味だと考えました。「第１０巻」は原文にないので補って訳すことは控えました。「『続日本紀』天平宝字元年11月癸未条、『類聚三代格』所収同日（11月9日）勅」の後半は難解ですが、一応「続日本紀の同条に関して『類聚三代格』では同日１１月９日に勅が出されたと記されている」という意味に解釈して訳しています。仮訳であり、解釈の妥当性についての確認が必要と思われます。</cmt>
+<e type="trans" ver="2">However, as there were not many people who were versed in astronomy in Japan in those days (according to the &quot;Shoku Nihongi&quot; [Chronicle of Japan Continued], paragraph of April 22, 730), careful preparations had to be made (according to the &quot;Shoku Nihongi,&quot; paragraph of December 28, 757, concerning which &quot;Ruiju Sandai Kyaku&quot; (Assorted Regulations from Three Reigns) describes that an imperial decree was issued on the same day [December 28]) before it was implemented under the FUJIWARA no Nakamaro government.</e>
+<cmt>カッコ表記修正、旧暦→新暦に変更、原文表記に基づき、Shoku Nihongiにクォーテーション追加、および&quot;Ruiju Sandai Kyaku&quot;としました。</cmt>
+<e type="check" ver="1">However, as there were not many people who were versed in astronomy in Japan in those days (according to the &quot;Shoku Nihongi&quot; [Chronicle of Japan Continued], paragraph of April 22, 730), careful preparations had to be made (according to the &quot;Shoku Nihongi,&quot; paragraph of December 28, 757, concerning which &quot;Ruiju Sandai Kyaku&quot; (Assorted Regulations from Three Reigns) describes that an imperial decree was issued on the same day [December 28]) before it was implemented under the FUJIWARA no Nakamaro government.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="11">
+<j>天平宝字8年（764年）から貞観 (日本)3年（861年）までの98年間用いられた。</j>
+<e type="trans" ver="1">It had been used in Japan for 98 years from 764 to 861.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It had been used in Japan for 98 years from 764 to 861.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It had been used in Japan for 98 years from 764 to 861.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>天安 (日本)2年（858年）からの4年間は改暦の準備として五紀暦と併用されたが、貞観4年（862年）に宣明暦が導入された。</j>
+<e type="trans" ver="1">During the four years from 858, Taienreki was concurrently used with the Gokireki calendar for the preparation for a calendar reform, and the Senmyoreki calendar was introduced in 862.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the four years from 858, Taienreki was concurrently used with the Gokireki calendar for the preparation for a calendar reform, and the Senmyoreki calendar was introduced in 862.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">During the four years from 858, Taienreki was concurrently used with the Gokireki calendar for the preparation for a calendar reform, and the Senmyoreki calendar was introduced in 862.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 田英(id:85936), Izayohi(id:13095), Tcyiswalk(id:7279), らりた(id:1327), Tietew(id:4054), Nnh(id:474), Polyester(id:9559), 水野白楓(id:22811), Katsuya(id:21306), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

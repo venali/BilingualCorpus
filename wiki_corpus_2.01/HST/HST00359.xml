@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>守護請</j>
+<e type="trans" ver="1">Shugouke (the contract system that the manor&apos;s owner entrusts a provincial constable to manage his manor and pay the customs)</e>
+<cmt>括弧の中の説明は、用語集の用語の検索と登録で見つけたものをそのまま使用しました。</cmt>
+<e type="trans" ver="2">Shugouke (the contract system that the manor&apos;s owner entrusts a provincial constable to manage his manor and pay the customs)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Shugouke</e>
+<cmt>タイトルのため、カッコ内の補足削除 (次文に説明あり)</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>守護請（しゅごうけ）は、日本の室町時代において、守護が荘園領主や知行国主から荘園・国衙領（公領）の年貢納入を請け負ったことを指す。</j>
+<e type="trans" ver="1">In Japan, Shugo (provincial constable) undertook to pay the land tax on shoen (Manor in medieval Japan) and Kokugaryo (territories governed by provincial government office) (Koryo (an Imperial demesne)) for the lord of the manor and chigyo-kokushu (provincial proprietor) in the Muromachi period under a system known as Shugouke.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Japan, Shugo (provincial constable) undertook to pay the land tax on shoen (Manor in medieval Japan) and Kokugaryo (territories governed by provincial government office) (Koryo (an Imperial demesne)) for the lord of the manor and chigyo-kokushu (provincial proprietor) in the Muromachi period under a system known as Shugouke.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Shugouke is a system during the Muromachi period in Japan under which Shugo (provincial constable) undertook to pay the land tax on shoen (Manor in medieval Japan) and Kokugaryo (territories governed by provincial government office) (koryo (an Imperial demesne)) for the lord of the manor and chigyo-kokushu (provincial proprietor).</e>
+<cmt>原文に沿うよう一部訳し直しました。他の表記に合わせ、Koryo→koryoとしました。</cmt>
+</sen>
+<sen id="2">
+<j>請所の一形態。</j>
+<e type="trans" ver="1">It is a form of ukedokoro (land lease contract system).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a form of ukedokoro (land lease contract system).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It is a form of ukedokoro (land lease contract system).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>室町期守護は、守護請を通じて国内の荘園・国衙領への支配を強めていった。</j>
+<e type="trans" ver="1">In the Muromachi period, Shugo strengthened the control over shoen and Kokugaryo in the country through Shugouke.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Muromachi period, Shugo strengthened the control over shoen and Kokugaryo in the country through Shugouke.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">In the Muromachi period, Shugo strengthened the control over shoen and Kokugaryo in the country through Shugouke.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>沿革</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>鎌倉時代から武士による荘園・公領への侵出がはじまり、時代を経つとともに侵出の度合いが激しくなっていた。</j>
+<e type="trans" ver="1">In the Kamakura period, samurai started to make inroads into shoen and koryo, expanding their involvement over time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Kamakura period, samurai started to make inroads into shoen and koryo, expanding their involvement over time.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">In the Kamakura period, samurai started to make inroads into shoen and koryo, expanding their involvement over time.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>荘園領主・知行国主らは収入を確保するため、地頭に一定額の年貢納入を義務づける代わりに現地の荘園・公領の支配を任せる地頭請を行うようになった。</j>
+<e type="trans" ver="1">Lord of the manor and chigyo-kokushu introduced Jitouke (the contract system that the manor&apos;s owner entrusts a jito (manager and lord of manor) to manage his manor and pay the customs) in order to secure income by obliging a jito to pay a fixed amount of land tax in exchange for entrusting him with the management of the local shoen and koryo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Lord of the manor and chigyo-kokushu introduced Jitouke (the contract system that the manor&apos;s owner entrusts a jito (manager and lord of manor) to manage his manor and pay the customs) in order to secure income by obliging a jito to pay a fixed amount of land tax in exchange for entrusting him with the management of the local shoen and koryo.</e>
+<cmt>Spacing</cmt>
+<e type="check" ver="1">Lord of the manor and chigyo-kokushu introduced Jitouke (the contract system that the manor&apos;s owner entrusts a jito (manager and lord of manor) to manage his manor and pay the customs) in order to secure income by obliging a jito to pay a fixed amount of land tax in exchange for entrusting him with the management of the local shoen and koryo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>このような請負が行われた荘園・公領を請所という。</j>
+<e type="trans" ver="1">Shoen and koryo that had such a contract were called ukedokoro.</e>
+<cmt>「請所」は「中世、荘園において荘官または地頭が領主に一定額の年貢を上納することを請け負い、代わりに荘園の管理を一切任される制度」（広辞苑）のことなので、この原文の意味がわかりません。</cmt>
+<e type="trans" ver="2">Shoen and koryo that had such a contract were called ukedokoro.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Shoen and koryo that had such a contract were called ukedokoro.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>地頭請所ではほぼ例外なく年貢の未進が発生しており、武士の荘園・公領侵出は一層進むこととなった。</j>
+<e type="trans" ver="1">As jito ukedokoro with few exception were subjected to non-payment of land tax, samurai got more involved in shoen and Koryo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As jito ukedokoro with few exception were subjected to non-payment of land tax, samurai got more involved in shoen and Koryo.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">As jito ukedokoro with few exception were subjected to non-payment of land tax, samurai got more involved in shoen and koryo.</e>
+<cmt>他の表記に合わせ、Koryo→koryoとしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>鎌倉期の守護には大犯三ヶ条の検断権と大番役の指揮監督権しか与えられていなかった。</j>
+<e type="trans" ver="1">In the Kamakura period, Shugo was only assigned the right of Taibon sankajo (three basic rights of shugo, the provincial constable) and the right to supervise as part of Obanyaku (a job to guard Kyoto).</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">In the Kamakura period, Shugo was only assigned the right of Taibon sankajo (three basic rights of shugo, the provincial constable) and the right to supervise as part of Obanyaku (a job to guard Kyoto).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">In the Kamakura period, Shugo was only assigned the right of Taibon sankajo (three basic rights of shugo, the provincial constable) and the right to supervise as part of Obanyaku (a job to guard Kyoto).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>しかし、室町時代に入ると、室町幕府は守護に対して刈田狼藉取締権をはじめ、使節遵行権・半済給付権・闕所地処分権・段銭徴収権など、国内の荘園・公領へ統治的・経済的支配を及ぼしうる様々な権限を付与するようになった。</j>
+<e type="trans" ver="1">But early in the Muromachi period, the Muromachi bakufu granted various authorities to Shugo, which would enable them to exert a range of administrative and economic influences on shoen and koryo in the country such as the right to control Karita-rozeki (to reap rice illegally), the right to pass a delegate word (Shisetsu jungyo), the right to permit hanzei (half payment of tax), the right to confiscate property from criminals or if it is left derelict, the right to collect tansen (a tax on arable land).</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">But early in the Muromachi period, the Muromachi bakufu granted various authorities to Shugo, which would enable them to exert a range of administrative and economic influences on shoen and koryo in the country, such as the right to control Karita-rozeki (to reap rice illegally), the right to pass a delegate word (Shisetsu jungyo), the right to permit hanzei (half payment of tax), the right to confiscate property from criminals or if it is left derelict, the right to collect tansen (a tax on arable land).</e>
+<cmt>Flow, Spacing</cmt>
+<e type="check" ver="1">But early in the Muromachi period, the Muromachi bakufu (Japanese feudal government headed by a shogun) granted various authorities to Shugo, which would enable them to exert a range of administrative and economic influences on shoen and koryo in the country, such as the right to control Karita-rozeki (to reap rice illegally), the right to enforce the bakufu judicial decisions in land disputes (Shisetsu jungyo), the right to permit hanzei (half payment of tax), the right to confiscate property from criminals or if it is left derelict, the right to collect tansen (a tax on arable land).</e>
+<cmt>bakufuの補足追加、the right to pass a delegate word (Shisetsu jungyo)→the right to enforce the bakufu judicial decisions in land disputes (Shisetsu jungyo)としました。(参照: http://books.google.co.jp/books?id=TtTc_Aa22MwC&amp;pg=PA273&amp;dq=shisetsu+jungyo&amp;as_brr=3&amp;cd=1#v=onepage&amp;q=shisetsu%20jungyo&amp;f=false)</cmt>
+</sen>
+<sen id="10">
+<j>これらの権限を根拠として、守護は守護使を荘園・公領へ派遣し、段銭・兵糧・人夫などを徴発し始めた。</j>
+<e type="trans" ver="1">Based on these authorities, Shugo sent Shugotsukai (messenger from Shugo) to shoen and koryo, starting to requisition tansen, army provisions and laborers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Based on these authorities, Shugo sent Shugotsukai (messenger from Shugo) to shoen and koryo, starting to requisition tansen, army provisions and laborers.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Based on these authorities, Shugo sent Shugotsukai (messenger from Shugo) to shoen and koryo, starting to requisition tansen, army provisions and laborers.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>また、国衙の機能を実質的に吸収し、国衙の支配する公領（郡・郷・保など）を自らの支配下へと組み込んだ。</j>
+<e type="trans" ver="1">They practically absorbed the functions of kokuga and subjected koryo (gun, go, ho) governed by kokuga to their control.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They practically absorbed the functions of kokuga and subjected koryo (gun, go, ho) governed by kokuga to their control.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">They practically absorbed the functions of kokuga and subjected koryo (gun, go, ho) governed by kokuga to their control.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="12">
+<j>こうした守護の動きに対し、荘園領主らも幕府から守護使不入権の承認を得るなどの対応を取ったが、荘園領主らの大部分は京都に在住しており、遠方にある荘園へ強い支配力を及ぼすことはほとんど困難であった。</j>
+<e type="trans" ver="1">Trying to deal with these trends, the lords of manors obtained the right of nonentry of Shugo, but it was almost impossible for them to exert strong influence on the distant shoen because most of them lived in Kyoto</e>
+<cmt></cmt>
+<e type="trans" ver="2">Trying to deal with these trends, the lords of manors obtained the right of non-entry of Shugo, but it was almost impossible for them to exert strong influence on the distant shoen because most of them lived in Kyoto</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Trying to deal with these trends, the lords of manors obtained the right of non-entry of Shugo, but it was almost impossible for them to exert strong influence on the distant shoen because most of them lived in Kyoto.</e>
+<cmt>ピリオド追加</cmt>
+</sen>
+<sen id="13">
+<j>在地の地頭・国人・荘官らには、守護の被官となる者もおり、荘園領主の支配権（荘務権）は守護に侵害される傾向にあったのである。</j>
+<e type="trans" ver="1">Some local jito, Kokujin (local samurai) and shokan (an officer governing shoen (manor)) were hired as low-level bureaucrats by Shugo, and the lords&apos; authority (hegemony over estates) was vulnerable to violation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some local jito, Kokujin (local samurai) and shokan (an officer governing shoen (manor)) were hired as low-level bureaucrats by Shugo, and the lords&apos; authority (hegemony over estates) was vulnerable to violation.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Some local jito, kokujin (local samurai) and shokan (an officer governing shoen) were hired as low-level bureaucrats by Shugo, and the lords&apos; authority (hegemony over estates) was vulnerable to violation.</e>
+<cmt>jito, shokanに合わせ、Kokujinの頭文字を小文字に変更、shoen→既出のため補足削除</cmt>
+</sen>
+<sen id="14">
+<j>そしてついに、鎌倉期の地頭請と同様に、守護が一定額の年貢納入と荘園支配を請け負う守護請が行われるようになった。</j>
+<e type="trans" ver="1">Eventually, Shugouke was introduced, and under the system similar to Jitouke in the Kamakura period, Shugo shouldered the responsibility for paying a fixed amount of land tax and managing shoen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Eventually, Shugouke was introduced, and under the system similar to Jitouke in the Kamakura period, Shugo shouldered the responsibility for paying a fixed amount of land tax and managing shoen.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Eventually, Shugouke was introduced, and under the system similar to Jitouke in the Kamakura period, Shugo shouldered the responsibility for paying a fixed amount of land tax and managing shoen.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>守護が積極的に幕府へ働きかけ、守護請の権利を獲得することもあれば、守護側との紛争・訴訟で疲弊した荘園領主側から、守護請を承認することもあった。</j>
+<e type="trans" ver="1">In some cases Shugo obtained the right of Shugouke by actively pressing the bakufu, and in other cases lords of manors, exhausted by the disputes and suits with Shugo, approved Shugouke.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In some cases Shugo obtained the right of Shugouke by actively pressing the bakufu, and in other cases lords of manors, exhausted by the disputes and suits with Shugo, approved Shugouke.</e>
+<cmt>Spacing</cmt>
+<e type="check" ver="1">In some cases Shugo obtained the right of Shugouke by actively pressing the bakufu, and in other cases lords of manors, exhausted by the disputes and suits with Shugo, approved Shugouke.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>守護請所だけでなく、守護代の請所も存在した。</j>
+<e type="trans" ver="1">Not only Shugouke but also ukedokoro of Shugodai (deputy of Shugo, provincial constable) existed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Not only Shugouke but also ukedokoro of Shugodai (deputy of Shugo, provincial constable) existed.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Not only Shugouke but also ukedokoro of Shugodai (deputy of Shugo, provincial constable) existed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="17">
+<j>守護請の一例を挙げる。</j>
+<e type="trans" ver="1">Following is an example of Shugouke.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following is an example of Shugouke.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">The following is an example of Shugouke.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>備後国の高野山領大田荘は、1402年に備後国守護の山名氏が将軍から下地知行権の公認を受けることに成功し、年1000石を高野山へ納入する条件で守護請となった。</j>
+<e type="trans" ver="1">In the case of Otanosho in Koyasan territory, Bingo Province, the Yamana clan officially acquired the right to manage Shitaji (land) in 1492 and became Shugo on condition that they would deliver to Koyasan 1,000 goku (of rice) (a unit of volume: rice 1 koku is 180.39 liter, lumber 1 koku is 0.278 cubic meter) every year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the case of Otanosho in Koyasan territory, Bingo Province, the Yamana clan officially acquired the right to manage Shitaji (land) in 1402 and became Shugo on condition that they would deliver to Koyasan 1,000 goku (of rice) (a unit of volume: rice 1 koku is 180.39 liter, lumber 1 koku is 0.278 cubic meter) every year.</e>
+<cmt>Typo</cmt>
+<e type="check" ver="1">In the case of Otanosho (Ota manor) in Koyasan territory, Bingo Province, the Yamana clan officially acquired the right to manage Shitaji (land) in 1402 and became Shugo on condition that they would deliver to Koyasan 1,000 koku (of rice) (a unit of volume: rice 1 koku is 180.39 liter, lumber 1 koku is 0.278 cubic meter) every year.</e>
+<cmt>Otanosho (Ota manor)とし、統一事項に基づきgoku→kokuに修正</cmt>
+</sen>
+<sen id="19">
+<j>元々、高野山が大田荘から得る年貢は年1800石とされていた。</j>
+<e type="trans" ver="1">Originally, the nengu Koyasan received from Otanosho was 1,800 goku per year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Originally, the nengu Koyasan received from Otanosho was 1,800 goku per year.</e>
+<cmt>Typo</cmt>
+<e type="check" ver="1">Originally, the nengu Koyasan received from Otanosho was 1,800 koku per year.</e>
+<cmt>goku→kokuに修正</cmt>
+</sen>
+<sen id="20">
+<j>山名氏からの年貢はたびたび未進となり、1439年までに未進額は26000石にまで累積した。</j>
+<e type="trans" ver="1">Nengu to be collected from the Yamana clan were often overdue, and by 1439 the amount in arrear accumulated to 26,000 goku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nengu to be collected from the Yamana clan were often overdue, and by 1439 the amount in arrear accumulated to 26,000 goku.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Nengu to be collected from the Yamana clan were often overdue, and by 1439 the amount in arrear accumulated to 26,000 koku.</e>
+<cmt>goku→kokuに修正</cmt>
+</sen>
+<sen id="21">
+<j>これは例外的なケースではなかった。</j>
+<e type="trans" ver="1">This was not an exceptional case.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">This was not an exceptional case.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">This was not an exceptional case.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>ほとんど全ての守護請において、旱魃や洪水などを名目的な理由として年貢未進が毎年のように行われ、請所である荘園・公領は実質的な守護領となっていった。</j>
+<e type="trans" ver="1">Under almost every Shugouke, there were non-payments of nengu every year on the pretext of droughts or floods, and shoen and koryo managed under ukedokoro virtually turned into Shugoryo (guardian&apos;s territory).</e>
+<cmt>一原文一訳文例外対処　「請所である荘園・公領」というのは、「請所という制度のもとで管理されていた荘園・公領」と解釈しました。</cmt>
+<e type="trans" ver="2">Under almost every Shugouke, there were non-payments of nengu every year on the pretext of droughts or floods, and shoen and koryo managed under ukedokoro virtually turned into Shugoryo (guardian&apos;s territory).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Under almost every Shugouke, there were non-payments of nengu every year on the pretext of droughts or floods, and shoen and koryo managed under ukedokoro virtually turned into Shugoryo (guardian&apos;s territory).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>すなわち、守護請は守護領の拡大・蓄積を大きく促すものであり、守護領国制を形成した要因でもあったのである。</j>
+<e type="trans" ver="1">In other words, Shugouke encouraged the expansion and accumulation of Shugoryo and it was a factor that formed Shugo-ryogoku system (the system that a Shugo dominates a manor).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In other words, Shugouke encouraged the expansion and accumulation of Shugoryo and it was a factor that formed the Shugo-ryogoku system (the system that a Shugo dominates a manor).</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">In other words, Shugouke encouraged the expansion and accumulation of Shugoryo and it was a factor that formed the Shugo-ryogoku system (the system that a Shugo dominates a manor).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="24">
+<j>なお、当時の全ての荘園・公領が守護請所となった訳ではない。</j>
+<e type="trans" ver="1">But not every shoen and koryo in those days were subject to Shugo ukedokoro.</e>
+<cmt>「守護請所となった訳ではない」とありますが、守護請所というのは制度なので、「守護請所の支配下にあった訳ではない」という意味ではないかと推測しました。</cmt>
+<e type="trans" ver="2">But not every shoen and koryo in those days were subject to Shugo ukedokoro.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">But not every shoen and koryo in those days were subject to Shugo ukedokoro.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>守護やその他武士らによる侵出に耐えながら存続した荘園も多数存在する。</j>
+<e type="trans" ver="1">Many shoen persisted, enduring the invasion of Shugo and other samurai.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many shoen persisted, enduring the invasion of Shugo and other samurai.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Many shoen persisted, enduring the invasion of Shugo and other samurai.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>しかし、守護請が荘園・公領の減少をもたらしたことは間違いない。</j>
+<e type="trans" ver="1">However, without a doubt the number of shoen and koryo decreased due to Shugouke.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">However, without a doubt the number of shoen and koryo decreased due to Shugouke.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">However, without a doubt the number of shoen and koryo decreased due to Shugouke.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>以後、中世を通じての社会経済体制である荘園公領制は急速に崩壊していくこととなった。</j>
+<e type="trans" ver="1">Later, shoen koryo sei (The System of Public Lands and Private Estate), the socioeconomic system throughout the medieval period, rapidly disintegrated.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Later, shoen koryo sei (The System of Public Lands and Private Estate), the socioeconomic system throughout the medieval period, rapidly disintegrated.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Later, shoen koryo sei (The System of Public Lands and Private Estate), the socioeconomic system throughout the medieval period, rapidly disintegrated.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Shimoxx(id:9332), 建長(id:119884), Mishika(id:276), Ikedat76(id:34218), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

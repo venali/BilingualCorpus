@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>公験</j>
+<e type="trans" ver="1">Kugen</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kugen (legal certificate)</e>
+<cmt>タイトルを補足しました。</cmt>
+<e type="check" ver="1">Kugen (legal certificate)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>公験（くげん）とは、律令国家が特定の人物に特権を認める際に出した証明書の一種のこと。</j>
+<e type="trans" ver="1">Kugen refers to a kind of certificate issued in the Japanese nation under the ritsuryo codes to give a privilege to specific persons.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kugen refers to a kind of certificate issued in the Japanese nation under the ritsuryo codes to give a privilege to specific persons.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kugen refers to a kind of certificate issued in the Japanese nation under the ritsuryo codes to give a privilege to specific persons.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>日本</j>
+<e type="trans" ver="1">Japan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Japan</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Japan</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="2">
+<tit>
+<j>古代</j>
+<e type="trans" ver="1">Ancient times</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ancient times</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ancient times</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>私有の土地や財産などの造成・売買・譲与・紛失・寄進・相続に際して国家やその下部機関が発給した法的な証明書。</j>
+<e type="trans" ver="1">A legal certificate issued by the state or the related organization for development, trade, transfer, loss, donation and inheritance of the private land or property.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A legal certificate issued by the state or its subordinate organization for development, trade, transfer, loss, donation and inheritance of the private land or property.</e>
+<cmt>the related organization→its subordinate organization としました。</cmt>
+<e type="check" ver="1">A legal certificate issued by the state or its subordinate organization for development, trade, transfer, loss, donation and inheritance of the private land or property.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>法的効力の伴う変動の発生に際して当事者が解状を京職または国司（郡司を経由することが多い）提出し、京職・国司がこれに公判を加えることで公験として認められた。</j>
+<e type="trans" ver="1">When any change accompanied by legal effect occured, the party submitted gejo (a form of letter used by lower-class people to make a suggestion to higher ranking people) to kyoshiki (the Capital Bureau) or kokushi, which held a kohan (public trial) to approve it as kugen (offcial documents authorized by kokushi 〔provincial governors〕 or Gunji 〔local magistrates〕 for tranfer of the ownership of private property).</e>
+<cmt></cmt>
+<e type="trans" ver="2">When any change accompanied by legal effect occurred, the party submitted gejo (a form of letter used by lower-class people to make a suggestion to higher ranking people) to kyoshiki (the Capital Bureau) or kokushi (provincial governor) (through Gunji [local magistrates], in many cases), and it was given kohan (公判) by kyoshiki or kokushi to certify it as kugen.</e>
+<cmt>occurred スペル修正しました。「国司」を補足しました。原文（）内訳漏れのため、追加しました。「公判」は、kohan (public trial) と訳されていますが、文脈および以下のサイトから公印もしくは承認印に類するもので public trial ではないと思われますので、kohan (公判) とし前後を調整しました。http://100.yahoo.co.jp/detail/%E5%85%AC%E9%A8%93/「公験」の補足を削除しました。（原文全体が公験を説明しており不要なためと、原文の内容と若干の矛盾があるため）</cmt>
+<e type="check" ver="1">When any change accompanied by legal effect occurred, the party submitted gejo (a form of letter used by lower-class people to make a suggestion to higher ranking people) to kyoshiki (the Capital Bureau) or kokushi (provincial governor) (through Gunji [local magistrates], in many cases), and it was given kohan (公判) by kyoshiki or kokushi to certify it as kugen.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>従って、公式様文書に准じた書式が用いられることになる（解状が公式令の解の書式に則っていたため）。</j>
+<e type="trans" ver="1">Accordingly, the form of letter pursuant to kushikiyomonjo (documents prescribed in Kushiki-ryo in the ritsuryo system) came to be used (because gejo was taking the form of ge (kumonjo 〔an official document〕 of kushiki-ryo 〔ritsuryo law〕).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accordingly, the form of letter pursuant to kushikiyomonjo (documents prescribed in Kushiki-ryo [ritsuryo law] in the ritsuryo system) came to be used (because gejo was taking the form of ge [the prescribed form for a written statement submitted to superior government office] of kushiki-ryo).</e>
+<cmt>原文に (律令法)（公文書） とありましたが、リンク先の単語が抽出されるバグのようですので削除し、訳文も調整しました。「公式令」の補足を移動しました。〔 〕→[] としました。</cmt>
+<e type="check" ver="1">Accordingly, the form pursuant to kushikiyomonjo (documents prescribed in Kushiki-ryo [ritsuryo law] in the ritsuryo system) came to be used (because gejo was taking the form of ge [the prescribed form for a written statement submitted to superior government office] of kushiki-ryo).</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+<sen id="5">
+<j>また、既存の公験が存在する事物の変動に際しては、その公験を解状に添える義務があり、紛失時には速やかに公験発給官司への届出を行い公験紛失状の発給を受けるものとされた。</j>
+<e type="trans" ver="1">Also, as for the change of the thing already provided with kugen, it was compulsory to attach the kugen to gejo, and in the case of loss, a prompt notification to govermental official in charge of issuance of kugen was required to be supplied a certificate confirming the loss.</e>
+<cmt></cmt>
+<e type="trans" ver="2">If the object of change had already been provided with kugen, it was compulsory to attach the kugen to gejo, and in the case of loss, a prompt notification to governmental official in charge of issuance of kugen was required to be supplied a certificate confirming the loss.</e>
+<cmt>「既存の～際しては」を訳し直しました。governmental スペル修正しました。</cmt>
+<e type="check" ver="1">If the object of change had already been provided with kugen, it was compulsory to attach the kugen to gejo, and in the case of loss, a prompt notification to governmental official in charge of issuance of kugen was required to be supplied a certificate confirming the loss.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>特に土地に所有権に関する公験は本公験（ほんくげん）・根本公験（こんぽんくげん）と呼ばれた。</j>
+<e type="trans" ver="1">Particularly, kugen on the ownership of land was called honkugen or konponkugen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Particularly, kugen on the ownership of land was called honkugen or konponkugen.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Particularly, kugen on the ownership of land was called honkugen or konponkugen.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>訴訟の際には公験の提出が求められ、公験が最も重要な証拠として取り上げられていた。</j>
+<e type="trans" ver="1">For suit, submission of kugen was required, and kugen was taken as the most important evidence.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For suit, submission of kugen was required, and kugen was taken as the most important evidence.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For suit, submission of kugen was required, and kugen was taken as the most important evidence.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>中世</j>
+<e type="trans" ver="1">The Medieval Period</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Medieval Period</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Medieval Period</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>平安時代中期以後、律令制の解体とともに公式様文書が作成されなくなると、公験の書式も変化を見せた。</j>
+<e type="trans" ver="1">After the mid Heian period, the form of kugen changed because the kushikiyomonjo faded out accompanied by the demise of ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the mid Heian period, the form of kugen changed because the kushikiyomonjo faded out with the demise of ritsuryo system.</e>
+<cmt>accompanied by→with としました。</cmt>
+<e type="check" ver="1">After the mid Heian period, the form of kugen changed because the kushikiyomonjo faded out with the demise of ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>朝廷や官司・幕府が発給した綸旨・院宣・官宣旨・下文や外題安堵を加えた申状などが公験の替わりに用いられ、それらを指して「公験」と呼ぶようになった。</j>
+<e type="trans" ver="1">Rinji (the Emperor&apos;s command), inzen (a decree from the retired Emperor), kansenji (a government edict), kudashibumi (document issued by a superior or office) issued by the Imperial Court, government official and bakufu, and moshijo (a document format for communicating something from a lower person to an upper person) to which gedaiando (an approval of landowner written in the margin of the document submitted) was written in, were used in place of kugen, and kugen began to refer to all of those.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rinji (the Emperor&apos;s command), inzen (a decree from the retired Emperor), kansenji (a government edict) and kudashibumi (document issued by a superior or office) issued by the Imperial Court, government official and bakufu (Japanese feudal government headed by a shogun), and moshijo (a document format for communicating something from a lower person to an upper person) to which gedaiando (an approval of landowner written in the margin of the document submitted) was written in, were used in place of kugen, and &apos;kugen&apos; began to refer to all of those.</e>
+<cmt>and を追加しました。「幕府」を補足しました。引用符を追加しました。</cmt>
+<e type="check" ver="1">Rinji (the Emperor&apos;s command), inzen (a decree from the retired Emperor), kansenji (a government edict) and kudashibumi (document issued by a superior or office) issued by the Imperial Court, government official and bakufu (Japanese feudal government headed by a shogun), and moshijo (a document format for communicating something from a lower person to an upper person) to which gedaiando (an approval of landowner written in the margin of the document submitted) was written in, were used in place of kugen, and &apos;kugen&apos; began to refer to all of those.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>これらは諸権門をはじめ一般の人々に至るまで各階層の多種多様な財産・権利の保証を効力を有していた。</j>
+<e type="trans" ver="1">Those have an effect of certification for various properties and rights owned by each rank from shokenmon (various influential families) to general people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Those guaranteed various properties and rights of people of all ranks from influential people to ordinary people.</e>
+<cmt>原文冗長のため意訳しました。※「保証を」は「保証に」の誤りと思われます。</cmt>
+<e type="check" ver="1">Those guaranteed various properties and rights of people of all ranks from influential people to ordinary people.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>更に荘園領主や現地の有力者による証明書も財産・権利関係の文書も公験と呼ばれるようになった。</j>
+<e type="trans" ver="1">Furthermore, certificates by lords of the manor or locally influential persons and documents related to property and right also began to be called kugen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, certificates by lords of the manor or local magnates and documents related to property and right also began to be called kugen.</e>
+<cmt>locally influential persons→local magnates としました。</cmt>
+<e type="check" ver="1">Furthermore, certificates by lords of the manor or local magnates and documents related to property and right also began to be called kugen.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>公験は所有権をはじめとした財産や権利を保証する法的な効力が認められる有力な証明とされていたことから、代を重ねた保証され、法的変動の際には同時に公験も譲渡された。</j>
+<e type="trans" ver="1">Kugen was considered an important evidence holding a legal effect to certify property and right including ownership, therefore, it held the effect over generations and was handed down when any legal change occurred.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kugen was considered an important evidence holding a legal effect to certify property and right including ownership, therefore, it held the effect over generations and was handed down when any legal change occurred.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kugen were considered to be valid evidence with a recognized legal effect guaranteeing the ownership right to assets, including land; therefore, they were remained valid across generations, and were passed on when any legal changes occurred.</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+<sen id="13">
+<j>そのため、公験の移動をもって譲渡や売買による権利の移動が認められるとするのが、訴訟における原則の1つであった。</j>
+<e type="trans" ver="1">Accordingly, it was one of the principles in suit that only transer of kugen could confirm the transfer of right due to succession or trade.</e>
+<cmt>「譲渡」は「transfer」と訳すのが一般的ですが、ここでは「transfer」が何度も使われており混乱を生じるので、「succession」を使いました。</cmt>
+<e type="trans" ver="2">Accordingly, it was one of the principles in suit that only transfer of kugen could confirm the transfer of right due to cession or trade.</e>
+<cmt>transfer スペル修正しました。</cmt>
+<e type="check" ver="1">Accordingly, one of the principles in lawsuits was that only the transference of a kugen could legally confirm the transfer of an ownership right through assignment or sale.</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>仏教</j>
+<e type="trans" ver="1">Buddhism</e>
+<cmt></cmt>
+<e type="trans" ver="2">Buddhism</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Buddhism</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="14">
+<j>仏教の僧尼が度縁を得る際に国家が認めた正式な僧侶であることを認める証明書として公験が朝廷より出された。</j>
+<e type="trans" ver="1">Kugen was issued by the Imperial Court as a certificate that was given to the buddhist monks and nuns officially approved by the state when they received doen (identification of monk or nun).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kugen was issued by the Imperial Court as a certificate that was given to the Buddhist monks and nuns officially approved by the state when they received doen (identification of monk or nun).</e>
+<cmt>Buddhist 頭文字を大文字にしました。</cmt>
+<e type="check" ver="1">Kugen was issued by the Imperial Court as a certificate that was given to the Buddhist monks and nuns officially approved by the state when they received doen (identification of monk or nun).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>鑑真が戒律を伝えて戒牒制度が整えられると、修行などによる長期旅行の証明の意味に限定されるようになった。</j>
+<e type="trans" ver="1">After Jianzhen introduced religious precept to establish the kaicho system, the meaning of the term was limited to the certificate for the long-term trip such as ascetic practices.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After Jianzhen introduced religious precept to establish the kaicho (Certificates of Reception of Buddhist Commandments) system, the meaning of the term was limited to the certificate for the long-term trip for ascetic practices and so on.</e>
+<cmt>「戒牒」の意味を補足しました。such as ascetic practices→for ascetic practices and so on としました。</cmt>
+<e type="check" ver="1">After Jianzhen introduced religious precept to establish the kaicho (Certificates of Reception of Buddhist Commandments) system, the meaning of the term was limited to the certificate for the long-term trip for ascetic practices and so on.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>その後の僧尼令の形骸化によって公験が出されることはほとんどなくなった。</j>
+<e type="trans" ver="1">Kugen came to be rarely issued because soniryo (Regulations for Monks and Nuns) subsequently became a dead letter.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kugen came to be rarely issued because soniryo (Regulations for Monks and Nuns) subsequently became a dead letter.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kugen came to be rarely issued because soniryo (Regulations for Monks and Nuns) subsequently became a dead letter.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

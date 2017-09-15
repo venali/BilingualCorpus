@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>藩士</j>
+<e type="trans" ver="1">Hanshi (feudal retainer of domain)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hanshi (Feudal Domain Retainer)</e>
+<cmt>Title case藩士 - &quot;Hanshi (feudal retainer of domain)&quot; &gt; &quot;Hanshi (Feudal Domain Retainer)&quot;</cmt>
+<e type="check" ver="1">Hanshi</e>
+<cmt>トピックタイトルなので補足を削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>藩士（はんし）は、江戸時代の各藩に仕えた武士に対する呼称。</j>
+<e type="trans" ver="1">&quot;Hanshi&quot; is the name for samurai who served each domain in Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hanshi were samurai who served Edo period domains.</e>
+<cmt>Rewritten to reflect original</cmt>
+<e type="check" ver="1">Hanshi were samurai who served Edo period clans.</e>
+<cmt>用語を変えました。</cmt>
+</sen>
+<sen id="2">
+<j>ただ、一概に藩士といっても、上士から下士まであり、また、厳密には武士以外にも足軽や中間といったいわゆる士分格ではない者も含まれてる。</j>
+<e type="trans" ver="1">However Hanshi include all samurai ranging from Joshi (superior warriors) to noncommissioned officers, and in a precise sense, they also include people who are not in samurai status such as ashigaru (common foot soldiers) and chugen (a rank below common soldiers).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However Hanshi include all samurai ranging from Joshi (superior warriors) to non-commissioned officers, and in a narrow sense, they also include those without samurai status such as ashigaru (common foot soldiers) and chugen (a rank below common soldiers).</e>
+<cmt>&quot;people who are not in&quot; &gt; &quot;those without&quot;&quot;precise&quot; &gt; &quot;narrow&quot;</cmt>
+<e type="check" ver="1">However Hanshi include all samurai ranging from Joshi (superior warriors) to Kashi (non-commissioned officers), and in a narrow sense, they also include those without samurai status such as ashigaru (common foot soldiers) and chugen (a rank below common soldiers).</e>
+<cmt>前後の用語と合わせて読みを補足しました。</cmt>
+</sen>
+<sen id="3">
+<j>その為、藩士＝武士というのは間違いであるとすることがある。</j>
+<e type="trans" ver="1">Therefore it may be said that hanshi are not always samurai.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Therefore it may be said that hanshi are not necessarily samurai.</e>
+<cmt>Deleted space&quot;always&quot; &gt; &quot;necessarily&quot;</cmt>
+<e type="check" ver="1">Therefore it may be said that hanshi are not necessarily samurai.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>つまり藩籍を有する者全てを指す方が正しいとする説がある。</j>
+<e type="trans" ver="1">In other words, it may be correct to say that the Hanshi represents all people who own Hanseki (registers for domains).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In other words, it may be correct to say that the Hanshi refers to all people who owned Hanseki (domain registers).</e>
+<cmt>&quot;represents&quot; &gt; &quot;refers to&quot;&quot;own&quot; &gt; &quot;owned&quot;藩籍 - &quot;Hanseki (register for a domain)&quot; &gt; &quot;Hanseki (domain registers)&quot;</cmt>
+<e type="check" ver="1">In other words, it may be correct to say that the Hanshi refers to all people who owned Hanseki (domain registers).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>但し、藩士＝士分を指すことが多い。</j>
+<e type="trans" ver="1">But in many cases it represnets samurai classes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, in many cases, Hanshi refers to the samurai class.</e>
+<cmt>Rewritten to reflect original</cmt>
+<e type="check" ver="1">However, in many cases, Hanshi refers to the samurai class.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>江戸時代初期は、軍役を担う兵としての要素が強かったが、中期後期になると次第に官僚、役人としての意味合いが強くなった。</j>
+<e type="trans" ver="1">Although they mainly worked as soldiers playing roles in military services early in Edo period, their work gradually shifted and became more like as the bureaucracy or government officials in the middle and the late part of Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although they mainly served as soldiers playing military roles during the early in Edo period, they gradually became bureaucrats and lost most of their military function during the mid-to-late Edo period.</e>
+<cmt>Rewritten to reflect original</cmt>
+<e type="check" ver="1">Although they mainly served as soldiers playing military roles during the early Edo period, they gradually became bureaucrats and lost most of their military function during the mid-to-late Edo period.</e>
+<cmt>表現を変えました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>ちなみに江戸時代は、藩士が自らのことを藩士と呼ぶことはなかった。</j>
+<e type="trans" ver="1">In passing, they didn&apos;t call themselves Hanshi in Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They were not called &quot;Hanshi&quot; during the Edo period.</e>
+<cmt>Rewritten to reflect original</cmt>
+<e type="check" ver="1">In fact, they didn&apos;t call themselves Hanshi during the Edo period.</e>
+<cmt>統一リストに合わせて表現を変えました。</cmt>
+</sen>
+<sen id="8">
+<j>例えば、薩摩藩の藩士なら自らのことを「薩摩藩藩士誰々」と名乗るのではなく「島津家家臣誰々」と名乗った。</j>
+<e type="trans" ver="1">For example, Hanshi in Satsuma Domain called themselves &apos;a vassal of Shimazu Family, so-and-so&apos; rather than &apos;a Hanshi in Satsuma Domain, so-and-so&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For example, the names of Hanshi in the Satsuma Domain preceded by &apos;Shimazu Family Retainer&apos; as opposed to &apos;Satsuma Domain Retainer.&apos;</e>
+<cmt>Rewritten to sound more natural</cmt>
+<e type="check" ver="1">For example, the names of Hanshi in the Satsuma Domain preceded by &apos;Shimazu Family Retainer&apos; as opposed to &apos;Satsuma Domain Retainer.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>もっとも薩摩藩や長州藩のように初代藩主以来、明治時代の廃藩置県まで国替えがなかった藩の場合は「藩士」の呼称でも通用する。</j>
+<e type="trans" ver="1">The name &apos;Hanshi&apos; is valid to be used in the domains which had no transferences between domains from the days of the first lords till Haihan-chiken (abolition of feudal domains and establishment of prefectures) in Meiji period such as Satsuma Domain and Choshu Domain.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The name &apos;Hanshi&apos; is also commonly used in the case of domains, such as the Satsuma Domain and Choshu Domain, which had not come under provincial rule the time of the first lord until the Haihan-chiken (abolition of feudal domains and establishment of prefectures) in the Meiji period.</e>
+<cmt>Rewritten to reflect original</cmt>
+<e type="check" ver="1">The name &apos;Hanshi&apos; is also commonly used in the case of domains, such as the Satsuma Domain and Choshu Domain, which had not come under provincial rule the time of the first lord until the Haihan-chiken (abolition of feudal domains and establishment of prefectures) in the Meiji period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>しかし、桑名藩のように藩主家自体が江戸幕府の命で国替えしている藩では「藩士」の呼称がかならずしも妥当とは言い難い場合もある。</j>
+<e type="trans" ver="1">However it isn&apos;t quite valid in the domains which the lords&apos; families transferred their domains under the orders of Edo bakufu (Japanese feudal government headed by a shogun) such as Kuwana Domain.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, the term is not appropriate for domains, such as the Kuwana Domain, of which the lord family itself came under provincial rule as a result of orders from the Edo bakufu (Japanese feudal government headed by a shogun).</e>
+<cmt>Rewritten to reflect original</cmt>
+<e type="check" ver="1">However, the term is not appropriate for domains, such as the Kuwana Domain, of which the lord family itself came under provincial rule as a result of orders from the Edo bakufu (Japanese feudal government headed by a shogun).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 ファービィ(id:129184), 住めら尊(id:173954), Njt(id:11249), LaaknorBot(id:220851), 与左衛門(id:159462), Samiadon(id:13976), のーさん(id:258153), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

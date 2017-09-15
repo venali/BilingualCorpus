@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>供御人</j>
+<e type="trans" ver="1">Kugonin</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kugonin</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kugonin</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>供御人（くごにん）とは、日本中世において、朝廷に属し天皇・皇族などに山海の特産物などの食料や各種手工芸品などを貢納した集団である。</j>
+<e type="trans" ver="1">Kugonin was a group which, in the medieval period in Japan, belonged to the Imperial court and which presented food such as special products from mountains and sea, and various handicraft products to the Emperor and the Imperial family.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kugonin was a group, during the medieval period in Japan, that belonged to the Imperial court who presented food such as special products from the mountains and the sea, and various handicraft products to the Emperor and the Imperial family.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kugonin was a group, during the medieval period in Japan, that belonged to the Imperial court who presented food such as special products from the mountains and the sea, and various handicraft products to the Emperor and the Imperial Family.</e>
+<cmt>スペース削除スペル</cmt>
+</sen>
+<sen id="2">
+<j>後に、貢納する物品の独占販売権を取得し、座に属する商人と同様の活動を行った。</j>
+<e type="trans" ver="1">Kugonin later obtained exclusive sales right of the products to be presented and had activities same as those of the merchants belonging to Za.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kugonin later obtained exclusive sales rights of the products presented and conducted activities similar to those of merchants belonging to Za.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kugonin later obtained exclusive sales rights of the products presented and conducted activities similar to those of merchants belonging to Za.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>禁裏供御人とも。</j>
+<e type="trans" ver="1">Kugonin was also called Kinrikugonin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kugonin were also called Kinrikugonin.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kugonin were also called Kinrikugonin.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>沿革</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>古代においては、天皇・朝廷に海水産物を中心とした御食料（穀類以外の副食物）を贄（にえ）として貢ぐ慣習があり、律令制のもとにおいても租庸調などの税とは別に、贄の納付が定められていたと考えられている。</j>
+<e type="trans" ver="1">In the ancient days, there was a custom that Oshokuryou (side dishes except grains) including mainly fishery products was presented to the Emperor and the Imperial family as sacrifices, and it is considered that, under the Ritsuryo system, submission of sacrifices was stipulated in addition to Soyocho (a tax system).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In ancient times, there was a custom where Oshokuryou (side dishes excluding grain) including mainly fishery products were presented to the Emperor and the Imperial family as sacrifices, and it is considered that, under the Ritsuryo system, this was stipulated in addition to Soyocho (a tax system).</e>
+<cmt>redundancy, grammar</cmt>
+<e type="check" ver="1">In ancient times, there was a custom where Oshokuryo (side dishes excluding grain) including mainly fishery products were presented to the Emperor and the Imperial Family as sacrifices, and it is considered that, under the Ritsuryo system, this was stipulated in addition to Soyocho (a tax system).</e>
+<cmt>スペル</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>これらを貢納する贄人を初めとする非農業民は、従来「無主」にして「公私共利」の地とされた山野河海の利用により生業をたてていたが、8世紀以降の律令制の解体、荘園公領制の成立とともに、荘園領主による制約を受けるようになってきた。</j>
+<e type="trans" ver="1">Non-agricultural people including sacrificing people who presented these items made their living by using mountains, fields, rivers, and sea that were originally the lands &quot;owned by no one&quot; and &quot;beneficial publicly and privately&quot;, however, regulations on the people were started by Shoen owners with disbandment of Ritsuryo system and establishment of Shoen-Koryo system since the 8th Century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Non-agricultural people, including those who presented these items, made their living from the mountains, fields, rivers, and the sea that were originally lands &quot;not owned by anyone&quot; and were &quot;beneficial publicly and privately&quot;, however, regulations were initiated by Shoen owners after the disbandment of the Ritsuryo system and the establishment of the Shoen-Koryo system from the 8th Century.</e>
+<cmt>grammar, wordiness, redundancy</cmt>
+<e type="check" ver="1">Non-agricultural people, including those who presented these items, made their living from the mountains, fields, rivers, and the sea that were originally lands &apos;not owned by anyone&apos; and were &apos;beneficial publicly and privately,&apos; however, regulations were initiated by Shoen owners after the disbandment of the Ritsuryo system and the establishment of the Shoen-Koryo system from the 8th Century.</e>
+<cmt>&quot;→&apos;コンマの位置移動</cmt>
+</sen>
+<sen id="6">
+<j>11世紀以降、非農業民は有力寺社などに生産物を貢納することを理由に、これらに隷属する神人となっていたが、後三条天皇親政下において、内廷経済を充実させるべく山野河海に設定されていた御厨を直轄化するという政策がとられると、蔵人所とその下部組織である御厨所の所管となった御厨の住民が供御人と呼ばれるようになった。</j>
+<e type="trans" ver="1">Since the 11th Century, the non-agricultural people became jinin (associates of Shinto shrines) because they presented their products to the major temples and shrines, however, the residents of Kurodo dokoro and mikuriya (manors of Imperial family and powerful shrines) which was controlled by mikuriya (the place to cook for Emperor) which was under Kurodo dokoro were called Kugonin when a policy of directly controlling mikuriya which had been set in mountains, fields, rivers, and sea to enrich the economy of the court was taken under the administration of Emperor Gosanjo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the 11th Century, the non-agricultural people became jinin (associates of Shinto shrines) because they presented their products to the major temples and shrines, however, the residents of Kurodo dokoro and mikuriya (manors of Imperial family and powerful shrines) which was controlled by mikuriya (the place to cook for Emperor) which was under Kurodo dokoro were called Kugonin when a policy of directly controlling mikuriya which had been set in mountains, fields, rivers, and sea to enrich the economy of the court was taken under the administration of Emperor Gosanjo.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Since the 11th Century, the non-agricultural people became jinin (associates of Shinto shrines) because they presented their products to the major temples and shrines, however, the residents of Kurodo dokoro and mikuriya (manors of Imperial Family and powerful shrines) which was controlled by mikuriya (the place to cook for Emperor) which was under Kurodo dokoro were called Kugonin when a policy of directly controlling mikuriya which had been set in mountains, fields, rivers, and sea to enrich the economy of the court was taken under the administration of Emperor Gosanjo.</e>
+<cmt>スペル</cmt>
+</sen>
+<sen id="7">
+<j>更に、保元元年（1156年）の「保元新制」において神人・供御人制が確立したと見られている。</j>
+<e type="trans" ver="1">In addition, it seems that the jinin and Kugonin system was established in &quot;Hogen new system&quot; in 1156.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, it seems that the jinin and Kugonin system was established with the &quot;Hogen new system&quot; in 1156.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In addition, it seems that the jinin and Kugonin system was established with the &apos;Hogen new system&apos; in 1156.</e>
+<cmt>→&apos;</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>特徴</j>
+<e type="trans" ver="1">Characteristics</e>
+<cmt></cmt>
+<e type="trans" ver="2">Characteristics</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Characteristics</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>彼らは、貢納物の原料採取・作業・交易をする場を求めて移動・遍歴することを必要としていたため、関銭・津料などの交通税を免除され、自由に諸国を往来できる権利を得ることとなった。</j>
+<e type="trans" ver="1">Because Kugonin needed to move and wander seeking for places to collect the raw materials of their products to be presented, work on their products, and trade their products, they were exempted from the traffic taxes such as sekisen (toll) and tsuryo and, therefore, obtained the right to freely travel various provinces.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because Kugonin were wanderers seeking places to collect raw materials for their products, to work on their products, and trade them, they were exempted from traffic taxes such as sekisen (tolls) and tsuryo and, therefore, they had the right to freely travel around the various provinces.</e>
+<cmt>grammar, wordiness, redundancy</cmt>
+<e type="check" ver="1">Because Kugonin were wanderers seeking places to collect raw materials for their products, to work on their products, and trade them, they were exempted from traffic taxes such as sekisen (tolls) and tsuryo and, therefore, they had the right to freely travel around the various provinces.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>また、聖なる存在として国役の免除、給免田の付与なども獲得した。</j>
+<e type="trans" ver="1">Kugonin also obtained exemption from national duties and provision of Kyumenden as holy existence.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kugonin also obtained exemption from national duties and the provision of Kyumenden as a holy existence.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kugonin also obtained exemption from national duties and the provision of Kyumenden as a holy existence.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>天皇家の御厨は畿内近国に限られており、特権を獲得した供御人やその統括者は渡辺党がその典型であるように西日本における武士の淵源となったとする見解もある。</j>
+<e type="trans" ver="1">The mikuriya of the Imperial family was limited to Kinai (the five provinces in the immediate vicinity of Kyoto) and the provinces close to Kinai and there is also an opinion that Kugonin and their leaders were the origin of the warriors in the western Japan including Watanabe-to as the typical model of them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The mikuriya of the Imperial family were limited to Kinai (the five provinces in the immediate vicinity of Kyoto) and provinces nearby, and there is the opinion that Kugonin and their leaders were the origin of warriors in western Japan including the Watanabe-to seen as a typical model for them.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The mikuriya of the Imperial Family were limited to Kinai (the five provinces in the immediate vicinity of Kyoto) and provinces nearby, and there is the opinion that Kugonin and their leaders were the origin of warriors in western Japan including the Watanabe-to seen as a typical model for them.</e>
+<cmt>スペル</cmt>
+</sen>
+<sen id="11">
+<j>その一方で炭供御人、氷室供御人など様々な手工芸品を扱ったため、貢納物を超える生産物は諸国往来権を持つ彼ら自身により流通経路に載せられ、商人としての活動も行っていたと見られている。</j>
+<e type="trans" ver="1">On the other hand, Kugonin handled various handicraft products such as those by sumi (charcoal) Kugonin and himuro (warehouse for ice) Kugonin and, therefore, it seems that they also acted as merchants because of the fact that their products in excess of those as the presents were sold in their distribution networks by themselves who had the right to travel various provinces.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the other hand, Kugonin handled various handicraft products such as sumi (charcoal) Kugonin and himuro (warehouse for ice) Kugonin and, therefore, it seems that they also acted as merchants because of the fact that their products, in excess of those presented to the Imperial court, were sold in their distribution networks by themselves utilizing their right to travel to various provinces.</e>
+<cmt>revised for clarity</cmt>
+<e type="check" ver="1">On the other hand, Kugonin handled various handicraft products such as sumi (charcoal) Kugonin and himuro (warehouse for ice) Kugonin and, therefore, it seems that they also acted as merchants because of the fact that their products, in excess of those presented to the Imperial court, were sold in their distribution networks by themselves utilizing their right to travel to various provinces.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="12">
+<j>南北朝時代 (日本)以降は、貢納品の独占販売権を取得し座と同様の活動を行ったが、その特権の源泉であった天皇家の権威喪失とともに聖性を失い、一部には大商人として成功する者が出た反面、被差別民の起源のひとつともなったとする部落の起源論争もある。</j>
+<e type="trans" ver="1">Since Nanbokucho period (in Japan), Kugonin had obtained the exclusive sales right of the presents and had had activities same as those of Za, however, they lost their holiness with the loss of the dignity of the Imperial family, which was the source of their privilege, and some of them succeeded as large-scale merchants, whereas, there is a dispute that they were the origin of buraku which was one of the origins of the discriminated people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the Nanbokucho period (in Japan), Kugonin had obtained the exclusive sales rights of the presents and conducted activities similar to those of Za, however, they lost their holiness with the loss of the dignity of the Imperial family, which was the source of their privileges, some of them succeeded as large-scale merchants, and it is disputed that they were the origin of buraku one of the origins of the discriminated people.</e>
+<cmt>revised wordiness and grammar for clarity</cmt>
+<e type="check" ver="1">Since the period of the Northern and Southern Courts (Japan), Kugonin had obtained the exclusive sales rights of the presents and conducted activities similar to those of Za, however, they lost their holiness with the loss of the dignity of the Imperial Family, which was the source of their privileges, some of them succeeded as large-scale merchants, and it is disputed that they were the origin of buraku one of the origins of the discriminated people.</e>
+<cmt>南北朝用語統一</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="13">
+<j>やがて戦国時代 (日本)に入ると、戦国大名らによる大名領国制のもと楽市・楽座などの経済政策が執られ始めると、供御人は急速に減少した。</j>
+<e type="trans" ver="1">When the Sengoku Period (a period of warring states) started later on (in Japan), economic measures such as Rakuichi-Rakuza were taken under the daimyo-ryogoku system (the system that daimyos controlled feudal domains) by those including daimyos (Japanese territorial lords) and, as a result, the number of Kugonin rapidly decreased.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the Sengoku Period (period of warring states) started later on (in Japan), economic measures like Rakuichi-Rakuza were taken under the daimyo-ryogoku system (the system where daimyos controlled feudal domains) by those including daimyos (Japanese territorial lords) and, as a result, the number of Kugonin rapidly decreased.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">When the Sengoku Period (period of warring states) started later on (in Japan), economic measures like Rakuichi-Rakuza (free markets and open guilds) were taken under the daimyo-ryogoku system (the system where daimyos controlled feudal domains) by those including daimyos (Japanese territorial lords) and, as a result, the number of Kugonin rapidly decreased.</e>
+<cmt>(free markets and open guilds)補足</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 水野白楓(id:22811), Law soma(id:45202), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

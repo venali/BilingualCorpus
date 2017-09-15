@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>新撰朗詠集</j>
+<e type="trans" ver="1">Shinsen Roei Shu (Newly Selected Collection of Poems to Sing)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinsen Roei Shu (Newly Selected Collection Singing Poems)</e>
+<cmt>&quot;to Sing&quot; is awkward so I changed it to &quot;Singing Poems&quot;</cmt>
+<e type="check" ver="1">Shinsen Roei Shu</e>
+<cmt>タイトルですので、補足を削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>新撰朗詠集（しんせんろうえいしゅう）は、日本の歌集で漢詩集。</j>
+<e type="trans" ver="1">Shinsen Roei Shu is a collection of Chinese poems compiled in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinsen Roei Shu is a collection of Chinese poems compiled in Japan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shinsen Roei Shu (Newly Selected Collection Singing Poems) is a collection of Chinese poems compiled in Japan.</e>
+<cmt>補足を追加しました。</cmt>
+</sen>
+<sen id="2">
+<j>上下2巻から成り、藤原基俊撰。</j>
+<e type="trans" ver="1">It consisted of 2 volumes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The collection consists of two volumes and was compiled by FUJIWARA no Mototoshi.</e>
+<cmt>2→two; combined with sentence below to reduce fragmentation and fixed grammar accordingly</cmt>
+<e type="check" ver="1">The collection consists of two volumes and was compiled by FUJIWARA no Mototoshi.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>鳥羽天皇のころ成立。</j>
+<e type="trans" ver="1">Shinsen Roei Shu was completed in times of Emperor Toba.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinsen Roei Shu was completed during the reign of Emperor Toba.</e>
+<cmt>&quot;in times&quot; is awkward here, changed it to &quot;during the reign&quot;</cmt>
+<e type="check" ver="1">Shinsen Roei Shu was completed during the reign of Emperor Toba.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>『和漢朗詠集』にならったという。</j>
+<e type="trans" ver="1">It is said to have been copied after Wakan Roei Shu (Collection of Japanese and Chinese Poems to Sing)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The collection was allegedly copied from the Wakan Roei Shu (Collection of Japanese and Chinese Singing Poems).</e>
+<cmt>fixed grammar to read more naturally; &quot;Poems to Sing&quot;→&quot;Singing Poems&quot;</cmt>
+<e type="check" ver="1">The collection was compiled after the model of &quot;Wakan Roei Shu&quot; (Collection of Japanese and Chinese Singing Poems).</e>
+<cmt>&quot; &quot; を追加しました。翻訳を修正しました。</cmt>
+</sen>
+<sen id="5">
+<j>和歌と漢詩の朗詠句を集め、白楽天・源順・菅原道真・大江以言・菅原文言その他の作が主である。</j>
+<e type="trans" ver="1">Shinsen Roei Shu is a collection of the poems to sing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinsen Roei Shu is a collection of singing poems that mainly consists of poems composed by Bai Letian, MINAMOTO no Shitago, SUGAWARA no Michizane, OE no Mochitoki, 菅原文言 (reading unknown) and other poets.</e>
+<cmt>Following the previous sentence, this one sounds redundant by itself, so I combined it with the following and fixed the grammar accordingly; added (reading unknown) since it felt like something needed to be said for the characters</cmt>
+<e type="check" ver="1">Shinsen Roei Shu is a collection of singing poems that mainly consists of waka and Chinese poems composed by Bai Letian, MINAMOTO no Shitago, SUGAWARA no Michizane, OE no Mochitoki, 菅原文言 (reading unknown) and other poets.</e>
+<cmt>一部翻訳を追加しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>所収漢詩540首、和歌203首。</j>
+<e type="trans" ver="1">540 Chinese poems and 203 waka have been included in this collection.</e>
+<cmt></cmt>
+<e type="trans" ver="2">540 Chinese poems and 203 waka have been included in this collection.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">540 Chinese poems and 203 waka have been included in this collection.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>書跡として</j>
+<e type="trans" ver="1">Penmanship</e>
+<cmt></cmt>
+<e type="trans" ver="2">Penmanship</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Penmanship</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="7">
+<j>藤原基俊が自撰し、自筆した巻子本である。</j>
+<e type="trans" ver="1">Selected and written with own hand by FUJIWARA no Mototoshi, this anthology comes in the form of Kansubon (book in scroll style).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Selected and written by hand by FUJIWARA no Mototoshi, this anthology comes in the form of a Kansubon (book in a scroll style).</e>
+<cmt>written with own hand→written by hand</cmt>
+<e type="check" ver="1">Selected and written by hand by FUJIWARA no Mototoshi, this anthology comes in the form of a Kansubon (book in a scroll style).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>雲紙に金銀の切箔を撒き、銀泥で花鳥を描いたものを用いている。</j>
+<e type="trans" ver="1">The scroll was made of kumo-gami (a type of torinoko which has blue cloud patterns in the upper part and purple ones in the lower part) sprinkled with gold and silver kirihaku (gold or silver leaves are cut into different shapes and dropped onto the base where glue is applied for sticking the leaves so that they can make some patterns) with flowers and birds being painted with silver paint.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The scroll was made of kumo-gami (a type of torinoko that has blue cloud patterns on the upper section and purple ones on the lower) sprinkled with gold and silver kirihaku (gold or silver leaves cut into different shapes and dropped onto the base where glue is applied for sticking the leaves into patterns) with flowers and birds being painted in silver.</e>
+<cmt>fixed word selection to read more naturally</cmt>
+<e type="check" ver="1">The scroll was made of kumo-gami (a type of torinoko that has blue cloud patterns on the upper section and purple ones on the lower) sprinkled with gold and silver kirihaku (gold or silver leaves cut into different shapes and dropped onto the base where glue is applied for sticking the leaves into patterns) with flowers and birds being painted in silver.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>老熟した個性的な書風である。</j>
+<e type="trans" ver="1">It is a skilled and distinctive chirography.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is a skilled and distintive style of calligraphy.</e>
+<cmt>I admit to the possibility that &quot;chirography&quot; is the more appropriate term here, but I have never seen the word before and feel more comfortable with &quot;calligraphy&quot;; It→This; added &quot;style&quot;</cmt>
+<e type="check" ver="1">This is a skilled and distinctive style of calligraphy.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 岡部碩道(id:182846), NORN(id:52924), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

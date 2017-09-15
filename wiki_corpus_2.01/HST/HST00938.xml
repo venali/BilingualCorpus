@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>洋銀</j>
+<e type="trans" ver="1">Yogin</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yogin</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yogin</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>洋銀（ようぎん）とは、幕末から明治初期にかけて日本に流入した外国製の銀貨のこと。</j>
+<e type="trans" ver="1">Yogin indicates a foreign silver brought in to Japan at the end of the Edo Period through the beginning of the Meiji Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yogin is a foreign silver brought in to Japan at the end of the Edo Period through the beginning of the Meiji Period.</e>
+<cmt>indicates→isにしました。（原文は現在形ですが、過去形のほうが適切である可能性があります。）in to→into一語にしました。</cmt>
+<e type="check" ver="1">Yogin is a foreign silver brought in to Japan at the end of the Edo Period through the beginning of the Meiji Period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>特に断りが無い場合には1497年以後メキシコ（当初はスペイン領）を中心とする、スペイン系の中南米諸国で鋳造されて国際決済で長く用いられてきたSpanish dollar （メキシコドル/メキシコ銀）といわれる、量目420グレーンの8レアル銀貨を指す場合が多い。</j>
+<e type="trans" ver="1">In most cases unless otherwise specified, Yogin refers to the so-called Spanish dollar, 8 real silver coin of 420 grains, which was coined in Mexico (then-Spanish colony) and other Central and South American countries of Spanish origins and had long been used in international settlement since 1497.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In most cases unless otherwise specified, Yogin refers to the so-called Spanish dollar, 8 real silver coin of 420 grains of weight, which was coined in Mexico (then-Spanish colony) and other Central and South American countries of Spanish origins and had long been used in international settlement since 1497.</e>
+<cmt>｢量目｣に相当する「of weight」を「grains」の後に入れました。「スペイン系（中南米諸国）」は、訳語不明ですが、スペインの植民地であり、「Spanish territory/Hispanic」などの可能性はあっても、「Spanish origins」ではないと思います。</cmt>
+<e type="check" ver="1">In most cases unless otherwise specified, Yogin refers to the so-called Spanish dollar, 8 real silver coin of 420 grains of weight, which was coined in Mexico (then-Spanish colony) and other Central and South American countries of Spanish origins and had long been used in international settlement since 1497.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>安政条約によって外国商人が外国銀貨で日本の商品を購入することが許されたが、当時の質量に基づく相場はSpanish dollar 100枚に対して一分銀が311枚であった。</j>
+<e type="trans" ver="1">Since the Ansei Treaty was signed, foreign merchants were allowed to buy Japanese goods with foreign silver coins, and its exchange rate at that time was 311 ichibu-gin silver coins against 100 Spanish dollar.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the Ansei Treaty had been signed, foreign merchants were allowed to buy Japanese goods with foreign silver coins, and their exchange rate at that time was 311 ichibu-gin silver coins against 100 Spanish dollar.</e>
+<cmt>「was signed」を「had been signed」にしました。「its」を「their」にしました。（goodsもcoinsも複数形なので。）</cmt>
+<e type="check" ver="1">Since the Ansei Treaty had been signed, foreign merchants were allowed to buy Japanese goods with foreign silver coins, and their exchange rate at that time was 311 ichibu-gin silver coins against 100 Spanish dollar.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>だが、当時の天保一分銀の品位 (等級)は洋銀に対して高いにも拘らず額面が地金価値よりも高く設定された名目貨幣であった。</j>
+<e type="trans" ver="1">However, the Tempo ichibu-gin silver coin was nominal money; its face value was set higher than its bare metal value, but the grade of the silver coin was still higher than that of Spanish dollar.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, the Tempo ichibu-gin silver coin was nominal money in that its face value was set higher than its bare metal value, but the grade of the silver coin was still higher than that of Spanish dollar.</e>
+<cmt>セミコロンをin thatにしました。</cmt>
+<e type="check" ver="1">However, the Tempo ichibu-gin silver coin was nominal money in that its face value was set higher than its bare metal value, but the grade of the silver coin was still higher than that of Spanish dollar.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>そのことによる金銀比価の差が大きかったために、大量の小判金流出を招く原因となった。</j>
+<e type="trans" ver="1">Therefore, much higher-valued koban gold coins exchangeable to the ichibu-gin coins (four ichibu-gin silver coins for one koban gold coin) was drained in massive amount.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Therefore, much higher-valued koban gold coins exchangeable to the ichibu-gin coins (four ichibu-gin silver coins for one koban gold coin) was drained in massive amount.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Therefore, much higher-valued koban gold coins exchangeable to the ichibu-gin coins (four ichibu-gin silver coins for one koban gold coin) was drained out in massive amount.</e>
+<cmt>チェッカーのコメントに従ってdrained →drained outに変更しました。</cmt>
+</sen>
+<sen id="6">
+<j>これにより日本国内には大量のメキシコ銀が流入し、明治時代の銀貨の材料となった。</j>
+<e type="trans" ver="1">For this reason, Japan was flooded with Spanish dollars, and they were used for minting silver coins during the Meiji Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For this reason, large amount of Spanish dollars flooded into Japan and were used for minting silver coins during the Meiji Period.</e>
+<cmt>主語を「Spanish dollars」にして、andの前後でそろえました。</cmt>
+<e type="check" ver="1">For this reason, large amount of Spanish dollars flooded into Japan and were used for minting silver coins during the Meiji Period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>安政6年（1859年）に江戸幕府は洋銀を金三分と同価値と看做す規定を定め、慶応4年2月20日（1868年）に明治政府もこれを追認する規定を出した。</j>
+<e type="trans" ver="1">In 1859, the Edo bakufu feudal government set an exchange rate of three ichibu-gin silver coins against one Spanish dollar, and on February 20, 1868, the Meiji government also established a rule following the rate.</e>
+<cmt>洋銀一枚に対し、一分銀3枚をレートとすると下記に書いてありますが、「金三分」でも同じ意味か不明です。http://ja.wikipedia.org/wiki/%E6%94%B9%E4%B8%89%E5%88%86%E5%AE%9A%E9%8A%80</cmt>
+<e type="trans" ver="2">In 1859, the Edo bakufu feudal government set an regulation that one Spanish dollar should be equivalent to sanbu-kin gold coins, and on February 20, 1868, the Meiji government also established a rule following this.</e>
+<cmt>左記コメントについて、同じ意味かどうかは不明ですが（おそらく違う？）、「金」とあるので「gold」を用いました。「規定を定め」なので「regulation」を入れました。「追認する」は、江戸幕府の規定を明治政府も認めることなので、「following the rate」ではなく「following this (regulation)」としました。</cmt>
+<e type="check" ver="1">In 1859, the Edo bakufu feudal government set an regulation that one Spanish dollar should be equivalent to sanbu-kin gold coins, and on February 20, 1868, the Meiji government also established a rule following this.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>明治4年（1871年）の新貨条例制定後Spanish dollar とほぼ同品位の貿易銀を鋳造し、明治11年（1878年）5月27日にこれを1円銀貨として日本全国に通用させる太政官布告を公布、翌年9月12日には洋銀と貿易銀との平価通用が布告された（金銀複本位制）。</j>
+<e type="trans" ver="1">In 1871, the New Currency Act was enacted and on My 27, 1878, the edict of Dajokan (Grand Council of state) was issued to order to coin silver trade dollars in Japan equal in value to Spanish dollars and use the trade dollar as one-yen silver coin across the nation, and on September 12, the following year, the gold and silver standard system was officially adopted to allow the use of Spanish dollars and silver trade dollars in accordance with the exchange rate set between governments.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1871, the New Currency Act was enacted and on May 27, 1878, the edict of Dajokan (Grand Council of state) was issued to coin silver trade dollars in Japan equivalent to Spanish dollars and use the trade dollar as one-yen silver coin across the nation, and on September 12, the following year, the gold and silver standard system was declared to allow the use of Spanish dollars and silver trade dollars in accordance with the exchange rate set between the both governments (gold and silver bimetallism).</e>
+<cmt>「order to」は不要と思われましたので取りました。「equal in value」→「equivalent」にしました。「My｣→「May」にしました。「布告」を「declare」にしました。「金銀複本位制」→「gold and silver bimetallism」を最後に入れました。「平価通用」は辞書にありませんが、赤字の部分が意味を反映しているか不確かです。(が、一応、governmentsの前にthe bothを入れました。）</cmt>
+<e type="check" ver="1">In 1871, the New Currency Act was enacted and on May 27, 1878, the edict of Dajokan (Grand Council of state) was issued to coin silver trade dollars in Japan equivalent to Spanish dollars and use the trade dollar as one-yen silver coin across the nation, and on September 12, the following year, the gold and silver standard system was declared to allow the use of Spanish dollars and silver trade dollars in accordance with the exchange rate set between the both governments (gold and silver bimetallism).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>その後の紙幣整理と兌換紙幣の発行によって姿を消し、明治30年（1897年）の公布による金本位制移行とともに1円銀貨の国内流通は停止され、洋銀の国内における地位も低下した。</j>
+<e type="trans" ver="1">The ichibu-gin silver coins disappeared after the rearrangement of paper money and the issuance of convertible currency, and in concurrence with the transition to the gold standard system in 1897, the distribution of the one-yen silver coin was halted and the value of the Spanish dollars dropped significantly in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ichibu-gin silver coins disappeared after the rearrangement of paper money and the issuance of convertible currency, and in concurrence with the transition to the gold standard system in 1897, the distribution of the one-yen silver coin was halted in Japan and the value of the Spanish dollars dropped significantly in Japan.</e>
+<cmt>「国内流通」なのでhaltedの後にも「in Japan」を入れました。</cmt>
+<e type="check" ver="1">The ichibu-gin silver coins disappeared after the rearrangement of paper money and the issuance of convertible currency, and in concurrence with the transition to the gold standard system in 1897, the distribution of the one-yen silver coin was halted in Japan and the value of the Spanish dollars dropped significantly in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Chiew(id:39745), As6022014(id:214263), Straysheep(id:42448), 経済準学士(id:22656), 水野白楓(id:22811), Cprobot(id:97843), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

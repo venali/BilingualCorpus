@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>才</j>
+<e type="trans" ver="1">&quot;Sai&quot; (A Volume Unit)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sai (a unit of volume in old Japanese system of weights and measures)</e>
+<cmt>補足しました。</cmt>
+<e type="check" ver="1">Sai (a unit of volume in old Japanese system of weights and measures)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>才（さい）は、尺貫法の体積（容積）の物理単位である。</j>
+<e type="trans" ver="1">&quot;Sai&quot; is an unit of volume (capacity) in the Japanese system of weights and measures.</e>
+<cmt>（注①）・・・「尺貫法」は狭義では日本における度量衡の単位系を指し、広義では東アジア一帯で用いられる度量衡の単位系を指します。ここは狭義に解しています。（注②）・・・「物理単位」を直訳すれば&quot;physical unit&quot;でしょうが、これは「物理装置」を意味する全く別のコンピュータ用語です。これと区別するためにもあえて&quot;unit&quot;とのみ訳しています。</cmt>
+<e type="trans" ver="2">Sai is a unit of volume (capacity) in old Japanese system of weights and measures.</e>
+<cmt>用語を変更しました。</cmt>
+<e type="check" ver="1">Sai is a unit of volume (capacity) in old Japanese system of weights and measures.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>船の積み荷や石材を量る場合には一辺1尺の立方体の体積（1立方尺）を指す。</j>
+<e type="trans" ver="1">When sai is used as an unit for weighing a load of a ship or a building stone, 1 sai is deemed to have the volume of 1 cubic &quot;shaku&quot; (1 shaku is about 30.3 centimeters).</e>
+<cmt>（注）「船の積み荷や石材を量る場合には」の部分は「才が船の積み荷や石材を量る際の単位として用いられる場合には」の意味に解しています。</cmt>
+<e type="trans" ver="2">When sai is used as a unit for weighing a load of a ship or a building stone, 1 sai is deemed to have the cubic volume of 1 shaku on a side (1 shaku is about 30.3 centimeters).</e>
+<cmt>用語を変更しました。</cmt>
+<e type="check" ver="1">When sai is used as a unit for weighing a load of a ship or a building stone, 1 sai is deemed to have the cubic volume of 1 shaku on a side (1 shaku is about 30.3 centimeters).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>メートル法では約0.027826立方メートル（27.876リットル）となる。</j>
+<e type="trans" ver="1">1 cubic shaku is roughly equal to 0.027826 cubic meters (27.876 liter) in the metric system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">1 cubic shaku is roughly equal to 0.027826 cubic meters (27.876 liters) in the metric system.</e>
+<cmt>用語を変更しました。</cmt>
+<e type="check" ver="1">1 cubic shaku is roughly equal to 0.027826 cubic meters (27.876 liters) in the metric system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>この場合、才の10倍（10立方尺）を石 (単位)（こく）という。</j>
+<e type="trans" ver="1">In this case, 10 times 1 sai is called 1 &quot;stone&quot; (an unit).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In this case, 10 times 1 sai (10 cubic shaku) is called 1 koku (a unit).</e>
+<cmt>読みを変更しました。</cmt>
+<e type="check" ver="1">In this case, 10 times 1 sai (10 cubic shaku) is called 1 koku (a unit).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>木材、特に貴重材の体積（材積）については、一寸角で長さ1間（地方によっては2間）の体積を指す。</j>
+<e type="trans" ver="1">When sai is used as an unit for weighing lumber (especially valuable lumber), 1 sai is deemed to have the volume of 1 &quot;sun&quot; square multiplied by 1 &quot;ken&quot; length - or by 2 &apos;ken&apos; length in some regions of Japan (1 sun is about 3.03 centimeters, and 1 ken is about 1.8182 meter).</e>
+<cmt>（注）「木材、特に貴重材の体積（材積）については、」の部分は「才が木材、特に貴重材の体積（材積）を量る際の単位として用いられる場合については」の意味に解しています。</cmt>
+<e type="trans" ver="2">When sai is used as a unit for weighing lumber (especially valuable lumber), 1 sai is deemed to have the volume of 1 sun square multiplied by 1 ken length or by 2 ken length in some regions of Japan (1 sun is about 3.03 centimeters, and 1 ken is about 1.8182 meters).</e>
+<cmt>用語を変更しました。</cmt>
+<e type="check" ver="1">When sai is used as a unit for weighing lumber (especially valuable lumber), 1 sai is deemed to have the volume of 1 sun square multiplied by 1 ken length or by 2 ken length in some regions of Japan (1 sun is about 3.03 centimeters, and 1 ken is about 1.8182 meters).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>1間を6尺とした場合、約0.0016696立方メートルとなる。</j>
+<e type="trans" ver="1">Provided 1 ken is equalized with 6 shaku, the volume is about 0.0016696 cubic meter.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Provided 1 ken is equalized with 6 shaku, the volume is about 0.0016696 cubic meters.</e>
+<cmt>用語を変更しました。</cmt>
+<e type="check" ver="1">Provided 1 ken is equalized with 6 shaku, the volume is about 0.0016696 cubic meters.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>それとは別に、勺の10分の1の容積（1,000分の1升）も才という。</j>
+<e type="trans" ver="1">Besides, a tenth volume of 1 &quot;shaku,&quot; or a thousandth of 1 &quot;sho,&quot; is also called 1 sai.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Besides, a 10th volume of 1 shaku, or a 1000th of 1 sho, is also called 1 sai.</e>
+<cmt>用語を変更しました。</cmt>
+<e type="check" ver="1">Besides, a 10th volume of 1 shaku, or a 1000th of 1 sho, is also called 1 sai.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>1才は10弗（ふつ）である。</j>
+<e type="trans" ver="1">1 sai here is equal to 10 futsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">1 sai here is equal to 10 futsu.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">1 sai here is equal to 10 futsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>この場合の1才は1.8039ミリリットルとなる。</j>
+<e type="trans" ver="1">In this case, 1 sai is set at 1.8039 milliliter.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In this case, 1 sai is set at 1.8039 milliliter.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In this case, 1 sai is set at 1.8039 milliliter.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Los688(id:12316), Nnh(id:474), Minque(id:40595), 暴言王国(id:72986), どっかーん(id:63619), Kotoito(id:21045), Ribb(id:71835), ハエ叩き(id:71380), 目蒲東急之介(id:34741), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>算用状</j>
+<e type="trans" ver="1">Sanyojo (Account book)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sanyojo (Account book)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sanyojo</e>
+<cmt>以下説明が続くので、英語説明を削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>算用状（さんようじょう・散用状）とは、中世の荘園において、荘園領主と現地の荘官との間で交わされた個々の荘園の年貢・公事などに関する年間の収支決算報告のこと。</j>
+<e type="trans" ver="1">Sanyojo (算用状 or 散用状) was the annual settlement of accounts for nengu (annual land tax) and kuji (miscellaneous tax) in each shoen (estate) exchanged between shoen ryoshu (the estate proprietary lord) and shokan (the estate manager) in the medieval shoen system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sanyojo (算用状 or 散用状) was the annual settlement of accounts for nengu (annual land tax) and kuji (miscellaneous tax) in each shoen (estate) exchanged between shoen ryoshu (the estate proprietary lord) and shokan (the estate manager) in the medieval shoen system.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sanyojo (算用状 or 散用状) was the annual settlement of accounts for nengu (annual land tax) and kuji (miscellaneous tax) in each shoen (estate) exchanged between shoen ryoshu (the estate proprietary lord) and shokan (the estate manager) in the medieval shoen system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>結解状（けちげちょう）とも呼ばれた。</j>
+<e type="trans" ver="1">It was also referred to as Kechigecho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was also referred to as Kechigecho.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was also referred to as Kechigecho.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>算用状（結解状）は、領主側と荘官側の間において遣り取りされる収支決算資料を指すため、領主側と荘官側の間で別箇の趣意を持った算用状（結解状）が作成される事となる。</j>
+<e type="trans" ver="1">Since sanyojo (Kechigecho) was documents regarding the settlement of accounts exchanged between the ryoshu side and the shokan side, the ryoshu side and the shokan side respectively drew up sanyojo (kechigecho) for individual purposes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since sanyojo (Kechigecho) were documents regarding the settlement of accounts exchanged between the ryoshu and the shokan sides, they respectively drew up sanyojo (kechigecho) for individual purposes.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Since sanyojo (Kechigecho) were documents regarding the settlement of accounts exchanged between the ryoshu and the shokan sides, they respectively drew up sanyojo (kechigecho) for individual purposes.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>領主（実際には領主の家政機関である政所・公文所）が作成する算用状は、支配状・下行状・納下状などと呼ばれ、個々の荘園の荘園の年貢の収納状況からその年の収支見通しを立てて支配（下行（げぎょう））の方針を支持するために用いられた。</j>
+<e type="trans" ver="1">The sanyojo drawn up by the ryoshu (practically, ryoshu&apos;s general administrative body, mandokoro (administrative board) and kumonjo (administrative office)) was called shihai jo, gegyo jo, noge jo, and used for estimating revenue and expenditure for the year based on collection of nengu from the shoen and supporting the management (gegyo) policy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The sanyojo drawn up by the ryoshu (practically, ryoshu&apos;s general administrative body, mandokoro - administrative board, and kumonjo - administrative office) was called shihai jo, gegyo jo, noge jo, and used for estimating revenue and expenditure for the year based on collection of nengu from the shoen and supporting the management (gegyo) policy.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The sanyojo drawn up by the ryoshu (practically, ryoshu&apos;s general administrative body, mandokoro - administrative board, and kumonjo - administrative office) was called shihai jo, gegyo jo, noge jo, and used for estimating revenue and expenditure for the year based on collection of nengu from the shoen and supporting the management (gegyo) policy.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="5">
+<j>一方、現地の荘官側が作成する注進状と呼ばれ、その年の年貢納入状況について報告するために作成された。</j>
+<e type="trans" ver="1">On the other hand, the sanyojo drawn up by the local shokan side was called chushin jo, which was made for reporting the payment of nengu for the year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the other hand, sanyojo drawn up by the local shokan side was called chushin jo, made for reporting the payment of nengu for the year.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">On the other hand, sanyojo drawn up by the local shokan side was called chushin jo, made for reporting the payment of nengu for the year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>まず規定の年貢高から当該年度の除分（免除されたもの）・損亡分（災害による損害）・未進分（未納のもの）を除き、続いて下用・所済・立用などと呼ばれる現地での必要経費を差し引き、更に回収された前年の未納分を足したものが、荘園領主の元に送られる清算納入量となる。</j>
+<e type="trans" ver="1">The adjusted amount of nengu to be sent to the shoen ryoshu was calculated by subtracting the deduction (exemption), loss (damages caused by disaster), and arreages (unpaid amount) for the year from the settled amount of nengu first, further subtracting the local necessary expenses called geyo (unpolished rice), shosei (nengu paid those other than shoen ryoshu), ruiyo (diversion), and adding the unpaid amount of nengu of the former year collected.</e>
+<cmt>「立用」の読みと意味が不明です。</cmt>
+<e type="trans" ver="2">The adjusted amount of nengu to be sent to the shoen ryoshu was calculated by subtracting the deduction (exemption), loss (damages caused by disaster), and arrearages (unpaid amount) for the year from the settled amount of nengu first, further subtracting the local necessary expenses called geyo (unpolished rice), shosei (nengu paid those other than shoen ryoshu), ruiyo (diversion), and adding the unpaid amount of nengu collected the previous year.</e>
+<cmt>spelling, grammar</cmt>
+<e type="check" ver="1">The adjusted amount of nengu to be sent to the shoen ryoshu was calculated by subtracting the deduction (exemption), loss (damages caused by disaster), and arrearages (unpaid amount) for the year from the settled amount of nengu first, further subtracting the local necessary expenses called geyo (unpolished rice), shosei (nengu paid those other than shoen ryoshu), ruiyo (diversion), and adding the unpaid amount of nengu collected the previous year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>当時の農業生産は不安定であり、こうした年ごとの清算業務は欠かせないものであった。</j>
+<e type="trans" ver="1">Since the farm production was unstable in those days, such annual adjustment was needed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the farm production was unstable in those days, such annual adjustments were needed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Since the farm production was unstable in those days, such annual adjustments were needed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Straysheep(id:42448), MioUzaki(id:89034), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

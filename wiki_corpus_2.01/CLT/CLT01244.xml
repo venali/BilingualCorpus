@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>えんがわ</j>
+<e type="trans" ver="1">Engawa</e>
+<cmt></cmt>
+<e type="trans" ver="2">Engawa</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Engawa</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>えんがわ（縁側、エンガワ）とは、魚の部位の通称で、刺身や寿司のネタのひとつ。</j>
+<e type="trans" ver="1">&quot;Engawa&quot; is a name commonly used to refer to a part of fish meat, which is used as an ingredient for sashimi or sushi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Engawa&quot; is a part of fish meat and one of the toppings of sashimi or sushi.</e>
+<cmt>全文修正しました。</cmt>
+<e type="check" ver="1">&quot;Engawa&quot; is a part of fish meat and one of the toppings of sashimi or sushi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>ヒラメ、カレイの鰭を動かすための筋肉のことをいい、コリコリとした舌ざわりが好まれる。</j>
+<e type="trans" ver="1">It means a muscle of flatfish or righteye flounder for moving its fins, and is popular for its crunchy feel on the tongue.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It means a muscle of flatfish or righteye flounder for moving its fins, and is popular for its crunchy feeling on the tongue.</e>
+<cmt>feel on the tongue を feeling on the tongue に修正しました。※原文：「舌ざわり」は「歯応え」の誤りではないでしょうか？</cmt>
+<e type="check" ver="1">It means a muscle of flatfish or righteye flounder for moving its fins, and is popular for its crunchy feeling on the tongue.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>身の形が家屋の縁側に似ていることからそう呼ばれる。</j>
+<e type="trans" ver="1">Since the shape of the muscle part looks like a veranda called &quot;engawa&quot; unique to traditional Japanese houses, it has been given the name &quot;engawa&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The name comes from the fact that its shape looks like a veranda of a Japanese house called &quot;engawa.&quot;</e>
+<cmt>全文修正しました。</cmt>
+<e type="check" ver="1">The name comes from the fact that its shape looks like &quot;engawa&quot;which is a veranda of a Japanese house.</e>
+<cmt>表現を変えました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>寿司ネタで「えんがわ」といえば、「ヒラメのえんがわ」を指す。</j>
+<e type="trans" ver="1">When people say &quot;engawa&quot; for a sushi ingredient, it usually means engawa of flatfish.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When people say &quot;engawa&quot; for a sushi topping, it usually means &apos;engawa of flatfish.&apos;</e>
+<cmt>”engawa”のdブルコーテーションを半角にしました。Ingredient を topping に修正しました。engawa of flatfish にシングルコーテーションを追記しました。</cmt>
+<e type="check" ver="1">When people say &quot;engawa&quot; for a sushi topping, it usually means &apos;engawa of flatfish.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>えんがわ部分は、ヒラメ一匹からとれる量が限られているので白身部分よりも価格が高い。</j>
+<e type="trans" ver="1">Since the amount of engawa part obtainable from one flatfish is limited and small, engawa is more expensive than the white meat part of the fish.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the amount of engawa part obtainable from one flatfish is limited, engawa is more expensive than white meat.</e>
+<cmt>and small を削除しました。the white meat part of the fish を white meat に修正しました。</cmt>
+<e type="check" ver="1">Since the amount of engawa part obtainable from one flatfish is limited, engawa is more expensive than white meat.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>回転寿司で単に「えんがわ」と表示して安価で販売されている場合、カラスガレイやアブラガレイといった代用魚のえんがわが使われている。</j>
+<e type="trans" ver="1">If sushi is provided under the name of &quot;engawa&quot; at a low price at a conveyor belt sushi bar, the sushi bar uses substitute fish such as Reinhardtius hippoglossoides or Atheresthes evermanni.</e>
+<cmt></cmt>
+<e type="trans" ver="2">If sushi is provided under the name of &quot;engawa&quot; at a low price at a conveyor belt sushi bar, substitute fish such as Reinhardtius hippoglossoides or Atheresthes evermanni are used.</e>
+<cmt>後半部を全文修正しました。</cmt>
+<e type="check" ver="1">If sushi is provided under the name of &quot;engawa&quot; at a low price at a conveyor belt sushi bar, substitute fish such as Reinhardtius hippoglossoides or Atheresthes evermanni are used.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>カレイのえんがわはヒラメより味が劣るとされるが、脂の味が濃厚でありそれを好む者もいる。</j>
+<e type="trans" ver="1">Generally, engawa of righteye flounder meat is said to be inferior in taste to that of flatfish, while some prefer righteye flounder for its rich-textured fat.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Engawa of righteye flounder is regarded as inferior to that of flatfish, however, some people prefer its taste of rich-textured fat.</e>
+<cmt>全文修正しました。</cmt>
+<e type="check" ver="1">Engawa of righteye flounder is regarded as inferior in flavor to that of flatfish, but some people prefer its rich, fatty taste.</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 BitBucket(id:30999), JB(id:54090), PANYNJ(id:38638), マクガイア(id:33346), Amatellus(id:178152), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

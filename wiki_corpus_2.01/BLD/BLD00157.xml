@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>支城</j>
+<e type="trans" ver="1">Branch castle</e>
+<cmt></cmt>
+<e type="trans" ver="2">Branch castle</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shijo</e>
+<cmt>branch castleが定訳ではないようなので、念のためローマ字表記にしました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>支城（しじょう）とは、本城を守るように配置された補助的役割を持つ出城・砦・陣屋などのことを指す。</j>
+<e type="trans" ver="1">A branch castle refers to an outer citadel, fort or fortification built to protect the main castle and perform a backup role.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A branch castle refers to an outer citadel, fort or fortification built to protect the main castle and perform a backup role.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shijo refers to an outer citadel, fort or fortification built to protect the main castle and perform a backup role.</e>
+<cmt>前出に合わせました。</cmt>
+</sen>
+<sen id="2">
+<j>本城を指す根城に比して枝城などとも呼ばれた。</j>
+<e type="trans" ver="1">It was called an &apos;edajira&apos; or branch castle to distinguish it from the main castle or &apos;honjo&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was called an &apos;edajira&apos; or branch castle to distinguish it from the main castle or &apos;honjo&apos;.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was called an &apos;edajiro&apos; (branch castle) to distinguish it from &apos;nejiro&apos; (root castle) which indicates the main castle.</e>
+<cmt>前出に合わせました。</cmt>
+</sen>
+<sen id="3">
+<j>役割によって様々な種類があり、規模も大小様々である。</j>
+<e type="trans" ver="1">There are many types depending on the role and they also varied in scale.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are many types depending on the role and they also varied in scale.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There are many types depending on the role and they also varied in scale.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>戦国時代_(日本)には、本城・支城間に支城網（しじょうもう）と呼ばれる多彩なネットワークが形成されるようになった。</j>
+<e type="trans" ver="1">In the Warring States period (Japan) a diverse network called a branch castle network was created between the main castle and branch castle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Warring States period (Japan) a diverse network called a branch castle network was created between the main castle and branch castle.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the Sengoku Period (Period of Warring States) (Japan) a diverse network called &apos;shijo-mo&apos; was created between the main castle and shijo.</e>
+<cmt>用語集に合わせました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>支城の種類</j>
+<e type="trans" ver="1">Types of branch castles</e>
+<cmt></cmt>
+<e type="trans" ver="2">Types of branch castles</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Types of Shijo</e>
+<cmt>表記を変えました。</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>防衛拠点</j>
+<e type="trans" ver="1">defense outpost</e>
+<cmt></cmt>
+<e type="trans" ver="2">defense outpost</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Defense Outpost</e>
+<cmt>表記を変えました。</cmt>
+</sen>
+<sen id="6">
+<j>詰の城　本城を守る防衛用の出城。</j>
+<e type="trans" ver="1">An outer citadel used for defending the primary castle or main castle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An outer citadel used for defending the primary castle or main castle.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">An outer citadel: Used for defending the main castle.</e>
+<cmt>コロンを使用しました。</cmt>
+</sen>
+<sen id="7">
+<j>本城に近く、尚且つ山など防衛に適した要害の地に作られることが多い</j>
+<e type="trans" ver="1">Mostly built near the main castle and in strategic locations such as mountains suited to defense.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mostly built near the main castle and in strategic locations such as mountains suited to defense.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mostly built near the main castle and in strategic locations such as mountains suited to defense.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>直轄支城</j>
+<e type="trans" ver="1">directly controlled branch castle</e>
+<cmt></cmt>
+<e type="trans" ver="2">directly controlled branch castle</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Directly Controlled Shijo</e>
+<cmt>表記を変えました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>城攻め用</j>
+<e type="trans" ver="1">castle built for attacking enemy castle</e>
+<cmt></cmt>
+<e type="trans" ver="2">castle built for attacking enemy castle</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Castle Built for Attacking Enemy Castle</e>
+<cmt>表記を変えました。</cmt>
+</sen>
+<sen id="10">
+<j>向城・付城・対の城　城攻めの際に城に相対するように築城する城。</j>
+<e type="trans" ver="1">A facing castle, confronting castle or annex castle, a castle built to attack the enemy castle</e>
+<cmt></cmt>
+<e type="trans" ver="2">A facing castle, confronting castle or annex castle, a castle built to attack the enemy castle</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A facing castle, confronting castle or annex castle: A castle built to attack the enemy castle</e>
+<cmt>コロンを使用しました。</cmt>
+</sen>
+<sen id="11">
+<j>（本城に付属する城を指す場合もある）</j>
+<e type="trans" ver="1">(sometimes also indicates a castle ancillary to main castle)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(sometimes also indicates a castle ancillary to main castle)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(Sometimes also indicates a castle ancillary to main castle)</e>
+<cmt>表記を変えました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>間接的な支城</j>
+<e type="trans" ver="1">Indirectly controlled branch castle</e>
+<cmt></cmt>
+<e type="trans" ver="2">Indirectly controlled branch castle</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Indirectly Controlled Shijo</e>
+<cmt>表記を変えました。</cmt>
+</sen>
+<sen id="13">
+<j>境の城・境目の城　領地の境にある城</j>
+<e type="trans" ver="1">Border castles, boundary castles, castles on the perimeter of the grounds</e>
+<cmt></cmt>
+<e type="trans" ver="2">Border castles, boundary castles, castles on the perimeter of the grounds</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Border castles or boundary castles: Castles on the perimeter of the territory</e>
+<cmt>コロンを使用しました。</cmt>
+</sen>
+<sen id="14">
+<j>番城・番手城　城主がおらず本城から直轄されている支城　(江戸時代の大阪城や二条城なども公儀の番城としてこれに当たる)</j>
+<e type="trans" ver="1">Banjiro branch castle or guard castle, a branch castle without its own lord, directly controlled by the main castle (Osaka Castle and Nijo Castle in the Edo period are among such castles of the shogunate government.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Banjiro branch castle or guard castle, a branch castle without its own lord, directly controlled by the main castle (Osaka Castle and Nijo Castle in the Edo period are among such castles of the shogunate government.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Banjiro or bantejiro (both mean guard castles): A branch castle without its own lord, directly controlled by the main castle (Osaka-jo Castle and Nijo-jo Castle in the Edo period are among such castles of the shogunate government).</e>
+<cmt>コロンを使用しました。</cmt>
+</sen>
+<sen id="15">
+<j>繋の城・伝えの城　狼煙による通信連絡を行ったり、街道の関所、兵員の集結、移動、宿営のための駐屯基地などの役割を担う城。</j>
+<e type="trans" ver="1">Linking castle or communciations castle, a castle playing the role of garrison, for contact and communication via smoke signals or for opening up roads and gathering, transferring or accomodating soldiers.</e>
+<cmt>伝えの城 communications castle</cmt>
+<e type="trans" ver="2">Linking castle or communciations castle, a castle playing the role of garrison, for contact and communication via smoke signals or for opening up roads and gathering, transferring or accomodating soldiers.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Linking castle or communications castle: A castle playing the role of garrison, for contact and communication via smoke signals, for checking travelers crossing the border, and for gathering, transferring or accommodating soldiers.</e>
+<cmt>コロンを使用しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="16">
+<j>その他</j>
+<e type="trans" ver="1">other</e>
+<cmt></cmt>
+<e type="trans" ver="2">other</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Other</e>
+<cmt>表記を変えました。</cmt>
+</sen>
+<sen id="17">
+<j>陣城　野戦時などに臨時構築される簡易の城</j>
+<e type="trans" ver="1">battle castle, simple castle built as a temporary structure during field battles.</e>
+<cmt></cmt>
+<e type="trans" ver="2">battle castle, simple castle built as a temporary structure during field battles.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Battle castle: Simple castle built as a temporary structure during field battles.</e>
+<cmt>コロンを使用しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>支城網</j>
+<e type="trans" ver="1">branch castle network</e>
+<cmt></cmt>
+<e type="trans" ver="2">branch castle network</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shijo-mo</e>
+<cmt>表記を変えました。</cmt>
+</tit>
+<par id="1">
+<sen id="18">
+<j>支城網（しじょうもう）とは日本の主に戦国時代 (日本)に発達した、各地域の拠点や本拠となる本城と、それを守るように周囲に補助的役割の支城・枝城・端城などと呼ばれる城・砦・陣屋群を張り巡らせた防衛及び統治ネットワークを指す。</j>
+<e type="trans" ver="1">Branch castle network refers to a defense or governing network of castles, forts and fortifications called branch castles (shijo, edajira, hajiro) performing a support function and scattered around a main castle which is the stronghold or base in each region developed mainly in the Warring States period (Japan).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Branch castle network refers to a defense or governing network of castles, forts and fortifications called branch castles (shijo, edajira, hajiro) performing a support function and scattered around a main castle which is the stronghold or base in each region developed mainly in the Warring States period (Japan).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shijo-mo (branch castle network) refers to a defense or governing network of castles, forts and fortifications called branch castles (shijo, edajiro, hajiro) performing a support function and scattered around a main castle which is the stronghold or base in each region developed mainly in the Sengoku Period (Japan).</e>
+<cmt>表記を変えました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="19">
+<j>規模は様々で、例えば箕輪城は大小三百二もの支城・砦で構築された支城網を誇っていた。</j>
+<e type="trans" ver="1">The scale varied and for example Minowa Castle boasted a branch castle network consisting of three hundred and two branch castles and forts large and small.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The scale varied and for example Minowa Castle boasted a branch castle network consisting of three hundred and two branch castles and forts large and small.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The scale varied and for example Minowa-jo Castle boasted a shijo-mo consisting of three hundred and two shijo and forts large and small.</e>
+<cmt>表記を変えました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 タランチュラ(id:125720), 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

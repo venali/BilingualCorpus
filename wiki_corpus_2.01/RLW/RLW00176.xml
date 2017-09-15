@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>黄檗駅</j>
+<e type="trans" ver="1">Obaku Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Obaku Station</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Obaku Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>黄檗駅（おうばくえき）は、京都府宇治市にある、京阪電気鉄道・西日本旅客鉄道（JR西日本）の鉄道駅。</j>
+<e type="trans" ver="1">Located in Uji City of Kyoto Prefecture, Obaku Station is a stop on Keihan Electric Railway and West Japan Railway Company (JR-West) Lines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Obaku Station, located in Uji City of Kyoto Prefecture, is a stop on the Keihan Electric Railway and West Japan Railway Company (JR-West) lines.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Obaku Station, located in Uji City of Kyoto Prefecture, is a stop on the Keihan Electric Railway and West Japan Railway Company (JR West) lines.</e>
+<cmt>表現統一しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>利用可能な鉄道路線</j>
+<e type="trans" ver="1">Accessible railway lines</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accessible railway lines</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Accessible railway lines</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>京阪電気鉄道</j>
+<e type="trans" ver="1">Keihan Electric Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>京阪宇治線</j>
+<e type="trans" ver="1">Keihan Uji Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Uji Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Uji Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>西日本旅客鉄道（JR西日本）</j>
+<e type="trans" ver="1">West Japan Railway Company (JR-West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR-West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>JR Westとしました</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="5">
+<j>奈良線</j>
+<e type="trans" ver="1">Nara Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nara Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nara Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="6">
+<j>両線ともICOCA（西日本旅客鉄道）・PiTaPa（スルッとKANSAI協議会）の利用が可能。</j>
+<e type="trans" ver="1">Both ICOCA (West Japan Railway Company) and PiTaPa (Surutto Kansai Association) Cards can be used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Both the ICOCA (West Japan Railway Company) and PiTaPa (Surutto Kansai Association) cards can be used.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The ICOCA (West Japan Railway Company) and PiTaPa (Surutto KANSAI Association) cards can be used on both lines.</e>
+<cmt>KANSAIとしました。表現統一</cmt>
+</sen>
+<sen id="7">
+<j>ただし、JスルーはJR線、スルッとKANSAI対応各種カードは京阪線でのみ使用可能。</j>
+<e type="trans" ver="1">J Through Cards can only be used on JR Lines and various Kansai Thru Pass compatible cards only on Keihan Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">J Through cards can only be used on JR Lines and various Kansai Thru Pass-compatible cards only on the Keihan Line.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">J-Thru cards can only be used on JR Lines and various KANSAI THRU PASS-compatible cards only on the Keihan Line.</e>
+<cmt>KANSAI THRU PASSとしました</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station layout</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>両駅とも隣接しているが、路線自体が競合関係にあるため、連絡通路などの設備は無く、そのような計画も無い。</j>
+<e type="trans" ver="1">Both stations are situated in close proximity to each other and as routes themselves compete head-to-head, neither connecting passageways nor plans for such exist.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Both stations are situated in close proximity to each other and as routes themselves compete head to head; neither connecting passageways nor plans for such exist.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The stations are situated in close proximity to each other; as routes themselves compete head to head, neither connecting passageways nor plans for such exist.</e>
+<cmt>文章のつなぎ修正</cmt>
+</sen>
+<sen id="9">
+<j>両駅のホームの端同士は目と鼻の先にあるものの駅舎の出入口は離れており、乗り換えるためにはかなり遠回りをしなくてはならない。</j>
+<e type="trans" ver="1">Although the ends of their platforms are ladjacent to each other, entrance/exits to respective station buildings are at quite a distance and those transferring are obliged to make a detour.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the ends of their platforms are adjacent to each other, entrance/exits to the respective station buildings are at quite a distance and those transferring are obliged to make a detour.</e>
+<cmt>typo</cmt>
+<e type="check" ver="1">Although the ends of their platforms are adjacent to each other, entrances/exits to the respective station buildings are at quite a distance and those transferring are obliged to make a detour.</e>
+<cmt>entrancesとしました</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>京阪電気鉄道</j>
+<e type="trans" ver="1">Keihan Electric Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="10">
+<j>プラットホーム形状と配置2面2線のプラットホームを持つ地上駅である。</j>
+<e type="trans" ver="1">It is an above ground station with two platforms and double tracks.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an above-ground station with two platforms and double tracks.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It is an above-ground station with two platforms and double tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>急カーブ上に位置し、「電車とホームの間に注意」というステッカーがホームに貼り付けられている。</j>
+<e type="trans" ver="1">It is located at a spot which is sharply curved and stickers printed &apos;Beware of gap between train and platform&apos; are stuck to the surface of platforms.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is located at a spot that is sharply curved, and labels printed &apos;Beware of gap between train and platform&apos; are applied to the surfaces of platforms.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is located at a spot that is sharply curved, and labels printed &apos;Beware of gap between train and platform&apos; are applied to the surfaces of platforms.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="12">
+<j>改札口は上下線で別々に設けられており、改札内でホーム同士を行き来することはできない。</j>
+<e type="trans" ver="1">Ticket gates for inbound and outbound platforms are separated and going back and forth between the two once inside ticket gates is not possible.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ticket gates for the inbound and outbound platforms are separated, so it isn&apos;t possible to go back and forth between the two once inside the ticket gates.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Ticket gates for the inbound and outbound platforms are separated, so it isn&apos;t possible to go back and forth between the two once inside the ticket gates.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>どちらのホームも中書島寄りに改札があり、宇治方面行きホームの改札は無人。</j>
+<e type="trans" ver="1">Ticket gates of both platforms are located nearer Chushojima and ticket gates installed on the platform for Uji are unmanned.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ticket gates of both platforms are located nearer Chushojima, and the ticket gates on the platform for Uji are unmanned.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The ticket gates of both platforms are located nearer Chushojima, and the ticket gates on the platform for Uji are unmanned.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>中書島方面行きホームの改札には駅員が常駐している。</j>
+<e type="trans" ver="1">Ｓtaffs are always stationed on the platform for Chushojima.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ｓtation staff are always stationed on the platform for Chushojima.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Ｓtation staff are always stationed on the platform for Chushojima.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="15">
+<j>2006年6月30日で売店の営業は終了し、現在では飲料および新聞の自動販売機があるのみとなっている。</j>
+<e type="trans" ver="1">The Kiosk stall closed down on June 30, 2006 and only automatic vending machines for beverages and newpapers exist as of now.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kiosk stall closed down on June 30, 2006, and currently only automatic vending machines for beverages and newpapers exist.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The Kiosk stall closed down on June 30, 2006, and currently only automatic vending machines for beverages and newspapers exist.</e>
+<cmt>newspaperとしました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="16">
+<j>※両ホームとも有効長は5両。</j>
+<e type="trans" ver="1">※Both platforms have an effective length to accommodate five car trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">※Each of the platforms has a length sufficient to accommodate a five-car train.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">※Each of the platforms has a length sufficient to accommodate a five-car train.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>のりばの番号表示はない。</j>
+<e type="trans" ver="1">Track/Platform numbers are not indicated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track/platform numbers are not indicated.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Platform numbers are not indicated.</e>
+<cmt>Track/platform numbers → Platform numbers</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>JR西日本</j>
+<e type="trans" ver="1">JR-West</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR-West</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR West</e>
+<cmt>JR Westとしました。</cmt>
+</tit>
+<par id="1">
+<sen id="18">
+<j>相対式2面2線のホームを持つ、交換設備を備えた地上駅である。</j>
+<e type="trans" ver="1">It is an above ground station with two platforms opposite each other and double tracks and at which trains can pass each other or pass others.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an above-ground station with two platforms opposite each other and double tracks and at which trains can pass each other or pass others.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It is an above-ground station with two platforms opposite each other and double tracks and at which trains can pass each other or pass others.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>構内配線が一線スルーになっていないため、快速は減速して通過する。</j>
+<e type="trans" ver="1">As track configuration does not provide for thoroughfare, rapid trains slow down and pass by without stopping.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the track configuration does not provide for thoroughfare, rapid trains slow down and pass by without stopping.</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">Since the track configuration does not provide for thoroughfare, rapid trains slow down and pass by without stopping.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="20">
+<j>かつては単式1面1線のホームしかなかったが（現在の2番線）、奈良線の輸送力増強のためにホームが新設された（現在の1番線）。</j>
+<e type="trans" ver="1">There was a time in the past when the station had only one platform (present Track #2 platform,) but another one (present Track #1 platform) was newly installed to enhance Nara Line carrying capacity.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There was a time in the past when the station had only one platform (present track No. 2 platform), but another one (the present track No. 1 platform) was newly installed to enhance the Nara Line&apos;s carrying capacity.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">There was a time in the past when the station had only one platform (currently Platform 2), but another one (currently Platform 1) was newly installed to enhance the Nara Line&apos;s carrying capacity.</e>
+<cmt>「No.番線」の表記を統一</cmt>
+</sen>
+<sen id="21">
+<j>非常にこぢんまりとした駅舎を持ち、電車を降りるとすぐに改札という構造になっている。</j>
+<e type="trans" ver="1">Station building is extremely compact and of a structure when once alighting from cars, ticket gates are located right in front.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station building is extremely compact and of such a structure that when alighting from cars, the ticket gates are located directly in front.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station building is extremely compact and of such a structure that when alighting from cars, the ticket gates are located directly in front.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>なお駅業務は（株）ジェイアール西日本交通サービスへ委託されている。</j>
+<e type="trans" ver="1">Station operations are commissioned to JR West Japan Transportation Service Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station operations are commissioned to JR West Japan Transportation Service Co., Ltd.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station operations are commissioned to JR West Japan Transportation Service Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization status</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usage status</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Usage status</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="23">
+<j>京阪電気鉄道 - 1日の乗車人員は約3,441人（京阪電気鉄道調べ）。</j>
+<e type="trans" ver="1">Keihan Electric Railway - Number of passengers getting on at this station is approximately 3,441 per day. (Keihan Electric Railway Co., Ltd. survey)</e>
+<cmt>&quot;約&quot;でなく&quot;平均&quot;であるべきと思われます。</cmt>
+<e type="trans" ver="2">Keihan Electric Railway - The number of passengers getting on at this station is approximately 3,441 per day (Keihan Electric Railway Co., Ltd. survey).</e>
+<cmt>punctuation, article</cmt>
+<e type="check" ver="1">Keihan Electric Railway - The number of passengers boarding at this station came to approximately 3,441 per day (according to a survey by Keihan Electric Railway Co., Ltd.).</e>
+<cmt>表現統一</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="24">
+<j>JR西日本 - 1日の乗車人員は約3,282人（西日本旅客鉄道調べ）。</j>
+<e type="trans" ver="1">JR-West - Number of passengers getting on at this station is approximately 3,282 per day. (West Japan Railway Company survey)</e>
+<cmt>&quot;約&quot;でなく&quot;平均&quot;であるべきと思われます。</cmt>
+<e type="trans" ver="2">JR West - The number of passengers getting on at this station is approximately 3,282 per day (West Japan Railway Company survey).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">JR West - The number of passengers boarding at this station came to approximately 3,282 per day (West Japan Railway Company survey).</e>
+<cmt>表現統一</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="25">
+<j>ともに平成18年度の京都府統計書より。</j>
+<e type="trans" ver="1">(Source: Both from Fiscal 2006 Kyoto Prefecture Statistical Report)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Source: both from the Fiscal 2006 Kyoto Prefecture Statistical Report)</e>
+<cmt>case, article</cmt>
+<e type="check" ver="1">(Source: both from the Fiscal Year 2006 Kyoto Prefecture Statistical Report)</e>
+<cmt>Fiscal→Fiscal Year</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station surroundings</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="26">
+<j>萬福寺　黄檗宗大本山。</j>
+<e type="trans" ver="1">Manpuku-ji Temple Obaku-shu Head Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Manpuku-ji Temple Obaku-shu Head Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mampuku-ji Temple Obaku-sect Head Temple</e>
+<cmt>sectとしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="27">
+<j>許波多神社五ヶ庄の許波多神社</j>
+<e type="trans" ver="1">Kohata-jinja Shrine Kohata-jinja Shrine of Gokasho</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kohata-jinja Shrine Kohata-jinja Shrine of Gokasho</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kohata-jinja Shrine Kohata-jinja Shrine of Gokasho</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="28">
+<j>京都大学宇治キャンパス</j>
+<e type="trans" ver="1">Kyoto University Uji Campus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto University Uji Campus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto University Uji Campus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="29">
+<j>京都芸術高等学校</j>
+<e type="trans" ver="1">Kyoto Art Senior High School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Art Senior High School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Art Senior High School</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="30">
+<j>宇治市立東宇治中学校</j>
+<e type="trans" ver="1">Uji Municipal Higashiuji Junior High School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uji Municipal Higashiuji Junior High School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Uji Municipal Higashiuji Junior High School</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="31">
+<j>宇治五ヶ庄郵便局</j>
+<e type="trans" ver="1">Uji-Gokasho Post Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uji-Gokasho Post Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Uji-Gokasho Post Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="32">
+<j>京都府道7号京都宇治線</j>
+<e type="trans" ver="1">Kyoto Prefectural Highway Route No.7 Kyoto-Uji Road</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Prefectural Highway Route No. 7 Kyoto-Uji Road</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Kyoto-Uji Line of the Kyoto Prefectural Route 7</e>
+<cmt>表現統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="33">
+<j>1913年（大正2年）6月1日 京阪電鉄宇治線の駅が開業。</j>
+<e type="trans" ver="1">Inaugurated on June 1, 1913 as a station on the Uji Line of Keihan Electric Railway.</e>
+<cmt>&quot;が&quot;を&quot;として&quot;に読み替えました。</cmt>
+<e type="trans" ver="2">It was inaugurated on June 1, 1913 as a station on the Uji Line of Keihan Electric Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">June 1, 1913: It was inaugurated as a station on the Uji Line of Keihan Electric Railway.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="34">
+<j>当時の駅名は黄檗山駅。</j>
+<e type="trans" ver="1">The then name of the station was Obakusan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At that time, the station&apos;s name was Obakusan.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At that time, the station&apos;s name was Obakusan Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="35">
+<j>1926年（大正15年） 黄檗駅に改称。</j>
+<e type="trans" ver="1">Renamed Obaku Station in 1926.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was renamed Obaku Station in 1926.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">1926: The station was renamed Obaku Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="36">
+<j>1943年（昭和18年）10月1日 会社合併により京阪神急行電鉄（阪急電鉄）の駅となる。</j>
+<e type="trans" ver="1">Became a Keihanshin-kyuko-dentsu (Hankyu Corporation) station on Oct. 1, 1943 as a result of amalgamation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It became a Keihanshin-kyuko-dentsu (Hankyu Corporation) station on Oct. 1, 1943 as a result of amalgamation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 1, 1943: It became a Keihanshin-kyuko-dentsu (Hankyu Corporation) station as a result of amalgamation.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="37">
+<j>1949年（昭和24年）12月1日 会社分離により京阪電気鉄道の駅となる。</j>
+<e type="trans" ver="1">Became a Keihan Electric Railway station　on Dec. 1, 1949 as a result of corporate severance.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It became a Keihan Electric Railway station on Dec. 1, 1949 as a result of corporate severance.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">December 1, 1949: It became a Keihan Electric Railway station as a result of corporate severance.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="38">
+<j>1961年（昭和36年）4月21日 日本国有鉄道奈良線の駅が開業。</j>
+<e type="trans" ver="1">Inaugurated as a Japanese National Railways Nara Line station on April 1, 1961.</e>
+<cmt>&quot;が&quot;を&quot;として&quot;に読み替えました。</cmt>
+<e type="trans" ver="2">It was inaugurated as a Japanese National Railways Nara Line station on April 1, 1961.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 1961: It was inaugurated as a Japan National Railways Nara Line station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="39">
+<j>1987年（昭和62年）4月1日 国鉄分割民営化により、国鉄の駅がJR西日本の駅となる。</j>
+<e type="trans" ver="1">Japan National Railways station became a West Japan Railway Company station on April 1, 1987 as a result of split privatization of Japan National Railways.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Japan National Railways station became a West Japan Railway Company station on April 1, 1987 as a result of the split privatization of Japan National Railways.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 1987: Japan National Railways station became a West Japan Railway Company station as a result of the split privatization of Japan National Railways.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="40">
+<j>1999年（平成11年）9月27日 京阪宇治行きホームに車イス対応トイレを設置、使用開始。</j>
+<e type="trans" ver="1">A wheelchair compatible restroom installed on platform for Keihan Uji and became usable on Sept. 27, 1999.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A wheelchair-compatible restroom was installed on platform for Keihan Uji and became operational on Sept. 27, 1999.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">September 27, 1999: A wheelchair-compatible restroom was installed on the platform for Keihan Uji and became operational.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="41">
+<j>2002年（平成14年）3月11日 京阪宇治行きホームに転落検知マットとホーム異常通報装置が設置される</j>
+<e type="trans" ver="1">Tumbling off detection mat and platform abnormalcy communication unit installed on the platform for Uji on March 11, 2002.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A tumbling-off detection mat and platform abnormality communication unit were installed on the platform for Uji on March 11, 2002.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">March 11, 2002: A tumbling-off detection mat and platform abnormality communication unit were installed on the platform for Keihan Uji.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Neighboring stations</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="42">
+<j>京阪電気鉄道</j>
+<e type="trans" ver="1">Keihan Electric Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="43">
+<j>宇治線（全列車が各駅に停車）</j>
+<e type="trans" ver="1">Uji Line (all trains stop at each station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uji Line (all trains stop at each station)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Uji Line (all trains stop at each station)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="44">
+<j>木幡駅 (京阪) - 黄檗駅 - 三室戸駅</j>
+<e type="trans" ver="1">Kohata Station (Keihan) - Obaku Station -Mimurodo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kohata Station (Keihan) - Obaku Station -Mimurodo Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kohata Station (Keihan) - Obaku Station -Mimurodo Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="45">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Railway Company</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>(JR West)追加</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="46">
+<j>■奈良線</j>
+<e type="trans" ver="1">■Nara Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Nara Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Nara Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="47">
+<j>■みやこ路快速・■快速・■区間快速</j>
+<e type="trans" ver="1">■Miyakoji rapid train・■Rapid service・■Regional rapid</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Miyakoji rapid train・■Rapid service・■Regional rapid</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Miyakoji Rapid Service/■Rapid Service/■Regional Rapid Service</e>
+<cmt>表現統一・を/に変更しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="48">
+<j>通過</j>
+<e type="trans" ver="1">Nonstop</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nonstop</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nonstop</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="49">
+<j>■普通</j>
+<e type="trans" ver="1">■Local</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Local</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Local</e>
+<cmt>表現統一</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="50">
+<j>木幡駅 (JR西日本) - 黄檗駅 - 宇治駅 (JR西日本)</j>
+<e type="trans" ver="1">Kohata Station (JR-West) - Obaku Station - Uji Ｓｔａｔｉｏｎ (JR-West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kohata Station (JR-West) - Obaku Station - Uji Ｓｔａｔｉｏｎ (JR-West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kohata Station (JR West) - Obaku Station - Uji Ｓｔａｔｉｏｎ (JR West)</e>
+<cmt>(JR West)としました</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), Nnh(id:474), Hikichimin Jr.(id:147077), Yuta415(id:149253), 天然ガス(id:98149), Minamyon(id:11736), UE-PON2600(id:18149), Kagoya(id:9458), KARS(id:43022), Ikaxer(id:61759), Utsuda(id:605), Fjord(id:15599), Rusk(id:9895), Sunen(id:10700), 準急三条(id:25072), Bandalgom(id:31841), Kouchiumi(id:19253), 金山銀山銅山(id:163855), R28Bot(id:177951), Unamu(id:14627), Alay(id:37659), 鍛高譚(id:154933), Kone(id:377), Hirotaro(id:1437), 扇風機のせんちゃん(id:161810), 210.(id:9838), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

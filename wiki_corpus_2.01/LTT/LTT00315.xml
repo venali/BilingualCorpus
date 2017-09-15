@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>古来風体抄</j>
+<e type="trans" ver="1">Koraifuteisho</e>
+<cmt></cmt>
+<e type="trans" ver="2">Korai Futeisho</e>
+<cmt>split the word into two for easier reading</cmt>
+<e type="check" ver="1">Korai Futeisho</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>古来風体抄（こらいふうていしょう）は、鎌倉時代初期に成立した歌学書。</j>
+<e type="trans" ver="1">Koraifuteisho is a textbook on poetry that was established in the beginning of the Kamakura period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Korai Futeisho is a textbook on poetry that was completed during the early Kamakura period.</e>
+<cmt>&quot;established&quot; does not quite sound natural here, so I changed it to &quot;completed&quot;; fixed to read more naturally</cmt>
+<e type="check" ver="1">Korai Futeisho is a textbook on poetry that was completed during the early Kamakura period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>初撰本（1197年成立）と再撰本（1201年成立）がある。</j>
+<e type="trans" ver="1">There is an initial edition(established 1197) and a revised edition (established 1201).</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is an initial edition (completed in 1197) and a revised edition (completed in 1201).</e>
+<cmt>changed &quot;established&quot; to &quot;completed&quot; in both cases</cmt>
+<e type="check" ver="1">There is an initial edition (completed in 1197) and a revised edition (completed in 1201).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>初撰本は後白河院の皇女である式子内親王（1149年－1201年）が、公卿で歌人の藤原俊成（1114年－1204年）に依頼して執筆されたものとされる。</j>
+<e type="trans" ver="1">The initial edition is said to have been written by the courtier and poet, FUJIWARA no Toshinari at the request of Imperial Princess Shikishi (1149-1201), a princess of Cloistered Emperor Goshirakawain.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The initial edition is said to have been written by the courtier and poet, FUJIWARA no Toshinari at the request of Imperial Princess Shikishi (1149-1201) who was a princess of Cloistered Emperor Goshirakawain.</e>
+<cmt>replaced comma with &quot;who was&quot;</cmt>
+<e type="check" ver="1">The initial edition is said to have been written by the courtier and poet, FUJIWARA no Toshinari (1114 - 1204) at the request of Imperial Princess Shikishi (1149 - 1201) who was a princess of Cloistered Emperor Goshirakawa.</e>
+<cmt>Goshirakawa としました（in は削除）。生没年を追加しました。</cmt>
+</sen>
+<sen id="4">
+<j>再撰本も式子内親王の依頼によるものとみられている。</j>
+<e type="trans" ver="1">The revised edition is also thought to have been written at the request of Imperial Princess Shikishi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is believed that the revised edition was also written upon the request of Imperial Princess Shikishi.</e>
+<cmt>fixed to read more naturally</cmt>
+<e type="check" ver="1">It is believed that the revised edition was also written upon the request of Imperial Princess Shikishi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>なお、初撰本と再撰本との間には初撰本を改稿したとみられる撰本が残されている。</j>
+<e type="trans" ver="1">In between the initial and revised edition, there is an edition that seems to have been a modification of the initial edition.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Between the initial and revised editions, there is another edition that seems to have been a modification of the initial edition.</e>
+<cmt>for なお changed &quot;an&quot; to &quot;another&quot;;</cmt>
+<e type="check" ver="1">Between the initial and revised editions, there is another edition that seems to have been a modification of the initial edition.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>万葉集から191首、千載和歌集までの勅撰和歌集から395首（再撰本では398種）を抄出している。</j>
+<e type="trans" ver="1">The book is a selection of 191 poems from the Manyoshu and 395 poems (398 poems in the revised edition) fromimperial waka poem anthologies up to the Sensaiwakashu with a history of waka poems and teaches that waka poems reveal the true characteristics of the target of the poem.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The book has a selection of 191 poems from the Manyoshu, and 395 poems (398 poems in the revised edition) from Imperial waka poem anthologies up to the Sensai Wakashu, with a history of waka poems. The textbook teaches that waka poems reveal the true characteristics of the target of the poem.</e>
+<cmt>I could not comfortably keep this as one sentence, so I split it into two and fixed the grammar accordingly</cmt>
+<e type="check" ver="1">The book has a selection of 191 poems from the Manyoshu (Collection of Ten Thousand Leaves), and 395 poems (398 poems in the revised edition) from Imperial waka poem anthologies up to the Senzai Wakashu (Collection of Japanese Poems of a Thousand Years), with a history of waka poems.</e>
+<cmt>NCのコメントにより、原文を分けました。万葉集、千載和歌集　の補足を追加しました。</cmt>
+</sen>
+<sen id="7">
+<j>和歌の歴史を述べるとともに、和歌を詠むことは題材の対象の本性を明らかにするということであるとしている。</j>
+<e type="trans" ver="1"></e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The textbook teaches that waka poems reveal the true characteristics of the target of the poem.</e>
+<cmt>NCのコメントにより、原文を分けました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Ai yuto(id:97523), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

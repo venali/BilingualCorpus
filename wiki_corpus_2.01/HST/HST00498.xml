@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>太政官牒</j>
+<e type="trans" ver="1">Daijokancho</e>
+<cmt></cmt>
+<e type="trans" ver="2">Daijokancho</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Daijokancho</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>太政官牒（だいじょうかんちょう）とは、太政官から僧綱・寺社などの直接管理下にない組織に対して送付する公文書のこと。</j>
+<e type="trans" ver="1">Daijokancho are official documents sent from Daijokan to organizations which were not under its direct control such as sogo and Buddhist temples.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Daijokancho are official documents sent from Daijokan to organizations not under its direct control such as sogo and Buddhist temples.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Daijokancho are official documents sent from Daijokan to organizations not under its direct control such as sogo and Buddhist temples.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>単に官牒（かんちょう）とも称する。</j>
+<e type="trans" ver="1">It is also called simply &quot;kancho&quot;.</e>
+<cmt>[定訳不明]</cmt>
+<e type="trans" ver="2">It is also called simply &quot;kancho&quot;.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also called simply &quot;kancho.&quot;</e>
+<cmt>ピリオド位置移動</cmt>
+</sen>
+<sen id="3">
+<j>平安時代に盛んに用いられた。</j>
+<e type="trans" ver="1">Daijokancho were actively used in Heian period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Daijokancho were actively used during the Heian period.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Daijokancho were actively used during the Heian period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>牒は、公式令 (律令制)においては主典以上の官人が官司に対して上申する際に用いられる文書形式であったが、後に僧綱や寺社と官司とが文書の遣り取りを行う際にも用いられるようになった。</j>
+<e type="trans" ver="1">Cho was at first a kind of document used in kushikiryo (according to he Ritsuryo system) when a low- or medium-ranked government official higher than sakan submitted a petition to a higher government official, it was later used as texts exchanged between the office of Monastic affairs or Buddhist temples and a government official.</e>
+<cmt>牒　[定訳不明]</cmt>
+<e type="trans" ver="2">Cho was at first a kind of document used in kushikiryo (according to he Ritsuryo system) when a low- or medium-ranked government official higher than sakan submitted a petition to a higher government official, it was later used as texts exchanged between the office of Monastic affairs or Buddhist temples and a government official.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Cho was at first a kind of document used in kushikiryo (according to he Ritsuryo system) when a low- or medium-ranked government official higher than sakan submitted a petition to a higher government official, it was later used as texts exchanged between the office of Monastic affairs or Buddhist temples and a government official.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>太政官からの命令は通常は太政官符が用いられるが、寺社とは直接的な被官関係を有しないために太政官符よりも命令色の薄い太政官牒が替わりに用いられた。</j>
+<e type="trans" ver="1">While daijokanpu was normally used to send a daijokan&apos;s order, daijokancho, a less imperative document, was used to send it to Buddhist temples because daijokan did not have a direct vassal relationship with Buddhist temples.</e>
+<cmt>被官関係　http://ci.nii.ac.jp/naid/110002369271/; http://eow.alc.co.jp/vassal/UTF-8/</cmt>
+<e type="trans" ver="2">While daijokanpu was normally used to send a daijokan&apos;s order, daijokancho, a less imperative document, was used to send it to Buddhist temples because daijokan did not have a direct vassal relationship with Buddhist temples.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">While daijokanpu was normally used to send a daijokan&apos;s order, daijokancho, a less imperative document, was used to send it to Buddhist temples because daijokan did not have a direct vassal relationship with Buddhist temples.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>差出相手の下と本文冒頭において「牒」という1文字をそれぞれに加え、更に書止には「故牒」の文字が加えられ、日付の次に太政官牒を作成した弁官と史 (律令制)が署名が記された。</j>
+<e type="trans" ver="1">A letter &quot;cho&quot; was placed under a sender and at the beginning of a text, the text was closed by letters &quot;kocho&quot; and the date was followed by the signatures of the benkan and recorder (ritsuryo system) who made the dajokancho.</e>
+<cmt>史　http://www.albany.edu/eas/205/rank%20chart.htm</cmt>
+<e type="trans" ver="2">A letter &quot;cho&quot; was placed under a sender and at the beginning of a text, the text was closed by letters &quot;kocho&quot; and the date was followed by the signatures of the benkan and recorder (ritsuryo system) who made the dajokancho.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A letter &apos;cho&apos; was placed under a sender and at the beginning of a text, the text was closed by letters &apos;kocho&apos; and the date was followed by the signatures of the benkan and recorder (ritsuryo system) who made the dajokancho.</e>
+<cmt>&quot;→&apos;</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

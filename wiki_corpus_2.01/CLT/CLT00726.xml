@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>枕草子絵詞</j>
+<e type="trans" ver="1">Makura no Soshi Ekotoba (Picture scrolls of scenes from the Pillow Book of Sei Shonagon)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Makura no Soshi Ekotoba (Picture scrolls of scenes from the Pillow Book of Sei Shonagon)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Makura no Soshi Ekotoba (Picture scrolls of scenes from the Pillow Book of Sei Shonagon)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>枕草子絵詞（まくらのそうしえことば）は、『枕草子』の日記章段の印象的な場面を抽出して絵画化した絵巻。</j>
+<e type="trans" ver="1">&quot;Makura no Soshi Ekotoba&quot; refers to the picture scrolls on which impressive scenes selected from the passages in the diary of &quot;Makura no Soshi&quot; (The Pillow Book) were depicted.</e>
+<cmt>「章段(長い文章の中の一区切り(http://kotobank.jp/word/%E7%AB%A0%E6%AE%B5))」または「段」: 26行目の「第83段…」として用語集に登録されている表現で「passage」が用いられており、また、24行目の「章段」は、26行目以下の「段」と同義で用いられているため、「章段」「段」は「passage」と訳しています。尚、「「章段」「段」には「段落」の意味もありますが、枕草子のテキスト(http://hysmt.hp.infoseek.co.jp/koten.html等)を見ると、「第…段」として表記されている部分は、必ずしも、現在の「段落(冒頭で、1文字分の空白を空けて表される、文の中の一区切り)」とは一致しないため、「paragraph」等は採用していませんが、「passage」が不適切な場合は「section」等の単語も考えられると思います。</cmt>
+<e type="trans" ver="2">&quot;Makura no Soshi Ekotoba&quot; refers to the picture scrolls on which impressive scenes selected from the passages in the diary of &quot;Makura no Soshi&quot; (The Pillow Book) were depicted.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;Makura no Soshi Ekotoba&quot; refers to the picture scrolls on which impressive scenes selected from the passages in the diary of &quot;Makura no Soshi&quot; (The Pillow Book) were depicted.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>枕草子絵巻（まくらのそうしえまき）とも言う。</j>
+<e type="trans" ver="1">It is also called Makura no Soshi Emaki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also called Makura no Soshi Emaki.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also called Makura no Soshi Emaki.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>個人蔵、重要文化財。</j>
+<e type="trans" ver="1">It is a private collection designated as the important cultural property.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a private collection designated as an important cultural property.</e>
+<cmt>articles</cmt>
+<e type="check" ver="1">It is a private collection designated as an important cultural property.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>鎌倉時代末期、14世紀の初頭に成立。</j>
+<e type="trans" ver="1">It was created at the end of the Kamakura period (the beginning of the 14th century).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was created at the end of the Kamakura period (the beginning of the 14th century).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was created at the end of the Kamakura period (the beginning of the 14th century).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>現存は一巻、詞・絵各七段のみである。</j>
+<e type="trans" ver="1">Only one scroll including captions and pictures in seven passages exists today.</e>
+<cmt>一原文一訳文の例外対処 / 詞・絵各七段: 「段」は文の一部であり、「絵」に「段」はないため、正しくは「七つの段における詞(ここでは詞書(絵巻物の絵に添えられた説明文: caption))と、(それに対応する)絵」だと思います。しかし、「現存する章段」以下で「第…段」として記載されている段は6段なので、「七段」は正しくありませんが、「第83段」に「2場面」が含まれるため、正しくは「7つの場面を表した詞と絵」を指すと思います。しかし、指示書に「意味がおかしいときも、あえてそのままの内容で翻訳する」とあるため、「七つの段における詞と絵」と訳しています。もし「7つの場面を表した詞と絵」で訳出可能ならば、「captions and pictures in seven passages」は「captions and pictures for seven scenes」等に置き換えられると思います。</cmt>
+<e type="trans" ver="2">Only one scroll, including captions and pictures in seven passages, remains today.</e>
+<cmt>exists-&gt;remains</cmt>
+<e type="check" ver="1">Only one scroll, including captions and pictures in seven passages, remains today.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>『看聞御記』（永享十年十二月三日条、時に西暦1438年）に「清少納言枕草子絵二巻」とある。</j>
+<e type="trans" ver="1">The section of December 28, 1438 in &quot;Kanmongyoki&quot; (Diary of Imperial Prince Fushimi no miya Sadafusa) includes the phrase &apos;two picture scrolls of scenes from the Pillow Book of Sei Shonagon.&apos;</e>
+<cmt>一原文一訳文の例外対処 / 看聞御記: 「看聞日記」の別称(http://dictionary.goo.ne.jp/leaf/jn/42625/m0u/)。用語集では「Kanmonngyoki」のみの登録ですが、説明が必要と思われるため、カッコ内に「看聞日記」として登録されている用語の説明を補足しています。/ 日付は新暦で表記しています。</cmt>
+<e type="trans" ver="2">The entry for December 28, 1438, in &quot;Kanmongyoki&quot; (Diary of Imperial Prince Fushimi no miya Sadafusa) includes the phrase &apos;two picture scrolls of scenes from the Pillow Book of Sei Shonagon.&apos;</e>
+<cmt>section of-&gt;entry for; punctuation</cmt>
+<e type="check" ver="1">The entry for December 28, 1438, in &quot;Kanmongyoki&quot; (Diary of Imperial Prince Fushimi no miya Sadafusa) includes the phrase &apos;two picture scrolls of scenes from the Pillow Book of Sei Shonagon.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>現存本はその残闕といわれる。</j>
+<e type="trans" ver="1">The currently existing edition is said to be zanketsu (incomplete remains) of these scrolls.</e>
+<cmt>一原文一訳文の例外対処 / 現存本: 定訳不明</cmt>
+<e type="trans" ver="2">The extant edition is said to be a fragment of these scrolls.</e>
+<cmt>currently existing-&gt;extant; zanketsu (incomplete remains)-&gt;fragment</cmt>
+<e type="check" ver="1">The extant edition is said to be a fragment of these scrolls.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>詞書に藍色の雲形文様を四隅に漉き込んだ料紙を使っている。</j>
+<e type="trans" ver="1">Kotobagaki (captions) are written on ryoshi (paper for writing) into which indigo kumogata monyo (a cloud shape) are put on four corners.</e>
+<cmt>一原文一訳文の例外対処(1/27に頂いたメールに従い、分割処理しています) / 雲形文様: 用語集には「kumogata moyo (a cloud shape)」と登録されていますが、正しくは「もんよう」なので、本文では「monyo」と表記しています(これだと「もにょう」と発音されてしまいますが、指示書や用語統一リストの指示に従った表記にしております。「mon yo」と表記すれば、発音の問題は解決しますが、指示書に反する恐れがあるため、本文では採用しておりません。</cmt>
+<e type="trans" ver="2">Captions are written on paper into which cloud shapes are drawn in indigo on four corners.</e>
+<cmt>removed Japanese words which were left in here for some reason that is not clear to me</cmt>
+<e type="check" ver="1">Captions are written on paper into which cloud shapes are drawn in indigo on four corners.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>金銀泥で下絵を施してある。</j>
+<e type="trans" ver="1">Rough designs are drawn with gold and silver paint on the paper.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Rough designs are drawn with gold and silver paint on the paper.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rough designs are drawn with gold and silver paint on the paper.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>本文は三巻本系統。</j>
+<e type="trans" ver="1">The text is based on the three-scroll manuscript line.</e>
+<cmt>一原文一訳文の例外対処 / 三巻本系統: 定訳不明。「三巻本」は枕草子の写本の系統のひとつです。</cmt>
+<e type="trans" ver="2">The text is based on the three-scroll manuscript line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The text is based on the three-scroll manuscript line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>書風は伏見天皇の二人の男性の筆と見られる。</j>
+<e type="trans" ver="1">Judged from the calligraphic style, the text seems to have been written by two men who belonged to the Fushimi-in school of calligraphy.</e>
+<cmt>一原文一訳文の例外対処: 伏見天皇の二人の男性: 意味が通じないので、Webで確認すると「伏見院流(伏見天皇を祖とする書道の流派)の二人の男性」となっており、本来はこちらの用語を使用していると思われますので、こちらを訳出しました。</cmt>
+<e type="trans" ver="2">Judging from the calligraphic style, the text seems to have been written by two men who belonged to the Fushimi-in school of calligraphy.</e>
+<cmt>judged-&gt;judging</cmt>
+<e type="check" ver="1">Judging from the calligraphic style, the text seems to have been written by two men who belonged to the Fushimi-in school of calligraphy.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>後光厳天皇をその一に当てる説もある。</j>
+<e type="trans" ver="1">Some insist that one of them was Emperor Gokogon.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Some insist that one of them was Emperor Gokogon.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some insist that one of them was Emperor Gokogon.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>絵の方は女筆である。</j>
+<e type="trans" ver="1">The pictures seem to have been painted with brushes by a woman.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The pictures seem to have been painted with brushes by a woman.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The pictures seem to have been painted with brushes by a woman.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>伏見院皇女進子内親王の説もあるが不詳。</j>
+<e type="trans" ver="1">One theory has it that Emperor Fushimi&apos;s Princess Shinshi painted them, but the painter has not yet been identified.</e>
+<cmt>一原文一訳文の例外対処 / 伏見院皇女進子内親王: 伏見天皇の皇女(http://kotobank.jp/word/%E9%80%B2%E5%AD%90%E5%86%85%E8%A6%AA%E7%8E%8B)ですが、定訳は不明です。用語集の「後伏見天皇皇女珣子内親王(Emperor Gofushimi&apos;s Princess Junshi)」を参考にして、訳出しています。</cmt>
+<e type="trans" ver="2">One theory has it that Emperor Fushimi&apos;s Princess Shinshi painted them, but the painter has not yet been identified.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">One theory has it that Emperor Fushimi&apos;s Princess Shinshi painted them, but the painter has not yet been identified.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>ほぼ単色の墨絵で、僅かに唇に朱色を点した。</j>
+<e type="trans" ver="1">The pictures, which are classified as Japanese ink painting, are monochromatic except the parts where lips were painted in Shu-iro (Empire red).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The pictures, which are classified as Japanese ink painting, are monochromatic except the parts where lips were painted in Shu-iro (Empire red).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The pictures, which are classified as Japanese ink painting, are monochromatic except the parts where lips were painted in Shu-iro (Empire red).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>人物の輪郭には細い墨の線を、髪や調度品には濃い焦墨を使いわけた。</j>
+<e type="trans" ver="1">As different kinds of ink or painting technique were chosen for the most appropriate part, a contour of a human body was drawn with a thin line in black ink, and hairs and furnishing goods were painted in dark shoboku ink.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">As different kinds of ink or painting technique were chosen for the most appropriate part, a contour of a human body was drawn with a thin line in black ink, and hairs and furnishing goods were painted in dark shoboku ink.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As different kinds of ink or painting technique were chosen for the most appropriate part, a contour of a human body was drawn with a thin line in black ink, and hairs and furnishing goods were painted in dark shoboku ink.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>吹抜屋台・引目鉤鼻の技法を用いた。</j>
+<e type="trans" ver="1">The following techniques were used; the compositional technique used to depict a residential interior, which involves rendering a building without a roof and ceiling so that the viewer looks inside from above; the technique of hikime-kagihana (line for an eye, hook for a nose).</e>
+<cmt>一原文一訳文の例外対処 / 吹抜屋台: 用語集に登録されている表現は2文ですが、1つの文の中に収めるために、関係代名詞を用いて少し変更しています。/ 引目鉤鼻: 定訳は不明ですが、用語集に登録されている説明「drawn-line eyes and a hook-shaped nose」の「drawn-line eyes」は検索で見つかりませんので、「http://books.google.com/books?id=FogSFWDe0hUC&amp;pg=PA114&amp;lpg=PA114&amp;dq=%22hikime+kagibana%22&amp;source=bl&amp;ots=93ORYQ18Nx&amp;sig=klKC5PcwImqIWjoolkG3L5p1qoI&amp;hl=ja&amp;ei=GHlMS8LnL4H-7AOxkomBDA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CBYQ6AEwAzgK#」等、複数のサイトに掲載されている説明を採用しています。</cmt>
+<e type="trans" ver="2">The following techniques were used: the compositional technique used to depict a residential interior, which involves rendering a building without a roof and ceiling so that the viewer looks inside from above; the hikime-kagihana technique (line for an eye, hook for a nose).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The following techniques were used: the compositional technique used to depict a residential interior, which involves rendering a building without a roof and ceiling so that the viewer looks inside from above; the hikime-kagihana technique (line for an eye, hook for a nose).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>構図は精巧にして無機的である。</j>
+<e type="trans" ver="1">Its elaborate composition gives an inorganic impression.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Its elaborate composition gives an inorganic impression.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Its elaborate composition gives an inorganic impression.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>白描大和絵の典型とされる。</j>
+<e type="trans" ver="1">The pictures are regarded as a type of Hakubyo Yamato-e Painting (the traditional Japanese painting of the late Heian and Kamakura period using mainly sumi ink).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The pictures are regarded as a type of Hakubyo Yamato-e Painting (the traditional Japanese painting of the late Heian and Kamakura period using mainly sumi ink).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The pictures are regarded as a type of Hakubyo Yamato-e Painting (the traditional Japanese painting of the late Heian and Kamakura period using mainly sumi ink).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="20">
+<j>現存する章段</j>
+<e type="trans" ver="1">The existing passages</e>
+<cmt></cmt>
+<e type="trans" ver="2">The extant passages</e>
+<cmt>existing-&gt;extant</cmt>
+<e type="check" ver="1">The extant passages</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>章段の序列は流布本による。</j>
+<e type="trans" ver="1">The following order of the passages is based on that of rufu-bon (widely circulated edition).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following order of the passages is based on that of the widely circulated edition.</e>
+<cmt>removed “rufu-bon”</cmt>
+<e type="check" ver="1">The following order of the passages is based on that of the widely circulated edition.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="22">
+<j>第83段「職の御曹司におはしますころ、西の廂に」（二場面）</j>
+<e type="trans" ver="1">Passage 83 &apos;Shiki no mizoshi ni owashimasukoro, nishi no hisashi ni&apos; (83 When her majesty was residing in a room of the office, at the western part..) (two scenes)</e>
+<cmt>定訳不明 / 職: 律令制における、省の下の役所名(http://kotobank.jp/word/%E8%81%B7) / 御曹司: 官所などに設けられた部屋(http://gogen-allguide.com/o/onzoushi.html) / 上記に合わせて用語集の表現を訂正しています。/ 廂: 寝殿造りなどで、母屋(もや)の外側に付加された細長い下屋(げや)部分(http://www.excite.co.jp/dictionary/japanese/?search=%E5%BB%82&amp;match=beginswith&amp;itemid=16965100) / 英語では主節の一部である「西の廂に」が「at the western part...」で終わっているのは、不完全で不自然な感じがしますが、指示書で「原文にある情報のみにとどめる」と指示されており、用語集でもこのように表記されているので、それに従っています。</cmt>
+<e type="trans" ver="2">Passage 83 &apos;When her majesty was residing in a room of the office, at the western part...&apos; (two scenes)</e>
+<cmt>I couldn&apos;t think of any reason the have the transliteration in here</cmt>
+<e type="check" ver="1">Passage 83 &apos;When her majesty was residing in a room of the office, at the western part...&apos; (two scenes)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>第89段「無名といふ琵琶の御琴」</j>
+<e type="trans" ver="1">Passage 89 &apos;Mumyo to iu biwa no mikoto&apos; (89 A biwa (Japanese lute) given by the Emperor is called mumyo (no name))</e>
+<cmt>定訳不明 / 御琴: 読みは「みこと」「おこと」等と推測されますが、確認は取れませんでした。「天皇から賜った弦楽器」という意味で、ここでは琴ではなく、琵琶を指すようです(http://kokugonobenkyou.net/kobun/2009/03/post-985.html)。</cmt>
+<e type="trans" ver="2">Passage 89 &apos;A lute given by the Emperor is called anonymous&apos;</e>
+<cmt>I couldn&apos;t think of any reason the have the transliteration in here</cmt>
+<e type="check" ver="1">Passage 89 &apos;A lute given by the Emperor is called anonymous&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>第100段「淑景舎、春宮にまゐり給ふ」</j>
+<e type="trans" ver="1">Passage 100 &apos;Shigeisha shunkyu ni mairi tamou&apos; (100 When the Lady of Shigeisha entered the Crown Prince&apos;s Palace)</e>
+<cmt>定訳不明 / 用語集には「passage 100 &quot;Shigeisha Togu ni&quot; (100 When the Lady of Shigei sha entered the Crown Prince&apos;s Palace)」と登録されていますが、「春宮」の読みは「しゅんきゅう(http://www.excite.co.jp/dictionary/japanese/?search=%E6%98%A5%E5%AE%AE&amp;match=beginswith&amp;itemid=09656100)」または「はるのみや」であり、「まゐり給ふ」が抜けているため、左のように訂正しています。</cmt>
+<e type="trans" ver="2">Passage 100 &apos;When the Lady of Shigeisha entered the Crown Prince&apos;s Palace&apos;</e>
+<cmt>I couldn&apos;t think of any reason the have the transliteration in here</cmt>
+<e type="check" ver="1">Passage 100 &apos;When the Lady of Shigeisha entered the Crown Prince&apos;s Palace&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>第123段「八幡の行幸」</j>
+<e type="trans" ver="1">Passage 123 &apos;Hachiman no gyoko&apos; (123 Emperor&apos;s visit to Hachiman-gu Shrine)</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">Passage 123 &apos;Emperor&apos;s visit to Hachiman-gu Shrine&apos;</e>
+<cmt>I couldn&apos;t think of any reason the have the transliteration in here</cmt>
+<e type="check" ver="1">Passage 123 &apos;Emperor&apos;s visit to Hachiman-gu Shrine&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>第130段「故殿の御ために」</j>
+<e type="trans" ver="1">Passage 130 &apos;Kotono no otame ni&apos; (130 For the lord who passed away)</e>
+<cmt>定訳不明 /故殿: 清少納言が仕えていた中宮定子の父、藤原道隆を指します(http://dictionary.sanseido-publ.co.jp/wp/author/akama/)。道隆は関白の座に就いていましたが、摂関政治における関白は事実上の権限代行者なので、実質的な支配者という意味で「lord」と訳しました。/ 御ために: 読み方の確認が取れませんが、「おために」として訳しております。</cmt>
+<e type="trans" ver="2">Passage 130 &apos;For the lord who passed away&apos;</e>
+<cmt>I couldn&apos;t think of any reason the have the transliteration in here</cmt>
+<e type="check" ver="1">Passage 130 &apos;For the lord who passed away&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>第132段「五月ばかりに、月もなくいとくらき夜」</j>
+<e type="trans" ver="1">Passage 132 &apos;Satsuki bakari ni, tsuki mo naku ito kuraki yoru&apos; (132 A very dark night without the moon in May)</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">Passage 132 &apos;A very dark night without the moon in May&apos;</e>
+<cmt>I couldn&apos;t think of any reason the have the transliteration in here</cmt>
+<e type="check" ver="1">Passage 132 &apos;A very dark night without the moon in May&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Yume149(id:17504), Izayohi(id:13095), Mooko(id:36162), Urania(id:7213), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

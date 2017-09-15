@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>十条駅 (近鉄)</j>
+<e type="trans" ver="1">Jujo Station (Kintetsu)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jujo Station (Kintetsu)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jujo Station (Kintetsu)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>十条駅（じゅうじょうえき）は、京都府京都市南区 (京都市)西九条柳の内町にある、近畿日本鉄道近鉄京都線の鉄道駅。</j>
+<e type="trans" ver="1">Jujo Station (Jujo-eki), located in Yanaginouchi-cho, Nishi-Kujo, Minami Ward, Kyoto City, Kyoto Prefecture, is a railway station on the Kintetsu Kyoto Line of Kintetsu Corporation.</e>
+<cmt>近畿日本鉄道→ Kintetsu Corporation [http://www.kintetsu.jp]</cmt>
+<e type="trans" ver="2">Jujo Station (Jujo-eki), located in Yanaginouchi-cho, Nishi-Kujo, Minami Ward, Kyoto City, Kyoto Prefecture, is a railway station on the Kintetsu Kyoto Line of Kintetsu Corporation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jujo Station, located in Yanaginouchi-cho, Nishi-Kujo, Minami Ward, Kyoto City, Kyoto Prefecture, is a railway station on the Kintetsu Kyoto Line, which is operated by Kintetsu Corporation.</e>
+<cmt>Jujo eki を削除しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>駅構造</j>
+<e type="trans" ver="1">Station structure</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="3">
+<j>島式1面2線のホームを持つ高架駅。</j>
+<e type="trans" ver="1">It is an elevated station equipped with a one-side and two-tracked island platform.</e>
+<cmt>島式→island platform [http://yougo.rtri.org.jp/dic/]、高架駅→elevated station [http://yougo.rtri.org.jp/dic/]</cmt>
+<e type="trans" ver="2">It is an elevated station equipped with a one-side, two-track island platform.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is an elevated station equipped with a one-side, two-track island platform.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>6両編成対応。</j>
+<e type="trans" ver="1">It admits 6-car trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It admits six-car trains.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It admits six-car trains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>改札・コンコースは1階、ホームは2階にある。</j>
+<e type="trans" ver="1">The ticket examination facility and concourse are on the 1st floor and the platform is on the 2nd floor</e>
+<cmt>改札→ticket examination facility [http://yougo.rtri.org.jp/dic/]、コンコース→concourse [http://yougo.rtri.org.jp/dic/]</cmt>
+<e type="trans" ver="2">The ticket examination facility and concourse are on the first floor, and the platform is on the second floor.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">The ticket examination facility and concourse are on the first floor, and the platform is on the second floor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>改札口は1ヶ所のみ。</j>
+<e type="trans" ver="1">It has only one ticket barrier.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It has only one ticket barrier.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It has only one ticket gate.</e>
+<cmt>barrier →gate　としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>なお自動改札機は東芝製が設置されている。</j>
+<e type="trans" ver="1">Automatic ticket gates made by Toshiba are installed.</e>
+<cmt>自動改札機→Automatic ticket gate [http://yougo.rtri.org.jp/dic/]</cmt>
+<e type="trans" ver="2">The automatic ticket gates were manufactured by Toshiba.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The automatic ticket gates were manufactured by Toshiba.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>赤い自動改札機（EG-2000）は出場時2枚一括処理、PiTaPa・ICOCAに対応する。</j>
+<e type="trans" ver="1">A red colored automatic ticket gate (EC-2000) has 2-ticket processing function at outgoing ticket usage check, and accepts PiTaPa and ICOCA.</e>
+<cmt>出場時→定訳不明「鉄道技術用語辞典(自動改札機の入出場検査→ticket usage check) http://yougo.rtri.org.jp/dic/をもとに、at outgoing ticket usage checkとしました]、2枚一括処理→ (2-ticket processing function [東芝文献（東芝レビュー）：http://www.toshiba.co.jp/tech/review/2000/01/f01.pdf]</cmt>
+<e type="trans" ver="2">A red-colored automatic ticket gate (EC-2000) has the two-ticket processing function at outgoing ticket usage check, and it accepts PiTaPa and ICOCA cards.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The red-colored ticket gates (EG-2000) can handle two IC cards at a time when a passenger is exiting, and PiTaPa Card and ICOCA, both of which are IC cards, are available for payment of railway fares at this ticket gate.</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization situation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Statistics of usage</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="10">
+<j>2005年11月8日の調査結果によると、1日の利用客は4,731人。</j>
+<e type="trans" ver="1">According to the survey made in November 8, 2005, the number of the users a day was 4731.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to a survey conducted on November 8, 2005, the number of users was 4,731.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">According to a survey conducted on November 8, 2005, the number of users was 4,731.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="11">
+<j>近鉄の全調査対象駅（323駅、但し調査当時の数）中、123位。</j>
+<e type="trans" ver="1">This is the 123rd position out of all the stations of Kintetsu Railway targeted by the survey (323 stations, as of the date of survey).</e>
+<cmt>近鉄→Kintetsu Railway [http://www.kintetsu.jp]</cmt>
+<e type="trans" ver="2">This was the 123rd position out of all Kintetsu Railway stations targeted by the survey (323 stations, as of the survey date).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This was the 123rd position out of all Kintetsu Railway stations targeted by the survey (323 stations, as of the survey date).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="12">
+<j>京都線の駅（26駅、大和西大寺駅含む）の中では、21位。</j>
+<e type="trans" ver="1">It ranked the 21st out of all the stations on the Kyoto Line (26 stations including Yamato-Saidaiji Station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It ranked twenty-first out of all the stations on the Kyoto Line (26 stations, including Yamato-Saidaiji).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It ranked twenty-first out of all the stations on the Kyoto Line (26 stations, including Yamato-Saidaiji).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="13">
+<j>京都府内の近鉄の駅（23駅）の中では、19位。</j>
+<e type="trans" ver="1">It ranked the 19th out of all the stations of Kintetsu Railway within Kyoto City (23 stations).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It ranked nineteenth out of all the stations of Kintetsu Railway within Kyoto City (23 stations).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It ranked nineteenth out of all the stations of Kintetsu Railway within Kyoto City (23 stations).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="14">
+<j>駅周辺</j>
+<e type="trans" ver="1">Around the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="15">
+<j>京都市南区役所</j>
+<e type="trans" ver="1">Kyoto City Minami Ward Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Minami Ward Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Minami Ward Office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>京都十条郵便局</j>
+<e type="trans" ver="1">Kyoto-Jujo Post Office</e>
+<cmt>http://www.jp-network.japanpost.jp/storeserch/detail/index.php?id=300101443150</cmt>
+<e type="trans" ver="2">The Kyoto-Jujo post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kyoto-Jujo post office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>十条通</j>
+<e type="trans" ver="1">Jujo-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jujo-dori Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jujo-dori Street</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>SGホールディングス本社、佐川急便本社・京都店</j>
+<e type="trans" ver="1">SG Holdings Co., Ltd. Head Office, Sagawa Express Co., Ltd. Head Office/Kyoto Office</e>
+<cmt>SGホールディングス本社 [http://www.sg-hldgs.co.jp/english/company/info.html]、佐川急便本社・京都店[http://www.sagawa-exp.co.jp/english/company/company02.html]</cmt>
+<e type="trans" ver="2">The head office of SG Holdings Co., Ltd.; the head office/Kyoto office of Sagawa Express Co., Ltd.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The head office of SG Holdings Co., Ltd.; the head office/Kyoto office of Sagawa Express Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>バス</j>
+<e type="trans" ver="1">Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="19">
+<j>最寄停留所は、駅から徒歩2分の京都市道181号京都環状線沿いの十条油小路となる。</j>
+<e type="trans" ver="1">The nearest bus stop is a 2-minute walk, located at Jujo Abura Koji along the Kyoto City Road 181 Kyoto-Kanjosen (loop line).</e>
+<cmt>京都市道181号京都環状線→定訳不明 [Kyoto City Road 181 &quot;Kyoto-Kanjosen (loop line)&quot;としました]</cmt>
+<e type="trans" ver="2">The nearest bus stop is a two-minute walk, being located at Jujo Abura Koji along Kyoto City Road 181 Kyoto-Kanjosen (loop line).</e>
+<cmt>number</cmt>
+<e type="check" ver="1">The nearest bus stop is a two-minute walk, being located at Jujo Abura Koji along Kyoto City Route 181 Kyoto Loop Line.</e>
+<cmt>Kyoto Loop Lineとしました。</cmt>
+</sen>
+<sen id="20">
+<j>以下の路線が乗り入れ、京都市営バスにより運行されている。</j>
+<e type="trans" ver="1">Kyoto City Bus undertakes the operation and the following route buses are available..</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Bus handles the operation, and the following route buses are available:</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Kyoto City Bus handles the operation, and the following route buses are available:</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="21">
+<j>京都市営バス九条営業所16号系統：九条車庫行、京都駅行</j>
+<e type="trans" ver="1">Kyoto City Bus Kujo Office Route 16: for Kujo Shako depot, for Kyoto Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Bus Kujo Office Route 16: For the Kujo Shako-depot; for Kyoto Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Kyoto City Bus Kujo Office Route 16: For the Kujo Shako-depot; for Kyoto Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="22">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>1928年（昭和3年）11月15日 奈良電気鉄道京都～桃山御陵前駅間開通時に開業。</j>
+<e type="trans" ver="1">November 15, 1928: The station opened when Nara Electric Railway began operating between Kyoto Station and Momoyamagoryomae Station.</e>
+<cmt>奈良電気鉄道→Nara Electric Railway [http://www.fundinguniverse.com/company-histories/KINKI-NIPPON-RAILWAY-COMPANY-LTD-Company-History.html]</cmt>
+<e type="trans" ver="2">November 15, 1928: The station opened when Nara Electric Railway began operating between Kyoto Station and Momoyamagoryomae Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">November 15, 1928: The station opened when Nara Electric Railway began operating between Kyoto Station and Momoyamagoryomae Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="24">
+<j>1963年（昭和38年）10月1日 会社合併により近畿日本鉄道の駅となる。</j>
+<e type="trans" ver="1">October 1, 1963: With the merger of the company, it became a station of Kintetsu Corporation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 1, 1963: With the merger of the company, it became a station of Kintetsu Corporation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">October 1, 1963: With the merger of the company, it became a station of Kintetsu Corporation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="25">
+<j>1999年（平成11年）11月27日 竹田～東寺間の連続立体化により、高架化される。</j>
+<e type="trans" ver="1">November 27, 1999: it was elevated, following the consecutive replacement of crossings to those with an overpass or underpass in the section between Takeda Station and Toji Station.</e>
+<cmt>連続立体化→定訳不明 [文脈から区間での踏み切り立体交差化と考えconsecutive replacement of crossings to those with overpass or underpass としました。なお、立体交差→crossing with an overpass or underpassは英辞郎 on the WEBが出典]</cmt>
+<e type="trans" ver="2">November 27, 1999: It was elevated, following the consecutive replacement of crossings to those with an overpass or underpass in the section between Takeda Station and Toji Station.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">November 27, 1999: It was elevated, following the consecutive replacement of crossings to those with an overpass or underpass in the section between Takeda Station and Toji Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="26">
+<j>2007年（平成19年）4月1日 PiTaPa使用開始。</j>
+<e type="trans" ver="1">April 1, 2007: PiTaPa started to be accepted at the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 2007: PiTaPa became accepted at the station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 2007: PiTaPa became accepted at the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="27">
+<j>隣の駅</j>
+<e type="trans" ver="1">Next stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">The next stations</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="28">
+<j>近畿日本鉄道</j>
+<e type="trans" ver="1">Kintetsu Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kintetsu Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kintetsu Corporation</e>
+<cmt>Kintetsu Corporation としました。</cmt>
+</sen>
+<sen id="29">
+<j>京都線</j>
+<e type="trans" ver="1">Kyoto Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>■急行・■準急</j>
+<e type="trans" ver="1">■Express ・■Semi-express</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Express ・■Semi-express</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Express/Semi-express</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="31">
+<j>通過</j>
+<e type="trans" ver="1">Nonstop</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nonstop</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nonstop</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>■普通</j>
+<e type="trans" ver="1">■Local train</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Local train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Local</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="33">
+<j>東寺駅 - 十条駅 - 上鳥羽口駅</j>
+<e type="trans" ver="1">Toji Station - Jujo Station - Kamitobaguchi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Toji Station - Jujo Station - Kamitobaguchi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Toji Station - Jujo Station - Kamitobaguchi Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 東京特許許可局(id:7229), みーたのメトロ。(id:21715), Tigers0022(id:59186), Bakkai(id:7233), 城山(id:104901), Etopirica(id:32491), Aska-sacra(id:8180), Shinkansen(id:13703), Rusk(id:9895), Carkuni(id:79281), Sunen(id:10700), Kouchiumi(id:19253), Goki(id:7107), Hirotaro(id:1437), ジャスト宣言(id:33592), 扇風機のせんちゃん(id:161810), Jonirumansei(id:60003), Hirohisat(id:128431), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

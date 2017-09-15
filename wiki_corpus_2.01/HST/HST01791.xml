@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>請假解</j>
+<e type="trans" ver="1">Shokage/Seikage (a written application for leave)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shokage/Seikage (vacation request form)</e>
+<cmt>休暇届の意味で一般的に使われる語で置き換えました。</cmt>
+<e type="check" ver="1">Shokage/Seikage (vacation request form)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>請假解（しょうかげ/せいかげ）とは、古代日本において律令制の官人が、所属する官司（本司）に提出した解 (公文書)形式の休暇届。</j>
+<e type="trans" ver="1">Shokage/Seikage was a written application for leave on &quot;kai &quot;, the official form submitted by the government officials in the days of the ritsuryo system in ancient Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shokage/Seikage was a request form for leave in style of &apos;&apos;ge&apos;&apos; (official document), which the government officials under the ritsuryo system of ancient Japan submitted to the chief priests of Shinto shrines (Guji) they belonged to.</e>
+<cmt>上記の理由でrequest formを用いました。「解」の読み方は「かい」ではなく「げ」なので修正しました。Formの多様を避けるため「解」の訳にjはdocumenｔを用いました。また宮司は定訳で説明してあります。最後に「所属する」が抜けていたので補いました。</cmt>
+<e type="check" ver="1">Shokage/Seikage was a request form for leave in style of &apos;&apos;ge&apos;&apos; (official document), which the government officials under the ritsuryo system of ancient Japan submitted to the chief priests of Shinto shrines (Guji) they belonged to.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>請仮解・請暇解とも表記する。</j>
+<e type="trans" ver="1">It was also writtten as &quot;請仮解 or 請暇解&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It can also be writtten &quot;請仮解 or 請暇解&quot; in Chinese characters.</e>
+<cmt>asは不要なため削除しました。また、漢字での表記であることを示すため、説明を加えました。</cmt>
+<e type="check" ver="1">It can also be writtten &quot;請仮解 or 請暇解&quot; in Chinese characters.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>律令制の官人に対しては仮寧令によって假（休暇）規定が定められていた。</j>
+<e type="trans" ver="1">In the ritsuryo system, &quot;ka&quot; (leave) code for the government officials were provided in the kenyo-ryo (leave and home visit code).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Under the ritsuryo system, &quot;ka&quot; (leave) regulations for the government officials were provided in Kenyo-ryo (Leave and Home-visiting Code).</e>
+<cmt>providedに合うようinの代わりにunderを使いました。またcodeの中にある規則に関してはcodeではなくresulationsにしました。また仮寧令は固有名詞なので大文字で始めました。</cmt>
+<e type="check" ver="1">Under the ritsuryo system, &quot;ka&quot; (leave) regulations for the government officials were provided in Kenyo-ryo (Leave and Home-visiting Code).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>通常の休暇である常假・別假や法定の特別休暇の他に、五衛府の官人と五位以上は3日、京官の三位以上は5日、五位以上は10日の規定外の臨時休暇を取る事が許されていた。</j>
+<e type="trans" ver="1">Besides regular leave such as &quot;Joka&quot; and &quot;Bekka&quot; and statutory special holidays, extra leave of three days for the government officials of the Goefu (five guards) and people higher than goi (Fifth Rank) in the rank, five days for officials of the Capital who were higher than sanmi (Third Rank), and 10 days for those who were higher than goi (Fifth Rank) were allowed.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In addition to regular leave such as &quot;Joka&quot; and &quot;Bekka&quot; and statutory special holidays, leave of extra three days were allowed for the government officials of the Goefu (five guards organization) and of goi (Fifth Rank) and higher, five days for officials of sanmi (Third Rank) and higher among the officials of Capital, and ten for those who were of goi (Fifth Rank) and higher.</e>
+<cmt>Besidesでは意味が曖昧なので、in addition toに変えました。またallowedがかなり離れていて意味が取りにくかったため、位置を変えました。また五衛府は人ではなく機関と解釈し、organizationを加えました。</cmt>
+<e type="check" ver="1">In addition to regular leave such as &quot;Joka&quot; and &quot;Bekka&quot; and statutory special holidays, leave of extra three days were allowed for the government officials of the Goefu (five guards organization) and of goi (Fifth Rank) and higher, five days for officials of sanmi (Third Rank) and higher among the officials of Capital, and ten for those who were of goi (Fifth Rank) and higher.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>その際には所属する官司に休暇届を提出した。</j>
+<e type="trans" ver="1">In such case, they submitted an application for leave to the Guji (chief of those who serves shrine, controls festivals and general affairs) who they belonged to.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In such cases, they submitted request forms for leave to the Guji (chief priests of Shinto shrines) who they belonged to.</e>
+<cmt>複数の場合が上記に示されているので複数形にしました。また冒頭に倣いrequest formを用いました。宮司も４の説明どおりの英訳にしてあります。</cmt>
+<e type="check" ver="1">In such cases, they submitted request forms for leave to the Guji (chief priests of Shinto shrines) who they belonged to.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>また、それ以上の休暇を必要とする場合には天皇への奏聞を経て最大15日まで認められる場合があった。</j>
+<e type="trans" ver="1">If they needed additional leave, after submitting the application to the Emperor, at longest 15 days could be provided.</e>
+<cmt></cmt>
+<e type="trans" ver="2">If they needed additional leave, there were some cases where officials were permitted to take maximum of fifteen days off by reporting to the Emperor.</e>
+<cmt>天皇への奏聞は天皇への報告であり、また、請暇解を天皇に出すようにも取られないように「報告」の意のreportをformの代わりに使いました。また読みやすいように言葉の順番を変えました。最大15日は決まり文句のmaximum ofで書き換えました。原文最後の「場合」にあたるther were some casesを入れました。</cmt>
+<e type="check" ver="1">If they needed additional leave, there were some cases where officials were permitted to take maximum of fifteen days off by reporting to the Emperor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>その際に用いられた休暇届が請假解であった。</j>
+<e type="trans" ver="1">The Shokage was the application for leave used in such case.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The vacation request form used on these occasions wsas called Shokage.</e>
+<cmt>休暇届の訳を冒頭に倣いました。また、請暇解の説明であることを明確にした書き方にしました。</cmt>
+<e type="check" ver="1">The vacation request form used on these occasions wsas called Shokage.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>また、身分が低く、常假・別假などが保障されていない下級官人も数ヶ月に1度は請假解を出して休暇を請う場合があった。</j>
+<e type="trans" ver="1">Even Lower-ranking government officials who were not guaranteed &quot;Joka&quot; and &quot;Bekka&quot;, they occasionally submitted the Shokage once in several months to request their leave.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were also some cases where government officials of low ranks, who were not guaranteed &quot;Joka&quot; and &quot;Bekka,&quot; submitted Shokage once in several months to request their leave.</e>
+<cmt>「さえ」という言葉が原文に無く、無くても意味が変わらないため、削除しました。身分が一般的に低い官人についての記述なので、特に比較級は必要ないと判断し、削除しました。また「時折届けを出した」の意味にならないよう、occasionallyを除き、文頭にthere were some casesを置き、「また」を意味するalsoを加えました。</cmt>
+<e type="check" ver="1">There were also some cases where government officials of low ranks, who were not guaranteed &quot;Joka&quot; and &quot;Bekka,&quot; submitted Shokage once in several months to request their leave.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>東大寺の正倉院文書には、写経生の請假解が多数残されており、本人の病気や家族の病気や不幸、衣服の洗濯、氏神の祭祀、田租の納入など様々な理由が付けられている。</j>
+<e type="trans" ver="1">In the Shosoin Monjo (document collection of the Nara period kept in Shosoin) of the Todai-ji Temple, there are many &quot;Shokage&quot; by disciples of Sutra copying were kept, showing different reasons for leave such as his own or family member&apos;s sickness, death, laundry, religious services for their deities, and denso (rice field) tax paying.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Shosoin Monjo (document collection of the Nara period kept in Shosoin Treasure House) of Todai-ji Temple, there remain many &quot;Shokage&quot; by sutra-copying officials, which show different reasons for leave such as sickness of themselves or their family members, deaths of family members, laundry, religious services for their deities, and denso (rice field) tax paying.</e>
+<cmt>固有名詞なので正倉院文書の前の不要なtheを削除しました。また正倉院の説明を加えました。There are では存在することしか表現されないため、「残されている」を意味するremainで書き換えました。写経生はsutra-copying officialという訳があり、写経の弟子だと分かりにくいので置き換えました。文章が長いため、直前と結びつきの強いshowingよりも一旦意味の切れる関係代名詞を入れました。また不幸はおそらく一件のみではないので複数形にしました。自身の病気は「自分でする病気」という意味になるon their ownの代わりに、直訳のthemselvesを入れました。また、deathには自身が入らないため、sicknessと分けて訳しました。</cmt>
+<e type="check" ver="1">In Shosoin Monjo (document collection of the Nara period kept in Shosoin Treasure House) of Todai-ji Temple, there remain many &quot;Shokage&quot; by sutra-copying officials, which show different reasons for leave such as sickness of themselves or their family members, deaths of family members, laundry, religious services for their deities, and denso (rice field) tax paying.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>風俗博物館</j>
+<e type="trans" ver="1">Fuzoku-hakubutsukan (the museum of the mode of life)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fuzoku-hakubutsukan (Museum of the Mode of Life)</e>
+<cmt>Punctuation</cmt>
+<e type="check" ver="1">Fuzoku Hakubutsukan (The Costume Museum)</e>
+<cmt>風俗博物館ホームページより、(The Costume Museum) に訂正しました。[http://www.iz2.or.jp/english/index.htm]ハイフン削除しました、Hakubutsukan大文字にしました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>風俗博物館（ふうぞくはくぶつかん）は、京都市下京区井筒南店ビル5階にある源氏物語に関する私立の博物館である。</j>
+<e type="trans" ver="1">Fuzoku-hakubutsukan is a private museum on &quot;Genji monogatari&quot; (Tale of Genji), located at Izutsu-minami-ten building 5 floor, Kyoto-city Shimogyo-ward, Kyoto prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fuzoku-hakubutsukan is a private museum about the &quot;Genji Monogatari&quot; (The Tale of Genji), and is located on the fifth floor of Izutsu-minami-ten building, Shimogyo-ward, Kyoto-city, Kyoto prefecture.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Fuzoku Hakubutsukan is a private museum about the &quot;Genji Monogatari&quot; (The Tale of Genji), and is located on the fifth floor of Izutsu Building, Shimogyo Ward, Kyoto City, Kyoto Prefecture.</e>
+<cmt>不要なハイフン削除。Ward、City、Prefecure大文字にしました。風俗博物館ホームページより、ビル名は「IZUTSU BUILDING 5th Floor」となっていましたので訂正しました。</cmt>
+</sen>
+<sen id="2">
+<j>1973年（昭和48年）開館時は、日本の各時代の風俗・服飾を鑑賞する博物館だったが、リニューアルを重ね現在の形式に落ち着いた。</j>
+<e type="trans" ver="1">When opened in 1973, it was a museum where we could see the modes of life and clothing ornaments in various periods in Japan, but was renewed many times to be a present form.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When opened in 1973 it was a museum displaying clothing and decorative ornaments relating to modes of life in various periods of Japanese history, and it has been renovated many times prior to its present form.</e>
+<cmt>Grammar, changed for clarity, punctuation.</cmt>
+<e type="check" ver="1">When opened in 1973 it was a museum displaying clothing and decorative ornaments relating to modes of life in various periods of Japanese history, and it has been renovated many times prior to its present form.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>光源氏の邸宅・六条院の春の御殿を4分の1サイズに縮尺した模型が展示されている。</j>
+<e type="trans" ver="1">The quarter scale model of the house of Hikaru GENJI - Rokujoin no haru no gotten (Rokujoin&apos;s spring house) - is displayed there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A quarter scale model of the house of Hikaru GENJI, Rokujoin no haru no gotten (Rokujoin&apos;s spring house), is displayed here.</e>
+<cmt>Grammar, punctuation.</cmt>
+<e type="check" ver="1">A quarter scale model of the house of Hikaru GENJI, Rokujoin no haru no goten (Rokujoin&apos;s spring house), is displayed here.</e>
+<cmt>「gotten」を「goten」に訂正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Information</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">Information</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>所在地　京都市下京区新花屋町通堀川通東入</j>
+<e type="trans" ver="1">Location:　Horikawa-dori higashi-hairu, Shinhanayamachi-dori, Kyoto-city Shimogyo ward</e>
+<cmt></cmt>
+<e type="trans" ver="2">Location:　Horikawa-dori higashi-hairu, Shinhanayamachi-dori, Shimogyo ward, Kyoto-city</e>
+<cmt>Order changed.</cmt>
+<e type="check" ver="1">Location: Shinhanayacho-dori, Horikawa Higashiiru, Shimogyo Ward, Kyoto City</e>
+<cmt>風俗博物館ホームページの住所表記に合わせて訂正しました。参考：IZUTSU BUILDING 5th FloorShinhanayacho-Dori,Horikawa Higashiiru,Shimogyo-ku,Kyoto600-8468全角のスペースを半角にしました。</cmt>
+</sen>
+<sen id="6">
+<j>開館日　平日（月～土）の9：00～17：00に開館されている。</j>
+<e type="trans" ver="1">Open time: Weekdays (Monday to Saturday) from 9:00 to 17:00</e>
+<cmt></cmt>
+<e type="trans" ver="2">Open 09:00 to 17:00 Monday to Saturday</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">Open 09:00 to 17:00 Monday to Saturday</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>定休日　日曜と祝祭日</j>
+<e type="trans" ver="1">Regular closing days: Sundays and public holidays</e>
+<cmt></cmt>
+<e type="trans" ver="2">Closed Sundays and public holidays</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">Closed Sundays and public holidays</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 釣ちごちゅが(id:22605), Masyu(id:31065), Miyuki h(id:84952), Kiku-zou(id:65314), くっちゃめ(id:86793), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

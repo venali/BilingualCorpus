@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>明覚</j>
+<e type="trans" ver="1">Myogaku</e>
+<cmt></cmt>
+<e type="trans" ver="2">Myogaku</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Myogaku</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>明覚（みょうがく、天喜4年（1056年） - 没年不詳）は、平安時代後期の天台宗の僧。</j>
+<e type="trans" ver="1">Myogaku (1056-year of death unknown) was a priest of Tendai Sect in the late Heian period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Myogaku (1056-year of death unknown) was a priest of the Tendai sect in the late Heian period.</e>
+<cmt>made &quot;Sect&quot; lowercase; added &quot;the&quot; before &quot;Tendai&quot;</cmt>
+<e type="check" ver="1">Myogaku (1056-year of death unknown) was a priest of the Tendai sect in the late Heian period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>読み方についてはめいかくとも読む。</j>
+<e type="trans" ver="1">His name was also read as Meikaku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Myogaku&apos;s name was also read as Meikaku.</e>
+<cmt>Wording</cmt>
+<e type="check" ver="1">Myogaku&apos;s name was also read as Meikaku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>温泉房または唯心房（存疑）と号した。</j>
+<e type="trans" ver="1">He adopted the name of Onsenbo or Yuishinbo (not sure).</e>
+<cmt></cmt>
+<e type="trans" ver="2">He adopted the name of Osenbo or Yuishinbo (unconfirmed).</e>
+<cmt>（存疑）: (not sure)→(unconfirmed)</cmt>
+<e type="check" ver="1">He adopted the name of Onsenbo or Yuishinbo (unconfirmed).</e>
+<cmt>Osenbo を Onsenbo に修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>比叡山に入って覚厳に師事して天台教学を学んだ。</j>
+<e type="trans" ver="1">He entered Hiei-zan Mountain and learned about the Tendai Sect under Kakugen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Myogaku entered the temple on Mt. Hiei-zan and learned about the Tendai sect under Kakugen.</e>
+<cmt>&quot;Hiei-zan Mountain&quot; is ambiguous, so I added &quot;the temple&quot; to make it more clear</cmt>
+<e type="check" ver="1">Myogaku entered the temple on Mt. Hiei and learned about the Tendai sect under Kakugen.</e>
+<cmt>Mt. Hiei-zan を Mt. Hiei に修正しました。</cmt>
+</sen>
+<sen id="5">
+<j>比叡山に五大院を開創した安然（841年?－915年?）を慕って悉曇学を修学し、加賀国温泉寺に移りそこに住した。</j>
+<e type="trans" ver="1">He studied Shittan gaku (study on the phonetics of Sanskrit) revering Annen (841?-915?) who founded Godai-in in Hiei-zan Mountain and moved to Onsen-ji Temple in Kaga Province to live there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He revered Annen (841?-915?) who founded the Godai-in Temple in Mt. Hiei-zan while studying Shittan gaku (the study of the phonetics of Sanskrit), then moved to Onsen-ji Temple in Kaga Province to live.</e>
+<cmt>added &quot;Temple&quot; after &quot;Godai-in&quot;; changed &quot;Hiei-zan Mountain&quot; to &quot;Mt. Hiei-zan&quot;; rearranged sentence for smoother reading</cmt>
+<e type="check" ver="1">He revered Annen (841?-915?) who founded the Godai-in Temple in Mt. Hiei while studying Shittan gaku (the study of the phonetics of Sanskrit), then moved to Onsen-ji Temple in the Kaga Province to live.</e>
+<cmt>Mt. Hiei-zan を Mt. Hiei に修正しました。Kaga Province に the を追記しました。</cmt>
+</sen>
+<sen id="6">
+<j>悉曇学に関する著作を残し、後世には悉曇学の祖と仰がれた。</j>
+<e type="trans" ver="1">He wrote books on Shittan gaku and was respected as the founder of Shittan gaku in later ages.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He wrote books on Shittan gaku and was respected as the founder of the study in later years.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">He wrote books on Shittan gaku and was respected as the founder of the study in later years.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>また、経典の訓点でも多くの業績を残した。</j>
+<e type="trans" ver="1">He also left many achievements behind him on guiding marks for rendering Chinese into Japanese for Buddhist scriptures.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He also left behind many contributions for rendering Chinese into Japanese for Buddhist scriptures using guiding (punctuation) marks.</e>
+<cmt>Changed sentence structure for better clarity; &quot;achievements&quot; -almost- sounds okay here, but I think &quot;contributions&quot; sounds more natural; &quot;guiding marks&quot; is hard to understand without &quot;(punctuation)&quot; as a reference</cmt>
+<e type="check" ver="1">He also left behind many contributions for rendering Chinese into Japanese for Buddhist scriptures using guiding (punctuation) marks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>著書は『悉曇要訣』『梵字形音義』『反音作法』など。</j>
+<e type="trans" ver="1">He wrote &quot;Shittan yoketsu&quot; (a book of Sanskrit study), &quot;Bonjigyo ongi,&quot; &quot;Hanon saho&quot; (a book of ingaku phonology) and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Among many others, he wrote the &quot;Shittan Yoketsu&quot; (a book of Sanskrit study), &quot;Bonjigyo Ongi,&quot; and &quot;Hanon Saho&quot; (a book of ingaku phonology).</e>
+<cmt>fixed grammar; I do not know what &quot;ingaku&quot; should be translated to…</cmt>
+<e type="check" ver="1">Among many others, he wrote the &quot;Shittan Yoketsu&quot; (a book of Sanskrit study), &quot;Bonjigyo Ongi,&quot; and &quot;Hanon Saho&quot; (a book of phonology).</e>
+<cmt>a book of ingaku phonology をa book of phonology に修正しました。※「音韻学 = phonology」なので、解りやすく整理してみました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>彼は諸著書の中で仮名による反切の方式を述べ、「五十音図」を示している。</j>
+<e type="trans" ver="1">He described in his books methods of Hansetsu (the expressing way of the pronunciation of Kanji letters by those of another two Kanji letters) by kana (the Japanese syllabary) and showed Gojuonzu (&quot;fifty-sound&quot; syllabary chart).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In his books, Myogaku described the methods of Hansetsu (Chinese phonology &quot;fanqie&quot;: a method to indicate the pronunciation of a kanji character by using two other characters) by using kana (the Japanese syllabary) from the Gojuonzu (&quot;fifty-sound&quot; syllabary chart).</e>
+<cmt>Used the description from the English wikipedia article on &quot;hansetsu&quot;; fixed grammar</cmt>
+<e type="check" ver="1">In his books, Myogaku described the methods of Hansetsu (Chinese phonology &quot;fanqie&quot;: a method to indicate the pronunciation of a kanji character by using two other characters) by using kana (the Japanese syllabary) from the &apos;Gojuonzu&apos; (&quot;fifty-sound&quot; syllabary chart).</e>
+<cmt>Gojuonzu にシングルクォーテーションを追記しました。</cmt>
+</sen>
+<sen id="10">
+<j>また『法華経』の音義を編したかと考えられ、漢字音を韻尾音によって独自の範疇を設け、独特な反切、uとugの区別、連濁などの符号の記述などが見られる。</j>
+<e type="trans" ver="1">He is considered to have compiled a treatise explaining the pronunciations and meanings of kanji for Hoke-kyo Sutra (the Lotus Sutra), in which he, in his style, categorized Japanese pronunciation of kanji by consonants and vowels at the end of syllables in Chinese and described unique Hansetsu (the expressing way of the pronunciation of Kanji letters by those of another two Kanji letters), distinction between &quot;u&quot; and &quot;ug,&quot; symbols for sequential voicing and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Myogaku is considered to have compiled a treatise explaining the pronunciations and meanings of kanji for the Hoke-kyo (the Lotus Sutra), in which he categorized Japanese pronunciations of kanji with consonants and vowels at the end of syllables in Chinese and made such distinctions as those between the symbols for &quot;u&quot; and &quot;ug&quot; for sequential voicing.</e>
+<cmt>eliminated content describing &quot;Hansetsu&quot; since it is described in the previous sentence; fixed grammar to be more understandable</cmt>
+<e type="check" ver="1">Myogaku is considered to have compiled a treatise explaining the pronunciations and meanings of kanji for the &quot;Hoke-kyo&quot; (the Lotus Sutra), in which he categorized Japanese pronunciations of kanji with consonants and vowels at the end of syllables in Chinese and made such distinctions as those between the symbols for &quot;u&quot; and &quot;ug&quot; for sequential voicing.</e>
+<cmt>Hoke-kyo にダブルクォーテーションを追記しました。</cmt>
+</sen>
+<sen id="11">
+<j>この音義はのちに「明覚三蔵流」と称せられ、和訓が付加されて流布した。</j>
+<e type="trans" ver="1">This treatise was later called &apos;Myokaku sanzoryu&apos; and circulated with Japanese way added.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This treatise was later called &quot;Myokaku Sanzoryu&quot; and distributed with added Japanese readings of Chinese characters.</e>
+<cmt>&quot;with Japanese way added&quot; lacks clarity, so I changed it to &quot;with added Japanese readings of Chinese characters&quot;</cmt>
+<e type="check" ver="1">This treatise was later called &apos;Myokaku Sanzoryu&apos; and distributed with added Japanese readings of Chinese characters.</e>
+<cmt>Myokaku Sanzoryu のダブルクォーテーションをシングルクォーテーションに修正しました。</cmt>
+</sen>
+<sen id="12">
+<j>なお『法華経単字』の反切はこれと大部分が一致し、これと同じ系列の音韻学に拠ったと思われる。</j>
+<e type="trans" ver="1">Most of the Hansetsu of &quot;Hokekyo tanji&quot; corresponds to that of the above treatise and the former is considered to have been based on the same phonology system as the latter.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Most of the Hansetsu of the &quot;Hoke-kyo Tanji&quot; correspond to the Hansetsu of Myogaku&apos;s treatise and both are considered to be bosed on the same phonology system.</e>
+<cmt>&quot;the above treatise&quot; is difficult to understand, so I changed it to &quot;the Hansetsu of Myogaku&apos;s treatise&quot;; fixed grammar to be easier to understand</cmt>
+<e type="check" ver="1">Most of the Hansetsu of the &quot;Hoke-kyo Tanji&quot; correspond to the Hansetsu of Myogaku&apos;s treatise and both are considered to be based on the same phonology system.</e>
+<cmt>bosed を based に修正しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 YOSHI438(id:174755), R28Bot(id:177951), Cprobot(id:97843), Nighthawks(id:36125), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

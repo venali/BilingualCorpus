@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>千代川駅</j>
+<e type="trans" ver="1">Chiyokawa Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chiyokawa Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chiyokawa Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>千代川駅（ちよかわえき）は、京都府亀岡市千代川町今津にある、西日本旅客鉄道（JR西日本）山陰本線（嵯峨野線）の鉄道駅である。</j>
+<e type="trans" ver="1">Located in Imazu Chiyokawa-cho of Kameoka City, Kyoto Prefecture, Chiyokawa Station is a stop on San&apos;in Main Line, a West Japan Railway Company (JR-West) Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chiokawa Station, located in Imazu Chiyokawa-cho of Kameoka City, Kyoto Prefecture, is a stop on San&apos;in Main Line, a West Japan Railway Company (JR-West) Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Chiyokawa Station, located in Imazu, Chiyokawa-cho of Kameoka City, Kyoto Prefecture, is a stop on San&apos;in Main Line of West Japan Railway Company (JR West).</e>
+<cmt>Chiyokawa Stationとしました。</cmt>
+</sen>
+<sen id="2">
+<j>駅名電略は「フチチヨ」。</j>
+<e type="trans" ver="1">Station name telegraph code is &apos;XXXX.&apos; (XXXX within parenthesis are denoted in Katakana.)</e>
+<cmt>カタカナ表示せず、翻訳文のように注記しました。</cmt>
+<e type="trans" ver="2">The station-name telegraph code is &apos;XXXX&apos; (XXXX within parentheses are denoted in Katakana).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The station-name telegraph code is &apos;フチチヨ.&apos;</e>
+<cmt>カタカナで表記しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>ICOCA・Jスルー利用可能駅（相互利用可能ICカードはICOCAの項を参照）。</j>
+<e type="trans" ver="1">ICOCA and J Through Cards usable (refer to ICOCA paragraph for mutually usable IC Cards.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ICOCA and J Through cards are usable (refer to the &quot;ICOCA&quot; paragraph for mutually usable IC cards).</e>
+<cmt>punctuation, article</cmt>
+<e type="check" ver="1">The ICOCA and J-Thru cards can be used (refer to the ICOCA paragraph for details on mutually usable IC cards).</e>
+<cmt>既出の記事と統一しました。</cmt>
+</sen>
+<sen id="4">
+<j>但しJスルーカードについては、簡易改札機による対応のため複数枚の処理不可。</j>
+<e type="trans" ver="1">Simplied ticket gates installed cannot process more than one J Through Card being used for a single transaction.</e>
+<cmt>J スルーカードは他の改札機でも使用不能の由です。</cmt>
+<e type="trans" ver="2">The simplified ticket gates installed cannot process more than one J Through Card being used for a single transaction.</e>
+<cmt>article, spelling</cmt>
+<e type="check" ver="1">However, simple-type automated ticket gates can&apos;t handle the use of more than one J-Thru Card for a single transaction.</e>
+<cmt>既出の記事と統一しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station layout</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>相対式2面2線のプラットホームを持つ行違い可能な地上駅で、開業時からの木造駅舎が現在も残っている。</j>
+<e type="trans" ver="1">It is an above ground station having two platforms with two tracks at which trains can pass each other or the other and the wooden station building which stood in the days of inauguration still remains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an aboveground station having two platforms with two tracks at which trains can pass each other or allow the other to overtake, and the wooden station building that stood in the days of the station&apos;s inauguration remains.</e>
+<cmt>grammar, completed</cmt>
+<e type="check" ver="1">It is an aboveground station having two platforms with two tracks at which trains can pass each other or allow the other to overtake, and the wooden station building that stood in the days of the station&apos;s inauguration remains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>互いのホームは跨線橋で連絡している。</j>
+<e type="trans" ver="1">Platforms are connected by an overpass.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The platforms are connected by an overpass.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The platforms are connected by an overpass.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>駅本屋側（2番のりば）が一線スルーのため、そこを特急が通過する。</j>
+<e type="trans" ver="1">Track #2 alongside platform #2, the side on which the station buiding stands, is the thoroughfare on which super express trains pass through without stopping.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track No. 2 alongside platform No. 2, the side on which the station building stands, is the thoroughfare on which super-express trains pass through without stopping.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Platform 2, the side on which the station building stands, is the thoroughfare on which limited express trains pass through without stopping.</e>
+<cmt>limited expressとしました。</cmt>
+</sen>
+<sen id="9">
+<j>停まるのは、普通列車と快速列車である。</j>
+<e type="trans" ver="1">Trains which stop are either rapids n or locals.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The trains that stop are either rapids or locals.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The trains that stop are either rapids or locals.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>朝ラッシュ時には快速列車が20～30分に一本、普通列車は10～15分に一本あるが、データイムは普通と快速がそれぞれ1時間に1本というそれほど過密でないダイヤが組まれる。</j>
+<e type="trans" ver="1">Rapid trains operate once every 20-30 minutes and local trains once every 10-15 minutes during morning rush hours, but both rapid and local trains operate only once every hour during the daytime which is a rather leisurely operational time schedule.</e>
+<cmt>1時間に2本では&quot;それほど&quot;を付けても過密とほど遠いと思われますので、このようにしました。</cmt>
+<e type="trans" ver="2">Rapid trains operate once every 20 to 30 minutes and local trains run once every 10 to 15 minutes during morning rush hours, but both rapid and local trains operate only once every hour during the daytime, which is a somewhat leisurely operational time schedule.</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">Rapid trains operate once every 20 to 30 minutes and local trains run once every 10 to 15 minutes during morning rush hours, but both rapid and local trains operate only once every hour during the daytime, which is a somewhat leisurely operational time schedule.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>特急はそれらを待避させながら通過する。</j>
+<e type="trans" ver="1">Limited express trains pass through this station while obliging the above-mentioned to take refuge.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Limited express trains pass through this station while obliging the above-mentioned to take refuge.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Limited express trains pass through this station while obliging the above-mentioned to take refuge.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="12">
+<j>1番のりば側にも無人の勝手口が存在する。</j>
+<e type="trans" ver="1">An unmanned service entrance also exists on the platform for Track #1.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An unmanned service entrance also exists on the platform for track No. 1.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">An unmanned service entrance also exists on Platform 1 side.</e>
+<cmt>「No. のりば」の表記を統一</cmt>
+</sen>
+<sen id="13">
+<j>駅本屋、勝手口とも、自動改札機は簡易式のものとなっている。</j>
+<e type="trans" ver="1">Automated ticket gates to the station building and service entrance are both of simplified type.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Automated ticket gates to the station building and service entrance are both of the simplified type.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Automated ticket gates to the station building and service entrance are both of the simplified type.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>なお駅業務は（株）ジェイアール西日本交通サービスへ委託されており、早朝・夜間は無人となる。</j>
+<e type="trans" ver="1">Operations of the station are commissioned to JR-West Transportation Service Co., Ltd. and unmanned during early morning hours and at night.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The operations of the station are commissioned to JR-West Transportation Service Co., Ltd., and are unmanned during the late-night and early-morning hours.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The operations of the station are commissioned to JR West Japan Transportation Service Co., Ltd., and are unmanned during the late-night and early-morning hours.</e>
+<cmt>JR Westとしました</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="15">
+<j>通過列車及び行違いを行わない停車列車は上下線とも2番線を通る。</j>
+<e type="trans" ver="1">Both inbound and outbound nonstop trains and trains which stop but do not pass each other or the other, go through on Track #2.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Both inbound and outbound nonstop trains, as well as trains that stop but don&apos;t pass each other, go through on track No. 2.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Both inbound and outbound nonstop trains, as well as trains that stop but don&apos;t pass each other, go through on Platform 2.</e>
+<cmt>「No.番線」の表記を統一</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="16">
+<j>反対方向からの通過列車と行違いを行う停車列車は、上下線とも1番線に停車する。</j>
+<e type="trans" ver="1">Both inbound and outbound trains stopping at this station to have a train coming from the opposite directions to pass it, stop on Track #1.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Inbound and outbound trains, when stopping at this station to allow a train coming from the opposite directions to pass, stop on track No. 1.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">A train, regardless of whether it&apos;s inbound or outbound, when stopping at this station to allow a nonstop train coming in from the opposite direction to pass it, does so on Platform 1.</e>
+<cmt>「No.番線」の表記を統一</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="17">
+<j>停車列車同士の行違いの場合は、京都方面行（上り）が1番線、園部方面行（下り）が2番線に入る。</j>
+<e type="trans" ver="1">When trains pass each other at this station, the train bound for Kyoto (inbound) comes in on Track #1 and the train bound for Sonobe (outbound) on Track &quot;2.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When trains pass each other at this station, the train bound for Kyoto (inbound) comes in on track No. 1 and the train bound for Sonobe (outbound) runs on track No. 2.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">When trains stop and pass each other at this station, the train heading toward Kyoto (inbound) comes in on Platform 1 and the train heading toward Sonobe (outbound) uses Platform 2.</e>
+<cmt>「No.番線」の表記を統一</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="18">
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization status</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usage status</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Usage status</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>2006年度の1日あたりの乗車人員は約2,164人である。</j>
+<e type="trans" ver="1">Passengers getting on at this station was approximately 2,164 per day in fiscal 2006.</e>
+<cmt>&quot;約&quot;でなく&quot;平均&quot;であるべきと思われます。</cmt>
+<e type="trans" ver="2">The number of passengers getting on at this station was approximately 2,164 per day in fiscal 2006.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The number of passengers boarding at this station came to approximately 2,164 per day in fiscal year 2006.</e>
+<cmt>既出の記事と統一しました。</cmt>
+</sen>
+<sen id="20">
+<j>（京都府統計書より）</j>
+<e type="trans" ver="1">(Source: Kyoto Prefecture Statistical Report)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Source: Kyoto Prefecture Statistical Report)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(Source: Kyoto Prefecture Statistical Report)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="21">
+<j>京都市中心部へのベッドタウンになりつつあるせいか、利用客はやや多い。</j>
+<e type="trans" ver="1">The number of passengers are rather on the rise because the land around the station is becoming to be a satellite town for commuters to central Kyoto.</e>
+<cmt>原文の&quot;か&quot;と&quot;やや&quot;はやや不適切と思われるので省略。</cmt>
+<e type="trans" ver="2">The number of passengers continues to rise because the land around the station is becoming a satellite town for commuters to central Kyoto.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The number of passengers continues to rise because the land around the station is becoming a satellite town for commuters to central Kyoto.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="22">
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station surroundings</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>前述した通り、千代川駅には有人改札口（西側、2番のりば側）と無人改札口（東側、1番のりば側）の2つが存在する。</j>
+<e type="trans" ver="1">Chiyokawa Station as noted above has ticket gates installed at two places, one manned on the west side for Track #2 boarding) and the other unmanned (east side for Track #1 boarding.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chiyokawa Station, as noted above, has ticket gates installed at two places, one manned on the west side for track No. 2 boarding) and the other unmanned (east side for track No. 1 boarding).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Chiyokawa Station, as noted above, has ticket gates installed at two places, one manned (on the west side for track Platform 2) and the other unmanned (east side for Platform 1).</e>
+<cmt>括弧追加</cmt>
+</sen>
+<sen id="24">
+<j>有人改札口の方は、現在、駅前道路拡張事業が行われており、比較的発展しており、主に住宅地だが、しばらく西に向かって歩くと、国道9号線があり、商業施設が建ち並んでいる。</j>
+<e type="trans" ver="1">A road expansion project is going on in front of the manned ticket gates, the side which is relatively developed and mainly residential, but a little further to the west is National Highway Route No.9 along which commercial facilities can be found along the roadside.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A road-expansion project is going on in front of the manned ticket gates, the side that is relatively developed and mainly residential, but a little further to the west is National Highway Route No. 9, along which commercial facilities can be found along the roadside.</e>
+<cmt>grammar, space</cmt>
+<e type="check" ver="1">A road-expansion project is going on in front of the manned ticket gates, the side that is relatively developed and mainly residential, but slightly further to the west is National Route 9, along which commercial facilities can be found along the roadside.</e>
+<cmt>国道→National Routeとしました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="25">
+<j>無人改札口（東）は主に住宅地で、全国的にも珍しい市営の自動車教習所がある(平成19年3月閉校)。</j>
+<e type="trans" ver="1">The (east) side on which unmanned ticket gates are installed is also mainly a residential area and a rather uncommon municipal drivers&apos; school, even from a national viewpoint (opened March 2007,) is located nearby.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The (east) side on which unmanned ticket gates are installed is also mainly a residential area, and a somewhat uncommon municipal drivers&apos; school, even from a national viewpoint (opened March 2007), is located nearby.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The (east) side on which unmanned ticket gates are installed is also mainly a residential area, and a somewhat uncommon municipal drivers&apos; school, even from a national viewpoint (closed March 2007), is located nearby.</e>
+<cmt>opened→closed</cmt>
+</sen>
+<sen id="26">
+<j>近年亀岡市住宅公社がメディアス亀岡3番館を建てた。</j>
+<e type="trans" ver="1">The Kameoka Municipal Housing Public Corporation constructed the Medias Housing Complex No.3 in recent years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kameoka Municipal Housing Public Corporation has constructed the Medias Housing Complex No. 3 in recent years.</e>
+<cmt>syntax, space</cmt>
+<e type="check" ver="1">The Kameoka Municipal Housing Public Corporation has constructed the Medias Housing Complex No. 3 in recent years.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>その奥は桂川 (淀川水系)（別名保津川、大堰川）が流れている。</j>
+<e type="trans" ver="1">Further beyond flows Katsura-gawa River (Yodo-gawa River water system) (also known as Hozu-gawa River and Oi-gawa River.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Further beyond flows the Katsura-gawa River (Yodo-gawa River water system) (also known as Hozu-gawa River and Oi-gawa River).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Further beyond flows the Katsura-gawa River (Yodo-gawa River system) (also known as the Hozu-gawa River or the Oi-gawa River).</e>
+<cmt>Yodo-gawa River systemで統一</cmt>
+</sen>
+<sen id="28">
+<j>川の東側の馬路町域は農業地となっており、馬路大納言小豆（丹波大納言小豆の、最高級品である。）が特産品として生産されている。</j>
+<e type="trans" ver="1">Umaji-cho area east of the river is farmland and Umaji-Dainagon Azuki bean (highest class Tamba-Dainagon Azuki beans) is produced as a specialty product of the region.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Umaji-cho area east of the river is farmland, and Umaji-Dainagon Azuki beans (highest-class Tamba-Dainagon Azuki beans) are a specialty product of the region.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The Umaji-cho area east of the river is farmland, and Umaji-Dainagon Azuki beans (highest-class Tamba-Dainagon Azuki beans) are a specialty product of the region.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>近年、激辛香辛料のハバネロの育苗販売で知られるようになった篠ファームもこの馬路地区にある。</j>
+<e type="trans" ver="1">Shino Farm which became known of late for its growing and marketing extra hot Habanero chili seedlings is also established in this Umaji area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shino Farm, which has become known for producing and marketing extra-hot Habanero chili seedlings, is also established in the Umaji area.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Shino Farm, which has become known for producing and marketing extra-hot Habanero chili seedlings, is also established in the Umaji area.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="30">
+<j>駅の周りには有名な史跡はないが、桂川を渡り自転車で東へ15分ほどいくと、丹波国分寺、出雲大神宮が、国道9号線を渡り西へ5分ほどの位置に、亀山城_(丹波国)城門が移設された亀岡市立千代川小学校がある。</j>
+<e type="trans" ver="1">Renowned historical sites do not exist around the station, but Tango-Kokubun-ji Temple, Izumo-Daijingu-Shrine are about 15 minutes on a bike after crossing Katsura-gawa River and, crossing National Highway Route No.9 and some 5 minutes&apos; walk takes one to Kameyama Municipal Chiyokawa Elementary School where the castle gate of (Tamba-no-kuni) Kameyama-jo Castle has been relocated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station has no renowned historical sites in its immediate surroundings, but Tango-Kokubun-ji Temple and Izumo-Daijingu-Shrine are about 15 minutes away by bicycle after crossing the Katsura-gawa River; also, crossing National Highway Route No. 9 and some five minutes&apos; walk takes one to Kameyama Municipal Chiyokawa Elementary School, where the castle gate of (Tamba-no-kuni) Kameyama-jo Castle has been relocated.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The station has no renowned historical sites in its immediate surroundings, but Tango-Kokubun-ji Temple and Izumo-Daijingu Shrine are about 15 minutes away by bicycle after crossing the Katsura-gawa River; also, crossing National Route 9 and walking five minutes westward takes one to Kameyama Municipal Chiyokawa Elementary School, where the gate of (Tamba-no-kuni) Kameyama-jo Castle has been relocated.</e>
+<cmt>National Route　西へ、　追加</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="31">
+<j>京都府立南丹高等学校</j>
+<e type="trans" ver="1">Kyoto Prefectural Nantan High School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Prefectural Nantan High School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Prefectural Nantan High School</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>亀岡市立自動車学校</j>
+<e type="trans" ver="1">Kameoka Municipal Driving School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kameoka Municipal Driving School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kameoka Municipal Driving School</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>亀岡市立千代川小学校</j>
+<e type="trans" ver="1">Kameoka Municipal Chiyokawa Elementary School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kameoka Municipal Chiyokawa Elementary School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kameoka Municipal Chiyokawa Elementary School</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>マツモト_(京都府)千代川店</j>
+<e type="trans" ver="1">Matsumoto Chiyokawa Branch</e>
+<cmt></cmt>
+<e type="trans" ver="2">Matsumoto Chiyokawa Branch</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Matsumoto Chiyokawa Branch</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>バス路線</j>
+<e type="trans" ver="1">Routed bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Routed bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Routed bus</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="35">
+<j>京阪京都交通</j>
+<e type="trans" ver="1">Keihan Kyoto Kotsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Kyoto Kotsu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Kyoto Kotsu</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="36">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>1935年（昭和10年）7月20日 - 日本国有鉄道の駅として開業。</j>
+<e type="trans" ver="1">Opened on July 20, 1935 as a Japanese National Railways station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It opened on July 20, 1935 as a station of Japanese National Railways.</e>
+<cmt>pronoun</cmt>
+<e type="check" ver="1">July 20, 1935: The station was inaugurated as a Japan National Railways station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="38">
+<j>旅客営業のみ。</j>
+<e type="trans" ver="1">Only passenger-traffic handled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Only passenger-traffic is handled.</e>
+<cmt>verb</cmt>
+<e type="check" ver="1">Only passenger-traffic was handled.</e>
+<cmt>既出の記事と統一しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="39">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により、JR西日本の駅となる。</j>
+<e type="trans" ver="1">Became a JR-West station on April 1, 1987 from split privatization of Japan National Railways.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It became a JR-West station on April 1, 1987 from the split privatization of Japan National Railways.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">April 1, 1987: The station became a JR West station by the split privatization of Japan National Railways.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="40">
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Neighboring stations</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>西日本旅客鉄道（JR西日本）</j>
+<e type="trans" ver="1">Japan West Railway Company (JR-West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Japan West Railway Company (JR-West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>JR Westとしました。</cmt>
+</sen>
+<sen id="42">
+<j>■嵯峨野線（山陰本線）</j>
+<e type="trans" ver="1">■Sagano Line (San&apos;in Main Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Sagano Line (San&apos;in Main Line)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Sagano Line (Sanin Main Line)</e>
+<cmt>San&apos;in→Sanin</cmt>
+</sen>
+<sen id="43">
+<j>■快速・■普通</j>
+<e type="trans" ver="1">■Rapid train・■Local Train</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Rapid train・■Local Train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Rapid Service/■Local</e>
+<cmt>既出の記事と統一しました。・を/に変更しました。</cmt>
+</sen>
+<sen id="44">
+<j>並河駅 - 千代川駅 - 八木駅</j>
+<e type="trans" ver="1">Namikawa Station - Chiyokawa Station - Yagi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Namikawa Station - Chiyokawa Station - Yagi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Namikawa Station - Chiyokawa Station - Yagi Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 城山(id:104901), Hikichimin Jr.(id:147077), Yuta415(id:149253), Kagoya(id:9458), Wikipedianet(id:9608), Mop(id:12061), 樒(id:35770), Sunen(id:10700), 継之助(id:39352), 平 誠(id:2586), Longstar(id:121834), 金山銀山銅山(id:163855), R28Bot(id:177951), Hidama(id:73276), Kone(id:377), Chobot(id:20846), Hirotaro(id:1437), Ogeshi(id:80487), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

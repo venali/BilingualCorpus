@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>算道</j>
+<e type="trans" ver="1">Sando (study of mathematics)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sando (the study of mathematics)</e>
+<cmt>Inserted &quot;the&quot;.</cmt>
+<e type="check" ver="1">Sando</e>
+<cmt>タイトルなので括弧説明を削除しました。次行に補足しました</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>算道（さんどう）とは、日本律令制の大学寮において、算術・数学を研究する学科。</j>
+<e type="trans" ver="1">Sando is a department to study arithmetic and mathematics in Daigaku-ryo (Bureau of Education) under the Ritsuryo system (a system of centralized government based on Ritsuryo Code) in the ancient Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sando was a department for the study of arithmetic and mathematics in the Daigaku-ryo (Bureau of Education) under the Ritsuryo system (a system of centralized government based on the Ritsuryo Code) in ancient Japan.</e>
+<cmt>Changed &quot;is&quot; to &quot;was&quot;, changed &quot;to study&quot; to &quot;for the study&quot;, inserted &quot;the&quot;, inserted &quot;the&quot;, deleted &quot;the&quot;.</cmt>
+<e type="check" ver="1">Sando (the study of mathematics) was a department for the study of arithmetic and mathematics in the Daigaku-ryo (Bureau of Education) under the Ritsuryo system (a system of centralized government based on the Ritsuryo Code) in ancient Japan.</e>
+<cmt>括弧説明を補足しました</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="2">
+<tit>
+<j>成立期</j>
+<e type="trans" ver="1">The formative period</e>
+<cmt></cmt>
+<e type="trans" ver="2">The formative period</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The formative period</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>大宝律令による大学寮設立時から存在した学科である。</j>
+<e type="trans" ver="1">Sando is a department existed since the establishment of Daigaku-ryo based on the Taiho Ritsuryo (Taiho Code).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sando had existed as a department since the Daigaku-ryo was established based on the Taiho Ritsuryo (Taiho Code).</e>
+<cmt>Changed &quot;is a department existed&quot; to &quot;had existed as a department&quot;, changed &quot;the establishment of Daigaku-ryo&quot; to &quot;the Daigaku-ryo was established&quot;.</cmt>
+<e type="check" ver="1">Sando had existed as a department since the Daigaku-ryo was established based on the Taiho Ritsuryo (Taiho Code).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>当初は明確な学科の種別はなかったが、一般の官人を育成するために設けられた本科に相当する儒教の講義（後の明経道にあたる）以外には、儒教経典の原典をそのまま筆記するための書道 (大学寮)とそのまま発音するための音道は本科の補完するためのものであった。</j>
+<e type="trans" ver="1">Initially there was no clear-cut type of department and other than the Confucian lecture (later Myogyo-do (study of Confucian classics)), which was equivalent to the regular course established to educate general government officials, Shodo (calligraphy) to write down the original Confucian scripture as it is (Daigaku-ryo) and Ondo to pronounce that as it is were to complement the regular course.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Initially there were no clearly defined departments, but the course established to educate general government officials consisted mainly of Confucian lectures (later Myogyo-do (the study of Confucian classics)), complemented by Shodo (calligraphy), which involved writing down the original Confucian scriptures verbatim (Daigaku-ryo), and Ondo, learning to pronounce them correctly.</e>
+<cmt>Rewrote.</cmt>
+<e type="check" ver="1">Initially there were no clearly defined departments, but the course established to educate general government officials consisted mainly of Confucian lectures (later Myogyo-do (the study of Confucian classics)), complemented by Shodo (calligraphy), which involved writing down the original Confucian scriptures verbatim (Daigaku-ryo), and Ondo, learning to pronounce them correctly.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>それに対して算道の扱う分野は儒教とは直接的な関連性はなく、計算や測量などの技術系官人の育成を行うことを目的としていたことから、唯一本科から独立した存在であったのが算道であった。</j>
+<e type="trans" ver="1">While the area treated by Sando had no direct relevance to the Confucianism and aimed at educating technical government officials for calculation, survey, and others, thereby Sando was the only existence independent from the regular course.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In contrast, the fields covered by Sando had no direct relevance to Confucianism and aimed at educating technical government officials in calculation, survey, and other similar subjects; in this way, Sando was the only existence independent from the regular course.</e>
+<cmt>Changed &quot;While&quot; to &quot;In contrast&quot;, changed &quot;area&quot; to &quot;fields&quot;, changed &quot;treated&quot; to &quot;covered&quot;, changed &quot;for&quot; to &quot;in&quot;, changed &quot;others&quot; to &quot;other similar subjects&quot;, replaced comma with semicolon, replaced &quot;thereby&quot; with &quot;in this way&quot;.</cmt>
+<e type="check" ver="1">In contrast, the fields covered by Sando had no direct relevance to Confucianism and aimed at educating technical government officials in calculation, survey, and other similar subjects; in this way, Sando was the only existence independent from the regular course.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>大学寮には算道を教授する算博士（さんはかせ、従七位上相当・2名）と学生である算生（さんしょう、30名）で構成されていた。</j>
+<e type="trans" ver="1">Daigaku-ryo consisted of San hakase (Doctor of Numbers, equivalent to Jushichiijo (Junior Seventh Rank, Upper Grade), two people) who taught Sando, and Sansho (student studying arithmetic, thirty people).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Daigaku-ryo consisted of two San hakase (Doctor of Numbers, equivalent to Jushichiijo (Junior Seventh Rank, Upper Grade)) who taught Sando, and thirty Sansho (students studying arithmetic).</e>
+<cmt>Inserted &quot;The&quot;, inserted &quot;two&quot;, deleted &quot;two people&quot;, inserted &quot;thirty&quot;, changed &quot;student&quot; to &quot;students&quot;, deleted &quot;thirty people&quot;.</cmt>
+<e type="check" ver="1">The Daigaku-ryo consisted of two San hakase (Doctor of Numbers, equivalent to Jushichiijo (Junior Seventh Rank, Upper Grade)) who taught Sando, and thirty Sansho (students studying arithmetic).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>これは唐の国子監に置かれた算学と同数であり、教授として博士1名以外に助教2名及び複数名の直講が置かれて、学生も400名もいた本科と比べると小さいものの、唐の国子監の規模は日本の大学寮と比べて大きいこと、唐の算学博士は従九品下と低い地位に置かれたことを考えれば、設置当初の地位は一概に低いとは言えなかったとされている。</j>
+<e type="trans" ver="1">These numbers are the same as those of Sangaku (study of mathematics) set in Kokushikan (educational ministry) of Tang dynasty in China, and it had one doctor as a professor, two associate professors, and a few chokko (lecturer) people, which was smaller than the regular course with four hundred students, but not categorically in the low position when it was initially set considering that Tang&apos;s Kokushikan was larger than the Japanese Daigaku-ryo and Tang&apos;s San hakase was put in the low position of Jukuhonge (Junior Ninth Rank, Lower Grade).</e>
+<cmt></cmt>
+<e type="trans" ver="2">These numbers are the same as those of the Sangaku (study of mathematics) in the Kokushikan (educational ministry) of Tang dynasty China, which had one doctor as professor, two associate professors, and a few chokko (lecturers); while the Sando was smaller than the regular course, which had four hundred students, it is thought not to have been categorically in a low position during its early days, considering that the Tang&apos;s Kokushikan was larger than the Japanese Daigaku-ryo, and that the Tang&apos;s San hakase was put in the low position of Jukuhonge (Junior Ninth Rank, Lower Grade).</e>
+<cmt>Inserted &quot;the&quot;, changed &quot;set in&quot; to &quot;in the&quot;, removed &quot;in&quot;, changed &quot;and it&quot; to &quot;which&quot;, removed &quot;a&quot;, changed &quot;lecturer&quot; to &quot;lecturers&quot;, deleted &quot;people&quot;, inserted semicolon, changed &quot;which&quot; to &quot;while&quot;, changed &quot;it&quot; to &quot;the Sando&quot;, rewrote end of sentence.</cmt>
+<e type="check" ver="1">These numbers are the same as those of the Sangaku (study of mathematics) in the Kokushikan (educational ministry) of Tang Dynasty, China, which had one doctor as professor, two associate professors, and a few chokko (lecturers); while the Sando was smaller than the regular course, which had four hundred students, it is thought not to have been categorically in a low position during its early days, considering that the Tang&apos;s Kokushikan was larger than the Japanese Daigaku-ryo, and that the Tang&apos;s San hakase was put in the low position of Jukuhonge (Junior Ninth Rank, Lower Grade).</e>
+<cmt>Dynastyに訂正しました。コンマ補足しました。</cmt>
+</sen>
+<sen id="7">
+<j>その後、天平2年（730年）からは算博士候補者となる特別給費生として算得業生2名が算生の中から選抜された。</j>
+<e type="trans" ver="1">Later two San tokugosho (Distinguished Scholars of Numbers) people were selected among Sansho as special stipendiary students to be candidates for San hakase from 730.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Later, beginning in 730, two San tokugosho (Distinguished Scholars of Numbers) were selected from among the Sansho as special fellowship students to be candidates for San hakase.</e>
+<cmt>Inserted &quot;, beginning in 730&quot;, deleted &quot;people&quot;, inserted &quot;from&quot; and &quot;the&quot;, replaced &quot;stipendiary&quot; with &quot;fellowship&quot;, deleted &quot;from 730&quot;.</cmt>
+<e type="check" ver="1">Later, beginning in 730, two San tokugosho (Distinguished Scholars of Numbers) were selected from among the Sansho as special fellowship students to be candidates for San hakase.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>また、天平宝字元年（757年）からは陰陽寮で暦道を学ぶ暦生の中から暦学に必要な数学を学ぶために算道を兼修する暦算生が別枠として設置された。</j>
+<e type="trans" ver="1">Furthermore, among Reki no sho (student of calendar) who were learning rekido (study of calendar) at Onmyoryo (Bureau of Divination), rekisansho was set as another quota to also learn Sando to study mathematics required for rekido from 757.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, starting in 757, &quot;rekisansho&quot;, a combination of calender study and Sando, was set up as another division so that Reki no sho (students of calendar) who were learning rekido (calendar study) at the Onmyoryo (Bureau of Divination) could learn the mathematics required for rekido.</e>
+<cmt>Rewrote.</cmt>
+<e type="check" ver="1">Furthermore, starting in 757, rekisansho, a combination of calendar study and Sando, was set up as another division so that Reki no sho (students of calendar) who were learning rekido (calendar study) at the Onmyo-ryo (Bureau of Divination) could learn the mathematics required for rekido.</e>
+<cmt>calendarスペル訂正しました。原文に合せて&quot; &quot;削除しました。ハイフン補足しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>大学寮の中には算道の講義と算生の寄宿のための施設である算道院（さんどういん）が置かれていた。</j>
+<e type="trans" ver="1">Sandoin, the facilities for Sando lectures and boarding for Sansho, was established in Daigaku-ryo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sandoin, a facility used for Sando lectures and to board students, was established in the Daigaku-ryo.</e>
+<cmt>Changed &quot;the&quot; to &quot;a&quot;, changed &quot;facilities&quot; to &quot;facility&quot;, inserted &quot;used&quot;, changed &quot;boarding for Sansho&quot; to &quot;to board students&quot;, inserted &quot;the&quot;.</cmt>
+<e type="check" ver="1">Sandoin, a facility used for Sando lectures and to board students, was established in the Daigaku-ryo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>平安京遷都後は、大学寮敷地内の明経道の施設である明経道院の南、明法道の施設である明法道院の北にあったとされている。</j>
+<e type="trans" ver="1">After the transfer of national capital to the city of Heian-kyo, it is said to have located in the south of myogyodoin, the Myogyo-do (study of Confucian classics) facilities, and the north of Myobodoin, the Myobodo (study of Code) facilities, in the premises of Daigaku-ryo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the national capital was transferred to the city of Heian-kyo, it is said to have been located in the south of myogyodoin, the Myogyo-do (study of Confucian classics) facilities, and the north of Myobodoin, the Myobodo (study of Code) facilities, in the premises of Daigaku-ryo.</e>
+<cmt>Changed &quot;the transfer of national capital&quot; to &quot;the national capital was transferred&quot;.</cmt>
+<e type="check" ver="1">After the national capital was transferred to the city of Heian-kyo, it is said to have been located in the south of myogyodoin, the Myogyo-do (study of Confucian classics) facilities, and the north of Myobodoin, the Myobodo (study of Code) facilities, in the premises of Daigaku-ryo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>なお、現存する算生に関する記録を見る限りでは、渡来人系の氏族に属する者が多かったとされている。</j>
+<e type="trans" ver="1">Meanwhile, as far as the existing Sansho related records can tell, there were many people who belonged to the clans of toraijin (people from overseas, especially from China and Korea, who settled in early Japan and introduced Continental culture to the Japanese).</e>
+<cmt></cmt>
+<e type="trans" ver="2">As far as can be told from existing Sansho-related records, there were many people who belonged to the clans of toraijin (people from overseas, especially from China and Korea, who settled in early Japan and introduced Continental culture to the Japanese).</e>
+<cmt>Deleted &quot;Meanwhile&quot;, inserted &quot;can be told from&quot;, hyphenated &quot;Sansho-related&quot;, deleted &quot;can tell&quot;.</cmt>
+<e type="check" ver="1">As far as can be told from existing Sansho-related records, there were many people who belonged to the clans of toraijin (people from overseas, especially from China and Korea, who settled in early Japan and introduced Continental culture to the Japanese).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>算道の内容</j>
+<e type="trans" ver="1">Contents of Sando</e>
+<cmt></cmt>
+<e type="trans" ver="2">Contents of Sando</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Contents of Sando</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="12">
+<j>算道の教科書として律令法などで定められていたのは以下の9種である。</j>
+<e type="trans" ver="1">The following nine types were defined as Sando textbooks by the Ritsuryo law and others.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following nine types of texts were defined as Sando textbooks by the Ritsuryo law and other laws.</e>
+<cmt>Inserted &quot;of texts&quot;, changed &quot;others&quot; to &quot;other laws&quot;.</cmt>
+<e type="check" ver="1">The following nine types of texts were defined as Sando textbooks by the Ritsuryo law and other laws.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="13">
+<j>孫子算経…三国時代 (中国)・両晋期に孫子を著者として仮託して書かれた古典的な数学書。</j>
+<e type="trans" ver="1">Sonshisangyo: Classic textbook on mathematics written under the guise of Sonshi (tactician) at the time of Western and Eastern Jin dynasties in the Three Kingdoms period of China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sonshisangyo: A classic textbook on mathematics written under the name of Sonshi (a tactician) at the time of Western and Eastern Jin dynasties in Three Kingdoms period China.</e>
+<cmt>Inserted &quot;A&quot;, changed &quot;guise&quot; to &quot;name&quot;, deleted &quot;the&quot; and &quot;of&quot;.</cmt>
+<e type="check" ver="1">Sonshisangyo: A classic textbook on mathematics written under the name of Sonshi (a tactician) at the time of Western and Eastern Jin Dynasties in Three Kingdoms period China.</e>
+<cmt>Dynastiesに訂正しました。</cmt>
+</sen>
+<sen id="14">
+<j>唐の李淳風の注釈で有名。</j>
+<e type="trans" ver="1">Famous for the commentary by Ri Junpu in the Tang dynasty.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Famous for the commentary by Ri Junpu of the Tang dynasty.</e>
+<cmt>Changed &quot;in&quot; to &quot;of&quot;.</cmt>
+<e type="check" ver="1">Famous for the commentary by Chunfeng LI of the Tang Dynasty.</e>
+<cmt>Dynastyに訂正しました。Chunfeng LIに訂正しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="15">
+<j>五曹算経…北周の甄鸞の著。</j>
+<e type="trans" ver="1">Gososangyo: Written by Chon Luan in the Northern Zhou period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gososangyo: Written by Chon Luan in the Northern Zhou period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gososangyo: Written by Chon Luan in the Northern Zhou period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>行政官に必要とされた基礎的な数学知識を「田・兵・集・倉・金」の5つの章立てで解説した書。</j>
+<e type="trans" ver="1">The document explained the basic mathematical knowledge required for government officials in five chapters of &quot;Den, Hyo, Shu, So, and Kin&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The document explained the basic mathematical knowledge deemed necessary for government officials in five chapters: &quot;Den&quot;, &quot;Hyo&quot;, &quot;Shu&quot;, &quot;So&quot;, and &quot;Kin&quot;.</e>
+<cmt>Changed &quot;required&quot; to &quot;deemed necessary&quot;, deleted &quot;of&quot;, inserted colon, inserted quotation marks around individual chapter titles.</cmt>
+<e type="check" ver="1">The document explained the basic mathematical knowledge deemed necessary for government officials in five chapters: &apos;Den, Hyo, Shu, So and Kin.&apos;</e>
+<cmt>Den, Hyo, Shu, So and Kin.&apos;に訂正しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="17">
+<j>九章算術…現存する中国最古の数学書。</j>
+<e type="trans" ver="1">Kyushosanjutsu: The existing oldest book on mathematics in China</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyushosanjutsu: The oldest existing Chinese book on mathematics</e>
+<cmt>Changed &quot;existing oldest book on mathematics in China&quot; to &quot;oldest existing Chinese book on mathematics&quot;.</cmt>
+<e type="check" ver="1">Kyushosanjutsu: The oldest existing Chinese book on mathematics</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>九章から構成された体系的な書。</j>
+<e type="trans" ver="1">The systematic document consisted of nine chapters</e>
+<cmt></cmt>
+<e type="trans" ver="2">A systematic document consisting of nine chapters</e>
+<cmt>Changed &quot;The&quot; to &quot;A&quot;, changed &quot;consisted&quot; to &quot;consisting&quot;.</cmt>
+<e type="check" ver="1">A systematic document consisting of 9 chapters.</e>
+<cmt>数字に訂正しました。ピリオド補足しました。</cmt>
+</sen>
+<sen id="19">
+<j>魏 (三国)の劉徽の注釈で著名。</j>
+<e type="trans" ver="1">Famous for the commentary by Ryugi in Wei dynasty (Three Kingdoms period)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Famous for the commentary by Ryugi of the Wei dynasty (Three Kingdoms period)</e>
+<cmt>Changed &quot;in&quot; to &quot;of the&quot;.</cmt>
+<e type="check" ver="1">Famous for the commentary by Liu Hui of the Wei Dynasty (Three Kingdoms period).</e>
+<cmt>Dynastyに訂正しました。Liu Huiに訂正しました。ピリオド補足しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="20">
+<j>海島算経…劉徽が著した測量計算に関する書。</j>
+<e type="trans" ver="1">Kaitosankei: The document related to calculation for survey written by Ryugi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kaitosankei: A document related to survey calculations, written by Ryugi</e>
+<cmt>Changed &quot;The&quot; to &quot;A&quot;, changed &quot;calculation for survey&quot; to &quot;survey calculations&quot;, inserted comma.</cmt>
+<e type="check" ver="1">Kaitosankei: A document related to survey calculations, written by Liu Hui.</e>
+<cmt>Liu Huiに訂正しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="21">
+<j>六章…詳細は不明であるが、『九章算術』を応用発展させたと言われている。</j>
+<e type="trans" ver="1">Rokusho: It is said to have applied and developed &quot;Kyushosanjutsu&quot; even though details are unknown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rokusho: Details are unknown, but it is said to have applied and expanded the &quot;Kyushosanjutsu&quot;.</e>
+<cmt>Inserted &quot;Details are unknown, but&quot;, changed &quot;developed&quot; to &quot;expanded&quot;, inserted &quot;the&quot;, deleted &quot;even though details are unknown&quot;.</cmt>
+<e type="check" ver="1">Rokusho: Details are unknown, but it is said to have applied and expanded the &quot;Kyushosanjutsu.&quot;</e>
+<cmt>ピリオドの位置を訂正しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="22">
+<j>綴術…祖沖之が著した高等数学の書で、円周率や球体積の計算方法が書かれていたとされているが、現存しない。</j>
+<e type="trans" ver="1">Tenjutsu: The document on advanced mathematics written by Sochushi and it is said that the calculation method of the circumference ratio and the volume of a sphere was written, but it is defunct now.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tenjutsu: A document on advanced mathematics written by Sochushi in which it is said that calculation methods for the circumference ratio and the volume of a sphere were written; it no longer exists.</e>
+<cmt>Changed &quot;The&quot; to &quot;A&quot;, changed &quot;and&quot; to &quot;in which&quot;, deleted &quot;the&quot;, made &quot;methods&quot; plural, inserted semicolon, inserted &quot;it no longer exists&quot;, deleted &quot;, but it is defunct now&quot;.</cmt>
+<e type="check" ver="1">Tenjutsu: A document on advanced mathematics written by Chong-Zhi ZU in which it is said that calculation methods for the circumference ratio and the volume of a sphere were written; it no longer exists.</e>
+<cmt>Chong-Zhi ZU に訂正しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="23">
+<j>三開重差…級数展開などの高等数学に関する書。</j>
+<e type="trans" ver="1">Sankaijusa: The document related to advanced mathematics such as series expansion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sankaijusa: A document related to advanced mathematics such as series expansion.</e>
+<cmt>Replaced &quot;The&quot; with &quot;A&quot;.</cmt>
+<e type="check" ver="1">Sankaijusa: A document related to advanced mathematics such as series expansion.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="24">
+<j>周髀算経…天体暦算に関する書。</j>
+<e type="trans" ver="1">Shuhisankei: The document related to astronomical calculation of calendar</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shuhisankei: A document related to astronomical calendrical calculation.</e>
+<cmt>Replaced &quot;The&quot; with &quot;A&quot;, replaced &quot;of calendar&quot; with &quot;calendrical&quot;, inserted period.</cmt>
+<e type="check" ver="1">Shuhisankei: A document related to astronomical calendrical calculation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>紀元前2世紀に成立して暦学の基本書とされた。</j>
+<e type="trans" ver="1">It was established in the second century B.C. and regarded as the basic document of calculation of calendar.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was established in the second century B.C. and is regarded as the fundamental document of calendrical calculation.</e>
+<cmt>Inserted &quot;is&quot;, changed &quot;basic&quot; to &quot;fundamental&quot;, changed &quot;calculation of calendar&quot; to &quot;calendrical calculation&quot;.</cmt>
+<e type="check" ver="1">It was established in 2B.C. and is regarded as the fundamental document of calendrical calculation.</e>
+<cmt>2B.C.に訂正しました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="26">
+<j>九司…詳細は不明であるが、『五曹算経』と同様の行政官向けの数学書であったと言われている。</j>
+<e type="trans" ver="1">Kyushi: It is said to have been the document on mathematics for government officials as similar as &quot;Gososangyo&quot; even though details are unknown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyushi: Details are unknown, but it is said to have been a document on mathematics geared for government officials, similar to &quot;Gososangyo&quot;.</e>
+<cmt>Inserted &quot;Details are unknown, but&quot;, changed &quot;the&quot; to &quot;a&quot;, inserted &quot;geared&quot;, inserted comma, deleted &quot;even though details are unknown&quot;.</cmt>
+<e type="check" ver="1">Kyushi: Details are unknown, but it is said to have been a document on mathematics geared for government officials, similar to &quot;Gososangyo.&quot;</e>
+<cmt>ピリオドの位置を訂正しました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="27">
+<j>なお、当時の唐で採用されていた算経十書と呼ばれる教科書のうち、『張邱建算経』・『夏侯陽算経』・『五経算術』・『緝古算経』の4種が除かれて代わりに『六章』・『三開重差』・『九司』が採用されている。</j>
+<e type="trans" ver="1">Furthermore, among the textbooks called Sankei ten documents adopted in Tang dynasty at that time, four types of &quot;Chokyukensankei&quot;, &quot;Kakoyosankei&quot;, &quot;Gokyosanjutsu&quot;, and &quot;Shukosankei&quot; were excluded and &quot;Rokusho&quot;, &quot;Sankaijusa&quot;, and &quot;Kyushi&quot; were adopted instead.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, of the textbooks known as &quot;Sankei ten documents&quot; which were adopted in the Tang dynasty at that time, four types - &quot;Chokyukensankei&quot;, &quot;Kakoyosankei&quot;, &quot;Gokyosanjutsu&quot;, and &quot;Shukosankei&quot; - were excluded and &quot;Rokusho&quot;, &quot;Sankaijusa&quot;, and &quot;Kyushi&quot; were adopted instead.</e>
+<cmt>Changed &quot;called&quot; to &quot;known as&quot;, inserted quote marks around &quot;Sankei ten documents&quot;, inserted &quot;which were&quot;, inserted &quot;the&quot;, deleted &quot;of&quot;, offset list of four textbooks with hyphens.</cmt>
+<e type="check" ver="1">Furthermore, of the textbooks known as &quot;Sankei ten documents&quot; which were adopted in the Tang Dynasty at that time, four types; &quot;Chokyukensankei,&quot; &quot;Kakoyosankei,&quot; &quot;Gokyosanjutsu,&quot; and &quot;Shukosankei,&quot; were excluded and &quot;Rokusho,&quot; &quot;Sankaijusa&quot; and &quot;Kyushi&quot; were adopted instead.</e>
+<cmt>Dynastyに訂正しました。『』の表記を訂正しました。</cmt>
+</sen>
+<sen id="28">
+<j>これは、内容の重複や日本への伝来事情などとの関係があると考えられているが、詳細な理由は不明である。</j>
+<e type="trans" ver="1">It is assumed to be related to redundancy of the contents, the circumstances introduced to Japan, and others, but detailed reason is unknown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While the details are unknown, it is assumed that this was related to redundancy in the contents, the circumstances of their introduction to Japan, or other factors.</e>
+<cmt>Inserted &quot;While the details are unknown,&quot;, replaced &quot;to be&quot; with &quot;that this was&quot;, replaced &quot;of&quot; with &quot;in&quot;, replaced &quot;introduced&quot; with &quot;of their introduction&quot;, replace &quot;and others&quot; with &quot;or other factors&quot;, deleted &quot;but detailed reason is unknown&quot;.</cmt>
+<e type="check" ver="1">While the details are unknown, it is assumed that this was related to redundancy in the contents, the circumstances of their introduction to Japan, or other factors.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="29">
+<j>算生の官人登用試験である奉試については、学令で定められていたが、大宝律令と養老律令では微妙に規則が違っていた。</j>
+<e type="trans" ver="1">For Kanjintoyoshiken called Hoshi (appointment examination for the bureaucracy) was defined by the school order, but the rules were subtly different in Taiho Code and Yoro Code.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Hoshi Kanjintoyoshiken (appointment examination for the bureaucracy) for students was defined by the school administration, but the rules were subtly different between the Taiho and Yoro Codes.</e>
+<cmt>Changed &quot;For Kanjintoyoshiken called Hoshi&quot; to &quot;The Hoshi Kanjintoyojiken&quot;, inserted &quot;for students&quot;, changed &quot;order&quot; to &quot;administration&quot;, changed &quot;in&quot; to &quot;between the&quot;, removed first &quot;Code&quot;, made second &quot;Code&quot; plural.</cmt>
+<e type="check" ver="1">The Hoshi Kanjintoyoshiken (appointment examination for the bureaucracy) for students was defined by the school administration, but the rules were subtly different between the Taiho and Yoro Codes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>大宝律令では『九章算術』・『六章』・『綴術』の基本の3書のうち1つから3問、それ以外の6書から各1問ずつの計9問を出題して6つ正解すれば及第としたが、3問出題される基本書からの出題を間違えた場合には他の8問が正解でも不合格とされた。</j>
+<e type="trans" ver="1">In the Taiho Code, the total nine questions were delivered, three from one of the basic three documents of &quot;Kyushosanjutsu&quot;, &quot;Rokusho&quot;, and &quot;Tenjutsu&quot;, one from each of the other six documents, and they passed if answering six correctly, but failed if answering wrongly to any of three questions delivered from the basic documents even though answering the other eight correctly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Taiho Code, a total of nine questions were delivered, three from one of the three basic documents (&quot;Kyushosanjutsu&quot;, &quot;Rokusho&quot;, and &quot;Tenjutsu&quot;), and one from each of the other six documents; students passed if they answered six correctly, but failed if they gave wrong answers to any of the three questions drawn from the basic documents, even if they had answered the other eight correctly.</e>
+<cmt>Changed &quot;the total&quot; to &quot;a total of&quot;, changed &quot;basic three&quot; to &quot;three basic&quot;, enclosed document names in parentheses, inserted &quot;and&quot;, inserted semicolon, changed &quot;and they&quot; to &quot;students&quot;, changed &quot;if answering&quot; to &quot;if they answered&quot;, changed &quot;if answering wrongly&quot; to &quot;if they gave wrong answers&quot;, inserted &quot;the&quot;, changed &quot;delivered&quot; to &quot;drawn&quot;, changed &quot;even though answering the other eight correctly&quot; to &quot;even if they had answered the other eight correctly&quot;.</cmt>
+<e type="check" ver="1">In the Taiho Code, a total of nine questions were delivered, three from one of the three basic documents (&quot;Kyushosanjutsu,&quot; &quot;Rokusho&quot; and &quot;Tenjutsu&quot;), and one from each of the other six documents; students passed if they answered six correctly, but failed if they gave wrong answers to any of the three questions drawn from the basic documents, even if they had answered the other eight correctly.</e>
+<cmt>コンマの位置を訂正しました。</cmt>
+</sen>
+<sen id="31">
+<j>養老律令では方法が2通りあり、前者は『九章算術』3問と『六章』・『綴術』以外の残り6書から各1問の計9問から出題されるもの、後者は『六章』3問と『綴術』6問の計9問から出題されるもので、前者は基礎算術、後者は高等数学の知識を試した。</j>
+<e type="trans" ver="1">While there were two ways in the Yoro Code, and the total nine questions were delivered in one of the ways, three questions of &quot;Kyushosanjutsu&quot; and one from each of the remaining six documents other than &quot;Rokusho&quot; and &quot;Tenjutsu&quot;, and the total nine questions were delivered in the other way, three questions of &quot;Rokusho&quot; and six of &quot;Tenjutsu&quot;, and the former tested knowledge of basic arithmetics and the latter, that of advanced mathematics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were two methods in the Yoro Code, each of which delivered a total of nine questions: in the first, three questions were drawn from the &quot;Kyushosanjutsu&quot; with each of the remaining documents other than &quot;Rokusho&quot; and &quot;Tenjutsu&quot; providing one of the other six; in the second, three questions were drawn from &quot;Rokusho&quot; and the remaining six from &quot;Tenjutsu&quot;, so that the former method tested knowledge of basic arithmetic while the latter tested knowledge of advanced mathematics.</e>
+<cmt>Rewrote.</cmt>
+<e type="check" ver="1">There were two methods in the Yoro Code, each of which delivered a total of nine questions: in the first, three questions were drawn from the &quot;Kyushosanjutsu&quot; with each of the remaining documents other than &quot;Rokusho&quot; and &quot;Tenjutsu&quot; providing one of the other six; in the second, three questions were drawn from &quot;Rokusho&quot; and the remaining six from &quot;Tenjutsu,&quot; so that the former method tested knowledge of basic arithmetic while the latter tested knowledge of advanced mathematics.</e>
+<cmt>コンマの位置を訂正しました。</cmt>
+</sen>
+<sen id="32">
+<j>全問正解であれば甲第とされて大初位上に自動的に叙任され、『九章算術』あるいは『六章』の全問を含めた6-8問正解者は乙第とされて大初位下に叙任された。</j>
+<e type="trans" ver="1">They were automatically appointed to Daishoijo (Grater Initial Rank, Upper Grade) if answering all questions correctly and to Daishoige (Grater Initial Rank, Lower Grade) if answering six to eight correctly including all questions of &quot;Kyushosanjutsu&quot; or &quot;Rokusho&quot; as they passed the examination.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Students who answered all questions correctly were automatically appointed to Daishoijo (Greater Initial Rank, Upper Grade), while those who answered six to eight questions correctly, including all questions from &quot;Kyoshosanjutsu&quot; or &quot;Rokusho&quot;, were appointed to Daishoige (Greater Initial Rank, Lower Grade).</e>
+<cmt>Changed &quot;They&quot; to &quot;Students&quot;, corrected &quot;Grater&quot; to &quot;Greater&quot;, restructured sentence.</cmt>
+<e type="check" ver="1">Students who answered all questions correctly were automatically appointed to Daishoijo (Greater Initial Rank, Upper Grade), while those who answered six to eight questions correctly, including all questions from &quot;Kyoshosanjutsu&quot; or &quot;Rokusho,&quot; were appointed to Daishoige (Greater Initial Rank, Lower Grade).</e>
+<cmt>コンマの位置を訂正しました。</cmt>
+</sen>
+<sen id="33">
+<j>なお、天平3年（731年）以後は基本書（『九章算術』・『六章』・『綴術』）3問に加えて、『周髀算経』1問の計4問のうちから不正解を出すと及第は認められないこととなった。</j>
+<e type="trans" ver="1">Meanwhile, they could not pass the examination if answering wrongly to any of four questions, one of &quot;Shuhisankei&quot; in addition to three of the basic documents (&quot;Kyushosanjutsu&quot;, &quot;Rokusho&quot;, and &quot;Tenjutsu&quot;) after 731.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After 731, students could not pass the examination if they gave wrong answers to any one of four questions: one from the &quot;Shuhisankei&quot;, or any of the three from the basic documents (&quot;Kyushosanjutsu&quot;, &quot;Rokusho&quot;, and &quot;Tenjutsu&quot;).</e>
+<cmt>Rewrote.</cmt>
+<e type="check" ver="1">After 731, students could not pass the examination if they gave wrong answers to any one of four questions: one from the &quot;Shuhisankei,&quot; or any of the three from the basic documents (&quot;Kyushosanjutsu,&quot; &quot;Rokusho&quot; and &quot;Tenjutsu&quot;).</e>
+<cmt>コンマの位置を訂正しました。</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="34">
+<j>算得業生成立後は、7年学習して奉試に及第すると合格者は算博士や主計寮・主税寮・大宰府・造宮省（後には修理職・木工寮）に設置されていた算師に任じられる他、地方の下級国司となって租税会計事務などを扱った。</j>
+<e type="trans" ver="1">After the establishment of San tokugosho, those who learned for seven years and passed Hoshi were appointed to San hakase and Sanshi (a court official in charge of calculation) set in Syukeiryo (account office), Shuzeiryo (bureau of taxation), Dazai-fu (local government office in Kyushu region), and Zogusho (ministry of making and mending palaces) (later Shurishiki (The Palace Repairs Office) and Mokuryo (Bureau of Carpentry), and also became a lower provincial governor to handle land tax accountancy and others.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the establishment of San tokugosho, those who learned for seven years and passed Hoshi were appointed as San hakase or Sanshi (a court official in charge of calculation) and placed in the Syukeiryo (account office), Shuzeiryo (bureau of taxation), Dazai-fu (local government office in Kyushu region), Zogusho (ministry of making and mending palaces) (later Shurishiki (The Palace Repairs Office) and Mokuryo (Bureau of Carpentry), and were also made lower provincial governors who handled land tax accountancy and other such matters.</e>
+<cmt>Changed &quot;to&quot; to &quot;as&quot;, changed &quot;and&quot; to &quot;or&quot;, changed &quot;set&quot; to &quot;and placed&quot;, inserted &quot;the&quot;, changed &quot;and also became a lower provincial governor to handle land tax accountancy and others&quot; to &quot;and were also made lower provincial governmors who handled land tax accountancy and other such matters.&quot;</cmt>
+<e type="check" ver="1">After the establishment of San tokugosho, those who learned for seven years and passed Hoshi were appointed as San hakase or Sanshi (a court official in charge of calculation) and placed in the Shukeiryo (account office), Shuzeiryo (bureau of taxation), Dazai-fu (local government office in Kyushu region), Zogusho (ministry of making and mending palaces) (later Shurishiki (The Palace Repairs Office) and Mokuryo (Bureau of Carpentry), and were also made lower provincial governors who handled land tax accountancy and other such matters.</e>
+<cmt>Shukeiryo スペル訂正しました。</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="35">
+<j>当時、算術が普及せずにその知識を有する者が少なかったために官位こそは低いものの、及第して官人となった算生の持つ数的処理能力に諸官司から期待されるところは大きかった。</j>
+<e type="trans" ver="1">At that time, arithmetic did not spread and few people had its knowledge, thereby various government officials greatly expected Sansho&apos;s mathematical processing ability, who passed the examination and became government officials even though the official court rank was low.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At that time, arithmetic was not widespread and few people had such knowledge; therefore, although the official court rank of the Sansho was low, once they passed the examination and became government officials, various government officials held great expectations for their mathematical processing abilities.</e>
+<cmt>Rewrote.</cmt>
+<e type="check" ver="1">At that time, arithmetic was not widespread and few people had such knowledge; therefore, although the official court rank of the Sansho was low, once they passed the examination and became government officials, various government officials held great expectations for their mathematical processing abilities.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>ただし、それは技能としての算術・数学であって、数学的思考や教養、感性が求められたものではなく、ましてや中国に見られたような高等数学が当時の日本社会で必要とされる場面は存在しなかったと考えられ、日本数学史が独自の進歩を見せるきっかけにはなりえなかったのである。</j>
+<e type="trans" ver="1">However, it was arithmetic and mathematics as skill, and mathematical thinking, cultivation, and sensibility were not asked for, let alone it seems that advanced mathematics seen in China was not required for the Japanese society of that time and it could not become an opportunity for the Japanese history of mathematics to uniquely progress.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, this was arithmetic and mathematics as skill: mathematical thinking, cultivation, and sensibility were not sought after, and it seems that the advanced mathematics seen in China was not required by the Japanese society of that time, so this was not an opportunity for unique progress in the Japanese history of mathematics.</e>
+<cmt>Changed &quot;it&quot; to &quot;this&quot;, replaced comma with semicolon, replaced &quot;asked for&quot; with &quot;sought after&quot;, replaced &quot;let alone&quot; with &quot;and&quot;, replaced &quot;for&quot; with &quot;by&quot;, replaced &quot;and it could not become an opportunity for the Japanese history of mathematics to uniquely progress&quot; with &quot;, so this was not an opportunity for unique progress in the Japanese history of mathematics.&quot;</cmt>
+<e type="check" ver="1">However, this was arithmetic and mathematics as skill: mathematical thinking, cultivation, and sensibility were not sought after, and it seems that the advanced mathematics seen in China was not required by the Japanese society of that time, so this was not an opportunity for unique progress in the Japanese history of mathematics.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>算道の衰退</j>
+<e type="trans" ver="1">Decline of Sando</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Decline of Sando</e>
+<cmt>Inserted &quot;The&quot;</cmt>
+<e type="check" ver="1">The Decline of Sando</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="37">
+<j>大学寮が設置された当初、一般官人を育てる本科（明経道）と技術官人を育てる算道しか事実上存在していなかったが、神亀年間に律令を教える律学博士（後の明法博士）と歴史を教える文章博士が明経道から分離する形で成立し、やがて天平年間に独立した学科となり、後の明法道・紀伝道へと発展することとなる。</j>
+<e type="trans" ver="1">In the beginning of establishment of Daigaku-ryo, virtually only the regular course (Myogyodo) to educate general government officials and Sando to educate technical government officials existed, but Ritsugaku hakase (later Myoho hakase) (professor of law) to teach the Ritsuryo Code and Monjo hakase (professor of literature) to teach history were established during 724 to 729 by separating from Myogyodo and then became the independent departments during 729 to 748, which would evolve to the later Myobodo (study of Code) and Kidendo (study of the histories).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the early days of the Daigaku-ryo, the regular course (Myogyodo) for the education of general government officials and Sando, for the education of technical government officials, were virtually the only ones in existence, but somewhere between 724 and 729, Ritsugaku hakase (later Myoho hakase) (professor of law, for the teaching of the Ritsuryo Code) and Monjo hakase (professor of literature. for the teaching of history) were established by separating from Myogyodo, subsequently becoming independent departments between 729 and 748; they would later evolve into Myobodo (study of Code) and Kidendo (study of the histories).</e>
+<cmt>Changed &quot;In the beginning of establishment of&quot; to &quot;In the early days of the&quot;, removed &quot;virtually only&quot;, changed &quot;to educate&quot; to &quot;for the education of&quot;, inserted comma, changed &quot;to educate&quot; to &quot;for the education of&quot;, inserted comma, inserted &quot;were virtually the only ones in existence&quot;, deleted &quot;existed&quot;, inserted &quot;somewhere between 724 and 729,&quot;, changed &quot;of law) to teach the&quot; to &quot;of law, for the teaching of&quot;, changed &quot;of literature) to teach&quot; to &quot;of literature, for the teaching of&quot;, deleted &quot;during 724 to 729, replaced &quot;and then became&quot; with &quot;, subsequently becoming&quot;, deleted &quot;the&quot;, replaced &quot;during 729 to 748&quot; with &quot;between 729 and 748&quot;, inserted semicolon, replaced &quot;which would&quot; with &quot;they would later.</cmt>
+<e type="check" ver="1">In the early days of the Daigaku-ryo, the regular course (Myogyodo) for the education of general government officials and Sando, for the education of technical government officials, were virtually the only ones in existence, but somewhere between 724 and 729, Ritsugaku hakase (later Myoho hakase) (professor of law, for the teaching of the Ritsuryo Code) and Monjo hakase (professor of literature. for the teaching of history) were established by separating from Myogyodo, subsequently becoming independent departments between 729 and 748; they would later evolve into Myobodo (study of Code) and Kidendo (study of the histories).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="38">
+<j>こうした中で算道の地位はそれまでと大きく変動することもなく、結果的に上昇傾向にあった明法道・紀伝道とは相対的に見て地位が低下することとなった。</j>
+<e type="trans" ver="1">Despite this, Sando&apos;s position did not greatly change as before, and accordingly decreased in comparison to those of Myobodo and Kidendo in rising trend.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During all this, Sando&apos;s position did not change greatly from what it had been before, and, as Myobodo and Kidendo were on the rise, it decreased by comparison.</e>
+<cmt>Changed &quot;Despite this&quot; to &quot;During all this&quot;, replaced &quot;not greatly change as before&quot; with &quot;not change greatly from what it had been before&quot;, inserted comma, deleted &quot;accordingly decreased in comparison to those of Myobodo and Kidendo in rising trend&quot; and replaced with &quot;as Myobodo and Kidendo were on the rise, it decreased by comparison.&quot;</cmt>
+<e type="check" ver="1">During all this, Sando&apos;s position did not change greatly from what it had been before, and, as Myobodo and Kidendo were on the rise, it decreased by comparison.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>その発端は延暦21年（802年）に明法生を増やすために算生の定数を30から20に減少させたことである。</j>
+<e type="trans" ver="1">It took root in the decrease of the regular number of Sansho from thirty to twenty to increase that of Myobosho (student of law studies) in 802.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It began with the 802 decrease of regular Sansho students from from thirty to twenty in order to increase the number of Myobosho (students of law studies).</e>
+<cmt>Replaced &quot;It took root in&quot; with &quot;It began with&quot;, inserted &quot;802&quot;, deleted &quot;the&quot; and &quot;number&quot;, inserted &quot;students&quot;, inserted &quot;in order to&quot;, inserted &quot;the number of&quot;, made &quot;students&quot; plural, deleted &quot;in 802&quot;.</cmt>
+<e type="check" ver="1">It began with the 802 decrease of regular Sansho students from thirty to twenty in order to increase the number of Myobosho (students of law studies).</e>
+<cmt>繰り返しのfrom削除しました。</cmt>
+</sen>
+<sen id="40">
+<j>続いて律令制の衰退に伴う地方政治の紊乱によって算道に対する需要が減少していくことになる。</j>
+<e type="trans" ver="1">Then, the demand for Sando decreased by the corruption of local politics posed by the decline of the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Then, the demand for Sando decreased due to the corruption of local politics posed by the decline of the Ritsuryo system.</e>
+<cmt>Replaced &quot;by&quot; with &quot;due to&quot;.</cmt>
+<e type="check" ver="1">Then, the demand for Sando decreased due to the corruption of local politics posed by the decline of the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>更に他の学科でも同様であったが、算博士の推薦を受けて成業（得業生及び奉試及第）の見込みのない者を無試験で地方国司や京官の下級役人に推挙する算道挙・算道年挙が行われるようになったり、一般の算生でも一定の条件を満たせば得業生に準じた奉試受験資格を得て試験を受けることが出来るようになった（准得業生試）。</j>
+<e type="trans" ver="1">Furthermore, it was the same in the other departments and gradually Sando-kyo and Sando-nenkyo to recommend those who unlikely becoming Jogo (a student who completed a course) (Tokugosho (Distinguished Scholars of Numbers) and Hoshikyudai (examination passed)) to the provincial governor and low-level functionary of Capital officials without examination recommended by San hakase, and also it was made possible for general Sansho to be qualified according to Tokugosho by satisfying a certain condition and take an examination (Juntokugyoshoshi (Associate Distinguished Scholars of Numbers)).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was the same in the other departments, and gradually Sando-kyo and Sando-nenkyo began to recommend those who were unlikely to become Jogo (a student who completed a course) (Tokugosho (Distinguished Scholars of Numbers) and Hoshikyudai (examination passed)) as provincial governors and low-level functionaries of Capital officials without the examination recommended by San hakase; additionally, it was made possible for general Sansho to be qualified according to Tokugosho by satisfying certain conditions and taking an examination (Juntokugyoshoshi (Associate Distinguished Scholars of Numbers)).</e>
+<cmt>Deleted &quot;Furthermore&quot;, inserted &quot;began&quot;, replaced &quot;who unlikely becoming&quot; with &quot;who were unlikely to become&quot;, replaced &quot;to the&quot; with &quot;as&quot;, made &quot;governors&quot; and &quot;functionaries&quot; plural, inserted &quot;the&quot;, inserted semicolon, replaced &quot;and also&quot; with &quot;additionally,&quot;, replaced &quot;a certain condition&quot; with &quot;certain conditions&quot; replaced &quot;and take&quot; with &quot;and taking&quot;.</cmt>
+<e type="check" ver="1">It was the same in the other departments, and gradually Sando-kyo and Sando-nenkyo began to recommend those who were unlikely to become Jogo (a student who completed a course) (Tokugosho (Distinguished Scholars of Numbers) and Hoshikyudai (examination passed)) as provincial governors and low-level functionaries of Capital officials without the examination recommended by San hakase; additionally, it was made possible for general Sansho to be qualified according to Tokugosho by satisfying certain conditions and taking an examination (Juntokugyoshoshi (Associate Distinguished Scholars of Numbers)).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="42">
+<j>こうした状況下では、算道は実質上明経道に吸収された書道・音道に代わって成立した紀伝・明経・明法・算の4道の中で最下位に転落することとなった。</j>
+<e type="trans" ver="1">Under these circumstances, Sando fell into the bottom in four studies of Kiden (biographical history), Myogyo (study of classic Confucian writings), Myobo (law), and San (arithmetic) established by replacing Shodo and Ondo which were actually absorbed in Myogyo-do.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under these circumstances, Sando fell to the bottom among the four studies of Kiden (biographical history), Myogyo (study of classic Confucian writings), Myobo (law), and San (arithmetic); these had been established to replace Shodo and Ondo, which were actually absorbed into Myogyo-do.</e>
+<cmt>Replaced &quot;into&quot; with &quot;to&quot;, replaced &quot;in&quot; with &quot;among the&quot;, inserted semicolon, inserted &quot;these had been&quot;, changed &quot;by replacing&quot; to &quot;to replace&quot;, inserted comma, changed &quot;in&quot; to &quot;into&quot;.</cmt>
+<e type="check" ver="1">Under these circumstances, Sando fell to the bottom among the four studies of Kiden (biographical history), Myogyo (study of classic Confucian writings), Myobo (law), and San (arithmetic); these had been established to replace Shodo and Ondo, which were actually absorbed into Myogyo-do.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="43">
+<j>更に算博士も必ず主税寮か主計寮の頭か助を兼務して更に2名中1名は五位史を兼ねることになった（『官職秘抄』）。</j>
+<e type="trans" ver="1">Furthermore, San hakase always worked as a head or an assistant of Shuzeiryo (Bureau of Taxation) or Syukeiryo (Bureau of Popular Affairs)) as well, and also one of two also worked as Goinosakan (the lowest class official in four class officials) (&quot;Kanshoku hisho (a text describing rules of ceremony and etiquette to be observed in the imperial court and by samurai that was written during the early Heian period in around 1200)&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, San hakase always had additional duties as heads or assistants in the Shuzeiryo (Bureau of Taxation) or Syukeiryo (Bureau of Popular Affairs)), and one in two also worked as Goinosakan (the lowest class official in four class officials) (&quot;Kanshoku hisho (a text describing rules of ceremony and etiquette to be observed in the imperial court and by samurai that was written during the early Heian period in around 1200)&quot;).</e>
+<cmt>Replaced &quot;always worked as&quot; with &quot;always had additional duties as&quot;, replaced &quot;a head or an assistant of&quot; with &quot;heads or assistants in&quot;, deleted &quot;as well&quot;, deleted &quot;also&quot;, replaced &quot;of&quot; with &quot;in&quot;.</cmt>
+<e type="check" ver="1">Furthermore, San hakase always had additional duties as heads or assistants in the Shuzeiryo (Bureau of Taxation) or Syukeiryo (Bureau of Popular Affairs), and one in two also worked as Goinosakan (the lowest class official in four class officials) (&quot;Kanshoku hisho&quot; (a text describing rules of ceremony and etiquette to be observed in the Imperial Court and by samurai that was written during the early Heian period in around 1200)).</e>
+<cmt>括弧の位置を訂正しました。Imperial Courtに訂正しました。</cmt>
+</sen>
+<sen id="44">
+<j>これは、算博士の職掌が次第に算生の教育よりも中央の財務・経理官人としての職務に移りつつあったことの反映であった。</j>
+<e type="trans" ver="1">This reflected that official duties of San hakase was gradually transferring to those of central government officials of finance and accounting, rather than those of Sansho educator.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This reflected the gradual shift of the official duties of San hakase to those of central government officials of finance and accounting, rather than those of Sansho educators.</e>
+<cmt>Changed &quot;that official duties of San hakase was gradually transferring to&quot; to &quot;the gradual shift of the official duties of San hakase to&quot;, made &quot;educators&quot; plural.</cmt>
+<e type="check" ver="1">This reflected the gradual shift of the official duties of San hakase to those of central government officials of finance and accounting, rather than those of Sansho educators.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="45">
+<j>貞観 (日本)13年（871年）に算博士の官位相当が正七位下に引き上げられたのも、算道の隆盛とは正反対の算博士の算道以外の職務が重視された結果であった。</j>
+<e type="trans" ver="1">The official court rank equivalent to San hakase was raised to Shoshichiinoge (Senior Seventh Rank, Lower Grade) in 871 and this was a result that the duties other than Sando of San hakase were highly regarded, just the opposite to the prosperity of Sando.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 871, in stark contrast to Sando&apos;s waning prosperity, the official court rank equivalent to San hakase was raised to Shoshichiinoge (Senior Seventh Rank, Lower Grade), a result of the high regard given to the duties of the San hakase other than Sando.</e>
+<cmt>Rewrote.</cmt>
+<e type="check" ver="1">In 871, in stark contrast to Sando&apos;s waning prosperity, the official court rank equivalent to San hakase was raised to Shoshichiinoge (Senior Seventh Rank, Lower Grade), a result of the high regard given to the duties of the San hakase other than Sando.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>この頃になると、算博士の世襲化が進み算道によって奉試に合格するとともに、譜第の家系であることが算博士就任の要件とされるようになり、当初は家原氏・大蔵氏が平安時代前期には世襲化も兆候を見せるものの長続きせず、両氏の没落後は小槻氏・三善氏の両氏が世襲するようになり、自己の算道を家学・秘伝化し、また有能な門人を養子として家名を継承させることで他氏を排除するようになった。</j>
+<e type="trans" ver="1">Around this time, the heredity of San hakase proceeded and passing Hoshi by Sando as well as being in the hereditary family became the requirements for assuming San hakase, and initially the Iehara and Okura clans began to make it into the heredity, but did not last in the early Heian period, then the Ozuki and Miyoshi clans started hereditary after the above clans ruined, made own Sando hereditary learning and secret teachings, and removed other clans by adopting capable disciples to inherit the family names.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Around this time, the heredity of San hakase grew in importance, and being part of a hereditary family joined passing Hoshi as a requirement for assuming the role of San hakase; initially, in the early Heian period, the Iehara and Okura clans began to make it into the heredity, but this did not last; then, after the ruin of the preceding clans, the Ozuki and Miyoshi clans began to utilize heredity, made their own Sando into hereditary learning and secret teachings, and excluded other clans by adopting capable disciples to inherit the family name.</e>
+<cmt>Replaced &quot;proceeded&quot; with &quot;grew in importance&quot;, replaced &quot;passing Hoshi by Sando as well as being in the hereditary family became the requirements&quot; with &quot;and being part of a hereditary family joined passing Hoshi as a requirement&quot;, inserted &quot;the role of&quot;, inserted semicolon, deleted &quot;, and&quot;, inserted &quot;in the early Heian period&quot;, replaced &quot;but did not last in the early Heian period&quot; with &quot;, but did not last&quot;, inserted semicolon, inserted &quot;, after the ruin of the preceding clans,&quot; replaced &quot;started hereditary&quot; with &quot;began to utilize heredity&quot;, deleted &quot;after the above clans ruined&quot;, inserted &quot;their&quot; and &quot;into&quot;, replaced &quot;removed&quot; with &quot;excluded&quot;, changed &quot;names&quot; from plural to singular.</cmt>
+<e type="check" ver="1">Around this time, the heredity of San hakase grew in importance, and being part of a hereditary family joined passing Hoshi as a requirement for assuming the role of San hakase; initially, in the early Heian period, the Iehara and Okura clans began to make it into the heredity, but this did not last; then, after the ruin of the preceding clans, the Ozuki and Miyoshi clans began to utilize heredity, made their own Sando into hereditary learning and secret teachings, and excluded other clans by adopting capable disciples to inherit the family name.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="47">
+<j>こうして、算道は世襲による閉鎖的な学術となって、日本数学史は停滞の時代を迎えた。</j>
+<e type="trans" ver="1">As a result, Sando became closed learning by heredity and the Japanese history of mathematics entered the times of stagnation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a result, heredity made Sando a closed discipline, and the Japanese history of mathematics entered a time of stagnation.</e>
+<cmt>Replaced &quot;Sando became closed learning by heredity&quot; with &quot;heredity made Sando a closed discipline&quot;, replaced &quot;the times&quot; with &quot;a time&quot;.</cmt>
+<e type="check" ver="1">As a result, heredity made Sando a closed discipline, and the Japanese history of mathematics entered a time of stagnation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>『今昔物語集』巻24第22及び『宇治拾遺物語』185話に登場する高階俊平入道の弟が算道で人の生死を操って、人々から「おそろしき算の道」と恐れられたとされる話は最早、算術・数学が科学どころか学問ではなく、呪術として人々に怖れ嫌悪されていった実情を示していた。</j>
+<e type="trans" ver="1">In &quot;Konjaku Monogatari (Shu)&quot; (The Tale of Times Now Past) Volume twenty-four, Number twenty-two and &quot;Uji Shui Monogatari&quot; (a collection of the Tales from Uji) Episode one hundred and eighty-five, a younger brother of Nyudo Toshihira TAKASHINA controlled human&apos;s life and death by Sando and people feared calling &apos;terrible Sando&apos;, which indicated the actual condition that arithmetic and mathematics were no longer learning, much less science, feared and detested as a magic (spell).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In &quot;Konjaku Monogatari (Shu)&quot; (The Tale of Times Now Past) Volume twenty-four, Number twenty-two and &quot;Uji Shui Monogatari&quot; (a collection of the Tales from Uji) Episode one hundred and eighty-five, a younger brother of Nyudo Toshihira TAKASHINA controlled human life and death with Sando, and people feared it, calling it &apos;terrible Sando&apos;, which mirrored the actual condition that arithmetic and mathematics were no longer considered learning, much less science, and were feared and detested as magic (spells).</e>
+<cmt>Deleted &quot;&apos;s&quot; from &quot;human&quot;, replaced &quot;by&quot; with &quot;with, inserted comma, inserted &quot;it,&quot;, inserted &quot;it&quot;, replaced &quot;indicated&quot; with &quot;mirrored&quot;, inserted &quot;considered&quot;, inserted &quot;and were&quot;, deleted &quot;a&quot;, made &quot;spell&quot; singular.</cmt>
+<e type="check" ver="1">In &quot;Konjaku Monogatari (Shu)&quot; (The Tale of Times Now Past) Volume 24, Chapter 22 and &quot;Uji Shui Monogatari&quot; (a collection of the Tales from Uji) Episode 185, a younger brother of Nyudo Toshihira TAKASHINA controlled human life and death with Sando, and people feared it, calling it &apos;terrible Sando,&apos; which mirrored the actual condition that arithmetic and mathematics were no longer considered learning, much less science, and were feared and detested as magic (spells).</e>
+<cmt>Volume 24, Chapter 22に訂正しました。数字に訂正しました。コンマの位置を訂正しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="49">
+<j>日本の数学が「和算」の姿にて再び学問として復活するのは、近世初期の『塵劫記』の時代以後のことになる。</j>
+<e type="trans" ver="1">Only after the days of &quot;Jinkoki&quot; (a mathematical book) in the early modern period, the Japanese mathematics resurrected as learning again in the similitude of &apos;Wasan (Japanese mathematics)&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Only after the days of &quot;Jinkoki&quot; (a mathematical book) in the early modern period were Japanese mathematics again resurrected as learning in the shape of &apos;Wasan (Japanese mathematics)&apos;.</e>
+<cmt>Deleted comma, inserted &quot;were&quot;, inserted &quot;again&quot;, deleted &quot;again&quot;, replaced &quot;similitude&quot; with &quot;shape&quot;.</cmt>
+<e type="check" ver="1">Only after the days of &quot;Jinkoki&quot; (a mathematical book) in the early modern period were Japanese mathematics again resurrected as learning in the shape of &apos;Wasan&apos; (Japanese mathematics).</e>
+<cmt>括弧の位置を訂正しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Straysheep(id:42448), 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

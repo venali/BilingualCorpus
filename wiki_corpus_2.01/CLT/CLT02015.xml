@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>大日本沿海輿地全図</j>
+<e type="trans" ver="1">Dainihon Enkaiyochi Zenzu (a map of Japan)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dainihon Enkaiyochi Zenzu (a map of Japan)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Dainihon Enkaiyochi Zenzu (a map of Japan)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>大日本沿海輿地全図（だいにほんえんかいよちぜんず）は、江戸時代後期の測量家伊能忠敬が中心となって作製された日本全土の実測地図である。</j>
+<e type="trans" ver="1">Dainihon Enkaiyochi Zenzu is a surveyed map of all of Japan drawn by Tadataka INO, a geographical surveyor in the late Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dainihon Enkaiyochi Zenzu is a surveyed map of the whole of Japan drawn by Tadataka INO, a geographical surveyor in the late Edo period.</e>
+<cmt>all of→ the whole of</cmt>
+<e type="check" ver="1">Dainihon Enkaiyochi Zenzu is a surveyed map of the whole of Japan drawn by Tadataka INO, a geographical surveyor in the late Edo period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>「伊能図（いのうず）」とも称される。</j>
+<e type="trans" ver="1">It is also called &quot;Ino map.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also called &quot;Ino map.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also called &quot;Ino map.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>完成は文政4年（1821年）。</j>
+<e type="trans" ver="1">It was completed in 1821.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was completed in 1821.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was completed in 1821.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>作製の経緯</j>
+<e type="trans" ver="1">Details of drawing</e>
+<cmt></cmt>
+<e type="trans" ver="2">Details of drawing</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Details of drawing</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>本図は、寛政12年（1800年）から文化 (元号)13年（1816年）にかけて江戸幕府の事業として測量・作製が行われたものである。</j>
+<e type="trans" ver="1">This complete map was drawn as a part of operations of the Edo Bakufu (Japanese feudal government headed by a shogun) based on the survey conducted from 1800 to 1816 by the Bakufu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This map was drawn based on the survey conducted from 1800 to 1816 as a part of operations of the Edo Bakufu (Japanese feudal government headed by a shogun).</e>
+<cmt>全体の構成を少し修正しました。</cmt>
+<e type="check" ver="1">This map was drawn based on the survey conducted from 1800 to 1816 as a part of operations of the Edo Bakufu (Japanese feudal government headed by a shogun).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>上総国出身で商人だった伊能忠敬（1745年 - 1818年）は隠居後に学問を本格的に開始し、江戸で幕府天文方の高橋至時（1764年 - 1804年）に師事し、測量・天体観測などについて修めていた。</j>
+<e type="trans" ver="1">Tadataka INO (1745-1818), a merchant from Kazusa Province, started to study in earnest after retiring from the business and was learning about measurement and astronomical observation in Edo under Yoshitoki TAKAHASHI of Tenmonkata (Astronomical Institute) of the Edo Bakufu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tadataka INO (1745 - 1818), a merchant from Kazusa Province, started to study in earnest after retiring from the business and studied measurement and astronomical observation in Edo under Yoshitoki TAKAHASHI (1764 - 1804) of Tenmonkata (Astronomical Institute) of the Edo Bakufu.</e>
+<cmt>TAKAHASHIの後の生没年の訳抜け。 was learning→ studied</cmt>
+<e type="check" ver="1">Tadataka INO (1745 - 1818), a merchant from Kazusa Province, started to study in earnest after retiring from the business and studied measurement and astronomical observation in Edo under Yoshitoki TAKAHASHI (1764 - 1804) of Tenmonkata (Astronomical Institute) of the Edo Bakufu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>当時、地球の緯度1度の長さについて、30里、32里あるいは25里などと諸説があったなか、高橋・伊能師弟はこれを正確に測定するという目標を有していた。</j>
+<e type="trans" ver="1">In those days there were several theories pertaining to the length of a degree of latitude of the earth, arguing whether it was 30-ri (&quot;ri&quot; is about 3.927km), 32-ri or 25-ri, and TAKAHASHI and INO aimed to measure this length correctly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In those days there were several theories about the latitudinal length of the earth, argued whether it was 30-ri (&quot;ri&quot; is about 3.927km), 32-ri or 25-ri, and TAKAHASHI and INO aimed to measure this length correctly.</e>
+<cmt>pertaining →about, the length～→the latitudinal, arguing→argued,</cmt>
+<e type="check" ver="1">In those days there were several theories about the latitudinal length of the earth, argued whether it was 30-ri (&quot;ri&quot; is about 3.927km), 32-ri or 25-ri, and TAKAHASHI and INO aimed to measure this length correctly.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>そこで高橋は幕府に伊能を推薦し、当時ロシア帝国南下の脅威に備えて海岸線防備を増強する必要があった蝦夷地（現在の北海道）の測量を兼ねて、その往復の北関東・東北地方を測量することで子午線1度の測定を行わせるよう願い出た。</j>
+<e type="trans" ver="1">Thus TAKAHASHI recommended INO to the Bakufu and asked for permission to measure a degree of the meridian by surveying North Kanto and Tohoku regions on his way to and from Ezochi (inhabited area of Ainu), today&apos;s Hokkaido, which he would survey as well because coastal defense had to be strengthened there in case of an advance southward of the Russian Empire.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thus TAKAHASHI recommended INO to the Bakufu and asked for permission to measure a degree of the meridian by surveying North Kanto and Tohoku regions on his way to and from Ezochi (inhabited area of Ainu, the present Hokkaido) which he would survey as well because coastal defense had to be strengthened there in case of an advance southward of the Russian Empire.</e>
+<cmt>括弧の位置を修正しました。</cmt>
+<e type="check" ver="1">Thus TAKAHASHI recommended INO to the Bakufu and asked for permission to measure a degree of the meridian by surveying North Kanto and Tohoku regions on his way to and from Ezochi (inhabited area of Ainu, the present Hokkaido) which he would survey as well because coastal defense had to be strengthened there in case of an advance southward of the Russian Empire.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>こうして幕府の許可を得た伊能は寛政12年（1800年）、私財を投じて第1次測量として蝦夷地および東北・北関東の測量を開始した。</j>
+<e type="trans" ver="1">Granted permission, INO, at his own expense, started to survey North Kanto and Tohoku regions as well as Ezochi in his first survey.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Granted permission, INO, at his own expense, started to survey North Kanto and Tohoku regions as well as Ezochi in his first survey in 1800.</e>
+<cmt>年号の訳抜けに対応しました。</cmt>
+<e type="check" ver="1">Granted permission, INO, at his own expense, started to survey North Kanto and Tohoku regions as well as Ezochi in his first survey in 1800.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>各地の測量には幕府の許可を要したが、幕府も西洋列強の艦船が頻繁に日本近海に現れるようになったため国防上、全国沿岸地図の必要を痛感しており、伊能の事業を有益だと判断したため、測量許可のみならず、全国各藩にも協力させた。</j>
+<e type="trans" ver="1">Though he had to ask the Bakufu for permission to survey various areas, the Bakufu not only granted him permission but also ordered domains throughout the country to cooperate with him because it determined that his operations were beneficial, perceiving a pressing need for a national coastal map in terms of national defense, with warships of the Western posers frequently witnessed in the sea of Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though he had to ask the Bakufu for permission to survey various areas, the Bakufu not only granted him permission but also ordered domains throughout the country to cooperate with him because it determined that his operations were beneficial, perceiving a pressing need for a national coastal map in terms of national defense, with warships of the Western posers frequently witnessed in the sea of Japan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Though he had to ask the Bakufu for permission to survey various areas, the Bakufu not only granted him permission but also ordered domains throughout the country to cooperate with him because it determined that his operations were beneficial, perceiving a pressing need for a national coastal map in terms of national defense, with warships of the Western posers frequently witnessed in the sea of Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>蝦夷地測量の翌年の享和元年（1801年）には本州東海岸、東北西海岸、東海地方・北陸地方沿岸の測量を完了。</j>
+<e type="trans" ver="1">He surveyed Ezochi and the next year, in 1801, he finished the survey of the east coast of Honshu (the main island of Japan), the west coast of Tohoku region and the coasts of Tokai and Hokuriku regions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He surveyed Ezochi and the next year, in 1801, he finished the survey of the east coast of Honshu (the main island of Japan), the west coast of Tohoku region and the coasts of Tokai and Hokuriku regions.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He surveyed Ezochi and the next year, in 1801, he finished the survey of the east coast of Honshu (the main island of Japan), the west coast of Tohoku region and the coasts of Tokai and Hokuriku regions.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>文化元年（1804年）には、それまでの測量の結果をまとめ、大図69枚・中図3枚・小図1枚（大中小図については後述）からなる東日本の地図をいったん幕府に提出。</j>
+<e type="trans" ver="1">In 1804 he put together his past survey results and submitted to the Bakufu a complete map of eastern Japan consisting of sixty-nine large maps, three medium-sized maps and one small map. (Further information on large, medium-sized and small maps can be found below)</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1804 he put together his past survey results and submitted to the Bakufu a complete map of eastern Japan consisting of 69 large maps, 3 medium-sized maps and a small map (Further information on large, medium-sized and small maps can be found below).</e>
+<cmt>数字をローマ字表記から修正しました。</cmt>
+<e type="check" ver="1">In 1804 he put together his past survey results and submitted to the Bakufu a complete map of eastern Japan consisting of 69 large maps, 3 medium-sized maps and a small map (Further information on large, medium-sized and small maps can be found below).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>征夷大将軍徳川家斉の上覧に供した。</j>
+<e type="trans" ver="1">The complete map was shown to the seii taishogun (literally, &quot;great general who subdues the barbarians&quot;) Ienari TOKUGAWA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The complete map was shown to the seii taishogun (literally, &quot;great general who subdues the barbarians&quot;) Ienari TOKUGAWA.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The complete map was shown to the seii taishogun (literally, &quot;great general who subdues the barbarians&quot;) Ienari TOKUGAWA.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>なお、子午線1度の長さについては28.2里（約110.74キロメートル）と算出し、今日の計測値と較べても極めて誤差の少ない数値となっている。</j>
+<e type="trans" ver="1">As to the length of a degree of the meridian, he calculated it was 28.2-ri (about 110.74km), a quite accurate figure compared even with today&apos;s measurements.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As to the length of a degree of the meridian, he calculated it was 28.2-ri (about 110.74km), a quite accurate figure compared even with today&apos;s measurements.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As to the length of a degree of the meridian, he calculated it was 28.2-ri (about 110.74km), a quite accurate figure compared even with today&apos;s measurements.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>従来の日本地図とは異なり、実測を元にした非常に正確・精密な地図の質の高さに幕府上層部も大いに驚き、伊能の測量事業への支援を強化することとなる。</j>
+<e type="trans" ver="1">The top management of the Bakufu was greatly surprised at the high quality of the very accurate and precise maps, which were drawn on the basis of local survey unlike the previous maps of Japan, and decided to strengthen support for INO&apos;s survey operations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The top management of the Bakufu was greatly surprised at the high quality of the very accurate and precise maps which were drawn on the basis of local survey unlike the previous maps of Japan and decided to strengthen support for INO&apos;s survey operations.</e>
+<cmt>コンマを除きました。</cmt>
+<e type="check" ver="1">The top management of the Bakufu was greatly surprised at the high quality of the very accurate and precise maps which were drawn on the basis of local survey unlike the previous maps of Japan and decided to strengthen support for INO&apos;s survey operations.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>伊能は正式に幕府天文方の役人として雇用され、翌文化2年（1805年）の第5次測量からは、幕府直轄事業として行われることとなった。</j>
+<e type="trans" ver="1">INO was officially employed as an officer of Tenmonkata of the Edo Bakufu and his fifth (1805) and subsequent surveys were conducted as operations under direct control of the Bakufu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">INO was officially employed as an officer of Tenmonkata of the Edo Bakufu and his surveys were conducted as operations under direct control of the Bakufu from the fifth survey (in 1805).</e>
+<cmt>the fifth～の位置を修正。</cmt>
+<e type="check" ver="1">INO was officially employed as an officer of Tenmonkata of the Edo Bakufu and his surveys were conducted as operations under direct control of the Bakufu from the fifth survey (in 1805).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="16">
+<j>以後、伊能らは文化13年（1816年）の第10次測量まで（第9次測量のみ伊能は不参加）日本全土を歩測した。</j>
+<e type="trans" ver="1">Thereafter, INO and his men walked throughout Japan until the tenth survey in 1816 (except for the ninth survey, in which INO did not participate).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thereafter, INO and his men walked throughout Japan until the tenth survey conducted in 1816 (INO did not participate only in the ninth survey).</e>
+<cmt>conductedを挿入、括弧の中を修正しました。</cmt>
+<e type="check" ver="1">Thereafter, INO and his men walked throughout Japan until the tenth survey conducted in 1816 (INO did not participate only in the ninth survey).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>また蝦夷地北部宗谷支庁附近に関しては、測量術の弟子である間宮林蔵（1780年 - 1844年）の観測結果を採り入れている。</j>
+<e type="trans" ver="1">As to the areas near Soya Subprefecture in the north of Ezochi, he adopted the survey results by Rinzo MAMIYA (1780-1844), his pupil in surveying.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As to the areas near Soya Subprefecture in the north of Ezochi, he adopted the survey results by Rinzo MAMIYA (1780-1844), his pupil in surveying.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As to the areas near Soya Subprefecture in the north of Ezochi, he adopted the survey results by Rinzo MAMIYA (1780-1844), his pupil in surveying.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>伊能は文化15年（1818年）に完成を待たずに死去するが、その喪は伏せられ、師・高橋至時の子である高橋景保（1785年 - 1829年）が仕上げ作業を監督し、文政4年7月10日 (旧暦)（1821年8月7日）「大日本沿海輿地全図」が完成。</j>
+<e type="trans" ver="1">INO passed away in 1818 before completion of the complete map, but his death was kept secret and Kageyasu TAKAHASHI, a son of his master Yoshitoki TAKAHASHI, led the finishing operation until &quot;Dainihon Enkaiyochi Zenzu&quot; was completed on August 7, 1821.</e>
+<cmt></cmt>
+<e type="trans" ver="2">INO passed away in 1818 before the map was completed, but his death was hidden and Kageyasu TAKAHASHI (1785 - 1829), a son of his master Yoshitoki TAKAHASHI, led the finishing operation until &quot;Dainihon Enkaiyochi Zenzu&quot; was completed on August 7, 1821.</e>
+<cmt>kept secretを修正。生没年の訳抜けに対応しました。</cmt>
+<e type="check" ver="1">INO passed away in 1818 before the map was completed, but his death was hidden and Kageyasu TAKAHASHI (1785 - 1829), a son of his master Yoshitoki TAKAHASHI, led the finishing operation until &quot;Dainihon Enkaiyochi Zenzu&quot; was completed on August 7, 1821.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>全国に渡る緯度・測量結果を収録した「大日本沿海実測録」とともに幕府若年寄に提出された。</j>
+<e type="trans" ver="1">It was submitted to wakadoshiyori (a managerial position in Edo bakufu) along with &quot;Dainihon Enkai Jissokuroku,&quot; a record of latitude and survey results throughout Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was submitted to wakadoshiyori (a managerial position in Edo bakufu) along with &quot;Dainihon Enkai Jissokuroku,&quot; a record of latitude and survey results throughout Japan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was submitted to wakadoshiyori (a managerial position in Edo bakufu) along with &quot;Dainihon Enkai Jissokuroku,&quot; a record of latitude and survey results throughout Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>地図としての特徴</j>
+<e type="trans" ver="1">Characteristics as a map</e>
+<cmt></cmt>
+<e type="trans" ver="2">Characteristics as a map</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Characteristics as a map</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="20">
+<j>測量結果を基に、江戸で伊能らが作図作業を行った。</j>
+<e type="trans" ver="1">&quot;Dainihon Enkairyochi Zenzu&quot; was drawn by INO in Edo based on survey results.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Dainihon Enkairyochi Zenzu&quot; was drawn by INO in Edo based on survey results.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;Dainihon Enkairyochi Zenzu&quot; was drawn by INO in Edo based on survey results.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>すべて手書きの彩色地図で、利用上の便宜のため以下の3種類の縮尺の地図が作製された。</j>
+<e type="trans" ver="1">It is all colored and hand-written, and consists of maps with the following three scales for convenience of use.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is all colored and hand-written, and consists of maps with the following three scales for convenience of use.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is all colored and hand-written, and consists of maps with the following three scales for convenience of use.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="22">
+<j>大図 1里3寸6分 (数)（縮尺1/36,000、全214枚）</j>
+<e type="trans" ver="1">Large maps with a scale of 1 to 36,000, 214 sheets in total</e>
+<cmt></cmt>
+<e type="trans" ver="2">Large maps on a scale of 1 to 36,000, 214 sheets in total</e>
+<cmt>with→on</cmt>
+<e type="check" ver="1">Large maps on a scale of 1 to 36,000, 214 sheets in total</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="23">
+<j>最も詳細に描かれた地図。</j>
+<e type="trans" ver="1">They are the most minutely drawn maps.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They are the most minutely drawn maps.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They are the most minutely drawn maps.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>北は宗谷岬、南は屋久島、東は国後島、西は五島列島までの海岸線および内陸河川の形状をつぶさに描く。</j>
+<e type="trans" ver="1">The contour of all the coastlines and continental rivers was drawn in detail from Cape Soya in the north to Yakushima Island in the south, from Kunashiri Island in the east to the Goto Islands in the west.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The contour of all the coastlines and continental rivers was drawn in detail from Cape Soya in the north to Yakushima Island in the south, from Kunashiri Island in the east to the Goto Islands in the west.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The contour of all the coastlines and continental rivers was drawn in detail from Cape Soya in the north to Yakushima Island in the south, from Kunashiri Island in the east to the Goto Islands in the west.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>その他、地図内には国郡名、境界線、領主名、村落、寺社名、河川名、磯・浜の種類、田畑、塩田なども記入し、海岸線のみならず、詳細な地図情報が記載されている。</j>
+<e type="trans" ver="1">Other than that, the names and borders of provinces, landlords&apos; names, villages, the names of temples and rivers, the types of rocky shores and beaches, rice fields and vegetable fields, and salt farms are also drawn in the maps, and not only the coastlines but also map information in detail is shown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Besides, the names and borders of provinces and counties, the names of feudal lords, villages, the names of temples and rivers, the types of rocky shores and beaches, rice fields and vegetable fields, and salt farms are also on the maps, and not only the coastlines but also map information is shown in detail.</e>
+<cmt>On the～、landlods～、drawn in、の部分と、in detailの位置を修正しました。</cmt>
+<e type="check" ver="1">Besides, the names and borders of provinces and counties, the names of feudal lords, villages, the names of temples and rivers, the types of rocky shores and beaches, rice fields and vegetable fields, and salt farms are also on the maps, and not only the coastlines but also map information is shown in detail.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>なお、大図には緯度線・経度線は記入されていない。</j>
+<e type="trans" ver="1">However, no parallels or longitude lines are shown in the large maps.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, no lines of latitude and longitude are shown on the large maps.</e>
+<cmt>in→ on, parallels～の部分を修正。</cmt>
+<e type="check" ver="1">However, no lines of latitude and longitude are shown on the large maps.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="27">
+<j>中図 1里6分（縮尺1/216,000、全8枚）</j>
+<e type="trans" ver="1">Medium-sized maps with a scale of 1 to 216,000, 8 sheets in total</e>
+<cmt></cmt>
+<e type="trans" ver="2">Medium-sized maps on a scale of 1 to 216,000, 8 sheets in total</e>
+<cmt>with→on</cmt>
+<e type="check" ver="1">Medium-sized maps on a scale of 1 to 216,000, 8 sheets in total</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="28">
+<j>縮尺の都合上、大図と較べて地名などの記載内容は若干簡略化されているが、代わりに緯度・経度線が引かれている。</j>
+<e type="trans" ver="1">For convenience of reduction, data shown in the medium-sized maps, including geographical names, are simplified to some extent compared with those in the large maps, but latitude and longitude lines are shown in these maps instead.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For convenience of reduction, data shown on the medium-sized maps, including geographical names, are simplified to some extent compared with those on the large maps, but the lines of latitude and longitude are shown on these maps instead.</e>
+<cmt>in→ on, lines～の部分を修正。</cmt>
+<e type="check" ver="1">For convenience of reduction, data shown on the medium-sized maps, including geographical names, are simplified to some extent compared with those on the large maps, but the lines of latitude and longitude are shown on these maps instead.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>京都西三条改暦所を通る子午線を本初子午線として経度の基準とし、実測値を元に経度・緯度1度ごとに直交する度線を引いてある（西洋のサンソン図法に近いとされるが異説もある）。</j>
+<e type="trans" ver="1">A meridian which crosses the calendar revision office in Nishisanjo, Kyoto is used as the prime meridian, the basis of longitude, and latitude and longitude lines that run at right angles to one another are drawn at each degree of latitude and longitude on the basis of actual measured values (Some theories insist that such a method is similar to Sanson projection of the West).</e>
+<cmt></cmt>
+<e type="trans" ver="2">A meridian which crosses the calendar revision office in Nishisanjo, Kyoto is used as the prime meridian, the basis of longitude, and the lines that cross at right angles to each degree of latitude and longitude are drawn on the basis of actual measured values (Some theories insist that such a method is similar to Sanson projection of the West).</e>
+<cmt>and latitude～の部分を修正しました。</cmt>
+<e type="check" ver="1">A meridian which crosses the calendar revision office in Nishisanjo, Kyoto is used as the prime meridian, the basis of longitude, and the lines that cross at right angles to each degree of latitude and longitude are drawn on the basis of actual measured values (Some theories insist that such a method is similar to Sanson projection of the West).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>ただし、伊能は地球を球体として考えていた（実際には地球は完全な球ではなく回転楕円体に近い）ため、緯度・経度ともに若干の誤差が生じている。</j>
+<e type="trans" ver="1">However, as INO considered the earth to be a sphere (actually it is not a complete sphere but rather a spheroid), the maps have some error both in latitude and in longitude.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, as INO considered the earth to be a sphere (actually it is not a complete sphere but rather a spheroid), the maps have some errors both in latitude and in longitude.</e>
+<cmt>error→errors</cmt>
+<e type="check" ver="1">However, as INO considered the earth to be a sphere (actually it is not a complete sphere but rather a spheroid), the maps have some errors both in latitude and in longitude.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>また緯度については天体観測からほぼ正確に測定できているものの、経度については測定に必要なクロノメーターの未発達などの理由により若干精度が劣り、北海道や九州南部などの辺縁部では実際の位置よりもやや東方向にずれている。</j>
+<e type="trans" ver="1">Furthermore, while degrees of latitude are almost correctly measured on the basis of astronomical observation, degrees of longitude are a little less precise due to a lack of well-developed chronometers required for measurement, and lines of longitude deviate a little eastward from the actual position in marginal areas such as Hokkaido and the south Kyushu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, while degrees of latitude are almost correctly measured on the basis of astronomical observation, degrees of longitude are less precise due to a lack of well-developed chronometers required for measurement, and lines of longitude deviate a little eastward from the actual position in marginal areas such as Hokkaido and the south Kyushu.</e>
+<cmt>a littleを消去。</cmt>
+<e type="check" ver="1">Furthermore, while degrees of latitude are almost correctly measured on the basis of astronomical observation, degrees of longitude are less precise due to a lack of well-developed chronometers required for measurement, and lines of longitude deviate a little eastward from the actual position in marginal areas such as Hokkaido and the south Kyushu.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="32">
+<j>小図 1里3分（縮尺1/432,000、全3枚）</j>
+<e type="trans" ver="1">Small maps with a scale of 1 to 432,000, three sheets in total</e>
+<cmt></cmt>
+<e type="trans" ver="2">Small maps on a scale of 1 to 432,000, three sheets in total</e>
+<cmt>with→on</cmt>
+<e type="check" ver="1">Small maps on a scale of 1 to 432,000, three sheets in total</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="33">
+<j>利用しやすさを求め、中図よりさらに半分の縮尺で製図し、全国を3枚に収めた図。</j>
+<e type="trans" ver="1">They are drawn in half as large a scale as that of the medium-sized maps and encompass all parts of Japan only in three sheets, for the sake of usability.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They are drawn in half as large a scale as that of the medium-sized maps and encompass all parts of Japan only in three sheets, for the sake of usability.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They are drawn in half as large a scale as that of the medium-sized maps and encompass all parts of Japan only in three sheets, for the sake of usability.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>地名その他の記載は簡略化してある。</j>
+<e type="trans" ver="1">Names of places and other information on the maps are simplified.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Names of places and other information on the maps are simplified.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Names of places and other information on the maps are simplified.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="35">
+<j>なお沿海・沿道の精密さに較べ、土地の高低などは測定されなかったため、山稜の描写は従来の国絵図のごとく鳥瞰的に描写されており、正確とはいえない。</j>
+<e type="trans" ver="1">Compared with the precision of the depiction of coasts and roadside areas, ridges are depicted in a bird&apos;s-eye way just as in traditional Domain Maps and their depiction is not so accurate because height of lands was not surveyed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Compared with the precision of the depiction of coasts and roadside areas, ridges are depicted in a bird&apos;s-eye way just as in traditional Domain Maps and their depiction is not so accurate because height of lands was not surveyed.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Compared with the precision of the depiction of coasts and roadside areas, ridges are depicted in a bird&apos;s-eye way just as in traditional Domain Maps and their depiction is not so accurate because height of lands was not surveyed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>とはいえ、それまで日本で作成されてきた諸地図と較べ、技法の点から見て飛躍的に進歩した精密・詳細・正確な地図であり、いくつかの点を除けば、当時の西洋の地図にもほぼ遜色のない水準であった。</j>
+<e type="trans" ver="1">However, the complete map is precise, detailed and accurate, greatly advanced in terms of technique compared with the past Japanese maps, and almost comparable to Western maps in those days except for some defects.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the complete map is precise, detailed and accurate, greatly advanced in terms of technique compared with the past Japanese maps, and almost comparable to Western maps in those days except for some defects.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, the complete map is precise, detailed and accurate, greatly advanced in terms of technique compared with the past Japanese maps, and almost comparable to Western maps in those days except for some defects.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>その後の伊能図</j>
+<e type="trans" ver="1">Ino map in the ensuing years</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ino map in later years</e>
+<cmt>ensueを修正。</cmt>
+<e type="check" ver="1">Ino map in later years</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="4">
+<tit>
+<j>シーボルト事件</j>
+<e type="trans" ver="1">Siebold Incident</e>
+<cmt></cmt>
+<e type="trans" ver="2">Siebold Incident</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Siebold Incident</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="37">
+<j>幕府に提出された伊能図は、江戸城紅葉山文庫に秘蔵され、一般の目に触れることはなかった。</j>
+<e type="trans" ver="1">Ino map, submitted to Bakufu, was secretly kept in Momijiyama Library in the Edo-jyo Castle and never disclosed to the public.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ino map submitted to Bakufu was secretly kept in Momijiyama Library in the Edo-jo Castle and never disclosed to the public.</e>
+<cmt>コンマを除き、jyo→joに修正。</cmt>
+<e type="check" ver="1">Ino map submitted to Bakufu was secretly kept in Momijiyama Library in the Edo-jo Castle and never disclosed to the public.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>あまりに詳細な地図のため、国防上の問題から幕府が流布を禁じたためである。</j>
+<e type="trans" ver="1">This is because it is so detailed a map that Bakufu prohibited it from being leaked to the public from a viewpoint of national defense.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is because it was such a detailed map that Bakufu prohibited it from being leaked to the public from a viewpoint of national defense.</e>
+<cmt>it is so～の部分を修正。</cmt>
+<e type="check" ver="1">This is because it was such a detailed map that Bakufu prohibited it from being leaked to the public from a viewpoint of national defense.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>しかし、文政11年（1828年）紅葉山文庫を所管する書物奉行でもあった高橋景保が、長崎オランダ商館付の医師であるフィリップ・フランツ・フォン・シーボルト（1796年 - 1866年）に禁制品である伊能図を贈ったことが露顕し、高橋景保は逮捕され、翌年3月に獄死した（シーボルト事件）。</j>
+<e type="trans" ver="1">However, it was revealed that in 1828 Kageyasu TAKAHASHI, who was shomotsu bugyo (archive commissioner) taking charge of Momijiyama Library, presented Ino map to a doctor working at the Dutch trading house in Nagasaki, Philipp Franz von Siebold (1796-1866) in spite of a ban on possessing the map, and Kageyasu TAKAHASHI was arrested and died in prison in March the following year (Siebold Incident).</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, it was revealed that in 1828 Kageyasu TAKAHASHI who was shomotsu bugyo (archive commissioner) taking charge of Momijiyama Library presented Ino map to a doctor working at the Dutch trading house in Nagasaki, Philipp Franz von Siebold (1796-1866) in spite of a ban on possessing the map so Kageyasu TAKAHASHI was arrested and died in prison in March the following year (Siebold Incident).</e>
+<cmt>コンマを除き、and→so</cmt>
+<e type="check" ver="1">However, it was revealed that in 1828 Kageyasu TAKAHASHI who was shomotsu bugyo (archive commissioner) taking charge of Momijiyama Library presented Ino map to a doctor working at the Dutch trading house in Nagasaki, Philipp Franz von Siebold (1796-1866) in spite of a ban on possessing the map so Kageyasu TAKAHASHI was arrested and died in prison in March the following year (Siebold Incident).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>しかし、日本を強制退去となったシーボルトは帰国後の1840年に、伊能図をオランダでメルカトル図法に修正した「日本人の原図および天文観測に基づいての日本国図」を刊行している。</j>
+<e type="trans" ver="1">However, expelled from Japan, Siebold published &quot;Map of Japan based on the original map by Japanese as well as on astronomical observation&quot; by changing Ino map into Mercator projection in Holland in 1840, after he returned home.</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">However, expelled from Japan, Siebold published &quot;Map of Japan based on the original map by Japanese and the astronomical observation&quot; by changing Ino map into Mercator projection in Holland in 1840, after he returned home.</e>
+<cmt>as well as→and</cmt>
+<e type="check" ver="1">However, expelled from Japan, Siebold published &quot;Map of Japan based on the original map by Japanese and the astronomical observation&quot; by changing Ino map into Mercator projection in Holland in 1840, after he returned home.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>その精度の高さにより、当時のヨーロッパ識者の一部に日本人の測量技術の高さが認識されることになる。</j>
+<e type="trans" ver="1">Precision of the map made some intellectuals in Europe realize Japanese people&apos;s advanced surveying technique.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Precision of the map made some intellectuals in Europe realize Japanese advanced surveying technique.</e>
+<cmt>people&apos;sを除きました。</cmt>
+<e type="check" ver="1">Precision of the map made some intellectuals in Europe realize Japanese advanced surveying technique.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>幕末の伊能図</j>
+<e type="trans" ver="1">Ino map at the end of Edo period</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ino map in the end of Edo period</e>
+<cmt>at→in</cmt>
+<e type="check" ver="1">Ino map in the end of Edo period</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="42">
+<j>開国日本の開国後の文久元年（1861年）、イギリスイギリス海軍の測量艦アクテオン号(Actaeon)が、「攘夷論をあまり刺激しない方が良い」との幕府の勧告を無視して日本沿岸の測量を強行しようとした際、たまたま幕府役人が所有していた伊能小図の写しを見て、その優秀さに大いに驚き、測量計画を中止して幕府からその写しを入手することで引き下がったという。</j>
+<e type="trans" ver="1">In 1861, after Japan opened herself to the world, when the Acteon, a British navy survey ship, was trying forcibly to survey the Japanese coast, ignoring the warning by the Bakufu that it would not be wise to fuel the principle of excluding foreigners, the leader of the ship was much surprised to see a copy of the small map of Ino map which the Bakufu officials happened to possess, and agreed to give up the survey project on condition that he be given a copy of the map from the Bakufu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1861, after the opening of Japan to the world, when the British navy survey ship Acteon tried forcibly to survey the Japanese coast, ignoring the warning by the Bakufu that said it would not be wise to fuel the principle of excluding foreigners, the leader of the ship was much surprised to see a copy of the Ino&apos;s small map which the Bakufu officials happened to possess, and agreed to give up the survey project by getting a copy of the map from the Bakufu.</e>
+<cmt>Japan opened～、Acteonの位置、small map、on condition～等を修正。</cmt>
+<e type="check" ver="1">In 1861, after the opening of Japan to the world, when the British navy survey ship Acteon tried forcibly to survey the Japanese coast, ignoring the warning by the Bakufu that said it would not be wise to fuel the principle of excluding foreigners, the leader of the ship was much surprised to see a copy of the Ino&apos;s small map which the Bakufu officials happened to possess, and agreed to give up the survey project by getting a copy of the map from the Bakufu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>なお、このときの伊能図の写しを元に1863年にイギリスで「日本と朝鮮半島近傍の沿海図」として刊行され、日本に逆輸入されて、勝海舟（1823年 - 1899年）の手によって慶応3年（1867年）に「大日本国沿海略図」として木版刊行された。</j>
+<e type="trans" ver="1">Based on the copy of Ino map acquired at that time &quot;Map of Sea along the Coasts of Japan and Korean Peninsula&quot; was published in Britain in 1863, and later it was brought back to Japan and published as &quot;Rough Map of Sea along the Coast of Great Japan&quot;in woodblock printing by Kaishu KATSU (1823-1899) in 1867.</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">Based on the copy of Ino map acquired at that time &quot;Map of Sea along the Coasts of Japan and Korean Peninsula&quot; was published in Britain in 1863, and later it was brought back to Japan and published as &quot;Rough Map of Sea along the Coast of Great Japan&quot;in woodblock printing by Kaishu KATSU (1823-1899) in 1867.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Based on the copy of Ino map acquired at that time &quot;Map of Sea along the Coasts of Japan and Korean Peninsula&quot; was published in Britain in 1863, and later it was brought back to Japan and published as &quot;Rough Map of Sea along the Coast of Great Japan&quot;in woodblock printing by Kaishu KATSU (1823-1899) in 1867.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>これにより伊能図を秘匿する意味がなくなったため、同年には幕府開成学校からも伊能小図を元にした「官版実測日本地図」が発行され、小図のみとはいえようやく一般の目に供されるようになった。</j>
+<e type="trans" ver="1">As a result of this publication it did not make sense to hide Ino map any longer, so Kaisei Gakko (Kaisei School) of the Bakufu published &quot;The Surveyed Map of Japan, official edition&quot; based on the small maps of Ino map in that year, too, and at last Ino map was disclosed to the public, if only partially.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a result of this publication, it had no reason to hide Ino map any longer so Kaisei Gakko (Kaisei School) of the Bakufu published &quot;The Surveyed Map of Japan, official edition&quot; based on the Ino&apos;s small maps in that year, too and at last Ino map was disclosed to the public though it was only partially.</e>
+<cmt>前半部分、コンマ、mapsの部分等を修正。</cmt>
+<e type="check" ver="1">As a result of this publication, it had no reason to hide Ino map any longer so Kaisei Gakko (Kaisei School) of the Bakufu published &quot;The Surveyed Map of Japan, official edition&quot; based on the Ino&apos;s small maps in that year, too and at last Ino map was disclosed to the public though it was only partially.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>原本の焼失</j>
+<e type="trans" ver="1">Destruction of the original</e>
+<cmt></cmt>
+<e type="trans" ver="2">Destruction by fire of the original</e>
+<cmt>by fireを挿入。</cmt>
+<e type="check" ver="1">Destruction by fire of the original</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="45">
+<j>明治維新で江戸幕府が崩壊した後、幕府が保管していた伊能図も新政府に移譲された。</j>
+<e type="trans" ver="1">After the Edo Bakufu collapsed in the Meiji Restoration, Ino map, which had been kept by the Bakufu, was transferred to the new government.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the Edo Bakufu collapsed by the Meiji Restoration, Ino map which had been kept by the Bakufu was transferred to the new government.</e>
+<cmt>in→by、コンマを除きました。</cmt>
+<e type="check" ver="1">After the Edo Bakufu collapsed by the Meiji Restoration, Ino map which had been kept by the Bakufu was transferred to the new government.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>明治3年（1870年）には開成所から名を変えた大学南校から「官版実測日本地図」が再版されるとともに「大日本沿海実測録」も刊行された。</j>
+<e type="trans" ver="1">In 1870 Daigaku Nanko (literally, the Southern College of the University), former Kaisei Gakko, republished &quot;The Surveyed Map of Japan, official edition&quot; and &quot;Dainihon Enkai Jissokuroku&quot; was also published.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1870 Daigaku Nanko (literally, the Southern College of the University), a former Kaisei Gakko, republished &quot;The Surveyed Map of Japan, official edition&quot; and &quot;Dainihon Enkai Jissokuroku&quot; was also published.</e>
+<cmt>formerの前に冠詞を挿入。</cmt>
+<e type="check" ver="1">In 1870 Daigaku Nanko (literally, the Southern College of the University), a former Kaisei Gakko, republished &quot;The Surveyed Map of Japan, official edition&quot; and &quot;Dainihon Enkai Jissokuroku&quot; was also published.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="47">
+<j>しかし伊能図の原本は、明治6年（1873年）の皇居の大火災の際に焼失してしまう。</j>
+<e type="trans" ver="1">However, the original of Ino map was burned down at the time of a huge fire at the Imperial Palace in 1873.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the original of Ino map was burned down at the time of a huge fire at the Imperial Palace in 1873.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, the original of Ino map was burned down at the time of a huge fire at the Imperial Palace in 1873.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>そこで伊能家に保管されていた控図（副本）が翌年政府に献納された。</j>
+<e type="trans" ver="1">Thus a duplicate copy which had been kept by the INO family was dedicated to the government the next year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thus a duplicate copy which had been kept by the Ino family was dedicated to the government the next year.</e>
+<cmt>INO→ Ino</cmt>
+<e type="check" ver="1">Thus a duplicate copy which had been kept by the Ino family was dedicated to the government the next year.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>近代地図への寄与</j>
+<e type="trans" ver="1">Contribution to modern maps</e>
+<cmt></cmt>
+<e type="trans" ver="2">Contribution to modern maps</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Contribution to modern maps</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="49">
+<j>この副本により明治10年（1877年）9月には小図を元に文部省から「日本全図」が発行され、明治11年（1878年）6月には中図を元に内務省 (日本)地理局より「実測畿内全図」が発行された。</j>
+<e type="trans" ver="1">Thanks to this duplicate copy, &quot;The complete map of Japan&quot; was published by the Education Ministry on the basis of the Ino small maps in September 1877, and &quot;Jissoku Kinai Zenzu&quot; (the surveyed map of Kinai) was published by (Japan) Geographical Agency, the Interior Ministry on the basis of medium-sized maps in June 1878.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thanks to this duplicate copy, &quot;The complete map of Japan&quot; was published by the Education Ministry on the basis of the Ino small maps in September 1877, and &quot;Jissoku Kinai Zenzu&quot; (the surveyed map of Kinai) was published by (Japan) Geographical Agency, the Interior Ministry on the basis of medium-sized maps in June 1878.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Thanks to this duplicate copy, &quot;The complete map of Japan&quot; was published by the Education Ministry on the basis of the Ino small maps in September 1877, and &quot;Jissoku Kinai Zenzu&quot; (the surveyed map of Kinai) was published by (Japan) Geographical Agency, the Interior Ministry on the basis of medium-sized maps in June 1878.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>さらに同局から中小図に基づいて明治13年には864,000分の1図である「大日本全図」が刊行される。</j>
+<e type="trans" ver="1">In addition the said Agency published &quot;Large complete map of Japan&quot; of a scale of 1 to 864,000 on the basis of Ino small and medium-sized maps in 1880.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, the said Agency published &quot;Large complete map of Japan&quot; on a scale of 1 to 864,000 on the basis of Ino small and medium-sized maps in 1880.</e>
+<cmt>コンマ、of→onの修正。</cmt>
+<e type="check" ver="1">In addition, the said Agency published &quot;Large complete map of Japan&quot; on a scale of 1 to 864,000 on the basis of Ino small and medium-sized maps in 1880.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="51">
+<j>そして明治17年（1884年）には大図・中図が大日本帝国陸軍参謀本部 (日本)測量部（国土地理院の前身の1つ）によって作成された「地勢図」の基本図になった。</j>
+<e type="trans" ver="1">Furthermore the Ino large and medium-sized maps were made into the basis of &quot;Geographic map&quot; prepared by the (Japan) Survey Department, Staff Headquarters of the Imperial Japanese Army (one of the predecessors of Geographical Survey Institute) in 1884.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, the Ino large and medium-sized maps became the basis of &quot;Geographic map&quot; made by the (Japan) Survey Department, Staff Headquarters of the Imperial Japanese Army (one of the predecessors of Geographical Survey Institute) in 1884.</e>
+<cmt>コンマ、were made、prepared等を修正。</cmt>
+<e type="check" ver="1">Furthermore, the Ino large and medium-sized maps became the basis of &quot;Geographic map&quot; made by the (Japan) Survey Department, Staff Headquarters of the Imperial Japanese Army (one of the predecessors of Geographical Survey Institute) in 1884.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="52">
+<j>他にも各府県で作成された管内地図の多くが伊能大図・中図を元に作成されるなど、近代日本の行政地図において、伊能図は多大な貢献を果たした。</j>
+<e type="trans" ver="1">Other than that, as can be seen from the fact that many prefectural maps prepared by various prefectures are based on the Ino large or medium-sized maps, Ino map made great contributions to administrative maps of modern Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Besides, many prefectural maps made by various prefectures are based on the Ino large or medium-sized maps and Ino map made great contributions to administrative maps of modern Japan.</e>
+<cmt>一部変更しました。</cmt>
+<e type="check" ver="1">Besides, many jurisdictional maps made by various prefectures were based on the Ino large or medium-sized maps; therefore, the Ino maps made great contributions to administrative maps of modern Japan.</e>
+<cmt>prefectural maps→jurisdictional mapsare based→were based and →; therefore,Ino map→ the Ino mapsとしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>副本の焼失</j>
+<e type="trans" ver="1">Destruction of the duplicate copy</e>
+<cmt></cmt>
+<e type="trans" ver="2">Destruction by fire of the duplicate copy</e>
+<cmt>by fireを挿入。</cmt>
+<e type="check" ver="1">Destruction by fire of the duplicate copy</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="53">
+<j>その後、伊能家から献納された伊能図の控えは東京大学の附属図書館に保管されることとなったが、これも大正12年（1923年）の関東大震災ですべて焼失してしまった。</j>
+<e type="trans" ver="1">Later, the duplicate copy of Ino map dedicated by the INO family was kept at Tokyo University Library, but it also was burned down at the time of the Great Kanto Earthquake in 1923.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Later, the duplicate copy of Ino map dedicated by the Ino family was kept at Tokyo University Library, but it was also burned down at the time of the Great Kanto Earthquake in 1923.</e>
+<cmt>INO→Ino, alsoの位置を修正。</cmt>
+<e type="check" ver="1">Later, the duplicate copy of Ino map dedicated by the Ino family was kept at Tokyo University Library, but it was also burned down at the time of the Great Kanto Earthquake in 1923.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>以降、長きにわたって伊能図（特に大図）は「失われた地図」となり、千葉県佐原市（現在は香取市）の伊能忠敬記念館に保管されていた写しの一部など、全214枚のうち約60枚の写しのほかは、東京国立博物館が所蔵する中図の写しが残るのみとなっていた。</j>
+<e type="trans" ver="1">Ino map (especially large maps) had been long treated as a &quot;Lost Map&quot; since then, and there remained only copies of the medium-sized maps possessed by Tokyo National Museum, as well as copies of about sixty sheets of the total 214 sheets, including a part of a copy kept by The Ino Tadataka Museum in Sahara City (today&apos;s Katori City), Chiba Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ino map (especially large maps) had been long treated as a &quot;Lost Map&quot; since then, and only copies of the medium-sized maps possessed by Tokyo National Museum remained except the copies of about 60 sheets of the total 214 sheets, including a part of the copies kept by The Ino Tadataka Museum in Sawara City (today&apos;s Katori City), Chiba Prefecture.</e>
+<cmt>there remained～、as well as、sixty等を修正、Sahara→Sawara</cmt>
+<e type="check" ver="1">Ino map (especially large maps) had been long treated as a &quot;Lost Map&quot; since then, and only copies of the medium-sized maps possessed by Tokyo National Museum remained except the copies of about 60 sheets of the total 214 sheets, including a part of the copies kept by The Ino Tadataka Museum in Sawara City (today&apos;s Katori City), Chiba Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>近年の状況</j>
+<e type="trans" ver="1">Recent situations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Recent situations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Recent situations</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="55">
+<j>ところが、平成13年（2001年）3月にアメリカ合衆国議会図書館で、伊能大図のうちの207枚（うち169枚が彩色なし）が発見された。</j>
+<e type="trans" ver="1">However, 207 sheets of the Ino large maps (169 sheets of which were colorless) were discovered at Library of Congress in the United States in March 2001.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, 207 sheets of the Ino large maps (169 sheets of which were colorless) were discovered at Library of Congress in the United States in March 2001.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, 207 sheets of the Ino large maps (169 sheets of which were colorless) were discovered at Library of Congress in the United States in March 2001.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>これは上記の陸軍による輯製20万分1図作成のための骨格基図として模写されたものが、第二次世界大戦後接収され米国に渡ったものと考えられる。</j>
+<e type="trans" ver="1">It is believed that these maps were replicated as the framework for preparation of Syusei maps on a scale of 1 to 200,000 by the Army as stated above, and taken over and carried to the United States after the World War II.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is believed that these maps were replicated as the framework for preparation of Syusei maps on a scale of 1 to 200,000 by the Army as stated above, and taken over and carried to the United States after the World War II.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is believed that these maps were replicated as the framework for preparation of Syusei maps on a scale of 1 to 200,000 by the Army as stated above, and taken over and carried to the United States after the World War II.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="57">
+<j>さらに残る7枚のうち、佐倉市の国立歴史民俗博物館で2枚（34番蝦夷江差町、35番蝦夷奥尻島）、国立国会図書館で1枚（107番駿河国静岡市）が発見された。</j>
+<e type="trans" ver="1">Of the remaining 7 sheets, two sheets were discovered at National Museum of Japanese History in Sakura City (Esashi-cho, Ezo (No.34) and Okushiri Island, Ezo (No.35)) and one at National Diet Library (Suruga Province (Shizuoka City) (No.107)).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Of the remaining 7 sheets, two sheets were discovered at National Museum of Japanese History in Sakura City (No.34 Esashi-cho, No.35 Ezo and Okushiri Island, Ezo) and one at National Diet Library (No.107 Shizuoka City, Suruga Province).</e>
+<cmt>括弧内を修正しました。</cmt>
+<e type="check" ver="1">Of the remaining 7 sheets, two sheets were discovered at National Museum of Japanese History in Sakura City (No.34 Esashi-cho, No.35 Ezo and Okushiri Island, Ezo) and one at National Diet Library (No.107 Shizuoka City, Suruga Province).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="58">
+<j>最後に残った4枚（12番蝦夷宗谷、133番山城国・河内国・摂津国、157番備中国・備後国福山市、164番備後・安芸国・伊予国今治市）についても、2004年5月に海上保安庁海洋情報部で保管されていた縮小版の写しの中に含まれていることが判明した。</j>
+<e type="trans" ver="1">As to the other 4 sheets (Soya, Ezo (No.12), Yamashiro, Kawachi and Settsu Provinces (No.133), Bicchu and Bingo Provinces (Fukuwama City) (No.157) and Bingo, Aki and Iyo Provinces (Imabari City) (No.164)), it was discovered in May 2004 that they were included in miniature copies kept by Hydrographic and Oceanographic Department, Japan Coast Guard.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As to the other 4 sheets (No.12 Soya, Ezo, No.133 Yamashiro, Kawachi and Settsu Provinces, No.157 Bicchu and Fukuwama City, Bingo Provinces and No. 164 Bingo, Aki and Imabari City, Iyo Provinces), it was discovered in May 2004 that they were included in miniature copies kept by Hydrographic and Oceanographic Department, Japan Coast Guard.</e>
+<cmt>括弧内を修正しました。</cmt>
+<e type="check" ver="1">As to the other 4 sheets (No.12 Soya, Ezo, No.133 Yamashiro, Kawachi and Settsu Provinces, No.157 Bicchu and Fukuwama City, Bingo Provinces and No. 164 Bingo, Aki and Imabari City, Iyo Provinces), it was discovered in May 2004 that they were included in miniature copies kept by Hydrographic and Oceanographic Department, Japan Coast Guard.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>海上保安庁の前身である旧水路部 (日本海軍)が明治初期に海図を作製する目的で模写したものだという。</j>
+<e type="trans" ver="1">They were replicated by the department of navy channel, Empire of Japan (the predecessor of Japan Coast Guard) in the early Meiji period for the purpose of making sea charts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They were replicated by the department of navy channel, Empire of Japan (the predecessor of Japan Coast Guard) in the early Meiji period for the purpose of making sea charts.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They were replicated by the department of navy channel, Empire of Japan (the predecessor of Japan Coast Guard) in the early Meiji period for the purpose of making sea charts.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="60">
+<j>これらの発見により、伊能大図214枚の全容がつかめるようになった。</j>
+<e type="trans" ver="1">As a result of these discoveries, the whole picture of the 214 sheets of Ino large maps has been figured out.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a result of these discoveries, the whole picture of the 214 sheets of Ino large maps has been figured out.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As a result of these discoveries, the whole picture of the 214 sheets of Ino large maps has been figured out.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="61">
+<j>これを受け、2006年5月に国土地理院所管財団法人日本地図センターが「伊能大図総覧」を刊行し、伊能図が一般の目にも触れられるようになった。</j>
+<e type="trans" ver="1">In response, Japan Map Center (administered by Geographical Survey Institute) published &quot;Ino Taizu Soran&quot; (comprehensive list of the Ino large maps) in May 2006 and disclosed Ino map to the public.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In response, Japan Map Center (administered by Geographical Survey Institute) published &quot;Ino Taizu Soran&quot; (comprehensive list of the Ino large maps) in May 2006 and disclosed Ino map to the public.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In response, Japan Map Center (administered by Geographical Survey Institute) published &quot;Ino Taizu Soran&quot; (comprehensive list of the Ino large maps) in May 2006 and disclosed Ino map to the public.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="62">
+<j>大図の詳細な検討によって、伊能忠敬による測量がいかに行われたかなど従来検証しづらかった点についても、今後の研究が期待される。</j>
+<e type="trans" ver="1">It is expected that a future study will extend to matters which were difficult to examine, including how Tadataka INO conducted his survey, through detailed examination of the large maps.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is expected that a future study will extend to matters which were difficult to examine, including how Tadataka INO conducted his survey, through detailed examination of the large maps.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is expected that a future study will extend to matters which were difficult to examine, including how Tadataka INO conducted his survey, through detailed examination of the large maps.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>なお、その後も2007年1月に、やはり海上保安庁から高画質の原寸模写図3枚を含む色彩模写図が発見されるなど、まだまだ状態の良い伊能図が発見される可能性はある。</j>
+<e type="trans" ver="1">Considering that colorful replicas including three sheets of high-quality full-sized replicas were discovered at Japan Coast Guard again in January 2007, it is still possible to discover more copies of Ino map in good condition.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Considering that colorful replicas including three sheets of high-quality full-sized replicas were discovered at Japan Coast Guard again in January 2007, it is still possible to discover more copies of Ino map in good condition.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Considering that colorful replicas including three sheets of high-quality full-sized replicas were discovered at Japan Coast Guard again in January 2007, it is still possible to discover more copies of Ino map in good condition.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="10">
+<tit>
+<j>雑記</j>
+<e type="trans" ver="1">Miscellany</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miscellaneous notes</e>
+<cmt>単語の修正。</cmt>
+<e type="check" ver="1">Miscellaneous notes</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="64">
+<j>「大日本沿海輿地全図」の「輿地」とは大地（地球）もしくは世界のことである。</j>
+<e type="trans" ver="1">&quot;Yochi&quot; of &quot;Dainihon Enkaiyochi Zenzu&quot; means the earth or the world.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Yochi&quot; of &quot;Dainihon Enkaiyochi Zenzu&quot; means the earth or the world.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;Yochi&quot; of &quot;Dainihon Enkaiyochi Zenzu&quot; means the earth or the world.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="65">
+<j>地面を万物を載せる輿（こし）にたとえたもので、坤輿（こんよ）ともいう（坤も大地を表す）。</j>
+<e type="trans" ver="1">It is also called &quot;Kon-yo,&quot; comparing the ground to a palanquin on which all things are carried (&quot;Kon&quot; means the world, too).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also called &quot;Kon-yo,&quot; comparing the ground to a palanquin on which all things are carried (&quot;Kon&quot; means the world, too).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also called &quot;Kon-yo,&quot; comparing the ground to a palanquin on which all things are carried (&quot;Kon&quot; means the world, too).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="66">
+<j>マテオ・リッチによる「坤輿万国全図」（1602年）なども同様の命名である。</j>
+<e type="trans" ver="1">&quot;Kon-yo Bankoku Zenzu&quot; (A Map of the Myriad Countries of the World) by Matteo Ricci (1602) was named in the same manner.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Kon-yo Bankoku Zenzu&quot; (A Map of the Myriad Countries of the World) by Matteo Ricci (1602) was named in the same manner.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;Kon-yo Bankoku Zenzu&quot; (A Map of the Myriad Countries of the World) by Matteo Ricci (1602) was named in the same manner.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="67">
+<j>「沿海輿地全図」の名の通り、国防上の事業として行われたため、本図は海岸線の描写が中心であり、内陸部に関しては空白も少なくない。</j>
+<e type="trans" ver="1">As can be seen from the name &quot;Enkaiyochi Zenzu&quot; this complete map is focused on depiction of the coastlines and leaves a large blank space as to internal regions because it was made as operations for national defense.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As can be seen from the name &quot;Enkaiyochi Zenzu&quot; this complete map is focused on depiction of the coastlines and has some blank parts as to internal regions because it was made for the operations of the national defense.</e>
+<cmt>leaves～、it was made～の部分を修正。</cmt>
+<e type="check" ver="1">As can be seen from the name &quot;Enkaiyochi Zenzu&quot; this complete map is focused on depiction of the coastlines and has some blank parts as to internal regions because it was made for the operations of the national defense.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="68">
+<j>シーボルトがヨーロッパで刊行した日本国図は、内陸部の記述については江戸幕府の地図事業（1645年）などで補っているため、異同が多い。</j>
+<e type="trans" ver="1">This complete map is different from &quot;Map of Japan&quot; published by Siebold in Europe in many points, because Siebold depicted internal regions with the help of the map operations by the Edo Bakufu (1645).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This complete map is different from &quot;Map of Japan&quot; published by Siebold in Europe in many points, because Siebold depicted internal regions with the help of the map operations by the Edo Bakufu (1645).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This complete map is different from &quot;Map of Japan&quot; published by Siebold in Europe in many points, because Siebold depicted internal regions with the help of the map operations by the Edo Bakufu (1645).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="69">
+<j>アクテオン号が持ち帰った伊能小図の写しはその後も英国海軍水路部で所有され、現在ではグリニッジの国立海事博物館に保管されている。</j>
+<e type="trans" ver="1">A copy of the Ino small maps brought back by the Acteon was possessed by the department of navy channel, the Royal Navy and now is kept at the National Maritime Museum, Greenwich.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A copy of the Ino small maps brought back by the Acteon was possessed by the department of navy channel, the Royal Navy and now is kept at the National Maritime Museum, Greenwich.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A copy of the Ino small maps brought back by the Acteon was possessed by the department of navy channel, the Royal Navy and now is kept at the National Maritime Museum, Greenwich.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="70">
+<j>グリニッジはグリニッジ子午線（経度0度）の町でもある。</j>
+<e type="trans" ver="1">Greenwich is also a town which Greenwich meridian (0. longitude) crosses.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Greenwich is also a town which Greenwich meridian (0. longitude) crosses.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Greenwich is also a town which Greenwich meridian (0. longitude) crosses.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 CommonsDelinker(id:84593), Straysheep(id:42448), トホホ川(id:50502), Kouko0515(id:100370), Ketttenkraftrad(id:245978), 田牧(id:172560), 曾禰越後守(id:183605), Complex01(id:10454), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

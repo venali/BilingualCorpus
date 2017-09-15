@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>伏見稲荷駅</j>
+<e type="trans" ver="1">Fushimi-inari Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fushimi-inari Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fushimi-inari Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>伏見稲荷駅（ふしみいなりえき）は、京都府京都市伏見区深草一坪町にある、京阪電気鉄道京阪本線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Fukakusa-ichinotsubo-cho, Fushimi Ward, Kyoto City, Kyoto Prefecture, Fushimi-inari Station is a stop on the Keihan Main Line, which is operated by Keihan Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fushimi-inari Station, located in Fukakusa-ichinotsubo-cho, Fushimi Ward, Kyoto City, Kyoto Prefecture, is a stop on the Keihan Main Line, which is operated by Keihan Electric Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Fushimi-inari Station, located in Fukakusa-ichinotsubo-cho, Fushimi Ward, Kyoto City, Kyoto Prefecture, is a stop on the Keihan Main Line, which is operated by Keihan Electric Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>伏見稲荷という駅名だが、伏見稲荷大社へは、西日本旅客鉄道（JR西日本）奈良線の稲荷駅の方が近い。</j>
+<e type="trans" ver="1">Although this station is named&quot;Fushimi Inari,&quot; Inari Statin on the Nara Line, operated by West Japan Railway Company (JR West), is located nearer to Fushimi Inari-taisha Grand-Shrine than this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the station is called &quot;Fushimi Inari,&quot; Inari Station on the Nara Line, operated by the West Japan Railway Company (JR West), is located nearer to Fushimi Inari-taisha Grand Shrine than this station is.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Although the station is called &quot;Fushimi Inari,&quot; Inari Station on the Nara Line, operated by the West Japan Railway Company (JR West), is located nearer to Fushimi Inari Taisha Shrine than this station is.</e>
+<cmt>伏見稲荷大社→Fushimi Inari Taisha Shrine としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="3">
+<j>とはいえ、正月の駅の大混雑振りは凄まじいものがある。</j>
+<e type="trans" ver="1">However, the extent of the congestion in this station is tremendous in the New Year holiday season.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the extent of the congestion in this station is tremendous during the New Year holiday season.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, the extent of the congestion in this station is tremendous during the New Year holiday season.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>三条通や四条通といった京都市の中心部への行き来や阪急京都本線に乗換える場合は京阪を利用する方が安く早く行けるので、当駅の利用者数は多い。</j>
+<e type="trans" ver="1">Since use of Keihan is less expensive when going to or returning from the central part of Kyoto, such as Sanjo-dori Street and Shijo-dori Street, or when using the Hankyu Kyoto Main Line, many persons use this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the use of Keihan is less expensive when going to or returning from the central part of Kyoto, such as Sanjo-dori Street and Shijo-dori Street, or when using the Hankyu Kyoto Main Line, many people use this station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because the use of Keihan is less expensive when going to or returning from the central part of Kyoto, such as Sanjo-dori Street and Shijo-dori Street, or when using the Hankyu Kyoto Main Line, many people use this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="5">
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="6">
+<j>相対式2面2線のプラットホームを持つ地上駅。</j>
+<e type="trans" ver="1">It is loaced on the ground level, with two separate platforms with two tracks served between them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is located on the ground level and has two separate platforms with two tracks served between them.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">It is located on the ground level and has two separate platforms with two tracks served between them.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>上下ホーム別々に改札があり、改札内で互いのホームを行き来することは出来ない。</j>
+<e type="trans" ver="1">An entrance/exit gate place is provided for each of the platform for up-trains and that for down- trains, and you cannot move between the platforms withing the gates.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An entrance/exit gate is provided for each of the platforms for up trains and down trains, but passengers can&apos;t move between the platforms from within the gates.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">A ticket gate is provided for each of the platforms for inbound trains and outbound trains, but passengers can&apos;t move between the platforms from within the gates.</e>
+<cmt>改札→ticket gateとしました。上り、下り→inbound, outbound としました。</cmt>
+</sen>
+<sen id="8">
+<j>当駅の前後にある同じような構造の駅はいずれも構内地下道を備えているが、当駅の場合は正月の激しい混雑に地下道では対応が困難なため、設置が見送られているものと思われる。</j>
+<e type="trans" ver="1">Adjacent stations with the similar layout are provided with an underground path within their premises, but it is considered that such an underground path has not been provided here because use of such an underground path is insufficient to cope with the tremedous extent of congestion in the New Year holiday season.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjacent stations with similar layouts are provided with underground paths within their premises, but it&apos;s considered that such an underground path hasn&apos;t been provided here because the use of such a path wouldn&apos;t be sufficient to cope with the tremendous congestion during the New Year holiday season.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Adjacent stations with similar layouts are provided with underground paths within their premises, but it&apos;s considered that such an underground path hasn&apos;t been provided here because the use of such a path wouldn&apos;t be sufficient to cope with the tremendous congestion during the New Year holiday season.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>改札は上下線ともホーム丹波橋寄りにある。</j>
+<e type="trans" ver="1">Both of the entrance/exit gate place for the up-trains and that for the down-trains are located on the Tanba-bashi Bridge side of the platforms.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Both of the entrance/exit gates for up trains and for down trains are located on the Tanba-bashi Bridge side of the platforms.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Both of the ticket gates for inbound trains and for outbound trains are located on the Tamba-bashi Bridge side of the platforms.</e>
+<cmt>改札→ticket gateとしました。上り、下り→inbound, outbound としました。</cmt>
+</sen>
+<sen id="10">
+<j>トイレは上下線とも改札内にある。</j>
+<e type="trans" ver="1">For either of up-train users and down-train users, a lavatory is placed inside the corresponding entrance/exit gate place.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A lavatory is placed inside the corresponding entrance/exit gates for both up-train and down-train users.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">A lavatory is placed inside the corresponding ticket gates for both inbound-train and outbound-train users.</e>
+<cmt>改札→ticket gateとしました。上り、下り→inbound, outbound としました。</cmt>
+</sen>
+<sen id="11">
+<j>駅のホームの柱や柵は朱色に塗られている。</j>
+<e type="trans" ver="1">The pillars and fences on the plarforms of this station are painted vermillion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The pillars and fences on the station&apos;s platforms are painted vermillion.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The pillars and fences on the station&apos;s platforms are painted vermillion.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="12">
+<j>2007年6月の運行管理システム更新に合わせる形で、急行停車駅では最も遅く詳細放送が導入された。</j>
+<e type="trans" ver="1">Corresponding to the updating of the operation management system in June, 2007, public announcements of detailed information was introduced, being the latest such introduction in the stations where the express trains stop..</e>
+<cmt></cmt>
+<e type="trans" ver="2">Corresponding to the updating of the operation management system in June 2007, public announcements of detailed information were introduced, being the latest such introduction in the stations where the express trains stopped.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Corresponding to the updating of the operation management system in June 2007, public announcements of detailed information were introduced, being the latest such introduction in the stations where the express trains stopped.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>同時にLED式列車案内も設置されている。</j>
+<e type="trans" ver="1">At the same timing, an LED-type train information display unit was installed as well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the same time, an LED-type train information display unit was installed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At the same time, an LED-type train information display unit was installed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>のりば</j>
+<e type="trans" ver="1">Platforms</e>
+<cmt></cmt>
+<e type="trans" ver="2">Platforms</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Platforms</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="14">
+<j>※両ホームとも有効長は8両。</j>
+<e type="trans" ver="1">* The effective length of each platform is that for eight-train cars.</e>
+<cmt></cmt>
+<e type="trans" ver="2">* Each platform has a length equal to eight train cars.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">* Each platform has a length equal to eight train cars.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>発車標が新しく更新されたのと同時に発車標のみ番線表示がある。</j>
+<e type="trans" ver="1">Track-number information about departing trains is displayed only on the departing train infromation boards that have been updated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track-number information about departing trains is displayed only on the departing train infromation boards that have been updated.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Track-number information about departing trains is displayed only on the departing train information boards that have been updated.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+<sen id="16">
+<j>接近放送では番線は放送されない。</j>
+<e type="trans" ver="1">No track-number is included in the announcements about incoming trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track numbers aren&apos;t included in the announcements about incoming trains.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Track numbers aren&apos;t included in the announcements about incoming trains.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="17">
+<j>利用状況</j>
+<e type="trans" ver="1">Use situations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger usage statistics</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="18">
+<j>急行停車駅であるが、普段は利用客は少なく静かな駅である。</j>
+<e type="trans" ver="1">Not utilized by many users, this station is usually quiet, although express trains stop at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because it isn&apos;t used by many people, this station is usually quiet, although express trains stop here.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because it isn&apos;t used by many people, this station is usually quiet, although express trains stop here.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>ただし正月期間は激しい混雑となるため、臨時の切符売り場や改札口を設置して乗客をさばいている。</j>
+<e type="trans" ver="1">However, the extent of congestion in the New Year holiday season is tremendous, and extra ticket-selling places and entrance/exit gates are provided additionally to cope with the users of this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the congestion is tremendous during the New Year holiday season, and extra ticket-selling places and entrance/exit gates are provided to cope with the flow of traffic.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, the congestion is tremendous during the New Year holiday season, and extra ticket-selling places and ticket gates are provided to cope with the flow of traffic.</e>
+<cmt>改札→ticket gateとしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="20">
+<j>なお、正月期間において、JR奈良線は快速列車の臨時停車が行われるが、京阪では急行が終日に渡って運転されるため、特急の臨時停車は行われない。</j>
+<e type="trans" ver="1">Rapid trains on the JR Nara Line stop at this station in the New Year holiday season alone, but no Keihan limited express train stops at this station, because the Keihan express trains stop at this station all day</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid trains on the JR Nara Line stop at this station only during the New Year holiday season, but no Keihan limited express train stops here because the Keihan express trains stop at this station throughout the day.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Rapid trains on the JR Nara Line stop at this station only during the New Year holiday season, but no Keihan limited express train stops here because the Keihan express trains stop at this station throughout the day.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="21">
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="22">
+<j>伏見稲荷大社　全国にある稲荷神社の総本宮。</j>
+<e type="trans" ver="1">Fushimi Inari Taisha Shrine: the head shrine of all Inari-jinja shrines in Japan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fushimi Inari Taisha Shrine: The head shrine of all Inari-jinja shrines in Japan</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Fushimi Inari Taisha Shrine: The head shrine of all Inari-jinja shrines in Japan</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="23">
+<j>稲荷駅（JR西日本奈良線）......東へ徒歩5分ほど（深草駅からの方が近い）。</j>
+<e type="trans" ver="1">Inari Station (on the Nara Line operated by TR West): about five minutes to the seat on foot (nearer from Fukakusa Station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Inari Station (on the Nara Line operated by TR West): About five minutes on foot (nearer from Fukakusa Station)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Inari Station (on the Nara Line operated by JR West): About five minutes on foot (nearer from Fukakusa Station)</e>
+<cmt>JR　に修正しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="24">
+<j>京都市立伏見工業高等学校</j>
+<e type="trans" ver="1">Kyoto City Fushimi Technical Senior High School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Fushimi Technical Senior High School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Fushimi Technical Senior High School</e>
+<cmt>municipal　としました。</cmt>
+</sen>
+<sen id="25">
+<j>伏見稲荷郵便局</j>
+<e type="trans" ver="1">Fushimi-inari Post Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Fushimi-inari post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Fushimi-inari post office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>バスのりば</j>
+<e type="trans" ver="1">Bus stops</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus stops</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus stops</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>京阪伏見稲荷駅には、バス路線は乗り入れていない。</j>
+<e type="trans" ver="1">No bus service is available just in front of Keihan Fushimi-inari Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">No bus service is available in front of Keihan Fushimi-inari Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">No bus service is available in front of Keihan Fushimi-inari Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="28">
+<j>最寄バス停：京都市営バス稲荷大社前</j>
+<e type="trans" ver="1">The nearest bus stop: Inari-taish-mae (in front of Inari Grand-Shrine) for buses for Kyoto City Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">The nearest bus stop is Inari-taish-mae (in front of Inari Grand Shrine) for Kyoto City Bus service.</e>
+<cmt>taisha?</cmt>
+<e type="check" ver="1">The nearest bus stop is Inari-taisha-mae (in front of Inari Taisha Shrine) for Kyoto City Bus service.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+<sen id="29">
+<j>稲荷大社前</j>
+<e type="trans" ver="1">Inari-taish-mae (in front of Inari Grand-Shrine)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Inari-taish-mae (in front of Inari Grand Shrine)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Inari-taisha-mae (in front of Inari Taisha Shrine)</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+<sen id="30">
+<j>バス停は駅前ではなく、駅から徒歩2分の師団街道沿いにある</j>
+<e type="trans" ver="1">This bus stop is located not in front of the station but along Shidan-kaido Road, at a place of a two-minute walk from the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This bus stop is not in front of the station but along Shidan-kaido Road, about a two-minute walk from the station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This bus stop is not in front of the station but along Shidan-kaido Road, about a two-minute walk from the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>京都市営バス</j>
+<e type="trans" ver="1">Kyoto City Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>南5系統：竹田駅 (京都府)東口行／京都駅行</j>
+<e type="trans" ver="1">Route south 5: bound for Takeda-eki-higashiguchi (the east entrance to Takeda Station) (located in Kyoto Prefecture)/for Kyoto Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route South 5: Bound for Takeda-eki-higashiguchi (the east entrance to Takeda Station) (located in Kyoto Prefecture) and/or for Kyoto Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route South 5: Bound for Takeda-eki-higashiguchi (the east entrance to Takeda Station) (Kyoto Prefecture) / Kyoto Station</e>
+<cmt>and/or →スラッシュのみ　としました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="33">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>開業当時は伏見稲荷の表参道に近い現・深草駅が稲荷駅を称したが、当初の駅名にある新しい参道が神社に近かったことから1年経たない間にこちらが伏見稲荷の玄関口となった。</j>
+<e type="trans" ver="1">When operation of this station started, the name of Inari was given to the present Fukakusa Station, located nearer to the front approach to Fushimi Inari, but because the new approach to the shrine, after which this station was named intially, was nearer to the shrine, this station has been used for the gateway to Fushimi Inari.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When this station started operating, the name &quot;Inari&quot; was given to the present Fukakusa Station, located nearer to the front approach to Fushimi Inari, but because the new approach to the shrine, after which this station was initially named, was nearer to the shrine, this station has been used as the gateway to Fushimi Inari.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">When this station started operating, the name &quot;Inari&quot; was given to the present Fukakusa Station, located nearer to the front approach to Fushimi Inari Taisha Shrine, but because the new approach to the shrine, after which this station was initially named, was nearer to the shrine, this station became used as the gateway to Fushimi Inari Taisha Shrine in less than a year.</e>
+<cmt>Fushimi Inari Taisha Shrine としました。一年と経たないうちに　を追加しました。</cmt>
+</sen>
+<sen id="35">
+<j>非常に古い時期から、駅の柱を朱塗りにしていたという。</j>
+<e type="trans" ver="1">It is said that the pillars of the station has been painted vermillion since the very early days.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that the pillars of the station have been painted vermillion since the very early days.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is said that the pillars of the station have been painted vermillion since the very early days.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="36">
+<j>1910年（明治43年）4月15日 稲荷新道駅として開業。</j>
+<e type="trans" ver="1">April 15, 1910: When this station started its operation, Its name was Inari-shindo (new road) Station (稲荷新道駅).</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 15, 1910: When the station started operating, its name was Inari-shindo (new road) Station (稲荷新道駅).</e>
+<cmt>case</cmt>
+<e type="check" ver="1">April 15, 1910: When the station started operating, its name was Inari-shindo (new road) Station (稲荷新道駅).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="37">
+<j>1910年（明治43年）12月16日 稲荷駅に改称。</j>
+<e type="trans" ver="1">December 16, 1910: Its name was changed to Inari Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 16, 1910: Its name was changed to Inari Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">December 16, 1910: Its name was changed to Inari Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="38">
+<j>1916年（大正5年）4月1日 急行停車駅となる。</j>
+<e type="trans" ver="1">April 1, 1916: The express trains on the line started stopping at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1916: The express trains on the line started stopping at this station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">April 1, 1916: The express trains on the line started stopping at this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="39">
+<j>1939年（昭和14年）12月25日 稲荷神社前駅に改称。</j>
+<e type="trans" ver="1">December 25, 1939: Its name was changed to Inari-jinja-mae Station (the station in front of Inari Shrine).</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 25, 1939: Its name was changed to Inari-jinja-mae Station (the station in front of Inari Shrine).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">December 25, 1939: Its name was changed to Inari-jinja-mae Station (the station in front of Inari Shrine).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="40">
+<j>1943年（昭和18年）10月1日 会社合併により京阪神急行電鉄（阪急電鉄）の駅となる。</j>
+<e type="trans" ver="1">October 1, 1943: The railway companies concenred mergered, and this station became a station of Keihanshin-kyuko-dentetsu (Hankyu Corporation).</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 1, 1943: The station became a facility of Keihanshin-kyuko-dentetsu (Hankyu Corporation) when the concerned railway companies merged.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 1, 1943: The station became a facility of Keihanshin Express Electric Railway (Hankyu Corporation) when the concerned railway companies merged.</e>
+<cmt>京阪神急行電鉄→Keihanshin Express Electric Railway　としました。</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="41">
+<j>1948年（昭和23年）1月1日 伏見稲荷駅に改称。</j>
+<e type="trans" ver="1">January 1, 1948: Its name was changed to Fushimi-inari Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">January 1, 1948: Its name was changed to Fushimi-inari Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">January 1, 1948: Its name was changed to Fushimi-inari Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="42">
+<j>1949年（昭和24年）12月1日 会社分離により京阪電気鉄道の駅となる。</j>
+<e type="trans" ver="1">December 1, 1949: Due to a separation of the company, this station became a station of Keihan Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 1, 1949: Due to the company separation, this station became a facility of Keihan Electric Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">December 1, 1949: Due to the company separation, this station became a facility of Keihan Electric Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="43">
+<j>1951年（昭和26年）4月1日 戦後通過となっていた急行の停車を再開。</j>
+<e type="trans" ver="1">April 1, 1951: Having not stopped at this station after the war, the express trains on the line started stopping at this station again.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1951: Express trains, which didn&apos;t stop at the station after the war, started doing so again.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 1951: Express trains, which didn&apos;t stop at the station after the war, started doing so again.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="44">
+<j>1970年（昭和45年）4月1日 駅の南方の京都市電稲荷線と平面交差を稲荷線廃止に伴い廃止撤去。</j>
+<e type="trans" ver="1">April 1, 1970: In the south of the station, the train tracks crossed those of the Inari Line, operated by Kyoto City Trams, on the ground level, but the crossing was dismantled and removed, corresponding to the abolition of the Inari Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1970: In the south of the station, the train tracks crossed those of the Inari Line, operated by Kyoto City Trams, on the ground level, but the crossing was dismantled and removed, corresponding to the abolition of the Inari Line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">April 1, 1970: In the south of the station, the train tracks crossed those of the Inari Line, operated by Kyoto City Trams, on the ground level, but the crossing was dismantled and removed, corresponding to the abolition of the Inari Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="45">
+<j>1986年（昭和61年）6月　駅舎改築工事竣工(大阪行き・京都行き共に)。</j>
+<e type="trans" ver="1">June, 1986: The work to reconstruct the station house was completed (both for Osaka and for Kyoto).</e>
+<cmt></cmt>
+<e type="trans" ver="2">June, 1986: The work of reconstructing the station house was completed (both for Osaka and Kyoto).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">June, 1986: The work of reconstructing the station house was completed (both for Osaka and Kyoto).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="46">
+<j>1987年（昭和62年）5月? 8連化のためのホーム延伸工事完成。</j>
+<e type="trans" ver="1">May ?, 1987: The work to extend the platforms, for preparing them for the introduction of eight-car trains, was completed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">May ?, 1987: The work to extend the platforms, in preparation for the introduction of eight-car trains, was completed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Circa May, 1987: The work to extend the platforms, in preparation for the introduction of eight-car trains, was completed.</e>
+<cmt>?→circa　としました。</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="47">
+<j>1989年（平成元年）4月　京都行きホームの屋根152m化</j>
+<e type="trans" ver="1">April, 1989: The length of the roof of the platform for the trains for Kyoto became 152 m.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April, 1989: The length of the roof of the platform for trains for Kyoto became 152 meters.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April, 1989: The length of the roof of the platform for trains for Kyoto became 152 meters.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>2001年（平成13年）10月18日 大阪行きホームに「オスメイト用流し」付き多目的トイレを設置。</j>
+<e type="trans" ver="1">October 18, 2001: A multi-purpose lavatory provided with a sink for ostomate was installed on the platform for the trains for Osaka.</e>
+<cmt>オスメイト”は”オストメイト”の誤りではないかと考え、”オストメイト”として訳してあります。</cmt>
+<e type="trans" ver="2">October 18, 2001: A multipurpose lavatory provided with a sink for ostomate was installed on the platform for the trains for Osaka.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">October 18, 2001: A multipurpose lavatory provided with a sink for ostomate was installed on the platform for the trains for Osaka.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="49">
+<j>2007年（平成19年）3月31日 伏見稲荷駅バリアフリー化工事完了(スロープ改良・車イス対応券売機・幅広自動改札機・点字運賃表と点字構内図、多目的トイレ、駅事務所にAED設置)。</j>
+<e type="trans" ver="1">March 31, 2007: The work to make the premises of Fushimi-inari Station barrier-free was completed (the slopes were ireformed, and ticket vending machines supporing wheelchair users, wide automatic ticket-checking machines, Braille-using fare tables, Braille-using station maps, multi-purpose lavatories, and AED in the station office were installed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 31, 2007: The work to make the premises of Fushimi-inari Station barrier-free was completed (the slopes were reformed, and ticket vending machines supporting wheelchair users, wide automatic ticket-checking machines, Braille fare tables and station maps, multipurpose lavatories, and AED in the station office were installed).</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">March 31, 2007: The work to make the premises of Fushimi-inari Station barrier-free was completed (the slopes were reformed, and ticket vending machines supporting wheelchair users, wide automatic ticket-checking machines, Braille fare tables and station maps, multipurpose lavatories, and AED in the station office were installed).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="50">
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="51">
+<j>京阪電気鉄道</j>
+<e type="trans" ver="1">Keihan Electric Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="52">
+<j>京阪本線</j>
+<e type="trans" ver="1">Keihan Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Main Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>■K特急・■特急</j>
+<e type="trans" ver="1">■ K-limitted express trains ■ Limitted express trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">■ K-limited express trains ■ Limited express trains</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">K-Limited Express/Limited Express</e>
+<cmt>■を削除し、表現を統一しました。</cmt>
+</sen>
+<sen id="54">
+<j>通過</j>
+<e type="trans" ver="1">Not stop at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">No stops at this station</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Nonstop</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="55">
+<j>■急行</j>
+<e type="trans" ver="1">■ Express trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">■ Express trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Express</e>
+<cmt>■を削除し、表現を統一しました。</cmt>
+</sen>
+<sen id="56">
+<j>丹波橋駅 - 伏見稲荷駅 - 七条駅</j>
+<e type="trans" ver="1">Tanbabashi Station - Fushimi-inari Station - Shichijo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanbabashi Station - Fushimi-inari Station - Shichijo Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tambabashi Station - Fushimi-inari Station - Shichijo Station</e>
+<cmt>Tambabashi としました。</cmt>
+</sen>
+<sen id="57">
+<j>■準急・■普通</j>
+<e type="trans" ver="1">■ Semi-express trains ■ Local trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">■ Semi-express trains ■ Local trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sub-express/Local</e>
+<cmt>■を削除し、表現を統一しました。</cmt>
+</sen>
+<sen id="58">
+<j>深草駅 - 伏見稲荷駅 - 鳥羽街道駅</j>
+<e type="trans" ver="1">Fukakusa Station - Fushimi-inari Station - Toba-kaido Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukakusa Station - Fushimi-inari Station - Toba-kaido Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fukakusa Station - Fushimi-inari Station - Toba-kaido Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), Hideyuki(id:9577), Etopirica(id:32491), 天然ガス(id:98149), UE-PON2600(id:18149), OwarinakiTabi(id:38610), ZZZ(id:9462), Mega(id:34550), Mover(id:7146), Memeja(id:110500), Rusk(id:9895), Dr jimmy(id:111486), Local discovery(id:142533), Goki(id:7107), Unamu(id:14627), Hirotaro(id:1437), 扇風機のせんちゃん(id:161810), Gomagoma(id:59768), 目蒲東急之介(id:34741), Sinryow(id:4485), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

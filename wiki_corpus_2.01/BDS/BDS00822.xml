@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>聖戒</j>
+<e type="trans" ver="1">Jokai</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jokai</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jokai</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>聖戒（じょうかい、生没年不詳）は、鎌倉時代中期の時宗歓喜光寺の僧。</j>
+<e type="trans" ver="1">Jokai (date of birth and death unknown) is a priest of Kankiko-ji Temple of Jishu sect in the mid Kamakura period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jokai (date of birth and death unknown) is a monk of Kankiko-ji Temple of the Jishu Sect during the mid Kamakura period.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Jokai (year of birth and death unknown) is a priest of Kankiko-ji Temple of the Jishu Sect during the mid Kamakura period.</e>
+<cmt>生没年不詳date を year に修正しました。monk を priest に修正しました。</cmt>
+</sen>
+<sen id="2">
+<j>伊予国の領主河野通広の孫で、一遍の従弟（一説には弟または甥）。</j>
+<e type="trans" ver="1">He was a grandson of Michihiro KONO, the feudal lord of Iyo Province, and a cousin (or brother or nephew according to another theory) of Ippen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was a grandson of Michihiro KONO, the feudal lord of the Iyo Province, and a cousin (also rumored to be a brother or a nephew) of Ippen.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">He was a grandson of Michihiro KONO, the feudal lord of Iyo Province, and a cousin (also rumored to be a brother or a nephew) of Ippen.</e>
+<cmt>the Iyo Province の the を削除しました。</cmt>
+</sen>
+<sen id="3">
+<j>一遍の弟子他阿真教の徒弟として、正応4年（1291年）に京都錦小路通に歓喜光寺を建てた。</j>
+<e type="trans" ver="1">As an apprentice of Taa, a disciple of Ippen, Jokai built the Kankiko-ji Temple on the Nishikikoji-dori Street, Kyoto, in 1291.</e>
+<cmt>一原文一訳文の例外対処原文は「他阿真教」となっていますが、一遍の弟子は「他阿」なのでTaaと訳しました。</cmt>
+<e type="trans" ver="2">As an apprentice of Taa, who was a disciple of Ippen, Jokai built the Kankiko-ji Temple along the Nishikikoji-dori Street, Kyoto, in 1291.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">As an apprentice of Taa, who was a disciple of Ippen, Jokai built the Kankiko-ji Temple along the Nishikikoji-dori Street, Kyoto, in 1291.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>時宗十二派中の一つである六条派の祖となった。</j>
+<e type="trans" ver="1">He became the founder of one of twelve schools of Jishu sect, Rokujo school.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">He became the Founder of the Rokujo School, which is one of the Twelve Schools of the Jishu Sect.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">He became the Founder of the Rokujo School, which is one of the Twelve Schools of the Jishu Sect.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>正安元年（1299年）には『一遍上人絵伝』12巻を撰し、法眼円伊にこれを描かせた。</j>
+<e type="trans" ver="1">In 1299, he edited twelve-scroll &quot;Ippen Shonin Eden&quot; (Illustrated Biography of the priest Ippen) and asked Hogen (the second highest rank for Buddhist priests) Eni to draw pictures for the scroll.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1299, Jokai edited the Twelve-Scrolls of &quot;Ippen Shonin Eden&quot; (the Illustrated Biography of Ippen), and requested Hogen (the second highest rank for Buddhist monks) Eni to draw illustrations for the scroll.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">In 1299, Jokai edited the Twelve-Scrolls of &quot;Ippen Shonin Eden&quot; (the Illustrated Biography of Ippen), and requested Hogen (the second highest rank in the hierarchy of Buddhist priests) Eni to draw illustrations for the scroll.</e>
+<cmt>法眼(the second highest rank for Buddhist monks) を(the second highest rank in the hierarchy of Buddhist priests) に修正しました。</cmt>
+</sen>
+<sen id="6">
+<j>これが『六条縁起』である。</j>
+<e type="trans" ver="1">It is also called &quot;Rokujo Engi.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">This biography is also known as &quot;Rokujo Engi.&quot;</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">This biography is also known as &quot;Rokujo Engi.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 YOSHI438(id:174755), Tribot(id:186681), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

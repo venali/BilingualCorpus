@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>桂駅</j>
+<e type="trans" ver="1">Katsura Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katsura Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Katsura Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>桂駅（かつらえき）は、京都市西京区にある、阪急電鉄の鉄道駅。</j>
+<e type="trans" ver="1">Located in Nishikyo Ward, Kyoto City, Katsura Station is a stop that is operated by the Hankyu Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katsura Station, located in Nishikyo Ward, Kyoto City, is a stop that is operated by the Hankyu Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Katsura Station, located in Nishikyo Ward, Kyoto City, is a stop that is operated by the Hankyu Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>利用可能な鉄道路線</j>
+<e type="trans" ver="1">Available railway lines</e>
+<cmt></cmt>
+<e type="trans" ver="2">Available railway lines</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Lines</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>阪急電鉄</j>
+<e type="trans" ver="1">Hankyu Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hankyu Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>阪急京都本線</j>
+<e type="trans" ver="1">Hankyu Kyoto Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Kyoto Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hankyu Kyoto Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>阪急嵐山線 ※始発駅</j>
+<e type="trans" ver="1">Hankyu Arashiyama Line ※The Hankyu Arashiyama Line starts at Katsura Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Arashiyama Line ※The Hankyu Arashiyama Line starts at Katsura Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hankyu Arashiyama Line * The Hankyu Arashiyama Line starts at Katsura Station.</e>
+<cmt>※→*　としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>プラットホーム形状と配置3面6線の地上駅で、橋上駅を有している。</j>
+<e type="trans" ver="1">Katsura Station is an aboveground station with three platforms serving six tracks (the form of platform and its arrangement); the station is on the bridge.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katsura Station is an aboveground facility with three platforms serving six tracks; the station is located on the bridge.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Katsura Station is an aboveground facility with three platforms serving six tracks; the station building is located on the bridge.</e>
+<cmt>橋上駅→station building is located on the bridge としました。</cmt>
+</sen>
+<sen id="6">
+<j>京都本線の列車は、当駅で優等列車の待避が可能である。</j>
+<e type="trans" ver="1">Trains running on the Kyoto Line can pass superior trains at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Trains running on the Kyoto Line can pass superior trains at this station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Trains running on the Kyoto Line can pass superior trains at this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>平日朝ラッシュ時の10両編成の河原町行き快速急行は当駅で増結されている2両が切り離される。</j>
+<e type="trans" ver="1">Rapid Express trains for Kawaramachi Station are comprised of ten cars (including two cars added) during the morning rush on weekdays; the added two cars are separated at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid express trains bound for Kawaramachi Station are comprised of ten cars (including two added cars) during the morning rush on weekdays; the additional cars are separated at this station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Rapid express trains bound for Kawaramachi Station are comprised of ten cars (including two added cars) during the morning rush on weekdays; the additional cars are separated at this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>ペデストリアンデッキ東側は駅ビルに直結している。</j>
+<e type="trans" ver="1">The pedestrian deck on the east side is connected to the station building.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The pedestrian deck on the east side is connected to the station building.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The pedestrian deck on the east side is connected to the station building.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>C号線は唯一桂車庫と直接つながっている。</j>
+<e type="trans" ver="1">Only Track C is connected directly to the Katsura depot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Only track C is connected directly to the Katsura depot.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Only Ｔrack C is connected directly to the Katsura train depot.</e>
+<cmt>train depot としました。大文字修正。</cmt>
+</sen>
+<sen id="10">
+<j>当駅始発の京都本線河原町行きの普通列車が発車するほかは、もっぱら回送列車の引込線として使用される。</j>
+<e type="trans" ver="1">Track C is used for the first Local train bound for Kawaramachi Station on the Kyoto Line and as a railroad siding for deadhead trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track C is used for the first local train bound for Kawaramachi Station on the Kyoto Line and as a railroad siding for deadhead trains.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Track C is used for the first local train bound for Kawaramachi Station on the Kyoto Line and as a railroad siding for deadhead trains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>なお、案内上は1号線同様嵐山線ホームとなっている（かつて運転されていた京都本線からの梅田-嵐山間の直通臨時急行がC号線に発着していた実績がある）。</j>
+<e type="trans" ver="1">Incidentally, in the announcement, Track C is called the Arashiyama Line platform like Track 1 (because there used to have through special express trains that run between Umeda Station and Arashiyama Station on the Kyoto Line, which arrived at and departed from Track C).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Incidentally, in the announcement track C is called the Arashiyama Line platform, like track 1 (because there used to be through special express trains that would run between Umeda Station and Arashiyama Station on the Kyoto Line, which arrived at and departed from track C).</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Incidentally, in the announcement Track C is called the Arashiyama Line platform, like Track 1 (because there used to be through special express trains that would run between Umeda Station and Arashiyama Station on the Kyoto Line, which arrived at and departed from Track C).</e>
+<cmt>大文字修正</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>なお、C号線という呼称は、駅改築の際に隣接する桂車庫の留置線であるC号線にホームを設け、そのままのりばの呼称としたものである。</j>
+<e type="trans" ver="1">When the station was rebuilt, a platform was constructed for Track C, which was originally a storage track of the Katsura depot located adjacent to the station; since then the platform has been called Platform C.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the station was rebuilt, a platform was constructed for track C, which was originally a storage track of the Katsura depot located adjacent to the station; since then the platform has been referred to as platform C.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">When the station was rebuilt, a platform was constructed for Track C, which was originally a storage track of the Katsura train depot located adjacent to the station; since then the platform has been referred to as Platform C.</e>
+<cmt>train depot　としました。大文字に修正。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>商業施設</j>
+<e type="trans" ver="1">Commercial construction</e>
+<cmt></cmt>
+<e type="trans" ver="2">Commercial construction</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Commercial construction</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>桂駅には「MEW阪急桂」と呼ばれる商業施設がある。</j>
+<e type="trans" ver="1">There is a commercial construction called &apos;MEW Hankyu Katsura&apos; at Katsura Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a commercial construction called &apos;MEW Hankyu Katsura&apos; at Katsura Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There is a commercial construction called &apos;MEW Hankyu Katsura&apos; at Katsura Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>駅の東側には駅ビルの「イースト」、西側にはペデストリアンデッキに付随する形で店舗を構える「ウエスト」と呼ばれるゾーンに分かれて営業している。</j>
+<e type="trans" ver="1">The commercial construction is operated with &apos;East&apos; of the station building located on the east side of the station and &apos;West&apos; comprising stores adjacent to the pedestrian deck on the west side of the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The commercial construction is operated with &apos;East&apos; of the station building located on the east side of the station and &apos;West&apos; comprising stores adjacent to the pedestrian deck on the west side of the station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The commercial construction is operated with &apos;East&apos; of the station building located on the east side of the station and &apos;West&apos; comprising stores adjacent to the pedestrian deck on the west side of the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="15">
+<j>「イースト」（東口）</j>
+<e type="trans" ver="1">East&apos; (East entrance)</e>
+<cmt></cmt>
+<e type="trans" ver="2">East&apos; (the east entrance)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">East&apos; (the east exit)</e>
+<cmt>entrance →exitと統一しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="16">
+<j>1F ケンタッキーフライドチキン、カルチュア・コンビニエンス・クラブ、PODESTAコーヒー、桂駅京都市証明書発行コーナー。</j>
+<e type="trans" ver="1">1st floor: Kentucky Fried Chicken, Culture Convenience Club Co.,Ltd, PODESTA COFFEE, Katsura Station Kyoto City certificate issuing machine</e>
+<cmt></cmt>
+<e type="trans" ver="2">First floor: Kentucky Fried Chicken, Culture Convenience Club Co., Ltd., PODESTA COFFEE, Katsura Station Kyoto City certificate-issuing machine</e>
+<cmt>space</cmt>
+<e type="check" ver="1">First floor: Kentucky Fried Chicken, Culture Convenience Club Co., Ltd., PODESTA COFFEE, Katsura Station Kyoto City certificate-issuing office</e>
+<cmt>machine →office　としました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="17">
+<j>（イースト駅ビルに隣接する桂駅事務所ビルの1Fには阪急そばがある）</j>
+<e type="trans" ver="1">(Hankyu Soba resides on the first floor of the Katsura Station office building adjacent to the East station building.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Hankyu Soba resides on the first floor of the Katsura Station office building adjacent to the East station building.)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">(Hankyu Soba resides on the first floor of the Katsura Station office building adjacent to the East station building.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="18">
+<j>2F 駐輪場（有料）</j>
+<e type="trans" ver="1">2nd floor: bicycle parking area (pay)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Second floor: Paid bicycle parking area</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Second floor: Paid bicycle parking area</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="19">
+<j>3F 駅改札、Vie de France（パン屋）、服屋等、手芸の丸十</j>
+<e type="trans" ver="1">3rd floor: station ticket gate, Vie de France (bakery), clothing stores, Maruju (handicrafts)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Third floor: Station ticket gate, Vie de France (bakery), clothing stores, Maruju (handicrafts)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Third floor: Station ticket gate, Vie de France (bakery), clothing stores, Maruju (handicrafts)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="20">
+<j>4F キャンドゥ（100円ショップ）、ブックファースト</j>
+<e type="trans" ver="1">4th floor: cando (hundred-yen store), Book 1st (bookstore)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fourth floor: Cando (hundred-yen store), Book First (bookstore)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Fourth floor: Cando (hundred-yen store), Book First (bookstore)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="21">
+<j>5F ヘアーサロン、TBCグループ（エステ）、塾</j>
+<e type="trans" ver="1">5th floor: beauty salon, TBC GROUP (beauty care salon), private school</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fifth floor: Beauty salon, TBC GROUP (beauty-care salon), private school</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Fifth floor: Beauty salon, TBC GROUP (beauty-care salon), private school</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="22">
+<j>（以前は5Fに書店と眼鏡店があったが、書店は閉店し、眼鏡店は移転したため、現在5Fはさほど活気はない。）</j>
+<e type="trans" ver="1">(In the past, there was a bookstore and an optician store on the 5th floor, but the bookstore was closed and the optician store was moved out; now there are not so many people on the 5th floor.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(In the past, there was a bookstore and an optician&apos;s store on the fifth floor, but the bookstore was closed and the optician&apos;s store was vacated; today there aren&apos;t so many people on the fifth floor.)</e>
+<cmt>number</cmt>
+<e type="check" ver="1">(In the past, there was a bookstore and an optician&apos;s store on the fifth floor, but the bookstore was closed and the optician&apos;s store was vacated; today there aren&apos;t so many people on the fifth floor.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="23">
+<j>注1） 1～5Fにエレベーター、エスカレーターあり。</j>
+<e type="trans" ver="1">Note 1) There are elevators and escalators from the 1st floor to the 5th floor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Note 1) There are elevators and escalators from the first floor to the fifth floor.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Note 1) There are elevators and escalators from the first floor to the fifth floor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>ただしエレベーターは2Fにはとまらない。</j>
+<e type="trans" ver="1">But the elevator does not stop at the 2nd floor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">But the elevator does not stop at the second floor.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">But the elevator does not stop at the second floor.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="25">
+<j>注2） 駐輪場（有料）は車庫容量があまり大きくない。</j>
+<e type="trans" ver="1">Note 2) Capacity of the bicycle parking area (pay) is not very large.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Note 2) The capacity of the bicycle parking area (pay) isn&apos;t very large.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Note 2) The capacity of the bicycle parking area (pay) isn&apos;t very large.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>駅周辺にも京都市営の駐輪場が数箇所ある。</j>
+<e type="trans" ver="1">There are several bicycle parking areas around the station that are operated by Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City operates several bicycle parking areas around the station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kyoto City operates several bicycle parking areas around the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="27">
+<j>「ウエスト」（西口）</j>
+<e type="trans" ver="1">West&apos; (West entrance)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West&apos; (the west entrance)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">West&apos; (the west exit)</e>
+<cmt>entrance →exitと統一しました。</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="28">
+<j>3F ロッテリア、千鳥饅頭、珈琲待夢アマンド（喫茶店）、花梨（ラーメン）、阪急ハウジングプラザ桂（不動産）</j>
+<e type="trans" ver="1">3rd floor: LOTTERIA, Chidoriya, Coffee Time Amando (café), Karin (ramen), Hankyu Housing Plaza Katsura (real estate)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Third floor: LOTTERIA, Chidoriya, Coffee Time Amando (café), Karin (ramen), Hankyu Housing Plaza Katsura (real estate)</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Third floor: LOTTERIA, Chidoriya, Coffee Time Amando (café), Karin (ramen), Hankyu Housing Plaza Katsura (real estate)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="29">
+<j>他、駅改札コンコース付近にアズナス、花屋、らぽっぽ（菓子）、小物アクセサリー店、宝くじ売り場がある。</j>
+<e type="trans" ver="1">There are also ASNAS, a floor shop, Rapoppo (confectionery), an accessory shop, and a betting house, near the concourse at the station ticket gate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are also ASNAS, a floor shop, Rapoppo (confectionery), an accessory shop and a betting house near the concourse at the station ticket gate.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">There are also ASNAS, a flower shop, Rapoppo (confectionery), an accessory shop and a betting house near the concourse at the station ticket gate.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>利用状況</j>
+<e type="trans" ver="1">Use of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Conditions of usage</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="30">
+<j>平成15年度の1日あたりの乗車人員は約31,616人（京都府統計書より）。</j>
+<e type="trans" ver="1">The number of passengers per day was about 31,616 in 2003 (adapted from Kyoto Prefecture Statistical Book).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of passengers per day was about 31,616 in 2003 (according to the Kyoto Prefecture Statistical Book).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The number of passengers per day was about 31,616 in fiscal year 2003 (according to the Kyoto Prefecture Statistics Report).</e>
+<cmt>統一しました。fiscal → fiscal yearに変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="31">
+<j>桂車庫</j>
+<e type="trans" ver="1">Katsura depot</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Katsura depot</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Katsura train depot</e>
+<cmt>train depot としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="32">
+<j>桂離宮（当駅から直線距離600m程）</j>
+<e type="trans" ver="1">Katsura Imperial Villa (about 600 m in direct distance from the station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katsura Imperial Villa (approximately 600 meters from the station)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Katsura Imperial Villa (approximately 600 meters from the station)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="33">
+<j>地蔵寺 (京都市)（京都六地蔵めぐりの寺のひとつ）</j>
+<e type="trans" ver="1">Jizo-ji Temple (Kyoto City) (one of the Pilgrimage to Roku-jizo (Six Jizo) Temples)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jizo-ji Temple (Kyoto City) (one of the Pilgrimage to Roku-jizo (Six Jizo) temples)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Jizo-ji Temple (Kyoto City) (one of the Pilgrimage to Roku-jizo (Six Jizo) temples)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="34">
+<j>京都桂西口郵便局</j>
+<e type="trans" ver="1">Kyoto Katsura Nishiguchi post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto Katsura Nishiguchi post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kyoto Katsura Nishiguchi post office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="35">
+<j>京都桂郵便局</j>
+<e type="trans" ver="1">Kyoto Katsura post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto Katsura post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kyoto Katsura post office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="36">
+<j>京都市立桂小学校</j>
+<e type="trans" ver="1">Katsura Elementary School, Kyoto City</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katsura Elementary School, Kyoto City</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Katsura Elementary School, Kyoto City</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="37">
+<j>京都市立川岡小学校</j>
+<e type="trans" ver="1">Kawaoka Elementary School, Kyoto City</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kawaoka Elementary School, Kyoto City</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kawaoka Elementary School, Kyoto City</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="38">
+<j>駅周辺の道路は狭く、その中を路線バスが運行している。</j>
+<e type="trans" ver="1">Streets around the station are narrow but route buses travel through the streets.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The streets around the station are narrow, but route buses still travel through the area.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The streets around the station are narrow, but route buses still travel through the area.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>また、駅南側の川岡踏切などは両側を道路に挟まれており、それによる渋滞も発生している。</j>
+<e type="trans" ver="1">In addition, the Kawaoka (railway) crossing on the south of the station is situated between the streets, resulting in traffic congestion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, the Kawaoka (railway) crossing south of the station is situated between the streets, resulting in traffic congestion.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, the Kawaoka (railway) crossing south of the station is situated between the streets, resulting in traffic congestion.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>更に営業列車のみならず、車両基地への入出庫列車によって踏切の遮断機が頻繁に降りる為、周辺住民からは高架化の要望も出ているが、それには巨額の費用がかかり、京都市の財政事情も芳しくない為、実現の目処は立っていない。</j>
+<e type="trans" ver="1">Furthermore, since the crossing gate comes down every time not only commercial trains but also trains going in and out the rail yard pass the crossing, neighborhood residents have been requesting the elevation of the station; however, because of the huge cost and the poor financial status of Kyoto City, it is uncertain whether the elevation will be realized.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, because the crossing gate comes down every time, not only commercial trains but also trains entering and leaving the rail yard pass the crossing, neighborhood residents have been requesting the elevation of the station; however, given the huge cost and the poor financial status of Kyoto City it is uncertain whether the elevation will be realized.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Moreover, because the crossing gate comes down every time, not only commercial trains but also trains entering and leaving the rail yard pass the crossing, neighborhood residents have been requesting the elevation of the station; however, given the huge cost and the poor financial status of Kyoto City it is uncertain whether the elevation will be realized.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>それらの問題の緩和を狙って洛西口駅が開業（かつての物集女駅とほぼ同位置）する運びになった。</j>
+<e type="trans" ver="1">Under the circumstances and to improve the situation, Rakusaiguchi Station was opened (at substantially the same location as the old Mozume Station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under the circumstances, and to improve the situation, Rakusaiguchi Station was opened (at basically the same location as the old Mozume Station).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Under the circumstances, and to improve the situation, Rakusaiguchi Station was opened (at basically the same location as the old Mozume Station).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>阪急桂駅前バスのりば</j>
+<e type="trans" ver="1">Bus stop in front of Hankyu Katsura Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The bus stop in front of Hankyu Katsura Station</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The bus stop in front of Hankyu Katsura Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="42">
+<j>桂駅東口</j>
+<e type="trans" ver="1">Katsura Station Higashiguchi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katsura Station, Higashiguchi</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">East exit of Katsura Station</e>
+<cmt>East exit としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="43">
+<j>京都市営バス</j>
+<e type="trans" ver="1">Kyoto City Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="44">
+<j>33,特33系統：（七条通経由）京都駅行／（三ノ宮経由）洛西バスターミナル行</j>
+<e type="trans" ver="1">Route 33 and Special 33: for Kyoto Station (via Shichijo-dori Street)/for Rakusai Bus Terminal (via Sannomiya)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 33 and Special 33: Bound for Kyoto Station (via Shichijo-dori Street)/for Rakusai Bus Terminal (via Sannomiya)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 33 and Special 33: Bound for Kyoto Station (via Shichijo-dori Street)/for Rakusai Bus Terminal (via Sannomiya)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="45">
+<j>69系統：（四条大宮経由）二条駅行</j>
+<e type="trans" ver="1">Route 69: for Nijo Sta. (via Shijo Omiya)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 69: Bound for Nijo Station (via Shijo Omiya)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 69: Bound for Nijo Station (via Shijo Omiya)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="46">
+<j>70系統：（下桂／梅津段町経由）太秦天神川駅行</j>
+<e type="trans" ver="1">Route 70: for Uzumasa Tenjingawa Sta. (via Shimo-Katsura/Umezu Dammachi)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 70: Bound for Uzumasa Tenjingawa Station (via Shimo-Katsura/Umezu Dammachi)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 70: Bound for Uzumasa Tenjingawa Station (via Shimo-Katsura/Umezu Danmachi)</e>
+<cmt>Danmachi としました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="47">
+<j>南1系統：（下桂／桂高校前、中久世経由）竹田駅 (京都府)行</j>
+<e type="trans" ver="1">Route South 1: for Takeda Sta. (Nishiguchi) (Kyoto Prefecture) (via Shimo-Katsura/Katsura Koko-mae, Nakakuze)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route South 1: Bound for Takeda Station (Nishiguchi) (Kyoto Prefecture) (via Shimo-Katsura/Katsura Koko-mae, Nakakuze)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route South 1: Bound for Takeda Station (Kyoto Prefecture) (via Shimo-Katsura/Katsura Koko-mae (Katsura High School), Naka-kuze)</e>
+<cmt>Nishiguchi を削除しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="48">
+<j>特南1系統：（川島六ノ坪町、中久世経由）久世工業団地前行</j>
+<e type="trans" ver="1">Route Special South 1: for Kuze Kogyodanchi-mae (via Kawashima Rokunotsubocho/Nakakuze)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route Special South 1: Bound for Kuze Kogyodanchi-mae (via Kawashima Rokunotsubocho/Nakakuze)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route Special South 1: Bound for Kuze Kogyodanchi-mae (Kuze Industrial Park) (via Kawashima Rokunotsubo-cho/Naka-kuze)</e>
+<cmt>英語の補足を追加しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="49">
+<j>京阪京都交通</j>
+<e type="trans" ver="1">Keihan Kyoto Kotsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Kyoto Kotsu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Kyoto Kotsu</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="50">
+<j>1,2系統：（三ノ宮、国道沓掛経由）亀岡駅行</j>
+<e type="trans" ver="1">Route 1, 2: for Kameoka-ekimae (Kameoka Station) (via Sannomiya, Kokudo Kutsukake-guchi)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Routes 1 and 2: Bound for Kameoka-ekimae (Kameoka Station) (via Sannomiya, Kokudo Kutsukake-guchi)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Routes 1 and 2: Bound for Kameoka Station (via Sannomiya, Kokudo Kutsukake-guchi)</e>
+<cmt>Kameoka Station としました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="51">
+<j>2,14系統：（東側町、七条通経由）京都駅前行</j>
+<e type="trans" ver="1">Route 2, 14: for Kyoto Station (via Higashigawacho, Shichijo-dori Street)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Routes 2 and 14: Bound for Kyoto Station (via Higashigawa-cho, Shichijo-dori Street)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Routes 2 and 14: Bound for Kyoto Station (via Higashigawa-cho, Shichijo-dori Street)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="52">
+<j>26系統：（桂小橋、七条通経由）京都駅前行</j>
+<e type="trans" ver="1">Route 26: for Kyoto Station (via Katsura Kobashi, Shichijo-dori Street)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 26: Bound for Kyoto Station (via Katsura Kobashi, Shichijo-dori Street)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 26: Bound for Kyoto Station (via Katsura Kobashi, Shichijo-dori Street)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="53">
+<j>10,15,快速16系統：洛西バスターミナル行</j>
+<e type="trans" ver="1">Route 10, 15, Rapid 16: for Rakusai Bus Terminal</e>
+<cmt></cmt>
+<e type="trans" ver="2">Routes 10, 15 and Rapid 16: Bound for Rakusai Bus Terminal</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Routes 10, 15 and Rapid 16: Bound for Rakusai Bus Terminal</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="54">
+<j>26系統：（三ノ宮街道・西桂坂経由）桂坂中央行</j>
+<e type="trans" ver="1">Route 26: for Katsurazaka-Chuo (via Sannomiyakaido, Nishi-Katsurazaka)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 26: Bound for Katsurazaka-Chuo (via Sannomiyakaido, Nishi-Katsurazaka)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 26: Bound for Katsurazaka-Chuo (via Sannomiyakaido, Nishi-Katsurazaka)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="55">
+<j>13,14系統：（国道中山・芸大前経由）長峰行</j>
+<e type="trans" ver="1">Route 13, 14: for Nagamine (via Kokudo Nakayama/Geidai-mae (Kyoto City University of Arts))</e>
+<cmt></cmt>
+<e type="trans" ver="2">Routes 13 and 14: Bound for Nagamine (via Kokudo Nakayama/Geidai-mae (Kyoto City University of Arts))</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Routes 13 and 14: Bound for Nagamine (via Kokudo Nakayama/Geidai-mae (Kyoto City University of Arts))</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="56">
+<j>13B系統：（中山旧道経由）長峰行</j>
+<e type="trans" ver="1">Route 13B: for Nagamine (via Nakayama-kyudo)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 13B: Bound for Nagamine (via Nakayama-kyudo)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 13B: Bound for Nagamine (via Nakayama-kyudo)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="57">
+<j>58系統：京都学園大学行</j>
+<e type="trans" ver="1">Route 58: for Kyoto gakuen daigaku (Kyoto Gakuen University)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 58: Bound for Kyoto gakuen daigaku (Kyoto Gakuen University)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 58: Bound for Kyoto gakuen daigaku (Kyoto Gakuen University)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="58">
+<j>桂駅西口</j>
+<e type="trans" ver="1">Katsura Sta. (Nishiguchi)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katsura Station (Nishiguchi)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">West exit of Katsura Station</e>
+<cmt>West exit としました。</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="59">
+<j>京都市バス</j>
+<e type="trans" ver="1">Kyoto City Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="60">
+<j>西1系統：（新林センター前経由）洛西バスターミナル行</j>
+<e type="trans" ver="1">Route West 1: for Rakusai Bus Terminal (via Shimbayashi Center-mae)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route West 1: Bound for Rakusai Bus Terminal (via Shimbayashi Center-mae)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route West 1: Bound for Rakusai Bus Terminal (via Shinbayashi Center-mae)</e>
+<cmt>Shinbayashi としました。</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="61">
+<j>西2系統：（西竹の里町経由）洛西バスターミナル行</j>
+<e type="trans" ver="1">Route West 2: for Rakusai Bus Terminal (via Nishitakenosatocho)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route West 2: Bound for Rakusai Bus Terminal (via Nishitakenosato-cho)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route West 2: Bound for Rakusai Bus Terminal (via Nishitakenosato-cho)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="62">
+<j>西3系統：（南福西町経由）洛西バスターミナル行</j>
+<e type="trans" ver="1">Route West 3: for Rakusai Bus Terminal (via Minamifukunishicho)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route West 3: Bound for Rakusai Bus Terminal (via Minamifukunishicho)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route West 3: Bound for Rakusai Bus Terminal (via Minamifukunishi-cho)</e>
+<cmt>Minamifukunishi-cho としました。</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="63">
+<j>西5系統：（西桂坂経由）桂坂中央行</j>
+<e type="trans" ver="1">Route West 5: for Katsurazaka-Chuo (via Nishi-Katsurazaka)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route West 5: Bound for Katsurazaka-Chuo (via Nishi-Katsurazaka)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route West 5: Bound for Katsurazaka-Chuo (via Nishi-Katsurazaka)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="64">
+<j>西6系統：（京都大学経由）桂坂中央行</j>
+<e type="trans" ver="1">Route West 6: for Katsurazaka-Chuo (via Kyoto University (kyodai Katsura Campus-mae))</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route West 6: Bound for Katsurazaka-Chuo (via Kyoto University (kyodai Katsura Campus-mae))</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route West 6: Bound for Katsurazaka-Chuo (via Kyoto University (kyodai Katsura Campus-mae))</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="65">
+<j>西8系統：（南福西町、新林センター前経由）洛西バスターミナル行</j>
+<e type="trans" ver="1">Route West 8: for Rakusai Bus Terminal (via Minamifukunishicho, Shimbayashi Center-mae)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route West 8: Bound for Rakusai Bus Terminal (via Minamifukunishicho, Shimbayashi Center-mae)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route West 8: Bound for Rakusai Bus Terminal (via Minamifukunishi-cho, Shinbayashi Center-mae)</e>
+<cmt>Minamifukunishi-cho としました。Shinbayashi としました。</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="66">
+<j>特西2系統 （右京の里経由）洛西バスターミナル行</j>
+<e type="trans" ver="1">Route Rapid West 2: for Rakusai Bus Terminal (via Ukyonosato)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route Rapid West 2: Bound for Rakusai Bus Terminal (via Ukyonosato)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route Rapid West 2: Bound for Rakusai Bus Terminal (via Ukyonosato)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="67">
+<j>臨西2系統 （南春日町経由）洛西バスターミナル行</j>
+<e type="trans" ver="1">Route Special West 2: for Rakusai Bus Terminal (via Minamikasugacho)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route Special West 2: Bound for Rakusai Bus Terminal (via Minamikasugacho)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route Special West 2: Bound for Rakusai Bus Terminal (via Minamikasuga-cho)</e>
+<cmt>Minamikasuga-choとしました。</cmt>
+</sen>
+</par>
+<par id="27">
+<sen id="68">
+<j>特西3系統 （福西本通、西竹の里町、新林中通）洛西バスターミナル（境谷大橋）行</j>
+<e type="trans" ver="1">Route Rapid West 3: for Rakusai Bus Terminal (Sakaidani Ohashi) (via Fukunishi Hondori, Nishitakenosatocho, Shimbayashi Nakadori)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route Rapid West 3: Bound for Rakusai Bus Terminal (Sakaidani Ohashi) (via Fukunishi Hondori, Nishitakenosatocho, Shimbayashi Nakadori)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route Rapid West 3: Bound for Rakusai Bus Terminal (Sakaidani Ohashi) (via Fukunishi Hondori, Nishitakenosato-cho, Shinbayashi Nakadori)</e>
+<cmt>Minamifukunishi-cho としました。Shinbayashi としました。</cmt>
+</sen>
+</par>
+<par id="28">
+<sen id="69">
+<j>京阪京都交通</j>
+<e type="trans" ver="1">Keihan Kyoto Kotsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Kyoto Kotsu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Kyoto Kotsu</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="29">
+<sen id="70">
+<j>20系統：桂坂中央行</j>
+<e type="trans" ver="1">Route 20: for Katsurazaka-Chuo</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 20: Bound for Katsurazaka-Chuo</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 20: Bound for Katsurazaka-Chuo</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="71">
+<j>1928年（昭和3年）11月1日 新京阪鉄道高槻町～西院間開通と同時に開業。</j>
+<e type="trans" ver="1">On November 1, 1928 the station was opened when the section between Takatsuki-cho Station and Saiin Station of the Shinkeihan Railway was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 1, 1928: The station was opened concurrently with the opening of the section between Takatsuki-cho Station and Saiin Station of the Shinkeihan Railway.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">November 1, 1928: The station was opened concurrently with the opening of the section between Takatsuki-cho Station and Saiin Station of the Shinkeihan Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="72">
+<j>1928年（昭和3年）11月9日 嵐山線が開通、乗換駅となる。</j>
+<e type="trans" ver="1">On November 9, 1928 the Arashiyama Line was opened and the station became a stop for transfer.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 9, 1928: The Arashiyama Line was opened and the station became a stop for transfers.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">November 9, 1928: The Arashiyama Line was opened and the station became a stop for transfers.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="73">
+<j>1930年（昭和5年）9月15日 会社合併により、京阪電気鉄道の駅となる。</j>
+<e type="trans" ver="1">On September 15, 1930 Katsura Station became a stop operated by the Keihan Electric Railway as a result of amalgamation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 15, 1930: Katsura Station became a stop operated by the Keihan Electric Railway as a result of amalgamation.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">September 15, 1930: Katsura Station became a stop operated by the Keihan Electric Railway as a result of amalgamation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="74">
+<j>1943年（昭和18年）10月1日 京阪電気鉄道と阪神急行電鉄との合併により、京阪神急行電鉄の駅となる。</j>
+<e type="trans" ver="1">On October 1, 1943 Katsura Station came to be operated by the Keihanshin Express Railway as a result of amalgamation of the Keihan Electric Railway and the Hanshin Electric Express Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 1, 1943: Katsura Station came to be operated by the Keihanshin Express Railway as a result of amalgamation of the Keihan Electric Railway and the Hanshin Electric Express Railway.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">October 1, 1943: Katsura Station came to be operated by the Keihanshin Express Railway as a result of amalgamation of the Keihan Electric Railway and the Hanshin Electric Express Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="75">
+<j>1973年（昭和48年）4月1日 社名変更により、阪急電鉄の駅となる。</j>
+<e type="trans" ver="1">On April 1, 1973 Katsura Station came to be a stop of the Hankyu Railway as a result of the change of the company name.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1973: Katsura Station came to be a stop of the Hankyu Railway due to the change of the company&apos;s name.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">April 1, 1973: Katsura Station came to be a stop of the Hankyu Railway due to the change of the company&apos;s name.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="76">
+<j>2007年（平成17年）3月17日 通勤特急停車駅となり、全列車停車駅に昇格。</j>
+<e type="trans" ver="1">On March 17, 2007 (Commuter) Limited Express trains came to stop at Katsura Station, thus making all the trains stopping at Katsura Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 17, 2007: The commuter limited express trains came to stop at Katsura Station, thus making all the trains stop at Katsura Station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 17, 2007: The commuter limited express trains came to stop at Katsura Station, thus making all the trains stop at Katsura Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="77">
+<j>阪急電鉄</j>
+<e type="trans" ver="1">Hankyu Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hankyu Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="78">
+<j>■京都本線</j>
+<e type="trans" ver="1">Kyoto Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Main Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="79">
+<j>■特急</j>
+<e type="trans" ver="1">■Limited Express</e>
+<cmt></cmt>
+<e type="trans" ver="2">Limited express</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Limited Express</e>
+<cmt>統一しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="80">
+<j>長岡天神駅 - 桂駅 - 烏丸駅</j>
+<e type="trans" ver="1">Nagaokatenjin Station - Katsura Station - Karasuma Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nagaokatenjin Station - Katsura Station - Karasuma Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nagaokatenjin Station - Katsura Station - Karasuma Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="81">
+<j>■通勤特急・■快速急行</j>
+<e type="trans" ver="1">■(Commuter) Limited Express ■Rapid Express</e>
+<cmt></cmt>
+<e type="trans" ver="2">■(Commuter) limited express ■Rapid express</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Commuter Limited Express/Rapid Express</e>
+<cmt>統一しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="82">
+<j>長岡天神駅 - 桂駅 - 西院駅</j>
+<e type="trans" ver="1">Nagaokatenjin Station - Katsura Station - Saiin Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nagaokatenjin Station - Katsura Station - Saiin Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nagaokatenjin Station - Katsura Station - Saiin Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="83">
+<j>■準急・■普通</j>
+<e type="trans" ver="1">■Semi Express ■Local</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Semi-express ■Local</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Semi Express/Local</e>
+<cmt>統一しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="84">
+<j>洛西口駅 - 桂駅 - 西京極駅</j>
+<e type="trans" ver="1">Rakusaiguchi Station - Katsura Station - Nishikyogoku Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rakusaiguchi Station - Katsura Station - Nishikyogoku Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rakusaiguchi Station - Katsura Station - Nishikyogoku Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="85">
+<j>■嵐山線（全列車が各駅に停車）</j>
+<e type="trans" ver="1">Arashiyama Line (All the trains stop at every station.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Arashiyama Line (All the trains stop at every station.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Arashiyama Line (All the trains stop at every station.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="86">
+<j>桂駅 - 上桂駅</j>
+<e type="trans" ver="1">Katsura Station - Kamikatsura Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Katsura Station - Kamikatsura Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Katsura Station - Kamikatsura Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>その他</j>
+<e type="trans" ver="1">Others</e>
+<cmt></cmt>
+<e type="trans" ver="2">Others</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Others</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="87">
+<j>ローソンのカツ弁当のCMのロケ地として当駅構内が使用された。</j>
+<e type="trans" ver="1">The station was used on location for the commercial of the LAWSON&apos;s pork cutlet box lunch (Katsu-bento).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station was used as a location for the shooting of a commercial for the LAWSON&apos;s pork cutlet box lunch (Katsu-bento).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station was used as a location for the shooting of a commercial for the LAWSON&apos;s pork cutlet box lunch (Katsu-bento).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="88">
+<j>そのCMの出演者は桂三枝と華原朋美。</j>
+<e type="trans" ver="1">The cast of the commercial were Sanshi KATSURA and Tomomi KAHARA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sanshi KATSURA and Tomomi KAHARA were cast in the commercial.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sanshi KATSURA and Tomomi KAHARA were cast in the commercial.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="89">
+<j>「カツだ!」と「桂」を掛けた内容であった。</j>
+<e type="trans" ver="1">In the commercial, &apos;cutlet (katsu) and &apos;KATSURA&apos; were made a pun.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the commercial, a pun was made of &apos;cutlet&apos; (katsu) and &apos;KATSURA.&apos;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the commercial, a pun was made of &apos;cutlet&apos; (katsu) and &apos;KATSURA.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="90">
+<j>河原町行きホーム（2・3号線）の種別・行き先案内機は反転フラップ式案内表示機であるが、他駅とは違い「特急 河原町ゆき」のように、行き先駅名称の後ろに「ゆき」が添えられている。</j>
+<e type="trans" ver="1">The type/destination information board installed on the platform for Kawaramachi (Platforms 2 and 3) is a rotatable-flap display, which differs from that of other stations in that a flap displaying &apos;for&apos; is added to the name of the destination, like &apos;Limited Express for Kawaramachi.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The type/destination information board installed on the platform for Kawaramachi (platforms 2 and 3) is a rotatable-flap display, which differs from that of other stations in that a flap displaying &apos;for&apos; is added to the name of the destination, such as &apos;Limited Express for Kawaramachi.&apos;</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The type/destination information board installed on the platform for Kawaramachi (platforms 2 and 3) is a rotatable-flap display, which differs from that of other stations in that a flap displaying &apos;for&apos; is added to the name of the destination, such as &apos;Limited Express for Kawaramachi.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="91">
+<j>この表示は先発表示と一体型で、一昔前の阪急の反転式案内でよく見られたものである（表示の中には、今はなき「快速」の種別の案内も残っている。</j>
+<e type="trans" ver="1">This display is an integration type that displays the first departure, which type used to be found often in the old rotatable-flap displays of the Hankyu Railway (In the display, the flap &apos;Rapid&apos; (not in service) still remains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This display is an integration type that displays the first departure, which used to be found often in the old rotatable-flap displays of the Hankyu Railway (however, in the display, the flap &apos;Rapid&apos; (not in service) remains).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">This display is an integration type that displays the first departure, which used to be found often in the old rotatable-flap displays of the Hankyu Railway (however, in the display, the flap &apos;Rapid&apos; (not in service) remains).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="92">
+<j>反転式の案内機が現存する阪急の駅の中でも、このようなものが現在も使用されているのは当駅のみである）。</j>
+<e type="trans" ver="1">This type of rotatable-flap display is still used only at Katsura Station among the stations of the Hankyu Railway that still use rotatable-flap displays.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">This type of rotatable-flap display is still used only at Katsura Station among the stations of the Hankyu Railway that still use rotatable-flap displays.)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This type of rotatable-flap display is still used only at Katsura Station among the stations of the Hankyu Railway that still use rotatable-flap displays.)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="93">
+<j>一方、大阪方面行ホーム（4・5号線）は発光ダイオード、嵐山線ホーム（C・1号線）は行灯式の種別・行き先案内機が設置されているが、これらは行き先駅名称に「ゆき」はつかない。</j>
+<e type="trans" ver="1">Meanwhile, the LED display board and the lamp-stand type display board are installed as type/destination information boards on the platform for Osaka (Platforms 4 and 5) and the Arashiyama Line platform (Platforms C and 1), respectively, which boards do not display &apos;for&apos; with the destinations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meanwhile, the LED display board and the lamp-stand type of display board are installed as type/destination information boards on the platform for Osaka (platforms 4 and 5) and the Arashiyama Line platform (platforms C and 1), respectively, but those boards don&apos;t display &apos;for&apos; as part of the destinations.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Meanwhile, the LED display board and the lamp-stand type of display board are installed as type/destination information boards on the platform for Osaka (platforms 4 and 5) and the Arashiyama Line platform (platforms C and 1), respectively, but those boards don&apos;t display &apos;for&apos; as part of the destinations.</e>
+<cmt>OK</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="94">
+<j>漫才師ブラックマヨネーズのネタに、「禿げているのに、名前は小杉（髪が濃すぎ）。</j>
+<e type="trans" ver="1">The manzai comedian duo called Black Mayonnaise has a story relating to Katsura: &apos;Despite my bald-head, my name is Kosugi (i.e., thick hair).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The manzai comedian duo &quot;Black Mayonnaise&quot; has a story related to Katsura: &apos;Despite my bald head, my name is Kosugi (i.e., thick hair).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The manzai comedian duo &quot;Black Mayonnaise&quot; has a story related to Katsura: &apos;Despite my bald head, my name is Kosugi (i.e., thick hair).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="95">
+<j>桂出身です。</j>
+<e type="trans" ver="1">I&apos;m from Katsura (i.e., wig).</e>
+<cmt></cmt>
+<e type="trans" ver="2">I&apos;m from Katsura (i.e., wig).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">I&apos;m from Katsura (i.e., wig).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="96">
+<j>ほんとに京都に桂というところがあるんですよ。」というものがある。</j>
+<e type="trans" ver="1">In fact, there is a place called Katsura, in Kyoto.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">In fact, there is a place called Katsura, in Kyoto.&apos;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In fact, there is a place called Katsura, in Kyoto.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), 城山(id:104901), V-TWIN POWER(id:49244), 0null0(id:582), 春野秋葉(id:36725), Lupinoid(id:68), Wikipedianet(id:9608), Tigers boy(id:15761), KARS(id:43022), PALNAS,MOSCOW-TASTE(id:140939), Awata(id:67957), Ohura(id:5986), Fanvio(id:116155), Neier(id:28359), 準急三条(id:25072), ひらりんげんぞう(id:28783), Piano92925(id:83263), くっちゃめ(id:86793), 鍛高譚(id:154933), Waza fire(id:9029), Kone(id:377), Hirotaro(id:1437), Red bicycle(id:122704), よしくろ(id:133817), 目蒲東急之介(id:34741), 雲越亭出蔵(id:194819), 捕澤(id:23785), Gargoyle(id:49233), Hiroakita(id:25946), Hideyuki(id:9577), Etopirica(id:32491), Ikaxer(id:61759), Fuyu(id:16591), Memeja(id:110500), Shinkansen(id:13703), Rusk(id:9895), Ktr(id:30468), 扇風機のせんちゃん(id:161810), 計記録(id:124500), オナガドリ(id:15179), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

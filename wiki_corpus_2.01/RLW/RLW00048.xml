@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>大河原駅 (京都府)</j>
+<e type="trans" ver="1">Okawara Station (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Okawara Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Okawara Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>大河原駅（おおかわらえき）は、京都府相楽郡南山城村大字北大河原字欠ケ原にある、西日本旅客鉄道（JR西日本）関西本線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Kakegahara, Kita-okawara, Minami-yamashiro-mura, Soraku-gun, Kyoto Prefecture, Okawara Station is a stop on the Kansai Main Line, which is operated by the West Japan Railway Company.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Located in Kakegahara, Kita-okawara, Minami-yamashiro-mura, Soraku-gun, Kyoto Prefecture, Okawara Station is a stop on the Kansai Main Line, which is operated by the West Japan Railway Company.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Located in Kakegahara, Kita-okawara, Minami-yamashiro-mura, Soraku-gun, Kyoto Prefecture, Okawara Station is a stop on the Kansai Main Line, which is operated by the West Japan Railway Company.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station layout</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>2面2線のプラットホームを持つ交換可能駅で地上駅。</j>
+<e type="trans" ver="1">It is an aboveground station which has two separate platforms, each of which is for the up train and the down train respectively, and at which the up train and down train can pass each other.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an aboveground station with two side platforms serving two tracks, allowing the up train and down train to pass each other.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">It is an aboveground station with two side platforms serving two tracks, allowing the inbound train and outbound train to pass each other.</e>
+<cmt>上り→inbound, 下り→outbound としました。</cmt>
+</sen>
+<sen id="3">
+<j>出発信号機・場内信号機とも一方向のみの設置のため、逆線入線はできない。</j>
+<e type="trans" ver="1">because both of the leaving signal and the home signal are set up only for one direction, the train on the other line cannot be given priority for entering the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because both the starting signal and the home signal are set up for only one direction, the train on the other line cannot be given priority to enter the station.</e>
+<cmt>I think &quot;出発信号機&quot; is actually &apos;starting signal&apos;Capitalized &quot;b&quot;deleted &quot;of&quot;Moved &quot;only&quot;&quot;for entering&quot;→&quot;to enter&quot;</cmt>
+<e type="check" ver="1">Because both the starting signal and the home signal are set up for only one direction, the train on the other line cannot be given priority to enter the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>駅舎は加茂方面行ホーム側にあり、亀山方面行ホームへは無蓋の跨線橋にて連絡している。</j>
+<e type="trans" ver="1">The station building is located on the toward-Kamo platform side and connected to the toward-Kameyama platform with a nonoperculated overpass.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station building is located on the Kamo-bound platform side and connected to the Kameyama-bound platform by an unroofed bridge.</e>
+<cmt>&quot;toward-Kamo&quot;→&quot;Kamo-bound&quot;&quot;toward-Kameyama&quot;→&quot;Kameyama-bound&quot;&quot;with a nonoperculated overpass&quot;→&quot;by an unroofed bridge&quot;</cmt>
+<e type="check" ver="1">The station building is located on the Kamo-bound platform side and connected to the Kameyama-bound platform by an unroofed bridge.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>簡易委託駅で早朝と夕方以降は無人となる。</j>
+<e type="trans" ver="1">As a simplified commission railway station, no station attendant remains at the station early in the morning and in the evening and later.</e>
+<cmt>簡易委託駅→simplified commission railway station は、[定訳不明]により仮訳です。</cmt>
+<e type="trans" ver="2">As a quasi-sub-contracted railway station, it is unmanned early in the morning and from evening onwards.</e>
+<cmt>Not sure of &quot;簡易委託駅&quot;&quot;no station attendant remains at the station&quot;→&quot;it is unmanned&quot;&quot;in the evening and later&quot;→&quot;from evening onwards&quot;</cmt>
+<e type="check" ver="1">As a quasi-sub-contracted railway station, it is unmanned early in the morning and from evening onwards.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>自動券売機は設置されていない。</j>
+<e type="trans" ver="1">No automatic ticket machine is set up.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is no automatic ticket machine.</e>
+<cmt>Added &quot;There is&quot;Deleted &quot;is set up&quot;</cmt>
+<e type="check" ver="1">There is no automatic ticket machine.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>※案内上ののりば番号は割り当てられていない。</j>
+<e type="trans" ver="1">* No platform number is assigned for guidance.</e>
+<cmt></cmt>
+<e type="trans" ver="2">* The platforms are not numbered.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">* The platforms are not numbered.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Periphery of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Surroundings</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Surroundings</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>南山城村役場</j>
+<e type="trans" ver="1">Minami-yamashiro village office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Minami-yamashiro Village Office</e>
+<cmt>Capitalized &apos;v&apos; and &apos;o&apos;</cmt>
+<e type="check" ver="1">Minami-yamashiro Village Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="9">
+<j>南山城郵便局</j>
+<e type="trans" ver="1">Minami-yamashiro post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Minami-yamashiro Post Office</e>
+<cmt>Capitalized &apos;p&apos; and &apos;o&apos;</cmt>
+<e type="check" ver="1">Minami-yamashiro Post Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="10">
+<j>やまなみホール</j>
+<e type="trans" ver="1">Yamanami Hall</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yamanami Hall</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yamanami Hall</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="11">
+<j>国道163号</j>
+<e type="trans" ver="1">National Highway 163</e>
+<cmt></cmt>
+<e type="trans" ver="2">National Highway 163</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">National Route 163</e>
+<cmt>国道→National Route としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="12">
+<j>木津川 (京都府)</j>
+<e type="trans" ver="1">Kizu-gawa River (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kizu-gawa River (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kizu-gawa River (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>バス</j>
+<e type="trans" ver="1">Bus services</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus services</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus services</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>南山城村コミュニティバス（毎週水曜日運行・無料）</j>
+<e type="trans" ver="1">Minami-yamashiro community bus (operated on Wednesdays, free of carriage)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Minami-yamashiro community bus (operated on Wednesdays, free of charge)</e>
+<cmt>&quot;carriage&quot;→&quot;charge&quot;</cmt>
+<e type="check" ver="1">Minami-yamashiro community bus (operated on Wednesdays, free of charge)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>大河原方面行き</j>
+<e type="trans" ver="1">For Okawara</e>
+<cmt></cmt>
+<e type="trans" ver="2">For Okawara</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For Okawara</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>野殿・童仙房方面行き</j>
+<e type="trans" ver="1">For Nodono and Dosembo</e>
+<cmt></cmt>
+<e type="trans" ver="2">For Nodono and Dosembo</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For Nodono and Dosenbo</e>
+<cmt>Dosenbo としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="16">
+<j>1897年（明治30年）11月11日 - 伊賀上野駅～加茂駅 (京都府)間の開通時に、関西鉄道の駅（鉄道駅一般駅）として開業。</j>
+<e type="trans" ver="1">November 11, 1897: Started as a station (general rail station) of Kansei Railway Company when the operation between Iga-Ueno Station and Kamo Station (Kyoto Prefecture) was started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 11, 1897: Opened as station (general rail station) of Kansei Railway Company with start of services between Iga-Ueno Station and Kamo Station (Kyoto Prefecture).</e>
+<cmt>rewrote in a more &apos;note&apos; style as in Japanese original.</cmt>
+<e type="check" ver="1">November 11, 1897: Opened as station (general rail station) of Kansei Railway Company with start of services between Iga-Ueno Station and Kamo Station (Kyoto Prefecture).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="17">
+<j>1907年（明治40年）10月1日 - 関西鉄道が鉄道国有法。</j>
+<e type="trans" ver="1">October 1, 1907: Kansei Railway Company was nationalized in compliance with the Railway Nationalization Act.</e>
+<cmt>「関西鉄道が（鉄道国有法により）国有化された。」という解釈で訳出いたしました。</cmt>
+<e type="trans" ver="2">October 1, 1907: Kansei Railway Company nationalized in compliance with Railway Nationalization Act.</e>
+<cmt>rewrote in a more &apos;note&apos; style as in Japanese original.</cmt>
+<e type="check" ver="1">October 1, 1907: Kansei Railway Company nationalized in compliance with Railway Nationalization Act.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="18">
+<j>1909年（明治42年）10月12日 - 鉄道路線の名称制定により、関西本線所属となる。</j>
+<e type="trans" ver="1">October 12, 1909: The line to which the station belonged changed to the Kansai Main Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 12, 1909: Line name changed to Kansai Main Line.</e>
+<cmt>rewrote in a more &apos;note&apos; style as in Japanese original.</cmt>
+<e type="check" ver="1">October 12, 1909: Line name changed to Kansai Main Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="19">
+<j>1970年（昭和45年）8月1日 - 貨物営業廃止（鉄道駅旅客駅となる）。</j>
+<e type="trans" ver="1">August 1, 1970: The freight car services were discontinued (Services only for passengers started).</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 1, 1970: Freight services discontinued (became passenger-only station).</e>
+<cmt>rewrote in a more &apos;note&apos; style as in Japanese original.</cmt>
+<e type="check" ver="1">August 1, 1970: Freight services discontinued (became passenger-only station).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="20">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により、JR西日本の駅となる。</j>
+<e type="trans" ver="1">April 1, 1987: Based on the division and privatization of JNR, the station owned by West Japan Railway Company.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1987: Ownership passed to West Japan Railway Company following division and privatization of JNR.</e>
+<cmt>rewrote in a more &apos;note&apos; style as in Japanese original.</cmt>
+<e type="check" ver="1">April 1, 1987: Ownership passed to West Japan Railway Company following division and privatization of JNR.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>位置情報</j>
+<e type="trans" ver="1">Location information</e>
+<cmt></cmt>
+<e type="trans" ver="2">Location information</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Location information</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="6">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Next stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjacent stations</e>
+<cmt>&quot;Next&quot;→&quot;Adjacent&quot;</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="21">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Railway Company</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="22">
+<j>関西本線</j>
+<e type="trans" ver="1">Kansai Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kansai Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kansai Main Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="23">
+<j>月ヶ瀬口駅 - 大河原駅 - 笠置駅</j>
+<e type="trans" ver="1">Tsukigaseguchi Station - Okawara Station - Kasagi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tsukigaseguchi Station - Okawara Station - Kasagi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tsukigaseguchi Station - Okawara Station - Kasagi Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Starmine(id:119441), Tigers0022(id:59186), Bakkai(id:7233), Makishou(id:887), Ignis(id:28979), Hikichimin Jr.(id:147077), Makiharashouten(id:1021), さにー(id:109217), Greenleaf(id:126500), Wikipedianet(id:9608), Utsuda(id:605), Rusk(id:9895), 継之助(id:39352), R28Bot(id:177951), Chobot(id:20846), Kone(id:377), Hirotaro(id:1437), Sprinkler(id:14399), 計記録(id:124500), Greenman(id:69216), Apidr(id:155448), TOTOBIG(id:198418), Outside147(id:64766), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

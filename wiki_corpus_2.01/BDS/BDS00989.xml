@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>如宝</j>
+<e type="trans" ver="1">Nyoho</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nyoho</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nyoho</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>如宝（にょほう、天平3年（731年）- 弘仁6年1月7日 (旧暦)（815年2月19日））は、奈良時代から平安時代にかけての律宗の渡来僧。</j>
+<e type="trans" ver="1">Nyoho (also known as Ju Pao, 731 - February 19, 815) was a Ritsu sect monk came from China from the Nara period to the Heian period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nyoho (also known as Ju Pao, 731 - February 19, 815) was a Ritsu sect monk from China through the Nara period to the Heian period.</e>
+<cmt>fromが２回続いていたので直しました。「also～Ju Pao(青字）」部分は原文にありません。</cmt>
+<e type="check" ver="1">Nyoho (731 - February 19, 815) was a Ritsu sect monk from China through the Nara period to the Heian period.</e>
+<cmt>原文にないのでalso known as Ju Pao, を削除しました。</cmt>
+</sen>
+<sen id="2">
+<j>出身地については不詳であり、安如保・如保とも書かれる。</j>
+<e type="trans" ver="1">His native place is unknown, but it was written as 安如保, 如保.</e>
+<cmt></cmt>
+<e type="trans" ver="2">His native place, described as 安如保 or 如保, has not been confirmed.</e>
+<cmt>原文は反映されていますが、「不詳」であるのに具体的地名が挙げられているのはおかしいので直しました。</cmt>
+<e type="check" ver="1">His native place, described as 安如保 or 如保, has not been confirmed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>唐の律宗の僧鑑真に師事し、鑑真とともに754年（天平勝宝6年）日本へ来朝し、東大寺戒壇院で受戒している。</j>
+<e type="trans" ver="1">He came to Japan with a Chinese Ritsu sect monk Ganjin (also known as Chien Chen) as a disciple of Ganjin in 754, and was ordained as a Buddhist priest by receiving the commandments of Buddhism at the ordination hall of Todaij Temple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He studied under a Chinese Ritsu sect monk Ganjin (also known as Chien Chen), came to Japan with him in 754, and was ordained as a Buddhist priest by receiving the commandments of Buddhism at the ordination hall of Todaij Temple.</e>
+<cmt>原文通りの語順（師事→来日）にしました。青字部分は原文にありません。</cmt>
+<e type="check" ver="1">He studied under a Chinese Ritsu sect monk Ganjin, came to Japan with him in 754, and was ordained as a Buddhist priest by receiving the commandments of Buddhism at the ordination hall of Todaij Temple.</e>
+<cmt>原文にないので (also known as Chien Chen)を削除しました。</cmt>
+</sen>
+<sen id="4">
+<j>一時薬師寺 (下野市)に住したこともあるが、鑑真の死によりその委嘱によって唐招提寺に戻ってそこに住し、伽藍の造営と律宗の高揚に尽力した。</j>
+<e type="trans" ver="1">He once lived in Yakushiji (in present Shimotsuke City), and after the death of Ganjin, at the request of Ganjin, he returned to Toshodaiji Temple where he lived and worked for constructing the temple building and exalting Ritsu sect.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He had once lived in Yakushiji (in present Shimotsuke City), and after the death of Ganjin, he returned to Toshodaiji Temple and lived there at the request of Ganjin, and worked for constructing the temple cathedral and exalting Ritsu sect.</e>
+<cmt>livedを過去完了形とし、辞書よりtemple buildingをtemple cathedralとしました。</cmt>
+<e type="check" ver="1">He had once lived in Yakushiji (in present Shimotsuke City), and after the death of Ganjin, he returned to Toshodaiji Temple and lived there at the request of Ganjin, and worked for constructing the temple cathedral and exalting Ritsu sect.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>797年（延暦16年）に律師、806年（大同 (日本)元年）に少僧都に任じられた。</j>
+<e type="trans" ver="1">In 797, he was appointed an administrative position Risshi, and in 806, appointed another administrative position Shosozu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 797, he was appointed Risshi, an administrative position, and in 806, appointed as Shosozu, another administrative position.</e>
+<cmt>Risshi、Shosozuとその説明の順序を入れ替えました。（説明が後のほうがいいと思ったので）</cmt>
+<e type="check" ver="1">In 797, he was appointed Risshi, an administrative position, and in 806, appointed as Shosozu, another administrative position.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>「日本後紀」の卒伝によれば、戒律を厳守し、大国の風格があったという。</j>
+<e type="trans" ver="1">According to the Obituary of an Imperial history book &quot;Nihonkoki&quot;, he was a man of dignified presence as he came from the great country China, and followed the precept.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the Obituary of &quot;Nihonkoki&quot;(Later Chronicle of Japan), he followed religious precept and was a man of dignified presence.</e>
+<cmt>「日本後紀」を用語集の記載に合わせ、原文と同じ語順とし（厳守→風格）、as以下は原文にないので削除しました。</cmt>
+<e type="check" ver="1">According to the Obituary of &quot;Nihonkoki&quot;(Later Chronicle of Japan), he followed religious precept and was a man of dignified presence.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Shimotsuke(id:19741), Point136(id:211299), R28Bot(id:177951), 水野白楓(id:22811), Cprobot(id:97843), 松茸(id:27535), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

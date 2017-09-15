@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>神領奉行</j>
+<e type="trans" ver="1">Jinryo bugyo</e>
+<cmt>*統一用語リストでは、神領奉行→Shinryo bugyo (a magistrate of the estate of the Shinto shrines)とありますが、カッコ内は省きました。</cmt>
+<e type="trans" ver="2">Jinryo bugyo</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jinryo bugyo</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>神領奉行（じんりょうぶぎょう）とは、室町幕府の役職。</j>
+<e type="trans" ver="1">Jinryo bugyo (神領奉行) is a official post in Muromachi bakufu (Japanese feudal government headed by a shogun).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jinryo bugyo was an official post in the Muromachi bakufu (Japanese feudal government headed by a shogun).</e>
+<cmt>not sure why the Japanese was left in the translation</cmt>
+<e type="check" ver="1">&quot;Jinryo bugyo&quot; was an official post in the Muromachi bakufu (Japanese feudal government headed by a shogun).</e>
+<cmt>統一リスト（その他 2009/6/29）の指示により、Jinryo bugyo にダブルクォーテーションを追記しました。</cmt>
+</sen>
+<sen id="2">
+<j>江戸幕府における遠国奉行山田奉行の前身とされる。</j>
+<e type="trans" ver="1">It is considered that this is the predecessor of Yamada bugyo, one of the Ongoku bugyo (the collective name of the magistrates placed at important areas directly controlled by the government in the Edo Period) in Edo bakufu (Japanese feudal government headed by a shogun).</e>
+<cmt>遠国奉行→Ongoku bugyo (the collective name of the magistrates placed at important areas directly controlled by the government in the Edo Period) 統一用語リストには2通り（engoku/ongoku)ありましたが、読み方はongokuを採用しました。</cmt>
+<e type="trans" ver="2">It is considered to be the predecessor of Yamada bugyo, one of the Ongoku bugyo (a collective name for the magistrates placed at important areas directly controlled by the government in the Edo Period) in the Edo bakufu.</e>
+<cmt>the explanation of “bakufu” probably only needs to be used once per document</cmt>
+<e type="check" ver="1">It is considered to be the predecessor of Yamada bugyo, one of the Ongoku bugyo (a collective name for the magistrates placed at important areas directly controlled by the government in the Edo Period) in the Edo bakufu.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>室町幕府は文明 (日本)10年頃愛洲忠行を「神領奉行職」に執奏し、朝廷の裁可となった。</j>
+<e type="trans" ver="1">Muromachi bakufu proposed the appointment of Tadanobu AISU to &quot;Jinryo bugyo,&quot; and it was admitted by the Imperial court in around 1478.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Muromachi bakufu proposed the appointment of Tadanobu AISU to Jinryo bugyo, and it was approved by the Imperial court in around 1478.</e>
+<cmt>removed quotes, admitted-&gt;approved</cmt>
+<e type="check" ver="1">The Muromachi bakufu proposed the appointment of Tadanobu AISU to Jinryo bugyo, and it was approved by the Imperial court in around 1478.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>それ以前、宝徳2年（1450年）『氏経卿記』に以下のように記されている。「盗人六郎は山田で召し捕らえられ、宇治岡の辺りで斬首に処せられた。</j>
+<e type="trans" ver="1">Prior to that, in &quot;Ujitsunekyoki&quot; (a diary of the lord Ujitsune) (1450), there was a description, &apos;Thief Rokuro was arrested at Yamada, and was decapitated somewhere around Ujigaoka Shrine (宇治岡).</e>
+<cmt>」と記されている。（セル１２）を統合しました。 宇治岡→定訳不明・：Ujigaoka Shrine（宇治岡）[正しい読み方が不明です] としました。</cmt>
+<e type="trans" ver="2">Prior to that, it was recorded in &quot;Ujitsunekyoki&quot; (a diary of the lord Ujitsune, 1450) that &apos;the thief Rokuro was arrested at Yamada, and was decapitated somewhere around Ujigaoka Shrine.</e>
+<cmt>edited for flow and clarity</cmt>
+<e type="check" ver="1">Prior to that, it was recorded in &quot;Ujitsunekyoki&quot; (a diary of the lord Ujitsune, 1450) that &apos;the thief Rokuro was arrested at Yamada, and was decapitated somewhere around Ujigaoka Shrine.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>これは神宮に於いて新議の事である。</j>
+<e type="trans" ver="1">This is a new practice carried out in a shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is a new practice for a shrine</e>
+<cmt>this sounds more natural</cmt>
+<e type="check" ver="1">This is a new practice for a shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>従来は道後政所から守護に犯人を引渡し、守護が犯人を処罰するのが先例である。</j>
+<e type="trans" ver="1">Traditionally, an arrested criminal was handed over to Shugo (provincial constable) from Dogo Mandokoro (an administrative office), and Shugo executed the criminal.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Traditionally, an arrested criminal was handed over to the Shugo (provincial constable) by a Dogo Mandokoro (an administrative office), and the Shugo executed the criminal.&apos;</e>
+<cmt>added articles</cmt>
+<e type="check" ver="1">Traditionally, an arrested criminal was handed over to the Shugo (provincial constable) by a Dogo Mandokoro (an administrative office), and the Shugo executed the criminal.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>宝徳年間、既に検断権は「祭主家」から離れて「山田三方」が有していた事が判る。</j>
+<e type="trans" ver="1">From this description, it can be known that during the Hotoku era (February 1449 to January 1453), the right to judge criminal cases had already been transferred to &quot;Yamadasanpo&quot; (an autonomous local office autonomously set up by the people in three districts of Yamada, Ise Province in the early 15th century) from &quot;Saishuke&quot;(the chief Shinto priest family belonging to Ise-Jingu Shrine)</e>
+<cmt>「山田三方」→&quot;Yamadasanpo&quot; (an autonomous local office autonomously set up by the people in three districts of Yamada, Ise Province in the early 15th century)とカッコ内を加えました。「祭主家」→定訳不明： &quot;Saishuke&quot;(the chief Shinto priest family belonging to Ise-Jingu Shrine)としました。</cmt>
+<e type="trans" ver="2">From this description, it can be known that during the Hotoku era (February 1449 to January 1453), the right to judge criminal cases had already been transferred to &quot;Yamadasanpo&quot; (an autonomous local office autonomously set up by the people in three districts of Yamada, Ise Province in the early 15th century) from &quot;Saishuke&quot;(the chief Shinto priest family belonging to Ise-Jingu Shrine)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">From this description, it can be known that during the Hotoku era (February 1449 to January 1453), the right to judge criminal cases had already been transferred to &apos;Yoda sanpo&apos; (an autonomous local office autonomously set up by the people in three districts of Yamada, Ise Province in the early 15th century) from &apos;Saishuke&apos; (the chief Shinto priest family belonging to Ise-jingu Shrine)</e>
+<cmt>Ise-Jingu Shrine を Ise-jingu Shrine に修正しました。「山田三方」 &quot;Yamadasanpo&quot;「祭主家」 &quot;Saishuke&quot; それぞれシングルクォーテーションに修正しました。「山田三方」Yamadasanpo を Yoda sanpo に修正しました（※）。※中世・近世期の「山田」は「ようだ」と読むようです。参考：三重県HP　http://www.bunka.pref.mie.lg.jp/rekishi/kenshi/asp/hakken2/detail.asp?record=320お伊勢さん検定HP　http://www.ise-cci.or.jp/source/isekentei/images/seigo060724.pdf※上記「お伊勢さん検定」によると「山田三方／奉行」はどちらも「ようだ」と読むのが正しいと記載されていますが、実際に（社）伊勢市観光協会（TEL 0596-28-3705）に確認したところ、山田三方→「やまだ」「ようだ」併用して案内、山田奉行→「やまだ」で案内されているとのことでした。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="8">
+<j>文明年間に入るや「山田三方」の内部抗争が頻発するに及び、苦慮した室町幕府は「国司北畠氏」と「山田三方」に中立な愛洲伊予守忠行を神領奉行職に任命し、伊勢大神宮の御遷宮奉行と神領地の治安に当らしめた。</j>
+<e type="trans" ver="1">In 1469, suffering from the frequent internal conflicts within &quot;Yamadasanpo,&quot; Muromachi bakufu appointed AISU Iyonokami Tadayuki, who was in neutral to both side of Kokushi (provincial governor), the Kitabatake clan and &quot;Yamadasanpo,&quot; to the post of Jinryo bugyo in order to take charge of Onsengu (御遷宮) bugyo (magistrate in charge of 21st year rebuilding of Ise-jingu Shrine) and recover the order in the estate of Ise-jingu Shrine</e>
+<cmt>&quot;愛洲伊予守忠行→AISU Iyonokami Tadayukiとしました。統一用語リストのAISU Iyomori Tadayukiは採用しませんでした。　御遷宮奉行→定訳不明：Onsengu (御遷宮) bugyo (magistrate in charge of 21st year rebuilding of Ise-jingu Shrine)としました。御遷宮→Onsengu (御遷宮) [正しい読み方が不明です]</cmt>
+<e type="trans" ver="2">In 1469, suffering from frequent internal conflicts between Yamadasanpo, the Muromachi bakufu appointed AISU Iyonokami Tadayuki - who was in a neutral position between Kokushi (provincial governors) - the Kitabatake clan and Yamadasanpo, to the post of Jinryo bugyo in order to take charge of Onsengu bugyo (magistrate in charge of rebuilding Ise-jingu Shrine ever 21 years) and restore order in the estate of Ise-jingu Shrine.</e>
+<cmt>edited for flow and clarity</cmt>
+<e type="check" ver="1">In 1469, suffering from frequent internal conflicts between Yoda sanpo, the Muromachi bakufu appointed AISU Iyonokami Tadayuki, who was in a neutral position between the Kokushi (provincial governors) Kitabatake clan and Yoda sanpo, to the post of Jinryo bugyo in order to take charge of Onsengu bugyo (magistrate in charge of rebuilding Ise-jingu Shrine ever 21 years) and restore order in the estate of Ise-jingu Shrine.</e>
+<cmt>「山田三方」Yamadasanpo を Yodasanpo に修正しました。&quot;- who was in a neutral position between Kokushi (provincial governors) - the Kitabatake clan and Yamadasanpo, &quot;を &quot;, who was in a neutral position between the Kokushi (provincial governors) Kitabatake clan and Yoda sanpo,&quot; に修正しました（※）。※「山田三方」は自治組織であって、国司である北畠氏と共に&quot;provincial governor&quot; とひとくくりにすることはできないと思われます。</cmt>
+</sen>
+<sen id="9">
+<j>後世、江戸幕府の遠国奉行山田奉行は、これを倣っている。</j>
+<e type="trans" ver="1">In later time, Yamada bugyo, one of Ongoku bugyo emulated this setup.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Later, Yamada bugyo, one of the Ongoku bugyo, was established after this model.</e>
+<cmt>this is clearer</cmt>
+<e type="check" ver="1">Later, Yamada bugyo, one of the Ongoku bugyo, was established after this model.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="10">
+<j>「愛洲忠行」以降朝廷の裁可は行われず、国司北畠氏の代官である坂内氏等が「北畠氏の奉行」として替わっている。</j>
+<e type="trans" ver="1">Since &quot;Tadayuki AISU,&quot; the judgment for the permission was not required, Daikan (local governors) entrusted by Kokushi Kitabatake clan, such as the Sakauchi clan, took the charge as &quot;bugyo for the Kitabatake clan.&quot;</e>
+<cmt>「北畠氏の奉行」→定訳不明： &quot;bugyo for the Kitabatake clan&quot;としました。</cmt>
+<e type="trans" ver="2">Since Tadayuki AISU, permission was not required, and Daikan (local governors) trusted by the Kokushi Kitabatake clan, such as the Sakauchi clan, took the charge as bugyo for the Kitabatake clan.</e>
+<cmt>none of those quotation marks were needed</cmt>
+<e type="check" ver="1">Since Tadayuki AISU, permission by the Imperial Court was not required, and Daikan (local governors) trusted by the Kokushi Kitabatake clan, such as the Sakauchi clan, took the charge as bugyo for the Kitabatake clan.</e>
+<cmt>「朝廷の」訳漏れのためby the Imperial Court を追記しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="11">
+<j>「伊勢国一之瀬城」を拠城としていた愛洲伊予守忠行は「神領奉行職」を拝命するや、祭主家が神領支配していた「岩出祭主館跡」に遷る。</j>
+<e type="trans" ver="1">AISU Iyonokami Tadayuki, who had his home base at Ichinose-jo Castle, Ise Province, having received his appointment to the &quot;post of Jinryo bugyo,&quot; promptly moved to the Iwade Saishu Yakataato (site of former Iwate Head Shrine priest&apos;s castle)</e>
+<cmt>「岩出祭主館跡」→定訳不明： Iwade Saishu Yakataato (site of former Iwate Head Shrine priest&apos;s castle) としました。</cmt>
+<e type="trans" ver="2">AISU Iyonokami Tadayuki, who had his home base at Ichinose-jo Castle, Ise Province, having received his appointment to the post of Jinryo bugyo, promptly moved to the Iwade Saishu Yakataato (site of former Iwate Head Shrine priest&apos;s castle).</e>
+<cmt>deleted quotation marks, added full stop</cmt>
+<e type="check" ver="1">AISU Iyonokami Tadayuki, who had his home base at Ichinose-jo Castle, Ise Province, having received his appointment to the post of Jinryo bugyo, promptly moved to the Iwade Saishu Yakataato (site of the head priest&apos;s mansion in Iwade).</e>
+<cmt>the Iwade Saishu Yakataato (site of former Iwate Head Shrine priest&apos;s castle) をthe Iwade Saishu Yakataato (site of the head priest&apos;s mansion in Iwade) に修正しました（※）。※「祭主館」は予想図から判断すると &quot;castle&quot; よりも &quot;mansion/manor (house)&quot;の方が適切と思われます。参考：岩出祭主館跡　http://island.geocities.jp/kageryuuaisuikousai/iseaisushitoha.htm</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="12">
+<j>「言継卿記」に後世、北畠氏の神領支配で「岩出城」を拠点としていた事が記されている。</j>
+<e type="trans" ver="1">In &quot;Tokitsugu Kyoki&quot; (Diary of Tokitsugu YAMASHINA) written in the later time, there is a description that Saishu (head Shinto priest) used &apos;Iwade-jo Castle&apos; as his home base under the dominance by the Kitabatake clan over the Ise-jingu Shrine&apos;s estate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In &quot;Tokitsugu Kyoki&quot; (Diary of Tokitsugu YAMASHINA), written later, there is a description of a Saishu (head Shinto priest) using Iwade-jo Castle as his home base under the dominance of the Kitabatake clan over the Ise-jingu Shrine&apos;s estate.</e>
+<cmt>deleted quotation marks</cmt>
+<e type="check" ver="1">In &quot;Tokitsugu Kyoki&quot; (Diary of Tokitsugu YAMASHINA), written later, there is a description of a Saishu (head Shinto priest) using Iwade-jo Castle as his home base under the dominance of the Kitabatake clan over the Ise-jingu Shrine&apos;s estate.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>現・三重県度会郡玉城町岩出大森岩出城址がそれである。</j>
+<e type="trans" ver="1">This is today&apos;s historic site of Iwade-jo Castle in Iwade Omori, Tamaki-cho, Watarai-gun, Mie Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is the historic site of today&apos;s Iwade-jo Castle in Iwade Omori, Tamaki-cho, Watarai-gun, Mie Prefecture.</e>
+<cmt>changed word order</cmt>
+<e type="check" ver="1">This is the historic site of today&apos;s Iwade-jo Castle in Iwade Omori, Tamaki-cho, Watarai County, Mie Prefecture.</e>
+<cmt>Watarai-gun を Watarai County に修正しました（※）。※指示書で「区」を &quot;Ward&quot; と表記するよう記載されていますので、「郡」もそれに準拠するようにしました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="14">
+<j>徳川幕府の「伊勢山田奉行」の設置について「山田三方会合衆の要請に依った」とか昭和四年刊行の宇治山田市史の「豊臣秀吉の上部越中守への御朱印状を以て江戸幕府・山田奉行の前例とする」説は、現在に於いても大岡忠相の山田奉行手柄話と共にまことしやかに語られている。</j>
+<e type="trans" ver="1">The old theories about the setup of &quot;Ise Yamada bugyo&quot; by Edo bakufu, such as &apos;it was established on the request of the members of Yamadasanpo,&apos; or &apos;Goshuinjo&apos; (commandment letter with a red stamp (shuin) to show its authenticity) by Hideyoshi TOYOTOMI to Jobu Ecchunokami (上部越中守) (Governor of upper-Ecchu Province) was the precedent of Yamada bugyo in Edo bakufu,&apos; have still talked plausibly together with a tale of Tadasuke OOKA as Yamada bugyo.</e>
+<cmt>御朱印状→定訳不明Goshuinjo (commandment letter with a red stamp (shuin) to show its authenticity) としました。 豊臣秀吉→Hideyoshi to TOYOTOMI 上部越中守→定訳不明・正しい読み方不明です：Jobu Ecchu no kami (上部越中守) (Governor of upper-Ecchu Province) 上部越中→Jobu Ecchunokami (上部越中守) [正しい読み方不明です]</cmt>
+<e type="trans" ver="2">The old theories about the setup of &quot;Ise Yamada bugyo&quot; by the Edo bakufu, such as it having been established at the request of the members of Yamadasanpo, or that a Goshuinjo (letter of command with a stamp to show its authenticity) from Hideyoshi TOYOTOMI to Jobu Ecchunokami (Governor of upper-Ecchu Province), was the precedent for Yamada bugyo in Edo bakufu, are still compatible with the idea of Tadasuke OOKA as Yamada bugyo.</e>
+<cmt>edited for flow and clarity</cmt>
+<e type="check" ver="1">The old theories about the setup of &apos;Ise Yamada bugyo&apos; by the Edo bakufu, such as it having been established at the request of the members of Yoda sanpo, or that a Goshuinjo (letter of command with a stamp to show its authenticity) from Hideyoshi TOYOTOMI to Jobu Ecchunokami (Governor of upper-Ecchu Province), was the precedent for Yamada bugyo in the Edo bakufu, are still compatible with the idea of Tadasuke OOKA as Yamada bugyo.</e>
+<cmt>&quot;Ise Yamada bugyo&quot; をシングルクォーテーションに修正しました。Yamadasanpo を Yoda sanpo に修正しました。in Edo bakufu, に定冠詞 &quot;the&quot; を追記しました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="15">
+<j>明和五年山田一志久保町・講古堂主人、加藤長平秦忠告著の「宮川夜話草」に、「神領奉行」に就いての論考がある。</j>
+<e type="trans" ver="1">In &quot;Miyagawa Yawa So&quot; (Night Stories in Miyagawa) written in 1930 by Chobei Yasutadatsugu KATO (加藤長平秦忠告), the owner of Kokodo in Yamada Ichishikubo-cho (present Ichishi-cho, Ise City, Mie Prefecture), there is a discussion on the &apos;Jinryo bugyo.&apos;</e>
+<cmt>加藤長平秦忠告→Chobei Yasutadatsugu KATO (加藤長平秦忠告) [正しい読み方不明です]</cmt>
+<e type="trans" ver="2">In &quot;Miyagawa Yawa So&quot; (Night Stories in Miyagawa) written in 1930 by Chobei Yasutadatsugu KATO, the owner of Kokodo in Yamada Ichishikubo-cho (present Ichishi-cho, Ise City, Mie Prefecture), there is a discussion on the &apos;Jinryo bugyo.&apos;</e>
+<cmt>no reason for the original Japanese to be left in here</cmt>
+<e type="check" ver="1">In &apos;Miyagawa Yawa So&apos; (Night Stories in Miyagawa) written in 1768 by Chobei Yasutadatsugu KATO, the owner of Kokodo in Yamada Ichishikubo-cho (present Ichishi-cho, Ise City, Mie Prefecture), there is a discussion on the &apos;Jinryo bugyo.&apos;</e>
+<cmt>原文「明和五年山田一志久保町・講古堂主人、加藤長平秦忠告著の「宮川夜話草」に、the 講古堂主人owner of Kokodo「神領奉行」に就いての論考がある。」の 「the 講古堂主人owner of Kokodo」 を消去しました。「明和五年」誤訳のため&quot;in 1930&quot; を &quot;in 1768&quot; に修正しました。 &quot;Miyagawa Yawa So&quot; をシングルクォーテーションに修正しました。</cmt>
+</sen>
+<sen id="16">
+<j>『天正以前までは本州国司北畠具教公の御支配なりき。』</j>
+<e type="trans" ver="1">Before the Tensho era (1573-1592), it was controlled by Honshu Kokushi (governor in Honshu (mainland)) Lord Tomonori KITABATAKE.</e>
+<cmt>本州国司→定訳不明：Honshu Kokushi (governor in Honshu (mainland)) としました。</cmt>
+<e type="trans" ver="2">Before the Tensho era (1573-1592), it was controlled by Honshu Kokushi (governor of the mainland) Lord Tomonori KITABATAKE.</e>
+<cmt>removed nested parentheses and excess punctuation</cmt>
+<e type="check" ver="1">&quot;Before the Tensho era (1573-1592), it was controlled by Honshu Kokushi (governor of the mainland) Lord Tomonori KITABATAKE.&quot;</e>
+<cmt>文頭にダブルクォーテーションを追記しました。原文に合わせて、文末にも &quot;を追加しました。</cmt>
+</sen>
+<sen id="17">
+<j>『文禄年中の豊臣秀吉公御代は、岡本下野殿亀山城より神領を御支配せられ、その後、牧村兵庫殿・町野左近殿・古田兵部殿・稲葉蔵人殿、当国、田丸・岩出両城より御支配せらる。』</j>
+<e type="trans" ver="1">During the Bunroku era (1592-1596) while Hideyoshi TOYOTOMI was in the power, Magistrate Shimotsuke OKAMOTO controlled the territory of the Shrine, staying at Kameyama-jo Castle, and afterwards, Magistrate Hyogo MAKIMURA, Magistrate Sakon MACHINO, Magistrate Hyobu FURUTA, and Magistrate Kurando (蔵人) INABA, successively assumed control over this territory staying at Tamaru-jo Castle and Iwade-jo Castle.</e>
+<cmt>稲葉蔵人殿→Magistrate Kurando (蔵人) INABA [正しい読み方が不明です]。 なお、称号「殿」は、ここではMagistrateを使いました。</cmt>
+<e type="trans" ver="2">During the Bunroku era (1592-1596) while Hideyoshi TOYOTOMI was in power, Magistrate Shimotsuke OKAMOTO controlled the Shrine territory, staying at Kameyama-jo Castle, and afterwards, Magistrate Hyogo MAKIMURA, Magistrate Sakon MACHINO, Magistrate Hyobu FURUTA, and Magistrate Kurando INABA, successively assumed control over this territory and lived in Tamaru-jo Castle and Iwade-jo Castle.</e>
+<cmt>edited for flow and clarity</cmt>
+<e type="check" ver="1">&quot;During the Bunroku era (1592-1596) while Hideyoshi TOYOTOMI was in power, Magistrate Shimotsuke OKAMOTO controlled the Shrine territory, staying at Kameyama-jo Castle, and afterwards, Magistrate Hyogo MAKIMURA, Magistrate Sakon MACHINO, Magistrate Hyobu FURUTA, and Magistrate Kurando INABA, successively assumed control over this territory and lived in Tamaru-jo Castle and Iwade-jo Castle.&quot;</e>
+<cmt>文末にダブルクォーテーションを追記しました。原文に合わせて、文頭にも &quot;を追加しました。</cmt>
+</sen>
+<sen id="18">
+<j>上部越中守の亀山城神領奉行岡本下野への取次を以て、江戸幕府の「山田奉行の前例」とするは、「こじつけ」と指摘されていることが解る。</j>
+<e type="trans" ver="1">And it can be understood that this description indicates that to conclude that Jinryo bugyo was the &apos;precedent of Yamada bugyo&apos; in Edo bakufu only by the presence of Jobu Ecchunokami (Governor of upper-Ecchu Province) and Jinryo bugyo at Kameyama-jo Castle, Shimotsuke OKASMOTO, is a &apos;far-fetched story.&apos;</e>
+<cmt>亀山城神領奉行岡本下野→定訳不明：Jinryo bugyo at Kameyama-jo Castle, Shimotsuke OKASMOTOとしました。</cmt>
+<e type="trans" ver="2">And this description can be understood to indicate that to conclude that Jinryo bugyo was the antecedent of the Yamada bugyo in the Edo bakufu, although the presence of Jobu Ecchunokami (Governor of upper-Ecchu Province) and Jinryo bugyo at Kameyama-jo Castle, Shimotsuke OKASMOTO, is far-fetched.</e>
+<cmt>removed excess quotation marks</cmt>
+<e type="check" ver="1">And this description can be understood to indicate that to conclude that Jinryo bugyo was the antecedent of the Yamada bugyo in the Edo bakufu, although the presence of Jobu Ecchunokami and Jinryo bugyo at Kameyama-jo Castle, Shimotsuke OKASMOTO, is far-fetched.</e>
+<cmt>Jobu Ecchunokami (Governor of upper-Ecchu Province) カッコ書きの説明は26行目に記載されているため、削除しました。</cmt>
+</sen>
+<sen id="19">
+<j>（参考文献：御巫清直著 田丸城沿革考）</j>
+<e type="trans" ver="1">(Reference: Kiyonao KANNAGI, &quot;Tamaru-jo Enkaku Ko&quot;(A study on the history of Tamaru-jo Castle))</e>
+<cmt></cmt>
+<e type="trans" ver="2">Reference: Kiyonao KANNAGI, &quot;Tamaru-jo Enkaku Ko&quot; (A study on the history of Tamaru-jo Castle)</e>
+<cmt>removed nested parentheses</cmt>
+<e type="check" ver="1">Reference: Kiyonao KANNAGI, &quot;Tamaru-jo Enkaku Ko&quot; (A study on the history of Tamaru-jo Castle)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Givetaste(id:194852), Aisukageryuu(id:196205), Law soma(id:45202), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

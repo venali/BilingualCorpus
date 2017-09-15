@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>京福電気鉄道北野線</j>
+<e type="trans" ver="1">Kitano Line of Keifuku Electric Railroad Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitano Line</e>
+<cmt>I have deleted information regarding the operator of the line so as to maintain consistency with other pages I have checked related to train lines.</cmt>
+<e type="check" ver="1">Kitano Line, Keifuku Electric Railroad Co., Ltd.</e>
+<cmt>他の記事に合わせ、会社名も含めて翻訳。of削除</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>北野線（きたのせん）は、京都府京都市北区 (京都市)の北野白梅町駅から右京区の帷子ノ辻駅までを結ぶ京福電気鉄道の路線。</j>
+<e type="trans" ver="1">Kitano Line is a route of Keifuku Electric Railroad Co., Ltd. that connects from Kitano-Hakubaicho Station (Kita Ward, Kyoto City, Kyoto Prefecture) to Katabiranotsuji Station (Ukyo Ward).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kitano Line (Kitano-sen) is a railway line operated by Keifuku Electric Railroad Co., Ltd. that connects Kitano-Hakubaicho Station (located in the Kita Ward of Kyoto City, Kyoto Prefecture) and Katabiranotsuji Station (Ukyo Ward).</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The Kitano Line (Kitano-sen) is a railway line operated by Keifuku Electric Railroad Co., Ltd. that connects Kitano-Hakubaicho Station (located in the Kita Ward of Kyoto City, Kyoto Prefecture) and Katabiranotsuji Station (Ukyo Ward).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>京福電気鉄道嵐山本線とともに嵐電（らんでん）と呼ばれる。</j>
+<e type="trans" ver="1">Together with Arashiyama Main Line of Keifuku Electric Railroad Co., Ltd., it is called Randen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This line and the Arashiyama Main Line, which is also operated by Keifuku Electric Railroad Co., Ltd., are collectively known as the Randen line.</e>
+<cmt>I decided on &quot;Randen line&quot; based on some research (ref.: http://www.kyotoguide.com/ver2/useful/useful-trans.htm).</cmt>
+<e type="check" ver="1">This line and the Arashiyama Main Line, which is also operated by Keifuku Electric Railroad Co., Ltd., are collectively known as the Randen line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>住宅街の中を走っているほか、沿線には名刹が多く駅名にもなっている。</j>
+<e type="trans" ver="1">Besides running in the residential area, the names of the stations along the route comprises many famous great shrines or temples.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Running through residential areas, the line has a number of stations along its route named after famous shrines or temples.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">Moreover, both sides of the railway track between Utano and Narutaki are planted with cherry trees and during the cherry blossom season in spring, the location is lit up at night.</e>
+<cmt>文法間違い。 “is lighted up”-&gt; “is lit up”</cmt>
+</sen>
+<sen id="4">
+<j>また、宇多野～鳴滝間の線路両側にはサクラ並木があり、春の開花時に夜間ライトアップが行われる。</j>
+<e type="trans" ver="1">Moreover, both roadsides of the railway track between Utano and Narutaki are planted with cherry trees. During the cherry blossom in spring, the location is lighted up at night.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, both sides of the railway track between Utano and Narutaki are planted with cherry trees and during the cherry blossom season in spring, the location is lighted up at night.</e>
+<cmt>二文を一文にし、再構成しました。</cmt>
+<e type="check" ver="1">Moreover, both sides of the railway track between Utano and Narutaki are planted with cherry trees, which are illuminated on spring nights during the cherry blossom season.</e>
+<cmt>season補足roadsides→sides</cmt>
+</sen>
+<sen id="5">
+<j>全線が専用軌道である。</j>
+<e type="trans" ver="1">The entire route is a rail exclusively for its own use.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The entire route is a rail exclusively for its own use.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The entire rail line is exclusive.</e>
+<cmt>意味不明瞭なため、書き換えました。。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>路線データ</j>
+<e type="trans" ver="1">Route data</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route data</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route data</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>路線距離（営業キロ）： 3.8km</j>
+<e type="trans" ver="1">Route distance (working kilometer): 3.8km</e>
+<cmt></cmt>
+<e type="trans" ver="2">Line distance (working kilometers): 3.8 km</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Line distance (working kilometers): 3.8 km</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>軌間： 1435mm</j>
+<e type="trans" ver="1">Track gauge:1435mm</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track gauge: 1435 mm</e>
+<cmt>space and colon in Japanese font</cmt>
+<e type="check" ver="1">Track gauge: 1435 mm</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>駅数： 9駅（起終点駅含む）</j>
+<e type="trans" ver="1">Number of stations: 9 stations (including the origin station and the destination station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Number of stations: 9 stations (including the station of origin and the destination station)</e>
+<cmt>「origin station」→「station of origin」</cmt>
+<e type="check" ver="1">Number of stations: 9 (including the stations of origin and destination)</e>
+<cmt>不要な語句。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>複線区間： 鳴滝～常盤間</j>
+<e type="trans" ver="1">The double-track regions: between Narutaki Station and Tokiwa Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Double-track sections: between Narutaki Station and Tokiwa Station</e>
+<cmt>「The」削除、「regions」→「sections」</cmt>
+<e type="check" ver="1">Double-track sections: between Narutaki Station and Tokiwa Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>電化区間： 全線電化（直流600V）</j>
+<e type="trans" ver="1">The electrification region: the whole line is electrified. (direct current 600V)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Electrified sections: entire line (direct current 600V).</e>
+<cmt>「The」削除、「regions」→「sections」、「the whole line is electrified」→「entire line」</cmt>
+<e type="check" ver="1">Electrified sections: entire line (direct current 600 V).</e>
+<cmt>単位の前にスペース挿入</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="11">
+<j>閉塞 (鉄道)： 自動閉塞式</j>
+<e type="trans" ver="1">Block (railway): Automatic block system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Block (railway): Automatic block system</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Block (railway): Automatic block system</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>運行形態</j>
+<e type="trans" ver="1">Operation system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operating pattern</e>
+<cmt>「Operation system」→「Operating pattern」</cmt>
+<e type="check" ver="1">Operating pattern</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="12">
+<j>通常はすべて線内折り返し運転となっており、昼間は10分おきの運転である。</j>
+<e type="trans" ver="1">Usually, all are shuttle trains at intervals of ten minutes during daytime.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usually, all trains are shuttle trains, and are run at 10-minute intervals during the daytime.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">Generally, a shuttle service is operated during the daytime, with all trains running at 10-minute intervals.</e>
+<cmt>The edited version of the translation is an improvement, but I think the English could still read a little more naturally (see cell to left for example).</cmt>
+</sen>
+<sen id="13">
+<j>春・秋の観光シーズンの土曜・休日昼間時間帯に、線内定期列車を延長運転する形で、北野白梅町～嵐山本線嵐山間直通の列車が運転されることがある。</j>
+<e type="trans" ver="1">During a sightseeing season of autumn or spring, regular direct trains in the route will be on extended running service in diurnal time zone on Saturdays, Sundays or holiday, between Kitano Hakubaicho Station and Arashiyama Station along Arashiyama Main Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the autumn and spring sightseeing seasons, regular direct trains on this route operate on extended hours during the day on Saturdays and holidays, between Kitano Hakubaicho Station and Arashiyama Station along Arashiyama Main Line.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">During the autumn and spring sightseeing seasons, operation of regular trains on this route is extended from Kitano Hakubaicho Station through to Arashiyama Station along the Arashiyama Main Line during the daytime on Saturdays and holidays.</e>
+<cmt>「延長運転する形で」の意味は「時間の延長」ではなく「路線の延長」ですので、その意味になるように書き換えました。</cmt>
+</sen>
+<sen id="14">
+<j>全列車ワンマン運転を行っている。</j>
+<e type="trans" ver="1">All trains are one-man driving.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All trains are run with a single operator and no conductors.</e>
+<cmt>「one-man driving」説明必要</cmt>
+<e type="check" ver="1">All trains are run with a single operator and no conductors.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="15">
+<j>妙心寺、宇多野を除く途中駅に行き違い設備があるが、通常は鳴滝と龍安寺のみで行き違いを行っている。</j>
+<e type="trans" ver="1">Except for Myoshin-ji Temple Station and Utano Station, there are crossing devices in the stations in-between. However, usually, trains are cross over only in Narutaki Station and Ryuanji Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While there are crossing devices in all intermediate stations except for Myoushin-ji Temple Station and Utano Station, trains are usually crossed over only at Narutaki Station and Ryuanji Station.</e>
+<cmt>再構成して、一文に戻しました。</cmt>
+<e type="check" ver="1">While there are passing sidings at all intermediate stations except for Myoushin-ji Temple Station and Utano Station, trains usually pass only at Narutaki Station and Ryuanji Station.</e>
+<cmt>The use of &quot; crossing devices&quot; doesn&apos;t make much sense to me, I&apos;m afraid. I&apos;m not sure but Googling leads me to believe that &quot;行き違い設備&quot; might be a &quot;passing siding&quot;. I also think that the use of passive here (i.e. &quot;trains are crossed&quot;) is a little odd.</cmt>
+</sen>
+<sen id="16">
+<j>ただし、常盤～鳴滝間は複線となっているため、北野白梅町行きが延着した場合など、タイミングによってはこの駅間で行き違いをすることもある。</j>
+<e type="trans" ver="1">However, because the route between Tokiwa and Narutaki is double-tracked, if there is an arrival delay of trains heading for Kitano Hakubaicho, it is likely that trains cross between these stations as timed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, because the route between Tokiwa and Narutaki is double-tracked, if a train heading for Kitano Hakubaicho is delayed, and if the timing is right, the trains are likely to be crossed between these stations.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">However, because the route between Tokiwa and Narutaki is double-tracked, if a train heading for Kitano Hakubaicho is delayed, trains are likely to pass at a point between these stations if the timing is right.</e>
+<cmt>This would read a little more naturally to me.</cmt>
+</sen>
+<sen id="17">
+<j>また、龍安寺～等持院間の半分以上は複線分の用地が確保されている。</j>
+<e type="trans" ver="1">Moreover, more than half of the secured lands along the route between Ryuanji Station and Tojiinji Station are wide enough for double-tracking.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, more than half of the secured lands along the route between Ryuanji Station and Tojiinji Station are wide enough for double-tracking.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Moreover, more than half of the secured lands along the route between Ryuanji Station and Tojiin Station are wide enough for double-tracking.</e>
+<cmt>Tojiinji→Tojiin</cmt>
+</sen>
+<sen id="18">
+<j>複線化により駅間で電車が行き違うことができるようにするためと思われるが、残りの区間は民家が密集して、用地の確保が困難であることから実現してない。</j>
+<e type="trans" ver="1">These lands were secured with a consideration of allowing for double-tracking to enable trains to cross between stations. However, private houses are overcrowded in the remaining unsecured lands. Since securing the lands is difficult, a complete double tracking for the entire route is not realized.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These lands were secured with the intent of allowing for double-tracking to enable trains to cross between stations; however, the remaining unsecured lands are crowded with private houses, and securing the land is difficult, so complete double-tracking for the entire route is not realized.</e>
+<cmt>再構成して、一文に戻しました。</cmt>
+<e type="check" ver="1">These areas of land were secured to enable double tracks to be laid so that trains could pass between stations; however, because the areas of land that have not yet been secured are crowded with private houses and securing this land is proving difficult, complete double-tracking for the entire route has not yet been realized.</e>
+<cmt>全体的に訳し直しました。</cmt>
+</sen>
+<sen id="19">
+<j>1960年代には8分おきに運転されており、その当時は常盤、御室（現・御室仁和寺）、等持院で行き違いを行っていた。</j>
+<e type="trans" ver="1">In the 1960&apos;s, trains were running at intervals of eight minutes. At that time, trains crossed in Tokiwa Station, Omuro Station (present Omuro-Ninnaji Station) and Tojiinji Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the 1960s, trains ran at intervals of eight minutes and crossed in Tokiwa Station, Omuro Station (present Omuro-Ninnaji Station) and Tojiinji Station.</e>
+<cmt>再構成して、一文に戻しました。</cmt>
+<e type="check" ver="1">In the 1960s, trains ran at intervals of eight minutes and passed in Tokiwa Station, Omuro Station (present Omuro-Ninnaji Station) and Tojiin Station.</e>
+<cmt>crossed→passedTojiinji→Tojiin</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="20">
+<j>妙心寺、宇多野の両駅には行き違い設備がないが、上下方向別に千鳥式ホーム2面が設けられている。</j>
+<e type="trans" ver="1">In both Myoshinji Station and Utano Station, there is no crossing over device. However, along each of the directions to and fro Kyoto, 2 plover type platforms have been installed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neither Myoshinji Station nor Utano Station has a crossing device; however, at each station, two plover-type platforms have been installed along the lines to and from Kyoto.</e>
+<cmt>再構成して、一文に戻しました。「Plover-type platform」は英語圏で通じるかどうかは分かりませんが、どう説明するかも分かりませんです。</cmt>
+<e type="check" ver="1">Neither Myoshinji Station nor Utano Station has a passing siding; however, at each station, two plover-type platforms have been installed along the lines to and from Kyoto.</e>
+<cmt>crossing device→passing siding</cmt>
+</sen>
+<sen id="21">
+<j>これは車両のドア操作上、常に運賃箱のある左側ドアを開けて乗降できるようにするためである。</j>
+<e type="trans" ver="1">With a door manipulation consideration of the carriage, the purpose of this is such that the left door usually with the fare box is always opened for getting on or off.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is due to door operation considerations, to ensure that the left door, where the fare box is usually located, is always opened for boarding or disembarking.</e>
+<cmt>再構成しました。「door manipulation」→「door operation」、「getting on or off」→「boarding or disembarking」</cmt>
+<e type="check" ver="1">This is due to door operation considerations, to ensure that the left door, where the fare box is usually located, is always opened for boarding or disembarking.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="22">
+<j>京都電燈により開業した。</j>
+<e type="trans" ver="1">Trains started running by Kyoto Dento.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Railroad service begun by Kyoto Dento.</e>
+<cmt>「Trains started running」→「Railroad service begun」</cmt>
+<e type="check" ver="1">Railroad service begun by Kyoto Dento.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>開業当初は北野天満宮の南側にあった北野駅が起点であったが、今出川通の拡幅工事に伴い、北野白梅町が起点となった。</j>
+<e type="trans" ver="1">At the beginning when the train started, Kitano Station in the south of Kitano Temman-gu Shrine had been the starting point. However, with the expanding construction of Imadegawa-dori Street, Kitano Hakubaicho became the starting point.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the trains first began running, Kitano Station, to the south of Kitano Temman-gu Shrine, was the station of origin; however, with the expansion of Imadegawa-dori Street, Kitano Hakubaicho became the station of origin.</e>
+<cmt>再構成して、一文に戻しました。</cmt>
+<e type="check" ver="1">When the trains first began running, Kitano Station, to the south of Kitano Tenman-gu Shrine, was the station of origin; however, with the expansion of Imadegawa-dori Street, Kitano Hakubaicho became the station of origin.</e>
+<cmt>Temman-g→Tenman-g</cmt>
+</sen>
+<sen id="24">
+<j>北野～北野白梅町間は京都市交通局に譲渡され、京都市電今出川線に編入された。</j>
+<e type="trans" ver="1">The route between Kitano and Kitano Hakubaicho was transferred to Kyoto Municipal Transportation Bureau, with Kyoto City Trams incorporated into Imadegawa Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The route between Kitano and Kitano Hakubaicho was transferred to the Kyoto Municipal Transportation Bureau, with Kyoto City Trams incorporated into the Imadegawa Line.</e>
+<cmt>「the」挿入</cmt>
+<e type="check" ver="1">The route between Kitano and Kitano Hakubaicho was transferred to the Kyoto Municipal Transportation Bureau and incorporated into the Kyoto City Trams Imadegawa Line.</e>
+<cmt>「京都市電京都市電今出川線に編入された」の主語「北野～北野白梅町間」がわかるように修正。原文で「京都市電」が繰り返されていたので、１つ削除</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="25">
+<j>1925年（大正14年）11月3日 - 京都電燈が北野～高雄口（現・宇多野）間を開業。</j>
+<e type="trans" ver="1">On November 3, 1925, Kyoto Dento started train services between Kitano and Takaoguchi (present Utano).</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 3, 1925, Kyoto Dento started railway service between Kitano and Takaoguchi (present Utano).</e>
+<cmt>「train services」→「railway service」</cmt>
+<e type="check" ver="1">November 3, 1925: Kyoto Dento started railway service between Kitano and Takaoguchi (present Utano).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="26">
+<j>1926年（大正15年）3月10日 - 高雄口～帷子ノ辻間が開業。</j>
+<e type="trans" ver="1">On March 10, 1926, trains started running between Takaoguchi and Katabiranotsuji.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 10, 1926, trains started running between Takaoguchi and Katabiranotsuji.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">March 10, 1926: Trains started running between Takaoguchi and Katabiranotsuji.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="27">
+<j>嵐山本線と繋がる。</j>
+<e type="trans" ver="1">It was connected to Arashiyama Main Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line was connected to Arashiyama Main Line.</e>
+<cmt>「It」では主部が不明です。</cmt>
+<e type="check" ver="1">The line was connected to Arashiyama Main Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="28">
+<j>1942年（昭和17年）3月2日 - 京福電気鉄道に譲渡。</j>
+<e type="trans" ver="1">March 2, 1942, it was transferred to Keifuku Electric Railroad Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 2, 1942, it was transferred to Keifuku Electric Railroad Co., Ltd.</e>
+<cmt>「On」挿入</cmt>
+<e type="check" ver="1">March 2, 1942: It was transferred to Keifuku Electric Railroad Co., Ltd.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="29">
+<j>1958年（昭和33年）9月16日 - 今出川通の拡幅工事に伴い、北野～北野白梅町間を京都市交通局に譲渡。</j>
+<e type="trans" ver="1">On September 16, 1958, with the expanding construction of Imadegawa-dori Street, the route between Kitano and Kitano Hakubaicho was transferred to Kyoto Municipal Transportation Bureau.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 16, 1958, with the expansion of Imadegawa-dori Street, the route between Kitano and Kitano Hakubaicho was transferred to the Kyoto Municipal Transportation Bureau.</e>
+<cmt>「expanding construction」→「expansion」、「the」挿入</cmt>
+<e type="check" ver="1">September 16, 1958: With the expansion of Imadegawa-dori Street, the route between Kitano and Kitano Hakubaicho was transferred to the Kyoto Municipal Transportation Bureau.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="30">
+<j>白梅町駅を北野白梅町駅に改称。</j>
+<e type="trans" ver="1">Hakubaicho Station was renamed as Kitano- Hakubaicho Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hakubaicho Station was renamed Kitano- Hakubaicho Station.</e>
+<cmt>「as」削除</cmt>
+<e type="check" ver="1">Hakubaicho Station was renamed Kitano-Hakubaicho Station.</e>
+<cmt>スペース削除</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="31">
+<j>1975年（昭和50年）12月15日 - 車両の集電装置をホイール式集電装置トロリーから集電装置ビューゲル・Zパンダに変更。</j>
+<e type="trans" ver="1">On December 15, 1975, the electricity collector device of the carriages was changed from wheel type power to bow collector.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 15, 1975, the electricity collector for the cars was changed from a wheel type power collector to a bow collector.</e>
+<cmt>「device」削除、「carriages」→「cars」、「a」挿入</cmt>
+<e type="check" ver="1">December 15, 1975: The electricity collector for the cars was changed from a wheel type power collector to a bow collector.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="32">
+<j>1982年（昭和57年）1月9日 - ワンマン運転開始。</j>
+<e type="trans" ver="1">On January 9, 1982, one-man driving started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On January 9, 1982, trains began to be run with a single operator and no on-board conductors.</e>
+<cmt>「one-man driving」説明必要</cmt>
+<e type="check" ver="1">January 9, 1982: Trains began to be run with a single operator and no on-board conductors.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="33">
+<j>2002年（平成14年）5月1日 - 均一運賃になる（大人200円、子供100円）。</j>
+<e type="trans" ver="1">On May 1, 2002, a uniform fare (adult 200 yen and child 100 yen) system was adopted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On May 1, 2002, a uniform fare system (adults 200 yen, children 100 yen) was adopted.</e>
+<cmt>「system」箇所異動、「s」とコンマ挿入、「and」削除</cmt>
+<e type="check" ver="1">May 1, 2002: A uniform fare system (adults 200 yen, children 100 yen) was adopted.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="34">
+<j>スルッとKANSAIを導入。</j>
+<e type="trans" ver="1">KANSAI THRU PASS was introduced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The KANSAI THRU PASS was introduced.</e>
+<cmt>「the」挿入</cmt>
+<e type="check" ver="1">The Kansai Thru Pass was introduced.</e>
+<cmt>KANSAI THRU PASS→Kansai Thru Pass</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="35">
+<j>2007年（平成19年）3月19日 - 竜安寺道駅を龍安寺駅、御室駅を御室仁和寺駅、高雄口駅を宇多野駅に改称。</j>
+<e type="trans" ver="1">On March 19, 2007, Ryoanji-michi Station, Omuro Station, and Takaoguchi Station were renamed respectively as Ryoanji Station, Omuro Ninna-ji Station and Utano Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 19, 2007, Ryoanji-michi Station, Omuro Station, and Takaoguchi Station were renamed, respectively, Ryoanji Station, Omuro Ninna-ji Station and Utano Station.</e>
+<cmt>「renamed respectively as」→「renamed, respectively,」</cmt>
+<e type="check" ver="1">March 19, 2007: Ryoanji-michi Station, Omuro Station, and Takaoguchi Station were renamed, respectively, Ryoanji Station, Omuro Ninna-ji Station and Utano Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="36">
+<j>また、北野線で試用されていた駅ナンバリングと日本の鉄道ラインカラー一覧が正式に導入された。</j>
+<e type="trans" ver="1">Moreover, station numbering tried in Kitano Line and the Japan railway line color list were formally introduced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, the station numbering tested on the Kitano Line and the Japan railway line color list were formally introduced.</e>
+<cmt>「Moreover」→「In addition」、「the」挿入、「tried」→「tested」</cmt>
+<e type="check" ver="1">In addition, the station numbering tested on the Kitano Line and the Japan railway line color list were formally introduced.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="37">
+<j>2008年（平成20年）4月1日 - 帷子ノ辻・北野白梅町の各駅で発車メロディを導入。</j>
+<e type="trans" ver="1">On April 1, 2008, starting melody was introduced at each station between and Kitano Hakubaicho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 2008, a departure melody was introduced at each station between Katabiranotsuji Station and Kitano Hakubaicho Station.</e>
+<cmt>「starting melody」→「a departure melody」、「Katabiranotsuji Station」挿入と「Station」挿入</cmt>
+<e type="check" ver="1">April 1, 2008: A departure melody was introduced at each station between Katabiranotsuji Station and Kitano Hakubaicho Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="38">
+<j>駅一覧</j>
+<e type="trans" ver="1">List of stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">List of stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">List of stations</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>現存区間</j>
+<e type="trans" ver="1">discontinued stations in existing districts</e>
+<cmt></cmt>
+<e type="trans" ver="2">Existing districts</e>
+<cmt>下線の「廃止駅」がここにも入られました。</cmt>
+<e type="check" ver="1">Existing districts</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>現存区間の廃止駅</j>
+<e type="trans" ver="1">discontinued stations in existing districts</e>
+<cmt></cmt>
+<e type="trans" ver="2">Discontinued stations in existing districts</e>
+<cmt>先頭は大文字に変わりました。</cmt>
+<e type="check" ver="1">Discontinued stations in existing districts</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="40">
+<j>小松原駅 - 等持院駅～白梅町駅間。</j>
+<e type="trans" ver="1">Between Komatsubara Station, Tojiin Station and Hakubaicho Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Between Komatsubara Station, Tojiin Station and Hakubaicho Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Between Komatsubara Station, Tojiin Station and Hakubaicho Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>馬代通りとの交差付近にあった。</j>
+<e type="trans" ver="1">It was in the vicinity of intersection with Badai-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was near the intersection with Badai-dori Street.</e>
+<cmt>「in the vicinity of」→「near the」、終止点挿入</cmt>
+<e type="check" ver="1">It was near the intersection with Badai-dori Street.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>廃止区間</j>
+<e type="trans" ver="1">discontinued districts</e>
+<cmt></cmt>
+<e type="trans" ver="2">Discontinued districts</e>
+<cmt>先頭は大文字に変わりました。</cmt>
+<e type="check" ver="1">Discontinued districts</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="42">
+<j>北野駅 (京都府) - 1958年9月16日廃止</j>
+<e type="trans" ver="1">Kitano Station (Kyoto Prefecture) was discontinued on September 16, 1958.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Use of Kitano Station (Kyoto Prefecture) was discontinued on September 16, 1958.</e>
+<cmt>「Use of」挿入</cmt>
+<e type="check" ver="1">Use of Kitano Station (Kyoto Prefecture) was discontinued on September 16, 1958.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>LRT「今出川線構想」</j>
+<e type="trans" ver="1">LRT (Light Rail Transit) &quot;Imadegawa Line Plan&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">LRT (Light Rail Transit) &quot;Imadegawa Line Plan&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">LRT (Light Rail Transit) &apos;Imadegawa Line Plan&apos;</e>
+<cmt>原文の「」に合わせ&quot;を&apos;に</cmt>
+</tit>
+<par id="1">
+<sen id="43">
+<j>今出川通の北野白梅町と出町柳駅の間にライトレール路線を建設。</j>
+<e type="trans" ver="1">The Light Rail Route was constructed between Kitano Hakubaicho Station and Demachi-yanagi Station of Imadegawa-dori Street.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The Light Rail Route was constructed on Imadegawa-dori Street, between Kitano Hakubaicho Station and Demachi-yanagi Station.</e>
+<cmt>「of」削除、「on Imadegawa-dori Street」箇所異動</cmt>
+<e type="check" ver="1">The Light Rail Route was constructed on Imadegawa-dori Street, between Kitano Hakubaicho Station and Demachi-yanagi Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>この線と叡山電鉄叡山本線とを含めて直通運転をさせる構想が1990年代末頃からある。</j>
+<e type="trans" ver="1">Since about the end of the 1990&apos;s, there have been plans of direct trains including this route and Eizan Main Line of Eizan Electric Railway.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Since the late 1990s, there have been plans to run direct trains on lines including this route and the Eizan Main Line of Eizan Electric Railway.</e>
+<cmt>「about the end of the」→「the late」、「1990’s」→「1990s」、「plans of direct」→「plans to run direct」</cmt>
+<e type="check" ver="1">Since the late 1990s, there have been plans to run direct trains on lines including this route and the Eizan Main Line of Eizan Electric Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="45">
+<j>京都市も検討を行っているが実現するかは不透明である（詳細は京都市電京都市LRT構想を参照）。</j>
+<e type="trans" ver="1">Though Kyoto City also was examining, the realization possibility was opaque. (For details, please refer to &quot;Kyoto City LRT plan&quot; by Kyoto City Trams.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City is also conducting an examination, but it is unclear whether or not the plan will be realized (see the &quot;Kyoto City LRT plan&quot; by Kyoto City Trams for details).</e>
+<cmt>再構成して、一文に戻しました。</cmt>
+<e type="check" ver="1">Kyoto City is also conducting an examination, but it is unclear whether or not the plan will be realized (see the Kyoto City LRT plan by Kyoto City Trams for details).</e>
+<cmt>原文に『』のない&quot;　&quot;を削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>嵐電ブラッシュ・アップ プロジェクト</j>
+<e type="trans" ver="1">Randen Brush-up Project</e>
+<cmt></cmt>
+<e type="trans" ver="2">Randen Brush-up Project</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Randen Brush-up Project</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="46">
+<j>2006年度より、「嵐電ブラッシュ・アップ プロジェクト」として以下のような事業を行っている。</j>
+<e type="trans" ver="1">From the fiscal year 2006, the following businesses were carried out as Randen Brush-up Project.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Beginning in Fiscal Year 2006, the following projects were executed as the Randen Brush-up Project.</e>
+<cmt>「From the fiscal year 2006」→「Beginning in Fiscal Year 2006」、「businesses」→「projects」、「the」挿入</cmt>
+<e type="check" ver="1">Beginning in Fiscal Year 2006, the following projects were executed as the Randen Brush-up Project.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="47">
+<j>嵐山本線・北野線の名称を「嵐電」に統一（2007年3月19日）</j>
+<e type="trans" ver="1">Arashiyama Main Line and Kitano Line had their names united as &quot;Randen&quot; (March 19, 2007).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The names of the Arashiyama Main Line and Kitano Line were united as &quot;Randen&quot; (March 19, 2007).</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The names of the Arashiyama Main Line and Kitano Line were united as &quot;Randen&quot; (March 19, 2007).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="48">
+<j>観光名所の最寄駅など、7駅の名称の変更（2007年3月19日）</j>
+<e type="trans" ver="1">Seven stations, such as the closest stations to several tourist spots, were renamed. (March 19, 2007)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Seven stations, such as the closest stations to several tourist spots, were renamed (March 19, 2007).</e>
+<cmt>終止点箇所異動</cmt>
+<e type="check" ver="1">Seven stations, such as the closest stations to several tourist spots, were renamed (March 19, 2007).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="49">
+<j>車内アナウンスへの観光案内の導入</j>
+<e type="trans" ver="1">Sightseeing information were included in announcements inside train.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sightseeing information was included in onboard announcements.</e>
+<cmt>「were」→「was」、「announcements inside train」→「onboard announcements」</cmt>
+<e type="check" ver="1">Sightseeing information was included in onboard announcements.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="50">
+<j>各駅への集合案内板の新設</j>
+<e type="trans" ver="1">A comprehensive tourist guide board to each station was newly set up.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A comprehensive tourist guide board to each station was established.</e>
+<cmt>「newly set up」→「established」</cmt>
+<e type="check" ver="1">A comprehensive tourist guide board to each station was established.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="51">
+<j>各駅のリニューアル</j>
+<e type="trans" ver="1">Reform at each station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Reforms at each station</e>
+<cmt>「s」挿入</cmt>
+<e type="check" ver="1">Reforms at each station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="52">
+<j>また、沿線に世界文化遺産や国宝を始めとする多くの観光地を有する嵐山本線・北野線では、これらに加えて以下のことが行われている。</j>
+<e type="trans" ver="1">Moreover, in Arashiyama Main Line and Kitano Line, which has a lot of sightseeing spots designated as world cultural heritages or national treasures along the route, the following were carried out in addition to these.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition to these projects, the following were carried out on the Arashiyama Main Line and Kitano Line, both of which have many world cultural heritage sites or national treasures designated as sightseeing spots along their routes.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">In addition to these projects, the following were carried out on the Arashiyama Main Line and Kitano Line, both of which have many world cultural heritage sites or national treasures designated as sightseeing spots along their routes.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="53">
+<j>嵐電界隈館</j>
+<e type="trans" ver="1">Randen Kaiwai-kan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Randen Kaiwai-kan</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Randen Kaiwai-kan</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>2006年10月に、まず北野線の両端の北野白梅町駅と帷子ノ辻駅を除く各駅に「嵐電界隈館」と称するその駅近辺の名所の大きな写真パネルが掲示された。</j>
+<e type="trans" ver="1">In October, 2006, first of all, except for Kitano Hakubaicho Station and Katabiranotsuji Station at both ends of Kitano Line, each station was posted with a big photograph panel called &quot;Randen Kaiwai-kan&quot;, describing the showplaces in the vicinity of that station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">First, in October 2006, with the exception of Kitano Hakubaicho Station and Katabiranotsuji Station at either end of the Kitano Line, each station was posted with a big photograph panel called &quot;Randen Kaiwai-kan&quot;, which described the showplaces in the vicinity of that station.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">First, in October 2006, with the exception of Kitano Hakubaicho Station and Katabiranotsuji Station at either end of the Kitano Line, a large panel of photographs was posted at each station. The panels were called &quot;Randen Kaiwai-kan,&quot; and they described places of interest in the vicinity of that station.</e>
+<cmt>&quot;a large panel of photograph&quot; is not grammatically possible so I have assumed this is a panel featuring a number of photographs and edited the sentence accordingly. Presumably each station had a different panel so I have made &quot;panel&quot; in the second sentence to plural.</cmt>
+</sen>
+<sen id="55">
+<j>続いて2007年9月には嵐山本線にも四条大宮駅・西大路三条駅・山ノ内駅 (京都府)を除く各駅に掲示された。</j>
+<e type="trans" ver="1">Continuing into September, 2007, even in Arashiyama Main Line, except for Shijo-Omiya Station and Nishioji-Sanjo Station and Yamanouchi Station (Kyoto Prefecture), each station was posted with a panel.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Next, in September 2007, all stations on the Arashiyama Main Line had panels posted, with the exception of Shijo-Omiya Station, Nishioji-Sanjo Station and Yamanouchi Station (Kyoto Prefecture).</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">Next, in September 2007, all stations on the Arashiyama Main Line had panels posted, with the exception of Shijo-Omiya Station, Nishioji-Sanjo Station and Yamanouchi Station (Kyoto Prefecture).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>上りホームか下りホームのいずれか片方に設置されていることが多いが、龍安寺駅と鹿王院駅は上下両方のホームに設置されている。</j>
+<e type="trans" ver="1">It is common that only either of the to-Kyoto or the from-Kyoto direction of a station was posted. However, for Ryuanji Station and Rokuoin Station, both directions had panels posted in the platforms.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While the panels were commonly posted in only one of either the Kyoto-bound or outward-bound platforms, Ryuanji Station and Rokuoin Station had panels posted in both these platforms.</e>
+<cmt>再構成して、一文に戻しました。</cmt>
+<e type="check" ver="1">While the panels were commonly posted in only one of either the Kyoto-bound or outward-bound platforms, Ryuanji Station and Rokuoin Station had panels posted on both these platforms.</e>
+<cmt>文法間違い。 “in both”-&gt;”on both”</cmt>
+</sen>
+<sen id="57">
+<j>カラー写真の作品だが、嵐山駅 (京福電気鉄道)に掲示されたものだけは禅（天龍寺雲水）をテーマにしたモノクローム写真の連作となっている。</j>
+<e type="trans" ver="1">They are work of colored photos. However, only the ones posted at Arashiyama Station (Keifuku Electric Railroad) are a series of monochrome photographic work with the Zen Buddhism (Tanryu-ji Temple Unsui) as the theme.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The works are composed of color photos; only the photograph panel posted at Arashiyama Station (Keifuku Electric Railroad), a photographic work with Zen Buddhism (Tanryu-ji Temple Unsui) as its theme, is in monochrome.</e>
+<cmt>再構成して、一文に戻しました。</cmt>
+<e type="check" ver="1">The works are composed of color photographs; only the photograph panel posted at Arashiyama Station (Keifuku Electric Railroad), a photographic work with Zen Buddhism (Tenryu-ji Temple Unsui) as its theme, is in monochrome.</e>
+<cmt>“color photos”-&gt;”color photographs”</cmt>
+</sen>
+<sen id="58">
+<j>この写真は写真家の森谷洋至の作品で、写真パネル脇に掲示されている「嵐電界隈館」の題字は書家の樋口華玄の筆による。</j>
+<e type="trans" ver="1">This photograph is a work of the photographer Hiroshi MORITANI and the title &quot; Randen Kaiwai-kan&quot; written sideward of the photograph panel was brushed by the calligrapher Kagen HIGUCHI.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These photographs are the work of photographer Hiroshi MORITANI, while the title &quot;Randen Kaiwai-kan&quot; written beside the photograph panel was brushed by calligrapher Kagen HIGUCHI.</e>
+<cmt>「This photograph is a」→「These photographs are the」、「the」削除、「sideward」→「beside」</cmt>
+<e type="check" ver="1">These photographs are the work of photographer Hiroshi MORITANI, while the title &quot;Randen Kaiwai-kan&quot; written beside the photograph panel was brushed by calligrapher Kagen HIGUCHI.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="59">
+<j>シンボルツリー</j>
+<e type="trans" ver="1">Symbol tree</e>
+<cmt></cmt>
+<e type="trans" ver="2">Symbol trees</e>
+<cmt>「s」挿入</cmt>
+<e type="check" ver="1">Symbol trees</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="60">
+<j>北野線の各駅には、2006年12月に帷子ノ辻駅を除く各駅にちなんだシンボルツリーや花壇などの植栽が行われている。</j>
+<e type="trans" ver="1">In December, 2006, except for connected Katabiranotsuji Station, each station in Kitano Line was planted with symbol trees or flower beds.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In December 2006, every station on the Kitano Line except for Katabiranotsuji Station was planted with symbol trees or flower beds.</e>
+<cmt>コンマ削除、「each」→「every」、「connected」削除</cmt>
+<e type="check" ver="1">In December 2006, every station on the Kitano Line except for Katabiranotsuji Station was planted with symbol trees or flower beds.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="61">
+<j>シンボルツリーは木製の大型植木鉢に植えられていることが多いが、御室仁和寺駅と宇多野駅は地面に直植えされている。</j>
+<e type="trans" ver="1">The symbol tree is often planted in a wooden, large plant pot. However, for Omuro Ninna-ji Station and Utano Station, it is planted directly onto the ground.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The symbol trees are often planted in large wooden plant pots, but those at Omura Ninna-ji Station and Utano station are planted directly in the ground.</e>
+<cmt>再構成して、一文に戻しました。</cmt>
+<e type="check" ver="1">The symbol trees are often planted in large wooden plant pots, but those at Omuro Ninna-ji Station and Utano Station are planted directly in the ground.</e>
+<cmt>station→StationOmura→Omuro</cmt>
+</sen>
+<sen id="62">
+<j>宇多野駅のモミジは以前から植えられていたものである。</j>
+<e type="trans" ver="1">The autumn tinted leaves at Utano Station had been planted there long time ago.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The red maples at Utano Station were planted there long ago.</e>
+<cmt>再構成しました。</cmt>
+<e type="check" ver="1">The red maples at Utano Station were planted there long ago.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="63">
+<j>その他</j>
+<e type="trans" ver="1">Others</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other</e>
+<cmt>「s」削除</cmt>
+<e type="check" ver="1">Other</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="64">
+<j>集合案内板は嵐電天神川駅開業（2008年3月）以前は北野線の各駅にしか掲示されていなかった。</j>
+<e type="trans" ver="1">Before March, 2008, when Randen-Tenjingawa Station started services, the comprehensive tourist guide board was posted only at each station in Kitano Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Before the Randen-Tenjingawa Station began service in March 2008, the comprehensive tourist guide board was posted only at each station on the Kitano Line.</e>
+<cmt>再構成しました。「Before March」→「Before the」、「started services」→「began service in March 2008」、「in」→「on the」</cmt>
+<e type="check" ver="1">Before the Randen-Tenjingawa Station began service in March 2008, comprehensive tourist guide boards were posted only at each station on the Kitano Line.</e>
+<cmt>文法間違い。“ the comprehensive tourist guide board was posted only at”=&gt;” comprehensive tourist guide boards were posted only at”</cmt>
+</sen>
+<sen id="65">
+<j>嵐電天神川駅の開業に伴い、嵐山本線の各駅にも設置された。</j>
+<e type="trans" ver="1">However, with the opening of Randen-Tenjingawa Station, it was also set up at each station along Arashiyama Main Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, with the opening of the Randen-Tenjingawa Station, it was also set up at each station along the Arashiyama Main Line.</e>
+<cmt>「the」挿入</cmt>
+<e type="check" ver="1">However, with the opening of the Randen-Tenjingawa Station, one was also set up at each station along the Arashiyama Main Line.</e>
+<cmt>文法。 “it ”=&gt;”one”</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="66">
+<j>駅名標は、以前は駅上屋に取り付けられているタイプと、ホームに2本足で立てられているタイプの2種類があった。</j>
+<e type="trans" ver="1">In the past, there had been two kinds of station name signposts; attached to the station&apos;s rooftop or as a 2-legged signposts on the platform.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Formerly, there were two kinds of station name signpost: a sign attached to the station&apos;s rooftop, or a two-legged signpost on the platform.</e>
+<cmt>「In the past」→「Formerly」、「had been」→「were」、再構成しました。</cmt>
+<e type="check" ver="1">Formerly, there were two kinds of station name signpost: a sign attached to the station&apos;s rooftop, or a two-legged signpost on the platform.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="67">
+<j>2007年3月19日のラインカラー正式導入時にホームに2本足で立てられているタイプのものはすべて撤去された。</j>
+<e type="trans" ver="1">On March 19, 2007 when the line colors were formally introduced, all the 2-legged signposts on the platform were removed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 19, 2007, when the line colors were formally introduced, all two-legged platform signposts were removed.</e>
+<cmt>コンマ挿入、「2-legged」→「two-legged」、「signposts on the platform」→「platform signposts」</cmt>
+<e type="check" ver="1">On March 19, 2007, when the line colors were formally introduced, all two-legged platform signposts were removed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="68">
+<j>桜のトンネル</j>
+<e type="trans" ver="1">Tunnel of cherry blossoms</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tunnel of cherry blossoms</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tunnel of cherry blossoms</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="69">
+<j>画像は全て、鳴滝～宇多野間で撮影。</j>
+<e type="trans" ver="1">All the pictures were taken between Narutaki and Utano.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All pictures were taken between Narutaki and Utano.</e>
+<cmt>「the」削除</cmt>
+<e type="check" ver="1">All pictures were taken between Narutaki and Utano.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 BoB774(id:148281), Bakkai(id:7233), Si-take.(id:91094), Nnh(id:474), Bergmann(id:85282), Charenji(id:7908), Taisyo(id:6896), Utsuda(id:605), Black(id:34703), Shinkansen(id:13703), Mop(id:12061), Rusk(id:9895), Sunen(id:10700), Nkensei(id:26989), Goki(id:7107), Rislimric(id:54531), Tp2415(id:84801), Unamu(id:14627), Nekosuki600(id:21263), 210.(id:9838), Bankokuya(id:91191), Jade0416(id:104181), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

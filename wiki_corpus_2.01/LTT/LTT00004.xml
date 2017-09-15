@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>枕草子</j>
+<e type="trans" ver="1">The Pillow Book</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Pillow Book</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Pillow Book</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>『枕草子』（まくら の そうし）は、平安時代中期の女流作家、清少納言により執筆されたと伝わる随筆。</j>
+<e type="trans" ver="1">&quot;The Pillow Book&quot; is a zuihitsu (random jottings) which is said to have been written by Sei Shonagon, a female writer in the middle of the Heian era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;The Pillow Book&quot; is a zuihitsu (random jottings), which is said to have been written by Sei Shonagon, a female writer in the middle of the Heian era.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">&quot;The Pillow Book&quot; is a zuihitsu essay (literally, &quot;random jottings&quot;), which is said to have been written by Sei Shonagon, a female writer who lived in the mid-Heian period.</e>
+<cmt>essay追加 era →periodJust a few changes to make the English a little more natural.</cmt>
+</sen>
+<sen id="2">
+<j>「枕草紙」「枕冊子」「枕双紙」「春曙抄」とも表記され、最古の鎌倉時代の写本前田本の蒔絵の箱には『清少納言枕草子』とある。</j>
+<e type="trans" ver="1">The title was also written with Chinese letters such as &apos;枕草紙,&apos; &apos;枕冊子,&apos; &apos;枕双紙,&apos; or &apos;春曙抄,&apos; and the oldest manuscript called Maedabon which was copied in the Kamakura era, has a gold lacquered casket with Chinese letters &quot;清少納言枕草子&quot; on it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The title was also written with Chinese letters such as &apos;枕草紙,&apos; &apos;枕冊子,&apos; &apos;枕双紙,&apos; or &apos;春曙抄,&apos; and the oldest manuscript, called &quot;Maedabon,&quot; which was copied in the Kamakura era, has a gold-lacquered casket with Chinese letters &quot;清少納言枕草子&quot; on it.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The title was also written using Chinese characters such as &apos;枕草紙&apos; (Makurazoshi Notebook), &apos;枕冊子&apos; (Makura Sasshi), &apos;枕双紙&apos; (Makura soshi), and &apos;春曙抄&apos; (Shunsho-sho Commentary), and the oldest manuscript (called &quot;maedabon&quot; in Japanese), a copy of which was made in the Kamakura period, has a gold-lacquered casket with the Chinese characters &quot;清少納言枕草子&quot; (Sei Shonagon, The Pillow Book) written on it.</e>
+<cmt>&quot; &quot; 削除　era →period (Sei Shonagon, The Pillow Book)追加Should this say &quot;Japanese characters&quot; rather than &quot;Chinese characters&quot;? Also, &quot;has a gold-lacquered casket&quot; seems a bit vague. I assume it means that the book was kept in this casket.</cmt>
+</sen>
+<sen id="3">
+<j>『清少納言記』などとともいった。</j>
+<e type="trans" ver="1">It was also called &quot;Sei Shonagon ki.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was also called &quot;Sei Shonagon ki.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was also called &quot;Sei Shonagon ki.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>文学史上の位置づけ</j>
+<e type="trans" ver="1">Place in literary history</e>
+<cmt></cmt>
+<e type="trans" ver="2">Place in literary history</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Place in literary history</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>『源氏物語』に比肩する中古文学の双璧として、後世の連歌・俳諧・仮名草子に大きな影響を与えた。</j>
+<e type="trans" ver="1">Together with &quot;The Tale of Genji,&quot; it has been considered one of the twin masterpieces of the Heian literature, and has had a great influence on the following Renga (linked verse), Haikai (seventeen-syllable verse), and Kanazoshi (Kana book).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Together with &quot;The Tale of Genji,&quot; it has been considered one of the twin masterpieces of the Heian literature, and has had a great influence on the following Renga (linked verse): Haikai (seventeen-syllable verse) and Kanazoshi (Kana book).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Together with &quot;The Tale of Genji,&quot; this book is considered one of the twin masterpieces of Heian literature, and it had a great influence on the Renga (linked verse), Haikai (seventeen-syllable verse), and Kanazoshi (old stories witten in the kana script) that followed.</e>
+<cmt>I&apos;m not sure what the purpose of the colon in the middle of the text was.</cmt>
+</sen>
+<sen id="5">
+<j>鴨長明の『方丈記』、吉田兼好の『徒然草』と並んで日本三大一覧歴史・風刺と称される。</j>
+<e type="trans" ver="1">Along with both &quot;Hojo-ki (The Ten Foot Square Hut)&quot; written by KAMO no Chomei and &quot;Tsurezuregusa (Essays in Idleness)&quot; written by Kenko YOSHIDA, it is called one of the 3 Japanese major lists, histories, and satires.</e>
+<cmt>方丈記、徒然草の訳語はBritannica Online Encyclopedia（以下、BOE）より。日本三大一覧歴史・風刺の定訳不明</cmt>
+<e type="trans" ver="2">Along with both &quot;Hojo-ki (The Ten-Foot-Square Hut),&quot; written by KAMO no Chomei, and &quot;Tsurezuregusa (Essays in Idleness)&quot; written by Kenko YOSHIDA, it is called one of the three Japanese major lists, histories and satires.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Along with both &quot;Hojo-ki (The Ten-Foot-Square Hut),&quot; written by KAMO no Chomei, and &quot;Tsurezuregusa (Essays in Idleness)&quot; written by Kenko YOSHIDA, it is called one of the three Japanese major lists, histories and satires.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>極めて独特な体裁をとり、先行する晩唐の詩人李商隠（字は義山）の編んだ『義山雑纂』に多少の類似が指摘されるほか、類書は見当たらない。</j>
+<e type="trans" ver="1">Its writing style is extremely unique and there is no similar book except &quot;Gizan-zassan (Gizan Collection)&quot; compiled by Shoin RI (courtesy name Gizan), a poet in the late Tang dynasty.</e>
+<cmt>「李商隠」の英語名（中国語読み名？）はLi Shangyin同じく、「義山」はYishan</cmt>
+<e type="trans" ver="2">Its writing style is extremely unique; there is no similar book except &quot;Gizan-zassan (Gizan Collection),&quot; compiled by Shoin RI (courtesy name Gizan), a poet of the late Tang dynasty.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Its writing style is extremely individualistic: there is no similar book except &quot;Gizan-zassan (Gizan Collection),&quot; compiled by Shangyin LI (courtesy name Yishan), a poet of the late Tang dynasty.</e>
+<cmt>Shangyin LI、Yishan　としました。(中国名をローマ字でそのまま書くのはふさわしくないと判断しました）</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>書名の由来</j>
+<e type="trans" ver="1">Origin of the title</e>
+<cmt></cmt>
+<e type="trans" ver="2">Origin of the title</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Origin of the title</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="7">
+<j>巻末の跋文によれば、執筆の動機および命名の由来は、内大臣藤原伊周が妹中宮藤原定子と一条天皇に当時まだ高価だった料紙を献上した時、「帝の方は『史記』を書写なさったが、こちらは如何に」という宮の下問を受けた清少納言が、「枕にこそは侍らめ」と即答した。</j>
+<e type="trans" ver="1">According to an afterword to the book, her motive for writing the book and the origin of the title came from the following episode: When Naidaijin (minister) FUJIWARA no Korechika presented to his younger sister FUJIWARA no Teishi Empress and Ichijo Emperor a bundle of paper, which was still expensive in those days, the Empress inquired, &apos;Emperor used the paper for copying &quot;Shiki (Records of the Grand Historian),&quot; what do you think we could write on this?&apos; Sei Shonagon answered, &apos;it (the book) would be good to use as a pillow.&apos;</e>
+<cmt>一原文一訳文の例外対処三巻本、能因本、堺本、前田本の訳語はMeredith McKinney翻訳&quot;The Pillow Book&quot;の解説より。能因本欠本、能因本完本にある「枕にこそはし侍らめ」、「これ給いて～」は英訳しても原文にあるような違いは出しづらいので、「have the similar episode」としました。</cmt>
+<e type="trans" ver="2">According to an afterword to the book, her motive for writing the book and the origin of the title came from the episode in which, as Naidaijin (minister) FUJIWARA no Korechika presented to his younger sister FUJIWARA no Empress Teishi and Emperor Ichijo a bundle of paper, which was still expensive in those days, the Empress inquired, &quot;Emperor used the paper for copying &apos;Shiki (Records of the Grand Historian),&apos; what do you think we could write on this?&quot; to which Sei Shonagon answered, &quot;it (the book) would be good to use as a pillow.&quot;</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">According to an afterword to the book, her motive for writing the book and the origin of the title came from the episode in which, when Naidaijin (minister of the center) FUJIWARA no Korechika presented to his younger sister FUJIWARA no Empress Teishi and Emperor Ichijo a bundle of paper, which was still expensive in those days, the Empress inquired, &apos;Emperor used the paper to copy &quot;Shiki (Records of the Grand Historian),&apos; what do you think we could write on this?&quot; to which Sei Shonagon answered, &apos;it (the book) would be good to use as a pillow.&apos;</e>
+<cmt>括弧修正　内大臣をminister of the centerとしました。</cmt>
+</sen>
+<sen id="8">
+<j>そして、そのまま宮から紙を下賜されたことによる。（三巻本系による、なお、能因本欠本「枕にこそはし侍らめ」、能因本完本「これ給いて枕にし侍らばや」堺本・前田本には該当記事なし）</j>
+<e type="trans" ver="1">And she was granted the paper. (This episode is based on Sankanbon (version of manuscript), and both incomplete and complete version of Noinbon have the similar episode, but Sakaibon and Maedabon (version of manuscript) don&apos;t contain the episode.)</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">And she was granted the paper. (This episode is based on Sankanbon (version of manuscript), and both incomplete and complete version of Noinbon have the similar episode, but Sakaibon and Maedabon (version of manuscript) don&apos;t contain the episode.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">She was granted the paper (such episode being based on Sankanbon (version of manuscript), and both incomplete and complete versions of Noinbon (version of manuscript) have similar episodes describing the response that &quot;it (the book) would be good to use as a pillow),&quot; but the Sakaibon and Maedabon (versions of the manuscript) don&apos;t contain this episode).</e>
+<cmt>it (the book) would be good to use as a pillow 追加ピリオドの位置移動</cmt>
+</sen>
+<sen id="9">
+<j>「枕草子」の名もそこから来るというのが通説である。</j>
+<e type="trans" ver="1">It is widely thought that the title &apos;The Pillow Book&apos; is also based on the episode.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is widely thought that the title &apos;The Pillow Book&apos; is also based on the episode.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is widely thought that the title &apos;The Pillow Book&apos; is also based on the episode.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>林和比古『枕草子の研究』によれば自説と過去の契沖、折口信夫、池田亀鑑などの研究者を挙げている。</j>
+<e type="trans" ver="1">&quot;A study of the Pillow Book&quot; written by Kazuhiko HAYASHI mentions his own view and some other past scholars&apos; names such as Keichu, Shinobu ORIKUCHI, and Kikan IKEDA.</e>
+<cmt>https://k-aiser.kokugakuin.ac.jp/cgi-bin/exec_cgi/ibibdet.cgi?CGILANG=japanese&amp;U_CHARSET=utf-8&amp;ID=BB00540342&amp;HOLSERKEY=:::::::http://spysee.jp/折口信夫http://spysee.jp/池田亀鑑</cmt>
+<e type="trans" ver="2">&quot;A study of the Pillow Book&quot; written by Kazuhiko HAYASHI mentions his own view and some other past scholars&apos; names such as Keichu, Shinobu ORIKUCHI, and Kikan IKEDA.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;A study of the Pillow Book&quot; written by Kazuhiko HAYASHI mentions his own view and some other past scholars&apos; names such as Keichu, Shinobu ORIKUCHI, and Kikan IKEDA.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>次に枕の意味について代表的な説を述べる。</j>
+<e type="trans" ver="1">The followings are typical views about a meaning of a pillow.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following are typical views about the meaning of &quot;pillow&quot;:</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The following are typical views about the meaning of &quot;pillow&quot;:</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="12">
+<j>寝具説：「しき（史記→敷布団）たへの枕」という詞を踏まえた洒落</j>
+<e type="trans" ver="1">― Bedding: a pun which suggests a pillow on the mattress (reword &quot;Shiki&quot; into &quot;Shikibuton&quot; (mattress)).</e>
+<cmt></cmt>
+<e type="trans" ver="2">― Bedding: a pun that suggests a pillow on the mattress (reword &quot;Shiki&quot; into &quot;Shikibuton&quot; (mattress)).</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">― Bedding: a pun that suggests a pillow on the mattress (with Shiki reworded as Shikibuton (mattress)).</e>
+<cmt>&quot;&quot;削除</cmt>
+</sen>
+<sen id="13">
+<j>作家用事典説：歌枕、心得、用語を羅列した章段が多いため</j>
+<e type="trans" ver="1">― Dictionary for the writer: There are many chapters in which Utamakura (a place famed in poetry), rules, and terms are listed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">― Dictionary for the writer: There are many chapters in which Utamakura (a place famed in poetry), rules, and terms are listed.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">― Dictionary for the writer: There are many chapters in which Utamakura (a place famed in poetry), rules, and terms are listed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>備忘録説：備忘録として枕元にも置くべき草子という意味</j>
+<e type="trans" ver="1">― Memorandum: She kept the paper by her pillow for private jottings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">― Memorandum: She kept the paper by her pillow for private jottings.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">― Memorandum: She kept the paper by her pillow for private jottings.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>秘蔵本説</j>
+<e type="trans" ver="1">― Treasured book</e>
+<cmt></cmt>
+<e type="trans" ver="2">― Treasured book</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">― Treasured book</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>無関係説</j>
+<e type="trans" ver="1">― Irrelevant to anything</e>
+<cmt></cmt>
+<e type="trans" ver="2">― Irrelevant to anything</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">― Irrelevant to anything</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>ただし未だ通説はない。</j>
+<e type="trans" ver="1">However, there is no common view which has been widely held by the scholars yet.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, scholars have yet to reach a consensus.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">However, scholars have yet to reach a consensus.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>また、『栄花物語』に美しいかさね色を形容するのに普通名詞としての「枕草子」が用いられた。</j>
+<e type="trans" ver="1">Also, in the book of &quot;Eiga monogatari (A Tale of Flowering Fortunes),&quot; the word &apos;Makura no soshi&apos; as a common noun was used to describe the beautiful Kasane (layering) colors.</e>
+<cmt>「栄花物語」の訳語はBOEよりhttp://www.mode-japonesque.com/mj/kasane/basic/blue.html</cmt>
+<e type="trans" ver="2">Also, in the book of &quot;Eiga monogatari (A Tale of Flowering Fortunes),&quot; the term &quot;Makura no soshi&quot; as a common noun was used to describe the beautiful Kasane (layering) colors.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Also, in the book of &quot;Eiga monogatari (A Tale of Flowering Fortunes),&quot; the term &apos;makura no soshi&apos; as a common noun was used to describe the beautiful kasane (layering) colors.</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>伝本</j>
+<e type="trans" ver="1">Existing manuscript</e>
+<cmt></cmt>
+<e type="trans" ver="2">Existing manuscript</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Existing manuscript</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="4">
+<tit>
+<j>成立経過</j>
+<e type="trans" ver="1">Process of writing</e>
+<cmt></cmt>
+<e type="trans" ver="2">Process of writing</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Process of writing</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="19">
+<j>初稿の成立は同じく跋文によれば長徳二年（996年）頃で、左中将源経房が作者の家から持ち出して世上に広めた。</j>
+<e type="trans" ver="1">According to the afterword, the first draft was written around 996, Sachujo (guard of Imperial Palace) MINAMOTO no Tsunefusa took the draft from the author&apos;s residence and brought it before the eyes of the world.</e>
+<cmt>寛弘（1004年～1012年）一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">According to the afterword, the first draft was written around 996, and Sachujo (guard of the Imperial Palace) MINAMOTO no Tsunefusa took the draft from the author&apos;s residence and brought it before the eyes of the world.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">According to the afterword, the first draft was written around 996, and Sachujo (guard of the Imperial Palace) MINAMOTO no Tsunefusa took the draft from the author&apos;s residence and brought it before the eyes of the world.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>その後も絶えず加筆され、寛弘末年頃に執筆されたと見られる文もある。</j>
+<e type="trans" ver="1">After that, she had continuously kept writing, and some records say that the book was written around 1012.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">After that, she wrote continuously, and some records say the book was written around 1012.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After that, she wrote continuously, and some records say the book was written around 1012.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>源氏物語の古註『源氏物語紫明抄』に引かれる『枕草子』の本文には現存本にないものもあり、複雑な成立過程を思わせる。</j>
+<e type="trans" ver="1">Some lines of &quot;The Pillow Book&quot; quoted from the old commentary &quot;Shimei-sho Commentary of &apos;The Tale of Genji&apos;,&quot; don&apos;t exist in the survived manuscript, which suggests a complicated process of writing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some lines of &quot;The Pillow Book&quot; quoted from the old commentary &quot;Shimei-sho Commentary of &apos;The Tale of Genji,&apos;&quot; don&apos;t exist in the surviving manuscript, which suggests a complicated process of writing.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Some lines of &quot;The Pillow Book,&quot; as quoted from the old commentary &quot;Shimei-sho Commentary of &apos;The Tale of Genji,&apos;&quot; don&apos;t exist in the surviving manuscript, which suggests that the writing process was complicated.</e>
+<cmt>&apos;削除</cmt>
+</sen>
+<sen id="22">
+<j>伝本間の相異はすこぶる大きい。</j>
+<e type="trans" ver="1">There are great differences between the existing manuscripts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are great differences between the existing manuscripts.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There are great differences between the existing manuscripts.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>写本の系統</j>
+<e type="trans" ver="1">Kinds of manuscript</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kinds of manuscripts</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">Kinds of manuscripts</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="6">
+<tit>
+<j>三巻本</j>
+<e type="trans" ver="1">Sankanbon</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sankanbon</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sankanbon</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="23">
+<j>雑纂形態をとり、三巻からなる。</j>
+<e type="trans" ver="1">It consists of three volumes and takes a form of collecting various writing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It consists of three volumes and takes the form of a collection of various writings.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">It consists of three volumes and takes the form of a collection of various writings.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>耄及愚翁という藤原定家と思しき人物による安貞二年（1228年）の奥書を持つ諸本。</j>
+<e type="trans" ver="1">It is a manuscript which has Okugaki (postscript) written in 1228 by the person called Bogyuguo, who seems to have been FUJIWARA no Sadaie.</e>
+<cmt>「耄及」愚翁の該当する読み方は見つかりませんでしたが、以下の２つのサイトを参考にしました。http://homepage3.nifty.com/junsoyo/taberu/tenzo/tenzokyokun.htmhttp://messages.yahoo.co.jp/bbs?.mm=GN&amp;action=m&amp;board=552018638&amp;tid=bdbdbfm4sa4la4pbdbd9qa4nbct&amp;sid=552018638&amp;mid=12570http://spysee.jp/藤原定家</cmt>
+<e type="trans" ver="2">It is a manuscript containing an okugaki (postscript) written in 1228 by a person called Bogyuguo, who seems to have been FUJIWARA no Sadaie.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">It is a manuscript containing an okugaki (postscript) written in 1228 by a person called Bogyuguo, who seems to have been FUJIWARA no Sadaie.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>「文意あざやかにて」解読しやすく、最も古態に近いと考えられている。</j>
+<e type="trans" ver="1">It is a &apos;clear writing&apos; and easy to understand, being considered the most similar to the original form.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a &quot;clear writing&quot; and easy to understand, being considered the most similar to the original form.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It is &apos;clear writing&apos; and is easy to understand, being considered the most similar to the original form.</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="26">
+<j>なお、池田亀鑑により2種類に区別された。</j>
+<e type="trans" ver="1">It was divided into two groups by Kikan IKEDA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was divided into two groups by Kikan IKEDA.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It was divided into two groups by Kikan IKEDA.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="27">
+<j>第1類本（甲類） - 「春は曙」をはじめとする冒頭の70話が脱落し「ここちよげなるもの」から始まる伝本。</j>
+<e type="trans" ver="1">Korui (first class) - The opening 70 chapters which starts with the line, &quot;The best time in spring is dawn,&quot; are omitted and the manuscript begins with the line &quot;Comfortable thing.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Korui (first class) - The opening 70 chapters which starts with the line, &quot;The best time in spring is dawn,&quot; are omitted, and the manuscript begins with the line &quot;Comfortable thing.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Korui (first class) - The opening 70 chapters, which start with the line, &apos;The best time in spring is dawn,&apos; are omitted, and instead the manuscript begins with the line, &apos;Comfortable thing.&apos;</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="28">
+<j>230話。</j>
+<e type="trans" ver="1">230 chapters.</e>
+<cmt></cmt>
+<e type="trans" ver="2">230 chapters.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">230 chapters</e>
+<cmt>ピリオド削除</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="29">
+<j>陽明文庫蔵本、宮内庁書陵部図書寮蔵本、高松宮家蔵本</j>
+<e type="trans" ver="1">Book collection of Yomei paperback, book collection of Toshoryo, Shoryo department, Imperial Household Agency, and book collection of TAKAMATSUNOMIYA Family</e>
+<cmt>http://www.kunaicho.go.jp/</cmt>
+<e type="trans" ver="2">Book collection of Yomei paperback, book collection of Toshoryo, Shoryo Department, Imperial Household Agency, and book collection of the TAKAMATSUNOMIYA Family</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Book collection of Yomei paperback, book collection of Toshoryo, Shoryo Department, Imperial Household Agency, and book collection of the Tatamatsunomiya faamily</e>
+<cmt>Takamatsunomiya family</cmt>
+</sen>
+<sen id="30">
+<j>第2類本（乙類） - 300話。</j>
+<e type="trans" ver="1">Otsurui (second class) - 300 chapters.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Otsurui (second class) - 300 chapters.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Otsurui (second class) - 300 chapters</e>
+<cmt>ピリオド削除</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="31">
+<j>弥富破摩雄旧蔵本、刈谷図書館蔵本、伊達家旧蔵本、勧修寺家旧蔵本、中邨秋香旧蔵本、古梓堂文庫蔵本</j>
+<e type="trans" ver="1">Old book collection of Hamao YATOMI, book collection of Kariya City Library, old book collection in ADACHI Family, old book collection of KAJUJI Family, old book collection of Akika NAKAMURA, book collection of Koshido Bunko</e>
+<cmt>http://www.pu-kumamoto.ac.jp/site2006/php/news/info.php?no=496http://www.city.kariya.lg.jp/library/http://www.ndl.go.jp/portrait/datas/153.html古梓堂文庫蔵本は該当の読み方不明</cmt>
+<e type="trans" ver="2">Old book collection of Hamao YATOMI, book collection of Kariya City Library, old book collection of the ADACHI Family, old book collection of the KAJUJI Family, old book collection of Akika NAKAMURA, book collection of Koshido Bunko</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Old book collection of Hamao YATOMI, book collection of Kariya City Library, old book collection of the Date family, old book collection of the KAJUJI Family, old book collection of Akika NAKAMURA, book collection of Koshido Bunko</e>
+<cmt>ADACHI →Date</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>能因本</j>
+<e type="trans" ver="1">Noinbon (type of manuscript)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Noinbon (type of manuscript)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Noinbon (type of manuscript)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="32">
+<j>清少納言と姻戚関係にあった能因法師（姉妹の一人が清少納言の実子・橘則長の室）が伝来に関係したとされる系統。</j>
+<e type="trans" ver="1">Noin Priest was related by marriage to Sei Shonagon (one of his sisters was a wife of TACHIBANA no Norinaga, a son of Sei Shonagon), and seemed to have something to do with handing down the manuscript.</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;stype=1&amp;dtype=0&amp;p=能因</cmt>
+<e type="trans" ver="2">The priest Noin was related by marriage to Sei Shonagon (one of his sisters was a wife of TACHIBANA no Norinaga, a son of Sei Shonagon), and seemed to have something to do with handing down the manuscript.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The priest Noin was related by marriage to Sei Shonagon (one of his sisters was a wife of TACHIBANA no Norinaga, a son of Sei Shonagon), and seemed to have something to do with handing down the manuscript.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>鎌倉時代末期頃に遡る。</j>
+<e type="trans" ver="1">The date is traced back to the end of the Kamakura era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The dating of the work has been traced back to the end of the Kamakura era.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The date of the work has been traced back to the end of the Kamakura period.</e>
+<cmt>era →period</cmt>
+</sen>
+<sen id="34">
+<j>三巻本との間で善本論争が繰り広げられた結末、現在は能因本の源流本が劣ることがほぼ定説となっている。</j>
+<e type="trans" ver="1">After arguing which book is more authentic, it is now widely accepted that the original book of Noinbon is less in quality than Sankanbon.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After arguing which book is more authentic, it is now widely accepted that the original book of Noinbon is inferior to Sankanbon.</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">After arguing which book is more authentic, it is now widely accepted that the original book of Noinbon is inferior to Sankanbon.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="35">
+<j>冒頭の70話を除く230話本。</j>
+<e type="trans" ver="1">230 chapters excluding the opening 70 chapters.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Two hundred and thirty chapters (excluding the first 70 chapters)</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Two hundred and thirty chapters (excluding the first 70 chapters)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="36">
+<j>300話本</j>
+<e type="trans" ver="1">300 chapters</e>
+<cmt></cmt>
+<e type="trans" ver="2">300 chapters</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">300 chapters</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>堺本</j>
+<e type="trans" ver="1">Sakaibon</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sakaibon</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sakaibon</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="37">
+<j>類纂形態をとる。</j>
+<e type="trans" ver="1">Ruisan form (a classified collection in book form.)</e>
+<cmt>新和英大辞典（研究社）より</cmt>
+<e type="trans" ver="2">Ruisan form (a classified collection in book form)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Ruisan form (a classified collection in book form)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>室町時代の伝本。</j>
+<e type="trans" ver="1">Manuscript copied in the Muromachi era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Manuscript copied in the Muromachi era</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Manuscript copied in the Muromachi period</e>
+<cmt>era →period</cmt>
+</sen>
+<sen id="39">
+<j>堺に住む隠遁僧である道巴の所持本を清原枝賢が書写したとの後記があるため堺本の名がある。</j>
+<e type="trans" ver="1">The postscript says KIHOYARA no Shigekata/Edakata copied the book whose owner was Doha, a secluded monk who lived in Sakai, therefore the manuscript is called Sakaibon.</e>
+<cmt>http://www.ndl.go.jp/exhibit60/person.html「道巴」該当の読み方不明</cmt>
+<e type="trans" ver="2">The postscript says KIHOYARA no Shigekata/Edakata copied the book, whose owner was Doha, a secluded monk who lived in Sakai, and therefore the manuscript is called Sakaibon.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The postscript says KIYOHARA no Shigekata/Edakata copied the book, whose owner was Doha, a secluded monk who lived in Sakai, and therefore the manuscript is called Sakaibon.</e>
+<cmt>OK</cmt>
+</sen>
+<sen id="40">
+<j>二巻。</j>
+<e type="trans" ver="1">2 volumes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Two volumes</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Two volumes</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>日記・回想章段を欠く。</j>
+<e type="trans" ver="1">The book is missing chapters of diary and reminiscence.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The book is missing chapters on &quot;diary&quot; and &quot;reminiscence.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The book is missing chapters on diary and reminiscence.</e>
+<cmt>&quot; &quot;削除</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="42">
+<j>後光厳院本 - 190話。</j>
+<e type="trans" ver="1">Gokogoninbon (type of manuscript) - 190 chapters.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gokogoninbon (type of manuscript): 190 chapters.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Gokogoninbon (type of manuscript): 190 chapters</e>
+<cmt>ピリオド削除</cmt>
+</sen>
+<sen id="43">
+<j>後光厳天皇が写したとの後記がある。</j>
+<e type="trans" ver="1">The postscript says Gokogon Emperor made a copy of the book.</e>
+<cmt>「後光厳天皇」スーパー大辞林より</cmt>
+<e type="trans" ver="2">The postscript says Gokogon Emperor made a copy of the book.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The postscript says Emperor Go-Kogon made a copy of the book.</e>
+<cmt>Emperor Go-Kogon　としました。</cmt>
+</sen>
+<sen id="44">
+<j>宸翰本。</j>
+<e type="trans" ver="1">Shinkanbon (a manuscript in the Emperor&apos;s own hand).</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=%E5%AE%B8%E7%BF%B0&amp;stype=0&amp;dtype=2</cmt>
+<e type="trans" ver="2">Shinkanbon (a manuscript in the Emperor&apos;s own hand)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Shinkanbon (a manuscript in the Emperor&apos;s own hand)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="45">
+<j>95話本。</j>
+<e type="trans" ver="1">95 chapters.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ninety-five chapters.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Ninety-five chapters</e>
+<cmt>ピリオド削除</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="46">
+<j>上記2種を併せたもの。</j>
+<e type="trans" ver="1">The above two types of manuscript were integrated into a book.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The above two types of manuscripts were integrated into a book.</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">The above two types of manuscripts were integrated into a book.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="47">
+<j>一般にいう堺本はこれを指す。</j>
+<e type="trans" ver="1">Sakaibon in general refers to this.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sakaibon in general refers to this.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sakaibon in general refers to this.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>前田本</j>
+<e type="trans" ver="1">Maedabon</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maedabon</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maedabon</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="48">
+<j>1巻107話。</j>
+<e type="trans" ver="1">Volume 1consits of 107chapters.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 1consists of 107chapters.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Volume 1 consists of 107 chapters.</e>
+<cmt>space</cmt>
+</sen>
+<sen id="49">
+<j>2巻89話。</j>
+<e type="trans" ver="1">Volume 2 consists of 89 chapters.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 2 consists of 89 chapters.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Volume 2 consists of 89 chapters.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>3巻102話。</j>
+<e type="trans" ver="1">Volume 3 consists of 102 chapters.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 3 consists of 102 chapters.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Volume 3 consists of 102 chapters.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="51">
+<j>4話32話。</j>
+<e type="trans" ver="1">Volume 4 consists of 32 chapters.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 4 consists of 32 chapters.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Volume 4 consists of 32 chapters.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="52">
+<j>5巻紛失?</j>
+<e type="trans" ver="1">Volume 5 is lost?</e>
+<cmt></cmt>
+<e type="trans" ver="2">Volume 5 is lost?</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Volume 5 might have been lost.</e>
+<cmt>「紛失？」という原文に対して、このように修正いたしました。</cmt>
+</sen>
+<sen id="53">
+<j>類纂形態をとる。</j>
+<e type="trans" ver="1">It takes Ruisan form.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It takes Ruisan form.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It takes Ruisan form.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>加賀国、前田家伝来本（前田育徳会蔵）があるのみ。</j>
+<e type="trans" ver="1">There exists only one manuscript which has been passed down in the MAEDA Family of Kaga Province (book collection of MAEDA-Ikutokukai).</e>
+<cmt>http://store.shopping.yahoo.co.jp/7andy/30739434.html</cmt>
+<e type="trans" ver="2">There exists only one manuscript that has been handed down in the MAEDA Family of Kaga Province (the book collection of MAEDA-Ikutokukai).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There exists only one manuscript that has been handed down in the Maeda family of Kaga Province (the book collection of MAEDA-Ikutokukai).</e>
+<cmt>Maeda family</cmt>
+</sen>
+<sen id="55">
+<j>金蒔絵の箱に入っており箱には金象嵌で『清少納言枕草子』とある。</j>
+<e type="trans" ver="1">It is preserved in a box of gold-lacquered craft, and on its surface there are letters of &quot;Sei Shonagon, The Pillow Book&quot; in gold-incrustation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is preserved in a box of gold-lacquered craft, and on its surface are the characters &quot;Sei Shonagon, The Pillow Book&quot; in gold incrustation.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It is preserved in a box of gold-lacquered craft, and on its surface are the characters &quot;清少納言枕草子 (Sei Shonagon, The Pillow Book)&quot; in gold incrustation.</e>
+<cmt>清少納言枕草子を追加</cmt>
+</sen>
+<sen id="56">
+<j>重要文化財である。</j>
+<e type="trans" ver="1">It is an important cultural property.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an important cultural property.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is an important cultural property.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="57">
+<j>鎌倉時代前期の書写で『枕草子』写本中最古のものとされる。</j>
+<e type="trans" ver="1">It was copied in the early Kamakura era, and is considered to be the oldest of all the manuscripts of &quot;The Pillow Book.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was copied in the early Kamakura era and is considered to be the oldest of all the manuscripts of &quot;The Pillow Book.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It was copied during the early Kamakura period and is considered to be the oldest of all the manuscripts of &quot;The Pillow Book.&quot;</e>
+<cmt>era →period</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="58">
+<j>このうち、堺本系後光厳院本は『群書類従』に上下分冊、堺本の3種目は『新校群書類従』に収録。</j>
+<e type="trans" ver="1">Among them, Sakaibon group Gokogoninbon was separately collected in 2 volumes of &quot;Gunshoruiju (Japanese history book),&quot; and 3 kinds of Sakaibon were collected in &quot;Shinko Gunshoruiju (library).&quot;</e>
+<cmt>『新校群書類従』は「群書類従」の続編のようなものではないかと思われるので、「群書類従」の（）内にJapanese history bookという説明をつけるなら、『新校～』の方はlibraryではなく、Continued Japanese ～という説明の方がいいような気がしますが、定訳は不明です。</cmt>
+<e type="trans" ver="2">Among them, the Sakaibon group Gokogoninbon was separately collected in two volumes of &quot;Gunshoruiju (Japanese history book),&quot; and three kinds of Sakaibon were collected in &quot;Shinko Gunshoruiju (library).&quot;</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Among them, the Sakaibon group Gokogoninbon was separately collected in two volumes of &quot;Gunshoruiju (Japanese history book),&quot; and three kinds of Sakaibon were collected in &quot;Shinko Gunshoruiju (library).&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>また、能因本は江戸時代初期（寛永年間）の古活字版に底本として利用されたため、『枕草子傍注』や『枕草子春曙抄』（北村季吟註）といった注釈書とセットになって近代まで伝本の主流を占めた。</j>
+<e type="trans" ver="1">Also, Noinbon was used as a master copy for making the old plate of type in the early Edo era, therefore it had been a dominant manuscript along with &quot;The Pillow Book Bochu (marginal notes)&quot; and &quot;The Pillow Book Shunsho-sho (extraction)&quot; (annotated by Kigin KITAMURA) until modern times.</e>
+<cmt>一原文一訳文の例外対処http://spysee.jp/北村季吟</cmt>
+<e type="trans" ver="2">Also, Noinbon was used as a master copy for making the old plate of type in the early Edo era; therefore, it had been a dominant manuscript along with &quot;The Pillow Book Bochu (marginal notes)&quot; and &quot;The Pillow Book Shunsho-sho (extraction)&quot; (annotated by Kigin KITAMURA) until modern times.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Additionally, Noinbon was used as a master copy in making the old plate of type in the early Edo period; therefore, it remained a dominant manuscript along with &quot;The Pillow Book Bochu (marginal notes)&quot; and &quot;Shunsho-sho Commentary of The Pillow Book&quot; (annotated by Kigin KITAMURA) until modern times.</e>
+<cmt>文法を修正</cmt>
+</sen>
+<sen id="60">
+<j>しかし、昭和21年（1946）になって、田中重太郎（1917-1987年）によって三巻本第2類本が再評価され、第二次大戦後はもっぱらその方が出版、教科書採用され読まれる状況となった。</j>
+<e type="trans" ver="1">However, in 1946, when Jutaro TANAKA (1917-1987) reevaluated the second class of Sankanbon, it came to be considered more important and published more, being used as a textbook and read at school after the war.</e>
+<cmt>一原文一訳文の例外対処http://store.shopping.yahoo.co.jp/7andy/19314375.html</cmt>
+<e type="trans" ver="2">However, in 1946, when Jutaro TANAKA (1917-1987) reevaluated the second class of Sankanbon, it came to be considered more important and was published more, being used as a textbook and read at school after the war.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, in 1946, when Jutaro TANAKA (1917-1987) reevaluated the second class of Sankanbon, it came to be considered more important and was published more, being used as a textbook and read at school after the war.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="61">
+<j>ほかに、詞書の文章に三巻本伝本を使用したと見られる、鎌倉時代後期成立の白描画の絵巻物『枕草子絵詞』も七段分が現存する。</j>
+<e type="trans" ver="1">Other existent manuscripts are 7 chapters of &quot;The Pillow Book Ekotoba (story in pictures)&quot; made in the late Kamakura era, which is Emaki (a picture scroll) with Hakubyoga (ink line painting) and Sankanbon manuscript seems to have used for the notes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other existent manuscripts are seven chapters of &quot;The Pillow Book Ekotoba (story in pictures)&quot; made in the late Kamakura era, which is Emaki (a picture scroll) with Hakubyoga (ink line painting), and Sankanbon manuscript seems to have used for the notes.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Other existent manuscripts are seven chapters of &quot;The Pillow Book Ekotoba (story in pictures)&quot; made in the late Kamakura period, consisting of emaki (a picture scroll) with hakubyoga (ink line painting), and Sankanbon manuscript seems to have been used for the notes.</e>
+<cmt>have been usedとしました。　era →period</cmt>
+</sen>
+</par>
+</sec>
+<sec id="10">
+<tit>
+<j>内容</j>
+<e type="trans" ver="1">Contents</e>
+<cmt></cmt>
+<e type="trans" ver="2">Contents</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Contents</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="62">
+<j>三巻本第2類本は併せて300余の独立した章段を持つ。</j>
+<e type="trans" ver="1">The second class Sankanbon contains more than 300 independent chapters in total.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The second-class Sankanbon contains more than 300 independent chapters in total.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The second-class Sankanbon contains more than 300 independent chapters in total.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>「虫は」「木の花は」「すさまじきもの」「うつくしきもの」に代表される「ものはづくし」の「類聚章段」をはじめ、日常生活や四季の自然を観察した「随想章段」、作者が出仕した定子皇后周辺の宮廷社会を振り返った「回想章段」（日記章段）など多彩な文章から成る。</j>
+<e type="trans" ver="1">It consists of various types of writing: &apos;chapters of Ruiju&apos; of &apos;Monowazukushi (enumerating the things in the same category)&apos; represented by the lists of things like &apos;Insects,&apos; &apos;Flowering trees,&apos; &apos;Dispiriting things,&apos; and &apos;Endearingly lovely things,&apos; and &apos;chapters of Zuiso (essay),&apos; which is an observation of daily life and nature in the seasons, and &apos;chapters of reminiscence&apos; (chapters of diary) in which the author wrote about the life around Teishi Empress she served in the Imperial court.</e>
+<cmt>「類聚章段」の各見出し語は、Meredith McKinney訳 The Pillow Bookを参照</cmt>
+<e type="trans" ver="2">It consists of various types of writing: &quot;chapters of Ruiju&quot; of &quot;Monowazukushi (enumerating the things in the same category),&quot; as represented by the lists of things like &quot;Insects,&quot; &quot;Flowering trees,&quot; &quot;Dispiriting things,&quot; &quot;Endearingly lovely things,&quot; and &quot;chapters of Zuiso (essay),&quot; which is an observation of daily life and nature in the seasons, and &quot;chapters of reminiscence&quot; (chapters of diary) in which the author wrote about the life around Empress Teishi she served in the Imperial Court.</e>
+<cmt>grammar, cap</cmt>
+<e type="check" ver="1">It consists of various types of writing: &apos;chapters of Ruiju&apos; of &apos;Monowazukushi (enumerating the things in the same category),&apos; as represented by the lists of things like &apos;Insects,&apos; &apos;Flowering trees,&apos; &apos;Dispiriting things,&apos; &apos;Endearingly lovely things,&apos; and &apos;Chapters of Zuiso (essay),&apos; which is an observation of daily life and nature in the seasons, and &apos;chapters of reminiscence (chapters of a diary)&apos; in which the author wrote about the life around Empress Teishi, whom she served in the Imperial Court.</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="64">
+<j>もっとも、分類の仕方が曖昧な章段（例えば第一段「春は曙」は、通説では随想章段に入るが異議もあり）もある。</j>
+<e type="trans" ver="1">However, some chapters are too obscured to be classified (for example, the first chapter &apos;The best time in spring is dawn&apos; is generally classified into the chapters of Zuiso, but some people disagree).</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, some chapters are too obscured to be classified (for example, the first chapter entitled, &quot;The best time in spring is dawn&quot; is generally classified into the chapters of Zuiso, but some people disagree).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">However, some chapters are too obscure to be classified (for example the first chapter, entitled, &apos;The best time in spring is dawn,&apos; is generally classified into the chapters of Zuiso, but some people disagree).</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="65">
+<j>平仮名を駆使した和文の簡潔な口語体で書かれ、総じて軽妙な筆致の短編が多いが、中関白家の没落と主君・定子皇后の身にふりかかった不幸を反映して、時にかすかな感傷が交じった心情の吐露もある。</j>
+<e type="trans" ver="1">It was written in the plain vernacular using Hiragana (the Japanese cursive syllabary), and most of the chapters were written in a witty style, but sometimes sentimental lamentation appears reflecting the fall of the Michitaka FUJIWARA&apos;s Family and unhappiness gone through by her majesty Teishi Empress.</e>
+<cmt>http://ci.nii.ac.jp/naid/110002336527/</cmt>
+<e type="trans" ver="2">It was written in the plain vernacular using Hiragana (the Japanese cursive syllabary), and most of the chapters were written in a witty style, but sometimes sentimental lamentation appears reflecting the fall of the Michitaka FUJIWARA&apos;s Family and unhappiness gone through by her majesty Teishi Empress.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was written in the plain vernacular using Hiragana (the Japanese cursive syllabary), and most of the chapters were written in a witty style, but sometimes sentimental lamentation appears reflecting the fall of the Michitaka FUJIWARA&apos;s family and unhappiness gone through by her majesty Empress Teishi.</e>
+<cmt>Empress Teishi</cmt>
+</sen>
+<sen id="66">
+<j>作者の洗練されたセンスと、事物への鋭い観察眼が融合して、『源氏物語』の心情的な「もののあはれ」に対し、知性的な「をかし」の美世界を現出させた。</j>
+<e type="trans" ver="1">Author&apos;s sophisticated taste was in harmony with a keen observation on things, generating the intellectual aesthetic world of &apos;Okashi (amusing or delightful),&apos; in contrast with the emotional &apos;Mono no Aware (pathos)&apos; of &quot;The Tale of Genji.&quot;</e>
+<cmt>「おかし」Meredith McKinney訳 The Pillow Bookを参照「もののあはれ」新和英大辞典（研究社）より</cmt>
+<e type="trans" ver="2">Author&apos;s sophisticated taste was in harmony with a keen observation on things, generating the intellectual aesthetic world of &quot;Okashi (amusing or delightful),&quot; in contrast with the emotional &quot;Mono no Aware (pathos),&quot; of &quot;The Tale of Genji.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The author&apos;s sophisticated taste was in harmony with a keen observation on things, generating the intellectual aesthetic world of &apos;wokashi (amusing or delightful)&apos; in contrast with the emotional &apos;mono no aware (pathos)&apos; of &quot;The Tale of Genji.&quot;</e>
+<cmt>括弧修正Wokashi　としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="11">
+<tit>
+<j>評価</j>
+<e type="trans" ver="1">Evaluation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Evaluation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Evaluation</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="67">
+<j>肯定的評価</j>
+<e type="trans" ver="1">Positive evaluation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Positive evaluation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Positive evaluation</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="68">
+<j>枕草子は人間存在、自然を共に深く愛した故に、それを、それぞれの位相において、多種多彩の美として享受・形成した（目加田さくを）。</j>
+<e type="trans" ver="1">In The Pillow Book, the author cherished both human beings and nature, therefore she accepted and formed them in each phase as various beauties (Sakuwo MEKATA).</e>
+<cmt>http://21dzk.l.u-tokyo.ac.jp/INBUDS/search.php?m=trdd&amp;usid=41670&amp;a=</cmt>
+<e type="trans" ver="2">In &quot;The Pillow Book,&quot; the author cherished both human beings and nature; therefore, she accepted and formed them in each phase as various beauties. (Sakuwo MEKATA)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">In The Pillow Book, the author cherished humanity as well as nature; therefore, she accepted and formed them in each phase as various beauties (Sakuwo MEKATA).</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="69">
+<j>次から次へと繰り出される連想の糸筋によって、各個の章段内部においても、類想・随想・回想の区別なく、豊富な素材が、天馬空をゆくが如き自在な表現によって、縦横に綾なされている（荻谷朴）。</j>
+<e type="trans" ver="1">Even in each chapter, various types of rich writing such as lists, essay, or reminiscence, are interweaved freely like a flying horse soaring into the sky with a strand of associations called up one after another. (Boku HAGITANI)</e>
+<cmt>「荻谷朴」ではなく、「萩谷朴」かと思われます。（参考URL：http://www.bk1.jp/books/authorSearchResult/?authorKana=%E3%83%8F%E3%82%AE%E3%82%BF%E3%83%8B+%E3%83%9C%E3%82%AF&amp;adultFlg=0&amp;authorId=110000776270000&amp;author=%E8%90%A9%E8%B0%B7+%E6%9C%B4）http://catalog.library.metro.tokyo.jp/cgi-bin/exec_cgi/ibibser.cgi</cmt>
+<e type="trans" ver="2">Even in each chapter, various types of rich writing such as lists, essays or reminiscences are freely interwoven, like a flying horse soaring into the sky with a strand of associations called up one after another. (Boku HAGITANI)</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Even in each chapter, various types of rich writing such as lists, essays or reminiscences are freely interwoven, like a flying horse soaring into the sky with a strand of associations called up one after another. (Boku HAGITANI)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="70">
+<j>「季節-時刻」の表現（春は曙など）は、当時古今集に見られる「春-花-朝」のような通念的連環に従いつつ、和歌的伝統に慣れ親しんだ読者の美意識の硬直性への挑戦として中間項である風物を省いた斬新なものである（藤本宗利）。</j>
+<e type="trans" ver="1">Though it followed the conventional link of &apos;spring - flower -morning&apos; often seen Kokonshu in those days, the expression of &apos;season-time&apos; (such as the best time in spring is dawn) which omitted the middle poetical thing is innovative, challenging rigid esthetic values held by the readers who were familiar with the poetic tradition. (Munetoshi FUJIMOTO)</e>
+<cmt>http://spysee.jp/藤本宗利</cmt>
+<e type="trans" ver="2">Though it followed the conventional link of &quot;spring - flower -morning,&quot; as often seen in Kokonshu those days, the expression of &quot;season-time&quot; (such as &quot;the best time in spring is dawn&quot;), which omitted the middle poetical thing, is innovative, challenging rigid esthetic values held by the readers who were familiar with the poetic tradition. (Munetoshi FUJIMOTO)</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Although it followed the conventional &apos;spring - flower -morning&apos; type of link that was often seen in Kokinshu in those days, its use of the &apos;season-time&apos; type of expression (such as &apos;the best time in spring is dawn&apos;), which omitted the middle poetic element, was innovative, challenging as it did the rigid esthetic values held by readers who were familiar with poetic traditions. (Munetoshi FUJIMOTO)</e>
+<cmt>文の構造がわかりやすいように修正しました。&quot;Though&quot; -&gt; &quot;Although&quot; に変更しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="71">
+<j>中宮定子への敬慕の念の現れである。</j>
+<e type="trans" ver="1">She expressed her love and respect to Teishi Empress.</e>
+<cmt></cmt>
+<e type="trans" ver="2">She expressed her love and respect for Empress Teishi.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">She expressed her love and respect for Empress Teishi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="72">
+<j>道隆一族が衰退していく不幸の最中、崩じた定子の魂を静めるために書かれたものである。</j>
+<e type="trans" ver="1">The author wrote it to console the depressed feeling of Teishi Empress when the Michitaka family was falling.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The author wrote it to console Empress Teishi, who felt depressed over the fall of the Michitaka family.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The author wrote it to console Empress Teishi, who felt depressed over the fall of the Michitaka family.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="73">
+<j>故に道隆一族衰退の様子が書かれていないのは当然である（同上）。</j>
+<e type="trans" ver="1">Therefore it is natural that she didn&apos;t mention the fall of the Michitaka Family. (same as above)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, it is natural that she didn&apos;t mention the fall of the Michitaka family (as above).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Therefore, it is natural that she didn&apos;t mention the fall of the Michitaka family (as above).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="74">
+<j>自賛談のようにみえる章段も、（中略）中宮と中宮を取り巻く人々が失意の時代にあっても、天皇の恩寵を受けて政治とは無縁に美と好尚の世界に生きたことを主張している（上野理）。</j>
+<e type="trans" ver="1">There are some chapters which looks like a mere self-praise, but in them the author claimed that they received the Emperor&apos;s favor and led a life filled with aesthetic sentiment and exquisite taste, being irrelevant to the politics of the time and disappointment of the Empress and the people around her. (Osamu UENO)</e>
+<cmt>http://accord.at.infoseek.co.jp/VOL11/kodai.htm</cmt>
+<e type="trans" ver="2">There are some chapters that look like mere self-praise, but in them the author claimed they received the Emperor&apos;s favor and led a life filled with aesthetic sentiment and exquisite taste, being irrelevant to the politics of the time and disappointment of the Empress and the people around her. (Osamu UENO).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">There are some chapters that seem like mere self-praise, but in them the author claimed that the Empress and the people around her received the Emperor&apos;s favor and led a life filled with aesthetic sentiment and exquisite taste, living in a world that was cut off from the politics of the time and disappointment. (Osamu UENO).</e>
+<cmt>being irrelevant --- dissapointment. 等を修正しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="75">
+<j>批判的評価</j>
+<e type="trans" ver="1">Negative evaluation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Negative evaluation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Negative evaluation</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="76">
+<j>清少納言の出身階級を忘れひたすら上流に同化しようとした浅薄な様の現れである（秋山虔）。</j>
+<e type="trans" ver="1">It is a representation of her shallowness trying to forget her original social rank and assimilate herself to the upper class. (Ken AKIYAMA)</e>
+<cmt>http://spysee.jp/秋山虔</cmt>
+<e type="trans" ver="2">It is a representation of her shallowness trying to forget her original social rank and assimilate herself to the upper class. (Ken AKIYAMA)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is a representation of her shallowness trying to forget her original social rank and assimilate herself to the upper class. (Ken AKIYAMA)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="77">
+<j>（自分の親族身分のみならず身分が高い者に対しても敬語がないため）</j>
+<e type="trans" ver="1">(It is based on the fact that she didn&apos;t use polite expressions when she wrote about not only her family but also those who belonged to the upper classes.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(It is based on the fact that she didn&apos;t use polite expressions when she wrote, not only about her family but also about those who belonged to the upper classes.)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">(It is based on the fact that she didn&apos;t use polite expressions when she wrote, not only about her family but also about those who belonged to the upper classes.)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="78">
+<j>「定子後宮の文明の記録」に過ぎず、「個」の資格によって書かれたものではない（石田穣二）。</j>
+<e type="trans" ver="1">It is only &apos;a record of civilization in the inner palace,&apos; and wasn&apos;t written by &apos;a private individual.&apos; (Joji ISHIDA)</e>
+<cmt>http://spysee.jp/石田穣二</cmt>
+<e type="trans" ver="2">It is only &quot;a record of civilization in the inner palace,&quot; and wasn&apos;t written by &quot;a private individual.&quot; (Joji ISHIDA)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It is only &apos;a record of civilization in the inner palace,&apos; and wasn&apos;t written by &apos;a private individual&apos; (Joji ISHIDA).</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 釣ちごちゅが(id:22605), Kurayamizaka(id:7150), Izayohi(id:13095), Okura(id:23087), Lola Voss(id:110911), 経済準学士(id:22656), 30rKs56MaE(id:11801), Urania(id:7213), Aphaia(id:3132), 雲居雁乃(id:15842), Mishika(id:276), VVVBot(id:130101), Marine-Blue(id:20162), DorganBot(id:149946), Leonard(id:782), ぎゅうひ(id:9206), 十月之交(id:586), TY(id:1386), Loveless(id:129239), Yume149(id:17504), 岡部碩道(id:182846), Yas(id:739), NDR(id:5500), Louperibot(id:128971), Kzhr(id:131), Freetrashbox(id:162354), 捕澤(id:23785), Zippin(id:9885), Katsuya(id:21306), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

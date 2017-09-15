@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>布施屋</j>
+<e type="trans" ver="1">Fuseya (aid station or rest house)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fuseya (relief station or rest house)</e>
+<cmt>fixed spacing; changed &quot;aid&quot; to &quot;relief&quot;</cmt>
+<e type="check" ver="1">Fuseya</e>
+<cmt>括弧説明を削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>布施屋（ふせや）とは、古代律令制時代に日本各地に作られた旅行者の一時救護・宿泊施設。</j>
+<e type="trans" ver="1">Fuseya was a temporal aid station or accommodation for travelers, established in many parts of Japan in the time of kodai ritsuryosei (ancient East Asian system of centralized governance).</e>
+<cmt></cmt>
+<e type="trans" ver="2">A Fuseya was a temporary relief station and lodging facility for travelers that was established in many parts of Japan during the kodai ritsuryosei (ancient East Asian system of centralized governance).</e>
+<cmt>changed &quot;temporal&quot; to &quot;temporary&quot;; changed &quot;aid&quot; to &quot;relief&quot;; changed &quot;accommodation&quot; to &quot;lodging facility&quot;; fixed grammar</cmt>
+<e type="check" ver="1">A Fuseya was a temporary relief station and lodging facility for travelers that was established in many parts of Japan during the kodai ritsuryosei (ancient East Asian system of centralized governance).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>仏教寺院のチャリティー事業の一環として設置されることが多かった。</j>
+<e type="trans" ver="1">In many cases, it was established by Buddhist temples as part of their charities.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In many cases, Fuseya were established by Buddhist temples as part of their charities.</e>
+<cmt>changed &quot;it&quot; to &quot;Fuseya&quot; and fixed grammar accordingly</cmt>
+<e type="check" ver="1">In many cases, Fuseya were established by Buddhist temples as part of their charities.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>六国史に設置経緯が記された武蔵国の悲田処が有名である。</j>
+<e type="trans" ver="1">Hidenjo (institution for aid and care of travelers in the early Heian period) in Musashi Province is famous for the description of its background in Rikkokushi (Japan&apos;s six national histories chronicling the seventh and eighth centuries).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Hidenjo (an institution for aid and care of travelers during the early Heian period) in Musashi Province is famous due to the description of its background in the Rikkokushi (Japan&apos;s six national histories chronicling the seventh and eighth centuries).</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">The Hidenjo (an institution for aid and care of travelers during the early Heian period) in Musashi Province is famous due to the description of its background in the Rikkokushi (Japan&apos;s six national histories chronicling the 7th and 8h centuries).</e>
+<cmt>数字に訂正しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>社会背景</j>
+<e type="trans" ver="1">Social background</e>
+<cmt></cmt>
+<e type="trans" ver="2">Societal Background</e>
+<cmt>changed &quot;Social&quot; to &quot;Societal&quot;</cmt>
+<e type="check" ver="1">Societal Background</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>平安時代、律令制下では庶民は租税や労役、兵役を課せられていた。その運搬や出向は全て本人が自ら都まで出向かなければいけなかった。</j>
+<e type="trans" ver="1">In the Heian period, land tax, labor and military service were imposed on the common people under the Ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">During the Heian period, land tax, labor and military service were imposed on the common people under the Ritsuryo system (a system of centralized government based on the ritsuryo code) and everyone was on their own when making the trip to the capital to fulfill their duties.</e>
+<cmt>This sentence and the following sentence do not stand well on their own, so I combined them and fixed the grammar accordingly</cmt>
+<e type="check" ver="1">下の文を統合しました.</e>
+<cmt>OK</cmt>
+</sen>
+<sen id="6">
+<j>駿馬を使えるのは官吏だけに限られていたので、庶民は全員が何日、時には何十日もかけて徒歩や農耕用のウマで都に向かっていたのである。</j>
+<e type="trans" ver="1">Only government officials could take shunme (swift horse), and the common people would always take days or sometimes even tens of days to travel to the capital on foot or by land horses.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The use of shunme (swift horses) was limited to government officials, meaning that it wold take days, or even weeks for common people to travel to the capital by foot or by land horses.</e>
+<cmt>Although &quot;tens of days&quot; is a more direct translation for &quot;何十日&quot; it does not sound natural, so I changed it to &quot;weeks&quot;;</cmt>
+<e type="check" ver="1">The use of swift horses was limited to government officials, meaning that it wold take days, or even weeks for common people to travel to the capital by foot or by land horses.</e>
+<cmt>駿馬の日本語読みは不要と考え削除しました。</cmt>
+</sen>
+<sen id="7">
+<j>また食料も自己調達しなければならなかった。</j>
+<e type="trans" ver="1">In addition, they had to pay for the meals themselves while traveling.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, they also had to pay for their own meals during the trip.</e>
+<cmt>added &quot;also&quot; to carry the meaning of &quot;も&quot;</cmt>
+<e type="check" ver="1">In addition, they also had to pay for their own meals during the trip.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>当然このような劣悪な状況では途中で飢餓や病により倒れたり、死亡したりして行旅死亡人となる者も多く、初期の頃から社会問題化し始めていた。</j>
+<e type="trans" ver="1">As a matter of course, these severe conditions caused many of them to collapse or fall down with hunger or illness on their way, which began to be recognized as a social problem.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a matter of course, the severe conditions caused many people to collapse from starvation and illnesses or even die en route, causing the issue to be recognized as a social problem.</e>
+<cmt>fixed grammar and word selection to read more naturally</cmt>
+<e type="check" ver="1">As a matter of course, the severe conditions caused many people to collapse from starvation and illnesses or even die en route, causing the issue to be recognized as a social problem.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>全国でそのような状況を解決するために、仏教寺院などを中心にして造られたのが「布施屋」である。</j>
+<e type="trans" ver="1">Fuseya&apos; was established mainly by Buddhist temples to solve such problem on a nationwide basis.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In order to resolve such conditions on a nationwide basis, places like Buddhists temples were used as a focal point to establish &quot;Fuseya.&quot;</e>
+<cmt>added &quot;focal point&quot; for &quot;中心&quot;; rearranged sentence, changed word selection and fixed grammar</cmt>
+<e type="check" ver="1">In order to resolve such conditions on a nationwide basis, places like Buddhists temples were used as a focal point to establish &apos;Fuseya.&apos;</e>
+<cmt>原文の「」に合せて&quot;を&apos;に訂正しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="11">
+<j>施設</j>
+<e type="trans" ver="1">Facilities</e>
+<cmt></cmt>
+<e type="trans" ver="2">Facilities</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Facilities</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="12">
+<j>数少ない史料から総合すると、布施屋の施設は3軒から5軒の建物から構成され、救護・宿泊施設と物資庫・食料庫に分かれていた。</j>
+<e type="trans" ver="1">Synthetically judging from the scarce historical materials, the facilities of fuseya consisted of three or five structures which could be categorized into aid station, accommodation, depository and larder.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Judging from an integration of scarce historical materials, Fuseya facilities consisted of three to five structures and categorized as relief stations, lodging facilities, depositories and food storehouses.</e>
+<cmt>changed &quot;synthetically&quot; to &quot;integration&quot;; fixed grammar and word selection to read more naturally</cmt>
+<e type="check" ver="1">Judging from an integration of scarce historical materials, Fuseya facilities consisted of three to five structures and categorized as relief stations, lodging facilities, depositories and food storehouses.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>物資庫・食料庫は「板倉」という名で伝えられている場所もある。</j>
+<e type="trans" ver="1">In some locations, the depository and the larder were called by another name, &apos;Itakura&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In some locations, the depository and food storehouses were called &quot;Itakura.&quot;</e>
+<cmt>fixed word selection and grammar</cmt>
+<e type="check" ver="1">In some locations, the depository and food storehouses were called &apos;Itakura.&apos;</e>
+<cmt>原文の「」に合せて&quot;を&apos;に訂正しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="14">
+<j>布施屋内の救護・宿泊施設では食料の配給、けがや病気の手当て、宿泊などのサービスが行われていた。</j>
+<e type="trans" ver="1">In fuseya, the aid station and accommodation provided the services, such as food supply, treatment of injury or illness and lodging.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Relief stations and lodging facilities in Fuseya provided such services as food distribution, lodging and treatment for injuries and illnesses.</e>
+<cmt>fixed grammar and word selection to read more naturally</cmt>
+<e type="check" ver="1">Relief stations and lodging facilities in Fuseya provided such services as food distribution, lodging and treatment for injuries and illnesses.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>ただしこれらはあくまで一時的＝緊急避難的なものであった。</j>
+<e type="trans" ver="1">These facilities, however, were absolutely limited to temporal use or emergency evacuation purpose only.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">These facilities, however, were persistent in being limited to temporary use or for finding shelter in emergencies.</e>
+<cmt>fixed grammar and word selection to read more naturally</cmt>
+<e type="check" ver="1">These facilities, however, were persistent in being limited to temporary use or for finding shelter in emergencies.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>長期的宿泊施設や療養施設としての性格は全くなかった。</j>
+<e type="trans" ver="1">It did not at all assumed such character as long-term lodging or care facilities.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">They had none of the attributes of being facilites for long-term recuperation or lodging.</e>
+<cmt>fixed grammar and word selection to read more naturally</cmt>
+<e type="check" ver="1">They had none of the attributes of being facilities for long-term recuperation or lodging.</e>
+<cmt>facilitiesスペル訂正しました。</cmt>
+</sen>
+<sen id="17">
+<j>このためサービスの比重は救護の方に置かれ、宿泊はあまり重視されていなかった。</j>
+<e type="trans" ver="1">Therefore, the services placed more emphasis on relief activities while the aspect of accommodation was far less valued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Consequently, the services placed great emphasis on relief activities while placing very little importance on aspects of accommodation.</e>
+<cmt>changed &quot;Therefore&quot; to &quot;Consequently&quot;; fixed grammar and word selection to read more naturally</cmt>
+<e type="check" ver="1">Consequently, the services placed great emphasis on relief activities while placing very little importance on aspects of accommodation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>事実、東大寺の設置した布施屋では寝具が2組しかなく、とても継続して宿泊出来る環境ではなかったことが分かっている。</j>
+<e type="trans" ver="1">In fact, it is known that the fuseya established by Todai-ji Temple had only two sets of beddings and the condition was far from being capable of accommodating guests for many days.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In fact, it is known that the Fuseya established by Todai-ji Temple had only two sets of bedding and had conditions far from capable of accommodating guests for many days.</e>
+<cmt>fixed grammar and word selection to read more naturally</cmt>
+<e type="check" ver="1">In fact, it is known that the Fuseya established by Todai-ji Temple had only two sets of bedding and had conditions far from capable of accommodating guests for many days.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="19">
+<j>運営</j>
+<e type="trans" ver="1">Operation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Operation</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="20">
+<j>布施屋の運営主体は大きく分けて「寺院」と「国府」の2つに分かれる。</j>
+<e type="trans" ver="1">The operation bodies of fuseya can be broadly categorized into two groups: &apos;temple&apos; and &apos;kokufu&apos; (provincial office).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The management of Fuseya mainly constituted either &quot;temples&quot; or &quot;kokufu&quot; (provincial offices).</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">The management of Fuseya mainly constituted either &apos;temples&apos; or &apos;kokufu&apos; (provincial offices).</e>
+<cmt>原文の「」に合せて&quot;を&apos;に訂正しました。</cmt>
+</sen>
+<sen id="21">
+<j>元々困っている旅行者を施設を造って助けようという「救恤」の発想自体が仏教の考え方であり、自然と運営主体は寺院が多くなった。</j>
+<e type="trans" ver="1">The very idea of helping travelers in trouble basically derived from a concept of Buddhist thought called &apos;kyujutsu&apos; (helping person in trouble) and, as a natural consequence, temples made up the majority of the operation bodies.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The very idea of helping travelers in trouble was based on a concept of Buddhist thought called &apos;kyujutsu&apos; (helping a person in trouble), so temples naturally made up the majority of the operations.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">The very idea of helping travelers in trouble was based on a concept of Buddhist thought called &apos;kyujutsu&apos; (helping a person in trouble), so temples naturally made up the majority of the operations.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>国府の運営、即ち官営であるものは、そのような仏教側の動きと実際問題での行旅死亡人の増加に伴い発生してきたものと思われる。</j>
+<e type="trans" ver="1">It is considered that the fuseya operated by kokufu or the government, emerged in the wake of the aforementioned movement of Buddhists as well as the increase of travelers to die on the street as a practical problem.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is likely that Fuseya operated by kokufu or the government emerged in accordance with Buddhist activities as well as the practical problem of increasing traveler deaths.</e>
+<cmt>changed &quot;It is considered&quot; to &quot;It is likely&quot; for &quot;思われる&quot;; fixed grammar and word selection to read more naturally</cmt>
+<e type="check" ver="1">It is likely that Fuseya operated by kokufu or the government emerged in accordance with Buddhist activities as well as the practical problem of increasing traveler deaths.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="23">
+<j>布施屋自体が仏教的発想の産物であるため、運営には必ず仏教寺院が関わった。</j>
+<e type="trans" ver="1">As fuseya itself was an outgrowth of the Buddhistic thought, Buddhist temples participated in the operation of every fuseya without exception.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a Fuseya itself was a product of Buddhist thought, Buddhist temples were invariably involved in their operations.</e>
+<cmt>changed &quot;outgrowth&quot; to &quot;product&quot;; changed &quot;without exception&quot; to &quot;invariably&quot;; fixed grammar</cmt>
+<e type="check" ver="1">As a Fuseya itself was a product of Buddhist thought, Buddhist temples were invariably involved in their operations.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>運営主体が寺院である場合はその寺院そのものが、国府である場合は敷地内に寺を建造したり近くの寺に監督を依頼したりすることが行われた。</j>
+<e type="trans" ver="1">The fuseya operated by temple itself was put under the temple&apos;s supervision, but in case of the fuseya operated by kokufu, a supervisory temple was newly built on the site of such fuseya, or a nearby temple was deputed to look after the fuseya.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fuseya operated by temples themselves were put under the supervision of the temple, but when they were operated by a kokufu, a supervisory temple would be built near the site or a nearby temple would be assigned to look after it.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">Fuseya operated by temples themselves were put under the supervision of the temple, but when they were operated by a kokufu, a supervisory temple would be built near the site or a nearby temple would be assigned to look after it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>また敷地内には必ず「薬師寺」と称し、医薬を司る薬師如来を本尊とする寺が建てられたという。</j>
+<e type="trans" ver="1">In addition, it is said that a temple called &quot;Yakushi-ji Temple&quot;, in which the healing Buddha or Yakushinyorai (Bhaisajyaguru) was enshrined as honzon (principal object of worship at a temple, usually a Buddha or Bodhisattva), was always built in the grounds of fuseya.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, a &quot;Yakushi-ji Temple&quot; was always built on the grounds of a Fuseya in which a Yakushinyorai (Bhaisajyaguru (buddha able to cure all illnesses)) was enshrined as a honzon (principal object of worship at a temple, usually a Buddha or Bodhisattva).</e>
+<cmt>eliminated &quot;it is said&quot;; eliminated &quot;healing Buddha&quot; since the description in parenthesis takes care of this meaning; fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">In addition, a &apos;Yakushi-ji Temple&apos; was always built on the grounds of a Fuseya in which a Yakushinyorai (Bhaisajyaguru (Buddha able to cure all illnesses)) was enshrined as a honzon (principal object of worship at a temple, usually a Buddha or Bodhisattva).</e>
+<cmt>原文の「」に合せて&quot;を&apos;に訂正しました。Buddhaに訂正しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="26">
+<j>運営費や食料・物資の調達法は、自ら墾田を持つもの、官吏の扶持を割くもの、出挙としてイネを貸し付け利子で運営するものなどさまざまであった。</j>
+<e type="trans" ver="1">The methods of raising funds for the operation and securing foods and other supplies were diverse: some owned newly cultivated land, some set aside the stipend called fuchi attached to their official services, and some loaned out rice plants at interest in the form of suiko (government loans, often seed rice, made to peasants in Japan from the 7th through 12th centuries).</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were diverse methods of raising funds for the operation, securing food and other supplies for a Fuseya, such as owning newly cultivated land, setting aside stipends called fuchi that were attached to official services, and loaning out rice plants at interest in the form of suiko (government loans, often seed rice, made to peasants in Japan from the 7th through 12th centuries).</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">There were diverse methods of raising funds for the operation, securing food and other supplies for a Fuseya, such as owning newly cultivated land, setting aside stipends called fuchi that were attached to official services, and loaning out rice plants at interest in the form of suiko (government loans, often seed rice, made to peasants in Japan from the 7th through 12th centuries).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>また敷地内にナツメやナシ、クリなどの木を植え、補助的に食料にあてることもあった。</j>
+<e type="trans" ver="1">Besides, some planted trees, such as jujube, pear, or chestnut in the grounds of the fuseya, in order to make a supplemental contribution to the food supply.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In some cases, even trees would be planted, such as jujube, pear or chestnut trees on the grounds of a Fuseya in order to make a supplemental contribution to the food supply.</e>
+<cmt>changed &quot;Besides&quot; to &quot;In some cases&quot;; fixed grammar</cmt>
+<e type="check" ver="1">In some cases, even trees would be planted, such as jujube, pear or chestnut trees on the grounds of a Fuseya in order to make a supplemental contribution to the food supply.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="28">
+<j>主な布施屋</j>
+<e type="trans" ver="1">Main fuseya</e>
+<cmt></cmt>
+<e type="trans" ver="2">Main Fuseya</e>
+<cmt>capitalized &quot;Fuseya&quot;</cmt>
+<e type="check" ver="1">Main Fuseya</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="29">
+<j>行基の布施屋</j>
+<e type="trans" ver="1">Fuseya established by Gyogi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fuseya established by Gyogi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fuseya established by Gyogi</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>奈良時代の高僧・行基が布教のため全国を巡った際に造ったと伝えられる。</j>
+<e type="trans" ver="1">It is traditionally said that Gyogi, a priest of great sanctity in the Nara period, built the fuseya when he made a pilgrimage throughout the country as his missionary activity.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is traditionally said that Gyogi, priests of great sanctity during the Nara period, built Fuseya as a missionary activity when they went on pilgrimages around the country.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">It is traditionally said that Gyogi, priests of great sanctity during the Nara period, built Fuseya as a missionary activity when they went on pilgrimages around the country.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="31">
+<j>その数は山城国2ヶ所、摂津国3ヶ所、河内国2ヶ所、和泉国2ヶ所、備後国1ヶ所の10ヶ所に上るという。</j>
+<e type="trans" ver="1">The number of the fuseya is said to have amounted to ten: two in Yamashiro Province, three in Settsu Province, two in Kawachi Province, two in Izumi Province and one in Bingo Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were reportedly ten Fuseya, with two in Yamashiro Province, three in Settsu Province, two in Kawachi Province, two in Izumi Province and one in Bingo Province.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">There were reportedly ten Fuseya, with two in Yamashiro Province, three in Settsu Province, two in Kawachi Province, two in Izumi Province and one in Bingo Province.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="32">
+<j>代表格である昆陽布施屋（こやのふせや）は天平3（731）年に摂津国川辺郡 (兵庫県)に開設された。</j>
+<e type="trans" ver="1">Koyano fuseya, which was the most notable among them, was established at Kawabe-gun, Settsu Province (Hyogo Prefecture) in 731.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Most notable among them was Koyano Fuseya that was established at Kawabe-gun in Settsu Province (Hyogo Prefecture) in 731.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">Most notable among them was Koya no Fuseya that was established at Kawabe-gun in Settsu Province (Hyogo Prefecture) in 731.</e>
+<cmt>スペース補足しました。</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="33">
+<j>現在の兵庫県伊丹市寺本にある昆陽寺の元になったといわれている。</j>
+<e type="trans" ver="1">It is said to be the origin of Konyo-ji Temple at the present site of Teramoto, Itami City, Hyogo Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This Fuseya is said to have been the foundation of Konyo-ji Temple in present-day Teromoto, Itami City, Hyogo Prefecture.</e>
+<cmt>changed &quot;origin&quot; to &quot;foundation&quot; for &quot;元&quot;; fixed grammar</cmt>
+<e type="check" ver="1">This Fuseya is said to have been the foundation of Konyo-ji Temple in present-day Teramoto, Itami City, Hyogo Prefecture.</e>
+<cmt>Teramotoに訂正しました。</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="34">
+<j>東大寺布施屋</j>
+<e type="trans" ver="1">Todai-ji Temple fuseya</e>
+<cmt></cmt>
+<e type="trans" ver="2">Todai-ji Temple Fuseya</e>
+<cmt>capitalized &quot;Fuseya&quot;</cmt>
+<e type="check" ver="1">Todai-ji Temple Fuseya</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>天平宝字5（761）年に大和国十市郡に開設。</j>
+<e type="trans" ver="1">This fuseya was established at Toichi-gun, Yamato Province in 761.</e>
+<cmt>十市郡は、「といちのこおり」とも読むようです。＊「大和国十市郡」の訳語の書体を訂正して再登録しました。削除お願いします。すみません。（2/10登録・2/13再登録）←削除済</cmt>
+<e type="trans" ver="2">Established at Toichi-gun, Yamato Province in 761.</e>
+<cmt>eliminated &quot;This fuseya&quot;</cmt>
+<e type="check" ver="1">Established at Toichi-gun, Yamato Province in 761.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="36">
+<j>旅行者だけではなく寺で労役を科せられていた人々のための施設でもあったという。</j>
+<e type="trans" ver="1">It was not only for travelers but for the people under the burden of toil at temples.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This facility was not only for travelers but also for people under the burden of doing labor at temples.</e>
+<cmt>changed &quot;It&quot; to &quot;This facility&quot;; changed &quot;toil&quot; to &quot;doing labor&quot;</cmt>
+<e type="check" ver="1">This facility was not only for travelers but also for people under the burden of doing labor at temples.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="37">
+<j>悲田処</j>
+<e type="trans" ver="1">Hidenjo</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hidenjo</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hidenjo</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>天長10（833）年に武蔵国多摩郡と入間郡の境界付近に開設。</j>
+<e type="trans" ver="1">This fuseya was established on the borders of Tama-gun and Iruma-gun at Musashi Province in 833.</e>
+<cmt>多摩郡は、「たまのこおり」「たまごおり」とも読むようです。　入間郡「いるまのこおり」とも読むようです</cmt>
+<e type="trans" ver="2">This Fuseya was established on the border of Tama-gun and Iruma-gun in Musashi Province in 833.</e>
+<cmt>capitalized &quot;Fuseya&quot;; changed &quot;borders&quot; to &quot;border&quot;; changed &quot;at&quot; to &quot;in&quot;</cmt>
+<e type="check" ver="1">This Fuseya was established on the border of Tama-gun and Iruma-gun in Musashi Province in 833.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>武蔵国府、のち朝廷による官営。</j>
+<e type="trans" ver="1">It was under the official management, first of Musashi kokufu and later of the Imperial Court.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At first it was under the official management of the Musashi kokufu, then later came under the Imperial Court.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">At first it was under the official management of the Musashi kokufu, then later came under the Imperial Court.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="40">
+<j>六国史である『続日本後紀』に設置経緯が掲載されており、全国の布施屋の中では最も知名度が高い。</j>
+<e type="trans" ver="1">It was the most famous of all the fuseya in the country because the detailed background history of its establishment was described in &quot;Shoku Nihon Koki&quot; (Later Chronicle of Japan Continued), which was one of the Rikkokushi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is the most well-known of all the fuseya in the country due to the detailed background history of its establishment described in the &quot;Shoku Nihon Koki&quot; (Later Chronicle of Japan Continued), which was one of the Rikkokushi (the six ancient Japanese historical collections compiled between the Nara and Heian periods).</e>
+<cmt>added description for &quot;Rikkokushi&quot;; fixed grammar</cmt>
+<e type="check" ver="1">This is the most well-known of all the fuseya in the country due to the detailed background history of its establishment described in the &quot;Shoku Nihon Koki&quot; (Later Chronicle of Japan Continued), which was one of the Rikkokushi (the six ancient Japanese historical collections compiled between the Nara and Heian periods).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="41">
+<j>詳しくは悲田処の項を参照。</j>
+<e type="trans" ver="1">Please refer to the section of Hidensho for details.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Please refer to the section on Hidensho for details.</e>
+<cmt>changed &quot;of&quot; to &quot;on&quot;</cmt>
+<e type="check" ver="1">Please refer to the section on Hidensho for details.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="42">
+<j>続命院</j>
+<e type="trans" ver="1">Shokumeiin</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shokumeiin</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shokumeiin</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>承和 (日本)2（835）年以前に九州（国名不明）に開設。</j>
+<e type="trans" ver="1">This fuseya was established at Kyushu (province unknown) in 835.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This Fuseya was established in Kyushu (province unknown) in 835.</e>
+<cmt>capitalized &quot;Fuseya&quot;; changed &quot;at&quot; to &quot;in&quot;</cmt>
+<e type="check" ver="1">This Fuseya was established in Kyushu (province unknown) in 835.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>大宰府による官営。</j>
+<e type="trans" ver="1">It was under the official management of Dazai-fu (local government office in Kyushu region).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was under the official management of the Dazai-fu (local government office in Kyushu region).</e>
+<cmt>added &quot;the&quot; before &quot;Dazai-fu&quot;</cmt>
+<e type="check" ver="1">It was under the official management of the Dazai-fu (local government office in Kyushu region).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="45">
+<j>『続日本後紀』承和2年12月3日條によれば、刑部卿の小野岑守が以前大宰大弐であった頃に開設し、墾田百四十町をもってその運営に当てたという。</j>
+<e type="trans" ver="1">According to the section of December 29, 835 in &quot;Shoku Nihon Koki&quot;, it was established at a time when Gyobukyo (Minister of Justice), ONO no Minemori, was formerly Dazai no daini (Senior Assistant Governor-General of the Dazai-fu offices), and he invested the earnings from approx. 140 hectares of his cultivated land in the operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the &quot;Shoku Nihon Koki&quot; in a section on December 29, 835, this facility was established when the Gyobukyo (Minister of Justice) ONO no Minemori, who was formerly a Dazai no daini (Senior Assistant Governor-General of the Dazai-fu offices), invested earnings from approximately 140 hectares of his cultivated land into the operation.</e>
+<cmt>changed &quot;it&quot; to &quot;this facility&quot;; fixed grammar</cmt>
+<e type="check" ver="1">According to the &quot;Shoku Nihon Koki&quot; in a section on December 29, 835, this facility was established when the Gyobukyo (Minister of Justice) ONO no Minemori, who was formerly a Dazai no daini (Senior Assistant Governor-General of the Dazai-fu offices), invested earnings from approximately 140 hectares of his cultivated land into the operation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="46">
+<j>場所は筑前国説と豊前国説がある。</j>
+<e type="trans" ver="1">There were two theories as to where it was located: Chikuzen Province and Buzen Province.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Two theories on the location of the facility are Chikuzen Province and Buzen Province.</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">Two theories on the location of the facility are Chikuzen Province and Buzen Province.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="47">
+<j>前者は福岡県筑紫野市、後者は福岡県京都郡みやこ町犀川地区（旧京都郡犀川町）に比定されている。</j>
+<e type="trans" ver="1">The former is identified as Chikushino City, Fukuoka Prefecture and the latter is identified as Saigawa area, Miyako-machi, Miyako-gun, Fukuoka Prefecture (old Saigawa-machi, Miyako-gun).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The former location is estimated to be in Chikushino City, Fukuoka Prefecture, the latter is estimated to be in the Saigawa area, Miyako-machi, Miyako-gun, Fukuoka Prefecture (old Saigawa-machi, Miyako-gun).</e>
+<cmt>changed &quot;identified&quot; to &quot;estimated&quot; for &quot;比定&quot;; fixed grammar</cmt>
+<e type="check" ver="1">The former location is estimated to be in Chikushino City, Fukuoka Prefecture, the latter is estimated to be in the Saigawa area, Miyako-machi, Miyako-gun, Fukuoka Prefecture (old Saigawa-machi, Miyako-gun).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="27">
+<sen id="48">
+<j>なお東京都江戸川区にはこの続命院の後継を称する「證大寺」という寺が存在する。</j>
+<e type="trans" ver="1">There is a temple called Shodai-ji Temple in Edogawa Ward, Tokyo Prefecture, which is claiming to be a descendant of this shokumeiin</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Shodai-ji Temple in Edogawa Ward, Tokyo Prefecture claims to have succeeded this shokumeiin.</e>
+<cmt>changed &quot;to be a descendant&quot; to &quot;to have succeeded&quot;; fixed grammar</cmt>
+<e type="check" ver="1">The Shodai-ji Temple in Edogawa Ward, Tokyo Prefecture claims to have succeeded this shokumeiin.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="28">
+<sen id="49">
+<j>墨俣布施屋</j>
+<e type="trans" ver="1">Sunomata fuseya</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sunomata Fuseya</e>
+<cmt>capitalized &quot;Fuseya&quot;</cmt>
+<e type="check" ver="1">Sunomata Fuseya</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>承和2（835）年に美濃国安八郡に開設。</j>
+<e type="trans" ver="1">This fuseya was established at Anhachi-gun, Mino Province in 835.</e>
+<cmt>安八郡は、「やはちこおり」とも読むようです。</cmt>
+<e type="trans" ver="2">Established at Anhachi-gun, Mino Province in 835 and government operated.</e>
+<cmt>eliminated &quot;This fuseya&quot;; the following sentence does not stand alone well, so I combined it with this one</cmt>
+<e type="check" ver="1">Established at Anhachi-gun, Mino Province in 835 and government operated.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="51">
+<j>官営。</j>
+<e type="trans" ver="1">It was operated by the government.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was operated by the government.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was operated by the government.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="29">
+<sen id="52">
+<j>太政官符により東海道・東山道を対象に架橋と布施屋の設置を命じられた際、長良川をはさんで開設されたもの。</j>
+<e type="trans" ver="1">The fuseya, which straddled Nagara-gawa River, was established by order of Daijokanpu (official documents issued by Daijokan, Grand Council of State) to build bridges and establish fuseya throughout Tokaido and Tosando area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This Fuseya, which straddled Nagara-gawa River, was established as part of an order of Daijokanpu (official documents issued by the Daijokan, Grand Council of State) to build bridges and establish Fuseya throughout Tokaido and the Tosando area.</e>
+<cmt>capitalized &quot;Fuseya&quot;; fixed grammar</cmt>
+<e type="check" ver="1">This Fuseya, which straddled Nagara-gawa River, was established as part of an order of Daijokanpu (official documents issued by the Daijokan, Grand Council of State) to build bridges and establish Fuseya throughout Tokaido and the Tosando area.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="30">
+<sen id="53">
+<j>場所は現在の岐阜県大垣市墨俣地区（旧安八郡墨俣町）。</j>
+<e type="trans" ver="1">It was situated at the present site of Sunomata area, Ogaki City, Gifu Prefecture (old Sunomata-cho, Anhachi-gun)</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was situated in what is presently know as the Sunomata area in Ogaki City, Gifu Prefecture (old Sunomata-cho, Anhachi-gun).</e>
+<cmt>fixed grammar and added period</cmt>
+<e type="check" ver="1">It was situated in what is presently know as the Sunomata area in Ogaki City, Gifu Prefecture (old Sunomata-cho, Anhachi-gun).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="31">
+<sen id="54">
+<j>救急院</j>
+<e type="trans" ver="1">Kyukyuin</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyukyuin</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyukyuin</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="55">
+<j>承和11（844）年に相模国高座郡と愛甲郡に開設。</j>
+<e type="trans" ver="1">This fuseya was established at Takakura-gun and Ayukawa-gun, Sagami Province in 844.</e>
+<cmt>＊相模国高座郡→Kozan-gun, Sagami Province の削除をお願いします。地名を間違えて登録してしまいましたので、左記に訂正、再登録しました。（2/10登録、再登録）削除済</cmt>
+<e type="trans" ver="2">This Fuseya was established at Takakura-gun and Ayukawa-gun, Sagami Province in 844.</e>
+<cmt>capitalized &quot;Fuseya&quot;</cmt>
+<e type="check" ver="1">This Fuseya was established at Takakura-gun and Ayukawa-gun, Sagami Province in 844.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>相模国府による官営。</j>
+<e type="trans" ver="1">It was under the official management of Sagami kokufu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was under official management of the Sagami kokufu.</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">It was under official management of the Sagami kokufu.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="32">
+<sen id="57">
+<j>相模介であった橘永範が自分の俸給である稲一万束をもって開設したと伝えらえれる。</j>
+<e type="trans" ver="1">The tradition says that it was established by TACHIBANA no Naganori in the position of Sagami no suke (assistant governor of Sagami Province) at the price of 10,000 sheaves of rice plants which was the salary he had earned.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was allegedly established by the Sagami no suke (assistant governor of Sagami Province) TACHIBANA no Naganori who used his salary of 10,000 sheaves of rice plants to pay for the facility.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">It was allegedly established by the Sagami no suke (assistant governor of Sagami Province) TACHIBANA no Naganori who used his salary of 10,000 sheaves of rice plants to pay for the facility.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="33">
+<sen id="58">
+<j>六国史に記録はないが平安時代の法令集『類聚三代格』に記録が残り、開設から4年間で1158人を救護したと伝えられている。</j>
+<e type="trans" ver="1">Although there is no description about it in Rikkokushi, it was recorded in a law code in the Heian period called &quot;Ruiju sandai kaku&quot; (Assorted regulations from Three Reigns), in which it is mentioned that it aided 1,158 people for four years after the establishment.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although there is no description about it in Rikkokushi, the facility was recorded in a law code during the Heian period called &quot;Ruiju sandai kaku&quot; (Assorted regulations from Three Reigns), in which it is mentioned that it aided 1,158 people for four years after being established.</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">Although there is no description about it in Rikkokushi, the facility was recorded in a law code during the Heian period called &quot;Ruiju sandai kaku&quot; (Assorted regulations from Three Reigns), in which it is mentioned that it aided 1,158 people for four years after being established.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="34">
+<sen id="59">
+<j>場所は現在の神奈川県厚木市と海老名市。</j>
+<e type="trans" ver="1">It was situated at the present site of Atsugi City and Ebina City, Kanagawa Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was situated in what is presently known as Atsugi City and Ebina City in Kanagawa Prefecture.</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">It was situated in what is presently known as Atsugi City and Ebina City in Kanagawa Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Point136(id:211299), 軽功(id:40602), Straysheep(id:42448), 水野白楓(id:22811), MasakiTomasawa(id:17687), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>吉富駅 (京都府)</j>
+<e type="trans" ver="1">Yoshitomi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshitomi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yoshitomi Station (Kyoto Prefecture)</e>
+<cmt>(Kyoto Prefecture)追加</cmt>
+</tit>
+<sen id="1">
+<j>吉富駅（よしとみえき）は、京都府南丹市八木町にある、西日本旅客鉄道（JR西日本）山陰本線（嵯峨野線）の鉄道駅である。</j>
+<e type="trans" ver="1">Located in Yagi-cho, Nantan City of Kyoto Prefecture, Yoshitomi Station is a stop on the Sa&apos;in Main Line (Sagano Line), a West Japan Railway Company (JR-West) Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Located in Yagi-cho, Nantan City of Kyoto Prefecture, Yoshitomi Station is a stop on the Sa&apos;in Main Line (Sagano Line), a West Japan Railway Company (JR-West) Line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Located in Yagi-cho, Nantan City of Kyoto Prefecture, Yoshitomi Station is a stop on the San&apos;in Main Line (Sagano Line) of West Japan Railway Company (JR West).</e>
+<cmt>San&apos;in, JR Westとしました。</cmt>
+</sen>
+<sen id="2">
+<j>駅名電略は「フチヨシ」。</j>
+<e type="trans" ver="1">The telegraph code is &apos;XXXX.&apos; Note: &apos;XXXX&apos; is denoted in Katakana.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The telegraph code is &apos;XXXX&apos; (note that &apos;XXXX&apos; is denoted in Katakana).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station-name telegraph code is &apos;フチヨシ.&apos;</e>
+<cmt>カタカナで表記しました</cmt>
+</sen>
+<sen id="3">
+<j>ICOCA・Jスルー利用可能駅（相互利用可能ICカードはICOCAの項を参照）であるが、Jスルーカードについては、簡易改札機による対応のため複数枚の処理不可。</j>
+<e type="trans" ver="1">Both ICOCA and J Through Cards can be used at this station (refer to the ICOCA paragraph concerning mutually usable IC Cards,) but the tickets gates installed are of simpled type and more than one J Through Card cannot be processed.</e>
+<cmt>Jスルーカードは普通･簡便･専用改札機を問わず、今年の3月2日以降、使用不可とのこと。</cmt>
+<e type="trans" ver="2">Both ICOCA and J Through cards can be used at this station (refer to the ICOCA paragraph concerning mutually usable IC cards), but the tickets gates installed are of simplified type and more than one J Through Card cannot be processed.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Both ICOCA and J-Thru cards can be used at this station (refer to the ICOCA paragraph concerning mutually usable IC cards), but the tickets gates installed are of simplified type and more than one J-Thru Card can&apos;t be processed.</e>
+<cmt>J-Thruとしました。</cmt>
+</sen>
+<par id="1">
+<sen id="4">
+<j>また福岡県築上郡吉富町の日豊本線にも吉富駅 (福岡県)が存在する。</j>
+<e type="trans" ver="1">There is another Yoshitomi Station on the Nippo Main Line in Yoshitomi-machi, Chikujo-gun, Fukuoka Prefecture.</e>
+<cmt>（福岡県）は重複する故、削除しました。</cmt>
+<e type="trans" ver="2">There is another Yoshitomi Station on the Nippo Main Line in Yoshitomi-machi, Chikujo-gun, Fukuoka Prefecture.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There is another Yoshitomi Station on the Nippo Main Line in Yoshitomi-machi, Chikujo-gun, Fukuoka Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station layout</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>相対式2面2線のプラットホームを持ち行違い設備を有する地上駅で、無人駅である。</j>
+<e type="trans" ver="1">It is an above ground unmanned station with two platforms opposite each other and double tracks and where trains can pass each other or pass others.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It&apos;s an above-ground, unmanned station with two platforms opposite each other and double tracks, where trains can pass each other or pass others.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It&apos;s an above-ground, unmanned station with two platforms opposite each other and double tracks, where trains can pass each other or pass others.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>駅舎は地元の郵便局との合築となっており、1番のりばに面している。</j>
+<e type="trans" ver="1">The station building is shared with the local post office and faces Track #1 platform.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station building is shared with the local post office and faces the track No. 1 platform.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">The station building is shared with the local post office and faces the track No. 1 platform.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>反対側の2番のりばへは跨線橋で連絡している。</j>
+<e type="trans" ver="1">Track #2 platform on the opposite side is connected by a passengers&apos; overbridge.</e>
+<cmt></cmt>
+<e type="trans" ver="2">track No. 2 platform on the opposite side is connected by a passengers&apos; overbridge.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Platform 2 on the opposite side is connected by an overbridge for passengers.</e>
+<cmt>「No.のりば」の表記を統一</cmt>
+</sen>
+<sen id="9">
+<j>自動券売機設置あり。</j>
+<e type="trans" ver="1">Automated ticket vending machines are installed.</e>
+<cmt>台数如何で表現が変わります。</cmt>
+<e type="trans" ver="2">Automated ticket vending machines are installed.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Automated ticket vending machines are installed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>自動改札機は簡易式。</j>
+<e type="trans" ver="1">Automated ticket gates are of simplied type.</e>
+<cmt>台数如何で表現が変わります。</cmt>
+<e type="trans" ver="2">Automated ticket gates are of the simplified type.</e>
+<cmt>spell</cmt>
+<e type="check" ver="1">Automated ticket gates are of the simplified type.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="11">
+<j>かつては現在地より踏切を挿んだ北側の園部寄りに1面1線の無人駅とホームが延びていた。</j>
+<e type="trans" ver="1">An unmanned station and a platform with a single track used to exist on the opposite northern side of the present site nearer Sonobe.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An unmanned station and a platform with a single track used to exist on the opposite northern side of the present site nearer to Sonobe.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">An unmanned station and a platform with a single track used to exist on the opposite northern side of the present site nearer to Sonobe.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>しかしながらそのホーム有効長は極端に短く、普通列車でも時間帯によっては通過する列車があった（これは並河駅や高津駅 (京都府)、それに淵垣駅も同じであった）。</j>
+<e type="trans" ver="1">However, the effective length of that platform was extremely short and even local trains had to pass without stopping during certain time zones (the situation was the same at Namikawa Station, Takatsu Station (Kyoto Prefecture,) Fuchigaki Station end others.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the effective length of that platform was extremely short and even local trains had to pass without stopping during certain time periods (the situation was the same at Namikawa Station, Takatsu Station (Kyoto Prefecture), Fuchigaki Station and others).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">However, the effective length of that platform was extremely short and even local trains had to pass without stopping during certain time periods (the situation was the same at Namikawa Station, Takatsu Station (Kyoto Prefecture), Fuchigaki Station and others).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>民営化の後、行き違い設備を整備するために移転したのが現在の吉富駅の基になっている。</j>
+<e type="trans" ver="1">Relocating the station to install facilities and enable trains to pass each other or pass others was at the base of a post-privatization Yoshitomi Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The relocation of the station in order to install facilities and enable trains to pass each other or pass others was implemented at the base of the post-privatization Yoshitomi Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The relocation of the station in order to install facilities and enable trains to pass each other or pass others was implemented at the base of the post-privatization Yoshitomi Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="14">
+<j>駅舎側の1番線が一線スルーのため、通過列車及び行違いを行わない停車列車は上下線とも1番線を通る。</j>
+<e type="trans" ver="1">As Track #1 on the side of the station building is the thoroughfare, trains which pass without stopping and trains which stop and do not pass pass each or pass others, whether inbound or outbound, all go through Track #1.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As track No. 1 on the side of the station building is the thoroughfare, trains that pass without stopping and trains which stop and do not pass each or pass others, whether inbound or outbound, all go through track No. 1.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Because Platform 1 on the side of the station building is the thoroughfare, trains that pass without stopping and trains which stop and don&apos;t pass each other or pass others, whether up or down, all go through Platform 1.</e>
+<cmt>pass each otherとしました。「No.番線」の表記を統一</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="15">
+<j>反対方向からの通過列車と行違いを行う停車列車は、上下線とも2番線に停車する。</j>
+<e type="trans" ver="1">An inbound or outbound train stopping at this station to enable a train coming from the opposite direction to pass it, stands by on Track #2.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An inbound or outbound train stopping at this station to enable a train coming from the opposite direction to pass it, stands by on track No. 2.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">A train, regardless of whether it is up or down, when stopping at this station to allow a nonstop train coming in from the opposite direction to pass, does so on Platform 2.</e>
+<cmt>「No.番線」の表記を統一</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="16">
+<j>停車列車同士の行違いの場合は、京都方面行（上り）が1番線、園部方面行（下り）が2番線に入る。</j>
+<e type="trans" ver="1">In the event trains stop and pass each other at this station, the one bound for Kyoto (inbound) comes in on Track #1 and the one bound for Sonobe (outbound) comes in on Track #2.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the event trains stop and pass each other at this station, the one bound for Kyoto (inbound) comes in on track No. 1 and the one bound for Sonobe (outbound) comes in on track No. 2.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">When trains stop and pass each other at this station, the train heading toward Kyoto (inbound) comes in on Platform 1 and the train heading toward Sonobe (outbound) uses Platform 2.</e>
+<cmt>「No.番線」の表記を統一</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="17">
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization status</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usage status</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Usage status</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>2006年度の1日あたりの乗車人員は約326人である。</j>
+<e type="trans" ver="1">Number of passengers getting on at this station averaged 326 per day in fiscal 2006.</e>
+<cmt>&quot;当駅の&quot;乗車人員にしないと漠然としておりかつ&quot;約&quot;でなく&quot;平均&quot;であるべきと思います。</cmt>
+<e type="trans" ver="2">The number of passengers getting on at this station averaged 326 per day in fiscal 2006.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The number of passengers boarding at this station came to approximately 326 per day in fiscal year 2006.</e>
+<cmt>既出の記事と統一しました。Fiscal→fiscal year</cmt>
+</sen>
+<sen id="19">
+<j>（京都府統計書より）</j>
+<e type="trans" ver="1">(Source: Kyoto Prefecture Statistical Report)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Source: Kyoto Prefecture Statistical Report)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(Source: Kyoto Prefecture Statistical Report)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="20">
+<j>駅周辺</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Neighboring stations</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>国道9号</j>
+<e type="trans" ver="1">National Highway Route No.9</e>
+<cmt></cmt>
+<e type="trans" ver="2">National Highway Route No. 9</e>
+<cmt>space</cmt>
+<e type="check" ver="1">National Route 9</e>
+<cmt>National Routeとしました。</cmt>
+</sen>
+<sen id="22">
+<j>京都縦貫自動車道八木西インターチェンジ</j>
+<e type="trans" ver="1">Kyoto Longitudinal Expressway Yaginishi Interchange</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Longitudinal Expressway Yaginishi Interchange</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Longitudinal Expressway Yaginishi Interchange</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>吉富郵便局（合築）</j>
+<e type="trans" ver="1">Yoshitomi Post Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshitomi Post Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yoshitomi Post Office (whose building is shared with the station)</e>
+<cmt>カッコ内追加</cmt>
+</sen>
+<sen id="24">
+<j>京都府道451号吉富八木線</j>
+<e type="trans" ver="1">Kyoto Prefectural Highway Route No,451 Yoshitomi-Yagi Road</e>
+<cmt>国道の&quot;線&quot;は前回納品分ではGlossaryの事例にならって&quot;Road&quot;にした関係上、当駅関係Glossaryの&quot;Line&quot;にはしめせん。</cmt>
+<e type="trans" ver="2">Kyoto Prefectural Highway Route No. 451, Yoshitomi-Yagi Road</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Yoshitomi-Yagi Line of the Kyoto Prefectural Route 451</e>
+<cmt>road ではなく、lineで統一しています。</cmt>
+</sen>
+<sen id="25">
+<j>日本ミルクコミュニティ京都工場</j>
+<e type="trans" ver="1">Nippon Milk Community Co., Ltd., Kyoto Plant</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nippon Milk Community Co., Ltd., Kyoto Plant</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nippon Milk Community Co., Ltd., Kyoto Plant</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="26">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>1935年（昭和10年）7月20日 - 日本国有鉄道の駅として開業（旅客営業のみ）。</j>
+<e type="trans" ver="1">Inaugurated on July 20, 1935 as a Japanese National Railways station (passenger traffic only.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was inaugurated on July 20, 1935 as a Japanese National Railways station (passenger traffic only).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">July 20, 1935: The station was inaugurated as a Japan National Railways station (passenger traffic only).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="28">
+<j>1941年（昭和16年）8月10日 - 休止。</j>
+<e type="trans" ver="1">Operations tentatively suspended on Aug. 10, 1941.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operations were tentatively suspended on Aug. 10, 1941.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">August 10, 1941: Operations were tentatively suspended.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="29">
+<j>1951年（昭和26年）10月1日 - 再開。</j>
+<e type="trans" ver="1">Operations resumed on Oct. 1, 1951.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operations resumed on Oct. 1, 1951.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">October 1, 1951: Operations resumed.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="30">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により、JR西日本の駅となる。</j>
+<e type="trans" ver="1">Became a JR-West station on April 1, 1987 from split privatization of Japanese National Railways.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It became a JR-West station on April 1, 1987 from split privatization of Japanese National Railways.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 1987: The station became a JR West station due to the split privatization of Japan National Railways.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="31">
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Neighboring stations</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Railway Company (JR-West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR-West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>JR Westとしました。</cmt>
+</sen>
+<sen id="33">
+<j>■嵯峨野線（山陰本線）</j>
+<e type="trans" ver="1">■Sagano Line (San&apos;in Main Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Sagano Line (San&apos;in Main Line)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■Sagano Line (San&apos;in Main Line)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>■快速・■普通</j>
+<e type="trans" ver="1">■ Rapid service ・■Local</e>
+<cmt></cmt>
+<e type="trans" ver="2">■ Rapid service ・■Local</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">■ Rapid Service/■Local</e>
+<cmt>既出の記事と統一しました。・を/に変更しました。</cmt>
+</sen>
+<sen id="35">
+<j>八木駅 - 吉富駅 - 園部駅</j>
+<e type="trans" ver="1">Yagi Station - Yoshitomi Station - Sonobe Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yagi Station - Yoshitomi Station - Sonobe Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yagi Station - Yoshitomi Station - Sonobe Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 城山(id:104901), Hikichimin Jr.(id:147077), Yuta415(id:149253), ポピュラーポプラ(id:157724), Kagoya(id:9458), Mover(id:7146), 樒(id:35770), Sunen(id:10700), 継之助(id:39352), Longstar(id:121834), R28Bot(id:177951), Hidama(id:73276), Kone(id:377), Chobot(id:20846), Wabisabix(id:16770), Hirotaro(id:1437), Ogeshi(id:80487), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

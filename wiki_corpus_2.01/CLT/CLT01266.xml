@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>焼き魚</j>
+<e type="trans" ver="1">Yakizakana (broiled fish)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yakizakana (broiled fish)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yakizakana (broiled fish)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>焼き魚（やきざかな）は、魚を直火で焼いた料理。</j>
+<e type="trans" ver="1">Yakizakana is a dish in which fish is broiled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yakizakana is a dish in which fish is broiled.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yakizakana is a dish in which fish is broiled.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>代表的な日本料理であり、日常の惣菜から高級料亭の物まで、その範囲は広い。</j>
+<e type="trans" ver="1">One of typical Japanese dishes, it is served in a wide range of situations ranging from daily prepared food to those served at high-class restaurants.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is one of typical Japanese dishes, and is served in a wide range of situations ranging from daily prepared food to those served at high-class restaurants.</e>
+<cmt>構文の見直し</cmt>
+<e type="check" ver="1">It is one of typical Japanese dishes, and is served in a wide range of situations ranging from daily prepared food to those served at high-class restaurants.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>また、味付けによって「鯵の塩焼き」「ブリの照焼き」と「食材名+味付け」で具体的に表現することもある。</j>
+<e type="trans" ver="1">It may be specifically called by the type of flavor used in the &apos;food and flavor&apos; format such as &apos;aji no shioyaki&apos; (&quot;aji&quot; and &quot;horse mackerel&quot; mean &quot;shioyaki&quot; and &quot;sprinkled with salt and broiled,&quot; respectively) and &apos;buri no teriyaki&apos; (&quot;buri&quot; and &quot;teriyaki&quot; mean &quot;yellowtail&quot; and &quot;grilling with soy sauce and sugar,&quot; respectively).</e>
+<cmt>※「鯵の塩焼き」と「ブリの照焼き」の訳は文脈に合わせて説明的に補足しました。</cmt>
+<e type="trans" ver="2">It may be specifically called in a &apos;food and flavor&apos; format such as &apos;aji no shioyaki&apos; (&quot;aji&quot; is a horse mackerel and &quot;shioyaki&quot; means to broil with salt) and &apos;buri no teriyaki&apos; (&quot;buri&quot; is a yellowtail and &quot;teriyaki&quot; means to grill with soy sauce and sugar).</e>
+<cmt>説明の見直し</cmt>
+<e type="check" ver="1">It may be specifically called in a &apos;food and flavor&apos; format such as &apos;aji no shioyaki&apos; (&quot;aji&quot; is a horse mackerel and &quot;shioyaki&quot; means to broil with salt) and &apos;buri no teriyaki&apos; (&quot;buri&quot; is a yellowtail and &quot;teriyaki&quot; means to grill with soy sauce and sugar).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>日本料理における焼き魚の特徴は直火焼きである事で、これは江戸時代以前の日本料理に鉄板で物を焼く技法が無かった事による。</j>
+<e type="trans" ver="1">One of the features of yakizakana in Japanese cuisine is its use of direct fire, which dates back before the Edo period, when the method of broiling fish on a steel had not been invented in Japanese cooking.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One of the features of yakizakana in Japanese cuisine is its use of direct fire, which dates back before the Edo period, when the method of broiling fish on a hot plate had not been invented in Japanese cooking.</e>
+<cmt>a steel --&gt; a hot plate</cmt>
+<e type="check" ver="1">One of the features of yakizakana in Japanese cuisine is its use of direct fire, which dates back before the Edo period, when the method of broiling fish on a hot plate had not been invented in Japanese cooking.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>炭火などで焼くと遠赤外線の効果で無駄な油分を取り除き、水分を適度に飛ばし、皮をこんがり、中をふんわりと焼上げることが出来る。</j>
+<e type="trans" ver="1">Broiling fish over a charcoal fire helps get rid of excess oil and moderately extract water from it by infra-red heating, making the fish crispy on the outside and tender inside.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Broiling fish over a charcoal fire helps get rid of excess oil and moderately extract water from it by far infrared ray heating, making the fish crispy on the outside and tender inside.</e>
+<cmt>infra-red heating --&gt; far infrared ray heating</cmt>
+<e type="check" ver="1">Broiling fish over a charcoal fire helps get rid of excess oil and moderately extract water from it by far infrared ray heating, making the fish crispy on the outside and tender inside.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>プロは串を打ち、下火で焼く。</j>
+<e type="trans" ver="1">Professionals put fish on skewer and burn it over fire.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Professionals put fish on a skewer and burn it over fire.</e>
+<cmt>skewer の前に冠詞aを追加</cmt>
+<e type="check" ver="1">Professionals put fish on a skewer and burn it over fire.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>上火は水分を飛ばすと言い、嫌われる。</j>
+<e type="trans" ver="1">Use of fire over fish is not preferred for its extracting water from the fish.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Use of fire over fish is not preferred for its extracting water from the fish.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Use of fire over fish is not preferred for its extracting water from the fish.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>串は魚の形を整える（魚体がうねるように打って「踊り串」などと称する）と共に、伝導熱で中まで火を通す役割がある。</j>
+<e type="trans" ver="1">The roles of skewers include heating it through by conductive heat as well as forming the shape of fish, which is called &apos;odorigushi&apos; (&quot;odori&quot; and &quot;gushi&quot; literally mean &quot;dancing&quot; and &quot;skewer,&quot; respectively) for the way fish waves like dancing.</e>
+<cmt>※文脈に合わせて「踊り串」の訳を説明的に補足しました。</cmt>
+<e type="trans" ver="2">The roles of skewers include conducting heat inside the fish as well as forming the shape of fish, which is called &apos;odorigushi&apos; (&quot;odori&quot; is dancing, &quot;gushi&quot; is a skewer, i.e., literally means &quot;dancing and a skewer&quot;) because the fish looks like waving and dancing.</e>
+<cmt>表現の見直し</cmt>
+<e type="check" ver="1">The roles of skewers include conducting heat inside the fish as well as forming the shape of fish, which is called &apos;odorigushi&apos; (&quot;odori&quot; is dancing, &quot;gushi&quot; is a skewer, i.e., literally means &quot;dancing and a skewer&quot;) because the fish looks like waving and dancing.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>最近は殆ど見られなくなったが昭和の中ごろまでは七輪に金網を乗せて、その上で魚を焼く姿が多くの日本の家庭で見られた。</j>
+<e type="trans" ver="1">Though rarely seen today, people broiling fish on a wire sheet over shichirin (earthen charcoal brazier) were seen at many Japanese home until the mid Showa period.</e>
+<cmt>※「七輪」の訳は用語集から採用しています。</cmt>
+<e type="trans" ver="2">Although rarely seen today, people broiling fish on a wire sheet over shichirin (earthen charcoal brazier) were frequently seen in many Japanese households until the mid Showa period.</e>
+<cmt>表現の見直し</cmt>
+<e type="check" ver="1">Although rarely seen today, people broiling fish on a wire sheet over shichirin (earthen charcoal brazier) were frequently seen in many Japanese households until the mid Showa period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="10">
+<j>フライパンで魚を焼いた場合は、「魚のオイル焼き」「魚のソテー」等と言って区別する。</j>
+<e type="trans" ver="1">If broiled on a frying pan, it is called differently, such as &apos;fish broiled in oil&apos; and &apos;sautéed fish&apos;</e>
+<cmt>※「魚のオイル焼き」と「魚のソテー」の定訳は不明です。</cmt>
+<e type="trans" ver="2">If broiled on a frying pan, it is called differently, such as &apos;fish broiled in oil&apos; and &apos;sautéed fish.&apos;</e>
+<cmt>文の最後にピリオド追加</cmt>
+<e type="check" ver="1">If broiled on a frying pan, it is called differently, such as &apos;fish broiled in oil&apos; and &apos;sautéed fish.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>照焼きならば、フライパンで調理する時は「なべ照り」と言う。</j>
+<e type="trans" ver="1">If cooked in teriyaki style, it is called &apos;nabeteri&apos; (&quot;nabe&quot; means &quot;pan&quot;).</e>
+<cmt>※文脈に合わせて「なべ照り」の訳を説明的に補足しました。</cmt>
+<e type="trans" ver="2">If cooked in teriyaki style, it is called &apos;nabeteri&apos; (&quot;nabe&quot; means &quot;pan&quot;).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">If cooked in teriyaki style, it is called &apos;nabeteri&apos; (&quot;nabe&quot; means &quot;pan&quot;).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>この料理のため、日本のガスコンロには、グリル機能が付いていることが多い。</j>
+<e type="trans" ver="1">It is for the sake of this dish that most Japanese gas cookers have a grilling function.</e>
+<cmt>※「ガスコンロ」の訳は用語集から採用しています。</cmt>
+<e type="trans" ver="2">It is for the sake of this dish that most Japanese gas cookers have a grilling function.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is for the sake of this dish that most Japanese gas cookers have a grilling function.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>安価な魚（鯵・サバ・秋刀魚等）を用いた焼き魚は、家庭におけるもっとも一般的かつ伝統的な料理である。</j>
+<e type="trans" ver="1">Yakizakana using inexpensive fish like aji, saba (mackerel) and sanma (saury) are the most common and traditional dishes served at home.</e>
+<cmt>※「サバ」「秋刀魚」の訳は用語集から採用しています。</cmt>
+<e type="trans" ver="2">Yakizakana using inexpensive fish like aji, saba (mackerel) and sanma (saury) are the most common and traditional dishes served at home.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yakizakana using inexpensive fish like aji, saba (mackerel) and sanma (saury) are the most common and traditional dishes served at home.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>海から遠い山間部では川魚（アユ・岩魚等）や流通に適した塩サケ、沿岸漁業が盛んな地域ではメバル・ベラ（キュウセン）等磯魚も用いられる。</j>
+<e type="trans" ver="1">In mountain areas far from the sea, freshwater fish such as ayu (sweetfish) and iwana (char), and shiosake (salted salmon), which is suitable for distribution, are used for yakizakana, while in areas where coastal fishing is active, inshore fish such as mebaru (black rockfish) and bera or kyusen (wrasse) are used.</e>
+<cmt>※「アユ」「岩魚」「塩サケ」「メバル」「ベラ（キュウセン）」の訳は用語集から採用しています。</cmt>
+<e type="trans" ver="2">In mountain areas far from the sea, freshwater fish such as ayu (sweetfish) and iwana (char), and shiosake (salted salmon), which is suitable for distribution, are used for yakizakana, while in areas where coastal fishing is active, inshore fish such as mebaru (black rockfish) and bera or kyusen (wrasse) are used.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In mountain areas far from the sea, freshwater fish such as ayu (sweetfish) and iwana (char), and shiosake (salted salmon), which is suitable for distribution, are used for yakizakana, while in areas where coastal fishing is active, inshore fish such as mebaru (black rockfish) and bera or kyusen (wrasse) are used.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>その一方、高級魚（鯛・太刀魚等）を使用したり、味噌漬けなど手の込んだ調理をへて高級な料理として供される機会も多い。</j>
+<e type="trans" ver="1">On the other hand, there are many cases where high-class fish such as tai (sea bream) and tachiuo (cutlass fish) are used and served as high-class dish in the form of elaborately prepared food like misozuke (pickling in miso).</e>
+<cmt>※「鯛」「太刀魚」「味噌漬け」の訳は用語集から採用しています。</cmt>
+<e type="trans" ver="2">On the other hand, there are many cases where high-class fish such as tai (sea bream) and tachiuo (cutlass fish) are used and served as a high-class dish in the form of elaborately prepared food like misozuke (pickling in miso).</e>
+<cmt>high-class dish --&gt; a high-class dish</cmt>
+<e type="check" ver="1">On the other hand, there are many cases where high-class fish such as tai (sea bream) and tachiuo (cutlass fish) are used and served as a high-class dish in the form of elaborately prepared food like misozuke (pickling in miso).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>また魚は生の物の他、干物もよく用いられる。</j>
+<e type="trans" ver="1">Dried fish, as well as raw fish, is also often used for yakizakana.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dried fish, as well as raw fish, is also often used for yakizakana.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Dried fish, as well as raw fish, is also often used for yakizakana.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>焼き魚の調理法</j>
+<e type="trans" ver="1">How to Cook Yakizakana</e>
+<cmt></cmt>
+<e type="trans" ver="2">How to Cook Yakizakana</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">How to Cook Yakizakana</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="17">
+<j>塩焼き</j>
+<e type="trans" ver="1">Shioyaki</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shioyaki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shioyaki</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="18">
+<j>塩を振った魚を焼いた物。</j>
+<e type="trans" ver="1">It is a broiled fish that has been sprinkled with salt.</e>
+<cmt>※用語集の「塩焼き」の訳をもとに作成しています。</cmt>
+<e type="trans" ver="2">It is a broiled fish that has been sprinkled with salt.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is a broiled fish that has been sprinkled with salt.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>青魚には大根おろしを添える。</j>
+<e type="trans" ver="1">Blue-skinned fish is served with grated daikon radish.</e>
+<cmt>※「大根おろし」の訳は用語集から採用しています。</cmt>
+<e type="trans" ver="2">Blue-skinned fish is served with grated daikon radish.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Blue-skinned fish is served with grated daikon radish.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>細かく分けると、魚を塩漬けの後に表面の塩分を洗い流して改めて塩を振って焼いたものを指し、単に魚の身に塩を振ったたけでそのまま焼いたものは白塩焼きと呼んで区別する。</j>
+<e type="trans" ver="1">To classify more specifically, shioyaki is the one in which fish is pickled in salt, after which its surface salt has been washed away, sprinkled with salt again and broiled, whereas shira-shioyaki is the one in which fish is simply sprinkled with salt before being broiled.</e>
+<cmt>※ここでは文脈で意味が明らかになっているため、「白塩焼き」の訳を記載していません。</cmt>
+<e type="trans" ver="2">To classify more specifically, shioyaki is the one in which fish is pickled in salt, after which its surface salt is washed away, then the fish is sprinkled with salt again and broiled, whereas shira-shioyaki is the one in which fish is simply sprinkled with salt before being broiled.</e>
+<cmt>surface salt has been washed away, sprinkled --&gt; surface salt is washed away, then the fish is sprinkled</cmt>
+<e type="check" ver="1">To classify more specifically, shioyaki is the one in which fish is pickled in salt, after which its surface salt is washed away, then the fish is sprinkled with salt again and broiled, whereas shira-shioyaki is the one in which fish is simply sprinkled with salt before being broiled.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>尾やひれなど、焦げ易い部分には厚めに塩をまぶし（これを「飾り塩」ないし「化粧塩」と言う）焦げを防ぐ。</j>
+<e type="trans" ver="1">Additional salt is sprinkled on the easily-burned tail and fin of fish to keep them from burning, which is called &apos;kazarijio&apos; or &apos;keshojio&apos; (&quot;kazari,&quot; &quot;kesho&quot; and &quot;jio&quot; mean &quot;ornament,&quot; &quot;makeup&quot; and &quot;salt,&quot; respectively).</e>
+<cmt>※用語集に掲載されている「飾り塩」と「化粧塩」の訳はここでは不要と見なし、言葉の意味を補足しています。</cmt>
+<e type="trans" ver="2">Additional salt is sprinkled on easily-burnable portions such as a tail and a fin of the fish to keep them from burning, which is called &apos;kazarijio&apos; or &apos;keshojio&apos; (&quot;kazari,&quot; &quot;kesho&quot; and &quot;jio&quot; mean &quot;ornament,&quot; &quot;makeup&quot; and &quot;salt,&quot; respectively).</e>
+<cmt>on the easily-burned tail and fin of fish --&gt; on easily-burnable portions such as a tail and fin of the fish</cmt>
+<e type="check" ver="1">Additional salt is sprinkled on easily-burnable portions such as a tail and a fin of the fish to keep them from burning, which is called &apos;kazarijio&apos; or &apos;keshojio&apos; (&quot;kazari,&quot; &quot;kesho&quot; and &quot;jio&quot; mean &quot;ornament,&quot; &quot;makeup&quot; and &quot;salt,&quot; respectively).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>右のアイナメはその失敗例。</j>
+<e type="trans" ver="1">The ainame (rock trout), shown on the right, is a failed example of shira-shioyaki.</e>
+<cmt>※「アイナメ」の訳は用語集から採用しています。※写真を参照しているため、写真がない場合、意味をなしていない文です。</cmt>
+<e type="trans" ver="2">The ainame (rock trout), shown on the right, is a failed example of shioyaki.</e>
+<cmt>shira-shioyak --&gt;shioyaki (原文では「白塩焼き」と限定していないので、ここは単に「塩焼き」とした）</cmt>
+<e type="check" ver="1">The ainame (rock trout), shown on the right, is a failed example of shioyaki.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="23">
+<j>照り焼き</j>
+<e type="trans" ver="1">Teriyaki (grilling with soy sauce and sugar)</e>
+<cmt>※「照り焼き」の訳は用語集から採用しています。</cmt>
+<e type="trans" ver="2">Teriyaki (grilling with soy sauce and sugar)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Teriyaki (grilling with soy sauce and sugar)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="24">
+<j>→ 照り焼き</j>
+<e type="trans" ver="1">->Teriyaki</e>
+<cmt></cmt>
+<e type="trans" ver="2">->Teriyaki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">->Teriyaki</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="25">
+<j>幽庵焼き</j>
+<e type="trans" ver="1">Yuan-yaki (Japanese grill, using meat or fish which are marinated, impaled on long skewers and broiled over hot coals)</e>
+<cmt>※「幽庵焼き」の訳は用語集から採用しています。</cmt>
+<e type="trans" ver="2">Yuan-yaki (Japanese grill, using meat or fish which are marinated, impaled on long skewers and broiled over hot coals)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yuan-yaki (Japanese grill, using meat or fish which are marinated, impaled on long skewers and broiled over hot coals)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="26">
+<j>→ 幽庵焼き</j>
+<e type="trans" ver="1">->Yuan-yaki</e>
+<cmt></cmt>
+<e type="trans" ver="2">->Yuan-yaki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">->Yuan-yaki</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="27">
+<j>西京焼き</j>
+<e type="trans" ver="1">Saikyo-yaki (grilling a fish with Saikyo miso sauce)</e>
+<cmt>※「西京焼き」の訳は用語集から採用しています。</cmt>
+<e type="trans" ver="2">Saikyo-yaki (grilling a fish with Saikyo miso sauce)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Saikyo-yaki (grilling a fish with Saikyo miso sauce)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="28">
+<j>鰆等、西京味噌に漬込んだ後に焼く。</j>
+<e type="trans" ver="1">Fish such as sawara (Spanish mackerel) is broiled after being pickled in saikyo miso (sweet white miso bean paste made in Kyoto).</e>
+<cmt>※「鰆」「西京味噌」の訳は用語集から採用しています。</cmt>
+<e type="trans" ver="2">Fish such as sawara (Spanish mackerel) is broiled after being pickled in saikyo miso (sweet white miso bean paste made in Kyoto).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fish such as sawara (Spanish mackerel) is broiled after being pickled in saikyo miso (sweet white miso bean paste made in Kyoto).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>身質や風味が塩焼きに向かない魚に用いられる。</j>
+<e type="trans" ver="1">The fish whose texture and flavor are not suitable for shioyaki is used for saikyo-yaki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The fish whose flesh quality and flavor are not suitable for shioyaki is used for saikyo-yaki.</e>
+<cmt>texture --&gt; flesh quality</cmt>
+<e type="check" ver="1">The fish whose flesh quality and flavor are not suitable for shioyaki is used for saikyo-yaki.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="30">
+<j>ウナギ等をタレに浸けながら焼く蒲焼は、焼き魚（照り焼きの一種）と言えるが、一般的には焼き魚と見なされず、別の調理法とされている。</j>
+<e type="trans" ver="1">Kabayaki (grilled eel or similar long slender fish), which is broiled while dipped in sauce, may be referred to as being yakizakana or a type of teriyaki, but it is commonly not regarded as yakizakana and considered to be another type of dish.</e>
+<cmt>※「蒲焼」の訳は用語集から採用しています。</cmt>
+<e type="trans" ver="2">Kabayaki (grilled eel or similar long slender fish), which is cooked by broiling and dipping the fish in sauce alternately, can be referred to as yakizakana or a type of teriyaki, but generally it is not regarded as yakizakana and considered to be another type of dish.</e>
+<cmt>表現の見直し</cmt>
+<e type="check" ver="1">Kabayaki (grilled eel or similar long slender fish), which is cooked by broiling and dipping the fish in sauce alternately, can be referred to as yakizakana or a type of teriyaki, but generally it is not regarded as yakizakana and considered to be another type of dish.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 梶ゆきみ(id:143395), デーモン博士(id:99293), L26(id:119681), Tomomarusan(id:17060), 竃馬(id:102733), Pontafon(id:33761), ととりん(id:31982), 樹風(id:134514), Masserie(id:167210), Point136(id:211299), OAS(id:30639), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>出納 (荘園)</j>
+<e type="trans" ver="1">Suito (Shoen)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Suito (Shoen)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Suito (Shoen)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>出納（すいとう）とは、中世日本の荘園に設置された下級荘官の1つ。</j>
+<e type="trans" ver="1">Suito (出納) is a position set up in the Shoen manor for the lower-ranked officers in medieval Japan.</e>
+<cmt>統一用語リストのSuito (local shoen official bellows the geshi/gesu and kumon in rank) のカッコ内は省略しました。荘園→統一用語リストではshoen (manor) in medieval Japan）ですが、原文の「中世日本の」とダブルのでin medieval Japanは省略しました。</cmt>
+<e type="trans" ver="2">Suito is a position set up in the Shoen manor for the lower-ranked officers in medieval Japan.</e>
+<cmt>deleted the original Japanese</cmt>
+<e type="check" ver="1">&quot;Suito&quot; is a position set up for the lower-lanked officers in the Shoen manor in medieval Japan.</e>
+<cmt>統一リスト（その他 2009/6/29）の指示により、Suito にダブルクォーテーションを追記しました。in the Shoen manor for the lower-ranked officers in medieval Japan をfor the lower-lanked officers in the Shoen manor in medieval Japan に語順を変更しました。</cmt>
+</sen>
+<sen id="2">
+<j>下司や公文の下で年貢の徴収・出納・算用などの経理的な業務にあたった。</j>
+<e type="trans" ver="1">They were in charge of accounting work, such as tax collection, keeping financial records, and computation of nengu (land tax), under the instruction of geshi/gesu (a local official to operate manor) and kumon (a local shoen official below the geshi in rank).</e>
+<cmt></cmt>
+<e type="trans" ver="2">They were in charge of accounting work, such as tax collection, keeping financial records, and computation of land tax, under the instruction of geshi/gesu (local officials in charge of a manor) and kumon (local shoen officials below the geshi in rank).</e>
+<cmt>shortened a bit</cmt>
+<e type="check" ver="1">They were in charge of accounting work, such as tax collection, keeping financial records, and computation of land tax, under the instruction of geshi/gesu (local officials in charge of a manor) and kumon (local shoen officials below the geshi in rank).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>『東大寺』によれば、東大寺の荘園があった大和国豊井荘や紀伊国木本荘に出納が設置されて年貢に関する業務にあたったことが記されている。</j>
+<e type="trans" ver="1">According to the record in &quot;Todaiji Yoroku&quot; (The digest record of Todai-ji Temple), the treasurer was set up in the Toyoinosho n Yamato Province and Omotosho in Kii Province, where Todai-ji Temple had its Shoen manors.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the record in &quot;Todaiji Yoroku&quot; (the record of Todai-ji Temple), the treasurer was set up in the Toyoinosho n Yamato Province and Omotosho in Kii Province, where Todai-ji Temple had its Shoen manors.</e>
+<cmt>deleted “digest”</cmt>
+<e type="check" ver="1">According to the record in &quot;Todaiji Yoroku&quot; (the record of Todai-ji Temple), the treasurer was set up in the Toyoinosho in Yamato Province and Omotosho in Kii Province, where Todai-ji Temple had its Shoen manors.</e>
+<cmt>Toyoinosho n Yamato Province を Toyoinosho in Yamato Province に修正しました。</cmt>
+</sen>
+<sen id="4">
+<j>また、室町時代の近衛家における経済状況を記した『雑事要録』によれば、摂関家の所領に設置されていた大番領には大番米を徴収する出納が設置され、中には問丸などの他の業種を営んでいたことが記されている。</j>
+<e type="trans" ver="1">According to &quot;Zatsuji Yoroku&quot; (The digest record of miscellaneous things) recording the financial situation of the Konoe family in the Muromachi Period, it is recorded that in the Obanryo parcel set up within the territory of the Sessho Kanpaku (regent and chief advisor to the Emperor) family, there was a post of treasurer to collect the rice called &apos;Oban-mai&apos; as land tax, and among the officers who took the charge, there were those who did his business as toimaru (specialized wholesale merchant), etc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to &quot;Zatsuji Yoroku&quot; (the record of miscellaneous things), which records the financial affairs of the Konoe family in the Muromachi Period, it is recorded that in the Obanryo parcel set up within the territory of the Sessho Kanpaku (regent and chief advisor to the Emperor) family, there was a post of treasurer to collect rice for a land tax called &apos;Oban-mai&apos;, and among the officers in charge of it, there were those who did business as wholesale merchants.</e>
+<cmt>shortened a bit</cmt>
+<e type="check" ver="1">According to &quot;Zatsuji Yoroku&quot; (the record of miscellaneous things), which records the financial affairs of the Konoe family in the Muromachi Period, it is recorded that in the Obanryo parcel set up within the territory of the Sessho Kanpaku (regent and chief advisor to the Emperor) family, there was a post of treasurer to collect rice for a land tax called Oban-mai, and among the officers in charge of it, there were those who did business as wholesale merchants.</e>
+<cmt>Oban-mai&apos; のシングルクォーテーションを削除しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

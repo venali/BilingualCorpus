@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>緑茶</j>
+<e type="trans" ver="1">Green tea</e>
+<cmt></cmt>
+<e type="trans" ver="2">Green tea</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Green tea</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>緑茶（りょくちゃ、英語 green tea、中国語 リューチャー lchá）は、チャの葉から作った茶のうち、摘み取った茶葉を加熱処理して発酵を妨げたもの。</j>
+<e type="trans" ver="1">Green tea (green teac in English, lchá in Chinese) means tea leaves heated to prevent fermentation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Green tea (green teac in English, lchá in Chinese) means tea leaves heated to prevent fermentation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Green tea (ryokucha, green tea in English, lchá in Chinese) refers the one processed by heating treatment to prevent fermentation, within the tea in which produced from tea leaves.</e>
+<cmt>”りょくちゃ”を挿入し、teac→tea,原文より修正しました。</cmt>
+</sen>
+<sen id="2">
+<j>もしくはそれに湯を注ぎ、成分を抽出した飲料のこと。</j>
+<e type="trans" ver="1">Or it means the drink whose component is extracted by pouring boiled water on the tea leaves.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Or it means a drink extracted by pouring boiled water over the tea leaves.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Or a drink, its component is extracted by pouring hot water over the tea leaves.</e>
+<cmt>it means を削除し、component を再挿入しました。boiled water→hot water</cmt>
+</sen>
+<sen id="3">
+<j>日本においては、日本茶と同意に使われる事が多い。</j>
+<e type="trans" ver="1">In Japan, it is often used synonymously with Japanese tea.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Japan, it is often used synonymously with Japanese tea.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In Japan, it is often used synonymously with Japanese tea.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Overview</e>
+<cmt></cmt>
+<e type="trans" ver="2">Overview</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>Overview→Summary 統一用語のため</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>日本茶は、ほとんどが緑茶であり、日本でもっとも良く飲まれている茶である。</j>
+<e type="trans" ver="1">Most kinds of Japanese tea is green tea and it is most commonly drunk in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Most kinds of Japanese tea is green tea and it is most commonly drunk in Japan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Most kinds of Japanese tea is green tea and it is most commonly drunk in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>中国茶もジャスミン茶として飲まれるものを含み緑茶に分類される物が主流である。</j>
+<e type="trans" ver="1">Most kinds of Chinese tea are also classified into green tea, including jasmine tea.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Most kinds of Chinese tea are also classified as green tea, including jasmine tea.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Most kinds of Chinese tea are also classified as green tea, including jasmine tea.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>また、中華人民共和国で最も飲まれている茶も緑茶である。</j>
+<e type="trans" ver="1">The most popular tea in People&apos;s Republic of China is also green tea.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">The most popular tea in People&apos;s Republic of China is also green tea.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The most popular tea in People&apos;s Republic of China is also green tea.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>烏龍茶、プーアル茶などは、中国国内では比較的特殊な部類に入り、産地を離れると余り飲まない。</j>
+<e type="trans" ver="1">Oolong tea and pu-erh tea are considred relatively rare in China and they are not commonly drunk outside the production areas.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oolong tea and pu-erh tea are considred relatively rare in China and they are not commonly drunk outside the production areas.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Oolong tea and Pu-erh tea are considered relatively rare in China and they are not commonly drunk outside the production areas.</e>
+<cmt>pu-erh→Pu-erh,considred→considered</cmt>
+</sen>
+<sen id="8">
+<j>日本人にとっての玉露や抹茶の様な扱いになる。</j>
+<e type="trans" ver="1">They are treated just like gyokuro, refined green tea, and maccha, powdered green tea in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They are treated just like gyokuro, refined green tea, and maccha, powdered green tea in Japan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They are treated just like Gyokuro, refined green tea, and Maccha, powdered green tea in Japan.</e>
+<cmt>gyokuro→Gyokuro,maccha→Maccha</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="9">
+<j>緑茶の製法は日本と中国では主流となっている方法がやや異なり、風味も異なる。</j>
+<e type="trans" ver="1">Major processes of making green tea are slightly different between Japan and China, with different flavors.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Major processes of making green tea are slightly different between Japan and China, with different flavors.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Major processes of making green tea are slightly different between Japan and China, leading to different flavors.</e>
+<cmt>with→leading to と修正しました。</cmt>
+</sen>
+<sen id="10">
+<j>日本では発酵を止めるために蒸すのに対し、中国では釜炒りを行うのが主流である。</j>
+<e type="trans" ver="1">The major process to stop fermentation is steaming in Japan and Kamairi (kiln-drying) in China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The major process to stop fermentation is steaming in Japan and Kamairi (kiln-drying) in China.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">While the major process to stop fermentation is steaming in Japan, Kamairi (roast and roll method) is the major process in China.</e>
+<cmt>While を挿入し、イタリックの修正、Kamairi (kiln-drying)→Kamairi (roast and roll method) と修正しました。</cmt>
+</sen>
+<sen id="11">
+<j>なお、日本国内でも佐賀県の嬉野茶（うれしのちゃ）や宮崎県・熊本県県境付近の青柳茶（あおやぎちゃ）の様に釜炒りの製法を取っているものがある。</j>
+<e type="trans" ver="1">Some kinds of green tea in Japan is made through the Kamairi process, including Ureshinocha in Saga Prefecture and Aoyagicha near the border between Miyazaki and Kumamoto Prefectures.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some kinds of green tea in Japan is made through the Kamairi process, including Ureshinocha in Saga Prefecture and Aoyagicha near the border between Miyazaki and Kumamoto Prefectures.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some kinds of green tea in Japan are made through the Kamairi process, such as Ureshinocha in Saga Prefecture and Aoyagicha near the border between Miyazaki and Kumamoto Prefectures.</e>
+<cmt>is→are,イタリックの修正,including→such as</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="12">
+<j>未選別の中間加工品、茎・芽・硬葉等を含んだ茶葉（生葉）を蒸熱、揉み操作、乾燥等の加工処理を経て製造され仕上げ茶として再製する以前のいわゆる荒茶をそのまま販売する際に「青柳」と称する場合もあるので区別の必要なことがある。</j>
+<e type="trans" ver="1">Sometimes, so-called unfinished tea is sold as &apos;Aoyagi&apos;, so it is necessary to make a distinction between such unfinished tea and refined Aoyagicha, which should be made through processing treatmens including steaming, crumpling or drying, from unpicked, half-finished products, or tea leaves (raw tea leaves) including stems, buds, and hard leaves,</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sometimes, so-called unfinished tea is sold as &apos;Aoyagi&apos;, so it is necessary to make a distinction between such unfinished tea and refined Aoyagicha, which should be prepared by steaming, crumpling or drying, unpicked, half-finished products, or tea leaves (raw tea leaves) including stems, buds, and hard leaves,</e>
+<cmt>wordy, grammar</cmt>
+<e type="check" ver="1">Sometimes, so-called Aracha (unsorted green tea) is sold as &quot;Aoyagi&quot;, it is necessary to make a distinction between such unfinished tea and refined Aoyagicha, which should be prepared by steaming, crumpling or drying, unpicked, half-finished products, or tea leaves (raw tea leaves) including stems, buds, and hard leaves,</e>
+<cmt>荒茶： Aracha (unsorted green tea) として挿入しました。 &apos; &apos;→&quot; &quot;,so を削除しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="13">
+<j>緑茶のように茶葉収穫後に加熱処理を加え、茶葉自身に含まれる酵素による酸化発酵を極力抑えた物を不発酵茶と言う。</j>
+<e type="trans" ver="1">Like green tea, the following kinds of tea are called unfermented tea: freshly-picked tea leaves are given heating treatment in order to minimize oxidizing fermentation, which is caused by enzymes contained in fresh tea leaves.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Like green tea, the following kinds of tea are called unfermented tea: freshly-picked tea leaves heat treated in order to minimize oxidizing fermentation, which is caused by enzymes contained in fresh tea leaves.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Like green tea, the following kinds of tea are called unfermented tea: freshly-picked tea leaves heat treated in order to minimize oxidizing fermentation, which is caused by enzymes contained in fresh tea leaves.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>この場合の加熱処理を殺青（さっせい、shāqīng）と呼び、また、これを蒸製により行なった場合を特に蒸青（じょうせい、zhēngqīng）と呼ぶ。</j>
+<e type="trans" ver="1">The heating treatment mentioned above is called Sassei, shāqīng and the heating treatment conducted by steaming process is called Josei, zhēngqīng,</e>
+<cmt></cmt>
+<e type="trans" ver="2">The heat treatment mentioned above is called Sassei, shāqīng and the heat treatment conducted by steaming is called Josei, zhēngqīng,</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The heat treatment mentioned above is called Sassei (shāqīng), and the heat treatment conducted by steaming is called Josei (zhēngqīng).</e>
+<cmt>イタリック、カッコ内を修正しました。</cmt>
+</sen>
+<sen id="15">
+<j>日本においては蒸製により殺青を行なうものが主流だが、世界的に見るとこれはかなり特殊な部類に入る。</j>
+<e type="trans" ver="1">In Japan, Sassei is mainly conducted by Josei while Sassei is quite unusual all over the world.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">In Japan, Sassei is mainly done by Josei while Sassei is quite unusual all over the world.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In Japan, Sassei is mainly done by steaming process, while Sassei is quite unusual worldwide.</e>
+<cmt>イタリックの修正、Josei→steaming process,all over the world→worldwide</cmt>
+</sen>
+<sen id="16">
+<j>現在では日本固有のものと言える。</j>
+<e type="trans" ver="1">It can be said that now Sassei is peculiar to Japan.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">It can be said that Sassei is peculiar to Japan.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It can be said that Sassei is currently peculiar to Japan.</e>
+<cmt>”現在では”という部分を挿入しました。</cmt>
+</sen>
+<sen id="17">
+<j>ただし、緑茶の消費は中国と日本が主であり、古来は中国においても殺青は盛んに行なわれていた。</j>
+<e type="trans" ver="1">Green tea is mainly consumed in China and Japan and in the old days, Sassei was frequently conducted in China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Green tea is mainly consumed in China and Japan and in the old days, Sassei was frequently done in China.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, green tea is mainly consumed in China and Japan, and in the old days, Sassei was frequently done in China.</e>
+<cmt>However, を挿入し、イタリックを修正しました。</cmt>
+</sen>
+<sen id="18">
+<j>この他、炒製（釜炒り）、煮製（番茶類）、焼製、晒青（日光に曝す）などによる方法がある。</j>
+<e type="trans" ver="1">There are other methods to kill oxidizing enzymes, including drying process in the kiln (for kiln-dried), boiling process (Bancha, coarse tea, etc.), firing process, sun withering process (exposure to sunlight).</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are other methods to kill oxidizing enzymes, including drying in a kiln (for kiln-dried), boiling (Bancha, coarse tea, etc.), firing, sun drying (exposure to sunlight).</e>
+<cmt>grammar, wordy</cmt>
+<e type="check" ver="1">There are other methods as; roasting (Kamairi), boiling (for Bancha [coarse tea], etc.), baking, sun drying (exposure to sunlight).</e>
+<cmt>炒製（釜炒り）：roasting (Kamairi) と修正しました。イタリックの修正、firing→baking,（Bancha [coarse tea],etc.) としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="19">
+<j>緑茶同様に茶葉を処理した後、微生物の作用を持って発酵させた後発酵茶（黒茶）と呼ばれる一群の茶飲料が存在する。</j>
+<e type="trans" ver="1">There is a group of tea drinks called post-heating fermented tea (black tea) and these drinks are fermented by activities of microorganisms after treating tea leaves like green tea.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a group of tea drinks designated post-heated fermented tea (black tea) and these drinks are fermented by activities of microorganisms after treating tea leaves for example, like green tea.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There is a group of tea drinks designated post-fermentation tea (Kurocha), using the activities of microorganisms after treating tea leaves the same way as green tea.</e>
+<cmt>and these drinks are fermented を削除しました。post-heated fermented→post-fermentation,”黒茶”は Kurocha として修正しました。</cmt>
+</sen>
+<sen id="20">
+<j>阿波番茶（あわばんちゃ）や碁石茶（ごいしちゃ）がその例である。</j>
+<e type="trans" ver="1">Awa-bancha and Goishicha are examples of the drinks.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Awa-bancha and Goishicha are examples of teas.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Awa-bancha and Goishicha are examples of those teas.</e>
+<cmt>イタリックの修正,teas→those</cmt>
+</sen>
+<sen id="21">
+<j>これらは特殊茶のなかの漬物茶に分類される。</j>
+<e type="trans" ver="1">They are classified into Tsukemono-cha among special teas.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They are classified into Tsukemono-cha among special teas.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They are classified into Tsukemono-cha among special teas.</e>
+<cmt>イタリックの修正</cmt>
+</sen>
+<sen id="22">
+<j>ジャスミン茶は、緑茶に乾燥させたジャスミンの花弁を入れて香りを付けたものであるが、分類上は花茶、着香茶に入る。</j>
+<e type="trans" ver="1">Jasmine tea, which is orifinally green tea flavored with dried jasmine petals, is classified into flowering tea, flavoured tea.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jasmine tea, which is orifinally green tea flavored with dried jasmine petals, is classified as flower tea, flavoured tea.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Jasmine tea, which is green tea flavored with dried jasmine petals, is classified as flower tea, flavored tea.</e>
+<cmt>orifinally を削除しました。flavoured→flavored</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="23">
+<j>日本では、寿司や菓子とともに、あるいは食後に、熱い茶を飲むのが一般的だった。</j>
+<e type="trans" ver="1">In Japan, it was usual to drink hot tea with sushi or sweets or after meals.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Japan, it was usual to drink hot tea with sushi or with sweets or after meals.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In Japan, it was common to drink hot tea with sushi or with sweets or after meals.</e>
+<cmt>usual→common</cmt>
+</sen>
+<sen id="24">
+<j>近年、ペットボトル入りの緑茶の普及と健康志向の高まりで、水やジュースなどと同じ感覚で屋外や運動中に冷えた茶を飲む例が増えている。</j>
+<e type="trans" ver="1">Recently plastic bottles of green tea have become popular and more people have become health conscious, and as a result of it, more people drink iced tea outdoors or during exercise just like drinking water or juice.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Recently plastic bottles of green tea have become popular and more people have become health conscious, and as a result of it, more people drink iced tea outdoors or during exercise just like drinking water or juice.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Recently plastic bottles of green tea have become popular and more people have become health conscious, and as a result, more people drink iced tea outdoors or during exercise just like drinking water or soft drinks.</e>
+<cmt>as a result of it→as a result,この場合のジュースは soft drinks としました。</cmt>
+</sen>
+<sen id="25">
+<j>飲料メーカーは「ノンカロリー」「カテキン効果」などを宣伝文句に販売し、欧米やアジア諸国でも緑茶ブームが起きている。</j>
+<e type="trans" ver="1">Beverage makers sell their products, using &apos;calorie-free&apos; or &apos;catechin effects&apos; as their sales messages</e>
+<cmt></cmt>
+<e type="trans" ver="2">Beverage makers sell their products, using &apos;calorie-free&apos; or &apos;catechin effects&apos; as their catch phrases.</e>
+<cmt>gramamr</cmt>
+<e type="check" ver="1">Beverage makers sell their products, using &quot;calorie-free&quot; or &quot;catechin effects&quot; as their catch phrases; there are also green tea booms in Europe, America and Asian countries.</e>
+<cmt>&apos; &apos;→&quot; &quot;,スペースの修正,&quot;欧米やアジア諸国でも緑茶ブームが起きている。&quot;という部分を付け足しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>種類</j>
+<e type="trans" ver="1">Kinds</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kinds</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Varieties</e>
+<cmt>Kinds→Varieties</cmt>
+</tit>
+</sec>
+<sec id="3">
+<tit>
+<j>日本の緑茶</j>
+<e type="trans" ver="1">Japanese green tea</e>
+<cmt></cmt>
+<e type="trans" ver="2">Japanese green tea</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Japanese green tea</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="26">
+<j>抹茶（挽茶）（→茶道）</j>
+<e type="trans" ver="1">Green powdered tea(steamed and dried before being stone-ground) (=&gt;tea ceremony)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Green powdered tea (steamed and dried before being stone-ground) (=&gt;tea ceremony)</e>
+<cmt>spacing</cmt>
+<e type="check" ver="1">Maccha (Matcha) (Hikicha) (=&gt;tea ceremony)</e>
+<cmt>Maccha (Matcha), （挽茶）Hikicha と挿入し、意味は後述してあるのでここでは削除しました。</cmt>
+</sen>
+<sen id="27">
+<j>碾茶を石臼を用いて微細な粉末に仕立てたもの。</j>
+<e type="trans" ver="1">This is made by grinding tencha (powdered green tea) with a stone mill into fine granules.</e>
+<cmt>これ以降「-」の表記ができておりません。</cmt>
+<e type="trans" ver="2">This is made by grinding tencha (powdered green tea) into fine granules using a stone mill.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This is made by grinding Tencha (powdered green tea) into fine granules using a stone mill.</e>
+<cmt>イタリック、大文字の修正をしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="28">
+<j>煎茶（広義）（→煎茶道）</j>
+<e type="trans" ver="1">Sencha (green tea of middle grade) (in a broad sense) (=&gt;green tea ceremony)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sencha (middle grade green tea) (in a broad sense) (=&gt;green tea ceremony)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sencha (green tea) (in a broad sense) (=&gt;senchado [tea ceremony with leaf tea])</e>
+<cmt>イタリックの修正、middle grade を削除し、煎茶道： tea ceremony with leaf tea として修正しました。</cmt>
+</sen>
+<sen id="29">
+<j>玉露</j>
+<e type="trans" ver="1">Gyokuro (refined green tea)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gyokuro (refined green tea)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gyokuro (refined green tea)</e>
+<cmt>イタリックの修正</cmt>
+</sen>
+<sen id="30">
+<j>- 福岡県八女市が最も生産量が多い。</j>
+<e type="trans" ver="1">Yame City, Fukuoka Prefecture has the largest production of it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yame City, Fukuoka Prefecture has the largest production.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Yame City, Fukuoka Prefecture has the largest production.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="31">
+<j>煎茶（狭義）</j>
+<e type="trans" ver="1">Sencha (in a narrow sense)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sencha (in a narrow sense)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sencha (in a narrow sense)</e>
+<cmt>イタリックの修正</cmt>
+</sen>
+<sen id="32">
+<j>- 日本で最も一般的。</j>
+<e type="trans" ver="1">The most common in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The most common in Japan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The most common in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="33">
+<j>番茶</j>
+<e type="trans" ver="1">Bancha (coarse tea)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bancha (coarse tea)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bancha (coarse tea)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>出物のお茶</j>
+<e type="trans" ver="1">Boiled tea.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Boiled tea.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Boiled tea</e>
+<cmt>ピリオドを削除しました。</cmt>
+</sen>
+<sen id="35">
+<j>茎茶（棒茶・白折）</j>
+<e type="trans" ver="1">Kuki-cha (bocha, shiraore)</e>
+<cmt>「白折」をshiraoreと読みましたが、定かではありません。</cmt>
+<e type="trans" ver="2">Kuki-cha (bocha, shiraore)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kuki-cha (Bocha, Shiraore)</e>
+<cmt>「白折＝しらおれ」で確認しました。イタリック、大文字の修正をしました。</cmt>
+</sen>
+<sen id="36">
+<j>芽茶</j>
+<e type="trans" ver="1">Mecha</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mecha</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mecha</e>
+<cmt>イタリックの修正</cmt>
+</sen>
+<sen id="37">
+<j>粉茶</j>
+<e type="trans" ver="1">Konacha, (powdered tea)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Konacha, (powdered tea)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Konacha, (powdered tea)</e>
+<cmt>イタリックの修正</cmt>
+</sen>
+<sen id="38">
+<j>ほうじ茶</j>
+<e type="trans" ver="1">Hojicha (roasted green tea)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hojicha (roasted green tea)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hojicha (roasted green tea)</e>
+<cmt>イタリックの修正</cmt>
+</sen>
+<sen id="39">
+<j>- 緑茶に含めないこともある。</j>
+<e type="trans" ver="1">It may not be regarded as green tea.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This may not be regarded as green tea.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This may not be regarded as green tea.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="40">
+<j>玄米茶</j>
+<e type="trans" ver="1">Genmaicha (tea with roasted rice)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Genmaicha (tea with roasted rice)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Genmaicha (tea with roasted rice)</e>
+<cmt>イタリックの修正</cmt>
+</sen>
+<sen id="41">
+<j>豆茶</j>
+<e type="trans" ver="1">Mamecha</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mamecha</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mamecha</e>
+<cmt>イタリックの修正</cmt>
+</sen>
+<sen id="42">
+<j>釜炒り茶</j>
+<e type="trans" ver="1">Kamairicha (kiln-dried tea)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kamairicha (kiln-dried tea)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kamairicha (tea by roast and roll method)</e>
+<cmt>イタリックの修正、カッコ内の修正をしました。</cmt>
+</sen>
+<sen id="43">
+<j>玉緑茶</j>
+<e type="trans" ver="1">Tamaryokucha</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tamaryokucha</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tamaryokucha</e>
+<cmt>イタリックの修正</cmt>
+</sen>
+<sen id="44">
+<j>釜炒り茶の番茶</j>
+<e type="trans" ver="1">Bancha of Kamairicha</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bancha of Kamairicha</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bancha of Kamairicha</e>
+<cmt>イタリックの修正</cmt>
+</sen>
+<sen id="45">
+<j>漬物茶（発酵茶）</j>
+<e type="trans" ver="1">Tsukemono-cha (fermented tea)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tsukemono-cha (fermented tea)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tsukemono-cha (fermented tea)</e>
+<cmt>イタリックの修正</cmt>
+</sen>
+<sen id="46">
+<j>- 「黒茶」として緑茶に含めないこともある。</j>
+<e type="trans" ver="1">Sometimes it is not regarded as green tea but as &apos;black tea.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sometimes it is not regarded as green tea, but as &apos;black tea.&apos;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Sometimes it is not regarded as green tea, but as &quot;Kurocha.&quot;</e>
+<cmt>&apos; &apos;→&quot; &quot;,black tea→Kurocha</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>中国の緑茶</j>
+<e type="trans" ver="1">Chinese black tea</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chinese black tea</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chinese green tea</e>
+<cmt>black→green</cmt>
+</tit>
+<par id="1">
+<sen id="47">
+<j>龍井茶（ロンジンちゃ）</j>
+<e type="trans" ver="1">Long Jing tea</e>
+<cmt></cmt>
+<e type="trans" ver="2">Long Jing tea</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Long Jing tea</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>- 浙江省杭州市産</j>
+<e type="trans" ver="1">Produced in Hangzhou City, Zhejiang Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Produced in Hangzhou City, Zhejiang Province.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Produced in Hangzhou City, Zhejiang Province</e>
+<cmt>ピリオドを削除しました。</cmt>
+</sen>
+<sen id="49">
+<j>黄山毛峰（こうざんもうほう）</j>
+<e type="trans" ver="1">Huang Shan Mao Feng tea</e>
+<cmt></cmt>
+<e type="trans" ver="2">Huang Shan Mao Feng tea</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Huang Shan Mao Feng</e>
+<cmt>tea を削除しました。</cmt>
+</sen>
+<sen id="50">
+<j>- 安徽省歙県産</j>
+<e type="trans" ver="1">Produced in She County, Anhui Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Produced in She County, Anhui Province.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Produced in She County, Anhui Province</e>
+<cmt>ピリオドを削除しました。</cmt>
+</sen>
+<sen id="51">
+<j>六安瓜片（ろくあんかへん）</j>
+<e type="trans" ver="1">Liu An Gua Pian tea</e>
+<cmt></cmt>
+<e type="trans" ver="2">Liu An Gua Pian tea</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Liu An Gua Pian</e>
+<cmt>tea を削除しました。</cmt>
+</sen>
+<sen id="52">
+<j>- 安徽省六安市産</j>
+<e type="trans" ver="1">Produced in Liuan City, Anhui Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Produced in Liuan City, Anhui Province.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Produced in Liuan City, Anhui Province</e>
+<cmt>ピリオドを削除しました。</cmt>
+</sen>
+<sen id="53">
+<j>廬山雲霧（ろざんうんむ）</j>
+<e type="trans" ver="1">Lu Shan Yun Wu tea</e>
+<cmt></cmt>
+<e type="trans" ver="2">Lu Shan Yun Wu tea</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Lu Shan Yun Wu</e>
+<cmt>tea を削除しました。</cmt>
+</sen>
+<sen id="54">
+<j>- 江西省九江市産</j>
+<e type="trans" ver="1">Produced in Jiujiang City, Jiangxi Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Produced in Jiujiang City, Jiangxi Province.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Produced in Jiujiang City, Jiangxi Province</e>
+<cmt>ピリオドを削除しました。</cmt>
+</sen>
+<sen id="55">
+<j>竹葉青（ちくようせい）</j>
+<e type="trans" ver="1">Zhu Ye Qin tea</e>
+<cmt></cmt>
+<e type="trans" ver="2">Zhu Ye Qin tea</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Zhu Ye Qin</e>
+<cmt>tea を削除しました。</cmt>
+</sen>
+<sen id="56">
+<j>- 四川省峨嵋山市産</j>
+<e type="trans" ver="1">Produced in Gabisan mountain City, Sichuan Province.</e>
+<cmt>峨眉山市の英語表記が不明です。</cmt>
+<e type="trans" ver="2">Produced in Gabisan mountain City, Sichuan Province.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Produced in Emeishan City, Sichuan Province</e>
+<cmt>。を削除しました。Gabisan mountain City→Emeishan City</cmt>
+</sen>
+<sen id="57">
+<j>信陽毛尖（しんようもうせん）</j>
+<e type="trans" ver="1">Xinyang Mao Jian tea</e>
+<cmt>信陽毛尖の英語表記が不明です。</cmt>
+<e type="trans" ver="2">Xinyang Mao Jian tea</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Xinyang Maojian</e>
+<cmt>Mao Jian tea→Maojian で確認しました。</cmt>
+</sen>
+<sen id="58">
+<j>- 河南省信陽市産</j>
+<e type="trans" ver="1">Produced in Xinyang City, Kanan Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Produced in Xinyang City, Kanan Province.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Produced in Xinyang City, Kanan Province</e>
+<cmt>。を削除しました。</cmt>
+</sen>
+<sen id="59">
+<j>都いん毛尖（といんもうせん）</j>
+<e type="trans" ver="1">Du Yun Mao Jian tea</e>
+<cmt></cmt>
+<e type="trans" ver="2">Du Yun Mao Jian tea</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Duyun Maojian</e>
+<cmt>tea を削除し、修正しました。</cmt>
+</sen>
+<sen id="60">
+<j>- 貴州省都匀市産</j>
+<e type="trans" ver="1">Produced in Duyun City, Guizhou Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Produced in Duyun City, Guizhou Province.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Produced in Duyun City, Guizhou Province</e>
+<cmt>ピリオドを削除しました。</cmt>
+</sen>
+<sen id="61">
+<j>洞庭碧螺春（どうていへきらしゅん）</j>
+<e type="trans" ver="1">Dong Ting Bi Luo Chun tea</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dong Ting Bi Luo Chun tea</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Dong Ting Bi Luo Chun</e>
+<cmt>tea を削除しました。</cmt>
+</sen>
+<sen id="62">
+<j>- 江蘇省蘇州市産</j>
+<e type="trans" ver="1">Produced in Suzhou City, Jiangsu Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Produced in Suzhou City, Jiangsu Province.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Produced in Suzhou City, Jiangsu Province</e>
+<cmt>ピリオドを削除しました。</cmt>
+</sen>
+<sen id="63">
+<j>滇綠（てんりょく）</j>
+<e type="trans" ver="1">Tenryoku</e>
+<cmt>滇綠はローマ字表記しています。</cmt>
+<e type="trans" ver="2">Tenryoku</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tenryoku</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="64">
+<j>- 雲南省保山市ほか産</j>
+<e type="trans" ver="1">Produced in Baochan city, Yunnan Province, and other places.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Produced in Baochan city, Yunnan Province, and other places.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Produced in Baochan City, Yunnan Province, and other places.</e>
+<cmt>city→City,ピリオドを削除しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>作り方</j>
+<e type="trans" ver="1">Processes for producing green tea</e>
+<cmt></cmt>
+<e type="trans" ver="2">Processes for producing green tea</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Processes for producing green tea</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="65">
+<j>日本式の緑茶の製造は以下の工程からなる。</j>
+<e type="trans" ver="1">Japanese green tea is produced in the following processes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Japanese green tea is produced by the following processes.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Japanese green tea is produced by the following processes.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="66">
+<j>生産（栽培、収穫） ⇒ 蒸熱 ⇒ 粗揉 ⇒ 揉捻 ⇒ 中揉 ⇒ 精捻 ⇒ 乾燥 ⇒ 篩分と切断⇒ 木茎分離（⇒ 抽出）</j>
+<e type="trans" ver="1">Production (cultivation, harvest)=&gt;steaming=&gt;primary process of drying and rolling=&gt;crumpling up leaves=&gt;secondary process of drying and rolling=&gt;fnal process of drying and rolling=&gt;drying process=&gt;sieving and cutting=&gt;=&gt;separating process of stalks and branches(=&gt;extraction)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Production (cultivation, harvest)=&gt;steaming=&gt;primary process of drying and rolling=&gt;crumpling up leaves=&gt;secondary process of drying and rolling=&gt;fnal process of drying and rolling=&gt;drying process=&gt;sieving and cutting=&gt;=&gt;separating process of stalks and branches(=&gt;extraction)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Production (cultivation, harvest)=&gt;steaming=&gt;primary process of drying and rolling=&gt;crumpling up leaves=&gt;secondary process of drying and rolling=&gt;final process of drying and rolling=&gt;drying process=&gt;sieving and cutting=&gt;separating process of stalks and branches(=&gt;extraction)</e>
+<cmt>fnal→final,重複した⇒を削除しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="67">
+<j>簡単に言うと、収穫した茶葉を蒸して揉み潰し、茶葉の型を整えつつ乾燥する、という工程の並びになる。</j>
+<e type="trans" ver="1">In short, the processes for producing Japanese green tea is steaming, crumpling up harvested leaves, and then drying and fixing the shapes of them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In short, the process for producing Japanese green tea is steaming, crumpling up harvested leaves, and then drying and fixing their shapes.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In short, the process for producing Japanese green tea is steaming, crumpling up harvested leaves, and then drying and fixing their shapes.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>緑茶飲料の商品</j>
+<e type="trans" ver="1">Products of green tea drinks</e>
+<cmt></cmt>
+<e type="trans" ver="2">Green tea drink products</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Green tea drink products</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="68">
+<j>日本では比較的人気のある飲み物で、ほとんどの飲料メーカーが手がけている。</j>
+<e type="trans" ver="1">In Japan, green tea drinks are relatively popular, and produced by almost all the beverage makers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Japan, green tea drinks are relatively popular, and produced by almost all the beverage makers.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In Japan, green tea drinks are relatively popular, and produced by almost all the beverage makers.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="69">
+<j>紙パック、缶、ペットボトルの緑茶飲料も多く発売されている。</j>
+<e type="trans" ver="1">Green tea drinks in cartons, cans, plastic bottles sell well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Green tea drinks in cartons, cans, and plastic bottles sell well.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Green tea drinks in cartons, cans, and plastic bottles are sold widely.</e>
+<cmt>多く発売： sell well→are sold widely</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>海外</j>
+<e type="trans" ver="1">In foreign countries</e>
+<cmt></cmt>
+<e type="trans" ver="2">In foreign countries</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Overseas</e>
+<cmt>In foreign countries →Overseas</cmt>
+</tit>
+<par id="1">
+<sen id="70">
+<j>中華人民共和国、台湾でもペットボトル等に入れた緑茶飲料が販売されているが、蜂蜜や砂糖を加えた商品が主流である。</j>
+<e type="trans" ver="1">In People&apos;s Republic of China and Taiwan, plastic bottles of green tea drink are sold, but main products are drinks added honey or sugar.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">In People&apos;s Republic of China and Taiwan, plastic bottles of green tea drink are sold, but main products are drinks with honey or sugar added.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In both the People&apos;s Republic of China and Taiwan, plastic bottles of green tea drink are sold, but main products are drinks with honey or sugar added.</e>
+<cmt>both を挿入しました。the を挿入しました。</cmt>
+</sen>
+<sen id="71">
+<j>レモン果汁を加えたものもある。</j>
+<e type="trans" ver="1">They also sell green tea drinks with lemon juice.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">They also sell green tea drinks with lemon juice.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Moreover, some contains lemon juice.</e>
+<cmt>原文より修正しました。</cmt>
+</sen>
+<sen id="72">
+<j>このため、タイ王国向けの生茶は砂糖入りである。</j>
+<e type="trans" ver="1">For this reason, Namacha produced forKingdom of Thailand is added sugar.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For this reason, Namacha produced for the Kingdom of Thailand has added sugar.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">For this reason, Namacha produced for the Kingdom of Thailand contains sugar.</e>
+<cmt>イタリックの修正、has added sugar→contains sugar</cmt>
+</sen>
+<sen id="73">
+<j>タイでは生茶のほかにも現地企業の「Oishi Group Public Company Limited」などのペットボトル緑茶も数多く売り出されているが、どれも砂糖入りである。</j>
+<e type="trans" ver="1">In Thailand, in addition to Namacha, plastic bottles of green tea produced by a local enterprise, &apos;Oishi Group Public Company Limited&apos; sell well and all of them contain sugar.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Thailand, in addition to Namacha, plastic bottles of green tea is produced by a local enterprise, &apos;Oishi Group Public Company Limited&apos; sell well and all contain sugar.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In Thailand, in addition to Namacha, plastic bottles of green tea is produced and sold largely by a local enterprise, &quot;Oishi Group Public Company Limited&quot;, and all contain sugar.</e>
+<cmt>イタリックの修正、 &apos; &apos;→&quot; &quot;,原文より修正しました。</cmt>
+</sen>
+<sen id="74">
+<j>日本でも、コカコーラやリプトンなどから蜂蜜や砂糖を加えた緑茶飲料が発売されている。</j>
+<e type="trans" ver="1">In Japan, Coca-Cola Japan Co., Ltd., Lipton and others sell green tea drinks added honey or sugar.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Japan, Coca-Cola Japan Co., Ltd., Lipton, and others sell green tea drinks with honey or sugar added.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In Japan, Coca-Cola Japan Co., Ltd., Lipton, and others sell green tea drinks with honey or sugar added.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="75">
+<j>オーストリアでも健康ブームの中で緑茶がクローズアップされている。</j>
+<e type="trans" ver="1">In Australia, green tea has been highlighted because of the fitness boom.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Australia, green tea has been highlighted because of a fitness boom.</e>
+<cmt>grammar, word spacing</cmt>
+<e type="check" ver="1">In Australia, green tea has been highlighted as well because of a fitness boom.</e>
+<cmt>as well を追加しました。</cmt>
+</sen>
+<sen id="76">
+<j>アジア諸国同様に砂糖などを加えた日本の紅茶飲料に近い形態で販売されている。</j>
+<e type="trans" ver="1">Green tea drinks sold there contain sugar like green tea drinks in Asian countries and like Japanese red tea drinks.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Green tea drinks sold there contain sugar like green tea drinks in Asian countries and like Japanese red tea drinks.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Green tea drinks sold there contain sugar like green tea drinks in Asian countries, smiler to English black tea drinks in Japan.</e>
+<cmt>red tea, English black tea,and like Japanese red tea drinks→smiler to English tea drinks in Japan と修正しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="77">
+<j>アメリカ合衆国などでは緑茶だけだと味が薄く感じられるということで、フレーバーを混ぜて楽しむこともある。</j>
+<e type="trans" ver="1">In the U.S., green tea alone may be thought too weak, and some flavors are sometimes added to enjoy green tea.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the U.S., green tea alone may be thought of as too weak, and some flavors are sometimes added to enjoy green tea.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the U.S., green tea alone may be thought of as too weak, and some flavors are sometimes added to enjoy green tea.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>飲用以外の用途</j>
+<e type="trans" ver="1">Usage of green tea except drinking</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usage of green tea other than for drinking</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Usage of green tea other than for drinking</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="9">
+<tit>
+<j>料理</j>
+<e type="trans" ver="1">For cooking</e>
+<cmt></cmt>
+<e type="trans" ver="2">For cooking</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For cooking</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="78">
+<j>茶漬け</j>
+<e type="trans" ver="1">Rice with green tea</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rice with green tea</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chazuke (Ochazuke)</e>
+<cmt>意味が後述されているのと料理名ということで、そのまま載せました。</cmt>
+</sen>
+<sen id="79">
+<j>- 米飯に茶をかけたもの。</j>
+<e type="trans" ver="1">Rice with (green) tea poured over it</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rice with (green) tea poured over it</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Cooked rice with (green) tea poured over it.</e>
+<cmt>Rice→Cooked rice,ピリオドを追加しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="10">
+<tit>
+<j>食用</j>
+<e type="trans" ver="1">For edible use</e>
+<cmt></cmt>
+<e type="trans" ver="2">For edible use</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For food</e>
+<cmt>edible use→food</cmt>
+</tit>
+<par id="1">
+<sen id="80">
+<j>緑茶の茶葉を食べる料理がある。</j>
+<e type="trans" ver="1">Green tea leaves are included and eaten in some dishes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Green tea leaves are included and eaten in some dishes.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Green tea leaves are eaten in some dishes.</e>
+<cmt>included and を削除しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="81">
+<j>新茶葉の天ぷら</j>
+<e type="trans" ver="1">Tempura of new tea leaves.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tempura using new tea leaves.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tempura using new tea leaves</e>
+<cmt>ピリオドを削除しました。</cmt>
+</sen>
+<sen id="82">
+<j>緑茶のかき揚げ</j>
+<e type="trans" ver="1">Kakiage of green tea leaves (deep-fried green tea leaves).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Green tea leaf Kakiage (deep-fried green tea leaves).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Green tea leaf Kakiage (deep-fried green tea leaves)</e>
+<cmt>イタリックの修正、ピリオドを削除しました。</cmt>
+</sen>
+<sen id="83">
+<j>龍井蝦仁</j>
+<e type="trans" ver="1">Long jing xia ren</e>
+<cmt></cmt>
+<e type="trans" ver="2">Long jing xia ren</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Long jing xia ren</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="84">
+<j>- 浙江省杭州市の料理で、川えびの殻を剥いて、龍井茶の若葉と炒めたもの</j>
+<e type="trans" ver="1">It is a dish of Hangzhou City, Zhejiang Province, and it is cooked by stir-frying shelled river shrimps and new leaves of Long Jing tea</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a dish of Hangzhou City, Zhejiang Province, and it is cooked by stir-frying shelled river shrimps and new leaves of Long Jing tea</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is a dish of Hangzhou City, Zhejiang Province; stir-frying shelled river shrimps and new leaves of Long Jing tea</e>
+<cmt>and it からの部分を修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="11">
+<tit>
+<j>調味用</j>
+<e type="trans" ver="1">For seasoning</e>
+<cmt></cmt>
+<e type="trans" ver="2">For seasoning</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For seasoning</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="85">
+<j>抹茶はアイスクリームなどの菓子に風味を付けたり、蕎麦に加えて茶そばにしたり、塩と合わせて天ぷらの味付けに使われたりする。</j>
+<e type="trans" ver="1">Green powdered tea is used to flavor sweets including ice cream, to make tea soba, or to season tempura with salt.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Green powdered tea is used to flavor sweets including ice cream, to make tea soba, or to season tempura with salt.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Green powdered tea is used to flavor sweets including ice cream, to make cha soba (green tea buckwheat noodles), or to season tempura with salt.</e>
+<cmt>tea soba→cha soba (green tea buckwheat noodles) と修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 AlleborgoBot(id:119729), JAnDbot(id:66507), Los688(id:12316), Hhaithait(id:37092), Aotake(id:34929), Ojigiri(id:329), DragonBot(id:161936), Garmin(id:66460), Matsumatsumatsu(id:213718), Roger(id:9883), Kumatora(id:16941), Hachikou(id:10676), Rai koku(id:1661), ベーグルベーグル(id:71107), JINKY.ECLEO(id:141716), Commonsenses(id:11185), Mymelo(id:122034), Nevylax(id:38464), Chobot(id:20846), SassoBot(id:285258), Point136(id:211299), 踏蹟(id:51201), Oi4(id:88577), 竹麦魚(id:11012), りょほう(id:334), Toshiaki Suzuki(id:96105), DumZiBoT(id:230315), Kurayamizaka(id:7150), Izayohi(id:13095), Starbacks(id:1018), Locahunt(id:18828), MASA(id:2399), マクガイア(id:33346), 梅こぶ茶(id:219473), Clarin(id:60278), ウェルワィ(id:15692), BodhisattvaBot(id:185411), 地理さん(id:106627), Xqbot(id:273540), Alecs.bot(id:194707), SilvonenBot(id:190970), Green(id:24154), Nidarin(id:6420), Miri(id:164), Lightwriter(id:161755), TottyBot(id:101680), 午後紅茶(id:14285), SuisuiBot(id:10165), Lyijykyyneleet(id:13506), ＮｉＫｅ(id:7512), 儀藤 陽(id:1669), Alexbot(id:157199), NDR(id:5500), Suisui(id:69), SieBot(id:126695), 1029man(id:93235), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

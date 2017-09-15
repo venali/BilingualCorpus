@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>桓武天皇</j>
+<e type="trans" ver="1">Emperor KAMMU</e>
+<cmt>英辞郎 on the WEB　(-天皇)</cmt>
+<e type="trans" ver="2">Emperor Kammu</e>
+<cmt>Lowercase</cmt>
+<e type="check" ver="1">Emperor Kammu</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>桓武天皇（かんむてんのう、天平9年（737年） - 延暦25年3月7日（806年4月9日））は、日本の第50代の天皇である。</j>
+<e type="trans" ver="1">Emperor KAMMU (737 - 9th April 806) is the 50th Japanese Emperor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Emperor Kammu (737 - April 9, 806) was the 50th Japanese Emperor.</e>
+<cmt>Lowercase</cmt>
+<e type="check" ver="1">Emperor Kammu (737 - April 3, 806) was the 50th Japanese Emperor.</e>
+<cmt>&quot;9&quot; -&gt; &quot;3&quot; に変更しました。</cmt>
+</sen>
+<sen id="2">
+<j>山部親王（やまべのみこ）。</j>
+<e type="trans" ver="1">Yamabe no Miko Imperial prince</e>
+<cmt></cmt>
+<e type="trans" ver="2">Imperial Prince Yamabe no Miko</e>
+<cmt>Grammar</cmt>
+<e type="check" ver="1">Imperial Prince Yamabe no Miko</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>略歴</j>
+<e type="trans" ver="1">Biography</e>
+<cmt></cmt>
+<e type="trans" ver="2">Biography</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Brief Personal History</e>
+<cmt>&quot;Biography&quot; -&gt; &quot;Brief Personal History&quot; に変更しました。</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>桓武天皇は白壁王（のちの光仁天皇）の第一皇子として天平9年（737年）に産まれた。</j>
+<e type="trans" ver="1">Emperor KAMMU was born in 737 as the first prince of Shirakabe no Okimi. (later called Emperor KONIN)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Emperor Kammu was born in 737 as the first prince of Shirakabe no Okimi (later called Emperor Konin).</e>
+<cmt>Lowercase, punctuation</cmt>
+<e type="check" ver="1">Emperor Kammu was born in 737 as the first prince of Shirakabe no Okimi (later called Emperor Konin).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>母の高野新笠は、百済の武寧王を祖先とする百済王族の末裔と続日本紀に記されている。</j>
+<e type="trans" ver="1">According to Shoku-Nihongi (the chronicles of Japan II) his mother, TAKANO no Nigasa is a descendant of Baekje Royal family whose ancestors are Baekje Muryeong-wang.</e>
+<cmt>百済 英辞郎 on the WEB, 武寧王, 続日本紀 http://en.encyclopedia.livepress.com/index.php/Muryeong_of_Baekje</cmt>
+<e type="trans" ver="2">According to &quot;Shoku-Nihongi (The Chronicles of Japan II),&quot; his mother, Takano no Nigasa, is a descendant of the Baekje Royal Family, whose ancestors are the Baekje Muryeong-wang.</e>
+<cmt>Lowercase, grammar</cmt>
+<e type="check" ver="1">According to the Shoku-Nihongi (the second in a series of chronicles about Japan), his mother, TAKANO no Nigasa, was a descendant of the Baekje Royal Family, whose ancestors were the Baekje Muryeong-wang.</e>
+<cmt>I don&apos;t think quotation marks are needed here. Care needs to be taken with the tense used. Also, although a search on Google for &quot;The Chronicles of Japan II&quot; gives 11,400 hits, if you click Next it turns out there are only 15, and because I&apos;m not sure of the reliability of the hits that do appear, I think it&apos;s better to use an explanation rather than what may appear to be an official translation of the title.</cmt>
+</sen>
+<sen id="5">
+<j>皇后藤原乙牟漏により安殿（のちの平城天皇）、神野（のちの嵯峨天皇）をなし、妃藤原旅子により大伴（のちの淳和天皇）をなす。</j>
+<e type="trans" ver="1">Ate (Emperor HEIZEI) and Kamino&apos;s/Kaminu (Emperor SAGA) mother is FUJIWARA no Otomuro, Otomo&apos;s (Emperor JUNNA) mother is FUJIWARA no Tabiko.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ate (Emperor Heizei) and Kamino&apos;s (Kaminu&apos;s) (Emperor Saga&apos;s) mother was Fujiwara no Otomuro, and Otomo&apos;s (Emperor Junna&apos;s) mother was Fujiwara no Tabiko.</e>
+<cmt>Lowercase, tense</cmt>
+<e type="check" ver="1">The mother of Ate (who would later become Emperor Heizei) and Kamino (or Kaminu, who would later become Emperor Saga) was FUJIWARA no Otomuro, and the mother of Otomo (who would later become Emperor Junna) was FUJIWARA no Tabiko.</e>
+<cmt>The use of so many apostrophes makes the text hard to follow.</cmt>
+</sen>
+<sen id="6">
+<j>初名は山部王。</j>
+<e type="trans" ver="1">The first name given was Yamabe no Okimi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The first name given was Yamabe no Okimi.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Emperor Kammu&apos;s original name, that is his name prior to ascending the throne, was Yamabe no Okimi.</e>
+<cmt>This is too chokuyaku. The reader will be confused as to whose first name this was as a number of people were just mentioned in the previous sentence of this paragraph. Thought needs to be given to how the information in one sentence links to the sentences before and after it, how the information in one paragraph links to the paragraphs before and after it, etc.</cmt>
+</sen>
+<sen id="7">
+<j>父の白壁王の即位後も母の高野新笠が身分の低い帰化氏族和氏出身であったため、立太子は望まれておらず、当初は官僚としての出世を目指しており、侍従・大学頭・中務卿などを歴任していた。</j>
+<e type="trans" ver="1">Due to mother&apos;s low class background of naturalized clansman Yamatouji there was no hope for the Emperor to become a crown prince, he aimed to succeed as government bureaucrat and held the position like a palace staff (Jiju), the manager of Daigaku (Daigaku no Kami) and Nakatsukasakyo.</e>
+<cmt>大学頭・中務卿 英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">Due to the mother&apos;s humble background of the naturalized clansmen Yamatouji, there was no hope for the Emperor to become a crown prince; but he aimed to succeed as a government bureaucrat and held the position like a palace staffperson (jiju), the manager of Daigaku (Daigaku no Kami) and Nakatsukasakyo.</e>
+<cmt>Grammar</cmt>
+<e type="check" ver="1">Due to the mother&apos;s humble background of the naturalized clansmen Yamatouji, there was no hope for the Emperor to become a crown prince even after his father, Shirakabe no Okimi&apos;s enthronement; but he aimed to succeed as a government bureaucrat and held the position like a palace staff person (jiju), the manager of Daigaku (Daigaku no Kami) and Nakatsukasakyo.</e>
+<cmt>「父の白壁王の即位後も」の訳を補いました。スペース挿入</cmt>
+</sen>
+<sen id="8">
+<j>しかし、藤原氏などを巻き込んだ政争によって異母弟である前皇太子他戸親王とその母であった皇后井上内親王が突如廃されて宝亀4年（773年）1月2日に立太子。</j>
+<e type="trans" ver="1">However Imperial Prince Osabe, former crown prince, and his mother, the Imperial princess Inoe were got rid of due to the political fight and the Emperor KAMMU had a ceremony of the formal investiture of the Crown Prince on 2nd January 773.</e>
+<cmt>他戸親王 英辞郎 on the WEB(-親王)</cmt>
+<e type="trans" ver="2">However, Imperial Prince Osabe, the former crown prince, and his mother, Imperial Princess Inoe, were gotten rid of due to the political fight, and the Emperor Kammu had a ceremony of the formal investiture of the Crown Prince on January 2, 773.</e>
+<cmt>Lowercase, grammar</cmt>
+<e type="check" ver="1">However, Imperial Prince Osabe, the former crown prince and his half brother with the same father, and his mother, Imperial Princess Inoe, were gotten rid of due to the political fight, and the Emperor Kammu had a ceremony of the formal investiture of the Crown Prince on February 2, 773.</e>
+<cmt>「異母弟である」の訳を補いました。&quot;January&quot; -&gt; &quot;February&quot; に変更しました。</cmt>
+</sen>
+<sen id="9">
+<j>天応元年（781年）4月15日、即位。</j>
+<e type="trans" ver="1">He took over the throne on 15th April in 781.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He took over the throne on April 15, 781.</e>
+<cmt>Date</cmt>
+<e type="check" ver="1">He took over the throne on May 16, 781.</e>
+<cmt>&quot;April 15&quot; -&gt; &quot;May 16&quot; に変更しました。</cmt>
+</sen>
+<sen id="10">
+<j>平城京における奈良仏教各寺の影響力の肥大化を厭い、山城国への遷都を行った。</j>
+<e type="trans" ver="1">TheHeijo-Kyo capital was relocated to the province of Yamashiro/Yamashiro province to avoid the Nara Buddhism temple having too much political power.</e>
+<cmt>山城国 プログレッシブ英和中辞典、およびhttp://ci.nii.ac.jp/naid/110004656143/ 平城京 英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">TheHeijo-Kyo capital was relocated to the province of Yamashiro in order to prevent the Nara Buddhist temple from having too much political power.</e>
+<cmt>Grammar</cmt>
+<e type="check" ver="1">TheHeijo-Kyo capital was relocated to the province of Yamashiro in order to prevent the Nara Buddhist temples from having too much political power.</e>
+<cmt>templeを複数に</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="11">
+<j>はじめに784年に長岡京を造営するが、794年に改めて平安京を造営した。</j>
+<e type="trans" ver="1">Firstly Nagaoka-kyo was built in 784 and Heian-kyo was re-built in 794.</e>
+<cmt>長岡京 平安京 英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">First, Nagaoka-kyo was built in 784, and Heian-kyo was rebuilt in 794.</e>
+<cmt>Grammar, punctuation</cmt>
+<e type="check" ver="1">First, Nagaoka-kyo was built in 784, and Heian-kyo was rebuilt in 794.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>また東北地方を侵略し蝦夷を服属させるため、坂上田村麻呂を征夷大将軍とする軍を送った。</j>
+<e type="trans" ver="1">The troop of SAKANOUE no Tamuramaro being Seii Taishogun/Barbarian Subduing Generalissimo were sent to Tohoku area to defeat Ezo/Emishi.</e>
+<cmt>征夷大将軍 英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">The troops of Sakanoue no Tamuramaro, being Seii Taishogun (barbarians subduing the generalissimo) were sent to the Tohoku area to defeat Ezo (Emishi).</e>
+<cmt>Lowercase, punctuation</cmt>
+<e type="check" ver="1">The troops of SAKANOUE no Tamuramaro, being Seii Taishogun (great general who subdues the barbarians) were sent to the Tohoku area to defeat Ezo (Emishi).</e>
+<cmt>名字大文字barbarians subduing the generalissimo -&gt; literally, &quot;great general who subdues the barbarians&quot;に変更しました。</cmt>
+</sen>
+<sen id="13">
+<j>しかし晩年にはこのような軍事と造作が百姓を苦しめているとして藤原式家の藤原緒嗣に批判された。</j>
+<e type="trans" ver="1">However in Emperor KAMMU&apos;s last years, FUJIWARA no Otsugu of Fujiwara Shikike (a sub branch of Fujiwara family) criticized the Emperor this kind of military and the policy gave the hard time to farmers.</e>
+<cmt>藤原式家 http://www.docoja.com/dico/histxtg43.html</cmt>
+<e type="trans" ver="2">However, in Emperor Kammu&apos;s last years Fujiwara no Otsugu, of Fujiwara Shikike (a sub-branch of the Fujiwara Family), criticized the Emperor on this kind of military action, and the policy subjected farmers to difficulty.</e>
+<cmt>Lowercase, grammar</cmt>
+<e type="check" ver="1">However, in Emperor Kammu&apos;s last years, FUJIWARA no Otsugu of the the Ceremonial House of the Fujiwara clan criticized the Emperor for undertaking this kind of military action and said that the policy subjected farmers to great hardship.</e>
+<cmt>全体的に訳し直しました。&quot;Fujiwara Shikike (a sub-branch of the Fujiwara Family)&quot; -&gt; &quot;the Ceremonial House of the Fujiwara clan&quot; に変更しました。</cmt>
+</sen>
+<sen id="14">
+<j>文化面では続日本紀の編纂を発案したとされる。</j>
+<e type="trans" ver="1">In cultural aspect it is said the Emperor suggested to edit the Shoku-Nihongi/the chronicles of Japan II.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the cultural aspect it is said that the Emperor suggested the editing of &quot;Shoku-Nihongi (The Chronicles of Japan II).&quot;</e>
+<cmt>Punctuation</cmt>
+<e type="check" ver="1">In the cultural aspect it is said that the Emperor suggested the editing of &quot;Shoku-Nihongi (The Chronicles of Japan II).&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>最澄と空海が唐から帰国し日本の仏教に新たな動きをもたらしたのも桓武治下である。</j>
+<e type="trans" ver="1">It was under Emperor KAMMU&apos;s administration when Saicho and Kukai came back from Tang and gave new influence to Japanese Buddhism culture.</e>
+<cmt>唐 英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">It was during Emperor Kammu&apos;s administration that Saicho and Kukai came back from Tang and had new influence on the Japanese Buddhist culture.</e>
+<cmt>Lowercase, grammar</cmt>
+<e type="check" ver="1">It was during Emperor Kammu&apos;s administration that Saicho and Kukai came back from Tang and had new influence on the Japanese Buddhist culture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="16">
+<j>井上内親王と他戸親王の不自然な死、治世のはじめに、皇太子とした弟早良親王を藤原種継暗殺の廉で785年流罪とし配所で死なしめたという暗い面も持ち合わせた。</j>
+<e type="trans" ver="1">There is a sad aspect that the Imperial princess Inoe had an unnatural death, or his brother, the Imperial prince Sawara who was the first prince when KAMMU government started, was accused to assassinate FUJIWARA no Otsugu and sentenced to deportation and died.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a sad aspect that Imperial Princess Inoe had an unnatural death, or that her brother, Imperial Prince Sawara, who was the first prince when tthe Kammu government started, was accused of assassinating Fujiwara no Otsugu; he was sentenced to deportation and died.</e>
+<cmt>Lowercase, grammar</cmt>
+<e type="check" ver="1">There is a sad aspect that Imperial Princess Inoe and Imperial Prince Osabe had an unnatural death, or that his brother, Imperial Prince Sawara, who was the first prince when the Kammu government started, was accused of assassinating FUJIWARA no Tanetsugu; he was sentenced to deportation in 785 and died.</e>
+<cmt>年号抜け名字大文字名前間違え訳抜け：他戸親王</cmt>
+</sen>
+<sen id="17">
+<j>怨霊を恐れ、延暦19年（800年）7月19日、早良親王を崇道天皇と追号し、井上内親王の墓を山陵と追称し､皇后の位を復した。</j>
+<e type="trans" ver="1">As the Emperor was concerned about grudge, he gave a Tsuigo, Emperor Sudoto, to Imperial prince Sawara, renamed Imperial princess Inoe&apos;s mausoleum as Misasagi and recoup the lank of Empress.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As the Emperor was concerned about a grudge, he gave a tsuigo, Emperor Sudoto, to Imperial Prince Sawara, renamed Imperial Princess Inoe&apos;s mausoleum as Misasagi and recouped the lack of an Empress.</e>
+<cmt>Grammar -- lack?</cmt>
+<e type="check" ver="1">As the Emperor was concerned about a grudge, he gave a tsuigo, Emperor Sudo, to Imperial Prince Sawara on August 16, 800, renamed Imperial Princess Inoe&apos;s mausoleum as Misasagi and recouped the lack of an Empress.</e>
+<cmt>年号抜けスペルミス&quot;July 19&quot; -&gt; &quot;August 16&quot; に変更しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="18">
+<j>最澄や空海の保護者として知られる一方で、既存の仏教が政権に関与して大きな権力を持ちすぎた事から、所謂「南都六宗」と呼ばれた諸派に対しては封戸の没収など圧迫を加えている。</j>
+<e type="trans" ver="1">While the Emperor is known as a guardian of Saicho and Kukai, existing Buddism had too much relation and power to the politics, Nanto Rokushu (Rikushu)/the Six Sects of the Southern Capital were oppressed to lose their official ranks or their rewards.</e>
+<cmt>「南都六宗」http://www.blackwellreference.com/public/tocnode?id=g9780631181392_chunk_g978063118139215_ss1-8</cmt>
+<e type="trans" ver="2">While the Emperor is known as a guardian of Saicho and Kukai, the existing Buddism had too much relation to (and power in) politics; Nanto Rokushu (Rikushu) (The Six Sects of the Southern Capital) were forced to lose their official rank or their rewards.</e>
+<cmt>Plural</cmt>
+<e type="check" ver="1">While the Emperor is known as a guardian of Saicho and Kukai, the existing Buddhism had too much relation to (and power in) politics; Nanto Rokushu (Rikushu) (The Six Sects of the Southern Capital) were forced to lose their official rank or their rewards.</e>
+<cmt>スペルミス</cmt>
+</sen>
+<sen id="19">
+<j>また後宮の紊乱ぶりも言われており、後の『薬子の変』へとつながる温床となった。</j>
+<e type="trans" ver="1">There was no strict morals in the palace and this caused being hotbeds of &quot;the Kusuko Incident&quot;.</e>
+<cmt>『薬子の変』http://eos.kokugakuin.ac.jp/modules/xwords/entry.php?entryID=1271</cmt>
+<e type="trans" ver="2">There was no strict morals in the palace, and this caused the emergence of hotbeds such as &quot;the Kusuko Incident.&quot;</e>
+<cmt>Grammar</cmt>
+<e type="check" ver="1">There was no strict morals in the palace, and this caused the emergence of hotbeds such as &quot;the Kusuko Incident.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>延暦25年（806年）3月17日に崩御。</j>
+<e type="trans" ver="1">The Emperor died on 17th March 806.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Emperor died on March 17, 806.</e>
+<cmt>Date</cmt>
+<e type="check" ver="1">The Emperor died on April 13, 806.</e>
+<cmt>&quot;March 17&quot; -&gt; &quot;April 13&quot; に変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>諡号・追号・異名</j>
+<e type="trans" ver="1">Posthumous name, Tsuigo, different name</e>
+<cmt></cmt>
+<e type="trans" ver="2">Posthumous name, Tsuigo, different name</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Posthumous name, Tsuigo, different name</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="21">
+<j>日本根子皇統弥照尊（やまとねこあまつひつぎいやでりのみこと）と和風諡号をおくられた。</j>
+<e type="trans" ver="1">The Emperor was given Japanese Posthumous name, Yamatoneko amatsu hitsugiiyaderi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Emperor was posthumously given the Japanese name Yamatoneko amatsu hitsugiiyaderi.</e>
+<cmt>Grammar</cmt>
+<e type="check" ver="1">The Emperor was posthumously given the Japanese name Yamatoneko amatsu hitsugiiyaderi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>それとともに漢風諡号として、桓武天皇がおくられた。</j>
+<e type="trans" ver="1">He was also given Hun style Posthumous name, Emperor KAMMU.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was also posthumousl given the Hun-style name Emperor Kammu.</e>
+<cmt>Grammar</cmt>
+<e type="check" ver="1">He was also posthumously given the Hun-style name Emperor Kammu.</e>
+<cmt>スペルミス</cmt>
+</sen>
+<sen id="23">
+<j>また柏原帝（かしわばら）、天國押撥御宇柏原天皇とも呼ばれた。</j>
+<e type="trans" ver="1">He was also known as Emperor KASHIWABARA and 天國押撥御宇柏原天皇.</e>
+<cmt>天國押撥御宇柏原天皇の読み確認できず</cmt>
+<e type="trans" ver="2">He was also known as Emperor Kashiwabara and 天國押撥御宇柏原天皇.</e>
+<cmt>Lowercase</cmt>
+<e type="check" ver="1">He was also known as Emperor Kashiwabara and Amekunioshiharukiamenoshitashiroshimesu.</e>
+<cmt>天国押撥御宇（あめくにおしはるきあめのしたしろしめす）」http://hanran.tripod.com/japan/masakado11a.html他にあり。但し、正しい表記方法を確認できませんでした。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>在位中の元号</j>
+<e type="trans" ver="1">Eras during his reign.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Eras during his reign</e>
+<cmt>No period</cmt>
+<e type="check" ver="1">Eras during his reign</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="24">
+<j>宝亀</j>
+<e type="trans" ver="1">Hoki</e>
+<cmt>Google</cmt>
+<e type="trans" ver="2">Hoki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hoki</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>天応</j>
+<e type="trans" ver="1">Tenou</e>
+<cmt>Yahoo辞書</cmt>
+<e type="trans" ver="2">Tenou</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tenou</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>延暦</j>
+<e type="trans" ver="1">Enryaku</e>
+<cmt>Google</cmt>
+<e type="trans" ver="2">Enryaku</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Enryaku</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>陵墓・霊廟</j>
+<e type="trans" ver="1">Imperial mausoleum</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Imperial Mausoleum</e>
+<cmt>Capitalization</cmt>
+<e type="check" ver="1">The Imperial Mausoleum</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="27">
+<j>陵墓は京都市伏見区桃山町の柏原陵（かしわばらのみささぎ）とされる。</j>
+<e type="trans" ver="1">Imperial mausoleum is Kashiwabara no Misasagi in Momoyama-cho, Fushimi-ku district, Kyoto-City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Imperial Mausoleum is known as Kashiwabara no Misasagi, located in Momoyama-cho, Fushimi-ku district, Kyoto City.</e>
+<cmt>Capitalization, punctuation</cmt>
+<e type="check" ver="1">The Imperial Mausoleum is known as Kashiwabara no Misasagi, located in Momoyama-cho, Fushimi-ku, Kyoto City.</e>
+<cmt>district削除</cmt>
+</sen>
+<sen id="28">
+<j>生前、宇多野（うたの）に葬って欲しいと固執していたが、占等の理由で、伏見の柏原陵になった。</j>
+<e type="trans" ver="1">Emperor KAMMU strongly wished to be buried in Utano before he died, however due to fortune telling reason he was buried in Kashiwabara no Misasagi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Emperor Kammu strongly wished to be buried in Utano when he died; however, due to a fortune-telling he was buried in Kashiwabara no Misasagi.</e>
+<cmt>Lowercase, punctuation</cmt>
+<e type="check" ver="1">Emperor Kammu expressed a strong desire to be buried in Utano when he died; however, on the advice of a fortune teller, he was buried in Kashiwabara no Misasagi, which is located in Fushimi.</e>
+<cmt>&quot;伏見&quot; を補いました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="29">
+<j>明治になり、平安神宮に平安京最初の天皇として祀られた。</j>
+<e type="trans" ver="1">He was enshrined at Heian-jingu Shrine in Meiji period as the first Emperor of Heiankyo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was enshrined at Heian-jingu Shrine during the Meiji period as the first Emperor of Heiankyo.</e>
+<cmt>Grammar</cmt>
+<e type="check" ver="1">He was enshrined at Heian-jingu Shrine during the Meiji period as the first Emperor of Heian-kyo.</e>
+<cmt>ハイフン入れる</cmt>
+</sen>
+<sen id="30">
+<j>また全ての天皇は皇居の宮中三殿の一つの皇霊殿に祀られている。</j>
+<e type="trans" ver="1">All the past Emperors are enshrined in Kyuchu-sanden. (three shrines of the imperial court)</e>
+<cmt>宮中三殿 http://opac.ndl.go.jp/articleid/9723073/jpn</cmt>
+<e type="trans" ver="2">All the past Emperors are enshrined in Kyuchu-sanden (Three Shrines of the Imperial Court).</e>
+<cmt>Capitalization, punctuation</cmt>
+<e type="check" ver="1">All the past Emperors are enshrined in Kyuchu-sanden (Three Shrines of the Imperial Court).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>今上天皇の発言</j>
+<e type="trans" ver="1">The present Emperor&apos;s remark</e>
+<cmt>今上天皇 英辞郎 on the WEB、およびhttp://withja.com/english/dictionary/index.jsp?word=EMPEROR&amp;related</cmt>
+<e type="trans" ver="2">The present Emperor&apos;s remark</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The present Emperor&apos;s remark</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="31">
+<j>平成13年（2001年）12月18日、天皇誕生日前に恒例となっている記者会見において明仁は、翌年のサッカーFIFAワールドカップ共催に際してのコメントの一部で、「桓武天皇の生母が百済の武寧王の子孫であると続日本紀に記されていることに大韓民国とのゆかりを感じています」との発言を行った。</j>
+<e type="trans" ver="1">18th December 2001, the Emperor Akihito mentioned in annual interview before his birthday, for the comment of mutual relief if succor FIFA world cup in the following year, &quot;I feel a certain kinship with Korea after knowing Emperor KAMMU&apos;s mother&apos;s descendant is related to Baekje Muryeong-wang according to Shoku-Nihongi. (the chronicles of Japan II)</e>
+<cmt>天皇誕生日 英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">On December 18, 2001, Emperor Akihito mentioned in the annual interview before his birthday, for the comment of mutual relief on the FIFA World Cup of Soccer in the following year, &quot;I feel a certain kinship with Korea after knowing Emperor Kammu&apos;s mother&apos;s descendant is related to Baekje Muryeong-wang, according to Shoku-Nihongi (The Chronicles of Japan II).&quot;</e>
+<cmt>Lowercase, punctuation</cmt>
+<e type="check" ver="1">On December 18, 2001, Akihito mentioned in the annual interview before his birthday, for the comment of mutual relief on the FIFA World Cup of Soccer in the following year, &quot;I feel a certain kinship with Korea after knowing Emperor Kammu&apos;s mother&apos;s descendant is related to Baekje Muryeong-wang, according to Shoku-Nihongi (The Chronicles of Japan II).&quot;</e>
+<cmt>Emperor削除</cmt>
+</sen>
+<sen id="32">
+<j>この発言は、日本ではさほど大きく取り上げられなかったものの韓国のマスコミでは大きく報道され、話題となった。</j>
+<e type="trans" ver="1">This comment was a popular topic in Korean mass media although it was not a big issue in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This comment was a popular topic in Korean mass media. although it was not a significant issue in Japan.</e>
+<cmt>Usage</cmt>
+<e type="check" ver="1">This comment was a popular topic in Korean mass media, although it was not a significant issue in Japan.</e>
+<cmt>ピリオドをカンマに</cmt>
+</sen>
+<sen id="33">
+<j>そのうち一部では、「天皇家は朝鮮民族の血筋を引いている」、「皇室百済起源論」などの論理を大きく飛躍させる報道があった。</j>
+<e type="trans" ver="1">From a certain news report there was an exaggerated comment saying the Royal family is descendant from Korean ethnics or the royal family&apos;s origin started from Paekche and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From a certain news report there was an exaggerated comment stating that the Royal Family is descended from ethnic Koreans or that the Royal Family&apos;s origin started from Paekche and so on.</e>
+<cmt>Capitalization</cmt>
+<e type="check" ver="1">From a certain news report there was an exaggerated comment stating that the Royal Family is descended from ethnic Koreans or that the Royal Family&apos;s origin started from Paekche and so on.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="34">
+<j>実際には、そもそも征服王朝である百済において、扶余たる百済王族と韓族たる民衆とでは言葉すら通じないほどの民族的差異があったこと、加えて、百済の民衆と現在の朝鮮半島に暮らす朝鮮民族との間にすら血統的連続性はないこと、などの通説からして、「天皇家が朝鮮民族の血筋を引いている」という表現は明らかな誤謬であるといえる。</j>
+<e type="trans" ver="1">It is apparent that the royal family does not have any relationship with Korean ethnics as in Paekche there was a big difference in terms of ethnics between Fuyo royal family and common people of Kan-zoku, they did not even share the common languages, also the common belief is that there is no blood line between Paekche people and Korean ethnics who live in Korean Peninsula.</e>
+<cmt>朝鮮半島 英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">It is apparent that the Royal Family has no relationship with ethnic Koreans, as in Paekche. There was a big difference in terms of ethnics between the Fuyo royal family and the common people of Kan-zoku; they did not even share the common language, and the common belief is that there is no blood line between the Paekche people and the ethnic Koreans who live on the Korean Peninsula.</e>
+<cmt>TWO SENTENCES</cmt>
+<e type="check" ver="1">It is apparent that the Royal Family has no relationship with ethnic Koreans, as in Paekche there was a big difference in terms of ethnics between the Fuyo royal family and the common people of Kan-zoku; they did not even share the common language, and the common belief is that there is no blood line between the Paekche people and the ethnic Koreans who live on the Korean Peninsula.</e>
+<cmt>一文に</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="35">
+<j>また、高野新笠の先祖である渡来系の和氏（やまとうじ）は、渡来の時期が古い家であり、桓武天皇の時代には日本に土着してかなりの世代（武寧王から4代、和氏となって6代）を経ているため「朝鮮民族の子孫」という表現は適切ではない。</j>
+<e type="trans" ver="1">Since TAKANO no Nigasa&apos;s ancestor, Yamatouji who came from abroad a long time ago, many generation had been passed when Emperor KAMMU&apos;s government started (fourth generation from Baekje Muryeong-wangis, Yamatouji is 6th generation) and it is not accurate to say that TAKANO no Nigasa&apos;s ancestor is Korean.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since Takano no Nigasa&apos;s ancestor, Yamatouji, who came from abroad a long time ago, many generations had passed when Emperor Kammu&apos;s government started (the fourth generation from Baekje Muryeong-wangis, with Yamatouji as the sixth generation); therefore, it is not accurate to say that Takano no Nigasa&apos;s ancestor is Korean.</e>
+<cmt>Lowercase, punctuation</cmt>
+<e type="check" ver="1">Since TAKANO no Nigasa&apos;s ancestor, Yamatouji, who came from abroad a long time ago, many generations had passed when Emperor Kammu&apos;s government started (the fourth generation from Baekje Muryeong-wang, with Yamatouji as the sixth generation); therefore, it is not accurate to say that Takano no Nigasa&apos;s ancestor is Korean.</e>
+<cmt>名字大文字スペルミス</cmt>
+</sen>
+<sen id="36">
+<j>そもそも、「韓国人」の名称が使われ始めたのは李氏朝鮮が国号を大韓帝国と変えた頃からである。</j>
+<e type="trans" ver="1">The name &quot;Korean&quot; started being used when Yi Dynasty/Joseon Dynasty changed the name of the country Empire of Korea.</e>
+<cmt>李氏朝鮮 http://www.wowkorea.jp/dictionary/0003%5C0001%5C0037%5C0002%5C</cmt>
+<e type="trans" ver="2">The name &quot;Korean&quot; started being used when the Yi Dynasty/Joseon Dynasty changed the name of the country to &quot;Empire of Korea.&quot;</e>
+<cmt>Punctuation</cmt>
+<e type="check" ver="1">The name &quot;Korean&quot; started being used when the Yi Dynasty/Joseon Dynasty changed the name of the country to &quot;Empire of Korea.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="37">
+<j>また、和氏が武寧王の子孫であるかどうかは、学術的に少なからず疑義を持たれており、いずれにしても1000年以上前の「続日本紀に記されていることにゆかりを感じる」という程度の発言であるにも関わらず、この発言が韓国では大きく話題にされ、当時の大統領であった金大中が大統領談話で言及までしたことは、天皇の発言が大きな影響力を持つことを物語る実例の一つとなった。</j>
+<e type="trans" ver="1">There is some doubt academically whether Yamatouji is Baekje Muryeong-wangis&apos;s descendants or not, it was an actual example that Emperor&apos;s remark has strong political message knowing in Korea mass media paid a big attention to this kind of Emperor&apos;s words referring to the history more than a thousand years ago, even former President Dae-jung [Daejung, Dae jung] KIM mentioned about this in the interview.</e>
+<cmt>金大中 英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">There is some doubt academically whether Yamatouji is Baekje Muryeong-wangis&apos;s descendant or not; it was an actual example that the Emperor&apos;s remark has a strong political message, knowing that the Korea mass media paid great attention to such words from the Emperor, referring to the history more than a thousand years ago, and even the former President Dae-jung [Daejung, Dae jung] Kim mentioned this in the interview.</e>
+<cmt>Grammar, punctuation</cmt>
+<e type="check" ver="1">There is some doubt academically whether Yamatouji is Baekje Muryeong-wang&apos;s descendant or not; it was an actual example that the Emperor&apos;s remark has a strong political message, knowing that the Korea mass media paid great attention to such words from the Emperor, referring to the history more than a thousand years ago, and even the former President Dae-jung [Daejung, Dae jung] Kim mentioned this in the interview.</e>
+<cmt>スペルミス</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Los688(id:12316), 向日葵三十郎(id:45034), 霧木諒二(id:9795), Nnh(id:474), Novo(id:87875), China(id:10362), Cprobot(id:97843), Hannah(id:15935), Eskimbot(id:29676), Ans(id:27735), Ideal(id:236), Lupinoid(id:68), 行動で挽回するしかない(id:31799), Commonsenses(id:11185), らりた(id:1327), Tenmams(id:72762), 代言人(id:33675), 秀の介(id:490), 名無し(id:7386), 十月之交(id:586), Unwire(id:83065), Shimoxx(id:9332), あなん(id:6904), Kouko0515(id:100370), Toki-ho(id:10691), タケル(id:10666), Ramakata(id:131630), Carbuncle(id:346), Stanislaus(id:1806), 松茸(id:27535), Sh(id:2707), ごまふあざ(id:36855), Yoh-yoh(id:85177), Shigechan(id:50958), Histwr(id:15646), Thijs!bot(id:69644), 三宅長太郎(id:134998), Akitsumaru(id:63888), SuisuiBot(id:10165), Alexbot(id:157199), 唐棣色(id:64681), Suisui(id:69), Zippin(id:9885), Iosif(id:31044), Reggaeman(id:6214), Charenji(id:7908), Auaubabyron(id:212391), 陽一(id:92099), Charlesy(id:137799), TXiKiBoT(id:107492), 味っ子(id:17086), Kopanda(id:86274), Hasegawa Naomi(id:205891), M.Tanaka(id:70604), Masyu(id:31065), 玄史生(id:43670), 鳴海(id:37850), UMBRO(id:100484), Rei-bot(id:94097), Chobot(id:20846), でめくり(id:89407), LERK(id:4460), Yu-chan794(id:120507), Equaly(id:89792), 水野白楓(id:22811), Carkuni(id:79281), Murasagi(id:79122), YurikBot(id:18605), 平惣衛門(id:99387), YOSHI438(id:174755), Ponsaku(id:31417), Trek011(id:7105), Emonue(id:11273), SieBot(id:126695), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

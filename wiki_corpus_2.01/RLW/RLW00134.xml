@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>四条駅 (京阪)</j>
+<e type="trans" ver="1">Shijo Station (Keihan Electric Railway)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shijo Station (Keihan Electric Railway)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shijo Station (Keihan Electric Railway)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>四条駅（しじょうえき）は、京都府京都市東山区宮川筋1丁目にある、京阪電気鉄道京阪本線の鉄道駅。</j>
+<e type="trans" ver="1">Located in 1 Miyagawasuji, Higashiyama Ward, Kyoto City, Shijo Station is a stop on the Keihan Main Line, which is operated by Keihan Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shijo Station, located in 1 Miyagawasuji, Higashiyama Ward, Kyoto City, is a stop on the Keihan Main Line, which is operated by Keihan Electric Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Shijo Station, located in 1 Miyagawasuji, Higashiyama Ward, Kyoto City, Kyoto Prefecture, is a stop on the Keihan Main Line, which is operated by Keihan Electric Railway.</e>
+<cmt>京都府を追加しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>駅ホームのカラーリングは黄色。</j>
+<e type="trans" ver="1">The color used for platforms at this station is yellow.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s platforms employ yellow as their official color.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station&apos;s platforms employ yellow as their official color.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>これは抵抗器の抵抗値を表すカラーコードで「4」を意味する。</j>
+<e type="trans" ver="1">This color represents Color Code 4, indicating resistance of a resistor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This represents &quot;color code 4,&quot; indicating the resistance of a resistor.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">This represents &apos;color code 4,&apos; indicating the resistance of a resistor.</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>2008年10月19日の京阪中之島線の開業と同時に祇園四条駅（ぎおんしじょうえき）に改称する予定</j>
+<e type="trans" ver="1">This station will be renamed Gion-shijo Station as the Keihan Nakanoshima Line is opened to traffic on October 19, 2008.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The facility was to be renamed &quot;Gion-shijo Station&quot; as the Keihan Nakanoshima Line opens to traffic on October 19, 2008.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The facility was to be renamed &quot;Gion-shijo Station&quot; as the Keihan Nakanoshima Line opens to traffic on October 19, 2008.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>島式1面2線のホームを持つ地下駅である。</j>
+<e type="trans" ver="1">It is an underground station having an island platform, both sides of which are used for boarding and exiting trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an underground station having an island platform, both sides of which are used to board and exit trains.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is an underground station having an island platform with two tracks.</e>
+<cmt>with two tracksとして統一しました。</cmt>
+</sen>
+<sen id="6">
+<j>四条大橋東詰、川端通と四条通との交差点の直下に位置する。</j>
+<e type="trans" ver="1">It is located immediately below the intersection of the Kawabata-dori Street and the Shijo-dori Street, at Shijo-ohashi Bridge Higashi-Zume.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It&apos;s located immediately below the intersection of Kawabata-dori Street and Shijo-dori Street, at Shijo-ohashi Bridge in Higashi-Zume.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It&apos;s located immediately below the intersection of Kawabata-dori Street and Shijo-dori Street, at Shijo-Ohashi Higashizume (eastern end of Shijo-ohashi Bridge).</e>
+<cmt>四条大橋東詰　は確立された場所の表現と解釈し、そのまま表記し、補足を追加しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>改札・コンコースは地下1階、ホームは地下2階にある。</j>
+<e type="trans" ver="1">The ticket wicket and the concourse are located on the first basement level, while the platforms are on the second basement level.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ticket wicket and the concourse are located on the first basement level, while the platforms are on the second basement level.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The ticket gate and the concourse are located on the first basement level, while the platforms are on the second basement level.</e>
+<cmt>wicket →gate　としました。</cmt>
+</sen>
+<sen id="8">
+<j>改札口は北改札と南改札の2か所。</j>
+<e type="trans" ver="1">There are two ticket wickets, the north ticket wicket and the south ticket wicket.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are two ticket wickets: the north wicket and the south wicket.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">There are two ticket gates: the north gate and the south gate.</e>
+<cmt>wicket →gate　としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>身障者対応エレベーターは、ホーム階とコンコースの間は「ホームの北端」と「北改札口」を繋ぐ1基。</j>
+<e type="trans" ver="1">A disabled-accessible elevator is available between the floor level on which the platforms are present and the concourse, which connects the north edge of the platforms and the north ticket wicket.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A disabled-accessible elevator is available between the floor level, where the platforms are located, and the concourse, which interconnects the north edge of the platforms and the north ticket wicket.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">A disabled-accessible elevator is available between the floor level, where the platforms are located, and the concourse, which interconnects the north edge of the platforms and the north ticket gate.</e>
+<cmt>wicket →gate　としました。</cmt>
+</sen>
+<sen id="10">
+<j>コンコースと地上との間はコンコースの駅事務所の東側と川端四条交差点東入る北側のバス停前(南座の正面玄関のむかえ)を結んでいる。</j>
+<e type="trans" ver="1">The section between the concourse and the ground level connects the east side of the station office on the concourse and the bus stop on the north (across the street from the main entrance of Minamiza), which is located on the east of the intersection of the Kawabata-dori Street and the Shijo-dori Street.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The section between the concourse and the ground level connects the east side of the station office on the concourse and the bus stop on the north (across the street from the main entrance of Minamiza), which is located on the east end of the intersection of Kawabata-dori and Shijo-dori streets.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The section between the concourse and the ground level connects the east side of the station office on the concourse and the bus stop on the north (across the street from the main entrance of Minamiza Theatre), which is located on the east end of the intersection of Kawabata-dori and Shijo-dori streets.</e>
+<cmt>南座→Minamiza Theaterとしました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="11">
+<j>北改札口に車イス対応のエレベーターが設置してあるのに車イス対応のトイレは南改札口の奥に有るというチグハグなレイアウトで有る。</j>
+<e type="trans" ver="1">Although the disabled-accessible elevator is located near the north ticket wicket, the disabled-accessible bathroom is located at the back of the south ticket wicket, giving people a sensation of incoherent layout.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the disabled-accessible elevator is located near the north ticket wicket, the disabled-accessible bathroom is located at the back of the south ticket wicket, so the layout invites confusion.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although the disabled-accessible elevator is located near the north ticket gate, the disabled-accessible bathroom is located at the back of the south ticket gate, so the layout invites confusion.</e>
+<cmt>wicket →gate　としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="12">
+<j>エスカレーターは南改札内に上り下り各1基、コンコース地上間は2基の登りエスカレーターで川端四条交差点北西角に出ることが出来る。</j>
+<e type="trans" ver="1">There are two escalators in the south ticket wicket, one for upward and the other for downward, and other two up escalators connecting the concourse and the ground level, which take people to the northwest corner of the intersection of the Kawabata-dori Street and the Shijo-dori Street.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are two escalators in the south ticket wicket--one up and one down--and other two up escalators connecting the concourse and the ground level, which take people to the northwest corner of the intersection of Kawabata-dori and Shijo-dori streets.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There are two escalators in the south ticket gate--one up and one down--and other two up escalators connecting the concourse and the ground level, which take people to the northwest corner of the intersection of Kawabata-dori and Shijo-dori streets.</e>
+<cmt>wicket →gate　としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>のりば</j>
+<e type="trans" ver="1">Platforms</e>
+<cmt></cmt>
+<e type="trans" ver="2">Platforms</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Platforms</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>※両ホームとも有効長は8両。</j>
+<e type="trans" ver="1">* Both of the platforms can support up to 8 cars.</e>
+<cmt></cmt>
+<e type="trans" ver="2">* Both platforms can support up to eight cars.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">* Both platforms can support up to eight cars.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>自動放送における編成長案内は2番線のみ挿入される。</j>
+<e type="trans" ver="1">Automatic announcement to inform the number of cars is available only on Platform 2.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An automatic announcement indicating the number of cars is available only on platform 2.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">An automatic announcement indicating the number of cars is available only on Platform 2.</e>
+<cmt>Platform と大文字にしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Periphery of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="15">
+<j>駅東側は祇園の繁華街である。</j>
+<e type="trans" ver="1">The eastern area of the station is a downtown of Gion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Downtown Gion is east of the station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Downtown Gion is east of the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>四条川端の交差点に面して南座があり、四条通を東へ進むと八坂神社の石段に突きあたる。</j>
+<e type="trans" ver="1">Minamiza is facing the intersection of the Kawabata-dori Street and the Shijo-dori Street, and people can reach the stone steps of Yasaka-jinja Shrine by keeping going straight to the east on the Shijo-dori Street.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Minamiza faces the intersection of Kawabata-dori and Shijo-dori streets, and people can reach the stone steps of Yasaka-jinja Shrine by continue due east on Shijo-dori Street.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Minamiza Theater faces the intersection of Kawabata-dori and Shijo-dori streets, and people can reach the stone steps of Yasaka-jinja Shrine by going east on Shijo-dori Street.</e>
+<cmt>南座→Minamiza Theaterとしました。</cmt>
+</sen>
+<sen id="17">
+<j>さらに東には円山公園 (京都府)、知恩院がある。</j>
+<e type="trans" ver="1">Going way down east, people reach Maruyama Park (Kyoto Prefecture) and Chion-in Temple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Continuing eastward, one will reach Maruyama Park (Kyoto Prefecture) and Chion-in Temple.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Continuing eastward, one will reach Maruyama Park (Kyoto Prefecture) and Chion-in Temple.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="18">
+<j>南側の出口を出て団栗通を東へ進むと、建仁寺、祇園甲部歌舞練場、ウインズ京都（場外馬券場）に至る。</j>
+<e type="trans" ver="1">Exiting from the south ticket wicket and going east on the Donguri-dori Street, people reach Kennin-ji Temple, Gion Kobu Kaburenjo theater and WINS Kyoto (offtrack betting booth for horse races).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Exiting from the south ticket wicket and going east on Donguri-dori Street, one will reach Kennin-ji Temple, the Gion Kobu Kaburenjo theater and WINS Kyoto (an off-track betting booth for horse races).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Exiting from the south ticket gate and going east on Donguri-dori Street, one will reach Kennin-ji Temple, the Gion Kobu Kaburenjo theater and WINS Kyoto (an off-track betting booth for horse races).</e>
+<cmt>wicket →gate　としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="19">
+<j>駅のすぐ西を鴨川 (淀川水系)が流れており、駅出口の前に四条大橋がかかる。</j>
+<e type="trans" ver="1">Kamo-gawa River (Yodo-gawa river water system) is running on the right west side of the station and there is the Shijo-ohashi Bridge across the river in front of the station exit.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kamo-gawa River (Yodo-gawa River water system) runs just west of the station, and Shijo-ohashi Bridge crosses the river in front of the station exit.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kamo-gawa River (Yodo-gawa River system) runs just west of the station, and Shijo-ohashi Bridge crosses the river in front of the station exit.</e>
+<cmt>River system としました。</cmt>
+</sen>
+<sen id="20">
+<j>橋を渡ると対岸は四条河原町である。</j>
+<e type="trans" ver="1">The area on the opposite side of the river crossing the bridge is Shijo Kawaramachi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area on the opposite side of the river, across the bridge, is Shijo Kawaramachi.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The area on the opposite side of the river, across the bridge, is Shijo Kawaramachi.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="21">
+<j>阪急百貨店</j>
+<e type="trans" ver="1">Hankyu Department Store</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Department Store</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hankyu Hanshin Department Store</e>
+<cmt>Hankyu Hanshin Department Storeとしました。</cmt>
+</sen>
+<sen id="22">
+<j>高島屋</j>
+<e type="trans" ver="1">Takashimaya</e>
+<cmt></cmt>
+<e type="trans" ver="2">Takashimaya</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Takashimaya</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>河原町OPA</j>
+<e type="trans" ver="1">Kawaramachi OPA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kawaramachi OPA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kawaramachi OPA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>阪急京都本線河原町駅_(京都府)への乗り換えは、一度地上に出て四条大橋を渡り、再び阪急電車の地下駅に向かう必要がある。</j>
+<e type="trans" ver="1">To transfer trains to Kawaramachi Station (Kyoto Prefecture) on the Hankyu Kyoto Line, people need to go up the ground once, cross the Shijo-ohashi Bridge and go to the underground station of Hankyu Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">To transfer trains to Kawaramachi Station (Kyoto Prefecture) on the Hankyu Kyoto Line, it&apos;s necessary to go up to the ground level, cross Shijo-ohashi Bridge and then descend to the underground station of the Hankyu Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">To transfer trains to Kawaramachi Station (Kyoto Prefecture) on the Hankyu Kyoto Line, it&apos;s necessary to go up to the ground level, cross Shijo-ohashi Bridge and then descend to the underground station of the Hankyu Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>相互の乗り換えアナウンスはないが、乗り換え利用者も多く、最近では阪急電鉄河原町駅 (京都府)ともに、連絡通路に相手方の駅の発車時刻表を掲出している。</j>
+<e type="trans" ver="1">Although there is no informative announcement of transfer mutually, there are quite a few passengers who transfer trains, and thus both Kawaramachi Station (Kyoto Prefecture) of Hankyu Railway and Shijo Station (Keihan Electric Railway) post each others time schedules on their accessways recently.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although there is no shared announcement of transfer, many passengers make train transfers, so both Kawaramachi Station (Kyoto Prefecture) of the Hankyu Railway and Shijo Station (Keihan Electric Railway) have recently begun posting their mutual time schedules along the access routes.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although there is no shared announcement of transfer, many passengers make train transfers, so both Kawaramachi Station (Kyoto Prefecture) of the Hankyu Railway and Shijo Station (Keihan Electric Railway) have recently begun posting their mutual time schedules along the access routes.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="26">
+<j>バスのりば</j>
+<e type="trans" ver="1">Bus stops</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus stops</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus stops</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>四条京阪前</j>
+<e type="trans" ver="1">Shijo Keihan-mae</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shijo Keihan-mae</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shijo Keihan-mae (front of Shijo Keihan)</e>
+<cmt>補足を追加しました。</cmt>
+</sen>
+<sen id="28">
+<j>四条大橋東詰（四条通と川端通との交差点）にある</j>
+<e type="trans" ver="1">It is located at Shijo-ohashi Bridge Higashi-Zume (at the intersection of the Kawabata-dori Street and the Shijo-dori Street).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It&apos;s located at Shijo-ohashi Bridge Higashi-Zume (at the intersection of Kawabata-dori and Shijo-dori streets).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It&apos;s located at Shijo-Ohashi Higashizume (at the intersection of Kawabata-dori and Shijo-dori streets).</e>
+<cmt>四条大橋東詰をそのまま表記しました（既出のため、補足は削除しました）。</cmt>
+</sen>
+<sen id="29">
+<j>京都市営バス</j>
+<e type="trans" ver="1">Kyoto City Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="30">
+<j>京都バス</j>
+<e type="trans" ver="1">Kyoto Bus</e>
+<cmt>「 Co.,Ltd.」は意図的に省きました。</cmt>
+<e type="trans" ver="2">Kyoto Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="31">
+<j>京阪バス</j>
+<e type="trans" ver="1">Keihan Bus</e>
+<cmt>「 Co.,Ltd.」は意図的に省きました。</cmt>
+<e type="trans" ver="2">Keihan Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>山科、大宅、醍醐、京阪六地蔵方面</j>
+<e type="trans" ver="1">For Yamashina, Oyake, Daigo and Keihan Rokujizo</e>
+<cmt></cmt>
+<e type="trans" ver="2">For Yamashina, Oyake, Daigo and Keihan Rokujizo</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For Yamashina, Oyake, Daigo and Keihan Rokujizo</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>三条京阪、四条河原町、四条烏丸、四条大宮方面</j>
+<e type="trans" ver="1">For Sanjo Keihan, Shijo Kawaramachi, Shijo Karasuma and Shijo Omiya</e>
+<cmt></cmt>
+<e type="trans" ver="2">For Sanjo Keihan, Shijo Kawaramachi, Shijo Karasuma and Shijo Omiya</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For Sanjo Keihan, Shijo Kawaramachi, Shijo Karasuma and Shijo Omiya</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="34">
+<j>徒歩数分程度の四条河原町からバスが多数発着している。</j>
+<e type="trans" ver="1">Many bus services are available from the Shijo Kawaramachi bus stop which is a few-minute walk from the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many bus services are available from the Shijo Kawaramachi bus stop, which is a few minutes&apos; walk from the station.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Many bus services are available from the Shijo Kawaramachi bus stop, which is a few minutes&apos; walk from the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="35">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>1915年（大正4年）10月27日 （旧）京阪電気鉄道の駅として開業。</j>
+<e type="trans" ver="1">October 27, 1915: Started as a station of (Old) Keihan Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 27, 1915: It started as a station of the old Keihan Electric Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 27, 1915: It started as a station of the old Keihan Electric Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>当初より京都市電四条線と平面交差していた。</j>
+<e type="trans" ver="1">It has been crossing at grade with the Kyoto City Trams Shijo Line since the beginning of the operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It has crossed the Kyoto City Trams Shijo Line at grade since the start of its operation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It has crossed the Kyoto City Trams Shijo Line at grade since the start of its operation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="38">
+<j>1916年（大正5年）4月1日 最急行（同年6月1日廃止）および急行の停車駅となる。</j>
+<e type="trans" ver="1">April 1, 1916: Old Limited Express (discontinued on June 1, 1916) and Express trains started stopping at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1916: The old limited express (discontinued on June 1, 1916) and express trains started making stops at this station.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">April 1, 1916: The old limited express (discontinued on June 1, 1916) and express trains started making stops at this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="39">
+<j>1935年（昭和10年）6月29日 「鴨川大水害」で駅舎ホームの破損など大きな被害を受ける。</j>
+<e type="trans" ver="1">June 29, 1935: The station facilities, including the platforms, were badly damaged by the flood disaster of Kamo-gawa.</e>
+<cmt></cmt>
+<e type="trans" ver="2">June 29, 1935: The station facilities, including the platforms, were badly damaged by the Kamo-gawa River flood disaster.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">June 29, 1935: The station facilities, including the platforms, were badly damaged by the Kamo-gawa River flood disaster.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="40">
+<j>鉄筋コンクリート製の四条大橋に、上流より流された木製の三条大橋などの残骸が引っかかり鴨川を堰き止め、あふれた水が四条駅から疎水へ流れ大きな被害を与えた。</j>
+<e type="trans" ver="1">In this flood disaster, debris of the collapsed Sanjo-ohashi Bridge, which was carried from the upstream, was caught on the Shijo-ohashi Bridge made of reinforced concrete and held back water, and accordingly, the overflowed water spread from Shijo Station to the water channels, resulting in heavy damage.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In this flood disaster, debris of the collapsed Sanjo-ohashi Bridge, which was carried from the upstream, was caught on the Shijo-ohashi Bridge made of reinforced concrete and held back water, and accordingly, the overflowed water spread from Shijo Station to the water channels, resulting in heavy damage.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In this flood disaster, debris of the collapsed Sanjo-ohashi Bridge, which was carried from the upstream, was caught on the Shijo-ohashi Bridge made of reinforced concrete and held back water, and accordingly, the overflowed water spread from Shijo Station to the water channels, resulting in heavy damage.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>この後に策定された鴨川の洪水対策として「京阪線を地下化して鴨川を拡幅する」との計画が作成された。</j>
+<e type="trans" ver="1">After this flood disaster, a plan in which the Keihan Line should be undergrounded to broaden Kamo-gawa River was formulated as a flood countermeasure.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the disaster, a plan in which the Keihan Line should be taken underground in order to broaden the Kamo-gawa River was formulated as a countermeasure against flooding.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">After the disaster, a plan in which the Keihan Line should be taken underground in order to broaden the Kamo-gawa River was formulated as a countermeasure against flooding.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="42">
+<j>1943年（昭和18年）10月1日 阪神急行電鉄との合併により、阪急電鉄の駅となる。</j>
+<e type="trans" ver="1">October 1, 1943: Merged with Hanshin Electric Express Railway, the station became under control of Hankyu Corporation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 1, 1943: Due to the merger with Hanshin Electric Express Railway, the station became under the control of Hankyu Corporation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 1, 1943: Due to the merger with Hanshin Electric Express Railway, the station became under the control of Hankyu Corporation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="43">
+<j>1949年（昭和24年）12月1日 会社譲渡により、京阪電気鉄道の駅となる。</j>
+<e type="trans" ver="1">December 1, 1949: As the company was disposed, the station became under control of Keihan Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 1, 1949: Consequent upon the company&apos;s disposal of assets, the station came under control of Keihan Electric Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">December 1, 1949: Consequent upon the company&apos;s disposal of assets, the station came under control of Keihan Electric Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="44">
+<j>1950年（昭和25年）9月1日 特急停車駅となる。</j>
+<e type="trans" ver="1">September 1, 1950: Limited Express trains started stopping at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 1, 1950: Limited express trains started making stops at this station.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">September 1, 1950: Limited express trains started making stops at this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="45">
+<j>1972年（昭和47年）1月23日 京都市電四条線(祇園～四条大宮)の廃止に伴い、平面交差も無くなる。</j>
+<e type="trans" ver="1">January 23, 1972: As Kyoto City Trams Shijo Line (Gion - Shijo Omiya) was discontinued, the cross at grade disappeared.</e>
+<cmt></cmt>
+<e type="trans" ver="2">January 23, 1972: As the Kyoto City Trams Shijo Line (Gion - Shijo Omiya) was discontinued, the crossing-at-grade disappeared.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">January 23, 1972: As the Kyoto City Trams Shijo Line (Gion - Shijo Omiya) was discontinued, the crossing-at-grade disappeared.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="46">
+<j>1982年（昭和57年）11月　地下化工事に伴い、大阪行きホームを四条通り北側から南側へ移設。</j>
+<e type="trans" ver="1">November 1982: With the construction to underground the station, the platform for Osaka was moved from the north side to the south side of the Shijo-dori Street.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 1982: With the construction to take the station underground, the platform for Osaka was moved from the north side to the south side of Shijo-dori Street.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">November 1982: With the construction to take the station underground, the platform for Osaka was moved from the north side to the south side of Shijo-dori Street.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="47">
+<j>1987年（昭和62年）5月24日 地下化。</j>
+<e type="trans" ver="1">May 24, 1987: The construction to underground the station was completed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">May 24, 1987: The construction to take the station underground was completed.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">May 24, 1987: The construction to take the station underground was completed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="48">
+<j>地下化により大正4年から昭和62年まで、遮断機無しの「四条通り踏み切り」で『71年6ヶ月間・電車と歩行者の接触事故無し』と言う大記録を樹立した。</j>
+<e type="trans" ver="1">Because of the station was undergrounded, the Shijo-dori Street railway crossing, which had no crossing gate, set a great record of &quot;no collision or accident between trains and pedestrians for 71 years and 6 months&quot; between 1915 and 1987.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the station was now underground, the Shijo-dori Street railway crossing, which had no crossing gate, set a significant record of &quot;no collision or accident between trains and pedestrians for 71 years and six months&quot; over the period from 1915 to 1987.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because the station was now underground, the Shijo-dori Street railway crossing, which had no crossing gate, set a significant record of &quot;no collision or accident between trains and pedestrians for 71 years and six months&quot; over the period from 1915 to 1987.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="49">
+<j>1988年（昭和63年）9月1日 「終日禁煙」を実施。</j>
+<e type="trans" ver="1">September 1, 1988: Total smoking ban became effective.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 1, 1988: A total ban on smoking went into effect.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">September 1, 1988: A total ban on smoking went into effect.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="50">
+<j>1992年（平成4年）10月21日 京阪初の乗り越し精算機を設置。</j>
+<e type="trans" ver="1">October 21, 1992: Fare adjustment machines were installed for the first time among stations of Keihan Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 21, 1992: Fare-adjustment machines were installed for the first time among the stations of the Keihan Electric Railway.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">October 21, 1992: Fare-adjustment machines were installed for the first time among the stations of the Keihan Electric Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="51">
+<j>1996年（平成8年）3月11日 ホーム異常通報装置を設置（16ヶ所）。</j>
+<e type="trans" ver="1">March 11, 1996: Platform emergency systems were installed at 16 points.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 11, 1996: Platform emergency systems were installed at 16 points.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">March 11, 1996: Platform emergency systems were installed at 16 points.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="52">
+<j>2008年（平成20年）秋 四条駅から祇園四条駅に改称予定</j>
+<e type="trans" ver="1">Fall 2008: The station name, Shijo Station, will be renamed Gion-shijo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fall 2008: Shijo Station would be renamed as Gion-shijo Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Fall 2008: Shijo Station would be renamed as Gion-shijo Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Next stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Next stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="53">
+<j>京阪電気鉄道</j>
+<e type="trans" ver="1">Keihan Electric Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>京阪本線</j>
+<e type="trans" ver="1">Keihan Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Main Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="55">
+<j>■K特急・■特急</j>
+<e type="trans" ver="1">■K-Ltd. Express train ■Limited Express train</e>
+<cmt></cmt>
+<e type="trans" ver="2">■K-limited express train ■Limited express train</e>
+<cmt>case</cmt>
+<e type="check" ver="1">K-Limited Express/Limited Express</e>
+<cmt>■を削除し、表現を統一しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="56">
+<j>七条駅 - 四条駅 - 三条駅_(京都府)</j>
+<e type="trans" ver="1">Shichijo Station - Shijo Station - Sanjo Station (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shichijo Station - Shijo Station - Sanjo Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shichijo Station - Shijo Station - Sanjo Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="57">
+<j>■急行・■準急・■普通</j>
+<e type="trans" ver="1">■Express train ■Sub-express train ■Local train</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Express train ■Sub-express train ■Local train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Express/Sub-express/Local</e>
+<cmt>■を削除し、表現を統一しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="58">
+<j>五条駅_(京阪) - 四条駅 - 三条駅</j>
+<e type="trans" ver="1">Kiyomizu-gojo Station - Shijo Station - Sanjo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kiyomizu-gojo Station - Shijo Station - Sanjo Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kiyomizu-gojo Station - Shijo Station - Sanjo Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Sushiya(id:110938), A TRAIN(id:13889), Bakkai(id:7233), Etopirica(id:32491), MASA(id:2399), S.S.Exp.Hashimoto(id:4001), Hirofumitouhei(id:104137), 天然ガス(id:98149), UE-PON2600(id:18149), 春野秋葉(id:36725), Wikipedianet(id:9608), Ikaxer(id:61759), Utsuda(id:605), Ohura(id:5986), Bukang-liwayway(id:89706), Nukkie(id:18293), 準急三条(id:25072), Matsukaze(id:51778), Joh shoh(id:9812), 金山銀山銅山(id:163855), Mochi(id:9489), Unamu(id:14627), 本屋(id:125948), Kei-NIKAIDOH(id:147418), Mutumi06(id:82739), Hirotaro(id:1437), 扇風機のせんちゃん(id:161810), 210.(id:9838), ちょろ(id:17218), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

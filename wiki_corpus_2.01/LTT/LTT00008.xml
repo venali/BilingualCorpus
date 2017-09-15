@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>方丈記</j>
+<e type="trans" ver="1">Hojoki (An Account of My Hut)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hojoki (An Account of My Hut)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hojoki (An Account of My Hut)</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>『方丈記』（ほうじょうき）は、鴨長明（かものちょうめい、かものながあきら）によって書かれた日本の中世文学史の代表的な随筆。</j>
+<e type="trans" ver="1">&quot;Hojoki,&quot; written by KAMO no Chomei, is a representative essay in the history of medieval Japanese literature.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Hojoki,&quot; written by KAMO no Chomei, is a representative essay in the history of medieval Japanese literature.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">&quot;Hojoki,&quot; written by KAMO no Chomei, is a representative essay in the history of medieval Japanese literature.</e>
+<cmt>修正なし</cmt>
+</sen>
+<par id="1">
+<sen id="2">
+<j>鴨長明が晩年、日野山に方丈（一丈四方）の庵を結んだことから「方丈記」と名づけた。</j>
+<e type="trans" ver="1">Hojoki&apos; was named after the event of KAMO no Chomei&apos;s building Iori (a hut) in one jo square in Mt. Hino.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hojoki&apos; was named after the event of KAMO no Chomei&apos;s building a iori (a hut) in one square jo on Mt. Hino.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">Hojoki&apos; was named after the event of KAMO no Chomei&apos;s building a iori (a hut) in one square jo on Mt. Hino.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>鎌倉時代、1212年（建暦2年）に記されたとされるが、原本は残っていないと見られる。</j>
+<e type="trans" ver="1">Tradition has it that it was written in 1212, the Kamakura era, but it is considered that the original manuscript doesn&apos;t exist.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tradition holds that it was written in 1212, the Kamakura era, but the original manuscript is thought not to exist.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">Tradition holds that it was written in 1212, the Kamakura era, but the original manuscript is thought not to exist.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>現存する最古の写本は大福光寺本であり、しばしば研究の底本とされる。</j>
+<e type="trans" ver="1">The oldest existent manuscript is Daifukukojibon, which is often used as a master copy for the study of the work.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The oldest existent manuscript is Daifukukojibon, which is often used as a master copy for the study of the work.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The oldest existent transcription is Daifukukojibon, which is often used as a master copy for the study of the work.</e>
+<cmt>manuscript→transcription</cmt>
+</sen>
+<sen id="5">
+<j>漢字と片仮名、もしくは漢字と平仮名の混ざった和漢混淆文で書かれたものとしては、最初の優れた文芸作品である。</j>
+<e type="trans" ver="1">It was the first excellent literary work written in Chinese characters and Hiragana, or Wakan Konkobun (mixed writing style of Japanese and Chinese loanwords).</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=和漢混淆文&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=23111919777700「和漢混淆文」の訳語は「ルミナス和英辞典（研究社）」より（以下、「ル和」と表記）</cmt>
+<e type="trans" ver="2">It was the first excellent literary work written in Chinese characters and Hiragana, or Wakan Konkobun (mixed writing style of Japanese and borrowed Chinese words).</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">It was the first excellent literary work written in Chinese characters and Katakana, or the Wakan Konkobun mixed writing style of Chinese characters and Hiragana.</e>
+<cmt>Hiragana→KatakanaJapanese and borrowed Chinese words→Chinese characters and Hiraganaより原文に通りに修正</cmt>
+</sen>
+<sen id="6">
+<j>また、乱世をいかに生きるかという自伝的な人生論でもある。</j>
+<e type="trans" ver="1">And it also contains an essay on his view of life, explaining how people should live in the troubled times.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, it contains an essay on his view of life, explaining how people should live in troubled times.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">Additionally, it contains an essay on his view of life, explaining how people should live in troubled times.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>吉田兼好の『徒然草』が書かれたのは、この後およそ100年後である。</j>
+<e type="trans" ver="1">It was about 100 years later that &quot;Tsureduregusa (Essays in Idleness)&quot; was written by Kenko YOSHIDA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was about 100 years later that &quot;Tsureduregusa (Essays in Idleness)&quot; was written by Kenko YOSHIDA.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">It was about 100 years later that &quot;Tsurezuregusa&quot; (Essays in Idleness) was written by Kenko YOSHIDA.</e>
+<cmt>Tsureduregusa→Tsurezuregusa&quot;Tsurezuregusa (Essays in Idleness)&quot;→&quot;Tsurezuregusa&quot; (Essays in Idleness)に変更しました。</cmt>
+</sen>
+<sen id="8">
+<j>清少納言の『枕草子』とあわせて日本三大一覧歴史・風刺とも呼ばれる。</j>
+<e type="trans" ver="1">Together with &quot;The Pillow Book&quot; written by Sei Shonagon, these works are also called 3 Japanese major lists, histories, and satires.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Together with &quot;The Pillow Book&quot; written by Sei Shonagon, these works are called the three Japanese major lists, histories and satires.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Together with &quot;The Pillow Book&quot; written by Sei Shonagon, these works are called the three Japanese major lists, histories and satires.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>また、隠棲文学の祖ともされる。</j>
+<e type="trans" ver="1">Also, it is considered a pioneer of the Insei Literature (literature of retirement).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, it is considered to be a pioneering work of insei literature (literature of retirement).</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Also, it is considered to be a pioneering work of insei literature (literature of retirement).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>（慶滋保胤の『池亭記』を祖とする説もあり）</j>
+<e type="trans" ver="1">(There is also a view that &quot;Chiteiki&quot; written by YOSHISHIGE no Yasutane was a pioneer.)</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=慶滋保胤&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=22114018975000http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=池亭記&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=13793811917100</cmt>
+<e type="trans" ver="2">(There is also a view that &quot;Chiteiki,&quot; written by YOSHISHIGE no Yasutane, was a pioneering work.)</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">(There is also a view that &quot;Chiteiki,&quot; written by YOSHISHIGE no Yasutane, was a pioneering work.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="11">
+<j>鴨長明無常観の文学と言われる。</j>
+<e type="trans" ver="1">It is said to be the literature representing KAMO no Chomei&apos;s Mujokan (Buddhist concept of the impermanence of worldly things).</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=無常観&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=20911317916700</cmt>
+<e type="trans" ver="2">It is said to be the literature representing KAMO no Chomei&apos;s Mujokan (Buddhist concept of the impermanence of worldly things).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is said to be the literature representing KAMO no Chomei&apos;s Mujokan (Buddhist concept of the impermanence of worldly things).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>冒頭で移り行くもののはかなさを語った後、同時代・または過去の災厄についての記述が続き、後半には自らの草庵での生活が語られる。</j>
+<e type="trans" ver="1">In the opening of the work, he wrote about the transitoriness of fleeting things, and then disasters which occurred in his time or in the past, and his life at a thatch hut was written in the latter part.</e>
+<cmt>この文中の「草庵」は茶室の別称ではなく、草葺（ぶ）きの小さな家のこと。</cmt>
+<e type="trans" ver="2">In the opening of the work, he wrote about the transitory nature of fleeting things, and then the disasters that occurred in his time or in the past, and his life in a thatched hut was written during the latter part.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">In the opening of the work, he wrote about the transitory nature of fleeting things, and then the disasters that had occurred in his time or in the past, and his life in a thatched hut was described during the latter part.</e>
+<cmt>スペース削除</cmt>
+</sen>
+<sen id="13">
+<j>さらに末尾では草庵の生活に愛着を抱くことさえも悟りへの妨げとして否定する。</j>
+<e type="trans" ver="1">Moreover, he denied to become attached to the life at a thatch hut because it prevents people from achieving spiritual enlightenment.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, he denied any attachment to life in a thatched hut because it would prevent people from achieving spiritual enlightenment.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">Moreover, at the end of the work he denied any attachment to life in a thatched hut because it would prevent people from achieving spiritual enlightenment.</e>
+<cmt>in the ending of the work,補足</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>冒頭と結び</j>
+<e type="trans" ver="1">The opening and ending</e>
+<cmt></cmt>
+<e type="trans" ver="2">The opening and the ending</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The opening and the ending</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="14">
+<j>「ゆく河の流れは絶えずして、しかも、もとの水にあらず。淀みに浮かぶうたかたは、かつ消え、かつ結びて、久しくとどまりたる例なし。」</j>
+<e type="trans" ver="1">The river never stops running and the water is never the same as before. The bubbles are floating on the pool. Some bubbles are disappeared and some are coming up. They will never be the same.&apos;</e>
+<cmt>一原文一訳文の例外対処http://www.h3.dion.ne.jp/~urutora/kotenpeji.htm</cmt>
+<e type="trans" ver="2">The river never stops running, and the water is never the same as before. The bubbles are floating on the pool; some bubbles are disappearing and some are coming up; they will never be the same.&apos;</e>
+<cmt>punctuationgrammer</cmt>
+<e type="check" ver="1">The river never stops running, and the water is never the same as before. The bubbles are floating on the pool; some bubbles are disappearing and some are coming up; they will never be the same.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="15">
+<j>「干時、建暦のふたとせ、やよひのつごもりごろ、桑門の蓮胤、外山の庵にて、これをしるす。」</j>
+<e type="trans" ver="1">It is the end of March in 1212, Renin the Monk is writing this down at the hut in Toyama.&apos;</e>
+<cmt>http://www.h3.dion.ne.jp/~urutora/kotenpeji.htm</cmt>
+<e type="trans" ver="2">It is the end of March 1212, and Renin the Monk is writing this down at the hut in Toyama.&apos;</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">It is the end of March 1212, and Renin the Monk is writing this down at the hut in Toyama.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>文体</j>
+<e type="trans" ver="1">Style</e>
+<cmt></cmt>
+<e type="trans" ver="2">Style</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Style</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="16">
+<j>明快で、流麗。</j>
+<e type="trans" ver="1">It is clear and elegant.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is clear and elegant.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is clear and elegant.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>詠嘆表現や対句表現を多用する。</j>
+<e type="trans" ver="1">Exclamatory expressions and couplets were used a lot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Exclamatory expressions and couplets were frequently used.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">Exclamatory expressions and couplets were frequently used.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>和漢混交文。</j>
+<e type="trans" ver="1">It is written in Wakan Konkobun.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is written in Wakan Konkobun.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is written in Wakan Konkobun.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>天災・飢饉に関する記述</j>
+<e type="trans" ver="1">Descriptions about disasters and famines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Descriptions of disasters and famines</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Descriptions of disasters and famines</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="19">
+<j>安元三年（1177）の都の火災、治承四年（1180）に同じく都で発生した竜巻およびその直後の遷都、養和年間（1181～1182）の飢饉、さらに元暦二年（1185）に都を襲った大地震など、その前半部分はもっぱら天変地異に関する記述を書き連ねている。</j>
+<e type="trans" ver="1">The first part of the book focuses on natural calamities such as the Fire of Angen in 1777, the relocation of the capital which took place shortly after the whirlwind in 1180, the famine occurred between 1181 and 1182, and the big earthquake which hit the capital in 1185.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The first part of the book focuses on natural calamities such as the Fire of Angen in 1777, the relocation of the capital that took place shortly after the whirlwind in 1180, the famine that occurred between 1181 and 1182, and the big earthquake that hit the capital in 1185.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">The first part of the book focuses on natural calamities such as the Fire of Angen in 1177, the relocation of the capital that took place shortly after the whirlwind in 1180, the famine that occurred between 1181 and 1182, and the big earthquake that hit the capital in 1185.</e>
+<cmt>1777→1177</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="20">
+<j>後半部分に見られる、およそ貴族とは言えないような不遇をなぜ自分がかこたなければならなかったのか、その説明、あるいは言い訳であるとも想像されるが、今日的な防災という観点から見れば、きわめて貴重で興味深い資料となっている。</j>
+<e type="trans" ver="1">In the latter part of the book, he wrote an explanation or an excuse-appearing writing why he had to bemoan his bad luck, which was not suitable for the life of aristocracy, but this part is considered a very important and interesting material from the view of the present disaster prevention.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the latter part of the book, he wrote an explanation or a writing that appeared to be an excuse as to why he had to bemoan his bad luck, which was not suitable for the life of aristocracy, but this part is considered a very important and interesting material from the perspective of present-day disaster prevention.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">In the latter part of the book, he wrote an explanation or a writing that appeared to be an excuse as to why he had to bemoan his bad luck, which was not suitable for the life of aristocracy, but this part is considered a very important and interesting material from the perspective of present-day disaster prevention.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="21">
+<j>安元の火災</j>
+<e type="trans" ver="1">The Fire of Angen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Fire of Angen</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The Fire of Angen</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>安元三年（1177）四月二十八日午後八時頃、都の東南（現在のJR京都駅付近か）で、舞人の宿屋が火の不始末が原因で出火した。</j>
+<e type="trans" ver="1">Around 8 p.m., on April 28, 1177, a fire broke out through the careless handling of burning things in the inn of a dancer in the southeast of the capital (near the present JR Kyoto Station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Around 8 p.m., on April 28, 1177, a fire broke out through the careless handling of burning things in the inn of a dancer in the southeast of the capital (near the present JR Kyoto Station).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Around 8 p.m., on April 28, 1177, a fire broke out through the careless handling of burning things in the inn of a dancer in the southeast of the capital (near the present JR Kyoto Station).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>災はまたたく間に都の西北に向かって燃え広がり、朱雀門・大極殿・大学寮・民部省などが一夜のうちに灰燼に帰した。</j>
+<e type="trans" ver="1">Soon the fire spread to the northwest of the capital, and Suzakumon, Daigokuden, Daigakuryo Organization, and Minbusho Department etc. were reduced to ashes in a night.</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=朱雀門&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=11485109891800http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=大極殿&amp;dtype=0&amp;stype=0&amp;dname=0na&amp;ref=1&amp;index=12924411148400http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=大学寮&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=12885311109100http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=民部省&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=20824417834900</cmt>
+<e type="trans" ver="2">Soon the fire spread to the northwest of the capital, and overnight Suzakumon, Daigokuden, the Daigakuryo Organization and Minbusho Department, etc., were reduced to ashes.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">Soon the fire spread to the northwest of the capital, and overnight Suzakumon, Daigokuden, the Daigakuryo Organization and Minbusho Department, etc., were reduced to ashes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>公卿の邸宅だけでも十六軒、一般家屋に至っては都の三分の一が焼失した。</j>
+<e type="trans" ver="1">16 residences of the court nobles were burned down, and one-third of the houses of common people in the capital were destroyed by fire.</e>
+<cmt></cmt>
+<e type="trans" ver="2">16 residences of the court nobles were burned down, and one-third of the houses of common people in the capital were destroyed by fire.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">16 residences of the court nobles were burned down, and one-third of the houses of common people in the capital were destroyed by fire.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>死者は数十人（『平家物語』の記述では数百人）であった。</j>
+<e type="trans" ver="1">Dozens of people were killed in the fire (hundreds of people, according to &quot;Heike Monogatari (The Tales of the Heike)&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dozens of people were killed in the fire (hundreds of people, according to &quot;Heike Monogatari (The Tales of the Heike)&quot;).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Dozens of people were killed in the fire (hundreds of people, according to &quot;Heike Monogatari (The Tales of the Heike)&quot;).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="26">
+<j>治承の竜巻</j>
+<e type="trans" ver="1">Tornado of Jisho</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=治承&amp;dtype=0&amp;dname=0na&amp;stype=1&amp;pagenum=1&amp;index=09367407994600</cmt>
+<e type="trans" ver="2">The tornado of Jisho</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The tornado of Jisho</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>治承四年（1180）四月、中御門大路と東京極大路の交差点付近（現在の京都市上京区松蔭町、京都市歴史資料館の辺りか）で大きな竜巻（長明は『辻風』と記述）が発生した。</j>
+<e type="trans" ver="1">In April, 1180, a big tornado (&quot;whirlwind,&quot; according to Chomei) was caused near the crossroads of Nakamikado-oji Street and Higashikyogoku-oji Street (near the present Matsukagecho, Kamigyo Ward, Kyoto City and the Kyoto City Museum of Historical Materials).</e>
+<cmt>http://www.mutsunohana.net/miyako/oji-koji/nakamikado-oji.htmhttp://www.mutsunohana.net/miyako/oji-koji/higashikyogoku-oji.htmhttp://www.excite.co.jp/map/http://kaiwai.city.kyoto.jp/sightdb/sight-raku/view_sight.php?lang=ja&amp;InforKindCode=1&amp;ManageCode=5000014http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=辻風&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=14313612390600</cmt>
+<e type="trans" ver="2">In April 1180, a big tornado (a &quot;whirlwind,&quot; according to Chomei) occurred near the crossroads of Nakamikado-oji Street and Higashikyogoku-oji Street (near the present Matsukagecho, Kamigyo ward, Kyoto City and the Kyoto City Museum of Historical Materials).</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">In April 1180, a big tornado (a &quot;whirlwind,&quot; according to Chomei) occurred near the crossroads of Nakamikado-oji Street and Higashikyogoku-oji Street (near the present Matsukagecho, Kamigyo Ward, Kyoto City and the Kyoto City Museum of Historical Materials).</e>
+<cmt>ward→Ward</cmt>
+</sen>
+<sen id="28">
+<j>風は周囲にあるものをあっという間に飲み込み、家財道具や檜皮、葺板などが、あたかも冬の木の葉のように宙を舞った。</j>
+<e type="trans" ver="1">A gust of wind blew off the things all around in an instant, and pieces of furniture, cypress bark roofs, Fukiita Shingle, etc. whirled in the air like winter leaves.</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=葺き板&amp;dtype=0&amp;dname=0na&amp;stype=1&amp;pagenum=1&amp;index=18582215967700</cmt>
+<e type="trans" ver="2">A gust of wind blew off the things all around in an instant, and pieces of furniture, cypress bark roofs, Fukiita Shingle, etc., whirled in the air like winter leaves.</e>
+<cmt>カンマ補足</cmt>
+<e type="check" ver="1">PROBABLY autumn leaves</e>
+<cmt>OK</cmt>
+</sen>
+<sen id="29">
+<j>風の通ったあとには、ぺしゃんこに潰れたり、桁や柱だけになった家が残された。</j>
+<e type="trans" ver="1">After the wind passed, there remained crushed houses, beams, and pillars only.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the wind passed, there remained only crushed houses, beams, and pillars.</e>
+<cmt>語順を修正</cmt>
+<e type="check" ver="1">After the wind passed, there remained only crushed houses, beams, and pillars.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>竜巻は市街地を南南西に向かって走り抜け、現在の東本願寺の手前辺りで消滅したものと思われる。</j>
+<e type="trans" ver="1">The tornado passed the capital toward south-southwest, and seems to have disappeared before the present Higashi Hongan-ji Temple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The tornado passed the capital toward the south-southwest, but it seemed to disappear before reaching what is now Higashi Hongan-ji Temple.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">The tornado passed the capital toward the south-southwest, but it seemed to disappear before reaching what is now Higashi Hongan-ji Temple.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="31">
+<j>養和の飢饉</j>
+<e type="trans" ver="1">Famine of Yowa</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=養和&amp;dtype=0&amp;dname=0na&amp;stype=1&amp;pagenum=1&amp;index=22052318921400</cmt>
+<e type="trans" ver="2">The famine of Yowa</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The famine of Yowa</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>養和年間（1181～1182）の頃、二年間にわたって飢饉があり、諸国の農民で逃散する者が多かった。</j>
+<e type="trans" ver="1">From 1181 to 1182, a famine occurred for 2 years, and many farmers in various provinces abandoned their lands.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A famine took place during the years 1181 and 1182, and many farmers in various provinces abandoned their lands.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">A famine took place during the years 1181 and 1182, and many farmers in various provinces abandoned their lands.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>朝廷は様々な加持祈祷を試みたが甲斐なく、諸物価は高騰し、さらに疫病が人々を襲った。</j>
+<e type="trans" ver="1">Imperial court tried to depend on various incantations and prayers in vain, and in addition to the rise of prices, a plague killed many people.</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=加持祈祷&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=03924603195800</cmt>
+<e type="trans" ver="2">The Imperial Court tried in vain to depend on various incantations and prayers, and in addition to the rise of prices, a plague killed many people.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Imperial Court tried in vain to depend on various incantations and prayers, and in addition to the rise of prices, a plague killed many people.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>仁和寺の隆暁法印という人が無数の餓死者が出たことを悲しみ、行き交うごとに死者の額に「阿」の字を書いて結縁し、その数を数えたところ、四万二千三百余に達したという。</j>
+<e type="trans" ver="1">Ryugyohoin in Ninna-ji Temple mourned over the countless people who died of starvation, and every time he encountered the dead, he wrote a letter of &apos;阿&apos; on their foreheads for Kechien (making a connection with Buddha to rest spirit), and it is said that the number of the dead reached to more than 42,300.</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=仁和寺&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=16407814180100http://www.plan2030.gr.fks.ed.jp/00298/siryou.pdfhttp://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=%E7%B5%90%E7%B8%81&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=06607805594900</cmt>
+<e type="trans" ver="2">Ryugyohoin, in Ninna-ji Temple, mourned the countless people who died of starvation, and every time he encountered the dead he would write a letter of &apos;阿&apos; on their foreheads for Kechien (making a connection with Buddha for the repose of the spirit), and it is said that the number of the dead exceeded 42,300.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">Ryugyohoin, in Ninna-ji Temple, mourned the countless people who died of starvation, and every time he encountered the dead he would write a letter of &apos;阿&apos; on their foreheads for Kechien (making a connection with Buddha for the repose of the spirit), and it is said that the number of the dead exceeded 42,300.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>なお、この飢饉は自然発生的なものではなく、源頼朝・木曽義仲の挙兵や平氏の福原遷都によって都への貢米が押しとどめられ、食糧難に襲われたものであると想像される。</j>
+<e type="trans" ver="1">However, it is assumed that this famine was not brought about naturally, but caused by a shortage of food which happened because in addition to the transferring of the national capital to Fukuhara by the TAIRA clan, MINAMOTO no Yoritomo and Yoshinaka KISO raised their armies, and rice as render was not carried to the capital.</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=木曽義仲&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=05088604253500http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=福原&amp;dtype=0&amp;dname=0na&amp;stype=1&amp;pagenum=1&amp;index=18637616017400http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=貢米&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=07296806223400</cmt>
+<e type="trans" ver="2">However, it is assumed that this famine was not brought about naturally but was caused by a shortage of food that had occurred because, in addition to the transfer of the national capital to Fukuhara by the TAIRA clan, MINAMOTO no Yoritomo and Yoshinaka KISO raised their armies, and rice as render was not carried to the capital.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">However, it is assumed that this famine was not brought about naturally but was caused by a shortage of food that had occurred because, in addition to the transfer of the national capital to Fukuhara by the Taira clan, MINAMOTO no Yoritomo and Yoshinaka KISO took up arms, and rice as render was not carried to the capital.</e>
+<cmt>TAIRA→Taira&quot;raised their armies&quot;→&quot;took up arms&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="36">
+<j>元暦の地震</j>
+<e type="trans" ver="1">Earthquake of Genryaku</e>
+<cmt>http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;p=元暦&amp;dtype=0&amp;dname=0na&amp;stype=0&amp;pagenum=1&amp;index=06896105862100</cmt>
+<e type="trans" ver="2">The earthquake of Genryaku</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The earthquake of Genryaku</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>元暦二年（1185）七月九日、大きな地震が都を襲った。</j>
+<e type="trans" ver="1">On July 9, 1185, a big earthquake hit the capital.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On July 9, 1185, a big earthquake hit the capital.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On July 9, 1185, a big earthquake hit the capital.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>山は崩れ海は傾き、土は裂けて岩は谷底に転げ落ちた。</j>
+<e type="trans" ver="1">Mountains were collapsed, the sea became rough, lands were split, and rocks fell down to the bottom of ravines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mountains collapsed, the sea became rough, lands were split, and rocks fell down to the bottoms of ravines.</e>
+<cmt>grammer</cmt>
+<e type="check" ver="1">Mountains collapsed, the sea became rough, lands were split, and rocks fell down to the bottoms of ravines.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>余震は三ヶ月にもわたって続いたという。</j>
+<e type="trans" ver="1">It is said that the aftershocks had continued over 3 months.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that the aftershocks continued over three months.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">It is said that the aftershocks continued over three months.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Stella NF(id:165138), AlleborgoBot(id:119729), Nnh(id:474), Andre Engels(id:202), Pazuzu(id:103079), Ronko(id:209960), Katekate(id:95362), Robbot(id:3063), Martin(id:6394), Yuming(id:17854), Nevylax(id:38464), Singing(id:134656), TY(id:1386), Yas(id:739), Uhock(id:86695), Sleepygreen(id:8068), Zippin(id:9885), Katsuya(id:21306), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

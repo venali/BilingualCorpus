@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>藤氏家伝</j>
+<e type="trans" ver="1">Toshi Kaden (biographies of the Fujiwara clan)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Toshi Kaden</e>
+<cmt>omit explanation</cmt>
+<e type="check" ver="1">Toshi Kaden</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>藤氏家伝（藤氏家傳・ とうしかでん）は天平宝字四年（760年）に成立した。</j>
+<e type="trans" ver="1">The Toshi Kaden was written in 760.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The Toshi Kaden was written in 760.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The &quot;Toshi Kaden&quot; was written in 760.</e>
+<cmt>Toshi Kaden にダブルクォーテーションを追記しました。</cmt>
+</sen>
+<sen id="2">
+<j>古代から藤原氏に代々伝えられてきた、藤原氏初期の歴史が記された伝記であり、上・下とある。</j>
+<e type="trans" ver="1">It is family biographies of the early Fujiwara clan of two-volume book that passed down from generation to generation since early times.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Within a two-volume series, the Toshi Kaden contains family histories of the early Fujiwara Clan which were passed down through many generations.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Within a two-volume series, the Toshi Kaden contains family histories of the early Fujiwara Clan which were passed down through many generations.</e>
+<cmt>OK</cmt>
+</sen>
+<sen id="3">
+<j>省略して家伝ともいう。</j>
+<e type="trans" ver="1">It is also called the &quot;Kaden&quot; for short.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also called the &quot;Kaden&quot; for short.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also called the &quot;Kaden&quot; for short.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>日本書紀や続日本紀には無い歴史が記述されている。</j>
+<e type="trans" ver="1">Some case histories described here were not shown in the Nihonshoki (Chronicles of Japan) and the Zoku Nihongi (Continuation of Chronicles of Japan).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some case histories described here do not appear in the Nihonshoki (Chronicles of Japan) and the Zoku Nihongi (Continuation of Chronicles of Japan).</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Some case histories described here do not appear in the Nihonshoki (Chronicles of Japan) and the Shoku Nihongi (Chronicle of Japan Continued).</e>
+<cmt>用語集の表記に従い、Zoku Nihongi (Continuation of Chronicles of Japan) をShoku Nihongi (Chronicle of Japan Continued) に修正しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>家伝上（「大織冠伝」）の著・編者は恵美押勝であり、藤原鎌足と定恵と藤原史(藤原不比等)の伝記を記したものである。</j>
+<e type="trans" ver="1">The first volume of the Kaden (known formally as Taishokukan-den) was written and edited by Oshikatsu EMI and it described the biographies of Kamatari NAKATOMI, Joe and FUJIWARA no fuhito.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The first volume of the Kaden (known formally as Taishokukan-den) was written and edited by Oshikatsu EMI and it describes the biographies of Kamatari FUJIWARA, Joe, and Fuhito FUJIWARA (FUJIWARA no Fuhito).</e>
+<cmt>rewording;although NAKATOMI is another name of Kamatari Fujiwara, it does not appear in the original Japanese text, so I have returned it back to FUJIWARA</cmt>
+<e type="check" ver="1">The first volume of the Kaden (known formally as &apos;Taishokukan-den&apos;) was written and edited by Oshikatsu EMI and it describes the biographies of Kamatari FUJIWARA, Joe, and Fuhito FUJIWARA (FUJIWARA no Fuhito).</e>
+<cmt>Taishokukan-den にシングルクォーテーションを追記しました。</cmt>
+</sen>
+<sen id="6">
+<j>ただし、藤原不比等の条は現存しない。</j>
+<e type="trans" ver="1">However, the passage of Fuhito FUJIWARA was lost.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the passages of FUJIWARA no Fuhito were lost.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">However, the passages of FUJIWARA no Fuhito were lost.</e>
+<cmt>OK</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="7">
+<j>家伝下（「武智麻呂伝」）の著・編者は僧延慶 (僧)であり、藤原武智麻呂の伝記を記したものである。</j>
+<e type="trans" ver="1">The second volume of the Kaden (known formally Muchimaro-den) was written and edited by Enkei, the Buddhist monk, and it described the biography of Muchimaro FUJIWARA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The second volume of the Kaden (known formally Muchimaro-den) was written and edited by Enkei, the Buddhist monk, and it describes the biography of FUJIWARA no Muchimaro.</e>
+<cmt>verb tense;rewording</cmt>
+<e type="check" ver="1">The second volume of the Kaden (known formally &apos;Muchimaro-den&apos;) was written and edited by Enkei, the Buddhist priest, and it describes the biography of FUJIWARA no Muchimaro.</e>
+<cmt>Muchimaro-den にシングルクォーテーションを追記しました。monk を priest に修正しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 こぶまき(id:38278), Xqbot(id:273540), Suisui(id:69), 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

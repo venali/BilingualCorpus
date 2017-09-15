@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>胡麻駅</j>
+<e type="trans" ver="1">Goma Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Goma Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Goma Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>胡麻駅（ごまえき）は、京都府南丹市日吉町 (京都府)にある、西日本旅客鉄道（JR西日本）山陰本線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Hiyoshi-cho, Nantan City, Kyoto Prefecture, Goma Station is a stop on San&apos;in Main Line, which is operated by West Japan Railway Company (JR West).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Located in Hiyoshi-cho, Nantan City, Kyoto Prefecture, Goma Station is a stop on the San&apos;in Main Line, which is operated by West Japan Railway Company (JR West).</e>
+<cmt>Added &quot;the&quot;</cmt>
+<e type="check" ver="1">Located in Hiyoshi-cho, Nantan City, Kyoto Prefecture, Goma Station is a stop on the Sanin Main Line, which is operated by West Japan Railway Company (JR West).</e>
+<cmt>Sanin としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>一部の特急列車が停車し、また当駅折り返しの列車も多く設定されている。</j>
+<e type="trans" ver="1">Some limited express services make a stop here and many shuttle service trains start from and arrive at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some limited express services make a stop here and many shuttle service trains start from and arrive at this station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some limited express services make a stop here and many shuttle service trains arrive at and depart from this station.</e>
+<cmt>start from and arrive at→arrive at and depart from に変更しました。</cmt>
+</sen>
+<sen id="3">
+<j>さらに昼間時には特急の待避駅通過追越により、発車までは10分以上かかる。</j>
+<e type="trans" ver="1">But during the daytime, Goma Station has to let limited express services pass through as a shunting station, so this station&apos;s passengers have to wait more than 10 minutes before the train&apos;s start.</e>
+<cmt></cmt>
+<e type="trans" ver="2">But during the day, Goma Station serves as a passing loop and local trains often have to wait 10 or more minutes to let express trains through.</e>
+<cmt>Reworded sentence&quot;shunting station&quot;→&quot;passing loop&quot;</cmt>
+<e type="check" ver="1">But during the day, Goma Station serves as a passing loop and local trains often have to wait ten or more minutes to let express trains through.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>駅構造</j>
+<e type="trans" ver="1">Structure of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station Layout</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Station Layout</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>単式・島式の複合型2面3線のプラットホームを持つ地上駅。</j>
+<e type="trans" ver="1">Goma Station is a stop on the ground which is compounded of two platforms (one side platform &amp; one island platform) and three boardding areas.</e>
+<cmt>「単式・島式の複合型2面3線のプラットホームを持つ」については、Wiki「プラットホーム」を参照し、「単式・島式の2つのプラットホームと３つの乗り場からなる」としました。またそう解すると「プラットホーム」と「乗り場（…番線）」は分けて訳す必要があるので、前者を platform 後者を boarding area としています。</cmt>
+<e type="trans" ver="2">Goma Station is a ground level station with one side platform and one island platform serving three tracks.</e>
+<cmt>&quot;stop on the ground&quot;→&quot;ground level station&quot;Changed underlined section→&quot;with one side platform and one island platform serving three tracks&quot;</cmt>
+<e type="check" ver="1">Goma Station is a ground level station with one side platform and one island platform serving three tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>駅舎はあるが無人駅となっており、駅舎内に自動券売機が設置されている。</j>
+<e type="trans" ver="1">There exists a station building, but it becomes unmanned, so an automatic ticket machine is set inside the building.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a station building but, since it is unmanned, there is an automatic ticket machine inside the building.</e>
+<cmt>&quot;exists&quot;→&quot;is&quot;Moved commaAdded &quot;since&quot;&quot;becomes&quot;→&quot;is&quot;Added &quot;there is&quot;Deleted &quot;is set&quot;</cmt>
+<e type="check" ver="1">There is a station building but, since it is unmanned, there is an automatic ticket machine inside the building.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>駅舎に面した単式ホームが1番線で、島式の2・3番線へは跨線橋で連絡している。</j>
+<e type="trans" ver="1">The side platform, or Boarding Area 1, faces the station building, and this platform is connected by a flyover with the island platform, or Boarding Area 2 &amp; 3.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The side platform (track 1) adjoins the station building, and is connected by a bridge with the island platform (tracks 2 &amp; 3).</e>
+<cmt>&quot;or Boarding Area&quot;→&quot;track&quot;&quot;faces&quot;→&quot;adjoins&quot;&quot;flyover&quot;→&quot;bridge&quot;Deleted &quot;this platform&quot;</cmt>
+<e type="check" ver="1">The side platform (track 1) adjoins the station building, and is connected by a bridge with the island platform (tracks 2 &amp; 3).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>1番線が一線スルーとなっており、特急は全て1番線を通る。</j>
+<e type="trans" ver="1">Boarding Area 1takes the system that keeps the speed of the nonstop train by limiting the train&apos;s running line to a single track, so all limited express services pass through Boarding Area 1.</e>
+<cmt>「一線スルー」とは、「通過（スルー）する列車の走る線路を一線だけにすることで、その走行速度を保たせる方式」(Wiki 「一線スルー」参照。）のことで、それを&apos;the system that keeps the speed of the nonstop train by limiting the train&apos;s running line to a single track&apos;では表現しています。</cmt>
+<e type="trans" ver="2">Track 1 serves as the main line when trains are crossing, so all limited express trains use this track.</e>
+<cmt>&quot;Boarding Area&quot;→&quot;track&quot;Reworded sentence</cmt>
+<e type="check" ver="1">Track 1 serves as the main line when trains are crossing, so all limited express trains use this track.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>普通列車も行違いがない場合は1番線に入るが、前述した通り昼間時は当駅で特急通過待ち・行違いがあるため、1番線発着は朝と夕方以降のみに限られる。</j>
+<e type="trans" ver="1">When the limited express service doesn&apos;t cross over, the local train service also goes into Boarding Area 1, but, as mentioned above, the local one has to wait for the faster one to pass through during the daytime, so it is just in the morning &amp; in and after the evening that the local one can start from and arrive at Boarding Area 1.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When limited express trains are not passing, local trains also use track 1 but, as mentioned above, the station serves as a passing loop during the day, so this is only possible during the morning and evening.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">When limited express trains are not passing, local trains also use track 1 but, as mentioned above, the station serves as a passing loop during the day, so this is only possible during the morning and evening.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>なお、園部方面からの折返し列車は、3番線で折り返す。</j>
+<e type="trans" ver="1">In addition, the shuttle service train from the direction of Sonobe Station arrives at and starts from Boarding Area 3.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, the shuttle service train to and from Sonobe Station arrives at, and departs from, track 3.</e>
+<cmt>Added &quot;to and&quot;Deleted &quot;the direction of&quot;&quot;starts&quot;→&quot;departs&quot;</cmt>
+<e type="check" ver="1">In addition, the shuttle service train to and from Sonobe Station arrives at, and departs from, track 3.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="11">
+<j>利用状況</j>
+<e type="trans" ver="1">Situation of passengers&apos; use</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger Volume</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>小タイトル用に変更しました。他の記事と統一しました。</cmt>
+</sen>
+<sen id="12">
+<j>2006年度の1日あたりの乗車人員は約400人である。</j>
+<e type="trans" ver="1">In fiscal 2006, the number of passengers who use this station is about 400 a day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In fiscal 2006, the number of passengers who used the station was about 400 a day.</e>
+<cmt>Changed verbs to past tense&quot;this&quot;→&quot;the&quot;</cmt>
+<e type="check" ver="1">In fiscal year 2006, the number of passengers who used the station was about 400 a day.</e>
+<cmt>&quot;fiscal 2006&quot;→&quot;fiscal year 2006&quot;に変更しました。</cmt>
+</sen>
+<sen id="13">
+<j>（京都府統計書より）</j>
+<e type="trans" ver="1">(according to the statistics of Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(according to the Kyoto Prefecture Statistics Report)</e>
+<cmt>Deleted &quot;statistics of&quot;Added &quot;Statistics Report&quot;</cmt>
+<e type="check" ver="1">(according to the Kyoto Prefecture Statistics Report)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="14">
+<j>駅周辺</j>
+<e type="trans" ver="1">Surroundings of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Surroundings</e>
+<cmt>Deleted &quot; of the station&quot;</cmt>
+<e type="check" ver="1">Surroundings</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>郷の駅　胡麻屋（ごまや・駅前）</j>
+<e type="trans" ver="1">&quot;Sato no Eki Gomaya&quot; (a complex of shops selling local farm products and others, located in front of the station)</e>
+<cmt>「郷の駅　胡麻屋」につき [http://gomanosato.net/index.html] を参照し、「駅前にある、地元の農産物その他を販売する店舗からなる複合施設」とまとめてみました。</cmt>
+<e type="trans" ver="2">&quot;Sato no Eki Gomaya&quot; (a complex of shops selling local farm produce and other products, located in front of the station)</e>
+<cmt>&quot;products&quot;&quot;produce&quot;Added &quot;products&quot;</cmt>
+<e type="check" ver="1">&quot;Sato no Eki Gomaya&quot; (a complex of shops selling local farm produce and other products, located in front of the station)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>クランベール京都ゴルフ倶楽部</j>
+<e type="trans" ver="1">Grandvert Kyoto Golf Club</e>
+<cmt></cmt>
+<e type="trans" ver="2">Grandvert Kyoto Golf Club</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Grandvert Kyoto Golf Club</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>丸山</j>
+<e type="trans" ver="1">Mt. Maruyama</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mt. Maruyama</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mt. Maruyama</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>南丹市立胡麻郷小学校</j>
+<e type="trans" ver="1">Gomago Elementary School, a Nantan City elementary school</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gomago Elementary School, a Nantan City elementary school</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nantan Municipal Gomago Elementary School</e>
+<cmt>Nantan Municipal としました。</cmt>
+</sen>
+<sen id="19">
+<j>かやぶき音楽堂（毎年春と秋のザイラー公演時は、行き帰りにあわせて特急が数本臨時停車する。）</j>
+<e type="trans" ver="1">&quot;Kayabuki Ongaku-do&quot; (The Straw Thatched Music Hall)---Every spring and autumn, the Seiler Piano Duo comes here and puts on its performance, and so several limited express services make a stop at Goma Station as a special train schedule for the audience.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Kayabuki Ongaku-do&quot; (The Straw Thatched Music Hall)---Every spring and autumn, the Seiler Piano Duo comes here and puts on a performance, so several limited express services stop at Goma Station especially for the people going to the show.</e>
+<cmt>&quot;its&quot;&quot;a&quot;Deleted &quot;and&quot;deleted &quot;as a special train schedule&quot;deleted &quot;make a&quot;Added especially</cmt>
+<e type="check" ver="1">&quot;Kayabuki Ongaku-do&quot; (The Straw Thatched Music Hall. Every spring and autumn, the Seiler Piano Duo comes here and puts on a performance, so several limited express services stop at Goma Station especially for the people going to the show.)</e>
+<cmt>表記を変更</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="20">
+<j>京都府道50号京都日吉美山線</j>
+<e type="trans" ver="1">Kyoto Prefectural Road No.50, Kyoto Hiyoshi Miyama Route</e>
+<cmt>京都府道50号京都日吉美山線→Kyoto Prefectural Road No.50, Kyoto Hiyoshi Miyama Route [定訳不明]</cmt>
+<e type="trans" ver="2">Kyoto Prefectural Road No.50, Kyoto Hiyoshi Miyama Route</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Hiyoshi Miyama Line of the Kyoto Prefectural Route 50</e>
+<cmt>道路の表記を変更しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="21">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>1910年（明治43年）8月25日 - 日本国有鉄道の駅として開業。</j>
+<e type="trans" ver="1">August 25, 1910--Goma Station opened as a Japan National Railways stop.</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 25, 1910--Goma Station opened as a Japan National Railways stop.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">August 25, 1910: Goma Station opened as a Japan National Railways stop.</e>
+<cmt>-- を　:　に変更しました。</cmt>
+</sen>
+<sen id="23">
+<j>客貨取扱を開始。</j>
+<e type="trans" ver="1">And it began transporting passengers and freight.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Began handling passengers and freight.</e>
+<cmt>Deleted &quot;And it &quot;&quot;transporting&quot;→&quot;handling&quot;</cmt>
+<e type="check" ver="1">Began handling passengers and freight.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="24">
+<j>1963年（昭和38年）3月1日 - 貨物取扱を廃止。</j>
+<e type="trans" ver="1">March 1, 1963--Goma Station ended transporting freight.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 1, 1963-- Stopped handling freight.</e>
+<cmt>Deleted &quot;Goma Station&quot;&quot;ended transporting&quot;→&quot;stopped handling&quot;</cmt>
+<e type="check" ver="1">March 1, 1963: Stopped handling freight.</e>
+<cmt>-- を　:　に変更しました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="25">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により、JR西日本の駅となる。</j>
+<e type="trans" ver="1">April 1, 1987--Goma Station became a JR West stop because of the division and privatization of JNR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1987-- Taken over by JR West following division and privatization of JNR.</e>
+<cmt>Deleted &quot;Goma Station&quot;&quot;became a&quot;→&quot;taken over by&quot;&quot;because of the&quot;→&quot;following&quot;</cmt>
+<e type="check" ver="1">April 1, 1987: Taken over by JR West following division and privatization of Japan National Railways.</e>
+<cmt>-- を　:　に変更しました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="26">
+<j>隣の駅</j>
+<e type="trans" ver="1">Next station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjacent Stations</e>
+<cmt>&quot;Next&quot;→&quot;Adjacent&quot;Made &apos;station&apos; plural</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>小タイトル用に変更しました。</cmt>
+</sen>
+<sen id="27">
+<j>※当駅に一部が停車する特急「たんば (列車)」「きのさき (列車)」「まいづる (列車)」（「たんば」は下り、「きのさき」は上りのみ）の停車駅は各列車記事を参照のこと。</j>
+<e type="trans" ver="1">*Please refer to each Limited Express article if you look for the stations (other than Goma Station) which some services of Limited Express &quot;Tanba,&quot; &quot;Kinosaki&quot; and &quot;Maizuru&quot; make a stop at. (the service of &quot;Tanba&quot; runs just as a down train, and the service of &quot;Kinosaki&quot; runs just as a up train)</e>
+<cmt>「たんば」は Tanba としました。</cmt>
+<e type="trans" ver="2">*For information about stations used by the Limited Expresses &quot;Tanba,&quot; &quot;Kinosaki&quot; and &quot;Maizuru,&quot; please refer to the article for that train.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">* For information about stations used by the Limited Expresses &apos;Tanba&apos; (only outbound train), &apos;Kinosaki&apos; (only inbound train) and &apos;Maizuru,&apos; please refer to the article for that train.</e>
+<cmt>※→*　としました。上り、下りを追加しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="28">
+<j>西日本旅客鉄道（JR西日本）</j>
+<e type="trans" ver="1">West Japan Raiway Company (JR West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Raiway Company (JR West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+<sen id="29">
+<j>山陰本線</j>
+<e type="trans" ver="1">San&apos;in Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">San&apos;in Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sanin Main Line</e>
+<cmt>Sanin　としました。</cmt>
+</sen>
+<sen id="30">
+<j>鍼灸大学前駅 - 胡麻駅 - 下山駅 (京都府)</j>
+<e type="trans" ver="1">Shinkyudaigakumae Station--Goma Station--Shimoyama Station (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinkyudaigakumae Station--Goma Station--Shimoyama Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shinkyudaigakumae Station - Goma Station - Shimoyama Station (Kyoto Prefecture)</e>
+<cmt>-- →　- としました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 城山(id:104901), Makishou(id:887), Hikichimin Jr.(id:147077), Makiharashouten(id:1021), Wikipedianet(id:9608), エアスマップIRE(id:13873), 樒(id:35770), Sunen(id:10700), 準急三条(id:25072), 継之助(id:39352), 金山銀山銅山(id:163855), 炎刃王(id:42651), R28Bot(id:177951), Kone(id:377), Chobot(id:20846), Wabisabix(id:16770), Hirotaro(id:1437), Mipu(id:5360), Sea of Japan(id:3230), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

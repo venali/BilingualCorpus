@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>寛平御記</j>
+<e type="trans" ver="1">Kanpyo gyoki (the Emperor Uda&apos;s diary)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanpyo gyoki (the Emperor Uda&apos;s diary)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Kanpyo gyoki</e>
+<cmt>タイトルのため、括弧内の補足を削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>寛平御記（かんぴょうぎょき）は、宇多天皇の日記。</j>
+<e type="trans" ver="1">Kanpyo gyoki is the Emperor Uda&apos;s diary.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanpyo gyoki is the Emperor Uda&apos;s diary.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Kanpyo gyoki is the Emperor Uda&apos;s diary.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>『宇多天皇御記』ともいう。</j>
+<e type="trans" ver="1">It is also called &quot;Uda tenno gyoki.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also called &quot;Uda tenno gyoki.&quot;</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It is also called &quot;Uda tenno gyoki.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>現存する天皇の日記として最初のもので、『醍醐天皇御記』『村上天皇御記』と共に「三代御記」と呼ばれた。</j>
+<e type="trans" ver="1">It is the first existing diary of the Emperor and it was called &apos;the three major gyoki&apos; together with &quot;Daigo tenno gyoki (the Emperor Daigo&apos;s diary)&quot; and &quot;Murakami tenno gyoki (the Emperor Murakami&apos;s diary).&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is the first existing diary of the Emperor and it was called &apos;the three major gyoki&apos; together with &quot;Daigo tenno gyoki (the Emperor Daigo&apos;s diary)&quot; and &quot;Murakami tenno gyoki (the Emperor Murakami&apos;s diary).&quot;</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It is the first existing diary of the Emperor and it was called &apos;the three major gyoki&apos; together with &quot;Daigo tenno gyoki&quot; (the Emperor Daigo&apos;s diary) and &quot;Murakami tenno gyoki&quot; (the Emperor Murakami&apos;s diary).</e>
+<cmt>ダブルクォーテーションの場所を移動しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>『貫首秘抄』に、摂関・蔵人らが天皇の御作法や政治への顧問、幼帝の教育の方法を知るための必見の書と書かれている。</j>
+<e type="trans" ver="1">It is described as a must-read for Sekkan (regents and advisers) and Kurodo (Chamberlain) to learn the Emperor&apos;s manners and the way of working as a political advisor and educating young emperor in &quot;Kanjyuhisho.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is described as a must-read for Sekkan (regents and advisers) and Kurodo (Chamberlain) to learn the Emperor&apos;s manners and the way of working as a political advisor and educating young emperors in &quot;Kanjyuhisho.&quot;</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">It is described as a must-read for Sekkan (regents and advisers) and Kurodo (Chamberlain) to learn the Emperor&apos;s manners and the way of working as a political advisor and educating young emperors in &quot;Kanjuhisho&quot; (accounts on the hints on Kurodo, written by FUJIWARA no Toshinori).</e>
+<cmt>貫首秘抄→accounts on the hints on Kurodo, written by FUJIWARA no Toshinori　としました。（参考：http://www.books-yagi.co.jp/pub/cgi-bin/bookfind.cgi?cmd=d&amp;mc=m&amp;kn0=20&amp;ks0=4-7971-0010-9&amp;pr=&amp;kw=11+I18）</cmt>
+</sen>
+<sen id="5">
+<j>また、近衛兼経は、『岡屋関白記』で、以下のように評している。</j>
+<e type="trans" ver="1">And in &quot;Okanoya Kanpakuki Diary&quot;, Kanetsune KONOE described it as &quot;Everything is described so clearly that the past events seem to be right in front of our eyes.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">And in &quot;Okanoya Kanpakuki Diary,&quot; Kanetsune KONOE described it as &quot;Everything is described so clearly that the past events seem to be right in front of our eyes.</e>
+<cmt>Punctuation</cmt>
+<e type="check" ver="1">And in &quot;Okanoya Kanpaku-ki&quot; diary, Kanetsune KONOE described it as follows:</e>
+<cmt>文章を分け、英文もそれに応じて変更しました。</cmt>
+</sen>
+<sen id="6">
+<j>「毎事殊に勝れ、古事眼前に在るが如し。」</j>
+<e type="trans" ver="1">This gyoki includes the interests of subjects, the secrets of politics and the pleasure of poetry,&quot; in the diary of June 1, 1246.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">This gyoki includes the interests of subjects, the secrets of politics and the pleasure of poetry,&quot; in the diary of June 1, 1246.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Everything is described so clearly that the past events seem to be right in front of our eyes.</e>
+<cmt>文章を分け、英文もそれに応じて変更しました。</cmt>
+</sen>
+<sen id="7">
+<j>「臣下の得失、政道の奥旨、詩歌の興、大旨此御記に在り」（寛元4年（1246年）閏4月9日条）</j>
+<e type="trans" ver="1"></e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This gyoki includes the interests of subjects, the secrets of politics and the pleasure of poetry (Entry dated on leap month April 9, 1246).</e>
+<cmt>文章を分け、英文もそれに応じて変更しました。Entry of June 1, 1246→Entry dated on leap month April 9, 1246</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>『花園天皇宸記』正和2年（1313)10月14日条に「今日寛平御記十巻、一見了」と記されていることから、当時10巻が伝存していたことがわかるが、現在は1巻も残存していない。</j>
+<e type="trans" ver="1">Although the fact that the diary of October 14, 1313 of &quot;Hanazono Tenno Shinki (The Records of Emperor Hanazono)&quot; described &quot;Today, I finished to read the tenth volume of Kanpyo gyoki&quot; shows that Kanpyo gyoki existed in 10 volumes, no book exists now.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the fact that the diary of October 14, 1313 of &quot;Hanazono Tenno Shinki (The Records of Emperor Hanazono)&quot; described &quot;Today, I finished reading the tenth volume of Kanpyo gyoki&quot; shows that Kanpyo gyoki existed in 10 volumes, no books exist now.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Although the fact that the diary of October 14, 1313 of &quot;Hanazono Tenno Shinki&quot; (The Records of Emperor Hanazono) described &apos;Today, I finished reading the 10th volume of Kanpyo gyoki&apos; shows that Kanpyo gyoki existed in 10 volumes, no books exist now.</e>
+<cmt>ダブルクォーテーションの場所を移動しました。一部 &quot;→ &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>また、『西宮記』『扶桑略記』等の逸文から、宇多天皇践祚当日の仁和3年（887年)8月26日から譲位した寛平9年（897年）7月3日までの10年間に50余条が確認される。</j>
+<e type="trans" ver="1">Also, the existence of more than 50 diaries in 10 years from August 26, 887 when the Emperor Uda to July 3, 897 were confirmed in itsubun (a composition previously existed but doesn&apos;t exist now) such as &quot;Seikyuki&quot; and &quot;Fuso Ryakki (A Brief History of Japan).&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, the existence of more than 50 diaries in 10 years from August 26, 887 when the Emperor Uda to July 3, 897 were confirmed in itsubun (a composition previously existing but no longer remains) such as &quot;Seikyuki&quot; and &quot;Fuso Ryakki (A Brief History of Japan).&quot;</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Also, the existence of more than 50 diaries in 10 years from September 21, 887 when the Emperor Uda to August 8, 897 were confirmed in itsubun (a composition previously existing but no longer remains) such as &quot;Saikyuki&quot; (record of court practices and usage, written by MINAMOTO no Takaaki) and &quot;Fuso Ryakki (A Brief History of Japan).&quot;</e>
+<cmt>グレゴリオ暦に変更しました。西宮記　補足を追加しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>内容は、藤原基経の示威事件である阿衡の紛議の顛末といった政治的なことや、父光孝天皇より譲られた黒猫のことなど、天皇の日常や感情の一端が窺える。</j>
+<e type="trans" ver="1">It described a part of Emperor&apos;s daily life and feelings such as political things like how the Ako Controversy, a demonstration of FUJIWARA no Mototsune happened, a black cat which was given by his father, the Emperor Koko and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It described a part of the Emperor&apos;s daily life and feelings such as political things like how the Ako Controversy, a demonstration of FUJIWARA no Mototsune happened, a black cat which was given by his father, the Emperor Koko and so on.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">It described a part of the Emperor&apos;s daily life and feelings such as political things like how the Ako Controversy, a demonstration of FUJIWARA no Mototsune happened, a black cat which was given by his father, the Emperor Koko and so on.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 BitBucket(id:30999), Y.Sanada(id:36926), 蘇民(id:87832), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,1285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>京阪宇治線</j>
+<e type="trans" ver="1">Kiehan Uji Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kiehan Uji Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Uji Line</e>
+<cmt>Keihanに修正</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>宇治線（うじせん）は、京都府京都市伏見区の中書島駅から京都府宇治市の宇治駅 (京阪)までを結ぶ京阪電気鉄道の鉄道路線。</j>
+<e type="trans" ver="1">The Uji line is a railway line of Keihan Electric Railway that connects between Chuchojima Station located in Fushimi Ward, Kyoto City, Kyoto Prefecture and Uji Station (Keihan) located in Uji City, Kyoto Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Uji line is a railway line of Keihan Electric Railway that connects Chuchojima Station located in Fushimi ward, Kyoto City, Kyoto Prefecture and Uji Station (Keihan) located in Uji City, Kyoto Prefecture.</e>
+<cmt>grammar, case</cmt>
+<e type="check" ver="1">The Uji Line is a railway line of Keihan Electric Railway that connects Chushojima Station located in Fushimi Ward, Kyoto City, Kyoto Prefecture and Uji Station (Keihan) located in Uji City, Kyoto Prefecture.</e>
+<cmt>Uji Line Chushojima としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>京都・大阪から宇治周辺の名所への行楽路線。</j>
+<e type="trans" ver="1">It is a touristic line that connects from Kyoto and Osaka to the sightseeing spots around the Uji area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a touristic line that connects from Kyoto and Osaka to the sightseeing spots around the Uji area.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is a touristic line that connects from Kyoto and Osaka to the sightseeing spots around the Uji area.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>ほぼ全線がJR奈良線と並行している。</j>
+<e type="trans" ver="1">Almost all the line runs in parallel with the JR Nara Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nearly the entire line runs in parallel with the JR Nara Line.</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">Nearly the entire line runs in parallel with the JR Nara Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>路線データ</j>
+<e type="trans" ver="1">Railway data</e>
+<cmt></cmt>
+<e type="trans" ver="2">Railway data</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Railway data</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>路線距離（営業キロ）：7.6km</j>
+<e type="trans" ver="1">Railway distance (operating kilometer): 7.6km</e>
+<cmt></cmt>
+<e type="trans" ver="2">Railway distance (operating kilometers): 7.6km</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">Railway distance (operating kilometers): 7.6 km</e>
+<cmt>space</cmt>
+</sen>
+<sen id="5">
+<j>軌間：1435mm</j>
+<e type="trans" ver="1">Track gauge: 1435mm</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track gauge: 1435mm</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Track gauge: 1,435 mm</e>
+<cmt>space, comma</cmt>
+</sen>
+<sen id="6">
+<j>駅数：8駅（起終点駅含む）</j>
+<e type="trans" ver="1">Number of stations: 8 stations (including the starting and final stations)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Number of stations: eight (including the starting and final stations)</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Number of stations: eight (including the starting and final stations)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>複線区間：全線</j>
+<e type="trans" ver="1">Double track section: whole line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Double-track section: entire line</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">Double-track section: entire line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>電化区間：全線電化（直流1500V）</j>
+<e type="trans" ver="1">Electrified section: whole line electrified (DC1500V)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Electrified section: entire line electrified (DC1500V)</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">Electrified section: entire line electrified (DC1500V)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>閉塞 (鉄道)：自動閉塞式</j>
+<e type="trans" ver="1">Block system (railway): Automatic block system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Block system (railway): Automatic block system</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Block system (railway): Automatic block system</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>保安装置：自動列車停止装置京阪型速度照査ATS</j>
+<e type="trans" ver="1">Security system: Automatic Train Stop (ATS): Keihan Speed Pattern type ATS (Speed ATS-P)</e>
+<cmt>京阪型速度照査ATS→定訳不明： Keihan Speed Pattern type ATS (Speed ATS-P)　（http://mackoy.cool.ne.jp/make/ryfile.htmlなど参照）</cmt>
+<e type="trans" ver="2">Security system: Automatic Train Stop (ATS): Keihan Speed Pattern type ATS (Speed ATS-P)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Security system: Automatic Train Stop (ATS): Keihan Speed Pattern type ATS (Speed ATS-P)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>運行形態</j>
+<e type="trans" ver="1">Operation system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operation system</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Operation system</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="11">
+<j>現行ダイヤでは、平日の日中と土休日の朝昼は4両編成が、土休日の深夜は一部5両編成の普通列車が線内折返し運転されているのみ。</j>
+<e type="trans" ver="1">Under the actual timetable, during the daytime on weekdays and from morning to noon on Saturdays and holidays, only the shuttle Local trains made up of 4 cars, and in the late-evening, only the trains made up of 4 or 5 cars are operated on the line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under the actual timetable, during the daytime on weekdays and from morning to noon on Saturdays and holidays, only the shuttle local trains are made up of four cars, and in the late evening, only the trains made up of four or four cars are operated on the line.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Under the actual timetable, during the daytime on weekdays and from the morning to noon on Saturdays and holidays, only the shuttle local trains are made up of four cars, and in the late evening on Saturdays and holidays only the trains made up of four or five cars are operated on the line.</e>
+<cmt>土曜休日深夜　追加　5両追加</cmt>
+</sen>
+<sen id="12">
+<j>全線ラッシュ時は5分から8分間隔でデータイムは10分間隔である。</j>
+<e type="trans" ver="1">On the whole line, during rush hours, the train is operated every 5 to 8 minutes, while during daytime, it is operated every 10 minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Throughout the line, during rush hour, the train is operated every five to eight minutes, while during the daytime it&apos;s operated every 10 minutes.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Throughout the line, during rush hour, the train is operated every five to eight minutes, while during the daytime it&apos;s operated every 10 minutes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>朝ラッシュ時は5本が、その他の時間は4本が運用に入っている。</j>
+<e type="trans" ver="1">During the morning rush, 5 trains are in operation and the rest of the day, 4 trains are operated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the morning rush, five trains are in operation, but for the rest of the day four trains operate.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">During the morning rush, five trains are in operation, but for the rest of the day four trains operate.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="14">
+<j>かつては毎日多数の列車が京阪本線の三条駅 (京都府)方面と直通運転されていた。</j>
+<e type="trans" ver="1">Before, a lot of trains were going through toward Sanjo Station (Kyoto Prefecture) on the Keihan Main Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Previously, many trains would go through toward Sanjo Station (Kyoto Prefecture) on the Keihan Main Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Previously, many trains would go through toward Sanjo Station (Kyoto Prefecture) on the Keihan Main Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>2000年7月1日のダイヤ改正で大半が廃止された後、2003年9月6日のダイヤ改正までは平日午前中2本のみ残り、全線ラッシュ時は5分～8分間隔で昼間時間帯は15分間隔の運行であった。</j>
+<e type="trans" ver="1">When the timetable was revised on July 1, 2000, most of the trains discontinued their operation, and since then only two through trains had been operated in the morning of weekdays until the timetable revision was held on September 6, 2003, while the operation with intervals of every 5 to 8 minutes during rush hours and 15 minutes in the daytime on the whole line had been conserved.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the timetable was revised on July 1, 2000, most of the trains discontinued operation, and subsequently only two through-trains were operated in the morning of weekdays until the timetable revision was held on September 6, 2003, while the operation with intervals of every five to eight minutes during rush hours and 15 minutes in the daytime on the entire line was maintained.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">When the timetable was revised on July 1, 2000, most of the trains discontinued operation, and subsequently only two through-trains were operated in the morning of weekdays until the timetable revision was held on September 6, 2003, while the operation with intervals of every five to eight minutes during rush hours and 15 minutes in the daytime on the entire line was maintained.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>2003年9月6日のダイヤ改正から京都三条方面の直通運転が廃止され、車両も5両編成と4両編成で運用されていたが、5両編成の宇治線定期運用は一時廃止された。</j>
+<e type="trans" ver="1">With the revision took place on September 6, 2003, the operations of the through trains toward Kyoto Sanjo Station ware discontinued, and the trains were operated until then with 4 or 5 cars, but for a while, regular operation of the 5-car trains were abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With the revision that took place on September 6, 2003, the operations of the through-trains toward Kyoto Sanjo Station were discontinued, and the trains were operated until then with four or five cars, but for a while the regular operation of the five-car trains was abolished.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">With the revision of September 6, 2003, the operations of the through-trains toward Kyoto Sanjo were discontinued, and the trains were operated until then with four or five cars, but for a while the regular operation of the five-car trains for the Uji Line was abolished.</e>
+<cmt>Kyoto Sanjo Station→Kyoto Sanjo Uji Line追加</cmt>
+</sen>
+<sen id="17">
+<j>だが、2006年4月16日のダイヤ改正で土休日の深夜に限り、5両編成での定期運用が復活することになった。</j>
+<e type="trans" ver="1">But, with the timetable revision on April 16, 2006, the operation with 5 cares was recovered although only during the late-evening.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, with the timetable revision on April 16, 2006, the operation with five cars was recovered, albeit only during the late evening.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">However, with the timetable revision of April 16, 2006, the operation with five cars was recovered, albeit only during the late evening on Saturdays and holidays.</e>
+<cmt>土日　追加</cmt>
+</sen>
+<sen id="18">
+<j>なお、8月開催の宇治川花火大会等の多客時や運用の都合で5両編成が使用されることがある。</j>
+<e type="trans" ver="1">However, the trains made up of 5 cars are used in an exceptional manner when there are many passengers in such occasions as Uji-gawa River Fireworks Display in August, or for some operational reasons.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the trains made up of five cars are used in an exceptional manner when there are many passengers on such occasions as the Uji-gawa River Fireworks Display in August, or for certain reasons of operation.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">However, the trains made up of five cars are used in an exceptional manner when there are many passengers on such occasions as the Uji-gawa River Fireworks Display in August, or for certain reasons of operation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="19">
+<j>1989年9月26日までは三条方面直通で急行列車も走っていたが、5両編成でラッシュ時に本線を走ることで本線の混雑率が上がるため、京阪本線の朝の急行の10分ヘッド化で廃止された。</j>
+<e type="trans" ver="1">Although until September 26, 1989, trough express trains were also running toward Sanjo Station, but owing to the fact that these trains, made up of 5 cars and running on the Hankyu Main Line during the morning rush, aggravated the congestion of the Main Line, they were discontinued, when the intervals of the morning express trains running on the Hankyu Main Line was capped by 10 minutes,</e>
+<cmt></cmt>
+<e type="trans" ver="2">Until September 26, 1989, through express trains also ran toward Sanjo Station, but owing to the fact that these trains, made up of five cars and running on the Hankyu Main Line during the morning rush, aggravated the congestion of the Main Line, they were discontinued when the interval of the morning express trains running on the Hankyu Main Line was capped at 10 minutes.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Until September 26, 1989, through express trains also ran toward Sanjo, but owing to the fact that these trains, made up of five cars and running on the Hankyu Main Line during the morning rush, aggravated the congestion of the Main Line, they were discontinued when the interval of the morning express trains running on the Hankyu Main Line was capped at 10 minutes.</e>
+<cmt>Station削除</cmt>
+</sen>
+<sen id="20">
+<j>なお宇治線内は各駅停車だった。</j>
+<e type="trans" ver="1">Within the Uji Line the trains made a stop at every station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Within the Uji Line the trains made a stop at every station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Within the Uji Line the trains made a stop at every station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="21">
+<j>また1960年代には行楽シーズンに大阪側から6両編成の臨時列車が設定されていた（1995年6月17日の宇治駅移転でホームの有効長が短くなり、以後6両編成の宇治線への入線は不可）。</j>
+<e type="trans" ver="1">In the 1960s, during the tourist seasons, special trains made up of 6 cars were operated from Osaka district (following the relocation of Uji Station on June 17, 1995, the effective length of the station&apos;s platform was shortened and since then the 6-car trains were not able to proceed into the platform.</e>
+<cmt>有効長→定訳不明：effective length としました。</cmt>
+<e type="trans" ver="2">In the 1960s, during the tourist seasons, special trains made up of six cars were operated from the Osaka district (following the relocation of Uji Station on June 17, 1995, the effective length of the station&apos;s platform was shortened and since then the six-car trains haven&apos;t been able to proceed into the platform.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">In the 1960s, during the tourist seasons, special trains made up of six cars were operated from the Osaka district (following the relocation of Uji Station on June 17, 1995, the effective length of the station&apos;s platform was shortened, and since then the six-car trains haven&apos;t been able to proceed into the platform).</e>
+<cmt>閉じ括弧追加</cmt>
+</sen>
+<sen id="22">
+<j>1998年から1999年までの行楽シーズンに大阪方面直通の臨時快速「宇治快速」が運転されることがあった（後述）。</j>
+<e type="trans" ver="1">During the tourist seasons between 1998 and 1999, there were some occasions in which the special rapid &quot;Uji Kaisoku&quot; was operated directly toward Osaka Station (details are cited later).</e>
+<cmt>臨時快速「宇治快速」→定訳不明：extra rapid &quot;Uji Kaisoku&quot;</cmt>
+<e type="trans" ver="2">During the tourist seasons between 1998 and 1999, there were some occasions in which the special rapid &quot;Uji Kaisoku&quot; was operated directly toward Osaka Station (the details are cited later).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">During the tourist seasons between 1998 and 1999, there were some occasions in which the special rapid &apos;Uji Kaisoku&apos; was operated directly toward Osaka (the details are cited later).</e>
+<cmt>Station削除</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="23">
+<j>その他、1947年4月1日から1968年12月20日までは、宇治線の一部の電車が奈良電気鉄道（1963年10月1日以降は近鉄京都線）の京都駅まで乗り入れていた。</j>
+<e type="trans" ver="1">Some of the trains on the Uji Line also were going directly to Kyoto Station of Nara Electric Railway (Kintetsu Kyoto Line since October 1, 1963) during the period from April 1, 1947 to December 20, 1968.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some of the trains on the Uji Line also went directly to Kyoto Station of the Nara Electric Railway (Kintetsu Kyoto Line since October 1, 1963) during the period from April 1, 1947 to December 20, 1968.</e>
+<cmt>syntax</cmt>
+<e type="check" ver="1">Some of the trains on the Uji Line also went directly to Kyoto Station of the Nara Electric Railway (Kintetsu Kyoto Line since October 1, 1963) during the period from April 1, 1947 to December 20, 1968.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>丹波橋駅で京阪と奈良電（のち近畿日本鉄道）が接続して直通運転を行っていた。</j>
+<e type="trans" ver="1">Keihan Electric Railway and Nara Electric Railway (later Kintetsu Railway) was making a connection at Tanbabashi Station to operate through trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway and Nara Electric Railway (later Kintetsu Railway) would make a connection at Tanbabashi Station to operate through-trains.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Keihan Electric Railway and Nara Electric Railway (later Kintetsu Railway) would make a connection at Tanbabashi Station to operate through-trains.</e>
+<cmt>Tambabashiとしました。&quot;Tambabashi&quot;→&quot;Tanbabashi&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="25">
+<j>2007年1月21日に2006年7月29日から運転されていた「きかんしゃトーマス」ラッピング車両のラストランの臨時列車として宇治→天満橋間に京阪10000系電車を使用した臨時特急が運転された。</j>
+<e type="trans" ver="1">On January 21, 2007, To undertake the final run of the with ad-wrapped wagons known for their illustrations of Tomas &amp; Friends,&quot; which had been operated since July 29, 2006, an special Limited Express train using the Keihan Electric Railway Series 10000 was operated from Uji Station to Tenmabashi Station.</e>
+<cmt>ラッピング車両→定訳不明：ad-wrapped wagons（英辞郎on eht web参照）としました。</cmt>
+<e type="trans" ver="2">On January 21, 2007, in order to undertake the final run of the with ad-wrapped wagons known for their illustrations of Thomas &amp; Friends,&quot; which had been operated since July 29, 2006, a special limited express train using the Keihan Electric Railway Series 10000 was operated from Uji Station to Tenmabashi Station.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">On January 21, 2007, in order to undertake the final run of the ad-wrapped wagons known for their illustrations of &apos;Thomas &amp; Friends,&apos; which had been operated since July 29, 2006, a special limited express train using the Keihan Electric Railway Series 10000 was operated from Uji Station to Tenmabashi Station.</e>
+<cmt>括弧修正、with削除、Tambabashiとしました。&quot;Temmabashi&quot;→&quot;Tenmabashi&quot;に変更しました。</cmt>
+</sen>
+<sen id="26">
+<j>宇治線で特急列車が運転されるのはこれが初めてである。</j>
+<e type="trans" ver="1">This was the first time when a Limited Express run on the Uji Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was the first time a limited express ran on the Uji Line.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">This was the first time a limited express ran on the Uji Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>宇治線内では全駅に停車した。</j>
+<e type="trans" ver="1">However, the train made a stop at all station within the Uji Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the train stopped at all stations of the Uji Line.</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">However, the train stopped at all stations of the Uji Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>使用車両</j>
+<e type="trans" ver="1">Rolling stock</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rolling stock</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rolling stock</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="28">
+<j>京阪2600系電車（4両または5両）</j>
+<e type="trans" ver="1">Keihan Electric Railway Series 2600 (4 or 5 car long)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway Series 2600 (four or five cars long)</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Keihan Electric Railway Series 2600 (four or five cars long)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>京阪10000系電車（4両、現在は予備車のみ運用される場合がある）</j>
+<e type="trans" ver="1">Keihan Electric Railway Series 10000 (4-car long, at present this type is only operated provisionally).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway Series 10000, which is four cars long, is currently operated provisionally.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Keihan Electric Railway Series 10000, which is four cars long, is currently operated provisionally.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>京阪1900系電車（5両）</j>
+<e type="trans" ver="1">Keihan Electric Railway Series 1900 (5-car long)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway Series 1900 (five cars long)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Keihan Electric Railway Series 1900 (five cars long)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="31">
+<j>※以下は、1980年代から現在までに入線経歴がある車両（宇治川花火大会の日は輸送力確保のため5両編成が大量に使用される。</j>
+<e type="trans" ver="1">The followings are the trains that have been ever operated on the Line since the 1980s (when Uji-gawa River Fireworks Display is celebrated, the 5-car trains are used to secure the transportation capacity).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following are the trains that have been operated on the line since the 1980s (when the Uji-gawa River Fireworks Display is celebrated, the five-car trains are used to secure transportation capacity).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The following are the trains that have been operated on the line since the 1980s (when the Uji-gawa River Fireworks Display is celebrated, the five-car trains are used to secure transportation capacity).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>また車両運用の都合でも入る場合がある）</j>
+<e type="trans" ver="1">And sometimes for operational reasons, also there are trains that proceed into the line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Occasionally, for operational reasons, there are also trains that proceed into the line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Occasionally, for reasons of operation, there are also five-car trains that proceed into the line.</e>
+<cmt>5両編成の　を入れました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="33">
+<j>京阪7200系電車（5両。臨時組成編成）</j>
+<e type="trans" ver="1">Kiehan Electric Railway Series 7200 (5-car long, special train units for special trains)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kiehan Electric Railway Series 7200 (five cars long, special train units for special trains)</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Keihan Electric Railway Series 7200 (five cars long, special train units for special trains)</e>
+<cmt>Keihanに修正</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="34">
+<j>京阪6000系電車（4両。1500V昇圧前）</j>
+<e type="trans" ver="1">Keihan Electric Railway Series 6000 (4 cars long, before the voltage is boosted to 1500V)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway Series 6000 (four cars long, before the voltage is boosted to 1500V)</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Keihan Electric Railway Series 6000 (four cars long, before the voltage is boosted to 1500V)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="35">
+<j>京阪7000系電車（製造時、7003編成のみ4両組成）</j>
+<e type="trans" ver="1">Keihan Electric Railway Series 7000 (only the trains of Series 7003 are made up of 4 cars at the production).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway Series 7000 (only the trains of Series 7003 are made up of four cars at the time of production).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Keihan Electric Railway Series 7000 (only the trains of Series 7003 are made up of four cars at the time of production).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="36">
+<j>1913年（大正2年）6月1日 中書島～宇治間が開業。</j>
+<e type="trans" ver="1">June 1, 1913: The railway service between Chushojima Station and Uji Station started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">June 1, 1913: The railway service between Chushojima Station and Uji Station started.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">June 1, 1913: The railway service between Chushojima and Uji started.</e>
+<cmt>station削除</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="37">
+<j>1917年（大正6年）2月1日 三室戸駅開業。</j>
+<e type="trans" ver="1">February 1, 1917: Mimurodo Station was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">February 1, 1917: Mimurodo Station was opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">February 1, 1917: Mimurodo Station was opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="38">
+<j>1926年（大正15年） 黄檗山駅を黄檗駅に改称。</j>
+<e type="trans" ver="1">Year 1926: The name of Obakuyama Station was changed to Obaku Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">1926: The name of Obakuyama Station was changed to Obaku Station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">1926: The name of Obakuyama Station was changed to Obaku Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="39">
+<j>1929年（昭和4年）5月31日 観月橋付近の併用軌道0.110km、宇治川の堤防改修に併せて専用軌道化。</j>
+<e type="trans" ver="1">May 31, 1929: the concomitantly-used 0.110km&apos;s track near Kangetsukyo Station became the track for the line&apos;s exclusive use, following the rehabilitation of the Uji-gawa River bank.</e>
+<cmt></cmt>
+<e type="trans" ver="2">May 31, 1929: The concomitantly used 0.110km track near Kangetsukyo Station became the track for the line&apos;s exclusive use, following the rehabilitation of the Uji-gawa riverbank.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">May 31, 1929: The concomitantly used 0.110 km track near Kangetsukyo Station became the track for the line&apos;s exclusive use, following the rehabilitation of the Uji-gawa riverbank.</e>
+<cmt>space</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="40">
+<j>1943年（昭和18年）10月1日 会社合併により京阪神急行電鉄（阪急電鉄）の路線となる。</j>
+<e type="trans" ver="1">October 1, 1943: The railway became one of the lines of Keihanshin Kyuko Express Railway (Hankyu Railway) because of the merger.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 1, 1943: The railway became one of the lines of Keihanshin Kyuko Express Railway (Hankyu Railway) due to the merger.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 1, 1943: The railway became one of the lines of Keihanshin Kyuko Railway (Hankyu Railway) due to the merger.</e>
+<cmt>Keihanshin Kyuko Railwayとしました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="41">
+<j>1943年（昭和18年）11月1日 三室戸駅廃止。</j>
+<e type="trans" ver="1">November 1, 1943: Mimurodo Station became disused.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 1, 1943: The use of Mimurodo Station ceased.</e>
+<cmt>better</cmt>
+<e type="check" ver="1">November 1, 1943: The use of Mimurodo Station ceased.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="42">
+<j>1945年（昭和20年）9月15日 観月橋駅、御陵前駅休止。</j>
+<e type="trans" ver="1">September 15, 1945: Kangetsukyo Station and Goryomae Station suspended their operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 15, 1945: Kangetsukyo Station and Goryomae Station suspended operations.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">September 15, 1945: Kangetsukyo Station and Goryomae Station suspended operations.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="43">
+<j>1945年（昭和20年）11月8日 観月橋駅営業再開。</j>
+<e type="trans" ver="1">November 8, 1945: Kangetsukyo station restarted its operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 8, 1945: Kangetsukyo station restarted its operation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">November 8, 1945: Kangetsukyo Station restarted its operation.</e>
+<cmt>Stationとしました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="44">
+<j>1946年（昭和21年）2月15日 御陵前駅営業再開。</j>
+<e type="trans" ver="1">February 15, 1946: Goryomae Station restarted its operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">February 15, 1946: Goryomae Station restarted its operation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">February 15, 1946: Goryomae Station restarted its operation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="45">
+<j>1947年（昭和22年）4月1日 三室戸駅開業。</j>
+<e type="trans" ver="1">April 1, 1947: Mimurodo Station was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1947: Mimurodo Station was opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">April 1, 1947: Mimurodo Station was opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="46">
+<j>1949年（昭和24年）11月25日 御陵前駅を桃山南口駅に改称。</j>
+<e type="trans" ver="1">November 25, 1949: The name of Goryomae Station was changed to Momoyama-Minamiguchi Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 25, 1949: The name of Goryomae Station was changed to Momoyama-Minamiguchi Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">November 25, 1949: The name of Goryomae Station was changed to Momoyama-Minamiguchi Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="47">
+<j>1949年（昭和24年）12月1日 会社分離により京阪電気鉄道宇治線となる。</j>
+<e type="trans" ver="1">December 1, 1949: The line became Keihan Electric Railway Uji Line due to the company&apos;s division.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 1, 1949: The line became Keihan Electric Railway Uji Line due to the company&apos;s division.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">December 1, 1949: The line became Keihan Electric Railway Uji Line due to the company&apos;s division.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="48">
+<j>1953年（昭和28年）9月25日 台風13号により被災、宇治川から山科川へ逆流した水で桃山南口・六地蔵駅周辺が浸水、その他で10日以上復旧にかかる。</j>
+<e type="trans" ver="1">September 25, 1953: The season&apos;s 13th typhoon hit the line and as it was damaged by the inundation around Momoyama-Minamiguchi Station and Rokujizo Station caused by the reversed stream from Uji-gawa River to Yamashina-gawa River among others, it took more than 10 days to be restored.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 25, 1953: The season&apos;s thirteenth typhoon hit the line, and because it was damaged by the inundation around Momoyama-Minamiguchi Station and Rokujizo Station caused by the reversed stream from Uji-gawa River to Yamashina-gawa River among others, the restoration process took more than 10 days.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">September 25, 1953: The season&apos;s thirteenth typhoon hit the line, and because it was damaged by the inundation around Momoyama-Minamiguchi Station and Rokujizo Station caused by the reversed stream from Uji-gawa River to Yamashina-gawa River among others, the restoration process took more than 10 days.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="49">
+<j>1965年（昭和40年）4月21日 ダイヤ改正。</j>
+<e type="trans" ver="1">April 21, 1965: The timetable was revised.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 21, 1965: The timetable was revised.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">April 21, 1965: The timetable was revised.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>朝のラッシュ時に宇治発三条行急行を新設。</j>
+<e type="trans" ver="1">To cope with the morning rush, the express trains from Uji Station to Sanjo Station began operating.</e>
+<cmt></cmt>
+<e type="trans" ver="2">To cope with the morning rush, the express trains from Uji Station to Sanjo Station began operating.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The express trains from Uji to Sanjo began operating in order to handle the morning rush.</e>
+<cmt>Station削除</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="51">
+<j>1966年（昭和41年）3月20日 六地蔵付近、山科川堤防嵩上げ工事・橋梁架け替えで線路移設・築堤化、六地蔵駅も堤防上に移設。</j>
+<e type="trans" ver="1">March 20, 1966: When the Kawashina-gawa River bank was raised and the bridge was replaced in the vicinity of Rokujizo Station, the rail track around there was also moved to set on a newly constructed bank, and Rokujizo Station was relocated on the bank as well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 20, 1966: When the Kawashina-gawa riverbank was raised and the bridge was replaced in the vicinity of Rokujizo Station, the rail track in the vicinity was also moved and set on a newly constructed bank, and Rokujizo Station was relocated on the bank as well.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">March 20, 1966: When the Yamashina-gawa riverbank was raised and the bridge was replaced in the vicinity of Rokujizo Station, the rail track in the vicinity was also moved and set on a newly constructed bank, and Rokujizo Station was relocated on the bank as well.</e>
+<cmt>Yamashina-gawaとしました</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="52">
+<j>1967年（昭和42年）12月11日 全列車を4両編成化。</j>
+<e type="trans" ver="1">December 11, 1967: All trains became 4 cars long.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 11, 1967: All trains became four cars long.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">December 11, 1967: All trains became four cars long.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="53">
+<j>1968年（昭和43年）1月29日 ATS使用開始。</j>
+<e type="trans" ver="1">January 29, 1968: ATS started to be used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">January 29, 1968: ATS started being used.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">January 29, 1968: ATS started being used.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="54">
+<j>1968年（昭和43年）12月20日 ダイヤ改正。</j>
+<e type="trans" ver="1">December 20, 1968: The timetable was revised.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 20, 1968: The timetable was revised.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">December 20, 1968: The timetable was revised.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="55">
+<j>夕方混雑時に三条発宇治行急行を新設。</j>
+<e type="trans" ver="1">To cope with the evening rush, the express trains from Sanjo Station to Uji Station began operating.</e>
+<cmt></cmt>
+<e type="trans" ver="2">To cope with the evening rush, the express trains from Sanjo Station to Uji Station began operating.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The express trains from Sanjo to Uji began operating in order to cope with the evening rush.</e>
+<cmt>Station削除</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="56">
+<j>1978年（昭和53年）3月10日 全線を軌道法に基づく軌道から地方鉄道法に基づく鉄道に変更。</j>
+<e type="trans" ver="1">March 10, 1978: the denomination of the whole line was changed from &quot;tramway,&quot; which was defined based on the Tramways Act, to &quot;railway&quot; based on the Local Railways Act.</e>
+<cmt>地方鉄道法→すでに廃止されている法で定訳不明：Local Railways Act</cmt>
+<e type="trans" ver="2">March 10, 1978: The denomination of the entire line was changed from &quot;tramway,&quot; which was defined based on the Tramways Act, to &quot;railway&quot; based on the Local Railways Act.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">March 10, 1978: The denomination of the entire line was changed from a tramway, which was defined based on the Tramways Act, to a railway based on the Local Railways Act.</e>
+<cmt>&quot; &quot;削除</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="57">
+<j>1980年（昭和55年）3月23日 ダイヤ改正。</j>
+<e type="trans" ver="1">March 23, 1980: The timetable was revised.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 23, 1980: The timetable was revised.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">March 23, 1980: The timetable was revised.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>土曜ダイヤ導入と朝のラッシュ時の三条行き急行が廃止。</j>
+<e type="trans" ver="1">The timetable on Sundays was introduced and the express trains for Sanjo Station in the morning rush were discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Sunday timetable was introduced, and the express trains for Sanjo Station in the morning rush were discontinued.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The Saturday timetable was introduced, and the express trains for Sanjo during the morning rush were discontinued.</e>
+<cmt>Saturdayとしました。Station廃止</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="59">
+<j>1983年（昭和58年）12月4日 架線電圧を600Vから1500Vに昇圧。</j>
+<e type="trans" ver="1">December 4, 1983: The voltage of the overhead wires was raised from 600V to 1500V</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 4, 1983: The voltage of the overhead wires was increased from 600V to 1500V.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">December 4, 1983: The voltage of the overhead wires was increased from 600V to 1500V.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="60">
+<j>1989年（平成元年）9月27日 ダイヤ改正。</j>
+<e type="trans" ver="1">September 27, 1989: The timetable was revised.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 27, 1989: The timetable was revised.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">September 27, 1989: The timetable was revised.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="61">
+<j>夕方ラッシュ時の三条発宇治行き急行が廃止。</j>
+<e type="trans" ver="1">The express trains from Sanjo Station to Uji Station in the evening rush were discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The express trains from Sanjo Station to Uji Station during the evening rush were discontinued.</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">The express trains from Sanjo to Uji during the evening rush were discontinued.</e>
+<cmt>Station削除</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="62">
+<j>1995年（平成7年）6月17日 宇治駅が移転し、0.2km短縮。</j>
+<e type="trans" ver="1">June 17, 1995: Owing to the relocation of Uji Station, the operating distance was shortened by 0.2km.</e>
+<cmt></cmt>
+<e type="trans" ver="2">June 17, 1995: Because of the relocation of Uji Station, the operating distance was reduced by 0.2km.</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">June 17, 1995: Due to the relocation of Uji Station, the operating distance was reduced by 0.2 km.</e>
+<cmt>space</cmt>
+</sen>
+<sen id="63">
+<j>これにより、一部の駅間で運賃改定。</j>
+<e type="trans" ver="1">By this, between some stations the fare system was restructured.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accordingly, the fares between some stations were restructured.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Accordingly, the fares between some stations were restructured.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="64">
+<j>1997年（平成9年）7月11日 大戦川橋梁（三室戸～黄檗間）中書島行き線路架け替え。</j>
+<e type="trans" ver="1">July 11, 1997: The track for Chushojima Station that crosses the Taisen-gawa (大戦川） Railway Bridge (between Mimurodo and Obaku) was replaced.</e>
+<cmt>大戦川→読み、定訳不明一応Taisen-gawa (大戦川） River としてあります。</cmt>
+<e type="trans" ver="2">July 11, 1997: The track for Chushojima Station that crosses the Taisen-gawa (大戦川） Railway Bridge (between Mimurodo and Obaku) was replaced.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">July 11, 1997: The track for Chushojima that crosses the Taisen-gawa (大戦川） Railway Bridge (between Mimurodo and Obaku) was replaced.</e>
+<cmt>Station削除</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="65">
+<j>1997年（平成9年）7月25日 大戦川橋梁宇治行き線路架け替え。</j>
+<e type="trans" ver="1">July 25, 1997: The track for Uji Station that crosses the Taisen-gawa (大戦川） Railway Bridge was replaced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">July 25, 1997: The track for Uji Station that crosses the Taisen-gawa (大戦川） Railway Bridge was replaced.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">July 25, 1997: The track for Uji that crosses the Taisen-gawa (大戦川） Railway Bridge was replaced.</e>
+<cmt>Station削除</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="66">
+<j>2000年（平成12年）7月1日 三条駅直通列車を平日朝の三条行きの2本を残して廃止。</j>
+<e type="trans" ver="1">July 1, 2000: The through trains to Sanjo Station were discontinued except for two trains for Sanjo Station that are running in the weekdays morning.</e>
+<cmt></cmt>
+<e type="trans" ver="2">July 1, 2000: The through-trains to Sanjo Station were discontinued except for two trains for Sanjo Station that ran on the weekday mornings.</e>
+<cmt>syntax</cmt>
+<e type="check" ver="1">July 1, 2000: The through-trains to Sanjo Station were discontinued except for two trains for Sanjo Station that ran on the weekday mornings.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="27">
+<sen id="67">
+<j>2003年（平成15年）9月6日 三条駅直通列車を完全廃止。</j>
+<e type="trans" ver="1">September 6, 2003: The through trains to Sanjo Station were completely abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 6, 2003: The through-trains to Sanjo Station were completely abolished.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">September 6, 2003: The through-trains to Sanjo Station were completely abolished.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="28">
+<sen id="68">
+<j>2004年（平成16年）8月1日 PiTaPa導入。</j>
+<e type="trans" ver="1">August 1, 2004: PiTaPa was introduced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 1, 2004: PiTaPa was introduced.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">August 1, 2004: PiTaPa was introduced.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="29">
+<sen id="69">
+<j>2007年（平成19年）1月21日 「きかんしゃトーマス」のラッピングが施された10000系第3編成で、宇治→天満橋間に『特急』を運転。</j>
+<e type="trans" ver="1">January 21, 2007: A &quot;Limited Express,&quot; which had 3 ad-wrapped wagons with the illustration of &quot;Tomas &amp; Friends&quot; was operated from Uji Station to Tenmabashi Station.</e>
+<cmt>『特急』→&quot;Limited Express&quot;</cmt>
+<e type="trans" ver="2">January 21, 2007: A &quot;limited express,&quot; which had three ad-wrapped wagons featuring the illustration of &quot;Thomas &amp; Friends,&quot; was operated from Uji Station to Tenmabashi Station.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">January 21, 2007: A &quot;limited express,&quot; which had three ad-wrapped wagons featuring the illustration of &apos;Thomas &amp; Friends,&apos; was operated from Uji to Tenmabashi.</e>
+<cmt>括弧修正&quot;Temmabashi&quot;→&quot;Tenmabashi&quot;に変更しました。</cmt>
+</sen>
+<sen id="70">
+<j>同区間直通運転は後述の「宇治快速」以来のことであり、『特急』の運転は宇治線史上初。</j>
+<e type="trans" ver="1">This was the second direct train operated in this section after &quot;Uji Kaisoku&quot; Rapid train, and the first &quot;Limited Express&quot; train in the history of the Uji Line.</e>
+<cmt>「宇治快速」→定訳不明： &quot;Uji Kaisoku&quot;Rapidとしました。</cmt>
+<e type="trans" ver="2">This was the second direct train operated in this section after the &quot;Uji Kaisoku&quot; rapid train, and it was the first &quot;limited express&quot; train in the history of the Uji Line.</e>
+<cmt>grammar, case</cmt>
+<e type="check" ver="1">This was the second direct train operated in this section after the &apos;Uji Kaisoku&apos; rapid train, and it was the first &quot;limited express&quot; train in the history of the Uji Line.</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>宇治快速</j>
+<e type="trans" ver="1">&quot;Uji Kaisoku&quot; Rapid train</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Uji Kaisoku&quot; rapid train</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Uji Kaisoku rapid train</e>
+<cmt>&quot; &quot;削除</cmt>
+</tit>
+<par id="1">
+<sen id="71">
+<j>「宇治快速」は、京阪本線淀屋橋駅～宇治線宇治駅 (京阪)間に1998年11月～1999年11月までの行楽シーズンの休日ダイヤ（当時は日曜日と祝日）のみ運行していた臨時列車である。</j>
+<e type="trans" ver="1">&quot;Uji Kaisoku&quot; Rapid train was a special train operated between Yodoyabashi Station on the Keihan Main Line and Uji Station on the Uji Line only in the tourist seasons from November 1998 to November 1999, according to the time schedule for holidays (at that time the timetables for Sundays and holidays).</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Uji Kaisoku&quot; rapid train was a special train operated between Yodoyabashi Station on the Keihan Main Line and Uji Station on the Uji Line only in the tourist seasons from November 1998 to November 1999, according to the time schedule for holidays (which was at that time the timetables for Sundays and holidays).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Uji Kaisoku&apos; rapid train was a special train operated between Yodoyabashi Station on the Keihan Main Line and Uji Station on the Uji Line only in the tourist seasons from November 1998 to November 1999, according to the time schedule for holidays (which was at that time the timetable for Sundays and holidays).</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="72">
+<j>列車種別は臨時列車とは言え、新たな種別名「快速列車」を設定した。</j>
+<e type="trans" ver="1">Although it was classified as a special train, a new denomination of the type &quot;Kaisoku (Rapid) train&quot; was especially created for this service.</e>
+<cmt>新たな種別名「快速列車」→a new denomination of the type &quot;Kaisoku (Rapid) train&quot;としました。</cmt>
+<e type="trans" ver="2">Although it was classified as a special train, a new denomination of the &quot;Kaisoku (Rapid) train&quot; type was created specifically for this service.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although it was classified as a special train, a new denomination of the &apos;Kaisoku (Rapid) train&apos; type was created specifically for this service.</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="73">
+<j>これは停車駅が特急並みであったことによる。</j>
+<e type="trans" ver="1">This is because this train made a stop at alomost the same stations as the Limited Express train.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is because this train stopped at nearly all the same stations as the limited express train.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">This is because this train stopped at nearly all the same stations as the limited express train.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="74">
+<j>なお同社の快速は急行より上位の位置付けとなっている。</j>
+<e type="trans" ver="1">In the company&apos;s classification, the Rapid train is ranked higher than the Express train.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the company&apos;s classification, the rapid train is ranked higher than the express train.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">In the company&apos;s classification, the rapid train is ranked higher than the express train.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="75">
+<j>運行期間は年間4シーズンあり、春休みは「宇治快速さくらSpecial」、ゴールデンウイークは「宇治快速わかばSpecial」、6月には「宇治快速あじさいSpecial」、秋のシーズンは「宇治快速もみじSpecial」と季節により列車名を変えていた。</j>
+<e type="trans" ver="1">This special train was operated in four seasons a year, changing its name according to the seasons as follows: the train is named &quot;Uji Kaisoku SAKURA (cherry-blossoms) Special&quot; during spring vacation, &quot;Uji Kaisoku WAKABA (young leaves) Special&quot; during Golden Week, &quot;Uji Kaisoku AJISAI (hydrangea) Special&quot; in June, and &quot;Uji Kaisoku MOMIJI (maple) Special&quot;in the autumn season.</e>
+<cmt>「宇治快速さくらSpecial」→定訳不明：&quot;Uji Kaisoku SAKURA (cherry-blossoms) Special&quot;、「宇治快速わかばSpecial」→定訳不明：Kaisoku WAKABA (young leaves) Special&quot;、「宇治快速あじさいSpecial」→定訳不明：&quot;Uji Kaisoku AJISAI (hydrangea) Special&quot;、「宇治快速もみじSpecial」→定訳不明： &quot;Uji Kaisoku MOMIJI (maple) Special&quot; としました。</cmt>
+<e type="trans" ver="2">This special train was operated in four seasons a year, changing its name according to the seasons as follows: the train is named &quot;Uji Kaisoku SAKURA (cherry-blossoms) Special&quot; during spring vacation, &quot;Uji Kaisoku WAKABA (young leaves) Special&quot; during Golden Week, &quot;Uji Kaisoku AJISAI (hydrangea) Special&quot; in June, and &quot;Uji Kaisoku MOMIJI (maple) Special&quot;in the autumn season.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This special train was operated in four seasons a year, changing its name according to the season as follows: the train is named &apos;Uji Kaisoku SAKURA (cherry blossom) Special&apos; during spring vacation, &apos;Uji Kaisoku WAKABA (young leaves) Special&apos; during Golden Week, &apos;Uji Kaisoku AJISAI (hydrangea) Special&apos; in June, and &apos;Uji Kaisoku MOMIJI (maple) Special&apos; in the autumn season.</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="76">
+<j>特記以外は「宇治快速」に統一して述べる。</j>
+<e type="trans" ver="1">The details on &quot;Uji Kaisoku&quot; Rapid are described below in an integrated manner except for special remarks.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The details on the &quot;Uji Kaisoku&quot; rapid are described below in an integrated manner, except for special remarks.</e>
+<cmt>punctuation, case</cmt>
+<e type="check" ver="1">The details on the &apos;Uji Kaisoku&apos; rapid are described below in an integrated manner, except for special remarks.</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Outlines</e>
+<cmt></cmt>
+<e type="trans" ver="2">Outlines</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>他の記事と統一&quot;Overview&quot;→&quot;Summary&quot;に変更しました。</cmt>
+</tit>
+<par id="1">
+<sen id="77">
+<j>1998年11月1日、「宇治快速」は運行を開始した。</j>
+<e type="trans" ver="1">November 1, 1998: &quot;Uji Kaisoku&quot; Rapid started the operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 1, 1998: The &quot;Uji Kaisoku&quot; rapid started the operation.</e>
+<cmt>article, case</cmt>
+<e type="check" ver="1">November 1, 1998: The &apos;Uji Kaisoku&apos; rapid started the operation.</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="78">
+<j>この列車の設定理由は1998年当時宇治地区が「源氏物語の街」として観光に力を入れていたこと、同年秋に宇治駅 (京阪)付近に「源氏物語ミュージアム」が完成したことによるものである。</j>
+<e type="trans" ver="1">This train was introduced because at that time of 1998 the Uji area was promoting the local tourism featuring the &quot;Town of Tale of Genji,&quot; and &quot;The Tale of Genji Museum&quot; was completed in autumn of the same year in the vicinity of Uji Station (Keihan).</e>
+<cmt>「源氏物語の街」→定訳不明： &quot;Town of Tale of Genji&quot;としました。</cmt>
+<e type="trans" ver="2">This train was introduced because, at that time in 1998, the Uji area was promoting local tourism featuring the &quot;Town of the Tale of Genji,&quot; and &quot;The Tale of Genji Museum&quot; was completed in the autumn of the same year in the vicinity of Uji Station (Keihan).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">This train was introduced because, at that time in 1998, the Uji area was promoting local tourism featuring the &apos;Town of the Tale of Genji&apos;; also, &apos;The Tale of Genji Museum&apos; was completed in the autumn of the same year in the vicinity of Uji Station (Keihan).</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="79">
+<j>また1996年に10haの敷地を擁する宇治市植物公園が開園し、1997年に京阪宇治交サービスの経営する地ビールレストラン「ガーデンズ天ヶ瀬」がオープン（不振により現在閉鎖）するなど、新名所が相次いで誕生しており、大阪方面から乗り換えなしで宇治地区への観光客を誘致する目的もあった。</j>
+<e type="trans" ver="1">As many scenic spots had been born, including Uji City Botanic Garden opened in 1996 with 10ha-premises and an restaurant serving the locally-brewed beer &quot;Gardens Amagase Brewery&quot; opened in 1997 (at present it is closed because of a slump), the Rapid train service was introduced so that the tourists would be able to visit the Uji area from the Osaka and its vicinity without transfer.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because many scenic spots had been created, including Uji City Botanic Garden opened in 1996 with 10ha premises and an restaurant serving the locally brewed beer &quot;Gardens Amagase Brewery&quot; opened in 1997 (currently closed due to a slump), the rapid train service was introduced so that the tourists would be able to visit the Uji area from Osaka and its vicinity without having to transfer.</e>
+<cmt>grammar, article</cmt>
+<e type="check" ver="1">Because many scenic spots had been created, including Uji City Botanic Garden, which opened in 1996 with 10-ha premises and a restaurant serving the locally brewed beer &apos;Gardens Amagase Brewery&apos; opened in 1997 (currently closed due to a slump), the rapid train service was introduced so that the tourists would be able to visit the Uji area from Osaka and its vicinity without having to transfer.</e>
+<cmt>10 haとしました。</cmt>
+</sen>
+<sen id="80">
+<j>1986年までは行楽シーズンに淀屋橋駅～宇治駅間の臨時急行も運転されていたが廃止されたので京阪本線との直通列車は12年振りであった。</j>
+<e type="trans" ver="1">Although there was a special Express train operated until 1986 between Yodoyabashi Station and Uji Station but it was later discontinued, and therefore the opreation of this direct train to the Keihan Main Line restarted for the first time in 12 years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although there was a special express train operated until 1986 between Yodoyabashi Station and Uji Station it was later discontinued, and therefore the operation of this direct train to the Keihan Main Line restarted for the first time in 12 years.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although there was a special express train operated until 1986 between Yodoyabashi Station and Uji Station it was later discontinued, and therefore the operation of this direct train to the Keihan Main Line restarted for the first time in 12 years.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="81">
+<j>なお阪急電鉄の「阪急京都本線臨時列車」と違い、支線である宇治線内も急行運転された。</j>
+<e type="trans" ver="1">However, unlike other Hankyu Railway&apos;s &quot;special trains on the Hankyu Main Line,&quot; it was operated as an express train even in the Uji Line, although it is a Hankyu&apos;s feeder line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, unlike other Hankyu Railway &quot;special trains on the Hankyu Main Line,&quot; it was operated as an express train even on the Uji Line, although it is a Hankyu feeder line.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">However, unlike other Hankyu Railway &apos;special trains on the Hankyu Main Line,&apos; it was operated as an express train even on the Uji Line, although it&apos;s a Hankyu feeder line.</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="82">
+<j>ただし宇治線内の通過駅では列車選別装置がないため、駅構内の踏切動作の関係上、15km/h程度で通過していた。</j>
+<e type="trans" ver="1">However, at those stations where the train passed nonstop, there was no train sorting system, and the train had to go at such a low speed as around 15km/h due to the operating requirement of the crossings within the station yard.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, at those stations through which the train passed nonstop, there was no train sorting system and the train had to move at speeds as low as 15km/h due to the operating requirement of the crossings within the station yard.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, at those stations through which the train passed nonstop, there was no train sorting system and the train had to move at speeds as low as 15 km/h due to the operating requirement of the crossings within the station yard.</e>
+<cmt>space</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="83">
+<j>運行開始当初、「もみじSpecial」の運行に合わせて、秋の企画乗車券「もみじきっぷ」の一つとして、「宇治フリーきっぷ」を設定した。</j>
+<e type="trans" ver="1">When this service was started, in accordance with the operation of &quot;Momiji (maple) Sapecial&quot; Rapid, &quot;Uji Free Ticket&quot; was lauched as one of the special autumn ticket series, &quot;MOMIJI (maple) Ticket.&quot;</e>
+<cmt>「もみじきっぷ」→定訳不明：&quot;MOMIJI (maple) Ticket&quot;、「宇治フリーきっぷ」→定訳不明：&quot;Uji Free Ticket&quot;としました。</cmt>
+<e type="trans" ver="2">When this service was started, in accordance with the operation of &quot;Momiji (maple) Sapecial&quot; Rapid, &quot;Uji Free Ticket&quot; was lauched as one of the special autumn ticket series, &quot;MOMIJI (maple) Ticket.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">When this service was started, in accordance with the operation of &apos;MOMIJI (maple) Special&apos; Rapid, &apos;Uji Free Ticket&apos; was launched as one of the special autumn ticket series known as &apos;MOMIJI (maple) Ticket.&apos;</e>
+<cmt>括弧修正 MOMIJIとしました。</cmt>
+</sen>
+<sen id="84">
+<j>列車車内では、ボランティアガイドによる、観光案内放送や、茶摘み娘によるPRもあり、「ガーデンズ天ヶ瀬」では「源氏物語ミュージアム」開館記念地ビール「源氏物語」を販売した。</j>
+<e type="trans" ver="1">Within the train, tourist information was announced by volunteers and PR activities were undertaken by tea-picking girls, while the restaurant &quot;Gardens Amagase Brewery&quot; launched a new product named &quot;Tale of Genji Beer&quot;commemorating the opening of &quot;The Tale of Genji Museum.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Within the train, tourist information was announced by volunteers and PR activities were undertaken by tea-picking girls, while the restaurant &quot;Gardens Amagase Brewery&quot; launched a new product called &quot;Tale of Genji to commemorate the opening of &quot;The Tale of Genji Museum.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Within the train, tourist information was announced by volunteers and PR activities were undertaken by tea-picking girls, while the restaurant &apos;Gardens Amagase Brewery&apos; launched a new product called &apos;Tale of Genji&apos; to commemorate the opening of &apos;The Tale of Genji Museum.&apos;</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="85">
+<j>これらの活性化策により、宇治市では前年比約30%の増客となった。</j>
+<e type="trans" ver="1">Thanks to these stimulus activities, the tourists who visited Uji City increased by 30% over the previous year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thanks to these stimulus activities, the tourists who visited Uji City increased by 30% over the previous year.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Thanks to these stimulus activities, the tourists who visited Uji City increased by 30% over the previous year.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="86">
+<j>「宇治快速」は1999年の「もみじSpecial」を持って運行を終了した。</j>
+<e type="trans" ver="1">&quot;Uji Kaisoku&quot; Rapid train was discontinues in 1999 with the final operation of &quot;Momiji (maple) Special.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The &quot;Uji Kaisoku&quot; rapid train was discontinues in 1999 with the final operation of the &quot;Momiji (Maple) Special.&quot;</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The &apos;Uji Kaisoku&apos; rapid train was discontinued in 1999 with the final operation of the &apos;MOMIJI (Maple) Special.&apos;</e>
+<cmt>discontinued としました。括弧修正</cmt>
+</sen>
+<sen id="87">
+<j>これは大阪方面からの直通客が予想以下であったことと、宇治地区の観光人気が下火になったからだと言われている（詳細は不明）。</j>
+<e type="trans" ver="1">It was said that it was because the number of direct passengers from the Osaka area had been less numerous than expected, and the popularity of the Uji area had also declined (the detailed reasons were unknown).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was said that it was because there were fewer direct passengers from the Osaka area than expected and the popularity of the Uji area had declined (the exact reasons were unknown).</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">It was said that it was because there were fewer direct passengers from the Osaka area than expected and the popularity of the Uji area had declined (the exact reasons were unknown).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="88">
+<j>その後、2000年7月1日の京阪線ダイヤ改正で中書島駅が特急終日停車駅となり、乗り換えが必要とは言え、従来の急行電車利用と比べて大阪方面への利便性が向上した事もあって、今後「宇治快速」の運行再開の予定はない。</j>
+<e type="trans" ver="1">Afterwards, with the revision of the timetable made on July 1, 2000, all Limited Express trains began stopping at Chushojima Station all day, making the trip to the Osaka area become more convenient in comparison with the trip on an Express train that people used to do until then, although they have to transfer, and because of this change, the restart of Uji Kaisoku&apos;s operation in the future is not planned.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Subsequently, with the revision of the timetable made on July 1, 2000, all limited express trains began stopping at Chushojima Station throughout the day, making the trip to the Osaka area more convenient by comparison to the trip on an express train, which people used to take until then, although they would have to transfer, and because of this change the restart of Uji Kaisoku&apos;s operation in the future is not planned.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Subsequently, with the revision of the timetable of the Keihan Line on July 1, 2000, all limited express trains began stopping at Chushojima Station throughout the day, making the trip to the Osaka area more convenient by comparison to the trip on an express train, which people used to take until then, although they would have to transfer, and because of this change there is no plan to relaunch the &apos;Uji Kaisoku&apos; operation in the future.</e>
+<cmt>京阪線　追加</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>運行記録</j>
+<e type="trans" ver="1">Operation record</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operation record</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Operation record</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="89">
+<j>運転区間</j>
+<e type="trans" ver="1">Sections of operation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sections of operation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sections of operation</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="90">
+<j>往路 宇治方面行 淀屋橋→宇治 2列車</j>
+<e type="trans" ver="1">Outward operation toward Uji area: Yodoyabashi Station to Uji Station, 2 trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Outward operation toward Uji area: Yodoyabashi Station to Uji Station, two trains.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Outward operation toward the Uji area: Yodoyabashi to Uji, two trains</e>
+<cmt>Station削除</cmt>
+</sen>
+<sen id="91">
+<j>復路 大阪方面行 宇治→天満橋 1列車</j>
+<e type="trans" ver="1">Homeward operation toward Osaka area: Uji Station to Tenmabashi, 1 train</e>
+<cmt></cmt>
+<e type="trans" ver="2">Homeward operation toward Osaka area: Uji Station to Tenmabashi, one train</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Homeward operation toward the Osaka area: Uji to Tenmabashi, one train</e>
+<cmt>Station削除&quot;Temmabashi&quot;→&quot;Tenmabashi&quot;に変更しました。</cmt>
+</sen>
+<sen id="92">
+<j>当時の停車駅</j>
+<e type="trans" ver="1">The stations at which the trains made a stop.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The stations at which the trains made stops</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">The stations at which the trains made stops</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="93">
+<j>淀屋橋駅 - 北浜駅 (大阪府) - 天満橋駅 - 京橋駅 (大阪府) - 枚方市駅 - 中書島駅 - 六地蔵駅 - （三室戸駅「宇治快速あじさいSpecial」のみ停車） - 宇治駅</j>
+<e type="trans" ver="1">Yodoyabashi Station - Kitahama Station (Osaka Prefecture) - Tenmabashi Station - Kyobashi Station (Osaka Prefecture) - Hirakatashi Station - Chushojima Station - Rokujizo - (Mimurodo Station: only &quot;Uji Kaisoku AJISAI Special&quot; Rapid train made a stop) - Uji Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yodoyabashi Station - Kitahama Station (Osaka Prefecture) - Tenmabashi Station - Kyobashi Station (Osaka Prefecture) - Hirakatashi Station - Chushojima Station - Rokujizo - (Mimurodo Station: only &quot;Uji Kaisoku AJISAI Special&quot; rapid train made a stop) - Uji Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Yodoyabashi Station - Kitahama Station (Osaka Prefecture) - Tenmabashi Station - Kyobashi Station (Osaka Prefecture) - Hirakatashi Station - Chushojima Station - Rokujizo Station - (Mimurodo Station: only &apos;Uji Kaisoku AJISAI Special&apos; rapid train made a stop) - Uji Station</e>
+<cmt>Temmabashi としました。&quot;Temmabashi&quot;→&quot;Tenmabashi&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="94">
+<j>当時の発時刻（始発駅のみ）</j>
+<e type="trans" ver="1">Timetable at that time (only the starting stations)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Timetable at that time (only the starting stations)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Timetable at that time (only the starting stations)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="95">
+<j>淀屋橋 904、1034発</j>
+<e type="trans" ver="1">Yodoyabashi Station: 904, 1034 (departure)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yodoyabashi Station: 904, 1034 (departure)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yodoyabashi Station: 904, 1034 (departure)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="96">
+<j>宇治 1530発</j>
+<e type="trans" ver="1">Uji Station: 1530 (departure)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uji Station: 1530 (departure)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Uji Station: 1530 (departure)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="97">
+<j>使用車両</j>
+<e type="trans" ver="1">Rolling stock used</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rolling stock used</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rolling stock used</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="98">
+<j>淀屋橋904発 京阪1900系電車</j>
+<e type="trans" ver="1">Yodoyabashi Station: 904 departure: Keihan Electric Railway Series 1900</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yodoyabashi Station: 904 departure: Keihan Electric Railway Series 1900</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yodoyabashi Station: 904 departure: Keihan Electric Railway Series 1900</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="99">
+<j>淀屋橋1034発、宇治1530発 京阪7200系電車</j>
+<e type="trans" ver="1">Yodoyabashi Station: 1034 departure and Uji Station 1530 departure: Keihan Electric Railway Series 7200</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yodoyabashi Station: 1034 departure and Uji Station 1530 departure: Keihan Electric Railway Series 7200</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yodoyabashi Station: 1034 departure and Uji Station 1530 departure: Keihan Electric Railway Series 7200</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="100">
+<j>特筆されるのは「宇治快速」運用のためだけに7200系は早朝に寝屋川車庫内で8両編成を5両編成に組み替え、運転終了後の夕方過ぎに再度8連に戻すということをしていた。</j>
+<e type="trans" ver="1">It is noteworthy that only for the purpose of operating &quot;Uji Kaisoku&quot; Rapid, the 8-car train of Keihan Electric Railway Series 7200 was decoupled to be 5 cars long early in the morning, and when the operation was over, the train was again coupled to be 8 cars long late in the evening.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is noteworthy that only for the purpose of operating &quot;Uji Kaisoku&quot; Rapid, the eight-car train of Keihan Electric Railway Series 7200 was decoupled to be five cars long early in the morning; then, once the operation was over, the train was again coupled to a length of eight cars late in the evening.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is noteworthy that only for the purpose of operating &apos;Uji Kaisoku&apos; Rapid, the eight-car train of Keihan Electric Railway Series 7200 was decoupled to be five cars long early in the morning at the Neyagawa depot; then, once the operation was over, the train was again coupled to a length of eight cars late in the evening.</e>
+<cmt>寝屋川車庫内で　追加</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="101">
+<j>なお、7200系の特徴であるLED式車内案内表示器は全く使用されなかった。</j>
+<e type="trans" ver="1">However, LED type in-car guidance indicator that featured the Series 7200, was never used.</e>
+<cmt>LED式車内案内表示器→定訳不明：LED type in-car guidance indicator</cmt>
+<e type="trans" ver="2">However, the LED type in-car guidance indicator that featured the Series 7200 was never used.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">However, the LED type in-car guidance indicator that featured the Series 7200 was never used.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="102">
+<j>1999年4月11日の「宇治快速さくらSpecial」の淀屋橋発904のみ京阪2600系電車を使用した（基本的には2600系は車外スピーカー未取付のため「宇治快速」では運用されない）。</j>
+<e type="trans" ver="1">&quot;Uji Kaisoku SAKURA (cherry-blossom) Special&quot; Rapid train which departed from Yodoyabashi Station at 9:04 on April, 1999 was the only train that used Keihan Electric Railway Series 2600 (basically the Series 2600 was not used for &quot;Uji Kaisoku&quot; because it was not equipped with exterior speakers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The &quot;Uji Kaisoku SAKURA (cherry-blossom) Special&quot; rapid train, which departed from Yodoyabashi Station at 9:04 on April, 1999, was the only train that used the Keihan Electric Railway Series 2600 (basically the Series 2600 was not used for the &quot;Uji Kaisoku&quot; because it wasn&apos;t equipped with exterior speakers).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The &apos;Uji Kaisoku SAKURA Special&apos; rapid train, which departed from Yodoyabashi at 9:04 in April 1999, was the only train that used the Keihan Electric Railway Series 2600 (basically, the Series 2600 wasn&apos;t used for the &apos;Uji Kaisoku&apos; because it had no exterior speakers).</e>
+<cmt>cherry blossoms既出のため削除</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="103">
+<j>方向幕</j>
+<e type="trans" ver="1">Rollsigns</e>
+<cmt>方向幕→定訳不明：下記を参照にrollsignとしました。（http://www.truveo.com/JR-East-Tokaido-Line series-373-trains-rollsign/id/2927007018他)</cmt>
+<e type="trans" ver="2">Rollsigns</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rollsigns</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="104">
+<j>当時の車両には「快速」表示幕が無く、「臨時」表示幕を提示し、前面に「宇治快速」と「～Special」の合計2枚の表示板を用意して取り付けた。</j>
+<e type="trans" ver="1">At that time, since the train did not have the rollsign that indicated &quot;Rapid,&quot; it carried the rollsign &quot;Special&quot; and for the front face two plates, one read &quot;Uji Kaisoku&quot; and the other &quot;～Special&quot; were prepared to be attached.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At that time, since the train lacked the rollsign that indicated &quot;Rapid,&quot; it carried the rollsign &quot;Special,&quot; and for the front face two plates, one read &quot;Uji Kaisoku&quot; and the other &quot;～Special&quot; were prepared for attachment.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At that time, since the train lacked the rollsign that indicated &apos;Rapid,&apos; it carried the rollsign &apos;Special,&apos; and for the front face two plates, one reading &apos;Uji Kaisoku&apos; and the other reading &apos;～Special,&apos; were prepared for attachment.</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="105">
+<j>回送</j>
+<e type="trans" ver="1">Deadhead trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Deadhead trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Deadhead trains</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="106">
+<j>淀屋橋発は2本とも寝屋川車庫から回送。</j>
+<e type="trans" ver="1">Both of the two trains departing from Yodoyabashi Station were deadheaded from the Neyagawa depot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Each of the two trains departing from Yodoyabashi Station was deadheaded from the Neyagawa depot.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Each of the two trains departing from Yodoyabashi was deadheaded from the Neyagawa depot.</e>
+<cmt>Station削除</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="107">
+<j>淀屋橋発904は宇治到着後に寝屋川車庫に回送。</j>
+<e type="trans" ver="1">The train departing from Yodoyabashi Station at 9:40 was deadheaded to the Neyagawa depot after arriving at Uji Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The train departing from Yodoyabashi Station at 9:40 was deadheaded to the Neyagawa depot after arriving at Uji Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The train departing from Yodoyabashi at 9:04 was deadheaded to the Neyagawa depot after arriving at Uji Station.</e>
+<cmt>Station削除、 9:04としました。</cmt>
+</sen>
+<sen id="108">
+<j>1034発は宇治到着後中書島の引き上げ線に回送し一旦留置後、再び宇治まで回送し天満橋行となり、到着後寝屋川車庫まで回送。</j>
+<e type="trans" ver="1">The train departing at 10:34 was deadheaded to the spur line of Chushojima Station, after arriving at Uji Station, and once stationed there, it was again deadheaded to Uji Station and then it was operated to Tenmabashi Station, and after arriving there, it was deadheaded to the Neyagawa depot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The train departing at 10:34 was deadheaded to the spur line of Chushojima Station after arriving at Uji Station, and once stationed there it was again deadheaded to Uji Station and was operated to Tenmabashi Station; after arriving there, it was deadheaded to the Neyagawa depot.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The train departing at 10:34 was deadheaded to the spur line of Chushojima after arriving at Uji, and once stationed there it was again deadheaded to Uji and was operated to Tenmabashi; after arriving there, it was deadheaded to the Neyagawa depot.</e>
+<cmt>Station削除 Temmabashi&quot;Temmabashi&quot;→&quot;Tenmabashi&quot;に変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>駅一覧</j>
+<e type="trans" ver="1">List of stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">List of stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">List of stations</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="109">
+<j>普通列車のみ運転、全列車が各駅に停車。</j>
+<e type="trans" ver="1">Only Local trains are operated. All trains make a stop at every station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Only local trains are operated, and all trains make stops at every station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Only local trains are operated, and all trains make stops at every station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="110">
+<j>なお、京阪では、六地蔵駅と黄檗駅で乗り換えを知らせるアナウンスを流さない。</j>
+<e type="trans" ver="1">In Keihan Railway, the transfer information at Rokujizo Station and Obaku Station are not announced in the train,</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Keihan Railway the transfer information at Rokujizo Station and Obaku Station aren&apos;t announced in the train,</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">In Keihan Railway the transfer information at Rokujizo Station and Obaku Station aren&apos;t announced on the train.</e>
+<cmt>コンマをピリオドに</cmt>
+</sen>
+<sen id="111">
+<j>また、路線図を見ても、（黄檗駅の場合は）乗換駅と正式には書かれていない。</j>
+<e type="trans" ver="1">And on the railway diagram (in case of Obaku Station) it is not officially figured as a transfer station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, on the railway diagram (in case of Obaku Station) it isn&apos;t officially figured as a transfer station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Moreover, on the railway diagram (in case of Obaku Station) it isn&apos;t officially figured as a transfer station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="112">
+<j>六地蔵駅を除き、車イス対応のエレベーター（宇治駅・中書島駅）またはスロープ（観月橋・桃山南口・木幡・黄檗・三室戸）をそなえ、「オスメイト対応」や「車イス対応」・「オムツ交換台」を備えた多目的トイレをそなえたバリアフリー対策済み。</j>
+<e type="trans" ver="1">Except for Rokujizo Station, the stations are installed with the wheelchair-accessible elevators (Uji Station, Chushojima Station) or slopes (Kangetsukyo Station, Momoyama-Minamiguchi Station, Kowata Station, Obaku Station and Mimurodo Station) and the stations have already taken barrier-free measures including multi-purpose toilets such as an &quot;ostomate-accessible toilet (toilet accessible for the people with ostomy)&quot; and &quot;wheelchair accessible toilet,&quot; or toilets with a &quot;baby changing table.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Except for Rokujizo Station, the stations are installed with wheelchair-accessible elevators (Uji Station, Chushojima Station) or ramps (Kangetsukyo Station, Momoyama-Minamiguchi Station, Kowata Station, Obaku Station and Mimurodo Station), and the stations have already taken barrier-free measures including multipurpose toilets such as an &quot;ostomate-accessible toilet (toilet accessible for the people with ostomy)&quot; and &quot;wheelchair-accessible toilet,&quot; or toilets with baby changing tables.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Except for Rokujizo Station, the stations are installed with wheelchair-accessible elevators (Uji Station, Chushojima Station) or ramps (Kangetsukyo, Momoyama-Minamiguchi, Kowata, Obaku and Mimurodo), and the stations have already taken barrier-free measures including multipurpose toilets such as an &apos;ostomate-accessible toilet (toilet accessible for the people with ostomies)&apos; and &apos;wheelchair-accessible toilet,&apos; or toilets with baby-changing tables.</e>
+<cmt>Station削除 括弧修正</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>その他</j>
+<e type="trans" ver="1">Others</e>
+<cmt></cmt>
+<e type="trans" ver="2">Others</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Others</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="113">
+<j>中書島駅では、京阪本線との誤乗を防ぐ（同一平面上に京阪本線下り用の2番線がある）ために、宇治線ホームでは発車案内放送を「3番線・各駅停車の扉が閉まります」ではなく「3番線・宇治行の扉が閉まります」としている（枚方市駅でも発車案内放送は京阪本線と交野線で区別されているほか、京橋駅 (大阪府)と天満橋駅でも似た措置がとられている）。</j>
+<e type="trans" ver="1">At Chushojima Station, in order to avoid the confusion in taking a train (Platform No.2 of the Kiehan Main Line&apos;s down track is also located on the same level), at the time of the departure the announcement says, &quot;Platform No.3, the doors of the train for Uji Station are closed, &quot;in stead of &quot;Platform No.3, the doors of the Local train are closed,&quot; (At Hirakata Station, the phrases used in the departure announcements for the Keihan Main Line and for the Katano Line are different, and at Kyobashi Station (Osaka Prefecture) and Tenmabashi Station, similar measures are taken as well).</e>
+<cmt></cmt>
+<e type="trans" ver="2">At Chushojima Station, in order to avoid the confusion in taking a train (platform No. 2 of the Kiehan Main Line&apos;s down track is also located on the same level), at the time of the departure the announcement says, &quot;Platform No. 3, the doors of the train for Uji Station are closed, &quot;instead of &quot;Platform No. 3, the doors of the Local train are closed&quot; (at Hirakata Station the phrases used in the departure announcements for the Keihan Main Line and the Katano Line are different, while at Kyobashi Station (Osaka Prefecture) and Tenmabashi Station similar measures are taken as well).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">At Chushojima Station, in order to avoid the confusion in taking a train (Platform 2 of the Keihan Main Line&apos;s outbound track is also located on the same level), at the time of the departure the announcement says, &apos;Platform 3, the doors of the train for Uji are closed,&apos; instead of &apos;Platform 3, the doors of the local train are closed&apos; (at Hirakatashi Station the phrases used in the departure announcements for the Keihan Main Line and the Katano Line are different, while at Kyobashi Station (Osaka Prefecture) and Tenmabashi Station similar measures are taken).</e>
+<cmt>括弧修正 Keihanに修正 下り→ outbound「No.番線」の表記を統一&quot;Temmabashi&quot;→&quot;Tenmabashi&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="114">
+<j>なお、以上の言い回しは2007年6月16日以降の放送のもの。</j>
+<e type="trans" ver="1">The phrase cited above is the announcement as of June 16, 2007 and later.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The phrase cited above is the announcement as of June 16, 2007 and thereafter.</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">The phrase cited above is the announcement as of June 16, 2007 and thereafter.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="115">
+<j>2007年6月15日以前は「3番線の宇治行きが発車します」であった。</j>
+<e type="trans" ver="1">Until June 15, 2007 the announcement had been made as &quot;The train on the Platform No3 bound for Uji Station will depart.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Until June 15, 2007 the announcement had was, &quot;The train on the Platform No. 3, bound for Uji Station, will depart.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Until June 15, 2007 the announcement was, &apos;The train on Platform 3, bound for Uji, will depart.&apos;</e>
+<cmt>Station削除「No.番線」の表記を統一</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="116">
+<j>方向板を正面に掲出していた頃、宇治発の三条行きの方向板は大阪方面からのそれと区別するため、「三」と「条」の間が開いたものを使用していた。</j>
+<e type="trans" ver="1">At one time when the trains were carrying the destination plate on the front face, the trains departing from Uji Station for Sanjo Station were using the plate on which the two Chinese letters that all together mean &quot;Sanjo&quot; are deliberately placed with a space in between as 「三　条」　(san-jo) in order to distinguish them from those proceeding from the direction of Osaka Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At one time, when the trains were carrying the destination plate on the front face, the trains departing from Uji Station for Sanjo Station were using the plate on which the two Chinese letters that together indicated &quot;Sanjo&quot; were deliberately placed with a space in between as 「三　条」　(san-jo) in order to distinguish them from those proceeding from the direction of Osaka Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At one time, when the trains carried their destination plates on the front face, the trains departing from Uji for Sanjo used the plate on which the two Chinese characters that together indicated Sanjo were deliberately placed with a space in between as &apos;三　条&apos;　(san-jo) in order to distinguish them from those proceeding from the direction of Osaka.</e>
+<cmt>括弧修正　Station削除</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), G(id:21), SUCCESS(id:15934), Tyty(id:26521), FREEZA(id:68069), Excl-zoo(id:47086), Sat.K(id:3751), KARS(id:43022), Tigers boy(id:15761), Utsuda(id:605), Fjord(id:15599), Rusk(id:9895), 準急三条(id:25072), Local discovery(id:142533), Goki(id:7107), Unamu(id:14627), Twilight2640(id:134273), Hirotaro(id:1437), 210.(id:9838), 目蒲東急之介(id:34741), Kuha(id:7282), ADhirakata(id:101086), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

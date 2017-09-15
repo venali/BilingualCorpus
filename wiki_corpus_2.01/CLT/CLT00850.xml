@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>小唄</j>
+<e type="trans" ver="1">&quot;Kouta&quot; (The Lyrical Music Accompanied With &quot;Shamisen&quot; [The Three-Stringed Japanese Banjo])</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kouta</e>
+<cmt>タイトルなので&quot; &quot;を削除しました。説明訳括弧削除しました。</cmt>
+<e type="check" ver="1">Kouta</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>小唄（こうた）には、もともと端唄から派生した俗謡である。</j>
+<e type="trans" ver="1">&quot;Kouta&quot; is a popular song accompanied with shamisen, which was originally derived from &quot;hauta&quot; (a Japanese short ballad accompanied with shamisen).</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Kouta&quot; is a popular song accompanied with shamisen (the three-stringed Japanese banjo), which was originally derived from &quot;hauta&quot; (a Japanese short ballad accompanied with shamisen).</e>
+<cmt>説明訳を補足しました。</cmt>
+<e type="check" ver="1">&quot;Kouta&quot; is a popular song accompanied with shamisen (the three-stringed Japanese banjo), which was originally derived from &quot;hauta&quot; (a Japanese short ballad accompanied with shamisen).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>一般には江戸小唄とされる端唄の略称。</j>
+<e type="trans" ver="1">Generally, kouta is used as the abbreviation of &quot;Edo kouta&quot; (hauta performed and enjoyed in Edo).</e>
+<cmt>・「小唄」は「端唄」から派生しているとはいえ、一応「端唄」とは別物である、とのセル4の説明（セル13から29の説明もそのことを前提にしているはず）に照らせば、ここのセルの言い回しは厳密でない感じがしますが、あえてそのまま訳しています。</cmt>
+<e type="trans" ver="2">Generally, kouta is used as the abbreviation of Edo kouta (hauta performed and enjoyed in Edo).</e>
+<cmt>原文に合せて&quot; &quot;を削除しました。</cmt>
+<e type="check" ver="1">Generally, kouta is used as the abbreviation of Edo kouta (hauta performed and enjoyed in Edo).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>略称として定着したのは、明治・大正年間である。</j>
+<e type="trans" ver="1">The abbreviation became common in the Meiji or Taisho period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The abbreviation became common in the Meiji or Taisho period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The abbreviation became common in the Meiji or Taisho period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>ほかに現代小唄・清元小唄・常磐津小唄・義太夫小唄（豊本節）・新内小唄などがある。</j>
+<e type="trans" ver="1">In addition to Edo kouta, there exist various kouta, such as &quot;gendai kouta&quot; (modern kouta), &quot;kiyomoto kouta,&quot; &quot;tokiwazu kouta,&quot; &quot;gidayu kouta&quot; (also called &quot;toyomoto-bushi&quot;), and &quot;shinnai kouta&quot; - kiyomoto, tokiwazu, gidayu and shinnai are originally the names of &quot;katarimono&quot; (narrative shamisen music), but here, these are arranged as &quot;utaimono&quot; (lyrical shamisen music).</e>
+<cmt>・4行目のダッシュの後に訳者が補っている解説の内容は、「清元・常磐津・義太夫・新内は、もともとは『語り物』の名前であるが、ここでは『謡物（うたいもの）』として編曲されている」です。（参照：[http://kouta-renmei.org/english.html])</cmt>
+<e type="trans" ver="2">In addition to Edo kouta, there exist various kouta, such as Gendai kouta (modern kouta), Kiyomoto kouta, Tokiwazu kouta, Gidayu kouta (also called Toyomoto-bushi), and Shinnai kouta - Kiyomoto, Tokiwazu, Gidayu and Shinnai are originally the names of &quot;katari mono&quot; (narrative shamisen music), but here, these are arranged as &quot;utai mono&quot; (lyrical shamisen music).</e>
+<cmt>原文に合せて&quot; &quot;を削除しました。小唄の名称の語頭を大文字にしました。スペース補足しました。ダッシュの後に訳者が補っている解説が必要かどうか不明です。</cmt>
+<e type="check" ver="1">In addition to Edo kouta, there exist various kouta, such as Gendai kouta (modern kouta), Kiyomoto kouta, Tokiwazu kouta, Gidayu kouta (also called Toyomoto-bushi), and Shinnai kouta.</e>
+<cmt>原文に合わせて修正しました。</cmt>
+</sen>
+<sen id="5">
+<j>ここでは主に江戸小唄について述べる。</j>
+<e type="trans" ver="1">The description below is mainly about Edo kouta.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The description below is mainly about Edo kouta.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The description below is mainly about Edo kouta.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>音楽的特徴</j>
+<e type="trans" ver="1">Musical features</e>
+<cmt></cmt>
+<e type="trans" ver="2">Musical features</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Musical features</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>端唄は撥を使うのに対して小唄は爪弾きである。</j>
+<e type="trans" ver="1">The shamisen performance style in kouta is &quot;tsume biki&quot; (literally, plucking with the player&apos;s fingernails, but in reality, plucking with the player&apos;s fingers), while that in hauta is plucking with a plectrum.</e>
+<cmt>・セル16との関係から、「爪弾き」の文字通りの意味も示しておいた方がよい、と考えました。</cmt>
+<e type="trans" ver="2">The shamisen performance style in kouta is &quot;tsume biki&quot; (literally, plucking with the player&apos;s fingernails, but in reality, plucking with the player&apos;s fingers), while that in hauta is plucking with a plectrum.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The shamisen performance style in kouta is &quot;tsume biki&quot; (literally, plucking with the player&apos;s fingernails, but in reality, plucking with the player&apos;s fingers), while that in hauta is plucking with a plectrum.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>上記の発生経過から節回しに大きな差異はない。</j>
+<e type="trans" ver="1">As is mentioned above, kouta originated from hauta, so kouta and hauta have almost the same melody.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As is mentioned above, kouta originated from hauta, so kouta and hauta have almost the same melody.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As is mentioned above, kouta originated from hauta, so kouta and hauta have almost the same melody.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>爪弾きとは言え、正式には爪は糸に当ててはならず、爪の横の指の端で弾く。</j>
+<e type="trans" ver="1">In spite of the literal meaning of &quot;tsume biki,&quot; the shamisen player should use not its fingernails but its fingertips alongside for plucking the strings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In spite of the literal meaning of tsume biki, the shamisen player should use not its fingernails but its fingertips alongside for plucking the strings.</e>
+<cmt>&quot; &quot;削除しました。</cmt>
+<e type="check" ver="1">In spite of the literal meaning of tsume biki, the shamisen player should use not its fingernails but its fingertips alongside for plucking the strings.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>演唱の場は主に、お座敷（4畳半）が多く、撥を使用すると音色が大き過ぎる為に自然と爪弾きとなった。</j>
+<e type="trans" ver="1">Kouta was mainly performed in a Japanese-style drawing room of the size of four and a half &quot;tatami&quot; (a Japanese floor mat), so the player naturally began to pluck with its fingers, instead of the plectrum that made the sound too big for the room.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kouta was mainly performed in a Japanese-style drawing room of the size of four and a half tatami (a Japanese floor mat), so the player naturally began to pluck with its fingers, instead of the plectrum that made the sound too big for the room.</e>
+<cmt>&quot; &quot;削除しました。</cmt>
+<e type="check" ver="1">Kouta was mainly performed in a Japanese-style drawing room of the size of four and a half tatami (a Japanese floor mat), so the player naturally began to pluck with its fingers, instead of the plectrum that made the sound too big for the room.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>三味線は端唄と違い、中棹を使用し、使用する糸も端唄より太く、駒は端唄よりも大きな木製の木駒を用いる。</j>
+<e type="trans" ver="1">In kouta, &quot;chuzao&quot; (a middle-sized shamisen, smaller than the shamisen in hauta) is used, and the string is thicker and the wooden &quot;koma&quot; (bridge) is bigger than that of hauta.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In kouta, chuzao (a middle-sized shamisen, smaller than the shamisen in hauta) is used, and the string is thicker and the wooden koma (bridge) is bigger than that of hauta.</e>
+<cmt>&quot; &quot;削除しました。</cmt>
+<e type="check" ver="1">In kouta, chuzao (a middle-sized shamisen, smaller than the shamisen in hauta) is used, and the string is thicker and the wooden koma (bridge) is bigger than that of hauta.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="11">
+<j>ぼんやりとした唄い方で、呟く様に軽妙に粋に唄うのが特徴である。</j>
+<e type="trans" ver="1">The characteristics of kouta are the singer&apos;s mumbling voice, and its rhythmical and stylish song.</e>
+<cmt>・「ぼんやりとした唄い方で、呟く様に・・・唄う」は「くぐもった声で歌う」の意味に解しています。</cmt>
+<e type="trans" ver="2">The characteristics of kouta are the singer&apos;s mumbling voice, and its rhythmical and stylish song.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The characteristics of kouta are the singer&apos;s mumbling voice, and its rhythmical and stylish song.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="12">
+<j>基本は三味線１、唄方１であるが、替手や上調子、下調子が入る唄もある。</j>
+<e type="trans" ver="1">Basically, one kouta group consists of a shamisen player and a singer, and occasionally, there exists another shamisen player of &quot;kaede&quot; (the accompanying melody), &quot;uwajoshi&quot; (the higher range melody), or &quot;sagarijoshi&quot; (the lower range melody).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Basically, one kouta group consists of a shamisen player and a singer, and occasionally, there exists another shamisen player of kaede (the accompanying melody), uwajoshi (the higher range melody), or sagarijoshi (the lower range melody).</e>
+<cmt>&quot; &quot;削除しました。</cmt>
+<e type="check" ver="1">Basically, one kouta group consists of a shamisen player and a singer, and occasionally, there exists another shamisen player of kaede (the accompanying melody), uwajoshi (the higher range melody), or sagarijoshi (the lower range melody).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="13">
+<j>演奏時間はおよそ一分半から三分程度。</j>
+<e type="trans" ver="1">The performance time is from about one and half minute to about three minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The performance time is from about one and half minute to about three minutes.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The performance time is from about one and half minute to about three minutes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>長くとも五分以内である。</j>
+<e type="trans" ver="1">At the longest, it finishes within five minutes.</e>
+<cmt>・一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">At the longest, it finishes within five minutes.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At the longest, it finishes within five minutes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>詞の内容は遊里物・遊女物（遊里のお色気を扱ったもの）、慕情物・情痴物（市井のお色気を扱ったもの）、芝居物・役者物（芝居や役者を題材にするもの）、バレ唄（諷刺・洒脱のきいたもの）、田舎唄（民謡系）などがある。</j>
+<e type="trans" ver="1">There exist various lyrics, such as &quot;yurimono&quot; (also called &quot;yujomono,&quot; the song of love affairs in the red-light district), &quot;bojomono&quot; (also called &quot;jochimono,&quot; the song of love affairs of the public), &quot;shibaimono&quot; (the song featuring a drama), &quot;yakushamono&quot; (the song featuring an actor), &quot;bareuta&quot; (the song that has a satirical or sophisticated flavor), and &quot;inakauta&quot; (a traditional folk song and the like).</e>
+<cmt>・一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">There exist various lyrics, such as yuri mono (also called yujo mono, the song of love affairs in the red-light district), bojo mono (also called jochi mono, the song of love affairs of the public), shibai mono (the song featuring a drama), yakusha mono (the song featuring an actor), bareuta (the song that has a satirical or sophisticated flavor), and inakauta (a traditional folk song and the like).</e>
+<cmt>&quot; &quot;削除しました。スペース補足しました。</cmt>
+<e type="check" ver="1">There exist various lyrics, such as yuri mono (also called yujo mono, the song of love affairs in the red-light district), bojo mono (also called jochi mono, the song of love affairs of the public), shibai mono (the song featuring a drama), yakusha mono (the song featuring an actor), bareuta (the song that has a satirical or sophisticated flavor), and inakauta (a traditional folk song and the like).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>端唄は鳴り物が入るが、小唄は三味線のみでの演唱。</j>
+<e type="trans" ver="1">Hauta is accompanied with an instrument other than shamisen, while kouta is accompanied only with shamisen.</e>
+<cmt>・「鳴り物」とは「三味線以外の楽器」の意味です。</cmt>
+<e type="trans" ver="2">Hauta is accompanied with an instrument other than shamisen, while kouta is accompanied only with shamisen.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hauta is accompanied with an instrument other than shamisen, while kouta is accompanied only with shamisen.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>代表的な家元（発生順）</j>
+<e type="trans" ver="1">Representative &quot;iemoto&quot; (the head family of a school) of kouta</e>
+<cmt></cmt>
+<e type="trans" ver="2">Representative iemoto (the head family of a school) of kouta</e>
+<cmt>&quot; &quot;削除しました。</cmt>
+<e type="check" ver="1">Representative iemoto (the head family of a school) of kouta</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="17">
+<j>大正六年に堀小多満が小唄界で最初の流派である「堀派」を設立。</j>
+<e type="trans" ver="1">In 1917, Kotama HORI founded Hori-ha school, the first one in the kouta world.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1917, Kotama HORI founded Hori school, the first one in the kouta world.</e>
+<cmt>Hori schoolに訂正しました。</cmt>
+<e type="check" ver="1">In 1917, Kotama HORI founded Hori school, the first one in the kouta world.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="18">
+<j>その後、多数の流派が誕生した。</j>
+<e type="trans" ver="1">Ater that, many schools were born.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After that, many schools were established.</e>
+<cmt>Afterスペル訂正しました。establishedに訂正しました。</cmt>
+<e type="check" ver="1">After that, many schools were established.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>現在では約70流派が活動を続けているが、高齢化が進み、後輩の育成に各流派ともに尽力している。</j>
+<e type="trans" ver="1">At present, about 70 schools are making their activities, and they are making every effort to train the younger generation, because most members of the schools are aging.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At present, about 70 schools are making their activities, and they are making every effort to train the younger generation, because most members of the schools are aging.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At present, about 70 schools are making their activities, and they are making every effort to train the younger generation, because most members of the schools are aging.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="20">
+<j>堀派</j>
+<e type="trans" ver="1">Hori-ha school</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hori school</e>
+<cmt>-ha削除しました。</cmt>
+<e type="check" ver="1">Hori school</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>田村派</j>
+<e type="trans" ver="1">Tamura-ha school</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tamura school</e>
+<cmt>-ha削除しました。</cmt>
+<e type="check" ver="1">Tamura school</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>小唄派</j>
+<e type="trans" ver="1">Kouta-ha school</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kouta school</e>
+<cmt>-ha削除しました。</cmt>
+<e type="check" ver="1">Kouta school</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>蓼派</j>
+<e type="trans" ver="1">Tade-ha school</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tade school</e>
+<cmt>-ha削除しました。</cmt>
+<e type="check" ver="1">Tade school</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>吉村派</j>
+<e type="trans" ver="1">Yoshimura-ha school</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshimura school</e>
+<cmt>-ha削除しました。</cmt>
+<e type="check" ver="1">Yoshimura school</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>春日派</j>
+<e type="trans" ver="1">Kasuga-ha school</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kasuga school</e>
+<cmt>-ha削除しました。</cmt>
+<e type="check" ver="1">Kasuga school</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>千紫派</j>
+<e type="trans" ver="1">Senshi-ha school</e>
+<cmt></cmt>
+<e type="trans" ver="2">Senshi school</e>
+<cmt>-ha削除しました。</cmt>
+<e type="check" ver="1">Senshi school</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Shimashimacandy(id:188477), Kokada jnet(id:84730), ちりとてちん(id:161203), Kosyoraku(id:288016), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

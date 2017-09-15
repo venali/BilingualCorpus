@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>大山崎駅</j>
+<e type="trans" ver="1">Oyamazaki Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oyamazaki Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Oyamazaki Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>大山崎駅（おおやまざきえき）は、京都府乙訓郡大山崎町にある、阪急電鉄阪急京都本線の鉄道駅。</j>
+<e type="trans" ver="1">Located in Oyamazaki-cho, Otokuni-gun, Kyoto Prefecture, Oyamazaki Station is a stop on the Hankyu Kyoto Line, which is operated by the Hankyu Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oyamazaki Station, located in Oyamazaki-cho, Otokuni-gun, Kyoto Prefecture, is a stop on the Hankyu Kyoto Line, which is operated by the Hankyu Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Oyamazaki Station, located in Oyamazaki-cho, Otokuni-gun, Kyoto Prefecture, is a stop on the Hankyu Kyoto Line, which is operated by the Hankyu Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>相対式2面2線のホームを持つ高架駅。</j>
+<e type="trans" ver="1">Oyamazaki Station is an elevated station having two separate platforms serving two tracks.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oyamazaki Station is an elevated station having two separate platforms serving two tracks.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Oyamazaki Station is an elevated station having two separate platforms serving two tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>改札口は地平にあり、京都府道・大阪府道67号西京高槻線（西国街道）に面する1ヶ所のみ。</j>
+<e type="trans" ver="1">A ticket gate is on the ground level facing Kyoto and Osaka prefectural road No.67 Nishikyo Takatsuki Route (Saigoku Kaido).</e>
+<cmt></cmt>
+<e type="trans" ver="2">A ticket gate is on the ground level facing Kyoto and Osaka Prefectural Road No. 67, Nishikyo Takatsuki Route (Saigoku Kaido).</e>
+<cmt>case</cmt>
+<e type="check" ver="1">A ticket gate is on the ground level facing Nishikyo Takatsuki Line of the Kyoto and Osaka Prefectural Route 67 (Saigoku Kaido Road).</e>
+<cmt>道路表現を修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>※のりば番号は設定されていない。</j>
+<e type="trans" ver="1">※ Track numbers are not assigned.</e>
+<cmt></cmt>
+<e type="trans" ver="2">※ Track numbers are not assigned.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">* Platform numbers are not assigned.</e>
+<cmt>※→*　としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>山崎の合戦跡</j>
+<e type="trans" ver="1">Yamazaki-no-kassen[tatakai] (Battle of Yamazaki) -ato</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yamazaki-no-kassen[tatakai] (Battle of Yamazaki)-ato</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Yamazaki-no-tatakai-ato (remains of the Battle of Yamazaki))</e>
+<cmt>表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>水無瀬神宮</j>
+<e type="trans" ver="1">Minase-jingu Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Minase-jingu Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Minase-jingu Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>桜井駅跡</j>
+<e type="trans" ver="1">Sakurai-eki-ato</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sakurai-eki-ato</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sakurai-eki-ato (site of Sakurai Station)</e>
+<cmt>英語の補足を追加しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>関大明神社</j>
+<e type="trans" ver="1">Sekidaimyo-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sekidaimyo-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sekidaimyo-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="9">
+<j>妙喜庵</j>
+<e type="trans" ver="1">Myoki-an Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Myoki-an Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Myoki-an Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="10">
+<j>待庵</j>
+<e type="trans" ver="1">Taian/Taian teahouse</e>
+<cmt></cmt>
+<e type="trans" ver="2">Taian (Taian) teahouse</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Taian teahouse</e>
+<cmt>表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="11">
+<j>大山崎山荘美術館</j>
+<e type="trans" ver="1">Asahi Beer Oyamazaki Villa Museum</e>
+<cmt></cmt>
+<e type="trans" ver="2">Asahi Beer Oyamazaki Villa Museum</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Asahi Beer Oyamazaki Villa Museum</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="12">
+<j>大山崎町歴史資料館</j>
+<e type="trans" ver="1">Oyamazakicho Historic Museum</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oyamazakicho Historic Museum</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Oyamazakicho Historic Museum</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="13">
+<j>大念寺</j>
+<e type="trans" ver="1">Dainen-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Dainen-ji Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Dainen-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="14">
+<j>宝積寺</j>
+<e type="trans" ver="1">Hoshaku-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hoshaku-ji Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hoshaku-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="15">
+<j>山崎聖天</j>
+<e type="trans" ver="1">Yamazaki Shoten</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yamazaki Shoten</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yamazaki Shoten (Kannon-ji Temple)</e>
+<cmt>補足しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="16">
+<j>酒解神社</j>
+<e type="trans" ver="1">Sakatoke-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sakatoke-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sakatoke-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="17">
+<j>大山崎瓦窯跡 （国指定史跡）</j>
+<e type="trans" ver="1">Oyamazaki Kawaragama-ato (historic site)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oyamazaki Kawaragama-ato (historical site)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Remains of the Oyamazaki tile kiln (a national historic site)</e>
+<cmt>英語の補足を追加しました。</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="18">
+<j>サントリー山崎蒸溜所</j>
+<e type="trans" ver="1">Suntory Yamazaki Distillery</e>
+<cmt></cmt>
+<e type="trans" ver="2">Suntory Yamazaki Distillery</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Suntory Yamazaki Distillery</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="19">
+<j>山崎駅前郵便局</j>
+<e type="trans" ver="1">Yamazakiekimae post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Yamazakiekimae post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Yamazakiekimae post office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="20">
+<j>淀川</j>
+<e type="trans" ver="1">Yodo-gawa River</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yodo-gawa River</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yodo-gawa River</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="21">
+<j>大阪染工</j>
+<e type="trans" ver="1">Osaka Senko Co.,Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Osaka Senko Co., Ltd.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Osaka Senko Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="22">
+<j>旧西国街道（京都府道・大阪府道67号西京高槻線）</j>
+<e type="trans" ver="1">Old Saigoku Kaido (Kyoto and Osaka prefectural road No.67 Nishikyo Takatsuki Route)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Old Saigoku Kaido (Kyoto and Osaka Prefectural Road No. 67, Nishikyo Takatsuki Route)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Old Saigoku Kaido Road (Nishikyo Takatsuki Line of the Kyoto and Osaka Prefectural Route 67)</e>
+<cmt>道路表現を修正しました。</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="23">
+<j>国道171号</j>
+<e type="trans" ver="1">National Highway 171/Route 171</e>
+<cmt></cmt>
+<e type="trans" ver="2">National Highway 171 / Route 171</e>
+<cmt>space</cmt>
+<e type="check" ver="1">National Route 171</e>
+<cmt>国道→national route　としました。</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="24">
+<j>JR京都線 山崎駅 (京都府)へは、直線距離で180m程。</j>
+<e type="trans" ver="1">The linear distance from Oyamazaki Station to the JR Kyoto Line Yamazaki Station (Kyoto Prefecture) is about 180 m.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The linear distance from Oyamazaki Station to the JR Kyoto Line Yamazaki Station (Kyoto Prefecture) is approximately 180 meters.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The linear distance from Oyamazaki Station to the JR Kyoto Line Yamazaki Station (Kyoto Prefecture) is approximately 180 meters.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>東海道新幹線と併走している。</j>
+<e type="trans" ver="1">Oyamazaki Station is along the Tokaido Shinkansen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oyamazaki Station is along the Tokaido Shinkansen.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Oyamazaki Station is along the Tokaido Shinkansen.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>バス</j>
+<e type="trans" ver="1">Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="26">
+<j>最寄り停留所は、京都府道・大阪府道67号西京高槻線上にある阪急大山崎となる。</j>
+<e type="trans" ver="1">The nearest bus stop is Hankyu Oyamazaki which is located on the Kyoto and Osaka prefectural road No.67 Nishikyo Takatsuki Route.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The nearest bus stop is Hankyu Oyamazaki, which is located on the Kyoto and Osaka Prefectural Road No. 67, Nishikyo Takatsuki Route.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The nearest bus stop is Hankyu Oyamazaki, which is located on the Nishikyo Takatsuki Line of the Kyoto and Osaka Prefectural Route 67.</e>
+<cmt>道路表現を修正しました。</cmt>
+</sen>
+<sen id="27">
+<j>以下の路線が乗り入れ、阪急バス、京阪バスにより運行されている。</j>
+<e type="trans" ver="1">Hankyu Bus Co.,Ltd. and Keihan Bus Co.,Ltd. operate the following bus routes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Bus Co., Ltd., and Keihan Bus Co., Ltd., operate the following bus routes:</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Hankyu Bus Co., Ltd., and Keihan Bus Co., Ltd., operate the following bus routes:</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>また、中央競馬開催日には、山崎駅前から京都競馬場への臨時バスが、年始には八幡市駅までの臨時バスが運行される。</j>
+<e type="trans" ver="1">From Yamazaki Station, special buses for Kyoto Race Course are operated on the days of horse-racing, and special buses for Yawatashi Station are operated during the New Year holidays.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Yamazaki Station, special buses for Kyoto Race Course are operated on the days of horse racing, and special buses for Yawatashi Station are operated during the New Year holidays.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">From Yamazaki Station, special buses for Kyoto Race Course are operated on the days of horse racing, and special buses for Yawatashi Station are operated during the New Year holidays.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="29">
+<j>18系統：山崎駅 (京都府)行、長岡京駅行（阪急）</j>
+<e type="trans" ver="1">Route 18: for Yamazaki Station (Kyoto Prefecture) and for Nagaokakyo Station (Hankyu)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 18: Bound for Yamazaki Station (Kyoto Prefecture) and Nagaokakyo Station (Hankyu)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 18: Bound for Yamazaki Station (Kyoto Prefecture) and Nagaokakyo Station (Hankyu)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="30">
+<j>13号経路：淀駅行（京阪）</j>
+<e type="trans" ver="1">Route 13: for Yodo Station (Keihan)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 13: Bound for Yodo Station (Keihan)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Route 13: Bound for Yodo Station (Keihan)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>利用状況</j>
+<e type="trans" ver="1">Use of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Conditions of usage</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="31">
+<j>平成15年度の1日あたりの乗車人員は約3,255人（京都府統計書より）。</j>
+<e type="trans" ver="1">The number of passengers per day was about 3,255 in 2003 (adapted from Kyoto Prefecture Statistical Book).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of passengers per day was about 3,255 in 2003 (according to the Kyoto Prefecture Statistical Book).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The number of passengers per day was about 3,255 in fiscal year 2003 (according to the Kyoto Prefecture Statistics Report).</e>
+<cmt>統一しました。fiscal →fiscal yearに変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="32">
+<j>1928年（昭和3年）11月1日 新京阪鉄道高槻町～京都西院開通時に開業。</j>
+<e type="trans" ver="1">On November 1, 1928 Oyamazaki Station was opened when the section between Takatsuki-cho Station and Kyoto Saiin Station of the Shinkeihan Railway was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 1, 1928: Oyamazaki Station was opened when the section between Takatsuki-cho Station and Kyoto Saiin Station of the Shinkeihan Railway was opened.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">November 1, 1928: Oyamazaki Station was opened when the section between Takatsuki-cho Station and Kyoto Saiin Station of the Shinkeihan Railway was opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="33">
+<j>1930年（昭和5年）9月15日 会社合併により京阪電気鉄道新京阪線の駅となる。</j>
+<e type="trans" ver="1">On September 15, 1930 Oyamazaki Station became a stop on the Shinkeihan Line operated by the Keihan Electric Railway as a result of amalgamation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 15, 1930: Oyamazaki Station became a stop on the Shinkeihan Line, operated by the Keihan Electric Railway, as a result of amalgamation.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">September 15, 1930: Oyamazaki Station became a stop on the Shinkeihan Line, operated by the Keihan Electric Railway, as a result of amalgamation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="34">
+<j>1943年（昭和18年）10月1日 会社合併により京阪神急行電鉄（現在の阪急電鉄）の駅となる。</j>
+<e type="trans" ver="1">On October 1, 1943 Oyamazaki Station came to be operated by the Keihanshin Express Railway (the current Hankyu Railway) as a result of amalgamation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 1, 1943: Oyamazaki Station came to be operated by the Keihanshin Express Railway (the current Hankyu Railway) as a result of amalgamation.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">October 1, 1943: Oyamazaki Station came to be operated by the Keihanshin Express Railway (the current Hankyu Railway) as a result of amalgamation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="35">
+<j>1963年（昭和38年）4月24日 高架化工事のため東海道新幹線の線路を借用し、仮設ホームを置いて営業。</j>
+<e type="trans" ver="1">On April 24, 1963 Oyamazaki Station was operated with temporary platforms, using tracks of Tokaido Shinkansen during the elevation construction.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 24, 1963: Oyamazaki Station was operated with temporary platforms, using the tracks of Tokaido Shinkansen during the elevation construction.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">April 24, 1963: Oyamazaki Station was operated with temporary platforms, using the tracks of Tokaido Shinkansen during the elevation construction.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="36">
+<j>1963年（昭和38年）12月29日 高架線竣工。</j>
+<e type="trans" ver="1">Elevated tracks were completed on December 29, 1963.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 29, 1963: The elevated tracks were completed.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">December 29, 1963: The elevated tracks were completed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>現ホームに移設。</j>
+<e type="trans" ver="1">The platforms were transferred to the current location.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The platforms were transferred to their current location.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The platforms were transferred to their current location.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="38">
+<j>阪急電鉄</j>
+<e type="trans" ver="1">Hankyu Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hankyu Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hankyu Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="39">
+<j>■京都本線</j>
+<e type="trans" ver="1">Kyoto Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Main Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="40">
+<j>■通勤特急・■特急・■快速急行</j>
+<e type="trans" ver="1">■(Commuter) Limited Express ■Limited Express ■Rapid Express</e>
+<cmt></cmt>
+<e type="trans" ver="2">■(Commuter) limited express ■Limited express ■Rapid express</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Commuter Limited Express/Limited Express/Rapid Express</e>
+<cmt>統一しました。記号を/に変更しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="41">
+<j>通過</j>
+<e type="trans" ver="1">(Commuter) Limited Express, Limited Express, and Rapid Express trains do not stop at Oyamazaki Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Commuter) limited express, limited express and rapid express trains don&apos;t stop at Oyamazaki Station.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">(Commuter) limited express, limited express and rapid express trains don&apos;t stop at Oyamazaki Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="42">
+<j>■準急・■普通</j>
+<e type="trans" ver="1">■Semi Express ■Local</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Semi-express ■Local</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Semi Express/Local</e>
+<cmt>統一しました。記号を/に変更しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="43">
+<j>水無瀬駅 - 大山崎駅 - 長岡天神駅</j>
+<e type="trans" ver="1">Minase Station - Oyamazaki Station - Nagaokatenjin Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Minase Station - Oyamazaki Station - Nagaokatenjin Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Minase Station - Oyamazaki Station - Nagaokatenjin Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="44">
+<j>※大山崎駅～長岡天神駅間の、京都第二外環状道路（計画中）との交差地点に新駅を設置することで、長岡京市と阪急電鉄が合意した。</j>
+<e type="trans" ver="1">※Nagaokakyo City and Hankyu Railway agreed to build a new station on the intersection of Kyoto Second Outer Ring Road (under contemplation) and the section between Oyamazaki Station and Nagaokatenjin Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">※Nagaokakyo City and Hankyu Railway agreed to build a new station at the intersection of the Kyoto Second Outer Ring Road (under contemplation) and the section between Oyamazaki Station and Nagaokatenjin Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Nagaokakyo City and Hankyu Railway agreed to build a new station at the intersection of the Kyoto Second Outer Ring Road (under contemplation) and the section between Oyamazaki Station and Nagaokatenjin Station.</e>
+<cmt>※削除しました。</cmt>
+</sen>
+<sen id="45">
+<j>但し、着工、開業時期などは未定。</j>
+<e type="trans" ver="1">It has not been decided when the construction begins or when the new station opens.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It has not been decided when the construction will begin or when the new station will open.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It has not been decided when the construction will begin or when the new station will open.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Sushiya(id:110938), Gargoyle(id:49233), 東京特許許可局(id:7229), Bakkai(id:7233), 城山(id:104901), Sixtyplant(id:175804), Wikipedianet(id:9608), Shinkansen(id:13703), Rusk(id:9895), 大河阪急(id:48004), 663highland(id:18755), Kone(id:377), Hirotaro(id:1437), 計記録(id:124500), 扇風機のせんちゃん(id:161810), 目蒲東急之介(id:34741), 捕澤(id:23785), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

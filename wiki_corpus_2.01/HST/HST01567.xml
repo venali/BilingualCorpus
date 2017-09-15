@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>行基図</j>
+<e type="trans" ver="1">Gyoki;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gyoki-zu</e>
+<cmt>スペルミスを修正しました。</cmt>
+<e type="check" ver="1">Gyoki-zu</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>行基図（ぎょうきず）とは、奈良時代の僧侶・行基が作ったとされる古式の日本地図。</j>
+<e type="trans" ver="1">Gyoki-zu (Gyoki Map) is an ancient-style map of Japan which is said to have been created by a Buddhist monk, Gyoki in the Nara period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gyoki-zu (Gyoki Map) is an ancient-style map of Japan which is said to have been created by a Buddhist monk, Gyoki in the Nara period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gyoki-zu (Gyoki Map) is an ancient-style map of Japan which is said to have been created by a Buddhist monk, Gyoki in the Nara period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>ただし、行基当時に作成されたものは現存しておらず、実際に行基が作ったものかどうかは不明である。</j>
+<e type="trans" ver="1">However, the map which was created when Gyoki lived does not exist, and it is unknown whether the existing map is the one which Gyoki actually made.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the maps created when Gyoki was alive do not exist any more, and it is unknown whether the existing maps are the ones which Gyoki actually planned.</e>
+<cmt>主語を複数にしました。</cmt>
+<e type="check" ver="1">However, the maps created when Gyoki was alive do not exist any more, and it is unknown whether the existing maps are the ones which Gyoki actually planned.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>ただし、この図が後々まで日本地図の原型として用いられ、江戸時代中期に長久保赤水や伊能忠敬が現われる以前の日本地図は基本的にはこの行基図を元にしていたとされている。</j>
+<e type="trans" ver="1">Nevertheless, this map has been used as a prototype of the map of Japan for many generations, and maps of Japan which were made before the appearance of Akazumi NAGAKUBO and Tadataka INO are said to have basically come from this Gyoki-zu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nevertheless, this map has been used as a prototype of the map of Japan for many generations, and maps of Japan made before the appearance of Sekisui NAGAKUBO and Tadataka INO are said to have basically come from this Gyoki-zu.</e>
+<cmt>不要な訳は削除しました。赤水は「せきすい」です。</cmt>
+<e type="check" ver="1">Nevertheless, this map has been used as a prototype of the map of Japan for many generations, and maps of Japan made before the appearance of Sekisui NAGAKUBO and Tadataka INO are said to have basically come from this Gyoki-zu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>このため、こうした日本地図を一括して「行基図」あるいは「行基式日本図」と呼ぶケースがある。</j>
+<e type="trans" ver="1">For this reason, there are cases where maps of Japan are collectively called &apos;Gyoki-zu&apos; or &apos;Gyoki-style map of Japan&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For this reason, there are cases where maps of Japan are collectively called &apos;Gyoki-zu&apos; or &apos;Gyoki-style map of Japan&apos;.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For this reason, there are cases where maps of Japan are collectively called &apos;Gyoki-zu&apos; or &apos;Gyoki-style map of Japan&apos;.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>作成年代によって違いはあるものの、基本的な形態として平安京のある山城国を中心として、令制国を俵あるいは卵状（主として楕円もしくは円 (数学)）に表して、これを連ねることで日本列島の大まかな輪郭を形成している。</j>
+<e type="trans" ver="1">Different versions were produced in different periods, but as the basic format, the general outline of the Japanese archipelago was formed by arranging (partly overlaying each other) tawaras (straw bags for rice) or oval shapes (mainly ellipses or circles) expressing ryoseikokus (provinces) centering around Yamashiro Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Different versions were produced in different periods, but as the basic format, the general outline of the Japanese archipelago was formed by arranging (partly overlaying each other) tawara (straw bags for rice) or oval shapes (mainly ellipses or circles) expressing ryoseikoku (provinces) centering around Yamashiro Province where Heian-kyo (ancient capital in current Kyoto).</e>
+<cmt>「平安京のある」の訳を補いました。</cmt>
+<e type="check" ver="1">Different versions were produced in different periods, but as the basic format, the general outline of the Japanese archipelago was formed by arranging (partly overlaying each other) tawara (straw bags for rice) or oval shapes (mainly ellipses or circles) expressing ryoseikoku (provinces) centering around Yamashiro Province where Heian-kyo (ancient capital in current Kyoto).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>また、平安京から五畿七道の街道が伸ばされて全ての国とつなげられている。</j>
+<e type="trans" ver="1">From Heiankyo (ancient capital in current Kyoto) the kaidos (roads) of Goki shichido (five provinces and seven circuits) were extended and connected to all the provinces nationwide.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From Heian-kyo, the roads of Goki shichido (five provinces and seven circuits) were extended and connected to all the provinces nationwide.</e>
+<cmt>不要な説明は削除しました。カンマを補いました。街道は単にroadsとしました。</cmt>
+<e type="check" ver="1">From Heian-kyo, the roads of Goki shichido (five provinces and seven circuits) were extended and connected to all the provinces nationwide.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>地図によっては国の郡の数や田の面積などを記しているものもある。</j>
+<e type="trans" ver="1">In some versions the number of counties and the areas of rice fields in each province were written.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In some versions, the number of counties and the areas of rice fields in each province were written.</e>
+<cmt>カンマを補いました。</cmt>
+<e type="check" ver="1">In some versions, the number of counties and the areas of rice fields in each province were written.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>行基の地図作成伝説</j>
+<e type="trans" ver="1">A legend of the creation of maps by Gyoki</e>
+<cmt></cmt>
+<e type="trans" ver="2">A legend of the creation of maps by Gyoki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A legend of the creation of maps by Gyoki</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>現存する「行基図」には“行基菩薩”作と記されているものが多いが、六国史や仏教史書には行基の記事には地図作成の事実には触れられていない。</j>
+<e type="trans" ver="1">&quot;Made by Gyoki Bosatsu&quot; is written in many of the existing versions of &apos;Goki-zu&apos;, but Rikkokushi (Japan&apos;s six national histories chronicling the seventh and eighth centuries) and books on the history of Buddhism do not mention the fact of the creation of the map.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Made by Gyoki Bosatsu&quot; is written in many of the existing versions of &apos;Goki-zu&apos;, but the articles about Gyoki in Rikkokushi (Japan&apos;s six national histories chronicling the seventh and eighth centuries) and books on the history of Buddhism do not mention the fact of the creation of the map.</e>
+<cmt>「行基の記事には」の訳を補いました。</cmt>
+<e type="check" ver="1">&quot;Made by Gyoki Bosatsu&quot; is written in many of the existing versions of &apos;Goki-zu&apos;, but the articles about Gyoki in Rikkokushi (Japan&apos;s six national histories chronicling the seventh and eighth centuries) and books on the history of Buddhism do not mention the fact of the creation of the map.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>また、最古の「行基図」とされるものは、延暦24年（805年）に下鴨神社に納められたものであるとされているが、現存しているものは江戸時代の書写に過ぎず、内容も明らかに延暦年間当時の状況の反映でない（延暦期にはなかった加賀国が記載されている）。</j>
+<e type="trans" ver="1">It is said that the oldest &apos;Gyoki-zu&apos; was the one which was donated to Shimogamo-jinja Shrine in 805, but the existing one is merely a copy which was handwritten in the Edo Period and its contents do not reflect the status in that timeframe (with the addition of Kaga Province which did not exist at that time).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that the oldest &apos;Gyoki-zu&apos; was the one which was donated to Shimogamo-jinja Shrine in 805, but the existing one is merely a copy which was handwritten in the Edo Period and its contents do not reflect the condition of the period (with the addition of Kaga Province which did not exist at that time).</e>
+<cmt>「当時の状況」の訳を修正しました。</cmt>
+<e type="check" ver="1">It is said that the oldest &apos;Gyoki-zu&apos; was the one which was donated to Shimogamo-jinja Shrine in 805, but the existing one is merely a copy which was handwritten in the Edo Period and its contents do not reflect the condition of the period (with the addition of Kaga Province which did not exist at that time).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>そもそも行基が生きていた時代の「行基図」が実際に存在するならば、日本の首都は大和国平城京（数年の例外はあっても）に存在したのであるから、大和国を中心とした地図であった筈であるがこうした地図は実際のところ見つかってはいない。</j>
+<e type="trans" ver="1">If the &apos;Gyoki-zu&apos; which was made when Gyoki was alive would exist in the first place, then the map should have been centered around Yamato Province because Japan&apos;s capital was located in Heijo-kyo (the ancient capital of Japan in current Nara) in Yamato Province (in spite of the difference of several years), but such a map has not been actually found.</e>
+<cmt></cmt>
+<e type="trans" ver="2">If the &apos;Gyoki-zu&apos; which was made when Gyoki was alive would exist in the first place, then the map should have been centered around Yamato Province because Japan&apos;s capital was located in Heijo-kyo (the ancient capital of Japan in current Nara) in Yamato Province (except for several years), but such a map has not been actually found.</e>
+<cmt>余分なスペースを削除しました。「数年の例外はあっても」の』訳を修正しました。</cmt>
+<e type="check" ver="1">If the &apos;Gyoki-zu&apos; which was made when Gyoki was alive would exist in the first place, then the map should have been centered around Yamato Province because Japan&apos;s capital was located in Heijo-kyo (the ancient capital of Japan in current Nara) in Yamato Province (except for several years), but such a map has not been actually found.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>このため、本当に行基が地図を作ったのかを疑問視して、「後世の人々が作者を行基に仮託したのが伝説化したものではないか？」という説もある。</j>
+<e type="trans" ver="1">For this reason, doubting that Gyoki actually made the map, a theory says that &apos;People in a later period assumed that it had been authored by Gyoki, resulting in a legend to this effect&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For this reason, doubting that Gyoki actually made the map, a theory says that &apos;People in a later period assumed that it had been authored by Gyoki, resulting in a legend to this effect&apos;.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For this reason, doubting that Gyoki actually made the map, a theory says that &apos;People in a later period assumed that it had been authored by Gyoki, resulting in a legend to this effect&apos;.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="12">
+<j>ただし、大化の改新直後の大化2年（646年）に諸国に対して国の境界についての文書あるいは地図を献上するように命令が出され、律令政治下においては民部省に国境把握の義務があり、図書寮には地図保管の義務があったため、当然政府内で地図が作られていた筈である。</j>
+<e type="trans" ver="1">Nevertheless, in 646 right after Taika no Kaishin (Great Reformation of the Taika Era), an instruction to submit documents concerning province boundaries or maps was issued to all the provinces, and Minbusho in the government according to the Ritsuryo codes was responsible for making sure of the borders, and Toshoryo (Government Library) was responsible for storing maps, and so it was natural to believe that maps were made in the government.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nevertheless, in 646 right after Taika no Kaishin (Great Reformation of the Taika Era), an instruction to submit documents concerning province boundaries or maps was issued to all the provinces, and Minbusho (Ministry of Popular Affairs) in the government according to the Ritsuryo codes was responsible for the borders, and Toshoryo (Government Library) was responsible for storing maps, and so it is natural to believe that maps were made in the government.</e>
+<cmt>民部省の説明を補いました。時制を修正しました。余分なスペースを削除しました。</cmt>
+<e type="check" ver="1">Nevertheless, in 646 right after Taika no Kaishin (Great Reformation of the Taika Era), an instruction to submit documents concerning province boundaries or maps was issued to all the provinces, and Minbusho (Ministry of Popular Affairs) in the government according to the Ritsuryo codes was responsible for the borders, and Toshoryo (Government Library) was responsible for storing maps, and so it is natural to believe that maps were made in the government.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>また、行基とその教団は諸国を移動して布教活動及び各種社会事業を行っており、後の東大寺盧舎那仏像建立にも関与していることから、当然こうした活動を円滑化するための地図を何らかの形で所持あるいは作成を行っていたことは十分考えられるのである。</j>
+<e type="trans" ver="1">On the other hand, Gyoki and his religious community moved around various districts, performing both missionary and social works, and were involved in the construction of Todaiji-ji Temple rushanabutsuzo (the statue of Birushana Buddha), and therefore it is really conceivable that he possessed or was making in some way or other the maps to facilitate these activities.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the other hand, Gyoki and his religious community moved around various districts, performing both missionary and social works, and were involved in the construction of Todaiji-ji Temple rushanabutsuzo (the statue of Birushana Buddha), and therefore it is really conceivable that he possessed or was making in some way or other the maps to facilitate these activities.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On the other hand, Gyoki and his religious community moved around various districts, performing both missionary and social works, and were involved in the construction of Todaiji-ji Temple rushanabutsuzo (the statue of Birushana Buddha), and therefore it is really conceivable that he possessed or was making in some way or other the maps to facilitate these activities.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="14">
+<j>従って、「行基図」が実際に行基によって作られたものであるかは定かではないものの、行基とその教団が地図と全く無関係ではあったとは考えられない。</j>
+<e type="trans" ver="1">Accordingly, it is unclear that &apos;Gyoki-zu&apos; was actually made by Gyoki, but it is unconceivable that Gyoki and his religious community had nothing to do with the map.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accordingly, it is unclear that &apos;Gyoki-zu&apos; was actually made by Gyoki, but it is unconceivable that Gyoki and his religious community had nothing to do with the map.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Accordingly, it is unclear that &apos;Gyoki-zu&apos; was actually made by Gyoki, but it is unconceivable that Gyoki and his religious community had nothing to do with the map.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>中世における行基図</j>
+<e type="trans" ver="1">Gyoki-zu in the Middle Ages</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gyoki-zu in the Middle Ages</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gyoki-zu in the Middle Ages</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="15">
+<j>前述のように最古の行基図とされているのは、延暦24年作成と伝えられているものであるが、原図は既に亡く、現在伝わるものは江戸時代の有職故実研究家藤貞幹（藤井・藤原とも、1732年－1797年）の写しのものであり、かつ延暦24年の実情と不一致の加筆が見られる（これが藤貞幹によるものか、それ以前からのものなのかは不詳）。</j>
+<e type="trans" ver="1">As mentioned above, the version which is considered to be the oldest is said to have been made in 805, but the original version no longer exists and the version which has been handed down to the present time is the copy version which was made by Teikan TO (FUJII or FUJIHARA, 1732-1797), a researcher of Yusoku-kojitsu (knowledge of court rules, ceremony, decorum and records of the past) and to which some additions inconsistent with the realty in 805 are recognized (and it is unknown whether they were made by Teikan TO or somebody else before).</e>
+<cmt></cmt>
+<e type="trans" ver="2">As mentioned above, the version which is considered to be the oldest is said to have been made in 805, but the original version no longer exists and the version which has been handed down to today is the copy made by Teikan TO (FUJII or FUJIHARA, 1732-1797), a researcher of Yusoku-kojitsu (knowledge of court rules, ceremony, decorum and records of the past) and some additions inconsistent with the realty of 805 are recognized (and it is unknown whether the additions were made by Teikan TO or somebody else before him).</e>
+<cmt>不要な訳は削除しました。</cmt>
+<e type="check" ver="1">As mentioned above, the version which is considered to be the oldest is said to have been made in 805, but the original version no longer exists and the version which has been handed down to today is the copy made by Teikan TO (FUJII or FUJIHARA, 1732-1797), a researcher of Yusoku-kojitsu (knowledge of court rules, ceremony, decorum and records of the past) and some additions inconsistent with the realty of 805 are recognized (and it is unknown whether the additions were made by Teikan TO or somebody else before him).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="16">
+<j>大治 (日本)3年（1128年）に三善為康が書いたものを原典として鎌倉時代にまとめられたとされる『二中歴』や南北朝時代 (日本)に洞院公賢により書かれたとされる『拾芥抄』にも行基図が添付されているが、書かれた当時のものは残っておらず、現存のものは室町時代以後のものである。</j>
+<e type="trans" ver="1">Gyoki-zu is attached to &quot;Nichureki&quot; which is said to have been compiled in the Kamakura period using as the original what MIYOSHI no Tameyasu had written and to &quot;Shogaisho&quot; (an encyclopedia produced in Japan in the medieval ages) which is said to have been written by Kinkata TOIN in the Nanboku-cho period, but the original versions which were created at those times do not exist any more and the existing versions are those which were made after the Muromachi period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gyoki-zu is attached to &quot;Nichureki&quot; which is said to have been compiled in the Kamakura period based on what MIYOSHI no Tameyasu had written and to &quot;Shogaisho&quot; (an encyclopedia produced in Japan in the medieval ages) which is said to have been written by Kinkata TOIN in the period of the Northern and Southern Courts (Japan), but the original versions created at those times do not exist any more and the existing versions were made after the Muromachi period.</e>
+<cmt>自然な訳に修正しました。余分なスペースを削除しました。不要な訳は削除しました。南北朝の訳を単語リストに揃えました。</cmt>
+<e type="check" ver="1">Gyoki-zu is attached to &quot;Nichureki&quot; which is said to have been compiled in the Kamakura period based on what MIYOSHI no Tameyasu had written and to &quot;Shogaisho&quot; (an encyclopedia produced in Japan in the medieval ages) which is said to have been written by Kinkata TOIN in the period of the Northern and Southern Courts (Japan), but the original versions created at those times do not exist any more and the existing versions were made after the Muromachi period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="17">
+<j>確実に最古のものと言えるのは鎌倉時代の嘉元3年（1305年）の銘がある京都仁和寺所蔵のものと同年に他の所有者の地図から転写されたと推定されている神奈川県の金沢文庫所蔵のものである。</j>
+<e type="trans" ver="1">Those which can be said to be truly the oldest are the one with the inscription of the third year of Kaei (1305) in Kamakura period and owned by Ninna-ji Temple in Kyoto, and another owned by Kanazawa Library, Kanagawa Prefecture which is presumed to have been copied from the map owned by some one else in the same year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The oldest ones confirmed are the one with the inscription of the third year of Kaei (1305) in Kamakura period owned by Ninna-ji Temple in Kyoto, and the another owned by Kanazawa Library, Kanagawa Prefecture which is presumed to have been copied from the map owned by someone else in the same year.</e>
+<cmt>冗長な表現を修正しました。</cmt>
+<e type="check" ver="1">The oldest ones confirmed are the one with the inscription of the third year of Kaei (1305) in Kamakura period owned by Ninna-ji Temple in Kyoto, and the another owned by Kanazawa Library, Kanagawa Prefecture which is presumed to have been copied from the map owned by someone else in the same year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>ただし、両者は大きく違い別系統に属すると考えられ、前者は典型的な行基図の体裁であるが、後者は元寇以後の軍事的緊迫下にある鎌倉近郊で用いられた事情を反映したものか、日本列島は龍らしき生物に囲まれてその外側に唐土・蒙古などの海外の国々や雁道・羅刹国などの空想上の国々が描かれている。</j>
+<e type="trans" ver="1">However, the two are quite different and seem to belong to different lineages, the former being in the typical Gyoki-zu format and the latter containing the Japanese archipelago surrounded by dragon-like creatures around which foreign countries like China and Mongolia and imaginative countries like Gando and Rasetsu-koku are painted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the two are quite different and seem to belong to different lineages, the former being in the typical Gyoki-zu format and the latter containing the Japanese archipelago surrounded by dragon-like creatures around which foreign countries like China and Mongolia and imaginative countries like Gando and Rasetsu-koku are painted, probably reflecting the circumstance of Kamakura which had been under military tension after the Mongol invasion attempts against Japan.</e>
+<cmt>「元寇以後の軍事的緊迫下にある鎌倉近郊で用いられた事情を反映したものか、」の訳を補いました。</cmt>
+<e type="check" ver="1">However, the two are quite different and seem to belong to different lineages, the former being in the typical Gyoki-zu format and the latter containing the Japanese archipelago surrounded by dragon-like creatures around which foreign countries like China and Mongolia and imaginative countries like Gando and Rasetsu-koku are painted, probably reflecting the circumstance of Kamakura which had been under military tension after the Mongol invasion attempts against Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="19">
+<j>戦国時代 (日本)の弘治 (日本)3年（1557年）に描かれたとされる『南瞻部洲大日本国正統図』（伝香寺旧蔵、現唐招提寺所蔵）は、日本地図の周辺の外枠に郡名などの情報が記載されている。</j>
+<e type="trans" ver="1">Information such as names of counties are written in the outer space surrounding the map of Japan drawn in &quot;Nansenbushu Dainihon Seito-zu&quot;(Human Living World Japan Orthodox Map) (formerly owned by Denko-ji Temple and presently owned by Toshodai-ji Temple) which is said to have been written in the third year of Koji era (1557) in the Sengoku period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Information such as names of counties are written in the outer space surrounding the map of Japan drawn in &quot;Nansenbushu Dainihon Seito-zu&quot; (Human Living World Japan Orthodox Map) (formerly owned by Denko-ji Temple and presently owned by Toshodai-ji Temple) which is said to have been written in 1557 in the Sengoku period.</e>
+<cmt>和暦は削除しました。</cmt>
+<e type="check" ver="1">Information such as names of counties are written in the outer space surrounding the map of Japan drawn in &quot;Nansenbushu Dainihon Seito-zu&quot; (Human Living World Japan Orthodox Map) (formerly owned by Denko-ji Temple and presently owned by Toshodai-ji Temple) which is said to have been written in 1557 in the Sengoku period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>この図あるいは同一スタイルの地図が江戸時代の行基図の基本となっていく。</j>
+<e type="trans" ver="1">This map or the map of the same style became the base of Gyoki-zu in the Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This map or the map of the same style became the base of Gyoki-zu in the Edo period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This map or the map of the same style became the base of Gyoki-zu in the Edo period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>また、この時代には屏風絵の背景などにも行基図が採用された。</j>
+<e type="trans" ver="1">Also, in those days Gyoki-zu was adopted as the background of a painting on a folding screen, etc.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, in those days, Gyoki-zu was adopted as the background of paintings on a folding screen and etc.</e>
+<cmt>文法を修正しました。</cmt>
+<e type="check" ver="1">Also, in those days, Gyoki-zu was adopted as the background of paintings on a folding screen and etc.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>安土桃山時代の作とされる福井県小浜市発心寺の屏風絵などがその代表作である。</j>
+<e type="trans" ver="1">A typical example of that is a painting on a folding screen in Hasshin-ji Temple in Obama City, Fukui Prefecture, which is said to have been drawn in Momoyama period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Masterpieces include the painting on the folding screen in Hasshin-ji Temple in Obama City, Fukui Prefecture, which is said to have been drawn in the Momoyama period.</e>
+<cmt>代表作はMasterpiecesとしました。文法を修正しました。</cmt>
+<e type="check" ver="1">Masterpieces include the painting on the folding screen in Hasshin-ji Temple in Obama City, Fukui Prefecture, which is said to have been drawn in the Momoyama period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="23">
+<j>なお、室町時代以後に行基図が朝鮮半島や中国、遠くヨーロッパまでも伝わって、日本地図を描く時の材料にされたといわれている（『海東諸国記』・『日本一鑑』など）。</j>
+<e type="trans" ver="1">Furthermore, after the Muromachi period, Gyoki-zu was brought to Korean Peninsula, China and far-away Europe, and used as source material for creating maps of Japan (cf. &quot;Kaito Shokoku Ki&quot;, &quot;Hihon Ikkan&quot;, etc.).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, after the Muromachi period, Gyoki-zu was brought to Korean Peninsula, China, and far-away Europe, and used as source material for creating maps of Japan (cf. &quot;Kaito Shokoku Ki,&quot; &quot;Nihon Ikkan&quot;).</e>
+<cmt>不要なスペースやetc.は削除しました。記号を修正しました。スペルミスを修正しました。</cmt>
+<e type="check" ver="1">Furthermore, after the Muromachi period, Gyoki-zu was brought to Korean Peninsula, China, and far-away Europe, and used as source material for creating maps of Japan (cf. &quot;Kaito Shokoku Ki,&quot; &quot;Nihon Ikkan&quot;).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>江戸時代の行基図</j>
+<e type="trans" ver="1">Gyoki-zu in the Edo period</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gyoki-zu in the Edo period</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gyoki-zu in the Edo period</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="24">
+<j>江戸時代に入ると、印刷技術の発達により大量印刷された行基図が登場する。</j>
+<e type="trans" ver="1">When it came to the Edo period, mass-printed Gyoki-zu appeared as a result of printing technology advancement.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When it came to the Edo period, mass-printed Gyoki-zu appeared as a result of the printing technology advancement.</e>
+<cmt>文法を修正しました。</cmt>
+<e type="check" ver="1">When it came to the Edo period, mass-printed Gyoki-zu appeared as a result of the printing technology advancement.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>そのほとんどが『拾芥抄』あるいは『南瞻部洲大日本国正統図』の系統をひく地図であるが、社会の安定に伴う交通の発達によって、より実際の日本地図に近い地形が描かれるようになっていった。</j>
+<e type="trans" ver="1">Most of them were maps inherited from either &quot;Shogaisho&quot; or &quot;Nansenbushu Dainihon Seito-zu&quot;, and as the transportation systems were developed with the stabilization of the society, topography closer to the actual map of Japan began to be drawn.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Most of them were maps inherited from either &quot;Shogaisho&quot; or &quot;Nansenbushu Dainihon Seito-zu,&quot; and as the transportation systems were developed with the stabilization of the society, topography closer to the actual map of Japan began to be drawn.</e>
+<cmt>記号を修正しました。不要なスペースを削除しました。</cmt>
+<e type="check" ver="1">Most of them were maps inherited from either &quot;Shogaisho&quot; or &quot;Nansenbushu Dainihon Seito-zu,&quot; and as the transportation systems were developed with the stabilization of the society, topography closer to the actual map of Japan began to be drawn.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>慶安・承応・明暦年間に刊行された行基図が現在も残されている。</j>
+<e type="trans" ver="1">Those Gyoki-zu versions which were published in Keian era (1648-1651), Shoo era (1652-1654), and Meireki era (1655-1657) now exist.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Gyoki-zu published in Keian era (1648-1651), Shoo era (1652-1654), and Meireki era (1655-1657) now exist.</e>
+<cmt>不要な訳は削除しました。</cmt>
+<e type="check" ver="1">The Gyoki-zu published in Keian era (1648-1651), Shoo era (1652-1654), and Meireki era (1655-1657) now exist.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="27">
+<j>だが、『正保日本図』刊行以後、交通手段や測量技術の発達などもあって、より緻密な日本地図が作成・刊行されるようになり、行基図は実用利用・商業出版の場からは姿を消していくことになる。</j>
+<e type="trans" ver="1">Nonetheless, after the publication of &quot;Seiho Nihon-zu&quot;, more accurate maps of Japan began to be created and published due to the advancement of transportation means and surveying techniques, and Gyoki-zu eventually disappeared from the fields of practical use and commercial publications.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nonetheless, after the publication of &quot;Shoho Nihon-zu&quot; (Japanese map in Shoho era), more accurate maps of Japan began to be created and published due to the advancement of transportation means and surveying techniques, and Gyoki-zu eventually disappeared from the fields of practical use and commercial publications.</e>
+<cmt>『正保日本図』の「正保」は「しょうほう」です。説明も補いました。</cmt>
+<e type="check" ver="1">Nonetheless, after the publication of &quot;Shoho Nihon-zu&quot; (Japanese map in Shoho era), more accurate maps of Japan began to be created and published due to the advancement of transportation means and surveying techniques, and Gyoki-zu eventually disappeared from the fields of practical use and commercial publications.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="28">
+<j>もっとも教育・芸術分野では行基図が後々までに使われてきた。</j>
+<e type="trans" ver="1">However, Gyoki-zu has been used in the fields of education and arts for many generations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, Gyoki-zu has been used in the fields of education and arts for many generations.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, Gyoki-zu has been used in the fields of education and arts for many generations.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>文政年間の九谷焼や天保年間の伊万里焼などに描かれた行基図付の「地図皿」は日本国外にも輸出された。</j>
+<e type="trans" ver="1">The Kutani-yaki (Kutani ware) &apos;chizu-sara&apos; (map plate) with Gyoki-zu drawn on it which was made in Bunsei era and Imari-yaki (Imari ware) &apos;chizu-sara&apos; which was made in Tenpo era were not only sold in Japan, but also exported outside Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kutani-yaki (Kutani ware) &apos;chizu-sara&apos; (map plate) with Gyoki-zu drawn on it which was made in Bunsei era and Imari-yaki (Imari ware) &apos;chizu-sara&apos; which was made in Tenpo era were not only sold in Japan, but also exported out of Japan.</e>
+<cmt>不要なスペースを削除しました。「国外に」というニュアンスを出すためにoutsideはout ofに修正しました。</cmt>
+<e type="check" ver="1">The Kutani-yaki (Kutani ware) &apos;chizu-sara&apos; (map plate) with Gyoki-zu drawn on it which was made in Bunsei era and Imari-yaki (Imari ware) &apos;chizu-sara&apos; which was made in Tenpo era were not only sold in Japan, but also exported out of Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Snow rabbit(id:95634), がめら(id:12392), 廬舎那憂(id:168188), 水野白楓(id:22811), Kansai explorer(id:48975), Ginz(id:31584), Point136(id:211299), ぽえこ(id:88711), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

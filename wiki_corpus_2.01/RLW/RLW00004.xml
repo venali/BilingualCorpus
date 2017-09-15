@@ -1,0 +1,1848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>奈良線</j>
+<e type="trans" ver="1">(JR) Nara Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">(JR) Nara Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(JR) Nara Line</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>奈良線（ならせん）は、京都府木津川市の木津駅 (京都府)から京都府京都市下京区の京都駅に至る西日本旅客鉄道（JR西日本）の鉄道路線（幹線）である。</j>
+<e type="trans" ver="1">(JR) Nara Line is a railway track (arterial line) of the West Japan Railway Company (JR West) between Kizu Station (Kyoto Prefecture) in Kizugawa City, Kyoto Prefecture and Kyoto Station in Shimogyo Ward of Kyoto City, Kyoto Prefecture.</e>
+<cmt>JR西日本HP (http://www.westjr.co.jp/)</cmt>
+<e type="trans" ver="2">The (JR) Nara Line is a railway track (arterial line) of the West Japan Railway Company (JR West) between Kizu Station (Kyoto Prefecture) in Kizugawa City, Kyoto Prefecture, and Kyoto Station in the Shimogyo ward of Kyoto City, Kyoto Prefecture.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The JR Nara Line is a railway line (arterial line) of the West Japan Railway Company (JR West) that runs between Kizu Station (Kyoto Prefecture) in Kizugawa City, Kyoto Prefecture, and Kyoto Station in the Shimogyo Ward of Kyoto City, Kyoto Prefecture.</e>
+<cmt>Here we are talking about the railway line rather than the actual track itself (the Japanese says &quot;路線&quot; rather than &quot;線路&quot;) so &quot;railway line&quot; is much more natural. Adding &quot;that runs&quot; makes the English read a little more smoothly.</cmt>
+</sen>
+<sen id="2">
+<j>全線が大都市近郊区間に含まれる。</j>
+<e type="trans" ver="1">The whole line is included in the section of the metropolitan area and its suburbs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The entire line is included in the section covering the metropolitan area and its suburbs.</e>
+<cmt>USAGE</cmt>
+<e type="check" ver="1">The entire rail line is included in the section covering the metropolitan area and its suburbs.</e>
+<cmt>&quot;entire line&quot; -&gt; &quot;entire rail line&quot;　に変更しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>関西本線の支線としての沿革を持つため、正式な起点は木津駅だが、列車運行上は京都から木津へ向かう列車が下り（列車番号は奇数）、逆が上り（同偶数）となっている。</j>
+<e type="trans" ver="1">Since the Nara Line is historically a branch line of Kansai Main Line, an official starting station is the Kizu Station, but the outbound trains (odd-numbered trains) run from Kyoto to Kizu and the inbound trains (even-numbered trains) run the other way for train operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the Nara Line is historically a branch line of Kansai Main Line, Kizu Station is the official starting station but the outbound trains (odd-numbered trains) run from Kyoto to Kizu and the inbound trains (even-numbered trains) run the other way for train operation.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Although the Nara Line officially starts at Kizu Station because it is historically a branch line of the Kansai Main Line, outbound trains (odd-numbered trains) run from Kyoto to Kizu and inbound trains (even-numbered trains) run in the opposite direction.</e>
+<cmt>下り→ outbound　上り→inboundTo the best of my knowledge as a native speaker of English &quot;down trains&quot; and &quot;up trains&quot;. The term &quot;starting station&quot; does exist but it seems to be used to indicate the starting point of someone&apos;s journey rather than the first station on a line (I don&apos;t think we have a specific term for this in English).</cmt>
+</sen>
+<sen id="4">
+<j>以下路線データを除き特記なければ、京都から木津へ下り方向に記述する。</j>
+<e type="trans" ver="1">Unless otherwise specified, the descriptions are given according to the outbound direction from Kyoto to Kizu except the Track data in the following.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Unless otherwise specified, the descriptions are given according to the outbound direction from Kyoto to Kizu, except for the track data in the following.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Unless otherwise specified, the descriptions are given according to the outbound direction from Kyoto to Kizu, except for in the track data section.</e>
+<cmt>The term &quot;down train&quot; is not used in English and &quot;down direction&quot; also sounds unnatural here.</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>ラインカラーは茶色（■）であり、選定理由は「二本の古都を結ぶクラシックな落ち着いたイメージ」とされている。</j>
+<e type="trans" ver="1">The Line&apos;s own color is brown (■), which is selected for &quot;classic, sophisticated impression suitable for connections between two historic cities.&quot;</e>
+<cmt>「二本」は「日本」の誤記かと思われますが、原文のまま訳しました</cmt>
+<e type="trans" ver="2">The line&apos;s own color is brown (■), which has been chosen to represent &quot;classic, sophisticated impression suitable for connections between two historic cities.&quot;</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The line&apos;s own color is brown, which has been chosen to represent &apos;a classic, sophisticated impression suitable for connections between two historic cities.&apos;</e>
+<cmt>括弧修正(■)は削除しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>路線データ</j>
+<e type="trans" ver="1">Track data</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track data</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Track data</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>管轄（事業種別）：西日本旅客鉄道（鉄道事業者）</j>
+<e type="trans" ver="1">Administration (type of business): West Japan Railway Company (Railway Business Operator)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Administration (type of business): West Japan Railway Company (Railway Business Operator)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Administration (type of business): West Japan Railway Company (Railway Business Operator)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>路線距離（営業キロ）：34.7km</j>
+<e type="trans" ver="1">Track length (operating kilometers): 34.7 km</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track length (operating kilometers): 34.7 km</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Track length (operating kilometers): 34.7 km</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>軌間：1067mm</j>
+<e type="trans" ver="1">Track gauge: 1067 mm</e>
+<cmt>英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">Track gauge: 1067 mm</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Track gauge: 1067 mm</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>駅数：19駅（起終点駅含む）</j>
+<e type="trans" ver="1">Number of stations: 19 (including the stations at both ends of the track section)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Number of stations: 19 (including the stations at both ends of the track section)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Number of stations: 19 (including the stations at both ends of the track section)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>複線区間：新田～宇治間、JR藤森～京都間</j>
+<e type="trans" ver="1">Double track section: Shinden Station - Uji Station, JR-Fujinomori Station - Kyoto Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Double-track section: Shinden Station - Uji Station; JR-Fujinomori Station - Kyoto Station</e>
+<cmt>CLARITY</cmt>
+<e type="check" ver="1">Double-track section: Shinden Station - Uji Station; JR-Fujinomori Station - Kyoto Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="11">
+<j>電化区間：全線電化（直流1500V）</j>
+<e type="trans" ver="1">Electrified section: The entire line is electrified (DC 1500V).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Electrified section: The entire line is electrified (DC 1500V).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Electrified section: The entire rail line is electrified (DC 1500V).</e>
+<cmt>&quot;entire line&quot; -&gt; &quot;entire rail line&quot; に変更しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="12">
+<j>閉塞 (鉄道)：自動閉塞式（複線区間）、単線自動閉塞式（単線区間）</j>
+<e type="trans" ver="1">Block (railway): automatic block system (double track section), single track automatic block system (single track section)</e>
+<cmt>英辞郎 on the WEB およびhttp://www.wdic.org/d/RAIL/FAC/BLK</cmt>
+<e type="trans" ver="2">Block (railway): automatic blocking system (double-track section), single-track automatic block system (single-track section)</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">Block (railway): automatic block system (double-track section), single-track automatic block system (single-track section)</e>
+<cmt>automatic blocking system を　automatic block system にしました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="13">
+<j>保安装置：自動列車停止装置</j>
+<e type="trans" ver="1">Safety equipment: ATS (automatic train stop (system))</e>
+<cmt>英辞郎 on the WEB、および http://www.wdic.org/w/RAIL/ATS</cmt>
+<e type="trans" ver="2">Safety equipment: ATS (Automatic Train Stop system)</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">Safety equipment: ATS (Automatic Train Stop system)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="14">
+<j>運転指令所：新大阪総合指令所</j>
+<e type="trans" ver="1">Operation direction center: Shinosaka integrated direction center</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operation direction center: Shinosaka integrated direction center</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Operation direction center: Shin-Osaka integrated direction center</e>
+<cmt>新大阪のスペルを　Shin-Osakaとしました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="15">
+<j>最高速度：110km/h（複線区間）、95km/h（単線区間）</j>
+<e type="trans" ver="1">Maximum speed: 110 km/h (double track section), 95 km/h (single track section)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maximum speed: 110 km/h (double track section), 95 km/h (single-track section)</e>
+<cmt>HYPHENS</cmt>
+<e type="check" ver="1">Maximum speed: 110 km/h (double-track section), 95 km/h (single-track section)</e>
+<cmt>double-trackとしました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="16">
+<j>木津駅を除き西日本旅客鉄道京都支社の管轄である（木津駅は同西日本旅客鉄道大阪支社が管理）。</j>
+<e type="trans" ver="1">All stations except the Kizu Station are managed by the Kyoto branch of the West Japan Railway Company (the Kizu Station is managed by the Osaka branch of the West Japan Railway Company).</e>
+<cmt></cmt>
+<e type="trans" ver="2">All stations except Kizu Station are managed by the Kyoto branch of the West Japan Railway Company, while the Kizu Station is managed by the Osaka branch of the West Japan Railway Company.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">All stations except Kizu Station are managed by the Kyoto branch of the West Japan Railway Company, while the Kizu Station is managed by the Osaka branch of the West Japan Railway Company.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="17">
+<j>線路名称として京都～木津間が奈良線と名付けられているが、その全区間が京都府内にあり、奈良県内には全く路線がない。</j>
+<e type="trans" ver="1">The line between the Kyoto Station and the Kizu Station is called the Nara Line, but the whole line lies in Kyoto Prefecture, not in Nara Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line between Kyoto Station and Kizu Station is called the Nara Line, but the entire line lies within Kyoto Prefecture, not in Nara Prefecture.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The line between Kyoto Station and Kizu Station is called the Nara Line, but the entire line lies within Kyoto Prefecture, not in Nara Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>これは当初奈良鉄道によって京都～奈良間が建設されたものの、関西鉄道に合併された後に大阪～名古屋ルートの一部として木津以南を分離された、との経緯による。</j>
+<e type="trans" ver="1">This is because, initially, the Nara Line was built by Nara Railways between the Kyoto Station and the Nara station, but the Kizu Station and other stations to the south of the Kizu Station were separated from the Nara Line to be part of a route between Osaka and Nagoya after the Nara Railways was merged into Kansai Railways.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is because, initially, the Nara Line was built by Nara Railways between Kyoto Station and Nara Station, but Kizu Station and other stations south of Kizu Station were separated from the Nara Line in order to be part of a route between Osaka and Nagoya after Nara Railways was merged into Kansai Railways.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">This is because, initially, the Nara Line was built by Nara Railways between Kyoto Station and Nara Station, but Kizu Station and other stations south of Kizu Station were separated from the Nara Line in order to be part of a route between Osaka and Nagoya after Nara Railways was merged into Kansai Railways.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>ただし、列車は木津駅から関西本線（大和路線）に入って奈良県の奈良駅まで運行される。</j>
+<e type="trans" ver="1">Trains run from the Kizu Station to the Nara Station in Nara Prefecture through Kansai Main Line (Yamatoji Line).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The trains run from Kizu Station to Nara Station in Nara Prefecture through Kansai Main Line (Yamatoji Line).</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">However, trains run from Kizu Station to Nara Station in Nara Prefecture through the Kansai Main Line (Yamatoji Line).</e>
+<cmt>「ただし」を訳出。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="20">
+<j>JR西日本は1988年3月13日改正でアーバンネットワークの各路線に愛称路線名（JR京都線・JR神戸線など）を定めたが、奈良線については見送られた。</j>
+<e type="trans" ver="1">The JR West established popular names (JR Kyoto Line, JR Kobe Line or the like) for the lines in the Urban Network by the revision of March 13, 1988, but a popular name was not given to the Nara Line.</e>
+<cmt>JR西日本HP</cmt>
+<e type="trans" ver="2">JR West established popular names (JR Kyoto Line, JR Kobe Line or the like) for the lines in the Urban Network with the revision of March 13, 1988, but a popular name was not given to the Nara Line.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">JR West established popular names (JR Kyoto Line, JR Kobe Line or the like) for the lines in the Urban Network with the revision of March 13, 1988, but a popular name was not given to the Nara Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>近畿日本鉄道にも近鉄奈良線があるため、「JR奈良線」と案内されることもある。</j>
+<e type="trans" ver="1">The Nara Line is also referred to as &quot;JR Nara Line&quot; to be distinguished from the Kintetsu Nara Line of the Kintetsu Corporation.</e>
+<cmt>近畿日本鉄道HP (http://www.kintetsu.jp/)</cmt>
+<e type="trans" ver="2">The Nara Line is also referred to as the &quot;JR Nara Line&quot; to distinguish it from the Kintetsu Nara Line of Kintetsu Corporation.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The Nara Line is also referred to as the &apos;JR Nara Line&apos; in order to distinguish it from the Kintetsu Nara Line of Kintetsu Corporation.</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="22">
+<j>日本国有鉄道時代には「国鉄奈良線」と案内されており、案内板の英字表記も「JNR」を入れていた。</j>
+<e type="trans" ver="1">The Nara Line used to be referred to as &quot;JNR Nara Line&quot; in the era of Japan National Railways (JNR), the former JR, and the information board included the English notation of &quot;JNR&quot;.</e>
+<cmt>英辞郎 on the WEB</cmt>
+<e type="trans" ver="2">The Nara Line was referred to as the &quot;JNR Nara Line&quot; in the era of Japan National Railways (JNR), the former JR, and the information board included the English notation &quot;JNR.&quot;</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The Nara Line was referred to as the &apos;JNR Nara Line&apos; in the era of Japan National Railways (JNR), the former JR, and the information board included the English notation &apos;JNR.&apos;</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="23">
+<j>近鉄奈良線は難波～奈良で大和路線と対抗関係にあり、JR奈良線が対抗関係にあるのは近鉄京都線である。</j>
+<e type="trans" ver="1">The Kintetsu Nara Line is competitive to the Yamatoji Line between Namba and Nara, whereas the JR Nara Line is competitive to the Kintetsu Kyoto Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kintetsu Nara Line competes with the Yamatoji Line between Namba and Nara, whereas the JR Nara Line competes with the Kintetsu Kyoto Line.</e>
+<cmt>USAGE</cmt>
+<e type="check" ver="1">The Kintetsu Nara Line competes with the Yamatoji Line between Nanba and Nara, whereas the JR Nara Line competes with the Kintetsu Kyoto Line.</e>
+<cmt>Nanba　としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="24">
+<j>並行する京阪宇治線や近鉄京都線は以前から多数の列車が運行されていたのに対し、奈良線は国鉄末期の1984年まで鉄道の電化がされず、電化後も国鉄民営化までのしばらくは国鉄105系電車の2両編成などが細々と走る小さなローカル線でしかなかった。</j>
+<e type="trans" ver="1">Many trains used to travel on Keihan Uji Line or Kintetsu Kyoto Line lying parallel to the Nara Line, whereas the Nara Line was electrified only after 1984 in the end of JNR, and was just a small local line on which JNR/JR Commuter Trains Series 105 comprising two vehicles or the like ran for some time even after the electrification until the privatization of the JNR.</e>
+<cmt>http://www.uraken.net/rail/alltrain/uratetsu105.html</cmt>
+<e type="trans" ver="2">Many trains used to travel on the Keihan Uji Line or the Kintetsu Kyoto Line lying parallel to the Nara Line, whereas the Nara Line was electrified only after 1984 at the end of JNR, and was just a small local line on which JNR/JR Commuter Train Series 105 (comprising two vehicles or the like) ran for some time, even after electrification until the privatization of the JNR.</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">While many trains used to run on the Keihan Uji Line and the Kintetsu Kyoto Line (both of which run parallel to the Nara Line), the Nara Line was only electrified toward the end of JNR in 1984; consequently, it remained just a small local line on which the JNR/JR Commuter Train Series 105 (comprising two cars or the like) ran for some time, even after electrification, until the privatization of the JNR.</e>
+<cmt>I&apos;m afraid &quot;until the privatization of the JNR even after electrification&quot; doesn&apos;t really make any sense in English so I have reversed the order.</cmt>
+</sen>
+<sen id="25">
+<j>しかし、JR西日本が発足して以降にアーバンネットワークの中に当線を組み込んでからは、列車の4両編成化（一部は6両編成）、部分複線化、「みやこ路快速」などの快速列車を始めとする列車の増発など、急速に輸送改善が図られた。</j>
+<e type="trans" ver="1">However, after the foundation of the JR West and the Nara Line being incorporated into the Urban Network, the improvement of transportation services was rapidly made by, for example, trains composed of four vehicles (some composed of six vehicles), double track in part, or increase in the number of trains including rapid trains such as &quot;Miyakoji rapid train.&quot;</e>
+<cmt>http://www.eonet.ne.jp/~naramachiwalk/access-to-nara.htm GRAM</cmt>
+<e type="trans" ver="2">However, after the foundation of the JR West and the Nara Line&apos;s incorporation into the Urban Network, the improvement of transportation services was rapidly made by, for example, trains comprised of four vehicles (some comprised of six vehicles), double-tracked in part, or with increased numbers of trains, including rapid trains such as &quot;Miyakoji rapid train.&quot;</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">However, after the foundation of JR West and the Nara Line&apos;s incorporation into the Urban Network, the improvement of transportation services was quickly achieved with, for example, trains comprised of four cars (some comprised of six cars), double-tracked in part, or with increased numbers of trains, including rapid services such as the &apos;Miyakoji Rapid Service.&apos;</e>
+<cmt>vehicle →car 括弧修正</cmt>
+</sen>
+<sen id="26">
+<j>現在では、沿線にある宇治市の平等院などへの観光や、城陽市など京都府南部地域からの通勤・通学路線としての性格が強くなっている。</j>
+<e type="trans" ver="1">Today, the Nara Line is characterized by the access to sightseeing areas such as Byodo-in Temple in Uji City or by a commuter line for passengers from the south part of the Kyoto Prefecture such as Joyo City.</e>
+<cmt>http://www.kiis.or.jp/kansaida/uji/uji01-e.html</cmt>
+<e type="trans" ver="2">Today, the Nara Line is characterized by the access it offers to sightseeing areas such as Byodo-in Temple in Uji City, or by a commuter line for passengers from the southern part of the Kyoto Prefecture, such as Joyo City.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Today, the Nara Line is characterized by the access it offers to sightseeing areas such as Byodo-in Temple in Uji City, or by a commuter line for passengers from the southern part of the Kyoto Prefecture, such as Joyo City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>しかし桃山～新田間で東側に大きく迂回する形となっており、城陽以南は町の中心部の外れを走るので並行する近鉄京都線とは京奈間・地域輸送共にまだ格差がある。</j>
+<e type="trans" ver="1">However, trains go around toward east between the Momoyama Station and the Shinden Station and run the edge of the central part of towns in Joyo or to the south of Joyo, and thus, the regional and the transportation gaps between the Nara Line and the Kintetsu Kyoto Line still remain.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, trains go around toward the east between Momoyama Station and Shinden Station and run the edge of the central part of town in Joyo or to the south of Joyo; thus the regional and transportation gaps between the Nara Line and the Kintetsu Kyoto Line remain.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">However, trains go around toward the east between Momoyama Station and Shinden Station and run the edge of the central part of town in Joyo or to the south of Joyo; thus the regional and transportation gaps between the Nara Line and the Kintetsu Kyoto Line remain.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="28">
+<j>車両は大阪支社の奈良電車区のものを使用するが、駅設備面などは木津駅を除き京都支社が管理している。</j>
+<e type="trans" ver="1">Rolling stock owned by the Osaka branch for the Nara rail yard is used, but station facilities are maintained by the Kyoto branch except the Kizu Station.</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">Rolling stock owned by the Osaka branch for the Nara rail yard is used, but station facilities are maintained by the Kyoto branch (except for Kizu Station).</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Rolling stock owned by the Osaka branch for the Nara rail yard is used, but station facilities are maintained by the Kyoto branch (except for Kizu Station).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="29">
+<j>全駅でJスルー・ICOCA、および東日本旅客鉄道（JR東日本）のSuica、東海旅客鉄道（JR東海）のTOICA、またスルッとKANSAIのPiTaPaが使用できる。</j>
+<e type="trans" ver="1">J-Thru card, ICOCA card, Suica card of East Japan Railway Company (JR East), TOICA card of Central Japan Railway Company (JR Central), and PiTaPa card of KANSAI THRU PASS are available at all stations.</e>
+<cmt>JR東日本HP (http://www.jreast.co.jp/) JR東海HP (http://jr-central.co.jp/) http://www.surutto.com/conts/ticket/3dayeng/index.html</cmt>
+<e type="trans" ver="2">The J-Thru card, ICOCA card, Suica card of East Japan Railway Company (JR East), TOICA card of Central Japan Railway Company (JR Central) and PiTaPa card of KANSAI THRU PASS are available at all stations.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The following commuter passes can be used at all stations on this line: J-THRU/ICOCA; Suica, which is offered by the East Japan Railway Company (JR East); TOICA, which is offered by the Central Japan Railway Company (JR Central); and PiTaPa, which is offered by the Surutto Kansai Association.</e>
+<cmt>I have added &quot;commuter passes&quot; because otherwise someone not familiar with Japan might have trouble understanding what these are.Reference for Surutto Kansai Association: http://www.surutto.com/conts/ticket/3dayeng/index.html</cmt>
+</sen>
+<sen id="30">
+<j>なお城陽駅以南では無人駅も混在するため簡易改札となる。</j>
+<e type="trans" ver="1">Simple ticket gates are used at the Joyo Station or the stations to the south of the Joyo Station as some unmanned stations still exist.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Simple ticket gates are used at Joyo Station or stations to the south of Joyo Station, as some unmanned stations still exist.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Simple ticket gates are used at Joyo Station or stations to the south of Joyo Station, as some unmanned stations still exist.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>運行形態</j>
+<e type="trans" ver="1">Form of operation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Form of operation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Form of operation</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="31">
+<j>1984年に京都～和歌山駅間を奈良線・桜井線・和歌山線経由で結んでいた急行列車「くろしお_(列車)」が廃止されて以来、1991年までは普通列車のみの運転だった（特急のように、一時期臨時で特別急行列車が運転されたことがある）が、今ではみやこ路快速、快速列車、列車種別区間種別、普通列車の4種類の種別が運転されている。</j>
+<e type="trans" ver="1">After Limited Express &quot;Kuroshio&quot; connecting the Kyoto Station with the Wakayama Station via the Nara Line, Sakurai Line, and Wakayama Line stopped its operation in 1984, only the local trains ran until 1991 (except that the special limited express was temporarily operated), but now there are four types of trains: the Miyakoji rapid train, the rapid train, the trains classified by operation and section, and the local train.</e>
+<cmt>「列車種別区間種別」については、「運行および区間によって分類された列車」と解し訳しました。</cmt>
+<e type="trans" ver="2">After the limited express &quot;Kuroshio&quot; connecting Kyoto Station with Wakayama Station via the Nara, Sakurai and Wakayama lines ceased operation in 1984, only the local trains ran until 1991 (except that a special limited express was temporarily operated), but now there are four types of trains: the Miyakoji rapid train, the rapid train, the trains classified by operation and section, and the local train.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">After the limited express &apos;Kuroshio&apos; connecting Kyoto Station with Wakayama Station via the Nara, Sakurai and Wakayama lines ceased operation in 1984, only the local trains ran until 1991 (except for the temporary operation of a special limited express), but now there are four types of trains: the Miyakoji Rapid Service, the rapid service, the trains classified by operation and section, and the local train.</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>列車種別</j>
+<e type="trans" ver="1">Type of trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Types of trains</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Types of trains</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="5">
+<tit>
+<j>みやこ路快速</j>
+<e type="trans" ver="1">Miyakoji rapid train</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miyakoji rapid train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyakoji Rapid Service</e>
+<cmt>Miyakoji Rapid Service　としました。</cmt>
+</tit>
+<par id="1">
+<sen id="32">
+<j>奈良線の最速達の種別であり昼間を中心に運転される。</j>
+<e type="trans" ver="1">The Miyakoji rapid train is the most rapid train on the Nara Line and runs mainly during the day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Miyakoji rapid train--the fastest train on the Nara Line--runs mainly during the day.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The Miyakoji Rapid Service--the fastest train on the Nara Line--runs mainly during the day.</e>
+<cmt>Miyakoji Rapid Service　としました。</cmt>
+</sen>
+<sen id="33">
+<j>基本的に30分間隔の運転で宇治駅で普通列車と緩急接続を行う。</j>
+<e type="trans" ver="1">The train basically runs every 30 minutes and variously connects with the local train at the Uji Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The train basically runs every 30 minutes and variously connects with the local trains at Uji Station.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The train basically runs every 30 minutes and variously connects with the local trains at Uji Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>「みやこ路快速」の愛称は運行開始前に一般公募により決定した。</j>
+<e type="trans" ver="1">The popular name &quot;Miyakoji rapid train&quot; was given from the public before the operation began.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The popular name &quot;Miyakoji rapid train&quot; was given from the public before it went into operation.</e>
+<cmt>USAGE</cmt>
+<e type="check" ver="1">The public gave this train the nickname &apos;Miyakoji rapid train&apos; before it went into operation.</e>
+<cmt>You can&apos;t give something a popular name so I have had to reword this.</cmt>
+</sen>
+<sen id="35">
+<j>観光地である京都と奈良を結ぶ列車として、日本人だけでなく外国人観光客の利用も多い。</j>
+<e type="trans" ver="1">Not only Japanese people but also foreign visitors use the Miyakoji rapid train as a train connecting Kyoto with Nara, the sightseeing destinations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Not only Japanese people but also foreign visitors use the Miyakoji rapid train as a train connecting Kyoto with Nara, both of which are sightseeing destinations.</e>
+<cmt>CLARITY</cmt>
+<e type="check" ver="1">Not only Japanese people but also foreign visitors use the Miyakoji Rapid Service as a train connecting Kyoto with Nara, both of which are sightseeing destinations.</e>
+<cmt>Miyakoji Rapid Service　としました。</cmt>
+</sen>
+<sen id="36">
+<j>車両は全列車JR西日本221系電車で、4両編成または6両編成で運転される。</j>
+<e type="trans" ver="1">The vehicles are all JR Suburban Trains Series 221 which comprises four or six vehicles.</e>
+<cmt>http://www.uraken.net/rail/alltrain/uratetsu221.html</cmt>
+<e type="trans" ver="2">The vehicles are all from the JR Suburban Train Series 221, which comprises four or six vehicles.</e>
+<cmt>CLARITY</cmt>
+<e type="check" ver="1">The cars are all from the JR Suburban Train Series 221, which comprises either four or six cars.</e>
+<cmt>vehicle →car</cmt>
+</sen>
+<sen id="37">
+<j>複線区間では最高速度が110km/hで運転され、それ以外では95km/hである。</j>
+<e type="trans" ver="1">The maximum train speed is 110 km/h in double track sections, and 95 km/h in other sections.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The maximum train speed is 110 km/h in double-track sections, or 95 km/h in other sections.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">The maximum train speed is 110 km/h in double-track sections, or 95 km/h in other sections.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="38">
+<j>標準所要時間は京都発奈良行が約44分、奈良発京都行が約47分である。</j>
+<e type="trans" ver="1">The standard travel times are about 44 minutes from Kyoto to Nara, and about 47 minutes from Nara to Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The standard travel times are approximately 44 minutes from Kyoto to Nara and about 47 minutes from Nara to Kyoto.</e>
+<cmt>TONE</cmt>
+<e type="check" ver="1">The standard travel times are approximately 44 minutes from Kyoto to Nara and about 47 minutes from Nara to Kyoto.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>京都行きは途中上狛駅もしくは棚倉駅に2分ほど運転停車し、奈良行のみやこ路快速と行き違うため、上りと下りとで所要時間に若干差がある。</j>
+<e type="trans" ver="1">A train bound for Kyoto stops at Kamikoma Station or Tanakura Station for about two minutes and passes the Miyakoji rapid train bound for Nara, which makes a slight difference in travel time between the inbound train and outbound train.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A train bound for Kyoto stops at Kamikoma Station or Tanakura Station for about two minutes and passes the Miyakoji rapid train bound for Nara, thus making a slight difference in travel time between the inbound train and outbound train.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">A train bound for Kyoto stops at Kamikoma Station or Tanakura Station for about two minutes and passes the Miyakoji Rapid Service bound for Nara, thus making a slight difference between the travel times of the inbound train and outbound train.</e>
+<cmt>下り→ outbound　上り→inbound Miyakoji Rapid Service　としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="40">
+<j>正月三が日の間は伏見稲荷への参詣客のため稲荷駅に臨時停車する。</j>
+<e type="trans" ver="1">During the New Year holiday, the train temporarily stops at Inari Station for visitors to Fushimi Inari Taisha Shrine.</e>
+<cmt>http://www.pref.kyoto.jp/visitkyoto/en/theme/sites/shrines/temples/fushimi_inari/</cmt>
+<e type="trans" ver="2">During the New Year holiday the train temporarily stops at Inari Station for visitors to Fushimi Inari Taisha Shrine.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">During the New Year holiday the train temporarily stops at Inari Station for visitors to Fushimi Inari Taisha Shrine.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="41">
+<j>沿革</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="42">
+<j>2001年（平成13年）3月3日 - 運行開始。</j>
+<e type="trans" ver="1">On March 3, 2001, the operation began.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operations began on March 3, 2001.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">March 3, 2001: Operations began.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="43">
+<j>2003年（平成15年）3月15日 - ダイヤ改正により東福寺駅、玉水駅に停車するようになる。</j>
+<e type="trans" ver="1">On March 15, 2003, the train began to stop at Tofuku-ji Station and Tamamizu Station by the revision of the schedule.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 15, 2003, the train began making stops at Tofuku-ji Station and Tamamizu Station through a revision of the schedule.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">March 15, 2003: The train began making stops at Tofuku-ji Station and Tamamizu Station through a revision of the schedule.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>快速</j>
+<e type="trans" ver="1">Rapid train</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rapid Service</e>
+<cmt>Rapid Service　としました。</cmt>
+</tit>
+<par id="1">
+<sen id="44">
+<j>朝夕ラッシュ時に運転される。</j>
+<e type="trans" ver="1">The rapid train runs during the morning and evening rush.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The rapid train runs during the morning and evening rush periods.</e>
+<cmt>INCOMPLETE SENTENCE</cmt>
+<e type="check" ver="1">The rapid service runs during the morning and evening rush periods.</e>
+<cmt>rapid service としました。</cmt>
+</sen>
+<sen id="45">
+<j>「みやこ路快速」が通過するJR小倉駅、新田駅 (京都府)にも停車する。</j>
+<e type="trans" ver="1">The rapid train stops at JR-Ogura Station and Shinden Station (Kyoto Prefecture) which the &quot;Miyakoji rapid train&quot; passes through.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The rapid train stops at JR-Ogura Station and Shinden Station (Kyoto Prefecture), through which the &quot;Miyakoji rapid train&quot; passes.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">It stops at JR-Ogura Station and Shinden Station (Kyoto Prefecture), through which the &apos;Miyakoji Rapid Service&apos; passes.</e>
+<cmt>Miyakoji Rapid Service　としました。</cmt>
+</sen>
+<sen id="46">
+<j>車両は全列車221系で運転され、4両編成または6両編成で運転される。</j>
+<e type="trans" ver="1">The vehicles used are all JR Suburban Trains Series 221 which comprises four or six vehicles.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The vehicles used are all from the JR Suburban Train Series 221, which comprises four or six vehicles.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The cars used are all from the JR Suburban Train Series 221, which comprises either four or six cars.</e>
+<cmt>vehicle→ car</cmt>
+</sen>
+<sen id="47">
+<j>基本的に30分間隔の運転で宇治駅で普通列車と緩急接続を行う。</j>
+<e type="trans" ver="1">The train basically runs every 30 minutes and variously connects with the local train at the Uji Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The train basically runs every 30 minutes and variously connects with the local train at the Uji Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The train basically runs every 30 minutes and variously connects with the local train at the Uji Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>上記のみやこ路快速と同様、大和路線の快速が停車する平城山駅は通過する。</j>
+<e type="trans" ver="1">Like the Miyakoji rapid train, the rapid train passes through Narayama Station at which the rapid train on the Yamatoji Line stops.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Like the Miyakoji rapid train, the rapid train passes through Narayama Station, at which the rapid train on the Yamatoji Line stops.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">Like the Miyakoji Rapid Service, the rapid service passes through Narayama Station, at which the rapid train on the Yamatoji Line stops.</e>
+<cmt>Miyakoji Rapid Service　としました。</cmt>
+</sen>
+<sen id="49">
+<j>「みやこ路快速」が登場する2001年3月までの停車駅は京都・宇治・城陽（設定当初は通過）・木津・奈良で、車両には国鉄117系電車が使用されていたが、以後は奈良線では使用されていない。</j>
+<e type="trans" ver="1">Before March 2001 when the &quot;Miyakoji rapid train&quot; began operating, the rapid train had stopped at the Kyoto, Uji, Joyo (except at the beginning), Kizu, and Nara Stations and employed JNR/JR Suburban Trains Series 117 for its vehicle, but the JNR/JR Suburban Trains Series 117 has not been used on the Nara Line since March 2001.</e>
+<cmt>http://www.uraken.net/rail/alltrain/uratetsu117.html</cmt>
+<e type="trans" ver="2">Before March 2001, when the &quot;Miyakoji rapid train&quot; began operating, the rapid train had stopped at the Kyoto, Uji, Joyo (except at the beginning), Kizu and Nara stations and employed JNR/JR Suburban Train Series 117 for its vehicle; however, the JNR/JR Suburban Train Series 117 has not been used on the Nara Line since March 2001.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Before the &apos;Miyakoji rapid train&apos; came into operation in March 2001, the rapid train had stopped at Kyoto, Uji, Joyo (except at the beginning), Kizu and Nara stations, employing the JNR/JR Suburban Train Series 117 for its cars; since then, however, this series has not been used on the Nara Line.</e>
+<cmt>名詞は基本的に２回目は代名詞で表現</cmt>
+</sen>
+<sen id="50">
+<j>朝夕は運用の都合上で大和路線と直通する列車がある。</j>
+<e type="trans" ver="1">Some rapid trains run through to the Yamatoji Line in the morning and evening due to the operation schedule.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some rapid trains run through to the Yamatoji Line in the morning and evening due to the schedule of operation.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Some rapid service trains run through to the Yamatoji Line in the morning and evening due to the schedule of operation.</e>
+<cmt>rapid service としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>区間快速</j>
+<e type="trans" ver="1">Section rapid</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid section</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Regional Rapid Service</e>
+<cmt>JR西日本ではこのように表記しているようです。　http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1424717544</cmt>
+</tit>
+<par id="1">
+<sen id="51">
+<j>朝と夜間を中心に運転される。</j>
+<e type="trans" ver="1">The section rapid runs mainly in the morning and during the night.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The rapid section runs mainly in the morning and nighttime hours.</e>
+<cmt>CLARITY</cmt>
+<e type="check" ver="1">The regional rapid service runs mainly in the morning and nighttime hours.</e>
+<cmt>区間快速の訳の修正</cmt>
+</sen>
+<sen id="52">
+<j>当初は平日のみだったが、2006年3月18日のダイヤ改正から土曜・休日にも運転されるようになった。</j>
+<e type="trans" ver="1">At first, the operation was limited to weekdays, but it was changed to Saturdays and Holidays in addition to weekdays by the revision of the schedule on March 18, 2006.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Initially, the operation was limited to weekdays, but with the schedule revision of March 18, 2006 it was changed to Saturdays and holidays in addition to weekdays.</e>
+<cmt>CLEANER</cmt>
+<e type="check" ver="1">Initially, the operation was limited to weekdays, but with the schedule revision of March 18, 2006 it was changed to Saturdays and holidays in addition to weekdays.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>宇治～奈良間は各駅に停車するが、かつては深夜などに行き違いの関係で宇治駅で普通を追い抜く木津方面行きの区間快速があったが、現在は区間快速の前を走る普通はそのまま終着駅まで逃げ切るダイヤに変更されている。</j>
+<e type="trans" ver="1">The section rapid stops at every station between the Uji Station and the Nara Station; some section rapids bound for Kizu used to pass the local train at the Uji Station in the late evening etc. due to the schedule; but now the section rapid does not pass the local train before reaching the arrival station according to the current schedule.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The rapid section stops at every station between Uji Station and Nara Station; some rapid sections bound for Kizu used to pass the local train at the Uji Station in the late evening, etc., due to the schedule, but based on the current schedule the rapid section does not pass the local train before reaching the arrival station.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">The regional rapid service stops at every station between Uji Station and Nara Station, while some regional rapid services bound for Kizu used to pass the local train at Uji Station in the late evening, etc., due to the schedule; however, based on the current schedule, the regional rapid service doesn&apos;t pass the local train before reaching the arrival station.</e>
+<cmt>区間快速の訳の修正</cmt>
+</sen>
+<sen id="54">
+<j>土曜・休日の20時台の京都発の1本に国鉄103系電車を使用する列車があるほかはすべて221系での運転である。</j>
+<e type="trans" ver="1">All section rapids employ the JR Suburban Trains Series 221 except that one section rapid leaving the Kyoto Station between 8-9 pm on Saturdays and Holidays employs the JNR/JR Commuter Trains Series 103.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All rapid sections employ the JR Suburban Train Series 221, except that one rapid section leaving Kyoto Station between 8-9 pm on Saturdays and holidays employs the JNR/JR Commuter Train Series 103.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">All regional rapid services employ the JR Suburban Train Series 221, except that one regional rapid service leaving Kyoto Station between 8 p.m. and 9 p.m. on Saturdays and holidays employs the JNR/JR Commuter Train Series 103.</e>
+<cmt>区間快速の訳の修正</cmt>
+</sen>
+<sen id="55">
+<j>朝ラッシュ時には運用上の都合で大和路線から直通する列車がある。</j>
+<e type="trans" ver="1">Some section rapids run through from the Yamatoji Line during the morning rush due to the operation schedule.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Due to the operation schedule, some rapid sections run through from the Yamatoji Line during the morning rush.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">Due to the operation schedule, some regional rapid services run through from the Yamatoji Line during the morning rush period.</e>
+<cmt>区間快速の訳の修正</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="56">
+<j>奈良線の区間快速は大和路線区間快速との誤乗防止を図るため、「みやこ路快速」や快速と同じ橙色の文字色をラインカラーとして使用していたが、2008年3月のダイヤ改正に伴う種別幕の交換により、区間快速の種別幕は緑文字で表現されるようになり、ラインカラーは使われなくなった。</j>
+<e type="trans" ver="1">The section rapid on the Nara Line used to use orange letters as the Line&apos;s own color, which was the same color as the one used for the &quot;Miyakoji rapid train&quot; and the rapid train, so as to distinguish the section rapid on the Nara Line from that on the Yamatoji Line, but in March 2008, by the replacement of signs along with the revision of the schedule, a sign for the section rapid was changed to include green letters, thereby the use of Line color was stopped.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The rapid section on the Nara Line used to use orange letters as the line&apos;s own color, but it was the same color as the one used for the &quot;Miyakoji rapid train&quot; and the rapid train so as to distinguish the rapid section on the Nara Line from that on the Yamatoji Line. However, in March 2008, with the replacement of signs along with the revision of the schedule, a sign for the rapid section was changed to include green letters, whereby the use of the line color was stopped.</e>
+<cmt>RUN-ON SENTENCE: PERIOD ADDED</cmt>
+<e type="check" ver="1">The regional rapid service on the Nara Line formerly used orange letters as the Line&apos;s own color, but it was the same color as the one used for the &apos;Miyakoji Rapid Service&apos; and the rapid service so as to distinguish the regional rapid service on the Nara Line from that of the Yamatoji Line. However, in March 2008, with the replacement of signs along with the revision of the schedule, a sign for the regional rapid service was changed to include green letters, whereby the use of the line color was stopped.</e>
+<cmt>区間快速の訳の修正 括弧修正</cmt>
+</sen>
+<sen id="57">
+<j>上狛駅以北の駅掲示時刻表では紫文字で記載されている。</j>
+<e type="trans" ver="1">At the Kamikoma Station or stations to the north of the Kamikoma Station, purple letters are used in time table board.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the Kamikoma Station or stations to the north of Kamikoma Station, purple letters are used on the timetable boards.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">At the Kamikoma Station or stations to the north of Kamikoma Station, purple letters are used on the timetable boards.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>普通</j>
+<e type="trans" ver="1">Local train</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Local train</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="58">
+<j>京都～宇治、城陽、奈良間で運転される。</j>
+<e type="trans" ver="1">The local train runs between the Kyoto Station, the Uji Station, Joyo Station, and Nara Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The local train runs between Kyoto Station, Uji Station, Joyo Station and Nara Station.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">The local train runs between Kyoto Station, Uji Station, Joyo Station and Nara Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>昼間は京都～城陽間は15分間隔で運転されるが、城陽～木津間は30分間隔となる。</j>
+<e type="trans" ver="1">The train runs every 15 minutes during the day between the Kyoto Station and the Joyo Station, and every 30 minutes between the Joyo Station and the Kizu Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The train runs every 15 minutes during the day between Kyoto Station and Joyo Station, and every 30 minutes between Joyo Station and Kizu Station.</e>
+<cmt>REPETITIVE</cmt>
+<e type="check" ver="1">The train runs every 15 minutes during the day between Kyoto Station and Joyo Station, and every 30 minutes between Joyo Station and Kizu Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="60">
+<j>車両は基本的に103系で運転されるが、一部221系で運転される。</j>
+<e type="trans" ver="1">Basically, the vehicles are JNR/JR Commuter Trains Series 103 but some are the JR Suburban Trains Series 221.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Basically, the vehicles are from the JNR/JR Commuter Train Series 103, but some are from the JR Suburban Train Series 221.</e>
+<cmt>MISSING ARTICLES</cmt>
+<e type="check" ver="1">Basically, the cars are from the JNR/JR Commuter Train Series 103, but some are from the JR Suburban Train Series 221.</e>
+<cmt>vehicle →car</cmt>
+</sen>
+<sen id="61">
+<j>運用上の都合で早朝・深夜に大和路線と直通する列車がある。</j>
+<e type="trans" ver="1">Some local trains go through to the Yamatoji Line in the early morning and in the late evening due to the schedule.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Due to the schedule, some local trains go through to the Yamatoji Line in the early morning and in the late evening due.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">Due to the schedule, some local trains go through to the Yamatoji Line in the early morning and late evening.</e>
+<cmt>文末のdueを削除</cmt>
+</sen>
+<sen id="62">
+<j>過去には桜井線との直通列車もあったが1994年9月4日のダイヤ改正で奈良線と桜井線は系統分割された。</j>
+<e type="trans" ver="1">Some local trains used to go through to the Sakurai Line, but the in the revision of the schedule in September 4, 1994, the Nara Line and the Sakurai Line were divided.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Formerly, some local trains would go through to the Sakurai Line, but with the schedule revision of September 4, 1994, the Nara and Sakurai lines were divided.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Formerly, some local trains would go through to the Sakurai Line, but with the schedule revision of September 4, 1994, the Nara and Sakurai lines were divided.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>臨時列車</j>
+<e type="trans" ver="1">Special train</e>
+<cmt></cmt>
+<e type="trans" ver="2">Special train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Special train</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="10">
+<tit>
+<j>特急</j>
+<e type="trans" ver="1">Limited express</e>
+<cmt></cmt>
+<e type="trans" ver="2">Limited express</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Limited express</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="63">
+<j>臨時列車ではあるが、奈良線にも特急列車が運転されたことがある。</j>
+<e type="trans" ver="1">Once there used to run a limited express on the Nara Line as a special train.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Formerly, a limited express ran on the Nara Line as a special train.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">Formerly, a limited express ran on the Nara Line as a special train.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="64">
+<j>1987年から1988年にかけて「くろしお_(列車)」、1988年から1989年まで「くろしお_(列車)」の愛称で国鉄381系電車電車を用いて京都～白浜駅間に関西本線・関西本線阪和貨物線・阪和線経由で運転された。</j>
+<e type="trans" ver="1">From 1987 to 1988, &quot;Kuroshio&quot; and from 1988 to 1989, the limited express with the popular name &quot;Kuroshio&quot; comprising JNR/JR Limited Express Series 381 ran between the Kyoto Station and the Shirahama Station via the Kansai Main Line, the Kansai Main Line Hanwa Freight Line, and Hanwa Line.</e>
+<cmt>http://www.uraken.net/rail/alltrain/uratetsu381.html 定訳不明</cmt>
+<e type="trans" ver="2">From 1987 to 1988 the &quot;Kuroshio&quot; and from 1988 to 1989 the limited express with the popular name &quot;Kuroshio,&quot; comprising JNR/JR Limited Express Series 381, ran between Kyoto Station and Shirahama Station via the Kansai Main Line, the Kansai Main Line Hanwa Freight Line and the Hanwa Line.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">A limited express which had the nickname &apos;Kuroshio XX&apos; from 1987 to 1988 and &apos;Kuroshio XX&apos; from 1988 to 1989, the JNR/JR Limited Express Series 381ran between Kyoto Station and Shirahama Station via the Kansai Main Line, the Kansai Main Line Hanwa Freight Line and the Hanwa Line.</e>
+<cmt>The use of &quot;comprising&quot; makes no sense to me here. Please check if I have understood this correctly.</cmt>
+</sen>
+<sen id="65">
+<j>1998年1月6日の読売新聞近畿版では2001年を目処に奈良線に（定期列車として）381系を用いて特急を運行するとの発表があったが、その後計画は中止されている。</j>
+<e type="trans" ver="1">The Yomiuri Shimbun, the Kinki edition announced on January 6, 1998 that a limited express comprising JNR/JR Limited Express Series 381 would begin operating (as a regular train) on the Nara Line in about 2001, but the plan was called off eventually.</e>
+<cmt>読売新聞HP (http://www.yomiuri.co.jp/)</cmt>
+<e type="trans" ver="2">The Kinki edition of the Yomiuri Shimbun newspaper announced on January 6, 1998 that a limited express comprising the JNR/JR Limited Express Series 381 would begin operating (as a regular train) on the Nara Line in about 2001, but eventually the plan was canceled.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The Kinki edition of the Yomiuri Shinbun newspaper announced on January 6, 1998 that a limited express comprising the JNR/JR Limited Express Series 381 would begin operating (as a regular train) on the Nara Line in about 2001, but eventually the plan was canceled.</e>
+<cmt>Shinbun　としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="11">
+<tit>
+<j>みやこ路レジャー号</j>
+<e type="trans" ver="1">Miyakoji leisure train</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miyakoji leisure train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyakoji leisure train</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="66">
+<j>みやこ路レジャー号として京都～桜井間（京都～奈良間はみやこ路快速）で運転されていた時期があったが、現在は臨時も含め桜井線への直通列車は運転されていない。</j>
+<e type="trans" ver="1">The Miyakoji leisure train ran between the Kyoto Station and the Sakurai Station (the Miyakoji rapid train between the Kyoto Station and the Nara Station) for some time, but now there is not train including a special train going through to the Sakurai Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Miyakoji leisure train ran between the Kyoto Station and the Sakurai Station (the Miyakoji rapid train between the Kyoto Station and the Nara Station) for some time, but now there is not train including a special train going through to the Sakurai Line.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The Miyakoji leisure train ran between Kyoto Station and Sakurai Station (the Miyakoji Rapid Service ran for the section between Kyoto Station and Nara Station) for some time, but now there is no train excluding a special train going through to the Sakurai Line.</e>
+<cmt>他と合わせて駅名の前のtheを削除しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="12">
+<tit>
+<j>宇治川花火大会</j>
+<e type="trans" ver="1">Uji-gawa River Fireworks Display</e>
+<cmt>http://www.kshop.co.jp/hanayasiki/e-kankou/</cmt>
+<e type="trans" ver="2">Uji-gawa River fireworks display</e>
+<cmt>CAPS</cmt>
+<e type="check" ver="1">Uji-gawa River fireworks display</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="67">
+<j>8月中旬に、宇治駅を最寄りとする宇治川花火大会が行われるが、通常ダイヤでは輸送力が確保できないため16時前から最終まで特別ダイヤで運転され、16時以降はすべて普通列車のみの運転で京都～宇治間は上下ともに約10分での運転となる。</j>
+<e type="trans" ver="1">The Uji-gawa River Fireworks Display (the nearest station: Uji Station) is held in the mid August, when the special schedule is introduced to secure sufficient transport capacity before 4 pm to the end; only the local trains ran between the Kyoto Station and the Uji Station about every 10 minutes after 4 pm.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Uji-gawa River fireworks display (nearest stop: Uji Station) is held in mid-August, when the special schedule is introduced to secure sufficient transport capacity before 4 p.m. to the end; after 4 p.m., only the local trains run between Kyoto Station and Uji Station at intervals of approximately 10 minutes.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">The Uji-gawa River fireworks display (nearest stop: Uji Station) is held in mid-August, when the special schedule is introduced to secure sufficient transport capacity before 4 p.m. to the end; after 4 p.m., only the local trains run between Kyoto Station and Uji Station at intervals of approximately 10 minutes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="68">
+<j>一部、木津駅発着となる普通列車がある。</j>
+<e type="trans" ver="1">The arrival and departure station of some local trains is the Kizu Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kizu Station is the arrival and departure station of some local trains.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">Kizu Station is the arrival and departure station of some local trains.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="13">
+<tit>
+<j>その他</j>
+<e type="trans" ver="1">Others</e>
+<cmt></cmt>
+<e type="trans" ver="2">Others</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Others</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="69">
+<j>単線当時の正月三が日は完全別立ての臨時ダイヤになり、快速が京都～宇治間各駅に停車するほか、宇治までは本数を増やして運転されていた。</j>
+<e type="trans" ver="1">When the Nara Line was a single track, the special schedule was adopted during the New Year holiday: the rapid train stopped at every station between the Kyoto Station and the Uji Station, and the number of trains traveling to the Uji Station was increased.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the Nara Line was a single track, the special schedule was employed during the New Year holiday: the rapid train stopped at every station between Kyoto Station and Uji Station, and the number of trains traveling to Uji Station was increased.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">When the Nara Line was a single track, a special schedule was adopted during the New Year holidays, according to which the rapid train stopped at every station between Kyoto Station and Uji Station, and the number of trains traveling to Uji Station was increased.</e>
+<cmt>the New Year holidays　としました。</cmt>
+</sen>
+<sen id="70">
+<j>年によっては桃山駅折り返し列車の設定もあった。</j>
+<e type="trans" ver="1">In some New Year Holidays, the train arrived at and departed from the Momoyama Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During some New Year holidays the train would arrive at and depart from Momoyama Station.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">During some New Year holidays the train would arrive at and depart from Momoyama Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="71">
+<j>1992年頃には土曜・休日を中心に桜井線への直通列車が定期快速を延長して天理駅まで1時間あたり1本運転されていた。</j>
+<e type="trans" ver="1">In about 1992 mainly on Saturdays and Holidays, a through train to the Sakurai Line bound for the Tenri Station ran once in an hour by extending its regular rapid service.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In about 1992 (mainly on Saturdays and holidays) a through train to the Sakurai Line bound for Tenri Station ran once an hour by extending its regular rapid service.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">In about 1992 (mainly on Saturdays and holidays) a through train to the Sakurai Line bound for Tenri Station ran once an hour by extending its regular rapid service.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="72">
+<j>このほか、日本全国から団体専用列車が乗り入れることがある。</j>
+<e type="trans" ver="1">Occasionally, trains reserved for groups enter the Nara Line from around the country.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Occasionally, trains reserved for groups enter the Nara Line from around the country.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Occasionally, trains reserved for groups enter the Nara Line from around the country.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="73">
+<j>特に毎年10月26日の天理教大祭時には「団体専用列車天理教輸送列車」と呼ばれる列車が京都駅から奈良線～木津駅～大和路線～奈良駅～桜井線経由で天理駅まで直通する。</j>
+<e type="trans" ver="1">During the Tenrikyo Autumn Grand Service held every October 26, in particular, the through train called &quot;Train reserved for groups: Tenrikyo transportation train&quot; runs from the Kyoto Station to the Kizu Station via the Nara Line, to the Nara Station via the Yamatoji Line, and to the Tenri Station via the Sakurai Line.</e>
+<cmt>http://www.tenrikyo.or.jp/en/newsletter/html/tt5/saiten.html</cmt>
+<e type="trans" ver="2">During the Tenrikyo Autumn Grand Service held every October 26, in particular, the through train denoted as &quot;Train reserved for groups: Tenrikyo transportation train&quot; runs from Kyoto Station to Kizu Station via the Nara Line, to Nara Station via the Yamatoji Line, and to Tenri Station via the Sakurai Line.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">During the Tenrikyo Autumn Grand Service held every October 26, particularly, the through train denoted as a &apos;train reserved for groups: Tenrikyo transportation train&apos; runs from Kyoto Station to Kizu Station via the Nara Line, to Nara Station via the Yamatoji Line, and to Tenri Station via the Sakurai Line.</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+</sec>
+<sec id="14">
+<tit>
+<j>使用車両</j>
+<e type="trans" ver="1">Rolling stock</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rolling stock</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rolling stock</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="74">
+<j>全て奈良電車区の所属である。</j>
+<e type="trans" ver="1">All vehicles belong to the Nara rail yard.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All vehicles belong to the Nara rail yard.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">All cars belong to the Nara rail yard.</e>
+<cmt>vehicle →car　(jr京都線、市営地下鉄、の項と統一）</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="75">
+<j>JR西日本221系電車</j>
+<e type="trans" ver="1">JR Suburban Trains Series 221</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR Suburban Trains Series 221</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR Suburban Train Series 221</e>
+<cmt>trains seriesをtrain seriesに改良しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="76">
+<j>大和路線や大阪環状線などと共通運用で、2両、4両、6両編成が存在する。</j>
+<e type="trans" ver="1">The Nara Line shares the JR Suburban Trains Series 221 comprising two, four or six vehicles with the Yamatoji Line, the Osaka Loop Line, etc.</e>
+<cmt>http://hisaai.hp.infoseek.co.jp/JRWest/Osaka/Kj_s_eg.html</cmt>
+<e type="trans" ver="2">The Nara Line shares the JR Suburban Train Series 221 (comprising two, four or six vehicles) with the Yamatoji Line, the Osaka Loop Line, etc.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">The Nara Line shares the JR Suburban Train Series 221 (comprising two, four or six cars) with the Yamatoji Line, the Osaka Loop Line, etc.</e>
+<cmt>vehicle →car</cmt>
+</sen>
+<sen id="77">
+<j>主に「みやこ路快速」「快速列車」で4両編成や6両編成で運用されるが、奈良線には主に4両編成が入線する。</j>
+<e type="trans" ver="1">The JR Suburban Trains Series 221 comprising four or six vehicles are used mainly for the &quot;Miyakoji rapid train&quot; and the &quot;rapid train,&quot; and the one comprising four vehicles mainly enters the Nara Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The JR Suburban Train Series 221 comprising four or six vehicles are used mainly for the &quot;Miyakoji rapid train&quot; and the &quot;rapid train,&quot; while the one comprising four vehicles mainly enters the Nara Line.</e>
+<cmt>CLARITY, TONE</cmt>
+<e type="check" ver="1">The JR Suburban Train Series 221 comprising either four or six cars is used mainly for the &apos;Miyakoji Rapid Service&apos; and the &apos;Rapid Service,&apos; while the one comprising four cars mainly enters the Nara Line.</e>
+<cmt>vehicle →car 括弧修正</cmt>
+</sen>
+<sen id="78">
+<j>2両編成2本連結は休日ダイヤで見られる。</j>
+<e type="trans" ver="1">The JR Suburban Trains Series 221 comprising two vehicles joining two other vehicles run for the holiday schedule.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The JR Suburban Train Series 221 (comprising two vehicles joining two other vehicles) runs for the holiday schedule.</e>
+<cmt>IMPROVEMENT</cmt>
+<e type="check" ver="1">The JR Suburban Train Series 221 (comprising two cars joining two other cars) runs according to the holiday schedule.</e>
+<cmt>vehicle →car</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="79">
+<j>国鉄103系電車</j>
+<e type="trans" ver="1">JNR/JR Commuter Trains Series 103</e>
+<cmt>http://www.uraken.net/rail/alltrain/uratetsu103.html</cmt>
+<e type="trans" ver="2">JNR/JR Commuter Trains Series 103</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JNR/JR Commuter Train Series 103</e>
+<cmt>trains seriesをtrain seriesに改良しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="80">
+<j>奈良線の普通列車に使用される103系4両編成は、奈良線運用だけでなく、2本連結して8両編成にしたうえで大阪環状線やラッシュ時の大和路線区間快速にも運用される。</j>
+<e type="trans" ver="1">The JNR/JR Commuter Trains Series 103 comprising four vehicles are used on the Nara Line for the local train, and the one comprising eight vehicles: four joining four other vehicles are used on the Osaka Loop Line, and on the Yamatoji Line for the section rapid during rush hours.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The JNR/JR Commuter Train Series 103 (comprising four vehicles) is used on the Nara Line for the local train, while the one comprising eight vehicles (four joining four other vehicles) is used on the Osaka Loop Line and on the Yamatoji Line for the rapid section during rush hours.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">The JNR/JR Commuter Train Series 103 (comprising four cars) is used on the Nara Line for the local train, while the one comprising eight cars (four joining four other cars) is used on the Osaka Loop Line and on the Yamatoji Line for the regional rapid service during the rush hours.</e>
+<cmt>区間快速の訳の修正 vehicle →car</cmt>
+</sen>
+<sen id="81">
+<j>一部の車両が大阪環状線森ノ宮電車区からの転属車両に置き換えられている。</j>
+<e type="trans" ver="1">Part of rolling stock is replaced with those transferred from the Osaka Loop Line, Morinomiya rail yard.</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">Part of the rolling stock is replaced with stock transferred from the Osaka Loop Line&apos;s Morinomiya rail yard.</e>
+<cmt>IMPROVEMENT</cmt>
+<e type="check" ver="1">Part of the rolling stock is replaced with stock transferred from the Osaka Loop Line&apos;s Morinomiya rail yard.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="15">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="82">
+<j>奈良鉄道によって京都～木津～奈良間が開通したが、うち京都～桃山間は初め現在の近鉄京都線のルートを通っていた。</j>
+<e type="trans" ver="1">The line connecting Kyoto, Kizu, and Nara was opened by the Nara Railways, and initially, trains ran the same route as the current Kintetsu Kyoto Line between Kyoto and Momoyama.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line connecting Kyoto, Kizu and Nara was opened by the Nara Railways, and initially trains ran the same route as the current Kintetsu Kyoto Line between Kyoto and Momoyama.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">The line connecting Kyoto, Kizu and Nara was opened by the Nara Electric Railway, and initially trains ran the same route as the current Kintetsu Kyoto Line between Kyoto and Momoyama.</e>
+<cmt>Nara Railways Nara →Electric Railway</cmt>
+</sen>
+<sen id="83">
+<j>東海道本線の馬場（現在の膳所）～京都間が東山トンネル経由の現在線に切り替えられた1921年のその日に、京都～稲荷間の旧東海道本線と稲荷～桃山間の新線が奈良線となり、京都～伏見間が廃止、伏見～桃山間が貨物線化された。</j>
+<e type="trans" ver="1">In 1921, the Tokaido Main Line between the Baba (currently Zeze) Station and the Kyoto Station was switched to the current line via the Higashiyama tunnel, and on the same day, the old Tokaido Main Line between the Kyoto Station and the Inari Station and a new line between the Inari Station and the Momoyama Station came to serve as the Nara Line, thereby abolishing the line between the Kyoto Station and the Fushimi Station and making the line between the Fushimi Station and the Momoyama Station a freight line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1921, the Tokaido Main Line between Baba (currently Zeze) Station and Kyoto Station was switched to the current line via the Higashiyama tunnel; and on the same day the old Tokaido Main Line between Kyoto Station and Inari Station and a new line between Inari Station and Momoyama Station came to serve as the Nara Line, whereby the line between Kyoto Station and Fushimi Station was abolished and the line between Fushimi Station and Momoyama Station was made a freight line.</e>
+<cmt>CLEANER</cmt>
+<e type="check" ver="1">In 1921, the Tokaido Main Line between Baba (currently Zeze) Station and Kyoto Station was switched to the current line via the Higashiyama tunnel; and on the same day the old Tokaido Main Line between Kyoto Station and Inari Station and a new line between Inari Station and Momoyama Station came to serve as the Nara Line, whereby the line between Kyoto Station and Fushimi Station was abolished and the line between Fushimi Station and Momoyama Station was made a freight line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="84">
+<j>のちに京都～伏見間の旧線跡地は近鉄京都線の前身である奈良電気鉄道に払い下げられる。</j>
+<e type="trans" ver="1">Later, the land after the line between the Kyoto Station and the Fushimi Station was sold to the Nara Electric Railway, a predecessor of the Kintetsu Kyoto Line.</e>
+<cmt>http://www.fundinguniverse.com/company-histories/KINKI-NIPPON-RAILWAY-COMPANY-LTD-Company-History.html</cmt>
+<e type="trans" ver="2">Later, the land after the line between the Kyoto Station and the Fushimi Station was sold to the Nara Electric Railway, a predecessor of the Kintetsu Kyoto Line.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Later, the land after the line between the Kyoto Station and the Fushimi Station was sold to the Nara Electric Railway, a predecessor of the Kintetsu Kyoto Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="16">
+<tit>
+<j>年表</j>
+<e type="trans" ver="1">Chronology</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chronology</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chronology</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="85">
+<j>1879年（明治12年）8月18日 - 官営鉄道（後の東海道本線）として京都～稲荷～大谷駅 (滋賀県)間が開業。</j>
+<e type="trans" ver="1">On August 18, 1879, the line between the Kyoto Station, the Inari Station, and the Otani Station (Shiga Prefecture) was opened as a governmental railway (later as the Tokaido Main Line).</e>
+<cmt></cmt>
+<e type="trans" ver="2">On August 18, 1879, the line between Kyoto Station, Inari Station and Otani Station (Shiga Prefecture) was opened as a governmental railway (later as the Tokaido Main Line).</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">August 18, 1879: The line between Kyoto Station, Inari Station and Otani Station (Shiga Prefecture) was opened as a governmental railway (later as the Tokaido Main Line).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="86">
+<j>稲荷駅開業。</j>
+<e type="trans" ver="1">The Inari Station was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Inari Station was opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Inari Station was opened.</e>
+<cmt>the削除</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="87">
+<j>1895年（明治28年）9月5日 - 奈良鉄道により京都～伏見間（3マイル23チェーン (単位)≒5.29km）が開業。</j>
+<e type="trans" ver="1">On September 5, 1895, the line between the Kyoto Station and the Fushimi Station (3 miles 23 chains ≃ 5.29 km) was opened by the Nara Railways.</e>
+<cmt>「≒」は「≃」としました（以下同じ）。</cmt>
+<e type="trans" ver="2">On September 5, 1895, the line between Kyoto Station and Fushimi Station (3 miles 23 chains ≃ 5.29 km) was opened by Nara Railways.</e>
+<cmt>PUNCTUATION, GRAMMAR</cmt>
+<e type="check" ver="1">September 5, 1895: The line between Kyoto Station and Fushimi Station (3 miles 23 chains ≒ 5.29 km) was opened by Nara Railways.</e>
+<cmt>&quot;=&quot;を&quot;≒&quot;に修正年表表記に統一</cmt>
+</sen>
+<sen id="88">
+<j>伏見駅開業。</j>
+<e type="trans" ver="1">The Fushimi Station was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fushimi Station was opened.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Fushimi Station was opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="89">
+<j>京都駅は官設鉄道と共用。</j>
+<e type="trans" ver="1">The Kyoto Station was shared with the governmental railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kyoto Station was shared with the governmental railway.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Station was shared with the governmental railway.</e>
+<cmt>the削除</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="90">
+<j>11月3日 - 伏見～桃山間（1M9C≒2.19km）が延伸開業。</j>
+<e type="trans" ver="1">On November 3, the line between the Fushimi Station and the Momoyama Station (1M9C ≃ 2.19 km) was extended and opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 3, the line between the Fushimi Station and the Momoyama Station (1M9C ≃ 2.19 km) was extended and opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">November 3: The line between Fushimi Station and Momoyama Station (1M9C ≒ 2.19 km) was extended and opened.</e>
+<cmt>年表表記に統一&quot;=&quot;を&quot;≒&quot;に修正</cmt>
+</sen>
+<sen id="91">
+<j>桃山駅開業。</j>
+<e type="trans" ver="1">The Momoyama Station was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Momoyama Station was opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Momoyama Station was opened.</e>
+<cmt>the削除</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="92">
+<j>1896年（明治29年）1月25日 - 桃山～玉水間（12M46C≒20.24km）が延伸開業。</j>
+<e type="trans" ver="1">On January 25, 1896, the line between the Momoyama Station and the Tamamizu Station (12M46C ≃ 20.24 km) was extended and opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On January 25, 1896, the line between Momoyama Station and Tamamizu Station (12M46C ≃ 20.24 km) was extended and opened.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">January 25, 1896: The line between Momoyama Station and Tamamizu Station (12M46C ≒ 20.24 km) was extended and opened.</e>
+<cmt>年表表記に統一&quot;=&quot;を&quot;≒&quot;に修正</cmt>
+</sen>
+<sen id="93">
+<j>木幡駅、宇治駅、新田駅、長池駅、玉水駅開業。</j>
+<e type="trans" ver="1">The Kohata Station, the Uji Station, the Shinden Station, the Nagaike Station, and the Tamamizu Station were opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kohata, Uji, Shinden, Nagaike and Tamamizu stations were opened.</e>
+<cmt>SIMPLER</cmt>
+<e type="check" ver="1">Kohata, Uji, Shinden, Nagaike and Tamamizu stations were opened.</e>
+<cmt>the削除</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="94">
+<j>3月13日 - 玉水～木津間（4M50C≒7.44km）が延伸開業。</j>
+<e type="trans" ver="1">On March 13, the line between the Tamamizu Station and the Kizu Station (4M50C ≃ 7.44 km) was extended and opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 13, the line between Tamamizu Station and Kizu Station (4M50C ≃ 7.44 km) was extended and opened.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">March 13: The line between Tamamizu Station and Kizu Station (4M50C ≒ 7.44 km) was extended and opened.</e>
+<cmt>&quot;=&quot;を&quot;≒&quot;に修正年表表記に統一</cmt>
+</sen>
+<sen id="95">
+<j>棚倉駅、木津駅開業。</j>
+<e type="trans" ver="1">The Tanakura Station and the Kizu Station were opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Tanakura and Kizu stations were opened.</e>
+<cmt>SIMPLER</cmt>
+<e type="check" ver="1">Tanakura and Kizu stations were opened.</e>
+<cmt>the削除</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="96">
+<j>4月18日 - 木津～奈良間が延伸開業し、京都～奈良間が全通。</j>
+<e type="trans" ver="1">On April 18, the line between the Kizu Station and the Nara Station was extended and opened, thereby connecting the Kyoto Station and the Nara Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 18, the line between Kizu Station and Nara Station was extended and opened, thereby connecting Kyoto Station and Nara Station.</e>
+<cmt>SIMPLER</cmt>
+<e type="check" ver="1">April 18: The line between Kizu Station and Nara Station was extended and opened, thereby connecting Kyoto Station and Nara Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="97">
+<j>4月21日 - 東寺臨時駅開業。</j>
+<e type="trans" ver="1">On April 21, the To-ji provisional train station was opened.</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">On April 21, the To-ji provisional train station was opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">April 21: To-ji provisional train station was opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="98">
+<j>1897年（明治30年）4月1日 - 奈良鉄道京都駅を七条駅に改称。</j>
+<e type="trans" ver="1">On April 1, 1897, the Nara Railways Kyoto Station was renamed Shichijo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1897 the Nara Railways Kyoto Station was renamed as Shichijo Station.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">April 1, 1897: The Nara Railways Kyoto Station was renamed as Shichijo Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="99">
+<j>1902年（明治35年）5月3日 - 上狛駅開業。</j>
+<e type="trans" ver="1">On May 3, 1902, the Kamikoma Station was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kamikoma Station was opened on May 3, 1902.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">May 3, 1902: Kamikoma Station was opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="100">
+<j>11月12日 - 営業距離の単位をマイル・チェーンからマイルのみに簡略化（21M48C→21.6M）。</j>
+<e type="trans" ver="1">On November 12, the operating distance was changed to be given simply by miles from miles and chains (e.g., from &quot;21M48C&quot; to &quot;21.6M&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 12, the operating distance was changed to be given simply by miles from miles and chains (e.g., from &quot;21M48C&quot; to &quot;21.6M&quot;).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">November 12: The operating distance was changed from miles and chains to miles (e.g., from 21M48C to 21.6M).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="101">
+<j>1905年（明治38年）2月7日 - 奈良鉄道が路線を関西鉄道に譲渡。</j>
+<e type="trans" ver="1">On February 7, 1905, the track was transferred from the Nara Railways to the Kansei Railway Company.</e>
+<cmt>http://www.rtri.or.jp/japanrail/History1_E.html</cmt>
+<e type="trans" ver="2">On February 7, 1905, the track was transferred from Nara Railways to the Kansei Railway Company.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">February 7, 1905: The track was transferred from Nara Railways to the Kansei Railway Company.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="102">
+<j>1907年（明治40年）10月1日 - 関西鉄道が鉄道国有法。</j>
+<e type="trans" ver="1">On October 1, 1907, the Kansei Railway Company was nationalized.</e>
+<cmt>「国有法」は「国有化」の誤記かと思われますので、「国有化」と訳しました。</cmt>
+<e type="trans" ver="2">On October 1, 1907, the Kansei Railway Company was nationalized.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">October 1, 1907: The Kansei Railway Company was nationalized.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="103">
+<j>1908年（明治41年）8月1日 - 七条駅を京都駅に統合。</j>
+<e type="trans" ver="1">On August 1, 1908, the Shichijo Station was merged into the Kyoto Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shichijo Station was merged into Kyoto Station on August 1, 1908.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">August 1, 1908: Shichijo Station was merged into Kyoto Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="104">
+<j>1909年（明治42年）10月12日 - 線路名称制定、木津～京都間を奈良線とする。</j>
+<e type="trans" ver="1">On October 12, 1909, the line names were given and the line between the Kizu Station and the Kyoto Station was named the Nara Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 12, 1909, the line names were given and the line between Kizu Station and Kyoto Station was called the Nara Line.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">October 12, 1909: The line names were given and the line between Kizu Station and Kyoto Station was called the Nara Line.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="105">
+<j>1910年（明治43年）12月19日 - 宇治～木幡間に宇治川信号所開設。</j>
+<e type="trans" ver="1">On December 19, 1910, the Ujigawa signal station was built for the line between the Uji Station and the Kohata Station.</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">On December 19, 1910, the Ujigawa signal station was built for the line between Uji Station and Kohata Station.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">December 19, 1910: The Ujigawa signal box was built for the line between Uji Station and Kohata Station.</e>
+<cmt>信号所 →signal box　信号場→signal station としました（http://www.isok.jp/cgi-bin/rl_termn.cgi?_si　参照）。年表表記に統一</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="106">
+<j>1913年（大正2年）6月20日 - 伏見～京都間に八条信号所開設。</j>
+<e type="trans" ver="1">On June 20, 1913, the Hachijo signal station was built for the line between the Fushimi Station and the Kyoto Station.</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">On June 20, 1913, the Hachijo signal station was built for the line between Fushimi Station and Kyoto Station.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">June 20, 1913: The Hachijo signal box was built for the line between Fushimi Station and Kyoto Station.</e>
+<cmt>信号所 →signal box年表表記に統一</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="107">
+<j>11月5日 - 宇治川信号所廃止。</j>
+<e type="trans" ver="1">On November 5, the Ujigawa signal station was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ujigawa signal station was abolished on November 5.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">November 5: The Ujigawa signal box was abolished.</e>
+<cmt>信号所 →signal box年表表記に統一</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="108">
+<j>1914年（大正2年）8月15日 - 八条信号所廃止。</j>
+<e type="trans" ver="1">On August 15, 1914, the Hachijo signal station was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Hachijo signal station was abolished on August 15, 1914.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">August 15, 1914: The Hachijo signal box was abolished.</e>
+<cmt>信号所 →signal box年表表記に統一</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="109">
+<j>1921年（大正10年）3月20日 - 宇治～木幡間に宇治川仮信号所開設。</j>
+<e type="trans" ver="1">On March 20, 1921, the Ujigawa temporary signal station was built for the line between the Uji Station and the Kohata Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 20, 1921, the Ujigawa temporary signal station was built for the line between Uji Station and Kohata Station.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">March 20, 1921: Ujigawa temporary signal box was built for the line between Uji Station and Kohata Station.</e>
+<cmt>信号所 →signal box年表表記に統一</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="110">
+<j>8月1日 - 奈良線の京都～伏見間（3.3M≒5.31km）廃止。</j>
+<e type="trans" ver="1">On August 1, the line between the Kyoto Station and the Fushimi Station (3.3M ≃ 5.31 km) on the Nara Line was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On August 1, the line between Kyoto Station and Fushimi Station (3.3M ≃ 5.31 km) on the Nara Line was abolished.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">August 1: The line between Kyoto Station and Fushimi Station (3.3M ≒ 5.31 km) on the Nara Line was abolished.</e>
+<cmt>&quot;=&quot;を&quot;≒&quot;に修正年表表記に統一</cmt>
+</sen>
+<sen id="111">
+<j>伏見～桃山間（1.1M≒1.77km）の旅客営業を廃止。</j>
+<e type="trans" ver="1">The passenger service was abolished between the Fushimi Station and the Momoyama Station （1.1M ≃ 1.77 km).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The passenger service was abolished between Fushimi Station and Momoyama Station (1.1M ≃ 1.77 km).</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The passenger service was abolished between Fushimi Station and Momoyama Station (1.1M ≒ 1.77 km).</e>
+<cmt>&quot;=&quot;を&quot;≒&quot;に修正</cmt>
+</sen>
+<sen id="112">
+<j>東海道本線の京都～稲荷間（1.8M≒2.90km）を奈良線に編入。</j>
+<e type="trans" ver="1">The Tokaido Main Line between the Kyoto Station and the Inari Station （1.8M ≃ 2.90 km） was incorporated into the Nara Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Tokaido Main Line between Kyoto Station and Inari Station (1.8M ≃ 2.90 km) was incorporated into the Nara Line.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">The Tokaido Main Line between Kyoto Station and Inari Station (1.8M ≒ 2.90 km) was incorporated into the Nara Line.</e>
+<cmt>&quot;=&quot;を&quot;≒&quot;に修正</cmt>
+</sen>
+<sen id="113">
+<j>稲荷～桃山間（2.6M≒4.18km）の新線開業。</j>
+<e type="trans" ver="1">The new line between the Inari Station and the Momoyama Station （2.6M ≃ 4.18 km） was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The new line between Inari Station and Momoyama Station（2.6M ≃ 4.18 km) was opened.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">The new line between Inari Station and Momoyama Station（2.6M ≒ 4.18 km) was opened.</e>
+<cmt>&quot;=&quot;を&quot;≒&quot;に修正</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="114">
+<j>1922年（大正11年）4月1日 - 宇治川仮信号所を宇治川仮信号場に変更。</j>
+<e type="trans" ver="1">On April 1, 1922, the Ujigawa temporary signal station (宇治川仮信号所) was changed to the Ujigawa temporary signal station (宇治川仮信号場).</e>
+<cmt>「仮信号所」と「仮信号場」の英訳は同じとなるため、原文を残しました。</cmt>
+<e type="trans" ver="2">On April 1, 1922 the Ujigawa temporary signal station (宇治川仮信号所) was changed to the Ujigawa temporary signal station (宇治川仮信号場).</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">April 1, 1922: The Ujigawa temporary signal box (宇治川仮信号所) was changed to the Ujigawa temporary signal station (宇治川仮信号場).</e>
+<cmt>信号所 →signal box　信号場→signal station としました（http://www.isok.jp/cgi-bin/rl_termn.cgi?_si　参照）。年表表記に統一</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="115">
+<j>1926年（大正15年）2月13日 - 青谷梅林仮停車場開業。</j>
+<e type="trans" ver="1">On February 13, 1926, the Aodani-Bairin temporary train station was opened.</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">The Aodani-Bairin temporary train station was opened on February 13, 1926.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">February 13, 1926: Aodani-Bairin temporary train station was opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="116">
+<j>4月1日 - 宇治川仮信号場廃止。</j>
+<e type="trans" ver="1">On April 1, the Ujigawa temporary signal station was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, the Ujigawa temporary signal station was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">April 1: The Ujigawa temporary signal station was abolished.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="117">
+<j>1928年（昭和3年）9月3日 - 貨物支線 桃山～伏見間が廃止。</j>
+<e type="trans" ver="1">On September 3, 1928, the freight branch line between the Momoyama Station and the Fushimi Station was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 3, 1928, the freight branch line between Momoyama Station and Fushimi Station was abolished.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">September 3, 1928: The freight branch line between Momoyama Station and Fushimi Station was abolished.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="118">
+<j>伏見駅廃止。</j>
+<e type="trans" ver="1">The Fushimi Station was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fushimi Station was abolished.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Fushimi Station was abolished.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="119">
+<j>1930年（昭和5年）4月1日 - 営業距離の単位をマイルからメートルに変更（21.6M→34.7km）。</j>
+<e type="trans" ver="1">On April 1, 1930, the operating distance was changed to be given by meters from miles (e.g., from &quot;21.6M&quot; to &quot;34.7 km&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1930, the operating distance was changed to be given in meters from miles (e.g., from &quot;21.6M&quot; to &quot;34.7 km&quot;).</e>
+<cmt>PREPOSITION</cmt>
+<e type="check" ver="1">April 1, 1930: The operating distance was changed to be given in meters from miles (e.g., from 21.6M to 34.7 km).</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="120">
+<j>1933年（昭和8年）12月1日 - 青谷梅林仮停車場を山城青谷駅に格上げ。</j>
+<e type="trans" ver="1">On December 1, 1933, the Aodani-Bairin temporary train station was upgraded to the Yamashiro-Aodani Station.</e>
+<cmt>定訳不明</cmt>
+<e type="trans" ver="2">The Aodani-Bairin temporary train station was upgraded to the Yamashiro-Aodani Station on December 1, 1933.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">December 1, 1933: Aodani-Bairin temporary train station was upgraded to Yamashiro-Aodani Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="27">
+<sen id="121">
+<j>1955年（昭和30年）7月15日 - 山城多賀駅開業。</j>
+<e type="trans" ver="1">On July 15, 1955, the Yamashiro-Taga Station was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Yamashiro-Taga Station was opened on July 15, 1955.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">July 15, 1955: Yamashiro-Taga Station was opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="28">
+<sen id="122">
+<j>1957年（昭和32年）12月27日 - 東福寺駅開業。</j>
+<e type="trans" ver="1">On December 27, 1957, the Tofuku-ji Station was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tofuku-ji Station was opened on December 27, 1957.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">December 27, 1957: Tofuku-ji Station was opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="29">
+<sen id="123">
+<j>1958年（昭和33年）7月11日 - 城陽駅開業。</j>
+<e type="trans" ver="1">On July 11, 1958, the Joyo Station was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Joyo Station was opened on July 11, 1958.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">July 11, 1958: Joyo Station was opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="30">
+<sen id="124">
+<j>1961年（昭和36年）4月21日 - 黄檗駅開業。</j>
+<e type="trans" ver="1">On April 21, 1961, the Obaku Station was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Obaku Station was opened on April 21, 1961.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">April 21, 1961: Obaku Station was opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="31">
+<sen id="125">
+<j>1982年（昭和57年）3月2日 - 列車集中制御装置使用開始。</j>
+<e type="trans" ver="1">On March 2, 1982, the Centralized Traffic Control was introduced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Centralized Traffic Control was introduced on March 2, 1982.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">March 2, 1982: Centralized Traffic Control was introduced.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="32">
+<sen id="126">
+<j>1984年（昭和59年）10月1日 - 京都～木津（～奈良）間が電化。</j>
+<e type="trans" ver="1">On October 1, 1984, the line between the Kyoto Station and the Kizu Station (to the Nara Station) was electrified.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line between the Kyoto Station and the Kizu Station (to the Nara Station) was electrified on October 1, 1984.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">October 1, 1984: The line between Kyoto Station and Kizu Station (to Nara Station) became electrified.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="127">
+<j>国鉄105系電車、国鉄113系電車による運転開始。</j>
+<e type="trans" ver="1">The JNR/JR Commuter Trains Series 105 and the JNR/JR Suburban Trains Series 113 began operating.</e>
+<cmt>http://www.uraken.net/rail/alltrain/uratetsu113.html</cmt>
+<e type="trans" ver="2">The JNR/JR Commuter Trains Series 105 and the JNR/JR Suburban Trains Series 113 began operating.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The JNR/JR Commuter Train Series 105 and the JNR/JR Suburban Train Series 113 began operating.</e>
+<cmt>trains seriesをtrain seriesに改良しました。</cmt>
+</sen>
+<sen id="128">
+<j>急行「紀ノ川」（京都～和歌山、奈良線・桜井線・和歌山線経由）廃止。</j>
+<e type="trans" ver="1">Limited Express &quot;Kinokawa&quot; (between the Kyoto Station and the Wakayama Station via the Nara Line, Sakurai Line, and the Wakayama Line) was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The limited express &quot;Kinokawa&quot; (between Kyoto Station and Wakayama Station via the Nara, Sakurai and Wakayama lines) was abolished.</e>
+<cmt>GRAMMAR, SIMPLICITY</cmt>
+<e type="check" ver="1">The limited express &apos;Kinokawa&apos; (between Kyoto Station and Wakayama Station via the Nara, Sakurai and Wakayama lines) was abolished.</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="33">
+<sen id="129">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により西日本旅客鉄道に承継。</j>
+<e type="trans" ver="1">On April 1, 1987, the Japanese National Railways was split and privatized as the JR Group including the West Japan Railway Company.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, 1987, the Japanese National Railways was split and privatized as the JR Group, including the West Japan Railway Company.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">April 1, 1987: The Japan National Railways was split up and privatized to form the JR Group, as a result of which the JR Nara Line became part of the West Japan Railway Company.</e>
+<cmt>To be honest I&apos;m not quite sure what is meant by &quot;including以下英訳しなおし&quot; (&quot;West Japan Railway Company&quot; seems fine to me) but I have tried to make the translation read more naturally.ここは「（JR奈良線は）西日本旅客鉄道に承継」ととらえるべきであり、そのニュアンスで訳出。年表表記に統一</cmt>
+</sen>
+<sen id="130">
+<j>日本貨物鉄道が全線で鉄道事業者となる。</j>
+<e type="trans" ver="1">The Japan Freight Railway Company became a Railway Business Operator for every line.</e>
+<cmt>日本貨物鉄道株式会社HP (www.jrfreight.co.jp/)</cmt>
+<e type="trans" ver="2">The Japan Freight Railway Company became a Railway Business Operator for every line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Japan Freight Railway Company became a railway business operator for every line.</e>
+<cmt>Railway Business Operatorを小文字に</cmt>
+</sen>
+</par>
+<par id="34">
+<sen id="131">
+<j>1991年（平成3年）3月16日 - 117系電車による快速列車を運転開始。</j>
+<e type="trans" ver="1">On March 16, 1991, the rapid train comprising the JNR/JR Suburban Trains Series 117 began operating.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 16, 1991 the rapid train comprising the JNR/JR Suburban Train Series 117 began operating.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">March 16, 1991: The rapid service comprising the JNR/JR Suburban Train Series 117 began operating.</e>
+<cmt>rapid service　としました。年表表記に統一</cmt>
+</sen>
+</par>
+<par id="35">
+<sen id="132">
+<j>1992年（平成4年）10月22日 - 六地蔵駅開業。</j>
+<e type="trans" ver="1">On October 22, 1992, the Rokujizo Station was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Rokujizo Station was opened on October 22, 1992.</e>
+<cmt>STRUCTURE</cmt>
+<e type="check" ver="1">October 22, 1992: Rokujizo Station was opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="133">
+<j>城陽駅が快速停車駅となる。</j>
+<e type="trans" ver="1">The rapid train began to stop at the Joyo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The rapid train began making stops at Joyo Station.</e>
+<cmt>READABILITY</cmt>
+<e type="check" ver="1">The rapid service began making stops at Joyo Station.</e>
+<cmt>rapid service　としました。</cmt>
+</sen>
+</par>
+<par id="36">
+<sen id="134">
+<j>1994年（平成6年）9月4日 -105系電車が撤退する。</j>
+<e type="trans" ver="1">On September 4, 1994, the JNR/JR Commuter Trains Series 105 were withdrawn.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 4, 1994, the JNR/JR Commuter Train Series 105 was withdrawn.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">September 4, 1994: The JNR/JR Commuter Train Series 105 was withdrawn.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="135">
+<j>（桜井線・和歌山線に運用を集中させる）</j>
+<e type="trans" ver="1">(The JNR/JR Commuter Trains Series 105 came to run solely on the Sakurai Line and the Wakayama Line.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(The JNR/JR Commuter Train Series 105 came to run only on the Sakurai and Wakayama lines.)</e>
+<cmt>SIMPLER</cmt>
+<e type="check" ver="1">(The JNR/JR Commuter Train Series 105 came to run only on the Sakurai and Wakayama lines.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="37">
+<sen id="136">
+<j>1997年（平成9年）3月8日 - JR藤森駅開業。</j>
+<e type="trans" ver="1">On March 8, 1997, the JR-Fujinomori Station was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The JR-Fujinomori Station was opened on March 8, 1997.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">March 8, 1997: JR-Fujinomori Station was opened.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="38">
+<sen id="137">
+<j>1999年（平成11年）5月10日 - 六地蔵駅が快速停車駅となる。</j>
+<e type="trans" ver="1">On May 10, 1999, the rapid train began to stop at the Rokujizo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On May 10, 1999 the rapid train began making stops at Rokujizo Station.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">May 10, 1999: The rapid service began making stops at Rokujizo Station.</e>
+<cmt>rapid service　としました。年表表記に統一</cmt>
+</sen>
+</par>
+<par id="39">
+<sen id="138">
+<j>2001年（平成13年）3月3日 - 京都～JR藤森間、宇治～新田間複線化。</j>
+<e type="trans" ver="1">On March 3, 2001, the lines between the Kyoto Station and the JR-Fujinomori Station and the Uji Station and the Shinden Station became a double track.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 3, 2001, the lines between Kyoto Station and JR-Fujinomori Station, Uji Station and Shinden Station became double-track.</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">March 3, 2001: The lines between Kyoto Station and JR-Fujinomori Station, Uji Station and Shinden Station became double-track.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+<sen id="139">
+<j>JR小倉駅開業。</j>
+<e type="trans" ver="1">The JR-Ogura Station was opened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The JR-Ogura Station was opened.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR-Ogura Station was opened.</e>
+<cmt>the削除</cmt>
+</sen>
+<sen id="140">
+<j>区間快速と221系電車による「みやこ路快速」運転開始。</j>
+<e type="trans" ver="1">The &quot;Miyakoji rapid train&quot; comprising the section rapid and the JR Suburban Trains Series 221 began operating.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The &quot;Miyakoji rapid train&quot; comprising the section rapid and the JR Suburban Trains Series 221 began operating.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The &apos;Miyakoji Rapid Service&apos; comprising the regional rapid service and the JR Suburban Train Series 221 began operating.</e>
+<cmt>区間快速の訳修正 括弧修正</cmt>
+</sen>
+</par>
+<par id="40">
+<sen id="141">
+<j>10月1日 - 東福寺駅が快速・区間快速停車駅となる。</j>
+<e type="trans" ver="1">On October 1, the rapid train and section rapid began to stop at the Tofuku-ji Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 1, the rapid train and rapid section began making stops at Tofuku-ji Station.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">October 1: The rapid service and regional rapid service began making stops at Tofuku-ji Station.</e>
+<cmt>区間快速の訳修正年表表記に統一</cmt>
+</sen>
+</par>
+<par id="41">
+<sen id="142">
+<j>2003年（平成15年）3月15日 - 東福寺駅と玉水駅がみやこ路快速停車駅、玉水駅が快速停車駅となる。</j>
+<e type="trans" ver="1">On March 15, 2003, the Miyakoji rapid train and the rapid train began to stop at the Tofuku-ji Station and the Tamamizu Station, and the Tamamizu Station, respectively.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On March 15, 2003 the Miyakoji rapid train and the rapid train began making stops at Tofuku-ji Station and Tamamizu Station, and at Tamamizu Station, respectively.</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">March 15, 2003: The Miyakoji Rapid Service and the rapid service began making stops at Tofuku-ji Station and Tamamizu Station, and at Tamamizu Station, respectively.</e>
+<cmt>Miyakoji Rapid Service, rapid serviceとしました。年表表記に統一</cmt>
+</sen>
+</par>
+<par id="42">
+<sen id="143">
+<j>4月1日 - 日本貨物鉄道の第二種鉄道事業廃止。</j>
+<e type="trans" ver="1">On April 1, the Japan Freight Railway Company went out of the Type II Railway Business.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 1, the Japan Freight Railway Company left the Type II railway business.</e>
+<cmt>USAGE, CAPS</cmt>
+<e type="check" ver="1">April 1: The Japan Freight Railway Company left the Type II railway business.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="43">
+<sen id="144">
+<j>2008年（平成20年）4月23日 - 山城青谷～木津間で自動列車停止装置導入。</j>
+<e type="trans" ver="1">On April 23, 2008, the ATS was introduced between the Yamashiro-Aodani Station and the Kizu Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 23, 2008 the ATS was introduced between Yamashiro-Aodani Station and Kizu Station.</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">April 23, 2008: The ATS was introduced between Yamashiro-Aodani Station and Kizu Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="44">
+<sen id="145">
+<j>4月27日 - 黄檗～山城青谷間でATS-P導入。</j>
+<e type="trans" ver="1">On April 27, the ATS-P was introduced between the Obaku Station and the Yamashiro-Aodani Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 27, the ATS-P was introduced between Obaku Station and Yamashiro-Aodani Station.</e>
+<cmt>UNNEEDED ARTICLES</cmt>
+<e type="check" ver="1">April 27: The ATS-P was introduced between Obaku Station and Yamashiro-Aodani Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+<par id="45">
+<sen id="146">
+<j>4月30日 - 京都～黄檗間でATS-P導入。</j>
+<e type="trans" ver="1">On April 30, the ATS-P was introduced between the Kyoto Station and the Obaku Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On April 30, the ATS-P was introduced between Kyoto Station and Obaku Station.</e>
+<cmt>ARTICLES</cmt>
+<e type="check" ver="1">April 30: The ATS-P was introduced between Kyoto Station and Obaku Station.</e>
+<cmt>年表表記に統一</cmt>
+</sen>
+</par>
+</sec>
+<sec id="17">
+<tit>
+<j>奈良線の将来</j>
+<e type="trans" ver="1">Prospects of the Nara Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Prospects for the Nara Line</e>
+<cmt>PREPOSITION</cmt>
+<e type="check" ver="1">Prospects for the Nara Line</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="18">
+<tit>
+<j>複線化について</j>
+<e type="trans" ver="1">Double track</e>
+<cmt></cmt>
+<e type="trans" ver="2">Double track</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Double track</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="147">
+<j>単線区間であるJR藤森駅～宇治駅間、新田駅～木津駅間は検討段階としては根強く残っているが、まだ具体的な見通しはたっていない。</j>
+<e type="trans" ver="1">The single track sections between JR-Fujinomori Station and the Uji Station and between the Shinden Station and the Kizu Station still remain under discussion, but no specific plan has been given.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The single-track sections between the JR-Fujinomori and Uji stations, and between the Shinden and Kizu stations, remain under discussion, but no specific plan has been given.</e>
+<cmt>CLEANER</cmt>
+<e type="check" ver="1">The single-track sections between JR-Fujinomori and Uji stations, and between Shinden and Kizu stations, remain under discussion, but no specific plan has been established.</e>
+<cmt>the削除</cmt>
+</sen>
+<sen id="148">
+<j>また、JR藤森駅～桃山駅間の国道24号線沿いや木幡駅～宇治駅間（黄檗駅付近）の京阪宇治線沿いは特に用地買収確保が難しい区間である。</j>
+<e type="trans" ver="1">Additionally, the acquisition of the lands along the National Highway 24 between the JR-Fujinomori Station and the Momoyama Station, and along the Keihan Uji Line between the Kohata Station and the Uji Station (near the Obaku Station) is particularly difficult.</e>
+<cmt>ジーニアス和英辞典、プログレッシブ和英中辞典</cmt>
+<e type="trans" ver="2">Additionally, the acquisition of land along National Highway 24 between the JR-Fujinomori Station and Momoyama Station, and along the Keihan Uji Line between Kohata Station and Uji Station (near Obaku Station) is particularly difficult.</e>
+<cmt>GRAMMAR, SIMPLER</cmt>
+<e type="check" ver="1">Moreover, the acquisition of land along National Route 24 between JR-Fujinomori Station and Momoyama Station, and along the Keihan Uji Line between Kohata Station and Uji Station (near Obaku Station) is particularly difficult.</e>
+<cmt>the削除 国道→National Route</cmt>
+</sen>
+<sen id="149">
+<j>予算も不足がちなため、最低でもこれ以上計画が進められるのは、嵯峨野線（山陰本線京都～園部間）が全線複線化開業する後である。</j>
+<e type="trans" ver="1">Due to a shortage of budget, no further plan will proceed before double-tracking of the entire Sagano Line (between the San&apos;in Main Line Kyoto Station and the Sonobe Station) is completed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Due to a shortage of budget, no further plan will proceed before the double-tracking of the entire Sagano Line (between the San&apos;in Main Line Kyoto Station and Sonobe Station) is completed.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Due to a shortage of budget, no further plan will proceed before the double-tracking of the entire Sagano Line (between the Sanin Main Line Kyoto Station and Sonobe Station) is completed.</e>
+<cmt>sanin　としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="19">
+<tit>
+<j>その他</j>
+<e type="trans" ver="1">Others</e>
+<cmt></cmt>
+<e type="trans" ver="2">Others</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Others</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="150">
+<j>近畿地方交通審議会で、将来、東海道本線（JR京都線）と直通運転する案が検討されている（大晦日の深夜から元日の早朝の終夜運転で実現していた時もあった）。</j>
+<e type="trans" ver="1">In the Council for Transportation in Kinki region, a plan for operating the Nara Line through to the Tokaido Main Line (the JR Kyoto Line) in the feature is under discussion (there was once an overnight service from the late-evening on December 31 to the early morning on January 1).</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the Council for Transportation in the Kinki region, a plan for operation of the Nara Line through to the Tokaido Main Line (JR Kyoto Line) in the future is under discussion (there was once an overnight service from the late evening of December 31 to the early morning of January 1).</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">At the Council for Transportation in the Kinki region, a plan for operation of the Nara Line through to the Tokaido Main Line (JR Kyoto Line) in the future is under discussion (there was once an overnight service from the late evening of December 31 to the early morning of January 1).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="151">
+<j>宇治市は黄檗駅～宇治駅間に新駅設置を構想している。</j>
+<e type="trans" ver="1">The Uji City is planning to build a new station between the Obaku Station and the Uji Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Uji City is planning to build a new station between Obaku Station and Uji Station.</e>
+<cmt>GRAMMAR, ARTICLES</cmt>
+<e type="check" ver="1">Uji City is planning to build a new station between Obaku Station and Uji Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="20">
+<tit>
+<j>駅一覧</j>
+<e type="trans" ver="1">List of stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">List of Stations</e>
+<cmt>CAP</cmt>
+<e type="check" ver="1">List of Stations</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="152">
+<j>中間駅は六地蔵駅・宇治駅 (JR西日本)以外に直営駅が存在しない。</j>
+<e type="trans" ver="1">There is no intermediate station under direct control except the Rokujizo Station and the Uji Station (JR West).</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is no intermediate station under direct control, except for Rokujizo Station and Uji Station (JR West).</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">There is no intermediate station under direct control, except for Rokujizo Station and Uji Station (JR West).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="21">
+<tit>
+<j>廃止区間</j>
+<e type="trans" ver="1">Abandoned sections</e>
+<cmt></cmt>
+<e type="trans" ver="2">Abandoned sections</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Abandoned sections</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="153">
+<j>括弧内は京都駅起点の営業キロ。</j>
+<e type="trans" ver="1">The operating kilometer on the basis of the Kyoto Station is parenthesized.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The distance of operation (in kilometers) from Kyoto Station is placed in parentheses.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The distance of operation (in kilometers) from Kyoto Station is placed in parentheses.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="154">
+<j>京都駅 (0.00km) - 八条仮信号所 (0.80km) - 東寺仮停車場 (1.13km) - 伏見駅 (5.31km) - 桃山駅 (7.08km)</j>
+<e type="trans" ver="1">Kyoto Station (0.00 km) - Hachijo temporary signal station (0.80 km) - To-ji temporary train station (1.13 km) - Fushimi Station (5.31 km) - Momoyama Station (7.08 km)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Station (0.00 km) - Hachijo temporary signal station (0.80 km) - To-ji temporary train station (1.13 km) - Fushimi Station (5.31 km) - Momoyama Station (7.08 km)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Station (0.00 km) - Hachijo temporary signal box (0.80 km) - To-ji temporary depot (1.13 km) - Fushimi Station (5.31 km) - Momoyama Station (7.08 km)</e>
+<cmt>「仮停車場」の訳を修正。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="22">
+<tit>
+<j>廃止信号場</j>
+<e type="trans" ver="1">Abandoned signal station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Abandoned signal station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Abandoned signal station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="155">
+<j>括弧内は京都駅起点の営業キロ。</j>
+<e type="trans" ver="1">The operating kilometer on the basis of the Kyoto Station is parenthesized.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The distance of operation (in kilometers) from Kyoto Station are placed in parentheses.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The distance of operation (in kilometers) from Kyoto Station are placed in parentheses.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="156">
+<j>宇治川仮信号場 - 黄檗～宇治間（約13.8km）</j>
+<e type="trans" ver="1">Ujigawa temporary signal station - from Obaku Station to Uji Station （about 13.8 km）</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ujigawa temporary signal station - from Obaku Station to Uji Station (approximately 13.8 km）</e>
+<cmt>PUNCTUATION, USAGE</cmt>
+<e type="check" ver="1">Ujigawa temporary signal station - from Obaku Station to Uji Station (approximately 13.8 km）</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), Excl-zoo(id:47086), 二八(id:10408), Maxima m(id:28947), ２２３系８０００番台(id:82336), 暇・カキコ(id:65563), KARS(id:43022), Tigers boy(id:15761), ShikiH(id:181574), Thmkr(id:102001), Gonorego2004(id:30859), Mop(id:12061), 蓮田駅(id:47050), Gombe(id:27), 継之助(id:39352), Goki(id:7107), 鐵道(id:150364), 秀の介(id:490), Kone(id:377), 5816K(id:102574), Hirotaro(id:1437), Sprinkler(id:14399), 庄田昌弘(id:67925), 目蒲東急之介(id:34741), Alive(id:88260), Kuha(id:7282), W0746203-1(id:143726), Tigers0022(id:59186), Tam0031(id:165560), Makiharashouten(id:1021), Sat.K(id:3751), Kagoya(id:9458), Mover(id:7146), 鈴原みさきち(id:168059), W0746203(id:137915), Utsuda(id:605), Shinkansen(id:13703), Rusk(id:9895), 炎刃王(id:42651), Rislimric(id:54531), Unamu(id:14627), 本屋(id:125948), W074(id:82141), Oosakasi(id:198604), みっくる(id:108144), CC(id:4162), 三菱善次郎(id:21924), Mutumi06(id:82739), Mipu(id:5360), ジャスト宣言(id:33592), 210.(id:9838), おきたさん(id:214700), Suisui(id:69), まるこめ(id:70207), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

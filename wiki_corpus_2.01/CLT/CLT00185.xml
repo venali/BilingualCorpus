@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>退位</j>
+<e type="trans" ver="1">Abdication of the throne</e>
+<cmt></cmt>
+<e type="trans" ver="2">Abdication of the throne</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Abdication of the throne</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>退位（たいい）とは、天皇や国王といった世襲の君主がその地位を退く事。</j>
+<e type="trans" ver="1">Abdication of the throne implies resignation by a hereditary monarch such as an emperor or a king from his or her position.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Abdication of the throne implies resignation by a monarch such as an emperor or a king from his or her position.</e>
+<cmt>Deleted &quot;herreditary&quot;</cmt>
+<e type="check" ver="1">Abdication of the throne implies resignation by a monarch such as an emperor or a king from his or her position.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>また、革命などによって君主制が廃止されない限りは、自動的に継承者に譲り渡す事になる。</j>
+<e type="trans" ver="1">Also, unless monarchy is abolished, for example, by a revolution, the position is automatically passed on to the successor.</e>
+<cmt>「後継者に譲り渡す」は「後継者に地位を譲り渡す」として訳しました。</cmt>
+<e type="trans" ver="2">Also, unless the monarchy is abolished, for example by a revolution, the position is automatically passed on to the successor.</e>
+<cmt>ArticlePunctuation</cmt>
+<e type="check" ver="1">Also, unless the monarchy is abolished, for example by a revolution, the position is automatically passed on to the successor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>退位に伴う君主の地位の変動を「譲位（じょうい）」・「遜位（そんい）」という。</j>
+<e type="trans" ver="1">Transferring of a monarch&apos;s position that accompanies abdication of the throne is called &apos;abdication.&apos;</e>
+<cmt>退位と譲位の両方が abdication なので不自然な訳文になってまいす。</cmt>
+<e type="trans" ver="2">Even if the monarch is given another rank, for example in the nobility, it is still abdication.</e>
+<cmt>As the translator said, this sentence doesn&apos;t really work in English without using the Japanese terms so changed it slightly</cmt>
+<e type="check" ver="1">Transferring of a monarch&apos;s position that accompanies abdication of the throne is called &apos;abdication.&apos;</e>
+<cmt>チェッカーのところで訳文が原文と離れてしまいました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>日本</j>
+<e type="trans" ver="1">Japan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Japan</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Japan</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>日本では皇極天皇が弟の孝徳天皇に皇位を譲った例を最古とし、89例（※）の退位が存在する（なお、後小松天皇は南北朝合一によって2度譲位を受けている）。</j>
+<e type="trans" ver="1">In Japan, the oldest example is that of Emperor Kogyoku handing down the Imperial Throne to his younger brother, Emperor Kotoku, and there exist 89 examples (*) of abdication of the throne (because of the unification of the Southern and Northern Dynasties the throne was passed down to Emperor Gokomatsu twice).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Japan, the oldest example is that of Emperor Kogyoku handing down the Imperial Throne to his younger brother, Emperor Kotoku, and there exist 89 examples (*) of abdication (because of the unification of the Southern and Northern Dynasties the throne was passed down to Emperor Gokomatsu twice).</e>
+<cmt>Deleted &quot;of the throne&quot; - unnecessary</cmt>
+<e type="check" ver="1">In Japan, the oldest example is that of the Emperor Kogyoku handing down the Imperial Throne to his younger brother, the Emperor Kotoku, and there exist 89 examples (*) of abdication (because of the unification of the Southern and Northern Courts the throne was passed down to the Emperor Gokomatsu twice).</e>
+<cmt>Dynasties→Courts &quot;the&quot; を追加しました。</cmt>
+</sen>
+<sen id="5">
+<j>退位した天皇は太上天皇（上皇）と呼ばれる。</j>
+<e type="trans" ver="1">The emperor who abdicated his throne is called Daijo Tenno (Joko, Retired Emperor).</e>
+<cmt></cmt>
+<e type="trans" ver="2">An emperor who abdicated was called Daijo Tenno (Joko, Retired Emperor).</e>
+<cmt>ArticleGrammarDeleted &quot;his throne&quot;</cmt>
+<e type="check" ver="1">An emperor who abdicated was called Daijo Tenno (Joko, Retired Emperor).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>※…北朝_(日本)3例を含む一方で事実上の廃位である淳仁天皇・仲恭天皇、北朝の光厳天皇・崇光天皇の4例は省く。</j>
+<e type="trans" ver="1">* While 3 examples from the Northern Dynasty (Japan) are included, the 4 examples of Emperor Junnin, Emperor Chukyo, and Emperor Kogon and Emperor Suko of the Northern Dynasty, which effectively were dethronement, are excluded.</e>
+<cmt></cmt>
+<e type="trans" ver="2">* While 3 examples from the Northern Dynasty (Japan) are included, the 4 examples of Emperor Junnin, Emperor Chukyo, and Emperor Kogon and Emperor Suko of the Northern Dynasty, which effectively were dethronement, are excluded.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">* While 3 examples from the Northern Court (Japan) are included, the 4 examples of the Emperor Junnin, the Emperor Chukyo, and the Emperor Kogon and the Emperor Suko of the Northern Court, which effectively were dethronement, are excluded.</e>
+<cmt>Dynasty→Court &quot;the&quot; を追加しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>平安時代以後の慣例として、退位する天皇が譲位の宣命を宣布する儀式とその後に行われる継承者（新帝）への剣璽を引き渡す儀式（剣璽渡御の儀）の2つを中心として儀式体系が組まれてきた。</j>
+<e type="trans" ver="1">As a custom after the Heian Period, a system of ceremonies developed centering around two rituals, the ceremony in which the emperor, who is abdicating his throne, proclaims the imperial edict of abdication, followed by the ceremony in which Kenji (the Sacred Sword and the Sacred Jewel) is passed down to the successor (the new emperor) (ceremony to transfer Kenji).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Following the Heian Period, a system of ceremonies centered on two rituals, one in which the abdicating emperor issued an edict proclaming his abdication, and the other in which the Kenji (the Sacred Sword and the Sacred Jewel) were passed down to the successor (the new emperor) became customary.</e>
+<cmt>Revised to make less wordyGrammarDeleted final brackets - seems unnecessary</cmt>
+<e type="check" ver="1">Following the Heian Period, a system of ceremonies centered on two rituals, one in which the abdicating emperor issued an edict proclaming his abdication, and the other in which the Kenji (the Sacred Sword and the Sacred Jewel) were passed down to the successor (the new emperor) became customary.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>明治時代に制定された皇室典範において皇位継承は天皇の崩御（死亡）を前提としているため、現行法では生前退位は出来ないと解釈されている（明治の皇室典範制定時に皇位継承を崩御時に限定したのは、天皇と政府が対立した時に天皇が退位をもって政府を圧迫するのを防ぐ意図もあったとされている。また、第二次世界大戦後に昭和天皇が退位を検討したとも言われているが、内外の反対で立ち消えとなった）。</j>
+<e type="trans" ver="1">According to the Imperial House Act established during the Meiji Period, succession to the Imperial Throne presumes the death of the Emperor, and therefore, it is interpreted under the existing law that abdication of the throne is not possible while an emperor is still alive (it is said, when the Imperial House Act was established, that the reason for limiting succession to the Imperial Throne to the occasion of Emperor&apos;s death was because there was an intention to prevent the Emperor from abdicating his throne and thereby pressuring the government in case there was a confrontation between the Emperor and the government. Also, after World War II, it is said that Emperor Showa considered abdicating his throne, but because of oppositions within and from the outside this issue faded away).</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the Imperial House Act established during the Meiji Period, succession to the Imperial Throne presumes the death of the Emperor, and therefore, it is interpreted that, under the existing law, abdication is not possible while an emperor is still alive (it is said that, when the Imperial House Act was established, the reason for this limit was to prevent the Emperor from abdicating and thereby pressuring the government if there was a confrontation between the Emperor and the government. Also, it is said that Emperor Showa considered abdicating after World War II, but because of opposition from all sides this issue faded away).</e>
+<cmt>Revised to make less wordy</cmt>
+<e type="check" ver="1">According to the Imperial House Act established during the Meiji Period, succession to the Imperial Throne presumes the death of the Emperor, and therefore, it is interpreted that, under the existing law, abdication is not possible while an emperor is still alive (it is said that, when the Imperial House Act was established, the reason for this limit was to prevent the Emperor from abdicating and thereby pressuring the government if there was a confrontation between the Emperor and the government. Also, it is said that Emperor Showa considered abdicating after World War II, but because of opposition from all sides this issue faded away).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="9">
+<j>これについて、先例の存在や天皇の自由意思を尊重するべきであることを理由として生前の退位を容認すべきとの意見もあるが、退位後の天皇の処遇（財政的、政治的位置付けの問題。特に後者は院政の問題）や皇位継承の複雑化及び後継者の不足による皇統断絶の可能性などの点から反対の意見が強い。</j>
+<e type="trans" ver="1">Regarding this, on the basis of respect for the Emperor&apos;s free will as well as the existence of former examples, there are views that say that abdication of the throne before death should be allowed, but there are strong opposing views because of the issues of how the Emperor should be treated after his abdication (financial matter and issues on his position in the political administration. The latter, in particular, is a problem of political administration by the retired emperor), complications in the succession to the Imperial Throne, and the possibility of the extinction of the Imperial Line due to a lack of successor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are views that say abdication before death should be allowed, based on respect for the Emperor&apos;s free will and the existence of former examples, but there are strong opposing views because of the issues of how the Emperor should be treated after his abdication (financial matters and issues on his position in the political administration. The latter, in particular, is a problem of political administration by the retired emperor), complications in the succession to the Imperial Throne, and the possibility of the extinction of the Imperial Line due to the lack of a successor.</e>
+<cmt>Revised to make less wordy</cmt>
+<e type="check" ver="1">There are views that say abdication before death should be allowed, based on respect for the Emperor&apos;s free will and the existence of former examples, but there are strong opposing views because of the issues of how the Emperor should be treated after his abdication (financial matters and issues on his position in the political administration. The latter, in particular, is a problem of political administration by the retired emperor), complications in the succession to the Imperial Throne, and the possibility of the extinction of the Imperial Line due to the lack of a successor.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="10">
+<j>イギリス</j>
+<e type="trans" ver="1">England</e>
+<cmt></cmt>
+<e type="trans" ver="2">United Kingdom</e>
+<cmt>The section is more about the UK than just England</cmt>
+<e type="check" ver="1">United Kingdom</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="11">
+<j>ウィンザー朝の国王で退位したのはエドワード8世 (イギリス王)のみである。</j>
+<e type="trans" ver="1">Edward VIII (King of England) was the only king from the Windsor Dynasty who abdicated his throne.</e>
+<cmt></cmt>
+<e type="trans" ver="2">King Edward VIII is the only king from the House of Windsor to have abdicated.</e>
+<cmt>GrammarThe original sentence is a bit strange - there have only been three kings, including Edward VIII, from the House of Windsor.</cmt>
+<e type="check" ver="1">King Edward VIII is the only king from the House of Windsor to have abdicated.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>1936年、離婚経験がある女性と結婚するために即位後1年を待たず退位した。</j>
+<e type="trans" ver="1">In order to marry a woman who was divorced he abdicated his throne in 1936, less than a year after he ascended the throne.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In order to marry a divorcee, he abdicated in 1936, less than a year after he ascended the throne.</e>
+<cmt>&quot;woman who was divorced&quot;→&quot;a divorcee&quot;Deleted &quot;his throne&quot;</cmt>
+<e type="check" ver="1">In order to marry a divorcee, he abdicated in 1936, less than a year after he ascended the throne.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>王冠を捨てた恋として有名である。</j>
+<e type="trans" ver="1">It is well-known as love over his crown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is well-known as love over his crown.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is well-known as love over his crown.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>退位後の処遇</j>
+<e type="trans" ver="1">Treatment after abdication</e>
+<cmt></cmt>
+<e type="trans" ver="2">Treatment after abdication</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Treatment after abdication</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="14">
+<j>退位が比較的平穏裡に行われた場合、退位した元君主やその親族は、旧来と同等の礼遇を以て接することが約されることが多い。</j>
+<e type="trans" ver="1">In cases where abdication of the throne is accomplished relatively peacefully, the former monarch who abdicated his throne and his family members are often guaranteed treatment with the same degree of honor as before.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In cases where abdication is accomplished relatively peacefully, the former monarch and his family members are often guaranteed treatment with the same degree of honor as before.</e>
+<cmt>Revised to make less wordy</cmt>
+<e type="check" ver="1">In cases where abdication is accomplished relatively peacefully, the former monarch and his family members are often guaranteed treatment with the same degree of honor as before.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="15">
+<j>韓国併合ニ関スル条約（1910年） 韓国皇帝及び韓国皇族に相当な尊称、威厳及び名誉を享有させること等が約され、s前韓國皇帝ヲ册シテ王ト爲シ皇太子及將來ノ世嗣、太皇帝及各其儷匹ノ稱呼ヲ定メ竝ニ禮遇ノ件により、前韓国皇帝に対して「王」の身分が与えられる等した（王公族制度）。</j>
+<e type="trans" ver="1">The Japan-Korea Annexation Treaty (1910) guaranteed that the emperor of Korea and the imperial family of Korea were entitled to suitable honorific title, authority and honor, and in accordance with the Act, that acknowledges the former Emperor of Korea as a king, establishing title for each prince, future successor, and the empress, and treating them with courteous reception, the status of &apos;king&apos; was granted to the former emperor of Korea (system of Okozoku (social position given to imperial family of former Korea)).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Japan-Korea Annexation Treaty (1910) The Emperor of Korea and the imperial family were entitled to suitable honorific titles, authority and honor, and in accordance with the Act, which acknowledges the former Emperor of Korea as King, establishes titles for each prince, future successor, and the empress, and treats them with courteous reception, the status of &apos;king&apos; was granted to the former emperor of Korea, a system known in Japanese as Okozoku.</e>
+<cmt>Revised to make less wordy</cmt>
+<e type="check" ver="1">The Japan-Korea Annexation Treaty (1910): The Emperor of Korea and the imperial family were entitled to suitable honorific titles, authority and honor, and in accordance with the Act, which acknowledges the former Emperor of Korea as King, establishes titles for each prince, future successor, and the empress, and treats them with courteous reception, the status of &apos;king&apos; was granted to the former emperor of Korea, a system known in Japanese as Okozoku.</e>
+<cmt>オリジナルで確認したところ、始めのクローズは見出しなので、コロンを付けました。</cmt>
+</sen>
+<sen id="16">
+<j>皇族を除く貴族制度を否定した日本国憲法施行により1947年に身位喪失。</j>
+<e type="trans" ver="1">This status was lost in 1947 because of effectuation of the Constitution of Japan that denies aristocracy system except for the Imperial Family.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This status was lost in 1947 when the Constitution of Japan, which abolished the aristocracy except for the Imperial Family, came into effect.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This status was lost in 1947 when the Constitution of Japan, which abolished the aristocracy except for the Imperial Family, came into effect.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="17">
+<j>清室優待条件（1912年） 「大清皇帝」の尊号を受け、外国君主と同等の待遇を受けることとなった。</j>
+<e type="trans" ver="1">Shinshitsu yutai joken (the agreement about treatment of the last emperor of Qing after his abdication) (1912) He received the honorific title of &apos;Emperor Daishin&apos; and he received the same treatment as monarchs of foreign countries.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Conditions for the favorable treatment of the Emperor of the Qing (Shinshitsu yutai joken) (1912) After his abdication, the last emperor of China was given the honorific title &apos;Emperor Daishin&apos; and received the same treatment as monarchs of foreign countries.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Conditions for the favorable treatment of the Emperor of the Qing (Shinshitsu yutai joken) (1912): After his abdication, the last emperor of China was given the honorific title &apos;Emperor Daishin&apos; and received the same treatment as monarchs of foreign countries.</e>
+<cmt>ここも始めのクローズの後にコロンを入れました。</cmt>
+</sen>
+<sen id="18">
+<j>後に反故にされた。</j>
+<e type="trans" ver="1">It was later annulled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was later annulled.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was later annulled.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="19">
+<j>エドワード8世 (イギリス王)の退位（1936年） 「グレートブリテンおよび北アイルランド連合王国ならびに海外自治領の国王、インド皇帝」を自発的に退位した。</j>
+<e type="trans" ver="1">Abdication of the throne by Edward VIII (King of England) (1936) He voluntarily abdicated his throne as &apos;King of Great Britain and Northern Ireland as well as the dominions overseas, and Emperor of India.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Abdication of the throne by Edward VIII (King of England) (1936) He voluntarily abdicated as &apos;King of Great Britain, Ireland and the British Dominions beyond the Seas, Emperor of India.&apos;</e>
+<cmt>Revised title - In 1936, the monarch was still King of Ireland, not just Northern Ireland.</cmt>
+<e type="check" ver="1">Abdication of the throne by Edward VIII (King of England) (1936): He voluntarily abdicated as &apos;King of Great Britain, Northern Ireland and the British Dominions beyond the Seas, Emperor of India.&apos;</e>
+<cmt>ここも始めのクローズの後にコロンを入れました。原文に忠実にするため、「北アイルランド」に戻しました。</cmt>
+</sen>
+<sen id="20">
+<j>退位後は、エドワード8世 (イギリス王)の爵位を受けた。</j>
+<e type="trans" ver="1">After his abdication he was conferred the dignity of peerage as Edward VIII.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After his abdication he was made a royal duke.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">After his abdication he was conferred the dignity of peerage as Edward VIII.</e>
+<cmt>原文に忠実にするため修正しています。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Umebo(id:82785), 経済準学士(id:22656), Kawai(id:5634), 0null0(id:582), 水野白楓(id:22811), Kanoe(id:17203), Aibot(id:104981), 竹麦魚(id:11012), BOT-Superzerocool(id:65015), Escarbot(id:59151), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

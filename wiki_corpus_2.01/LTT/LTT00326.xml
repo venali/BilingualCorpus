@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>しのびね</j>
+<e type="trans" ver="1">The Tale of Shinobine</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Tale of Shinobine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Tale of Shinobine</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>しのびねは、平安時代末期に成立しその後散逸した王朝物語、ないしは南北朝時代 (日本)に成立した前者の改作本をいう。</j>
+<e type="trans" ver="1">The Tale of Shinobine is a courtly romance which was completed at the end of the Heian period and was subsequently lost. It also refers to a revised version of the story produced during the period of the Southern and Northern Courts (in Japan).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Tale of Shinobine is a courtly romance which was completed at the end of the Heian period and was subsequently lost. It is an adaptation of a story produced during the period of Southern and Northern Courts (in Japan).</e>
+<cmt>&quot;refers to a revised version&quot;→&quot;is an adaptation&quot;; eliminated &quot;also&quot; as it felt unecessary</cmt>
+<e type="check" ver="1">The Tale of Shinobine refers to a courtly romance which was completed at the end of the Heian period and was subsequently lost, or to an adaptation of a story produced during the period of Southern and Northern Courts (Japan).</e>
+<cmt>refers to として、一文にしました。</cmt>
+</sen>
+<sen id="2">
+<j>典型的な悲恋遁世譚とされる。</j>
+<e type="trans" ver="1">It is apparently a typical tragic love story where the hero becomes a monk and the heroine either dies or makes her way at court.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a typical tragic love story where the hero becomes a monk and the heroine either dies or makes her way into the court.</e>
+<cmt>fixed grammar read more naturally</cmt>
+<e type="check" ver="1">It is a typical tragic love story where the hero becomes a monk and the heroine either dies or makes her way into the court.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>「しのびね」は悲恋に「しのび泣く」姫君を表すと考えられている。</j>
+<e type="trans" ver="1">&apos;Shinobine&apos; is taken to represent the heroin &apos;silently weeping&apos; for her painful love.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The title, &quot;Shinobine,&quot; represents the heroin &quot;silently weeping&quot; from her painful love.</e>
+<cmt>added commas; fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">The title, &apos;Shinobine,&apos; represents the heroin &apos;silently weeping&apos; from her painful love.</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>あらすじ</j>
+<e type="trans" ver="1">Plot summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Plot Summary</e>
+<cmt>capitalized &quot;Summary&quot; for the section</cmt>
+<e type="check" ver="1">Plot summary</e>
+<cmt>小タイトルのため、小文字にしました。</cmt>
+</tit>
+<sen id="4">
+<j>中納言は美貌の姫君と恋に落ちる。</j>
+<e type="trans" ver="1">The Chunagon (Middle Counsellor) falls in love with a beautiful princess.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The Chunagon (Middle Counsellor) falls in love with a beautiful princess.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Chunagon (vice-councilor of state) falls in love with a beautiful princess.</e>
+<cmt>中納言→Chunagon (vice-councilor of state)　としました。</cmt>
+</sen>
+<sen id="5">
+<j>だが父に恋を反対された中納言は父の決めた相手と結婚し、姫君と別れる。</j>
+<e type="trans" ver="1">Met with his father&apos;s opposition, he marries the woman whom the father has selected for him and leaves the princess.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Met with his father&apos;s opposition, he marries the woman whom the father has selected for him and leaves the princess.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Met with his father&apos;s opposition, he marries the woman whom the father has selected for him and leaves the princess.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>姫君は母の縁によって宮中の某所に移り住んだが、そうした姿を帝に見いだされる。</j>
+<e type="trans" ver="1">The princess moves to a certain place within the court through her mother&apos;s connection. She is then recognized by the emperor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With the aid of her mother, the princess moves to a certain place within the imperial court and is recognized by the emperor.</e>
+<cmt>宮中: court→imperial court; fixed grammar to read as one sentence</cmt>
+<e type="check" ver="1">With the aid of her mother, the princess moves to a certain place within the imperial court and is recognized by the emperor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>それでも姫君は中納言（中将）のことを忘れられなかったが、偶然の機会に中将と姫君は宮中で再開した。</j>
+<e type="trans" ver="1">This does not make her forget the Chunagon (Chujo) however. The lovers happen to see each other again at the court.</e>
+<cmt>「再開」は「再会」と解釈しました。</cmt>
+<e type="trans" ver="2">Even so, the princess does not forget about the Chunagon (Chujo), and the lovers meet again coincidentally at the court.</e>
+<cmt>added &quot;Even so&quot; for ”それでも”; &quot;happen to meet&quot;→&quot;meet again coincidentally&quot;</cmt>
+<e type="check" ver="1">Even so, the princess does not forget about the Chunagon (Chujo), and the lovers meet again coincidentally at the court.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>しかし姫君は中将を拒否し、中将は出家する。</j>
+<e type="trans" ver="1">Yet the princess does not accept the Chujo, who then becomes a monk.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The princess, however, rejects the Chujo, who then becomes a monk.</e>
+<cmt>changed &quot;Yet&quot; to &quot;however&quot;; 拒否する: does not accept→reject</cmt>
+<e type="check" ver="1">The princess, however, rejects the Chujo, who then becomes a monk.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>姫君は帝の寵愛を受けて中宮に上りつめる。</j>
+<e type="trans" ver="1">She finds favor in the eye of the emperor and becomes Chugu (the empress).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The princess find favor in the eye of the emperor and becomes the Chugu (the empress).</e>
+<cmt>added &quot;the&quot; before &quot;Chugu&quot;</cmt>
+<e type="check" ver="1">The princess find favor in the eye of the emperor and becomes the Chugu (the empress).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>かつて中将と姫君との間に生まれた子はその後中将と再会する。</j>
+<e type="trans" ver="1">And the child born between the Chujo and the princess is later reunited with the father.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thereafter, the child born between the Chujo and the princess is reunited with the father.</e>
+<cmt>fixed sentence to not start with &quot;And&quot;; fixed grammar</cmt>
+<e type="check" ver="1">Thereafter, the child born between the Chujo and the princess is reunited with the father.</e>
+<cmt>修正なし</cmt>
+</sen>
+</sec>
+<copyright>copyright (c) 2010 Shimoxx(id:9332), 頭痛(id:201680), R28Bot(id:177951), 樒(id:35770), 捕澤(id:23785), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>青標紙</j>
+<e type="trans" ver="1">Aobyoshi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Aobyoshi (book on the customs and manners of samurai)</e>
+<cmt>説明を追記しました。</cmt>
+<e type="check" ver="1">Aobyoshi (book on the customs and manners of samurai)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>青標紙（あおびょうし）とは、江戸時代後期の幕臣・国学者の大野広城（権之丞・忍軒）が著した武家故実書。</j>
+<e type="trans" ver="1">Aobyoshi is a book on the customs and manners of samurai, written by Hiroki Ono (also called Gonnojo or Ninken), a shogun&apos;s retainer and a scholar of Japanese classical literature in the late Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Aobyoshi is a book on the customs and manners of samurai, written by Hiroki ONO (also called Gonnojo or Ninken), a shogun&apos;s retainer and a scholar of Japanese classical literature in the late Edo period.</e>
+<cmt>&quot;Ono&quot;を大文字に修正しました。</cmt>
+<e type="check" ver="1">Aobyoshi is a book on the customs and manners of samurai, written by Hiroki ONO (also called Gonnojo or Ninken), a shogun&apos;s retainer and a scholar of Japanese classical literature in the late Edo period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>全2巻で、前編は天保10年（1839年）に成稿され翌年出版。</j>
+<e type="trans" ver="1">The book consisted of two volumes, and the first volume of them was published in 1840 after the manuscript was completed in 1839.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The book consists of two volumes, and the first volume was published in 1840 after the manuscript was completed in 1839.</e>
+<cmt>&quot;the first volume of them&quot;→themはbookを指すのでitにすべきですが、ここでは不必要だと思います。</cmt>
+<e type="check" ver="1">The book consists of two volumes, and the first volume was published in 1840 after the manuscript was completed in 1839.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>後編は天保11年（1840年）に成稿されて翌年出版。</j>
+<e type="trans" ver="1">The second volume of them was published in 1841 after the manuscript was completed in 1840.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The second volume was published in 1841 after the manuscript was completed in 1840.</e>
+<cmt>&quot;the second volume of them&quot;→themはbookを指すのでitにすべきですが、ここでは不必要だと思います。</cmt>
+<e type="check" ver="1">The second volume was published in 1841 after the manuscript was completed in 1840.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>江戸幕府に仕える武士に必要な知識である武家故実についてを編集して懐中用の小型折本としたもの。</j>
+<e type="trans" ver="1">This was a small-sized folded book to be placed in a pocket in which the customs and manners necessary for the samurai serving the Edo bakufu were compiled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was a small-sized folded book to be placed in a pocket, in which the customs and manners necessary for the samurai serving the Edo bakufu (Japanese feudal government headed by a shogun) were compiled.</e>
+<cmt>&quot;which&quot;は前の句全体を先行詞としているため、非制限用法で直前にコンマが必要。「幕府」の説明を用語統一リストに従って挿入しました。</cmt>
+<e type="check" ver="1">This was a small-sized folded book to be placed in a pocket, in which the customs and manners necessary for the samurai serving the Edo bakufu (Japanese feudal government headed by a shogun) were compiled.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>武家諸法度・御定書・軍令・軍役・勤番・武具・行列・関所通行・服制・鷹狩などに関する諸規定から成り、しばしば発生する疑問やそれに関する回答について老中や目付に対する伺書の書式を用いて解説している（書札礼の役目も兼ねる）。</j>
+<e type="trans" ver="1">The contents consisted of various regulations that included Buke shohatto (laws for the samurai families), osadamegaki (regulations by the bakufu), military orders, military services, kinban (regular duty), arms, processions, passing checking stations, the dress code system, and falconry, and frequently enquired questions and answers for them were also explained there using the enquiry format for Roju (officers in the second-highest post in the bakufu government) or Metsuke (inspector of foot soldiers) (the book could also be used for Shosatsurei (Epistolary Etiquette)).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The contents consisted of Buke shohatto (laws for the samurai families), osadamegaki (regulations by the bakufu), military orders and various other regulations concerning military services, kinban (regular duty), arms, processions, passing checking stations, the dress code system, and falconry, and frequently enquired questions and answers for them were also explained there using the enquiry format for Roju (senior councilor) or Metsuke (inspector) (the book could also be used for Shosatsurei (Epistolary Etiquette)).</e>
+<cmt>「武家諸法度・御定書・軍令」までが法律、以降が「～に関する諸規定」。「老中」→江戸幕府では、常置の職では将軍に次ぐ地位ですが、用語集に登録されているとおり、&quot;senior councilor&quot;とした方が分かりやすいと思います。「目付」→江戸幕府では旗本・御家人などの監察にあたった。&quot;of foot soldiers&quot;は削除しました。（http://kotobank.jp/word/%E7%9B%AE%E4%BB%98）</cmt>
+<e type="check" ver="1">The contents consisted of Buke shohatto (laws for the samurai families), osadamegaki (regulations by the bakufu), military orders and various other regulations concerning military services, kinban (regular duty), arms, processions, passing checking stations, the dress code system, and falconry, and frequently enquired questions and answers for them were also explained there using the enquiry format for Roju (senior councilor) or Metsuke (inspector) (the book could also be used for Shosatsurei (Epistolary Etiquette)).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>当時、江戸幕府は法令が一般に知られることを固く禁じていたため、大野も慎重を期して「300部限定」として刊行している。</j>
+<e type="trans" ver="1">Because the Edo bakufu firmly prohibited laws and regulations from being known by the general public at that time, Ono &quot;limited the number of the books to be published to 300&quot; cautiously.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the Edo bakufu firmly prohibited laws and regulations from being known by the general public at that time, Ono &quot;limited the number of the books to be published to 300&quot; cautiously.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Because the Edo bakufu firmly prohibited laws and regulations from being known by the general public at that time, Ono &quot;limited the number of the books to be published to 300&quot; cautiously.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>だが、大野の武家故実の研究がその規定に反する疑いが先著である『殿居囊』・『泰平年表』刊行の段階で持たれていた。</j>
+<e type="trans" ver="1">However, it had been suspected that Ono&apos;s research about the customs and manners of samurai might have violated the regulation at the stage of publishing &quot;Tonoibukuro&quot; and &quot;Taihei-nenpyo&quot; (a chronicle of the Edo period).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, it had been suspected that Ono&apos;s research about the customs and manners of samurai might have violated the regulation at the stage of publishing &quot;Tonoibukuro&quot; and &quot;Taihei-nenpyo&quot; (a chronicle of the Edo period).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, it had been suspected that Ono&apos;s research about the customs and manners of samurai might have violated the regulation at the stage of publishing &quot;Tonoibukuro&quot; and &quot;Taihei-nenpyo&quot; (a chronicle of the Edo period).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>『青標紙』の刊行で武家諸法度などの法令を掲載したことが決定的な証拠とされて、天保11年（1840年）6月9日大野は綾部藩に永預となり、著書は発行禁止とされ、刊行に関わった版元なども処分された。</j>
+<e type="trans" ver="1">Then it was decided that the inclusion in &quot;Aobyoshi&quot; of laws and regulations, including Buke shohatto, constituted a decisive evidence, and on June 9 (in the old calendar), 1840, Ono became to be placed in the custody of the Ayabe domain for life, with the publication of the book prohibited and the publisher punished as well.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Then the inclusion in &quot;Aobyoshi&quot; of laws and regulations, including Buke shohatto, constituted a decisive evidence, and on July 7, 1840, Ono was placed in the custody of the Ayabe clan for life, with the publication of the book prohibited and the publisher punished as well.</e>
+<cmt>天保11年（1840年）6月9日→新暦だと、1840年7月7日「綾部藩」→人の集まりとしての藩なので、用語統一リストに従って&quot;clan&quot;と修正。その他文法上の修正をしました。</cmt>
+<e type="check" ver="1">Then the inclusion in &quot;Aobyoshi&quot; of laws and regulations, including Buke shohatto, constituted a decisive evidence, and on July 7, 1840, Ono was placed in the custody of the Ayabe clan for life, with the publication of the book prohibited and the publisher punished as well.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>同年9月11日に大野は配流先にて憤死している。</j>
+<e type="trans" ver="1">On September 11 (in the old calendar), the same year, Ono died in his exiled place.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 6th of the same year, Ono died in the place of exile.</e>
+<cmt>9月11日→新暦では10月6日他、文法上の修正をしました。</cmt>
+<e type="check" ver="1">On October 6th of the same year, Ono died in the place of exile.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>だが、刊行された書を完全に回収することは出来ず、大正時代に刊行された『江戸叢書』によって全容を知ることが可能である。</j>
+<e type="trans" ver="1">However, all of the books already published could not be recalled, and it is possible to know all of the contents through &quot;Edo-sosho&quot; (Books on the Edo period) published in the Taisho period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the books already published could not be recalled completely, and it is possible to know all of the contents through &quot;Edo-sosho&quot; (Books on the Edo period) published in the Taisho period.</e>
+<cmt>訳文だと「刊行された書はすべて回収できなかった」意味に取れます。</cmt>
+<e type="check" ver="1">However, the books already published could not be recalled completely, and it is possible to know all of the contents through &quot;Edo-sosho&quot; (Books on the Edo period) published in the Taisho period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 松茸(id:27535), 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

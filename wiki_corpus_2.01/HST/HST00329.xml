@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>雅楽寮</j>
+<e type="trans" ver="1">Utaryo (Bureau of Traditional Music)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Utaryo (Bureau of Traditional Music)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Utaryo</e>
+<cmt>タイトルのためカッコ内の補足を次文に移動</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>雅楽寮（うたりょう）は、律令制において治部省に属する機関である。</j>
+<e type="trans" ver="1">Utaryo was an organ belonged to the Jibusho (the ministry of civil administration) under the Ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Utaryo was an organization belonging to the Jibusho (the ministry of civil administration) under the Ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>Typo, Flow</cmt>
+<e type="check" ver="1">Utaryo (Bureau of Traditional Music) was an organization belonging to the Jibusho (the ministry of civil administration) under the Ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>Utaryoの補足を追加</cmt>
+</sen>
+<sen id="2">
+<j>『和名類聚抄』ではうたまいのつかさとされている。</j>
+<e type="trans" ver="1">It was referred to as Utamai-no-tsukasa in &quot;Wamyoruiju-sho&quot; (Kango-Japanese Dictionary).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was referred to as Utamai-no-tsukasa in &quot;Wamyoruiju-sho&quot; (Kango-Japanese Dictionary).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It was referred to as Utamai no tsukasa in &quot;Wamyo Ruijusho&quot; (dictionary of Japanese names).</e>
+<cmt>Utamai-no-tsukasaのハイフン消去，&quot;Wamyo Ruijusho&quot;とし、補足を修正</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>職掌</j>
+<e type="trans" ver="1">Official duties</e>
+<cmt></cmt>
+<e type="trans" ver="2">Official duties</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Official Duties</e>
+<cmt>頭文字を大文字に変更</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>様々な公的行事で雅楽を演奏すること、また演奏者を養成することが職務である。</j>
+<e type="trans" ver="1">Its duty was to play gagaku (ancient Japanese court dance and music which was introduced from China to Japan) at various public events and to train gagaku players.</e>
+<cmt>行11で、雅楽が海外音楽として説明されているので、ここでは雅楽を用語集の訳語 ancient Japanese court dance and music に which was introduced from China to Japan を付け加えました。</cmt>
+<e type="trans" ver="2">Its duty was to play gagaku (ancient Japanese court dance and music which was introduced from China to Japan) at various public events and to train gagaku players.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Its duty was to play gagaku (ancient Japanese court dance and music which was introduced from China to Japan) at various public events and to train gagaku players.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>演奏者として歌師・舞師・笛師・楽師が設置された。</j>
+<e type="trans" ver="1">Players were divided into groups of utanoshi (poet), mainoshi (dancer), fuenoshi (flute player) and gakushi (musician).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Players were divided into groups of utanoshi (poet), mainoshi (dancer), fuenoshi (flute player) and gakushi (musician).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Players were divided into groups of utanoshi (poet), mainoshi (dancer), fuenoshi (flute player) and gakushi (musician).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>このうち前三者は倭楽（在来音楽）を、後者は雅楽（海外音楽）を担当した。</j>
+<e type="trans" ver="1">The former three groups played yamatogaku (ancient Japanese music) (pre-existing music) and the latter one group played gagaku (foreign music).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The former three groups played yamatogaku (ancient Japanese music) (pre-existing music) and the latter group played gagaku (foreign music).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The former three groups played yamatogaku (ancient Japanese music) (pre-existing music) and the latter group played gagaku (foreign music).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>楽師は令制では唐・新羅・高麗（高句麗）・百済及び呉楽である伎楽・腰鼓に分かれてそれぞれの音楽を担当した。</j>
+<e type="trans" ver="1">Gakushis (musicians) were divided into groups of Tang, Shiragi, Korai (Kokuri), Kudara, and gigaku and kurezutsumi which were kuregaku, the music in Go, and they played each music under the Ritsuryo system.</e>
+<cmt>入力済みの訳語は、唐 - to、新羅 - shinra、高麗 - koma 伎楽 - ginogaku となっていましたが、それぞれTang, Shiragi, Korai、gigaku （伎楽師の場合は、ginogakushi と読むと思います）に訂正しました。</cmt>
+<e type="trans" ver="2">Gakushis (musicians) were divided into groups of Tang, Shiragi, Korai (Kokuri), Kudara, and gigaku and kurezutsumi which were kuregaku, the music in Go, and they played each music under the Ritsuryo system.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Gakushis (musicians) were divided into groups of Tang, Silla, Goryeo (Goguryeo), Paekche and gigaku and kurezutsumi which were kuregaku, the music in Wo, and they played each music under the Ritsuryo system.</e>
+<cmt>唐・新羅・高麗（高句麗）・百済→Shiragi, Korai (Kokuri), Kudaraは日本語読みのため、Silla, Goryeo (Goguryeo), Paekcheに修正、およびGo→Woに修正 (参照: 英辞郎 on the WEB、http://www.aisf.or.jp/~jaanus/deta/g/gigaku.htm)</cmt>
+</sen>
+<sen id="7">
+<j>また笛師の下には笛職人である笛工が付属した。</j>
+<e type="trans" ver="1">A fueko (flute craftsman) was assigned to fuenoshi (flute player).</e>
+<cmt></cmt>
+<e type="trans" ver="2">A fueko (flute craftsman) was assigned to fuenoshi (flute player).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">A fueko (flute craftsman) was assigned to fuenoshi (flute player).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>平安時代以降は楽所や大歌所などに押されて衰退した。</j>
+<e type="trans" ver="1">After the Heian period, Utaryo declined hit by the gakuso (chamber of music) or the Outadokoro (an organization that provided the education and management for ancient Japanese music, Uta, and traditional instruments).</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the Heian period, Utaryo declined, hit by the gakuso (chamber of music) or the Outadokoro (an organization that provided the education and management for ancient Japanese music, Uta, and traditional instruments).</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">After the Heian period, Utaryo declined, hit by the gakuso (chamber of music) or the Outadokoro (an organization that provided the education and management for ancient Japanese music, Uta, and traditional instruments).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="9">
+<j>明治維新後、雅楽寮は楽所と統合されるなどの紆余曲折を経て宮内省式部職楽部（がくぶ）に改組され（1908年）、現在の宮内庁にそのまま引き継がれる。</j>
+<e type="trans" ver="1">After the Meiji Restoration, with some bumps and detours such as being integrated into the gakuso, Utaryo was reorganized into Shikibushoku Gakubu (Music Department of Imperial Household Agency) in 1908 and has taken over by the present Imperial Household Agency as it was.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the Meiji Restoration, with some bumps and detours such as being integrated into the gakuso, Utaryo was reorganized into Shikibushoku Gakubu (Music Department of Imperial Household Agency) in 1908 and was taken over by the present Imperial Household Agency as it was.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">After the Meiji Restoration, with some bumps and detours such as being integrated into the gakuso, Utaryo was reorganized into Shikibushoku Gakubu (Music Department of Imperial Household Agency) in 1908 and was taken over by the present Imperial Household Agency as it was.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>今日の「君が代」の作曲者・林廣守や雅楽演奏家の東儀秀樹はここの出身である。</j>
+<e type="trans" ver="1">Hiromori HAYASHI, the composer of Kimigayo (Japan&apos;s national anthem) and Hideki TOGI, a gagaku performing musician, are from this Shikibushoku Gakubu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hiromori HAYASHI, the composer of Kimigayo (Japan&apos;s national anthem) and Hideki TOGI, a gagaku performing musician, are from this Shikibushoku Gakubu.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Hiromori HAYASHI, the composer of Kimigayo (Japan&apos;s national anthem) and Hideki TOGI, a gagaku performing musician, are from this Shikibushoku Gakubu.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Lonicera(id:20638), Straysheep(id:42448), 経済準学士(id:22656), 新アルパカ(id:65850), Charenji(id:7908), 水野白楓(id:22811), 怪蘇(id:45514), STBot(id:137943), アルパカ(id:49539), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

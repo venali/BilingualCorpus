@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>御仕置裁許帳</j>
+<e type="trans" ver="1">Oshiokisaikyocho</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oshiokisaikyocho</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Oshioki Saikyo-cho (Judicial Precedents Estimated to be Compiled by Edo Machi-bugyo [town magistrate of Edo])</e>
+<cmt>補足しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>御仕置裁許帳（おしおきさいきょちょう）とは、宝永年間に江戸町奉行所の役人によって作成されたと推定されている判例集のこと。</j>
+<e type="trans" ver="1">Oshiokisaikyocho is a compilation of legal reports and is presumed to be created by officers of the Edo town magistrate&apos;s office in Hoei era.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oshiokisaikyocho is a compilation of legal reports thought to be created by officers of the Edo town magistrate&apos;s office in Hoei era.</e>
+<cmt>Just a stylistic change here to make it read better.</cmt>
+<e type="check" ver="1">Oshioki Saikyo-cho was a compilation of legal reports thought to be created by Edo machi-bugyo in Hoei era (1704 to 1710).</e>
+<cmt>用語を変更しました。</cmt>
+</sen>
+<sen id="2">
+<j>現存するものは全12巻（国立国会図書館所蔵本）であるが、元は上中下の全3巻であったとされている。</j>
+<e type="trans" ver="1">Although the existing version (currently owned by the National Diet Library) consists of 12 volumes, it is believed that the original version consisted of first, second and third volumes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the existing version (currently owned by the National Diet Library) has 12 volumes, it is believed that the original version consisted of three volumes.</e>
+<cmt>上中下の巻は合計で三つなので、自然で訳しなおしました。</cmt>
+<e type="check" ver="1">Although the existing version (currently owned by the National Diet Library) has 12 volumes, it is believed that the original version consisted of three volumes.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>江戸小伝馬町の牢獄に入獄した人物の囚人の名と犯罪事情を記して町奉行が保管していた「牢帳」のうち、明暦3年（1657年）から元禄12年（1699年）の分より裁判の参考となる974例を事件のケースごとに231の類型に分けて採録した。</j>
+<e type="trans" ver="1">Machi bugyos (town magistrate) stored &quot;Rocho&quot; (Prison records) which included the name and crime situation of each inmate, which was in the prison located at Kodenma-cho, Edo, and records of 974 cases, reported between 1657 and 1699, were extracted from &quot;Rocho&quot; and classified into 231 categories by the type of crime to be references for future trials.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Town magistrates (&quot;Machi bugyos&quot;) stored prison records (&quot;Rocho&quot;) of the name and crime situation of each inmate of the prison located in Kodenma-cho, Edo, and these records, 974 cases reported between 1657 and 1699 were extracted and classified into 231 types of crime so as to provide a reference for future trials.</e>
+<cmt>すっきりするために、訳し直しました。</cmt>
+<e type="check" ver="1">From the records of &apos;Rocho&apos; (prison records) of which machi-bugyo (town magistrates) stored the name and crime situation of each inmate of the prison located in Kodenma-cho, Edo, 974 cases reported between 1657 and 1699 were extracted and classified into 231 types of crime so as to provide a reference for future trials.</e>
+<cmt>表現を変えました。</cmt>
+</sen>
+<sen id="4">
+<j>なお、「牢帳」自体は町奉行の管理下にあったが、牢獄には勘定奉行や寺社奉行の吟味で入獄した者も含まれており、それらが管轄した事件についても記載されている。</j>
+<e type="trans" ver="1">Although &quot;Rocho&quot; itself was under Machi bugyo&apos;s (town magistrate) control, there were inmates which were tried by Kanjo bugyos (commissioner of finance) or Jisha bugyos (magistrate of temples and shrines) in the prison, and even cases, which were under the jurisdiction of Kanjo and Jisha bugyos, were included in Oshiokisaikyocho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although &quot;Rocho&quot; itself was under the control of Machi bugyo&apos;s (town magistrate), there were inmates who were tried by Kanjo bugyos (commissioners of finance) or Jisha bugyos (magistrates of temples and shrines) in the prison, and even cases under this kind of jurisdiction were included in Oshiokisaikyocho.</e>
+<cmt>すっきりするために、修正しました。</cmt>
+<e type="check" ver="1">Although &apos;Rocho&apos; itself was under the Machi bugyo&apos;s control, inmates who were judged in the prison by Kanjo bugyo (commissioner of finance) or Jisha bugyo (magistrate of temples and shrines) and cases under the jurisdiction of them were included in the Oshioki Saikyo-cho.</e>
+<cmt>表現を変えました。</cmt>
+</sen>
+<sen id="5">
+<j>異本としては「嚴牆集」「刑罰集抜萃」などがあり、更にこれを箇条書の198条に再構成した「元禄御法式」が作成された。</j>
+<e type="trans" ver="1">&quot;Genshoshu&quot; and &quot;Keibatsushubassui&quot; were created as alternative versions, which was reedited to 198 itemized descriptions to create &quot;Genroku gohoshiki&quot; (commandment).</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Genshoshu&quot; and &quot;Keibatsushubassui&quot; were created as alternative versions, with 198 of their items rearranged to create &quot;Genroku gohoshiki&quot; (commandment).</e>
+<cmt>Surely the items themselves didn&apos;t change - rather the way they were arranged.</cmt>
+<e type="check" ver="1">Genshoshu,&apos; &apos;Keibatsushu Bassui&apos; (Excerption of Penalties), and others were created as its alternative versions, and it was rearranged to be 198 articles of &apos;Genroku Gohoshiki&apos; (Commandments in Genroku era [1688 to 1703]).</e>
+<cmt>表現を変えました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

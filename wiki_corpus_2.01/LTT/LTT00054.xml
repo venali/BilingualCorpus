@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>小右記</j>
+<e type="trans" ver="1">The Ouki</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ouki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Ouki</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>『小右記』（おうき、しょうゆうき）は、平安時代の公卿藤原実資の日記。</j>
+<e type="trans" ver="1">The Ouki (also pronounced Shoyuki) is the diary of the Heian-period court noble FUJIWARA no Sanesuke.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ouki (also pronounced Shoyuki) is the diary of the Heian-period court noble FUJIWARA no Sanesuke.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The &quot;Ouki&quot; (also pronounced Shoyuki) is the diary of the Heian-period court noble FUJIWARA no Sanesuke.</e>
+<cmt>Ouki→&quot;Ouki&quot;に変更しました。</cmt>
+</sen>
+<sen id="2">
+<j>「小右記」とは小野宮右大臣（実資のことを指す）の日記という意味。</j>
+<e type="trans" ver="1">The name &quot;Ouki&quot; means &quot;the Record (Diary) of Ononomiya, the Minister of the Right,&quot; (referring to Sanesuke).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The name &quot;Ouki&quot; means &quot;the Record (Diary) of Ononomiya, the Minister of the Right&quot; (a reference to Sanesuke).</e>
+<cmt>Removed comma after &quot;Right&quot;. I think &quot;a reference to&quot; is a bit more accurate than &quot;referring to&quot; here.</cmt>
+<e type="check" ver="1">The name &apos;Ouki&apos; means &apos;the Record (Diary) of Ononomiya, the Udaijin (Minister of the Right)&apos; (a reference to Sanesuke).</e>
+<cmt>&quot;を&apos;に&quot;the Minister of the Right&quot;→&quot;the Udaijin (Minister of the Right)&quot;に変更しました。</cmt>
+</sen>
+<sen id="3">
+<j>全61巻。</j>
+<e type="trans" ver="1">It contains 61 volumes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It contains 61 volumes.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It contains 61 volumes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>全文は漢文で書かれている。</j>
+<e type="trans" ver="1">The entire diary was written in kambun, the classical Chinese hybrid script.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The entire diary was written in kambun, the Classical Chinese hybrid script.</e>
+<cmt>Capitalised &quot;classical&quot;.</cmt>
+<e type="check" ver="1">The entire diary was written in kanbun, the Classical Chinese hybrid script.</e>
+<cmt>スペルを修正</cmt>
+</sen>
+<sen id="5">
+<j>『野府記』（やふき）ともいう。</j>
+<e type="trans" ver="1">The Ouki is also known as the Yafuki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ouki is also known as the Yafuki.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Ouki is also known as the &quot;Yafuki.&quot;</e>
+<cmt>&quot;補足</cmt>
+</sen>
+<par id="1">
+<sen id="6">
+<j>後世に残されたもののうち、三条西家所蔵本には『小右記』、伏見宮家所蔵本には『野府記』という書名が付けられており、近世以後の写本・刊本はそのいずれかの系統に依拠するところが大きかったために、両方の書名が並存した。</j>
+<e type="trans" ver="1">There are two main versions of this diary that have survived for posterity, the one in the Sanjonishi family library, entitled &quot;Ouki,&quot; and the one in the Fushiminomiya family library entitled &quot;Yafuki&quot;; most manuscripts and printings of this diary in recent years rely on one or the other of these two versions, which is why both titles continue to co-exist.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are two main versions of this diary that have survived for posterity, the one in the Sanjonishi family library (entitled Ouki), and the one in the Fushiminomiya family library (entitled Yafuki), and as most manuscripts and printings of this diary in recent years rely on one or the other of these two versions, both titles continue to co-exist.</e>
+<cmt>Removed quotation marks from titles. Removed semi-colon. Added &quot;and as&quot; and removed &quot;which is why&quot;. Also put &quot;Ouki&quot; and &quot;Yafuki&quot; in parentheses to make the sentence a bit easier to read.</cmt>
+<e type="check" ver="1">There are two main versions of this diary that have survived for posterity, the one in the Sanjonishi family library (entitled &quot;Ouki&quot;), and the one in the Fushiminomiya family library (entitled &quot;Yafuki&quot;), and as most manuscripts and printings of this diary in recent years rely on one or the other of these two versions, both titles continue to co-exist.</e>
+<cmt>&quot;補足</cmt>
+</sen>
+<sen id="7">
+<j>更に実頼の祖父『水心記』（『清慎公記』）を継ぐという意味で『続水心記』という呼称も用いられるなど、異名が多い。</j>
+<e type="trans" ver="1">Moreover, the diary has many alternate names in use, including &quot;Zokusuishinki&quot; (&quot;Continued Suishinki&quot;), so named because it followed in the tradition of &quot;Suishinki&quot; (or &quot;Seishinkoki&quot;), the diary of his grandfather Saneyori.</e>
+<cmt>There seems to be an error in the Japanese here; it should read &quot;祖父実頼&quot;, since Sanesuke&apos;s grandfather (Saneyori) wrote the Suishinki, not Saneyori&apos;s grandfather.</cmt>
+<e type="trans" ver="2">Moreover, the diary has many alternate names in use, including Zokusuishinki (Suishinki, Continued), so named because it followed in the tradition of Suishinki (or Seishinkoki), the diary of his grandfather Saneyori.</e>
+<cmt>Removed quotation marks from titles. Changed translation of &quot;Zokusuishinki&quot; to &quot;Suishinki, Continued)&quot; as this seems to be the way it has been translated elsewhere in this project.</cmt>
+<e type="check" ver="1">Moreover, the diary has many alternate names in use, including &quot;Zokusuishinki&quot; (Suishinki, Continued), so named because it followed in the tradition of &quot;Suishinki&quot; (or &quot;Seishinkoki&quot;), the diary of his grandfather Saneyori.</e>
+<cmt>&quot;補足</cmt>
+</sen>
+<sen id="8">
+<j>もっとも、これらは全て実資の没後の命名であり、実資自身は『暦記』と呼称していた。</j>
+<e type="trans" ver="1">But in fact all of these names were coined after Sanesuke&apos;s death; he himself called it the &quot;Rekki&quot; (&quot;calendrical record&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">But in fact all of these names were coined after Sanesuke&apos;s death; he himself called it the Rekki (calendrical record).</e>
+<cmt>Removed quotation marks as above.</cmt>
+<e type="check" ver="1">But in fact all of these names were coined after Sanesuke&apos;s death; he himself called it the &quot;Rekki&quot; (calendrical record).</e>
+<cmt>&quot;補足</cmt>
+</sen>
+<sen id="9">
+<j>これは原本が具注暦の余白に書かれたことに由来すると考えられ、当時の貴族の日記に広く見られる呼び名である。</j>
+<e type="trans" ver="1">This is thought to be because the original manuscript was written in the margins of the Guchu calendar; in any case, the diary name &quot;Rekki&quot; appears quite frequently in the diaries of nobles of that period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is thought to be because the original manuscript was written in the margins of the Guchu calendar; in any case, the word &quot;Rekki&quot; appears quite frequently in the diaries of nobles of that period.</e>
+<cmt>&quot;the diary name&quot; sounds a bit odd so I cut the word &quot;diary&quot; and changed &quot;name&quot; to &quot;word&quot;.</cmt>
+<e type="check" ver="1">This is thought to be because the original manuscript was written in the margins of the Guchu calendar; in any case, the word &quot;Rekki&quot; appears quite frequently in the diaries of nobles of that period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>なお、その原本は今日伝わっていない。</j>
+<e type="trans" ver="1">The original manuscript has not survived to the present day, however.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The original manuscript has not survived to the present day, however.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The original manuscript has not survived to the present day, however.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="11">
+<j>天元 (日本)元年（978年）頃から書かれていたらしいが、現存するのは天元5年（982年）～長元5年（1032年）の部分のみである。</j>
+<e type="trans" ver="1">It appears Sanesuke began writing it starting in about Tengen 1 (978), but the only currently extant section is the portion from Tengen 5 (982) to Chogen 5 (1032).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It appears Sanesuke began writing it starting in about Tengen 1 (978), but the only currently extant section is the portion from Tengen 5 (982) to Chogen 5 (1032).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It appears Sanesuke began writing it starting in about 978, but the only currently extant section is the portion from 982 to 1032.</e>
+<cmt>旧暦削除</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="12">
+<j>内容</j>
+<e type="trans" ver="1">Subject matter of the diary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Subject matter of the diary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Subject matter of the diary</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>藤原道長・藤原頼通の全盛時代の社会や政治、宮廷の儀式、故実などを詳細に記録してあり、それらを知るうえで大変重要な史料である。</j>
+<e type="trans" ver="1">The Ouki records the golden age of FUJIWARA no Michinaga and Yorimichi and goes into great detail about its society, government, Court ceremonies and ancient practices, and considering it is largely thanks to this diary that we know what we do about these aspects of life during this period, it is a historical record of immense value and importance.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ouki records the golden age of FUJIWARA no Michinaga and Yorimichi and goes into great detail about its society, government, Court ceremonies and ancient practices, and considering that it is largely thanks to this diary that we know what we do about these aspects of life during this period, it is a historical record of immense value and importance.</e>
+<cmt>&quot;and considering that&quot;</cmt>
+<e type="check" ver="1">The Ouki records the golden age of FUJIWARA no Michinaga and Yorimichi and goes into great detail about its society, government, Court ceremonies and ancient practices, and considering that it is largely thanks to this diary that we know what we do about these aspects of life during this period, it is a historical record of immense value and importance.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="14">
+<j>記述は全体的に辛口であり、実資達小野宮流と対立する九条流、特に実資と同時代の当主道長の政治および人物を痛烈に批判している、55年間の長期の記述であるため摂関時代の社会の状態や有職故実がよく理解できる。</j>
+<e type="trans" ver="1">The tone of his descriptions is dry and harsh overall, and critical of the Fujiwara family&apos;s Kujo lineage, rivals of Sanesuke&apos;s own Ononomiya lineage, but especially scathing in its criticisms of both the political decisions and personal life of Michinaga, the head of the Fujiwara family during Sanesuke&apos;s lifetime; because the diary describes a lengthy 55 year span, it is possible to achieve a true understanding of the circumstances and Court/military practices of society during the Fujiwara regency period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The tone of his descriptions is dry and harsh overall, and critical of the Fujiwara family&apos;s Kujo lineage (rivals of Sanesuke&apos;s own Ononomiya lineage) but it is especially scathing in its criticisms of both the political decisions and personal life of Michinaga, the head of the Fujiwara family during Sanesuke&apos;s lifetime, and furthermore, because the diary covers a lengthy 55 year span, it is possible to achieve a true understanding of the circumstances and Court/military practices of society during the Fujiwara regency period.</e>
+<cmt>Put &quot;rivals of Sanesuke&apos;s own Ononomiya lineage&quot; in parenthesis to read a little smoother, added &quot;it is&quot; before &quot;especially scathing&quot; and &quot;and&quot; before &quot;because the diary&quot; for the same reasons. Put a &quot;furthermore&quot; after the last &quot;and&quot; to help indicate the swtich in topics. Finally, I changed &quot;describes&quot; to &quot;covers&quot; to read a bit more naturally.</cmt>
+<e type="check" ver="1">The tone of his descriptions is dry and harsh overall, and critical of the Fujiwara family&apos;s Kujo lineage (rivals of Sanesuke&apos;s own Ononomiya lineage) but it is especially scathing in its criticisms of both the political decisions and personal life of Michinaga, the head of the Fujiwara family during Sanesuke&apos;s lifetime, and furthermore, because the diary covers a lengthy 55 year span, it is possible to achieve a true understanding of the circumstances and Court/military practices of society during the Fujiwara regency period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>また『御堂関白記』に記載されていない出家後の道長の法成寺での生活ぶりが窺え趣き深いものとなっている。</j>
+<e type="trans" ver="1">And it also gives a rich, flavorful account of Michinaga&apos;s life circumstances at Hojojji temple after taking the tonsure and entering the priesthood, a period of time the &quot;Mido kanpakuki&quot; (&quot;Record of the Mido Chief Advisor&quot;) doesn&apos;t cover.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And it also gives a rich, flavorful account of Michinaga&apos;s life at Hojojji temple after taking the tonsure and entering the priesthood, a period of time the Mido kanpakuki (Record of the Mido Chief Advisor) doesn&apos;t cover.</e>
+<cmt>I thought the sentence read better without &quot;circumstances&quot; so I cut it. I also took the titles out of quotation marks.</cmt>
+<e type="check" ver="1">And it also gives a rich, flavorful account of Michinaga&apos;s life at Hojoji temple after taking the tonsure and entering the priesthood, a period of time the &quot;Mido kanpakuki&quot; (Record of the Mido Chief Advisor) doesn&apos;t cover.</e>
+<cmt>&quot;補足スペルを修正</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="16">
+<j>藤原道長が詠んだという歌、「この世をば　我が世とぞ思ふ　望月の　欠けたることの　なしと思へば」が世に知れたのは『小右記』に記されたためである（道長の日記『御堂関白記』には登場しない）。</j>
+<e type="trans" ver="1">The reason the famous, &quot;When I reflect, this world is indeed my world, nor is there any flaw in the full moon,&quot; poem composed by Michinaga is known to the world is thanks to the Ouki, where it was recorded (it does not appear in Michinaga&apos;s own diary, the &quot;Mido kampakuki&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The reason the famous Michinaga poem, &quot;When I reflect, this world is indeed my world, nor is there any flaw in the full moon,&quot; is known to the world is thanks to the Ouki, where it was recorded (it does not appear in Michinaga&apos;s own diary, the Mido kampakuki).</e>
+<cmt>Removed quotation marks from title. Cut &quot;composed by Michinaga&quot; and added &quot;the famous Michinaga poem&quot; as I thought this read a little better.</cmt>
+<e type="check" ver="1">The reason the famous Michinaga poem, &apos;When I reflect, this world is indeed my world, nor is there any flaw in the full moon,&apos; is known to the world is thanks to the &quot;Ouki,&quot; where it was recorded (it does not appear in Michinaga&apos;s own diary, the &quot;Mido kanpakuki&quot;).</e>
+<cmt>&quot;, &apos; 補足スペルを修正</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="17">
+<j>食文化に関する記述もあり、当時の貴族の暮らしぶりもうかがえる。</j>
+<e type="trans" ver="1">The Ouki also offers description of the cuisine and dietary culture of the day, and also presents a picture of the lifestyle of nobles in that period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ouki offers description of the cuisine and dietary culture of the day, and also presents a picture of the lifestyle of nobles in that period.</e>
+<cmt>Cut the first &quot;also&quot; to avoid repetition.</cmt>
+<e type="check" ver="1">The Ouki offers description of the cuisine and dietary culture of the day, and also presents a picture of the lifestyle of nobles in that period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="18">
+<j>殿上において、暑さに堪えきれずに氷水を飲んだ話</j>
+<e type="trans" ver="1">There are several such sections, including one describing a scene in which people at the imperial palace started drinking a shaved ice drink after not being able to bear the heat any longer.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are several such sections, including one describing a scene in which people at the imperial palace started drinking ice water after being unable to bear the heat any longer.</e>
+<cmt>&quot;after not being&quot; - &quot;after being unable&quot;. &quot;A shaved ice drink&quot; - &quot;ice water&quot;.</cmt>
+<e type="check" ver="1">There are several such sections, including one describing a scene in which people at the imperial palace started drinking ice water after being unable to bear the heat any longer.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>自邸に蜂が巣を作ったので蜂蜜を採集した話</j>
+<e type="trans" ver="1">Another section discusses how bees had made a nest in Sanesuke&apos;s own house, and how he was collecting their honey.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Another section discusses how bees had made a nest in Sanesuke&apos;s own house, and how he was collecting their honey.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Another section discusses how bees had made a nest in Sanesuke&apos;s own house, and how he was collecting their honey.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>藤原忠国という大食いで評判の男を召して、飯六升を食べさせた話などがある。</j>
+<e type="trans" ver="1">A third describes the time when Sanesuke invited FUJIWARA no Tadakuni, a man famed for his gluttonous appetite, to his house for dinner, and had him eat six bushels-worth of rice.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A third describes the time when Sanesuke invited FUJIWARA no Tadakuni, a man famed for his gluttonous appetite, to his house for dinner, and had him eat six bushels-worth of rice.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A third describes the time when Sanesuke invited FUJIWARA no Tadakuni, a man famed for his gluttonous appetite, to his house for dinner, and had him eat six bushels-worth of rice.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Kurz(id:1601), Lonicera(id:20638), Y.Sanada(id:36926), Papamaruchan22(id:71152), Nnh(id:474), 水野白楓(id:22811), Hatsune(id:26654), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>山中貞雄</j>
+<e type="trans" ver="1">Sadao YAMANAKA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sadao YAMANAKA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sadao YAMANAKA</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>山中 貞雄（やまなか さだお、1909年11月8日 - 1938年9月17日）は、日本の映画監督、脚本家である。</j>
+<e type="trans" ver="1">Sadao YAMANAKA (November 8, 1909 ~ September 17, 1938) is a Japanese movie director and playwright.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sadao YAMANAKA (November 8, 1909 ~ September 17, 1938) was a Japanese movie director and playwright.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sadao YAMANAKA (November 8, 1909 - September 17, 1938) was a Japanese film director and screenwriter.</e>
+<cmt>FBに従って修正しました。Gradeが○になっていますが、「playwright」より「screenwriter」のほうが適切だと思います「movies」より「film」のほうが適切だと思います。</cmt>
+</sen>
+<sen id="2">
+<j>京都府生まれ（高知という説もあり）。</j>
+<e type="trans" ver="1">He was born in Kyoto Prefecture (There is an opinion that he was born in Kochi Prefecture.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was born in Kyoto Prefecture (There is an opinion that he was born in Kochi Prefecture.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He was born in Kyoto Prefecture (there is also the opinion that he was born in Kochi Prefecture).</e>
+<cmt>FBに従って修正しました。Gradeが○になっていますが、ペリオドと括弧を修正しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>来歴・人物</j>
+<e type="trans" ver="1">Historical Trail and The person</e>
+<cmt></cmt>
+<e type="trans" ver="2">Historical Background and The person</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Biography and Personal Profile</e>
+<cmt>統一リストに従って修正</cmt>
+</tit>
+</sec>
+<sec id="2">
+<tit>
+<j>夭折した天才</j>
+<e type="trans" ver="1">A genius who died earlier</e>
+<cmt></cmt>
+<e type="trans" ver="2">A genius who died early</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">A genius who died early</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>1909年（明治42年）11月8日、京都市東山区本町通五条下ルに、父・喜三右衛門、母・よその末子として生まれる。</j>
+<e type="trans" ver="1">On November 8, 1909, he was born as the youngest child of father, Kazaemon and mother, Yoso at Gojo-kudaru, Honmachi-dori Street, Higashiyama-ku Ward, Kyoto City.</e>
+<cmt>「喜三右衛門」の読みが分かりません。左記の様にしています。</cmt>
+<e type="trans" ver="2">On November 8, 1909, he was born the youngest child of father, Kazaemon and mother, Yoso at Gojo-kudaru, Honmachi-dori Street, Higashiyama-ku Ward, Kyoto City.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He was born on November 8, 1909 as the youngest child of father, Kizaemon (喜三右衛門) and mother, Yoso at Gojo-sagaru, Honmachi-dori Street, Higashiyama Ward, Kyoto City.</e>
+<cmt>FBに従って修正しました。読み不明の漢字を補足し、住所表記を修正しました。</cmt>
+</sen>
+<sen id="4">
+<j>1922年（大正11年）、旧制京都市立第一商業学校に入学。</j>
+<e type="trans" ver="1">In 1922, he entered the former Kyoto City First Commercial School.</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">In 1922, he entered the former Kyoto City First Commercial School.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In 1922, he entered the former Kyoto City First Commercial School.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>同級生にのちに松竹京都撮影所の脚本家となり「梶原金八鳴滝組」の仲間となる藤井滋司、1年先輩に「日本映画の父」こと牧野省三の長男・マキノ雅弘がいた。</j>
+<e type="trans" ver="1">There was a classmate, Shigeji FUJII who later became a playwright of Shochiku Kyoto Studios and a fellow of &quot;Kajiwara Kinpachi Narutaki Group&quot;, and in the 1 year senor grade was Masahiro MAKINO who was the eldest son of Shozo MAKINO, the &quot;Father of Japanese movie.&quot;</e>
+<cmt>一原文一訳文の例外対処。</cmt>
+<e type="trans" ver="2">His classmate, Shigeji FUJII later became a playwright of Shochiku Kyoto Studios and a fellow of the &quot;Kajiwara Kinpachi Narutaki Group,&quot; and in just 1 year senor grade was Masahiro MAKINO who was the eldest son of Shozo MAKINO, the &quot;Father of Japanese movies.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">His classmate, Shigeji FUJII later became a playwright of Shochiku Kyoto Studios and a fellow of the &apos;Kajiwara Kinpachi Narutaki Group,&apos; and in the grade above his was Masahiro MAKINO who was the eldest son of Shozo MAKINO, the &apos;Father of Japanese film.&apos;</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>1927年（昭和2年）、一商の先輩であるマキノ正博を頼って、マキノ・プロダクションへ入社する。</j>
+<e type="trans" ver="1">In 1927, he entered Makino Production with the connection of the senior of the school, Masahiro MAKINO.</e>
+<cmt>「マキノ正博」の漢字表記が上のセルと異なっています。</cmt>
+<e type="trans" ver="2">In 1927, he entered Makino Productions via the connections of the senior of the school, Masahiro MAKINO.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In 1927, he entered Makino Productions through his connection to his senior of the school Masahiro MAKINO.</e>
+<cmt>FBに従って修正しました。用語修正しました。</cmt>
+</sen>
+<sen id="7">
+<j>マキノは活躍できるようにと1928年（昭和3年）、山中を脚本家兼助監督として、嵐寛寿郎の第一次嵐寛寿郎プロダクション（寛プロ）に移籍させるが、五社協定によりその年に独立プロは失敗。</j>
+<e type="trans" ver="1">In 1928, Makino transferred Yamanaka to The First Arashi Kanjuro Production (Kan-puro) as a playwright and assistant director in order that he could play an active role, however, the independent production failed within the year due to Five company agreement.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1928, Makino transferred Yamanaka to The First Arashi Kanjuro Production (Kan-puro) as a playwright and assistant director so that he could play an active role, however, the independent production failed within the year because of a Five company agreement.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In 1928, Makino transferred Yamanaka to First Arashi Kanjuro Productions (Kan-puro) as a screenwriter and assistant director so that he could play an active role, but the independent production company failed within the same year due to a Five company agreement.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="8">
+<j>実家に戻った山中を親戚一同は縛り付けるように足を洗えと説得したが、心中の灯は消えていなかった。</j>
+<e type="trans" ver="1">When Yamanaka returned home, all the relatives tried to force Yamanaka to quit from film-making, however, his enthusiasm never lost.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When Yamanaka returned home, all his relatives tried to force Yamanaka to quit film-making, however, he never lost his enthusiasm.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">When Yamanaka returned home, all his relatives tried to force him to quit the film industry but he did not lose his enthusiasm.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>1930年（昭和5年）、嵐寛寿郎が東亜キネマに招かれると、山中を含む旧寛プロのメンバーも参集した。</j>
+<e type="trans" ver="1">In 1930, when Kanjuro ARASHI was invited to Towa Kinama, members of the former Kan-puro including Yamanaka also got together.</e>
+<cmt>「東亜」はToaではないかと思いますが、データベースの表記を優先しました。</cmt>
+<e type="trans" ver="2">In 1930, when Kanjuro ARASHI was invited to Towa Kinama, members of the former Kan-puro, including Yamanaka, also got together.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">When Kanjuro ARASHI was invited to Toa Kinema in 1930, members of the former Kan-puro company, including Yamanaka, also went.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="10">
+<j>嵐は山中のシナリオを読んで天才だと評した。</j>
+<e type="trans" ver="1">Arashi admired Yamanaka as a genius when he read Yamanaka&apos;s playbook.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Arashi admired Yamanaka as a genius when he read Yamanaka&apos;s playbook.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Arashi read Yamanaka&apos;s screenplay and praised him as a genius.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="11">
+<j>「むっつり右門」の脚本でその真価を確信した嵐は1932年（昭和7年）、長谷川伸の戯曲を脚色した『磯の源太 抱寝の長脇差』を監督第1作として発表させる。</j>
+<e type="trans" ver="1">Arashi who convinced the genuine value of the playbook of &quot;Grumpy Umon&quot; let him release the 1st film as a director, &quot;Iso no Genta dakine no nagadosu (Genta of rocky shore sleeping with a long sword)&quot; which was adapted from a drama of Shin HASEGAWA in 1932.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Arashi who was convinced of the genuine value of the playbook of &quot;Grumpy Umon&quot; let him release the 1st film as a director, &quot;Iso no Genta Dakine no Nagadosu&quot; (Genta of rocky shore sleeping with a long sword) which was adapted from a drama of Shin HASEGAWA in 1932.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Arashi was convinced of Yamanaka&apos;s worth by the screenplay for &apos;Muttsuri Umon&apos; and gave him his first directing job in 1932 with &quot;Iso no Genta: Dakine no Nagawakizashi&quot; (Genta of rocky shore sleeping with a long sword) adapted from a play by Shin HASEGAWA.</e>
+<cmt>FBに従って修正しました。クォーテーションを変え、用語補足しました。</cmt>
+</sen>
+<sen id="12">
+<j>この作品が映画評論家岸松雄の目にとまり大絶賛されたことで注目が集まり、その結果、処女作にしてその年のベストテンに名を連ねるなど、山中は22歳の若さで日本映画界の巨匠の仲間入りをした。</j>
+<e type="trans" ver="1">As this movie attracted film critic Matsuo KISHI&apos;s attention and was highly praised by him, it drew attention of people, and as a result, his first film ranked in the best 10 of the year, and Yamanaka took his place among the old masters at the age of only 22.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As this movie attracted film critic Matsuo KISHI&apos;s attention and was highly praised by him, it drew attention of people, and as a result, his first film ranked in the best 10 of the year, and Yamanaka took his place among the old masters at the age of just 22.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The film caught the attention of the film critic Matsuo KISHI, and the high praised that he gave the production led to it receiving widespread attention, resulting in the picture being ranked among the top ten directorial debuts of the year and Yamanaka taking his place among the masters of Japanese Cinema at the young age of 22.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="13">
+<j>翌年に、第二次寛プロから日活撮影所へ移籍。</j>
+<e type="trans" ver="1">In the next year, he moved from the 2nd Kan-puro to Nikkatsu Studio.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the next year, he moved from the 2nd Kan-puro to Nikkatsu Studio.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the following year, he moved from Second Kan-puro to Nikkatsu Studios.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="14">
+<j>以降、若き天才監督の名前をほしいままに、『盤嶽の一生』『街の入墨者』を発表。</j>
+<e type="trans" ver="1">After that, he enjoyed the title as the young genius director, and released &quot;Bangaku no issho (the life of Bangaku)&quot; and &quot;Machi no irezumimono (Tattoo guys in the town).&quot;</e>
+<cmt>「盤嶽」の意味が分かりません。左記の様にしています。</cmt>
+<e type="trans" ver="2">After that, he enjoyed the title as the young genius director, and released &quot;Bangaku no Issho&quot; (The Life of Bangaku)&quot; and &quot;Machi no irezumimono&quot; (Tattood Guys in the Town).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">He went on to revel in the title of young genius director and released &quot;Bangaku no Issho&quot; (Bangaku&apos;s Life) and &quot;Machi no Irezumimono&quot; (The Village Tattooed Man).</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="15">
+<j>1934年（昭和9年）からは、それぞれが所属する会社の枠組をこえ、稲垣浩、滝沢英輔や脚本家の八尋不二、三村伸太郎ら俊才とシナリオ集団「鳴滝組」を結成、「梶原金八」の共同ペンネームで22作を発表した。</j>
+<e type="trans" ver="1">In 1934, Yamanaka established Scenario group &quot;Narutaki-gumi&quot; with Hiroshi INAGAKI, Eisuke TAKIZAWA, and playwrights Fuji YAHIRO and Shintaro MIMURA transcending the framework of film companies, and released 22 films with the co-name &quot;Kinpachi KAJIWARA.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1934, Yamanaka established Scenario group &quot;Narutaki-gumi&quot; with Hiroshi INAGAKI, Eisuke TAKIZAWA, and playwrights Fuji YAHIRO and Shintaro MIMURA transcending the framework of film companies, and released 22 films with the co-name &quot;Kinpachi KAJIWARA.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">From 1934, Yamanaka formed the &apos;Narutaki-gumi&apos; screenwriting group with the highly talented Hiroshi INAGAKI, Eisuke TAKIZAWA, and screenwriters Fuji YAHIRO and Shintaro MIMURA who all transcended the framework of film companies, and released 22 films under the collaborative pseudonym of &apos;Kinpachi KAJIWARA.&apos;</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="16">
+<j>時代劇映画に大きな革新を生み、批評家以上に観衆からも大きな支持を得ていた。</j>
+<e type="trans" ver="1">They brought innovation to Jidaigeki-eiga (the period movie), and gained supports also from the public more than the critics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They brought innovation to Jidaigeki-eiga (the period of movies), and gained more support from the public more than the critics.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">They brought major innovation to the Jidaigeki-eiga (period film) genre, and a lot of support from both critics and audiences.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="17">
+<j>交友関係も広く、「鳴滝組」の面々のほか、伊藤大輔 (映画監督)や伊丹万作ら京都の映画人はもとより、小津安二郎、清水宏 (映画監督)など東京在住の映画人とも、幾度となく盃を交えた。</j>
+<e type="trans" ver="1">He has a broad exchanges with people in the film industries other than members of &quot;Narutaki-gumi&quot; such as not only Daisuke ITO (a movie director) and Mansaku ITAMI of Kyoto, but also Yasujiro OZU and Hiroshi SHIMIZU (a movie director) of Tokyo, and they exchanged cups of sake many times.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He had broad exchanges with people in the film industries other than members of &quot;Narutaki-gumi&quot; such as; not only Daisuke ITO (a movie director) and Mansaku ITAMI of Kyoto, but also Yasujiro OZU and Hiroshi SHIMIZU (a movie director) in Tokyo, and they exchanged cups of sake many times.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">He associated with a broad range film industry professionals other than those of the &apos;Narutaki-gumi&apos; including Daisuke ITO (film director) and Mansaku ITAMI of Kyoto as well as Yasujiro OZU and Hiroshi SHIMIZU (film director) from Tokyo, with whom he went drinking on many occasions.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="18">
+<j>1937年（昭和12年）、東京に移り、P.C.L.映画製作所（現在の東宝スタジオ）で発表した前進座がユニット出演した名作『人情紙風船』を最後に従軍する。</j>
+<e type="trans" ver="1">In 1937, he moved to Tokyo and released his last masterpiece &quot;Ninjo Kamifusen (Paper balloon of human empathy) released from P.C.L. Eiga Seisakusho (movie studio, today&apos;s Toho studio) in which entire Zenshinza participated in, and then he joined the army.</e>
+<cmt>「ユニット出演」の意味が分かりません。仮に劇団全員が参加するもの、として左記の様にしています。</cmt>
+<e type="trans" ver="2">In 1937, he moved to Tokyo and released his last masterpiece &quot;Ninjo Kamifusen&quot; (Paper Balloon of Human Empathy) released from P.C.L. Eiga Seisakusho (movie studio, today&apos;s Toho studio) in which the entire Zenshinza participated, and then he joined the army.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In 1937, he moved to Tokyo and with P.C.L Film Studios he released his final masterpiece &quot;Ninjo Kamifusen&quot; (Humanity and Paper Balloons) featuring the Zenshinza kabuki theater troupe before he joined the army.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="19">
+<j>翌1938年（昭和13年）9月17日、中国河南省開封の病院で戦病死した。</j>
+<e type="trans" ver="1">On September 17 of the next year, 1938, he died from a disease contracted at the front in the hospital in Kaiho, Kanan Province, China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 17 of the next year, 1938, he died from a disease contracted at the front in a hospital in Kaiho, Kanan Province, China.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">On September 17 of the following year of 1938, he died from disease contracted at the front at a hospital in Kaifeng, Henan Province, China.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="20">
+<j>28歳没。</j>
+<e type="trans" ver="1">He died at the age of 28.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He died at the age of 28.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He died at the age of 28.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>山中の遺産</j>
+<e type="trans" ver="1">Heritage of Yamanaka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Heritage of Yamanaka</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Heritage of Yamanaka</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="21">
+<j>その短い生涯のうちのたった5年間の監督生活で発表した監督作品は、全26本（応援監督2本含む）である。</j>
+<e type="trans" ver="1">In his short life, he directed 26 films (including 2 films he worked as a backup director) only in 5 years as a film director.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In his short life, he directed 26 films (including 2 films he worked as a backup director) in just 5 years as a film director.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In his short life, he released 26 films (including two films on which he served as assistant director) in just five years as a director.</e>
+<cmt>FBに従って修正しました。スペルアウトしました。</cmt>
+</sen>
+<sen id="22">
+<j>しかし、現在、『丹下左膳余話 百萬両の壺』『河内山宗俊』『人情紙風船』の三作品しか、見ることができない。</j>
+<e type="trans" ver="1">However, we can only watch 3 of &quot;Tange Sazen yowa Hyakuman-ryo no tsubo (Extra story of Tange Sazen, the vase of one million-ryo),&quot; &quot;Soshun KOCHIYAMA&quot; and &quot;Ninjo Kamifusen.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, we can only see 3 movies; &quot;Tange Sazen Yowa Hyakuman-ryo no Tsubo (Extra Story of Tange Sazen, the Vase of One Million-Ryo),&quot; &quot;Soshun KOCHIYAMA&quot; and &quot;Ninjo Kamifusen.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, we can only see 3 movies; &quot;Tange Sazen Yowa Hyakuman-ryo no Tsubo (Extra Story of Tange Sazen, the Vase of One Million-Ryo),&quot; &quot;Soshun KOCHIYAMA&quot; and &quot;Ninjo Kamifusen.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>『磯の源太 抱寝の長脇差』『怪盗白頭巾』『海鳴り街道』はフィルム断片のみ残存。</j>
+<e type="trans" ver="1">As for &quot;Iso no Genta dakine no nagadosu,&quot; &quot;Kaito Shirozukin (White Hood, the mysterious thief)&quot; and &quot;Uminari-kaido,&quot;only some pieces of the films are left today.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As for &quot;Iso no Genta dakine no nagadosu,&quot; &quot;Kaito Shirozukin&quot; (White Hood, The Mysterious Thief) and &quot;Uminari-kaido,&quot;only some parts of the films are left today.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Only fragments of &quot;Iso no Genta: Dakine no Nagawakizashi&quot; (Genta: The Long Sword), &quot;Kaito Shirozukin&quot; (The White Hood) and &quot;Uminari Kaido&quot; (Seacoast Highway) are remain.</e>
+<cmt>FBに従って修正しました。補足しました。</cmt>
+</sen>
+<sen id="24">
+<j>また前記の3作品も戦後公開版のため、オリジナルの尺・編集であるかどうかは定かではない。</j>
+<e type="trans" ver="1">Further, as the above 3 films available today were versions that had been released after the war, it is not certain whether they are the same as the original versions&apos; length and edit.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Further, as the above 3 films available today were versions that had been released after the war, it is not certain whether they are the same as the original versions&apos; in length and editing.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Furthermore, as the above 3 films are versions that were released after the war, it is not certain whether or not they are the same length and cut as the originals.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="25">
+<j>少なくとも『丹下左膳』は占領軍下の検閲によってチャンバラ場面が削除されたようである。</j>
+<e type="trans" ver="1">At least, it seems that some sword battle scenes of &quot;Tange Sazen&quot; have been edited and cut under the censor of the occupied forces.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At least, it seems that some sword battle scenes of &quot;Tange Sazen&quot; have been edited and cut under the censor of the occupied forces.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It appears that at least some sword fighting scenes in &quot;Tange Sazen&quot; (the One-Eyed Swordsman) were cut under censorship by occupation forces.</e>
+<cmt>FBに従って修正しました。用語補足しました。</cmt>
+</sen>
+<sen id="26">
+<j>このため、現代に生きる私たちは映画監督、山中貞雄の全容を知るには至っていない。</j>
+<e type="trans" ver="1">So, we do not come up to know all about the director Sadao YAMANAKA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">So, we do not know everything about the director Sadao YAMANAKA.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is for this reason that not everything is known about the director Sadao YAMANAKA.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="27">
+<j>甥に映画監督の加藤泰がいる。</j>
+<e type="trans" ver="1">His nephew Tai KATO is a film director.</e>
+<cmt></cmt>
+<e type="trans" ver="2">His nephew Tai KATO is a film director.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">His nephew Tai KATO is a film director.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>山中にもっとも深い影響を受けた1歳下の助監督、「鳴滝組」の仲間であり、のちの映画監督に萩原遼 (映画監督)がいる。</j>
+<e type="trans" ver="1">There is a member of &quot;Narutaki-gumi&quot; and a film director Ryo HAGIWARA (a movie director) who is one year junior to Yamanaka and was most influenced by Yamanaka as an assistant director.</e>
+<cmt>「萩原遼」の読み方が不明です。仮に左記の様にしています。</cmt>
+<e type="trans" ver="2">There is a member of &quot;Narutaki-gumi&quot; and a film director Ryo HAGIWARA (a movie director) who is one year junior to Yamanaka and he was mostly influenced by Yamanaka as an assistant director.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Fellow &apos;Narutaki-gumi&apos; assistant director Ryo HAGIWARA was one year younger than Yamanaka and greatly influenced by him, going on to become a film director.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 犬ちゃん(id:158533), Kmrt(id:101778), 江口磐世☆(id:168037), Nagira(id:98130), Meme Jellyfish(id:167587), Cprobot(id:97843), Loveless(id:129239), Point136(id:211299), Yas(id:739), 青山光二(id:25291), BrevamBot(id:29583), NDR(id:5500), LaaknorBot(id:220851), 松木完之(id:26818), ORII(id:38107), Kurokani(id:86838), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>玉葉和歌集</j>
+<e type="trans" ver="1">Gyokuyo wakashu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gyokuyo wakashu (Collection of Jeweled Leaves)</e>
+<cmt>Added English translation.</cmt>
+<e type="check" ver="1">Gyokuyo wakashu (Collection of Jeweled Leaves)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>玉葉和歌集（ぎょくようわかしゅう）は鎌倉時代の勅撰集。</j>
+<e type="trans" ver="1">The Collection of Jeweled Leaves (Gyokuyo wakashu) was an Imperial Anthology of the Kamakura period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gyokuyo wakashu is an imperial anthology from the Kamakura period.</e>
+<cmt>Cut the English translation as it is used above. Changed &quot;was&quot; to &quot;is&quot; and &quot;of the&quot; to &quot;from the&quot; to read more naturally.</cmt>
+<e type="check" ver="1">Gyokuyo wakashu is an imperial anthology from the Kamakura period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>第14勅撰。</j>
+<e type="trans" ver="1">It was the fourteenth imperial anthology.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is the fourteenth of the imperial anthologies.</e>
+<cmt>Changed to read a little smoother, and to change it into present tense as above.</cmt>
+<e type="check" ver="1">It is the fourteenth of the imperial anthologies.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>20巻、歌数は2801首で、勅撰集の中で最大。</j>
+<e type="trans" ver="1">It is the largest among the imperial anthologies, with twenty volumes and including 2,801waka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is the largest among the imperial anthologies, with twenty volumes, including 2,801waka.</e>
+<cmt>cut &quot;and&quot; to read a little smoother.</cmt>
+<e type="check" ver="1">It is the largest among the imperial anthologies, with twenty volumes, including 2,801waka.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>部類の構成は春（上・下）、夏、秋（上・下）、冬、賀、旅、恋（五巻）、雑（五巻）、釈教、神祇の順。</j>
+<e type="trans" ver="1">The structure of the categories was, in order: spring(two volumes), summer, autumn(two volumes), winter, felicitations, travel, love(5 volumes), miscellaneous(5 volumes), Buddhism, and Shinto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The structure of the categories was, in order: spring(two volumes), summer, autumn(two volumes), winter, felicitations, travel, love(5 volumes), miscellaneous(5 volumes), Buddhism, and Shinto.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The structure of the categories was, in order: spring (two volumes), summer, autumn (two volumes), winter, felicitations, travel, love (5 volumes), miscellaneous (5 volumes), Buddhism, and Shinto.</e>
+<cmt>スペース挿入</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>伏見天皇の院宣を奉じて京極為兼（1254－1332）が撰進。</j>
+<e type="trans" ver="1">Obeying the order of the retired Emperor Fushimi, Tamekane KYOGOKU (1254－1332)compiled the collection and presented it.</e>
+<cmt>原文「伏見天皇」となっていますが、後のセルで為兼が単独ですべきと命が下った際にはすでに院政期だったとあることから、ここは「上皇」のタイポと思われます。院宣を現役の天皇が発するというのはどう考えてもおかしいので、ここでは伏見天皇は上皇として訳しました。</cmt>
+<e type="trans" ver="2">By order of the retired Emperor Fushimi, Tamekane KYOGOKU (1254－1332)compiled the collection and presented it.</e>
+<cmt>&quot;Obeying the order of&quot; to &quot;by order of&quot; to read a bit more naturally.</cmt>
+<e type="check" ver="1">By order of the Retired Emperor Fushimi, Tamekane KYOGOKU (1254－1332)compiled the collection and presented it.</e>
+<cmt>&quot;retired&quot;→&quot;Retired&quot;に変更しました。</cmt>
+</sen>
+<sen id="6">
+<j>正和元年3月28日 (旧暦)（1312年5月5日）に奏覧され（『増鏡』）、切継作業を経て同2年10月に完成。</j>
+<e type="trans" ver="1">It was submitted to the emperor for inspecton on May 5, 1312 (&quot;The Clear Mirror&quot;), and completed in October 1313 after some editing and polishing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was submitted to the emperor for inspecton on May 5, 1312 (The Clear Mirror), and completed in October 1313 after some further editing.</e>
+<cmt>I didn&apos;t think &quot;and polishing&quot; was necessary here, so I replaced it with &quot;further editing&quot;. I also took &quot;The Clear Mirror&quot; out of quotation marks, although I&apos;m not sure why it is included here.</cmt>
+<e type="check" ver="1">It was submitted to the emperor for inspection on May 5, 1312 (&quot;Masukagami&quot; (The Clear Mirror)), and completed in October 1313 after some further editing.</e>
+<cmt>Masukagami 補足スペルを修正</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>持明院統・大覚寺統両統の政争に、それぞれが庇護した歌道の家である京極派・二条派の対立が絡み、企画から選定までに20年近い歳月を要した複雑な成り立ちを持つ。</j>
+<e type="trans" ver="1">The history of its complication is complicated, involving the political dispute between the Jimyo-in line and the Daikokuji line, and the conflict between the Kyogoku and Nijo factions, the two poetic houses that were supported by each line, taking nearly 20 years from planning to selection.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its compilation was difficult and took nearly 20 years from planning to final selection, involving the political dispute between the Jimyo-in line and the Daikokuji line, and the conflict between the poetic houses they supported, Kyogoku and Nijo.</e>
+<cmt>Rewrote &quot;The history of its complication is complicated&quot; to &quot;Its compilation was difficult&quot;. Moved &quot;20 years from planning to final selection&quot; to the start of the sentence to make it flow a little better. Also added &quot;final&quot; for the same reason. Reworded the last part to make it a little easier to understand.</cmt>
+<e type="check" ver="1">Its compilation was difficult and took nearly 20 years from planning to final selection, involving the political dispute between the Jimyo-in line and the Daikakuji line, and the conflict between the poetic houses they supported, Kyogoku and Nijo.</e>
+<cmt>スペルを修正</cmt>
+</sen>
+<sen id="8">
+<j>すなわち、伏見天皇の治世、永仁元年（1293年）、二条為世・京極為兼・飛鳥井雅有・九条隆博に勅撰集編纂の勅命が下った。</j>
+<e type="trans" ver="1">Namely, in the reign of Emperor Fushimi, Tameyo NIJO, Tamekane KYOGOKU, Masaari ASUKAI and Takahiro KUJO were selected as compilers for an imperial anthology by order of the Emperor.</e>
+<cmt>一文一翻訳原則の例外</cmt>
+<e type="trans" ver="2">In the reign of Emperor Fushimi, Tameyo NIJO, Tamekane KYOGOKU, Masaari ASUKAI and Takahiro KUJO were selected as compilers for an imperial anthology by order of the Emperor.</e>
+<cmt>Unsure of the purpose of &quot;namely&quot; here so I cut it.</cmt>
+<e type="check" ver="1">In the reign of Emperor Fushimi in 1293, Tameyo NIJO, Tamekane KYOGOKU, Masaari ASUKAI and Takahiro KUJO were selected as compilers for an imperial anthology by order of the Emperor.</e>
+<cmt>年号補足</cmt>
+</sen>
+<sen id="9">
+<j>が、選歌方針ほかを巡り為世・為兼両者の争論が白熱化し、激昂した為世が撰者を辞退、さらに同6年（1298年）には九条隆博、正安3年（1301年）には飛鳥井雅有が死没。</j>
+<e type="trans" ver="1">However, various arguments about, among other things, the policy for selecting waka between Tameyo and Tamekane became white-hot, and an enraged Tameyo resigned as compiler, on top of which followed the deaths of Takahiro KUJO in 1298 and Masaari ASUKAI in 1301.</e>
+<cmt>一文一翻訳原則の例外</cmt>
+<e type="trans" ver="2">However, various arguments about, among other things, the policy for selecting waka between Tameyo and Tamekane became heated, and an enraged Tameyo resigned as compiler, on top of which followed the deaths of Takahiro KUJO in 1298 and Masaari ASUKAI in 1301.</e>
+<cmt>Changed &quot;white hot&quot; to slightly more natural sounding &quot;heated&quot;.</cmt>
+<e type="check" ver="1">However, various arguments about, among other things, the policy for selecting waka between Tameyo and Tamekane became heated, and an enraged Tameyo resigned as compiler, on top of which followed the deaths of Takahiro KUJO in 1298 and Masaari ASUKAI in 1301.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>その間、幕府によって永仁六年に京極為兼は佐渡国へ配流、伏見天皇も譲位を強いられ、勅撰の議は中断せざるを得なかった。</j>
+<e type="trans" ver="1">During that period, there was no choice but to stop the compilation of the imperial anthology because Tamekane KYOGOKU was exiled to Sado province by the bakufu and Emperor Fushimi was forced to abdicate the throne.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During that period, there was no choice but to stop the compilation of the imperial anthology because Tamekane KYOGOKU was exiled to Sado province by the bakufu and Emperor Fushimi was forced to abdicate the throne.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">During that period in 1298, there was no choice but to stop the compilation of the imperial anthology because Tamekane KYOGOKU was exiled to Sado Province by the bakufu and Emperor Fushimi was forced to abdicate the throne.</e>
+<cmt>年号補足</cmt>
+</sen>
+<sen id="11">
+<j>その後、乾元 (日本)2年（1303年）になって為兼は召還され、徳治3年（1308年）伏見院政の開始に伴い、漸く勅撰集編纂事業は続行された。</j>
+<e type="trans" ver="1">After that, Tamekane was recalled in 1303, and in accordance with the start of cloistered goverment by Retired Emperor Fushimi, the project of compiling the imperial anthology was finally continued.</e>
+<cmt>一文一翻訳原則の例外</cmt>
+<e type="trans" ver="2">After that, Tamekane was recalled in 1303, and in accordance with the start of cloistered goverment by Retired Emperor Fushimi, the project of compiling the imperial anthology was finally able to be continued.</e>
+<cmt>Added &quot;able to be continued&quot;, both to read more naturally and for a closer translation of 「続行された」</cmt>
+<e type="check" ver="1">After that, Tamekane was recalled in 1303, and in accordance with the start of cloistered government by Retired Emperor Fushimi, the project of compiling the imperial anthology was finally able to be continued.</e>
+<cmt>スペルを修正</cmt>
+</sen>
+<sen id="12">
+<j>為世の猛烈な反対にも拘らず、応長元年5月3日 (旧暦)（1311年5月21日）、為兼が単独で撰進すべき命が下ったのであった（『延慶両卿訴陳状』）。</j>
+<e type="trans" ver="1">In spite of Tameyo&apos;s strong opposition, on May 3 in the first year of Ocho (May 21, 1311), it was ordered that Tamekane should compile the collection and present it alone. (&quot;Pettition by Two Nobles of the Enkei Era&quot;.)</e>
+<cmt>一文一翻訳原則の例外</cmt>
+<e type="trans" ver="2">In spite of Tameyo&apos;s strong opposition, on May 3 in the first year of Ocho (May 21, 1311), it was ordered that Tamekane should compile the collection and present it alone (Petition by Two Nobles of the Enkei Era).</e>
+<cmt>Took title out of quotation marks.</cmt>
+<e type="check" ver="1">In spite of Tameyo&apos;s strong opposition, on May 21, 1311, it was ordered that Tamekane should compile the collection and present it alone (&quot;Petition by Two Nobles of the Enkei Era&quot;).</e>
+<cmt>May 3 in the first year of Ocho 削除</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="13">
+<j>こうして完成した『玉葉集』は、持明院統・京極派優先主義を貫き、大覚寺統・二条派の者に関しては過度なまでに冷遇し、二条為氏（16首）以下、形ばかりの入集である。</j>
+<e type="trans" ver="1">&quot;Collection of Jeweled Leaves&quot;, completed in such a way, prioritized the Jimyo-in line and the Kyogoku faction throughout, treating the Daikakuji line and the Nijo faction almost too coldly, including only a token amount their poems, with no more than 16 even for Tameuji NIJO</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gyokuyo wakashu was compiled in such a way as to prioritize the Jimyo-in line and the Kyogoku faction throughout, treating the Daikakuji line and the Nijo faction almost too coldly, including only a token amount their poems, with no more than 16 even for Tameuji NIJO.</e>
+<cmt>Changed &quot;completed&quot; to &quot;compiled&quot; as I think that is more accurate here. Changed English title for Japanese, added &quot; was completed in such a way as to&quot; to make the sentence read more naturally. Added period at the end.</cmt>
+<e type="check" ver="1">&quot;Gyokuyo wakashu&quot; was compiled in such a way as to prioritize the Jimyo-in line and the Kyogoku faction throughout, treating the Daikakuji line and the Nijo faction almost too coldly, including only a token amount their poems, with no more than 16 even for Tameuji NIJO.</e>
+<cmt>&quot;補足</cmt>
+</sen>
+<sen id="14">
+<j>また当代重視方針を取り、藤原定家・藤原俊成・西行・藤原為家ら中世初期の著名歌人も50首以上採られているが、入集を果たした180人のうち、113人は勅撰集初出で、中でも女流の占める比重が過半数と大きい。</j>
+<e type="trans" ver="1">It also took a policy that emphasized the contemporary, so that though famous medieval poets like FUJIWARA no Teika, FUJIWARA no Shunzei, Saigyo, and FUJIWARA no Tameie had over fifty poems included, among the 180 poets in the collection, 113 were appearing for the first time, over half of which were women, a rather large number.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It also took a policy of placing emphasis on contemporary works, so although famous medieval poets like FUJIWARA no Teika, FUJIWARA no Shunzei, Saigyo, and FUJIWARA no Tameie had over fifty poems included, among the 180 poets in the collection, 113 appeared for the first time, over half of which were women, a rather large number for the time.</e>
+<cmt>Changed &quot;It also took a policy that emphasized the contemporary&quot; to &quot;It also took a policy of placing emphasis on contemporary works&quot; as I felt this read a bit more naturally. Changed &quot;so that though&quot; with &quot;so although&quot; to read a little smoother. I also felt that &quot;a rather large number&quot; had a slight air of subjective opinion about it, so I added &quot;for the time&quot;.</cmt>
+<e type="check" ver="1">It also took a policy of placing emphasis on contemporary works, so although famous medieval poets like FUJIWARA no Teika, FUJIWARA no Shunzei, Saigyo, and FUJIWARA no Tameie had over fifty poems included, among the 180 poets in the collection, 113 appeared for the first time, over half of which were women, a rather large number for the time.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>当代の歌人では、伏見院の93首が群を抜き、西園寺実兼・京極為教女京極為子（共に60首）、西園寺しょう子（49首）、京極為兼（36首）ら、前期京極派の主要歌人の顔ぶれが揃う。</j>
+<e type="trans" ver="1">Among contemporary poets, Cloistered Emperor Fushimi led the group with 93 poems,followed by SAIONJI Sanekane and KYOGOKU Tamenori&apos;s daughter KYOGOKU Tameko (60 poems each), SAIONJI Shoshi (49), and KYOGOKU Tamekane(36), gathering all the major poets of the early Kyogoku faction.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Among contemporary poets, Cloistered Emperor Fushimi led the group with 93 poems,followed by SAIONJI Sanekane and KYOGOKU Tamenori&apos;s daughter KYOGOKU Tameko (60 poems each), SAIONJI Shoshi (49), and KYOGOKU Tamekane(36), gathering all the major poets of the early Kyogoku faction.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Among contemporary poets, Fushimi-in led the group with 93 poems,followed by Sanekane SAIONJI and Tamenori KYOGOKU&apos;s daughter Tameko KYOGOKU (60 poems each), Shoshi SAIONJI (49), and Tamekane KYOGOKU (36), gathering all the major poets of the early Kyogoku faction.</e>
+<cmt>Cloistered Emperor 削除in 補足姓名順番入れ替え</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="16">
+<j>『玉葉集』の名義は『万葉集』を思わせ、紀貫之の歌を巻頭に据えるなど、古歌を多く採っているが、それにも増してこの集の特色は、伝統を踏襲することを良しとせず、大胆にも斬新な表現上の技法を取り入れ、清新自由な歌風を創出したことにある。</j>
+<e type="trans" ver="1">Though the title of the &quot;Collection of Jeweled Leaves&quot; is reminiscent of the &quot;Manyoshu&quot;, and it did include a number of older poems, with a poem by KI no Tsurayuki starting off the collection, its most salient characteristic was not in following tradition, but in boldly incorporating new techniques of expression, and creating a free and fresh new poetic style.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though the title Gyokuyoshu is reminiscent of Manyoshu (Ten Thousand Poems), and similarly includes a number of older poems, including a poem by KI no Tsurayuki starting off the collection, its most salient characteristic was not in following tradition, but in boldly incorporating new techniques of expression, and creating a free and fresh new poetic style.</e>
+<cmt>Replaced English ｔｉｔｌｅ with Japanese to make the comparison more apparent. Changed &quot;and it did include&quot; with &quot;and similarly includes&quot; and &quot;with&quot; to &quot;includes&quot; to capture the meaning better.</cmt>
+<e type="check" ver="1">Although the title &quot;Gyokuyoshu&quot; is reminiscent of &quot;Manyoshu&quot; (Ten Thousand Poems), and similarly includes a number of older poems, including a poem by KI no Tsurayuki starting off the collection, its most salient characteristic was not in following tradition, but in boldly incorporating new techniques of expression, and creating a free and fresh new poetic style.</e>
+<cmt>&quot;補足&quot;Though&quot;→&quot;Although&quot;に変更しました。</cmt>
+</sen>
+<sen id="17">
+<j>動と静の対比、時間の推移の描写、擬態語・対句・同音反復の頻繁な使用など、従来の用語を使いながらも、革新的な試みがなされ、二条派の平淡な歌風に馴染んだ人に鮮明な印象を与える。</j>
+<e type="trans" ver="1">Contrasting movement and stillness, describing the passage of time, and with frequent use of gitaigo (mimetic words), parallelism, and sound repetition, even while using the traditional vocabulary, it was a revolutionary attempt that makes a fresh impression on anyone used to the flat style of the Nijo faction.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Contrasting movement and stillness, describing the passage of time, and with frequent use of gitaigo (mimetic words), parallelism, and sound repetition, even while using the traditional vocabulary, it was a revolutionary effort that makes a vivid impression on anyone more familiar with the flat style of the Nijo faction.</e>
+<cmt>Changed &quot;attempt&quot; to &quot;effort&quot;, &quot;fresh&quot; to &quot;vivid&quot; and &quot;used to&quot; to &quot;more familiar with&quot; to make the sentence read a bit more naturally.</cmt>
+<e type="check" ver="1">Contrasting movement and stillness, describing the passage of time, and with frequent use of gitaigo (mimetic words), parallelism, and sound repetition, even while using the traditional vocabulary, it was a revolutionary effort that makes a vivid impression on anyone more familiar with the flat style of the Nijo faction.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>また、創意に乏しい題詠の数を抑え、精緻な自然観照や、純粋な心情の吐露など、鋭い感受性を伴った歌を目指した。</j>
+<e type="trans" ver="1">Furthermore, restricting the number of uncreative poetic topics, it aimed for poems with a fine sensitivity, with detailed observation of nature, and the expression of pure feeling.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, restricting the number of uncreative poetic topics, it aimed for poems with a fine sensitivity, a detailed observation of nature, and an expression of pure feeling.</e>
+<cmt>Replaced &quot;with&quot; with &quot;a&quot; and &quot;the&quot; with &quot;an&quot; to make the sentence flow a little better.</cmt>
+<e type="check" ver="1">Furthermore, restricting the number of uncreative poetic topics, it aimed for poems with a fine sensitivity, a detailed observation of nature, and an expression of pure feeling.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>しかし、詩的工夫に固持し、「字余り」も辞さなかった結果、入念な彫琢が造作の痕跡を残し、流麗な調べに欠ける歌も多い。</j>
+<e type="trans" ver="1">However, because it insisted on poetic technique, and did not allow poems with extra syllables, it left behind the traces of artificial polishing, so that many poems failed to achieve true beauty.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, because it insisted on poetic technique, and did not allow poems with extra syllables, it left behind the traces of artificial polishing, so that many poems failed to achieve true beauty.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, because it insisted on poetic technique, and did not allow poems with extra syllables, it left behind the traces of artificial polishing, so that many poems failed to achieve true beauty.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="20">
+<j>玉葉集は、新古今で行き詰まった和歌の世界へ新風を吹きいれた非凡な作品であるにもかかわらず、僅かに『風雅和歌集』という後継者を得ただけで、その後何世紀にも渡って歌壇を保守的な二条派が主導したため、長らく異端視され続けた。</j>
+<e type="trans" ver="1">Though the &quot;Collection of Jeweled Leaves&quot; was an extraordinary work that ushered in a new phase in the world of waka, which had reached a dead end with the Shinkokinshu, it was followed only by the &quot;Collection of Elegance&quot;(Fuga waka shu) and was long regarded as heretical because the conservative Nijo faction led waka circles for many centuries.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though Gyokuyo wakashu was an extraordinary work that ushered in a new phase in the world of waka, which had reached a dead end with the Shinkokinshu, it was followed only by Fuga waka shu (Collection of Elegance) and was long regarded as heretical because the conservative Nijo faction led waka circles for many centuries.</e>
+<cmt>Used original Japanese titles and placed English in parenthesis for continuity with the rest of the translation.</cmt>
+<e type="check" ver="1">Although Gyokuyo wakashu was an extraordinary work that ushered in a new phase in the world of waka, which had reached a dead end with the Shinkokinshu, it was followed only by &quot;Fuga waka shu&quot; (Collection of Elegance) and was long regarded as heretical because the conservative Nijo faction led waka circles for many centuries.</e>
+<cmt>&quot;補足&quot;Though&quot;→&quot;Although&quot;に変更しました。</cmt>
+</sen>
+<sen id="21">
+<j>近代になって、歌人・土岐善麿（1885－1980）によって緻密な研究がなされ、京極派が再評価されてから、改めて『玉葉集』は脚光を浴びるようになった。</j>
+<e type="trans" ver="1">In modern times, after a close study by the poet Zenmaro TOKI (1885－1980) and his reevaluation of the Kyogoku faction, the &quot;Collection of Jeweled Leaves&quot; began to receive attention again.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In modern times, after a close study by the poet Zenmaro TOKI (1885－1980) and his reevaluation of the Kyogoku faction, Gyokuyo wakashu began to receive attention again.</e>
+<cmt>Used Japanese title as above.</cmt>
+<e type="check" ver="1">In modern times, after a close study by the poet Zenmaro TOKI (1885－1980) and his reevaluation of the Kyogoku faction, &quot;Gyokuyo wakashu&quot; began to receive attention again.</e>
+<cmt>&quot;補足</cmt>
+</sen>
+<sen id="22">
+<j>岩佐美代子氏による全注釈も出て、近年は研究が盛んである。</j>
+<e type="trans" ver="1">With the publication of a complete commentary by Miyoko Iwasa, research on it has flourished in recent years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With the publication of a complete commentary by Miyoko Iwasa, research on it has flourished in recent years.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">With the publication of a complete commentary by Miyoko IWASA, research on it has flourished in recent years.</e>
+<cmt>名字大文字</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Loveless(id:129239), Yume149(id:17504), Tcyiswalk(id:7279), Auxgllot(id:110551), Modeha(id:1276), 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

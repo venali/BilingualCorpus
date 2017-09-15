@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>長井時秀</j>
+<e type="trans" ver="1">Tokihide NAGAI</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tokihide NAGAI</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tokihide NAGAI</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>長井 時秀（ながい ときひで、生没年不詳）は鎌倉時代の人物。</j>
+<e type="trans" ver="1">Yasuhide NAGAI (date of birth and death unknown) was a personality in the Kamakura period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yasuhide NAGAI (date of birth and death unknown) was a person in the Kamakura period.</e>
+<cmt>ｐersonalityは確かに名士、有名人などの意味がありますが、多くの場合性格などの意味、またはラジオetcのパーソナリティなどの意味で使われているので、単にpersonまたはmanとした方が分かりやすいと思われます。</cmt>
+<e type="check" ver="1">Yasuhide NAGAI (date of birth and death unknown) was a person in the Kamakura period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>長井泰秀の子。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2">He was a son of Yasuhide NAGAI.</e>
+<cmt>未訳でした。</cmt>
+<e type="check" ver="1">He was a son of Yasuhide NAGAI.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>『吾妻鏡』1254年（建長6年）12月1日条によると、父の死の翌年には引付衆五番に任ぜられた。</j>
+<e type="trans" ver="1">According to the article dated December 1, 1254, of &quot;Azuma Kagami&quot;, he was assigned to Hikitsukeshu (Coadjustor of the High Court) the next year after the death of his father, the article dated October 30, 1257, of &quot;Azuma Kagami&quot; says that he went to Kyoto as Toshi (messenger from the Kamakura bakufu to the Imperial Court in Kyoto) in 1264 and 1282.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the article of &quot;Azuma Kagami&quot; (The Mirror of the East) for December 1, 1254, he was assigned to Fifth rank Hikitsukeshu (Coadjustor of the High Court) in the year after the death of his father, and the item of &quot;Azuma Kagami&quot; (The Mirror of the East) for October 30, 1257, as well as the articles for 1264 and 1282, say that he went to Kyoto as Toshi (messenger from the Kamakura bakufu to the Imperial Court in Kyoto).</e>
+<cmt>of &quot;Azuma Kagami&quot;の前の「,」は不要です（二ヶ所）。the next year afterではなく、in the year afterです。&quot;Azuma Kagami&quot; の補足(The Mirror of the East) が抜けています。「引付衆五番」の「五番」が訳抜けしています。「1257年10月30日条を始め、」というのは、「1257年を含め、1264年、1282年にも、」ということで、1257年条の時点で未来となる1264年、1282年の東使の事実が1257年に記載されることは無いため、「article in 1257…says…in 1264 and 1282」は間違いです。</cmt>
+<e type="check" ver="1">According to the article dated December 1, 1254, of &quot;Azuma Kagami&quot; (The Mirror of the East), he was appointed to Fifth rank Hikitsukeshu (Coadjustor of the High Court) the year after the death of his father.</e>
+<cmt>内容を修正しました。一原文一訳文の例外対処</cmt>
+</sen>
+<sen id="4">
+<j>『吾妻鏡』1257年（正嘉元年）10月30日条を始め、1264年（文永元年）、1282年（弘安5年）にも東使として京に赴いたことが解る。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The article dated October 30, 1257 as well as the articles of 1264 and 1282 of &quot;Azuma Kagami&quot; indicates that he went to Kyoto as Toshi (a messenger from the Kamakura bakufu to the Imperial Court in Kyoto).</e>
+<cmt>内容を修正しました。一原文一訳文の例外対処</cmt>
+</sen>
+<sen id="5">
+<j>その間1265年（文永2年）6月11日条では評定衆に新任とあり、1271年（文永8年）には備前守となる。</j>
+<e type="trans" ver="1">In the article dated June 11, 1265, he was appointed as a new hyojoshu (a member of Council of State) and became Bizen no kami (provincial governor of Bizen) in 1271.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the article dated June 11, 1265, he was appointed as a new hyojoshu (a member of Council of State), and became Bizen no kami (provincial governor of Bizen) in 1271.</e>
+<cmt>In the article dated June 11, 1265,で始まっているので、”says that”または”Arccording to...” とならなければ内容的におかしいかと思われます。According to から始まり、文後半で年代が違うものを話しているので、andの前に「、」を入れました。</cmt>
+<e type="check" ver="1">According to the article dated June 11, 1265, he was appointed as a new hyojoshu (a member of Council of State), and became Bizen no kami (provincial governor of Bizen) in 1271.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>子に長井宗秀があり、『吾妻鏡』の編纂者のひとりではないかと推測されている。</j>
+<e type="trans" ver="1">He had a son named Munehide NAGAI, who was presumed to be one of compilers of &quot;Azuma Kagami&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He had a son named Munehide NAGAI, who was presumed to be one of compilers of &quot;Azuma Kagami&quot; (The Mirror of the East).</e>
+<cmt>Azuma Kagami の補足(The Mirror of the East) が抜けています。</cmt>
+<e type="check" ver="1">He had a son named Munehide NAGAI, who was presumed to be one of compilers of &quot;Azuma Kagami&quot; (The Mirror of the East).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Ktmchi(id:113301), 松茸(id:27535), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

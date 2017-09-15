@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>いちご大福</j>
+<e type="trans" ver="1">Ichigo Daifuku</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ichigo Daifuku</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ichigo Daifuku (Japanese confection made from a strawberry and rice cake)</e>
+<cmt>説明追記 （長くなるので簡潔にしました。）</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>いちご大福（いちごだいふく）は、餡を餅で包んだ大福に、イチゴを入れた和菓子の一種。</j>
+<e type="trans" ver="1">&quot;Ichigo Daifuku&quot; is a kind of Japanese sweets that has a strawberry inside Daifuku, which is a rice cake stuffed with sweet bean paste.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Ichigo daifuku&quot; is a kind of Japanese confection consisting of a strawberry inside &apos;daifuku&apos;, which is a rice cake stuffed with sweet bean paste.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Ichigo daifuku is a kind of Japanese confection consisting of a strawberry inside &apos;daifuku&apos;, which is a rice cake stuffed with sweet bean paste.</e>
+<cmt>文頭の &quot;&quot; 削除</cmt>
+</sen>
+<sen id="2">
+<j>餡は餡菓子の餡を使う地域と、白餡を使う地域がある。</j>
+<e type="trans" ver="1">Some regions use the regular sweet bean paste found in most Japanese sweets, and others use white sweet bean paste.</e>
+<cmt>用語集の用語はこの文脈では合わないので、変更しています。「餡菓子の餡」をそのまま訳出しすると冗長な表現となるため、「多くの和菓子に使われる通常の餡」と訳してあります。</cmt>
+<e type="trans" ver="2">Some regions use the regular sweet bean paste found in most Japanese sweets, and others use white sweet bean paste.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some regions use the regular sweet bean paste found in most Japanese sweets, and others use white sweet bean paste.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>餡の他にイチゴのみ、イチゴと生クリームなど、さまざまなものがある。</j>
+<e type="trans" ver="1">There are various types of Ichigo Daifuku, including one with only a strawberry and another with whipped cream and a strawberry, in addition to the regular kind with sweet bean paste and a strawberry.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are various other types of ichigo daifuku, including ones with only a strawberry and ones with whipped cream and a strawberry.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">There are various other types of ichigo daifuku, including ones with only a strawberry and ones with whipped cream and a strawberry.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>生鮮食品であるイチゴを使用するため、冬から春にかけての限定商品として扱われることが多い。</j>
+<e type="trans" ver="1">As it uses a perishable food product, strawberries, it is often treated as a limited-time product that is available from winter through spring.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since they are made using strawberries, a perishable ingredient, they are often treated as limited-time products available from winter through spring.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Since they are made using strawberries, a perishable ingredient, they are often treated as limited-time products available from winter through spring.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>（後述の津市とらやの主張によれば）昭和60年頃に生まれた、新しい和菓子である。</j>
+<e type="trans" ver="1">(According to the claim of Tora-ya Shop in Tsu City that is described later,) Ichigo Daifuku is a new Japanese sweet born around 1985.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to Tora-ya in Tsu City (see below), ichigo daifuku are a new Japanese confection first made around 1985.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">According to Tora-ya in Tsu City (see below), ichigo daifuku are a new Japanese confection first made around 1985.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>「元祖」を名乗る和菓子屋が複数乱立している。</j>
+<e type="trans" ver="1">There are too many Japanese sweet shops introducing themselves as &apos;Ganso&apos; (the originator).</e>
+<cmt>一原文一訳文例外対処。</cmt>
+<e type="trans" ver="2">Many confectioneries claim to have invented ichigo daifuku</e>
+<cmt>Revised to join to cell F14 as I think it&apos;s better as 1 sentence</cmt>
+<e type="check" ver="1">Many confectioneries claim to have invented ichigo daifuku so the exact origins are unknown.</e>
+<cmt>ＮＣコメントどおり、一文に戻しました。</cmt>
+</sen>
+<sen id="7">
+<j>そのため、正確な始まりはわかっていない。</j>
+<e type="trans" ver="1">Hence, its precise origin is unknown.</e>
+<cmt>一原文一訳文例外対処。</cmt>
+<e type="trans" ver="2">so the exact origins are unknown.</e>
+<cmt>Revised to join to cell F13 as I think it&apos;s better as 1 sentence</cmt>
+<e type="check" ver="1">so the exact origins are unknown.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>元祖を名乗る店は、東京都新宿区住吉町 (新宿区)(大角玉屋「いちご豆大福」)、群馬県前橋市（金内屋）、三重県津市（とらや本家）、三重県伊賀市（欣榮堂）、滋賀県大津市（松田常盤堂）、岡山県倉敷市（甘月堂）など全国各地に点在する。</j>
+<e type="trans" ver="1">These shops are dotted all over the country, including Osumi Tama-ya Shop that sells &apos;Ichigo Mame-daifuku&apos; (a kind of Ichigo Daifuku that has a strawberry inside Mame-daifuku, which is a bean rice cake stuffed with sweet bean paste) in Sumiyoshi-cho, Shinjuku Ward, Tokyo Metropolis, Kaneuchi-ya Shop in Maebashi City, Gunma Prefecture, Tora-ya Honke (Tora-ya Shop Originator) in Tsu City, Mie Prefecture, Kinei-do Shop, in Iga City, Mie Prefecture, Matsuda Tokiwa-do Shop, in Otsu City, Shiga Prefecture, and Kangetsu-do Shop in Kurashiki City, Okayama Prefecture.</e>
+<cmt>原文では2つの列を1文で訳出ししてあります。</cmt>
+<e type="trans" ver="2">These shops are dotted all over the country and include Osumi Tama-ya in Sumiyoshi-cho, Shinjuku Ward, Tokyo that sells &apos;Ichigo Mame-daifuku&apos; (a kind of ichigo daifuku where the rice cake contains beans); Kaneuchi-ya in Maebashi City, Gunma Prefecture; Tora-ya Honke in Tsu City, Mie Prefecture; Kinei-do in Iga City, Mie Prefecture; Matsuda Tokiwa-do in Otsu City, Shiga Prefecture; and Kangetsu-do in Kurashiki City, Okayama Prefecture.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">These shops are dotted all over the country and include Osumi Tama-ya in Sumiyoshi-cho, Shinjuku Ward, Tokyo that sells &apos;Ichigo Mame-daifuku&apos; (a kind of ichigo daifuku where the rice cake contains beans); Kaneuchi-ya in Maebashi City, Gunma Prefecture; Tora-ya Honke in Tsu City, Mie Prefecture; Kinei-do in Iga City, Mie Prefecture; Matsuda Tokiwa-do in Otsu City, Shiga Prefecture; and Kangetsu-do in Kurashiki City, Okayama Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>いちご大福の製造法の特許を保有しているのは、「大角玉屋」である。</j>
+<e type="trans" ver="1">The patentee of the manufacturing process of Ichigo Daifuku is &apos;Osumi Tama-ya Shop.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The holder of the patent for the ichigo daifuku manufacturing process is &apos;Osumi Tama-ya Shop.&apos;</e>
+<cmt>Revised for clarity - I think patentee sounds a little legalese</cmt>
+<e type="check" ver="1">The holder of the patent for the ichigo daifuku manufacturing process is &apos;Osumi Tama-ya Shop.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>元祖を名乗る津市「とらや本家」は、「製法が外部に流出するのを恐れて特許などの申請を行わなかった」と主張している。</j>
+<e type="trans" ver="1">Tora-ya Honke&apos; in Tsu City, which gives its name as Ganso, claims &apos;it did not apply for a patent because it was afraid its manufacturing method could leak out.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tora-ya Honke in Tsu City, which advertises itself as the inventor of ichigo daifuku, claims &apos;it did not apply for a patent because it was afraid its manufacturing method could leak out.&apos;</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Tora-ya Honke in Tsu City, which advertises itself as the inventor of ichigo daifuku, claims &apos;it did not apply for a patent because it was afraid its manufacturing method could leak out.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Huugo(id:61491), ぱむ(id:24323), 寒(id:53831), Eno(id:18745), じゅらい(id:199203), 草苺(id:116595), 竹麦魚(id:11012), Kany1120(id:107218), Marine-Blue(id:20162), Stella Noel(id:195266), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

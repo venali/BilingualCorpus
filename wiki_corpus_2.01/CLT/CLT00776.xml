@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>射詰</j>
+<e type="trans" ver="1">Izume (射詰)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Izume</e>
+<cmt>(射詰) を削除しました。</cmt>
+<e type="check" ver="1">Izume</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>射詰（いづめ）とは、弓道の個人競技において、決勝で順位を決定する方法。</j>
+<e type="trans" ver="1">Izume means a method of deciding ranking in the final game of a non-team tournament of Japanese archery.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Izume refers a method of deciding ranking in the final of an individual tournament of Japanese archery.</e>
+<cmt>means→refers,final game→final,a non-team→an individual と修正しました。</cmt>
+<e type="check" ver="1">Izume refers a method of deciding ranking in the final of an individual tournament of Japanese archery.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>一射ずつ矢を放ち、失中した者は除かれ、的中した者は次の一射を行い、最終的に残った者（的中させ続けた者）が勝ちとなる。</j>
+<e type="trans" ver="1">The process of izume is as follows: players shoot an arrow each; those who have missed the target are eliminated; players who hit the target shoot a second arrows each and so on; and the player who stays till the end (who keeps hitting the target) becomes the winner.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The process of izume is as follows: Competitors shoot an arrow each; those who have missed the target are eliminated; competitors who hit the target shoot a second arrow each and so on; and the competitor who stays until the end (who keeps hitting the target) becomes the winner.</e>
+<cmt>players, player→Competitors, competitorsecond arrows→second arrow,till→until と修正しました。</cmt>
+<e type="check" ver="1">The process of izume is as follows: Competitors shoot an arrow each; those who have missed the target are eliminated; competitors who hit the target shoot a second arrow each and so on; and the competitor who stays until the end (who keeps hitting the target) becomes the winner.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>ただし、全員が的を外した場合は、再び射ることが出来る。</j>
+<e type="trans" ver="1">However, if all players miss the target, then they will be able to shoot an arrow each again.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, if all competitors miss the target, then they will be able to shoot again.</e>
+<cmt>players→competitors と修正しました。an arrow each をｓ駆除しました。（”一射”とは記述していないので）</cmt>
+<e type="check" ver="1">However, if all competitors miss the target, then they will be able to shoot again.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>勝敗の付け方</j>
+<e type="trans" ver="1">How to decide the outcome of a game</e>
+<cmt></cmt>
+<e type="trans" ver="2">How to decide the outcome of a competition</e>
+<cmt>game→competition と修正しました。</cmt>
+<e type="check" ver="1">How to decide the outcome of a competition</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>基本的には、連続で的中し続けたものが勝ち。</j>
+<e type="trans" ver="1">Basically the player who continues to hit the target will win.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Basically, the competitor who continues to hit the target will win.</e>
+<cmt>カンマを挿入しました。player→competitor と修正しました。</cmt>
+<e type="check" ver="1">Basically, the competitor who continues to hit the target will win.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>的を外した者はそこで競技終了となる。</j>
+<e type="trans" ver="1">The player has lost the game when missing the target.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The competitor finishes the competition when he or she misses the target.</e>
+<cmt>player→competitor,原文に応じて修正しました。</cmt>
+<e type="check" ver="1">The competitor finishes the competition when he or she misses the target.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>以下に例を示す（○は中り、×は外れを示す）。</j>
+<e type="trans" ver="1">Some game examples are shown below (O means a hit and X means a miss).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Examples are shown as follows (O means a hit and X means a miss).</e>
+<cmt>Some game examples are shown below→Examples are shown as follows と修正しました。</cmt>
+<e type="check" ver="1">Examples are shown as follows (O means a hit and X means a miss).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>Ａ ○○○×　→2位</j>
+<e type="trans" ver="1">A OOOX =&gt;2nd place</e>
+<cmt></cmt>
+<e type="trans" ver="2">A OOOX =&gt;Second place</e>
+<cmt>2nd→Second と修正しました。</cmt>
+<e type="check" ver="1">A OOOX =&gt;Second place</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>Ｂ ○○○○　→1位</j>
+<e type="trans" ver="1">B OOOO =&gt;1st place</e>
+<cmt></cmt>
+<e type="trans" ver="2">B OOOO =&gt;First place</e>
+<cmt>1st→First と修正しました。</cmt>
+<e type="check" ver="1">B OOOO =&gt;First place</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>Ｃ ○×　→3位</j>
+<e type="trans" ver="1">Ｃ OX =&gt;3rd place</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ｃ OX =&gt;Third place</e>
+<cmt>3rd→Third と修正しました。</cmt>
+<e type="check" ver="1">Ｃ OX =&gt;Third place</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="11">
+<j>Ｄ ×　→4位</j>
+<e type="trans" ver="1">D X =&gt;4th place</e>
+<cmt></cmt>
+<e type="trans" ver="2">D X =&gt;Fourth place</e>
+<cmt>4th→Fourth と修正しました。</cmt>
+<e type="check" ver="1">D X =&gt;Fourth place</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="12">
+<j>失中者の順位を決定する際には（以下例ではＡとCの順位を決定する場合）遠近競射を行う。</j>
+<e type="trans" ver="1">The ranking of those who have missed the target (A and C in the following case) is to be decided by enkin-kyosha (遠近競射: competition shooting to decide ranking based on how close an arrow is to the center of the target)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ranking of those who missed the target (A and C in the following case) is decided by enkin-kyosha (competition shooting to decide ranking based on how close an arrow is to the center of the target).</e>
+<cmt>have missed→missed,to be を削除しました。遠近競射: を削除しました。</cmt>
+<e type="check" ver="1">The ranking of those who missed the target (A and C in the following case) is decided by enkin-kyosha (competition shooting to decide ranking based on how close an arrow is to the center of the target).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="13">
+<j>Ａ ○○○×　→遠近競射で決定</j>
+<e type="trans" ver="1">A OOOX =&gt;to be decided by enkin-kyosha</e>
+<cmt></cmt>
+<e type="trans" ver="2">A OOOX =&gt;to be decided by enkin-kyosha</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A OOOX =&gt;to be decided by enkin-kyosha</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="14">
+<j>Ｂ ○○○○ →1位</j>
+<e type="trans" ver="1">B OOOO =&gt;1st place</e>
+<cmt></cmt>
+<e type="trans" ver="2">B OOOO =&gt;First place</e>
+<cmt>1st→First と修正しました。</cmt>
+<e type="check" ver="1">B OOOO =&gt;First place</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="15">
+<j>Ｃ ○○○×　→遠近競射で決定</j>
+<e type="trans" ver="1">Ｃ OOOX =&gt;to be decided by enkin-kyosha</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ｃ OOOX =&gt;to be decided by enkin-kyosha</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ｃ OOOX =&gt;to be decided by enkin-kyosha</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="16">
+<j>Ｄ ×　→4位</j>
+<e type="trans" ver="1">D X =&gt;4th place</e>
+<cmt></cmt>
+<e type="trans" ver="2">D X =&gt;Fourth place</e>
+<cmt>4th→Fourth と修正しました。</cmt>
+<e type="check" ver="1">D X =&gt;Fourth place</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="17">
+<j>ただし全員が失中した場合は、再度全員が一矢ずつ射る。</j>
+<e type="trans" ver="1">If all players have missed the target, then everyone shoots again.</e>
+<cmt></cmt>
+<e type="trans" ver="2">If all players miss the target, then everyone shoots one arrow each again.</e>
+<cmt>have missed→miss, ”一矢ずつ”を補いました。</cmt>
+<e type="check" ver="1">If all players miss the target, then everyone shoots one arrow each again.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>連続的中をしなくても以下の場合はＢが勝ちである。</j>
+<e type="trans" ver="1">None of the players has consecutively hit the target in the following example, but the winner is still B.</e>
+<cmt></cmt>
+<e type="trans" ver="2">None of the players has consecutively hit the target in the following example, but the winner is still B.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">None of the players has consecutively hit the target in the following example, but the winner is still B.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="19">
+<j>Ａ ○×○×　→2位</j>
+<e type="trans" ver="1">A OXOX =&gt;2nd place</e>
+<cmt></cmt>
+<e type="trans" ver="2">A OXOX =&gt;Second place</e>
+<cmt>2nd→Second と修正しました。</cmt>
+<e type="check" ver="1">A OXOX =&gt;Second place</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="20">
+<j>Ｂ ○×○○ →1位</j>
+<e type="trans" ver="1">B OXOO =&gt;1st place</e>
+<cmt></cmt>
+<e type="trans" ver="2">B OXOO =&gt;First place</e>
+<cmt>1st→First と修正しました。</cmt>
+<e type="check" ver="1">B OXOO =&gt;First place</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="21">
+<j>Ｃ ○××　→3位</j>
+<e type="trans" ver="1">Ｃ OXX =&gt;3rd place</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ｃ OXX =&gt;Third place</e>
+<cmt>3rd→Third と修正しました。</cmt>
+<e type="check" ver="1">Ｃ OXX =&gt;Third place</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="22">
+<j>Ｄ ×　→4位</j>
+<e type="trans" ver="1">D X =&gt;4th place</e>
+<cmt></cmt>
+<e type="trans" ver="2">D X =&gt;Fourth place</e>
+<cmt>4th→Fourth と修正しました。</cmt>
+<e type="check" ver="1">D X =&gt;Fourth place</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="23">
+<j>この場合は二射目でＡ、Ｂ、Ｃの全員が外している為、Ａ、Ｂ、Ｃは再び射ることができる。</j>
+<e type="trans" ver="1">In the above case, A, B and C are allowed to shoot once again as they have equally missed the target at the second shooting.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the case above, A, B and C are allowed to shoot once again as they have equally missed the target at the second shooting.</e>
+<cmt>the above case→the case above と修正しました。</cmt>
+<e type="check" ver="1">In the case above, A, B and C are allowed to shoot once again as they have equally missed the target at the second shooting.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>Ｄは一射目で外しているので射ることができない。</j>
+<e type="trans" ver="1">Having missed the target at the first shooting, D is not given another chance.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since missing the target at the first shooting, D is not given another chance.</e>
+<cmt>Having missing→Since missing と修正しました。</cmt>
+<e type="check" ver="1">Since missing the target at the first shooting, D is not given another chance.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 アセルス(id:87426), MizunoH(id:112470), 久太郎(id:188054), Me2hero(id:12313), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

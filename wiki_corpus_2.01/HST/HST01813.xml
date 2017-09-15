@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>裁判至要抄</j>
+<e type="trans" ver="1">Saibansiyosho</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saibanshiyosho</e>
+<cmt>「至要抄」の部分の対訳がsiyosho となっておりますが、ヘボン式でshiyosho の方がよいのではないでしょうか。翻訳仕様指示書にもそのようにありますので、以下、変更いたします。</cmt>
+<e type="check" ver="1">Saibanshiyosho</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>裁判至要抄（さいばんしようしょう）は、鎌倉時代初期の承元元年（1207年）に後鳥羽上皇の院宣を受けた坂上明基によって編纂された勅撰法律書。</j>
+<e type="trans" ver="1">Saibansiyosho is a law book compiled by SAKANOUE no Akimoto on the Imperial command of the retired Emperor Gotoba in 1207, the beginning of the Kamakura period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saibanshiyosho is a law book compiled by SAKANOUE no Akimoto on the Imperial command of the retired Emperor Gotoba in 1207, the beginning of the Kamakura period.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Saibanshiyosho is a law book compiled by SAKANOUE no Akimoto on the Imperial command of the retired Emperor Gotoba in 1207, the beginning of the Kamakura period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>全1巻。</j>
+<e type="trans" ver="1">One volume in total.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One volume in total.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">One volume in total.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>民事法を中心として33の事例について、律令格式のからの引用と著者である坂上明基の解釈を記した案文から構成されている。</j>
+<e type="trans" ver="1">It consists of thirty-three cases, mainly civil legal ones, which include citation from Laws of codes and ethics (conduct) as well as texts describing interpretation of the author, SAKANOUE no Akimoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It consists of thirty-three cases, mainly civil legal ones, which include citation from Laws of codes and ethics (conduct) as well as texts for interpretation by the author, SAKANOUE no Akimoto.</e>
+<cmt>わかりにくかったので、describing interpretation を単にfor interpretation としました。したがて、of the author → by the author に変更しました。</cmt>
+<e type="check" ver="1">It consists of thirty-three cases, mainly civil legal ones, which include citation from Laws of codes and ethics (conduct) as well as texts for interpretation by the author, SAKANOUE no Akimoto.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>主に出挙・相続・売買・貸借・土地所有・財産譲与などに関して重点的に解説されている。</j>
+<e type="trans" ver="1">It puts emphasis on explanations about Suiko (government loans made to peasants), inheritance, trade, lease, landholding and assignment of properties.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It puts emphasis on explanations about Suiko (government loans made to peasants), inheritance, buying and selling, borrowing and lending, landholding and assignment of property.</e>
+<cmt>売買はtrade よりもbuying and sellingの方が、貸借はlease よりもborrowing and lending の方がより適切と考え、訂正しました。    properties は単数に訂正しました。</cmt>
+<e type="check" ver="1">It puts emphasis on explanations about Suiko (government loans made to peasants), inheritance, buying and selling, borrowing and lending, landholding and assignment of property.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>特に相続と財産譲与に19件にわたって記述している。</j>
+<e type="trans" ver="1">Especially inheritance and assignment of properties are explained in detail, in as many as nineteen cases.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Especially inheritance and assignment of property are explained in as many as nineteen cases.</e>
+<cmt>properties → property in detail に相当する部分は原文にあるわけではないので、削除しました。</cmt>
+<e type="check" ver="1">Especially inheritance and assignment of property are explained in as many as nineteen cases.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>律令格式や祖父坂上明兼が編纂し、明基が校訂したとされる『法曹至要抄』を参考としているが、条文や『法曹至要抄』の解釈とは違う案文を提示している部分もあり、杓子定規的な法文解釈に拘らずに社会の実情に合わせた法解釈を試みている点で評価されている。</j>
+<e type="trans" ver="1">This law book refers to Laws of codes and ethics (conduct) and &quot;Hossoshiyo-sho&quot; (The Essentials for the Judiciary) which is said to be compiled by Akimoto&apos;s grandfather SAKANOUE no Akikane and revised by Akimoto, but in some cases provisions and texts different from the interpretation in &quot;Hososhiyo-sho&quot; are presented, and it is highly valued in that it tries to interpret laws in accordance with the actual situation of society instead of sticking to rigid literal interpretation of laws.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This law book refers to Laws of codes and ethics (conduct) and &quot;Hossoshiyo-sho&quot; (The Essentials for the Judiciary) which is said to have been compiled by SAKANOUE no Akikane and revised by his grandson Akimoto, but in some cases provisions and texts different from the interpretation in &quot;Hossoshiyo-sho&quot; are presented, and it is highly valued in that it tries to interpret laws in accordance with the actual situation of society instead of sticking to rigid literal interpretation of laws.</e>
+<cmt>is said to be → is said to have been に時制を訂正しました。    原文に忠実に訳せば最初の訳通りなのですが、英語としては不自然なので、「祖父坂上明兼が編纂し、明基が校訂した」の部分の訳を変えました。「法曹至要抄」の読みは「ほっそうしようしょう」ですので、2回目のHososhiyo-shoを訂正しました。</cmt>
+<e type="check" ver="1">This law book refers to Laws of codes and ethics (conduct) and &quot;Hossoshiyo-sho&quot; (The Essentials for the Judiciary) which is said to have been compiled by SAKANOUE no Akikane and revised by his grandson Akimoto, but in some cases provisions and texts different from the interpretation in &quot;Hossoshiyo-sho&quot; are presented, and it is highly valued in that it tries to interpret laws in accordance with the actual situation of society instead of sticking to rigid literal interpretation of laws.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>後鳥羽上皇の院政において訴訟対応への強化が図られ、その一環として明法勘文や実務文書作成のための手本として作成されたと考えられている。</j>
+<e type="trans" ver="1">It is believed that this law book was created as an example used for preparing Myobo kanmon (written reports to the Imperial Court by scholars of the law) and practical documents, as a part of the efforts to reinforce responses to lawsuits under the cloister government of the retired Emperor Gotoba.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is believed that this law book was created as an example used for preparing Myobo kanmon (written reports to the Imperial Court by scholars of the law) and practical documents, as a part of the efforts to reinforce responses to lawsuits under the cloister government of the retired Emperor Gotoba.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is believed that this law book was created as an example used for preparing Myobo kanmon (written reports to the Imperial Court by scholars of the law) and practical documents, as a part of the efforts to reinforce responses to lawsuits under the cloister government of the retired Emperor Gotoba.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>坂上明基は鎌倉幕府の依頼を受けて『法曹至要抄』の中の民事関係の記事を抄出して幕府に提出したと言われるなど幕府とのつながりも深く、後世の公家法のみならず、鎌倉幕府の御成敗式目にもその影響が見られ、公家法から武家法への移行過程の研究にも影響を与えている。</j>
+<e type="trans" ver="1">SAKANOUE no Akimoto had close ties with the bakufu (Japanese feudal government headed by a shogun), being said to have picked out articles concerning civil affairs from &quot;Hososhiyo-sho&quot; and to submit them to the bakufu at the request of the bakufu, influenced not only kugeho (laws issued by the imperial court) in the later generations but also Goseibai-shikimoku (code of conduct for samurai) in the Kamakura period, and had an impact on studies of the transition process from kugeho to bukeho (the law system for the samurai society and the military government).</e>
+<cmt></cmt>
+<e type="trans" ver="2">SAKANOUE no Akimoto had close ties with the bakufu (Japanese feudal government headed by a shogun), being said to have picked out articles concerning civil affairs from &quot;Hossoshiyo-sho&quot; to submit them to the bakufu at the request of the Kamakura bakufu, influenced not only kugeho (laws issued by the imperial court) in the later generations but also Goseibai-shikimoku (code of conduct for samurai) in the Kamakura period, and had an impact on studies of the transition process from kugeho to bukeho (the law system for the samurai society and the military government).</e>
+<cmt>Hososhiyo-sho → Hossoshiyo-sho に訂正しました。     and to submit them → to submit them に訂正しました。     at the request of the bakufu → at the request of the Kamakura bakufu に訂正しました。</cmt>
+<e type="check" ver="1">SAKANOUE no Akimoto had close ties with the bakufu (Japanese feudal government headed by a shogun), being said to have picked out articles concerning civil affairs from &quot;Hossoshiyo-sho&quot; to submit them to the bakufu at the request of the Kamakura bakufu, influenced not only kugeho (laws issued by the imperial court) in the later generations but also Goseibai-shikimoku (code of conduct for samurai) in the Kamakura period, and had an impact on studies of the transition process from kugeho to bukeho (the law system for the samurai society and the military government).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

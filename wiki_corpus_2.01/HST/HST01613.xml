@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>喰違の変</j>
+<e type="trans" ver="1">Kuichigai no Hen (the Kuichigai Incident)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kuichigai Incident</e>
+<cmt>仕様書にあるように、no Henではなく、Incidentをウェブから選択しました。（ただし、kuichigai incidentで出てくるものは少なく、this incident (Akasaka Kuichigai jiken)などと紹介されるものが多いのです。）</cmt>
+<e type="check" ver="1">Kuichigai Incident</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>喰違の変（くいちがいのへん）は、明治7年（1874年）1月14日に東京の赤坂 (東京都港区)喰違坂で起きた、右大臣岩倉具視に対する暗殺未遂事件。</j>
+<e type="trans" ver="1">Kuichigai no Hen (the Kuichigai Incident) was the assassination attempt on Tomomi IWAKURA, the Minister of Right, which occurred in Kuichigaizaka, Akasaka, Tokyo (now known as Minato Ku Tokyo) on 14th, January 1874.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kuichigai Incident was an assassination attempt on Tomomi IWAKURA, the Minister of Right, which occurred in Kuichigaizaka, Akasaka, Tokyo (now Minato Ward, Tokyo) on January 14, 1874.</e>
+<cmt>初出なので、the assassinationではなく、an assassinationと修正します。Minato KuをMinato Ward修正しました。Known as を削除しました。仕様書にあるように、no Henではなく、Incidentをウェブから選択しました。日付の表記を修正しました。</cmt>
+<e type="check" ver="1">Kuichigai Incident was an assassination attempt on Tomomi IWAKURA, the Minister of Right, which occurred in Kuichigaizaka, Akasaka, Tokyo (now Minato Ward, Tokyo) on January 14, 1874.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>「赤坂喰違の変」「岩倉具視遭難事件」などとも。</j>
+<e type="trans" ver="1">It&apos;s also called as &quot;Akasaka Kuichigai no Hen&quot; or &quot;Tomomi IWAKURA Sonan Jiken&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It&apos;s also called as &quot;Akasaka Kuichigai Incident&quot; or &quot;Tomomi IWAKURA Sonan Jiken&quot;.</e>
+<cmt>仕様書にあるように、no Henではなく、Incidentをウェブから選択しました。（ただし、kuichigai incidentで出てくるものは少なく、this incident (Akasaka Kuichigai jiken)などと紹介されるものが多いのです。）</cmt>
+<e type="check" ver="1">It&apos;s also called as &apos;Akasaka Kuichigai Incident&apos; or &apos;Tomomi IWAKURA Sonan Jiken.&apos;</e>
+<cmt>&quot; &quot; → &apos; &apos;ピリオドの位置を調整</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>事件の背景</j>
+<e type="trans" ver="1">The Background</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Background</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Background</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>前年明治6年（1873年）10月に政府内で起きたいわゆる征韓論争に敗れた征韓派参議の西郷隆盛・江藤新平・板垣退助らが下野したことは、征韓論に期するところのあった不平士族らにとって、いっそうの不満を高めることとなった。</j>
+<e type="trans" ver="1">The resignation of Sangis (councillors) of Seikan (conquering Korea) Ha such as Takamori SAIGO, Shinpei ETO and Taisuke ITAGAI who defeated at the Seikan Ronsou (conquering Korea debate) made fuhei shizoku (former samurai with gripes) even more frustrated since they looked forward to conquering Korea.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The resignation of Seikan-ha (supporters of sending army to Korea) Sangi (councilors), including Takamori SAIGO, Shinpei ETO and Taisuke ITAGAI, who were defeated at the Seikan Ronsou (debate on subjugation of Korea) occured in October 1873, made fuhei shizoku (former samurai with gripes) even more frustrated since they looked forward to conquer Korea.</e>
+<cmt>Sangisではsangiという単語の複数系であることが分かりにくいため、sangi (councillors) とします。また征韓派参議をSeikan-ha (supporters of sending army to Korea) Sangi (councillors)とします（Seikan (conquering Korea) Haでは意味が分からないため）。Who defeatedからwho were defeated と修正しました。征韓論争の補足を変更しました。「前年明治6年（1873年）10月」が訳漏れです。</cmt>
+<e type="check" ver="1">The resignation of Seikan-ha (supporters of sending army to Korea) Sangi (councilors), including Takamori SAIGO, Shinpei ETO and Taisuke ITAGAI, who were defeated at the Seikan Ronsou (debate on subjugation of Korea) occured in October 1873, made fuhei shizoku (former samurai with gripes) even more frustrated since they looked forward to conquer Korea.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>とりわけ、急病により一線を退いた太政大臣三条実美に代わって、論争を主導した右大臣岩倉具視や内務卿大久保利通に対する恨みは次第に増幅されていった。</j>
+<e type="trans" ver="1">Especially, the resentment against Tomomi IWAKURA, Minister of the Right and Toshimichi OKUBO, Secretary of Interior, who led the aforementioned debate in place of Sanetomi SANJO, the Grand Minister who had to retire due to sudden illness was increasingly grown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Especially, the resentment against Tomomi IWAKURA, Minister of the Right and Toshimichi OKUBO, Secretary of Interior, who led the aforementioned debate in place of Sanetomi SANJO, the Grand Minister who had to retire due to sudden illness, was increasingly grown.</e>
+<cmt>カンマをwas increasingly grownの前に加えました。</cmt>
+<e type="check" ver="1">Especially, the resentment against Tomomi IWAKURA, Minister of the Right and Toshimichi OKUBO, Secretary of Interior, who led the aforementioned debate in place of Sanetomi SANJO, the Grand Minister who had to retire due to sudden illness, was increasingly grown.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>暗殺未遂事件</j>
+<e type="trans" ver="1">The assassination attempt incident</e>
+<cmt></cmt>
+<e type="trans" ver="2">The assassination attempt incident</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The assassination attempt incident</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>明治7年1月14日夜、公務を終え、赤坂の仮皇居（前年の火災により赤坂離宮を皇居としていた）から退出して自宅へ帰る途中だった岩倉の馬車が、赤坂喰違坂にさしかかった際、襲撃者たちがいっせいに岩倉を襲った。</j>
+<e type="trans" ver="1">At the night of 14th January 1873, when Iwakura finished his work and left the temporal imperial palace to go to his home (they used the Akasaka Palace because of the last year&apos;s fire), his hose-drawn buggy was assaulted while reaching to Kuichigaizaka, Akasaka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the night of January 14, 1874, when Iwakura finished his work and left the temporal imperial palace to his home (they used the Akasaka Palace as the Imperial Palace because of the fire in previous year), he was attacked by assailants when his hose-drawn buggy reached to Kuichigaizaka, Akasaka.</e>
+<cmt>明治7年は1874年です。年月日の表記を修正しました。先にleft…とあるので、to go to his homeをto his homeと修正しました。 last year&apos;s fireをfire in previous yearと修正しました。「皇居としていた」が訳漏れです。襲われたのは岩倉であり、馬車ではないので、修正しました。</cmt>
+<e type="check" ver="1">At the night of January 14, 1874, when Iwakura finished his work and left the temporal imperial palace to his home (they used the Akasaka Palace as the Imperial Palace because of the fire in previous year), he was attacked by assailants when his hose-drawn buggy reached to Kuichigaizaka, Akasaka.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>襲撃者は高知県士族で、もと外務省に出仕していた武市熊吉ほか、武市喜久馬、山崎則雄、島崎直方、下村義明、岩田正彦、中山泰道、中西茂樹、沢田悦弥太の総勢9人。</j>
+<e type="trans" ver="1">The assault team consisted of nine persons, Kumakichi TAKECHI who had been a shizoku (a samurai-oriented family) from Kochi Prefecture and worked at Ministry of Foreign Affairs as well as Kikuma TAKECHI, Norio YAMAZAKI, Kumakichi TAKECHI, Naokata SHIMAZAKI, Yoshiaki SHIMOMURA, Masahiko IWATA, Yasumichi NAKAYAMA, Shigeki NAKANISHI and 悦弥太 SAWADA.</e>
+<cmt>沢田悦弥太の読み方が不明</cmt>
+<e type="trans" ver="2">The assault team consisted of nine people, Kumakichi TAKECHI who had been a shizoku (a samurai-oriented family) from Kochi Prefecture and worked at Ministry of Foreign Affairs as well as Kikuma TAKECHI, Norio YAMAZAKI, Naokata SHIMAZAKI, Yoshiaki SHIMOMURA, Masahiko IWATA, Yasumichi NAKAYAMA, Shigeki NAKANISHI and 悦弥太 SAWADA.</e>
+<cmt>nine personsをnine peopleと修正しました。Kumakichi TAKECHIの名前が2度出てきているので1つ削除します。</cmt>
+<e type="check" ver="1">The assault team consisted of nine people, Kumakichi TAKECHI who had been a shizoku (a samurai-oriented family) from Kochi Prefecture and worked at Ministry of Foreign Affairs as well as Kikuma TAKECHI, Norio YAMAZAKI, Naokata SHIMAZAKI, Yoshiaki SHIMOMURA, Masahiko IWATA, Yasumichi NAKAYAMA, Shigeki NAKANISHI and 悦弥太 SAWADA.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>いずれも西郷や板垣に従って職を辞した元官僚・軍人であった。</j>
+<e type="trans" ver="1">All of them were the bureaucracy or military men who quit to follow Saigo and Itagaki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All of them were the bureaucracy or military men who quitted to follow Saigo and Itagaki.</e>
+<cmt>過去なのでwho quittedと修正します。</cmt>
+<e type="check" ver="1">All of them were the bureaucracy or military men who quitted to follow Saigo and Itagaki.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>岩倉は襲撃者の攻撃により、眉の下と左腰に軽い負傷はしたものの、皇居の四ッ谷濠へ転落し、襲撃者達が岩倉の姿を見失ったため、一命を取り留めた。</j>
+<e type="trans" ver="1">Iwakura lightly injured his face at beneath his brows and left hip due to the assault, but survived because he fell off to Yotsuyago of the imperial palace, and the assailants lost the sight of him.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Iwakura was slightly injured below eyebrow and left hip by the attack, but survived because he fell off to Yotsuyago (a moat in Yotsuya) of the Imperial Palace, and the assailants lost the sight of him.</e>
+<cmt>was slightly injuredと修正します。Below eyebrowとすればよいので、his face at beneath hisは削除します。Due to からby the attack と修正します。Yotsuyagoの補足を加えます。先出のものと統一するためimperial palaceをImperial Palaceとします。</cmt>
+<e type="check" ver="1">Iwakura was slightly injured below eyebrow and left hip by the attack, but survived because he fell off to Yotsuyago (a moat in Yotsuya) of the Imperial Palace, and the assailants lost the sight of him.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>ただし、精神的な動揺は大きく、公務復帰は1箇月後の2月23日となった（この療養中に佐賀の乱が発生している）。</j>
+<e type="trans" ver="1">However, as hew was mentally damaged a lot, it took two months for him to return to work (on 23rd February) and during this period, Saga no Ran (the Saga War) happened.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the incident shocked him greatly therefore his return to the official duties was about a month later, on February 23 (Saga War happened during the period).</e>
+<cmt>hew&gt;&gt;he の間違いです。またmentally damagedでは動揺というより精神的異常をきたしたととられかねないので書き直しました。1ヵ月後の、が2ヵ月後となっているので修正します。また原文で括弧内の文が外に、括弧内に無いものが括弧内に記載されているので修正しました。日付の表記を修正しました。佐賀の乱をSaga Warのみの記載にしました。</cmt>
+<e type="check" ver="1">However, the incident shocked him greatly therefore his return to the official duties was about a month later, on February 23 (Saga War happened during the period).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>襲撃者たちの処分</j>
+<e type="trans" ver="1">The punishment of the assailants.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The punishment of the assailants</e>
+<cmt>原文に「。」が無いので、ピリオドを削除しました。</cmt>
+<e type="check" ver="1">The punishment of the assailants</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>知らせを聞いた内務卿大久保利通は、ただちに西郷従道とともに参内。</j>
+<e type="trans" ver="1">Once Toshimichi OKUBO, the secretary of Interior, caught the news, he visited the imperial palace with Tsugumichi SAIGO.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When Toshimichi OKUBO, the secretary of Interior, caught the news, he immediately visited the imperial palace with Tsugumichi SAIGO.</e>
+<cmt>OnceをWhenに変更し、文中にimmediatelyと加えました。</cmt>
+<e type="check" ver="1">When Toshimichi OKUBO, the secretary of Interior, caught the news, he immediately visited the imperial palace with Tsugumichi SAIGO.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>岩倉が軽傷と知ってひとまず安心するが、不平士族による政府高官の襲撃という事態を重く見た大久保は、ただちに警視庁大警視川路利良に早急な犯人捜索を命じた。</j>
+<e type="trans" ver="1">Okubo was relieved to hear Iwakura&apos;s injury was light, but as he was strongly concerned about the fact the assault was made by the Fuheishizoku who had been previously high officials, he told Toshiyoshi Kawaji, the Daikeishi (top of the police) to search the criminals.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Okubo was relieved to hear Iwakura&apos;s injury was slight one, but as he was strongly concerned about the fact the assault was made to a high government official by the Fuheishizoku, he told Toshiyoshi KAWAJI, the Daikeishi (top of the police) to search for the criminals.</e>
+<cmt>lightからslight oneと変更しました。不平士族が元政府高官であるという風に誤訳されています。修正しました。Toshiyoshi KawajiをToshiyoshi KAWAJIと修正しました。search the criminalsをsearch for the criminalsと修正しました。</cmt>
+<e type="check" ver="1">Okubo was relieved to hear Iwakura&apos;s injury was slight one, but as he was strongly concerned about the fact the assault was made to a high government official by the Fuheishizoku, he told Toshiyoshi KAWAJI, the Daikeishi (top of the police) to search for the criminals.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>その甲斐あって事件の3日後の1月17日には、武市熊吉ら9人は逮捕された。</j>
+<e type="trans" ver="1">Because of the effort, the nine criminals were arrested on 17th January, three days after the incident.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a result, the nine criminals, including Kumakichi TAKECHI, were arrested three days after the incident, on January 17.</e>
+<cmt>Because of the effortをAs a resultと変更します。日付の表記を修正します。武市熊吉が訳漏れです。</cmt>
+<e type="check" ver="1">As a result, the nine criminals, including Kumakichi TAKECHI, were arrested three days after the incident, on January 17.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>現場に残された下駄が手がかりになったという。</j>
+<e type="trans" ver="1">The geta (Japanese footwear) left at the crime scene contributed as the clue.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The geta (Japanese footwear) left at the crime scene was a clue.</e>
+<cmt>contributedはおかしいので、単にwas a clueとしました。</cmt>
+<e type="check" ver="1">The geta (Japanese footwear) left at the crime scene was a clue.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>同年7月9日、全員が斬罪に処されている。</j>
+<e type="trans" ver="1">All the members were punished by decapitation on the 9th, July of the same year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All the members were punished by decapitation on July 9, 1874.</e>
+<cmt>日付の表記を修正します。</cmt>
+<e type="check" ver="1">All the members were punished by decapitation on July 9, 1874.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="18">
+<j>なお4年後の明治11年（1878年）、喰違見附のすぐ先にある紀尾井坂で、大久保利通が石川県士族島田一郎らに襲撃されて、暗殺されている（→紀尾井坂の変）。</j>
+<e type="trans" ver="1">Incidentally, Toshimichi OKUBO was killed by the assault of Ichiro Shimda, the shizoku from Ishikawa Prefecture at the Kioizaka which was just ahead from Kuichigai Mifu (called as the Kioizaka Incident).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Four years later, in 1878, Toshimichi OKUBO was assassinated by a group of shizoku from Ishikawa Prefecture, including Ichiro SHIMADA, at the Kioizaka (Kioizaka Incident), which was just ahead from Kuichigai Mitsuke.</e>
+<cmt>「4年後の明治11年（1878年）」が訳漏れです。Ichiro ShimdaをIchiro SHIMADAと修正しました。(Kioizaka Incident)の場所を修正しました。見附はMifuではなく、Mitsukeです。書き直しました。</cmt>
+<e type="check" ver="1">Four years later, in 1878, Toshimichi OKUBO was assassinated by a group of shizoku from Ishikawa Prefecture, including Ichiro SHIMADA, at the Kioizaka (Kioizaka Incident), which was just ahead from Kuichigai Mitsuke.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Point136(id:211299), トホホ川(id:50502), Clarin(id:60278), 仙ノ倉万太郎(id:197803), IwaimBot(id:190695), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

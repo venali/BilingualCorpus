@@ -1,0 +1,2069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>短歌</j>
+<e type="trans" ver="1">Tanka poetry</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanka</e>
+<cmt>omit &quot;poetry&quot;</cmt>
+<e type="check" ver="1">Tanka</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>短歌（たんか）は、和歌の一形式で、五・七・五・七・七の五句体の歌。</j>
+<e type="trans" ver="1">Tanka (literally, short poems) is poetry composed in the form of waka poetry, which is a five-line poem with lines of five, seven, five, seven and then seven syllables.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanka (literally, short poems) is a type of waka poetry, and has a five-line poem with the 5-7-5-7-7 syllable structure.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Tanka (literally, short poems) is a type of waka poetry, and has a five-line poem with the 5-7-5-7-7 syllable structure.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>記紀歌謡末期・万葉集初期の作品に成立し、古今を通じ広く行われた。</j>
+<e type="trans" ver="1">It was formed in later works of the Kiki kayo period (ballads found in the Kojiki and Nihon shoki) and early works of the Manyoshu, and has been broadly popular from ancient times to modern times.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It developed in the later works of the Kiki kayo period (ballads found in the Kojiki and Nihon shoki) and the early works of the Manyoshu, and has been broadly popular ever since.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">It developed in the later works of the Kiki kayo period (ballads found in the Kojiki (Records of Ancient Matters) and the Nihonshoki (Chronicles of Japan)) and the early works of the Manyoshu (Collection of Ten Thousand Leaves), and has been broadly popular ever since.</e>
+<cmt>英語説明補足</cmt>
+</sen>
+<sen id="3">
+<j>長歌が作られることがなくなるにつれて、和歌といえば短歌をさすようになった。</j>
+<e type="trans" ver="1">The less often choka (long poems) were composed, the more frequently the word waka referred to tanka.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">As choka (literally, long poems) lost popularity, tanka came to be representative of the waka form of poetry.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">As choka (literally, long poems) lost popularity, tanka came to be representative of the waka form of poetry.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>短歌の定義</j>
+<e type="trans" ver="1">The Definition of Tanka Poetry</e>
+<cmt></cmt>
+<e type="trans" ver="2">Definition of Tanka</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Definition of tanka</e>
+<cmt>文頭のみ大文字</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>五・七・五・七・七の五句体（31モーラ）の詩形は、その時代に盛んであった長い詩形との関連で呼び名が変わった。</j>
+<e type="trans" ver="1">Its form of verse, which is a five-line poem with five, seven, five, seven and seven syllables (thirty-one moras), was given a different name in relation to the longer verse forms that were popular in that period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This form of poetry, which has a five-line poem with the 5-7-5-7-7 syllable structure (thirty-one moras), was given different names in relation to the longer forms of poetry of the period.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">This form of poetry, which has a five-line poem with the 5-7-5-7-7 syllable structure (thirty-one moras), was given different names in relation to the longer forms of poetry of the period.</e>
+<cmt>全角削除</cmt>
+</sen>
+<sen id="5">
+<j>奈良時代には長歌に対して短歌、平安時代以降は漢詩に対して和歌と呼ばれた。</j>
+<e type="trans" ver="1">It was called tanka as opposed to choka in the Nara period and against Chinese poems in the Heian period and afterwards.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">During the Nara period, it was called &apos;tanka&apos; with respect to the &apos;choka,&apos; and was called &apos;waka&apos; with respect to &apos;kanshi&apos; (poetry written in Chinese by Japanese poets) during and after the Heian period.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">During the Nara period, it was called &apos;tanka&apos; with respect to the &apos;choka,&apos; and was called &apos;waka&apos; with respect to &apos;kanshi&apos; (poetry written in Chinese by Japanese poets) during and after the Heian period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>明治時代後半からは新体詩にたいして再び短歌と呼ばれて現在に至っている。</j>
+<e type="trans" ver="1">Since the later Meiji period, it has been called Tanka again as opposed to the shintaishi (poems in the new style).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Since the later Meiji period, the name has been reverted to &apos;tanka&apos; as a new style of poetry called &apos;shintaishi&apos; emerged.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Since the later Meiji period, the name has been reverted to &apos;tanka&apos; as a new style of poetry called &apos;shintaishi&apos; emerged.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>一人称の詩形、私性の詩、と呼ばれるほど、作者の主体性が強い表現形式である。</j>
+<e type="trans" ver="1">It is a style that expresses the author&apos;s identity so strongly that it is called a first-person verse form and a poem of self.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanka has a style that expresses the author&apos;s identity so strongly that it is often called the first-person poetry or the self poetry.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Tanka has a style that expresses the author&apos;s identity so strongly that it is often called the first-person poetry or the self poetry.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>狂歌とは文体を同にするが、定義では全く異なるものである。</j>
+<e type="trans" ver="1">Although the style is the same as kyoka (comic waka), it is a completely different thing by definition.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although its structure resembles that of kyoka (comic waka), tanka is a completely different form of poetry by definition.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Although its structure resembles that of kyoka (comic waka), tanka is a completely different form of poetry by definition.</e>
+<cmt>全角削除</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>短歌の歴史</j>
+<e type="trans" ver="1">The History of Tanka Poetry</e>
+<cmt></cmt>
+<e type="trans" ver="2">History of Tanka</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">History of tanka</e>
+<cmt>文頭のみ大文字</cmt>
+</tit>
+<par id="1">
+<sen id="9">
+<j>和歌和歌の歴史の項も参照せよ。</j>
+<e type="trans" ver="1">See the article on Waka and the history of Waka as well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Refer to articles on Waka and the History of Waka.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Refer to articles on waka and the history of waka.</e>
+<cmt>文頭のみ大文字</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>上代</j>
+<e type="trans" ver="1">Jodai (in Japanese history, mainly the Nara period)</e>
+<cmt>日本史では「上代」というと主に奈良時代を指すため、補足しました。</cmt>
+<e type="trans" ver="2">The Jodai Period</e>
+<cmt>rewording;omit explanation since it is misleading;Jodai refers to the Nara period and earlier where written Japanese literature existed</cmt>
+<e type="check" ver="1">The Jodai period</e>
+<cmt>文頭のみ大文字</cmt>
+</tit>
+<par id="1">
+<sen id="10">
+<j>感情の高まりから発せられた叫び・掛け声が次第に成長して、祭りや労働の際に集団でうたわれるうたとなったものを上代歌謡という。</j>
+<e type="trans" ver="1">What is called Jodai Kayo (songs and ballads of ancient times) is exclamations and shouts coming from surges of emotion that had gradually improved and become ballads sung in groups at festivals and during work.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Jodai Kayo (songs of the Jodai period) refers to the songs that were sung at festivals and at work, which evolved from shouts of joy and yells used to time or encourage activity.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Jodai Kayo (songs of the Jodai period) refers to the songs that were sung at festivals and at work, which evolved from shouts of joy and yells used to time or encourage activity.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="11">
+<j>『古事記』『日本書紀』にとられた上代歌謡を記紀歌謡という。</j>
+<e type="trans" ver="1">Among those Jodai Kayo, those which were selected for the &quot;Kojiki&quot; (Records of Ancient Matters) and &quot;Nihonshoki&quot; (Chronicles of Japan) are called Kiki kayo (ballads found in them).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The Jodai Kayo selected for the &quot;Kojiki&quot; (Records of Ancient Matters) and &quot;Nihonshoki&quot; (Chronicles of Japan) are called Kiki kayo.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The Jodai Kayo selected for the &quot;Kojiki&quot; (Records of Ancient Matters) and &quot;Nihonshoki&quot; (Chronicles of Japan) are called Kiki kayo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>この中に五・七・五・七・七の五句体の歌が見られる。</j>
+<e type="trans" ver="1">Among them, there are seen poems in the form of five-line poems with five, seven, five, seven and seven syllables.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Songs with the 5-7-5-7-7 syllable structure can be found among them.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Songs with the 5-7-5-7-7 syllable structure can be found among them.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>長歌の末の反歌が独立してできたとも言われる。</j>
+<e type="trans" ver="1">It is also said that the form was made from the envoi, the last part of choka, becoming independent.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also suspected that the tanka may have come from the hanka, which is the last verse of choka.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">It is also suspected that the tanka may have come from the hanka, which is the last verse of choka.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="14">
+<j>その後、統一国家が確立してゆく中で、大陸から漢詩が入ってきた影響もあり、個人の気持ちを個々に表現する歌が盛んに作られるようになった。</j>
+<e type="trans" ver="1">Later, in the process of establishing a unified country, a lot of poems expressing personal feelings individually began to be composed, helped by the influences of the Chinese poems that were introduced from the Chinese mainland into Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As Japan was in the process of establishing a unified country, the composing of poems expressing individual feelings became popular, part in due to the influx of the Chinese poems into Japan about that time.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">As Japan was in the process of establishing a unified country, the composing of poems expressing individual feelings became popular, part in due to the influx of the Chinese poems into Japan about that time.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>『万葉集』にはそういった歌が多く収録されている。</j>
+<e type="trans" ver="1">The &quot;Manyoshu&quot; (Collection of Ten Thousand Leaves) has many such poems.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The &quot;Manyoshu&quot; (Collection of Ten Thousand Leaves) contains many such poems.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The &quot;Manyoshu&quot; (Collection of Ten Thousand Leaves) contains many such poems.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>集団でうたわれる歌謡においては、例えば旋頭歌（五七七、五七七）は、片歌（五七七）が集団の掛け合いで問答の形になったものだ。</j>
+<e type="trans" ver="1">As for ballads sung in groups, for example, sedoka (head-repeated poem, which has the pattern five-seven-seven, five-seven-seven syllables) is what katauta (half poems, which has the pattern five-seven-seven) became when it took the form of questions and answers in group dialogues.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In ballads sung in groups, for example, katauta (poem fragment), with its 5-7-7 syllable structure, were sung to and from members of the group in the form a question and answer, which formed sedoka (whirling head poem) with its 5-7-7, 5-7-7 syllable structure.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">In ballads sung in groups, for example, katauta (poem fragment), with its 5-7-7 syllable structure, were sung to and from members of the group in the form a question and answer, which formed sedoka (whirling head poem) with its 5-7-7, 5-7-7 syllable structure.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>が、「五七七？」「五七七。」の問と答の末尾はしばしば同じであった。</j>
+<e type="trans" ver="1">However, the end of the question &apos;5-7-7?&apos; and the answer &apos;5-7-7&apos; were often the same.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, the end of the verses for both the question &apos;5-7-7?&apos; and the answer &apos;5-7-7&apos; were often identical.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">However, the end of the verses for both the question &apos;5-7-7?&apos; and the answer &apos;5-7-7&apos; were often identical.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>一人でうたうようになると、重複はさけられ「五七？」「五七七。」→「五七五七七」の短歌形式となった。</j>
+<e type="trans" ver="1">When it was sung by one person, overlapping was avoided and the verse form turned from &apos;5-7?&apos; and &apos;5-7-7&apos; to the tanka&apos;s pattern of &apos;5-7-5-7-7&apos;.</e>
+<cmt>原文「五七七。」のところでセルが分割されておりましたので、一つにまとめました。</cmt>
+<e type="trans" ver="2">When sung by an individual, the redundant part was dropped to become &apos;5-7?&apos; and &apos;5-7-7,&apos; which gave rise to the tanka&apos;s structure of &apos;5-7-5-7-7&apos;.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">When sung by an individual, the redundant part was dropped to become &apos;5-7?&apos; and &apos;5-7-7,&apos; which gave rise to the tanka&apos;s structure of &apos;5-7-5-7-7.&apos;</e>
+<cmt>ピリオド位置移動</cmt>
+</sen>
+<sen id="19">
+<j>このような歌体の変化から、『万葉集』では9割が短歌となっている。</j>
+<e type="trans" ver="1">Due to such changes in the style, nine poems out of ten in the &quot;Manyoshu&quot; are tanka poems.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This change in poem structure is reflected in the &quot;Manyoshu,&quot; where nine out of ten poems are actually tanka poems.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">This change in poem structure is reflected in the &quot;Manyoshu,&quot; where nine out of ten poems are actually tanka poems.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>中古</j>
+<e type="trans" ver="1">The Heian Period</e>
+<cmt>日本文学史では「中古」というと主に平安時代を指すため、このように訳しました。</cmt>
+<e type="trans" ver="2">The Chuko Period</e>
+<cmt>renaming;it may be the around the Heian period, but why change the word?</cmt>
+<e type="check" ver="1">The Chuko period</e>
+<cmt>文頭のみ大文字</cmt>
+</tit>
+<par id="1">
+<sen id="20">
+<j>平安時代初期には漢詩文が公的な文学として和歌を圧倒した。</j>
+<e type="trans" ver="1">In the early Heian period, Chinese prose and poetry overwhelmed Waka poetry as an official literature.</e>
+<cmt>一原文一訳文の例外対処 (三文に分割）</cmt>
+<e type="trans" ver="2">In the early Heian period, Chinese prose and poetry overwhelmed waka poetry as the official form of literature.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">In the early Heian period, Chinese prose and poetry overwhelmed waka poetry as the official form of literature.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="21">
+<j>が、平安時代中期には国風文化への自覚が高まり、仮名文字の発達とあいまって和歌が次第に公的な場に復活した。</j>
+<e type="trans" ver="1">However, in the mid-Heian period, there was an awakening to Kokufu Bunka (indigenous Japanese culture), and the combination of this and the development of kana characters brought waka poetry back into use on official occasions.</e>
+<cmt>一原文一訳文の例外対処 (三文に分割）</cmt>
+<e type="trans" ver="2">However, during the mid-Heian period, people&apos;s interest in Kokufu Bunka (indigenous Japanese culture), combined with the development of the kana characters, brought waka poetry back to official use.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">However, during the mid-Heian period, people&apos;s interest in Kokufu Bunka (indigenous Japanese culture), combined with the development of the kana characters, brought waka poetry back to official use.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="22">
+<j>歌合も行われるようになった。</j>
+<e type="trans" ver="1">In addition, people started to hold uta awase (poetry contests).</e>
+<cmt>一原文一訳文の例外対処 (三文に分割）</cmt>
+<e type="trans" ver="2">Uta awase (poetry contests) had become popular as well.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Uta awase (poetry contests) had become popular as well.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="23">
+<j>延喜5年（905年）醍醐天皇の勅命で、紀貫之・紀友則・凡河内躬恒・壬生忠岑の4人により、最初の勅撰和歌集『古今和歌集』が撰進された。</j>
+<e type="trans" ver="1">In 905, due to an imperial order from the Emperor Daigo, the &quot;Kokin wakashu&quot; (Collection of Ancient and Modern Poems), which was the first of the Chokusen wakashu (anthologies of Japanese poetry compiled by Imperial command), was compiled and presented to the emperor by four people: KI no Tsurayuki, KI no Tomonori, OSHIKOCHI no Mitsune and MIBU no Tadamine.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 905, due to an imperial order from the Emperor Daigo, the &quot;Kokin wakashu&quot; (Collection of Ancient and Modern Poems), which was the first of the Chokusen wakashu (anthologies of Japanese poetry compiled by Imperial command), was compiled and presented to the emperor by four people: KI no Tsurayuki, KI no Tomonori, OSHIKOCHI no Mitsune and MIBU no Tadamine.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In 905, due to an imperial order from the Emperor Daigo, the &quot;Kokin wakashu&quot; (Collection of Ancient and Modern Poems), which was the first of the Chokusen wakashu (anthologies of Japanese poetry compiled by Imperial command), was compiled and presented to the emperor by four people: KI no Tsurayuki, KI no Tomonori, OSHIKOCHI no Mitsune and MIBU no Tadamine.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>理知的・観念的な歌風が特色である。</j>
+<e type="trans" ver="1">Its characteristic poetic style is intellectual and conceptual.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its characteristic feature was the intellectual and conceptual poetic style.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Its characteristic feature was the intellectual and conceptual poetic style.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>それから半世紀のちの村上天皇のころに『後撰和歌集』が、さらに半世紀後の一条天皇のころに、『拾遺和歌集』が撰進された。</j>
+<e type="trans" ver="1">A half century later, in the reign of the Emperor Murakami, the &quot;Gosen Wakashu&quot; (Later selected collection of Japanese poetry) was compiled and presented to the contemporary emperor, and a half century after that, in the reign of the Emperor Ichijo, the &quot;Shui Wakashu&quot; (Collection of Gleanings of Japanese Poems) was also compiled and presented to the emperor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A half century later, the &quot;Gosen Wakashu&quot; (Later selected collection of Japanese Poetry) was compiled during the reign of the Emperor Murakami, and another half century after that, the &quot;Shui Wakashu&quot; (Collection of Gleanings of Japanese Poetry) was also compiled during the reign of the Emperor Ichijo.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">A half century later, the &quot;Gosen Wakashu&quot; (Later selected collection of Japanese Poetry) was compiled during the reign of the Emperor Murakami, and another half century after that, the &quot;Shui Wakashu&quot; (Collection of Gleanings of Japanese Poetry) was also compiled during the reign of the Emperor Ichijo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>前者は貴族の贈答歌が中心で、物語化の傾向がある。</j>
+<e type="trans" ver="1">Exchanges of poems between nobles are at the center of the former, which has a tendency towards narrativization.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Much of the former collection contains exchanges of poems between nobles and prefers to use a narrative style of prose.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Much of the former collection contains exchanges of poems between nobles and prefers to use a narrative style of prose.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>それに対し、後者は典雅で格調正しい『古今和歌集』の伝統を受け継ぐものになっている。</j>
+<e type="trans" ver="1">In comparison with it, the latter succeeds the tradition of the &quot;Kokin wakashu&quot;, which was elegant and refined.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In comparison, the latter succeeds the tradition of the &quot;Kokin wakashu&quot;, which was more elegant and refined.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">In comparison, the latter succeeds the tradition of the &quot;Kokin wakashu,&quot; which was more elegant and refined.</e>
+<cmt>カンマの位置移動</cmt>
+</sen>
+<sen id="28">
+<j>『古今和歌集』『後撰和歌集』『拾遺和歌集』の三集を三代集と呼ぶ。</j>
+<e type="trans" ver="1">These three collections, the &quot;Kokin wakashu&quot;, the &quot;Gosen Wakashu&quot; and the &quot;Shui Wakashu&quot;, are called the Sandai shu (three major collections).</e>
+<cmt></cmt>
+<e type="trans" ver="2">These three collections, the &quot;Kokin wakashu,&quot; the &quot;Gosen Wakashu,&quot; and the &quot;Shui Wakashu,&quot; are together called the Sandaishu (The Three Major Collections).</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">These three collections, the &quot;Kokin wakashu,&quot; the &quot;Gosen Wakashu,&quot; and the &quot;Shui Wakashu,&quot; are together called the Sandaishu (The Three Major Collections).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="29">
+<j>平安時代後期には『後拾遺和歌集』『金葉和歌集』『詞花和歌集』が撰進された。</j>
+<e type="trans" ver="1">In the late Heian period, the &quot;Goshui Wakashu&quot; (Later Collection of Gleanings of Japanese Poetry), the &quot;Kinyo wakashu&quot; and the &quot;Shika wakashu&quot; (Waka Collection of Verbal Flowers) were compiled and presented to the contemporary emperors.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the late Heian period, the &quot;Goshui Wakashu&quot; (Later Collection of Gleanings of Japanese Poetry), the &quot;Kinyo wakashu&quot; and the &quot;Shika wakashu&quot; (The Waka Collection of Verbal Flowers) were compiled and presented to the emperor.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">In the late Heian period, the &quot;Goshui Wakashu&quot; (Later Collection of Gleanings of Japanese Poetry), the &quot;Kinyo wakashu&quot; and the &quot;Shika wakashu&quot; (The Waka Collection of Verbal Flowers) were compiled and presented to the emperor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>貴族社会が変化する中で、三代集の伝統を乗り越えるための苦悶の半世紀であった。</j>
+<e type="trans" ver="1">It was a half century of people trying in anguish to reach a breakthrough beyond the Sandai shu during the changes in the aristocracy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With changes in the aristocracy rapidly taking place, it was a long half century before a collection surpassing the Sandaishu could be created.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">With changes in the aristocracy rapidly taking place, it was a long half century before a collection surpassing the Sandaishu could be created.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>源平の争乱の後、後白河院の命で藤原俊成が『千載和歌集』を撰進し、平安時代末期の和歌を一つの高みに導いた。</j>
+<e type="trans" ver="1">After the Genpei War, FUJIWARA no Toshinari compiled the &quot;Senzai Wakashu&quot; (Collection of Japanese Poems of a Thousand Years) and presented it to the retired emperor due to an order from Goshirakawain, and that brought waka poetry at the end of the Heian period to a peak.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the Genpei War, with an order from Goshirakawain, FUJIWARA no Toshinari compiled the &quot;Senzai Wakashu&quot; (Collection of Japanese Poems of a Thousand Years) and presented it to the retired emperor, and this brough waka poetry of the late Heian period to a culminate.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">After the Genpei War, with an order from Goshirakawain, FUJIWARA no Toshinari compiled the &quot;Senzai Wakashu&quot; (Collection of Japanese Poems of a Thousand Years) and presented it to the retired emperor, and this brought waka poetry of the late Heian period to a culminate.</e>
+<cmt>スペル</cmt>
+</sen>
+<sen id="32">
+<j>『古今和歌集』から次代の『新古今和歌集』までの8つの勅撰集を八代集という。</j>
+<e type="trans" ver="1">The eight Chokusen wakashu from the &quot;Kokin wakashu&quot; through to the next generation, the &quot;Shin Chokusen wakashu&quot; (New Imperial Anthology of Japanese Poetry) are called the Hachidai shu (the first eight waka collections compiled by imperial command).</e>
+<cmt></cmt>
+<e type="trans" ver="2">From the &quot;Kokin wakashu&quot; to the &quot;Shin Chokusen wakashu&quot; (New Imperial Anthology of Japanese Poetry), these eight Chokusen wakashu are collectively called the Hachidaishu (The Eight Waka Collections compiled by Imperial Command).</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">From the &quot;Kokin wakashu&quot; to the &quot;Shin Chokusen wakashu&quot; (New Imperial Anthology of Japanese Poetry), these eight Chokusen wakashu are collectively called the Hachidaishu (The Eight Waka Collections compiled by Imperial Command).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>中世</j>
+<e type="trans" ver="1">Medieval period</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Medieval period</e>
+<cmt>added &apos;the&apos;</cmt>
+<e type="check" ver="1">The Medieval period</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="33">
+<j>鎌倉時代に入ると、政権を奪われた貴族たちは伝統文化を心のより所にしたため和歌は盛んに詠まれた。</j>
+<e type="trans" ver="1">As the Kamakura period began, waka poems were ardently composed because nobles who was deprived of their political power thought of the traditional culture as a source of emotional support.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the early Kamakura period, waka poems were ardently composed by nobles who were deprived of their political power and who turned to traditional culture as a source for their emotional support.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">During the early Kamakura period, waka poems were ardently composed by nobles who were deprived of their political power and who turned to traditional culture as a source for their emotional support.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>鎌倉への対抗意識もあって和歌に非常な熱意を示した後鳥羽院の命で撰進されたのが『新古今和歌集』である。</j>
+<e type="trans" ver="1">The &quot;Shin Chokusen wakashu&quot; was selected and presented due to an order from Gotobain, who showed a fiery spirit for waka because of his rivalry against Kamakura.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The &quot;Shin Chokusen wakashu&quot; was compiled by an order from Gotobain, who apparently was an avid waka enthusiast, as a display of contempt towards the the Kamakura Government.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The &quot;Shin Chokusen wakashu&quot; was compiled by an order from Gotobain, who apparently was an avid waka enthusiast, as a display of contempt towards the Kamakura Government.</e>
+<cmt>the 重複削除</cmt>
+</sen>
+<sen id="35">
+<j>技巧化は更に進み、現実の体験ではなく、頭の中で作り上げた世界を詠んだものがほとんどを占めた。</j>
+<e type="trans" ver="1">The poems became more skilled, and most of them were composed about not actual experiences but what the authors made up in their mind.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Poems became more refined, and many were composed not out of actual experiences but out of the vivid imagination of the authors.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems became more refined, and many were composed not out of actual experiences but out of the vivid imagination of the authors.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>一方で、自然への愛や人生観を詠んだ西行、万葉調の源実朝も尊ばれた。</j>
+<e type="trans" ver="1">At the same time, people also respected Saigyo, who composed about the love of nature and his view of life, and MINAMOTO no Sanetomo, who had a style of poetry typical of the Manyoshu.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, Saigyo, who composed about the love of nature and his view of life, and MINAMOTO no Sanetomo, who had a style of poetry resembling that of the Manyoshu, were also revered.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">However, Saigyo, who composed about the love of nature and his view of life, and MINAMOTO no Sanetomo, who had a style of poetry resembling that of the Manyoshu, were also revered.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>『新古今和歌集』編纂の中心人物だった藤原定家とその子の藤原為家が亡くなると、家系も歌壇も二条派・京極派・冷泉派の三派に分かれた。</j>
+<e type="trans" ver="1">After FUJIWARA no Sadaie, who was the leading compiler of the &quot;Shin Chokusen wakashu&quot; and his son FUJIWARA no Tameie died, the lineage and tanka circles were divided into three schools: Nijo, Kyogoku and Reizei.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After FUJIWARA no Sadaie, who was the chief composer of the &quot;Shin Chokusen wakashu,&quot; and his son FUJIWARA no Tameie died, the Fujiwara lineage and the poetry circles became divided into three schools: the Nijo, the Kyogoku, and the Reizei schools.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">After FUJIWARA no Sadaie, who was the chief composer of the &quot;Shin Chokusen wakashu,&quot; and his son FUJIWARA no Tameie died, the Fujiwara lineage and the poetry circles became divided into three schools: the Nijo, the Kyogoku, and the Reizei schools.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>南北朝時代 (日本)ごろから、和歌は僧侶や武士を中心に詠まれるようになる。</j>
+<e type="trans" ver="1">Since around the period of the Northern and Southern Courts (Japan), waka poetry came to be composed mainly by Buddhist monks and warriors.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Since around the period of the Northern and Southern Courts, waka poetry came to be composed mainly by Buddhist monks and warriors.</e>
+<cmt>omit &apos;Japan&apos; since the topic never left Japan</cmt>
+<e type="check" ver="1">Since around the period of the Northern and Southern Courts, waka poetry came to be composed mainly by Buddhist monks and warriors.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>が、形式主義に流れた和歌は衰退していく。</j>
+<e type="trans" ver="1">However, waka lapsed into formalism and fell into a decline.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, waka grew heavy on formalism and ultimately declined in popularity.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">However, waka grew heavy on formalism and ultimately declined in popularity.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>近世</j>
+<e type="trans" ver="1">Early-modern period</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Early-Modern Period</e>
+<cmt>added &apos;the&apos;;capitalization</cmt>
+<e type="check" ver="1">The early-modern period</e>
+<cmt>文頭のみ大文字</cmt>
+</tit>
+<par id="1">
+<sen id="40">
+<j>俳諧に比べて伝統的・貴族的な和歌の革新は遅れがちであった。</j>
+<e type="trans" ver="1">Compared with Haikai (seventeen-syllable verse), the reform of traditional and aristocratic waka tended to fall behind.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Compared to the haikai (seventeen-syllable verse), changes to the traditional and aristocratic waka were slow.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Compared to the haikai (seventeen-syllable verse), changes to the traditional and aristocratic waka were slow.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>元禄期には因襲性の批判から伝統への反省が生まれ、日本の古代精神を明らかにする国学が発生した。</j>
+<e type="trans" ver="1">In the Genroku era, a reconsideration on the tradition was issued from criticism of its conventions, and kokugaku appeared to make the Japanese spirit of ancient times clear.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the Genroku era, criticisms of conventions and traditions led to the appearance of kokugaku (the study of Japanese literature and culture) in order to interpret the essence of ancient literature.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">During the Genroku era, criticisms of conventions and traditions led to the appearance of kokugaku (the study of Japanese literature and culture) in order to interpret the essence of ancient literature.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="42">
+<j>近世後期になると京都でも和歌革新の動きが起こり、桂園派が登場した。</j>
+<e type="trans" ver="1">In the late early-modern period, a waka reform movement also began in Kyoto and the Keien school appeared.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A waka reform movement also began in Kyoto during the late Early-Modern period, and the Keien school was formed.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">A waka reform movement also began in Kyoto during the late early-modern period, and the Keien school was formed.</e>
+<cmt>スペル</cmt>
+</sen>
+<sen id="43">
+<j>桂園派は明治時代初期まで歌壇に重きをなした。</j>
+<e type="trans" ver="1">The Keien school was influential in tanka circles until the beginning of the Meiji period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This Keien school was extremely influential among tanka circles until the beginning of the Meiji period.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">This Keien school was extremely influential among tanka circles until the beginning of the Meiji period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>明治・大正</j>
+<e type="trans" ver="1">In the Meiji and Taisho period</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Meiji and Taisho Periods</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The Meiji and Taisho periods</e>
+<cmt>文頭のみ大文字</cmt>
+</tit>
+<par id="1">
+<sen id="44">
+<j>明治時代初期の歌壇は、桂園派を主とする御歌所派が中心となって貴族的・伝統的な文化人たちが担っていた。</j>
+<e type="trans" ver="1">Tanka circles in the beginning of the Meiji period were led by aristocratic and traditional men of culture, with the Outadokoro school (the Palace School), especially the Keien school, at their center.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanka circles in the beginning of the Meiji period were led by the cultured mostly of the Keien school with the Outadokoro school (the Palace School) being the most influential within that school.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Tanka circles in the beginning of the Meiji period were led by traditional men of culture from the aristocracy, with the Outadokoro school (the Palace School), especially the Keien school, at their center.</e>
+<cmt>原文に合わせて修正しました。</cmt>
+</sen>
+<sen id="45">
+<j>和歌改良を志す人々はその題詠による作歌・風雅な趣向を批判し、自由と個性を求める近代短歌を開いた。</j>
+<e type="trans" ver="1">People who had tried to improve waka poetry criticized their composing poetry on given themes and their elegant contrivances, and opened up modern tanka that seeks out freedom and individuality.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Criticized their overly pompous styles, a new breed of poets seeking to improve on the waka poetry opened up a new age for tanka that embodied freedom and individuality.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Criticized their overly pompous styles, a new breed of poets seeking to improve on the waka poetry opened up a new age for tanka that embodied freedom and individuality.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>浅香社が結成され、主観を重視する浪漫的な短歌を目指し、与謝野鉄幹らを輩出した。</j>
+<e type="trans" ver="1">The Asaka sha (the Asaka Society) was formed, the members of which had an eye on romantic tanka poetry that emphasized subjectivity, and the society produced talent such as Tekkan YOSANO..</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Asaka sha (the Asaka Society) was formed to create romantic tanka poetry that emphasized subjectivity, and boasted such new talented poets as Tekkan YOSANO..</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The Asaka sha (the Asaka Society) was formed to create romantic tanka poetry that emphasized subjectivity, and boasted such new talented poets as Tekkan YOSANO.</e>
+<cmt>ピリオド削除</cmt>
+</sen>
+<sen id="47">
+<j>明治33年（1900年）、鉄幹は『明星』を創刊し、与謝野晶子を擁して浪漫主義短歌の全盛時代を築いた。</j>
+<e type="trans" ver="1">Tekkan launched &quot;Myojo&quot; in 1900, and with Akiko YOSANO supporting, he built up the golden days of romantic tanka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tekkan launched the publication called &quot;Myojo&quot; in 1900, and with Akiko YOSANO at his side, he was able to create the golden age of romantic tanka.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Tekkan launched the publication called &quot;Myojo&quot; in 1900, and with Akiko YOSANO at his side, he was able to create the golden age of romantic tanka.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>明治40年代には『明星』から出た耽美派の北原白秋、自然主義的な若山牧水、社会主義的傾向を示した石川啄木らの個性が開花した。</j>
+<e type="trans" ver="1">In the period from 1908 to 1912, there came into flower of poets of individuality such as Hakushu KITAHARA who pursued beauty and appeared from &quot;Myojo&quot;, the naturalist Bokusui WAKAYAMA and Takuboku ISHIKAWA who showed tendencies of socialism.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Between 1908 and 1912, a new concept of individualism was represented by such poets as the poet who gained popularity through &quot;Myojo,&quot; Hakushu KITAHARA with his pursuit for beauty, the naturalist, Bokusui WAKAYAMA, and Takuboku ISHIKAWA, who had a tendency of showing flavors of socialism.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Between 1908 and 1912, a new concept of individualism was represented by such poets as the poet who gained popularity through &quot;Myojo,&quot; Hakushu KITAHARA with his pursuit for beauty, the naturalist, Bokusui WAKAYAMA, and Takuboku ISHIKAWA, who had a tendency of showing flavors of socialism.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="49">
+<j>一方、正岡子規は明治31年（1898年）に「歌よみに与ふる書」を発表。</j>
+<e type="trans" ver="1">Meanwhile, Shiki MASAOKA published &quot;Utayomi ni atauru sho&quot; (Letters to The Tanka Poets) in 1898.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1898, Shiki MASAOKA published &quot;Utayomi ni atauru sho&quot; (Letters to The Tanka Poets).</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">In 1898, Shiki MASAOKA published &apos;Utayomi ni atauru sho&apos; (Letters to The Tanka Poets).</e>
+<cmt>&quot;→&apos;</cmt>
+</sen>
+<sen id="50">
+<j>万葉への回帰と写生による短歌を提唱して根岸短歌会を起こし、伊藤左千夫・長塚節らを育てた。</j>
+<e type="trans" ver="1">He advocated a return to the Manyoshu and tanka composed by portrayal, started the Negishi Tanka Society and brought up people such as Sachio ITO and Takashi NAGATSUKA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He advocated returning to the styles of the Manyoshu and composing tanka through portrayal, and started the Negishi Tanka Society, where new poets such as Sachio ITO and Takashi NAGATSUKA emerged from.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">He advocated returning to the styles of the Manyoshu and composing tanka through portrayal, and started the Negishi Tanka Society, where new poets such as Sachio ITO and Takashi NAGATSUKA emerged from.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="51">
+<j>根岸短歌会の機関紙として明治41年（1908年）に創刊された『アララギ』からは、独自の歌風を確立してアララギ派を主導した島木赤彦や、自我を見つめて生命感ほとばしる歌を詠んだ斎藤茂吉が出た。</j>
+<e type="trans" ver="1">&quot;Araragi&quot;, which was first published in 1908 as a journal from the Negishi Tanka Society, produced Akahiko SHIMAGI who established his original style and led the Araragi school and Mokichi SAITO, who studied himself and composed poems with full sense of being alive.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The journal from the Negishi Tanka Society, &quot;Araragi,&quot; was first published in 1908, and made famous Akahiko SHIMAGI, who established his own unique style of prose and led the Araragi school, and Mokichi SAITO, who looked within himself and composed poems reflecting the power of life.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The journal from the Negishi Tanka Society, &quot;Araragi,&quot; was first published in 1908, and made famous Akahiko SHIMAGI, who established his own unique style of prose and led the Araragi school, and Mokichi SAITO, who looked within himself and composed poems reflecting the power of life.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="52">
+<j>アララギは赤彦が編集を担当した大正期に歌壇主流と言っていい発展を遂げる。</j>
+<e type="trans" ver="1">Araragi accomplished such development in the Taisho period, when Akahiko was a editor of it, that it can be mentioned as the mainstream of tanka circles.</e>
+<cmt>一原文一訳文の例外対処 （三文に分割）</cmt>
+<e type="trans" ver="2">Under the command of Akahiko during the Taisho period, Araragi&apos;s reputation had made it very influential among tanka circles.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Under the command of Akahiko during the Taisho period, Araragi&apos;s reputation had made it very influential among tanka circles.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>が、よりストイックな歌風を特色とするその美学と結社的束縛は一部で反発を招いた。</j>
+<e type="trans" ver="1">However, some people opposed its esthetics, which had a more stoic poetry style as its characteristic, and its restrictions as a society.</e>
+<cmt>一原文一訳文の例外対処 （三文に分割）</cmt>
+<e type="trans" ver="2">However, opposing views existed to its rigid styles of composition and its closed-society tendencies.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">However, opposing views existed to its rigid styles of composition and its closed-society tendencies.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>大正13年（1924年）に古泉千樫、折口信夫、石原純が新雑誌「日光」の創刊に参加して「アララギ」を離脱するなど、アララギの分裂を生み出す。</j>
+<e type="trans" ver="1">This resulted in the breakup of Araragi: for example, Chikashi KOIZUMI, Shinobu ORIKUCHI, and Jun ISHIHARA left &apos;Araragi&apos; in 1924 to join in the starting of a new magazine &apos;Nikko&apos; (sunlight).</e>
+<cmt>一原文一訳文の例外対処 （三文に分割）</cmt>
+<e type="trans" ver="2">In 1924, Chikashi KOIZUMI, Shinobu ORIKUCHI, and Jun ISHIHARA left &apos;Araragi&apos; to start up a new magazine called &apos;Nikko&apos; (sunlight), thereby forming a rift within Araragi.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">In 1924, Chikashi KOIZUMI, Shinobu ORIKUCHI, and Jun ISHIHARA left &apos;Araragi&apos; to start up a new magazine called &apos;Nikko&apos; (sunlight), thereby forming a rift within Araragi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="55">
+<j>茂吉は「写生」に「生を写す」と言う解釈をほどこした。</j>
+<e type="trans" ver="1">Mokichi interpreted &apos;shasei&apos; (literally, &apos;sketching&apos;) as &apos;portraying life&apos;.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Mokichi interpreted &apos;shasei&apos; (literally, &apos;sketching&apos;) to mean the &apos;portrayal of life.&apos;</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Mokichi interpreted &apos;shasei&apos; (literally, &apos;sketching&apos;) to mean the &apos;portrayal of life.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>そして太正15年（1926年）島木赤彦の没後はアララギの編集を担い、中心人物として昭和初期にかけて活躍する。</j>
+<e type="trans" ver="1">After the death of Akahiko SHIMAGI in 1926, he took on the responsibility of acting as editor of the Araragi and was actively involved with it in a leading role until the early Showa period.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">After the death of Akahiko SHIMAGI in 1926, Mokichi took over the helm as editor and led the Araragi until the early Showa period.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">After the death of Akahiko SHIMAGI in 1926, Mokichi took over the helm as editor and led the Araragi until the early Showa period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>昭和</j>
+<e type="trans" ver="1">Showa period</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Showa Period</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The Showa period</e>
+<cmt>文頭のみ大文字</cmt>
+</tit>
+<par id="1">
+<sen id="57">
+<j>昭和短歌の前奏曲として、大正12年、歌誌「日光」が、アララギを脱退した古泉千樫、折口信夫、石原純や、北原白秋、前田夕暮、吉植庄亮らによって創刊された。</j>
+<e type="trans" ver="1">As a prelude of the tanka of the Showa period, the tanka magazine &apos;Nikko&apos; made its first appearance in 1923 by Chikashi KOIZUMI, Shinobu ORIKUCHI, Jun ISHIHARA, Hakushu KITAHARA, Yugure MAEDA and Shoryo YOSHIUE, who had left Araragi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As if a prelude to the Showa period, the tanka magazine &apos;Nikko&apos; made its first appearance in 1923 by Chikashi KOIZUMI, Shinobu ORIKUCHI, Jun ISHIHARA, Hakushu KITAHARA, Yugure MAEDA and Shoryo YOSHIUE, all who had left Araragi.</e>
+<cmt>rewording;inconsistency with date a few lines above</cmt>
+<e type="check" ver="1">As if a prelude to the Showa period, the tanka magazine &apos;Nikko&apos; made its first appearance in 1923 by Chikashi KOIZUMI, Shinobu ORIKUCHI, Jun ISHIHARA, Hakushu KITAHARA, Yugure MAEDA and Shoryo YOSHIUE, all who had left Araragi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>短歌結社ではなくゆるやかなサロン的結合による雑誌であったが、おのずから反アララギ的色彩を帯びた。</j>
+<e type="trans" ver="1">It naturally was tinged with a color of anti-Araragi although it was not a tanka society but a magazine made by a gentle union like a salon.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Nikko was not a tanka society but can be likened to a lounge with a relaxed atmosphere, although it naturally had an anti-Araragi color to it.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Nikko was not a tanka society but can be likened to a lounge with a relaxed atmosphere, although it naturally had an anti-Araragi color to it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>アララギ系―反アララギ系という座標軸はここからはじまったといってよい。</j>
+<e type="trans" ver="1">It can be said that an Araragi/anti-Araragi axis came out of this.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">This was probably the beginning of the definitive split of the pro-Araragi and anti-Araragi sides.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">This was probably the beginning of the definitive split of the pro-Araragi and anti-Araragi sides.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="60">
+<j>リアリズムに近い立場に立ちながら、窪田空穂、松村英一らは、アララギには批判的であった。</j>
+<e type="trans" ver="1">Utsubo KUBOTA and Eiichi MATSUMURA looked at Araragi critically even though they took positions close to realism.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Utsubo KUBOTA and Eiichi MATSUMURA were critical of Araragi though their views were bordering realism.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Utsubo KUBOTA and Eiichi MATSUMURA were critical of Araragi though their views were bordering realism.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="61">
+<j>英一やその門人である山本友一は土屋文明系の渋谷嘉次と論争を行い、文明に代表されるアララギの作風のぎごちなさを批判する。</j>
+<e type="trans" ver="1">Eiichi and his pupil Tomoichi YAMAMOTO had arguments with 渋谷嘉次, who was Bunmei TSUCHIYA&apos;s pupil, and criticized the awkward literary style of Araragi that Bunmei represented.</e>
+<cmt>一原文一訳文の例外対処 訳文中「渋谷嘉次」氏のみ読み方不明のため、そのまま残しています。</cmt>
+<e type="trans" ver="2">Eiichi and his pupil, Tomoichi YAMAMOTO, criticized the awkward literary style of Araragi, and frequently argued with 渋谷嘉次, the pupil of Bunmei TSUCHIYA, who represented Araragi.</e>
+<cmt>rewording;pronunciation of one of the names is not known</cmt>
+<e type="check" ver="1">Eiichi and his pupil, Tomoichi YAMAMOTO, criticized the awkward literary style of Araragi, and frequently argued with 渋谷嘉次, the pupil of Bunmei TSUCHIYA, who represented Araragi.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="62">
+<j>明治から試みられていた口語・自由律や、石川啄木にまでさかのぼれるプロレタリア短歌の運動が起こったのも昭和に入ってからである。</j>
+<e type="trans" ver="1">There also began after the Showa period a rise of the free verse in a colloquial style that had been tried since the Meiji period and the proletarian tanka movement that went back to Takuboku ISHIKAWA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was during the Showa period where movements for the colloquial style, free verse from the Meiji period and for the proletarian tanka styles attributable to Takuboku ISHIKAWA started to gain headway.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">It was during the Showa period where movements for the colloquial style, free verse from the Meiji period and for the proletarian tanka styles attributable to Takuboku ISHIKAWA started to gain headway.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>前者は前田夕暮の「詩歌」を中心に一大勢力となり、後者はプロレタリア文学の一環としての存在を主張するようになる。</j>
+<e type="trans" ver="1">The former found great influence with Yugure MAEDA&apos;s &apos;Shiika&apos; (Poetry) as its center, and the latter started to claim them as a part of the proletarian literature.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The colloquial, free verse movement greatly influenced Yugure MAEDA&apos;s &apos;Shiika&apos; (Poetry), while the latter movement placed their tanka among proletarian literature.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The colloquial, free verse movement greatly influenced Yugure MAEDA&apos;s &apos;Shiika&apos; (Poetry), while the latter movement placed their tanka among proletarian literature.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="64">
+<j>口語派は夕暮の一門あげての定型復帰により、香川進、前田透といった歌人が文語定型を排除しない方向に転じたことで、力を減じていった。</j>
+<e type="trans" ver="1">The colloquial school gradually lost its power because the whole of Yugure&apos;s school went back to the regular form and it caused poets such as Susumu KAGAWA and Toru MAEDA to change course and not exclude the regular forms written in classical literary language.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the fixed forms returned to favor among the Yugure school, poets such as Susumu KAGAWA and Toru MAEDA also changed their stances and began to include fixed forms in their prose, which ultimately led to the diminishing influence of the colloquial school.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">After the fixed forms returned to favor among the Yugure school, poets such as Susumu KAGAWA and Toru MAEDA also changed their stances and began to include fixed forms in their prose, which ultimately led to the diminishing influence of the colloquial school.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="65">
+<j>プロレタリア派は、当初、文学理論が先行した。</j>
+<e type="trans" ver="1">The proletarian school, at first, made their literary theory exceed their work.</e>
+<cmt>一原文一訳文の例外対処 （三文に分割）</cmt>
+<e type="trans" ver="2">At the time, the proletarian school was taken by theoretical arguments.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">At the time, the proletarian school was taken by theoretical arguments.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="66">
+<j>そのため、短歌を短詩に解消するべきだという意見が有力になったり、あるいは三十一音を大幅にはみ出す作品が出たりした。</j>
+<e type="trans" ver="1">Therefore, an opinion that tanka had to be dissolved in short verses became powerful, or poems that exceeded the thirty-one syllables by a substantial margin were composed.</e>
+<cmt>一原文一訳文の例外対処 （三文に分割）</cmt>
+<e type="trans" ver="2">As such, differing views existed such as letting tanka take the form of short verselets or having tanka go far beyond 31 syllables.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">As such, differing views existed such as letting tanka take the form of short verselets or having tanka go far beyond 31 syllables.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="67">
+<j>国家による弾圧以前にも問題を抱えていた。</j>
+<e type="trans" ver="1">It also had problems even aside from oppression by the government.</e>
+<cmt>一原文一訳文の例外対処 （三文に分割）</cmt>
+<e type="trans" ver="2">Therefore, they had enough problems of their own even before pressure from the government to re-organize.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Therefore, they had enough problems of their own even before pressure from the government to re-organize.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="68">
+<j>昭和3年、新興歌人連盟が発足。</j>
+<e type="trans" ver="1">In 1928, the Shinko Kajin Renmei (literally, the emerging poets&apos; league) was established.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1928, the Shinko Kajin Renmei (literally, the Emerging Poets&apos; League) was established.</e>
+<cmt>capitalization</cmt>
+<e type="check" ver="1">In 1928, the Shinko Kajin Renmei (literally, the Emerging Poets&apos; League) was established.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="69">
+<j>口語派、シュールレアリスム派、プロレタリア派、生活派が連合して歌壇の革新につとめる。</j>
+<e type="trans" ver="1">The colloquial school, the surrealistic school, the proletarian school and the seikatsu school worked together to reform tanka circles.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The colloquial school, the surrealistic school, the proletarian school, and the seikatsu school worked together to make drastic changes to tanka circles.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The colloquial school, the surrealistic school, the proletarian school, and the seikatsu school worked together to make drastic changes to tanka circles.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="70">
+<j>前川佐美雄、坪野哲久、筏井嘉一らにより、後に新風十人でその美学を示した。</j>
+<e type="trans" ver="1">They showed their esthetics with the New Ten Poets, including Samio MAEKAWA, Tetsukyu TSUBONO and Kaichi IKADAI.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They gained influence with the appearance of the New Ten Poets, including Samio MAEKAWA, Tetsukyu TSUBONO and Kaichi IKADAI.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">They gained influence with the appearance of the New Ten Poets, including Samio MAEKAWA, Tetsukyu TSUBONO and Kaichi IKADAI.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="71">
+<j>昭和10年、北原白秋が「多磨」を創刊。</j>
+<e type="trans" ver="1">In 1935, Hakushu KITAHARA started issuing &apos;Tama&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1935, Hakushu KITAHARA started publishing the &apos;Tama&apos; magazine.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">In 1935, Hakushu KITAHARA started publishing the &apos;Tama&apos; magazine.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="72">
+<j>宮柊二（「コスモス」）、木俣修（「形成」）といった戦後結社につながる歌人がここから輩出する。</j>
+<e type="trans" ver="1">It produced poets who became linked to postwar societies such as Shuji MIYA (&apos;Cosmos&apos;) and Osamu KIMATA (&apos;Keisei&apos; (formation)).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It popularized poets who became associated with postwar societies, such as Shuji MIYA&apos;s &apos;Cosmos&apos; and Osamu KIMATA&apos;s &apos;Keisei&apos; (Formation).</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">It popularized poets who became associated with postwar societies, such as Shuji MIYA&apos;s &apos;Cosmos&apos; and Osamu KIMATA&apos;s &apos;Keisei&apos; (Formation).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="73">
+<j>歌壇の一大勢力に成長したアララギでは、斎藤茂吉の指導を受けた佐藤佐太郎（「歩道」創刊）・山口茂吉、土屋文明の指導を受けた五味保義、近藤芳美(「未來」創刊)、高安国世(「塔 (短歌結社)」創刊)、相澤正、樋口賢治、落合京太郎、吉田正俊、柴生田稔らが育つ。</j>
+<e type="trans" ver="1">Araragi, which had developed into a great influence in the tanka circles, produced poets such as Sataro SATO (founding &apos;Hodo&apos; (Pavement)) and Mokichi YAMAGUCHI, who was given guidance by Mokichi SAITO, and Yasuyoshi GOMI, Yoshimi KONDO (who started publishing &apos;Mirai&apos; (Future)), Kuniyo TAKAYASU (who started &apos;To&apos; (The Tower, a tanka society)), Tadashi AIZAWA, Kenji HIGUCHI, Kyotaro OCHIAI, Masatoshi YOSHIDA and Minoru SHIBOTA, who was guided by Bunmei TSUCHIYA.</e>
+<cmt>確認したところ、原文中「土屋文明の指導を受けた」とある歌人名のうち、柴生田稔は実際は斎藤茂吉の指導を受けていたとのことでしたが、訳出は原文のまま「土屋文明に師事した」としております。</cmt>
+<e type="trans" ver="2">Araragi, which had gathered much influence within the tanka circles, produced poets, such as Sataro SATO (Founder of &apos;Hodo&apos; (The Pavement)) and Mokichi YAMAGUCHI, who were pupils of Mokichi SAITO, and Yasuyoshi GOMI, Yoshimi KONDO (Founder of &apos;Mirai&apos; (The Future)), Kuniyo TAKAYASU (Founder of &apos;To&apos; (The Tower; magazine and tanka society)), Tadashi AIZAWA, Kenji HIGUCHI, Kyotaro OCHIAI, Masatoshi YOSHIDA and Minoru SHIBOTA, who were pupils of Bunmei TSUCHIYA.</e>
+<cmt>rewording;verb tense</cmt>
+<e type="check" ver="1">Araragi, which had gathered much influence within the tanka circles, produced poets, such as Sataro SATO (Founder of &apos;Hodo&apos; (The Pavement)) and Mokichi YAMAGUCHI, who were pupils of Mokichi SAITO, and Yasuyoshi GOMI, Yoshimi KONDO (Founder of &apos;Mirai&apos; (The Future)), Kuniyo TAKAYASU (Founder of &apos;To&apos; (The Tower; magazine and tanka society)), Tadashi AIZAWA, Kenji HIGUCHI, Kyotaro OCHIAI, Masatoshi YOSHIDA and Minoru SHIBOTA, who were pupils of Bunmei TSUCHIYA.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>戦後</j>
+<e type="trans" ver="1">Postwar period</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Postwar Period</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The postwar period</e>
+<cmt>文頭のみ大文字</cmt>
+</tit>
+<par id="1">
+<sen id="74">
+<j>日本の敗戦から、桑原武夫『第二芸術論』など短歌否定論が大反響を呼んだ。</j>
+<e type="trans" ver="1">After Japan was defeated, theories that denied tanka such as the &quot;Daini Geijutsu&quot; (Second-Class Art) by Takeo KUWABARA evoked a massive response.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">After Japan lost WWII, opinions that condemned tanaka, such as the &quot;Daini Geijutsu&quot; (Second-Class Art) by Takeo KUWABARA became extremely popular.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">After Japan lost WWII, opinions that condemned tanaka, such as the &quot;Daini Geijutsu&quot; (Second-Class Art) by Takeo KUWABARA became extremely popular.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="75">
+<j>が、短歌否定論に対抗し、戦後歌壇を樹立する目的の下に、昭和22年（1947年）新歌人集団という運動体が結成された。</j>
+<e type="trans" ver="1">However, a movement group called Shin Kajin Shudan (literally, a new group for poets) was formed in 1947 in order to counter the theory of denying tanka and establish the postwar tanka circle.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, to counter such opinions, a new movemental organization called Shin Kajin Shudan (The New Poets Group), with the aim of establishing a postwar tanka circle, was formed in 1947.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">However, to counter such opinions, a new movemental organization called Shin Kajin Shudan (The New Poets Group), with the aim of establishing a postwar tanka circle, was formed in 1947.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="76">
+<j>近藤芳美や宮柊二などは戦後歌壇の大きな存在となるとともに、現代短歌の基盤を作っていった。</j>
+<e type="trans" ver="1">Poets such as Yoshimi KONDO and Shuji MIYA became significant figures in the postwar tanka circles and at the same time they made the basis of the modern tanka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poets such as Yoshimi KONDO and Shuji MIYA became significant figures among the postwar tanka circles, and created the basis for the modern tanka.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poets such as Yoshimi KONDO and Shuji MIYA became significant figures among the postwar tanka circles, and created the basis for the modern tanka.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="77">
+<j>昭和23年（1948年）には、日本歌人クラブが、斎藤茂吉・土屋文明・釈迢空・尾上柴舟・佐佐木信綱・窪田空穂・土岐善麿・前田夕暮をはじめとする183名の発起人、太田靑丘・渡辺順三・近藤芳美・佐藤佐太郎・木俣修・宮柊二・香川進ら当時の中堅歌人らによって結成された。</j>
+<e type="trans" ver="1">In 1948, Nihon Kajin Club (The Japan Tanka Poets&apos; Society) was formed the 183 promoters starting with Mokichi SAITO, Bunmei TSUCHIYA, Shaku Choku, Saishu ONOE, Nobutsuna SASAKI, Utsubo KUBOTA, Zenmaro TOKI, Yugure MAEDA and contemporary poets of medium standing such as Seikyu OTA, Junzo WATANABE, Yoshimi KONDO, Sataro SATO, Osamu KIMATA, Shuji MIYA and Susumu KAGAWA.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In 1948, Nihon Kajin Kurabu (The Japan Tanka Poets&apos; Society) was formed by the 183 founding members, including Mokichi SAITO, Bunmei TSUCHIYA, Shaku Choku, Saishu ONOE, Nobutsuna SASAKI, Utsubo KUBOTA, Zenmaro TOKI, Yugure MAEDA, and influential, contemporary poets, such as Seikyu OTA, Junzo WATANABE, Yoshimi KONDO, Sataro SATO, Osamu KIMATA, Shuji MIYA, and Susumu KAGAWA.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">In 1948, Nihon Kajin Kurabu (The Japan Tanka Poets&apos; Society) was formed by the 183 founding members, including Mokichi SAITO, Bunmei TSUCHIYA, Shaku Choku, Saishu ONOE, Nobutsuna SASAKI, Utsubo KUBOTA, Zenmaro TOKI, Yugure MAEDA, and influential, contemporary poets, such as Seikyu OTA, Junzo WATANABE, Yoshimi KONDO, Sataro SATO, Osamu KIMATA, Shuji MIYA, and Susumu KAGAWA.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="78">
+<j>これは歌壇最大の超結社団体として、現在に至るまで活発な活動をつづけて居る。</j>
+<e type="trans" ver="1">It has been working energetically in tanka circles since then and still today as a group bigger than any one society.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The Nihon Kajin Kurabu has been the largest tanka society in Japan thus far, and has remained an active group through to this present day.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">The Nihon Kajin Kurabu has been the largest tanka society in Japan thus far, and has remained an active group through to this present day.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="79">
+<j>昭和24年（1949年）には中井英夫が『短歌研究』を創刊し、葛原妙子・中城ふみ子・塚本邦雄・寺山修司ら多くの新人を見いだした。</j>
+<e type="trans" ver="1">In 1949, Hideo NAKAI started the &quot;Tanka Kenkyu&quot; (the Study of Tanka), and found a lot of new talent such as Taeko KUZUHARA, Fumiko NAKAJO, Kunio TSUKAMOTO and Shuji TERAYAMA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1949, Hideo NAKAI founded the publication called the &quot;Tanka Kenkyu&quot; (The Study of Tanka), and brought forth to the public eye, new poets such as Taeko KUZUHARA, Fumiko NAKAJO, Kunio TSUKAMOTO, and Shuji TERAYAMA.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">In 1949, Hideo NAKAI founded the publication called the &quot;Tanka Kenkyu&quot; (The Study of Tanka), and brought forth to the public eye, new poets such as Taeko KUZUHARA, Fumiko NAKAJO, Kunio TSUKAMOTO, and Shuji TERAYAMA.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="80">
+<j>昭和31年（1956年）には歌人の職能的性格を持つ団体として「現代歌人協会」が、生方たつゑ・扇畑忠雄・尾上紫舟・香川進・鹿児島壽蔵・木俣修・窪田空穂・近藤芳美・佐々木信綱・佐藤佐太郎・紫生田稔・土屋文明・坪野哲久・土岐善麿・松村英一・会津八一・宮柊二・山口茂吉・山本友一など62名の発起人により結成された。</j>
+<e type="trans" ver="1">In 1956, Gendai Kajin Kyokai (Association of Contemporary Tanka Poets) was formed by 62 promoters such as Tatsue UBUKATA, Tadao OOGIHATA, 尾上紫舟, Susumu KAGAWA, Juzo KAGOSHIMA, Osamu KIMATA, Utsubo KUBOTA, Yoshimi KONDO, Nobutsuna SASAKI, Sataro SATO, 紫生田稔, Bunmei TSUCHIYA, Tetsukyu TSUBONO, Zenmaro TOKI, Eiichi MATSUMURA, Yaichi AIZU, Shuji MIYA, Mokichi YAMAGUCHI and Tomoichi YAMAMOTO as a group that has the character of a poets&apos; professional association.</e>
+<cmt>訳文中2名のみ名前の読みが確認できなかったため、そのまま残しています。（それぞれ尾上柴舟、柴生田稔と同一人物ではないかとも思われますが、裏付けがとれませんでした）</cmt>
+<e type="trans" ver="2">In 1956, Gendai Kajin Kyokai (The Association of Contemporary Tanka Poets) was formed as something similar to a professional association by 62 founding members, including Tatsue UBUKATA, Tadao OOGIHATA, 尾上紫舟, Susumu KAGAWA, Juzo KAGOSHIMA, Osamu KIMATA, Utsubo KUBOTA, Yoshimi KONDO, Nobutsuna SASAKI, Sataro SATO, 紫生田稔, Bunmei TSUCHIYA, Tetsukyu TSUBONO, Zenmaro TOKI, Eiichi MATSUMURA, Yaichi AIZU, Shuji MIYA, Mokichi YAMAGUCHI and Tomoichi YAMAMOTO.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">In 1956, Gendai Kajin Kyokai (The Association of Contemporary Tanka Poets) was formed as something similar to a professional association by 62 founding members, including Tatsue UBUKATA, Tadao OOGIHATA, 尾上紫舟, Susumu KAGAWA, Juzo KAGOSHIMA, Osamu KIMATA, Utsubo KUBOTA, Yoshimi KONDO, Nobutsuna SASAKI, Sataro SATO, 紫生田稔, Bunmei TSUCHIYA, Tetsukyu TSUBONO, Zenmaro TOKI, Eiichi MATSUMURA, Yaichi AIZU, Shuji MIYA, Mokichi YAMAGUCHI and Tomoichi YAMAMOTO.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="81">
+<j>昭和30年代になると前衛短歌運動がおこった。</j>
+<e type="trans" ver="1">In the period between 1955 to 1964, the avant-garde tanka movement began.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the late 1950&apos;s and early 1960&apos;s, the avant-garde movement for tanka poetry begins.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">During the late 1950&apos;s and early 1960&apos;s, the avant-garde movement for tanka poetry begins.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="82">
+<j>現代短歌は前衛短歌から始まったとも言われる。</j>
+<e type="trans" ver="1">It is also said that modern tanka poetry started from avant-garde tanka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some believe that modern tanka poetry has its roots in avant-garde tanka poetry.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Some believe that modern tanka poetry has its roots in avant-garde tanka poetry.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="83">
+<j>前衛短歌運動は、塚本邦雄の衝撃的な表現から始まり、中井英夫の賛同を得、岡井隆・寺山修司といった同志を獲得し、歌壇全体に影響を及ぼした。</j>
+<e type="trans" ver="1">Starting with Kunio TSUKAMOTO&apos;s sensational expressions, the avant-garde tanka won Hideo NAKAI&apos;s approval, obtained comrades such as Takashi OKAI and Shuji TERAYAMA, and affected the whole tanka circle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Starting with Kunio TSUKAMOTO&apos;s poignant expressions, the avant-garde tanka poetry won the approval of Hideo NAKAI, gathered comrades such as Takashi OKAI and Shuji TERAYAMA, and affected all tanka circles.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Starting with Kunio TSUKAMOTO&apos;s poignant expressions, the avant-garde tanka poetry won the approval of Hideo NAKAI, gathered comrades such as Takashi OKAI and Shuji TERAYAMA, and affected all tanka circles.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="84">
+<j>前衛短歌は、比喩の導入、句またがり、記号の利用といった技法上の特徴が数多くある.</j>
+<e type="trans" ver="1">avant-garde tanka has a lot of technical characteristics such as bringing in metaphors, ku-matagari (segment straddling) and the usage of symbols.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Avant-garde tanka poetry has many technical features such as the use of metaphors, ku-matagari (verse straddling), and the employing of symbols.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Avant-garde tanka poetry has many technical features such as the use of metaphors, ku-matagari (verse straddling), and the employing of symbols.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="85">
+<j>作品の主人公と作者が異なる、虚構を詠っている点が最大の特徴である。</j>
+<e type="trans" ver="1">The biggest characteristic is that the main character in the poem is different from the author and the poet creates a fiction.</e>
+<cmt>一原文一訳文の例外対処 原文は上セルの文章と「が」でつながっていましたが、この「が」は文脈から否定ではなく並列関係だったため、否定と誤解されないよう削りました。</cmt>
+<e type="trans" ver="2">The most notable feature is that the main character inside the poem is different from the author and thus the poet is creating fiction.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The most notable feature is that the main character inside the poem is different from the author and thus the poet is creating fiction.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="86">
+<j>この表現方法は明治期の西洋化で失われたが、古典ではよく見られた形式である。</j>
+<e type="trans" ver="1">These ways of expression had been seen in classical literature, although it was lost due to the Westernization in of Meiji period.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">These methods of expression have been often seen in classical literature, though it was lost due to the Westernization influence during the Meiji period.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">These methods of expression have been often seen in classical literature, though it was lost due to the Westernization influence during the Meiji period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="87">
+<j>このため、短歌のルネサンスと言われる。</j>
+<e type="trans" ver="1">Therefore, it is called the Tanka Renaissance.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Therefore, it is also referred to as the Tanka Renaissance.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Therefore, it is also referred to as the Tanka Renaissance.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="88">
+<j>昭和30年代半ばには、前衛短歌は社会的影響力を持ち始めたため敬遠する出版会の動きがあったことと、方法意識が出尽くしたことから停滞した。</j>
+<e type="trans" ver="1">In around 1960, the avant-garde tanka stagnated because it began to have influence socially and was kept at a distance by some publishers, and its consciousness of its methods had been exhausted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Around 1960, the avant-garde tanka poetry started to lose its impetus, due to the fact that many publishers, fearing the over-reaching influence of the avant-garde tanka poetry into societal matters, distanced themselves from this type of poetry, and also due to the loss of direction.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">Around 1960, the avant-garde tanka poetry started to lose its impetus, due to the fact that many publishers, fearing the over-reaching influence of the avant-garde tanka poetry into societal matters, distanced themselves from this type of poetry, and also due to the loss of direction.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="89">
+<j>そこで登場したのが安保闘争に参加した若者、西の清原日出夫、東の岸上大作であった。</j>
+<e type="trans" ver="1">There appeared Hideo KIYOHARA in the west and Daisaku KISHIGAMI in the east, young men who had participated in the conflict over the Japan-US Security Treaty.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Then came along Hideo KIYOHARA of the West and Daisaku KISHIGAMI of the East-two young men who had participated in the conflict over the Japan-US Security Treaty.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Then came along Hideo KIYOHARA of the West and Daisaku KISHIGAMI of the East-two young men who had participated in the conflict over the Japan-US Security Treaty.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="90">
+<j>安保闘争後、前衛短歌が行き詰まりを見せた。</j>
+<e type="trans" ver="1">After the conflict over the Japan-US Security Treaty, avant-garde tanka came to a dead end.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">About the time when the conflict subsided, the avant-garde tanka poetry came to a dead end.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">About the time when the conflict subsided, the avant-garde tanka poetry came to a dead end.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="91">
+<j>新たな表現方法への移行も出来なかったこともあり、短歌は目標や思想を喪失していった。</j>
+<e type="trans" ver="1">Because poets could not move to new methods of expression, tanka lost its aims and ideals.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Tanka poetry lost its direction and ideals, partly due to the fact that poets could not find new methods of expression.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Tanka poetry lost its direction and ideals, partly due to the fact that poets could not find new methods of expression.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="92">
+<j>歌壇は孤立化し、内部（歌人）と外部（新聞短歌・セミナー短歌）の棲み分けが始まった。</j>
+<e type="trans" ver="1">Tanka circles became isolated, and it began to be divided between inside (professional poets) and outside (tanka appearing in newspapers and in seminars by amateurs).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanka circles soon became isolated and divided into the &quot;insiders&quot; (professional poets) and the &quot;outsiders&quot; (tanka appearing in newspapers and in seminars by amateurs).</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Tanka circles soon became isolated and divided into the &quot;insiders&quot; (professional poets) and the &quot;outsiders&quot; (tanka appearing in newspapers and in seminars by amateurs).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="93">
+<j>そんな中、三島由紀夫に定家の再来と言われてデビューした春日井建が、時代性や社会性の意識は見られない絶対なる美的表現を追求した。</j>
+<e type="trans" ver="1">At the same time, Ken KASUGAI, who Yukio MISHIMA called the second coming of Teika, made his debut and pursued an absolute esthetic expression in which a sense of period and social nature was not seen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">About that time, Ken KASUGAI, who was called the second-coming of Teika by Yukio MISHIMA, made his debut and pursued a pure form of expression, which included neither a sense of time (as in, era) nor any society&apos;s woes.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">About that time, Ken KASUGAI, who was called the second-coming of Teika by Yukio MISHIMA, made his debut and pursued a pure form of expression, which included neither a sense of time (as in, era) nor any society&apos;s woes.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="94">
+<j>昭和40年代始め、前衛短歌の停滞後はじめて本格的に近代短歌に向き合う動きが出てきた。</j>
+<e type="trans" ver="1">In the beginning of the period between 1965 and 1974, a movement to deal with the modern tanka on a full scale appeared for the first time after the stagnation of the avant-garde tanka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From about the late 1960&apos;s, finally a new movement since the disappearance of the avant-garde movement started to take hold to deal with the transformation to the modern tanka poetry.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">From about the late 1960&apos;s, finally a new movement since the disappearance of the avant-garde movement started to take hold to deal with the transformation to the modern tanka poetry.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="95">
+<j>自然派の前登志夫、古典派の馬場あき子・山中智恵子などである。</j>
+<e type="trans" ver="1">It was poets such as the Naturalist Toshio MAE, and the classical school&apos;s Akiko BABA and Chieko YAMANAKA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poets such as the naturalist, Toshio MAE, and the classical school&apos;s Akiko BABA and Chieko YAMANAKA, who helped pave the way.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poets such as the naturalist, Toshio MAE, and the classical school&apos;s Akiko BABA and Chieko YAMANAKA, who helped pave the way.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="96">
+<j>他にも、自らの表現形式を持って短歌を作る歌人が活躍し始めた。</j>
+<e type="trans" ver="1">Besides these, poets who composed tanka with their own style began to be active.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other poets also became active in the movement-poets who possessed their own original style of prose.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Other poets also became active in the movement-poets who possessed their own original style of prose.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="97">
+<j>「男歌」の佐佐木幸綱、「ただごと歌」の奥村晃作、実験的な歌風の高瀬一誌、戦後の青年像を示した夭折歌人の小野茂樹などである。</j>
+<e type="trans" ver="1">The representatives are such as Yukitsuna SASAKI who is known by &apos;Otoko uta&apos; (masculine poems), Kosaku OKUMURA known by &apos;Tadagoto uta&apos; (tanka composed on casual things), Kazushi TAKASE who had an empirical style and Shigeki ONO, a poet who died young and created an image of postwar young people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Examples include Yukitsuna SASAKI, who is known for his &apos;Otoko uta&apos; (masculine poems), Kosaku OKUMURA, who is known for his &apos;Tadagoto uta&apos; (light-heared tanka), Kazushi TAKASE, who had an empirical style, and Shigeki ONO, a poet who died young but created a portrayal of the postwar young people.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Examples include Yukitsuna SASAKI, who is known for his &apos;Otoko uta&apos; (masculine poems), Kosaku OKUMURA, who is known for his &apos;Tadagoto uta&apos; (light-hearted tanka), Kazushi TAKASE, who had an empirical style, and Shigeki ONO, a poet who died young but created a portrayal of the postwar young people.</e>
+<cmt>スペル</cmt>
+</sen>
+<sen id="98">
+<j>昭和50年代には、村木道彦・小池光・阿木津英など、風俗・実生活を繊細に描写する歌人が現れた。</j>
+<e type="trans" ver="1">In the period between 1975 and 1985, there appeared poets such as Michihiko MURAKI, Hikaru KOIKE, and Ei AKITSU, who delicately described manners and everyday reality.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From the mid-70&apos;s to the mid-80&apos;s, there appeared poets such as Michihiko MURAKI, Hikaru KOIKE, and Ei AKITSU, with their delicate expressions of everyday realities.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">From the mid-70&apos;s to the mid-80&apos;s, there appeared poets such as Michihiko MURAKI, Hikaru KOIKE, and Ei AKITSU, with their delicate expressions of everyday realities.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="99">
+<j>昭和60年代には、都市文化を基調としたヴィジュアルな表現が登場する。</j>
+<e type="trans" ver="1">In the period between 1985 and 1989, visual expression based on urban culture appeared.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the late 80&apos;s, vivid expressions based on urban culture became popular.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">During the late 80&apos;s, vivid expressions based on urban culture became popular.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="100">
+<j>坂井修一や、新古典派と呼ばれる紀野恵・水原紫苑などが平成のニューウェーブの先駆けとなる。</j>
+<e type="trans" ver="1">Poets such as Shuichi SAKAI, Megumi KINO and Shion MIZUHARA who were called the neoclassical school became pioneers of the new wave in the Heisei period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poets such as Megumi KINO and Shion MIZUHARA, who were called the neoclassical school, and Shuichi SAKAI became pioneers of the new wave in the Heisei period.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poets such as Megumi KINO and Shion MIZUHARA, who were called the neoclassical school, and Shuichi SAKAI became pioneers of the new wave in the Heisei period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="101">
+<j>俵万智『サラダ記念日』がミリオンセラーを記録、短歌はそれまでの硬いイメージから解放され、コピー言語のように読まれるようになった。</j>
+<e type="trans" ver="1">After Machi TAWARA&apos;s &quot;Salad Anniversary&quot; sold a record million copies, tanka became free from its previous serious image and became read as if it was copywriting.</e>
+<cmt>原文「開放」とありましたが、文脈から「解放」の誤りと思われたため、修正しました。</cmt>
+<e type="trans" ver="2">After Machi TAWARA&apos;s &quot;Salad Anniversary&quot; sold a record million copies, tanka became free from its traditional grave image and came to be read more casually.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">After Machi TAWARA&apos;s &quot;Salad Anniversary&quot; sold a record million copies, tanka became free from its traditional grave image and came to be read more casually.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="10">
+<tit>
+<j>平成</j>
+<e type="trans" ver="1">The Heisei era</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Heisei Era</e>
+<cmt>capitalization</cmt>
+<e type="check" ver="1">The Heisei period</e>
+<cmt>文頭のみ大文字用語統一</cmt>
+</tit>
+<par id="1">
+<sen id="102">
+<j>平成に入って最大の衝撃は、正岡子規以来の写生を受け継ぐ「アララギ」の終刊（1997年12月）とアララギ派の分裂であろう。</j>
+<e type="trans" ver="1">The biggest shock in the Heisei era was probably the end of &apos;Araragi&apos;, which had been transmitting a concept of shasei (portrayal) since Shiki MASAOKA (in December 1997) and the break-up of the Araragi school.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The biggest surprises thus far in the Heisei era were most likely the end of &apos;Araragi&apos;, which had been continuing the concept of shasei (portrayal) since the days of Shiki MASAOKA (on December 1997), and the break-up of the Araragi school.</e>
+<cmt>rewording;verb tense</cmt>
+<e type="check" ver="1">The biggest surprises thus far in the Heisei period were most likely the end of &apos;Araragi,&apos; which had been continuing the concept of shasei (portrayal) since the days of Shiki MASAOKA (on December 1997), and the break-up of the Araragi school.</e>
+<cmt>カンマの位置移動全角削除用語統一</cmt>
+</sen>
+<sen id="103">
+<j>時を同じくして加藤治郎 (歌人)・荻原裕幸・穂村弘らニューウェーブと呼ばれる歌人が登場した。</j>
+<e type="trans" ver="1">At the same time, there appeared poets called the new wave, such as Jiro KATO, Hiroyuki OGIHARA and Hiroshi HOMURA.</e>
+<cmt>原文中の「（歌人）」については、今回文脈から訳出しない方が自然と判断し、翻訳文から抜きました。</cmt>
+<e type="trans" ver="2">Around the same time, there appeared poets known as the New Wave that included Jiro KATO, Hiroyuki OGIHARA, and Hiroshi HOMURA.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Around the same time, there appeared poets known as the New Wave that included Jiro KATO, Hiroyuki OGIHARA, and Hiroshi HOMURA.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="104">
+<j>『サラダ記念日』（俵万智）で決定的に大衆化した短歌の状況に困惑する旧来の歌人をよそに、イメージと感性で歌い上げる彼等の表現は斬新だった。</j>
+<e type="trans" ver="1">Contrary to the traditional poets&apos; perplexity due to the circumstances that tanka was definitely popularized by the &quot;Salad Anniversary&quot;(Machi TAWARA), words of the new wave poets, who expressed themselves using their imagination and sensitivity, were novel.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While the traditional tanka poets were perplexed by the &quot;Salad Anniversary&quot;(Machi TAWARA) and the way in which it popularized tanka poetry, the New Wave poets brought about another revolution in poetry expression by their grand imagination and sensitivities.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">While the traditional tanka poets were perplexed by the &quot;Salad Anniversary&quot;(Machi TAWARA) and the way in which it popularized tanka poetry, the New Wave poets brought about another revolution in poetry expression by their grand imagination and sensitivities.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="105">
+<j>それまでの短歌は個人的内容であっても、普遍性や生への問いかけがあった。</j>
+<e type="trans" ver="1">The tanka poems before that had some universality or questions about life, even when the works themselves were personal.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanka poems until then bore some questions about universality or about life, even when the works appeared to be of a personal level.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Tanka poems until then bore some questions about universality or about life, even when the works appeared to be of a personal level.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="106">
+<j>しかしバブル経済の表層的文化で育った口語性と都会性、脱私性により、前衛短歌以来の近代短歌からの脱出が図られたのである。</j>
+<e type="trans" ver="1">But there was an attempt to get away from the modern tanka since avant-garde tanka due to the colloquial style, urbanism and escape from personal matters that the surface-level culture of the bubble economy had developed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The New Wave poets, however, were able to break free from the modern tanka poetry due to the colloquial, urban, and anti-ego culture they experienced through the bubble economy.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">The New Wave poets, however, were able to break free from the modern tanka poetry due to the colloquial, urban, and anti-ego culture they experienced through the bubble economy.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="107">
+<j>現在はインターネットの普及も影響して、枡野浩一など歌壇に全く属さない歌人も登場している。</j>
+<e type="trans" ver="1">Nowadays, poets who do not belong to tanka circles at all, such as Koichi MASUNO, have been appearing under the influence of the Internet as well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With the advent of the internet, there are increasing number of poets who do not associate themselves to any tanka circles with Koichi MASUNO being a famous example.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">With the advent of the internet, there are increasing number of poets who do not associate themselves to any tanka circles with Koichi MASUNO being a famous example.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="108">
+<j>昭和末期から現代学生百人一首という短歌を使用したコンテストが開催されている。</j>
+<e type="trans" ver="1">Since the end of the Showa era, a tanka contest named the Gendai gakusei hyakunin isshu (One hundred poems by one hundred students in modern times) has been held.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the late Showa period, a tanka contest called the Gendai Gakusei Hyakunin Isshu (One Hundred Poems by One Hundred Students) has been held periodically.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Since the late Showa period, a tanka contest called the Gendai Gakusei Hyakunin Isshu (One Hundred Poems by One Hundred Students) has been held periodically.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="109">
+<j>現在では全国各地の学校がこのイベントへ参加しており、短歌を通じた教育ならびに現代の学生が短歌を詠むことで現代人の感性を知ろうというひとつの試みとなっている。</j>
+<e type="trans" ver="1">In these days, schools from all over the country have been participating in this event, and it is a kind of education through tanka and an attempt for students in modern times to get to know the sensitivity of modern people by composing tanka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Currently, schools nation-wide have been participating in this event, and it is a form of education taught through tanka and it attempts to have students get in touch with the sensitivities of the modern-day people through tanka compositions.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Currently, schools nation-wide have been participating in this event, and it is a form of education taught through tanka and it attempts to have students get in touch with the sensitivities of the modern-day people through tanka compositions.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="11">
+<tit>
+<j>短歌の技法</j>
+<e type="trans" ver="1">Tanka Technique</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanka Rules and Techniques</e>
+<cmt>rewording;added &apos;rules&apos; since this section covers more than just techniques</cmt>
+<e type="check" ver="1">Tanka rules and techniques</e>
+<cmt>文頭のみ大文字</cmt>
+</tit>
+<par id="1">
+<sen id="110">
+<j>定形の文字数、句数による制約</j>
+<e type="trans" ver="1">Restriction of the regular form by the number of syllables and lines</e>
+<cmt></cmt>
+<e type="trans" ver="2">Restriction in the number of syllables and lines</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Restriction in the number of syllables and lines</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="111">
+<j>‐短歌の定形は、31文字（みそひともじ）、5句である.</j>
+<e type="trans" ver="1">The regular form of tanka has thirty-one syllables and five lines.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The fixed form of tanka has thirty-one syllables and five lines.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The fixed form of tanka has thirty-one syllables and five lines.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="112">
+<j>それを守る方法と変化を付けることによって表現の幅を広げようとする方法とがある。</j>
+<e type="trans" ver="1">There is a method that follows this and another method that tried to make the expression broader by changing the pattern.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">This exists other forms which attempts to broaden the capacity for expression by altering this fixed form.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">This exists other forms which attempts to broaden the capacity for expression by altering this fixed form.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="113">
+<j>歌のどの部分を強調するかに対して各種の慣用的呼び方がある。</j>
+<e type="trans" ver="1">Depending on what part of the poem the poet emphasizes, there are some accepted names of techniques.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Similar techniques are referred to by different names depending on where emphasis is placed in the poem.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">Similar techniques are referred to by different names depending on where emphasis is placed in the poem.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="114">
+<j>句切れ</j>
+<e type="trans" ver="1">Kugire (caesura)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kugire</e>
+<cmt>omit explanation</cmt>
+<e type="check" ver="1">Kugire</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="115">
+<j>- 強調したい部分を句切れという形で表す歌の作り方・鑑賞の仕方。</j>
+<e type="trans" ver="1">A technique of composing and savoring poems that emphasizes what the poet wants to express in the form of a caesura.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A technique employed to emphasize a particular part of the poem by use of a kugire (caesura).</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">A technique employed to emphasize a particular part of the poem by use of a kugire (caesura).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="116">
+<j>初句切れ、二句切れ、三句切れ、四句切れ、無句切れ</j>
+<e type="trans" ver="1">Shokugire (caesura in the first line), Nikugire (the one in the second line), Sankugire (the one in the third line), Yonkugire (the one in the fourth line) and Mukugire (no caesura)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shokugire (caesura in the first line), Nikugire (the one in the second line), Sankugire (the one in the third line), Yonkugire (the one in the fourth line) and Mukugire (no caesura)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shokugire (caesura in the first line), Nikugire (the one in the second line), Sankugire (the one in the third line), Yonkugire (the one in the fourth line) and Mukugire (no caesura)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="117">
+<j>句割れ、句跨り</j>
+<e type="trans" ver="1">Ku-ware (split phrase) and ku-matagari (segment straddling)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kuware (split phrase) and kumatagari (line straddling)</e>
+<cmt>rewording:unable to verify kuware</cmt>
+<e type="check" ver="1">Kuware (split phrase) and kumatagari (line straddling)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="118">
+<j>破調</j>
+<e type="trans" ver="1">Broken meter</e>
+<cmt></cmt>
+<e type="trans" ver="2">Broken meter</e>
+<cmt>or out of tune</cmt>
+<e type="check" ver="1">Broken meter</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="119">
+<j>- 字余り、字足らず</j>
+<e type="trans" ver="1">Extra or insufficient syllables</e>
+<cmt></cmt>
+<e type="trans" ver="2">Extra or insufficient syllables</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Extra or insufficient syllables</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="120">
+<j>使用する国語</j>
+<e type="trans" ver="1">The Japanese language used for composing tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Japanese language used for composing tanka</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Japanese language used for composing tanka</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="121">
+<j>– 文語による短歌は歴史的仮名遣い(旧仮名遣い)によって書かれることが原則である.</j>
+<e type="trans" ver="1">It is the principle that tanka using classical literary language should be written in traditional kana orthography (old kana orthography).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It is a fundamental rule to use traditional kana orthography (old kana orthography) when composing tanka in the classical literary language.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">It is a fundamental rule to use traditional kana orthography (old kana orthography) when composing tanka in the classical literary language.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="122">
+<j>が、日常生活で口語が用いられている現在は各種の表記法が混在している。</j>
+<e type="trans" ver="1">However, in these days when spoken language is used in daily life, there coexist several orthographies.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, as colloquial language is used often in daily life, different types of orthographies have begun to coexist.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">However, as colloquial language is used often in daily life, different types of orthographies have begun to coexist.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="123">
+<j>文語と歴史的仮名遣い</j>
+<e type="trans" ver="1">Classical literary language and traditional kana orthography</e>
+<cmt></cmt>
+<e type="trans" ver="2">Classical literary language and traditional kana orthography</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Classical literary language and traditional kana orthography</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="124">
+<j>文語と現代仮名遣い</j>
+<e type="trans" ver="1">Classical literary language and modern kana orthography</e>
+<cmt></cmt>
+<e type="trans" ver="2">Classical literary language and modern kana orthography</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Classical literary language and modern kana orthography</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="125">
+<j>口語と現代仮名遣い</j>
+<e type="trans" ver="1">Colloquial language and modern kana orthography</e>
+<cmt></cmt>
+<e type="trans" ver="2">Colloquial language and modern kana orthography</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Colloquial language and modern kana orthography</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="126">
+<j>漢語、外来語・片仮名語・話し言葉</j>
+<e type="trans" ver="1">Originally Chinese words and expressions, loanwords and katakana words (loanwords transliterated into katakana), and spoken language</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sino-Japanaese words, borrowed words and katakana words, and spoken words</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Sino-Japanese words, borrowed words and katakana words, and spoken words</e>
+<cmt>スペル</cmt>
+</sen>
+<sen id="127">
+<j>修辞技法</j>
+<e type="trans" ver="1">Rhetoric</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rhetoric Techniques</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Rhetoric techniques</e>
+<cmt>文頭のみ大文字</cmt>
+</sen>
+<sen id="128">
+<j>- 短歌においては、韻文全般に用いられる技法の中から効果のあるものが選択的に用いられている。</j>
+<e type="trans" ver="1">In tanka, poets select and use any effective techniques among those which are generally used in verse.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In tanka, techniques available in poetry are used selectively to obtain desired effects.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">In tanka, techniques available in poetry are used selectively to obtain desired effects.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="129">
+<j>反復法、対句法、押韻、倒置法、反語</j>
+<e type="trans" ver="1">Repetition, couplets, rhyming, anastrophe and rhetorical questions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Repetition, couplets, rhyming, anastrophe and rhetorical questions</e>
+<cmt>remove period</cmt>
+<e type="check" ver="1">Repetition, couplets, rhyming, anastrophe and rhetorical questions</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="130">
+<j>引用、援用</j>
+<e type="trans" ver="1">Quotations and citations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Quotations and citations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Quotations and citations</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="131">
+<j>体言止め</j>
+<e type="trans" ver="1">Taigendome (ending a poem with a noun)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Taigendome (ending a poem with a noun)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Taigendome (ending a poem with a noun)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="132">
+<j>比喩</j>
+<e type="trans" ver="1">Metaphor</e>
+<cmt></cmt>
+<e type="trans" ver="2">Metaphor</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Metaphor</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="133">
+<j>直喩、暗喩（隠喩）、寓喩、擬人法</j>
+<e type="trans" ver="1">Similes, metaphors, allegories and personification</e>
+<cmt></cmt>
+<e type="trans" ver="2">Similes, metaphors, allegories and personification</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Similes, metaphors, allegories and personification</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="134">
+<j>擬音語、擬態語</j>
+<e type="trans" ver="1">Onomatopoeia and mimetic words</e>
+<cmt></cmt>
+<e type="trans" ver="2">Onomatopoeia and mimetic words</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Onomatopoeia and mimetic words</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="135">
+<j>枕詞</j>
+<e type="trans" ver="1">Makura kotoba (pillow words)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Makura kotoba (pillow words)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Makura kotoba (pillow words)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="136">
+<j>‐歌の意味にかかわらず,ある特定の語を引き出すために,その語の前に置かれる。</j>
+<e type="trans" ver="1">Regardless the meaning of a poem, it is put in front of a particular word to evoke that word.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">A word that is placed in front of a particular word to emphasize the latter.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">A word that is placed in front of a particular word to emphasize the latter.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="137">
+<j>語調を整えたり、印象を強めたりする。</j>
+<e type="trans" ver="1">It makes the poem&apos;s tone better and strengthens the impression.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It helps to improve the flow of the poem and provide a stronger effect.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">It helps to improve the flow of the poem and provide a stronger effect.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="138">
+<j>通常は5音の句である。</j>
+<e type="trans" ver="1">Usually, it is a line with five syllables.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Usually, it is used in a line with five syllables.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Usually, it is used in a line with five syllables.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="139">
+<j>序詞</j>
+<e type="trans" ver="1">Jo kotoba (introductive word)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jo kotoba (introductive word)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jo kotoba (introductive word)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="140">
+<j>- 枕詞より長い音節により具体的なイメージを引き出し、下の句のテーマへと繋げていく技法であるが、現代ではほとんど使われていない。</j>
+<e type="trans" ver="1">A technique using longer syllables than a Makura kotoba, a Jo kotoba draws a specific image and connects it to the theme of the second part although nowadays this is rarely used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though rarely used in contemporary tanka, this is a technique that uses longer words than the Makura kotoba, and is able to depict specific images and to introduce themes in subsequent lines.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">Though rarely used in contemporary tanka, this is a technique that uses longer words than the Makura kotoba, and is able to depict specific images and to introduce themes in subsequent lines.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="141">
+<j>掛詞</j>
+<e type="trans" ver="1">Kake kotoba (pivot word)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kake kotoba</e>
+<cmt>omit explanation</cmt>
+<e type="check" ver="1">Kake kotoba</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="142">
+<j>– 2つの意味を持つ同音異義語を用いて2つの文脈を繋ぐ、あるいは展開していく技法。</j>
+<e type="trans" ver="1">A technique using homonyms, a word having the same spelling but different meanings, to connect two contexts or develop a poem.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A technique using homonyms, a word having the same spelling but different meanings, to achieve two distinct contexts within the same verse.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">A technique using homonyms, a word having the same spelling but different meanings, to achieve two distinct contexts within the same verse.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="143">
+<j>歌遊びのようにとられる危険がある。</j>
+<e type="trans" ver="1">It might be misunderstood as a form of play in verse.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It may be misunderstood as a form of play in verse.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">It may be misunderstood as a form of play in verse.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="144">
+<j>縁語</j>
+<e type="trans" ver="1">Engo (related word)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Engo</e>
+<cmt>omit explanation</cmt>
+<e type="check" ver="1">Engo</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="145">
+<j>－歌の中のある語を中心に、それと関係のある語を用いて、表現を効果的にする技法。</j>
+<e type="trans" ver="1">It is a technique to make the expression more effective by putting a particular word at the center of the poem and using words related to it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A technique wherein a word associated with a theme word in the verse is used to aide the expression of the latter.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">A technique wherein a word associated with a theme word in the verse is used to aide the expression of the latter.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="12">
+<tit>
+<j>短歌の分類</j>
+<e type="trans" ver="1">Categories of tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanka Categorization</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Tanka categorization</e>
+<cmt>文頭のみ大文字</cmt>
+</tit>
+<par id="1">
+<sen id="146">
+<j>歌の対象としての分類</j>
+<e type="trans" ver="1">Categorizing as a subject of a poem</e>
+<cmt></cmt>
+<e type="trans" ver="2">Categorization based on the subject of the poem</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Categorization based on the subject of the poem</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="147">
+<j>万葉以来短歌は自然に触れ、生活の場で、また社会の流れの中にあって、人間の心の在り様を表現したものである。</j>
+<e type="trans" ver="1">Since the age of Manyoshu, tanka has been expressing the state of human heart in contact with nature, in people&apos;s daily lives or social trends.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Since the appearance of the Manyoshu, tanka has been used to express the inner feelings of the heart through nature, everyday lives, and social trends.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Since the appearance of the Manyoshu, tanka has been used to express the inner feelings of the heart through nature, everyday lives, and social trends.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="148">
+<j>すべてが抒情であるとも言える。</j>
+<e type="trans" ver="1">It can be said that all of what tanka expresses is lyricism.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Then, lyricism may be the essence of tanka poetry.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Then, lyricism may be the essence of tanka poetry.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="149">
+<j>しかし、短歌の世界では対象の捉え方を、叙景歌（自然の風景等を詠んだ歌）、叙事歌（事実をありのままに述べた歌）、抒情歌（感情、感動を述べ表した歌）という分け方をしてきた。</j>
+<e type="trans" ver="1">However, in the world of tanka, people divided poems into the following groups according to the ways the poem viewed the object: scenery poetry (poems composed on natural scenery), epic poetry (poems describing a fact as it is) and lyrical poetry (poems express people&apos;s feelings and emotions).</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, in the world of tanka poetry, people have divided poems into the following groups: scenic poetry (poems composed on natural scenery), descriptive poetry (poems describing a fact as is), and lyrical poetry (poems express people&apos;s feelings and emotions).</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">However, in the world of tanka poetry, people have divided poems into the following groups: scenic poetry (poems composed on natural scenery), descriptive poetry (poems describing a fact as is), and lyrical poetry (poems express people&apos;s feelings and emotions).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="150">
+<j>便宜上直接的に短歌の対象となった事柄を捉えて、何々詠という呼び方をしている。</j>
+<e type="trans" ver="1">For convenience, they are called something-tanka according to the things that became the subject of that tanka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Descriptive names followed by the 詠 (ei) suffix are used to further categorize tanka based on the theme of the poem.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">Descriptive names followed by the 詠 (ei) suffix are used to further categorize tanka based on the theme of the poem.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="151">
+<j>代表的なものを次に掲げることにする。</j>
+<e type="trans" ver="1">The following are typical categories.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following are some of the typical categories.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">The following are some of the typical categories.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="152">
+<j>これら以外に何々詠と付けられた分類も見かける。</j>
+<e type="trans" ver="1">In addition to these, there are also some categories called something-tanka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other categories also follow the same convention of a descriptive name followed by the 詠 (ei) suffix.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">Other categories also follow the same convention of a descriptive name followed by the 詠 (ei) suffix.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="153">
+<j>また、今後、さまざまな呼び方がされる新たな分野が登場してくる可能性はある。</j>
+<e type="trans" ver="1">Also, there are possibilities for new fields to appear that are called by various names.</e>
+<cmt></cmt>
+<e type="trans" ver="2">New and various names for new categories will most likely appear as time goes on.</e>
+<cmt>re-translated</cmt>
+<e type="check" ver="1">New and various names for new categories will most likely appear as time goes on.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="154">
+<j>自然詠</j>
+<e type="trans" ver="1">Nature-tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shizen-ei</e>
+<cmt>rewording;cannot agree with the original translator&apos;s replacement of the category names with new naming conventions</cmt>
+<e type="check" ver="1">Shizen-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="155">
+<j>―山川草木、花鳥風月等の自然を主体に詠んだ歌</j>
+<e type="trans" ver="1">Poems composed on nature like mountains, rivers, grass and trees, and the beauties of nature as the subject.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed on the beauties of nature, for example, mountains, rivers, grass, trees, flowers, birds, the wind, and the moon.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed on the beauties of nature, for example, mountains, rivers, grass, trees, flowers, birds, the wind, and the moon.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="156">
+<j>植物詠</j>
+<e type="trans" ver="1">Plants-tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shokubutu-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Shokubutsu-ei</e>
+<cmt>スペル</cmt>
+</sen>
+<sen id="157">
+<j>―植物を詠んだ歌</j>
+<e type="trans" ver="1">Poems composed on plants.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed on plants.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Poems composed on plants.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="158">
+<j>人事詠</j>
+<e type="trans" ver="1">Human affairs tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jinji-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Jinji-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="159">
+<j>―人間社会の出来事、人間関係、または個人個人のことを詠んだ歌</j>
+<e type="trans" ver="1">Poems composed on events in human society and human relationships or private things.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed on events in human society, on human relationships, or individual matters.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed on events in human society, on human relationships, or individual matters.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="160">
+<j>生活詠</j>
+<e type="trans" ver="1">Life tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Seikatsu-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Seikatsu-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="161">
+<j>―生活の実感を詠い人の在り方に迫ろうとする歌</j>
+<e type="trans" ver="1">Poems that express a real feeling in life and try to reach what a person should be.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed about life and its meaning.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed about life and its meaning.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="162">
+<j>職場詠・職業詠</j>
+<e type="trans" ver="1">Workplace tanka, Occupation tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shokuba-ei and Shokugyo-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Shokuba-ei and Shokugyo-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="163">
+<j>―職場や職業を詠んだ歌</j>
+<e type="trans" ver="1">Poems composed on workplaces and occupations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed about workplaces and occupations.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed about workplaces and occupations.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="164">
+<j>境涯詠</j>
+<e type="trans" ver="1">Circumstances tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyogai-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Kyogai-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="165">
+<j>―自分の人生を振り返って詠んだ歌</j>
+<e type="trans" ver="1">Poems that are composed when thinking back on the composer&apos;s own life.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed on reflecting life.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed on reflecting life.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="166">
+<j>病床詠</j>
+<e type="trans" ver="1">Sickbed tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Byosho-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Byosho-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="167">
+<j>―病床にあって詠んだ歌</j>
+<e type="trans" ver="1">Poems composed on the composer&apos;s sickbed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed on or after one&apos;s sickbed.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed on or after one&apos;s sickbed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="168">
+<j>家族詠</j>
+<e type="trans" ver="1">Family tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kazoku-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Kazoku-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="169">
+<j>―家族という集団を意識しながらその構成員を詠んだ歌</j>
+<e type="trans" ver="1">Poems composed on a family member with a consciousness of the family as a group.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed about family members while being conscious of the family as a whole.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed about family members while being conscious of the family as a whole.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="170">
+<j>相聞歌</j>
+<e type="trans" ver="1">Love poems</e>
+<cmt></cmt>
+<e type="trans" ver="2">Somon-ka</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Somon-ka</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="171">
+<j>―男女の間の恋愛感情を詠んだ歌</j>
+<e type="trans" ver="1">Poems composed on love between men and women.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed about love between a man and a woman.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed about love between a man and a woman.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="172">
+<j>挽歌・鎮魂歌</j>
+<e type="trans" ver="1">Elegies and requiems</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ban-ka, Chinkon-ka</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Ban-ka, Chinkon-ka</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="173">
+<j>―死者を弔い、死を悲しむ歌</j>
+<e type="trans" ver="1">Poems to mourn for the dead and grieve over their deaths.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems to mourn for the dead or grieve over their deaths.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems to mourn for the dead or grieve over their deaths.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="174">
+<j>旅行詠</j>
+<e type="trans" ver="1">Travel tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ryoko-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Ryoko-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="175">
+<j>―旅行途上で接した風物に寄せて感慨を詠んだ歌</j>
+<e type="trans" ver="1">Poems composed on poets&apos; deep emotions inspired by scenes they saw during their trip.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed about things encountered during a trip and the emotions attached to such things.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed about things encountered during a trip and the emotions attached to such things.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="176">
+<j>山岳詠</j>
+<e type="trans" ver="1">Mountains tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sangaku-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Sangaku-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="177">
+<j>―登山体験を詠んだ歌</j>
+<e type="trans" ver="1">Poems composed on one&apos;s experiences climbing a mountain.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed about experiences on climbing mountains.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed about experiences on climbing mountains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="178">
+<j>海外詠</j>
+<e type="trans" ver="1">Going overseas tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kaigai-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Kaigai-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="179">
+<j>―海外での長期滞在、居住、永住等の体験を詠んだ歌、戦前からの移民等の歌も含む</j>
+<e type="trans" ver="1">Poems composed on experiences of a long stay, being in residence and settling down in a foreign countries, including the poems composed by those who had immigrated before the World War II.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed on experiences of a long stay or settling down in a foreign country, and includes poems composed by those who have emigrated before World War II.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed on experiences of a long stay or settling down in a foreign country, and includes poems composed by those who have emigrated before World War II.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="180">
+<j>社会詠</j>
+<e type="trans" ver="1">Social tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shakai-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Shakai-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="181">
+<j>―人の生活する場である社会と社会に対する批判等を含む認識を詠んだ歌</j>
+<e type="trans" ver="1">Poems composed on cognition, including society where people live their lives, and critical comments on that society.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed on society and criticism thereof.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed on society and criticism thereof.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="182">
+<j>時事詠</j>
+<e type="trans" ver="1">Tanka on current events</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jiji-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Jiji-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="183">
+<j>―社会詠の一種であり、時事問題を詠んだ歌</j>
+<e type="trans" ver="1">A kind of social tanka, poems composed on current issues.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A type of shakai-ei and deals with current issues.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">A type of shakai-ei and deals with current issues.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="184">
+<j>時局詠</j>
+<e type="trans" ver="1">Tanka on the current state of affairs</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jikyoku-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Jikyoku-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="185">
+<j>―現在の時局に題材を得た歌。</j>
+<e type="trans" ver="1">Poems composed on the current state of affairs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed on the current state of affairs.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Poems composed on the current state of affairs.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="186">
+<j>広くは社会詠に含まれる</j>
+<e type="trans" ver="1">Broadly, this is incorporated into social tanka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is a subset of the Shakai-ei.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">This is a subset of the Shakai-ei.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="187">
+<j>安保詠・学園闘争詠</j>
+<e type="trans" ver="1">Anpo tanka and tanka on campus disturbances</e>
+<cmt></cmt>
+<e type="trans" ver="2">Anpo-ei and Gakuentoso-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Anpo-ei and Gakuentoso-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="188">
+<j>―60年安保闘争・70年前後の学園紛争を詠んだ歌</j>
+<e type="trans" ver="1">Poems composed on the conflict over the Japan-US Security Treaty in 1960 and the campus disturbances around 1970.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed on the conflict over the Japan-US Security Treaty in 1960 and the campus disturbances around 1970.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Poems composed on the conflict over the Japan-US Security Treaty in 1960 and the campus disturbances around 1970.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="189">
+<j>震災詠</j>
+<e type="trans" ver="1">Earthquake tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jishin-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Jishin-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="190">
+<j>―関東大震災・阪神淡路大震災を詠んだ歌</j>
+<e type="trans" ver="1">The poems composed on the Great Kanto Earthquake and the Great Hanshin earthquake.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed on the Great Kanto Earthquake and the Great Hanshin Earthquake.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed on the Great Kanto Earthquake and the Great Hanshin Earthquake.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="191">
+<j>戦時詠</j>
+<e type="trans" ver="1">Wartime tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Senji-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Senji-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="192">
+<j>―戦時下の社会と人間を詠んだ歌。</j>
+<e type="trans" ver="1">Poems composed on the society and people in wartime.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed about the people and society during wartime.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed about the people and society during wartime.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="193">
+<j>戦争詠とは異なる</j>
+<e type="trans" ver="1">This is different from war tanka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is different from the senso-ei.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">This is different from the senso-ei.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="194">
+<j>戦争詠</j>
+<e type="trans" ver="1">War tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Senso-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Senso-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="195">
+<j>―戦争に直接参加した兵士たちが前線で詠んだ歌</j>
+<e type="trans" ver="1">Poems composed by soldiers at the front who actually took part in battles.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed by soldiers at the frontline of war.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed by soldiers at the frontline of war.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="196">
+<j>農民詠</j>
+<e type="trans" ver="1">Peasant tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nomin-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Nomin-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="197">
+<j>―「農民文学運動」に端を発し、農村に関して詠んだ歌</j>
+<e type="trans" ver="1">Poems originating in the &apos;peasant literature movement&apos; and rural communities.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems originating from the &apos;peasant literature movement&apos; and based on rural communities.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems originating from the &apos;peasant literature movement&apos; and based on rural communities.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="198">
+<j>思想詠</j>
+<e type="trans" ver="1">Tanka on thoughts</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shiso-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Shiso-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="199">
+<j>―哲学、思想、主義、主張に基づき人間と社会を詠んだ歌</j>
+<e type="trans" ver="1">Poems composed on human beings and society, based on philosophy, thoughts, principles and opinions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed based on philosophy, ideologies, doctrines, opinions, and on man vs. society.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed based on philosophy, ideologies, doctrines, opinions, and on man vs. society.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="200">
+<j>都市詠</j>
+<e type="trans" ver="1">Urban tanka</e>
+<cmt></cmt>
+<e type="trans" ver="2">Toshi-ei</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Toshi-ei</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="201">
+<j>―人間社会の縮図である都市の社会状況、人間の在り方を詠んだ歌</j>
+<e type="trans" ver="1">Poems composed on the social conditions of cities that are microcosms of human society, and the way that men should be.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Poems composed on the social conditions of cities, which are microcosms of human society, and on the way we should live as humans.</e>
+<cmt>rewording</cmt>
+<e type="check" ver="1">Poems composed on the social conditions of cities, which are microcosms of human society, and on the way we should live as humans.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 BOTarate(id:185620), アイザール(id:133157), Eskimbot(id:29676), Ideal(id:236), おすぽん(id:16560), 春野秋葉(id:36725), Lupinoid(id:68), TXiKiBoT(id:107492), Yuichiokubo(id:88759), 秋の虹(id:18259), 矢刺幹人(id:10639), Geyogeyo(id:35444), さららゆら(id:12274), Hph.ppk(id:298575), カイの迷宮(id:72682), Nevylax(id:38464), Nickpon(id:43612), TY(id:1386), Sasara(id:28616), Point136(id:211299), 竹麦魚(id:11012), Kamocoara(id:30680), FlaBot(id:30804), Yamabig(id:21134), Raffles07tk(id:133137), Starbacks(id:1018), ArthurBot(id:265089), Dover202(id:203983), Ks8823(id:130146), 愛国の歌人(id:173428), Robbot(id:3063), Mkill(id:22697), かなべえコバトン(id:15491), VolkovBot(id:105371), YI9896(id:186957), YurikBot(id:18605), Thijssie!bot(id:111619), U.S.S.Momotaro(id:646), Lake-side(id:90252), Louperibot(id:128971), SieBot(id:126695), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

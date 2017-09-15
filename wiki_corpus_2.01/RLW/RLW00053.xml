@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>綾部駅</j>
+<e type="trans" ver="1">Ayabe Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ayabe Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ayabe Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>綾部駅（あやべえき）は、京都府綾部市にある、西日本旅客鉄道（JR西日本）の鉄道駅。</j>
+<e type="trans" ver="1">Located in Ayabe City, Kyoto Prefecture, Ayabe Station is a stop of West Japan Railway Company (JR West).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Located in Ayabe City, Kyoto Prefecture, Ayabe Station is a stop owned by West Japan Railway Company (JR West).</e>
+<cmt>&quot;of&quot;→&quot;owned by&quot;</cmt>
+<e type="check" ver="1">Located in Ayabe City, Kyoto Prefecture, Ayabe Station is a stop owned by West Japan Railway Company (JR West).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>すべての特急列車が当駅に停車し、舞鶴方面の特急と福知山方面の特急が当駅で分割併結される。</j>
+<e type="trans" ver="1">All Limited Express trains stop at this station, and those Limited Express trains for Maizuru and for Fukuchiyama are connected or disconnected at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All Limited Express trains stop at this station, and those Limited Express trains for Maizuru and for Fukuchiyama are coupled and decoupled at this station.</e>
+<cmt>Not sure of &quot;分割併結&quot;</cmt>
+<e type="check" ver="1">All limited express trains stop at this station, and those limited express trains for Maizuru and for Fukuchiyama are coupled and decoupled at this station.</e>
+<cmt>limited express 小文字にしました。</cmt>
+</sen>
+<sen id="3">
+<j>当駅で特急に連絡する「特急リレー号」も運転される。</j>
+<e type="trans" ver="1">Some Local trains called &quot;Relay Limited Express,&quot; which are used to connect with a Limited Express train at this station, are also available.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some trains called &quot;Relay Limited Expresses&quot; connect with Limited Express trains at this station.</e>
+<cmt>Deleted &quot;Local&quot;, &quot;which are used to&quot;, &quot;are also available&quot;</cmt>
+<e type="check" ver="1">Some trains called &apos;Relay Limited Expresses&apos; connect with limited express trains at this station.</e>
+<cmt>limited express 小文字にしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>駅弁の販売があったが、業者が交替したのち2005年に撤退し現在は販売されていない。</j>
+<e type="trans" ver="1">Ekiben (lunch boxes available at some stations and on some trains) sales used be available; however, the distributor once changed and then the new distributer pulled out of the station in 2005, and no Ekiben has been sold since then.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ekiben (lunch boxes available at some stations and on some trains) used to be sold; however, in 2005 the new distributer pulled out of the station, and no Ekiben have been sold since then.</e>
+<cmt>&quot;sales used be available&quot;→&quot;used to be sold&quot;Deleted &quot;the distributor once changed and then&quot;moved &quot;in 2005&quot;&quot;has&quot;→&quot;have&quot;</cmt>
+<e type="check" ver="1">Ekiben (lunch boxes available at some stations and on some trains) used to be sold; however, in 2005 the new distributor pulled out of the station, and no Ekiben have been sold since then.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="5">
+<j>利用可能な鉄道路線</j>
+<e type="trans" ver="1">Available railway lines</e>
+<cmt></cmt>
+<e type="trans" ver="2">Lines</e>
+<cmt>Deleted &quot;Available railway&quot;</cmt>
+<e type="check" ver="1">Lines</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>西日本旅客鉄道（JR西日本）</j>
+<e type="trans" ver="1">West Japan Railway Company (JR West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>山陰本線</j>
+<e type="trans" ver="1">San&apos;in Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">San&apos;in Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sanin Main Line</e>
+<cmt>アポストロフィーを削除しました。</cmt>
+</sen>
+<sen id="8">
+<j>舞鶴線 ※終着駅であるが、普通列車の一部は山陰本線福知山方面へ、全ての特急は山陰本線京都方面へ直通。</j>
+<e type="trans" ver="1">Maizuru Line * This station is basically the terminal station, but some of the Local trains and all of the Limited Express trains operated on this line directly go for Fukuchiyama and for Kyoto on the San&apos;in Main Line respectively.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maizuru Line * This station is basically the terminal station but, using the San&apos;in Line, some of the Local trains go to Fukuchiyama and all of the Limited Express trains go to Kyoto.</e>
+<cmt>Moved &quot;using the San&apos;in line&quot;</cmt>
+<e type="check" ver="1">Maizuru Line * This station is basically the terminal station but, using the Sanin Line, some of the local trains go to Fukuchiyama and all of the limited express trains go to Kyoto.</e>
+<cmt>limited express 小文字にしました。アポストロフィーを削除しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="9">
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station layout</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>島式・単式の複合型2面3線のプラットホームを持つ橋上駅である（1・2番線が島式、3番線が単式）。</j>
+<e type="trans" ver="1">It is an aboveground station which has a combination of an island platform, both sides of which are used for boarding and exiting, and a single platform, only one side of which is used for boarding and exiting (Platform 1 and 2 are on the island platform and Platform 3 is on the single platform).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an raised station with one island platform, serving tracks 1 and 2, and one side platform, serving track 3.</e>
+<cmt>&quot;which has a combination of an&quot;→&quot;with one&quot;Deleted &quot;both sides of which are used for boarding and exiting, &quot;Reewrote and moved section in brackets</cmt>
+<e type="check" ver="1">It is an elevated station with one island platform, serving tracks 1 and 2, and one single platform, serving track 3.</e>
+<cmt>side→ single　としました。raised →　elevated　としました。</cmt>
+</sen>
+<sen id="11">
+<j>みどりの窓口の営業時間は5時50分から20時45分。</j>
+<e type="trans" ver="1">JR Ticket Office &quot;Midori-no-madoguchi&quot; is open from 5:50 to 20:45.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The JR Ticket Office &quot;Midori-no-madoguchi&quot; (Green Window) is open from 5:50 to 20:45.</e>
+<cmt>Added &quot;The&quot; and (Green Window)</cmt>
+<e type="check" ver="1">The JR Ticket Office &quot;Midori-no-madoguchi&quot; (Green Window) is open from 5:50 to 20:45.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="12">
+<j>現在の駅は1999年9月に完成。</j>
+<e type="trans" ver="1">The current station building was completed in September 1999.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The current station building was completed in September 1999.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The current station building was completed in September 1999.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="13">
+<j>エレベーター3基設置（北口、南口、ホーム）。</j>
+<e type="trans" ver="1">Three elevators are available (North exit, South exit and on the platform).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Three elevators are available (North exit, South exit and on the platform).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Three elevators are available (North exit, South exit and on the platform).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="14">
+<j>エスカレーター無し。</j>
+<e type="trans" ver="1">No escalator is available.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is no escalator. is available.</e>
+<cmt>Added &quot;There is&quot;deleted &quot;is available&quot;</cmt>
+<e type="check" ver="1">There is no escalator.</e>
+<cmt>is available　を削除しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="15">
+<j>2008年3月改正以降は京都方面と舞鶴方面の同一ホーム乗換を考慮した形で、3方向とも1・2番線への発着が多数を占めることとなり、3番線を使用する列車は、一部の福知山方面行きのみ（当駅で舞鶴線へ向かう車両を分割する特急も一部含む）となった。</j>
+<e type="trans" ver="1">After the timetable was revised on March 15, 2008, majority of the trains running on all of the three lines use Platform 1 and 2, in consideration of changing trains for Kyoto and Maizuru on a single platform, and accordingly, trains that use Platform 3 are those only for Fukuchiyama (including some Limited Express whose cars are divided from a train running on the Maizuru Line at this station).</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the timetable was revised on March 15, 2008, the majority of trains running between Ayabe, Kyoto and Maizuru use tracks 1and 2 to allow transfers between trains on the same platform, while track 3 is only used trains by some Fukuchiyama-bound trains (including some Limited Expresstrains whose cars are decoupled at Ayabe to run on the Maizuru Line).</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">After the timetable was revised in March, 2008, the majority of trains running between Ayabe, Kyoto and Maizuru use Platform 1and 2 to allow transfers between trains on the same platform, while Platform 3 is only used trains by some Fukuchiyama-bound trains (including some limited express trains whose cars are decoupled at Ayabe to run on the Maizuru Line).</e>
+<cmt>15を削除しました。limited express 小文字にしました。「No.番線」の表記を統一</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="16">
+<j>全体として、福知山方面行きは1番線、園部方面行きは2番線に発着することが多い。</j>
+<e type="trans" ver="1">On the whole, trains for Fukuchiyama tend to use Platform 1while those for Sonobe tend to use Platform 2.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the whole, trains for Fukuchiyama tend to use track 1, while those for Sonobe tend to use track 2.</e>
+<cmt>&quot;Platform&quot;→&quot;track&quot;</cmt>
+<e type="check" ver="1">On the whole, trains for Fukuchiyama tend to use Platform 1, while those for Sonobe tend to use Platform 2.</e>
+<cmt>「No.番線」の表記を統一</cmt>
+</sen>
+<sen id="17">
+<j>東舞鶴方面行きは1・2番線双方に均等に発着する。</j>
+<e type="trans" ver="1">Trains for Higashi-Maizuru use Platform 1 and 2 evenly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Trains for Higashi-Maizuru use tracks 1 and 2 evenly.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Trains for Higashi-Maizuru use Platform 1 and 2 evenly.</e>
+<cmt>「No.番線」の表記を統一</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="18">
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization of Fukuchiyama Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger Use</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Passenger Use</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>2006年度の1日あたりの乗車人員は約1,507人である。</j>
+<e type="trans" ver="1">The number of daily passengers in 2006 is about 1,507 people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of daily passengers in 2006 was about 1,507 people.</e>
+<cmt>Changed verb to past tense</cmt>
+<e type="check" ver="1">The number of daily passengers in fiscal year 2006 was about 1,507 people.</e>
+<cmt>fiscal を追加しました。</cmt>
+</sen>
+<sen id="20">
+<j>（京都府統計書より）</j>
+<e type="trans" ver="1">(Adapted from the Statistical Handbook of Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Adapted from the Statistical Handbook of Kyoto Prefecture)</e>
+<cmt>This is a good translation but different to the way I put it in other files.</cmt>
+<e type="check" ver="1">(according to the Kyoto Prefecture Statistics Report)</e>
+<cmt>他と統一しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="21">
+<j>綾部市の中心駅であり、乗り換えの客が多い。</j>
+<e type="trans" ver="1">This station is a main station of Ayabe City and has many passengers who change trains at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is the main station of Ayabe City and many passengers change trains here.</e>
+<cmt>&quot;a&quot;→&quot;theDeleted &quot;has&quot;, &quot;who&quot;&quot;at this station&quot;→&quot;here&quot;</cmt>
+<e type="check" ver="1">This station is the main station of Ayabe City and many passengers change trains here.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="22">
+<j>駅周辺</j>
+<e type="trans" ver="1">Periphery of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Surroundings</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他と統一しました。</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="23">
+<j>南口</j>
+<e type="trans" ver="1">South exit</e>
+<cmt></cmt>
+<e type="trans" ver="2">South exit</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">South exit</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>綾部市役所</j>
+<e type="trans" ver="1">Ayabe City Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ayabe City Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ayabe City Office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>京都北都信用金庫綾部中央支店</j>
+<e type="trans" ver="1">Kyoto Hokuto Shinkin Bank, Ayabe Central Branch Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Hokuto Shinkin Bank, Ayabe Central Branch Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ayabe City Hall</e>
+<cmt>City Hall としました。</cmt>
+</sen>
+<sen id="26">
+<j>綾部郵便局</j>
+<e type="trans" ver="1">Ayabe post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ayabe Post Office</e>
+<cmt>Capitalized &apos;p&apos; and &apos;o&apos;</cmt>
+<e type="check" ver="1">Ayabe Post Office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>宗教法人大本本部</j>
+<e type="trans" ver="1">Oomoto (Omoto) Headquarters</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oomoto (Omoto) Headquarters</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Oomoto (Omoto) Headquarters</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>日東精工本社</j>
+<e type="trans" ver="1">Nitto Seiko Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nitto Seiko Co., Ltd.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nitto Seiko Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="29">
+<j>北口</j>
+<e type="trans" ver="1">North exit</e>
+<cmt></cmt>
+<e type="trans" ver="2">North exit</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">North exit</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>グンゼ研究所</j>
+<e type="trans" ver="1">Research laboratory of Gunze Limited</e>
+<cmt></cmt>
+<e type="trans" ver="2">Research laboratory of Gunze Limited</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Research laboratory of Gunze Limited</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>グンゼ本社</j>
+<e type="trans" ver="1">Headquarters office of Gunze Limited</e>
+<cmt></cmt>
+<e type="trans" ver="2">Headquarters of Gunze Limited</e>
+<cmt>Deleted &quot;office&quot;</cmt>
+<e type="check" ver="1">Headquarters of Gunze Limited</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>グンゼ記念館</j>
+<e type="trans" ver="1">Gunze Memorial Hall</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gunze Memorial Hall</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gunze Memorial Hall</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>グンゼ博物苑</j>
+<e type="trans" ver="1">Gunze Museum</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gunze Museum</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gunze Museum</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>舞鶴鉄道部があったが、2006年6月30日をもって廃止された。</j>
+<e type="trans" ver="1">The Maizuru Railways Department used to be located in this area but was discontinued on June 30, 2006.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Maizuru Railways Department used to be located in this area but closed on June 30, 2006.</e>
+<cmt>&quot;was discontinued&quot;→&quot;closed&quot;</cmt>
+<e type="check" ver="1">The Maizuru Railways Department used to be located in this area but closed on June 30, 2006.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="35">
+<j>R-in綾部　駅北口すぐにあるビジネスホテル</j>
+<e type="trans" ver="1">R-in Ayabe: a budget hotel located right next to the North exit.</e>
+<cmt></cmt>
+<e type="trans" ver="2">R-in Ayabe: a budget hotel located right next to the North exit.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">R-in Ayabe: a budget hotel located right next to the North exit.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>以前は駅の北側はあまり開発されていなかったが、駅の橋上駅舎化後は徐々に店舗が進出してきている。</j>
+<e type="trans" ver="1">The northern area of the station was not developed so much before, but the number of stores has been gradually increasing since the station was rebuilt into an upper-floor structure.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The northern area of the station remained relatively undeveloped until recently, but the number of stores has been gradually increasing since the station was rebuilt into an upper-floor structure.</e>
+<cmt>&quot;was not developed so much before&quot;→&quot;remained relatively undeveloped until recently&quot;</cmt>
+<e type="check" ver="1">The northern area of the station remained relatively undeveloped until recently, but the number of stores has been gradually increasing since the station was rebuilt into an upper-floor structure.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="37">
+<j>バス</j>
+<e type="trans" ver="1">Bus services</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus services</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus services</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>あやべ市民バス「あやバス」</j>
+<e type="trans" ver="1">Ayabe citizen bus [Aya-Bus]</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ayabe Civic Bus [Aya-Bus]</e>
+<cmt>&quot;citizen&quot;→&quot;Civic&quot;</cmt>
+<e type="check" ver="1">Ayabe Civic Bus [Aya-Bus]</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>京丹タクシー株式会社に運行を委託されている。</j>
+<e type="trans" ver="1">The operation of the bus services is commissioned by Kyotan Taxi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus services are sub-contracted to Kyotan Taxi.</e>
+<cmt>Deleted &quot;The operation of the&quot;&quot;is commissioned by&quot;→&quot;are sub-contracted to&quot;</cmt>
+<e type="check" ver="1">Bus services are sub-contracted to Kyotan Taxi.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="40">
+<j>京都交通 (舞鶴)</j>
+<e type="trans" ver="1">Kyoto Kotsu (Maizuru)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Kotsu (Maizuru)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Kotsu (Maizuru)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>福知山市役所前・福知山駅行き（福知山線）</j>
+<e type="trans" ver="1">To Fukuchiyama Shiyakusho-mae (Fukuchiyama City Office)/Fukuchiyama Station (Fukuchiyama Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">To Fukuchiyama Shiyakusho-mae (Fukuchiyama City Office)/Fukuchiyama Station (Fukuchiyama Line)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">To Fukuchiyama Shiyakusho-mae (Fukuchiyama City Hall)/Fukuchiyama Station (Fukuchiyama Line)</e>
+<cmt>City Hall としました。</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="42">
+<j>タクシー</j>
+<e type="trans" ver="1">Taxi services</e>
+<cmt></cmt>
+<e type="trans" ver="2">Taxi services</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Taxi services</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>日本交通</j>
+<e type="trans" ver="1">Nihon Kotsu Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nihon Kotsu Co., Ltd.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nihon Kotsu Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>京丹タクシー</j>
+<e type="trans" ver="1">Kyotan Taxi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyotan Taxi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyotan Taxi</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="45">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>1904年（明治37年）11月3日 - 日本国有鉄道の駅として開業（福知山～東舞鶴間の開通と同時）。</j>
+<e type="trans" ver="1">November 3, 1904: Started as a station of Japan National Railways (at the same time when the section between Fukuchiyama and Higashi-Maizuru was opened to traffic).</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 3, 1904: Started as station of Japan National Railways (at same time as opening of section between Fukuchiyama and Higashi-Maizuru).</e>
+<cmt>Rewrote sentence in more &apos;note&apos; style, as in original Japanese.</cmt>
+<e type="check" ver="1">November 3, 1904: Started as station of Japan National Railways (at same time as opening of section between Fukuchiyama and Higashi-Maizuru).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="47">
+<j>即日阪鶴鉄道に貸与。</j>
+<e type="trans" ver="1">The loan of the station was given to Hankaku Railway on the same day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station leased to Hankaku Railway.</e>
+<cmt>See cell G67&quot;loan was given&quot;→&quot;leased&quot;</cmt>
+<e type="check" ver="1">Station leased to Hankaku Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>客貨取扱を開始。</j>
+<e type="trans" ver="1">Passenger and freight services started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger and freight services started.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Passenger and freight services started.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="49">
+<j>1907年（明治40年）8月1日 - 阪鶴鉄道が国有化。</j>
+<e type="trans" ver="1">August 1, 1907: Hankaku Railway was nationalized.</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 1, 1907: Hankaku Railway nationalized.</e>
+<cmt>Rewrote sentence in more &apos;note&apos; style, as in original Japanese.</cmt>
+<e type="check" ver="1">August 1, 1907: Hankaku Railway nationalized.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="50">
+<j>1910年（明治43年）8月25日 - 園部～当駅間が開通。</j>
+<e type="trans" ver="1">August 25, 1910: The section between Sonobe and this station was opened to traffic.</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 25, 1910: Section between Sonobe and Ayabe opened.</e>
+<cmt>Rewrote sentence in more &apos;note&apos; style, as in original Japanese.</cmt>
+<e type="check" ver="1">August 25, 1910: Section between Sonobe and Ayabe opened.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="51">
+<j>1982年（昭和57年）10月3日 - 貨物取扱を廃止。</j>
+<e type="trans" ver="1">October 3, 1982: Freight services were discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 3, 1982: Freight services discontinued.</e>
+<cmt>Rewrote sentence in more &apos;note&apos; style, as in original Japanese.</cmt>
+<e type="check" ver="1">October 3, 1982: Freight services discontinued.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="52">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化によりJR西日本の駅となる。</j>
+<e type="trans" ver="1">April 1, 1987: Became a station under the control of JR West with the division and privatization of JNR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1987: Ownership passed to JR West following division and privatization of JNR.</e>
+<cmt>Rewrote sentence in more &apos;note&apos; style, as in original Japanese.</cmt>
+<e type="check" ver="1">April 1, 1987: Ownership passed to JR West following division and privatization of JNR.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="53">
+<j>隣の駅</j>
+<e type="trans" ver="1">Next stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjacent stations</e>
+<cmt>&quot;Next&quot;&quot;Adjacent&quot;</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>※特急「たんば (列車)」「きのさき (列車)」「はしだて (列車)」「まいづる (列車)」「タンゴディスカバリー」の隣の停車駅は各列車記事を参照のこと。</j>
+<e type="trans" ver="1">* For information on next stations of Limited Express &quot;Tanba,&quot; Limited Express &quot;Kinosaki, &quot; Limited Express service &quot;Hashidate,&quot; Limited Express &quot;Maizuru&quot; and &quot;Tango Discovery, &quot; refer to the item of each train.</e>
+<cmt></cmt>
+<e type="trans" ver="2">* For information on the next stations of the Limited Expresses &quot;Tanba,&quot; &quot;Kinosaki, &quot; &quot;Hashidate,&quot; &quot;Maizuru&quot; and &quot;Tango Discovery, &quot; refer to the article for that train.</e>
+<cmt>Added &quot;the&quot;Made &quot;Express&quot; plural&quot; item of each&quot;→&quot;article for that&quot;</cmt>
+<e type="check" ver="1">* For information on the next stations of the Limited Expresses &apos;Tanba,&apos; &apos;Kinosaki,&apos; &apos;Hashidate,&apos; &apos;Maizuru&apos; and &apos;Tango Discovery,&apos; refer to the article for that train.</e>
+<cmt>&quot;→ &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="55">
+<j>西日本旅客鉄道（JR西日本）</j>
+<e type="trans" ver="1">West Japan Railway Company</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>(JR West) を追加しました。</cmt>
+</sen>
+<sen id="56">
+<j>山陰本線</j>
+<e type="trans" ver="1">San&apos;in Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">San&apos;in Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sanin Main Line</e>
+<cmt>アポストロフィーを削除しました。</cmt>
+</sen>
+<sen id="57">
+<j>山家駅 - 綾部駅 - 高津駅 (京都府)</j>
+<e type="trans" ver="1">Yamaga Station - Ayabe Station - Takatsu Station (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yamaga Station - Ayabe Station - Takatsu Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yamaga Station - Ayabe Station - Takatsu Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>舞鶴線</j>
+<e type="trans" ver="1">Maizuru Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maizuru Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maizuru Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>（高津駅 -） 綾部駅 - 淵垣駅</j>
+<e type="trans" ver="1">(Takatsu Station) - Ayabe Station - Fuchigaki Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Takatsu Station) - Ayabe Station - Fuchigaki Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(Takatsu Station) - Ayabe Station - Fuchigaki Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 ヒロリン(id:15886), 城山(id:104901), Suguri F(id:11127), Hikichimin Jr.(id:147077), ポピュラーポプラ(id:157724), Kiha58-1047(id:86788), Makiharashouten(id:1021), Sat.K(id:3751), Wikipedianet(id:9608), エアスマップIRE(id:13873), Utsuda(id:605), 樒(id:35770), Rusk(id:9895), Sunen(id:10700), Ichii-ya(id:48912), 継之助(id:39352), ぱむ(id:24323), R28Bot(id:177951), Chobot(id:20846), 663highland(id:18755), Kone(id:377), Hirotaro(id:1437), CC(id:4162), 210.(id:9838), エアスマップＩＲＥ(id:17869), Sea of Japan(id:3230), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

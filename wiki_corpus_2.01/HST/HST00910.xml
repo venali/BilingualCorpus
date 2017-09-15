@@ -1,0 +1,2629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>律令制</j>
+<e type="trans" ver="1">Ritsuryo system (system of centralized government)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ritsuryo System</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Ritsuryo System</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>律令制（りつりょうせい）は、主に古代東アジアで見られた中央集権的な統治制度である。</j>
+<e type="trans" ver="1">The ritsuryo system is a centralized government system generally seen in ancient East Asia.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ritsuryo system is the Japanese term for the system of centralized government seen mainly in ancient East Asia.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Ritsuryo system is the Japanese term for the system of centralized government seen mainly in ancient East Asia.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>律令体制や律令国家とも呼ばれることもある。</j>
+<e type="trans" ver="1">It is also called Ritsuryotaisei or Ritsuryokokka.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also called Ritsuryotaisei or Ritsuryokokka.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also called Ritsuryotaisei or Ritsuryokokka.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>なお、律令制とは、律令に基づく制度を意味する用語であり、律令自体については律令の項を、律令の持つ法典としての性質などについては律令法の項を、それぞれ参照されたい。</j>
+<e type="trans" ver="1">The ritsuryo system means a system based on Ritsuryo codes; for Ritsuryo codes, see the section &apos;Ritsuryo,&apos; and for the feature of Ritsuryo codes, see the section &apos;Ritsuryo law.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The term Ritsuryo system refers to the system based on the Ritsuryo codes; for the Ritsuryo codes, see the section &apos;Ritsuryo,&apos; and for features of the Ritsuryo codes, see the section &apos;Ritsuryo law.&apos;</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The term Ritsuryo system refers to the system based on the Ritsuryo codes; for the Ritsuryo codes, see the section &apos;Ritsuryo,&apos; and for features of the Ritsuryo codes, see the section &apos;Ritsuryo law.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>基本理念</j>
+<e type="trans" ver="1">Fundamental Idea</e>
+<cmt></cmt>
+<e type="trans" ver="2">Basic Ideas</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Basic Ideas</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>律令制とは、古代中国から理想とされてきた王土王民（王土王臣とも）、すなわち「土地と人民は王の支配に服属する」という理念を具現化しようとする体制であった。</j>
+<e type="trans" ver="1">The ritsuryo system was a system for embodying the idea of odo omin (also known as odo oshin), i.e., the idea of &apos;land and people are placed under the rule of the emperor,&apos; which had been thought ideal from the period of ancient China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ritsuryo system was a system for embodying the idea known in Japanese as odo omin (or odo oshin) and meaning &apos;the sovereign&apos;s land, the sovereign&apos;s people,&apos; where &apos;the land and the people are placed under the rule of the emperor,&apos; which had been had been held as an ideal since ancient times in China.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Ritsuryo system was a system for embodying the idea known in Japanese as odo omin (or odo oshin) and meaning &apos;the sovereign&apos;s land, the sovereign&apos;s people,&apos; where &apos;the land and the people are placed under the rule of the emperor,&apos; which had been had been held as an ideal since ancient times in China.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>また、王土王民の理念は、「王だけが君臨し、王の前では誰もが平等である」とする一君万民思想と表裏一体の関係をなしていた。</j>
+<e type="trans" ver="1">The idea of odo omin formed two sides of the same coin with the idea of ikkun banmin, which is the idea of &apos;only one sovereign rules the country and the people are equal under the rule.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The concept of odo omin, together with the idea of ikkun banmin (&apos;one lord, the whole nation&apos;), where &apos;only one sovereign rules the country and the people are equal under the rule,&apos; formed two sides of the same coin.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The concept of odo omin, together with the idea of ikkun banmin (&apos;one lord, the whole nation&apos;), where &apos;only one sovereign rules the country and the people are equal under the rule,&apos; formed two sides of the same coin.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>律令制では、王土王民および一君万民の理念のもと、人民（百姓）に対し一律平等に耕作地を支給し、その代償として、税・労役・兵役が同じく一律平等に課せられていた。</j>
+<e type="trans" ver="1">In the Ritsuryo system, under the ideas of odo omin and ikkun banmin, the people (peasants) were equally rented out cultivated lands, and in turn, equally imposed taxes, labor services, and military services in exchange for the lands.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under the Ritsuryo system, based on the ideas of odo omin and ikkun banmin, cultivated land was granted equally to the people (peasants) who, in return, had to provide taxes, labor, and military service.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Under the Ritsuryo system, based on the ideas of odo omin and ikkun banmin, cultivated land was granted equally to the people (peasants) who, in return, had to provide taxes, labor, and military service.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>さらに、こうした統一的な支配を遺漏なく実施するために、高度に体系的な法令、すなわち律令と格式が編纂され、律令格式に基づいた非常に精緻な官僚機構が構築されていた。</j>
+<e type="trans" ver="1">In the Ritsuryo system, under the ideas of odo omin and ikkun banmin, the people (peasants) were equally rented out cultivated lands, and in turn, equally imposed taxes, labor services, and military services in exchange for the lands.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Ritsuryo system, under the ideas of odo omin and ikkun banmin, the people (peasants) were equally rented out cultivated lands, and in turn, equally imposed taxes, labor services, and military services in exchange for the lands.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Furthermore, in an attempt to extend a more unified system of control over the populace, highly systematic codes, namely the Ritsuryo and Kyakushiki codes, were compiled; their promulgation created a very sophisticated bureaucratic organization whose basis lay in legal and ethical codes.</e>
+<cmt>訳漏れに対応しました。</cmt>
+</sen>
+<sen id="8">
+<j>この官僚機構は、王土王民理念による人民統治を実現するための必要な権力装置であった。</j>
+<e type="trans" ver="1">That bureaucratic organization was a power structure necessary for ruling the people based on the idea of odo omin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This bureaucratic organization was a necessary tool for ruling the people based on the idea of odo omin.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This bureaucratic organization was a necessary tool for ruling the people based on the idea of odo omin.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>基本制度</j>
+<e type="trans" ver="1">Fundamental System</e>
+<cmt></cmt>
+<e type="trans" ver="2">Basic System</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Basic System</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="9">
+<j>東アジアに特有の律令制は、各時代・各王朝ごとに異なる部分もあったが、王土王民と一君万民の理念を背景として、概して次の4つの制度が統治の根幹となっていた。</j>
+<e type="trans" ver="1">The Ritsuryo system specific to East Asia, although partly different for each period and each dynasty, was generally based on the four systems shown below in a reign supported by the ideas of odo omin and ikkun banmin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ritsuryo system specific to East Asia, although differing slightly with each period and dynasty, was generally comprised of the following four systems based on the ideas of odo omin and ikkun banmin, which became the basis of government.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Ritsuryo system specific to East Asia, although differing slightly with each period and dynasty, was generally comprised of the following four systems based on the ideas of odo omin and ikkun banmin, which became the basis of government.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>一律的に耕作地を班給する土地制度</j>
+<e type="trans" ver="1">Land system of equally allotting cultivated land</e>
+<cmt></cmt>
+<e type="trans" ver="2">System of equally allotting cultivated land</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">System of equally allotting cultivated land</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>中国では均田制、日本では班田収授法（班田制）として施行された。</j>
+<e type="trans" ver="1">The land system was enforced under the name of Kindensei in China and Handenshujuho (Handensei) in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The equal-field system was carried out under the name of Juntianzhi in China and Handenshujuho (Handensei) in Japan.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The equal-field system was carried out under the name of Juntianzhi in China and Handenshujuho (Handensei) in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>王土王民思想を最も反映していたのがこの土地制度である。</j>
+<e type="trans" ver="1">Among other systems, this system most closely reflected the thought of odo omin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This system most closely reflected the concept of odo omin.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This system most closely reflected the concept of odo omin.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>王が自らの支配する土地を、自らが支配する人民（百姓）へ直接（中間支配者である豪族を介さずに）班給するというものであり、儒教的な理想を多分に含んでいた。</j>
+<e type="trans" ver="1">The system was designed such that the sovereign would directly allot his land to his people (peasants) without any intervention of regional powerful clans, the intermediate rulers between the sovereign and the people; in that, the system much represented the Confucian ideal.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The system was designed such that the sovereign would directly allot land to his people (peasants) without any intervention by powerful regional clans, the intermediate rulers between the sovereign and the people; in this, the system came very close to the Confucian ideal.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The system was designed such that the sovereign would directly allot land to his people (peasants) without any intervention by powerful regional clans, the intermediate rulers between the sovereign and the people; in this, the system came very close to the Confucian ideal.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>中国では、土地の班給よりも租税の確保が重視されていたが、日本では土地の班給が重視されていた。</j>
+<e type="trans" ver="1">In China, the system put emphasis on securing taxes much more than allotting the land, whereas in Japan, the system put much more emphasis on allotting the land.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In China, the system put emphasis on securing taxes rather than allotting land, whereas in Japan, the system emphasized land allotment.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In China, the system put emphasis on securing taxes rather than allotting land, whereas in Japan, the system emphasized land allotment.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="15">
+<j>個人を課税対象とする体系的な租税制度</j>
+<e type="trans" ver="1">Systematic tax system targeted for individual person</e>
+<cmt></cmt>
+<e type="trans" ver="2">Methodical tax system for taxing individuals</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Methodical tax system for taxing individuals</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>中国や日本では租庸調制として施行された。</j>
+<e type="trans" ver="1">In China and Japan, the tax system was enforced under the name of Soyochosei.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In China and Japan, the tax system was enforced under the name of Soyochosei (Ch. Zuyongdiaozhi).</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In China and Japan, the tax system was enforced under the name of Soyochosei (Zuyongdiaozhi in Chinese).</e>
+<cmt>Ch. の表記を修正しました。</cmt>
+</sen>
+<sen id="17">
+<j>人民は耕作地班給の代償として納税義務を負った。</j>
+<e type="trans" ver="1">The people had tax paying duties in exchange for the allotted cultivated lands.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The people were required to pay tax in exchange for receiving cultivated land.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The people were required to pay tax in exchange for receiving cultivated land.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>土地の班給が人民一人一人に対して行われたので、課税も個人に対してなされた。</j>
+<e type="trans" ver="1">As the cultivated land was allotted for each peasants, taxes were imposed for each individual.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As the cultivated land was allotted for each peasants, taxes were imposed for each individual.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">As the cultivated land was allotted for each peasants, taxes were imposed for each individual.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>これは、律令国家による人民支配が非常に徹底していたことを物語っている。</j>
+<e type="trans" ver="1">This shows that the nations under the Ritsuryo codes thoroughly ruled the people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This shows that the nations that followed the Ritsuryo codes completely ruled the people.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This shows that the nations that followed the Ritsuryo codes completely ruled the people.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>また、課税は恣意性の介入を排除して、誰に対しても同じように一律に行われた。</j>
+<e type="trans" ver="1">Taxes were uniformly imposed on everyone by removing any chance of using discretion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Taxes were uniformly imposed on everyone by eliminating any chance of using discretion.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Taxes were uniformly imposed on everyone by eliminating any chance of using discretion.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="21">
+<j>一律的に兵役が課せられる軍事制度</j>
+<e type="trans" ver="1">Military system for uniformly imposing military service on the people</e>
+<cmt></cmt>
+<e type="trans" ver="2">Military system of uniformly imposing military service on the people</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Military system of uniformly imposing military service on the people</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>中国では府兵制、日本では軍団 (古代日本)として施行された。</j>
+<e type="trans" ver="1">The military system was enforced under the name of Fuheisei in China and Gundan in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The military system was enforced under the name of Fubingzhi in China and Gundan in Japan.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The military system was enforced under the name of Fubingzhi in China and Gundan in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>耕作地班給の代償として兵役の義務を負ったのである。</j>
+<e type="trans" ver="1">The people had a duty of military service in exchange for the allotted cultivated land.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The people were required to perform military service in exchange for receiving cultivated land.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The people were required to perform military service in exchange for receiving cultivated land.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>ただし、唐代の江南では兵役がほぼ免除されていたり、日本では東国（関東地方）ばかりが防人の兵役義務を負っていたなど、必ずしも一律的に兵役が課されていないという実態があった。</j>
+<e type="trans" ver="1">But in fact, the military service was not equally imposed on the people such that the people were exempted from almost all of their military services in Jiangnan during the Tang period in China, and that only the people in the Kanto region were imposed to serve as frontier guards in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In fact, military service was not equally imposed on the people so that, for example, in Tang China, people in Jiangnan were exempted from almost all of their military services, and in Japan, only the people of the Kanto region were required to serve as frontier guards.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In fact, military service was not equally imposed on the people so that, for example, in Tang China, people in Jiangnan were exempted from almost all of their military services, and in Japan, only the people of the Kanto region were required to serve as frontier guards.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="25">
+<j>人民を把握するための地方行政制度</j>
+<e type="trans" ver="1">Local government system for keeping track of the people</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local government system for keeping track of the people</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Local government system for keeping track of the people</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>中国では郷里制、日本では令制国郡里制を採用した。</j>
+<e type="trans" ver="1">The local government system known as Kyorisei was adopted in China, and Ryoseikokugunrisei was adopted in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The local government system known in China as Xianglizhi and in Japan as Ryoseikokugunrisei was adopted.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The local government system known in China as Xianglizhi and in Japan as Ryoseikokugunrisei was adopted.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>支配を貫徹するために、末端の近くまで官僚が体系的に配置されていた。</j>
+<e type="trans" ver="1">To thoroughly rule the people, bureaucrats were deployed near the smallest unit of the administrative organizations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">To thoroughly rule the people, bureaucrats were deployed near the smallest administrative units.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">To thoroughly rule the people, bureaucrats were deployed near the smallest administrative units.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>この制度の下で、班給・課税・徴兵の台帳となる戸籍・計帳の作成が可能となった。</j>
+<e type="trans" ver="1">This system enabled to create the family register and yearly tax records, which were to be used as the original registers in allotting lands, imposing taxes, and conscription.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This system enabled the creation of the family register and yearly tax records, which were to be used as the original registers in allotting land, imposing taxes, and conscription.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This system enabled the creation of the family register and yearly tax records, which were to be used as the original registers in allotting land, imposing taxes, and conscription.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>逆に言えば、戸籍・計帳の作成によって、上記の三制度の実施が可能となったのである。</j>
+<e type="trans" ver="1">Conversely, the creation of the family register and the yearly tax records made it possible to enforce the above-mentioned three systems.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Conversely, the creation of the family register and the yearly tax records made it possible to enforce the three aforementioned systems.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Conversely, the creation of the family register and the yearly tax records made it possible to enforce the three aforementioned systems.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="30">
+<j>以上の4制度を漏れなく実施するために、律令国家は、非常に精緻な律令法典と、それに基づいた高度に体系化された官僚制を必要とした。</j>
+<e type="trans" ver="1">In order to thoroughly enforce the above-mentioned four systems, the nations under the Ritsuryo codes needed highly refined Ritsuryo codes and an official system with an advanced organization based on the codes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In order to thoroughly enforce the four aforementioned systems, the nations with the Ritsuryo system needed highly refined Ritsuryo codes and an advanced systematic bureaucracy based on those codes.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In order to thoroughly enforce the four aforementioned systems, the nations with the Ritsuryo system needed highly refined Ritsuryo codes and an advanced systematic bureaucracy based on those codes.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="31">
+<j>律令法典</j>
+<e type="trans" ver="1">Ritsuryo codes</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ritsuryo Codes</e>
+<cmt>Capital Letter</cmt>
+<e type="check" ver="1">Ritsuryo Codes</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>社会規範を規定する刑法的な律と社会制度を規定する行政法的な令が中心的な位置を占め、律令の不足を補う改正法としての格および律令と格の施行細則としての性格を持つ式が一つの法体系、即ち律令法典を構成していた。</j>
+<e type="trans" ver="1">Ritsuryo codes were formed as a legal structure mainly by ritsu that defined regulations as penal codes, and ryo that defined the social system as administrative codes, with kyaku for supplementing the ritsu and ryo as new orders and shiki as detailed legislation for provisions of the ritsu, ryo, and kyaku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ritsuryo codes were organized as a legal system centered on &apos;ritsu,&apos; a criminal code defining social standards, and &apos;ryo,&apos; an administrative code defining the social system, with &apos;kyaku&apos;, or amendments, for supplementing ritsu and ryo, and &apos;shiki&apos; as provisions for enacting ritsu, ryo, and kyaku.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Ritsuryo codes were organized as a legal system centered on &apos;ritsu,&apos; a criminal code defining social standards, and &apos;ryo,&apos; an administrative code defining the social system, with &apos;kyaku,&apos; or amendments, for supplementing ritsu and ryo, and &apos;shiki&apos; as provisions for enacting ritsu, ryo, and kyaku.</e>
+<cmt>不要なスペースを削除しました。コンマの位置を訂正しました。</cmt>
+</sen>
+<sen id="33">
+<j>律令法典は、法を統治の基礎に置く法家の思想を背景としていた。</j>
+<e type="trans" ver="1">Ritsuryo codes were supported by the Legalism that set the law as the basis for the ruling of the country.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ritsuryo codes were based on the concept of Legalism, which made the law the basis for ruling the country.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Ritsuryo codes were based on the concept of Legalism, which made the law the basis for ruling the country.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="34">
+<j>官僚制</j>
+<e type="trans" ver="1">Official System</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bureaucracy</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Bureaucracy</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>天子の意思命令を確実に具現化するため、各官庁と官僚の責任と任務を明確に区分し、精密に規定された階級に従って、命令を実行に移していく官僚制が、高度な体系の下に構築された。</j>
+<e type="trans" ver="1">In order to steadily embody the intentions and orders of the emperor, an official system that clearly defined responsibilities and duties of the government offices and officials to carry out the orders of the emperor through the rigid hierarchies was established under the highly refined system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In order to realize the intentions and orders of the emperor reliably, a highly refined system was established, with orders carried out by the bureaucracy in accordance with a rigid hierarchy where each government office and official&apos;s duties and responsibilities were clearly defined.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In order to realize the intentions and orders of the emperor reliably, a highly refined system was established, with orders carried out by the bureaucracy in accordance with a rigid hierarchy where each government office and official&apos;s duties and responsibilities were clearly defined.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>各官庁内では、任務や責任の重さによって、官吏を四段階に区分することを原則としていた。</j>
+<e type="trans" ver="1">In each government office, officials were generally divided into four ranks according to the importance of their duties and responsibilities.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In each government office, officials were generally divided into four ranks according to the importance of their duties and responsibilities.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In each government office, officials were generally divided into four ranks according to the importance of their duties and responsibilities.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>これを四等官制という。</j>
+<e type="trans" ver="1">That is called Shitokansei.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is called &apos;Shitokansei or the &apos;Four Rank System.&apos;</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This is called Shitokansei (Four Rank System).</e>
+<cmt>原文に合せて&apos; &apos;を削除し、意味を括弧に入れました。</cmt>
+</sen>
+<sen id="38">
+<j>また、官僚を学力で登用する科挙と呼ばれる登用試験が発達する。</j>
+<e type="trans" ver="1">The official examination system called Kakyo for appointing officials based on their academic abilities was developed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An imperial examination system called Kakyo (Ch. Keju) for appointing officials based on their academic abilities was developed.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">An imperial examination system called Kakyo (Keju in Chinese) for appointing officials based on their academic abilities was developed.</e>
+<cmt>Ch. の表記を修正しました。</cmt>
+</sen>
+<sen id="39">
+<j>日本では蔭位という例外規定が設けられ、高位の貴族の子弟は自動的に官職が与えられたため、徹底はしなかったが、官人の登用試験としては存在した。</j>
+<e type="trans" ver="1">In Japan, the examination system was adopted to low to medium officials, although not thoroughly carried out for all the officials because of the exceptional rule called &apos;on i&apos; whereby children of high ranking nobles were automatically promoted to government posts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Japan, the examination system was adopted for low to mid-ranked officials, although not thoroughly carried out for all officials because of the exceptional rule called &apos;on&apos;i,&apos; whereby children of high ranking nobles were automatically promoted to government posts.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In Japan, the examination system was adopted for low to mid-ranked officials, although not thoroughly carried out for all officials because of the exceptional rule called &apos;on-i,&apos; whereby children of high ranking nobles were automatically promoted to government posts.</e>
+<cmt>ダッシュをハイフンに訂正しました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="40">
+<j>この他、中央と地方の情報伝達を遅滞なく行うための交通制度（駅伝制）なども、律令制を構成する制度として採用された。</j>
+<e type="trans" ver="1">Besides, other systems including a transportation system called Ekidensei for conveying information between the capital and local regions without delay, were adopted to form the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other systems, including a transportation system called Ekidensei for conveying information between the capital and local regions without delay, were also adopted to form the Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Other systems, including a transportation system called Ekidensei for conveying information between the capital and local regions without delay, were also adopted to form the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="41">
+<j>上記のような国家体制を、総称して律令制という。</j>
+<e type="trans" ver="1">The political system of a state shown above is collectively called the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The national political system described above is collectively called the Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The national political system described above is collectively called the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="42">
+<j>中国史上では、隋から唐にかけての王朝で顕著であり、周辺の東アジア諸国では7世紀後期～9世紀頃に、中国由来の制度として広く施行された。</j>
+<e type="trans" ver="1">In the Chinese history, the Ritsuryo system was remarkably seen during the Sui and Tang dynasties, whereas in the surrounding East Asian countries, the system was widely enforced from the latter half of the 7th century to the 9th century as the system introduced from China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Chinese history, the Ritsuryo system was most prominent during the Sui and Tang dynasties, whereas in the surrounding East Asian countries, the system was widely enforced from the latter half of the 7th century to the 9th century as it was introduced from China.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In Chinese history, the Ritsuryo system was most prominent during the Sui and Tang dynasties, whereas in the surrounding East Asian countries, the system was widely enforced from the latter half of the 7th century to the 9th century as it was introduced from China.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>中国でも周辺の東アジア諸国でも、10世紀以後、上記のような律令制は死滅もしくは形骸化したが、その後も法形態としての律令は、中国や日本やベトナムなどで存続し続けた。</j>
+<e type="trans" ver="1">Both in China and its surrounding East Asian countries, the above-mentioned Ritsuryo system disappeared or became a dead letter after the 10th century, but even after the period, the Ritsuryo system as a form of law continued in China, Japan, and Vietnam.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Both in China and its East Asian neighbors, the Ritsuryo system as described above disappeared or became a dead letter after the 10th century, but even after that period, it continued as a form of law in China, Japan, and Vietnam.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Both in China and its East Asian neighbors, the Ritsuryo system as described above disappeared or became a dead letter after the 10th century, but even after that period, it continued as a form of law in China, Japan, and Vietnam.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>略史</j>
+<e type="trans" ver="1">Brief History</e>
+<cmt></cmt>
+<e type="trans" ver="2">Brief History</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Brief History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="44">
+<j>律令制の祖形は、古く秦・前漢期まで遡るともいわれているが、厳密に言えば、律令制は中国の魏晋南北朝時代において出現し、徐々に形成されていった。</j>
+<e type="trans" ver="1">It is said that the Ritsuryo system can be traced back as far as the Qin period and the Former Han period; but strictly, the Ritsuryo system emerged in China during the ages of Wei, Jin, Northern and Southern Dynasties to have been gradually developed and established.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that the Ritsuryo system can be traced back as far as the Qin and Western Han periods; but strictly speaking, it emerged and gradually developed in China during the Wei, Jin, Northern and Southern Dynasties.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">It is said that the Ritsuryo system can be traced back as far as the Qin and Western Han periods; but strictly speaking, it emerged and gradually developed in China during the Wei, Jin, Northern and Southern Dynasties.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="45">
+<j>後漢末期から戦乱の時代が長く続き、中国の社会は混乱を極め、ほとんど崩壊に至っていた。</j>
+<e type="trans" ver="1">From the end of the Later Han Dynasty, a long-lasting disturbance of war prevailed in China, almost collapsing the communities.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Following the end of the Eastern Han Dynasty, there was a long period of war, bringing Chinese society to the brink of collapse.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Following the end of the Eastern Han Dynasty, there was a long period of war, bringing Chinese society to the brink of collapse.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>こうした社会の再建のため、魏 (三国)に続く諸王朝は、王土王民の理念による統治を指向するようになったのである。</j>
+<e type="trans" ver="1">In order to reconstruct the communities, the Dynasties following Wei (Three States Period) managed to reign their countries according to the idea of odo omin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In order to rebuild society, the Dynasties following the Wei Kingdom ruled based on the idea of odo omin.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In order to rebuild society, the Dynasties following the Wei Kingdom ruled based on the idea of odo omin.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="47">
+<j>魏は、戦乱によって耕作者がいなくなった田地を人民に支給して軍糧を徴収する屯田制と、兵役義務を持つのは兵戸であり他の一般戸と区別する兵戸制を採用していた。</j>
+<e type="trans" ver="1">Wei adopted the colonial military system of renting cultivated lands deserted during the war out to the people and collecting military provisions from them, and the colonial militia system of limiting only the militia to do military duties to separate the militia households from general households.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wei adopted the tuntian system, where farmland deserted during the war was granted to people and the crop collected as military provisions, and the binghu military household system, where only military households were required to do military service, separating them from general households.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Wei adopted the tuntian system, where farmland deserted during the war was granted to people and the crop collected as military provisions, and the binghu military household system, where only military households were required to do military service, separating them from general households.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>また、税制としては、土地面積ごとに一定額の田租を賦課する定額田租と、戸ごとに物納を課する戸調を行っていた。</j>
+<e type="trans" ver="1">As tax systems, they adopted the flat-rate rice field tax for levying a flat-rate rice tax on a unit of land, and the tax in kind for imposing a tax in kind for each household.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The tax system involved the adoption of a flat-rate rice field tax levied on each piece of land, and a tax in kind imposed on each household.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The tax system involved the adoption of a flat-rate rice field tax levied on each piece of land, and a tax in kind imposed on each household.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="49">
+<j>これらの制度は、その後の諸王朝も継承してゆき、律令制の基礎を形成することとなった。</j>
+<e type="trans" ver="1">These systems were handed down through the following dynasties and formed into the basis of the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These systems were handed down through subsequent dynasties and formed the basis of the Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">These systems were handed down through subsequent dynasties and formed the basis of the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="50">
+<j>魏の次の西晋は、土地制度は占田・課田制を新たに布き、兵制・税制は前代の兵戸制・戸調制を概ね継承した。</j>
+<e type="trans" ver="1">West Jin subsequent to Wei newly adopted the land systems called the Sender and Kaden systems, and succeeded the colonial militia system and the tax in kind system of the previous dynasty as the military system and the tax system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Western Jin Dynasty that followed Wei introduced the zhantian and ketian land systems, with its military and tax systems by and large continuations of the previous systems.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Western Jin Dynasty that followed Wei introduced the zhantian and ketian land systems, with its military and tax systems by and large continuations of the previous systems.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="51">
+<j>西晋の268年には泰始律令が制定され、これが最初の律令法典だとされている。</j>
+<e type="trans" ver="1">In 268 of West Jin, the Taishi Ritsuryo was established, which is considered to be the first Ritsuryo code in the history.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 268, during the Western Jin Dynasty, the Taishi Ritsuryo was established and is considered to be the first Ritsuryo code in history.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In 268, during the Western Jin Dynasty, the Taishi Ritsuryo was established and is considered to be the first Ritsuryo code in history.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="52">
+<j>その後の五胡十六国時代を経て、中国北部を統一して北朝最初の王朝となった北魏は、律令制の形成に大きく貢献した。</j>
+<e type="trans" ver="1">Northern Wei, which had unified northern China through the Sixteen Kingdoms period and become the first dynasty of the Northern Dynasties, largely contributed to form the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Northern Wei, which had unified northern China through the Sixteen Kingdoms period and become the first dynasty of the Northern Dynasties, largely contributed to the form of the Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Northern Wei, which had unified northern China through the Sixteen Kingdoms period and become the first dynasty of the Northern Dynasties, largely contributed to the form of the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="53">
+<j>北魏はまず、人民を体系的に支配するために三長制という地方行政制度を実施した。</j>
+<e type="trans" ver="1">At first, Northern Wei enforced a local administration system called the Sansho system to systematically govern the people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At first, Northern Wei implemented a local administration system called the sanchang system to systematically govern the people.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">At first, Northern Wei implemented a local administration system called the sanchang system to systematically govern the people.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>これにより、租税の徴収や戸籍の作成を一律的に行うことができるようになった。</j>
+<e type="trans" ver="1">The Sancho system enabled to uniformly collect taxes and create family registers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The sanchang system enabled uniform tax collection and creation of family registers.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The sanchang system enabled uniform tax collection and creation of family registers.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="55">
+<j>第6代皇帝の孝文帝は、三長制の成果を前提として、均田制と均賦制を実施した。</j>
+<e type="trans" ver="1">The sixth emperor, Xiaowen enforced the equal-field system and the average assessment system on the assumption that the Sancho system would work.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The sixth emperor, Xiaowen, implemented the equal-field system and the equal assessment system on the assumption that the sanchang system would work.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The sixth emperor, Xiaowen, implemented the equal-field system and the equal assessment system on the assumption that the sanchang system would work.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="56">
+<j>これは、一律に耕作地を支給し一律の基準で徴税を行うというもので、これにより律令制の基礎形成が完了したとされている。</j>
+<e type="trans" ver="1">These systems were for renting cultivated lands out to the people and collecting the taxes from the people on a uniform standard, whereby the basic of the Ritsuryo system is considered to have been completed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These systems were for allocating cultivated land to the people and collecting taxes from them on a uniform basis, and with this, the basics of the Ritsuryo system are considered to have been complete.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">These systems were for allocating cultivated land to the people and collecting taxes from them on a uniform basis, and with this, the basics of the Ritsuryo system are considered to have been complete.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="57">
+<j>なお、均賦制は夫婦に対して課税することとしていたため、課税単位の中心が戸単位から夫婦単位へと移行した。</j>
+<e type="trans" ver="1">As the average assessment system was targeted to a married couple, the unit of tax target was changed from a household to a married couple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As the equal assessment system was targeted at married couples, the unit of tax assessment was changed from households to married couples.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">As the equal assessment system was targeted at married couples, the unit of tax assessment was changed from households to married couples.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>北魏の次の西魏では、兵戸制に代わって府兵制という兵農一致を原則とする新たな兵制が生まれ、その次の北周は、儒教教典の周礼に基づいて三省六部の官制を整備し、租庸調と呼ばれる税制を開始した。</j>
+<e type="trans" ver="1">Western Wei subsequent to North Wei replaced the colonial militia system with the soldier system that was based on the principle of the farmers-turned-professional soldiers system, and the subsequent Northern Zhou established a governmental organization consisting of Three Departments and Six Ministries based on a Confucian scripture &quot;Chou-li&quot; and launched a tax system called Soyocho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Western Wei Dynasty that followed Northern Wei replaced the binghu system with the fubing system based on the principle of the farmer-soldier, and the subsequent Northern Zhou Dynasty established the Three Departments and Six Ministries administrative system based on the Confucian ritual text &quot;The Rites of Zhou&quot; (&quot;Zhouli&quot;) and launched a tax system called zuyongdiao.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Western Wei Dynasty that followed Northern Wei replaced the binghu system with the fubing system based on the principle of the farmer-soldier, and the subsequent Northern Zhou Dynasty established the Three Departments and Six Ministries administrative system based on the Confucian ritual text &quot;The Rites of Zhou&quot; (&quot;Zhouli&quot;) and launched a tax system called zuyongdiao.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="59">
+<j>その後の北朝の諸王朝もまた、これらの制度を継承した。</j>
+<e type="trans" ver="1">The following Northern Dynasties succeeded these systems.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following Northern Dynasties continued these systems.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The following Northern Dynasties continued these systems.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="60">
+<j>律令制の形成は北朝を主舞台としていたのである。</j>
+<e type="trans" ver="1">As such, the Ritsuryo system was formed in the Northern Dynasties.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As such, the Ritsuryo system was formed during the Northern Dynasties.</e>
+<cmt>Preposition</cmt>
+<e type="check" ver="1">As such, the Ritsuryo system was formed during the Northern Dynasties.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="61">
+<j>北朝はこれらの制度を背景に国力を増強していき、次第に南朝を圧迫していった。</j>
+<e type="trans" ver="1">The Northern Dynasties enhanced the national power based on the systems to gradually become a threat to the Southern Dynasties.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Northern Dynasties enhanced the national power based on the systems to gradually become a threat to the Southern Dynasties.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Northern Dynasties enhanced the national power based on the systems to gradually become a threat to the Southern Dynasties.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="62">
+<j>589年、隋は約270年ぶりに中国統一を果たした。</j>
+<e type="trans" ver="1">In 589, the Sui Dynasty unified China for the first time in about 270 years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 589, the Sui Dynasty unified China for the first time in about 270 years.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In 589, the Sui Dynasty unified China for the first time in about 270 years.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="63">
+<j>中国統一に先立つ581年に隋の楊堅は開皇律令を制定しているが、非常に体系的な内容を有しており、これにより律令制が完成したとされている。</j>
+<e type="trans" ver="1">In 581, prior to unifying of China, Yang Chien in the Sui Dynasty promulgated the highly systematic Kaiko Ritsuryo, which is considered to have completed the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 581, prior to the unification of China, Yang Jian of the Sui Dynasty promulgated the highly systematic Kaihuang Ritsuryo, which is considered to have completed the Ritsuryo system.</e>
+<cmt>*Although the Japanese has &quot;楊堅&quot;, I wonder if Emperor Wen (&quot;文帝&quot;) isn&apos;t better</cmt>
+<e type="check" ver="1">In 581, prior to the unification of China, Yang Jian of the Sui Dynasty promulgated the highly systematic Kaihuang Ritsuryo, which is considered to have completed the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="64">
+<j>律では、残虐な刑罰が廃止され、判りやすい内容へ簡素化されている。</j>
+<e type="trans" ver="1">The Ritsu in Kaiko Ritsuryo was simplified to be a code easy to understand, and cruel punishments were abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ritsu part of the codes was simplified to be easily understandable, and cruel punishments were abolished.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The ritsu part of the codes was simplified to be easily understandable, and cruel punishments were abolished.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="65">
+<j>官制も整備され三省六部や御史台が置かれ、官僚の登用に当たっては、幅広く門戸を開く科挙を始めた。</j>
+<e type="trans" ver="1">The governmental organization was established with the Three Departments and Six Ministries and the inspection organization for government officials placed, and the kakyo examination was launched to widely open door of opportunity for government officials.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Governmental organizations such as the Three Departments and Six Ministries and the Censorate were established, and the imperial examination was launched to increase opportunities for government officials.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Governmental organizations such as the Three Departments and Six Ministries and the Censorate were established, and the imperial examination was launched to increase opportunities for government officials.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="66">
+<j>また均田制に於いて給付と課税の対象がそれまでの夫婦単位から男性個人単位（丁・中男）へと移行している。</j>
+<e type="trans" ver="1">In the equal-field system, they changed the target of government services and tax collection from a married couple to an individual male (tei: 21 - 59 of age, chunan: 16 -20 of age.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the equal-field system, the target of government services and tax collection was changed from married couples to individual males (zheng: 21 - 59 of age, zhongnan: 16 -20 of age.)</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In the equal-field system, the target of government services and tax collection was changed from married couples to individual males (zheng: 21 - 59 of age, zhongnan: 16 -20 of age.)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="67">
+<j>これは、統一が為されたことにより給付対象が大幅に増え、そのことから来る土地不足が原因と思われる。</j>
+<e type="trans" ver="1">It is considered that the change was caused by land shortage as the unification of China dramatically increased the number of people to receive government services.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is considered that this change was caused by land shortage as the unification of China dramatically increased the number of people who received government services.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">It is considered that this change was caused by land shortage as the unification of China dramatically increased the number of people who received government services.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="68">
+<j>唐は、隋の律令制をほぼそのまま継承した。</j>
+<e type="trans" ver="1">The Tang Dynasty succeeded the Ritsuryo system of the Sui Dynasty almost as it was.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Tang Dynasty took on the Sui Dynasty&apos;s Ritsuryo system almost as it was.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Tang Dynasty took on the Sui Dynasty&apos;s Ritsuryo system almost as it was.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="69">
+<j>律令制により国力の充実した唐は大帝国を築き上げ、東アジア諸国へ大きな影響を与えた。</j>
+<e type="trans" ver="1">Based on the Ritsuryo system, the Tang Dynasty built up the country to be the Great Empire and expanded influence to the East Asian countries.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Based on the Ritsuryo system, the Tang Dynasty built up the country into a great empire and expanded its influence to other East Asian countries.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Based on the Ritsuryo system, the Tang Dynasty built up the country into a great empire and expanded its influence to other East Asian countries.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="70">
+<j>その結果、東アジアの各国とも国力整備のために、唐の律令制を受容・摂取するようになった。</j>
+<e type="trans" ver="1">Accordingly, the East Asian countries accepted and absorbed the Ritsuryo system of the Tang Dynasty to build up their countries.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accordingly, these East Asian countries accepted and absorbed the Tang Dynasty&apos;s Ritsuryo system to bolster national power.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Accordingly, these East Asian countries accepted and absorbed the Tang Dynasty&apos;s Ritsuryo system to bolster national power.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="71">
+<j>律令制を導入したのは、日本・新羅・渤海 (国)・吐谷渾・吐蕃王朝などが知られている。</j>
+<e type="trans" ver="1">It is known that Japan, Silla, Palhae, Tuyuhun, and the Tibetan Tubo dynasty adopted the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is known that Japan, Silla, Balhae, Tuyuhun, and the Tibetan Tubo Kingdom adopted the Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">It is known that Japan, Silla, Balhae, Tuyuhun, and the Tibetan Tubo Kingdom adopted the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="72">
+<j>これらの中には、必ずしも律令を制定していない国もあるが、いずれも唐律令の諸制度を多かれ少なかれ採用している。</j>
+<e type="trans" ver="1">Although some of them did not promulgate the Ritsuryo codes, all of them more or less adopted systems of the Ritsuryo system of the Tang Dynasty.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although some of them did not promulgate the complete Ritsuryo codes, all of them more or less adopted some aspects of the Tang Dynasty&apos;s Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Although some of them did not promulgate the complete Ritsuryo codes, all of them more or less adopted some aspects of the Tang Dynasty&apos;s Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="73">
+<j>中国の律令制の最盛期は、唐初～中期とされているが、必ずしも律令制が厳密に施行されていた訳ではなかった。</j>
+<e type="trans" ver="1">It is considered that the Ritsuryo system reached the zenith during the period from the early to middle of the Tang Dynasty, but the Ritsuryo system was not thoroughly enforced throughout the dynasty.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is considered that the Ritsuryo system reached its zenith during the early to mid-Tang Dynasty, although it was not always strictly enforced.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">It is considered that the Ritsuryo system reached its zenith during the early to mid-Tang Dynasty, although it was not always strictly enforced.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="74">
+<j>例えば、隋以前に均田制は北朝のみで施行されており、南朝では実施されていなかったので、唐初期において均田制は、おそらく華北を中心に施行されたにとどまっただろうと考えられている。</j>
+<e type="trans" ver="1">For example, as the equal-field system was enforced only in the Northern Dynasties and not in the Southern Dynasties before the Sui period, it is considered that the equal-field system was just enforced around the North China in the early Tang Dynasty.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For example, as the equal-field system before the Sui period was enforced only in the Northern Dynasties and not in the Southern Dynasties, it is considered that the it was enforced only around the North China in the early Tang Dynasty.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">For example, as the equal-field system before the Sui period was enforced only in the Northern Dynasties and not in the Southern Dynasties, it is considered that the it was enforced only around the North China in the early Tang Dynasty.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="75">
+<j>律令の枠内でも様々な名目で大土地所有が可能となっており、貴族層を中心に荘園が存在していたという事実もある。</j>
+<e type="trans" ver="1">Even in the framework of the Ritsuryo system, latifundists could exist on the various pretexts so that mainly the noble families possessed private estates.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even within the framework of the Ritsuryo system, it was possible under various pretexts to privately own large tracts of land, so that there existed private estates, owned mainly by families of noble rank.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Even within the framework of the Ritsuryo system, it was possible under various pretexts to privately own large tracts of land, so that there existed private estates, owned mainly by families of noble rank.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="76">
+<j>また、唐中期には「江南地方が裕福になったのは、この地方の百姓が府兵の負担を免除されているからだ」とする記録もあり、府兵制の実施が徹底していなかったことが判明している。</j>
+<e type="trans" ver="1">Besides, it was recorded that &apos;the people have become wealthy in the Jiangnan region because the peasants in this region are exempted from the soldier system duties,&apos; which proves that the soldier system was not thoroughly enforced throughout the country.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, records from the mid-Tang Dynasty state that &apos;the people have become wealthy in the Jiangnan region because the peasants in this region are exempted from military service,&apos; proving that the fubing system was not strictly enforced throughout the country.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Moreover, records from the mid-Tang Dynasty state that &apos;the people have become wealthy in the Jiangnan region because the peasants in this region are exempted from military service,&apos; proving that the fubing system was not strictly enforced throughout the country.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="77">
+<j>それでも、唐中期までは律令制が統治機能を果たしていたが、8世紀中ごろの玄宗 (唐)期になると律令制が徐々に崩壊し始める。</j>
+<e type="trans" ver="1">Still, the Ritsuryo system worked as the government system until the middle of the Tang Dynasty, but it began collapsing during the reign of Genso in the middle of the 8th century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Still, the Ritsuryo system worked as a government system until the middle of the Tang Dynasty, but it began collapsing during the reign of Xuanzong in the middle of the 8th century.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Still, the Ritsuryo system worked as a government system until the middle of the Tang Dynasty, but it began collapsing during the reign of Xuanzong in the middle of the 8th century.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="78">
+<j>まず府兵制が機能しなくなり、募兵を中心とする募兵制・節度使が導入された。</j>
+<e type="trans" ver="1">First, the soldier system stopped functioning, and the mercenary system and military governor based on conscription were adopted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">First, the fubing system stopped functioning, and the mubing mercenary system and Jiedushi military governors were adopted.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">First, the fubing system stopped functioning, and the mubing mercenary system and Jiedushi military governors were adopted.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="79">
+<j>均田制の根幹となる百姓への耕作地の支給は、次第に実施されなくなり、それに伴って租庸調制が立ち行かなくなったため780年に税制は両税制へと移行した。</j>
+<e type="trans" ver="1">Rental of cultivated lands to the peasants which had been the basis of the equal-field system, was gradually neglected, due to which the Soyocho system was not maintained and, in 780, replaced with the Ryozei system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Allotment of cultivated lands to the peasants which had been the basis of the equal-field system, was gradually neglected, leading to the zuyongdiao system becoming neglected and, in 780, being replaced with the liangshui system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Allotment of cultivated lands to the peasants which had been the basis of the equal-field system, was gradually neglected, leading to the zuyongdiao system becoming neglected and, in 780, being replaced with the liangshui system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="80">
+<j>また、758年には困窮する国家財政の新たな財源として、塩と鉄の専売制が開始している。</j>
+<e type="trans" ver="1">In 758, they established state monopolies on salt and iron as a new revenue source for the troubled national finances.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 758, state monopolies on salt and iron were established to provide new revenue for the troubled national finances.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In 758, state monopolies on salt and iron were established to provide new revenue for the troubled national finances.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="81">
+<j>律令制を運営する官僚制度も大きく変容し、律令に規定のない令外の官が非常に多数生まれていた。</j>
+<e type="trans" ver="1">The official system for operating the Ritsuryo system were drastically changed such that a lot of posts that were not prescribed in the Ritsuryo system had been established.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The bureaucracy that operated the Ritsuryo system changed drastically so that a lot of posts not prescribed in the Ritsuryo system were established.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The bureaucracy that operated the Ritsuryo system changed drastically so that a lot of posts not prescribed in the Ritsuryo system were established.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="82">
+<j>こうした変化の背景には、地方の新興地主層による大土地所有や官僚進出の進展があった。</j>
+<e type="trans" ver="1">Behind the scenes of these changes, there were developments such that the regional burgeoning landholders began to possess large tracts of land and that officials made advances.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Against the backdrop of these changes, there occurred developments such as the emerging regional landholders gaining large tracts of land and the rise of the bureaucrats.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Against the backdrop of these changes, there occurred developments such as the emerging regional landholders gaining large tracts of land and the rise of the bureaucrats.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="83">
+<j>これにより、社会が大きく変動し始めたため、従来の統治制度である律令制が機能不全に陥り、崩壊に進んでいった。</j>
+<e type="trans" ver="1">Accordingly, large-scale social changes began, which caused dysfunction of the Ritsuryo system, the conventional government system, and finally collapsed the system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This led to the start of large-scale social changes, which caused the existing government system, the Ritsuryo system, to become dysfunctional and eventually collapse.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This led to the start of large-scale social changes, which caused the existing government system, the Ritsuryo system, to become dysfunctional and eventually collapse.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="84">
+<j>唐後期になると、律令制と呼びうるものはほぼ消滅した。</j>
+<e type="trans" ver="1">During the latter half of the Tang Dynasty, almost anything that related to the Ritsuryo system disappeared.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the latter half of the Tang Dynasty, almost anything that related to the Ritsuryo system disappeared.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">During the latter half of the Tang Dynasty, almost anything that related to the Ritsuryo system disappeared.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="85">
+<j>唐律令制を摂取した東アジア諸国でも同様の状況が見られた。</j>
+<e type="trans" ver="1">Similar circumstances were seen in the East Asian countries, which had absorbed the Ritsuryo system from the Tang Dynasty.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Similar circumstances were seen in the East Asian countries that had absorbed the Ritsuryo system from the Tang Dynasty.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Similar circumstances were seen in the East Asian countries that had absorbed the Ritsuryo system from the Tang Dynasty.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="86">
+<j>いずれの国においても、8世紀後期から9世紀にかけての時期に、律令制は死滅あるいは形骸化していった。</j>
+<e type="trans" ver="1">In all of these countries, the Ritsuryo system began disappearing or became a dead letter from the latter half of the 8th century to the early 9th century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In all of these countries, the Ritsuryo system began disappearing or became a dead letter from the latter half of the 8th century to the early 9th century.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In all of these countries, the Ritsuryo system began disappearing or became a dead letter from the latter half of the 8th century to the early 9th century.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>隋・唐の律令制</j>
+<e type="trans" ver="1">Ritsuryo system in the Sui and the Tang</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ritsuryo system in the Sui and Tang Dynasties</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Ritsuryo system in the Sui and Tang Dynasties</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="87">
+<j>隋の楊堅代には、『開皇律令』という律令が施行された。</j>
+<e type="trans" ver="1">During the reign of Emperor Yang Chien of the Sui Dynasty, &quot;Kaiko Ritsuryo&quot; was enforced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the reign of Yang Jian of the Sui Dynasty, the &quot;Kaihuang Ritsuryo&quot; was implemented.</e>
+<cmt>*Since the Japanese just has &quot;楊堅&quot; and no &quot;帝&quot;, I deleted &quot;Emperor&quot;</cmt>
+<e type="check" ver="1">During the reign of Yang Jian of the Sui Dynasty, the &quot;Kaihuang Ritsuryo&quot; was implemented.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="88">
+<j>次の煬帝の代には、その改正である『大業律令』が頒布されたが、『開皇律令』と大差がなかった。</j>
+<e type="trans" ver="1">During the reign of Emperor Yang Ti, the revision &quot;Taigyo Ritsuryo,&quot; which had no big difference from &quot;Kaiko Ritsuryo,&quot; was distributed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the reign of his successor, Emperor Yang, the revised &quot;Daye Ritsuryo,&quot; which differed only slightly from the &quot;Kaihuang Ritsuryo,&quot; was promulgated.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">During the reign of his successor, Emperor Yang, the revised &quot;Daye Ritsuryo,&quot; which differed only slightly from the &quot;Kaihuang Ritsuryo,&quot; was promulgated.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="89">
+<j>唐の創業者である李淵は、『開皇律令』に基づいて『武徳律令』を頒布した。</j>
+<e type="trans" ver="1">Li Yuan, the founder of the Tang Dynasty, distributed &quot;Butoku Ritsuryo&quot; based on &quot;Kaiko Ritsuryo.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Li Yuan, the founder of the Tang Dynasty, promulgated the &quot;Wude Ritsuryo&quot; based on the &quot;Kaihuang Ritsuryo.&quot;</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Li Yuan, the founder of the Tang Dynasty, promulgated the &quot;Wude Ritsuryo&quot; based on the &quot;Kaihuang Ritsuryo.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="90">
+<j>その後も代々改正が加えられ、玄宗 (唐)朝の開元25年（737年）に頒布された『開元二十五年律令』は、東アジア諸国でも踏襲された。</j>
+<e type="trans" ver="1">The Ritsuryo system was revised during every reign of the Tang Dynasty following Emperor Li Yuan, and &quot;Kaigen nijugonen Ritsuryo&quot; distributed in 737 during the reign of Emperor Genso was followed in the East Asian countries.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ritsuryo system was revised during the reign of every successive Tang emperor, and &quot;Kaigen nijugonen Ritsuryo&quot; distributed in 737 during the reign of Emperor Genso was followed in the East Asian countries.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Ritsuryo system was revised during the reign of every successive Tang emperor, and &quot;Kaigen nijugonen Ritsuryo&quot; distributed in 737 during the reign of Emperor Genso was followed in the East Asian countries.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="91">
+<j>但し、実情は律令の規定は現実社会とは乖離しつつあり、律令を補なう格式が重視されるようになった。</j>
+<e type="trans" ver="1">As it is, the regulations of the Ritsuryo system were diverging from the real society, and an importance became to be put on Kyakushiki, which supplemented the Ritsuryo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In reality, the regulations of the Ritsuryo system were becoming estranged from the real world, and more importance came to be placed on the Kyakushiki, which supplemented the Ritsuryo.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In reality, the regulations of the Ritsuryo system were becoming estranged from the real world, and more importance came to be placed on the Kyakushiki, which supplemented the Ritsuryo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="92">
+<j>よって、律令の本文は早くに散逸したが、律については李林甫らによる注釈書『唐律疏義』が残り、令については、1933年、日本の中国法制史学者である仁井田陞が、和漢の典籍より逸文を輯逸し、『唐令拾遺』を著している。</j>
+<e type="trans" ver="1">Therefore, although the articles of the Ritsuryo were dispersed and lost in the early stages, but ritsu was recorded in the commentary &quot;Toritsu sogi&quot; written by Rinpo RI and others, and ryo was recorded in &quot;Torei Shui&quot; written by Noboru NIIDA, a Japanese historian of Chinese legal history, in 1933 by collecting missing writing from Japanese and Chinese classical books.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, although the original texts of the Ritsuryo were dispersed and lost early on, the ritsu penal code was recorded in the commentary &quot;Tanglu Shuyi&quot; written by LI Linfu and others, and the ryo administrative code was recorded in &quot;Torei Shui&quot; written by Noboru NIIDA, a Japanese historian of Chinese legal history, in 1933 by collating missing writing from Japanese and Chinese classical books.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Therefore, although the original texts of the Ritsuryo were dispersed and lost early on, the ritsu penal code was recorded in the commentary &quot;Tanglu Shuyi&quot; written by Linfu LI and others, and the ryo administrative code was recorded in &quot;Torei Shui&quot; written by Noboru NIIDA, a Japanese historian of Chinese legal history, in 1933 by collating missing writing from Japanese and Chinese classical books.</e>
+<cmt>Linfu LIに訂正しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>日本の律令制</j>
+<e type="trans" ver="1">The Ritsuryo system of Japan</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ritsuryo system in Japan</e>
+<cmt>Preposition</cmt>
+<e type="check" ver="1">The Ritsuryo system in Japan</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="6">
+<tit>
+<j>略史</j>
+<e type="trans" ver="1">Brief History</e>
+<cmt></cmt>
+<e type="trans" ver="2">Brief History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Brief History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="93">
+<j>日本の律令制は、概して7世紀後期（飛鳥時代後期）から10世紀頃まで実施された。</j>
+<e type="trans" ver="1">The Ritsuryo system in Japan was generally enforced from the latter half of the 7th century (the latter half of the Asuka period) to the 10th century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ritsuryo system in Japan was generally enforced from the latter half of the 7th century (the latter half of the Asuka period) to the 10th century.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Ritsuryo system in Japan was generally enforced from the latter half of the 7th century (the latter half of the Asuka period) to the 10th century.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="94">
+<j>そのうち、8世紀初頭から同中期・後期頃までが律令制の最盛期とされている。</j>
+<e type="trans" ver="1">During that period, the Ritsuryo system reached its zenith from the beginning to the middle and the latter half of the 8th century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During that period, the Ritsuryo system was at its zenith from the beginning to the middle and latter half of the 8th century.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">During that period, the Ritsuryo system was at its zenith from the beginning to the middle and latter half of the 8th century.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="95">
+<j>6世紀末期から7世紀初頭の推古天皇の時代に、律令制を指向する動きがあったとする見解がある。</j>
+<e type="trans" ver="1">According to an opinion, they attempted to adopt the Ritsuryo system during the reign of Empress Suiko from the end of the 6th century to the beginning of the 7th century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to some theories, attempts were made to adopt the Ritsuryo system during Empress Suiko&apos;s reign, from the end of the 6th century to the beginning of the 7th century.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">According to some theories, attempts were made to adopt the Ritsuryo system during Empress Suiko&apos;s reign, from the end of the 6th century to the beginning of the 7th century.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="96">
+<j>確にこの時期に冠位十二階の制定などの国制改革が行われたが、政治・社会体制を大きく変革するものではなかった。</j>
+<e type="trans" ver="1">Constitutional reforms including the establishment of the twelve grades of cap rank were carried out during the period; however, they were not so much influential as to drastically change the political and social systems.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Constitutional reforms such as the establishment of the twelve cap rank system were carried out during this period, although they were not so influential as to drastically change the political and social systems.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Constitutional reforms such as the establishment of the twelve cap rank system were carried out during this period, although they were not so influential as to drastically change the political and social systems.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="97">
+<j>当時の朝廷は、隋との交渉の中で、律令制とその基本理念を知る機会はあった（622年に帰国した遣隋使の恵日らが推古天皇に唐の律令制について報告している）が、それを実行に移す能力は未だ朝廷に備わっていなかった。</j>
+<e type="trans" ver="1">The Imperial Court of those days had opportunities to learn about the Ritsuryo system and its fundamental idea through talks with the Sui Dynasty (Envoys to the Sui Dynasty including Einichi returned Japan in 622 and reported to Empress Suiko on the Ritsuryo system of the Tang Dynasty,) but they were not capable enough to put these knowledge into practice.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Imperial Court of the time had the opportunity to learn about the Ritsuryo system and its basic concepts through talks with the Sui Dynasty (envoys to the Sui Dynasty, including Einichi, returned Japan in 622 and reported to Empress Suiko on the Tang Dynasty&apos;s Ritsuryo system) but they were not capable enough to put this knowledge into practice.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Imperial Court of the time had the opportunity to learn about the Ritsuryo system and its basic concepts through talks with the Sui Dynasty (envoys to the Sui Dynasty, including Einichi, returned Japan in 622 and reported to Empress Suiko on the Tang Dynasty&apos;s Ritsuryo system) but they were not capable enough to put this knowledge into practice.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="98">
+<j>646年から孝徳天皇や天智天皇らが進めた政治改革、いわゆる大化の改新において、4つの施策方針が示された。</j>
+<e type="trans" ver="1">In the political reform known as the Taika Reform advanced by Emperor Kotoku and Emperor Tenji from 646, four Action Plans were shown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the political reforms known as the Taika Reforms advanced by Emperor Kotoku and Emperor Tenji from 646, four Action Plans were shown.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In the political reforms known as the Taika Reforms advanced by Emperor Kotoku and Emperor Tenji from 646, four Action Plans were shown.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="99">
+<j>それらは、中国律令制の強い影響を受けたものである。</j>
+<e type="trans" ver="1">The plans were largely influenced by the Chinese Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The plans were largely influenced by the Chinese Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The plans were largely influenced by the Chinese Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="100">
+<j>その内容は下記のとおりである。</j>
+<e type="trans" ver="1">They were:</e>
+<cmt></cmt>
+<e type="trans" ver="2">They were:</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They were as follows.</e>
+<cmt>OK</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="101">
+<j>豪族らの私有地を廃止すること</j>
+<e type="trans" ver="1">Abolish the regional powerful clans&apos; private ownership of lands.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Abolish powerful clans&apos; private ownership of land.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Abolish powerful clans&apos; private ownership of land.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="102">
+<j>中央による統一的な地方統治制度を創設すること</j>
+<e type="trans" ver="1">Establish a uniform local government system under the control of the central government.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Establish a uniform local government system under the control of the central government.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Establish a uniform local government system under the control of the central government.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="103">
+<j>戸籍・計帳・班田収授法を制定すること</j>
+<e type="trans" ver="1">Enact family register, yearly tax records, and the law of rice field allotment system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Establish family registers, yearly tax records, and a law for rice field allotment.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Establish family registers, yearly tax records, and a law for rice field allotment.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="104">
+<j>租税制度を再編成すること</j>
+<e type="trans" ver="1">Reorganize the tax system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Reorganize the tax system.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Reorganize the tax system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="105">
+<j>20世紀中後期頃までは、大化の改新が日本の律令制導入の画期だったと理解されていたが、20世紀後期頃から、大化の改新の諸政策は後世の潤色であることが判明しており、必ずしも律令制史上の画期とは見なされなくなってきた。</j>
+<e type="trans" ver="1">Until the middle to the latter half of the 20th century, it was understood that the Taika Reform was the epoch of introduction of the Ritsuryo system into Japan, but from the latter half of the 20th century, the Taika Reform has not been necessarily considered to be the epoch in the history of the Ritsuryo system as it has proven that the measures of the Taika Reform were later embellishments&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Until the second half of the 20th century, it was understood that the Taika Reforms were an epoch in the introduction of the Ritsuryo system into Japan, but since the latter part of the 20th century, they have not necessarily been considered an important epoch in the history of the Ritsuryo system as it has proven that the measures of the Taika Reform were later embellishments.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Until the second half of the 20th century, it was understood that the Taika Reforms were an epoch in the introduction of the Ritsuryo system into Japan, but since the latter part of the 20th century, they have not necessarily been considered an important epoch in the history of the Ritsuryo system as it has proven that the measures of the Taika Reform were later embellishments.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="106">
+<j>例えば、改新の第一の方針は公地公民制を確立したものとして評価されてきたが、これは王土王民の理念を宣言したのみに過ぎず、改新時に公地公民制という制度は構築されなかったとする見解も有力となりつつある。</j>
+<e type="trans" ver="1">For example, although the first policy of the Taika Reform was valued as the establishment of the national controlling system of land and people, it has been a quite likely opinion that they merely declared the idea of odo omin and that a system known as the national controlling system of land and people was not established at the time of the Taika Reform.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For example, although the establishment of state ownership of both land and people was recognized as the first objective of the Taika Reform, the view that this was merely a proclamation of the concept of odo omin and that the system of state ownership of land and people was not established at the time of the reforms has been gaining prominence.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">For example, although the establishment of state ownership of both land and people was recognized as the first objective of the Taika Reform, the view that this was merely a proclamation of the concept of odo omin and that the system of state ownership of land and people was not established at the time of the reforms has been gaining prominence.</e>
+<cmt>不要なスペースを削除しました。</cmt>
+</sen>
+<sen id="107">
+<j>大化の改新は日本書紀に描かれるほどの画期的な改革ではなく、その後、改革への動 きは停滞したとする見解が広範な支持を集めているのである。</j>
+<e type="trans" ver="1">It is now widely supported that the Taika Reform was not so much epoch-making as to have been depicted in Nihonshoki and that the movement toward reform was stagnated later.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is now widely held that the Taika Reforms were not so epoch-making as to have been depicted in the &quot;Nihon shoki&quot; (&quot;Chronicles of Japan&quot;) and that the movement toward reform later stagnated.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">It is now widely held that the Taika Reforms were not so epoch-making as to have been depicted in the &quot;Nihon shoki&quot; (&quot;Chronicles of Japan&quot;) and that the movement toward reform later stagnated.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="108">
+<j>律令制導入の動きが本格化したのは、660年代に入ってからである。</j>
+<e type="trans" ver="1">The movement toward the introduction of the Ritsuryo system accelerated in 660s.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The movement toward the introduction of the Ritsuryo system accelerated in the 660s.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The movement toward the introduction of the Ritsuryo system accelerated in the 660s.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="109">
+<j>660年の百済滅亡と、663年の百済復興戦争（白村江の戦い）での敗北により、唐・新羅との対立関係が決定的に悪化し、倭国朝廷は深刻な国際的危機に直面した。</j>
+<e type="trans" ver="1">As Paekche fell in 660 and Japan was defeated in the Paekche restoration war (the Battle of Hakusonko) in 663, Japan&apos;s confrontation with Tang and Silla was decisively worsened and the Imperial Court of Japan faced serious international crisis.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Due to the fall of Baekche in 660 and Japan&apos;s defeat in the Baekche restoration war (the Battle of Hakusukinoe) in 663, antagonism with Tang and Silla worsened irrevocably and the Imperial Court of Japan faced a serious international crisis.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Due to the fall of Baekche in 660 and Japan&apos;s defeat in the Baekche restoration war (the Battle of Hakusukinoe) in 663, antagonism with Tang and Silla worsened irrevocably and the Imperial Court of Japan faced a serious international crisis.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="110">
+<j>そこで朝廷は、まず国防力の増強を図ることとした。</j>
+<e type="trans" ver="1">Then, the Imperial Court began to build up national defenses.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a result, the Imperial Court began to build up national defenses.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">As a result, the Imperial Court began to build up national defenses.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="111">
+<j>危機感を共有した支配階級は団結融和へと向かい、当時の天智天皇は豪族を再編成するとともに、官僚制を急速で整備するなど、挙国的な国制改革を精力的に進めていった。</j>
+<e type="trans" ver="1">The ruling class people shared the crisis and began to solidify and integrate with each other, while Emperor Tenji reigned at that time was energetic in advancing nationwide constitutional reforms by reorganizing regional powerful clans and rapidly organizing the official system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ruling classes shared the sense of crisis and began to unite and reconcile with each other, while the emperor at the time, Emperor Tenji, energetically pushed forward nationwide constitutional reforms by reorganizing powerful clans and rapidly organizing the bureaucracy.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The ruling classes shared the sense of crisis and began to unite and reconcile with each other, while the emperor at the time, Emperor Tenji, energetically pushed forward nationwide constitutional reforms by reorganizing powerful clans and rapidly organizing the bureaucracy.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="112">
+<j>その結果、大王（天皇）へ権力が集中することになった。</j>
+<e type="trans" ver="1">Consequently, power concentrated in Ookimi (Emperor.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Consequently, power became concentrated in the Ookimi (Emperor.)</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Consequently, power became concentrated in the Okimi (Emperor.)</e>
+<cmt>Okimi　に訂正しました。</cmt>
+</sen>
+<sen id="113">
+<j>この時期に編纂されたとされる近江令は、国制改革を進めていく個別法令群の総称だったと考えられている。</j>
+<e type="trans" ver="1">It is considered that Omi ryo, which is said to have been compiled in this period, was a collective name for a group of laws enforced for promoting the constitutional reforms.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is believed that the Omi Code, which is said to have been compiled in this period, was a general name for the group of laws enforced for promoting the constitutional reforms.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">It is believed that the Omi Code, which is said to have been compiled in this period, was a general name for the group of laws enforced for promoting the constitutional reforms.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="114">
+<j>天智天皇による国制改革は全国に及んでおり、令制国と呼ばれる地方行政区画が形成されたのもこの時期である。</j>
+<e type="trans" ver="1">The constitutional reforms led by Emperor Tenji extended throughout the country such that administrative districts called ryoseikoku were formed in this period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The constitutional reforms led by Emperor Tenji extended throughout the country, with administrative districts called ryoseikoku being formed in this period.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The constitutional reforms led by Emperor Tenji extended throughout the country, with administrative districts called ryoseikoku being formed in this period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="115">
+<j>こうして、地方での人民支配が次第に深化していき、670年頃になると地方支配の浸透を背景に、日本史上最初の戸籍とされる古代の戸籍制度が作成された。</j>
+<e type="trans" ver="1">Accordingly, ruling over the people was further promoted throughout the country, and around 670, the ancient family register system, which is considered to be the first family register in Japan, was created with ruling over the regions pervaded in the background.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accordingly, rule over the people was strengthened throughout the country and around 670, against the backdrop of increasing control over the provinces, the ancient family register system, which is considered to be the first family register in Japan, was created.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Accordingly, rule over the people was strengthened throughout the country and around 670, against the backdrop of increasing control over the provinces, the ancient family register system, which is considered to be the first family register in Japan, was created.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="116">
+<j>戸籍は、律令制の諸制度を実施するために必要な要素であり、最初の戸籍がこの時期に作成されているという事実は、班田収授制が大化の改新時に始まったのではなく、天智天皇以後に始まったことの反映であるとする見解が有力となっている。</j>
+<e type="trans" ver="1">As family register is an essential element for implementing various systems of the Ritsuryo system, it is a likely opinion that the first family register was created in this period, which proves that the law of rice field allotment system was started during and after the reign of Emperor Tenji and not at the time of the Taika Reform.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As the family register was an essential element for implementing various elements of the Ritsuryo system, the widely-accepted view is that the rice field allotment system was started after Emperor Tenji&apos;s reign and not at the time of the Taika Reform.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">As the family register was an essential element for implementing various elements of the Ritsuryo system, the widely-accepted view is that the rice field allotment system was started after Emperor Tenji&apos;s reign and not at the time of the Taika Reform.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="117">
+<j>天智天皇の死後、壬申の乱を経て政権を奪取した天武天皇は、軍事を政治の最優先項目に置き、専制的な政治を推進していった。</j>
+<e type="trans" ver="1">Emperor Tenmu, who captured the reign after the death of Emperor Tenji through the Jinshin War, promoted autocracy, giving the highest priority to military affairs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Following Emperor Tenji&apos;s death, Emperor Tenmu, who usurped the throne in the Jinshin War, placed priority on military affairs and implemented an autocratic style of government.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Following Emperor Tenji&apos;s death, Emperor Tenmu, who usurped the throne in the Jinshin War, placed priority on military affairs and implemented an autocratic style of government.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="118">
+<j>主要な政治ポストには従来の豪族ではなく諸皇子をあてて、その下で働く官僚たちの登用・考課・選叙など官人統制に関する法令を整備していった。</j>
+<e type="trans" ver="1">Emperor Tenmu appointed princes, instead of conventional regional powerful clans, to major political posts and established the laws for regulating government posts in appointment, evaluation, and selection of officials work under the princes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Emperor Tenmu appointed princes, instead of the usual powerful clans, to major political posts and established laws for regulating the appointment, evaluation, and selection of officials working under the princes.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Emperor Tenmu appointed princes, instead of the usual powerful clans, to major political posts and established laws for regulating the appointment, evaluation, and selection of officials working under the princes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="119">
+<j>こうした流れは、体系的な律令法典の制定へと帰着することになり、681年に天武天皇は律令制定を命ずる詔を発出した。</j>
+<e type="trans" ver="1">That trend resulted in establishment of the systematic Ritsuryo codes, and in 681, Emperor Tenmu issued an Imperial edict to order enforcement of the Ritsuryo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This trend resulted in the establishment of a systematic Ritsuryo code, and in 681, Emperor Tenmu issued an Imperial edict ordering enforcement of the Ritsuryo.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This trend resulted in the establishment of a systematic Ritsuryo code, and in 681, Emperor Tenmu issued an Imperial edict ordering enforcement of the Ritsuryo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="120">
+<j>天武天皇の生前に律令は完成しなかったが、689年の持統天皇の時代に令が完成・施行された。</j>
+<e type="trans" ver="1">Even though the Rituryo had not been completed during lifetime of Emperor Tenmu, ryo, the administrative codes, was completed and enforced in 689 during the reign of Empress Jito.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the Ritsuryo was not completed during Emperor Tenmu&apos;s lifetime, the ryo administrative codes were completed and enforced in 689 during the reign of Empress Jito.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Although the Ritsuryo was not completed during Emperor Tenmu&apos;s lifetime, the ryo administrative codes were completed and enforced in 689 during the reign of Empress Jito.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="121">
+<j>これが飛鳥浄御原令である。</j>
+<e type="trans" ver="1">That was the Asuka Kiyomihara ryo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was the Asuka Kiyomihara Code.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This was the Asuka Kiyomihara Code.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="122">
+<j>この令は、律令制の本格施行ではなく先駆的に施行したものと考えられている。</j>
+<e type="trans" ver="1">It is considered that the ryo anticipated enforcement of the Ritsuryo system, and not full-scale enforcement of the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is considered that the ryo anticipated enforcement of the Ritsuryo system, and not full-scale enforcement of the Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">It is considered that the ryo anticipated enforcement of the Ritsuryo system, and not full-scale enforcement of the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="123">
+<j>令原文が現存していないので、詳細は判明していないが、戸籍を6年に1回作成すること（六年一造）、50戸を1里とする地方制度、班田収授に関する規定など、律令制の骨格がこの令により形成されたと考えられている。</j>
+<e type="trans" ver="1">Details of the ryo are unknown as the text is not existing, but it is considered that the framework of the Ritsuryo system including creation of family registers every six years (rokunen ichizo,) the local government system that groups 50 households as a unit called ri, and the regulations of the law of rice field allotment system was formed in the ryo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Details of the ryo are unknown as the text no longer exists, but it is believed that the framework of the Ritsuryo system including the creation of family registers every six years (rokunen ichizo), the local government system grouping 50 households into units called ri, and the regulations of the rice field allotment system was formed in the ryo.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Details of the ryo are unknown as the text no longer exists, but it is believed that the framework of the Ritsuryo system including the creation of family registers every six years (rokunen ichizo), the local government system grouping 50 households into units called ri, and the regulations of the rice field allotment system was formed in the ryo.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="124">
+<j>その後の701年に、大宝律令が制定・施行された。</j>
+<e type="trans" ver="1">In 701, the Taiho Ritsuryo was established and enforced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 701, the Taiho Ritsuryo was established and put into practice.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In 701, the Taiho Ritsuryo was established and put into practice.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="125">
+<j>大宝律令は、日本史上最初の本格的律令法典であり、これにより日本の律令制が確立することとなった。</j>
+<e type="trans" ver="1">The Taiho Ritsuryo was the first full-scale Ritsuryo codes in the Japanese history, and the Japanese Ritsuryo system was established by it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Taiho Ritsuryo was the first full-scale Ritsuryo code in Japanese history and with it, the Japanese Ritsuryo system was consolidated.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Taiho Ritsuryo was the first full-scale Ritsuryo code in Japanese history and with it, the Japanese Ritsuryo system was consolidated.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="126">
+<j>大宝律令の施行は、当時としても非常に画期的かつ歴史的な一大事業と受け止められており、律令施行とほぼ同時に、日本という国号と最初の制度的元号（大宝 (日本)）が正式に定められた。</j>
+<e type="trans" ver="1">Even in those days, it was considered that the enforcement of the Taiho Ritsuryo was a quite epoch-making and historical big project, and almost at the same time, the country name &apos;Nippon&apos; and the first official era name &apos;Taiho&apos; were formally promulgated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even in those days, it was considered that the enforcement of the Taiho Ritsuryo was an epoch-making and historical project, and almost at the same time, the name &apos;Nippon&apos; and the first official era name &apos;Taiho&apos; were formally promulgated.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Even in those days, it was considered that the enforcement of the Taiho Ritsuryo was an epoch-making and historical project, and almost at the same time, the name &apos;Nippon&apos; and the first official era name &apos;Taiho&apos; were formally promulgated.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="127">
+<j>さらに、大宝律令の制定後まもなく、空前規模の都城である平城京が、9年の歳月で建設された。</j>
+<e type="trans" ver="1">Further, soon after the establishment of the Taiho Ritsuryo, Heijokyo, the castle town on an unprecedented scale was constructed over nine years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, soon after the establishment of the Taiho Ritsuryo, Heijokyo, a walled city on an unprecedented scale was constructed over nine years.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Furthermore, soon after the establishment of the Taiho Ritsuryo, Heijokyo, a walled city on an unprecedented scale was constructed over nine years.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="128">
+<j>これらの事実は、律令施行があたかも一つの王朝の創始（または国家建設）に擬せられていたことを表している。</j>
+<e type="trans" ver="1">All of these things show that the enforcement of the Ritsuryo was likened to the foundation of a dynasty (or establishment of a country.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">All of these things show that the enforcement of the Ritsuryo was likened to the founding of a dynasty (or the establishment of a country.)</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">All of these things show that the enforcement of the Ritsuryo was likened to the founding of a dynasty (or the establishment of a country).</e>
+<cmt>コンマの位置を訂正しました。</cmt>
+</sen>
+<sen id="129">
+<j>律令編纂に中心的な役割を果たした藤原不比等は、その後、大納言・右大臣へ昇進し、政府の中枢において最大の権力者となり、藤原氏繁栄の基盤を作った。</j>
+<e type="trans" ver="1">FUJIWARA no Fuhito, who played a key role in compiling the Ritsuryo, was promoted to the major counselor of state and then to the minister of the right to become the most influential person in the political center, which laid a foundation of the prosperity of the Fujiwara clan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">FUJIWARA no Fuhito, who played a key role in compiling the Ritsuryo, was promoted to Major Counselor of State and then to Minister of the Right, becoming the most influential person in the political center and laying the foundations for the prosperity of the Fujiwara Clan.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">FUJIWARA no Fuhito, who played a key role in compiling the Ritsuryo, was promoted to Dainagon (Major Counselor of State) and then to Udaijin (Minister of the Right), becoming the most influential person in the political center and laying the foundations for the prosperity of the Fujiwara clan.</e>
+<cmt>Dainagon, Udaijin 読み補足し、説明を括弧に入れました。clan小文字にしました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="130">
+<j>律令制定に伴って、正史日本書紀の編纂、風土記の撰上、度量衡の制定、銭の鋳造などが行われた。</j>
+<e type="trans" ver="1">As the Ritsuryo system was established, other projects were carried out such that Nihon shoki, the authorized history, was compiled, Fudoki (description of regional climate, culture, etc.) was compiled, weights and measures were determined, and coins were minted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Along with the establishment of the Ritsuryo system, other projects carried out included the compilation of an authorized history, the &quot;Nihon shoki&quot;, the compilation of &apos;fudoki&apos; (descriptions of regional climate, culture, etc.), the defining of weights and measures, and the minting of coins.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Along with the establishment of the Ritsuryo system, other projects carried out included the compilation of an authorized history, the &quot;Nihon shoki,&quot; the compilation of &apos;fudoki&apos; (descriptions of regional climate, culture, etc.), the defining of weights and measures, and the minting of coins.</e>
+<cmt>コンマの位置を訂正しました。</cmt>
+</sen>
+<sen id="131">
+<j>これらは律令に直接の根拠を持つものではないが、いずれも律令制に不可欠な構成要素であった。</j>
+<e type="trans" ver="1">Although these projects were not directly grounded on the Ritsuryo, all of them were indispensable to the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although these projects were not directly based on the Ritsuryo, all of them were indispensable to the Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Although these projects were not directly based on the Ritsuryo, all of them were indispensable to the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="132">
+<j>大宝律令は、唐の永徽律令（えいき-、651年制定）をもとに作られた。</j>
+<e type="trans" ver="1">The Taiho Ritsuryo was compiled based on the Eiki Ritsuryo in the Tang Dynasty (established in 651.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Taiho Ritsuryo was compiled based on the Tang Dynasty&apos;s Yonghui Ritsuryo (established in 651.)</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Taiho Ritsuryo was compiled based on the Tang Dynasty&apos;s Yonghui Ritsuryo (established in 651).</e>
+<cmt>ピリオドの位置を訂正しました。</cmt>
+</sen>
+<sen id="133">
+<j>しかし、唐律令には、日本の社会情勢と適合しない箇所もあったため、多くの箇所で日本の国情に合わせた改変がなされている。</j>
+<e type="trans" ver="1">As the Ritsuryo in Tang partly did not match the social conditions of Japan, alterations were made to a good number of places to match Japanese conditions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As the Tang Ritsuryo did not exactly match the social conditions of Japan, alterations were made in a good number of places to match Japanese conditions.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">As the Tang Ritsuryo did not exactly match the social conditions of Japan, alterations were made in a good number of places to match Japanese conditions.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="134">
+<j>大宝律令制定後も、日本の国情に適合させるよう律令の撰修が続けられ、その成果が養老律令としてまとめられ、757年に施行された。</j>
+<e type="trans" ver="1">After the establishment of the Taiho Ritsuryo, the compilation of the Ritsuryo was kept to match it the Japanese conditions, and the achievements were established as the Yoro ritsuryo and enforced in 757.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the establishment of the Taiho Ritsuryo, the compilation of the Ritsuryo was kept to match it the Japanese conditions, and the achievements were established as the Yoro ritsuryo and enforced in 757.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">After the establishment of the Taiho Ritsuryo, the compilation of the Ritsuryo was kept to match it the Japanese conditions, and the achievements were established as the Yoro ritsuryo and enforced in 757.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="135">
+<j>日本の律令制の最盛期は、8世紀初頭から8世紀中期・後期頃までとされている。</j>
+<e type="trans" ver="1">It is considered that the Japanese Ritsuryo system reached its zenith from the beginning of the 8th century to the middle and the latter half of the 8th century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Japanese Ritsuryo system is considered to have been at its zenith from the beginning to the middle and the latter half of the 8th century.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Japanese Ritsuryo system is considered to have been at its zenith from the beginning to the middle and the latter half of the 8th century.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="136">
+<j>律令制が最も法令に則って実施されていたのが、この時期である。</j>
+<e type="trans" ver="1">During this period, the Ritsuryo system was enforced most faithfully to the laws.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was during this period that implementation of the Ritsuryo system conformed closest to the laws.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">It was during this period that implementation of the Ritsuryo system conformed closest to the laws.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="137">
+<j>ただし、この最盛期において律令制がどの程度まで徹底して施行されていたかについては議論が分かれている。</j>
+<e type="trans" ver="1">There are several opinions on how thoroughly the Ritsuryo system was enforced in its zenith.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are several opinions on how thoroughly the Ritsuryo system was enforced during its peak.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">There are several opinions on how thoroughly the Ritsuryo system was enforced during its peak.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="138">
+<j>全国どこでも一律に律令通りの施政がなされることが律令制の理想ではあったが、それが貫徹されていたとは考えられていない。</j>
+<e type="trans" ver="1">It was ideal for the Ritsuryo system to be uniformly enforced across the country, but it was not necessarily realized.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ideal was for the Ritsuryo system to be uniformly enforced across the country, but this was not necessarily realized.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The ideal was for the Ritsuryo system to be uniformly enforced across the country, but this was not necessarily realized.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="139">
+<j>律令の規定がかなりの程度で徹底実施されていたとする説や、依然として慣習法による統治もなされていたとする説など、様々な意見が出されている。</j>
+<e type="trans" ver="1">There are various opinions about the enforcement of the Ritsuryo system: Some people say that the stipulations of the Ritsuryo system were highly absolutely enforced, and some say that the common law was still used in ruling the country.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are various opinions about the enforcement of the Ritsuryo system, with some theories claiming that the stipulations of the Ritsuryo system were strictly enforced, and others that common law was still used in ruling the country.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">There are various opinions about the enforcement of the Ritsuryo system, with some theories claiming that the stipulations of the Ritsuryo system were strictly enforced, and others that common law was still used in ruling the country.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="140">
+<j>8世紀末頃になると、実効性が薄れて来た制度や、実際に運用されなくなった制度が見られるようになってきた。</j>
+<e type="trans" ver="1">Around the end of 8th century, some systems were losing their teeth and some systems stopped operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Towards the end of 8th century, some systems were becoming ineffective and others had fallen out of use.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Towards the end of 8th century, some systems were becoming ineffective and others had fallen out of use.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="141">
+<j>これら制度の放置は、律令政府に対して財政的かつ人的な負担として重くのしかかっていた。</j>
+<e type="trans" ver="1">These systems were still left as they were, which burdened the government under the Ritsuryo codes both from the viewpoint of finances and human resources.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They remained unaltered though, which placed a heavy burden on the Ritsutyo government both from the viewpoint of finances and human resources.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">They remained unaltered though, which placed a heavy burden on the Ritsutyo government both from the viewpoint of finances and human resources.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="142">
+<j>そのため、当時の桓武天皇はこうした制度を廃止し、別個の簡素かつ実効的な制度に置換するという大規模な行政改革を行った。</j>
+<e type="trans" ver="1">Therefore, the reigning Emperor Kanmu did a large-scale administrative reform to replace these systems with simple and effective different systems.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, the reigning Emperor Kanmu carried out large-scale administrative reforms to replace these systems with simpler and more effective ones.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Therefore, the reigning Emperor Kanmu carried out large-scale administrative reforms to replace these systems with simpler and more effective ones.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="143">
+<j>この改革は、律令制の再興を意図したものだったが、これにより律令制は大きく変質することとなった。</j>
+<e type="trans" ver="1">The reform aimed at restoring the Ritsuryo system; ironically, the reform significantly transformed the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though aimed at restoring the Ritsuryo system, these reforms, ironically, significantly transformed it.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Though aimed at restoring the Ritsuryo system, these reforms, ironically, significantly transformed it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="144">
+<j>桓武天皇の時代には、長岡京・平安京への遷都や、対蝦夷戦争への積極的な遂行が実施された。</j>
+<e type="trans" ver="1">During the reign of Emperor Kanmu, the capital was relocated to Nagaoka-kyo then to Heian-kyo, and the anti-ezo war was positively fought.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During Emperor Kanmu&apos;s reign, the capital was relocated to Nagaoka-kyo and then to Heian-kyo, and aggressively pursued the conquest of Ezo.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">During Emperor Kanmu&apos;s reign, the capital was relocated to Nagaoka-kyo and then to Heian-kyo, and aggressively pursued the conquest of Ezo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="145">
+<j>これらは、従来とは異質の統治体制を築こうとするものであり、律令制の再編成とする見解が多数派だが、桓武天皇の時代期をもって、律令制の終焉とする論者もいる。</j>
+<e type="trans" ver="1">It is mostly accepted that the government aimed at establishing the government system quite different from the conventional one to restore the Ritsuryo system; on the other hand, there is another opinion stating that the reign of Emperor Kanmu marked the end of the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is generally accepted that the aim was to establish a system of government different from the one that had existed up till then by reorganizing the Ritsuryo system, although there is another opinion that Emperor Kanmu&apos;s reign marked the end of the Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">It is generally accepted that the aim was to establish a system of government different from the one that had existed up till then by reorganizing the Ritsuryo system, although there is another opinion that Emperor Kanmu&apos;s reign marked the end of the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="146">
+<j>その後、9世紀の前期から中期にかけて、律令制を再整備しようとする動きが活発となる。</j>
+<e type="trans" ver="1">From the first half to the middle of the 9th century, the movements toward re-establishment of the Ritsuryo system were accelerated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From the first half to the middle of the 9th century, momentum toward re-establishment of the Ritsuryo system accelerated.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">From the first half to the middle of the 9th century, momentum toward re-establishment of the Ritsuryo system accelerated.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="147">
+<j>律令の修正法である格（きゃく）と律令格の施行細則である式（しき）が、大宝律令の施行以後、多く残されていたが、820年にそれらを集成した弘仁格式が編纂された。</j>
+<e type="trans" ver="1">In 820, a lot of kyaku, the amendments of the Ritsuryo, and shiki, the detailed legislation for provisions of the ritsuryo and kyaku, which had been left after the enforcement of the Taiho Ritsuryo, were collected and compiled into the Konin kyakushiki code.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the enforcement of the Taiho Ritsuryo, a number of kyaku, the amendments to the Ritsuryo, and shiki, the regulations for enacting the ritsuryo and kyaku, still remained and in 820, these were collected and compiled into the Konin Kyakushiki Code.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">After the enforcement of the Taiho Ritsuryo, a number of kyaku, the amendments to the Ritsuryo, and shiki, the regulations for enacting the ritsuryo and kyaku, still remained and in 820, these were collected and compiled into the Konin Kyakushiki Code.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="148">
+<j>更に830年には、天長格式が撰修され、834年には令の官製逐条解説である『令義解』（りょうのぎげ）が施行された。</j>
+<e type="trans" ver="1">In 830, the Tencho kyakushiki code was compiled, and in 834, &quot;Ryogenogige&quot; an official text-tracing manual of ryo, was enforced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 830, the Tencho Kyakushiki Code was compiled, and in 834, &quot;Ryonogige&quot; an official explanatory manual of the ryo, came into effect.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In 830, the Tencho Kyakushiki Code was compiled, and in 834, &quot;Ryonogige&quot; an official explanatory manual of the ryo, came into effect.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="149">
+<j>これらは、律令制の実質を維持していこうとする意思の表れだった。</j>
+<e type="trans" ver="1">These movements show that the government was to maintain the substance of the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All this shows that the government was trying to maintain the essence of the Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">All this shows that the government was trying to maintain the essence of the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="150">
+<j>しかし、律令制の弛緩、換言すれば別の統治体制への移行は、時代を追うたびに進展し、特に班田制の崩壊が著しかった。</j>
+<e type="trans" ver="1">But as the time went by, the Ritsuryo system was losing its teeth, in other words, the government system was being transferred to another system, which was remarkable in the breakdown of the rice field allotment system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, over time, the Ritsuryo system was losing its teeth, in other words, it was transforming into another system, the most obvious sign of which was the breakdown of the rice field allotment system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">However, over time, the Ritsuryo system was losing its teeth, in other words, it was transforming into another system, the most obvious sign of which was the breakdown of the rice field allotment system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="151">
+<j>こうした状況下で、870年前後に貞観格式が編纂・頒布されるとともに、868年には、律令条文の多様な解釈を集成した私的律令解説本の『令集解』（りょうのしゅうげ）が惟宗直本により記された。</j>
+<e type="trans" ver="1">Under the circumstances, in 870, the Jogan kyakushiki code was compiled and distributed, and in 868, &quot;Ryonoshuge&quot;, a private text-tracing manual that was the collection of various commentaries on the provisions of ritsuryo, was recorded by KOREMUNE no Naomoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under these circumstances, in 870, the Jogan Kyakushiki Code was compiled and distributed, and in 868, &quot;Ryonoshuge&quot;, a private explanatory manual that collected various commentaries on the provisions of the Ritsuryo, was compiled by KOREMUNE no Naomoto.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Under these circumstances, in 870, the Jogan Kyakushiki Code was compiled and distributed, and in 868, &quot;Ryonoshuge,&quot; a private explanatory manual that collected various commentaries on the provisions of the Ritsuryo, was compiled by KOREMUNE no Naomoto.</e>
+<cmt>コンマの位置を訂正しました。</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="152">
+<j>10世紀には、最後の格式となる延喜式が編纂された。</j>
+<e type="trans" ver="1">In the 10th century, the Engishiki, the last kaykushiki, was compiled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the 10th century, the Engishiki, the last kyakushiki, was compiled.</e>
+<cmt>Spelling</cmt>
+<e type="check" ver="1">In the 10th century, the Engishiki, the last kyakushiki, was compiled.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="153">
+<j>しかし、律令制はこの時期にほぼ実態を失ってしまう。</j>
+<e type="trans" ver="1">On the other hand, the Ritsuryo system had lost most of its effectiveness during the period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the Ritsuryo system would lose most of its effectiveness during the period.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">However, the Ritsuryo system would lose most of its effectiveness during the period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="154">
+<j>多くの論者が、律令制は遅くとも10世紀末までに死滅したとしている。</j>
+<e type="trans" ver="1">It is accepted by most people that the Ritsuryo system became extinct no later than the end of the 10th century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Most people accept that the Ritsuryo system became extinct no later than the end of the 10th century.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Most people accept that the Ritsuryo system became extinct no later than the end of the 10th century.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="155">
+<j>律令制に基づく律令国家から請負統治に依拠する王朝国家（前期王朝国家）へ転換したとする見解が広範な支持を得ている。</j>
+<e type="trans" ver="1">It is widely supported that the nation based on the Ritsuryo system was changed into the imperial court state (the first half of the imperial court state) based on the government by undertaking ruler.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is widely maintained that the Ritsuryo-based state changed into an imperial court state (the earlier imperial court state) that relied on a form of contracted out government.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">It is widely maintained that the Ritsuryo-based state changed into an Imperial Court state (the earlier Imperial Court state) that relied on a form of contracted out government.</e>
+<cmt>Imperial Courtに訂正しました。</cmt>
+</sen>
+<sen id="156">
+<j>ただし、律令制の死滅は、律令もしくは律令法の死滅を必ずしも意味していないので、律令の名目上の完全な終焉時期も重要であるが、制度としての律令制が崩壊したことに注意する必要がある。</j>
+<e type="trans" ver="1">The extinction of the Ritsuryo system does not necessarily mean the extinction of the Ritsuryo codes and the Ritsuryo law; it should be noted that it was the collapse of the system based on Ritsuryo, although it is also important when the Ritsuryo law was nominally terminated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The extinction of the Ritsuryo system does not necessarily mean the extinction of the Ritsuryo codes or Ritsuryo law and, although the time when the Ritsuryo ceased to exist in name is also important, it should be noted that it was the system based on the Ritsuryo that collapsed.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The extinction of the Ritsuryo system does not necessarily mean the extinction of the Ritsuryo codes or Ritsuryo law and, although the time when the Ritsuryo ceased to exist in name is also important, it should be noted that it was the system based on the Ritsuryo that collapsed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="157">
+<j>11世紀以降も、律令の一部の条文は効力を保持していたからである。</j>
+<e type="trans" ver="1">This is because part of the provisions of the Ritsuryo law still remained effective after the 11th century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is because part of the provisions of the Ritsuryo still remained effective after the 11th century.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This is because part of the provisions of the Ritsuryo still remained effective after the 11th century.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="158">
+<j>そして、後醍醐天皇の建武の新政のように、律令制への回帰を求める動きも少なからず何度も出現していた。</j>
+<e type="trans" ver="1">In fact, there were several movements toward revival of the Ritsuryo system like the Kenmu Restoration of Emperor Godaigo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In fact, there were several movements toward revival of the Ritsuryo system, such as the Kenmu Restoration of Emperor Go-daigo.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In fact, there were several movements toward revival of the Ritsuryo system, such as the Kenmu Restoration of Emperor Godaigo.</e>
+<cmt>Godaigoに訂正しました。</cmt>
+</sen>
+<sen id="159">
+<j>しかしながら、律令制の根幹を成す王土王民思想や一君万民思想は武家政治の根幹を成す封建制とは相容れない存在であり、建武の新政は謂わば時代遅れの政治体制であったことは否めなくなっていた。</j>
+<e type="trans" ver="1">But these thoughts of odo omin and ikkun banmin, which were the basis of the Ritsuryo system, are incompatible with the feudal system, which was the basis of the samurai government; therefore, it could not be denied that the Kenmu Restoration was outdated political system in a sense.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the concepts of odo omin and ikkun banmin, which were the basis of the Ritsuryo system, were incompatible with the feudal system, which was the basis of the samurai government and therefore it could not be denied that the Kenmu Restoration was, in a sense, an outdated political system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">However, the concepts of odo omin and ikkun banmin, which were the basis of the Ritsuryo system, were incompatible with the feudal system, which was the basis of the samurai government and therefore it could not be denied that the Kenmu Restoration was, in a sense, an outdated political system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="160">
+<j>興味深い事に、律令の中には明治維新まで有効とされていたものもある。</j>
+<e type="trans" ver="1">Interestingly enough, some of the Ritsuryo law remained effective until the Meiji Restoration.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Interestingly enough, some of the Ritsuryo remained effective until the Meiji Restoration.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Interestingly enough, some of the Ritsuryo remained effective until the Meiji Restoration.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="161">
+<j>例として太政官制があり、1885年（明治18年）に廃止されるまで続いた。</j>
+<e type="trans" ver="1">As an example, the System of Departments of State remained until 1885 when it was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One example is the of Departments of State system, which continued until it was abolished in 1885.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">One example is Dajokan system (the Departments of State system), which continued until it was abolished in 1885.</e>
+<cmt>Dajokan system補足しました。説明訳を括弧に入れました。不要なofを削除しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>制度</j>
+<e type="trans" ver="1">System</e>
+<cmt></cmt>
+<e type="trans" ver="2">System</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">System</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="8">
+<tit>
+<j>天皇</j>
+<e type="trans" ver="1">Emperor</e>
+<cmt></cmt>
+<e type="trans" ver="2">Emperor</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Emperor</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="162">
+<j>現存する養老律令には、天皇を規定する条文がない（大宝律令も同様と考えられている）。</j>
+<e type="trans" ver="1">The extant Yoro ritsuryo code does not have any provision to stipulate Emperor (this is considered to have been the same for the Taiho Ritsuryo code.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The extant Yoro Ritsuryo Code does not contain any provisions regarding the Emperor (this is considered to have been the same for the Taiho Ritsuryo Code).</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The extant Yoro Ritsuryo Code does not contain any provisions regarding the Emperor (this is considered to have been the same for the Taiho Ritsuryo Code).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="163">
+<j>この点から、天皇の地位は律令を超越したものとされている。</j>
+<e type="trans" ver="1">These facts show that the status of the emperor was considered to transcend the Ritsuryo law.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This shows that the status of the emperor was considered to transcend the Ritsuryo.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This shows that the status of the emperor was considered to transcend the Ritsuryo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="164">
+<j>ただし、天皇が発する命令やその手続きについては、律令に規定があり、天皇の行為は律令の制約を受けていた。</j>
+<e type="trans" ver="1">But the Ritsuryo system stipulated the Imperial edicts and treatment of the edicts, which means the acts of the emperor were limited by the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">But the Ritsuryo system contained regulations concerning Imperial edicts and their handling, meaning the emperor&apos;s conduct was in fact restricted.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">But the Ritsuryo system contained regulations concerning Imperial edicts and their handling, meaning the emperor&apos;s conduct was in fact restricted.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="165">
+<j>更に唐制のように天皇が三省六部に相当する諸機関（二官八省）を直接統括しておらず、太政官が間に入る形となったために、太政官によってその権限が制約されていた。</j>
+<e type="trans" ver="1">Further, since the Grand Council of State intervened between the emperor and the organizations corresponding to the Three Departments and Six Ministries in the Ritsuryo system in the Tang Dynasty, i.e., Two Departments and Eight Ministries, instead of the emperor directly rule the organizations, the authority of the emperor was limited by the Grand Council of State.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, unlike the Tang system, the emperor had no direct control over those organizations that corresponded to the Tang&apos;s Three Departments and Six Ministries (i.e., the Two Departments and Eight Ministries), since the Grand Council of State existed between them, which meant the emperor&apos;s authority was limited by the Grand Council of State.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Moreover, unlike the Tang system, the emperor had no direct control over those organizations that corresponded to the Tang&apos;s Three Departments and Six Ministries (i.e., the Two Departments and Eight Ministries), since the Grand Council of State existed between them, which meant the emperor&apos;s authority was limited by the Grand Council of State.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="166">
+<j>また、皇位を生前譲位した者は太上天皇（上皇ともいう）と規定されていたが、これは中国律令にない独自の地位である。</j>
+<e type="trans" ver="1">The Ritsuryo system stipulated the status of the retired emperor who abdicated the throne in favor of his successor as Daijo emperor (or Joko,) which was the original status in the Japanese Ritsuryo system and not seen in the Chinese Ritsuryo systems.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ritsuryo system also stipulated that an emperor who abdicated while still alive was to be the Daijo Emperor (or Joko), which was an original aspect of the Japanese Ritsuryo system and not seen in the Chinese one.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Ritsuryo system also stipulated that an emperor who abdicated while still alive was to be the Daijo Emperor (or Joko [the Retired Emperor]), which was an original aspect of the Japanese Ritsuryo system and not seen in the Chinese one.</e>
+<cmt>上皇→the Retired Emperor</cmt>
+</sen>
+<sen id="167">
+<j>律令上、太上天皇を天皇と同等の地位と解釈することが通例とされており、実際には太上天皇が天皇よりも上位とされることも多かった。</j>
+<e type="trans" ver="1">In the Ritsuryo system, it was generally accepted that the status of the Daijo emperor was equal to the status of the reigning emperor; but in fact, the Daijo emperor was often placed higher than the reigning emperor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under the Ritsuryo system, it was generally accepted that the status of the Daijo emperor was equal to that of the reigning emperor, although in fact, the Daijo emperor was often ranked higher than the reigning emperor.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Under the Ritsuryo system, it was generally accepted that the status of the Daijo emperor was equal to that of the reigning emperor, although in fact, the Daijo emperor was often ranked higher than the reigning emperor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="168">
+<j>例えば、奈良時代の聖武天皇は、実質的に孝謙天皇よりも上位者とされていたし、平安後期に始まる院政も同様である。</j>
+<e type="trans" ver="1">For example, Emperor Shomu in the Nara period was taken higher than Empress Koken, and it was the same in the cloister government started at the end of the Heian period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For example, in the Nara period, Emperor Shomu was ranked higher than Empress Koken, and it was the same in the cloistered governments that started at the end of the Heian period.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">For example, in the Nara period, Emperor Shomu was ranked higher than Empress Koken, and it was the same in the cloistered governments that started at the end of the Heian period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="169">
+<j>詳しくは天皇、太上天皇の項を参照。</j>
+<e type="trans" ver="1">For further details, see the section &apos;Emperor&apos; and &apos;Retired emperor.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">For further details, see the sections &apos;Emperor&apos; and &apos;Retired emperor.&apos;</e>
+<cmt>Plural</cmt>
+<e type="check" ver="1">For further details, see the sections &apos;Emperor&apos; and &apos;Retired Emperor.&apos;</e>
+<cmt>Emperor大文字にしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>統治機構</j>
+<e type="trans" ver="1">Government Organization</e>
+<cmt></cmt>
+<e type="trans" ver="2">Government Organization</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Government Organization</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="170">
+<j>律令に定める統治機構は、祭祀を所管する神祇官と、政務一般を統括する太政官の二官に大きく分けられていた。</j>
+<e type="trans" ver="1">The government organization stipulated in the Ritsuryo law was largely divided into two departments: the department of worship responsible for shinto ceremonies, and the Council of State responsible for general political affairs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The structure of government established under the Ritsuryo was largely divided into two departments, the Department of Worship, responsible for religious affairs, and the Council of State, responsible for general political affairs.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The structure of government established under the Ritsuryo was largely divided into two departments, the Department of Worship, responsible for religious affairs, and the Council of State, responsible for general political affairs.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="171">
+<j>中国律令では、祭祀所管庁が通常の官庁と同列に置かれていたが、日本律令は、神祇官を置くことで祭祀と政務を明確に分離した。</j>
+<e type="trans" ver="1">In the Chinese Ritsuryo laws, the agency responsible for religious services was placed in the same category with the agencies responsible for general affairs; in the Japanese Ritsuryo system, the religious services and the political affairs were clearly separated by the department of worship.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Chinese Ritsuryo, the agency responsible for religious services was placed in the same category with the agencies responsible for general affairs, but in the Japanese system, the creation of the Department of Worship clearly separated religious and political affairs.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In the Chinese Ritsuryo, the agency responsible for religious services was placed in the same category with the agencies responsible for general affairs, but in the Japanese system, the creation of the Department of Worship clearly separated religious and political affairs.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="172">
+<j>太政官の下には、実際の行政を担当する八省が置かれ、更に各省の下に個々の事務を分掌する職・寮・司・所などの諸官庁が置かれた。</j>
+<e type="trans" ver="1">Under the Council of State, eight ministries were placed for taking charge of the real administration, and under the ministries, agencies including shiki, ryo, tsukasa, and tokoro were placed for dividing official works of the respective ministers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under the Council of State, eight ministries were placed in charge of actual administration, and in each ministry, the work was divided between agencies known as shiki, ryo, tsukasa, and tokoro.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Under the Council of State, eight ministries were placed in charge of actual administration, and in each ministry, the work was divided between agencies known as shiki, ryo, tsukasa, and tokoro.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="173">
+<j>この機構を総称して二官八省という。</j>
+<e type="trans" ver="1">All of these organizations are collectively called the two departments and eight ministers.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All of these organizations are collectively called the Two Departments and Eight Ministries.</e>
+<cmt>Capital Letters</cmt>
+<e type="check" ver="1">All of these organizations are collectively called the Two Departments and Eight Ministries.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="174">
+<j>太政官は、国政の意思決定を行う最も重要な機関であり、太政大臣・左大臣・右大臣・大納言（後に中納言・参議が加わる）による議政官組織とそれを実務面で補佐する少納言・左右弁官局・外記局から構成されていた。</j>
+<e type="trans" ver="1">The Council of State was the most important decision-making organization of the government consisting of: the legislature organizations of the Grand Minister, the Minister of Left, the Minister of Right, and the Major Counselor (later, the Middle Counselor and the Councilor are added); and the organizations underneath of the Lesser Counselor, the left Controllers&apos; Office and the right Controllers&apos; Office, and the Secretaries&apos; Office for assisting the legislature organizations on the practical business.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Council of State was the most important decision-making organization of the government and consisted of a legislative department composed of the Grand Minister, the Minister of the Left, the Minister of the Right, and the Major Counselor (later, the Middle Counselor and the Councilor were added), and the departments that assisted them in their work, the Lesser Counselor, the Left and Right Controllers&apos; Offices, and the Secretaries&apos; Office.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Daijokan (Council of State) was the most important decision-making organization of the government and consisted of a legislative department composed of the Daijo Daijin (Grand Minister), Sadaijin (the Minister of the Left), Udaijin (the Minister of the Right), and Dainagon (the Major Counselorof the state) (later, Chinagon [vice-councilor of state］ and Sangi [minister] were added), and the departments that assisted them in their work, Shonagon (lesser councilor of state), the Left and Right Benkan&apos;s (Controller) Offices, and the Gekikyoku&apos;s (Secretarie) Office.</e>
+<cmt>読みを補足し、説明訳を括弧に入れました。括弧内括弧を［］に訂正しました。(vice-councilor of state)説明訂正しました。Daijokanに訂正しました。少納言 = Shonagon (lesser councilor of state)弁官→Benkan外記局→Gekikyoku</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="175">
+<j>議政官は政務の重要な案件を審議し、最終的な裁可は天皇が行うとされていた。</j>
+<e type="trans" ver="1">It was stipulated that the legislature discussed important matters of the political affairs and these matters were to be finally sanctioned by the emperor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The legislative department deliberated on the most important government matters before they were sanctioned by the emperor.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Giseikan (legislative department) deliberated on the most important government matters before they were sanctioned by the emperor.</e>
+<cmt>議政官→Giseikanに訂正し、説明訳を括弧に入れました。</cmt>
+</sen>
+<sen id="176">
+<j>重要でない案件の場合は、議政官の審議のみとされた。</j>
+<e type="trans" ver="1">It wa also stipulated that less important matters were only discussed by the legislatures.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Less important matters were discussed by the legislative department only.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Less important matters were discussed by the giseikan only.</e>
+<cmt>議政官→Giseikanに訂正しました。</cmt>
+</sen>
+<sen id="177">
+<j>このように議政官の任務は非常に重要であり、実質的に国政の意思決定を左右する組織であった。</j>
+<e type="trans" ver="1">As such, the legislature had very important duties and was the organization that virtually controlled the decision-making of political affairs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As such, the legislative department had very important duties and virtually controlled political decision-making.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">As such, the giseikan had very important duties and virtually controlled political decision-making.</e>
+<cmt>議政官→Giseikanに訂正しました。</cmt>
+</sen>
+<sen id="178">
+<j>天皇が裁可、もしくは議政官が審議して決裁された案件は、弁官に回付され、弁官が太政官符を作成して実行に移された。</j>
+<e type="trans" ver="1">The matters decided by the emperor&apos;s sanction or the legislature&apos;s discussion were sent to the Controllers who drew up the official documents to be issued by the Grand Council of State, and put into practice.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Matters approved by the emperor or the sanctioned by the legislative department following its deliberations were sent to the Controllers who drew up the official documents to be issued by the Grand Council of State and put into practice.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Matters approved by the emperor or the sanctioned by the giseikan following its deliberations were sent to the benkan who drew up the official documents to be issued by the daijokan (Grand Council of State) and put into practice.</e>
+<cmt>議政官→Giseikanに訂正しました。弁官→Benkan に訂正しました、太政官→Daijokan</cmt>
+</sen>
+<sen id="179">
+<j>弁官は国政中枢の実務を担っていたため、これも重要な官職と見られていた。</j>
+<e type="trans" ver="1">Since the Controllers took charge of the practical business of the central political affairs, they were also considered to be the important post.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the Office of Controllers took charge of the practical business at the center of political affairs, it too was considered an important post.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Since the office of the benkan took charge of the practical business at the center of political affairs, it too was considered an important post.</e>
+<cmt>Benkanに訂正しました。office小文字にしました。</cmt>
+</sen>
+<sen id="180">
+<j>また、天皇が案件を提起する場合は、天皇から中務省へ命じて詔書が作成され、中務省が起案した詔書の文案は、外記局で点検を受けて天皇または弁官へ回付されており、外記局も重要な部署と認識されていた。</j>
+<e type="trans" ver="1">When the emperor proposes a motion, the emperor ordered the Ministry of Central Affairs to draw up the imperial edict, and the draft of which was checked by the Secretaries&apos; Office of the Council of State and sent to the emperor or the Controllers; therefore, the Secretaries&apos; Office of the Council of State was also considered to be the important office.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the emperor proposed a motion, he ordered the Ministry of Central Affairs to draw up an imperial edict, the draft of which was then checked by the Secretaries&apos; Office and sent to the emperor or the Office of Controllers and therefore the Secretaries&apos; Office was also considered an important office.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">When the emperor proposed a motion, he ordered the Nakatsukasasho (Ministry of Central Affairs) to draw up an imperial edict, the draft of which was then checked by the gekikyoku&apos;s office and sent to the emperor or the office of benkan and therefore the gekikyoku&apos;s office was also considered an important office.</e>
+<cmt>中務省→Nakatsukasasho、弁官→Benkan、外記局→Gekikyokuに訂正し、説明を括弧に入れました。office小文字にしました。</cmt>
+</sen>
+<sen id="181">
+<j>決裁された政策を実行するのが八省であり、左弁官と右弁官が四省ずつ担当していた。</j>
+<e type="trans" ver="1">The decided political affairs were put into practice by the eight ministries, each four of which were took in charge by the left Controllers&apos; Office and the right Controllers&apos; Office.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Approved policies were put into practice by the eight ministries, of which the Left Controllers&apos; Office and the Right Controllers&apos; Office were in charge of four each..</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Approved policies were put into practice by the eight ministries, of which the Left Benkan&apos;s Office and the Right Benkan&apos;s Office were in charge of four each..</e>
+<cmt>Benkanに訂正しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="182">
+<j>以上に見る太政官の組織形態は、唐律令のそれを大きく改変したものである。</j>
+<e type="trans" ver="1">The above-mentioned organization of the Council of State was what the corresponding organization of the Ritsuryo system of the Tang Dynasty largely adapted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The above-mentioned organization of the Council of State was adapted with many changes from the Tang Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The above-mentioned organization of the daijokan was adapted with many changes from the Tang Ritsuryo system.</e>
+<cmt>Daijokanに訂正しました。</cmt>
+</sen>
+<sen id="183">
+<j>唐律令では、国政の意思決定機構は、天子の命を受けて政策を企画立案する中書省、中書の立案を審議する門下省、門下省が同意した政策を実行する尚書省から構成されていた。</j>
+<e type="trans" ver="1">In the Ritsuryo system of the Tang Dynasty, the decision-making organization of government consisted of the Secretariat that planned and formulated policy by order of the emperor, the Chancellery that discussed the plan formulated by the Secretariat, and the Department of State Affairs that put the policy approved by the Chancellery.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Tang Ritsuryo system, the government&apos;s decision-making organization consisted of the Secretariat that planned and formulated policy by order of the emperor, the Chancellery that discussed the plan formulated by the Secretariat, and the Department of State Affairs that executed the policy approved by the Chancellery.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In the Tang Ritsuryo system, the government&apos;s decision-making organization consisted of the Secretariat that planned and formulated policy by order of the emperor, the Chancellery that discussed the plan formulated by the Secretariat, and the Department of State Affairs that executed the policy approved by the Chancellery.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="184">
+<j>このうち、中書省は天子とのつながりが強かったが、門下省は貴族層の意思を代表する機関であり、中書と門下の力が拮抗していた。</j>
+<e type="trans" ver="1">The Secretariat was closely connected with the emperor, whereas the Chancellery represented the intention of the noble class; the Secretariat rivaled with the Chancellery.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Secretariat was closely connected with the emperor, whereas the Chancellery represented the intentions of the noble class; the Secretariat competed with the Chancellery for influence.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The Secretariat was closely connected with the emperor, whereas the Chancellery represented the intentions of the noble class; the Secretariat competed with the Chancellery for influence.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="185">
+<j>日本と比較してみると、中書省が中務省、門下省が議政官、尚書省が左右弁官およびその下の八省に当たる、日本では太政官が門下・尚書の両省を兼ねて更に中書省である中務省を指揮するなど強力な権限を有し、とりわけ門下省に当たる議政官、即ち貴族層の役割が非常に大きかったことが判る。</j>
+<e type="trans" ver="1">When they are matched with the corresponding organizations in Japan, the Secretariat corresponds to the Ministry of Central Affairs, the Chancellery corresponds to the legislature, and the Department of State Affairs corresponds to the left Controllers&apos; Office and the right Controllers&apos; Office and the eight ministries under; therefore, it is understood that the Council of State had considerable influence such that it served concurrently as both of the Chancellery and the Department of State Affairs and also controls the Ministry of Central Affairs that corresponds to the Secretariat, and among others, the legislature corresponding to the Chancellery, i.e., the noble class played very important role in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When compared with Japan, the Secretariat corresponds to the Ministry of Central Affairs, the Chancellery corresponds to the legislative department, and the Department of State Affairs corresponds to the Left and Right Controllers&apos; Offices and the eight ministries under them; therefore, it is clear that the Council of State had considerable influence in that it served concurrently as both the Chancellery and the Department of State Affairs and also controlled the Ministry of Central Affairs, which corresponds to the Secretariat, and above all, the legislative department, i.e. the nobility, corresponding to the Chancellery, played a very important role in Japan.</e>
+<cmt>*Revised for clarity but I think it needs to be split in two</cmt>
+<e type="check" ver="1">When compared with Japan, the Secretariat corresponds to the Nakatsukasasho, the Chancellery corresponds to the Giseikan, and the Department of State Affairs corresponds to the Left and Right Benkan&apos;s Offices and the eight ministries under them; therefore, it is clear that the Daijokan had considerable influence in that it served concurrently as both the Chancellery and the Department of State Affairs and also controlled the Nakatsukasasho, which corresponds to the Secretariat, and above all, the Giseikan, i.e. the nobility, corresponding to the Chancellery, played a very important role in Japan.</e>
+<cmt>中務省→Nakatsukasasho、議政官→Giseikanに訂正しました。弁官→Benkan に訂正しました、太政官→Daijokan に訂正しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="186">
+<j>中央官制の詳細は日本の官制律令制（大宝律令）以後の項を参照。</j>
+<e type="trans" ver="1">For further details of the central governmental organization, see the sections of &apos;Japan&apos;s governmental organization, the Ritsuryo system (the Taiho Ritsuryo)&apos; and after.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For further details of the central governmental organization, see the section &apos;Japan&apos;s governmental organization, the Ritsuryo system (the Taiho Ritsuryo) and after&apos;.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">For further details of the central governmental organization, see the section Japan&apos;s governmental organization, the Ritsuryo system (the Taiho Ritsuryo) and after.</e>
+<cmt>原文に合せて&apos; &apos;を削除しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="187">
+<j>地方統治は、中央に近い大和国・山城国・河内国・和泉国・摂津国の五国を畿内とし、その他を七つの道（どう）に区分した。</j>
+<e type="trans" ver="1">As the local government, five provinces close to the capital, Yamato Province, Yamashiro Province, Kawachi Province, Izumi Province, and Settsu Province, were grouped into Kinai and the other provinces were divided into seven Circuits.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As for local government, the five provinces close to the capital, Yamato Province, Yamashiro Province, Kawachi Province, Izumi Province, and Settsu Province were grouped into the Kinai and the other provinces were divided into seven Circuits.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">As for local government, the five provinces close to the capital, Yamato Province, Yamashiro Province, Kawachi Province, Izumi Province, and Settsu Province were grouped into the Kinai and the other provinces were divided into seven &apos;Do&apos; (circuits).</e>
+<cmt>Do&apos; (circuits)に訂正しました。</cmt>
+</sen>
+<sen id="188">
+<j>これを五畿七道という。</j>
+<e type="trans" ver="1">They were called Five provinces and Seven circuits.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was known as the Five Provinces and Seven Circuits.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This was known as the Go-ki Shichi-do (five provinces and seven circuits).</e>
+<cmt>読みを補足しました。説明訳を小文字にし、括弧に入れました。</cmt>
+</sen>
+<sen id="189">
+<j>行政区画としては、令制国・郡・里（郷）の三層に分けて、国には国司、郡には郡司、里には里長（郷長）を置いた。</j>
+<e type="trans" ver="1">As administrative districts, the country was divided into three tiers of province, country, and village (hamlet) with a provincial governor deployed in each province, a local magistrate deployed in each country, and village chief (township head) deployed in each village.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were three tiers of administrative districts, province, county, and village (township), with a provincial governor deployed in each province, a local magistrate deployed in each county, and a village chief (township head) deployed in each village.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">There were three tiers of administrative districts, province, county, and village (township), with a provincial governor deployed in each province, a local magistrate deployed in each county, and a village chief (township head) deployed in each village.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="190">
+<j>このうち、国司には中央から派遣されたが、郡司・里長はかつての在地首長である地域の豪族層が終身官として任命され、実質上自分の支配地域を行政単位として認められていた。</j>
+<e type="trans" ver="1">The provincial governor was sent from the central government, whereas regional powerful clans, who had ruled the area, were appointed to the local magistrate or village chief for life, which virtually meant that they were approved to govern their original ruling areas as administration districts of the central government.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The provincial governor was sent from the central government, whereas the local magistrate or village chief was appointed for life from local powerful clans who had ruled the area, which virtually meant that they were approved to govern the areas they originally ruled as administrative districts of the central government.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The provincial governor was sent from the central government, whereas the local magistrate or village chief was appointed for life from local powerful clans who had ruled the area, which virtually meant that they were approved to govern the areas they originally ruled as administrative districts of the central government.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="191">
+<j>これについては、日本の律令制が、律令に基づく国家による人民支配と並行して、在地首長による氏族制的な人民支配をも内包していたとする見解がある。</j>
+<e type="trans" ver="1">For the local government system, there is a view that the Japanese Ritsuryo system included the ruling of the people by the local powerful clans in parallel with the ruling of the people by the state based on the Ritsuryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This has led to the view that the Japanese Ritsuryo system included the ruling of the people by local powerful clans in parallel with the ruling of the people by the state based on the Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This has led to the view that the Japanese Ritsuryo system included the ruling of the people by local powerful clans in parallel with the ruling of the people by the state based on the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="192">
+<j>重要な地域には特別の機関が置かれた。</j>
+<e type="trans" ver="1">In the important districts, special organizations were deployed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Special organizations were set up in important districts.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Special organizations were set up in important districts.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="193">
+<j>首都である京域を管轄する左右京職、首都の外交窓口である難波を管轄する摂津職、国家の外交窓口である西海道を管轄する大宰府である。</j>
+<e type="trans" ver="1">They were the administrative body in the capital responsible for the capital, the Kyoto area; the agency of Settsu province responsible for the capital&apos;s gateway of foreign diplomacy, Naniwa; and the government office in Kyushu region responsible for the state&apos;s gateway of foreign diplomacy, the Saikaido Road.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These were the Left and Right Capital Offices, responsible for the capital, the Kyoto area; the Settsu Office, responsible for Naniwa, the capital&apos;s gateway for foreign diplomacy; and the government&apos;s Kyushu Offices, responsible for the Saikaido Road, the state&apos;s gateway for foreign diplomacy.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">These were the Left and Right Capital Offices, responsible for the capital, the Kyoto area; the Settsu Office, responsible for Naniwa, the capital&apos;s gateway for foreign diplomacy; and the government&apos;s Kyushu Offices, responsible for the Saikaido Road, the state&apos;s gateway for foreign diplomacy.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="194">
+<j>中央と地方の情報伝達を迅速・円滑に行うために駅伝制が実施され、この駅伝制の下で、中央と国内各地を結ぶ道路網が整備されていた。</j>
+<e type="trans" ver="1">The transportation system was established for quickly and smoothly transferring information between the central government and the local governments; and based on the transportation system, the road system was developed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A transportation system was established for quickly and smoothly transferring information between the central and local governments, and based on the transportation system, a road system was developed.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">A transportation system was established for quickly and smoothly transferring information between the central and local governments, and based on the transportation system, a road system was developed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="195">
+<j>道路網は、幅員が広く長い直線区間を持つ古代日本のハイウェイであり、現代までその痕跡が残っている。</j>
+<e type="trans" ver="1">The road system was a highway in the ancient Japan with wide and long straightaways, some of which can be seen today.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The road system was a highway in ancient Japan with long, wide straight sections, some of which can be seen today.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The road system was a highway in ancient Japan with long, wide straight sections, some of which can be seen today.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="196">
+<j>地方官制の詳細は古代日本の地方官制律令制下の地方官制の項を参照。</j>
+<e type="trans" ver="1">For further details of the local governmental organization, see the section of &apos;Local government of ancient Japan: Local government under the Ritsuryo system.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">For further details on local governmental organization, see the section of &apos;Local government of ancient Japan: Local government under the Ritsuryo system.&apos;</e>
+<cmt>PrepositionArticle</cmt>
+<e type="check" ver="1">For further details on local governmental organization, see the section of &apos;Local government of ancient Japan: Local government under the Ritsuryo system.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="197">
+<j>古代日本の道路網の詳細は、日本の古代道路の項を参照。</j>
+<e type="trans" ver="1">For further details of the road system of ancient Japan, see the section of &apos;Japan&apos;s ancient roads.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">For further details on the road system of ancient Japan, see the section on &apos;Japan&apos;s ancient roads.&apos;</e>
+<cmt>Prepositions</cmt>
+<e type="check" ver="1">For further details on the road system of ancient Japan, see the section on &apos;Japan&apos;s ancient roads.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="198">
+<j>以上の統治機構に属する官僚は、それぞれ官職と位階が与えられていた。</j>
+<e type="trans" ver="1">The government officials belonged to the above-mentioned governmental organizations were appointed to government posts and ranks, respectively.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bureaucrats belonging to the above-mentioned government organizations were appointed to government posts and ranks.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Bureaucrats belonging to the above-mentioned government organizations were appointed to government posts and ranks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="199">
+<j>官職とは官庁における役職で、押し並べて官庁内では役職が四階級、即ち長官（かみ）・次官（すけ）・判官（じょう）・主典（さかん）に区分されていた。</j>
+<e type="trans" ver="1">The government post refers to the post in the governmental office, in which the post were generally divided into four classes of director, assistant director, secretary, and clerk.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Government post&apos; refers to the positions in the government office, which were generally divided into the four classes of director, assistant director, secretary, and clerk.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Government post&apos; refers to the positions in the government office, which were generally divided into the four classes of Kanikan (director), Sukekan (assistant director), Jokan (secretary), and Sakan (clerk).</e>
+<cmt>読みを補足しました。説明訳を括弧に入れました。</cmt>
+</sen>
+<sen id="200">
+<j>これを四等官制という。</j>
+<e type="trans" ver="1">These class system is called Shitokansei.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This rank system is called the Shitokansei.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This rank system is called the Shitokansei.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="201">
+<j>また、位階とは官僚の序列を表す等級である。</j>
+<e type="trans" ver="1">The rank refers to a grade representing the orders of the government officials.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rank&apos; refers to grades representing the hierarchy of government officials.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Rank&apos; refers to grades representing the hierarchy of government officials.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="202">
+<j>律令において、全ての官職は相当する位階が定められており、これを官位相当制という。</j>
+<e type="trans" ver="1">According to the road system, all the government officials were given ranks, the system of which is called the ranks of the bureaucracy system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the Ritsuryo system, all government officials were given ranks, which was known as the Kani-Soutousei system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">According to the Ritsuryo system, all government officials were given ranks, which was known as the Kani-Soutousei system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="203">
+<j>例えば、弁官局の次官である左右中弁は正五位上と定められ、正五位上の者の中から左右中弁が選任されていたのである。</j>
+<e type="trans" ver="1">For example, for the post of the middle controller of the left and right, which were the assistant director in the Controller&apos;s Office, the Senior Fifth Rank, Upper Grade was given; in turn, the middle controller of the left and right were selected from those at the Senior Fifth Rank, Upper Grade.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For example, the posts of Middle Controller of the Left and Right, which were the assistant directors of the Controller&apos;s Office, were given the Senior Fifth Rank, Upper Grade and as such, the Middle Controllers of the Left and Right were selected from those who held the Senior Fifth Rank, Upper Grade.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">For example, the Left and Right Chuben (the middle posts of benkan), which were the assistant directors of the Benkan&apos;s Office, were given the Shogoinojo (Senior Fifth Rank, Upper Grade) and as such, the Left and Right Chuben were selected from those who held the Shogoinojo.</e>
+<cmt>Benkanに訂正しました。Chuben 補足し、説明を括弧に入れました。the Left and Right Chuben (the middle posts of benkan)に訂正しました。Shogoinojoに訂正し、説明を括弧に入れました。</cmt>
+</sen>
+<sen id="204">
+<j>位階のうち五位以上の者には位田・位封・位禄・位分資人が給与されるなど多くの特権が与えられており、特別の身分階層を形成していた。</j>
+<e type="trans" ver="1">Those at the Fifth Rank or above had a lot of privileges of receiving rank fields, rank fiefs, rank stipends, and servants; therefore, they developed special hierarchy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Those at the Fifth Rank or above received a number of privileges such as being granted fields, fiefs, stipends, and servants, and developed into a special social class.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Those at the Fifth Rank or above received a number of privileges such as being granted fields, fiefs, stipends, and servants, and developed into a special social class.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="205">
+<j>これを貴族という。</j>
+<e type="trans" ver="1">Those people are called the nobles.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is called the nobility.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This is called the nobility.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="206">
+<j>詳しくは、官位、位階の項を参照。</j>
+<e type="trans" ver="1">For further details, see the sections &apos;official rank&apos; and &apos;rank.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">For further details, see the sections &apos;Official Rank&apos; and &apos;Rank.&apos;</e>
+<cmt>Capital letters</cmt>
+<e type="check" ver="1">For further details, see the sections &apos;Official Rank&apos; and &apos;Rank.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="10">
+<tit>
+<j>人民統治</j>
+<e type="trans" ver="1">Ruling of the people</e>
+<cmt></cmt>
+<e type="trans" ver="2">Governing the people</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Governing the people</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="207">
+<j>日本の律令制においては、人民統治の基盤として、古代の戸籍制度（世帯＝戸ごとに人民を詳細に記載登録したもの）と計帳（調・庸の税を徴収するための台帳）が作成され、毎年更新されていた。</j>
+<e type="trans" ver="1">According to the Japanese Ritsuryo system, as a basis for ruling of the people, the ancient family register system (detailed records of the people registered for each household) and yearly tax records (the original register for collecting taxes of tributes and tax in kind) were created and updated every year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the Japanese Ritsuryo system, government of the people was based on the creation of the ancient family register system (detailed records of the people registered for each household) and yearly tax records (a register for collecting taxes of tributes and tax in kind), which were updated every year.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">According to the Japanese Ritsuryo system, government of the people was based on the creation of the ancient family register system (detailed records of the people registered for each household) and yearly tax records (a register for collecting taxes of tributes and tax in kind), which were updated every year.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="208">
+<j>国は、戸籍を基にして、一定の資格を持つ者に対し一律に同じ面積の田を口分田として班給し、その者が死ねば口分田を収公していた。</j>
+<e type="trans" ver="1">The national government uniformly allotted the paddy field of the same area as a sustenance rice field to the people who met certain requirements for that, based on the family register, and if the person died, confiscated the allotted fields.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The national government uniformly allotted rice fields of the same area, known as &apos;kubunden,&apos; to people who met certain requirements, based on the family register, and when the person died, confiscated the allotted fields.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The national government uniformly allotted rice fields of the same area, known as &apos;kubunden,&apos; to people who met certain requirements, based on the family register, and when the person died, confiscated the allotted fields.</e>
+<cmt>不要なスペースを削除しました。</cmt>
+</sen>
+<sen id="209">
+<j>これを班田収授制や班田制という。</j>
+<e type="trans" ver="1">That system is called the rice field allotment system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This system is called the rice field allotment system.</e>
+<cmt>Demonstrative</cmt>
+<e type="check" ver="1">This system is called the rice field allotment system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="210">
+<j>律令では、口分田は公地ではなく私地と規定されていた（これにより従来の公地公民の概念は否定されつつある）。</j>
+<e type="trans" ver="1">In the Ritsuryo system, the sustenance rice field was defined as a private land, not a public land (With this fact, the conventional concept of the national controlling system of land and people are being denied.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under the Ritsuryo system, kubunden were defined as private land, not public land (a fact that repudiated the existing concept of state ownership of both land and people).</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Under the Ritsuryo system, kubunden were defined as private land, not public land (a fact that repudiated the existing concept of state ownership of both land and people).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="211">
+<j>口分田の他の田には、五位以上の者へ班給された位田、天皇から特別に与えられた賜田、特に功績を残した者に与えられた功田、官職に応じて班給された職田、仏教寺院の維持運営にあてられた寺田、神社の維持運営にあてられた神田、以上の班給の残りの乗田があった。</j>
+<e type="trans" ver="1">The fields other than the sustenance rice fields were, the fields that were given to those at the Fifth Rank or above, the fields particularly given by the emperor, the fields given to those who did meritorious deeds for the state, the fields allotted according to the government post, the field given to temples for maintaining and operating the temples, the fields given to shrines for maintaining and operating the shrines, and the fields rest of all the above-mentioned fields.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Types of field other than kubunden were fields given to those at the Fifth Rank or above, fields given specially by the emperor, fields given to those who did meritorious deeds for the state, fields allotted according to government post, fields given to temples for maintenance and operation costs, fields given to shrines for maintenance and operation costs, and fields left over after allotment of the above.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Types of field other than kubunden were fields given to those at the Fifth Rank or above, fields given specially by the emperor, fields given to those who did meritorious deeds for the state, fields allotted according to government post, fields given to temples for maintenance and operation costs, fields given to shrines for maintenance and operation costs, and fields left over after allotment of the above.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="212">
+<j>また、宅地と園地も班給の対象とされたが、収公はされず、自由に売買できた。</j>
+<e type="trans" ver="1">Residential lands and parks were also allotted but not confiscated, and allowed to be sold and bought on the discretion of the owner.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Residential land and parks were also allotted but not confiscated, and selling and buying at the owner&apos;s discretion were permitted.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Residential land and parks were also allotted but not confiscated, and selling and buying at the owner&apos;s discretion were permitted.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="213">
+<j>田地の班給を受けた者は、原則として租庸調を納税する義務を負ったが、中には納付義務が免除される田地もあった。</j>
+<e type="trans" ver="1">Those who were allotted rice fields had duties to pay the land tax, tax in kind, and tributes, but some of them were exempted from the duties.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Generally, those who were allotted rice fields were required to pay land tax, tax in kind, and tributes, although some of people were exempted.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Generally, those who were allotted rice fields were required to pay land tax, tax in kind, and tributes, although some of people were exempted.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="214">
+<j>田租の賦課対象となる田地を輸租田といい、田租が免除された田地を不輸租田というが、口分田・位田・賜田・功田・郡司への職田が輸租田とされ、郡司以外の職田・寺田・神田のみが不輸租とされた。</j>
+<e type="trans" ver="1">The rice fields for which the rice tax was imposed were called Yusoden, and the rice fields for which the rice tax was exempted were called Fuyusoden; the sustenance rice fields, the fields given to those at Fifth Rank or above, the fields given by the emperor, the fields given for meritorious deeds for the state, and the fields allotted for the local magistrate were treated as Yusoden, and the fields allotted for the government posts other than the local magistrate, the fields given for temples, and the fields given for the shrines, were treated as Fuyusoden.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rice fields subject to rice tax were called Yusoden, and rice fields exempt from rice tax were called Fuyusoden; kubunden, fields given to those at Fifth Rank or above, fields given by the emperor, fields given for meritorious deeds for the state, and fields given to local magistrates were treated as Yusoden, and fields allotted to government posts other than local magistrate, fields given to temples, and the fields given to shrines, were treated as Fuyusoden.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Rice fields subject to rice tax were called Yusoden, and rice fields exempt from rice tax were called Fuyusoden; kubunden, fields given to those at Fifth Rank or above, fields given by the emperor, fields given for meritorious deeds for the state, and fields given to local magistrates were treated as Yusoden, and fields allotted to government posts other than local magistrate, fields given to temples, and the fields given to shrines, were treated as Fuyusoden.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="215">
+<j>田租は国衙に納付され、国衙行政の財源となった。</j>
+<e type="trans" ver="1">The rice tax was paid to the provincial government office for the financial resource of the administration of the provincial government office.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The rice tax was paid to provincial government offices to provide financial resources for administration.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The rice tax was paid to provincial government offices to provide financial resources for administration.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="216">
+<j>当時、出挙という貸借制度があったが、国司や郡司は田租の稲を半ば強制的に百姓へ貸し付けて、利子の稲を得ていた。</j>
+<e type="trans" ver="1">In those days, there was the government loan system called suiko, whereby the provincial governor and the provincial magistrate partly forced to lend rice crop from the rice tax to the peasants and charged interest.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At that time, a government loan system called suiko existed, where provincial governors or provincial magistrates partly forced peasants to borrow rice from the rice tax and charged them interest on it.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">At that time, a government loan system called suiko existed, where provincial governors or provincial magistrates partly forced peasants to borrow rice from the rice tax and charged them interest on it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="217">
+<j>これは公出挙または正税と呼ばれ、田租と並んで地方の貴重な財源となった。</j>
+<e type="trans" ver="1">These interests were called public suiko or shozei, which were the important financial resources as the rice tax was.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This interest was called public suiko or shozei, and was as important a resources as the rice tax.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">This interest was called public suiko or shozei, and was as important a resources as the rice tax.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="218">
+<j>百姓は、田租以外にも調・庸などを負担する義務が課せられていた。</j>
+<e type="trans" ver="1">The peasants were imposed to pay the tax in kind and tributes as well as the rice tax.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The peasants were obliged to pay tax in kind and tributes as well as rice tax.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The peasants were obliged to pay tax in kind and tributes as well as rice tax.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="219">
+<j>調 (律令制)は、男性に賦課された物納税であり、絹や布、塩、紙、染料、海草、油などの地域の特産品が納められた。</j>
+<e type="trans" ver="1">The tax in kind was imposed to male peasants, and the local specialties including silk, cloth, salt, paper, dye, seaweed, and oil were paid for that.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The tax in kind was imposed on male peasants, and paid with local specialties including silk, cloth, salt, paper, dye, seaweed, and oil.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The tax in kind was imposed on male peasants, and paid with local specialties including silk, cloth, salt, paper, dye, seaweed, and oil.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="220">
+<j>調は中央の財源であり、直接、宮都に納付することとされていた。</j>
+<e type="trans" ver="1">The tax in kind was directly paid to the capital to be the financial resources for the central government.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The tax in kind was paid directly to the capital to provide financial resources for the central government.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The tax in kind was paid directly to the capital to provide financial resources for the central government.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="221">
+<j>そのため、百姓の中から運搬する者（運脚という）が選ばれ、都まで運送していった。</j>
+<e type="trans" ver="1">For that purpose, laborers to deliver the taxes to the capital Kyoto were selected from the peasants.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For that purpose, laborers were selected from among the peasants to deliver the taxes to the capital, Kyoto.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">For that purpose, laborers were selected from among the peasants to deliver the taxes to the capital, Kyoto.</e>
+<cmt>、をコンマに訂正しました。peasants to半角にしました。</cmt>
+</sen>
+<sen id="222">
+<j>この時期に、初源的な運送業が発生していたとする見解もある。</j>
+<e type="trans" ver="1">There is a view that the transport industry primarily started in this period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a view that the prototype transportation industry started in this period.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">There is a view that the prototype transportation industry started in this period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="223">
+<j>庸は、元来、都での労役に従事することだったが、その代替として布、米、塩などを中央へ納付する内容となっていた。</j>
+<e type="trans" ver="1">The tributes were originally paid as labor to be engaged in the capital, but they were substituted by cloth, rice, salt and the like.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The tributes were originally paid as labor to be carried out in the capital, but were later substituted with cloth, rice, salt and the like.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The tributes were originally paid as labor to be carried out in the capital, but were later substituted with cloth, rice, salt and the like.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="224">
+<j>雑徭は、国司の命に従って、国内の土木工事や政府機関での雑用に従事する労役義務である。</j>
+<e type="trans" ver="1">The irregular corvee was the labor duties to be engaged in public works in the province and miscellaneous affairs at the government organizations by order of the provincial governor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The irregular corvee was labor carried out on public works or miscellaneous work at government offices within a province and ordered by the provincial governor.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The irregular corvee was labor carried out on public works or miscellaneous work at government offices within a province and ordered by the provincial governor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="225">
+<j>中国では雑徭とは別に差科と呼ばれる労役義務が存在しており、差科に対する雑徭の位置付けについては諸説がある。</j>
+<e type="trans" ver="1">In China, there was labor duty called &apos;saka&apos; other than irregular corvee, and there are various opinion about the relationship between the saka and the irregular corvee.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In China, there was a labor obligation called &apos;saka,&apos; separate from the irregular corvee, and there are various opinions about the relationship between the saka and the irregular corvee.</e>
+<cmt>*Unsure of the Chinese pronunciation of &quot;差科&quot;</cmt>
+<e type="check" ver="1">In China, there was a labor obligation called &apos;saka,&apos; separate from the irregular corvee, and there are various opinions about the relationship between the saka and the irregular corvee.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="226">
+<j>また、労役には仕丁と雇役と呼ばれるものもあった。</j>
+<e type="trans" ver="1">The labor duty was divided into &apos;jicho&apos; and &apos;koeki.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The labor was divided into &apos;jicho&apos; and &apos;koeki.&apos;</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The labor was divided into &apos;jicho&apos; and &apos;koeki.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="227">
+<j>（詳細はそれぞれの項目を参照のこと）</j>
+<e type="trans" ver="1">(For further details, see each section.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(For further details, see each relevant section.)</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">(For further details, see each relevant section.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="228">
+<j>以上の租税負担のほか、百姓は兵役の義務も負っていた。</j>
+<e type="trans" ver="1">The peasants had duties of military services other than the above-mentioned tax duties.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The peasants were also required to perform military services in addition to the above-mentioned tax requirements.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The peasants were also required to perform military services in addition to the above-mentioned tax requirements.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="229">
+<j>律令制における軍事制度の基本は軍団 (古代日本)制だった。</j>
+<e type="trans" ver="1">The military system in the Ritsuryo system was based on the military service (ancient Japan.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The military system in the Ritsuryo system was based on the &apos;gundan&apos; military service.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The military system in the Ritsuryo system was based on the &apos;gundan&apos; military service.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="230">
+<j>成年男性の中から徴兵され、3～4郡ごとに置かれた軍団に兵士として配属された。</j>
+<e type="trans" ver="1">Some of the adult males were conscribed and assigned to the army called &apos;gundan&apos;, which was deployed for three to four counties.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Soldiers were conscripted from the adult male population and assigned to &apos;gundan&apos; (army corps), which were deployed every three to four counties.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Soldiers were conscripted from the adult male population and assigned to &apos;gundan&apos; (army corps), which were deployed every three to four counties.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="231">
+<j>軍団で訓練を受けた兵士は、中央たる畿内へ配転されて衛士として1年間、王城周辺の警備に当たった。</j>
+<e type="trans" ver="1">The soldiers trained in gundan were transferred to the central region Kinai, and served as guards called &apos;eshi&apos; in the area around palace for one year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After training in the gundan, soldiers were transferred to the central Kinai region and served as guards called &apos;eshi&apos; in the area around palace for one year.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">After training in the gundan, soldiers were transferred to the central Kinai region and served as guards called &apos;eshi&apos; in the area around palace for one year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="232">
+<j>また、関東の兵士は、北九州に防人として3年間配属され、沿岸防備などに従事した。</j>
+<e type="trans" ver="1">The soldiers from the Kanto region were deployed in northern Kyushu as coast guards for three years for the border defense at coasts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Soldiers from the Kanto region were deployed for three years as guards in northern Kyushu to defend the coast.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Soldiers from the Kanto region were deployed for three years as guards in northern Kyushu to defend the coast.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="233">
+<j>班田制の詳細については、班田収授法の項を参照。</j>
+<e type="trans" ver="1">For further details of the rice field allotment system, see the section of &apos;rice field allotment system.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">For further details on the rice field allotment system, see the section &apos;rice field allotment system.&apos;</e>
+<cmt>Prepositions</cmt>
+<e type="check" ver="1">For further details on the rice field allotment system, see the section &apos;rice field allotment system.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="234">
+<j>戸籍・計帳の詳細については、古代の戸籍制度の項を参照。</j>
+<e type="trans" ver="1">For further details of family register and yearly tax records, see the section of &apos;ancient family register system.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">For further details on the family register and yearly tax records, see the section &apos;ancient family register system.&apos;</e>
+<cmt>PrepositionsArticle</cmt>
+<e type="check" ver="1">For further details on the family register and yearly tax records, see the section &apos;ancient family register system.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="235">
+<j>租・庸・調の詳細については、租庸調の項を参照。</j>
+<e type="trans" ver="1">For further details of the rice tax, tax in kind, and tributes, see the section of &apos;rice tax, tax in kind, and tributes.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">For further details on the rice tax, tax in kind, and tributes, see the section &apos;rice tax, tax in kind, and tributes.&apos;</e>
+<cmt>PrepositionsArticle</cmt>
+<e type="check" ver="1">For further details on the rice tax, tax in kind, and tributes, see the section &apos;rice tax, tax in kind, and tributes.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="236">
+<j>軍事制度の詳細については、軍団 (古代日本)、防人の項を参照。</j>
+<e type="trans" ver="1">For further details of the military service, see the section of &apos;military service (ancient Japan.)&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">For further details on military service, see the section &apos;military service (ancient Japan).&apos;</e>
+<cmt>PrepositionsArticle</cmt>
+<e type="check" ver="1">For further details on military service, see the section &apos;military service&apos; (ancient Japan).</e>
+<cmt>括弧の位置を訂正しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="11">
+<tit>
+<j>身分制度</j>
+<e type="trans" ver="1">Class system</e>
+<cmt></cmt>
+<e type="trans" ver="2">Class System</e>
+<cmt>Capital letter</cmt>
+<e type="check" ver="1">Class System</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="237">
+<j>日本の律令制における身分は、良民と賎民に大別される。</j>
+<e type="trans" ver="1">The class in the Japanese Ritsuryo system was roughly divided into citizens and lowly people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Class under the Japanese Ritsuryo system was roughly divided into &apos;ryomin&apos; (good citizens) and &apos;senmin&apos; (low citizens).</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Class under the Japanese Ritsuryo system was roughly divided into &apos;ryomin&apos; (good citizens) and &apos;senmin&apos; (low citizens).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="238">
+<j>良民は、高級官僚である貴族を初め、下級官人、一般の百姓（公民と呼ばれることもあった）、雑色人（品部・雑戸という工芸技術を持つ半自由民）があった。</j>
+<e type="trans" ver="1">The citizens included the nobles, who were high-ranking officials; low-ranking officials; general peasants, who were sometimes called public people; lower level functionaries including semi free people, who had craft skills, called &apos;shinabe&apos; and &apos;zakko.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ryomin included the nobles, who were high-ranking officials; low-ranking officials; general peasants, who were sometimes called &apos;public people&apos;; and lower level functionaries, including semi-free skilled craftsmen known as &apos;shinabe&apos; and &apos;zakko.&apos;</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The ryomin included the nobles, who were high-ranking officials; low-ranking officials; general peasants, who were sometimes called &apos;public people&apos;; and lower level functionaries, including semi-free skilled craftsmen known as &apos;shinabe&apos; and &apos;zakko.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="239">
+<j>賎民は五色の賎と言われ、陵戸（天皇・皇族の陵墓を代々守る家系）、官戸（諸官庁に属し公用に従事）、公奴婢（官有の奴隷）、家人（貴族や有力者に属し雑用に従事）、私奴婢（私有の奴隷）があった。</j>
+<e type="trans" ver="1">The lowly people were called &apos;the lowly persons of five kinds&apos; including: &apos;ryoko,&apos; the family of grave keeper of the emperor and imperial families for generations; &apos;kanko,&apos; the people belonged to government offices for public affairs; &apos;kunui,&apos; the servants owned by the government offices; &apos;kenin,&apos; the people belonged to the nobles or influential persons and engaged in miscellaneous affairs; and &apos;shinui,&apos; the personal servants.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The senmin were known as &apos;the five lowly kinds&apos;, which were &apos;ryoko,&apos; families of the keepers of imperial tombs; &apos;kanko,&apos; servants belonging to government offices and involved in government work; &apos;kunui,&apos; government-owned slaves; &apos;kenin,&apos; slaves owned by nobles or powerful people for odd jobs; and &apos;shinui,&apos; private servants.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The senmin were known as &apos;the five lowly kinds,&apos; which were &apos;ryoko,&apos; families of the keepers of imperial tombs; &apos;kanko,&apos; servants belonging to government offices and involved in government work; &apos;kunui,&apos; government-owned slaves; &apos;kenin,&apos; slaves owned by nobles or powerful people for odd jobs; and &apos;shinui,&apos; private servants.</e>
+<cmt>コンマの位置を訂正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="240">
+<j>賎民のうち、公奴婢と私奴婢は売買の対象とされるなど、奴隷として位置づけられていた。</j>
+<e type="trans" ver="1">Among the lowly people, kunui and shinui were treated as slaves such as object of purchase.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Among the senmin, kunui and shinui were treated as slaves and could be bought and sold.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Among the senmin, kunui and shinui were treated as slaves and could be bought and sold.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="241">
+<j>このように、律令制下では奴隷制が存在していた。</j>
+<e type="trans" ver="1">As such, under the Ritsuryo system, there was slavery.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As such, slavery existed under the Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">As such, slavery existed under the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="12">
+<tit>
+<j>評価</j>
+<e type="trans" ver="1">Evaluation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Evaluation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Evaluation</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="242">
+<j>律令制の確立を以って、古代日本の国家建設がひとまず完了したと考えられている。</j>
+<e type="trans" ver="1">It is considered that the state of ancient Japan had been constructed when the Ritsuryo system was established.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is considered that the formation of the ancient Japanese state was completed with the establishment of the Ritsuryo system.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">It is considered that the formation of the ancient Japanese state was completed with the establishment of the Ritsuryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="243">
+<j>ただし、その国家建設は内発的なものではなく、唐を中心とする東アジアの国際関係の緊張を背景とする外発的な要因を主としていた。</j>
+<e type="trans" ver="1">The construction of the state was mainly started by external factors of international tension in East Asia including the Tang Dynasty, instead of spontaneously.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The construction of the state was not triggered internally, but chiefly by external factor of tension in East Asian international relations, mainly with the Tang Dynasty.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The construction of the state was not triggered internally, but chiefly by external factor of tension in East Asian international relations, mainly with the Tang Dynasty.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="244">
+<j>そのため、国家建設の基盤となった律令制も、中国から移入されたものであり、日本独自の改変も多々あるが、基本的には中国の制度を日本で再現しようとする試みであった。</j>
+<e type="trans" ver="1">That was the reason why the Ritsuryo system, the basis of construction of the state, was introduced from China to basically attempt to reproduce the Chinese system in Japan, although Japan added a lot of original amendments to that.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For this reason, the Ritsuryo system, on which the construction of the state was based, was introduced from China basically to attempt to reproduce the Chinese system in Japan, although Japan added a lot its own original amendments.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">For this reason, the Ritsuryo system, on which the construction of the state was based, was introduced from China basically to attempt to reproduce the Chinese system in Japan, although Japan added a lot its own original amendments.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="245">
+<j>日本の律令制については、天皇による独断的な政治体制とする見解と、畿内の貴族らによる貴族共和的な政治体制とする見解が対立していた。</j>
+<e type="trans" ver="1">There were two opposite opinion about the Japanese Ritsuryo system that it was the political system dogmatically led by the emperor and that it was the republican political system for the nobles led by the nobles in the Kinai region.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were two opposing opinions about the Japanese Ritsuryo system; one that it was a political system led arbitrarily by the emperor and the other that it was a republican political system for the nobles led by the nobles in the Kinai region.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">There were two opposing opinions about the Japanese Ritsuryo system; one that it was a political system led arbitrarily by the emperor and the other that it was a republican political system for the nobles led by the nobles in the Kinai region.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="246">
+<j>しかし、その後、天皇と貴族が相互に依存しながら運営して行く政治体制とする見解が出され、有力となっている。</j>
+<e type="trans" ver="1">Another opinion was submitted later that it was the political system operated by the emperor and the nobles based on mutual dependence, which is now considered a likely opinion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the most popular view now is that it was a political system operated by the emperor and the nobles based on mutual dependence.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">However, the most popular view now is that it was a political system operated by the emperor and the nobles based on mutual dependence.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="247">
+<j>日本の律令制社会は、戦前から戦後のある時期にかけて、奴隷が存在する点から奴隷制社会と目されていた。</j>
+<e type="trans" ver="1">From a certain pre-war time to post-war time, it was considered that the Ritsuryo based Japanese society was based on slavery due to the existence of slaves.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From a certain period around the war, it was considered that the Ritsuryo-based Japanese society was based on slavery due to the existence of slaves.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">From a certain period around the war, it was considered that the Ritsuryo-based Japanese society was based on slavery due to the existence of slaves.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="248">
+<j>これは、人類の歴史を原始社会→奴隷制社会→農奴制社会→…と類型化したヨーロッパ的な発展史観、なかんづくカール・マルクスの唯物史観に準拠した考え方であった。</j>
+<e type="trans" ver="1">That idea complied with a historical view of European development, particularly the historical materialism by Karl Marx, that classifies the human history as the primitive society to slavery society to villeinage to …</e>
+<cmt></cmt>
+<e type="trans" ver="2">That idea complied with a historical view of European development, particularly Karl Marx&apos;s historical materialism, that classifies human history as primitive society to slavery society to villenage and so on.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">That idea complied with a historical view of European development, particularly Karl MARX&apos;s historical materialism, that classifies human history as primitive society to slavery society to villeinage and so on.</e>
+<cmt>villeinagスペル訂正しました。MARX&apos;s大文字にしました。</cmt>
+</sen>
+<sen id="249">
+<j>特に、戦後の歴史学に強い影響を及ぼした唯物史観は、発展史観の度合いをさらに強め、古代アジアの社会はアジア的生産様式の中で総体的奴隷制度が行われたと考えていた。</j>
+<e type="trans" ver="1">In particular, the historical materialism, which largely influenced the Japanese post-war historical school, further advanced the historical view of development to consider that the ancient Asian society was generally based on slavery in the Asian style of production.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In particular, historical materialism, which strongly influenced the Japanese post-war historical school, further advanced the historical view of development to consider that ancient Asian society was generally based on slavery in the Asiatic mode of production.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In particular, historical materialism, which strongly influenced the Japanese post-war historical school, further advanced the historical view of development to consider that ancient Asian society was generally based on slavery in the Asiatic mode of production.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="250">
+<j>当時の日本史学界の大きなテーマは、日本の歴史をいかにヨーロッパ的史観へ当てはめていくか、というものであり、そうした観点から律令制への評価が行われていたのである。</j>
+<e type="trans" ver="1">In those days, the biggest theme of the Japanese historians was how to apply the Japanese history to the European historical view; therefore, they evaluated the Ritsuryo system from that historical point of view.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In those days, the biggest theme of Japanese historians was how to apply Japanese history to the European historical view and therefore they evaluated the Ritsuryo system from that historical point of view.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In those days, the biggest theme of Japanese historians was how to apply Japanese history to the European historical view and therefore they evaluated the Ritsuryo system from that historical point of view.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="251">
+<j>さらに、律令制に於ける人民統治の実態は単なる人民圧迫に基づいた搾取構造でしかなかった、という考えも存在している。</j>
+<e type="trans" ver="1">There is an opinion that the ruling of the people under the Ritsuryo system was simply nothing but a structure of exploitation based on oppression on the people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is an opinion that the government of the people under the Ritsuryo system was simply nothing but a structure of exploitation based on oppression on the people.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">There is an opinion that the government of the people under the Ritsuryo system was simply nothing but a structure of exploitation based on oppression on the people.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="252">
+<j>実際、人民の負担が増加傾向にあるにもかかわらず、肝心の支配層、すなわち貴族階級は贅沢を続け政治から遠ざかっていくようになる、と教えられる時期も有った。</j>
+<e type="trans" ver="1">In fact, it was taught the burden on the people increased, while the ruling class, i.e., the noble class, kept living luxuriously and had less to do with the politics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In fact, it was taught that the burden on the people increased, while the ruling class, i.e., the noble class, continued living luxuriously and had less to do with the politics.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In fact, it was taught that the burden on the people increased, while the ruling class, i.e., the noble class, continued living luxuriously and had less to do with the politics.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="253">
+<j>摂関政治が軌道に乗り出した時期であった。</j>
+<e type="trans" ver="1">That was about the period when the regency government was set on its way.</e>
+<cmt></cmt>
+<e type="trans" ver="2">That was about the time the regency government began to appear.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">That was about the time the regency government began to appear.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="254">
+<j>だが、この見解も日本の律令制社会をヨーロッパ的な発展史観に当て嵌め、欧米列強がかつて行った植民地支配の実態と重ね合わせているだけで、本末転倒な見方とする意見が現在では多くなってきている。</j>
+<e type="trans" ver="1">Recently, it is more likely to be considered that the above-mentioned view fails to properly evaluate the relative importance of the matters because it also applies the Japanese society based on the Ritsuryo system to the historical view of the European development, merely to match that Japanese society with the realities of the colonial rule once the European powers did.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Recently, the most popular current theory is that the above-mentioned view emphasizes the wrong points because it adapts Japanese society based on the Ritsuryo system to the historical view of European development, merely to match that Japanese society with the realities of the Western powers&apos; colonial rule.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Recently, the most popular current theory is that the above-mentioned view emphasizes the wrong points because it adapts Japanese society based on the Ritsuryo system to the historical view of European development, merely to match that Japanese society with the realities of the Western powers&apos; colonial rule.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="255">
+<j>実際、墾田永年私財法は荘園制を発生させ律令制を崩壊に追いやった元凶のように論じられていたが、実態は人民の生活保障のために執られた土地政策の一環で、律令を否定するどころか律令の法目的を補強するものであった事が判明している。</j>
+<e type="trans" ver="1">In fact, although it was argued that the Law Permitting Permanent Ownership of Newly Cultivated Land was like the main cause of collapsing the Ritsuryo system by having developed the manorialism, it has been proved that the law was for reinforcing the Ritsuryo system as part of the land policy, which was taken to guarantee the live of the people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In fact, although it was argued that the Law Permitting Permanent Ownership of Newly Cultivated Land was very much like the main cause of the Ritsuryo system collapse by allowing the development of the manorial system, it has been proved that the law was for reinforcing the Ritsuryo system as part of the land policy, which was undertaken to guarantee the livelihoods of the people.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">In fact, although it was argued that the Law Permitting Permanent Ownership of Newly Cultivated Land was very much like the main cause of the Ritsuryo system collapse by allowing the development of the manorial system, it has been proved that the law was for reinforcing the Ritsuryo system as part of the land policy, which was undertaken to guarantee the livelihoods of the people.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="256">
+<j>また、防人制も人民負担の軽減から健児制に取って代わられ、農民徴用も九州地方出身者のみに限定している。</j>
+<e type="trans" ver="1">The system where soldiers garrisoned at strategic posts in Kyushu was replaced by the system of the military service of the ritsuryo system for the purpose of lightening the burden on the people, and only the peasants from northern Kyushu were conscribed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The system where soldiers were garrisoned at strategic posts in Kyushu was replaced with the &apos;kondei&apos; system of military service for the purpose of lightening the burden on the people, and only peasants from northern Kyushu were conscripted.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">The system where soldiers were garrisoned at strategic posts in Kyushu was replaced with the &apos;kondei&apos; system of military service for the purpose of lightening the burden on the people, and only peasants from northern Kyushu were conscripted.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="257">
+<j>律令制社会の実態を観察すると、本質的な奴隷身分は奴婢などの賎民に限られており、社会全体に奴隷制が存在していなかったことが明らかになっている。</j>
+<e type="trans" ver="1">By studying the reality of the society based on the Ritsuryo system, it has become apparent that the slavery did not generally exist in the society because the essential slave class was limited to the lowly people including &apos;nui.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">By studying the reality of the society based on the Ritsuryo system, it has become apparent that slavery did not generally exist in society because the essential slave class was limited to the nui and other senmin.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">By studying the reality of the society based on the Ritsuryo system, it has become apparent that slavery did not generally exist in society because the essential slave class was limited to the nui and other senmin.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="258">
+<j>このことから、「律令制＝奴隷制」、「律令制＝独裁制に基づく搾取制」という考えが否定されていき、代わって百姓を隷属農民として見る隷農制という概念が提示されるようになった。</j>
+<e type="trans" ver="1">Accordingly, the idea of &apos;the Ritsuryo system = slavery&apos;, &apos;the Ritsuryo system = the exploitation system based on the dictatorship&apos; was denied and, instead, the concept of villenage that views the peasants as subordinating farmers, has been presented.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accordingly, the idea of &apos;the Ritsuryo system equals slavery&apos; or &apos;the Ritsuryo system equals a system of exploitation based on a dictatorship&apos; was refuted and, instead, the concept of villenage that views the peasants as serfs, has been suggested.</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">Accordingly, the idea of &apos;the Ritsuryo system equals slavery&apos; or &apos;the Ritsuryo system equals a system of exploitation based on a dictatorship&apos; was refuted and, instead, the concept of villeinage that views the peasants as serfs, has been suggested.</e>
+<cmt>villeinageスペル訂正しました。</cmt>
+</sen>
+<sen id="259">
+<j>こうした例に見られるように、律令制に対する評価は、徐々にヨーロッパ的な視座ではなく、東アジア的な視座からの再評価が行われるようになっている。</j>
+<e type="trans" ver="1">As seen in these examples, the Ritsuryo system has gradually been re-evaluated from the viewpoint of East Asia, instead of being evaluated from the viewpoint of Europe.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As seen in these examples, the Ritsuryo system has gradually been re-evaluated from an East Asian, rather than a European, viewpoint</e>
+<cmt>Revised for clarity</cmt>
+<e type="check" ver="1">As seen in these examples, the Ritsuryo system has gradually been re-evaluated from an East Asian, rather than a European, viewpoint</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 ドラムスコ(id:40234), Hyuuga(id:14767), Bletchingly(id:21356), 月下薄氷(id:47743), Non-stop24(id:10471), Andre Engels(id:202), 二八(id:10408), Shikire(id:1623), Extrahitz(id:26245), Tekune(id:2690), Uraios(id:72687), Kurz(id:1601), らりた(id:1327), Michey.M(id:906), 怪蘇(id:45514), Tamago915(id:11009), Shimoxx(id:9332), 李(id:10582), タケル(id:10666), Mnd(id:15140), Poe(id:16973), Izayohi(id:13095), Lonicera(id:20638), Stanislaus(id:1806), Auf(id:633), 水野白楓(id:22811), S kitahashi(id:10307), Seibuabina(id:37532), Izuamagigoe(id:17784), Memosa(id:131221), Tcyiswalk(id:7279), コータ(id:22095), ごまふあざ(id:36855), Gleam(id:4760), Sarumann(id:56190), Yonoemon(id:55450), Mooko(id:36162), Miketsukunibito(id:10208), Yukichin(id:725), ヤマト(id:8425), Junger(id:10282), 6144(id:19613), Jade0416(id:104181), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

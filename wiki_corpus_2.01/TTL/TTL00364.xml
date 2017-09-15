@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>藩医</j>
+<e type="trans" ver="1">Han-i</e>
+<cmt></cmt>
+<e type="trans" ver="2">Han-i</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Han-i</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>藩医（はんい）とは、江戸時代に藩に仕えた医師のこと。</j>
+<e type="trans" ver="1">Han-I is a physician who served the feudal domain in the Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Han-i was a doctor who served a feudal domain in the Edo period.</e>
+<cmt>過去化、冠詞変更、小文字化、doctorに変更</cmt>
+<e type="check" ver="1">Han-i was a doctor who served a feudal domain in the Edo period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>身分や職制などは各藩により異なるが、江戸幕府の奥医師・表医師と同様に藩主やその家族などを担当する医師とその他の医師に別れていた。</j>
+<e type="trans" ver="1">Although social status and job rank varied by domain, there were physicians who served the feudal lord and his family only and those who cared for others, as in the case of Edo shogunate having okui ishi (inner physicians for the Tokugawa family) and omote ishi (for others)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although social status and job ranks varied by domains, there were doctors who served only the feudal lord and his family, and those who cared for others, as in the case of Edo shogunate having okui ishi (inner doctors for the Tokugawa family) and omote ishi (for others).</e>
+<cmt>複数化、語順変更、ピリオド挿入、doctorに変更</cmt>
+<e type="check" ver="1">Although social status and job ranks varied by domains, there were doctors who served only the feudal lord and his family, and those who cared for others, as in the case of Edo shogunate having okui ishi (inner doctors for the Tokugawa family) and omote ishi (for others).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>武士としての格式を持つ世襲の士席医師と下級武士あるいは民間の出身である軽輩医師に分かれている例が多い。</j>
+<e type="trans" ver="1">Very often, physicians were separated into those holding hereditary positions in the samurai class and lower-ranking physicians who came from lower-ranking samurai or ordinary families.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In many cases, doctors were separated into those holding hereditary positions in the samurai class and lower-ranking physicians who came from lower-ranking samurai or ordinary families.</e>
+<cmt>Very oftenを変更、doctorに変更</cmt>
+<e type="check" ver="1">In many cases, doctors were separated into those holding hereditary positions in the samurai class and lower-ranking physicians who came from lower-ranking samurai or ordinary families.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>家督継承前あるいは修業中は部屋住料が与えられ、家督継承後あるいは成業後に本禄が与えられた。</j>
+<e type="trans" ver="1">Prior to taking over as family head or during apprenticeship, such a person was paid heyazumi-ryo. After completion of apprenticeship or becoming household head, salary was paid in full.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Prior to taking over a family head position or during apprenticeship, hon-i was paid heyazumi-ryo and after completing apprenticeship or becoming the family head, his salary was paid in full.</e>
+<cmt>as削除、position、冠詞追加、such a personをhon-iに変更、文に統一性を持たせ、セル分割をしないようですので、文を繋げました。</cmt>
+<e type="check" ver="1">Prior to taking over a family head position or during apprenticeship, hon-i was paid heyazumi-ryo and after completing apprenticeship or becoming the family head, his salary was paid in full.</e>
+<cmt>スペース調整</cmt>
+</sen>
+<sen id="5">
+<j>当時の医学の慣例に倣って「本道」と呼ばれた内科を担当する医師と外科をはじめ眼科・歯科・鍼灸などを一括した「雑科」に分けられていた。</j>
+<e type="trans" ver="1">In accordance to medical practices at that time, there were physicians in charge of &quot;hondo,&quot; or internal medicine, and others covering &quot;zakka&quot; encompassing all other areas of medical care, including surgery, ophthalmology, dentistry, acupuncture and moxibustion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In accordance to medical practices at that time, there were physicians in charge of &apos;hondo,&apos; or internal medicine, and others called &apos;zakka&apos; covering all other areas of medical care including surgery, ophthalmology, dentistry, acupuncture and moxibustion.</e>
+<cmt>クォーテーションマーク変更、繰り返し部分削除、コンマ削除</cmt>
+<e type="check" ver="1">In accordance to medical practices at that time, there were physicians in charge of &apos;hondo,&apos; or internal medicine, and others called &apos;zakka&apos; covering all other areas of medical care including surgery, ophthalmology, dentistry, acupuncture and moxibustion.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>藩主に近侍する侍医は士席医師のうち医業優秀な者が選ばれるのが例であったが、稀に軽輩医師や城下の町村医師が抜擢される場合もあった。</j>
+<e type="trans" ver="1">Although it was common that talented persons holding hereditary position of physician were appointed to post of physician to the lord, there were some rare cases of lower-ranking or common folk physicians appointed to serve the feudal lord.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although it was common that talented doctors in the samurai class were appointed the post of doctor for the lord, there were some rare cases of lower-ranking or folk doctors appointed to serve the feudal lord.</e>
+<cmt>文の簡略化、common削除、doctorに変更</cmt>
+<e type="check" ver="1">Although it was common that talented doctors in the samurai class were appointed the post of doctor for the lord, there were some rare cases of lower-ranking or folk doctors appointed to serve the feudal lord.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>後者を御目見医師と呼ぶ。</j>
+<e type="trans" ver="1">The latter is called the omemie-ishi (privileged physician).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The latter was called the omemie-ishi (privileged doctor).</e>
+<cmt>doctorに変更、過去化</cmt>
+<e type="check" ver="1">The latter was called the omemie-ishi (privileged doctor).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>この他に侍医が城に詰めていないときに交代で番を行って万が一に備える番医の制度があった。</j>
+<e type="trans" ver="1">There were other medical practices, such as physicians working in shifts at the castle when the physician serving the lord is away.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, there was another practice which doctors worked in shifts at the castle when the doctor serving the lord was away.</e>
+<cmt>単数化、in additionを追加、doctorに変更</cmt>
+<e type="check" ver="1">In addition, there was another practice which doctors worked in shifts at the castle when the doctor serving the lord was away.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Libertas(id:40611), 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

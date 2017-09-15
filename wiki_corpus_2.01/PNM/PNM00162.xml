@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>伊藤若冲</j>
+<e type="trans" ver="1">Jakuchu ITO</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jakuchu ITO</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Jakuchu ITO</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>伊藤 若冲（いとう じゃくちゅう、 正徳 (日本)6年2月8日 (旧暦)（1716年3月1日） - 寛政12年9月10日 (旧暦)（1800年10月27日））は、江戸時代の京の絵師。</j>
+<e type="trans" ver="1">Jakuchu ITO (March 1, 1716 (February 8, 1716 by the old calendar) - October 27, 1800 (September 10, 1800 by the old calendar)) was a painter in Kyoto during the Edo Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jakuchu ITO (March 1, 1716 [February 8, 1716 by the old calendar] - October 27, 1800 [September 10, 1800 by the old calendar]) was a painter in Kyoto during the Edo Period.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Jakuchu ITO (March 1, 1716 - October 27, 1800) was a painter in Kyoto during the Edo period.</e>
+<cmt>旧暦表示を削除し西暦のみとし、Periodの頭文字を小文字に変更</cmt>
+</sen>
+<sen id="2">
+<j>写実と想像を巧みに融合させた「奇想の画家」として曾我蕭白、長沢芦雪と並び称せられる。</j>
+<e type="trans" ver="1">He ranks with Shohaku SOGA and Rosetsu NAGASAWA as an eccentric painter who skillfully fused reality and imagination.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He ranks with Shohaku SOGA and Rosetsu NAGASAWA as an eccentric painter who skillfully fused reality and imagination.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He ranks with Shohaku SOGA and Rosetsu NAGASAWA as an &apos;eccentric painter&apos; who skillfully fused reality and imagination.</e>
+<cmt>クォーテーション追加</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>生涯</j>
+<e type="trans" ver="1">Life</e>
+<cmt></cmt>
+<e type="trans" ver="2">Life</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Biography</e>
+<cmt>統一リストの表記に修正</cmt>
+</sen>
+<sen id="4">
+<j>正徳6年（1716年）、京都・錦小路の青物問屋「枡源」の跡取り息子として生まれる。</j>
+<e type="trans" ver="1">He was born in 1716 as the heir to the wholesale greengrocer &quot;Musugen&quot; in Nishiki-koji, Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was born in 1716 as the heir to the wholesale greengrocer Musugen in Nishiki-koji, Kyoto.</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">He was born in 1716 as the heir to the wholesale greengrocer Musugen in Nishiki-koji, Kyoto.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>23歳のとき、父・源左衛門の死去に伴い、4代目枡屋（伊藤）源左衛門を襲名する。</j>
+<e type="trans" ver="1">At the age of 23, when his father died, he took his father&apos;s name Genzaemon MASUYA (Ito) and became the 4th generation owner of the family business.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the age of 23, when his father died, he took his father&apos;s name Genzaemon MASUYA (Ito) and became the 4th generation owner of the family business.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At the age of 23, when his father died, he took his father&apos;s name Genzaemon MASUYA (ITO) and became the fourth generation owner of the family business.</e>
+<cmt>Ito→ITO、4th→fourthとしました。</cmt>
+</sen>
+<sen id="6">
+<j>「若冲」の号は、禅の師であった相国寺の禅僧・大典顕常から与えられた居士号である（「居士」は、在家の仏教信者のこと）。</j>
+<e type="trans" ver="1">His pseudonym, Jakuchu, was a Koji-go, a name given to a Buddhist layman by a Zen monk, Kenjo DAITEN, of Shokoku-ji Temple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">His pseudonym, Jakuchu, was a Koji-go, a name given to a Buddhist layman by a Zen monk, Kenjo DAITEN, of Shokoku-ji Temple.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">His pseudonym, Jakuchu, was a Koji-go, a name given to a Buddhist layman by a Zen monk, Daiten Kenjo of Shokoku-ji Temple.</e>
+<cmt>Kenjo DAITEN→Daiten Kenjoとし、カンマ削除</cmt>
+</sen>
+<sen id="7">
+<j>大典の書き遺した記録『藤景和画記』によると、若冲という人物は絵を描くこと以外、世間の雑事には全く興味を示さなかったという。</j>
+<e type="trans" ver="1">According to the historical record left by Daiten &quot;Tokei Wagaenoki,&quot; Jakuchu was interested only in painting and showed no interest in public affairs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the historical record left by Daiten Tokei Wagaenoki, Jakuchu was interested only in painting and showed no interest in public affairs.</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">According to the historical record left by Daiten &quot;Tokei Wagaenoki,&quot; Jakuchu was interested only in painting and showed no interest in public affairs.</e>
+<cmt>原文に合わせ作品名にクォーテーション追加</cmt>
+</sen>
+<sen id="8">
+<j>商売には熱心でなく、芸事もせず、酒もたしなまなかった。</j>
+<e type="trans" ver="1">He was not too enthusiastic about his family business and he was not into other art forms or alcohol.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">He was not too enthusiastic about his family business and he was not into other art forms, nor alcohol.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">He was not too enthusiastic about his family business and he was not into other art forms, nor alcohol.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>生涯、妻もめとらなかった。</j>
+<e type="trans" ver="1">He never married.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">He never married.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">He never married.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>40歳の宝暦5年（1755年）には、家督をすぐ下の弟に譲ってはやばやと隠居し（当時、40歳は「初老」であった）、念願の作画三昧の日々に入った。</j>
+<e type="trans" ver="1">In 1755, when he was 40 years old, he surrendered the family business to his younger brother and retired (at the time 40 years old was considered elderly) to a life of painting.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1755, when he was 40 years old, he surrendered the family business to his younger brother and retired (at the time 40 years old was considered elderly) to a life of painting.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In 1755, when he was 40 years old, he surrendered the family business to his younger brother and retired (at the time 40 years old was considered elderly) to a life of painting.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>以後、85歳の長寿を全うするまでに多くの名作を残している。</j>
+<e type="trans" ver="1">From that time to his death at the age of 85, he created many outstanding works.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From that time to his death at the age of 85, he created many outstanding works.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">From that time to his death at the age of 85, he created many outstanding works.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="12">
+<j>作風</j>
+<e type="trans" ver="1">Art Style</e>
+<cmt></cmt>
+<e type="trans" ver="2">Art Style</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Art Style</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>「続書家人物志」（青柳文蔵）には、若冲が狩野派の画家大岡春卜に師事したとの記述があり、大典顕常による若冲の墓碑銘にも狩野派に学んだとあるが、誰かに師事したことを示す史料はない。</j>
+<e type="trans" ver="1">The &quot;Zuku Shoka Jinbutushi&quot; by Bunzo AOYAGI tells that Jakuchu studied under Shunboku OOKA, a painter of the Kano school, and Jakuchu&apos;s tombstone has an inscription by Kenjo DAITEN that says he studied at the Kano school; however, there is no historical record of him receiving training there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Zuku Shoka Jinbutushi by Bunzo AOYAGI tells that Jakuchu studied under Shunboku OOKA, a painter of the Kano school. Jakuchu&apos;s tombstone has an inscription by Kenjo DAITEN that says he studied at the Kano school; however, there is no historical record of him receiving training there.</e>
+<cmt>wording; incorrect quotation use</cmt>
+<e type="check" ver="1">The &apos;Zoku Shoka Jinbutsushi&apos; by Bunzo AOYAGI tells that Jakuchu studied under Shunboku OOKA, a painter of the Kano school. Jakuchu&apos;s tombstone has an inscription by Daiten Kenjo that says he studied at the Kano school; however, there is no historical record of him receiving training there.</e>
+<cmt>Zuku Shoka Jinbutushi→Zoku Shoka Jinbutsushiに修正、クォーテーション追加、Daiten Kenjoとしました。</cmt>
+</sen>
+<sen id="14">
+<j>現存作品の作風から狩野派の影響を探すのは困難だが、図様について、狩野派の絵本との類似点が指摘されている。</j>
+<e type="trans" ver="1">It is difficult to see the Kano school&apos;s influence in Jakuchu&apos;s works; however, the similarity between Jakuchu&apos;s designs and Kano school&apos;s picture books has been suggested.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is difficult to see the Kano school&apos;s influence in Jakuchu&apos;s works; however, the similarity between Jakuchu&apos;s designs and Kano school&apos;s picture books has been suggested.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is difficult to see the Kano school&apos;s influence in Jakuchu&apos;s works; however, the similarity between Jakuchu&apos;s designs and Kano school&apos;s picture books has been suggested.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>（なお、大岡春卜は狩野派の絵本の出版を通して、その図像・画法の普及に貢献した人物である。）</j>
+<e type="trans" ver="1">(Shuboku OOKA is a person who contributed to the spread of Kano school designs and methods through the publication of picture books created by the Kano school.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Shuboku OOKA is a person who contributed to the spread of Kano school designs and methods through the publication of picture books created by the Kano school.)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(Shuboku OOKA is a person who contributed to the spread of Kano school designs and methods through the publication of picture books created by the Kano school.)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="16">
+<j>前記の墓碑銘によると、若冲は狩野派の画法に通じた後その画法を捨て、宋元画（濃彩の花鳥画）に学び、模写に励んだとしている。</j>
+<e type="trans" ver="1">The epitaph on Jakuchu&apos;s tombstone notes that after Jakuchu learned the Kano school methods, he left to study Sogen-ga (Chinese Song and Yuan painting, with vividly painted flowers and birds), with a desire to reproduce them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The epitaph on Jakuchu&apos;s tombstone notes that after Jakuchu learned the Kano school methods, he left to study Sogen-ga (Chinese Song and Yuan painting, with vividly painted flowers and birds), with a desire to reproduce them.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The epitaph on Jakuchu&apos;s tombstone notes that after Jakuchu learned the Kano school methods, he left to study Sogen-ga (Chinese Song and Yuan painting, with vividly painted flowers and birds), with a desire to reproduce them.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>さらに、模写に厭いた若冲はその画法をも捨て、実物写生に移行したと伝える。</j>
+<e type="trans" ver="1">After he tired of reproducing Sogen-ga, he moved on to sketches of real life subjects.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After he tired of reproducing Sogen-ga, he moved on to sketches of real life subjects.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">After he tired of reproducing Sogen-ga, he moved on to sketches of real life subjects.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>実物写生への移行は、当時の本草学の流行にみられる実証主義的気運の高まりの影響も受けていると言われる。</j>
+<e type="trans" ver="1">His transition to sketches was affected by the heightened momentum for positivism, as was seen in the trend for Honzogaku (Chinese botany).</e>
+<cmt></cmt>
+<e type="trans" ver="2">His transition to sketches was affected by the heightened momentum for positivism, as was seen in the trend for Honzogaku (Chinese botany).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">His transition to sketches was affected by the heightened momentum for positivism, as was seen in the trend for Honzogaku (Chinese botany).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>また、大典顕常が読書を通じて宋代の画家の写生の実践を知り、それを若冲に伝えたとも言われる。</j>
+<e type="trans" ver="1">It is also said that Kenjo DAITEN learned about the realistic sketches of Sogen-ga through literature, which he told Jakuchu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also said that Kenjo DAITEN learned about the realistic sketches of Sogen-ga through literature, which he told Jakuchu.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is also said that Daiten Kenjo learned about the realistic sketches of Sogen-ga through literature, which he told Jakuchu.</e>
+<cmt>Daiten Kenjoとしました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="20">
+<j>作品は、山水画は少なく、濃彩の花鳥画、とくに鶏の絵を得意とした。</j>
+<e type="trans" ver="1">There are not many landscape paintings, but he painted vivid pictures of flowers and bird. His paintings of fowls show particularly outstanding work.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are not many landscape paintings, but he painted vivid pictures of flowers and birds. His paintings of fowls show particularly outstanding work.</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">There are not many landscape paintings, but he painted vivid pictures of flowers and birds; his paintings of fowls show particularly outstanding work.</e>
+<cmt>二文に分かれているため一文になるよう修正</cmt>
+</sen>
+<sen id="21">
+<j>美しい色彩と綿密な描写を特徴とするが、写生画とは言い難い。</j>
+<e type="trans" ver="1">His work features beautiful colors and detailed sketches, but is far from being realistic.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">His work features beautiful colors and detailed sketches, but is far from being realistic.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">His work features beautiful colors and detailed sketches, but is far from being realistic.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>若冲独特の感覚で捉えられた色彩･形態が「写生された物」を通して展開されている。</j>
+<e type="trans" ver="1">His works were created with his unique technique of capturing and expressing the colors and shapes of nature as seen through his eyes.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">His works were created with his unique technique of capturing and expressing the colors and shapes of nature as seen through his eyes.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">His works were created with his unique technique of capturing and expressing the colors and shapes of nature as seen through his eyes.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="23">
+<j>代表作の「動植綵絵」（どうしょくさいえ、動植物を描いた彩色画の意）30幅は、鶏、鳳凰、草花、魚介類などが、さまざまな色彩と形態のアラベスクを織り成す、華麗な作品である。</j>
+<e type="trans" ver="1">His famous work &quot;Doshoku sai-e&quot; (Pictures of the Colorful Realm of Living Beings) is a gorgeous collection of 30 paintings of fowls, a phoenix, plants and fish using a diverse arabesque of colors and shapes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">His famous work Doshoku sai-e (Pictures of the Colorful Realm of Living Beings) is a gorgeous collection of 30 paintings of fowls, a phoenix, plants and fish using a diverse arabesque of colors and shapes.</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">His famous work &apos;Doshoku Sai-e&apos; (Pictures of the Colorful Realm of Living Beings) is a gorgeous collection of 30 paintings of fowls, a phoenix, plants and fish using a diverse arabesque of colors and shapes.</e>
+<cmt>Doshoku Sai-eとし、原文に合わせクォーテーション追加</cmt>
+</sen>
+<sen id="24">
+<j>綿密な写生に基づきながら、その画面にはどこか近代のシュルレアリスムにも似通う幻想的な雰囲気が漂う。</j>
+<e type="trans" ver="1">Based on detailed sketching, they also project an unreal atmosphere similar to modern day Surrealism.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Based on detailed sketching, they also project an unreal atmosphere similar to modern day Surrealism.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Based on detailed sketching, they also project an unreal atmosphere similar to modern day Surrealism.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>「動植綵絵」は、若冲が相国寺に寄進したものであるが、のち皇室御物となり、現在は宮内庁が管理している。</j>
+<e type="trans" ver="1">&quot;Doshoku sai-e&quot; was donated to Shokoku-ji Temple, which later passed to the Imperial family and currently is maintained by the Imperial Household Agency.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Doshoku sai-e was donated to Shokoku-ji Temple, which later passed to the Imperial family and currently is maintained by the Imperial Household Agency.</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">Doshoku Sai-e&apos; was donated to Shokoku-ji Temple, which later passed to the Imperial family and currently is maintained by the Imperial Household Agency.</e>
+<cmt>Doshoku Sai-eとし、原文に合わせクォーテーション追加</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="26">
+<j>再評価</j>
+<e type="trans" ver="1">Re-evaluation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Re-Evaluation of His Work</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Re-Evaluation of His Work</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>若冲はつい最近まで知る人ぞ知る画家であったが、1970年に辻惟雄の『奇想の系譜』が出版されて以来注目を浴び、特に1990年代後半以降その超絶した技巧や奇抜な構成が再評価され、飛躍的にその知名度と人気を上げている。</j>
+<e type="trans" ver="1">Until recently Jakuchu was known only to few, but with the publication of &quot;Kiso no Keifu&quot; by Nobuo TSUJI in 1970, his work entered the limelight with particularly praise coming in latter half of the 1990s for his unique technology and construction, and dramatically increased his name recognition and popularity.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Until recently Jakuchu was known only to few, but with the publication of Kiso no Keifu by Nobuo TSUJI in 1970, his work entered the limelight with particularly praise coming in the latter half of the 1990s for his unique technology and construction. This dramatically increased his name recognition and popularity.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">Until recently Jakuchu was known only to few, but with the publication of &quot;Kiso no Keifu&quot; by Nobuo TSUJI in 1970, his work entered the limelight with particularly praise coming in the latter half of the 1990s for his unique technology and construction, which dramatically increased his name recognition and popularity.</e>
+<cmt>原文に合わせ、作品名にクォーテーション追加、二文に分かれているため一文になるよう修正</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="28">
+<j>代表作</j>
+<e type="trans" ver="1">His Works</e>
+<cmt></cmt>
+<e type="trans" ver="2">His Representative Works</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">His Representative Works</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>動植綵絵30幅（宮内庁三の丸尚蔵館）</j>
+<e type="trans" ver="1">&quot;Doshoku sai-e&quot; (30 pictures of the Colorful Realm of Living Beings) (The Museum of the Imperial Collections, Sannomaru Shozokan)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Doshoku sai-e (30 pictures of the Colorful Realm of Living Beings) (The Museum of the Imperial Collections, Sannomaru Shozokan)</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">Doshoku Sai-e (30 pictures of the Colorful Realm of Living Beings) (The Museum of the Imperial Collections, Sannomaru Shozokan)</e>
+<cmt>Doshoku Sai-eとしました。</cmt>
+</sen>
+<sen id="30">
+<j>鹿苑寺大書院障壁画50面（承天閣美術館）重要文化財</j>
+<e type="trans" ver="1">50 Wall painting in Osho-in Room of Rokuon-ji Temple (Rokuon-ji Temple is commonly known as Kinkaku-ji Temple) (Jotenkaku Museum) Important Cultural Property</e>
+<cmt></cmt>
+<e type="trans" ver="2">50 Wall painting in Osho-in Room of Rokuon-ji Temple (Rokuon-ji Temple is commonly known as Kinkaku-ji Temple) (Jotenkaku Museum) Important Cultural Property</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">50 Wall painting in Osho-in Room of Rokuon-ji Temple (Rokuon-ji Temple is commonly known as Kinkaku-ji Temple) (Jotenkaku Museum) Important Cultural Property</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>仙人掌群鶏図（大阪・西福寺）重要文化財</j>
+<e type="trans" ver="1">&quot;Saboten Gunkei-zu&quot; (picture of fowl and cactus) (Saifuku-ji Temple, Osaka) Important Cultural Property</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saboten Gunkei-zu (picture of fowl and cactus) (Saifuku-ji Temple, Osaka) Important Cultural Property</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">Saboten Gunkei-zu (picture of fowl and cactus) (Saifuku-ji Temple, Osaka) Important Cultural Property</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>蓮池図襖（大阪・西福寺）重要文化財</j>
+<e type="trans" ver="1">&quot;Renchi-zu Fusuma&quot; (sliding partition painting of lotus pond) (Saifuku-ji Temple, Osaka) Important Cultural Property</e>
+<cmt></cmt>
+<e type="trans" ver="2">Renchi-zu Fusuma (sliding partition painting of lotus pond) (Saifuku-ji Temple, Osaka) Important Cultural Property</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">Renchi-zu Fusuma (sliding partition painting of lotus pond) (Saifuku-ji Temple, Osaka) Important Cultural Property</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>鳥獣草花図屏風（プライスコレクション）</j>
+<e type="trans" ver="1">&quot;Choju Soka-zu Byobu&quot; (folding screen painting of birds, animals, plants and flowers) (The Price Collection)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Choju Soka-zu Byobu (folding screen painting of birds, animals, plants and flowers) (The Price Collection)</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">Choju Soka-zu Byobu (folding screen painting of birds, animals, plants and flowers) (The Price Collection)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>果蔬涅槃図（京都国立博物館）</j>
+<e type="trans" ver="1">&quot;Kaso Nehan-zu&quot; (Vegetable Nirvana) (Kyoto National Museum)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kaso Nehan-zu (Vegetable Nirvana) (Kyoto National Museum)</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">Kaso Nehan-zu (Vegetable Nirvana) (Kyoto National Museum)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>菜虫譜（佐野市立吉澤記念美術館）</j>
+<e type="trans" ver="1">&quot;Saichu-fu&quot; (Vegetables and Insects) (Yoshizawa Memorial Museum of Art, Sano)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saichu-fu (Vegetables and Insects) (Yoshizawa Memorial Museum of Art, Sano)</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">Saichu-fu (Vegetables and Insects) (Yoshizawa Memorial Museum of Art, Sano)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>樹花鳥獣図屏風（静岡県立美術館）</j>
+<e type="trans" ver="1">&quot;Jukachoju-zu Byobu&quot; (folding screen painting of trees, flowers, birds and animals) (Shizuoka Prefectural Museum of Art)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jukachoju-zu Byobu (folding screen painting of trees, flowers, birds and animals) (Shizuoka Prefectural Museum of Art)</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">Jukachoju-zu Byobu (folding screen painting of trees, flowers, birds and animals) (Shizuoka Prefectural Museum of Art)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>糸瓜群虫図（細見美術館）</j>
+<e type="trans" ver="1">&quot;Hechima Gunchu-zu&quot; (painting of loofah and insects) (Hosomi Museum)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hechima Gunchu-zu (painting of loofah and insects) (Hosomi Museum)</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">Hechima Gunchu-zu (painting of loofah and insects) (Hosomi Museum)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>群鶏図（京都国立博物館）</j>
+<e type="trans" ver="1">&quot;Gunkei-zu&quot; (painting of fowl) (Kyoto National Museum)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gunkei-zu (painting of fowl) (Kyoto National Museum)</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">Gunkei-zu (painting of fowl) (Kyoto National Museum)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>鶏頭蟷螂図</j>
+<e type="trans" ver="1">&quot;Keito Kamakiri-zu&quot; (painting of cockscomb and praying mantis)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keito Kamakiri-zu (painting of cockscomb and praying mantis)</e>
+<cmt>incorrect quotation use</cmt>
+<e type="check" ver="1">Keito Kamakiri-zu (painting of cockscomb and praying mantis)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="40">
+<j>展覧会</j>
+<e type="trans" ver="1">Exhibitions</e>
+<cmt></cmt>
+<e type="trans" ver="2">Exhibitions</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Exhibitions</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>2000年に京都国立博物館にて「没後200年」を記念して行われた展覧会により、爆発的ブームが起こった。</j>
+<e type="trans" ver="1">An exhibition marking 200th anniversary of Jakuchu&apos;s death at the Kyoto National Museum in 2000 triggered a booming interest in him and his work..</e>
+<cmt></cmt>
+<e type="trans" ver="2">An exhibition marking the 200th anniversary of Jakuchu&apos;s death at the Kyoto National Museum in 2000 triggered a booming interest in him and his work.</e>
+<cmt>wording</cmt>
+<e type="check" ver="1">An exhibition marking the 200th anniversary of Jakuchu&apos;s death at the Kyoto National Museum in 2000 triggered a booming interest in him and his work.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="42">
+<j>2006年は、伊藤若冲に関する展覧会が各地で開催された（愛知県美術館、大倉集古館、MIHO MUSEUM、泉屋博古館（京都）、山口県立萩美術館・浦上記念館、東京国立博物館、京都国立近代美術館、九州国立博物館、愛知県美術館、皇居・三の丸尚蔵館）</j>
+<e type="trans" ver="1">In 2006, Jakuchu Ito exhibitions were held in various areas of Japan (Aichi Prefectural Museum of Art, Okura Shukokan Museum, Miho Museum, Sen-oku Hakuko Kan (Sumitomo Collection, Kyoto), Yamaguchi Prefectural Hagi Uragami Museum, Tokyo National Museum, The National Museum of Modern Art, Kyoto, Kyushu National Museum, Aichi Prefectural Museum of Art, The Museum of the Imperial Collections, Sannomaru Shozokan)</e>
+<cmt>愛知県美術館がダブって入っています。原文どおりに入れました。</cmt>
+<e type="trans" ver="2">In 2006, Jakuchu Ito exhibitions were held in various areas of Japan (Aichi Prefectural Museum of Art, Okura Shukokan Museum, Miho Museum, Sen-oku Hakuko Kan [Sumitomo Collection, Kyoto], Yamaguchi Prefectural Hagi Uragami Museum, Tokyo National Museum, The National Museum of Modern Art, Kyoto, Kyushu National Museum, Aichi Prefectural Museum of Art, The Museum of the Imperial Collections, Sannomaru Shozokan).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">In 2006, Jakuchu ITO exhibitions were held in various areas of Japan (Aichi Prefectural Museum of Art, Okura Shukokan Museum, Miho Museum, Sen-oku Hakuko Kan [Sumitomo Collection, Kyoto], Yamaguchi Prefectural Hagi Uragami Museum, Tokyo National Museum, The National Museum of Modern Art, Kyoto, Kyushu National Museum, The Museum of the Imperial Collections, Sannomaru Shozokan).</e>
+<cmt>Jakuchu Ito→Jakuchu ITOとしました。（左記「愛知県美術館」の重複については、削除して１つにしました。)</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="43">
+<j>2007年は、伊藤若冲ゆかりの相国寺内の承天閣美術館で開催された。</j>
+<e type="trans" ver="1">In 2007, an exhibition was held at the Jotenkaku Museum at Shokoku-ji Temple, which is associated with Jakuchu Ito.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 2007, an exhibition was held at the Jotenkaku Museum at Shokoku-ji Temple, which is associated with Jakuchu Ito.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In 2007, an exhibition was held at the Jotenkaku Museum at Shokoku-ji Temple, which is associated with Jakuchu ITO.</e>
+<cmt>Jakuchu ITOとしました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Kanejan(id:78613), 月下薄氷(id:47743), ととりん(id:31982), Nnh(id:474), Cprobot(id:97843), Urania(id:7213), Takashi sendo(id:118994), 修理屋(id:131526), J8takagi(id:20409), Kareha(id:36360), Adonis(id:24011), Hgo(id:67668), Namboku(id:45100), 663highland(id:18755), こぶまき(id:38278), Yas(id:739), けんち(id:5147), Nopira(id:29335), Jade0416(id:104181), Chuta(id:10457), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

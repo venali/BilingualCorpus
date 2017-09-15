@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>名田</j>
+<e type="trans" ver="1">Myoden (rice field lot in charge of a nominal holder)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Myoden (rice field lot manage by a nominal holder)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Myoden</e>
+<cmt>タイトルなので説明訳を削除しました。下の文章に説明訳補足します。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>名田（みょうでん）は、日本の平安時代中期から中世を通じて見られる、荘園公領制における支配・収取（徴税）の基礎単位である。</j>
+<e type="trans" ver="1">The term &apos;myoden&apos; refers to a basic unit of the governance and the (tax) collection in the shoen-koryo system (the system of public lands and private estates), and this existed from the mid-Heian period, throughout the Middle Ages in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The term &apos;myoden&apos; refers to a basic unit of the governance and (tax) collection in the shoen-koryo system (the system of public lands and private estates), and this existed from the mid-Heian period, throughout the Middle Ages in Japan.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The term &apos;myoden&apos; (rice field lot manage by a nominal holder) refers to a basic unit of the governance and (tax) collection in the shoen-koryo system (the system of public lands and private estates), and this existed from the mid-Heian period, throughout the Middle Ages in Japan.</e>
+<cmt>文章に説明訳補足しました。</cmt>
+</sen>
+<sen id="2">
+<j>名（みょう）ともいう。</j>
+<e type="trans" ver="1">This is also referred to as myo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is also referred to as myo.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This is also referred to as myo.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>沿革</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>7世紀末から8世紀初頭に始まった律令制では、人民一人ひとりを租税収取の基礎単位としていた。</j>
+<e type="trans" ver="1">In the ritsuryo system (a system of centralized government based on the ritsuryo codes), which started around the end of the seventh century or the beginning of the eighth century, the basic unit of the tax collection was every single person.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the ritsuryo system (system of centralized government based on the ritsuryo codes), which started around the end of the seventh century or the beginning of the eighth century, the basic unit for tax collection was every single person.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the ritsuryo system (system of centralized government based on the ritsuryo codes), which started around the end of the seventh century or the beginning of the eighth century, the basic unit for tax collection was every single person.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>しかし、9世紀・10世紀ごろになると、律令制を支えていた人民把握システム（古代の戸籍制度・計帳の作成や班田収授法の実施など）が次第に弛緩していき、人別的な人民支配が存続できなくなっていた。</j>
+<e type="trans" ver="1">In the ninth and the tenth centuries, however, the citizen management system (including the ancient family registration system, the creation of the yearly tax registers, and the implementation of the law of periodic reallocations of rice fields) which supported the ritsuryo system began to collapse, so that the governance on a single-person basis became difficult to be maintained.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the ninth and the tenth centuries, however, the citizen management system (including the ancient family registration system, the creation of the yearly tax registers, and the implementation of the law of periodic reallocations of rice fields) which supported the ritsuryo system began to collapse, so that the governance on a single-person basis became difficult to maintain.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the ninth and the tenth centuries, however, the citizen management system (including the ancient family registration system, the creation of the yearly tax registers, and the implementation of the law of periodic reallocations of rice fields) which supported the ritsuryo system began to collapse, so that the governance on a single-person basis became difficult to maintain.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>そのため、政府は土地（公田）を収取の基礎単位とする支配体制を構築するようになった。</j>
+<e type="trans" ver="1">Therefore the government established a governance system with a tax collection basic unit according to land (or koden, a field administered directly by a ruler).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore the government established a governance system with a tax collection basic unit according to land (or koden, a field administered directly by a ruler).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Therefore the government established a governance system with a tax collection basic unit according to land (or koden, a field administered directly by a ruler).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>これにより、まず国衙の支配する公田が、名田または名（みょう）と呼ばれる支配・収取単位へと再編成された。</j>
+<e type="trans" ver="1">At first this reorganized koden administered by kokuga (a provincial government office) into a governance and tax collection unit called myoden or myo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At first this reorganized koden administered by kokuga (a provincial government office) into a governance and tax collection unit called myoden or myo.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At first this reorganized koden administered by kokuga (a provincial government office) into a governance and tax collection unit called myoden or myo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>名田を基礎とする支配・収取体制を名体制という。</j>
+<e type="trans" ver="1">The governance and tax collection system based on a myoden is called myo-taisei (the local tax management system based on rice fields).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The governance and tax collection system based on a myoden is called myo-taisei (the local tax management system based on rice fields).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The governance and tax collection system based on a myoden is called myo-taisei (the local tax management system based on rice fields).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="8">
+<j>当時の百姓・班田農民や古来の郡司一族、土着国司子弟の中には、出挙や営田活動により富を蓄積する富豪層が現れており、田堵（たと）と呼ばれていた。</j>
+<e type="trans" ver="1">Some peasants, handen (allotted farmland) farmers, old gunji (a district officer) families, and local kokushi (a provincial governor) scions of that time started to form a wealthy class called tato, and they gained riches by suiko (rice loans in ancient Japan that had to be repaid after the autumn harvest at a substantial rate of interest) and farming activities.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some peasants, handen (allotted farmland) farmers, old gunji (a district officer) families, and local kokushi (a provincial governor) scions of that time started to form a wealthy class called tato, and they gained riches by suiko (rice loans in ancient Japan that had to be repaid after the autumn harvest at a substantial rate of interest) and farming activities.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some peasants, handen (allotted farmland) farmers, old gunji (a district officer) families, and local kokushi (a provincial governor) scions of that time started to form a wealthy class called tato, and they gained riches by suiko (rice loans in ancient Japan that had to be repaid after the autumn harvest at a substantial rate of interest) and farming activities.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>名田経営を中心的に担っていたのが、田堵である。</j>
+<e type="trans" ver="1">The tato people played a primary role in the myoden farming.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The tato people played a primary role in myoden farming.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The tato people played a primary role in myoden farming.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>田堵らは、名田内の他の百姓の田租を国衙へ代納していた。</j>
+<e type="trans" ver="1">They paid a rice field tax to kokuga on behalf of the other peasants within a myoden.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They paid a rice field tax to kokuga on behalf of other peasants within a myoden.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">They paid a rice field tax to kokuga on behalf of other peasants within a myoden.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>このような納税形態を負名（ふみょう）という。</j>
+<e type="trans" ver="1">This tax payment style is called fumyo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This tax payment style was called fumyo.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This tax payment style was called fumyo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>負名を通して、田堵と他の百姓との間に債務関係が発生するようになり、これによって田堵は他の百姓への私的支配を強めるようになるとともに、名田経営者として専門性を高めていった。</j>
+<e type="trans" ver="1">The fumyo caused debtor-creditor relations between tato farmers and other peasants, and this allowed the tato to become powerful enough for unofficial governance over other peasants and to increase their special skills of the myoden management.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The fumyo caused debtor-creditor relations between tato farmers and other peasants, and this allowed the tato to become powerful enough for unofficial governance over other peasants and to increase their special skills of myoden management.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The fumyo caused debtor-creditor relations between tato farmers and other peasants, and this allowed the tato to become powerful enough for unofficial governance over other peasants and to increase their special skills of myoden management.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>また国衙の側も経営の不安定な小規模経営の多数の百姓から収取するより、多くの動産資本と隷属民を蓄積し、安定した経営が見込める大規模経営者たる少数の田堵から収取することに効率性を見出した。</j>
+<e type="trans" ver="1">In addition, the kokuga side found it more efficient to collect the tax through a small number of tato farmers, who owned a great amount of movable assets as well as many subordinate people and managed a large-sized farm which was expected to bring stable management, than to collect the tax from many peasants who only had small-sized unstable farm management.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In addition, the kokuga side found it more efficient to collect the tax through a small number of tato farmers, who owned a great amount of movable assets as well as many subordinate people and managed a large-sized farm which was expected to bring stable management, than to collect the tax from many peasants who only had small-sized unstable farm management.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In addition, the kokuga side found it more efficient to collect the tax through a small number of tato farmers, who owned a great amount of movable assets as well as many subordinate people and managed a large-sized farm which was expected to bring stable management, than to collect the tax from many peasants who only had small-sized unstable farm management.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>また人民の支配も彼らを通じて行うことに高い効率性を見出していったのである。</j>
+<e type="trans" ver="1">They also found it very efficient to rule the people through the tato.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">They also found it very efficient to rule the people through the tato.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They also found it very efficient to rule the people through the tato.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="15">
+<j>名田の制度は、11世紀ごろから、当時一円化して領域性を高めた荘園にも採用・吸収されていく。</j>
+<e type="trans" ver="1">In the eleventh century, the myoden system was also imported and adopted to manors whose territoriality had been enhanced because of the consolidation around that time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the eleventh century, the myoden system was also imported and adopted to manors whose territory had been enhanced because of consolidation around that time.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the 11th century, the myoden system was also imported and adopted to manors whose territory had been enhanced because of consolidation around that time.</e>
+<cmt>数字に訂正しました。</cmt>
+</sen>
+<sen id="16">
+<j>荘園内の耕作地は、名田へと再編成され、荘民となった田堵が名田経営を行うようになった。</j>
+<e type="trans" ver="1">Farmland within a manor was reorganized into myoden fields, and the tato who became shomin (people living in a manor) managed the myoden.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Farmland within a manor was reorganized into myoden fields, and the tato who became shomin (people living in a manor) managed the myoden.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Farmland within a manor was reorganized into myoden fields, and the tato who became shomin (people living in a manor) managed the myoden.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>荘園内の名田の規模は地域によって大きな差異がある。</j>
+<e type="trans" ver="1">The size of a myoden within a manor indeed depends on regions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The size of a myoden within a manor depended on regions.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The size of a myoden within a manor depended on regions.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>畿内や九州の荘園では、面積1～2町程度のほぼ均等な名田から構成される例が非常に多かった。</j>
+<e type="trans" ver="1">Most manors in the Kinai (the vicinal territories of the capital) and the Kyushu regions consisted of nearly equal-sized myoden fields, and each size was in the range of one to two cho (9917 to 19834 square meters).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Most manors in the Kinai (the vicinal territories of the capital) and the Kyushu regions consisted of nearly equal-sized myoden fields, and each size was in the range of one to two cho (9917 to 19834 square meters).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Most manors in the Kinai (the vicinal territories of the capital) and the Kyushu regions consisted of nearly equal-sized myoden fields, and each size was in the range of one to two cho (9,917 to 19,834 square meters).</e>
+<cmt>コンマ補足しました。</cmt>
+</sen>
+<sen id="19">
+<j>このような荘園を均等名荘園（きんとうみょう-）といい、12世紀から14世紀にかけて多く見られた。</j>
+<e type="trans" ver="1">Such manors are called kinto-myo-shoen (a manor consisting of equal-sized myo), and this type of manor existed mainly from the twelfth century to the fourteenth century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Such manors are called kinto-myo-shoen (a manor consisting of equal-sized myo), and this type of manor existed mainly from the twelfth century to the fourteenth century.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Such manors are called kinto-myo-shoen (a manor consisting of equal-sized myo), and this type of manor existed mainly from the 12th century to the 14th century.</e>
+<cmt>数字に訂正しました。</cmt>
+</sen>
+<sen id="20">
+<j>畿内諸国や九州では荘園領主の権力が強く及んでおり、領主が荘園経営を効率的に行うため、名田を均等化して百姓へ割り振ったのである。</j>
+<e type="trans" ver="1">The lords of the manors were so powerful in the Kinai provinces and the Kyusyu region that they could divide their myoden equally and allot each peasant a portion of myoden in order to manage their manors effectively.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The lords of the manors were so powerful in the Kinai provinces and the Kyushu region that they could divide their myoden equally and allot each peasant a portion of myoden in order to manage their manors effectively.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The lords of the manors were so powerful in the Kinai provinces and the Kyushu region that they could divide their myoden equally and allot each peasant a portion of myoden in order to manage their manors effectively.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>一方、畿内や九州以外の荘園の様子を見ると、数町以上の広い名田、面積が不均等な名田から構成されていることが多かった。</j>
+<e type="trans" ver="1">On the other hand, many manors out of the Kinai and the Kyushu regions consisted of extensive myoden larger than several cho and/or unequal-sized myoden.</e>
+<cmt>ここでは面積単位「町」を具体的な平方メートル値に置き換えることができませんので、&quot;cho&quot;のまま残しました。</cmt>
+<e type="trans" ver="2">On the other hand, many manors out of the Kinai and Kyushu regions consisted of extensive myoden larger than several cho and/or unequal-sized myoden.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">On the other hand, many manors out of the Kinai and Kyushu regions consisted of extensive myoden larger than several cho and/or unequal-sized myoden.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>畿内・九州以外では、荘園領主（本所）の所在地から距離的に遠かったこともあって、本所権力の作用があまり及ばなかったためである。</j>
+<e type="trans" ver="1">This was because the influence of a manor owner (called honjo, a proprietor of a manor) could not reach throughout his manor very much due to a long distance between his ordinary location and his manor in the regions other than the Kinai and the Kyushu regions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was because the influence of a manor owner (called honjo, a proprietor of a manor) could not reach throughout his manor very much due to a long distance between his ordinary location and his manor in the regions other than the Kinai and the Kyushu regions.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This was because the influence of a manor owner (called honjo, a proprietor of a manor) could not reach throughout his manor very much due to a long distance between his ordinary location and his manor in the regions other than the Kinai and the Kyushu regions.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="23">
+<j>荘園が一円化して公領（国衙領）と対等な権利地位を獲得した11世紀以降の在地秩序を荘園公領制と呼ぶ。</j>
+<e type="trans" ver="1">The consolidation of manors allowed the equal privileges and status with an Imperial demesne (or kokugaryo, a territory governed by a provincial government office) in the eleventh century, and the land regularity in and after that century is called shoen-koryo system.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The consolidation of manors allowed equal privileges and status with an Imperial demesne (or kokugaryo, a territory governed by a provincial government office) in the eleventh century, and the land regularity in and after that century was called the shoen-koryo system.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The consolidation of manors allowed equal privileges and status with an Imperial demesne (or kokugaryo, a territory governed by a provincial government office) in the 11th century, and the land regularity in and after that century was called the shoen-koryo system.</e>
+<cmt>数字に訂正しました。</cmt>
+</sen>
+<sen id="24">
+<j>この体制下では農業、漁業、手工業などの諸産業を田堵が隷属する人民を使役し、名田単位で経営を行った。</j>
+<e type="trans" ver="1">In this system, the tato managed several industries such as agriculture, fishery, and handicraft manufacturing on a myoden basis, employing subordinate labors.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In this system, the tato managed several industries such as agriculture, fishery, and handicraft manufacturing on a myoden basis, employing subordinate labors.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In this system, the tato managed several industries such as agriculture, fishery, and handicraft manufacturing on a myoden basis, employing subordinate labors.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>田堵と名田は荘園単位、また公領では郡・郷・保単位で把握され、荘園領主に任命された荘官、国衙に任命された郡司、郷司、保司らの支配を受けた。</j>
+<e type="trans" ver="1">The tato farmers and the myoden fields were administered on a manor basis and supervised by a shokan (a manor officer) appointed as a lord of the manor, while the Imperial demesnes were administered on a gun (district), go (village), or ho (settlement) basis, and gunji (a district officer), goji (a village officer), and hoji (a public land officer) supervised respective lands.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The tato farmers and the myoden fields were administered on a manor basis and supervised by a shokan (a manor officer) appointed as the lord of the manor, while the Imperial demesnes were administered on a gun (district), go (village), or ho (settlement) basis, and gunji (a district officer), goji (a village officer), and hoji (a public land officer) supervised respective lands.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The tato farmers and the myoden fields were administered on a manor basis and supervised by a shokan (a manor officer) appointed as the lord of the manor, while the Imperial demesnes were administered on a gun (district), go (village), or ho (settlement) basis, and gunji (a district officer), goji (a village officer), and hoji (a public land officer) supervised respective lands.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>荘官、郡司、郷司、保司らは在地社会での軍事的緊張、特に荘園と公領の対立が高まるにつれて武士が任命されることが多くなり、鎌倉時代に至って鎌倉殿に任命された地頭として安定した地位を獲得した。</j>
+<e type="trans" ver="1">More samurai warriors were assigned to shokan, gunji, goji, and hoji officers as military tensions increased in local societies, especially between manors and the Imperial demesnes, and they eventually gained a stable position in the Kamakura period, when a position called jito (a lord of a manor) was given to the Kamakura-dono (the lord of the Kamakura shogunate).</e>
+<cmt></cmt>
+<e type="trans" ver="2">More samurai warriors were assigned to shokan, gunji, goji, and hoji officers as military tensions increased in local societies, especially between manors and the Imperial demesnes, and they eventually gained a stable position during the Kamakura period, when a position called jito (a lord of a manor) was given to the Kamakura-dono (the lord of the Kamakura shogunate).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">More samurai warriors were assigned to shokan, gunji, goji, and hoji officers as military tensions increased in local societies, especially between manors and the Imperial demesnes, and they eventually gained a stable position during the Kamakura period, when a position called jito (a lord of a manor) was given to the Kamakura-dono (the lord of the Kamakura shogunate).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="27">
+<j>田堵は、名田経営を請け負ってはいたものの、名田の私有権は認められていなかった。</j>
+<e type="trans" ver="1">Although the tato undertook the myoden management, they were not allowed to have a private ownership of myoden fields.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the tato undertook myoden management, they were not allowed to have private ownership of the myoden fields.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although the tato undertook myoden management, they were not allowed to have private ownership of the myoden fields.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>しかし、田堵は、名田経営を通じて、土地および他の隷属する百姓との関係を緊密なものとしていき、中には周辺の他の田堵の名田を集積する者も現れていた。</j>
+<e type="trans" ver="1">Nevertheless they strengthened a relationship with lands and subordinate peasants through the myoden management, and some tato even started to accumulate neighboring myoden fields managed by other tato.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nevertheless they strengthened relationships with land and subordinate peasants through myoden management, and some tato even started to accumulate neighboring myoden fields managed by other tato.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Nevertheless they strengthened relationships with land and subordinate peasants through myoden management, and some tato even started to accumulate neighboring myoden fields managed by other tato.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>こうした状況の中で、12世紀～13世紀ごろになると、荘園領主や国衙、さらにこれらから在地支配を任された武士も田堵の力を認めざるを得なくなり、田堵に名田の永代保有権を付与する代わりに、年貢・公事の納付請負を確約させるようになっていった。</j>
+<e type="trans" ver="1">Under these circumstances, around the twelfth and the thirteenth centuries, lords of manors, kokuga, and samurai warriors who were appointed as the local supervisors by lords or kokuga had to recognize the tato&apos;s influence, and they gave the tato permanent tenure of myoden in exchange for the firm land tax payment and undertaking of public duties.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under such circumstances, around the twelfth and the thirteenth centuries, lords of manors, kokuga, and samurai warriors who were appointed as the local supervisors by lords or kokuga had to recognize the tato&apos;s influence, and they gave the tato permanent tenure of myoden in exchange for the firm land tax payment and the undertaking of public duties.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Under such circumstances, around the 12th and the 13th centuries, lords of manors, kokuga, and samurai warriors who were appointed as the local supervisors by lords or kokuga had to recognize the tato&apos;s influence, and they gave the tato permanent tenure of myoden in exchange for the firm land tax payment and the undertaking of public duties.</e>
+<cmt>数字に訂正しました。</cmt>
+</sen>
+<sen id="30">
+<j>こうして田堵は、名田の永代保有権を有する名主（みょうしゅ）へと成長したのである。</j>
+<e type="trans" ver="1">Thus the tato farmers developed into myoshu (an owner of rice fields), who owned the permanent tenure of myoden.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thus the tato farmers developed into myoshu (an owner of rice fields), who owned the permanent tenure of myoden.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Thus the tato farmers developed into myoshu (an owner of rice fields), who owned the permanent tenure of myoden.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>名主層の中には武士に対して軍役を果たすことで地侍となり、武士身分の一角に食い込む者も多く出るようになっていった。</j>
+<e type="trans" ver="1">Some people in the myoshu class became jizamurai (local samurai) by doing military service for samurai, and this resulted in many myoshu people who made inroads into the samurai class.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some people in the myoshu class became jizamurai (local samurai) by doing military service as samurai, and this resulted in many myoshu people who made inroads into the samurai class.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Some people in the myoshu class became jizamurai (local samurai) by doing military service as samurai, and this resulted in many myoshu people who made inroads into the samurai class.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>また、名主が永代保有権を有する名田は百姓名（ひゃくしょうみょう）と呼ばれた。</j>
+<e type="trans" ver="1">Also, the myoden whose myoshu had the permanent tenure were called hyakusho-myo (myoden of peasants).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also, the myoden whose myoshu had permanent tenure were called hyakusho-myo (myoden of peasants).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Also, the myoden whose myoshu had permanent tenure were called hyakusho-myo (myoden of peasants).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>14世紀ごろから、百姓名は私的所有の対象とする観念が強まっていき、名主間で自由売買されるようになる。</j>
+<e type="trans" ver="1">From the fourteenth century onwards, the concept that a hyakusho-myo could be a private land increased, and the hyakusho-myo lands started to be traded at will among the myoshu people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From the fourteenth century onwards, the concept that a hyakusho-myo could be private land increased, and the hyakusho-myo lands started to be traded at will among the myoshu people.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">From the 14th century onwards, the concept that a hyakusho-myo could be private land increased, and the hyakusho-myo lands started to be traded at will among the myoshu people.</e>
+<cmt>数字に訂正しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="34">
+<j>名田は、多様な支配形態を内包する荘園公領制において、基礎的な支配・収取単位として機能し続けた。</j>
+<e type="trans" ver="1">The myoden always functioned as a basic unit of governance and tax collection in the shoen-koryo system, which included various forms of ruling.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The myoden always functioned as a basic unit of governance and tax collection in the shoen-koryo system, which included various forms of ruling.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The myoden always functioned as a basic unit of governance and tax collection in the shoen-koryo system, which included various forms of ruling.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>しかし、室町時代には守護領国制の進展にともなって、名田はゆるやかに守護の支配下へ組み込まれた。</j>
+<e type="trans" ver="1">As the shugo-ryogoku system (the system of domination by a governor) grew in the Muromachi period, however, the myoden fields were gradually integrated into the government of shugo (a provincial governor).</e>
+<cmt></cmt>
+<e type="trans" ver="2">As the shugo-ryogoku system (the system of domination by a governor) grew in the Muromachi period, however, the myoden fields were gradually integrated into the government of shugo (a provincial governor).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As the shugo-ryogoku system (the system of domination by a governor) grew in the Muromachi period, however, the myoden fields were gradually integrated into the government of shugo (a provincial governor).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>さらに戦国時代 (日本)になると、戦国大名による一円支配の強化とともに名田の解体が急激に進み、最終的には安土桃山時代の太閤検地によって、名田は完全に消滅した。</j>
+<e type="trans" ver="1">In the Sengoku period (the period of warring states in Japan), the collapse of the myoden system rapidly proceeded accompanying the enhancement of the unified government by sengoku-daimyo (Japanese territorial lords in the Sengoku period), and eventually, it completely disappeared due to the taiko-kenchi (cadastral surveys instituted by Hideyoshi TOYOTOMI) in the Azuchi-Momoyama period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Sengoku period (the period of warring states in Japan), the collapse of the myoden system rapidly proceeded accompanying the enhancement of the unified government by sengoku-daimyo (Japanese territorial lords in the Sengoku period), and eventually, it completely disappeared due to the taiko-kenchi (cadastral surveys instituted by Hideyoshi TOYOTOMI) in the Azuchi-Momoyama period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the Sengoku period (the period of warring states in Japan), the collapse of the myoden system rapidly proceeded accompanying the enhancement of the unified government by Sengoku daimyo (Japanese territorial lords in the Sengoku period), and eventually, it completely disappeared due to the taiko-kenchi (cadastral surveys instituted by Hideyoshi TOYOTOMI) in the Azuchi-Momoyama period.</e>
+<cmt>Sengoku daimyoに訂正しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>性格</j>
+<e type="trans" ver="1">Characteristics</e>
+<cmt></cmt>
+<e type="trans" ver="2">Characteristics</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Characteristics</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="37">
+<j>名田の性格をめぐって、日本史学界では大きく2つの見解が対立していた。</j>
+<e type="trans" ver="1">There have been two major different opinions about the characteristics of myoden in the Japanese historical science world.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There have been two major different opinions about the characteristics of myoden in the Japanese historical science world.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There have been two major different opinions about the characteristics of myoden in the Japanese historical science world.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>1つは、名田を農民層の所有・経営単位とする見方である。</j>
+<e type="trans" ver="1">One opinion is that a myoden was an ownership and management unit in the farmer class.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One opinion is that a myoden was an ownership and management unit in the farmer class.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">One opinion is that a myoden was an ownership and management unit in the farmer class.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>これは被支配者である農民による階級闘争の結果、支配層から土地所有権を奪取したと評価するものである。</j>
+<e type="trans" ver="1">In this view, they think peasants, who had been unilaterally controlled by rulers, captured the land ownership from the rulers as a result of a class struggle.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In this view, they think peasants, who had been unilaterally controlled by rulers, captured land ownership from the rulers as a result of a class struggle.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In this view, they think peasants, who had been unilaterally controlled by rulers, captured land ownership from the rulers as a result of a class struggle.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>しかし、史料から見る実際の名田は、あくまで領主が支配しており、田堵や名主らは領主への租税納付機関として働いていたに過ぎないことが明らかとなっている。</j>
+<e type="trans" ver="1">Historical materials clearly show, however, that the myoden fields were actually governed by lords, and tato and myoshu just functioned as a tax payment agency for lords.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Historical materials clearly show, however, that the myoden fields were actually governed by lords, and tato and myoshu just functioned as a tax payment agency for lords.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Historical materials clearly show, however, that the myoden fields were actually governed by lords, and tato and myoshu just functioned as a tax payment agency for lords.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>そのため、2つ目の見解、すなわち荘園公領制における支配・収取（徴税）の基礎単位とする見方が広範な支持を得ており、支配的となっている。</j>
+<e type="trans" ver="1">This makes the other opinion more dominant, and many researchers support this idea that a myoden was a basic unit of the governance and the tax collection in the shoen-koryo system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This makes the other opinion more dominant, and many researchers support this idea that a myoden was a basic unit of governance and tax collection in the shoen-koryo system.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This makes the other opinion more dominant, and many researchers support this idea that a myoden was a basic unit of governance and tax collection in the shoen-koryo system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>由来</j>
+<e type="trans" ver="1">Origin</e>
+<cmt></cmt>
+<e type="trans" ver="2">Origin</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Origin</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="42">
+<j>名田という用語は、田堵や名主が自らの経営する土地を明示するために、その土地へ名称をつけたことに由来する。</j>
+<e type="trans" ver="1">The term myoden (literally means a named paddy field) comes from the fact that a tato or a myoshu gave a name to the land he operated in order to distinguish his land from other lands.</e>
+<cmt>続く説明の理解を助けるため、「名田」の字義についての説明を加えております。</cmt>
+<e type="trans" ver="2">The term myoden (literally means a named paddy field) comes from the fact that a tato or a myoshu gave a name to the land he operated in order to distinguish his land from other lands.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The term myoden (literally means a named paddy field) comes from the fact that a tato or a myoshu gave a name to the land he operated in order to distinguish his land from other lands.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>名田の名称を、田堵本人の名前と同じとする場合が多く、人名のような名田の例は日本各地に見られる。</j>
+<e type="trans" ver="1">Most myoden were named after a tato&apos;s name, and there were many myoden whose name sounded like a person&apos;s name across the country.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Most myoden were named after a tato&apos;s name, and there were many myoden whose name sounded like a person&apos;s name across the country.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Most myoden were named after a tato&apos;s name, and there were many myoden whose name sounded like a person&apos;s name across the country.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>現代でも名田に由来する地名が残存しており、特に西日本に多い。</j>
+<e type="trans" ver="1">Today they still have some place names which are derived from myoden names, particularly in the Western Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Today they still have some place names which are derived from myoden names, particularly in the Western Japan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Today they still have some place names which are derived from myoden names, particularly in the Western Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="45">
+<j>例：恒貞（つねさだ）、国弘（くにひろ）、弘重（ひろしげ）など。</j>
+<e type="trans" ver="1">E.g. Tsunesada, Kunihiro, Hiroshige, and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">E.g. Tsunesada, Kunihiro, Hiroshige, and so on.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">E.g. Tsunesada, Kunihiro, Hiroshige, and so on.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>苗字との関係</j>
+<e type="trans" ver="1">Relation to surnames</e>
+<cmt></cmt>
+<e type="trans" ver="2">Relation to surnames</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Relation to surnames</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="46">
+<j>平安中期ごろ、特に東国の発祥当初の武士層の間で、朝廷との関係において名乗る姓名とは別に、自らの所領（名：みょう）に通称名（字：あざな）を並べる通称が広まっていった。</j>
+<e type="trans" ver="1">In the mid-Heian period, besides a full name used at the Imperial Court, the use of a pseudonym containing a domain name (myo) followed by a nickname (azana) became popular especially among early samurai warriors who were originally from the eastern provinces.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the mid-Heian period, besides a full name used at the Imperial Court, the use of a pseudonym containing a domain name (myo) followed by a nickname (azana) became popular especially among early samurai warriors who were originally from the eastern provinces.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the mid-Heian period, besides a full name used at the Imperial Court, the use of a pseudonym containing a domain name (myo) followed by a nickname (azana) became popular especially among early samurai warriors who were originally from the eastern provinces.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="47">
+<j>例えば、鎮守府将軍を歴任した平良文（たいらのよしふみ）という人物は、相模の村岡に所領＝名田を経営しており、兄弟で5番目だったことから村岡五郎（むらおかのごろう）と自称した。</j>
+<e type="trans" ver="1">For instance, a man named TAIRA no Yoshifumi, who had a career as a chinjufu-shogun (general of the northern pacification command), called himself MURAOKA no Goro because he had his territory, or his myoden, in Muraoka, Sagami Province and he was the fifth eldest brother (Goro literally means a fifth boy).</e>
+<cmt>「兄弟で５番目だったこと」が「五郎」になることの理解を助けるため、「五郎」の字義について説明を加えております。</cmt>
+<e type="trans" ver="2">For instance, a man named TAIRA no Yoshifumi, who had a career as a chinjufu-shogun (general of the northern pacification command), called himself MURAOKA no Goro because he had his territory, or his myoden, in Muraoka, Sagami Province and he was the fifth eldest brother (Goro literally means a fifth boy).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For instance, a man named TAIRA no Yoshifumi, who had a career as a chinjufu-shogun (general of the northern pacification command), called himself MURAOKA no Goro because he had his territory, or his myoden, in Muraoka, Sagami Province and he was the fifth eldest brother (Goro literally means a fifth boy).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>村岡が名であり、五郎が字であり、村岡五郎全体で名字といった。</j>
+<e type="trans" ver="1">Muraoka was his myo, Goro was his azana, and the whole string of MURAOKA no Goro was his surname.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Muraoka was his myo, Goro was his azana, and the whole string of MURAOKA no Goro was his surname.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Muraoka was his myo, Goro was his azana, and the whole string of MURAOKA no Goro was his surname.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="49">
+<j>荘園公領制成立以前の武士は封建領主としての確固たる領地を持たず、一般の田堵負名と同様に名田の経営権を国衙との契約で付与された。</j>
+<e type="trans" ver="1">Samurai didn&apos;t have their settled territories where they could rule as a feudal load before the shoen-koryo system was established, and kokuga gave the management rights of myoden to them as well as ordinary tato and fumyo (local tax managers) by contract.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Samurai didn&apos;t have their settled territories where they could rule as a feudal load before the shoen-koryo system was established, and kokuga gave management rights of myoden to them as well as ordinary tato and fumyo (local tax managers) by contract.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Samurai didn&apos;t have their settled territories where they could rule as a feudal load before the shoen-koryo system was established, and kokuga gave management rights of myoden to them as well as ordinary tato and fumyo (local tax managers) by contract.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="50">
+<j>そのことにより治安維持担当者としての武力を維持する経済的基盤を与えられていたのである。</j>
+<e type="trans" ver="1">Consequently they were given an economic base which allowed them to keep their military power strong enough to maintain the public order.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Consequently they were given an economic base which allowed them to keep their military power strong enough to maintain the public order.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Consequently they were given an economic base which allowed them to keep their military power strong enough to maintain the public order.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="51">
+<j>そのため、この時期の武士の所領は名田を単位としており、名田を名字の地とした。</j>
+<e type="trans" ver="1">Therefore their territories were formed on a myoden basis in those days, and their surnames were based on their myoden.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore their territories were formed on a myoden basis in those days, and their surnames were based on their myoden.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Therefore their territories were formed on a myoden basis in those days, and their surnames were based on their myoden.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="52">
+<j>しかし、11世紀に荘園公領制が成立すると、多くの武士は荘司、郡司、郷司、保司に任命され、荘園、または公領の郡、郷、保を確固たる所領とするようになっていき、田堵負名を自らの支配下に置いていった。</j>
+<e type="trans" ver="1">Once the shoen-koryo system was established in the eleventh century, however, many samurai were appointed shoji (also known as shokan), gunji, goji, or hoji, and they began to own some manors or the Imperial demesnes such as gun, go, and ho as their settled territories and to have tato and fumyo under their control.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Once the shoen-koryo system was established in the eleventh century, however, many samurai were appointed shoji (also known as shokan), gunji, goji, or hoji, and they began to own some manors or the Imperial demesnes such as gun, go, and ho as their settled territories and to have tato and fumyo under their control.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Once the shoen-koryo system was established in the 11th century, however, many samurai were appointed shoji (also known as shokan), gunji, goji, or hoji, and they began to own some manors or the Imperial demesnes such as gun, go, and ho as their settled territories and to have tato and fumyo under their control.</e>
+<cmt>数字に訂正しました。</cmt>
+</sen>
+<sen id="53">
+<j>そのため、この時期になると武士の名字の地（本貫地）は荘園、郡、郷、保を単位としたものに変化した。</j>
+<e type="trans" ver="1">Thus manors, gun, go, and ho became a basis of an origin place of a samurai surname (called honganchi) during that period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thus manors, gun, go, and ho became a basis of an origin place of a samurai surname (called honganchi) during that period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Thus manors, gun, go, and ho became a basis of an origin place of a samurai surname (called honganchi) during that period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="54">
+<j>例えば畠山重忠（はたけやまのしょうじへいじろうしげただ）は武蔵国畠山荘を荘司として所領とし、藤原経清（わたりごんのたいふふじわらのつねきよ）は陸奥国亘理郡を郡司として所領としたのである。</j>
+<e type="trans" ver="1">For instance, HATAKEYAMA no Shojiheijiro-Shigetada, who was a shoji in Hatakeyamano-sho, Musashi Province, owned that place as his territory, and Watarigon no Taifu FUJIWARA no Tsunekiyo, who was a gunji in Watari District, Mutsu Province, owned this place as his territory.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For instance, HATAKEYAMA no Shojiheijiro-Shigetada, who was a shoji in Hatakeyamano-sho, Musashi Province, owned that place as his territory, and Watarigon no Taifu FUJIWARA no Tsunekiyo, who was a gunji in Watari District, Mutsu Province, owned this place as his territory.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">For instance, HATAKEYAMA no Shojiheijiro-Shigetada, who was a shoji in Hatakeyamano-sho, Musashi Province, owned that place as his territory, and Watarigon no Taifu FUJIWARA no Tsunekiyo, who was a gunji in Watari District, Mutsu Province, owned this place as his territory.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="55">
+<j>こうした名字のあり方は鎌倉時代の御家人級の、室町時代の国人級以上の上級武士の間で引き継がれていく。</j>
+<e type="trans" ver="1">This pattern of forming surnames was taken over by high-ranking samurai warriors, that is, the gokenin (immediate vassals of the shogun) class samurai in the Kamakura period and the kokujin (local samurai) class or higher classes samurai in the Muromachi period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This pattern of forming surnames was taken over by high-ranking samurai warriors, that is, the gokenin (immediate vassals of the shogun) class samurai during the Kamakura period and the kokujin (local samurai) class or higher classes samurai during the Muromachi period.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This pattern of forming surnames was taken over by high-ranking samurai warriors, that is, the gokenin (immediate vassals of the shogun) class samurai during the Kamakura period and the kokujin (local samurai) class or higher classes samurai during the Muromachi period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="56">
+<j>ところが、時代が下ると、名田を経営する百姓身分に属する一般の田堵負名の中からも、自らが経営請負をする名田の属する荘園公領を所領とする武士に、軍役を申し出て武士身分の一角に食い込み、名田の支配権を確固としたものにして所領としていこうとする動きが生じた。</j>
+<e type="trans" ver="1">However, in later periods, some ordinary farmers called tato and fumyo who managed myoden began to attempt to make inroads into the samurai class by offering military service for samurai who governed manors or Imperial demesnes containing the myoden managed by the tato or fumyo, so that they could consolidate their hold over their myoden to own it as their territories.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, in later periods, some ordinary farmers called tato and fumyo who managed myoden began to attempt to make inroads into the samurai class by offering military service for samurai who governed manors or Imperial demesnes containing the myoden managed by the tato or fumyo, so that they could consolidate their hold over their myoden to own it as their territories.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, in later periods, some ordinary farmers called tato and fumyo who managed myoden began to attempt to make inroads into the samurai class by offering military service for samurai who governed manors or Imperial demesnes containing the myoden managed by the tato or fumyo, so that they could consolidate their hold over their myoden to own it as their territories.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="57">
+<j>いわゆる地侍である。</j>
+<e type="trans" ver="1">They were so-called jizamurai.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They were so-called jizamurai.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They were so-called jizamurai.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="58">
+<j>そのため、室町時代以降の新興の中・下級武士たちの間では、再び名田を単位とした名字の名乗りが一般的になっていった。</j>
+<e type="trans" ver="1">This made the surname forming based on myoden popular again among samurai warriors in the newly-rising middle and lower classes from the Muromachi period onwards.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This made the surname forming based on myoden popular again among samurai warriors in the newly-rising middle and lower classes from the Muromachi period onwards.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This made the surname forming based on myoden popular again among samurai warriors in the newly-rising middle and lower classes from the Muromachi period onwards.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="59">
+<j>このように、名田は名字の発祥に深い関わりを持っている。</j>
+<e type="trans" ver="1">Thus myoden is deeply involved with the origin of surnames.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thus, myoden is deeply involved with the origin of surnames.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Thus, myoden is deeply involved with the origin of surnames.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Ligar(id:12623), Shimoxx(id:9332), ウミユスリカ(id:9504), ウィキ豊(id:82961), 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

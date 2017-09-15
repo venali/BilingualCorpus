@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>藩庁</j>
+<e type="trans" ver="1">Hancho (government building of domain)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hancho (domain office)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Hancho (domain office)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>藩庁（はんちょう）とは、江戸時代の日本の政治用語の一つ。</j>
+<e type="trans" ver="1">Hancho is a political term used during the Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hancho is a political term used during the Edo period.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hancho is a political term used during the Edo period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>藩庁とは、幕藩体制下において、藩の役所が置かれたところ（城郭・屋敷）である。</j>
+<e type="trans" ver="1">Hancho, where a domain&apos;s local office was set up, was located in a castle or a residence under the shogunate system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hancho was a place (a castle or a mansion) where the office of a domain was set up under the shogunate system.</e>
+<cmt>「役所」ではなく「役所が置かれたところ」なのでplaceを入れました。また、「住宅」ではなく「屋敷」なのでresidenceからmansionに変えました。</cmt>
+<e type="check" ver="1">Hancho was a place (a castle or a mansion) where the office of a domain was set up under the shogunate system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>大名（藩主）や藩士が常駐し、藩の行政業務を執り行う。</j>
+<e type="trans" ver="1">Daimyo (Japanese feudal lord) and hanshi (feudal retainer of domain) were stationed in hancho to handle the domain&apos;s administrative affairs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Daimyo (feudal lord) and hanshi (feudal retainer of domain) were stationed in hancho to handle the domain&apos;s administrative affairs.</e>
+<cmt>ここではJapaneseは特に必要ないため削除しました。</cmt>
+<e type="check" ver="1">Daimyo (feudal lord) and hanshi (feudal retainer of domain) were stationed in hancho to handle the domain&apos;s administrative affairs.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="5">
+<j>大藩は城に藩庁を置き、小藩は陣屋と呼ばれる屋敷に藩庁を置いた。</j>
+<e type="trans" ver="1">Large scale domains set up their own hancho in a castle, while small domains established their own ones in a residence called jinya.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Large scale domains set up their own hancho in a castle, and small domains in a mansion called jinya.</e>
+<cmt>後半は動詞と目的語を省略できるので省略しました。Residenceは普通の住居の意味もあるので、「屋敷」の雰囲気を出すためにmansionで代用しました。</cmt>
+<e type="check" ver="1">Large scale domains set up their own hancho in a castle, and small domains in a mansion called jinya.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>なかには、藩庁を設けない「無陣屋」の藩もあった。</j>
+<e type="trans" ver="1">Some domains did not set up their own hancho (domains without jinya [regional government office]).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Among them were some domains which did not set up their own hancho, and they were called &apos;&apos;mujinya (domains without regional government office).&apos;&apos;</e>
+<cmt>「なかには」の訳が抜けていたのでamong themを付け加えました。また「無陣屋」の説明の括弧が多いので減らし、読みやすいように書き換えました。</cmt>
+<e type="check" ver="1">Among them were some domains which did not set up their own hancho, and they were called &apos;&apos;mujinya (domains without regional government office).&apos;&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="7">
+<j>藩庁を中心に栄えた町を陣屋町といい、陣屋が城であった場合は城下町と呼ばれた。</j>
+<e type="trans" ver="1">The towns that developed around hancho was called jinyamachi, while those that developed around a castle jokamachi (castle town).</e>
+<cmt>「陣屋が城であった場合」は「城を中心に栄えた」としました。</cmt>
+<e type="trans" ver="2">The towns that developed around hancho were called jinyamachi, and those that developed around a castle jokamachi (castle towns).</e>
+<cmt>townsと複数なのでそれに合わせてwasをwereに変えました。またwhileを使うと順番が日本語と逆になってしまうので、andでつなげました。最後に城下町は複数あるのでsをつけました。</cmt>
+<e type="check" ver="1">The towns that developed around hancho were called jinyamachi, and those that developed around a castle jokamachi (castle towns).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 ふるさと(id:216167), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

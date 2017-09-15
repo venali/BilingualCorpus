@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>JR三山木駅</j>
+<e type="trans" ver="1">JR-Miyamaki Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR-Miyamaki Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR-Miyamaki Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>JR三山木駅（じぇいあーるみやまきえき）は、京都府京田辺市三山木高飛にある、西日本旅客鉄道（JR西日本）片町線の鉄道駅である。</j>
+<e type="trans" ver="1">Located in Miyamaki Takatobi, Kyotanabe City, Kyoto Prefecture, JR-Miyamaki Station is a stop on Katamachi Line which is operated by West Japan Railway Company (JR West).</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR-Miyamaki Station, located in Miyamaki Takatobi, Kyotanabe City, Kyoto Prefecture, is a stop on Katamachi Line, which is operated by the West Japan Railway Company (JR West).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">JR-Miyamaki Station, located in Miyamaki Takatobi, Kyotanabe City, Kyoto Prefecture, is a stop on the Katamachi Line, which is operated by the West Japan Railway Company (JR West).</e>
+<cmt>Katamachi Line→the Katamachi Lineに変更しました。</cmt>
+</sen>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Structure of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他ファイルと統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>島式1面2線ホームを持つ行違い可能な高架駅。</j>
+<e type="trans" ver="1">JR-Miyamaki Station is an elevated railway stop that has one island platform and two boarding areas, which enables two trains to pass each other.</e>
+<cmt>①「島式1面2線ホーム」とは「1つの島式プラットホーム、2つの乗り場」という意味です（Wiki 「プラットホーム」参照）。　②そこでは「プラットホーム」と「乗り場」を訳し分ける必要があることから、前者を&quot;platform&quot;後者を&quot;boarding area&quot;と訳しています(下線部）。</cmt>
+<e type="trans" ver="2">JR-Miyamaki Station is an elevated railway stop that has one island platform and two boarding areas, thus enabling two trains to pass each other.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">JR-Miyamaki Station is an elevated railway stop that has one island platform serving two tracks, thus enabling two trains to pass each other.</e>
+<cmt>boarding area →tracks と統一しました(線路２本を擁している島式ホーム、という解釈でよいのではと思います）。</cmt>
+</sen>
+<sen id="3">
+<j>ホームは4両編成分しかないが、将来的には8両編成分相当の長さまで拡張できるように建設されている。</j>
+<e type="trans" ver="1">The boarding area is so short as to be able to accommodate a train made up of 4 cars at best, but thanks to the construction in preparation for the future, the platform itself is long enough to accommodate a train made up of 8 cars.</e>
+<cmt>①上を前提に、「（4両編成分しかない）ホーム」とは「乗り場」（&quot;boarding area&quot;）のことであり、「将来に備えて8両編成分まで建設されている（もの）」は「プラットホーム」（&quot;platform&quot;）のことであると解しました。　②停車可能な車両が「乗り場」と「プラットホーム」とで異なる、というのは通常は考えにくいことですが、例えば（コンクリートの塊である）「プラットホーム」それ自体は８両分まで作ってあっても、乗客の乗り降りを予定している場所（「乗り場」）としては点字ブロック等が４両分の長さまでしかない、ということはありえることです。</cmt>
+<e type="trans" ver="2">The boarding area is only long enough to accommodate a train of up to four cars, but thanks to the construction in preparation for the future, the platform will be long enough to accommodate a train of up to eight cars.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The platform is only long enough to accommodate a train of up to four cars, but thanks to the construction in preparation for the future, the platform will be long enough to accommodate a train of up to eight cars.</e>
+<cmt>ホーム＝boarding area ではないかと解釈し、そのままホームと致しました（他ファイルでもそのようになっています）。</cmt>
+</sen>
+<sen id="4">
+<j>なお、2010年3月（2009年度末）をめどにホームを延伸し、当駅にも7両編成の列車が乗り入れる予定である。</j>
+<e type="trans" ver="1">In addition, the boarding area is also planned to be extended by around March of 2010 (the end of fiscal 2009) for accommodating a train made up of 7 cars.</e>
+<cmt>ここでも７.E②を前提に「延伸」が予定されている「ホーム」とは&quot;boarding area&quot;のこととして訳しています。</cmt>
+<e type="trans" ver="2">Additionally, the boarding area will be extended in around March of 2010 (the end of fiscal 2009) to accommodate trains of up to seven cars.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, the platform will be extended in around March of 2010 (the end of fiscal year 2009) to accommodate trains of up to seven cars.</e>
+<cmt>ホーム＝boarding area ではないかと解釈し、そのままホームと致しました（他ファイルでもそのようになっています）。fiscal → fiscal yearに変更しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>高架駅だが、エレベーター、エスカレーターは設置されていない。</j>
+<e type="trans" ver="1">The station is an elevated railway stop, but it is equipped with neither an elevator nor an escalator.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station is an elevated railway stop, but it has neither an elevator nor an escalator.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station is an elevated railway stop, but it has neither an elevator nor an escalator.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>駅構内にトイレは設置されていないが、駅前に公衆トイレが設置されている。</j>
+<e type="trans" ver="1">And there is no restroom on the station premises, but a public restroom exists in front of the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is no restroom on the station premises, but a public restroom is provided in front of the station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There is no restroom on the station premises, but a public restroom is provided in front of the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>無人駅で、ICOCAやJスルーなどは専用の簡易改札機で対応する。</j>
+<e type="trans" ver="1">The station is unmanned, and ICOCA and J-Through Card, which are both passengers&apos; IC cards available for payment of railway fares, are read by a special and simple version of an automatic ticket gate.</e>
+<cmt>※ICOCAは&quot;IC Operating Card&quot;の省略形であり、そこに既に&quot;Card&quot;が含まれていることから、Jスルーと異なり英訳では&quot;Card&quot;を付していません。</cmt>
+<e type="trans" ver="2">The station is unmanned, and the ICOCA and J-Through cards, which are both passenger IC cards available for payment of railway fares, are read by a simplified version of an automatic ticket gate.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station is unmanned, and the ICOCA and J-Through cards, which are both passenger IC cards available for payment of railway fares, are read by a simplified version of an automatic ticket gate.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>但しJスルーカードについては、簡易改札機による対応のため複数枚の処理不可。</j>
+<e type="trans" ver="1">And this simple version machine cannot handle plural J-Through Cards at a time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This machine can&apos;t handle multiple J-Through cards simultaneously.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This machine can&apos;t handle multiple J-Through cards simultaneously.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>駅前のバスターミナルからは、学校法人同志社京田辺キャンパス（同志社大学、同志社女子大学、同志社国際高等学校）方面へのバスの発着が多い。</j>
+<e type="trans" ver="1">Many bus services strart from the bus terminal that is located in front of JR-Miyamaki Station, and those bus services go for and come back from the Doshisya Kyotanabe Campus, where there are Doshisya University, Doshisya Women&apos;s College of Liberal Arts and Doshisya International Senior High School.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many bus services strart from the bus terminal located in front of JR-Miyamaki Station, and those bus services go for and come back from the Doshisha Kyotanabe Campus, where there are Doshisha University, Doshisha Women&apos;s College of Liberal Arts and Doshisha International Senior High School.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Many bus services start from the bus terminal located in front of JR-Miyamaki Station, and those bus services go for and come back from the Doshisha Kyotanabe Campus, where there are Doshisha University, Doshisha Women&apos;s College of Liberal Arts and Doshisha International Senior High School.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+<sen id="10">
+<j>同志社京田辺キャンパスへはJR同志社前駅や近鉄興戸駅が近いが、その両駅にはバスが乗り入れていない。</j>
+<e type="trans" ver="1">Doshisya Kyotanabe Campus is located nearer both from JR Doshisyamae Station and from Kintetsu Kodo Station than from JR-Miyamaki Station, but bus services don&apos;t make a stop at the former two stations.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Doshisha Kyotanabe Campus is nearer to both from JR Doshisyamae Station and Kintetsu Kodo Station than from JR-Miyamaki Station, but bus services don&apos;t stop at the aforementioned two stations.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Doshisha Kyotanabe Campus is nearer to both from JR Doshishamae Station and Kintetsu Kodo Station than from JR-Miyamaki Station, but bus services don&apos;t stop at the aforementioned two stations.</e>
+<cmt>OK</cmt>
+</sen>
+<sen id="11">
+<j>そのため、奈良交通はJR三山木駅と近鉄三山木駅を同志社へのバスの玄関口として位置づけ、バス利用の促進のために同志社の学生・教職員を対象とした特別の割引回数券を販売している。</j>
+<e type="trans" ver="1">So JR-Miyamaki Station and Kintetsu Miyamaki Station are regarded as the starting point of the bus service to the Doshisya Kyotanabe Campus by Nara Kotsu Bus Lines Co.,Ltd, so special discount commuter coupon tickets are on sale for students and the staff of Doshisya to promote the bus ride.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accordingly, JR-Miyamaki Station and Kintetsu Miyamaki Station are regarded as the starting point of the bus service to the Doshisha Kyotanabe Campus by Nara Kotsu Bus Lines Co., Ltd., so special discount commuter coupon tickets are sold to students and the staff of Doshisha to promote the use of the bus.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Accordingly, JR-Miyamaki Station and Kintetsu Miyamaki Station are regarded as the starting point of the bus service to the Doshisha Kyotanabe Campus by Nara Kotsu Bus Lines Co., Ltd., so special discount commuter coupon tickets are sold to students and the staff of Doshisha to promote the use of the bus.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="12">
+<j>駅前を大幅に改良工事中で、隣接する近鉄三山木駅との間には奈良交通バスが乗り入れできるバスターミナルも設置された。</j>
+<e type="trans" ver="1">The space in front of JR-Miyamaki Station is under construction for total refinement, and the bus terminal has been already established in between JR-Miyamaki Station and Kintetsu Miyamaki Station, where bus services, provided by Nara Kotsu Bus Lines Co.,Ltd, can make a stop.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The space in front of JR-Miyamaki Station is under construction for total refinement, and the bus terminal has already been established between JR-Miyamaki Station and Kintetsu Miyamaki Station, where the bus services provided by Nara Kotsu Bus Lines Co., Ltd., can make stops.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The space in front of JR-Miyamaki Station is under construction for total refinement, and the bus terminal has already been established between JR-Miyamaki Station and adjacent Kintetsu Miyamaki Station, where the bus services provided by Nara Kotsu Bus Lines Co., Ltd., can make stops.</e>
+<cmt>隣接する　を追加しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="13">
+<j>1番線が一線スルーのため、一時期は行違い時を除き上下問わず1番線に発着していた。</j>
+<e type="trans" ver="1">Boarding Area 1 adopted &quot;Issen-through,&quot;which means the system of speeding up the prioritized train of the two trains, which come from both sides of a single track, by limiting the prioritized train&apos;s running line to one track of the specially equipped double track in the station, so every train, both up service and down service, formerly arrived at and started from Boarding Area 1 except when letting another train go first.</e>
+<cmt>①「…番線」も７・E②に鑑み&quot;boarding area&quot;と訳しています。②「一線スルー（狭義）」とは「単線区間にある駅で双方向から来た列車を行き違いさせる場合に、優先的に通過（スルー）させる方の列車の走る線路を、駅内にある複線のうちの一線に限ることで、その通過速度を上げる方式」(Wiki 「一線スルー」参照。）のことで、それをDの２行目から５行目にかけて訳出したつもりです。</cmt>
+<e type="trans" ver="2">Boarding Area 1 employs &quot;Issen-through,&quot; the system of speeding up the prioritized train of the two trains, which come from both sides of a single track, by limiting the prioritized train&apos;s running line to one track of the specially equipped double track in the station; formerly, every train whether up service or down service, arrived at and started from Boarding Area 1 except when letting another train go first.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Platform 1 employs &quot;Issen-through,&quot; the system of speeding up the prioritized train of the two trains, which come from both sides of a single track, by limiting the prioritized train&apos;s running line to one track of the specially equipped double track in the station; formerly, every train whether inbound service or outbound service, arrived at and departed from Platform 1 except when letting another train go first.</e>
+<cmt>一番線→Platform 1としました。上り、下り→inbound, outboundとしました。&quot;started from and arrived at&quot;→&quot;arrived at and departed from&quot;に変更しました。</cmt>
+</sen>
+<sen id="14">
+<j>但し2007年度のダイヤでは昼間時に当駅で列車行違いを行うため、木津行きの大半は2番線の発着となっており、加えて夜間は行違いの有無に関係なく木津行きが2番線に入るため、1番線発着の木津行きは朝の時間帯のみである。</j>
+<e type="trans" ver="1">However, with the timetable change in fiscal 2007, most trains for Kizu Station arrive at and start from Boarding Area 2 during the daytime because two trains pass each other here at JR-Miyamaki Station, and at night, all trains for Kizu Station arrive at and start from Boarding Area 2, and so it is just in the morning that trains for Kizu Station arrive at and start from Boarding Area 1.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, with the timetable change in fiscal 2007, most trains for Kizu Station arrive at and start from Boarding Area 2 during the daytime because two trains pass each other here at JR-Miyamaki Station, and at night all trains for Kizu Station arrive at and start from Boarding Area 2; therefore, it&apos;s only in the morning that trains for Kizu Station arrive at and start from Boarding Area 1.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">However, with the timetable change in fiscal year 2007, most trains for Kizu Station arrive at and depart from Platform 2 during the daytime because two trains pass each other here at JR-Miyamaki Station, and at night all trains for Kizu Station arrive at and depart from Platform 2; therefore, it&apos;s only in the morning that trains for Kizu Station arrive at and depart from Platform 1.</e>
+<cmt>一番線→Platform 1としました。fiscal → fiscal yearに変更しました。&quot;start from and arrive at&quot;→&quot;arrive at and depart from&quot;に変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>位置情報</j>
+<e type="trans" ver="1">Location information</e>
+<cmt></cmt>
+<e type="trans" ver="2">Location information</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Location</e>
+<cmt>他ファイルと統一しました。</cmt>
+</tit>
+</sec>
+<sec id="3">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Surroundings of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他ファイルと統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="15">
+<j>三山木駅 - 近鉄京都線</j>
+<e type="trans" ver="1">Miyamaki Station - Kintetsu Kyoto Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miyamaki Station - Kintetsu Kyoto Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyamaki Station - Kintetsu Kyoto Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="16">
+<j>京田辺市立三山木小学校</j>
+<e type="trans" ver="1">Kyotanabe City Miyamaki Elementary School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyotanabe City Miyamaki Elementary School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyotanabe City Miyamaki Elementary School</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="17">
+<j>田辺三山木郵便局</j>
+<e type="trans" ver="1">Tanabe Miyamaki Post Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanabe Miyamaki Post Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tanabe Miyamaki post office</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="18">
+<j>京都厚生年金休暇センター</j>
+<e type="trans" ver="1">Wel Sunpia KYOTO</e>
+<cmt></cmt>
+<e type="trans" ver="2">Wel Sunpia KYOTO</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Wel Sunpia KYOTO</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="19">
+<j>同志社大学京田辺キャンパス</j>
+<e type="trans" ver="1">Kyotanabe Campus of Doshisya University</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyotanabe Campus of Doshisha University</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Kyotanabe Campus of Doshisha University</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="20">
+<j>京都府道22号八幡木津線</j>
+<e type="trans" ver="1">Kyoto Prefectural Road No. 22, Yawata-Kizu Road</e>
+<cmt>京都府道22号八幡木津線→Kyoto Prefectural Road No.22, Yawata-Kizu Road [定訳不明]</cmt>
+<e type="trans" ver="2">Kyoto Prefectural Road No. 22, Yawata-Kizu Road</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yawata-Kizu Line of Kyoto Prefectural Route 22</e>
+<cmt>道路の表現を統一しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="21">
+<j>奈良県道・京都府道65号生駒井手線</j>
+<e type="trans" ver="1">Nara and Kyoto Prefectural Road No.65, Ikoma-Ide Road</e>
+<cmt>奈良県道・京都府道65号生駒井手線→Nara and Kyoto Prefectural Road No.65, Ikoma-Ide Road [定訳不明]</cmt>
+<e type="trans" ver="2">Nara and Kyoto Prefectural Road No. 65, Ikoma-Ide Road</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Ikoma-Ide Line of Nara and Kyoto Prefectural Route 65</e>
+<cmt>道路の表現を統一しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="22">
+<j>利用状況</j>
+<e type="trans" ver="1">Situation of passengers&apos; use</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger usage statistics</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>他ファイルと統一しました。</cmt>
+</sen>
+<sen id="23">
+<j>2006年度の1日あたりの乗車人員は約425人である（京都府統計書より）。</j>
+<e type="trans" ver="1">In fiscal 2006, the number of passengers who used this station was about 425 a day (according to the statistics of Kyoto Prefecture).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of passengers who used this station was approximately 425 a day in fiscal 2006 (according to the statistics of Kyoto Prefecture).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The number of passengers who used this station was approximately 425 a day in fiscal year 2006 (according to the Kyoto Prefecture Statistics Report).</e>
+<cmt>他ファイルと統一しました。fiscal → fiscal yearに変更しました。</cmt>
+</sen>
+<sen id="24">
+<j>片町線の駅では、最も利用者が少ない。</j>
+<e type="trans" ver="1">It was the least of all stations on Katamachi Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was the least used of all stations on the Katamachi Line.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">It was the least used of all stations on the Katamachi Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>駅名の由来</j>
+<e type="trans" ver="1">Origin of the station name</e>
+<cmt></cmt>
+<e type="trans" ver="2">Origin of the station&apos;s name</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Origin of the station&apos;s name</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="25">
+<j>所在地に由来するが、当駅向かいにある近鉄京都線の三山木駅と区別するため、JRを冠した。</j>
+<e type="trans" ver="1">The station name &quot;Miyamaki&quot; originates from its location, and &quot;JR&quot; is attached on the head to distinguish itself from Miyamaki Station on Kintetsu Kyoto Line, which is located on the opposite side of JR-Miyamaki Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station name &quot;Miyamaki&quot; originates from its location, and &quot;JR&quot; is attached to distinguish it from Miyamaki Station on the Kintetsu Kyoto Line, which is located on the opposite side of JR-Miyamaki Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station name &quot;Miyamaki&quot; originates from its location, and &quot;JR&quot; is attached to distinguish it from Miyamaki Station on the Kintetsu Kyoto Line, which is located on the opposite side of JR-Miyamaki Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="26">
+<j>1952年（昭和27年）12月1日 上田辺駅（かみたなべえき）として開業。</j>
+<e type="trans" ver="1">December 1, 1952--The stop opened as&quot;Kamitanabe Station.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 1, 1952: The stop opened as &quot;Kamitanabe Station.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">December 1, 1952: The stop opened as &quot;Kamitanabe Station.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>1面1線の無人駅。</j>
+<e type="trans" ver="1">It was an unmanned stop that had one side platform and one boarding area.</e>
+<cmt>「1面1線」とは具体的には「単式プラットホームが１つ、乗り場が１つ」ということ（Wiki｢プラットホーム」参照）であり、&quot;one side platform and one boarding area&quot;と訳しています。</cmt>
+<e type="trans" ver="2">It was an unmanned stop that had one side platform and one boarding area.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was an unmanned stop that had a single platform serving a track.</e>
+<cmt>boarding area →tracks と統一しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="28">
+<j>1987年（昭和62年）4月1日 国鉄分割民営化により、JR西日本の駅となる。</j>
+<e type="trans" ver="1">April 1, 1987--The station became a JR West stop because of the division and privatization of JNR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1987: The station became a JR West stop due to the division and privatization of JNR.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">April 1, 1987: The station became a JR West stop due to the division and privatization of JNR.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="29">
+<j>1997年（平成9年）3月8日 JR三山木駅に改称。</j>
+<e type="trans" ver="1">March 8, 1997--The station was renamed &quot;JR-Miyamaki Station.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 8, 1997: The station was renamed &quot;JR-Miyamaki Station.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 8, 1997: The station was renamed &quot;JR-Miyamaki Station.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="30">
+<j>2002年（平成14年）3月16日 木津方へ200m移転し、高架化。</j>
+<e type="trans" ver="1">March 16, 2002--The station was moved in the direction of Kizu by 200 meters, and was converted into an elevated railway stop.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 16, 2002: The station was moved 200 meters in the direction of Kizu and was converted into an elevated railway stop.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 16, 2002: The station was moved 200 meters in the direction of Kizu and was converted into an elevated railway stop.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>同時に島式1面2線の行き違い可能な駅に。</j>
+<e type="trans" ver="1">And at the same time, the station was equipped with one island platform and two boarding areas, which enables two trains to pass each other.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And at the same time, the station was equipped with one island platform and two boarding areas, which enables two trains to pass each other.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">And at the same time, the station was equipped with one island platform with two tracks, which enables two trains to pass each other.</e>
+<cmt>boarding area →tracks と統一しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Next station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Next station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他ファイルと統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="32">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Railway Company</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>(JR West)　を追加しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="33">
+<j>■学研都市線（片町線）</j>
+<e type="trans" ver="1">Gakkentoshi Line (Katamachi Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gakkentoshi Line (Katamachi Line)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gakkentoshi Line (Katamachi Line)</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="34">
+<j>■快速・■区間快速・■普通（区間快速は下りのみ運転）</j>
+<e type="trans" ver="1">Rapid train/ Regional rapid train/ Local train (The reginal rapid train is for the down service only)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid train/ Regional rapid train/ Local train (The reginal rapid train is for the down service only.)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Rapid/Regional Rapid/Local (The Regional Rapid is for the outbound service only.)</e>
+<cmt>下り→outbound としました。スペルを修正しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="35">
+<j>下狛駅 - JR三山木駅 - 同志社前駅</j>
+<e type="trans" ver="1">Shimokoma Station - JR Miyamaki Station - Doshisyamae Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shimokoma Station - JR Miyamaki Station - Doshisyamae Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shimokoma Station - JR-Miyamaki Station - Doshishamae Station</e>
+<cmt>JR-Miyamaki としました。スペルを修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), 城山(id:104901), Ignis(id:28979), MASA(id:2399), Hikichimin Jr.(id:147077), Yuta415(id:149253), 準ちゃん(id:169752), さにー(id:109217), けぃ(id:45520), Wikipedianet(id:9608), Ikaxer(id:61759), Utsuda(id:605), Shinkansen(id:13703), Rusk(id:9895), Ichii-ya(id:48912), Sanpei(id:100623), Bandalgom(id:31841), Asterisk(id:81766), 金山銀山銅山(id:163855), R28Bot(id:177951), Kyoutanabe124(id:175304), Kone(id:377), Chobot(id:20846), Hirotaro(id:1437), Mipu(id:5360), Suzuhara Misakiti(id:194615), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

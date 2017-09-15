@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>けいはんなプラザホテル</j>
+<e type="trans" ver="1">KEIHANNA PLAZA HOTEL</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihanna Plaza Hotel</e>
+<cmt>I am unsure as to why the hotel name is all in capitals as this is not the case with other private institutions.</cmt>
+<e type="check" ver="1">Keihanna Plaza Hotel</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>けいはんなプラザホテル（KEIHANNA PLAZA HOTEL）は、関西文化学術研究都市の中核交流施設、けいはんなプラザの宿泊施設。</j>
+<e type="trans" ver="1">KEIHANNA PLAZA HOTEL is an accommodation facility within KEIHANNA PLAZA which is the central interaction facility of Kansai Science City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihanna Plaza Hotel is an accommodation facility within Keihanna Plaza which is the central intersecting facility of Kansai Science City.</e>
+<cmt>I am unsure as to why the hotel name is all in capitals as this is not the case with other private institutions.Word choice.</cmt>
+<e type="check" ver="1">Keihanna Plaza Hotel is an accommodation facility within Keihanna Plaza which is the central intersecting facility of Kansai Science City.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>当初は都ホテルズリゾーツのけいはんな都ホテルとして運営されていた。</j>
+<e type="trans" ver="1">It used to be the Keihanna Miyako Hotel as a part of Miyako Hotels &amp; Resorts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It used to be the Keihanna Miyako Hotel, a part of Miyako Hotels and Resorts.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">At first, it was managed as the Keihanna Miyako Hotel, a part of Miyako Hotels and Resorts.</e>
+<cmt>trans 2 の訳では「当初は」というニュアンスが若干弱いように感じられました。It used to be → At first, it was managed as</cmt>
+</sen>
+<sen id="3">
+<j>その後、レストラン部門から撤退、宿泊部門のみでけいはんなプラザホテルとして存続している。</j>
+<e type="trans" ver="1">Miyako Hotels &amp; Resorts later withdrew itself from the restaurant industry but remained in the accommodation industry, and the accommodation facility is currently operated as KEIHANNA PLAZA HOTEL.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miyako Hotels and Resorts later withdrew from the restaurant industry but remained in the accommodation industry, and this accommodation facility is currently operated as Keihanna Plaza Hotel.</e>
+<cmt>grammar.</cmt>
+<e type="check" ver="1">Miyako Hotels and Resorts later withdrew from the restaurant industry, thus it remains as Keihanna Plaza Hotel with only the accomodation industry.</e>
+<cmt>「宿泊部門のみで」の「のみ」が訳漏れと感じられたのですが、trans 2 の訳では挿入が難しかったので、全文変更してみました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>周辺</j>
+<e type="trans" ver="1">Surrounding areas</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the surrounding area</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">In the surrounding area</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>学研都市展示館</j>
+<e type="trans" ver="1">Gakkentoshi exhibition pavilion</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gakkentoshi Exhibition Pavilion</e>
+<cmt>Capitalized as seems to be a proper noun</cmt>
+<e type="check" ver="1">Gakkentoshi Exhibition Pavilion</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>国立国会図書館 国立国会図書館関西館</j>
+<e type="trans" ver="1">Kansai-kan of the National Diet Library</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kansai-kan of the National Diet Library</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kansai-kan of the National Diet Library</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>ルイ・ルルー美術館</j>
+<e type="trans" ver="1">Musee Louis Leloup</e>
+<cmt></cmt>
+<e type="trans" ver="2">Musee Louis Leloup Museum</e>
+<cmt>Musee&apos; is not English, so it may be advisable to add &apos;Museum&apos; to the end for clarity.</cmt>
+<e type="check" ver="1">Musee Louis Leloup Museum</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>私のしごと館</j>
+<e type="trans" ver="1">The Vocational Museum</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Vocational Museum</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Vocational Museum</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>けいはんな記念公園</j>
+<e type="trans" ver="1">Keihanna Commemorative Park</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihanna Commemorative Park</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihanna Commemorative Park</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>アクセス</j>
+<e type="trans" ver="1">Directions</e>
+<cmt></cmt>
+<e type="trans" ver="2">Directions</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Access</e>
+<cmt>Directions → Access</cmt>
+</sen>
+<sen id="11">
+<j>JR祝園駅・近鉄新祝園駅より奈良交通バスで10分程度。</j>
+<e type="trans" ver="1">Approximately 10 minutes by a Nara Kotsu Bus from JR Housono Station or Kintetsu Shin-Housono Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Approximately 10 minutes by Nara Kotsu Bus from JR Housono Station or Kintetsu Shin-Housono Station.</e>
+<cmt>Grammar.</cmt>
+<e type="check" ver="1">Approximately 10 minutes by Nara Kotsu Bus from JR Hosono Station or Kintetsu Shin-Hosono Station.</e>
+<cmt>Housono → Hosono</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Raad(id:4918), ぱむ(id:24323), NIKE(id:16342), 野草(id:110313), Mishika(id:276), Jinenjo51(id:93469), Highest-city(id:85175), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

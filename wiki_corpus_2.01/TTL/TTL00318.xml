@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>巡見使</j>
+<e type="trans" ver="1">Junkenshi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Junkenshi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Junkenshi</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>巡見使（じゅんけんし）とは、江戸幕府が諸国の大名・旗本の監視と情勢調査のために派遣した上使のこと。</j>
+<e type="trans" ver="1">The junkenshi is an envoy of the Edo shogunate dispatched for surveillance of the daimyos (feudal lords) and hatamoto (shogunal retainers).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The junkenshi is an envoy of the Edo shogunate dispatched for surveillance of the daimyos (feudal lords) and hatamotos (shogunal retainers), and for research on the situation.</e>
+<cmt>「情勢調査」の訳漏れを訂正しました。hatamoto→hatamotosに訂正しました。（daimyosと表現を統一しました）</cmt>
+<e type="check" ver="1">The junkenshi is an envoy of the Edo shogunate dispatched for surveillance of the daimyos (feudal lords) and hatamotos (shogunal retainers), and for research on the situation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>大きく分けると、公儀御料（天領）及び旗本知行所を監察する御料巡見使と諸藩の大名を監察する諸国巡見使があった。</j>
+<e type="trans" ver="1">The junkenshi can be classified largely into goryo-junkenshi sent to inspect the tenryo (shogunal properties) and hatamoto fiefdoms and shokoku-junkenshi responsible for surveillance of the daimyos.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The junkenshi can be classified broadly into goryo-junkenshi sent to inspect the kogi-goryo (tenryo [shogunal properties]) and hatamoto fiefdoms and shokoku-junkenshi responsible for surveillance of the daimyos of domains.</e>
+<cmt>「公儀御料」、「諸藩の」の部分の訳漏れを訂正しました。largely→原文の意味に近いbroadlyに訂正しました。</cmt>
+<e type="check" ver="1">The junkenshi can be classified broadly into goryo-junkenshi sent to inspect the kogi-goryo (tenryo [shogunal properties]) and hatamoto fiefdoms and shokoku-junkenshi responsible for surveillance of the daimyos of domains.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>成立</j>
+<e type="trans" ver="1">Establishment</e>
+<cmt></cmt>
+<e type="trans" ver="2">Establishment</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Establishment</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>江戸幕府においては元和_(日本)2年（1616年）の元和軍役令を制定して、大名・旗本に軍役・奉仕の義務付けを行ったが、この体制の維持のために旗本は職務による例外を除いては江戸常駐（定府）を命じ、大名には寛永12年（1635年）には、江戸常駐の代替として参勤交代制の導入（武家諸法度改正）を行った。</j>
+<e type="trans" ver="1">The Edo shogunate introduced the Eiwa military service in 1616 to make military service compulsory to the feudal lords and the hatamoto (shogunal retainers). In order to maintain this system, the hatamotos were required to be stationed permanently in Edo, except under special assignments, and the daimyos were governed under the Sankinkotai scheme (amendment of the Buke shohatto, or the code of warrior households), in which the lords were required to reside in Edo in alternate years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Edo shogunate introduced the Genna Military Service Order in 1616 to make military service compulsory to the daimyos and the hatamotos, in order to maintain this system, the hatamotos were required to be stationed permanently in Edo (Jofu), except under special assignments, and in 1635, the daimyos were governed under the Sankinkotai system (amendment of the Buke shohatto, or the code of warrior households), in which the lords were required to reside in Edo in alternate years, instead of stationing permanently in Edo.</e>
+<cmt>the Eiwa military service→誤訳のためthe Genna Military Service Orderに訂正しました。定訳は不明です。「大名・旗本」の訳は前出の訳と統一しました。. In→ピリオドで２つの文に分かれていたためコンマに訂正しました。「江戸常駐の代替として」、「定府」、「1635年」の訳漏れを訂正しました。Sankinkotai scheme→Sankinkotai systemに訂正しました。</cmt>
+<e type="check" ver="1">The Edo shogunate introduced the Genna Military Service Order in 1616 to make military service compulsory to the daimyos and the hatamotos, in order to maintain this system, the hatamotos were required to be stationed permanently in Edo (Jofu), except under special assignments, and in 1635, the daimyos were governed under the Sankinkotai system (amendment of the Buke shohatto, or the code of warrior households), in which the lords were required to reside in Edo in alternate years, instead of stationing permanently in Edo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>巡見使は旗本のこうした軍役・奉仕義務を行うための政治的・軍事的な地盤をそれぞれの知行で確立できているかを幕府側が直接確認することを目的としてとして導入されたものであり、参勤交代とは対として考えられていた。</j>
+<e type="trans" ver="1">The office of junkenshi was created for the Edo shogunate to directly inspect the hatamoto retainers whether they have established the political and military foundations in their respective fiefs for providing military service to the shogunate and was regarded part and parcel to the Shinkinkotai scheme.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The office of junkenshi was created for the Edo shogunate to directly inspect the hatamotos whether they had established the political and military foundations in their respective fiefs for providing military service to the shogunate and was regarded as a pair with the Sankinkotai system.</e>
+<cmt>hatamoto retainers→hatamotosに訂正しました。（前出の訳と統一）have established→had establishedに時制を訂正しました。was regarded→was regarded asに訂正しました。（文法上）part and parcel to→原文により近いa pair withに訂正しました。Shinkinkotai→スペルミスのためSankinkotaiに訂正しました。Scheme→原文により近いsystemに訂正しました。</cmt>
+<e type="check" ver="1">The office of junkenshi was created for the Edo shogunate to directly inspect the hatamotos whether they had established the political and military foundations in their respective fiefs for providing military service to the shogunate and was regarded as a pair with the Sankinkotai system.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>元和元年11月19日 (旧暦)、徳川家康は武家諸法度・一国一城制が遵守されているかを確かめるために、3年に1度諸国の監察を行う「国廻り派遣」の方針を打ち出したが、会津地方への監察が1度行われたのみに終わった。</j>
+<e type="trans" ver="1">On November 19, 1615, Ieyasu TOKUGAWA unveiled the new policy of &quot;kunimawari-haken (dispatch of inspectors to feudal domains)&quot; to be conducted once every 3 years in order to examine whether the Buke shohatto code and &quot;ikkoku ichijo sei (allowing only one castle per domain)&quot; are being observed faithfully but implemented the policy only once with inspectors sent to the Aizu region.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On November 19, 1615, Ieyasu TOKUGAWA unveiled the new policy of &apos;kunimawari-haken&apos; (dispatch of inspectors to feudal domains) to be conducted once every 3 years in order to examine whether the Buke shohatto code and ikkoku ichijo sei (allowing only one castle per domain) were being observed faithfully but implemented the policy only once with inspectors sent to the Aizu region.</e>
+<cmt>&quot;kunimawari-haken (dispatch of inspectors to feudal domains)&quot;→&apos;kunimawari-haken&apos; (dispatch of inspectors to feudal domains)に訂正しました。&quot;ikkoku ichijo sei (allowing only one castle per domain)&quot; →ikkoku ichijo sei (allowing only one castle per domain) に訂正しました。are being→were beingに時制を訂正しました。</cmt>
+<e type="check" ver="1">On November 19, 1615, Ieyasu TOKUGAWA unveiled the new policy of &apos;kunimawari-haken&apos; (dispatch of inspectors to feudal domains) to be conducted once every 3 years in order to examine whether the Buke shohatto code and ikkoku ichijo sei (allowing only one castle per domain) were being observed faithfully but implemented the policy only once with inspectors sent to the Aizu region.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>8年後の元和9年（1623年）に、徳川秀忠は豊後国に配流された甥（娘婿）松平忠直の状況視察を目的として「国目付」を派遣しているが、これも「国廻り派遣」の1種であった。</j>
+<e type="trans" ver="1">In 1623, Hidetada TOKUGAWA dispatched &quot;kuni-metsuke&quot; for surveillance of Tanadano MATSUDAIRA, his nephew (adopted son-in-law) exiled to Bingo region, which was also a type of &quot;kunimawari-haken.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">8 years later, in 1623, Hidetada TOKUGAWA dispatched &apos;kuni-metsuke&apos; for surveillance of Tadanao MATSUDAIRA, his nephew (adopted son-in-law) exiled to Bungo Province, which was also a type of &apos;kunimawari-haken.&apos;</e>
+<cmt>「8年後の」の訳漏れを訂正しました。&quot;&quot;→原文が「」のため&apos;&apos;に訂正しました。(二箇所)Tanadano→スペルミスのためTadanaoに訂正しました。Bingo region→誤訳のためBungo Provinceに訂正しました。</cmt>
+<e type="check" ver="1">8 years later, in 1623, Hidetada TOKUGAWA dispatched &apos;kuni-metsuke&apos; for surveillance of Tadanao MATSUDAIRA, his nephew (adopted son-in-law) exiled to Bungo Province, which was also a type of &apos;kunimawari-haken.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>本格的な派遣再開は徳川家光が親政を始めて1年後の寛永10年1月6日 (旧暦)（1633年）に慶長日本図の校訂を理由として「国廻り派遣」を行うことを決めた。</j>
+<e type="trans" ver="1">The inspection tours were resumed in earnest by Iemitsu TOKUGAWA in the second year of his reign free of control of his retired father, when he decided on the dispatch of kunimawari-haken on January 6, 1633, on the claim that the Keicho map of Japan requires revision.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">The inspection tours were resumed in earnest by Iemitsu TOKUGAWA in the second year of his direct rule, when he decided on the implementation of the kunimawari-haken on January 6 (based on the old calendar), 1633, on the grounds that the Keicho map of Japan required revision.</e>
+<cmt>of his reign free of control of his retired father→原文の意味に近いof his direct ruleに訂正しました。the dispatch of kunimawari-haken→the implementation of the kunimawari-hakenに訂正しました。（「派遣」の重複を避けるため）「(旧暦)」の訳漏れを訂正しました。on the claim that→on the grounds thatに訂正しました。（文法上）requires→requiredに時制を訂正しました。</cmt>
+<e type="check" ver="1">The inspection tours were resumed in earnest by Iemitsu TOKUGAWA in the second year of his direct rule, when he decided on the implementation of the kunimawari-haken on January 6 (based on the old calendar), 1633, on the grounds that the Keicho map of Japan required revision.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>2月8日 (旧暦)に、小出吉親・市橋長政・溝口善勝・小出三尹・桑山一直・分部光信の6名の譜代大名格を正使として各地に派遣したのが最初とされている。</j>
+<e type="trans" ver="1">On February 8 (based on the older calendar), 6 with daimyo status, namely, Yoshichika KOIDE, Nagamasa ICHIHASHI, Yoshimasa MIZOGUCHI, Mitsumasa KOIDE, Kazunao KUWAYAMA and Mitsunobu WAKEBE, were sent as official envoys to various parts of the country.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">It is said that the first dispatch was on February 8 (based on the old calendar), when 6 with fudai daimyo (hereditary vassals to the Tokugawa Family) status, namely, Yoshichika KOIDE, Nagamasa ICHIHASHI, Yoshikatsu MIZOGUCHI, Mitsumasa KOIDE, Kazunao KUWAYAMA and Mitsunobu WAKEBE, were sent as official envoys to various parts of the country.</e>
+<cmt>「最初とされている」の部分の訳漏れを訂正しました。the older calendar→the old calendarに訂正しました。daimyo status→原文に合わせfudai daimyo (hereditary vassals to the Tokugawa Family) statusに訂正しました。Yoshimasa MIZOGUCHI→誤訳のためYoshikatsu MIZOGUCHIに訂正しました。</cmt>
+<e type="check" ver="1">It is said that the first dispatch was on February 8 (based on the old calendar), when 6 with fudai daimyo (hereditary vassals to the Tokugawa Family) status, namely, Yoshichika KOIDE, Nagamasa ICHIHASHI, Yoshikatsu MIZOGUCHI, Mitsumasa KOIDE, Kazunao KUWAYAMA and Mitsunobu WAKEBE, were sent as official envoys to various parts of the country.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>この際には副使として使番・小姓組あるいは書院番に属する旗本からそれぞれ1名ずつが付けられた。</j>
+<e type="trans" ver="1">Each envoy was accompanied by one hatamoto retainer each from tsukaiban (responsible for order and patrol), koshogumi (page corps) and shoinban (castle guard) offices, serving as vice-envoys.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Each envoy was accompanied by one hatamoto each from tsukaiban (responsible for order and patrol), koshogumi (page corps) or shoinban (castle guard) offices, serving as vice-envoys.</e>
+<cmt>hatamoto retainers→hatamotosに訂正しました。（前出の訳と統一）and shoinban→原文に合わせor shoinbanに訂正しました。</cmt>
+<e type="check" ver="1">Each envoy was accompanied by one hatamoto each from tsukaiban (responsible for order and patrol), koshogumi (page corps) or shoinban (castle guard) offices, serving as vice-envoys.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>彼らは地図の校訂を行うと同時に当時既に構想されていた参勤交代実施時の大名行列のルートを確認する意図があったとされている。</j>
+<e type="trans" ver="1">In addition to revision of the map, these envoys are believed to have been on the mission of confirming the travel routes to be taken by the feudal lords and their retinues in the Sankinkotai that was already in planning at that time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition to revision of the map, these envoys are believed to have been on the mission of confirming the travel routes to be taken by the daimyos and their retinues in the Sankinkotai that had already been in planning at that time.</e>
+<cmt>feudal lords→daimyosに訂正しました。（前出の訳と統一）that was already→that had already beenに時制を訂正しました。</cmt>
+<e type="check" ver="1">In addition to revision of the map, these envoys are believed to have been on the mission of confirming the travel routes to be taken by the daimyos and their retinues in the Sankinkotai that had already been in planning at that time.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="11">
+<j>その後、再びこの制は途絶えていたが、徳川家綱の代に入った寛文4年4月5日 (旧暦)に全ての大名に対して寛文朱印状が交付され（寛文朱印改）、同年に宗門改が全ての領主に対して義務付けられた。</j>
+<e type="trans" ver="1">Although the practice was once again discontinued in later years, it re-emerged when Shogun Ietsuna TOKUGAWA issued on April 5, 1664 (based on the older calendar, the Kanbun Shuinjo to all feudal lords (Kanbun Shuinjo-aratame), requiring all lords to organize inquisitions for suppressing Christianity.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the practice was once again discontinued in later years, it re-emerged when Shogun Ietsuna TOKUGAWA issued on April 5, 1664 (based on the older calendar), the Kanbun Shuinjo (a vermillion seal letter) to all daimyos (Kanbun no Shuin Aratame), requiring all lords to organize inquisitions for suppressing Christianity in the same year.</e>
+<cmt>(based on the older calendar→ (based on the older calendar)に訂正しました。Kanbun Shuinjo→()内の説明を補足しました。feudal lords→daimyosに訂正しました。（前出の訳と統一）Kanbun Shuinjo-aratame→誤訳のためKanbun no Shuin Aratameに訂正しました。「同年に」の訳漏れを訂正しました。</cmt>
+<e type="check" ver="1">Although the practice was once again discontinued in later years, it re-emerged when Shogun Ietsuna TOKUGAWA issued on April 5, 1664 (based on the older calendar), the Kanbun Shuinjo (a vermillion seal letter) to all daimyos (Kanbun no Shuin Aratame), requiring all lords to organize inquisitions for suppressing Christianity in the same year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>それらの実施状況を確かめる事を名目として寛文7年2月18日_(旧暦)に諸国巡見使の制が導入されたのである。</j>
+<e type="trans" ver="1">In order to confirm the state of progress in the inquisition, the shokoku-junkenshi system was introduced on February 18, 1667.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In order to confirm the state of progress in the inquisition, the shokoku-junkenshi system was introduced on February 18, 1667 (based on the old calendar).</e>
+<cmt>「(旧暦)」の訳漏れを訂正しました。</cmt>
+<e type="check" ver="1">In order to confirm the state of progress in the inquisition, the shokoku-junkenshi system was introduced on February 18, 1667 (based on the old calendar).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>諸国巡見使</j>
+<e type="trans" ver="1">Shokoku-junkenshi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shokoku-junkenshi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shokoku-junkenshi</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>寛文7年の制によれば、責任者を若年寄としてその指揮監督にあたり、若年寄の支配下にあった使番1名を正使、同じく小姓番と書院番からそれぞれ1名ずつを副使として派遣することとした。</j>
+<e type="trans" ver="1">According to the system introduced in 1667, the envoys are led by a wakadoshiyori (junior elder) as supervisor, with one tsukaiban as official envoy reporting directly to the wakadoshiyori, accompanied by one from koshoban (page corps) and another from shoinban (castle guards) serving as vice-envoys.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the system introduced in 1667, the envoys were led by a wakadoshiyori (junior elder) as supervisor, with one tsukaiban as official envoy reporting directly to the wakadoshiyori, accompanied by one from koshoban (inner guards) and another from shoinban serving as vice-envoys.</e>
+<cmt>are led→were ledに時制を訂正しました。koshoban (page corps)→()内が「小姓組」と同じ訳になっていますが、役割が違うようなのでkoshoban (inner guards)に訂正しました。書院番の()内の説明は既出単語のため削除しました。</cmt>
+<e type="check" ver="1">According to the system introduced in 1667, the envoys were led by a wakadoshiyori (junior elder) as supervisor, with one tsukaiban as official envoy reporting directly to the wakadoshiyori, accompanied by one from koshoban (inner guards) and another from shoinban serving as vice-envoys.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>彼らは従者を連れて管轄する諸国の監察を行い、私領（諸藩）及び公儀御料の政治の実態を「美政・中美政・中悪政・悪政」などと格付けした他、キリスト教禁止令などの幕府法令の実施状況、領内の物価や相場、船舶や海防についてなどを調査した。</j>
+<e type="trans" ver="1">The envoys are accompanied by their attendants to inspect and rate the state of political rule of the feudal domains and shogunal properties as &quot;excellent, fair, poor and bad,&quot; as well as to survey the state of enforcement of shogunal laws, including the ban on Christianity, and the state of prices, market conditions, maritime shipping, ocean defense, etc., in each domain.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The envoys were accompanied by their attendants to inspect and rate the state of political rule of the private lands (feudal domains) and kogi-goryo as &apos;excellent, fair, poor and bad,&apos; as well as to survey the state of enforcement of shogunal laws, including the ban on Christianity, and the state of prices, market conditions, maritime shipping, ocean defense, etc., in each domain.</e>
+<cmt>are accompanied→were accompaniedに時制を訂正しました。「私領」の訳漏れを訂正しました。shogunal properties→kogi-goryoに訂正しました。（前出の訳に統一）&quot;&quot;→原文が「」のため&apos;&apos;に訂正しました。</cmt>
+<e type="check" ver="1">The envoys were accompanied by their attendants to inspect and rate the state of political rule of the private lands (feudal domains) and kogi-goryo as &apos;excellent, fair, poor and bad,&apos; as well as to survey the state of enforcement of shogunal laws, including the ban on Christianity, and the state of prices, market conditions, maritime shipping, ocean defense, etc., in each domain.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="15">
+<j>続いて徳川綱吉が将軍職についた翌年の天和 (日本)元年（1681年）にも諸国巡見使が派遣され、以後新将軍が就任してから1年以内に巡見使発遣令と実際の発遣が行われることとなった。</j>
+<e type="trans" ver="1">This was followed by shokoku-junkenshi dispatch by Tsunayoshi TOKUGAWA, in the year following his accession to power in 1681 (start of Tenna era), establishing the practice of dispatching junkenshi within one year of accession of a new shogun.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was followed by shokoku-junkenshi dispatch by Tsunayoshi TOKUGAWA in 1681 (start of Tenna era), the year following his accession to power, establishing the practice of order and implementation of dispatching junkenshi within one year of accession of a new shogun.</e>
+<cmt>,in the year following his accession to power in 1681 (start of Tenna era)→in 1681 (start of Tenna era), the year following his accession to power,に訂正しました。（綱吉が将軍職についたのが1681年、という訳になっていたため）「巡見使発遣令と実際の」の訳漏れを訂正しました。</cmt>
+<e type="check" ver="1">This was followed by shokoku-junkenshi dispatch by Tsunayoshi TOKUGAWA in 1681 (start of Tenna era), the year following his accession to power, establishing the practice of order and implementation of dispatching junkenshi within one year of accession of a new shogun.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>また、全国を8の区域に分割して管轄区域を定めた。</j>
+<e type="trans" ver="1">At the same time, jurisdiction was also defined by dividing the country into 8 districts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the same time, jurisdiction was also defined by dividing the country into 8 districts.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At the same time, jurisdiction was also defined by dividing the country into 8 districts.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>以後、幼少で没した徳川家継を例外として、寛文・天和の制度に則って将軍の代替わりの恒例行事として制度化された。</j>
+<e type="trans" ver="1">In accordance with the system established in the Kanbun and Tenna eras, dispatch of envoys in behalf of the new shogun became established practice, excluding the case of Ietsugu TOKUGAWA, who died in childhood.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In accordance with the system established in the Kanbun and Tenna eras, dispatch of envoys in behalf of the new shogun became established practice, excluding the case of Ietsugu TOKUGAWA, who died in childhood.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In accordance with the system established in the Kanbun and Tenna eras, dispatch of envoys in behalf of the new shogun became established practice, excluding the case of Ietsugu TOKUGAWA, who died in childhood.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="18">
+<j>なお、寛文7年の巡見では、実際に島原藩の高力隆長が改易処分にされるなど、「悪政」と評価された大名には処罰の可能性があり、各藩ではこれを強く恐れた。</j>
+<e type="trans" ver="1">Exemplified by the forfeit of samurai rank and property from Takanaga KORIKI of Shimabara domain, there was possibility of punitive action for &quot;mismanagement,&quot; and these inspection tours stirred fears among the feudal lords.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Exemplified by the forfeit of samurai rank and property from Takanaga KORIKI of Shimabara Domain in the inspection of 1667, there was possibility of punitive action for &apos;bad&apos; daimyo, and these inspection tours stirred fears among the feudal lords.</e>
+<cmt>「寛文7年の巡見では」の訳漏れを訂正しました。Shimabara domain→Shimabara Domainに訂正しました。（用語統一）&quot;mismanagement,&quot;→&apos;bad&apos; daimyo,に訂正しました。（前出の訳に統一）</cmt>
+<e type="check" ver="1">Exemplified by the forfeit of samurai rank and property from Takanaga KORIKI of Shimabara Domain in the inspection of 1667, there was possibility of punitive action for &apos;bad&apos; daimyo, and these inspection tours stirred fears among the feudal lords.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>そのため、諸藩は巡見使に機嫌を取ることに気を配り巡見使に対して過度とも言える接待が行われて巡見使が通過する村々に対して負担が命じられた。</j>
+<e type="trans" ver="1">For this reason, the feudal lords attempted to ingratiate themselves to the junkenshi, organizing receptions that could be regarded extreme and imposing great burden on villages along the route that the envoys pass.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For this reason, the feudal lords attempted to ingratiate themselves to the junkenshi, organizing receptions that could be regarded extreme and imposing great burden on villages along the route that the envoys passed.</e>
+<cmt>pass→passedに時制を訂正しました。</cmt>
+<e type="check" ver="1">For this reason, the feudal lords attempted to ingratiate themselves to the junkenshi, organizing receptions that could be regarded extreme and imposing great burden on villages along the route that the envoys passed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>更に「巡見扇」などと呼ばれる想定質疑集も作成されるなどした。</j>
+<e type="trans" ver="1">Furthermore, they created Q&amp;A manuals known as &quot;junken-ogi.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, they created Q&amp;A manuals known as &apos;junken-ogi.&apos;</e>
+<cmt>&quot;&quot;→原文が「」のため&apos;&apos;に訂正しました。</cmt>
+<e type="check" ver="1">Furthermore, they created Q&amp;A manuals known as &apos;junken-ogi.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>更に幕藩体制においては幕府の方針に違反しない限りは藩に対しては一定の自主性が認められていたため、巡見使の監察にも限度があった。</j>
+<e type="trans" ver="1">In addition, junkenshi inspection had its limitations because domains that have not violated shogunate policy are allowed a measure of self-autonomy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, junkenshi inspection had its limitations because domains that had not violated shogunate policy were allowed a measure of autonomy.</e>
+<cmt>have not→had not、are allowed→were allowedにそれぞれ時制を訂正しました。self-autonomy→autonomyに訂正しました。（文法上）</cmt>
+<e type="check" ver="1">In addition, junkenshi inspection had its limitations because domains that had not violated shogunate policy were allowed a measure of autonomy.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="22">
+<j>寛文の巡察以後、徳川家慶の天保9年（1838年）まで計8回行われた。</j>
+<e type="trans" ver="1">Since the Kanbun inspection, there had been 8 such tours until 1835 for Ieyoshi TOKUGAWA.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the Kanbun inspection, there had been 8 such tours until 1838 for Ieyoshi TOKUGAWA.</e>
+<cmt>1835→1838に訂正しました。</cmt>
+<e type="check" ver="1">Since the Kanbun inspection, there had been 8 such tours until 1838 for Ieyoshi TOKUGAWA.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>だが、徳川家定の時には黒船来航や災害などを理由に安政4年（1857年）まで延期されたものの、家定の病状悪化（翌年死去）によって派遣されなかった。</j>
+<e type="trans" ver="1">In Iesada TOKUGAWA&apos;s reign, the tour had been postponed until 1857 due to the arrival of the Black Ships from the US and outbreak of a natural disaster but eventually not conducted due to aggravation of Iesada&apos;s illness (and his death in the following year).</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">In Iesada TOKUGAWA&apos;s reign, the tour had been postponed until 1857 due to the arrival of the Black Ships from the US and outbreak of a natural disaster but eventually not conducted due to aggravation of Iesada&apos;s illness (and his death in the following year).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In Iesada TOKUGAWA&apos;s reign, the tour had been postponed until 1857 due to the arrival of the Black Ships from the US and outbreak of a natural disaster but eventually not conducted due to aggravation of Iesada&apos;s illness (and his death in the following year).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>徳川家茂の時には文久2年（1862年）まで同様の理由で延期されたものの、同年の文久の改革によって参勤交代が一時停止された事を受けて、11月29日 (旧暦)にこれと対として考えられていた巡見使発遣の見合わせが決定された。</j>
+<e type="trans" ver="1">The tour was postponed once again until 1862 in the reign of Iemochi TOKUGAWA for similar reasons but was cancelled when the Sankinkotai system was suspended temporarily on November 29 (based on the older calendar) with Bunkyu reform of the same year, due to the nature of the tour being an essential part of Sankinkotai.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">The tour was postponed once again until 1862 in the reign of Iemochi TOKUGAWA for similar reasons but was cancelled when the Sankinkotai system was suspended temporarily on November 29 (based on the old calendar) with Bunkyu Reform of the same year, because it was regarded as a pair with Sankinkotai.</e>
+<cmt>the older calendar→the old calendarに訂正しました。Bunkyu reform→Bunkyu Reformに訂正しました。due to the nature of the tour being an essential part of Sankinkotai→原文に近いbecause it was regarded as a pair with Sankinkotaiに訂正しました。</cmt>
+<e type="check" ver="1">The tour was postponed once again until 1862 in the reign of Iemochi TOKUGAWA for similar reasons but was cancelled when the Sankinkotai system was suspended temporarily on November 29 (based on the old calendar) with Bunkyu Reform of the same year, because it was regarded as a pair with Sankinkotai.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>そして徳川慶喜の就任翌年である慶応3年9月21日 (旧暦)に国内の混乱と諸藩の疲弊を理由に巡見使そのものの停止が決定されたのである。</j>
+<e type="trans" ver="1">On September 21, 1867, the second year of the reign of Yoshinobu TOKUGAWA, junkenshi itself was terminated on grounds of confusion within the country and fiscal decline in feudal domains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On September 21, 1867 (based on the old calendar), the second year of the reign of Yoshinobu TOKUGAWA, junkenshi itself was terminated on grounds of confusion within the country and fiscal decline in feudal domains.</e>
+<cmt>「(旧暦)」の訳漏れを訂正しました。</cmt>
+<e type="check" ver="1">On September 21, 1867 (based on the old calendar), the second year of the reign of Yoshinobu TOKUGAWA, junkenshi itself was terminated on grounds of confusion within the country and fiscal decline in feudal domains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>それからわずか1ヶ月後に大政奉還が行われる事になる。</j>
+<e type="trans" ver="1">It was only one month later that the Taisei Hokan (return of power to the Emperor) took place.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was only one month later that the Taisei Hokan (return of power to the Emperor) took place.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was only one month later that the Taisei Hokan (return of power to the Emperor) took place.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>歴代将軍の巡見使派遣</j>
+<e type="trans" ver="1">Junkenshi inspection tours under shogunate reigns</e>
+<cmt></cmt>
+<e type="trans" ver="2">Junkenshi inspection tours under shogunate reigns</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Junkenshi inspection tours under shogunate reigns</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="27">
+<j>ここでは将軍就任後に諸国巡見使の発遣令が出された日及び実際の発遣年を掲げる。</j>
+<e type="trans" ver="1">The following shows the dates when shokoku-junkenshi dispatch order were issued after accession of a new shogun and the actual years when the tours were dispatched.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following shows the dates when shokoku-junkenshi dispatch order were issued after accession of a new shogun and the actual years when the tours were dispatched.</e>
+<cmt>order were→orders wereに訂正しました。（文法上）</cmt>
+<e type="check" ver="1">The following shows the dates when shokoku-junkenshi dispatch order were issued after accession of a new shogun and the actual years when the tours were dispatched.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="28">
+<j>徳川綱吉</j>
+<e type="trans" ver="1">Tsunayoshi TOKUGAWA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tsunayoshi TOKUGAWA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tsunayoshi TOKUGAWA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>－天和元年1月28日 (旧暦)（1681年3月18日）→同年発遣</j>
+<e type="trans" ver="1">Order issued on March 18, 1681, and envoys sent in the same year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Order issued on March 18, 1681, and envoys sent in the same year.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Order issued on March 18, 1681, and envoys sent in the same year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>徳川家宣</j>
+<e type="trans" ver="1">Ienobu TOKUGAWA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ienobu TOKUGAWA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ienobu TOKUGAWA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>－宝永7年3月1日 (旧暦)（1710年3月30日）→同年発遣</j>
+<e type="trans" ver="1">Order issued on March 30, 1710, and envoys sent in the same year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Order issued on March 30, 1710, and envoys sent in the same year.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Order issued on March 30, 1710, and envoys sent in the same year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>徳川吉宗</j>
+<e type="trans" ver="1">Yoshimune TOKUGAWA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yoshimune TOKUGAWA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yoshimune TOKUGAWA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>－享保元年7月18日 (旧暦)（1716年9月28日）→同年及び翌享保2年（1717年）発遣</j>
+<e type="trans" ver="1">Order issued on September 28, 1716, and envoys sent during the same year and the following year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Order issued on September 28, 1716, and envoys sent during the same year and the following year.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Order issued on September 28, 1716, and envoys sent during the same year and the following year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>徳川家重</j>
+<e type="trans" ver="1">Ieshige TOKUGAWA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ieshige TOKUGAWA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ieshige TOKUGAWA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="35">
+<j>－延享2年10月28日 (旧暦)（1745年11月21日）→翌延享3年（1746年）発遣</j>
+<e type="trans" ver="1">Order issued on November 21, 1745, and envoys sent in the following year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Order issued on November 21, 1745, and envoys sent in the following year.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Order issued on November 21, 1745, and envoys sent in the following year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>徳川家治</j>
+<e type="trans" ver="1">Ieharu TOKUGAWA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ieharu TOKUGAWA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ieharu TOKUGAWA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>－宝暦10年7月11日 (旧暦)（1760年8月21日）→同年及び翌宝暦11年（1761年）発遣</j>
+<e type="trans" ver="1">Order issued on August 21, 1760, and envoys sent during the same year and the following year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Order issued on August 21, 1760, and envoys sent during the same year and the following year.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Order issued on August 21, 1760, and envoys sent during the same year and the following year.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>徳川家斉</j>
+<e type="trans" ver="1">Ienari TOKUGAWA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ienari TOKUGAWA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ienari TOKUGAWA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>－天明7年3月27日 (旧暦)（1787年5月14日）→翌天明8年（1788年）及び寛政元年（1789年）発遣</j>
+<e type="trans" ver="1">Order issued on May 14, 1787, and envoys sent during 1788 and 1789.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Order issued on May 14, 1787, and envoys sent during 1788 and 1789.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Order issued on May 14, 1787, and envoys sent during 1788 and 1789.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>徳川家慶</j>
+<e type="trans" ver="1">Ieyoshi TOKUGAWA</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ieyoshi TOKUGAWA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ieyoshi TOKUGAWA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>－天保8年7月16日 (旧暦)（1837年8月16日）→翌天保9年（1838年）発遣</j>
+<e type="trans" ver="1">Order issued on August 16, 1837, and envoys sent during the following year.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Order issued on August 16, 1837, and envoys sent in the following year.</e>
+<cmt>during→inに訂正しました。（前出の訳との統一）</cmt>
+<e type="check" ver="1">Order issued on August 16, 1837, and envoys sent in the following year.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>御料巡見使</j>
+<e type="trans" ver="1">Goryo-junkenshi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Goryo-junkenshi</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Goryo-junkenshi</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="42">
+<j>当初は諸国巡見使が公儀御料（天領）の巡見も行っていたが、寛文11年（1671年）に関東地方の代官及び農民支配を目的として関八州巡見使が独自に派遣され、正徳 (日本)2年（1712年）に関八州から全国規模に拡大され、老中支配の勘定・支配勘定と若年寄支配の徒目付による御料巡見使が派遣された。</j>
+<e type="trans" ver="1">Although shokoku-junkenshi was initially in charge of inspecting shogunal domains as well, the dispatch of Kanhasshu junkenshi for the 8 provinces of Kanto region in 1671 to examine the state of rule by the local governors and peasant control in the region led to wider application of such inspection on the nationwide scale, leading to the creation of the goryo-junkenshi envoys representing the kanjo (accounting) office under the roju (shogunate elders) and kashimetsuke (security patrol and intelligence) office under the wakadoshiyori (junior elders).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although shokoku-junkenshi was initially in charge of inspecting kogi-goryo as well, the dispatch of Kanhasshu junkenshi for the 8 provinces of Kanto region in 1671 to examine the state of rule by the local governors and peasant control in the region led to wider application of such inspection on the nationwide scale in 1712, leading to the creation of the goryo-junkenshi envoys representing the kanjo (accounting) office under the roju (shogunate elders) and kachimetsuke (security patrol and intelligence) office under the wakadoshiyori.</e>
+<cmt>shogunal domains→kogi-goryoに訂正しました。（前出の訳と統一）「1712年」の訳抜けを訂正しました。kashimetsuke→誤訳のためkachimetsukeに訂正しました。wakadoshiyori (junior elders)→()内の説明は既出のため削除しました。</cmt>
+<e type="check" ver="1">Although shokoku-junkenshi was initially in charge of inspecting kogi-goryo as well, the dispatch of Kanhasshu junkenshi for the 8 provinces of Kanto region in 1671 to examine the state of rule by the local governors and peasant control in the region led to wider application of such inspection on the nationwide scale in 1712, leading to the creation of the goryo-junkenshi envoys representing the kanjo (accounting) office under the roju (shogunate elders) and kachimetsuke (security patrol and intelligence) office under the wakadoshiyori.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>公儀御料は各地に散らばっているために全国を11の区域に分けて行われた。</j>
+<e type="trans" ver="1">Due to shogunal properties being scattered widely in many parts, the country was divided into 11 territories.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Due to kogi-goryo being scattered widely in many parts, the country was divided into 11 territories.</e>
+<cmt>shogunal properties→kogi-goryoに訂正しました。（前出の訳と統一）</cmt>
+<e type="check" ver="1">Due to kogi-goryo being scattered widely in many parts, the country was divided into 11 territories.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="44">
+<j>以後、同3年（1713年）・同6年（1716年）・延享3年（1746年）・宝暦11年（1769年）・寛政元年（1789年）・天保9年（1839年）の合わせて7回の御料巡見使が派遣された。</j>
+<e type="trans" ver="1">After the first dispatch, goryo-junkenshi tours were conduced 7 times in 1713, 1716, 1746, 1769, 1789 and 1839.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After the first dispatch, goryo-junkenshi tours were conduced 7 times in 1713, 1716, 1746, 1769, 1789 and 1839.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">After the first dispatch, goryo-junkenshi tours were conduced 7 times in 1713, 1716, 1746, 1769, 1789 and 1839.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="45">
+<j>延享以後、将軍の代替わりに諸国巡見使と同時に派遣される事となった。</j>
+<e type="trans" ver="1">Starting in 1746, the goryo-junkenshi were dispatched simultaneously with shokoku-junkenshi in the name of the shogun.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Starting in 1746, the goryo-junkenshi were dispatched simultaneously with shokoku-junkenshi at the change of shogun.</e>
+<cmt>in the name of the shogun→原文に近いat the change of shogunに訂正しました。</cmt>
+<e type="check" ver="1">Starting in 1746, the goryo-junkenshi were dispatched simultaneously with shokoku-junkenshi at the change of shogun.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>御料巡見の成否は幕府及び旗本財政の動向にも関わること、統治に関して一定の自主性が認められていた諸藩と違って、公儀御料・旗本領には幕府権力が直接行使できた事から、御料巡見使には諸国巡見使以上の権限が与えられていた。</j>
+<e type="trans" ver="1">Because the performance of the goryo-junkenshi impacted the state of finance for both the shogunate and the hatamoto retainers and domains held by the government and by the retainers were under their direct supervision, unlike the feudal domains that were granted a measure of self-autonomy, the goryo-junkenshi held greater power than the shokoku-junkenshi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the performance of the goryo-junkenshi impacted the state of finance for both the shogunate and the hatamotos and kogi-goryo and hatamoto domains were under the direct supervision by shogunate, unlike the feudal domains that were granted a measure of autonomy, the goryo-junkenshi held greater power than the shokoku-junkenshi.</e>
+<cmt>hatamoto retainers→hatamotosに訂正しました。（前出の訳と統一）domains held by the government and by the retainers→kogi-goryo and hatamoto domainsに訂正しました。（前出の訳と統一）under their direct supervision→theirを指すものが分かりにくいため原文に合わせunder the direct supervision by shogunateに訂正しました。self-autonomy→autonomyに訂正しました。（文法上）</cmt>
+<e type="check" ver="1">Because the performance of the goryo-junkenshi impacted the state of finance for both the shogunate and the hatamotos and kogi-goryo and hatamoto domains were under the direct supervision by shogunate, unlike the feudal domains that were granted a measure of autonomy, the goryo-junkenshi held greater power than the shokoku-junkenshi.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>巡見使に対する監察</j>
+<e type="trans" ver="1">Junkenshi inspections</e>
+<cmt></cmt>
+<e type="trans" ver="2">Inspections for junkenshi</e>
+<cmt>原文に近い訳に訂正しました。</cmt>
+<e type="check" ver="1">Inspections for junkenshi</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="47">
+<j>御庭番が提出した遠国御用の報告書の中には巡見使の現地での振る舞いについて調査したものが伝わっている。</j>
+<e type="trans" ver="1">Reports for surveillance of remote domains submitted by the Oniwaban (intelligence officers) show findings of the behavior of the junkenshi during their inspections at feudal domains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Reports for surveillance of remote domains submitted by the Oniwaban (intelligence officers) show findings of the behavior of the junkenshi during their inspections at feudal domains.</e>
+<cmt>Reports for→Reports onに訂正しました。（文法上）</cmt>
+<e type="check" ver="1">Reports for surveillance of remote domains submitted by the Oniwaban (intelligence officers) show findings of the behavior of the junkenshi during their inspections at feudal domains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>隠密調査の一つとして御庭番に巡見使の調査が発令されたものと考えらている。</j>
+<e type="trans" ver="1">The Oniwaban appear to have been assigned surveys of the junkenshi as part of their intelligence activities.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Oniwaban appear to have been assigned surveys of the junkenshi as part of their intelligence activities.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Oniwaban appear to have been assigned surveys of the junkenshi as part of their intelligence activities.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Yanahan(id:2437), 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

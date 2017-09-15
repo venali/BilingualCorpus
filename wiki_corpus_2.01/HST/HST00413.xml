@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>京都歴史回廊協議会</j>
+<e type="trans" ver="1">Kyoto Rekishi Kairo Kyogikai (Kyoro &quot;Historic Corridor&quot; Conference)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Rekishi Kairo Kyogikai (Kyoto &quot;Historic Corridor&quot; Conference)</e>
+<cmt>Kyoro→Kyoto</cmt>
+<e type="check" ver="1">Kyoto Rekishi Kairo Kyogikai</e>
+<cmt>(Kyoto &quot;Historic Corridor&quot; Conference)削除→次文に移動</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>京都歴史回廊協議会（きょうとれきしかいろうきょうぎかい）は、京都の市民活動。</j>
+<e type="trans" ver="1">Kyoto Rekishi Kairo Kyogikai (Kyoro &quot;Historic Corridor&quot; Conference) is a Kyoto community activity.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Rekishi Kairo Kyogikai is a Kyoto civil activity.</e>
+<cmt>eliminated description in parenthesis since it is written in the title; changed &quot;community&quot; to &quot;civil&quot;</cmt>
+<e type="check" ver="1">Kyoto Rekishi Kairo Kyogikai (Kyoto &quot;Historic Corridor&quot; Conference) is a Kyoto civil activity.</e>
+<cmt>(Kyoto &quot;Historic Corridor&quot; Conference)追加</cmt>
+</sen>
+<sen id="2">
+<j>寺社や天皇陵などの歴史遺産が豊富にある京都市北西部地域の住民・大学が中心の団体。</j>
+<e type="trans" ver="1">The main members of the conference are residents and academics from universities in the north-western part of Kyoto City where there are a large number of historical heritage sites such as temples, shrines, and Emperors&apos; tombs.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The main members of the conference are residents and academics from universities in the north-western part of Kyoto City where there are a large number of historical heritage sites, such as temples, shrines, and Emperor tombs.</e>
+<cmt>added comma after &quot;sites&quot;; changed &quot;Emperors&apos;&quot; to &quot;Emperor&quot;</cmt>
+<e type="check" ver="1">The main members of the conference are residents and academics from universities in the north-western part of Kyoto City where there are a large number of historical heritage sites, such as temples, shrines, and Emperor tombs.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>地域の歴史、文化遺産、自然などの学習や保全、人材育成などに取り組む。</j>
+<e type="trans" ver="1">These members study regional history, cultural heritages, and nature, work on preservation of them, and are engaged in human resource development in these fields.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">These members study and work on the preservation of regional history, cultural heritage, and nature, as well as being engaged in human resource development in these fields.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">These members study and work on the preservation of regional history, cultural heritage, and nature, as well as being engaged in human resource development in these fields.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>事務局</j>
+<e type="trans" ver="1">Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Executive Office</e>
+<cmt>added &quot;Executive&quot;</cmt>
+<e type="check" ver="1">Executive Office</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>学校法人立命館　教育文化事業部　歴史回廊推進室</j>
+<e type="trans" ver="1">Historic Corridor Promotion Office, Department of Education and Culture, Gakko Hojin Ritsumeikan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Historic Corridor Promotion Office, Department of Education and Culture, Gakko Hojin Ritsumeikan</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Historic Corridor Promotion Office, Department of Education and Culture, Gakko Hojin Ritsumeikan</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>参加大学</j>
+<e type="trans" ver="1">Participating Universities</e>
+<cmt></cmt>
+<e type="trans" ver="2">Participating Universities</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Participating Universities</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>京都嵯峨芸術大学</j>
+<e type="trans" ver="1">Kyoto Saga University of Arts</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Saga University of Arts</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Saga University of Arts</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>花園大学</j>
+<e type="trans" ver="1">Hanazono University</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hanazono University</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hanazono University</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>佛教大学</j>
+<e type="trans" ver="1">Bukkyo University</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bukkyo University</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bukkyo University</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>立命館大学</j>
+<e type="trans" ver="1">Ritsumeikan University</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ritsumeikan University</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ritsumeikan University</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Moro(id:39194), 赤井彗星(id:18381), D.h(id:79056), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>蔵米知行</j>
+<e type="trans" ver="1">Kuramaichigyo (a system with Bakufu or clans paid rice as a salary to vassals instead of chiko (enfeoffment))</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kuramaichigyo</e>
+<cmt>this title seems better off without the description since nearly the same thing is written directly below</cmt>
+<e type="check" ver="1">Kuramaichigyo</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>蔵米知行（くらまいちぎょう）とは、蔵米給与（くらまいきゅうよ）とも呼ばれ、江戸幕府や藩が家臣に対して、俸禄として知行地の代わりに蔵米（幕府の場合は特に廩米とも）を支給すること。</j>
+<e type="trans" ver="1">Kuramaichigyo, also known as Kuramaikyuyo, was a system in which the Edo Bakufu or the domain supplied 蔵米 kuramai (rice preserved in a depository by Edo Shogunate and domains, it can be written as 廩米 in case of the Bakufu) to the vassals as horoku (salary), instead of chigyo-chi (territory)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kuramaichichigyo, also known as Kuramaikyuyo, was a system in which the Edo bakufu (Japanese feudal government headed by a shogun) and domains provided kuramai (written as 蔵米 or in the case of the bakufu as 廩米 - rice preserved in a depository) to their vassals as horoku (salary) instead of chigyo-chi (territory).</e>
+<cmt>changed &quot;Bakufu&quot; to lowercase and added description to follow the word list; moved kanji into parenthesis; reduced description of kuramai since it was redundant to what is explained outside of the parenthesis; fixed grammar</cmt>
+<e type="check" ver="1">Kuramaichichigyo, also known as Kuramaikyuyo, was a system in which the Edo bakufu (Japanese feudal government headed by a shogun) and domains provided kuramai (written as 蔵米 or in the case of the bakufu as 廩米 - rice preserved in a depository) to their vassals as horoku (salary) instead of chigyo-chi (territory).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>これを受けた家臣を蔵米取（くらまいどり）と呼ぶ。</j>
+<e type="trans" ver="1">The vassals who received the rice were called kuramaidori (retainers who received Kuramai as their salary).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Vassals who received this rice were called Kuramaidori.</e>
+<cmt>eliminated description in parenthesis since it felt redundant and unecessary; capitalized &quot;Kuramaidori&quot;</cmt>
+<e type="check" ver="1">Vassals who received this rice were called Kuramaidori.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>本来、武士においては主君は家臣に対してその所領の一部を知行地として与える地方知行が基本であった。</j>
+<e type="trans" ver="1">Essentially, in the society of Samurai, the lord gave part of his shoryo (territory) to his vassals as chigyo-chi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Samurai society was originally based on Jigatachigyo (feudal governments or domains providing land to retainers as salary), where lords would give a portion of their shoryo (territory) to vassals as their chigyo-chi.</e>
+<cmt>changed &quot;Essentially&quot; to &quot;originally&quot; for &quot;本来&quot;; added &quot;based&quot; for &quot;基本であった&quot;; changed &quot;part&quot; to &quot;portion&quot;; &quot;Jigatachigyo&quot; &quot;地方知行&quot; is written in the Japanese, but not translated here, making the first translation difficult to understand, so I added it in and gave the description from below; fixed grammar</cmt>
+<e type="check" ver="1">Samurai society was originally based on Jigatachigyo (feudal governments or domains providing land to retainers as salary), where lords would give a portion of their shoryo (territory) to vassals as their chigyo-chi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>だが、江戸時代に入ると、主君である征夷大将軍あるいは大名への土地支配権力の集中や藩中央と家臣の年貢米売却の競合による米価下落に伴う換金収入減少など財政上の都合から、地方知行を止めて蔵米知行に切り替える場合が増加した。</j>
+<e type="trans" ver="1">However, in the early Edo period, more and more lords gave up Jikatachigyo (provision of lands from a feudal government or domains to retainers as salary), switching to kuramaichigyo due to the concentration of land ruling power in the hands of Seii taishogun (literally, &quot;great general who subdues the eastern barbarians&quot;) as the lord or Daimyo (Japanese territorial lord), or for financial reasons such as decrease in income caused by the drop in the rice price resulted from the competition between the domains and vassals in selling annual rice tax.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the early Edo period, however, more and more lords gave up Jigatachigyo in favor of Kuramaichigyo. This was due to land ruling power being concentrated in the hands of daimyo (Japanese territorial lord) and the Seii Taishogun (literally, &quot;great general who subdues the barbarians&quot;). It was also due to financial reasons, such as a decrease in income as a consequence of rice falling in price caused by competition between domains and vassals in annual rice tax sales.</e>
+<cmt>here it is written &quot;征夷大将軍&quot; not &quot;征東大将軍&quot; so I changed the description in parenthesis to match the word list, deleting &quot;eastern&quot;; split into three sentences for easier reading; retranslated the last section to be more understandable; changed &quot;Jikatachigyo&quot; to &quot;Jigatachigyo&quot; since the wiki article gives this reading for &quot;地方知行&quot;; eliminated description of &quot;Jigatachigyo&quot; since I added the word in the sentence above and gave its description there; capitalized &quot;Taishogun&quot;; made &quot;daimyo&quot; lowercase</cmt>
+<e type="check" ver="1">During the early Edo period, however, more and more lords gave up Jigatachigyo in favor of Kuramaichigyo; this was due to land ruling power being concentrated in the hands of daimyo (Japanese territorial lord) and the Seii Taishogun (literally, &quot;great general who subdues the barbarians&quot;); it was also due to financial reasons, such as a decrease in income as a consequence of rice falling in price caused by competition between domains and vassals in annual rice tax sales.</e>
+<cmt>NCで3文に分割されたのでセミコロンで一文にしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>当初は蔵米が直接家臣に渡されたが、後には札差が公定価格で引き取って手数料を差し引いた後に家臣に代金を渡す方式も取られるようになった。</j>
+<e type="trans" ver="1">At the beginning, vassals directly received kuramai, but later a system was adopted in which fudasashi (a trader who received or sold kuramai on behalf of the government for commission revenue) received kuramai, sold it at an official price and, after deducting the commissions, paid the proceeds to the vassals.</e>
+<cmt>札差が蔵米を受取り、公定価格で売って、その金額から手数料を差し引いたものを家臣に払っていたという意味に解釈しました。</cmt>
+<e type="trans" ver="2">Vassals received kuramai directly at first, but later on a system was adopted in which fudasashi (traders who received and sold kuramai on behalf of the government for a commision) would receive kuramai, sell it at an official price, then deduct the commisions and pay the proceeds to the vassals.</e>
+<cmt>fixed to read more understandably</cmt>
+<e type="check" ver="1">Vassals received kuramai directly at first, but later on a system was adopted in which fudasashi (traders who received and sold kuramai on behalf of the government for a commission) would receive kuramai, sell it at an official price, then deduct the commissions and pay the proceeds to the vassals.</e>
+<cmt>スペル</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="6">
+<j>明治2年（1869年）の版籍奉還に伴う禄制改革によって、大名も含めた全ての地方知行が廃止され、蔵米知行のみとなる。</j>
+<e type="trans" ver="1">All types of Jigatachigyo (provision of lands from a feudal government or domains to retainers as salary) including provision by Daimyo (Japanese territorial lord) was banned by the reform in salary system associated with the return of lands and people to the emperor in 1869, and kuramaichigyo (a system with Bakufu or clans paid rice as a salary to vassals instead of chiko enfeoffment) alone remained.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Due to reforms in the salary system accompanied by the return of the lands and people from the feudal lords to the Emperor in 1869, all types of Jigatachigyo, including those of the daimyo, were banned and only Kuramaichigyo remained.</e>
+<cmt>eliminated description in parenthesis for Jigatachigyo 地方知行, Daiymo 大名 and kuramaichigyo 蔵米知行 since all of these descriptions are already given above; changed &quot;associated&quot; to &quot;accompanied&quot; for &quot;伴う&quot;; capitalized &quot;Emperor&quot;; made &quot;daimyo&quot; lowercase; capitalized &quot;Kuramaichigyo&quot;; rearranged sentence and fixed grammar to read more understandably and naturally</cmt>
+<e type="check" ver="1">Due to reforms in the salary system accompanied by the return of the lands and people from the feudal lords to the Emperor in 1869, all types of Jigatachigyo, including those of the daimyo, were banned and only Kuramaichigyo remained.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>だが、それも廃藩置県を経て明治9年（1876年）の秩禄処分によって完全に廃されることとなった。</j>
+<e type="trans" ver="1">However, it was completely abolished by Chitsuroku-shobun (Abolition measure of Hereditary Stipend) in 1876 after Haihan chiken.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, this system was also completely abolished in 1876 by Chitsuroku-shobun (Abolition measure of Hereditary Stipend) after Haihan chiken.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">However, this system was also completely abolished in 1876 by Chitsuroku-shobun (Abolition measure of Hereditary Stipend) after Haihan chiken.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

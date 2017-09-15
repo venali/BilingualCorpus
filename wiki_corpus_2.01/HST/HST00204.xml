@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>類聚国史</j>
+<e type="trans" ver="1">Ruiju Kokushi</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ruiju Kokushi</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Ruiju Kokushi</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>類聚国史（るいじゅうこくし）は編年体である六国史の記載を中国の類書にならい分類再編集したもので、菅原道真の編纂により、892年（寛平4年）に完成・成立した歴史書である。</j>
+<e type="trans" ver="1">Ruiju Kokushi, completed and established in 892, is a history book edited by Michizane SUGAWARA, which classified and recompiled the entries of six classical Japanese history texts compiled in chronological order, following the example of Ruisho in China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ruiju Kokushi, completed and established in 892, is a history book edited by Michizane SUGAWARA, which classified and recompiled the entries of six classical Japanese history texts compiled in chronological order, following the example of Ruisho in China.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Ruiju Kokushi, completed and established in 892, is a history book edited by SUGAWARA no Michizane, which classified and recompiled the entries of six classical Japanese history texts compiled in chronological order, following the example of Leishu (&quot;classified books&quot;) in China.</e>
+<cmt>Michizane SUGAWARA→SUGAWARA no Michizaneとし、Ruisho→日本語読みのためLeishuとし、補足追加 (参照: http://books.google.co.jp/books?id=ERnrQq0bsPYC&amp;pg=PA601&amp;dq=classified+books+leishu&amp;as_brr=3&amp;cd=1#v=onepage&amp;q=classified%20books%20leishu&amp;f=false)</cmt>
+</sen>
+<sen id="2">
+<j>中国の唐代では、詩文の作成や知識の整理のために、古典の中から必要な箇所を抜書きして分類編纂することが広く行われ、これを類書と称した。</j>
+<e type="trans" ver="1">In the period of Tang Dynasty in China, it was widely done to excerpt necessary parts from old books to classify and recompile them for making prose and poetry or organizing knowledge, and such books were called Ruisho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the period of the Tang Dynasty in China, it was widely done to excerpt necessary parts from old books to classify and recompile them for making prose and poetry or organizing knowledge, and such books were called Ruisho.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">In the period of the Tang Dynasty in China, it was widely done to excerpt necessary parts from old books to classify and recompile them for making prose and poetry or organizing knowledge, and such books were called Leishu.</e>
+<cmt>Ruisho→Leishuとしました。</cmt>
+</sen>
+<sen id="3">
+<j>この書もまた、類書の形態を踏襲しており、この書を類書として見ることも可能である。</j>
+<e type="trans" ver="1">This book also follows the style of Ruisho and therefore can be regarded as a Ruisho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This book also follows the style of Ruisho and therefore can be regarded as a Ruisho.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">This book also follows the style of Leishu and therefore can be regarded as a Leishu.</e>
+<cmt>Ruisho→Leishuとしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>本書の成立時期に言及すれば、『日本三代実録』の部分については、同書は901年（延喜元年）完成であり、その直前に道真が大宰府に流されているために同書部分は後世の加筆であると言う説がある。</j>
+<e type="trans" ver="1">Regarding the date of establishment, one theory is that since &quot;Nihon Sandai Jitsuroku&quot; (sixth of the six history texts) was completed in 901 and Michizane was exiled to Dazaifu just before the year, the excerpted part of the book was added at a later date.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Regarding the date of establishment, one theory is that since &quot;Nihon Sandai Jitsuroku&quot; (sixth of the six history texts) was completed in 901 and Michizane was exiled to Dazaifu just before that year, the excerpted part of the book was added at a later date.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Regarding the date of establishment, one theory is that since &quot;Nihon Sandai Jitsuroku&quot; (sixth of the six history texts) was completed in 901 and Michizane was exiled to Dazaifu just before that year, the excerpted part of the book was added at a later date.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>また、「三代実録」の編纂には道真自身も関与していたために完成前にその草稿を保有しており、流罪前にその草稿を元にして加筆されたとする説がある。</j>
+<e type="trans" ver="1">And the other theory is that since Michizane himself was involved in the compilation of the &apos;Sandai Jitsuroku&apos; and had the draft before its completion, he added a few touches to it before his exile.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">And the other theory is that since Michizane himself was involved in the compilation of the &apos;Sandai Jitsuroku&apos; and had the draft before its completion, he added a few touches to it before his exile.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">And the other theory is that since Michizane himself was involved in the compilation of the &apos;Sandai Jitsuroku&apos; and had the draft before its completion, he added a few touches to it before his exile.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>もとは本文200巻目録2巻系図3巻の計205巻であったが、応仁の乱で散逸したとされ、現存するのは62巻のみである。</j>
+<e type="trans" ver="1">It originally came in 205 volumes consisting of 200 text books, two catalogues and three genealogical charts, but they were scattered and lost in the Onin war, and only 62 of them are now in existence.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It originally came in 205 volumes consisting of 200 text books, two catalogs and three genealogical charts, but they were scattered and lost in the Onin war, and only 62 of them are now in existence.</e>
+<cmt>Typo</cmt>
+<e type="check" ver="1">It originally came in 205 volumes consisting of 200 text books, two catalogs and three genealogical charts, but they were scattered and lost in the Onin War, and only 62 of them are now in existence.</e>
+<cmt>Onin Warとしました。</cmt>
+</sen>
+<sen id="7">
+<j>神祇、帝王、後宮、人事、歳時、音楽、賞宴、奉献、政理、刑法、官制、文学、田地、祥瑞、災異、仏道、風俗、殊俗という18の分類（類聚）ごとにまとめられておいる。</j>
+<e type="trans" ver="1">All entries are classified into 18 categories (Ruiju):gods of heaven and earth, the emperor, consort of the emperor, human affairs, events in the year, music, prize and party, dedication, political affairs, criminal law, organization of government, literature, rice field, good omen, natural calamity, the teaching of Buddha, manners and customs, and strange custom.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">All entries are classified into 18 categories (Ruiju): gods of heaven and earth, the emperor, consort of the emperor, human affairs, events in the year, music, prize and party, dedication, political affairs, criminal law, organization of government, literature, rice fields, good omen, natural calamity, the teachings of Buddha, manners and customs, and strange customs.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">All entries are classified into 18 categories (Ruiju): gods of heaven and earth, the emperor, consort of the emperor, human affairs, events in the year, music, prize and party, dedication, political affairs, criminal law, organization of government, literature, rice fields, good omen, natural calamity, the teachings of Buddha, manners and customs, and strange customs.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>散逸した部には國學院大學教授の高田淳によれば、東宮、征討、地名、等5つの分類があったという。</j>
+<e type="trans" ver="1">The lost part had 5 categories such as the crown prince, subjugation, and place-names according to Jun TAKADA, a professor at Kokugakuin University.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The lost part had 5 categories such as the crown prince, subjugation, and place-names according to Jun TAKADA, a professor at Kokugakuin University.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The lost part had five categories such as the crown prince, subjugation, and place-names according to Jun TAKADA, a professor at Kokugakuin University.</e>
+<cmt>&quot;5&quot;をスペルアウト</cmt>
+</sen>
+<sen id="9">
+<j>特筆すべきは検索が容易な平安前期の史書で特に先例を調べるのに便宜を図っており、原文主義をとって余計な文章の改変を一切排している。</j>
+<e type="trans" ver="1">It is worth noting that the book provides convenience for referring the precedents in the texts of early Heian period in particular which are easy for searching, and unnecessary modifications to the text were all avoided true to the original text.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is worth noting that the book provides convenience for referring the precedents in the texts of the early Heian period in particular which are easy for searching, and unnecessary modifications to the text were all avoided true to the original text.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">It is worth noting that the book provides convenience for referring the precedents in the texts of the early Heian period in particular which are easy for searching, and unnecessary modifications to the text were all avoided true to the original text.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>『日本後紀』の多くが失われているため、復元する資料としても貴重である。</j>
+<e type="trans" ver="1">It is also a valuable material to restore the &quot;Nihon koki&quot; (one of the six history texts), many parts of which are now lost.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also a valuable material to restore the &quot;Nihon koki&quot; (one of the six history texts), many parts of which are now lost.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It is also a valuable material to restore the &quot;Nihon Koki&quot; (one of the six history texts), many parts of which are now lost.</e>
+<cmt>&quot;Nihon Koki&quot;としました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Mooko(id:36162), Papamaruchan22(id:71152), BAKU(id:55205), 胡亂堂(id:263343), 水野白楓(id:22811), Chuta(id:10457), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>一向宗</j>
+<e type="trans" ver="1">Ikkoshu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ikkoshu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ikkoshu</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>一向宗（いっこうしゅう）とは、鎌倉時代の浄土宗の僧・一向俊聖が創めた仏教宗派。</j>
+<e type="trans" ver="1">A Buddhist sect started by Ikko Shunsho, a Ikko sect monk during the Kamakura period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A Buddhist sect founded by Ikko Shunsho, a Ikko sect monk during the Kamakura period.</e>
+<cmt>Verb choice</cmt>
+<e type="check" ver="1">Ikkoshu is a Buddhist sect founded by Ikko Shunsho, a Jodoshu sect monk during the Kamakura period.</e>
+<cmt>文頭にIkkoshu isを追加し、Ikko sect monk→Jodoshu sect monkに修正しました。</cmt>
+</sen>
+<sen id="2">
+<j>江戸幕府によって時宗に強制的に統合されて「時宗一向派」と改称させられた。</j>
+<e type="trans" ver="1">The sect was forcibly integrated into the Jishu sect to be &apos;the Ikko branch of the Jishu sect&apos; by the Edo bakufu (Japanese feudal government headed by a shogun.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The sect was forcibly integrated into the Jishu sect and renamed &apos;the Ikko branch of the Jishu sect&apos; by the Edo bakufu (Japanese feudal government headed by a shogun.)</e>
+<cmt>Word choice</cmt>
+<e type="check" ver="1">The sect was forcibly integrated into the Jishu sect and renamed &apos;the Ikko school of the Jishu sect&apos; by the Edo bakufu (Japanese feudal government headed by a shogun).</e>
+<cmt>統一事項より、Ikko branch→Ikko schoolに修正、ピリオドの位置を移動しました。</cmt>
+</sen>
+<par id="1">
+<sen id="3">
+<j>他者が浄土真宗、ことに本願寺教団を指す呼称。</j>
+<e type="trans" ver="1">The name for the others to indicate the Jodo Shinshu sect, especially the Honganji branch.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A name used by others to indicate the Jodo Shinshu sect, especially the Honganji branch.</e>
+<cmt>Word choice</cmt>
+<e type="check" ver="1">A name used by others to indicate the Jodo Shinshu sect (the True Pure Land Sect of Buddhism), especially the Hongan-ji school.</e>
+<cmt>「浄土真宗」→統一リストの表記に修正、Honganji branch→Hongan-ji schoolとしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>転じて江戸時代、江戸幕府によって強制的に浄土真宗の公式名称とさせられたもの。</j>
+<e type="trans" ver="1">That was developed into a formal name of the former Jodo Shinshu sect that was forcibly renamed by the Edo bakufu during the Edo period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was developed into a formal name for the former Jodo Shinshu sect, which the Edo bakufu forcibly renamed during the Edo period.</e>
+<cmt>Word choice, word order</cmt>
+<e type="check" ver="1">It was developed into a formal name for the former Jodo Shinshu sect, which the Edo bakufu forcibly renamed during the Edo period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>仏教史的な観念からすれば、本来は1.のみが「一向宗」の正しい定義であるとも考えらるが、実際には戦国時代_(日本)の一向一揆の印象や江戸幕府による1.の強制統合（「一向宗」の使用禁止）と2.の強制改名（「一向宗」の使用強要）に伴い、今日では2.のみを指すのが一般的である。</j>
+<e type="trans" ver="1">From the viewpoint of Buddhist history, the definition number 1 is considered the only right definition of &apos;Ikkoshu&apos;--but in reality, by taking account of the impression of the Ikko ikki uprising during the Warring States period; forcible integration, i.e., ban on using the name &apos;Ikkoshu&apos;, by the Edo bakufu as defined in number 1; and forcible renaming of the Jodo Shinshu sect, i.e., forcing the Jodo Shinshu sect to use the name &apos;Ikkoshu&apos;, by the Edo bakufu as defined in number 2, now the definition number 2 is generally adopted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From the viewpoint of Buddhist history, the first definition is considered the only correct definition of &apos;Ikkoshu&apos;; in practice, however, as with the impression of the Ikko ikki uprising during the Warring States period and forcible integration (the ban on using the name &apos;Ikkoshu&apos;) by the Edo bakufu, as in the first definition, and the forcible renaming of the Jodo Shinshu sect (forcing the Jodo Shinshu sect to use the name &apos;Ikkoshu&apos;) by the Edo bakufu, as in the second definition, the second definition is now generally adopted.</e>
+<cmt>Word choice, grammar, punctuation</cmt>
+<e type="check" ver="1">From the viewpoint of Buddhist history, the first definition is considered the only correct definition of &apos;Ikkoshu&apos;; in practice, however, as with the impression of the Ikko ikki uprising during the Sengoku period (period of warring states) and forcible integration (the ban on using the name &apos;Ikkoshu&apos;) by the Edo bakufu, as in the first definition, and the forcible renaming of the Jodo Shinshu sect (forcing the Jodo Shinshu sect to use the name &apos;Ikkoshu&apos;) by the Edo bakufu, as in the second definition, the second definition is now generally adopted.</e>
+<cmt>「戦国時代」→統一リストの表記に修正しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>一向俊聖の「一向宗」</j>
+<e type="trans" ver="1">Ikkoshu&apos; of Ikko Shunsho</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ikkoshu&apos; of Ikko Shunsho</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ikkoshu&apos; of Ikko Shunsho</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>鎌倉時代の僧侶・一向 俊聖（暦仁2年（1239年）? - 弘安10年（1287年）?、以下「一向」と表記）を祖とする宗派を「一向宗」と呼ぶ場合がある。</j>
+<e type="trans" ver="1">The sect founded by the monk Ikko Shunsho (ca.1239 - ca.1287) during the Kamakura period is sometimes called &apos;Ikkoshu.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The sect founded by the monk Ikko Shunsho (ca.1239 - ca.1287) during the Kamakura period is sometimes called &apos;Ikkoshu.&apos;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The sect founded by the monk Ikko Shunsho (ca.1239 - ca.1287) during the Kamakura period is sometimes called &apos;Ikkoshu.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>一向は筑後国草野氏の出身で初めは浄土宗鎮西派（西山派という異説もある）の僧侶であった。</j>
+<e type="trans" ver="1">Ikko Shunsho, a descendant of the Kusano clan in Chikugo Province, was originally a monk of the chinzei branch of the Jodo sect--according to another opinion, he was a monk of the Nishiyama Jodo sect.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ikko Shunsho, a descendant of the Kusano clan in Chikugo Province, was originally a monk of the Chinzei branch of the Jodo sect; according to another opinion, he was a monk of the Nishiyama Jodo sect.</e>
+<cmt>Grammar, punctuation</cmt>
+<e type="check" ver="1">Ikko Shunsho, a descendant of the Kusano clan in Chikugo Province, was originally a monk of the Chinzei school of the Jodoshu sect; according to another opinion, he was a monk of the Nishiyama Jodoshu sect.</e>
+<cmt>統一リストより、Chinzei branch→Chinzei school、Jodo sect→Jodoshu sectとしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>後に各地を遊行回国し、踊り念仏、天道念佛を修し、道場を設けた。</j>
+<e type="trans" ver="1">Later, he made pilgrimages around Japan, practicing a Buddhist invocation accompanied by dancing &apos;Odorinenbutsu&apos; and &apos;Tendonenbutsu&apos;, and founded a seminary.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He later made pilgrimages around Japan, during which he practiced a Buddhist invocation accompanied by &apos;Odorinenbutsu&apos; and &apos;Tendonenbutsu&apos; dances, and founded a seminary.</e>
+<cmt>Grammar</cmt>
+<e type="check" ver="1">He later made pilgrimages around Japan, during which he practiced a Buddhist invocation accompanied by &apos;Odorinenbutsu&apos; and &apos;Tendonenbutsu&apos; dances, and founded a seminary.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="9">
+<j>近江国番場蓮華寺 (米原市)にて立ち往生して最期を迎えたという。</j>
+<e type="trans" ver="1">It is said that he stopped at Banba Rengeji Temple in Omi Province (present Yonehara City), and died there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that he stopped at Banba Rengeji Temple in Omi Province (present Yonehara City), and died there.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is said that he stopped at Banba Renge-ji Temple in Omi Province (present Maibara City), and died there.</e>
+<cmt>Renge-ji Templeとし、Yonehara City→Maibara Cityに修正しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>以後、同寺を本山として東北、北関東、尾張、近江に一向の法流と伝える寺院が分布し、教団を形成していた。</j>
+<e type="trans" ver="1">Thereafter, Rengeji Temple was made the head temple of Ikkoshu, and the teachings were propagated in Tohoku, Northern Kanto, Owari, and Omi by building branch temples in the areas, to be formed as an independent Buddhist sect.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rengeji Temple was subsequently made the head temple of Ikkoshu, and its teachings were propagated in Tohoku, Northern Kanto, Owari, and Omi by building branch temples in the areas, forming an independent Buddhist sect.</e>
+<cmt>Grammar, word choice</cmt>
+<e type="check" ver="1">Renge-ji Temple was subsequently made the head temple of Ikkoshu, and its teachings were propagated in Tohoku, Northern Kanto, Owari, and Omi by building branch temples in the areas, forming an independent Buddhist sect.</e>
+<cmt>Renge-ji Templeとしました。</cmt>
+</sen>
+<sen id="11">
+<j>鎌倉時代末期に書かれた『野守鏡』にはこの教団を一向宗と呼んで、後世の浄土真宗とは全く無関係の宗派として存在している事が記録されている。</j>
+<e type="trans" ver="1">In &quot;Nomorinokagami&quot; written at the end of Kamakura period, it is described that this sect was called Ikkoshu as a completely different sect from the Jodo Shinshu sect in the later ages.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In &quot;Nomorinokagami&quot;, which was written at the end of Kamakura period, it is recorded that this sect was called Ikkoshu, and was a completely different sect from the later Jodo Shinshu sect.</e>
+<cmt>Grammar, punctuation, word choice</cmt>
+<e type="check" ver="1">In the &quot;Nomori no Kagami,&quot; which was written at the end of the Kamakura period, it is recorded that this sect was called Ikkoshu, and was a completely different sect from the later Jodo Shinshu sect.</e>
+<cmt>In the &quot;Nomori no Kagami&quot;とし、カンマの位置を移動、the Kamakura periodとしました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="12">
+<j>（『天狗草子』にも一向宗と出てくるが、これについては一遍の衆を指したものである。（一向俊聖の項を参考））</j>
+<e type="trans" ver="1">(&apos;Ikkoshu&apos; appearing in &quot;Tengusoshi&quot; indicated the people in another sect headed by Ippen. (See &apos;Ikko Shunsho&apos;))</e>
+<cmt></cmt>
+<e type="trans" ver="2">(An &apos;Ikkoshu&apos; appeared in &quot;Tengusoshi&quot;, but this indicated the people of another sect headed by Ippen. (See &apos;Ikko Shunsho&apos;))</e>
+<cmt>Article, grammar, punctuation</cmt>
+<e type="check" ver="1">(An &apos;Ikkoshu&apos; appeared in the &quot;Tengu-zoshi,&quot; but this indicated the people of another sect headed by Ippen. [See &apos;Ikko Shunsho&apos;])</e>
+<cmt>in the &quot;Tengu-zoshi&quot;とし、カンマの位置を移動、カッコ表記修正しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="13">
+<j>だが、同時期の一遍と同様に、遊行や踊り念仏を行儀とする念仏勧進聖であることから、時衆と混同されるようになっていく。</j>
+<e type="trans" ver="1">Since Ikko Shunsho was propagating his teachings and raising funds for temples based on pilgrimages and &apos;Odorinenbutsu&apos; as Ippen of the Jishu sect in the same period, Ikkoshu and Jishu became confused by people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, since Ikko Shunsho propagated his teachings and raised funds for temples by performing pilgrimages and &apos;Odorinenbutsu&apos;, just as Ippen of the Jishu sect did during the same period, people confused the Ikkoshu and Jishu sects.</e>
+<cmt>Grammar, punctuation, word choice</cmt>
+<e type="check" ver="1">However, since Ikko Shunsho propagated his teachings and raised funds for temples by performing pilgrimages and &apos;Odorinenbutsu,&apos; just as Ippen of the Jishu sect did during the same period, people confused the Ikkoshu and Jishu sects.</e>
+<cmt>カンマの位置を移動しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="14">
+<j>確かに一向も一遍と同様に浄土宗の影響を受けて自己の教義を確立させたものであるが、全く別箇に教団を開いたものである。</j>
+<e type="trans" ver="1">Both Ikko Shunsho and Ippen established their original doctrines under the influence of the Jodo sect, but their sects were completely independent from each other.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Both Ikko Shunsho and Ippen established their original doctrines under the influence of the Jodo sect, but their sects were completely independent from each other.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Both Ikko Shunsho and Ippen established their original doctrines under the influence of the Jodoshu sect, but their sects were completely independent from each other.</e>
+<cmt>表記統一のためJodo sect→Jodoshu sectとしました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="15">
+<j>また、一遍と違い一向の教えは踊り念仏を行うとはいえ、念仏そのものに特別な宗教的意義を見出す事は少なかったとされている。</j>
+<e type="trans" ver="1">It is considered that the teachings of Ikko Shunsho were the same as those of Ippen in teaching Odorinenbutsu but different in that Ikko Shunsho did not put any particular religious meanings in the Buddhist invocation in his Odorinenbutsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is considered that the teachings of Ikko Shunsho were the same as those of Ippen in that both performed Odorinenbutsu, but different in that Ikko Shunsho did not put any particular religious meaning in the Buddhist invocation in his Odorinenbutsu.</e>
+<cmt>Grammar, word choice</cmt>
+<e type="check" ver="1">It is considered that the teachings of Ikko Shunsho were the same as those of Ippen in that both performed Odorinenbutsu, but different in that Ikko Shunsho did not put any particular religious meaning in the Buddhist invocation in his Odorinenbutsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="16">
+<j>ところが時代が降るにつれて一向の教えが同じ踊り念仏の一遍の教えと混同され、更に親鸞の起こした浄土真宗とも混ざり合うという現象が見られるようになる。</j>
+<e type="trans" ver="1">But as time changed, the teachings of Ikko Shunsho became mixed up with the teachings of Odorinenbutsu established by Ippen, and these teachings further became mixed up with the Jodo Shinshu sect founded by Shinran.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As time passed, however, the teachings of Ikko Shunsho became mixed up with the teachings of Odorinenbutsu which Ippen had established, and these teachings became further confused with the Jodo Shinshu sect founded by Shinran.</e>
+<cmt>Word choice, word order</cmt>
+<e type="check" ver="1">As time passed, however, the teachings of Ikko Shunsho became mixed up with the teachings of Odorinenbutsu which Ippen had established, and these teachings became further confused with the Jodo Shinshu sect founded by Shinran.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="17">
+<j>特に一向の教義が早い段階で流入していた北陸地方ではその傾向が顕著であった。</j>
+<e type="trans" ver="1">This tendency appeared remarkable particularly in the Hokuriku region where the doctrine of Ikko Shunsho was propagated in the early period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This tendency was particularly visible in the Hokuriku region, where the doctrine of Ikko Shunsho was propagated in the early period.</e>
+<cmt>Word choice, word order</cmt>
+<e type="check" ver="1">This tendency was particularly visible in the Hokuriku region, where the doctrine of Ikko Shunsho was propagated in the early period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="18">
+<j>浄土真宗本願寺8世の蓮如が延暦寺西塔の衆徒により本願寺が破却され、北陸地方に活動の場を求めた時に、布教の対象としたのはこうした一向や一遍の影響を受けて同じ浄土教の土壌を有した僧侶や信者であり、蓮如はこれを「一向衆」（「一向宗」ではない）と呼んだ。</j>
+<e type="trans" ver="1">When Honganji Temple was destroyed by warrior monks from the Saito area of Enryakuji Temple, and Rennyo, the eighth head of the Honganjiha branch of the Jodo Shinshu sect, sought to find his way into Hokuriku area, Rennyo targeted his propagation for the monks and followers who had the base of the Jodo teachings under the influence of Ikko Shunsho and Ippen, collectively calling them &apos;一向衆&apos; Ikkoshu, meaning the Ikkoshu sect related people, instead of &apos;一向宗&apos; Ikkoshu, the name for the Ikko Shunsho&apos;s sect.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When Honganji Temple was destroyed by warrior monks from the Saito area of Enryakuji Temple, and Rennyo, the eighth head of the Honganjiha branch of the Jodo Shinshu sect, sought to find his way into Hokuriku area, Rennyo aimed his propagation at the monks and followers who were based in the Jodo teachings under the influence of Ikko Shunsho and Ippen, collectively calling them &apos;一向衆&apos; Ikkoshu, meaning &apos;the people of Ikkoshu sect&apos;, instead of &apos;一向宗&apos; Ikkoshu, the name for Ikko Shunsho&apos;s sect.</e>
+<cmt>Grammar, word choice, punctuation</cmt>
+<e type="check" ver="1">When Hongan-ji Temple was destroyed by warrior monks from the Saito area of Enryaku-ji Temple, and Rennyo, the eighth head of the Hongan-ji school of the Jodo Shinshu sect, sought to find his way into the Hokuriku region, Rennyo aimed his propagation at the monks and followers who were based in the Jodo teachings under the influence of Ikko Shunsho and Ippen, collectively calling them &apos;一向衆&apos; Ikkoshu, meaning &apos;the people of Ikkoshu sect&apos;, instead of &apos;一向宗&apos; Ikkoshu, the name for Ikko Shunsho&apos;s sect.</e>
+<cmt>Hongan-ji Temple、Enryaku-ji Templeとし、Honganjiha branch→Hongan-ji school、Hokuriku area→the Hokuriku regionに修正しました。</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="19">
+<j>本願寺及び蓮如の北陸における成功の背景にはこうした近似した宗教的価値観を持った「一向衆」の存在が大きいわけであるが、同時に蓮如はこれによって親鸞の教えが歪められてしまう事を恐れた。</j>
+<e type="trans" ver="1">Honganji Temple and Rennyo made a success in their mission in the Hokuriku area thanks to the existence of those Ikkoshu sect related people who had the religious concept similar to that of Honganji and Rennyo; but on the other hand, Rennyo worried that the teachings of Shinran might be distorted by those people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Honganji Temple and Rennyo&apos;s mission succeeded in the Hokuriku area thanks to the existence of the &apos;people of Ikkoshu sect&apos;, whose religious concept was similar to that of Honganji and Rennyo; on the other hand, though, Rennyo worried that the teachings of Shinran might be distorted by those people.</e>
+<cmt>Grammar, word order, word choice</cmt>
+<e type="check" ver="1">Hongan-ji Temple and Rennyo&apos;s mission succeeded in the Hokuriku region thanks to the existence of the &apos;people of Ikkoshu sect,&apos; whose religious concept was similar to that of Hongan-ji and Rennyo; on the other hand, though, Rennyo worried that the teachings of Shinran might be distorted by those people.</e>
+<cmt>Hongan-ji Templeとし、Hokuriku area→the Hokuriku regionに修正、カンマの位置を移動しました。</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="20">
+<j>更に別の事由から他宗派より「一向宗」と呼称されていた（後述）も彼の憂慮を深めた。</j>
+<e type="trans" ver="1">Worse still, another people who were called &apos;ikkoshu sect&apos; from other sects deepened Rennyo&apos;s worries for the other reason (described later.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Worse still, another set of people whom other sects called &apos;ikkoshu sect&apos; for a different reason (discussed later) deepened Rennyo&apos;s worries.</e>
+<cmt>Grammar, word order</cmt>
+<e type="check" ver="1">Worse still, another set of people whom other sects called &apos;Ikkoshu sect&apos; for a different reason (discussed later) deepened Rennyo&apos;s worries.</e>
+<cmt>ikkoshu→Ikkoshuとしました。</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="21">
+<j>文明_(日本)5年（1473年）に蓮如によって書かれた『帖外御文』には次のようにある。</j>
+<e type="trans" ver="1">Rennyo wrote in his collection of letters &quot;Jogai Ofumi&quot; in 1473, &apos;That is called Ikkoshu, indicating the Jishu people, which means Ippen and Ikko Shunsho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1473, Rennyo wrote in &quot;Jogai Ofumi&quot;, a collection of letters, &apos;It is called Ikkoshu, indicating the Jishu people, meaning Ippen and Ikko Shunsho.</e>
+<cmt>Grammar, word choice, word order</cmt>
+<e type="check" ver="1">In 1473, Rennyo wrote in the &quot;Jogai Ofumi,&quot; a collection of letters, as follows:</e>
+<cmt>「一原文一訳文の例外対処」split sampleに基づき、原文/訳文を修正しました。in the &quot;Jogai Ofumi&quot;とし、カンマの位置を移動しました。</cmt>
+</sen>
+<sen id="22">
+<j>「夫一向宗と云、時衆方之名なり、一遍・一向是也。」</j>
+<e type="trans" ver="1">It originated in the seminary in Banba, Goshu&apos;, here he stated that the Ikkoshu sect was a sect founded by Ikko Shunsho and that any of Honganji Temple believers who used the name of the Ikkoshu sect would be expelled, although he mixed up the sects of Ippen and Ikko Shunsho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It originated in the seminary in Banba, Goshu&apos;; here he stated that the Ikkoshu sect was a sect founded by Ikko Shunsho and that any Honganji Temple believers who used the name of the Ikkoshu sect would be expelled, although he confused the sects of Ippen and Ikko Shunsho.</e>
+<cmt>Grammar, word choice, punctuation</cmt>
+<e type="check" ver="1">It is called Ikkoshu, indicating the Jishu people, meaning Ippen and Ikko Shunsho.&apos;</e>
+<cmt>「一原文一訳文の例外対処」</cmt>
+</sen>
+<sen id="23">
+<j>「其源とは江州ばんばの道場是則一向宗なり」</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It originated in the seminary in Banba, Goshu.&apos;</e>
+<cmt>「一原文一訳文の例外対処」</cmt>
+</sen>
+<sen id="24">
+<j>一向宗が一向の教団でもあることを明記して本願寺の門徒で一向宗の名前を使ったものは破門するまで書かれているものの、ここでも一遍と一向の宗派が混同されている。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Here he stated that the Ikkoshu sect was a sect founded by Ikko Shunsho and that any Hongan-ji Temple believers who used the name of the Ikkoshu sect would be expelled, although he confused the sects of Ippen and Ikko Shunsho.</e>
+<cmt>「一原文一訳文の例外対処」Hongan-ji Templeとしました。</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="25">
+<j>ところが、江戸時代に入ると、江戸幕府は本末制度の徹底化のために一向の流派を独立した宗派とは認めず同じ踊り念仏という事で、清浄光寺を総本山とする一遍を祖とする時宗の管轄下に置かれて「一向宗」の呼称を用いる事を禁じられた。</j>
+<e type="trans" ver="1">But during the Edo period, the Edo bakufu tried to introduce the strict head-branch system into all the Buddhist temples; therefore, the bakufu denied the Ikkoshu as an independent sect and integrated it into the Jishu sect founded by Ippen with Shojokoji Temple as the head temple because the Ikkoshu also practiced Odorinenbutsu as the Jishu sect did, and prohibited the people from using the name &apos;ikkoshu&apos; thereafter.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, during the Edo period, the Edo bakufu attempted to introduce the strict head-branch system into all the Buddhist temples; for that reason, the bakufu denied Ikkoshu&apos;s independence as a sect, integrated it with the Jishu sect, founded by Ippen, with Shojokoji Temple as its head temple (because the Ikkoshu also practiced Odorinenbutsu as the Jishu sect did), and thereafter prohibited the people from using the name &apos;ikkoshu&apos;.</e>
+<cmt>Grammar, punctuation, word choice</cmt>
+<e type="check" ver="1">However, during the Edo period, the Edo bakufu attempted to introduce the strict head-branch system into all the Buddhist temples; for that reason, the bakufu denied Ikkoshu&apos;s independence as a sect, integrated it with the Jishu sect, founded by Ippen, with Shojoko-ji Temple as its head temple (because the Ikkoshu also practiced Odorinenbutsu as the Jishu sect did), and thereafter prohibited the people from using the name &apos;Ikkoshu.&apos;</e>
+<cmt>Shojoko-ji Temple、ikkoshu→Ikkoshuとし、ピリオドの位置を移動しました。</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="26">
+<j>『時宗要略譜』によると時宗十二派のうち、一向派、天童派が一向の法脈を受け継ぐものとされている。</j>
+<e type="trans" ver="1">According to the summary of the Jishu teachings &quot;Jishu Yoryakufu&quot;, among the twelve branches of the Jishu sect, the Ikko branch and the Tendo branch inherited the teachings of the Ikkoshu sect.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the summary of the Jishu teachings &quot;Jishu Yoryakufu&quot;, of the twelve branches of the Jishu sect, the Ikko and Tendo branches inherited the teachings of the Ikkoshu sect.</e>
+<cmt>Grammar</cmt>
+<e type="check" ver="1">According to the summary of the Jishu teachings &quot;Jishu Yoryakufu,&quot; of the twelve schools of the Jishu sect, the Ikko and Tendo schools inherited the teachings of the Ikkoshu sect.</e>
+<cmt>branches→schoolsに修正しました。</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="27">
+<j>当然のように一向派（かつての一向の一向宗）は再三に亘る独立運動を起こすも実らなかった。</j>
+<e type="trans" ver="1">Although the Ikko branch, i.e., the former Ikkoshu sect followers, repeatedly tried to be independent from the Jishu sect as a matter of course, they always failed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the Ikko branch (the former Ikkoshu sect followers) naturally tried gain independence from the Jishu sect over and over again, they always failed.</e>
+<cmt>Grammar, word choice</cmt>
+<e type="check" ver="1">Although the Ikko school (the former Ikkoshu sect followers) naturally tried gain independence from the Jishu sect over and over again, they always failed.</e>
+<cmt>Ikko branch→Ikko schoolに修正しました。</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="28">
+<j>大半の寺院が時宗を離れ、一向の母体であった浄土宗に帰属するようになったのは昭和時代に入った1943年の事であった。</j>
+<e type="trans" ver="1">It was 1943 in the Showa period when most temples were separated from the Jishu sect and belonged to the Jodoshu sect, the parent organization of Ikko Shunsho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was in 1943, during the Showa period, that most temples were separated from the Jishu sect and returned to the Jodoshu sect, the parent organization of Ikko Shunsho.</e>
+<cmt>Grammar, punctuation</cmt>
+<e type="check" ver="1">It was in 1943, during the Showa period, that most temples were separated from the Jishu sect and returned to the Jodoshu sect, the parent organization of Ikko Shunsho.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="29">
+<j>ゆかりの寺院</j>
+<e type="trans" ver="1">Related Temples</e>
+<cmt></cmt>
+<e type="trans" ver="2">Related Temples</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Related Temples</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>番場蓮華寺（滋賀県米原市）</j>
+<e type="trans" ver="1">Banba Rengeji Temple (Yonehara City, Shiga Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Banba Rengeji Temple (Yonehara City, Shiga Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Banba Renge-ji Temple (Maibara City, Shiga Prefecture)</e>
+<cmt>Renge-ji Templeとし、Yonehara City→Maibara Cityに修正しました。</cmt>
+</sen>
+<sen id="31">
+<j>佛向寺（山形県天童市）</j>
+<e type="trans" ver="1">Bukkoji Temple (Tendo City, Yamagata Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bukkoji Temple (Tendo City, Yamagata Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bukko-ji Temple (Tendo City, Yamagata Prefecture)</e>
+<cmt>Bukko-ji Templeとしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>浄土真宗の「一向宗」</j>
+<e type="trans" ver="1">Ikkoshu&apos; of the Jodo Shinshu sect</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ikkoshu&apos; of the Jodo Shinshu sect</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ikkoshu&apos; of the Jodo Shinshu sect</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="32">
+<j>「一向」とは、ひたすらとか一筋ということで、一つに専念することを意味している。</j>
+<e type="trans" ver="1">Ikko&apos; literally means &apos;devotedly&apos; or &apos;earnestly&apos;, indicated to devote oneself to one thing.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ikko&apos; literally means &apos;devotedly&apos; or &apos;earnestly&apos;, indicating the devotion of oneself to one thing.</e>
+<cmt>Grammar</cmt>
+<e type="check" ver="1">Ikko&apos; literally means &apos;devotedly&apos; or &apos;earnestly,&apos; indicating the devotion of oneself to one thing.</e>
+<cmt>カンマの位置を移動しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="33">
+<j>これは『無量寿経仏説無量寿経』にある「一向専念無量寿仏」から、阿弥陀仏の名号を称えることと解釈され、そこから「一向宗」が他の宗派より親鸞を開祖とする浄土真宗を指す呼称となった。</j>
+<e type="trans" ver="1">As it was described &apos;一向専念無量寿仏&apos; in the sutra &quot;無量寿経仏説無量寿経&quot;, &apos;一向&apos; Ikko was understood as chanting of the Amitabha&apos;s name, from which &apos;一向宗&apos; became a designation of the Jodo Shinshu sect founded by Shinran other than the other sects.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since it was described &apos;一向専念無量寿仏&apos; in the sutra &quot;無量寿経仏説無量寿経&quot;, &apos;一向&apos; Ikko was understood as chanting of the Amitabha&apos;s name, from which &apos;一向宗&apos; became a designation used by other sects to refer to the Jodo Shinshu sect founded by Shinran.</e>
+<cmt>Grammar, word choice</cmt>
+<e type="check" ver="1">Since it was described &apos;Ikko Sennen Muryo Jubutsu&apos; (一向専念無量寿仏) in the sutra &quot;Muryoju-kyo Bussetsu Muryoju-kyo&quot; (無量寿経仏説無量寿経), &apos;一向&apos; Ikko was understood as chanting of the Amitabha&apos;s name, from which &apos;一向宗&apos; became a designation used by other sects to refer to the Jodo Shinshu sect founded by Shinran.</e>
+<cmt>漢字表記部分にローマ字表記を追加しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="34">
+<j>一説には「浄土真宗」という呼称を嫌った浄土宗による呼称とする説もある。</j>
+<e type="trans" ver="1">According to an opinion, it was used by the Jodo sect, who hated the name &apos;the Jodo Shinshu sect.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Another opinion states that it was used by the Jodo sect itself, who hated the name &apos;the Jodo Shinshu sect.&apos;</e>
+<cmt>Grammar, word choice</cmt>
+<e type="check" ver="1">Another opinion states that it was used by the Jodoshu sect itself, who hated the name &apos;the Jodo Shinshu sect.&apos;</e>
+<cmt>Jodoshu sectとしました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="35">
+<j>従って、本来であれば浄土真宗の門徒から見て正しい呼称ではなく、また一向俊聖の「一向宗」と混同される事から望ましい呼び方でもなかった。</j>
+<e type="trans" ver="1">Therefore, it was neither a right designation from the viewpoint of the Jodo Shinshu sect people, nor a desirable name because it was confused with the &apos;Ikkoshu sect&apos; founded by Ikko Shunsho.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, it was neither a correct designation from the viewpoint of the Jodo Shinshu sect, nor a desirable name, since it was confused with the &apos;Ikkoshu sect&apos; founded by Ikko Shunsho.</e>
+<cmt>Grammar</cmt>
+<e type="check" ver="1">Therefore, it was neither a correct designation from the viewpoint of the Jodo Shinshu sect, nor a desirable name, since it was confused with the &apos;Ikkoshu sect&apos; founded by Ikko Shunsho.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="36">
+<j>だが、中世において同じ念仏を唱える浄土教系宗派であった両派が混同され、更に時衆などとも一緒くたに考えられるようになっていった。</j>
+<e type="trans" ver="1">During the middle ages, both of the sects that were branched from the Jodokyo and features the chanting of the same Buddhist invocation were mixed up and further confused with the Jishu sect.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, during the middle ages, both of the sects which had branched from the Jodokyo and featured the chanting of the same Buddhist invocation were mixed up, and both were further confused with the Jishu sect.</e>
+<cmt>Grammar, word choice</cmt>
+<e type="check" ver="1">However, during the middle ages, both of the sects which had branched from the Jodokyo and featured the chanting of the same Buddhist invocation were mixed up, and both were further confused with the Jishu sect.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="37">
+<j>蓮如は前述のように「他宗派の者が（勘違いして）一向宗と呼ぶのは仕方ないが、我々浄土真宗の門徒が一向宗を自称してはいけない」という主旨の発言をして違反者を破門するとまで述べているが、逆に言えばこれは、浄土真宗の門徒ですら一向宗を自称する者がいた事を意味する。</j>
+<e type="trans" ver="1">As mentioned above, Rennyo stated that &apos;It cannot be helped that the other sect people confuse us with other sect and call us Ikkoshu, but the people of the Jodo Shinshu sect should not call themselves Ikkoshu&apos;, and even said that he would expel those who did not obey the order, which conversely meant that even the Jodo Shinshu sect people called themselves Ikkoshu in those days.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As mentioned above, Rennyo stated that &apos;If people of other sects confuse us with another sect and call us Ikkoshu, that cannot be helped, but the people of the Jodo Shinshu sect should not call themselves Ikkoshu&apos;, and even said that he would expel those who did not obey the order; conversely, this means that even members of the Jodo Shinshu sect called themselves Ikkoshu in those days.</e>
+<cmt>Grammar, word order</cmt>
+<e type="check" ver="1">As mentioned above, Rennyo stated that &apos;If people of other sects confuse us with another sect and call us Ikkoshu, that cannot be helped, but the people of the Jodo Shinshu sect should not call themselves Ikkoshu,&apos; and even said that he would expel those who did not obey the order; conversely, this means that even members of the Jodo Shinshu sect called themselves Ikkoshu in those days.</e>
+<cmt>カンマの位置を移動しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="38">
+<j>こうした指導により「浄土真宗」又は「真宗」と呼ばれるようになり、浄土真宗内部では正式には使われなくなった。</j>
+<e type="trans" ver="1">Under the instruction of Rennyo, the Jodo Shinshu sect became to be called &apos;the Jodo Shinshu sect&apos; or &apos;the Shinshu&apos; and the name &apos;Ikkoshu&apos; was no longer formally used inside the Jodo Shinshu sect.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under Rennyo&apos;s instructions, the Jodo Shinshu sect became to be called &apos;the Jodo Shinshu sect&apos; or &apos;the Shinshu&apos;, and the name &apos;Ikkoshu&apos; was no longer formally used inside the Jodo Shinshu sect.</e>
+<cmt>Word order, punctuation</cmt>
+<e type="check" ver="1">Under Rennyo&apos;s instructions, the Jodo Shinshu sect became to be called &apos;the Jodo Shinshu sect&apos; or &apos;the Shinshu,&apos; and the name &apos;Ikkoshu&apos; was no longer formally used inside the Jodo Shinshu sect.</e>
+<cmt>カンマの位置を移動しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="39">
+<j>ところが、後に浄土真宗の門徒たちを中心とする一揆を一向一揆と呼ぶことなどで、浄土真宗を一向宗と呼ぶ他宗派の風潮は収まる事はなかった。</j>
+<e type="trans" ver="1">But from the reasons like the Ikki uprising headed by the Jodo Shinshu sect people was called &apos;Ikko ikki&apos;, the other sects still called the Jodo Shinshu sect &apos;the Ikkoshu.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the Ikki uprising headed by members of the Jodo Shinshu sect was called &apos;Ikko ikki&apos;, and for this and other reasons, the other sects still called the Jodo Shinshu sect &apos;the Ikkoshu.&apos;</e>
+<cmt>Grammar, word order</cmt>
+<e type="check" ver="1">However, the Ikki uprising headed by members of the Jodo Shinshu sect was called &apos;Ikko ikki,&apos; and for this and other reasons, the other sects still called the Jodo Shinshu sect &apos;the Ikkoshu.&apos;</e>
+<cmt>カンマの位置を移動しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>宗名論争</j>
+<e type="trans" ver="1">Sect name controversy</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sect name controversy</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sect name controversy</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="40">
+<j>やがて、全国を平定した江戸幕府即ち徳川将軍家は浄土宗を信仰しており、また三河一向一揆で苦しめられた経緯から一向宗を公式名称として用い続けた。</j>
+<e type="trans" ver="1">The Edo bakufu, i.e., the family of the Tokugawa shogun, which controlled over the country, believed in the Jodo sect, and the family had a hard time in the Ikko ikki uprising in Mikawa, they continued using the Ikkoshu sect as the formal name.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Edo bakufu (the family of the Tokugawa shogun, which controlled the country) were followers of the Jodo sect; the family had a hard time during the Ikko ikki uprising in Mikawa, and continued using &apos;the Ikkoshu sect&apos; as the formal name.</e>
+<cmt>Grammar, punctuation, word choice</cmt>
+<e type="check" ver="1">The Edo bakufu (the family of the Tokugawa shogun, which controlled the country) were followers of the Jodoshu sect; the family had a hard time during the Ikko ikki uprising in Mikawa, and continued using &apos;the Ikkoshu sect&apos; as the formal name.</e>
+<cmt>Jodoshu sectとしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="41">
+<j>一方、浄土真宗側は本願寺の分裂などの影響があり具体的な対応が取られることがなかった。</j>
+<e type="trans" ver="1">On the other hand, under the influence of division of Honganji Temple or the like, the Jodo Shinshu sect delayed in specific countermeasures against the naming.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meanwhile, influenced by the division of Honganji Temple and other factors, the Jodo Shinshu sect did not take specific countermeasures against the naming.</e>
+<cmt>Grammar, word choice</cmt>
+<e type="check" ver="1">Meanwhile, influenced by the division of Hongan-ji Temple and other factors, the Jodo Shinshu sect did not take specific countermeasures against the naming.</e>
+<cmt>Hongan-ji Templeとしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="42">
+<j>ところが、安永3年（1774年）、この事に危機感を持った東本願寺と西本願寺が一致して幕府に対して「浄土真宗」のみを公式名称とするように求める意見書を提出し、仏光寺派・高田派など非本願寺系真宗各派もこれに呼応した。</j>
+<e type="trans" ver="1">In 1774, a sense of crisis grew in both the Higashi (East) Honganji and the Nishi (West) Honganji and they cooperated in submitting a proposal to the bakufu stating that only &apos;the Jodo Shinshu sect&apos; (written as 浄土真宗) should be used as the formal name for them, which was followed by the other Jodo Shinshu branches other than the Honganji branches like the Bukkoji branch and the Takada branch.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, in 1774, a sense of urgency over the matter grew in both Higashi (East) Honganji and Nishi (West) Honganji temples, and they cooperated in the submission of a proposal to the bakufu stating that only &apos;the Jodo Shinshu sect&apos; (written as 浄土真宗) should be used as their formal name; this was seconded by Jodo Shinshu branches other than the Honganji branches, such as the Bukkoji and Takada branches.</e>
+<cmt>Grammar, word choice</cmt>
+<e type="check" ver="1">However, in 1774, a sense of urgency over the matter grew in both Higashi (East) Hongan-ji and Nishi (West) Hongan-ji Temples, and they cooperated in the submission of a proposal to the bakufu stating that only &apos;the Jodo Shinshu sect&apos; (written as 浄土真宗) should be used as their formal name; this was seconded by Jodo Shinshu schools other than the Hongan-ji school, such as the Bukko-ji and Takada schools.</e>
+<cmt>Honganji temples→Hongan-ji Temples、Jodo Shinshu branches→Jodo Shinshu schools、Honganji branches→Hongan-ji school、Bukkoji and Takada branches→Bukko-ji and Takada schoolsとしました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="43">
+<j>寺社奉行松平忠順は困惑して、徳川将軍家の菩提寺である寛永寺（天台宗）と増上寺（浄土宗）に意見書に対する見解を求めた。</j>
+<e type="trans" ver="1">The commissioner of temples and shrines Tadayori MATSUDAIRA was perplexed and asked Kaneiji Temple (the Tandai sect) and Zojoji Temple (the Jodo sect), which were family temples of the family of Tokugawa shogun, their opinions about the proposal.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tadayori MATSUDAIRA, the commissioner of temples and shrines, was perplexed and asked Kaneiji Temple (the Tandai sect) and Zojoji Temple (the Jodo sect), family temples belonging to the Tokugawa shogun&apos;s family, for their opinions about the proposal.</e>
+<cmt>Grammar, word order</cmt>
+<e type="check" ver="1">Tadayori MATSUDAIRA, the commissioner of temples and shrines, was perplexed and asked Kanei-ji Temple (the Tandaishu sect) and Zojo-ji Temple (the Jodoshu sect), family temples belonging to the Tokugawa shogun&apos;s family, for their opinions about the proposal.</e>
+<cmt>Kanei-ji Temple、Zojo-ji Temple、Tendaishu sect、Jodoshu sectとしました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="44">
+<j>寛永寺は他宗の問題である事を理由に宗派に任せる（事実上の容認）姿勢を見せたのに対して、増上寺は激怒した。</j>
+<e type="trans" ver="1">Kaneiji Temple virtually approved the proposal and said that they entrust the matter the sect because it was the other sect&apos;s matter, while Zojoji Temple was infuriated.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kaneiji Temple practically approved the proposal, saying that since it was another sect&apos;s matter, they entrusted it to the other sect, while Zojoji Temple was infuriated.</e>
+<cmt>Grammar, word choice</cmt>
+<e type="check" ver="1">Kanei-ji Temple practically approved the proposal, saying that since it was another sect&apos;s matter, they entrusted it to the other sect, while Zojo-ji Temple was infuriated.</e>
+<cmt>Kanei-ji Temple、Zojo-ji Templeとしました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="45">
+<j>増上寺は法然の直系である浄土宗こそが「真の浄土宗」であり、異端である一向宗が「真」の字を用いる事をむしろ禁じるべきであると回答した。</j>
+<e type="trans" ver="1">Zojoji Temple answered that only the Jodo sect that was a straight descendant from the founder Honen was the real &apos;真&apos; Jodo sect &apos;浄土宗&apos; and the heretical Jodo Shinshu sect should have been prohibited to use the letter &apos;真&apos; instead.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Zojoji Temple answered that only the Jodo sect, which was descended directly from the founder Honen, was the real &apos;真&apos; Jodo sect &apos;浄土宗&apos;, and that the heretical Jodo Shinshu sect should have been prohibited from using the character &apos;真&apos;.</e>
+<cmt>Grammar, word choice</cmt>
+<e type="check" ver="1">Zojo-ji Temple answered that only the Jodoshu sect, which was descended directly from the founder Honen, was the real &apos;真&apos; Jodo sect &apos;浄土宗,&apos; and that the heretical Jodo Shinshu sect should have been prohibited from using the character &apos;真.&apos;</e>
+<cmt>カンマ/ピリオドの位置を移動、Zojo-ji Temple、Jodoshu sectとしました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="46">
+<j>この浄土宗側の主張も全く根拠の無い事ではなく、浄土真宗を開いた親鸞が著した『高僧和讃』において「智慧光のちからより、本師源空（法然）あらはれて、浄土真宗ひらきつゝ、選択本願のべたまふ」と著し、親鸞が師である法然を真の浄土宗の指導者としてその教えを「浄土真宗」と評し、自らもその継承者として「真実之教浄土真宗」（『顕浄土真実教行証文類』）と述べている。</j>
+<e type="trans" ver="1">The opinion of the Jodo sect was not groundless, because the founder of the Jodo Shinshu sect Shinran wrote in his book &quot;Koso Wasan&quot; that &apos;his master Honen appeared from the light of enlightenment and founded the Jodo Shinshu sect, and stated his vow&apos;, describing his master Honen as a leader of the real &apos;真&apos; Jodo sect &apos;浄土宗&apos; and expressing the master&apos;s teachings as the Jodo Shinshu &apos;浄土真宗&apos;, and expressed himself as the successor to Honen and called the teachings &apos;the real teachings Jodo Shinshu sect&apos;;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The opinion of the Jodo sect was not groundless: Shinran, the founder of the Jodo Shinshu sect, wrote in his book &quot;Koso Wasan&quot; that &apos;his master Honen appeared from the light of enlightenment and founded the Jodo Shinshu sect, and stated his vow&apos;, describing his master Honen as a leader of the real &apos;真&apos; Jodo sect &apos;浄土宗&apos;, expressing the master&apos;s teachings as the Jodo Shinshu &apos;浄土真宗&apos; and himself as the successor to Honen, and called the teachings &apos;the real teachings of the Jodo Shinshu sect&apos;.</e>
+<cmt>Grammar, word choice, word order, punctuation</cmt>
+<e type="check" ver="1">The opinion of the Jodoshu sect was not groundless: Shinran, the founder of the Jodo Shinshu sect, wrote in his book &quot;Koso Wasan&quot; that &apos;his master Honen appeared from the light of enlightenment and founded the Jodo Shinshu sect, and stated his vow,&apos; describing his master Honen as a leader of the real &apos;真&apos; Jodo sect &apos;浄土宗,&apos; expressing the master&apos;s teachings as the Jodo Shinshu &apos;浄土真宗&apos; and himself as the successor to Honen, and called the teachings &apos;the real teachings of the Jodo Shinshu sect.&apos;</e>
+<cmt>カンマ/ピリオドの位置を移動、Jodoshu sectとしました。</cmt>
+</sen>
+<sen id="47">
+<j>現在浄土宗とは別の宗派であると主張する親鸞の門徒が「浄土真宗」を採用するのは不当であると主張したのである。</j>
+<e type="trans" ver="1">therefore, the Jodo sect answered the question that the believer of Shinran, who stated that their teachings were different from the Jodo sect in those days, was wrong to adopt &apos;the Jodo Shinshu&apos; for their name--</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Therefore, the Jodo sect claimed that the believers of Shinran, who at the time stated that their teachings were different from the Jodo sect, were wrong to adopt &apos;Jodo Shinshu&apos; as their name.</e>
+<cmt>Grammar, word choice, word order, punctuation</cmt>
+<e type="check" ver="1">Therefore, the Jodoshu sect claimed that the believers of Shinran, who at the time stated that their teachings were different from the Jodoshu sect, were wrong to adopt &apos;Jodo Shinshu&apos; as their name.</e>
+<cmt>Jodoshu sectとしました。</cmt>
+</sen>
+<sen id="48">
+<j>（なお、蓮如が「浄土真宗」を公式の名とするように説いた半世紀前の正長元年（1428年）に後小松天皇が金戒光明寺山門に「浄土真宗最初門」の勅額を掲げさせている）。</j>
+<e type="trans" ver="1">Incidentally, in 1428, half century before that, when Rennyo stated that they would adopt &apos;the Jodo Shinshu&apos; for their sect&apos;s name, Emperor Gokomatsu had Shinran raise the framed imperial calligraphy &apos;the first gate of the Jodo Shinshu&apos; at the temple gate of Konkai Komyoji Temple.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Incidentally, half century earlier, in 1428, when Rennyo stated that they would adopt &apos;Jodo Shinshu&apos; as their sect&apos;s name, Emperor Gokomatsu had Shinran raise the framed imperial calligraphy &apos;the first gate of the Jodo Shinshu&apos; at the temple gate of Konkai Komyoji Temple.</e>
+<cmt>Grammar, word choice, word order, punctuation</cmt>
+<e type="check" ver="1">(Incidentally, half century earlier, in 1428, when Rennyo stated that they would adopt &apos;Jodo Shinshu&apos; as their sect&apos;s name, Emperor Gokomatsu had Shinran raise the framed imperial calligraphy &apos;the first gate of the Jodo Shinshu&apos; at the temple gate of Konkai Komyo-ji Temple.)</e>
+<cmt>カッコ表記追加、Konkai Komyo-ji Templeとしました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="49">
+<j>翌年松平忠順が寺社奉行を辞任して太田資愛が後任となると、老中田沼意次と協議して増上寺をはじめとする浄土宗寺院の幕府への貢献が格別であるとして正式に「一向宗」を正式な宗派名とする事を決定した。</j>
+<e type="trans" ver="1">When the commissioner of temples and shrines Tadayori MATSUDAIRA resigned and Sukeyoshi OTA succeeded him, Sukeyoshi OTA discussed with the senior councilor Okitsugu TANUMA and decided that &apos;the Ikkoshu&apos; would be the formal name of the sect founded by Shinran on the pretext of contribution of the Jodo sect temples including Zojoji Temple to the bakufu being distinguished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When Tadayori MATSUDAIRA, the commissioner of temples and shrines, resigned and was succeeded by Sukeyoshi OTA, OTA met with senior councilor Okitsugu TANUMA and decided that, in light of the distinguished contributions Zojoji and the other Jodo sect temples had made to the bakufu, &apos;the Ikkoshu&apos; would be the formal name of the sect which Shinran had founded.</e>
+<cmt>Grammar, word order, punctuation</cmt>
+<e type="check" ver="1">When Tadayori MATSUDAIRA, the commissioner of temples and shrines, resigned and was succeeded by Sukeyoshi OTA, OTA met with senior councilor Okitsugu TANUMA and decided that, in light of the distinguished contributions Zojo-ji Temple and the other Jodoshu sect temples had made to the bakufu, &apos;the Ikkoshu&apos; would be the formal name of the sect which Shinran had founded.</e>
+<cmt>Zojoji→Zojo-ji Temple、Jodoshu sectとしました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="50">
+<j>これに対して浄土真宗各派は激しく抗議した為、その後審議のやり直しを決定したものの、実際には単なる先送りに他ならなかった。</j>
+<e type="trans" ver="1">As all the branches of the Jodo Shinshu sect opposed to the decision and fiercely protested the bakufu, it was planned to discuss the matter again, but that was merely a postponement of the discussion.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All the branches of the Jodo Shinshu sect opposed the decision and made fierce protests to the bakufu, so it plans were made to discuss the matter again, but in reality it was merely a delaying tactic.</e>
+<cmt>Grammar, word choice</cmt>
+<e type="check" ver="1">All the branches of the Jodo Shinshu sect opposed the decision and made fierce protests to the bakufu, so it plans were made to discuss the matter again, but in reality it was merely a delaying tactic.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="51">
+<j>その間に増上寺は浄土宗各派に対して「浄土真宗」の名称を用いる事が出来るのは浄土宗寺院だけであるという見解を出して増上寺に「浄土真宗」の額を掲げるなどの圧迫を加えた。</j>
+<e type="trans" ver="1">During the period, Zojoji Temple put pressure on the Jodo Shinshu sect by distributing its opinion among all the branches of the Jodo sect that &apos;only Jodo sect temples can use the name &apos;Jodo Shinshu&apos; and raising the framed calligraphy wrote &apos;the Jodo Shinshu&apos; at the temple building.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the interval, Zojoji Temple put pressure on the Jodo Shinshu sect by distributing its opinion that only Jodo sect temples could use the name &apos;Jodo Shinshu&apos; among all the branches of the Jodo sect, and by displaying framed calligraphy with the words &apos;the Jodo Shinshu&apos; at the temple building.</e>
+<cmt>Grammar, word order, punctuation</cmt>
+<e type="check" ver="1">During the interval, Zojo-ji Temple put pressure on the Jodo Shinshu sect by distributing its opinion that only Jodoshu sect temples could use the name &apos;Jodo Shinshu&apos; among all the branches of the Jodo sect, and by displaying framed calligraphy with the words &apos;the Jodo Shinshu&apos; at the temple building.</e>
+<cmt>Zojo-ji Temple、Jodoshu sectとしました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="52">
+<j>追い詰められた真宗側は、天明8年（1788年）には上洛の帰途箱根山を通過した老中松平定信に対して浅草本願寺の僧が直訴する騒ぎとなった。</j>
+<e type="trans" ver="1">As the Jodo Shinshu sect was driven into a difficult situation, monks from Asakusa Honganji Temple eventually made a direct appeal to the senior counselor Sadanobu MATSUDAIRA who had just passed Mt. Hakone on his way back from Kyoto to Edo in 1788.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Jodo Shinshu sect was thus driven into a difficult situation, and monks from Asakusa Honganji Temple eventually made a direct appeal to the senior counselor Sadanobu MATSUDAIRA, who had just passed Mt. Hakone on his way back from Kyoto to Edo in 1788.</e>
+<cmt>Grammar, word choice</cmt>
+<e type="check" ver="1">The Jodo Shinshu sect was thus driven into a difficult situation, and monks from Asakusa Hongan-ji Temple eventually made a direct appeal to the senior counselor Sadanobu MATSUDAIRA, who had just passed Mt. Hakone on his way back from Kyoto to Edo in 1788.</e>
+<cmt>Hongan-ji Templeとしました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="53">
+<j>これに苦慮した定信は寛永寺の輪王寺宮に相談して仲裁を願い出た。</j>
+<e type="trans" ver="1">Sadanobu MATSUDAIRA was perplexed and asked Rinnojinomiya in Kaneiji Temple to mediate the controversy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sadanobu MATSUDAIRA was perplexed and asked Rinnojinomiya of Kaneiji Temple to mediate the controversy.</e>
+<cmt>Changed &quot;in&quot; to &quot;of&quot;</cmt>
+<e type="check" ver="1">Sadanobu MATSUDAIRA was perplexed and asked Rinnojinomiya of Kanei-ji Temple to mediate the controversy.</e>
+<cmt>Kanei-ji Templeとしました。</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="54">
+<j>輪王寺宮は翌寛政元年（1789年）に「3万日」間寛永寺でこの問題を預かりその後に改めて議論するという仲裁案が出されて浄土真宗側もこれに従わざるを得なかった。</j>
+<e type="trans" ver="1">In 1789, the next year, Rinnojinomiya made the suggestion that Kaneiji Temple keep the matter for &apos;30,000 days&apos; and after that they should discuss the matter again and the Jodo Shinshu sect had to obey the mediation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following year, 1789, Rinnojinomiya suggested that Kaneiji Temple hold the matter for &apos;30,000 days&apos;, after which time they should discuss the matter again, and the Jodo Shinshu sect had to obey the mediation.</e>
+<cmt>Grammar, punctuation</cmt>
+<e type="check" ver="1">The following year, 1789, Rinnojinomiya suggested that Kanei-ji Temple hold the matter for &apos;30,000 days,&apos; after which time they should discuss the matter again, and the Jodo Shinshu sect had to obey the mediation.</e>
+<cmt>Kanei-ji Templeとし、カンマの位置を移動しました。</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="55">
+<j>これを「宗名論争（しゅうめいろんそう）」という。</j>
+<e type="trans" ver="1">This is called &apos;Shumeironso&apos;, meaning controversy over the sect name.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is called &apos;Shumeironso&apos;, meaning controversy over the sect name.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This is called &apos;Shumeironso,&apos; meaning controversy over the sect name.</e>
+<cmt>カンマの位置を移動しました。</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="56">
+<j>以後、浄土真宗はあくまでも「一向宗」の呼称を拒否して門徒宗（もんとしゅう）などの言い換えを行った。</j>
+<e type="trans" ver="1">Thereafter, the Jodo Shinshu sect consistently rejected the name &apos;Ikkoshu&apos; and replaced &apos;Ikkoshu&apos; by &apos;Montoshu&apos;, by which the followers of the Jodo Shinshu sect had been generally called.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thereafter, the Jodo Shinshu sect consistently rejected the name &apos;Ikkoshu&apos;, replacing it with &apos;Montoshu&apos; and other names.</e>
+<cmt>Grammar. The last half of the sentence, &quot;by which the followers of the Jodo Shinshu sect had been generally called&quot;, was not in the original; I&apos;ve removed it, but am leaving it here in the comments for reference</cmt>
+<e type="check" ver="1">Thereafter, the Jodo Shinshu sect consistently rejected the name &apos;Ikkoshu,&apos; replacing it with &apos;Montoshu&apos; and other names.</e>
+<cmt>カンマの位置を移動しました。</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="57">
+<j>明治政府が成立すると、神道国教化の過程で仏教統制の必要性を感じた新政府は浄土真宗に対して「浄土真宗」・「門徒宗」など「一向宗」以外の呼称を改めて禁じようとした。</j>
+<e type="trans" ver="1">When the Meiji government was established, the government decided that it should control the Buddhist sects on the process of establishing Shinto as the state religion, and tried to prohibit the Jodo Shinshu sect from using any name as &apos;Jodo Shinshu&apos; and &apos;Montoshu&apos; other than &apos;Ikkoshu&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the Meiji government was established, the government decided that it should control the Buddhist sects as part of the process of establishing Shinto as the state religion, and tried to prohibit the Jodo Shinshu sect from using any name as other than &apos;Ikkoshu&apos;, including &apos;Jodo Shinshu&apos; and &apos;Montoshu&apos;.</e>
+<cmt>Grammar, word choice, punctuation, word order</cmt>
+<e type="check" ver="1">When the Meiji government was established, the government decided that it should control the Buddhist sects as part of the process of establishing Shinto as the state religion, and tried to prohibit the Jodo Shinshu sect from using any name as other than &apos;Ikkoshu,&apos; including &apos;Jodo Shinshu&apos; and &apos;Montoshu.&apos;</e>
+<cmt>カンマ・ピリオドの位置を移動しました。</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="58">
+<j>ところが廃仏毀釈の問題も相俟って浄土真宗側の猛反発を買った。</j>
+<e type="trans" ver="1">Together with the protest against the government policy that ignited the anti-Buddhist movement, the Jodo Shinshu sect violently opposed the Meiji government.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the Meiji government ended up with both the anti-Buddhist movement and violent opposition from the Jodo Shinshu sect on its hands.</e>
+<cmt>Grammar, word choice, word order, rewrote</cmt>
+<e type="check" ver="1">However, the Meiji government ended up with both the anti-Buddhist movement and violent opposition from the Jodo Shinshu sect on its hands.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="59">
+<j>浄土真宗側ではこの裁定を下した江戸幕府が滅亡した事、そして何よりも既に約束の「3万日」が到来している事を理由に改めて「浄土真宗」の呼称を認めるように迫った。</j>
+<e type="trans" ver="1">The Jodo Shinshu sect pressed the Meiji government to approve of their using of the name &apos;Jodo Shinshu&apos; because the Edo bakufu that prohibited them from using the name fell and the promised &apos;30,000 days&apos; had passed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Jodo Shinshu sect pressured the Meiji government to approve their use of the name &apos;Jodo Shinshu&apos;, since the Edo bakufu which had prohibited them from using the name had fallen and the promised &apos;30,000 days&apos; had passed.</e>
+<cmt>Grammar, word choice</cmt>
+<e type="check" ver="1">The Jodo Shinshu sect pressured the Meiji government to approve their use of the name &apos;Jodo Shinshu,&apos; since the Edo bakufu which had prohibited them from using the name had fallen and the promised &apos;30,000 days&apos; had passed.</e>
+<cmt>カンマの位置を移動しました。</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="60">
+<j>これに対して新政府は明治5年（1872年）になって浄土宗の手前「浄土真宗」は認めないが、略称の「真宗」であれば認めるとする見解を出した。</j>
+<e type="trans" ver="1">In response, the Meiji government answered in 1872 that they will not allow the Jodo Shinshu sect to use the name &apos;Jodo Shinshu&apos; by taking account of the Jodo sect, but allow them to use the abbreviation &apos;Shinshu&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In response, in 1872, the Meiji government answered that, taking the Jodo sect into account, they would not allow the Jodo Shinshu sect to use the name &apos;Jodo Shinshu&apos; but would allow them to use the abbreviation &apos;Shinshu&apos;.</e>
+<cmt>Grammar, word order, punctuation</cmt>
+<e type="check" ver="1">In response, in 1872, the Meiji government answered that, taking the Jodoshu sect into account, they would not allow the Jodo Shinshu sect to use the name &apos;Jodo Shinshu&apos; but would allow them to use the abbreviation &apos;Shinshu.&apos;</e>
+<cmt>Jodoshu sectとし、ピリオドの位置を移動しました。</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="61">
+<j>これに従った浄土真宗の寺院は以後「真宗」を公式名称とする。</j>
+<e type="trans" ver="1">Thereafter, the Jodo Shinshu temples that followed the order used &apos;Shinshu&apos; as their formal name.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thereafter, the Jodo Shinshu temples that obeyed the order used &apos;Shinshu&apos; as their formal name.</e>
+<cmt>Word choice</cmt>
+<e type="check" ver="1">Thereafter, the Jodo Shinshu temples that obeyed the order used &apos;Shinshu&apos; as their formal name.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="62">
+<j>そして、戦後になって西本願寺を長とする真宗本願寺派は浄土真宗本願寺派と正式に名乗るようになった。</j>
+<e type="trans" ver="1">After WWII, the Honganji-ha branch of the Shinshu sect with Nishihonganji Temple as the head temple began using the Honganji-ha branch ofJodo Shinshu sect as their formal name.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After WWII, the Honganji-ha branch of the Shinshu sect, whose head temple is Nishihonganji Temple, began to use &quot;the Honganji-ha branch of the Jodo Shinshu sect&quot; as its formal name.</e>
+<cmt>Word choice, word order, punctuation</cmt>
+<e type="check" ver="1">After WWII, the Hongan-ji school of the Shinshu sect, whose head temple is Nishi Hongan-ji Temple, began to use &quot;the Hongan-ji school of the Jodo Shinshu sect&quot; as its formal name.</e>
+<cmt>Honganji-ha branch→Hongan-ji school、Nishihonganji Temple→Nishi Hongan-ji Templeに修正しました。</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="63">
+<j>これに対してそれ以外の9つの浄土真宗系宗派はいずれも「真宗○○派」といった呼称を用いている。</j>
+<e type="trans" ver="1">In contrast, the other branches of the Jodo Shinshu sect have been using the name &apos;XXX branch of the Shinshu&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In contrast, the other 9 branches of the Jodo Shinshu sect continue to use the name &apos;XXX branch of the Shinshu&apos;.</e>
+<cmt>Verb tense, number replaced</cmt>
+<e type="check" ver="1">In contrast, the other nine schools of the Jodo Shinshu sect continue to use the name &apos;XXX school of the Shinshu.&apos;</e>
+<cmt>9をスペルアウト、branches, branch→schools, schoolに修正、ピリオドの位置を移動しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 でここ(id:9565), Resto1578(id:168692), AlleborgoBot(id:119729), Dr jimmy(id:111486), Nnh(id:474), Miketsukunibito(id:10208), Lobbyonce(id:195963), 水野白楓(id:22811), くっちゃめ(id:86793), KSKS(id:97637), マイコン坊主(id:338), Yas(id:739), Safkan(id:423), けんち(id:5147), Toki-ho(id:10691), ウィキ豊(id:82961), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

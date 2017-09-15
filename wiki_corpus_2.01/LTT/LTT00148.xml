@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>金葉和歌集</j>
+<e type="trans" ver="1">Kinyo Wakashu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kinyo Wakashu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kinyo Wakashu (Kinyo Collection of Japanese Poems)</e>
+<cmt>歌集の補足を入れました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>『金葉和歌集』（きんようわかしゅう）は第五番目の勅撰和歌集で、『後拾遺和歌集』の後、『詞花和歌集』の前に位置する。</j>
+<e type="trans" ver="1">&quot;Kinyo Wakashu&quot; is the fifth Chokusen Wakashu (anthologies of Japanese poetry compiled by Imperial command), completed before &quot;Shika Wakashu&quot; (Shika Collection of Japanese Poems) and after &quot;Goshui Wakashu&quot; (Later Collection of Gleanings of Japanese Poetry).</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Kinyo Wakashu&quot; is the fifth Chokusen Wakashu (anthologies of Japanese poetry compiled by imperial command), having been completed before &quot;Shika Wakashu (Shika Collection of Japanese Poems&quot;) and after &quot;Goshui Wakashu (Later Collection of Gleanings of Japanese Poetry&quot;).</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Kinyo Wakashu is the fifth Chokusen Wakashu (anthologies of Japanese poetry compiled by Imperial command), and it was completed before &quot;Shika Wakashu&quot; (Shika Collection of Japanese Poems) and after &quot;Goshui Wakashu&quot; (Later Collection of Gleanings of Japanese Poetry).</e>
+<cmt>FBに従って修正しました。スペース削除しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>白河天皇の院宣により源俊頼が編纂。</j>
+<e type="trans" ver="1">Emperor Shirakawa ordered MINAMOTO no Toshiyori to compile it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Emperor Shirakawa ordered MINAMOTO no Toshiyori to compile it.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Emperor Shirakawa ordered MINAMOTO no Toshiyori to compile the anthology.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="3">
+<j>天治元年（1124）末、初めて奏覧した（初度本）が、不備があり天治二年四月頃、改訂本を再度奏覧（二度本）。</j>
+<e type="trans" ver="1">At the end of 1124, it was first submitted to the Emperor for inspection (shodo bon, the first book), though it had deficiency, and around April of the next year, the revised book was submitted again (nido bon, the second book) to be rejected, and in 1126 or the next year, at last it was accepted at the third try (sanso bon, the book submitted for inspection three times).</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the end of 1124, it was first submitted to the Emperor for inspection (shodo bon, the first book), though it had deficiencies; thus, in around April of the next year the revised book was submitted (nido bon, the second book), only to be rejected, and in 1126 or the next year at last it was accepted at the third try (sanso bon, the book submitted for inspection three times).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At the end of 1124, it was first submitted to the Emperor for inspection (shodo bon, the first book), though it had deficiencies and the revised book was submitted (nido bon, the second book) around May, 1125.</e>
+<cmt>一原文一訳文の例外対処FBに従って修正しました。グレゴリオ暦に直し、原文に合わせました。</cmt>
+</sen>
+<sen id="4">
+<j>しかしまた却下され、大治 (日本)元年（1126）または翌年、三度奏覧してようやく嘉納された（三奏本）。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, the book was rejected again, and in 1126 or the next year it was finally accepted at the third try (sanso bon, the book submitted for inspection three times).</e>
+<cmt>原文一訳文の例外対処FBに従って修正しました。</cmt>
+</sen>
+<sen id="5">
+<j>よって三系統の本文があるが、現存する諸伝本のほとんどが二度本である。</j>
+<e type="trans" ver="1">Therefore there are three kinds of books, but most of the extant manuscripts are nido bon, which was used as original text for making &apos;A New Version of Comprehensive National Poems&apos; and &apos;Japanese Classic Literature Systematic Edition.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Thus there are three kinds of books, but most of the extant manuscripts are of the nido bon, which was used as the original text for making &apos;A New Version of Comprehensive National Poems&apos; and &apos;Japanese Classic Literature Systematic Edition.&apos;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Thus there are three kinds of book, but most of the extant manuscripts are nido bon.</e>
+<cmt>一原文一訳文の例外対処FBに従って修正しました。</cmt>
+</sen>
+<sen id="6">
+<j>「新編国歌大観」や、「日本古典文学大系」はいずれもこの二度本を底本とする。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nido bon was used as the original text for making &apos;A New Version of Comprehensive National Poems&apos; and &apos;Japanese Classic Literature Systematic Edition.&apos;</e>
+<cmt>一原文一訳文の例外対処FBに従って修正しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>構成は春・夏・秋・冬、賀、別、恋（上・下）、雑（上・下）の十巻である。</j>
+<e type="trans" ver="1">It consists of ten volumes, classified into the categories of Spring, Summer, Autumn, Winter, Celebration, Separation, Love (two volumes), and Miscellaneous (two volumes).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It consists of ten volumes, classified into the categories of Spring, Summer, Autumn, Winter, Celebration, Separation, Love (two volumes) and Miscellaneous (two volumes).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It consists of 10 volumes and was classified into the categories of Spring, Summer, Autumn, Winter, Celebration, Separation, Love (two volumes) and Miscellaneous (two volumes).</e>
+<cmt>FBに従って修正しました。アラビア数字にしました。</cmt>
+</sen>
+<sen id="8">
+<j>十巻という小柄な構成の勅撰集は後にも先にもこの『金葉集』と次の『詞花集』しかない。</j>
+<e type="trans" ver="1">&quot;Kinyo shu&quot; and &quot;Shika shu&quot; are the only Imperial anthologies that consist of just ten volumes.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">&quot;Kinyo shu&quot; and &quot;Shika shu&quot; are the only imperial anthologies that consist of just ten volumes.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">&quot;Kinyo shu&quot; and &quot;Shika shu&quot; are the only imperial anthologies that consist of just ten volumes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>成立に至るまでの複雑な経緯を反映し、『金葉集』は伝本によって歌数の違いも大きいが、650首強を収める。</j>
+<e type="trans" ver="1">&quot;Kinyo shu&quot; contains more than 650 poems, though the number of poems are different among the three versions of anthology, reflecting the complicated process of compilation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Kinyo shu&quot; contains more than 650 poems, though the number of poems varies among the three versions of the anthology, reflecting the complicated process of compilation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">&quot;Kinyo shu&quot; contains more than 650 poems, though the number of poems varies among these three versions of the anthology, reflecting the complicated process of editing.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="10">
+<j>源経信・俊頼父子、そして六条藤家の藤原顕季らが主要歌人。</j>
+<e type="trans" ver="1">The major poets in the anthology were MINAMOTO no Tsunenobu and Toshiyori (father and son) and FUJIWARA no Akisue from Rokujo Toke (the Rokujo Fujiwara family).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The major poets in the anthology are MINAMOTO no Tsunenobu and Toshiyori (father and son) and FUJIWARA no Akisue from Rokujo Toke (the Rokujo Fujiwara family).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The leading poets in the anthology are MINAMOTO no Tsunenobu and Toshiyori (father and son), and FUJIWARA no Akisue from Rokujo Toke (the Rokujo Fujiwara family).</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="11">
+<j>古今和歌集以来の伝統にとらわれず、同時代の歌人による新奇な作風な歌を多く取り入れ、誹諧趣向が目立つ。</j>
+<e type="trans" ver="1">It was free from a tradition which had lasted since Kokin Wakashu (A Collection of Ancient and Modern Japanese Poetry), and contain many novel poems, inclining toward haiku poetry.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It broke from a tradition that had lasted since Kokin Wakashu (A Collection of Ancient and Modern Japanese Poetry), and offered many novel poems, inclining toward haiku poetry.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It broke from a tradition that had lasted since Kokin Wakashu (A Collection of Ancient and Modern Japanese Poetry), and contained many novel poems by contemporary poets whose style was characterized by the intention toward haiku poetry.</e>
+<cmt>FBに従って修正しました。</cmt>
+</sen>
+<sen id="12">
+<j>これが当時の歌壇に新風を吹き入れたのは確かだが、のち藤原俊成に批判される通り、「戯（ざ）れの様」が過ぎて格調を欠く歌もあった。</j>
+<e type="trans" ver="1">It is true that this ushered in a new phase in the poetry circles, but as FUJIWARA no Toshinari criticized, there were many poems lacking refined style and with too many &apos;jokes.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is true that this ushered in a new phase among poetry circles, but FUJIWARA no Toshinari&apos;s criticism was that many of the poems lacked a refined style or contained too many &apos;jokes.&apos;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is true that this ushered in a new phase among poetry circles, but FUJIWARA no Toshinari later criticized that many of the poems lacked a refined style or contained too many &apos;jokes.&apos;</e>
+<cmt>「のち」を追加しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="13">
+<j>『金葉集』の田園趣味と写実的傾向は中世の到来を確実に知らせる。</j>
+<e type="trans" ver="1">The pastoralism and realism in &quot;Kinyo shu&quot; surely tells the dawn of the Medieval ages.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The pastoralism and realism in &quot;Kinyo shu&quot; surely heralded the dawn of the Medieval ages.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The pastoralism and realism in &quot;Kinyo shu&quot; surely heralded the dawn of the Medieval ages.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>初めて連歌を雑下に分類して置いたことも、評価されるべき点であろう。</j>
+<e type="trans" ver="1">It should be valued in that renga (linked verses) were classified into Miscellaneous.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It should be valued in that renga (linked verses) were placed in the &quot;Miscellaneous&quot; category.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It should be appreciated that renga (linked verses) were classified into the second volume of &quot;Miscellaneous&quot; category for the first time.</e>
+<cmt>FBに従って修正しました。補足しました。</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Yume149(id:17504), Point136(id:211299), SK(id:64397), Yas(id:739), さららゆら(id:12274), Kiev(id:13022), Yuming(id:17854), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

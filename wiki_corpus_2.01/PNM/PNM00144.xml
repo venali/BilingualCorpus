@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>狩野元信</j>
+<e type="trans" ver="1">Motonobu KANO</e>
+<cmt></cmt>
+<e type="trans" ver="2">Motonobu KANO</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Motonobu KANO</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>狩野元信（かのう もとのぶ、 文明 (日本)8年8月9日 (旧暦)（1476年8月28日）? - 永禄2年10月6日 (旧暦)（1559年11月5日））は、室町時代の絵師で、狩野派の祖・狩野正信の子である。</j>
+<e type="trans" ver="1">Motonobu KANO (August 28, 1476 - November 5, 1559) was a painter of the Muromachi period, and the son of Kano school&apos;s founder, Masanobu KANO.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Motonobu KANO (August 28, 1476 - November 5, 1559) was a painter of the Muromachi period, and the son of the Kano school&apos;s founder, Masanobu KANO.</e>
+<cmt>Deleted commaAdded &apos;the&apos;</cmt>
+<e type="check" ver="1">Motonobu KANO (September 6, 1476 - November 15, 1559) was a painter of the Muromachi period, and the son of the Kano school&apos;s founder, Masanobu KANO.</e>
+<cmt>August 28→September 6に変更しました。November 5→November 15に変更しました。</cmt>
+</sen>
+<sen id="2">
+<j>京都の生まれ。</j>
+<e type="trans" ver="1">Born in Kyoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He was born in Kyoto.</e>
+<cmt>Added &apos;He was&apos;</cmt>
+<e type="check" ver="1">He was born in Kyoto.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>父・正信の画風を継承するとともに、大和絵の技法を取り入れ、狩野派の基礎を築いた。</j>
+<e type="trans" ver="1">He inherited his father&apos;s style, but also introduced the Yamato-e technique and created the base for the Kano school.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He inherited his father&apos;s style, but also introduced the Yamato-e technique, forming the basis of the Kano school.</e>
+<cmt>and created the base for&apos;→&apos;, forming the basis of&apos;</cmt>
+<e type="check" ver="1">He inherited his father&apos;s style, but also introduced the technique of Yamato-e painting (a traditional Japanese style painting of the late Heian and Kamakura periods dealing with Japanese themes), forming the basis of the Kano school.</e>
+<cmt>the Yamato-e technique→the technique of Yamato-e paintingとし、補足を追加</cmt>
+</sen>
+<par id="1">
+<sen id="4">
+<j>狩野元信は、狩野派の初代・正信の子（長男または次男とされる）で、狩野派2代目である。</j>
+<e type="trans" ver="1">Motonobu KANO was either the first or the second son of the Kano school&apos;s founder, Masanobu KANO and the second head of the Kano school.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Motonobu KANO was the son of Kano school&apos;s founder, Masanobu KANO (Said to be either the first or the second son), and the second generation of Kano school.</e>
+<cmt>Changed word orderDeleted &apos;was said to be&apos;Added &apos;the&apos;&apos;generation&apos;→&apos;head&apos;</cmt>
+<e type="check" ver="1">Motonobu KANO was either the first or the second son of the Kano school&apos;s founder, Masanobu KANO and the second head of the Kano school.</e>
+<cmt>chekerのコメントおよび訳文より、この文だけtrans1とtrans2が入れ替わっているように思われます。Trans1の訳文をいれました。</cmt>
+</sen>
+<sen id="5">
+<j>元信は、近世へと続く狩野派の画風の大成者であり、近世における狩野派繁栄の基礎を築いた画家である。</j>
+<e type="trans" ver="1">Motonobu perfected the painting style of the Kano school which continued into recent times, and was the painter who created the foundation for the glory of the Kano school in recent times.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Motonobu perfected the painting style of the Kano school and laid the foundations for the success of the Kano school, which continued until the modern era.</e>
+<cmt>Reworded sentence- don&apos;t think there&apos;s a need to repeat recent times even though it&apos;s in the original.</cmt>
+<e type="check" ver="1">Motonobu perfected the painting style of the Kano school and laid the foundations for the success of the Kano school, which continued until the modern era.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>後世「古法眼」（こほうげん）と通称された。</j>
+<e type="trans" ver="1">In later age, he was called &quot;Kohogen&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In later life he was called &quot;Kohogen&quot;.</e>
+<cmt>age&apos;→&apos;life&apos;Deleted comma</cmt>
+<e type="check" ver="1">In later life he was called &apos;Kohogen.&apos;</e>
+<cmt>シングルクォーテーションに変更、ピリオドの位置を移動</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>絵師としての記録上の初見は永正10年（1513年）で、この時、『鞍馬寺縁起絵』を制作している。</j>
+<e type="trans" ver="1">His first appearance as a painter on the historical record was 1513, when he produced &quot;Kurama-Engi-e&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">His first appearance as a painter in the historical record was in 1513, when he produced &quot;Kuramadera-Engi-e&quot;.</e>
+<cmt>on&apos;→&apos;in&apos;Added &apos;in&apos;Original has &apos;鞍馬寺&apos;,though not sure if it&apos;s &apos;dera&apos; or &apos;ji&apos;</cmt>
+<e type="check" ver="1">His first appearance as a painter in the historical record was in 1513, when he produced &quot;Kuramadera-Engi-e&quot;(painting of the history of Kurama-dera Temple).</e>
+<cmt>&quot;Kuramadera-Engi-e&quot;の補足を追加</cmt>
+</sen>
+<sen id="8">
+<j>現存する大徳寺大仙院の障壁画は、同院創建時の永正10年（1513）の制作とするのが通説であったが、大仙院方丈の改築が行われた天文 (元号)4年（1535年）の作とする見方もある。</j>
+<e type="trans" ver="1">The partition wall painting of Daitoku-ji Temple Daisen-in, which still exists, is normally said to be produced on 1513 at the time of the building of Daisen-in, however, there is some speculation which suggests it was built in 1535, which was the time of the renovation of Daisen-in Hojo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The partition wall painting of Daisen-in in Daitoku-ji Temple, which still exists, is usually said to have been produced in 1513, at the time of the building of Daisen-in but there is some speculation that it was painted in 1535, when Daisen-in Hojo was renovated.</e>
+<cmt>Changed word order.</cmt>
+<e type="check" ver="1">The partition wall painting of Daisen-in in Daitoku-ji Temple, which still exists, is usually said to have been produced in 1513, at the time of the building of Daisen-in but there is some speculation that it was painted in 1535, when Daisen-in Hojo (an abbot&apos;s chamber) was renovated.</e>
+<cmt>Hojoの補足を追加</cmt>
+</sen>
+<sen id="9">
+<j>元信は60歳代にあたる天文年間に以下のような大きな仕事に携わっている。</j>
+<e type="trans" ver="1">Motonobu was involved in the following major projects during his sixties.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Motonobu was involved in the following major projects during his sixties.</e>
+<cmt>Ok</cmt>
+<e type="check" ver="1">Motonobu was involved in the following major projects during his sixties.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>まず、天文8年（1539）から約15年間、石山本願寺の障壁画制作に携わった。</j>
+<e type="trans" ver="1">First, approximately 15 years from 1539, he was involved in the partition wall painting of Ishiyama-Hongan-ji Temple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">First, for approximately 15 years from 1539, he was involved in the partition wall painting of Ishiyama-Hongan-ji Temple.</e>
+<cmt>Added &apos;for&apos;</cmt>
+<e type="check" ver="1">First, for approximately 15 years from 1539, he was involved in the partition wall painting of Ishiyama-Hongan-ji Temple.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>この間、天文12年（1543）には内裏小御所、同じ頃には妙心寺霊雲院の障壁画を描き、天文14年（1545）頃に法眼（僧の位の一つ）を与えられている。</j>
+<e type="trans" ver="1">During this time, he also painted at Dairi-kogosho in 1543, and at the same time, painted the partition wall paint of Myoshin-ji Temple Reiun-in, when he was awarded Hogen (one of ranks of Monk).</e>
+<cmt></cmt>
+<e type="trans" ver="2">During this period, in 1543, he painted at Dairi-kogosho (the imperial palace) and, around the same time, painted the partition wall of Reiun-in in Myoshin-ji Temple, and in 1545 was awarded the rank of Hogen.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">During this period, in 1543, he painted at Dairi-kogosho (the imperial palace) and, around the same time, painted the partition wall of Reiun-in in Myoshin-ji Temple, and in 1545 was awarded the rank of Hogen (the second highest rank in the hierarchy of Buddhist priests).</e>
+<cmt>「法眼」→統一リストの表記に修正</cmt>
+</sen>
+<sen id="12">
+<j>元信は、室町幕府、朝廷、石山本願寺など、時の有力者より庇護を受けつつ、戦国時代 (日本)の乱世を生き抜いた絵師であった。</j>
+<e type="trans" ver="1">Motonobu was a painter protected by the magnates such as Muromachi Shogunate, the Court and Ishiyama-Hongan-ji Temple, and survived the turmoil of the Japanese Sengoku period (Period of Japanese Warring States).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Due to the protection of such powerful patrons as the Muromachi Shogunate, the Imperial Court and Ishiyama-Hongan-ji Temple, he was able to survive the turmoil of the Warring States period.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Due to the protection of such powerful patrons as the Muromachi bakufu (Japanese feudal government headed by a shogun), the Imperial Court and Ishiyama-Hongan-ji Temple, he was able to survive the turmoil of the Sengoku period (period of Warring States).</e>
+<cmt>Muromachi Shogunate→Muromachi bakufuとし、補足を追加、「戦国時代」→統一リストの表記に修正</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="13">
+<j>元信の作品は、漢画（大和絵に対して中国風の画を指す）系の水墨画を基礎としつつ、大和絵系の土佐派の様式を取り入れ、書院造建築の装飾にふさわしい日本的な障壁画様式を確立した点に特色がある。</j>
+<e type="trans" ver="1">Motonobu&apos;s works are notable for introducing the Tosa school style of Yamato-e whilst being based on the ink-wash painting method in the Kanga style (which indicates Chinese style paintings compared to Yamato-e, Japanese style paintings), and was created for the Japanese partition wall painting adequate for the decoration of Shoin-zukuri (Japanese architectual style) buildings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Motonobu&apos;s works are notable for melding the Tosa school style of Yamato-e (colourful, Japanese style paintings) onto the ink-wash painting method of the Kanga style (typically monochrome, Chinese style paintings), and establishing a particularly Japanese style of partition wall painting, suitable for the decoration of buildings of the traditional Shoin-zukuri architectual style.</e>
+<cmt>Rewrote the sentence but took some liberties with the translation, especially splitting the phrase in brackets into 2 and adding &apos;colorful&apos; and &apos;typically monochrome&apos; to the explanation of the painting styles.</cmt>
+<e type="check" ver="1">Motonobu&apos;s works are notable for melding the Tosa school style of Yamato-e painting onto the ink-wash painting method of the Kanga style (typically monochrome, Chinese style paintings), and establishing a particularly Japanese style of partition wall painting, suitable for the decoration of buildings of the traditional Shoin-zukuri architectual style.</e>
+<cmt>大和絵→Yamato-e paintingとし、既出のため補足を削除</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="14">
+<j>職業絵師としてさまざまなジャンルの作品を残しており、『飯尾宗祇像』（ボストン美術館）のような肖像画、兵庫・賀茂神社の『神馬図額』（絵馬）のような作品も現存している。</j>
+<e type="trans" ver="1">He left various categories of works as an occupational painter, including portraits such as &quot;Sogi IIO-zo&quot; (Museum of Fine Arts, Boston) and &quot;Shinme-zugaku&quot; (votive picture of a horse) of Kamo-jinja Shrine, Hyogo which still exists.</e>
+<cmt></cmt>
+<e type="trans" ver="2">He left various categories of works as an occupational painter, including portraits such as &quot;Iio Sogi-zo&quot; (Museum of Fine Arts, Boston) and &quot;Shinme-zugaku&quot; (votive picture of a horse) at Kamo-jinja Shrine, Hyogo both of which still exist.</e>
+<cmt>Sogi IIO-zo&apos;→&apos;Iio Sogi-zo&apos;―I think the Japanese word order should be kept.&apos;of&apos;→&apos;at&apos;Added &apos;both of&apos;Deleted &apos;s&apos;</cmt>
+<e type="check" ver="1">He left various categories of works as an occupational painter, including portraits such as &quot;Iio Sogi-zo&quot; (Portrait of Sogi IIO) (Museum of Fine Arts, Boston) and &quot;Shinme-zugaku&quot; (votive picture of a horse) at Kamo-jinja Shrine, Hyogo both of which still exist.</e>
+<cmt>&quot;Iio Sogi-zo&quot;の補足を追加</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="15">
+<j>代表作</j>
+<e type="trans" ver="1">Main works</e>
+<cmt></cmt>
+<e type="trans" ver="2">Main works</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Main Works</e>
+<cmt>頭文字を大文字に変更</cmt>
+</sen>
+<sen id="16">
+<j>大仙院障壁画（京都・大徳寺大仙院）重要文化財　京都国立博物館委託</j>
+<e type="trans" ver="1">Daisen-in Partition wall painting (Daitoku-ji, Daisen-in, Kyoto Prefecture) Important Cultural Properties, Consigned to Kyoto National Museum</e>
+<cmt></cmt>
+<e type="trans" ver="2">Daisen-in Partition wall painting (Daitoku-ji, Daisen-in, Kyoto Prefecture) Important Cultural Property, On loan to Kyoto National Museum</e>
+<cmt>Consigned&apos;→&apos;On loan&apos;&apos;Properties&apos;→&apos;Property&apos;</cmt>
+<e type="check" ver="1">Daisen-in Partition Wall Painting (Daitoku-ji, Daisen-in, Kyoto Prefecture) Important Cultural Property, On loan to Kyoto National Museum</e>
+<cmt>wall paintingの頭文字を大文字に変更</cmt>
+</sen>
+<sen id="17">
+<j>大仙院障壁画（東京国立博物館）重要文化財</j>
+<e type="trans" ver="1">Daisen-in Partition Wall Painting (Tokyo National Museum) Important Cultural Properties</e>
+<cmt></cmt>
+<e type="trans" ver="2">Daisen-in Partition Wall Painting (Tokyo National Museum) Important Cultural Property</e>
+<cmt>Properties&apos;→&apos;Property&apos;</cmt>
+<e type="check" ver="1">Daisen-in Partition Wall Painting (Tokyo National Museum) Important Cultural Property</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>霊雲院障壁画（京都・妙心寺霊雲院）重要文化財　京都国立博物館委託</j>
+<e type="trans" ver="1">Reiun-in Partition Wall Painting (Myoushin-ji Temple Reiun-in, Kyoto Prefecture) Important Cultural Properties, Consigned to Kyoto National Museum</e>
+<cmt></cmt>
+<e type="trans" ver="2">Reiun-in Partition Wall Painting (Myoushin-ji Temple Reiun-in, Kyoto Prefecture) Important Cultural Property, On loan to Kyoto National Museum</e>
+<cmt>Consigned&apos;→&apos;On loan&apos;&apos;Properties&apos;→&apos;Property&apos;</cmt>
+<e type="check" ver="1">Reiun-in Partition Wall Painting (Myoushin-ji Temple Reiun-in, Kyoto Prefecture) Important Cultural Property, On loan to Kyoto National Museum</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>四季花鳥図屏風 六曲一双（白鶴美術館）重要文化財</j>
+<e type="trans" ver="1">Shiki-kacho-zu Byobu (six panelled folding screen) (Hakutsuru Museum) Important Cultural Properties</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shiki-kacho-zu Byobu (six panelled folding screen) (Hakutsuru Museum) Important Cultural Property</e>
+<cmt>Properties&apos;→&apos;Property&apos;</cmt>
+<e type="check" ver="1">Shiki-kacho-zu (Flowers and Birds of the Four Season) Byobu (six panelled folding screen) (Hakutsuru Museum) Important Cultural Property</e>
+<cmt>余分なスペースを削除、Shiki-kacho-zuの補足を追加</cmt>
+</sen>
+<sen id="20">
+<j>瀟湘八景図（京都・妙心寺東海庵）重要文化財　京都国立博物館委託</j>
+<e type="trans" ver="1">Shoshohakkei-zu (Myoushin-ji Temple Tokai-an, Kyoto Prefecture) Important Cultural Properties, Consigned to Kyoto National Museum</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shoshohakkei-zu (Myoushin-ji Temple Tokai-an, Kyoto Prefecture) Important Cultural Property, On loan to Kyoto National Museum</e>
+<cmt>Consigned&apos;→&apos;On loan&apos;&apos;Properties&apos;→&apos;Property&apos;</cmt>
+<e type="check" ver="1">Shosho Hakkei-zu (Eight views of the Xiao and the Xiang in China) (Myoushin-ji Temple Tokai-an, Kyoto Prefecture) Important Cultural Property, On loan to Kyoto National Museum</e>
+<cmt>Shoshohakkei-zu→Shosho Hakkei-zuとし、補足を追加</cmt>
+</sen>
+<sen id="21">
+<j>神馬図額（兵庫・賀茂神社）重要文化財</j>
+<e type="trans" ver="1">Shinme-zugaku (Kamo-jinja Shrine) Important Cultural Properties</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinme-zugaku (Kamo-jinja Shrine) Important Cultural Property</e>
+<cmt>Properties&apos;→&apos;Property&apos;</cmt>
+<e type="check" ver="1">Shinme-zugaku (Kamo-jinja Shrine) Important Cultural Property</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Kanejan(id:78613), でここ(id:9565), Oxhop(id:2551), JAnDbot(id:66507), Nnh(id:474), MIsogi(id:20599), Cprobot(id:97843), Urania(id:7213), Rei-bot(id:94097), Kanoe(id:17203), 663highland(id:18755), Toto-tarou(id:16648), Chuta(id:10457), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

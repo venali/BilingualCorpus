@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>廃帝社</j>
+<e type="trans" ver="1">Haitei no Yashiro shrine (Shrine of Dethroned Emperor)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Haitei no Yashiro Shrine (Shrine of the Dethroned Emperor)</e>
+<cmt>capitalized &quot;Shrine&quot;; added &quot;the&quot;</cmt>
+<e type="check" ver="1">Haitei no Yashiro Shrine (Shrine of the Dethroned Emperor)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>廃帝社（はいていのやしろ）は、京都府京都市下京区の円丘の上にあった社である。</j>
+<e type="trans" ver="1">Haitei no Yashiro shrine was a shrine that was located on the knoll in Shimogyo Ward, Kyoto City, Kyoto Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Haitei no Yashiro Shrine is located on a knoll in Shimogyo Ward, Kyoto City, Kyoto Prefecture.</e>
+<cmt>capitalized &quot;Shrine&quot;; eliminated &quot;was a shrine that&quot;; changed &quot;was&quot; to &quot;is&quot;; changed &quot;the knoll&quot; to &quot;a knoll&quot;;</cmt>
+<e type="check" ver="1">Haitei no Yashiro Shrine was located on a knoll in Shimogyo Ward, Kyoto City, Kyoto Prefecture.</e>
+<cmt>時制</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>概要</j>
+<e type="trans" ver="1">Summery</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>Summery→Summary</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>同地は稲荷に通じる伏見街道の東側に当たり、小さい祠が2つ南面している。</j>
+<e type="trans" ver="1">The premisis was in the east side of Fushimi Kaido Road and there were two small shrines face to the south.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The shrine is on the east side of Fushimi Kaido Road with two small shrines facing south.</e>
+<cmt>was→is; fixed grammar</cmt>
+<e type="check" ver="1">The shrine is on the east side of Fushimi Kaido Road leading to Inari with two small shrines facing south.</e>
+<cmt>訳漏れ補足しました。</cmt>
+</sen>
+<sen id="4">
+<j>1つは淳仁天皇、舎人親王、早良親王を、1つは神功皇后、井上皇后、他戸親王を祀ったという。</j>
+<e type="trans" ver="1">It is said, one shrined enshrines Emperor Junnin, Imperial Prince Toneri and Imperial Prince Sawara and the other enshrined Empress Jingu, Empress Inoue and Imperial Prince Osabe.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It is said that one enshrines Emperor Junnin, Imperial Prince Toneri and Imperial Prince Sawara, and the other enshrines Empress Jingu, Empress Inoue and Imperial Prince Osabe.</e>
+<cmt>changed comma to &quot;that&quot;; fixed grammar to read more naturally;</cmt>
+<e type="check" ver="1">It is said that one enshrines Emperor Junnin, Imperial Prince Toneri and Imperial Prince Sawara, and the other enshrines Empress Jingu, Empress Inoue and Imperial Prince Osabe.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>一説に、仲恭天皇（九条廃帝）の陵で、神社は神霊を奉斉したものであるとも、あるいは舎人親王の墓であるとも、藤原実頼の墓であるともいう。</j>
+<e type="trans" ver="1">According to a couple of theories, the knoll was a mausoleum of Emperor Chukyo (Dethroned Emperor Kujo) and the divine sprit was enshrined in the shrine, or a grave of Imperial Prince Toneri or FUJIWARA no Sanetomo.</e>
+<cmt>「陵」はknoll の部分を指すもの、ととらえてknoll を補いました。</cmt>
+<e type="trans" ver="2">According to a couple of theories, the knoll was a mausoleum of Emperor Chukyo (Dethroned Emperor Kujo) and the divine spirit was enshrined in the shrine, or it was a grave of Imperial Prince Toneri or FUJIWARA no Sanetomo.</e>
+<cmt>sprit→spirit; added &quot;it was&quot; after &quot;or&quot;</cmt>
+<e type="check" ver="1">According to a couple of theories, the knoll was a mausoleum of Emperor Chukyo (Dethroned Emperor Kujo) and the divine spirit was enshrined in the shrine, or it was a grave of Imperial Prince Toneri or FUJIWARA no Sanetomo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>円墳について祀るから塚本社ともいった。</j>
+<e type="trans" ver="1">It was also called Tsukamoto (barrow base) shrine since the round barrow was enshrined.</e>
+<cmt>「円墳について祀る」の意味がやや不明で、またenshrineは他動詞のため、「円墳を祀る」と訳しました。</cmt>
+<e type="trans" ver="2">It was also called Tsukamoto Shrine since the round burial mound was enshrined.</e>
+<cmt>changed &quot;round barrow&quot; to &quot;round burial mound&quot; for &quot;円墳&quot;; eliminated (barrow base) since it did not seem to help in understanding</cmt>
+<e type="check" ver="1">It was also called Tsukamoto Shrine since the round burial mound was enshrined.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>明治10年1月京都市五条坂の若宮八幡神社に合祀された。</j>
+<e type="trans" ver="1">January 1877, the divine spirit of Haitei no Yashiro shrine was enshrined together in the Wakamiya Hachiman-gu Shrine in Gojyo-zaka, Kyoto City.</e>
+<cmt>神霊　&quot;divine sprit&quot;を補いました。</cmt>
+<e type="trans" ver="2">In January of 1877, the diviine spirit of Haitei no Yashiro Shrine was enshrined together with the Hachiman-gu Shrine in Gojyo-zaka, Kyoto City.</e>
+<cmt>added &quot;In&quot;; added &quot;of&quot; after &quot;January&quot;; added &quot;with&quot; after &quot;together&quot;; fixed spacing;</cmt>
+<e type="check" ver="1">In January of 1877, the divine spirit of Haitei no Yashiro Shrine was enshrined together with the Wakamiya Hachimangu-jinja Shrine in Gojo-zaka, Kyoto City.</e>
+<cmt>用語統一スペル</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Straysheep(id:42448), MCHC(id:208548), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

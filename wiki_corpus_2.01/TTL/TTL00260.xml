@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>県令</j>
+<e type="trans" ver="1">Kenrei</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kenrei</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kenrei</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>県令（けんれい）は、</j>
+<e type="trans" ver="1">Kenrei refers to:</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kenrei refers to:</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kenrei refers to:</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>古代中国に於いての県知事にあたる役職</j>
+<e type="trans" ver="1">a post equivalent to a prefectural governor in ancient China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">a post equivalent to a prefectural governor in ancient China.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">a post equivalent to a prefectural governor in ancient China.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>1871年（明治4年）から1886年（明治19年）まで置かれた県の長官。</j>
+<e type="trans" ver="1">Kenrei is the chief of Ken (a prefecture) assigned from 1871 to 1886.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kenrei is the chief of Ken (a prefecture) assigned from 1871 to 1886.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kenrei is the chief of Ken (a prefecture) assigned from 1871 to 1886.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>古代中国の県令</j>
+<e type="trans" ver="1">Kenrei in ancient China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kenrei in ancient China.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kenrei in ancient China.</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>秦・漢の時代に整備された規定では、1万戸以上の県の長を県令と称した。</j>
+<e type="trans" ver="1">According to the stipulation established in the Qin and Han Dynasties, a chief of Ken (a unit of local administration) with over 1 million houses was called Kenrei.</e>
+<cmt>（※１）中国での「県」「郡」などが日本のそれとは違うようで、紛らわしいので、、中国の地方行政単位は全て (a unit of local administration)としました。</cmt>
+<e type="trans" ver="2">According to the stipulation established in the Qin and Han Dynasties, the chief of Ken (a unit of local administration) with over one million houses was called Kenrei.</e>
+<cmt>a chief --&gt; the chief,1 million --&gt;one million</cmt>
+<e type="check" ver="1">According to the stipulation established in the Qin and Han Dynasties, the chief of Ken (a unit of local administration) with over one million houses was called Kenrei.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>それ以下は県長となる。</j>
+<e type="trans" ver="1">A chief with less houses was called Hsien cheng (the head of Districts in the Han and Qin Dynasties).</e>
+<cmt>（※２）「県長」が用語集で「hsien cheng」となっていたので使用しましたが、県令が日本語読み風なのに対して、県長だけ中国読み風なのが気になりました。</cmt>
+<e type="trans" ver="2">The chief with less houses was called Hsien cheng (the head of Districts in the Han and Qin Dynasties).</e>
+<cmt>A chief --&gt; the chief</cmt>
+<e type="check" ver="1">The chief with less houses was called Hsien cheng (the head of Districts in the Han and Qin Dynasties).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>一般に県長より県令の方が格上とされる。</j>
+<e type="trans" ver="1">In general, the rank of Kenrei is considered higher than that of Hsien cheng.</e>
+<cmt>上記（※２）と同じ。</cmt>
+<e type="trans" ver="2">In general, the rank of Kenrei is considered higher than that of Hsien cheng.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In general, the rank of Kenrei is considered higher than that of Hsien cheng.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>県を複数合わせ郡（長は太守）とし、郡の上位に州（長は刺史或は牧）があった。</j>
+<e type="trans" ver="1">Gun (a unit of local administration) comprised more than one Ken, and Gun was the subarea of Shu (an administrative division).</e>
+<cmt>（※１）と同じ。</cmt>
+<e type="trans" ver="2">Gun (a unit of local administration, the head of which was taishu (governor-general)) comprised more than one Ken, and Gun was a subarea of Shu (an administrative division, the head of which was shishi (Provincial Governor) or maki).</e>
+<cmt>訳漏れあり。「（長は太守）」及び「（長は刺史或は牧）」の訳を追加、subareaの冠詞をtheからaに変更しました。</cmt>
+<e type="check" ver="1">Gun (a unit of local administration, the head of which was taishu [governor-general]) comprised more than one Ken, and Gun was a subarea of Shu (an administrative division, the head of which was shishi [Provincial Governor] or maki).</e>
+<cmt>（）内の括弧を[]としました。</cmt>
+</sen>
+<sen id="8">
+<j>県の下位には郷、その下に里がある。</j>
+<e type="trans" ver="1">Go (a unit of local administration) was the subarea of Ken, and Sato (a unit of local administration) was the subarea of GO.</e>
+<cmt>（※１）と同じ。</cmt>
+<e type="trans" ver="2">Go (a unit of local administration) was a subarea of Ken, and Sato (a unit of local administration) was a subarea of GO.</e>
+<cmt>subareaの冠詞をtheからaに変更 (2箇所）しました。</cmt>
+<e type="check" ver="1">Go (a unit of local administration) was a subarea of Ken, and Sato (a unit of local administration) was a subarea of GO.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>県令が行政全般を管轄するのに対し、これらはどちらも民政のみを扱った。</j>
+<e type="trans" ver="1">While Kenrei managed all administration, they only dealt with civil administration.</e>
+<cmt>「県令」という役職に対して、「これら」とは、下の文章の役職「三老・里正」を指している気がしました。この文章と下の文章の順番が逆なのかもしれません。とりあえず「これら」はそのまま、「they」と訳しました。</cmt>
+<e type="trans" ver="2">While Kenrei managed all administration, they only dealt with civil administration.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">While Kenrei managed all administration, they only dealt with civil administration.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>郷の長は三老であり、里の長は里正であった。</j>
+<e type="trans" ver="1">The head of Go was Sanro, and the head of Sato was Risei.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The head of Go was Sanro, and the head of Sato was Risei.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The head of Go was Sanro, and the head of Sato was Risei.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>中国に於ける県は、日本での郡に相当する。</j>
+<e type="trans" ver="1">Ken in China was equivalent of Gun (county) in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ken in China was equivalent to Gun (county) in Japan.</e>
+<cmt>of --&gt; to</cmt>
+<e type="check" ver="1">Ken in China was equivalent to Gun (county) in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>なお、県の軍事・警察行政に関しては県尉が行った。</j>
+<e type="trans" ver="1">Keni (commandants of the military affairs) were in charge of the military and the police administration of Ken.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keni (commandants of the military affairs) were in charge of the military and the police administration of Ken.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keni (commandants of the military affairs) were in charge of the military and the police administration of Ken.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>日本の県令</j>
+<e type="trans" ver="1">Kenrei in Japan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kenrei in Japan</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kenrei in Japan</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>1871年（明治4年）7月に行われた廃藩置県により、それまで府藩県三治制となっていた地方制度を府と県に統一し、同年11月に公布された県治条例により、県の長官の名称を知県事から県令（または権令）に改称する一方、東京・京都・大阪の3府についてはそのまま知事という名称が使われた。</j>
+<e type="trans" ver="1">Due to Haihan-chiken (abolition of feudal domains and establishment of prefectures) conducted in July 1871, the local system of Fu-han-ken sanchisei (fu-han-ken tripartite governance system) was unified into Ken and Fu (prefectures), and also due to the ordinance of prefectural affairs issued in November of the same year, the name of the head of Ken was changed from Chikenji to Kenrei while that of three Fu, Tokyo, Kyoto and Osaka, remained as Chiji.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Haihan-chiken (abolition of feudal domains and establishment of prefectures) conducted in July 1871, the local system of Fu-han-ken sanchisei (fu-han-ken tripartite governance system) was unified into Ken and Fu (prefectures), and also in the ordinance of prefectural affairs issued in November of the same year, the name of the head of Ken was changed from Chikenji to Kenrei while that of three Fu, Tokyo, Kyoto and Osaka, remained as Chiji.</e>
+<cmt>due to --&gt; in (2箇所）</cmt>
+<e type="check" ver="1">In Haihan-chiken (abolition of feudal domains and establishment of prefectures) conducted in July 1871, the local system of Fu-han-ken sanchisei (fu-han-ken tripartite governance system) was unified into Ken and Fu (prefectures), and also in the ordinance of prefectural affairs issued in November of the same year, the name of the head of Ken was changed from Chikenji to Kenrei while that of three Fu, Tokyo, Kyoto and Osaka, remained as Chiji.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>職務については管内の行政事務全般を主掌した。</j>
+<e type="trans" ver="1">The duty of Kenrei was to handle all administrative affairs within their jurisdiction.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The duty of Kenrei was to handle all administrative affairs within their jurisdiction.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The duty of Kenrei was to handle all administrative affairs within their jurisdiction.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>1886年（明治19年）の地方官制により知事と改められた。</j>
+<e type="trans" ver="1">The Local Bureaucratic System in 1886 changed Kenri to Chiji.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Local Bureaucratic System effectuated in 1886 changed Kenri to Chiji.</e>
+<cmt>effectuatedを追加しました。</cmt>
+<e type="check" ver="1">The Local Bureaucratic System effectuated in 1886 changed Kenri to Chiji.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 5HPONGO(id:21153), Mooko(id:36162), 代言人(id:33675), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

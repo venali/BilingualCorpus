@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>猿楽</j>
+<e type="trans" ver="1">Sarugaku (猿楽)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sarugaku (猿楽)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sarugaku</e>
+<cmt>日本語表記を削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>猿楽（さるがく、猿樂）は、平安時代から室町時代にかけて流行した日本の芸能。</j>
+<e type="trans" ver="1">Sarugaku is a Japanese art which was ppular in the Heian period and the Muromachi period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sarugaku is a Japanese art form that was popular during the Heian and Muromachi periods.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sarugaku is a Japanese art form that was popular during the Heian and Muromachi periods.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>および、それをもとに室町期に観阿弥・世阿弥らによって確立された芸能の、1880年までの名称。</j>
+<e type="trans" ver="1">Until 1880, it also referred to the name of art which was established, based on the above, by Kanami and Zeami in the Muromachi period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Until 1880, the term also referred to the art form that was established, based on the above, by Kanami and Zeami during the Muromachi period.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Until 1880, the term also referred to the art form that was established, based on the above, by Kanami and Zeami during the Muromachi period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>本項では前者について解説する。</j>
+<e type="trans" ver="1">Following explanation concerns the former.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The following explanation concerns the former.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The following explanation concerns the former.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>後者については能楽を参照のこと。</j>
+<e type="trans" ver="1">Concerning the latter, refer to Nogaku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Refer to Nogaku for details on the latter.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Refer to Nogaku for details on the latter.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>名称</j>
+<e type="trans" ver="1">Name</e>
+<cmt></cmt>
+<e type="trans" ver="2">Name</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Name</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>散樂（さんがく。散楽）、申樂(申楽)とも書く。</j>
+<e type="trans" ver="1">Sarugaku (猿楽) is also written in Chinese characters as 散樂 (Sangaku) or 申樂 (Sarugaku).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sarugaku (猿楽) is also written in Chinese characters as 散樂 (Sangaku) or 申樂 (Sarugaku).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sarugaku (猿楽) is also written in Chinese characters as 散樂 (Sangaku) or 申樂 (Sarugaku).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>読み方は「さるがう」とも。</j>
+<e type="trans" ver="1">Sarugaku&apos;s another pronunciation is &quot;Sarugau&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sarugaku&apos;s other pronunciation is &quot;Sarugau.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sarugaku&apos;s other pronunciation is &apos;Sarugau.&apos;</e>
+<cmt>原文の「」に合せて&apos; &apos;に訂正しました。</cmt>
+</sen>
+<sen id="8">
+<j>演者(狂言含む)は座頭級のものを楽頭、太夫、一般の座員を猿楽師、または単に猿楽とよんだ。</j>
+<e type="trans" ver="1">Leading players (including those of Kyogen (farce played during a Noh play cycle)) were called gakuto (master of performances) or tayu (leading player) and other players were called sarugakushi or sarugaku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Leading players (including those of Kyogen (a farce played during a Noh play cycle)) were called gakuto (masters of performance) or tayu (leading players), and other players were called sarugakushi or sarugaku.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Leading players (including those of Kyogen (a farce played during a Noh play cycle)) were called gakuto (masters of performance) or tayu (leading players), and other players were called sarugakushi or sarugaku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>猿楽という言葉は散楽の転訛したものである。</j>
+<e type="trans" ver="1">Sarugaku is the accent of Sangaku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sarugaku is the accent of Sangaku.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sarugaku is the accent of Sangaku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>申楽の表記は世阿弥の伝書で使われる。</j>
+<e type="trans" ver="1">Chinese characters &quot;申楽&quot;was used in &quot;Densho&quot; written by Zeami.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Chinese characters &quot;申楽&quot;were used in &quot;Densho,&quot; written by Zeami.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The Chinese characters &quot;申楽&quot; were used in &quot;Densho,&quot; written by Zeami.</e>
+<cmt>スペース補足しました。</cmt>
+</sen>
+<sen id="11">
+<j>猿楽は本来神楽だから、神の字の旁を用いて申楽と書くのが正しいと解説している。</j>
+<e type="trans" ver="1">In this book, he explained that 申楽 should be used for Sarugaku because it was basically Kagura (神楽, sacred music) and therefore, the right portion of Chinese character 神 should be used.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In this book, the author explained that 申楽 should be used for Sarugaku because it was basically Kagura (神楽, or sacred music), and therefore the right portion of the Chinese character 神 should be used.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In this book, the author explained that 申楽 should be used for Sarugaku because it was basically Kagura (神楽, or sacred music), and therefore the right portion of the Chinese character 神 should be used.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="12">
+<j>奈良時代</j>
+<e type="trans" ver="1">Nara period</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Nara period</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Nara period</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>中国大陸から、散楽と呼ばれる芸能が移入されたのが、猿楽のはじまりと考えられている。</j>
+<e type="trans" ver="1">It is contemplated that Sarugaku was created when the art called Sangaku was introduced from China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is thought that Sarugaku was created when the art called Sangaku was introduced from China.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is thought that Sarugaku was created when the art called Sangaku was introduced from China.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>散楽の具体的な内容は史料が少ない為にはっきりしていない。</j>
+<e type="trans" ver="1">The concrete content of Sangaku is not clear due to the lack of historical literature.</e>
+<cmt>一原文一訳文の例外処理</cmt>
+<e type="trans" ver="2">The precise content of Sangaku is not clear, because there is a lack of historical literature.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The precise content of Sangaku is not clear, because there is a lack of historical literature.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>正倉院御物の「弾弓散楽図」などから推測される限りでは、軽業や手品、物真似、曲芸、歌舞音曲など様々な芸能が含まれていたものとされる。</j>
+<e type="trans" ver="1">What we can guess from &quot;Dankyu Sangaku zu&quot;, one of Shoso-in gyobutsu (Shoso-in Treasures), is that various arts such as acrobatics, conjuring tricks, mimicry, stunt, dance and music etc. were included in Sangaku.</e>
+<cmt>一原文一訳文の例外処理　　</cmt>
+<e type="trans" ver="2">What we can guess from &quot;Dankyu Sangaku zu,&quot; one of the Shoso-in gyobutsu (Shoso-in Treasures), is that various arts such as acrobatics, the conjuring of tricks, mimicry, stunts, dance and music, etc., were included in Sangaku.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">What we can guess from &apos;Dankyu Sangaku zu,&apos; one of the Shoso-in gyobutsu (Shoso-in Treasures), is that various arts such as acrobatics, the conjuring of tricks, mimicry, stunts, dance and music, etc., were included in Sangaku.</e>
+<cmt>原文の「」に合せて&apos; &apos;に訂正しました。</cmt>
+</sen>
+<sen id="16">
+<j>朝廷は散楽師の養成機関「散樂戸」を設けるなどし、この芸能の保護を図った。</j>
+<e type="trans" ver="1">The Imperial court protected this art by establishing &quot;Sangakuko&quot;, a training school for Sangakushi (Sangaku players).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Imperial Court protected this art by establishing &quot;Sangakuko,&quot; a training school for Sangakushi (Sangaku players).</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The Imperial Court protected this art by establishing &apos;Sangakuko,&apos; a training school for Sangakushi (Sangaku players).</e>
+<cmt>原文の「」に合せて&apos; &apos;に訂正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="17">
+<j>平安時代</j>
+<e type="trans" ver="1">Heian period</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Heian period</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Heian period</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>延暦元年（782年）、桓武天皇の時代に散楽戸は廃止される。</j>
+<e type="trans" ver="1">&quot;Sangakuko&quot; was abolished in 782, in the era of the Emperor Kanmu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Sangakuko&quot; was abolished in 782, during the era of Emperor Kanmu.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sangakuko was abolished in 782, during the era of Emperor Kanmu.</e>
+<cmt>原文に合せて&quot; &quot;削除しました。</cmt>
+</sen>
+<sen id="19">
+<j>朝廷の保護から外れたことにより、散楽師たちは、寺社や街角などでその芸を披露するようになった。</j>
+<e type="trans" ver="1">After losing the protection of the Imperial court, Sangakushi started to show their performances at temples/shrines or on streets.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After losing the protection of the Imperial Court, Sangakushi started giving performances in temples/shrines or on the streets.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">After losing the protection of the Imperial Court, Sangakushi started giving performances in temples/shrines or on the streets.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>そして散楽の芸は、他の芸能と融合していき、それぞれ独自の発展を遂げていった。</j>
+<e type="trans" ver="1">Since then, various arts of Sangaku merged with other arts and developed on their own courses.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Subsequently, various arts of Sangaku merged with other arts and began to evolve on their own.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Subsequently, various arts of Sangaku merged with other arts and began to evolve on their own.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="21">
+<j>この散楽が含む雑芸のうち、物真似などの滑稽芸を中心に発展していったのが猿楽と言われる。</j>
+<e type="trans" ver="1">It is said that comical arts of Sangaku, especially mimicry, evolved into Sarugaku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that the comical arts of Sangaku, especially mimicry, evolved into Sarugaku.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is said that the comical arts of Sangaku, especially mimicry, evolved into Sarugaku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>当初は物真似だけでなく、散楽の流れをくむ軽業や手品、曲芸、呪術まがいの芸など、多岐に渡る芸能を行った。</j>
+<e type="trans" ver="1">Originally, Sarugaku players showed various arts inheriting those of Sangaku, such as acrobatics, conjuring tricks, stunt and something like magic.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Originally, Sarugaku players displayed various arts inherited from Sangaku, such as acrobatics, the conjuring of tricks, stunts, and something similar to magic.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Originally, Sarugaku players displayed various arts inherited from Sangaku, such as acrobatics, the conjuring of tricks, stunts, and something similar to magic.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>これらの実態の一部は『新猿楽記』「東人之初京上（あずまびとのういきょうのぼり）」「妙高尼之襁褓乞（みょうこうあまのむつきごい）」のように記録されている。</j>
+<e type="trans" ver="1">One aspect of the reality of the above activities is described in &quot;Shin Sarugakuki&quot; (a kind of texrbook about the manners and cultures of Kyoto) as &quot;Azumabito (people of eastern Japan) visits Kyoto for the first time&quot; or &quot; a nun came from Myoko is asking for clothes for a newborn baby&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One aspect of the reality of the above activities is described in &quot;Shin Sarugakuki&quot; (a kind of textbook about the manners and cultures of Kyoto) as &quot;Azumabito (people of eastern Japan) visit Kyoto for the first time&quot; or &quot;a nun who has come from Myoko is asking for clothing for a newborn baby.&quot;</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">One aspect of the reality of the above activities is described in &quot;Shin Sarugakuki&quot; (a kind of textbook about the manners and cultures of Kyoto) as &apos;Azumabito (people of eastern Japan) visit Kyoto for the first time&apos; or &apos;a nun who has come from Myoko is asking for clothing for a newborn baby.&apos;</e>
+<cmt>原文の「」に合せて&quot; を&apos; に訂正しました。</cmt>
+</sen>
+<sen id="24">
+<j>また同史料には、咒師と呼ばれる呪術者たちへの言及が見られる。</j>
+<e type="trans" ver="1">The above book also mentioned about magicians who were called Shushi.</e>
+<cmt>一原文一訳文の例外処理</cmt>
+<e type="trans" ver="2">The above book also mentioned magicians, who were called Shushi.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The above book also mentioned magicians, who were called Shushi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>このことから、咒禁道の影響を受けた儀式を芸能と融合させたものがこの時期に存在しており、それらが翁猿楽へと発展したのではないかとの説もある。</j>
+<e type="trans" ver="1">Based on the above, some people asserts that something that combined the rituals Jugondo (way of vanquishing monsters, sprits etc. with charms) and art existed at that time and it eventually evolved into Okina Sarugaku.</e>
+<cmt>一原文一訳文の例外処理</cmt>
+<e type="trans" ver="2">Based on the above, some people have asserted that something that combined the rituals Jugondo (way of vanquishing monsters, spirits, etc., through the use of charms) and art existed at that time and eventually evolved into Okina Sarugaku.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Based on the above, some people have asserted that something that combined the rituals Jugondo (way of vanquishing monsters, spirits, etc., through the use of charms) and art existed at that time and eventually evolved into Okina Sarugaku.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="26">
+<j>やがて庶民の人気を得ていくうちに、座を組織して公演を催す集団も各地に現れ始めた。</j>
+<e type="trans" ver="1">With their performances becoming popular among ordinary people, groups of Sarugaku players were organized at many places.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As their performances became more popular among ordinary people, groups of Sarugaku players were organized in many locations.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As their performances became more popular among ordinary people, groups of Sarugaku players were organized in many locations.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="27">
+<j>鎌倉時代</j>
+<e type="trans" ver="1">Kamakura period</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Kamakura period</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Kamakura period</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>平安時代に成立した初期の猿楽に歌舞音曲が組み合わされ、現在で言うところの能楽の原型が出現したのが鎌倉時代であると考えられている。</j>
+<e type="trans" ver="1">It is believed that the original model of current Nogaku (Noh music) was created in the Kamakura period after Sarugaku, which was created in the Heian period and was in its early stage at the time, was combined with music and dance.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is believed that the original model of the current Nogaku (Noh music) was created during the Kamakura period after Sarugaku, which was created in the Heian period and was in its early stage at the time, was combined with music and dance.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is believed that the original model of the current Nogaku (Noh music) was created during the Kamakura period after Sarugaku, which was created in the Heian period and was in its early stage at the time, was combined with music and dance.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="29">
+<j>南北朝・室町時代</j>
+<e type="trans" ver="1">Periods of the Northern and Southern Courts and Kamakura</e>
+<cmt></cmt>
+<e type="trans" ver="2">The periods of the Northern and Southern Courts and Kamakura</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The periods of the Northern and Southern Courts and Kamakura</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>鎌倉時代の猿楽が発展し、観阿弥や世阿弥らの登場によって現在の能楽とほぼ同等の芸能としての猿楽が形作られる。</j>
+<e type="trans" ver="1">In these periods, Sarugaku of the Kamakura period further evolved thanks to Kanami and Zeami and the art of Sarugaku, which was almost equivalent to current Nogaku, was established.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During these periods, the Sarugaku of the Kamakura period further evolved thanks to Kanami and Zeami, as well as the establishment of Sarugaku, which was nearly equivalent to the present-day Nogaku.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">During these periods, the Sarugaku of the Kamakura period further evolved thanks to Kanami and Zeami, as well as the establishment of Sarugaku, which was nearly equivalent to the present-day Nogaku.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="31">
+<j>織豊期から江戸期</j>
+<e type="trans" ver="1">Shokuho period and Edo period</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Shokuho and Edo periods</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The Shokuho and Edo periods</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>現在は能楽と呼ばれている芸能が「猿楽師」による「猿楽」と呼ばれて興行された。</j>
+<e type="trans" ver="1">The art which is currently called Nogaku was commercially performed by &quot;Sarugakushi&quot; under the name of &quot;Sarugaku&quot;.</e>
+<cmt>一原文一訳文の例外処理</cmt>
+<e type="trans" ver="2">The art form that is currently called Nogaku was commercially performed by &quot;Sarugakushi&quot; under the name &quot;Sarugaku.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The art form that is currently called Nogaku was commercially performed by &apos;Sarugakushi&apos; under the name &apos;Sarugaku.&apos;</e>
+<cmt>原文の「」に合せて&quot; を&apos; に訂正しました。</cmt>
+</sen>
+<sen id="33">
+<j>また豊臣秀吉や徳川家康や後の征夷大将軍である徳川綱吉や各大名などにより演じられていた。</j>
+<e type="trans" ver="1">Sarugaku was also performed by Hideyoshi TOYOTOMI, Ieyasu TOKUGAWA, Tsunayoshi TOKUGAWA who later became shogun as well as other feudal lords.</e>
+<cmt>一原文一訳文の例外処理</cmt>
+<e type="trans" ver="2">Sarugaku was also performed by Hideyoshi TOYOTOMI, Ieyasu TOKUGAWA and Tsunayoshi TOKUGAWA (who later became shogun), as well as other feudal lords.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Sarugaku was also performed by Hideyoshi TOYOTOMI, Ieyasu TOKUGAWA and Tsunayoshi TOKUGAWA (who later became shogun), as well as other feudal lords.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>また間部詮房は猿楽師から側用人に出世した。</j>
+<e type="trans" ver="1">Akifusa MANABE moved up the ladder of promotion from Sarugakushi to sobayonin (lord chamberlain).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Akifusa MANABE moved up the ladder of promotion from Sarugakushi to Sobayonin (Lord Chamberlain).</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Akifusa MANABE moved up the ladder of promotion from Sarugakushi to Sobayonin (Lord Chamberlain).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="35">
+<j>猿楽の演じ手</j>
+<e type="trans" ver="1">Players of Sarugaku</e>
+<cmt></cmt>
+<e type="trans" ver="2">The players of Sarugaku</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The players of Sarugaku</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>もともと猿楽は大和において「七道の者」であった。</j>
+<e type="trans" ver="1">Originally, players of Sarugaku were &quot;shichido no mono&quot; (people of the lowest social class) in Yamato region.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Originally, the players of Sarugaku were &quot;shichido no mono&quot; (people of the lowest social class) in the Yamato region.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Originally, the players of Sarugaku were &apos;shichido no mono&apos; (people of the lowest social class) in the Yamato region.</e>
+<cmt>原文の「」に合せて&quot; を&apos; に訂正しました。</cmt>
+</sen>
+<sen id="37">
+<j>漂泊の白拍子、神子、鉢叩、猿引きらとともに下層の賎民であり同じ賎民階級の声聞師の配下にあった。</j>
+<e type="trans" ver="1">Along with wandering shirabyoshi (a woman who plays Japanese traditional dance), miko (a medium), Hachi-tataki (a begging priest) and Saruhiki (a monkey showman), they belonged to the lowest social class and were under the rein of shomonji.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Along with wandering shirabyoshi (a woman who performs traditional Japanese dance), miko (a medium), Hachi-tataki (a begging priest) and Saruhiki (a monkey showman), they belonged to the lowest social class and were under the control of the shomonji.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Along with wandering shirabyoshi (a woman who performs traditional Japanese dance), miko (a medium), Hachi-tataki (a begging priest) and Saruhiki (a monkey showman), they belonged to the lowest social class and were under the control of the shomonji.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="38">
+<j>一部の猿楽の座は、社寺の庇護を得て、その祭礼の際などに芸を披露した。</j>
+<e type="trans" ver="1">Some of Sarugaku groups were protected by shrines/temples and showed their performances at rituals.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some Sarugaku groups were protected by shrines and temples and therefore gave performances at rituals.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Some Sarugaku groups were protected by shrines and temples and therefore gave performances at rituals.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>最初は余興的なものとして扱われていたが、やがて社寺の祭礼の中に、猿楽が重要な要素として組み込まれるような現象も起き始めた。</j>
+<e type="trans" ver="1">Though such performances were mere entertainment initially, Sarugaku was gradually incorporated into rituals of shrines/temples.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though such performances were at first seen merely as entertainment, Sarugaku was gradually incorporated into the rituals of shrines and temples.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Though such performances were at first seen merely as entertainment, Sarugaku was gradually incorporated into the rituals of shrines and temples.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="40">
+<j>社寺の由来や神仏と人々の関わり方を解説するために、猿楽の座が寸劇を演じるようなこともあった。</j>
+<e type="trans" ver="1">Sarugaku groups also performed a short play in order to explain the history of shrines/temples or the relation between deities/Buddha and people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sarugaku groups also performed short plays in order to explain the histories of shrines and temples or the relationships among deities, Buddha and the people.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sarugaku groups also performed short plays in order to explain the histories of shrines and temples or the relationships among deities, Buddha and the people.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>これらがやがて、「猿樂の能」となり、公家や武家の庇護をも得つつ、能や狂言に発展していったと言われている。</j>
+<e type="trans" ver="1">It is believed that these performances became known as &quot;Noh of Sarugaku&quot; and eventually evolved into Noh and Kyogen under the protection of court nobles and warrior families.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is believed that these performances became known as &quot;Noh of Sarugaku&quot; and eventually evolved into Noh and Kyogen under the protection of court nobles and warrior families.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is believed that these performances became known as &apos;Noh of Sarugaku&apos; and eventually evolved into Noh and Kyogen under the protection of court nobles and warrior families.</e>
+<cmt>原文の「」に合せて&quot; を&apos; に訂正しました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Izayohi(id:13095), Ittyon(id:1348), Idioma-bot(id:129667), Modeha(id:1276), 与左衛門(id:159462), Solid state(id:264787), D.h(id:79056), 春秋君(id:174988), MH(id:1586), Tjan(id:17305), Peachkiller(id:99202), Mishika(id:276), Toto-tarou(id:16648), さららゆら(id:12274), Yukichin(id:725), くっちゃめ(id:86793), Loveless(id:129239), Point136(id:211299), Ponsaku(id:31417), 曼珠沙華(id:26417), 物理屋のまさ(id:15513), Toki-ho(id:10691), Louperibot(id:128971), でんでん(id:61220), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

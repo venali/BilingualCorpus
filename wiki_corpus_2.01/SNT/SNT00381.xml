@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>琉球神道記</j>
+<e type="trans" ver="1">Ryukyu Shinto-ki</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ryukyu Shinto-ki</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ryukyu Shinto-ki</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>琉球神道記（りゅうきゅうしんとうき）は、仏書の一つ。</j>
+<e type="trans" ver="1">Ryukyu Shinto-ki is one of Buddhism books.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ryukyu Shinto-ki is a Buddhist books.</e>
+<cmt>articles; “buddhism” used as an adjective</cmt>
+<e type="check" ver="1">&quot;Ryukyu Shinto-ki&quot; is a Buddhist books.</e>
+<cmt>Ryuku Shinto-ki にダブルコーテーションを追記しました。</cmt>
+</sen>
+<sen id="2">
+<j>慶安元年刊。</j>
+<e type="trans" ver="1">The books were released in the first year of the Keian era (1648).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The books were released in the first year of the Keian era (1648).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The books were released in 1648.</e>
+<cmt>the first year of the Keian era () を削除しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>袋中撰。</j>
+<e type="trans" ver="1">The books were compiled by Taichu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The books were compiled by Taichu.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The books were compiled by Taichu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>巻一の三界事から、琉球における仏教、神道の根源、由来を略説する。</j>
+<e type="trans" ver="1">With the book I discussing the three Buddhism realms, the books elucidate the roots and origins of Buddhism and Shintoism in Ryukyu (Okinawa).</e>
+<cmt></cmt>
+<e type="trans" ver="2">With first book discussing the three Buddhist realms, the books elucidate the roots and origins of Buddhism and Shintoism in Ryukyu (Okinawa).</e>
+<cmt>book I-&gt;first book</cmt>
+<e type="check" ver="1">With first book discussing the three Buddhist realms, the books elucidate the roots and origins of Buddhism and Shintoism in Ryukyu (Okinawa).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Lobbyonce(id:195963), 弥(id:61590), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

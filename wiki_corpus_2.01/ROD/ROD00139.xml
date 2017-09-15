@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>切り通し (京都)</j>
+<e type="trans" ver="1">Kiritoshi Street (Kyoto)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kiritoshi Street (Kyoto)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kiritoshi Street (Kyoto)</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>切り通し（きりとおし）は京都市東山区内の南北の通りの一つ。</j>
+<e type="trans" ver="1">Kiritoshi Street is one of narrow streets running north to south in Higashiyama Ward, Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kiritoshi Street is a narrow street running north to south in Higashima Ward, Kyoto City.</e>
+<cmt>fixed grammar</cmt>
+<e type="check" ver="1">Kiritoshi Street is a narrow street running north to south in Higashiyama Ward, Kyoto City.</e>
+<cmt>Higashima→Higashiyama</cmt>
+</sen>
+<sen id="2">
+<j>北は新橋通から南は四条通までの僅か約180mの通り。</j>
+<e type="trans" ver="1">Kiritoshi Street is only approximately 180m long, meeting Shinbashi-dori Street at the north end and Shijo-dori Street at the south end.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kiritoshi Street is only about 180 meters long, ending at Shinbashi-dori Street to the north and Shijo-dori Street to the south.</e>
+<cmt>&quot;only&quot; followed by &quot;approximately&quot; sounds awkward; &quot;at the north end&quot; and &quot;at the south end&quot; are too wordy</cmt>
+<e type="check" ver="1">Kiritoshi Street is only about 180 meters long, ending at Shinbashi-dori Street to the north and Shijo-dori Street to the south.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>距離は短いが、東の花見小路通、西の大和大路通と共に、祇園の中心となる通り。</j>
+<e type="trans" ver="1">Despite its short length, Kiritoshi Street along with two paralleling roads, Hanamikoji-dori Street in the east and Yamatooji-dori Street in the west, are the main streets of &quot;Gion&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Despite its length, Kiritoshi Street is considered a main street in Gion, running parallel to Hanamikoji-dori Street to the east and Yamatoji-dori Street to the west.</e>
+<cmt>&quot;shortness&quot; meaning established in prior sentence; &quot;paralleling&quot; awkward here; Yamatooji-dori Street→Yamatoji-dori Street</cmt>
+<e type="check" ver="1">Despite its length, Kiritoshi Street is considered a main street in Gion, running parallel to Hanamikoji-dori Street to the east and Yamato-oji-dori Street to the west.</e>
+<cmt>Yamatoji-dori Street→Yamato-oji-dori Street</cmt>
+</sen>
+<par id="1">
+<sen id="4">
+<j>新橋通、白川南通から末吉町通の間は狭い路地のような通りであるが、新橋通などと同様、石畳が敷かれおり、風情ある景観を見ることが出来る。</j>
+<e type="trans" ver="1">The sections divided by Shinbashi-dori Street, Shirakawa minami-dori Street and Sueyoshimachi-dori Street running east to west are narrow streets like alleys, but they are tasteful due to the stone pavement similar to Shinbashi-dori Street and others.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The sections between Shinbashi-dori Street, Shirakawaminami-dori Street and Sueyoshicho-dori Street seem to be narrow alleyways, but similar to streets like Shinbashi-dori they are elegantly paved with stones.</e>
+<cmt>新橋町 is read as Shinbashicho, according to google maps and kanjidict;</cmt>
+<e type="check" ver="1">The sections between Shinbashi-dori Street, Shirakawaminami-dori Street and Sueyoshicho-dori Street are like narrow alleyways, but similar to streets like Shinbashi-dori Street, they are elegantly paved with stones.</e>
+<cmt>文脈より、seem to be→are likeに修正しました。Shinbashi-dori→Shinbashi-dori StreetStreetの後にカンマを挿入しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>沿道の主な施設</j>
+<e type="trans" ver="1">The main facilities along the street</e>
+<cmt></cmt>
+<e type="trans" ver="2">The main facilities along the street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The main facilities along the street</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>巽橋</j>
+<e type="trans" ver="1">Tatsumi-hashi Bridge</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tatsumi-hashi Bridge</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tatsumi-bashi Bridge</e>
+<cmt>「たつみばし」と読みますので、hashi→bashi</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>辰巳大明神（辰巳神社）</j>
+<e type="trans" ver="1">Tatsumi Daimyojin (Tatsumi Jinja Shrine)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tatsumi Daimyojin (Tatsumi Shinto Shrine)</e>
+<cmt>Jinja→Shinto</cmt>
+<e type="check" ver="1">Tatsumi Daimyojin (Tatsumi Shinto Shrine)</e>
+<cmt>Tatsumi Shinto Shrine→Tatsumi-jinja Shrine</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Mooko(id:36162), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

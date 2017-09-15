@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>西舞鶴駅</j>
+<e type="trans" ver="1">Nishi-Maizuru Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishi-Maizuru Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nishi-Maizuru Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>西舞鶴駅（にしまいづるえき）は、京都府舞鶴市伊佐津字コモイケ西213-1にある、西日本旅客鉄道（JR西日本）・北近畿タンゴ鉄道（KTR）の駅である。</j>
+<e type="trans" ver="1">Located in 213-1 Aza Komoike-nishi, Isazu, Maizuru City, Kyoto Prefecture, Nishi-Maizuru Station is a stop of West Japan Railway Company (JR West) and Kitakinki Tango Railway Corporation (KTR).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Located in 213-1 Aza Komoike-nishi, Isazu, Maizuru City, Kyoto Prefecture, Nishi-Maizuru Station is a station owned by West Japan Railway Company (JR West) and Kitakinki Tango Railway Corporation (KTR).</e>
+<cmt>&quot;stop of&quot;→&quot;station owned by&quot;</cmt>
+<e type="check" ver="1">Located in 213-1 Aza Komoike-nishi, Isazu, Maizuru City, Kyoto Prefecture, Nishi-Maizuru Station is a station owned by West Japan Railway Company (JR West) and Kitakinki Tango Railway Corporation (KTR).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>1904年（明治37年）に舞鶴駅（まいづるえき）として開業し、舞鶴市の合併・市域拡大にともない1944年（昭和19年）西舞鶴駅に改称された。</j>
+<e type="trans" ver="1">It started its operation as Maizuru Station in 1904 and its name was changed to Nishi-Maizuru Station in 1944 with the municipal merger and expansion of the area of Maizuru City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It opened as Maizuru Station in 1904 but was renamed Nishi-Maizuru Station in 1944, following Maizuru City&apos;s merger with East Maizuru City and subsequent expansion.</e>
+<cmt>&quot;started its operation&quot;→&quot;opened&quot;Reworded sentenceAdded the name of the city it merged with for clarity.</cmt>
+<e type="check" ver="1">It opened as Maizuru Station in 1904 but was renamed Nishi-Maizuru Station in 1944, following municipal merger and expansion of the area of Maizuru City.</e>
+<cmt>東舞鶴市との合併は具体的には記述されていないため、原文のとおりにしました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>利用可能な鉄道路線</j>
+<e type="trans" ver="1">Available railway lines</e>
+<cmt></cmt>
+<e type="trans" ver="2">Lines</e>
+<cmt>Deleted &quot;Available railway&quot;</cmt>
+<e type="check" ver="1">Lines</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>西日本旅客鉄道（JR西日本）</j>
+<e type="trans" ver="1">West Japan Railway Company (JR West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>舞鶴線</j>
+<e type="trans" ver="1">Maizuru Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maizuru Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maizuru Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>北近畿タンゴ鉄道（KTR）</j>
+<e type="trans" ver="1">Kitakinki Tango Railway Corporation (KTR)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitakinki Tango Railway Corporation (KTR)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitakinki Tango Railway Corporation (KTR)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="6">
+<j>北近畿タンゴ鉄道宮津線 ※起点駅</j>
+<e type="trans" ver="1">KTR Miyazu Line *starting station</e>
+<cmt></cmt>
+<e type="trans" ver="2">KTR Miyazu Line *starting station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">KTR Miyazu Line *starting station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="7">
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station layout</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>プラットホーム形状と配置2面3線のJRプラットホームに加え、その単式ホーム反対側の綾部寄りを切り欠いた1面1線のKTR宮津線ホームを有する地上駅。</j>
+<e type="trans" ver="1">It is an aboveground station that has two platforms for JR; one is an island platform, both sides of which are used for boarding and exiting trains, and the other is a single platform, only one side of which is used for boarding and exiting trains; however, a part of the Ayabe Station end of the other side of the single platform is cut out and used as a single line platform for the KTR Miyazu Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishi-Maizuru Station is an aboveground station with one island and one side platform serving 3 tracks used by JR, although the other side of the single platform is used as a bay platform for trains to Ayabe on the KTR Miyazu Line.</e>
+<cmt>&quot;It&quot;→&quot;Maizuru Station&quot;&quot;platform is cut out&quot;→&quot;bay platform&quot;Reworded sentence.</cmt>
+<e type="check" ver="1">Nishi-Maizuru Station is an aboveground station with one island platform and one single platform serving three tracks used by JR; in addition, a part of the opposite side of the single platform, which serves trains for Ayabe Station, has been cut away to create a single platform serving one track for the KTR Miyazu Line.</e>
+<cmt>bay platformの形状が、「Ｅ」のような形のホームのことかと思い、西舞鶴駅のKTRのホームが「Ｅ」の形状になっていないため、どのような形状なのか確定ができませんでした。I have written a description based on the Japanese. I have also had to edit the part saying &quot;the above single platform in the direction of Ayabe Station &quot; as this could be misinterpreted to mean that there is at least one other single platform that serves trains that run in a direction other than Ayabe station.</cmt>
+</sen>
+<sen id="9">
+<j>橋上駅を持ち東西両側から駅舎に入ることができる。</j>
+<e type="trans" ver="1">It has an upper-floor station building, whose all the functionality is on the upper floor, and both the east and west sides are available for entering the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a raised station with entrances on both the East and West sides.</e>
+<cmt>&quot;has an upper-floor station building&quot;→&quot;is a raised station&quot;</cmt>
+<e type="check" ver="1">It is a raised station with exits on both the East and West sides.</e>
+<cmt>entrance →exit　としました。</cmt>
+</sen>
+<sen id="10">
+<j>KTR線の改札口は西寄り1階に、JR線の改札口は2階中央部に設けられている。</j>
+<e type="trans" ver="1">The ticket wicket for KTR line is located on the west side of the first floor and that for JR lines is located on the center of the second floor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ticket gate for the KTR line is located on the west side of the first floor and that for the JR lines is located halfway along the second floor.</e>
+<cmt>&quot;wicket&quot;→&quot;gate&quot;Added &quot;the&quot;&quot;on the center of&quot;→&quot;halfway along&quot;</cmt>
+<e type="check" ver="1">The ticket gate for the KTR line is located on the west side of the first floor and that for the JR lines is located halfway along the second floor.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="11">
+<j>単式ホーム側が4番のりば、島式ホームが2・3番のりばである。</j>
+<e type="trans" ver="1">While Platform 4 is on the single platform, the island platform has Platform 2 and 3.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While track 4 is on the single platform, the island platform has track 2 and 3.</e>
+<cmt>&quot;Platform&quot;→&quot;track&quot;</cmt>
+<e type="check" ver="1">While Platform 4 is on a single platform, Platform 2 and Platform 3 are on an island platform.</e>
+<cmt>&quot;のりば&quot; は &quot;Platfoam&quot; とし、&quot;x番のりば&quot;の場合、大文字にすることで区別しました。</cmt>
+</sen>
+<sen id="12">
+<j>欠番となっている1番線は、2番線の横にホームのない留置線として存在し、東舞鶴駅から回送されてきた特急「まいづる (列車)」の待機などに使われている。</j>
+<e type="trans" ver="1">Platform 1, which is an unused number, is present next to Platform 2 as a storage track with no platform and used as a waiting space for Limited Express &quot;Maizuru&quot; which is not in service from Higashi-Maizuru Station or for other purposes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Track 1 is a platformless storage track that runs alongside track 2 and is often used as a waiting space for the Limited Express &quot;Maizuru&quot;from Higashi-Maizuru Station when not in service.</e>
+<cmt>&quot;Platform&quot;→&quot;track&quot; Deleted &quot;which is an unused number,&quot;is present next toReworded first part of sentence and changed word order of second part.</cmt>
+<e type="check" ver="1">Platform 1 is a platformless storage track that runs alongside Platform 2 and is often used as a waiting space for the Limited Express &apos;Maizuru&apos; from Higashi-Maizuru Station when not in service.</e>
+<cmt>&quot; → &apos;　としました。&quot;x番線&quot;も明らかに Platfoam を指しているため、&quot;Platform x&quot;としました。</cmt>
+</sen>
+<sen id="13">
+<j>JR4番のりばとKTR線のりばの間には柵がされているが、KTR線改札口を経由した連絡通路を介して、相互の平面乗り換えが可能である。</j>
+<e type="trans" ver="1">A barrier is set up between JR Platform 4 and the platform for KTR; however, it is possible to change trains mutually between the JR lines and the KTR line without using stairway through an accessway that is passing the ticket wicket for KTR line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a barrier between JR Platform 4 and the KTR platform, though passengers can change trains using an accessway through the KTR ticket gate.</e>
+<cmt>&quot;A barrier is set up&quot;→&quot;There ia a barrier&quot;</cmt>
+<e type="check" ver="1">There is a barrier between JR Platform 4 and the KTR platform, although passengers can change trains using an accessway through the KTR ticket gate.</e>
+<cmt>&quot;乗り場&quot; should be &quot;Platform&quot; in my opnion. &quot;Track&quot; is used more in the sense of the track that the train actually runs on. (This may be a British perspective, however.)&quot;though&quot;→ &quot;although &quot;に変更しました。</cmt>
+</sen>
+<sen id="14">
+<j>夜間はこの連絡通路が閉鎖される代わりに、柵自体に設けられたゲートが開けられ、そこを通って乗り換える。</j>
+<e type="trans" ver="1">This accessway is closed at night, but passengers can change trains through a gate set up on the barrier which is opened instead.</e>
+<cmt>ゲートは「ひとつ」と判断いたしました。</cmt>
+<e type="trans" ver="2">This accessway is closed at night, but passengers can change trains through a gate in the barrier which is opened instead.</e>
+<cmt>&quot;set up on&quot;→&quot;in&quot;</cmt>
+<e type="check" ver="1">This accessway is closed at night, but passengers can change trains through a gate in the barrier which is opened instead.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>もっとも、4番のりばへの列車の発着は日中はほとんどなく、JR列車は専ら2・3番のりば発着となるため、平面乗り換えできるケースは少ない。</j>
+<e type="trans" ver="1">Trains that arrive at and leave from Platform 4, however, are very rare and Platform 2 and 3 are the major platforms for JR trains during the day, and thus there are only a few cases where passengers need to use the accessway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Trains that arrive at and leave from Platform 4, however, are very rare with Platform 2 and 3 being the major platforms for JR trains during the day, and thus there are only a few cases where passengers need to use the accessway.</e>
+<cmt>&quot;and&quot;→&quot;with&quot;&quot;are&quot;→&quot;being&quot;</cmt>
+<e type="check" ver="1">Trains that arrive at and leave from Platform 4, however, are very rare with Platform 2 and Platform 3 being used for JR trains almost entirely during the day, and thus there are only a few cases where passengers need to use the accessway.</e>
+<cmt>乗り場 should be &quot;Platform.&quot;</cmt>
+</sen>
+<sen id="16">
+<j>駅東側には北近畿タンゴ鉄道の車両区もある。</j>
+<e type="trans" ver="1">Kitakinki Tango Railway Corporation owns a rail yard on the east side of the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitakinki Tango Railway Corporation owns a rail yard on the east side of the station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitakinki Tango Railway Corporation owns a rail yard on the east side of the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="17">
+<j>駅構内にはキオスクが併設され、また比較的広い待合室があり、テレビも備えられている。</j>
+<e type="trans" ver="1">In the station building, there are a kiosk and relatively large waiting room that has a television set.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the station building, there is a kiosk and a relatively large waiting room with a television set.</e>
+<cmt>&quot;are&quot;→&quot;is&quot;Added &quot;a&quot;&quot;that has&quot;→&quot;with&quot;</cmt>
+<e type="check" ver="1">In the station building, there is a kiosk and a relatively large waiting room with a television set.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>駅構内1階には日本旅行舞鶴支店があったが、2008年2月29日に閉店した。</j>
+<e type="trans" ver="1">There used to be the Maizuru branch office of Nippon Travel Agency Co., Ltd. on the first floor of the station building; however, it was closed on February 29, 2008.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Maizuru branch of Nippon Travel Agency Co., Ltd. used to be on the first floor of the station building but it closed on February 29, 2008.</e>
+<cmt>Changed word orderDeleted &quot;office&quot;&quot;however&quot;→&quot;but&quot;Deleted &quot;was&quot;</cmt>
+<e type="check" ver="1">The Maizuru branch of Nippon Travel Agency Co., Ltd. used to be on the first floor of the station building but it closed on February 29, 2008.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>2階には府旅券事務所が入居している。</j>
+<e type="trans" ver="1">There is a prefectural passport office on the second floor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a prefectural passport office on the second floor.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There is a prefectural passport office on the second floor.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="20">
+<j>かつては交通の要所として舞鶴鉄道部が置かれ、広い構内をもち、留置線などの設備をもつ駅であったが、1999年9月25日に橋上駅舎化されるにあたり、多数あった留置線は1本（前述の1番線）に削減された。</j>
+<e type="trans" ver="1">Nishi-Maizuru Station used to be a fairly large station with the Maizuru Railways Department and many storage tracks in its yard as a transportation hub; however, as modified to a upper-floor station on September 25, 1999, most of the storage tracks disappeared and only one (the one mentioned earlier) remained.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishi-Maizuru Station used to be a fairly large and important station for Maizuru Railways Department, with many storage tracks, most of which were removed when the station was rebuilt as a raised station on September 25, 1999, and now only one (the one mentioned earlier) remains.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Nishi-Maizuru Station used to be a fairly large and important station for Maizuru Railways Department, with many storage tracks, most of which were removed when the station was rebuilt as a raised station on September 25, 1999, and now only one (the Platform 1 mentioned earlier) remains.</e>
+<cmt>x番線も明らかに Platfoam を指しているため、&quot;Platform x&quot;としました。</cmt>
+</sen>
+<sen id="21">
+<j>その跡地を使いショッピングセンターが開店した。</j>
+<e type="trans" ver="1">A shopping mall has been constructed on the site.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A shopping mall has been constructed on the site of the tracks.</e>
+<cmt>Added &quot;of the tracks&quot; for clarity</cmt>
+<e type="check" ver="1">A shopping mall has been constructed on the site of the tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="22">
+<j>主として東舞鶴方面行き（下り）は2番のりば、綾部方面行き（上り）は3番のりばを使用する。</j>
+<e type="trans" ver="1">Major platforms to be used are Platform 2 which is used for trains for Higashi-Maizuru (down train) and Platform 3 which is used for trains for Ayabe (up train).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Major platforms to be used are Platform 2 which is used for trains for down trains to Higashi-Maizuru and Platform 3 which is used for trains for up trains to Ayabe.</e>
+<cmt>Moved &quot;up train&quot; and &quot;down train&quot;Deleted brackets</cmt>
+<e type="check" ver="1">The major platforms to be used are Platform 2, which is used for outbound trains to Higashi-Maizuru, and Platform 3, which is used for inbound trains to Ayabe.</e>
+<cmt>乗り場 should be &quot;Platform.&quot;</cmt>
+</sen>
+<sen id="23">
+<j>4番のりばは原則として朝と晩しか使われない。</j>
+<e type="trans" ver="1">Platform 4 is basically used only early in the morning and in the evening.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Platform 4 is basically used only early in the morning and in the evening.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Platform 4 is basically used only early in the morning and in the evening.</e>
+<cmt>乗り場 should be &quot;Platform.&quot;</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="24">
+<j>利用状況</j>
+<e type="trans" ver="1">Utilization of Nishi-Maizuru Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger Volume</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>他と統一しました。</cmt>
+</sen>
+<sen id="25">
+<j>JR西日本</j>
+<e type="trans" ver="1">JR West</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR West</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR West</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>2006年度の1日あたりの乗車人員は約1,255人である。</j>
+<e type="trans" ver="1">The number of daily passengers in 2006 is about 1255 people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of daily passengers in 2006 was about 1255 people.</e>
+<cmt>&quot;is&quot;→&quot;was&quot;</cmt>
+<e type="check" ver="1">In fiscal year 2006, the number of passengers who used the station was about 1,255 a day.</e>
+<cmt>他と統一しました。</cmt>
+</sen>
+<sen id="27">
+<j>（京都府統計書より）</j>
+<e type="trans" ver="1">(Adapted from the Statistical Handbook of Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Adapted from the Statistical Handbook of Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(according to the Kyoto Prefecture Statistics Report)</e>
+<cmt>他と統一しました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="28">
+<j>北近畿タンゴ鉄道</j>
+<e type="trans" ver="1">Kitakinki Tango Railway Corporation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitakinki Tango Railway Corporation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitakinki Tango Railway Corporation</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>2006年度の1日あたりの乗車人員は約340人である。</j>
+<e type="trans" ver="1">The number of daily passengers in 2006 is about 340 people.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of daily passengers in 2006 is about 340 people.</e>
+<cmt>&quot;is&quot;→&quot;was&quot;</cmt>
+<e type="check" ver="1">In fiscal year 2006, the number of passengers who used the station was about 340 a day.</e>
+<cmt>他と統一しました。</cmt>
+</sen>
+<sen id="30">
+<j>（京都府統計書より）</j>
+<e type="trans" ver="1">(Adapted from the Statistical Handbook of Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(Adapted from the Statistical Handbook of Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(according to the Kyoto Prefecture Statistics Report)</e>
+<cmt>他と統一しました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="31">
+<j>西舞鶴市街地の代表駅。</j>
+<e type="trans" ver="1">It is a representative station in the Nishi-Maizuru urban area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a hub station in the Nishi-Maizuru urban area.</e>
+<cmt>&quot;representative&quot;→&quot;hub&quot; - not sure if this is correct</cmt>
+<e type="check" ver="1">It is a hub station in the Nishi-Maizuru urban area.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>西舞鶴は古くから商業の街として発展し、買い物利用の他に、通勤・通学利用も多い。</j>
+<e type="trans" ver="1">Evolved as the city of commerce for a long time, Nishi-Maizuru has quite a few people who use this station for shopping as well as for commuting.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishi-Maizuru has a long history of commerce and quite a few people use this station for shopping as well as for commuting.</e>
+<cmt>Reworded first part of sentence</cmt>
+<e type="check" ver="1">Nishi-Maizuru has a long history of commerce and quite a few people use this station for shopping as well as for commuting.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>また京都府北部の中核都市である舞鶴市の主な官庁街や倉谷工業団地 (京都)が近くにあり、ビジネス利用も多い。</j>
+<e type="trans" ver="1">In addition, since the major administrative district of Maizuru City, which is the nucleated city in northern Kyoto, and Kuratani industrial complex (Kyoto Prefecture) are located nearby, the station is also well used for business purposes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition, since the main administrative district of Maizuru City, which is a major city in northern Kyoto, and the Kuratani industrial complex are located nearby, the station is also used a lot for business purposes.</e>
+<cmt>&quot;major&quot;→&quot;main&quot;&quot;the nucleated&quot;→&quot;a major&quot;Added &quot;the&quot;Deleted section in brackets&quot;well&quot;→&quot;a lot&quot;</cmt>
+<e type="check" ver="1">In addition, since the main administrative district of Maizuru City, which is a major city in northern Kyoto, and the Kuratani industrial complex are located nearby, the station is also used a lot for business purposes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>舞鶴線の全ての列車が停車し、北近畿タンゴ鉄道の拠点駅にもなっている。</j>
+<e type="trans" ver="1">All trains that run on the Maizuru Line stop at this station, and it also the base station of Kitakinki Tango Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">All trains that run on the Maizuru Line stop at this station, and it also a terminus for Kitakinki Tango Railway.</e>
+<cmt>&quot;the base station of&quot;→&quot;a terminus for&quot;</cmt>
+<e type="check" ver="1">All trains that run on the Maizuru Line stop at this station, and it is also a terminus for Kitakinki Tango Railway.</e>
+<cmt>文法を修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Periphery of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Surroundings</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="35">
+<j>橋上駅舎化されたのに伴い、西口と東口が新設された。</j>
+<e type="trans" ver="1">The west and east exits were newly constructed as the station facility was elevated to the upper floor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The West and East exits were rebuilt along with the rest of the station.</e>
+<cmt>Reworded sentence</cmt>
+<e type="check" ver="1">The West and East exits were rebuilt when the station facility was raised.</e>
+<cmt>原文に沿うように訳し直しました。</cmt>
+</sen>
+<sen id="36">
+<j>西口は旧西舞鶴駅の改札口であったため、市街地が形成されている。</j>
+<e type="trans" ver="1">Since the west exit was the ticket wicket for the ole Nishi-Maizuru Station, its urban area is formed on the west side.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the ticket gate of the old station was situated at the West Exit, this area is more developed.</e>
+<cmt>Changed word orderSpelling of &quot;old&quot;Reworded final part of sentence</cmt>
+<e type="check" ver="1">Since the ticket gate of the old station was situated at the West Exit, this area is more developed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>田辺城 (丹後国)（田辺城）の物見櫓が移設されており、またビジネスホテルもあり、徒歩2分程度の所に吉野家とミスタードーナツがある。</j>
+<e type="trans" ver="1">The watchtower of Tanabe-jo Castle (the province of Tango) has been moved to this area, in addition, not only there is a budget hotel but Yoshinoya and Mister Donut are available at the place about 2-minute walk from the west exit.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The watchtower of Tanabe-jo Castle (in the province of Tango) has been moved to this area, there is a budget hotel and also a Yoshinoya and a Mister Donut about 2 minutes walk from the West Exit.</e>
+<cmt>Added &quot;in&quot;Deleted &quot;in addition&quot;</cmt>
+<e type="check" ver="1">The watchtower of Tanabe-jo Castle (Tango Province) has been moved to this area; there is a budget hotel and also a Yoshinoya and a Mister Donut about two minutes walk from the West Exit.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+<sen id="38">
+<j>当駅から田辺城 (丹後国)へは徒歩4分程度である。</j>
+<e type="trans" ver="1">It takes about 4 minutes from the station to Tanabe-jo Castle (the province of Tango) on foot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It takes about 4 minutes on foot from the station to Tanabe-jo Castle.</e>
+<cmt>Deleted &quot;(the province of Tango)&quot;</cmt>
+<e type="check" ver="1">It takes about four minutes on foot from the station to Tanabe-jo Castle.</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="39">
+<j>また旧駅の現在の東口側には留置線があったが、現在では更地になっており、徒歩5分程度の所に総合スーパーが開店している。</j>
+<e type="trans" ver="1">There used to be storage tracks on the east exit area in the old Nishi-Maizuru Station era, but the area is now a vacant lot, and a general merchandise store is open now at the place about 5 minutes on foot.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The site of the rail yard which used to be near the East Exit is now a vacant lot though there is a supermarket 5 minutes walk away.</e>
+<cmt>Reworded sentence&quot;storage tracks&quot;→&quot;rail yard&quot;</cmt>
+<e type="check" ver="1">The site of the rail yard which used to be near the East Exit is now a vacant lot although there is a supermarket five minutes walk away.</e>
+<cmt>数字をスペルアウトしました。&quot;though&quot;→&quot;alhough &quot;に変更しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>西口</j>
+<e type="trans" ver="1">West exit</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Exit</e>
+<cmt>Capitalized &apos;e&apos;</cmt>
+<e type="check" ver="1">West Exit</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="40">
+<j>舞鶴市役所西支所</j>
+<e type="trans" ver="1">Maizuru City Office, west branch office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maizuru City Office, West Branch Office</e>
+<cmt>Capitalized &apos;w&apos;, &apos;b&apos;, &apos;o&apos;</cmt>
+<e type="check" ver="1">Maizuru City Office, West Branch Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="41">
+<j>京都地方裁判所舞鶴支部</j>
+<e type="trans" ver="1">Kyoto District Court, Maizuru Affiliate</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto District Court, Maizuru Branch</e>
+<cmt>&quot;Affiliate&quot;→&quot;Branch&quot;</cmt>
+<e type="check" ver="1">Kyoto District Court, Maizuru Branch</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="42">
+<j>舞鶴警察署（旧舞鶴西警察署）</j>
+<e type="trans" ver="1">Maizuru police station (Old Maizuru west police station)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maizuru Police Station (former Maizuru West Police Station)</e>
+<cmt>&quot;old&quot;→&quot;former&quot;Capitalized &apos;p&apos;, &apos;s&apos;, &apos;w&apos;</cmt>
+<e type="check" ver="1">Maizuru Police Station (former Maizuru West Police Station)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="43">
+<j>田辺城 (丹後国)（当駅下車　徒歩で4分）</j>
+<e type="trans" ver="1">Tanabe-jo Castle (the province of Tango) (Get off the train at this station and walk for 4 minutes.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tanabe-jo Castle (the province of Tango) (4-minute walk from the station.)</e>
+<cmt>Reworded section in brackets</cmt>
+<e type="check" ver="1">Tanabe-jo Castle (Tango Province) (four-minute walk from the station)</e>
+<cmt>数字をスペルアウトしました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="44">
+<j>京都銀行西舞鶴支店</j>
+<e type="trans" ver="1">The Bank of Kyoto, Nishi-Maizuru Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Bank of Kyoto, Nishi-Maizuru Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Bank of Kyoto, Nishi-Maizuru Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="45">
+<j>福井銀行舞鶴支店</j>
+<e type="trans" ver="1">The Fukui Bank, Maizuru Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Fukui Bank, Maizuru Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Fukui Bank, Maizuru Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="46">
+<j>福邦銀行舞鶴支店</j>
+<e type="trans" ver="1">The Fukuho Bank, Maizuru Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Fukuho Bank, Maizuru Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Fukuho Bank, Maizuru Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="47">
+<j>京都北都信用金庫舞鶴中央支店</j>
+<e type="trans" ver="1">Kyoto Hokuto Shinkin Bank, Maizuru Central Branch Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Hokuto Shinkin Bank, Maizuru Central Branch Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Hokuto Shinkin Bank, Maizuru Central Branch Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="48">
+<j>信用保証協会舞鶴支所</j>
+<e type="trans" ver="1">Credit Guarantee Corporation of Kyoto, Chutan Branch Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">Credit Guarantee Corporation of Kyoto, Chutan Branch Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Credit Guarantee Corporation of Kyoto, Chutan Branch Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="49">
+<j>さとう (京都府)舞鶴店</j>
+<e type="trans" ver="1">Maizuru branch store of Sato (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maizuru branch store of Sato</e>
+<cmt>Deleted &quot;(Kyoto Prefecture)&quot;</cmt>
+<e type="check" ver="1">Maizuru branch store of Sato (Kyoto Prefecture)</e>
+<cmt>京都　を追加しました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="50">
+<j>国民生活金融公庫舞鶴支店</j>
+<e type="trans" ver="1">National Life Finance Corporation (NLFC), Maizuru Office</e>
+<cmt></cmt>
+<e type="trans" ver="2">National Life Finance Corporation (NLFC), Maizuru Office</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">National Life Finance Corporation (NLFC), Maizuru Office</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="51">
+<j>舞鶴蒲鉾協同組合（ふるさと舞鶴便）</j>
+<e type="trans" ver="1">Maizuru Kamaboko Cooperative Society (Furusato Maizuru Bin)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maizuru Kamaboko Cooperative Society (Furusato Maizuru Bin)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maizuru Kamaboko Cooperative Society (Furusato Maizuru Bin)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="52">
+<j>円隆寺 (舞鶴市)</j>
+<e type="trans" ver="1">Enryu-ji Temple (Maizuru City)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Enryu-ji Temple (Maizuru City)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Enryu-ji Temple (Maizuru City)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="53">
+<j>朝代神社 - 旧府社</j>
+<e type="trans" ver="1">Asashiro-jinja Shrine - Old prefectural shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Asashiro-jinja Shrine - Former prefectural shrine</e>
+<cmt>&quot;old&quot;→&quot;former&quot;</cmt>
+<e type="check" ver="1">Asashiro-jinja Shrine - Former prefectural shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="54">
+<j>本行寺 - 京極高知の菩提寺</j>
+<e type="trans" ver="1">Hongyo-ji Temple - Takatomo KYOGOKU family temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hongyo-ji Temple - Takatomo KYOGOKU family temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hongyo-ji Temple - Takatomo KYOGOKU family temple</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="55">
+<j>桂林寺</j>
+<e type="trans" ver="1">Keirin-ji Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keirin-ji Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keirin-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>東口</j>
+<e type="trans" ver="1">East exit</e>
+<cmt></cmt>
+<e type="trans" ver="2">East Exit</e>
+<cmt>Capitalized &apos;e&apos;</cmt>
+<e type="check" ver="1">East Exit</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="56">
+<j>さとう (京都府)</j>
+<e type="trans" ver="1">Sato (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sato shopping center</e>
+<cmt>Added &quot;shopping center&quot;Deleted &quot;(Kyoto Prefecture)&quot;</cmt>
+<e type="check" ver="1">Sato shopping center (Kyoto Prefecture)</e>
+<cmt>京都　を追加しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="57">
+<j>上新電機ピットワン西舞鶴店</j>
+<e type="trans" ver="1">Nishi-Maizuru branch store of Joshin Denki Co., Ltd., Pit One,</e>
+<cmt></cmt>
+<e type="trans" ver="2">Joshin Pit One electrical goods store, Nishi-Maizuru branch</e>
+<cmt>RewordedsentenceAdded explanation</cmt>
+<e type="check" ver="1">Joshin Pit One electrical goods store, Nishi-Maizuru branch</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="58">
+<j>倉谷工業団地 (京都)</j>
+<e type="trans" ver="1">Kuratani industrial complex (Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kuratani industrial complex (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kuratani industrial complex (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="59">
+<j>キリンビバレッジ舞鶴工場</j>
+<e type="trans" ver="1">Maizuru Plant of Kirin Beverage Company, Limited</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maizuru Plant of Kirin Beverage Company, Limited</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maizuru Plant of Kirin Beverage Company, Limited</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="60">
+<j>ケンコーマヨネーズ西日本工場</j>
+<e type="trans" ver="1">Nishi-Nihon Plant of Kenko Mayonnaise Co., Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishi-Nihon Plant of Kenko Mayonnaise Co., Ltd.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nishi-Nihon Plant of Kenko Mayonnaise Co., Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="61">
+<j>日之出化学工業舞鶴工場</j>
+<e type="trans" ver="1">Maizuru Plant of Hinode Kagaku Kogyo Kaisha, Ltd.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maizuru Plant of Hinode Kagaku Kogyo Kaisha, Ltd.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maizuru Plant of Hinode Kagaku Kogyo Kaisha, Ltd.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>バス</j>
+<e type="trans" ver="1">Bus services</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus services</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus services</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="62">
+<j>京都交通 (舞鶴)</j>
+<e type="trans" ver="1">Kyoto Kotsu (Maizuru)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Kotsu (Maizuru)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Kotsu (Maizuru)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="63">
+<j>高速バス 京都駅前行き、大阪難波駅行き、神戸三宮行き、東京(浜松町・品川)行き</j>
+<e type="trans" ver="1">Expressway bus services to Kyoto Station, Osaka Nanba, Kobe Sannomiya, and Tokyo (Hamamatsucho and Shinagawa)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Expressway bus services to Kyoto Station, Osaka Nanba, Kobe Sannomiya, and Tokyo (Hamamatsucho and Shinagawa)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Expressway bus services to Kyoto Station, Osaka Nanba Station, Kobe Sannomiya, and Tokyo (Hamamatsucho and Shinagawa)</e>
+<cmt>Nanba Station としました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="64">
+<j>1904年（明治37年）11月3日 - 日本国有鉄道の舞鶴駅（まいづるえき）として開業。</j>
+<e type="trans" ver="1">November 3, 1904: Started as a Maizuru Station of Japan National Railways (JNR)</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 3, 1904: Opened as a Maizuru Station of Japan National Railways (JNR)</e>
+<cmt>&quot;Started&quot;&quot;→&quot;Opened&quot;</cmt>
+<e type="check" ver="1">November 3, 1904: Opened as a Maizuru Station of Japan National Railways (JNR)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="65">
+<j>即日阪鶴鉄道に貸与。</j>
+<e type="trans" ver="1">The loan of the station was given to Hankaku Railway on the same day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Station leased to Hankaku Railway on the same day.</e>
+<cmt>&quot;The loan of the station was given&quot;→&quot;Station leased&quot;Deleted &quot;on the same day&quot;</cmt>
+<e type="check" ver="1">Station leased to Hankaku Railway on the same day.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="66">
+<j>客貨取扱を開始。</j>
+<e type="trans" ver="1">Passenger and freight services started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger and freight services started.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Passenger and freight services started.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="67">
+<j>1907年（明治40年）8月1日 - 阪鶴鉄道が国有化。</j>
+<e type="trans" ver="1">August 1, 1907: Hankaku Railway was nationalized.</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 1, 1907: Hankaku Railway nationalized.</e>
+<cmt>Made more &apos;note style&apos; as in Japanese original</cmt>
+<e type="check" ver="1">August 1, 1907: Hankaku Railway nationalized.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="68">
+<j>1944年（昭和19年）4月1日 - 西舞鶴駅に改称。</j>
+<e type="trans" ver="1">April 1, 1944: Changed its name to Nishi-Maizuru Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1944: Name changed to Nishi-Maizuru Station.</e>
+<cmt>Made more &apos;note style&apos; as in Japanese original</cmt>
+<e type="check" ver="1">April 1, 1944: Name changed to Nishi-Maizuru Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="69">
+<j>1984年（昭和59年）1月21日 - 貨物取扱を廃止。</j>
+<e type="trans" ver="1">January 21, 1984: Freight services were discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">January 21, 1984: Freight services discontinued.</e>
+<cmt>Made more &apos;note style&apos; as in Japanese original</cmt>
+<e type="check" ver="1">January 21, 1984: Freight services discontinued.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="70">
+<j>1985年（昭和60年）3月14日 - 舞鶴港駅への貨物支線（舞鶴港線）が廃止。</j>
+<e type="trans" ver="1">March 14, 1985: The freight feeder line (Maizuruko Line) to Maizuruko Station was discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 14, 1985: Freight feeder line (Maizuruko Line) to Maizuruko Station discontinued.</e>
+<cmt>Made more &apos;note style&apos; as in Japanese original</cmt>
+<e type="check" ver="1">March 14, 1985: Freight feeder line (Maizuruko Line) to Maizuruko Station discontinued.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="71">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化によりJR西日本の駅となる。</j>
+<e type="trans" ver="1">April 1, 1987: Became a station under the control of JR West with the division and privatization of JNR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1987: Ownership changed to JR West following division and privatization of JNR.</e>
+<cmt>Made more &apos;note style&apos; as in Japanese original</cmt>
+<e type="check" ver="1">April 1, 1987: Ownership changed to JR West following division and privatization of JNR.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="72">
+<j>1999年（平成11年）9月25日 - 橋上駅舎化。</j>
+<e type="trans" ver="1">September 25, 1999: The station building was elevated to the upper floor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 25, 1999: Station building rebuilt as raised station.</e>
+<cmt>Made more &apos;note style&apos; as in Japanese originalReworded sentence</cmt>
+<e type="check" ver="1">September 25, 1999: Station building rebuilt as elevated station.</e>
+<cmt>elevated としました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="73">
+<j>隣の駅</j>
+<e type="trans" ver="1">Next stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjacent stations</e>
+<cmt>&quot;Next&quot;→&quot;Adjacent&quot;</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="74">
+<j>※西日本旅客鉄道の特急「まいづる (列車)」「タンゴディスカバリー」列車の隣の停車駅は各列車記事を、北近畿タンゴ鉄道宮津線の快速列車の隣の停車駅は北近畿タンゴ鉄道宮津線駅一覧・接続路線を参照のこと。</j>
+<e type="trans" ver="1">* Refer to the item of each train for information on next stops of Limited Express &quot;Maizuru&quot; and Limited Express &quot;Tango Discovery&quot; of JR West, and similarly, refer to the list of stations and connection lines of the KTR Miyazu Line for information on next stop of Rapid trains operated on the KTR Miyazu Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">* For information on the next stops of the JR West Limited Expresses &quot;Maizuru&quot; and &quot;Tango Discovery,&quot; refer to the article for that train; similarly, for information on the next stop of Rapid trains operated on the KTR Miyazu Line, refer to the list of stations and connection lines of the KTR Miyazu Line.</e>
+<cmt>Changed word orderMade &quot;Express&quot; plural&quot;item of each&quot;→&quot;article for that&quot;Deleted &quot;and&quot;</cmt>
+<e type="check" ver="1">* For information on the next stops of the JR West Limited Expresses &apos;Maizuru&apos; and &apos;Tango Discovery,&apos; refer to the article for that train; similarly, for information on the next stop of rapid trains operated on the KTR Miyazu Line, refer to the list of stations and connection lines of the KTR Miyazu Line.</e>
+<cmt>&quot;→ &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="75">
+<j>西日本旅客鉄道</j>
+<e type="trans" ver="1">West Japan Railway Company</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>(JR West)　を追加しました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="76">
+<j>舞鶴線</j>
+<e type="trans" ver="1">Maizuru Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maizuru Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maizuru Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="77">
+<j>真倉駅 - 西舞鶴駅 - 東舞鶴駅</j>
+<e type="trans" ver="1">Magura Station - Nishi-Maizuru Station - Higashi-Maizuru Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Magura Station - Nishi-Maizuru Station - Higashi-Maizuru Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Magura Station - Nishi-Maizuru Station - Higashi-Maizuru Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="78">
+<j>北近畿タンゴ鉄道</j>
+<e type="trans" ver="1">Kitakinki Tango Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kitakinki Tango Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kitakinki Tango Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="79">
+<j>宮津線</j>
+<e type="trans" ver="1">Miyazu Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miyazu Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyazu Line</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="80">
+<j>西舞鶴駅 - 四所駅</j>
+<e type="trans" ver="1">Nishi-Maizuru Station - Shisho Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nishi-Maizuru Station - Shisho Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nishi-Maizuru Station - Shisho Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>その他</j>
+<e type="trans" ver="1">Others</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miscellaneous</e>
+<cmt>&quot;Others&quot;→&quot;Miscellaneous&quot;</cmt>
+<e type="check" ver="1">Others</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="81">
+<j>2001年（平成13年）に、第2回近畿の駅百選に選ばれている。</j>
+<e type="trans" ver="1">It was chosen as a station for the Second Selection of 100 Famous Stations in the Kinki Region in 2001.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was included in 2001&apos;s Second Selection of 100 Famous Stations in the Kinki Region.</e>
+<cmt>&quot;chosen as a station&quot;→&quot;included&quot;</cmt>
+<e type="check" ver="1">It was included in 2001&apos;s Second Selection of 100 Famous Stations in the Kinki Region.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="82">
+<j>かつては駅弁が発売されていたが、2005年に廃止されている。</j>
+<e type="trans" ver="1">Ekiben (lunch boxes available at some stations and on some trains) used to be available until its sales was discontinued in 2005.</e>
+<cmt>駅弁はEkiben (lunch boxes available at some stations and on some trains)と解説を入れました。</cmt>
+<e type="trans" ver="2">Ekiben (lunch boxes available at some stations and on some trains) were available until 2005.</e>
+<cmt>&quot;used to be&quot;→&quot;were&quot;Deleted &quot;its sales was discontinued in&quot;</cmt>
+<e type="check" ver="1">Ekiben (lunch boxes available at some stations and on some trains) were available until 2005.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="83">
+<j>すし系の駅弁などを販売していた。</j>
+<e type="trans" ver="1">Sushi-type Ekiben was sold.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A sushi Ekiben was amongst the varieties sold.</e>
+<cmt>Reworded sentence - I think this one could be merged with the one above.</cmt>
+<e type="check" ver="1">A sushi Ekiben was amongst the varieties sold.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Mnd(id:15140), ヒロリン(id:15886), たね(id:10372), Hikichimin Jr.(id:147077), ポピュラーポプラ(id:157724), Makiharashouten(id:1021), Sat.K(id:3751), Wikipedianet(id:9608), Ikaxer(id:61759), Memeja(id:110500), エアスマップIRE(id:13873), Utsuda(id:605), ShikiH(id:181574), 樒(id:35770), ぱむ(id:24323), 継之助(id:39352), Kouchiumi(id:19253), 金山銀山銅山(id:163855), Blackbus(id:37164), R28Bot(id:177951), Chobot(id:20846), Kone(id:377), 663highland(id:18755), Hirotaro(id:1437), Apidr(id:155448), Sea of Japan(id:3230), Kkp(id:197150), 韓国と音楽を愛する男(id:59246), SElefant(id:10344), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

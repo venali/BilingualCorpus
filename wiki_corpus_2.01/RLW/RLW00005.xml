@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>JR京都線</j>
+<e type="trans" ver="1">JR Kyoto Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">JR Kyoto Line</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">JR Kyoto Line</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>JR京都線（ジェイアールきょうとせん）は、西日本旅客鉄道（JR西日本）東海道本線の京都駅～大阪駅間の愛称である。</j>
+<e type="trans" ver="1">&quot;JR Kyoto-sen&quot; (JR Kyoto Line) is the nickname for the section between Kyoto Station and Osaka Station on the Tokaido Main Line of West Japan Railway (JR West).</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;JR Kyoto-sen&quot; (JR Kyoto Line) is the nickname for the section between Kyoto Station and Osaka Station on the Tokaido Main Line of West Japan Railway (JR West).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JR Kyoto-sen (JR Kyoto Line) is the unofficial name given to the section of the Tokaido Main Line of the West Japan Railway (JR West) that runs between Kyoto Station and Osaka Station.</e>
+<cmt>The information in this sentence could easily be rearranged to read more naturally.</cmt>
+</sen>
+<sen id="2">
+<j>この愛称は1988年3月13日から使用されている。</j>
+<e type="trans" ver="1">This nickname has been used since March 13, 1988.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This nickname has been used since March 13, 1988.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This name has been used since March 13, 1988.</e>
+<cmt>nicknameを単にnameに修正しました。</cmt>
+</sen>
+<sen id="3">
+<j>ほぼ全区間阪急電鉄の阪急京都本線（京都線）と並行し、近畿日本鉄道にも近鉄京都線があって、それぞれ大阪（梅田）駅、京都駅で接続しているため、混同を避けるために愛称に「JR」と付けている。</j>
+<e type="trans" ver="1">While in almost all the section, the Hankyu Kyoto Line of Hankyu Corporation goes in parallel, Kintetsu Corporation operates a line named Kintetsu Kyoto Line, and in addition, as each of these lines connects with the JR Kyoto Line at Osaka (Umeda) Station and Kyoto Station, respectively, &quot;JR&quot; is prefixed to the nickname to avoid confusions.</e>
+<cmt>阪急電鉄：http://rail.hankyu.co.jp/en、近畿日本鉄道:HP(www.kintetsu.jp/)、京都駅でJR京都線と接続しているため→connected with JR Kyoto Line at … and Kyoto Station を加えました。</cmt>
+<e type="trans" ver="2">While in nearly all the section the Hankyu Kyoto Line of Hankyu Corporation runs in parallel, Kintetsu Corporation operates a line called the Kintetsu Kyoto Line, and in addition, since each of these lines connects with the JR Kyoto Line at Osaka (Umeda) Station and Kyoto Station, respectively, &quot;JR&quot; is prefixed to the nickname to avoid confusion.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The prefix &quot;JR&quot; had to be added to &quot;Kyoto Line&quot; in this unofficial name to prevent confusion as this line connects with the Hankyu Kyoto Line, operated by the Hankyu Corporation (nearly all of which runs in parallel with the JR Kyoto Line), at Osaka (Umeda) Station and the Kintetsu Kyoto Line, operated by the Kintetsu Corporation, at Kyoto Station.</e>
+<cmt>This sentence needed to be completely rewritten as it made no sense. This seems to have been a very chokuyaku attempt at translation with little thought given to the overall context. For example, the reader would probably assume from &quot;While in nearly all the section the Hankyu Kyoto Line of Hankyu Corporation runs in parallel,...&quot; that individual sections of the Hankyu Kyoto Line run in parallel to each other. If my understanding is correct, however, what the Japanese is actually saying is that this line runs in parallel with the JR Kyoto Line for the most part.</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>ラインカラーは青（■）であり、JR神戸線ともども同社のメインラインという位置づけから、コーポレートカラー自体がそのままラインカラーとして充てられている。</j>
+<e type="trans" ver="1">The line is color-coded in blue（■）, because together with the JR Kobe Line, it is considered as a main line of the company and therefore the corporate color itself is applied.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line is color-coded in blue（■) because, together with the JR Kobe Line, it is considered as a main line of the company and therefore the corporate color is applied.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Together with the JR Kobe Line, this line is considered to be one of the company&apos;s main lines so it is color-coded in blue, which is the company&apos;s corporate color.</e>
+<cmt>The use of commas here is fine (they are being used to indicate a non-defining relative clause), but I have rewritten the sentence to make it read more naturally.（■)を削除</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>概要</j>
+<e type="trans" ver="1">Outline</e>
+<cmt></cmt>
+<e type="trans" ver="2">Outline</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>奈良線と合わせました。</cmt>
+</tit>
+<par id="1">
+<sen id="5">
+<j>東海道新幹線・阪急京都本線に並行して淀川右岸を走り、京都～大阪間42.8kmを新快速が最短28分で結んでいる（最高速度は130km/h）。</j>
+<e type="trans" ver="1">The line runs on the right bank of the Yodo-gawa River in parallel with the Tokaido Shinkansen and the Hankyu Kyoto Line, and the Special Rapid connects the distance of 42.8km between Kyoto and Osaka in 28 minutes in the shortest time (maximum speed reaches 130km/h).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line runs on the right bank of the Yodo-gawa River in parallel with the Tokaido Shinkansen and the Hankyu Kyoto Line, and the Special Rapid connects the distance of 42.8km between Kyoto and Osaka in 28 minutes in the shortest time (at a maximum speed of 130km/h).</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The line runs on the right bank of the Yodo-gawa River in parallel with the Tokaido Shinkansen and the Hankyu Kyoto Line, and the special rapid connects the distance of 42.8 km between Kyoto and Osaka in 28 minutes in the shortest time (at a maximum speed of 130 km/h).</e>
+<cmt>special rapidとしました（小文字に）。</cmt>
+</sen>
+<sen id="6">
+<j>全区間複々線方向別複々線（外側線・内側線）である。</j>
+<e type="trans" ver="1">All the section has a quadruple track in each direction (outbound line as well as inbound line).</e>
+<cmt>外側線・内側線→定訳不明：outbound line, inbound lineとしました。英辞郎on the WEB参照。</cmt>
+<e type="trans" ver="2">The entire section has a quadruple track in each direction (outbound and inbound lines).</e>
+<cmt>CLEANER</cmt>
+<e type="check" ver="1">The entire section has a quadruple track in each direction (outer and inner lines).</e>
+<cmt>内側線→inner line　外側線→outer line</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>JR京都線の全ての駅でJスルー・ICOCA、及び東日本旅客鉄道（JR東日本）のSuica、東海旅客鉄道（JR東海）のTOICA、またスルッとKANSAIのPiTaPaが使用できる。</j>
+<e type="trans" ver="1">J-THRU/ICOCA, Suica of the East Japan Railway Company (JR East) and TOICA of the Central Japan Railway Company (JR Central), as well as, KANSAI THRU PASS, PiTaPa can be used at all of stations of JR Kyoto Line.</e>
+<cmt>Jsuru-/ICOCA→定訳不明：J-THRU ICOCA、スルッとKANSAIのPiTaPa→KANSAI THRU PASS, PiTaPa (http://www.surutto.com/main/photo/english/eng_jpnkind1.htm</cmt>
+<e type="trans" ver="2">J-THRU/ICOCA, Suica of the East Japan Railway Company (JR East) and TOICA of the Central Japan Railway Company (JR Central), as well as, KANSAI THRU PASS and PiTaPa can be used at all stations on the JR Kyoto Line.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">J-THRU/ICOCA, Suica of the East Japan Railway Company (JR East) and TOICA of the Central Japan Railway Company (JR Central), as well as PiTaPa of KANSAI THRU PASS, can be used at all stations on the JR Kyoto Line.</e>
+<cmt>「スルッとKANSAIのPiTaPa」の訳を修正</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>全線で阪和線運行管理システムが導入されている。</j>
+<e type="trans" ver="1">The Hanwa Line&apos;s train operation management system is introduced in all the line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Hanwa Line&apos;s train operation management system has been introduced throughout the line.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The Hanwa Line&apos;s train operation management system has been introduced throughout the line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>沿線風景</j>
+<e type="trans" ver="1">Scenery along the line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Scenery along the line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Scenery along the line</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="3">
+<tit>
+<j>運行形態</j>
+<e type="trans" ver="1">Train operation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Train operation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Train operation</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="9">
+<j>JR神戸線や琵琶湖線と一体的に運行されている。</j>
+<e type="trans" ver="1">It is operated in an integrated manner with the JR Kobe Line and the Biwako Line.</e>
+<cmt>JR神戸線、琵琶湖線：用語リスト＃1353参照</cmt>
+<e type="trans" ver="2">It operates integrally with the JR Kob Line and the Biwako Line.</e>
+<cmt>CLEANER</cmt>
+<e type="check" ver="1">It is operated integrally with the JR Kobe Line and the Biwako Line.</e>
+<cmt>operatesは受け身にすべき</cmt>
+</sen>
+<sen id="10">
+<j>JR神戸線・琵琶湖線に直通する新快速・快速列車・普通列車（京阪神緩行線）の各列車のほか、北陸地方・関西国際空港・山陰地方方面などへの特別急行列車も走る。</j>
+<e type="trans" ver="1">Not only the new rapid trains, rapid trains, and local trains (Keihanshin Kankosen), which are directly connected to the Kobe Line and the Biwako Line, but also the limited express trains bound for the Hokuriku District, Kansai International Airport, or the Sanin District, etc. run on the line.</e>
+<cmt>新快速・快速列車・普通列車（京阪神緩行線）：用語リスト#1353参照</cmt>
+<e type="trans" ver="2">Not only the new rapid trains, rapid trains and local trains (Keihanshin Kankosen), which are directly connected to the Kobe and Biwako lines, but also the limited express trains bound for the Hokuriku District, Kansai International Airport, or the Sanin District, etc., run on the line.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">Not only the special rapids, rapid services and local trains (Keihanshin Kankosen), which are directly connected to the JR Kobe and Biwako lines, but also the limited express trains bound for the Hokuriku District, Kansai International Airport, or the Sanin District, etc., run on the line.</e>
+<cmt>新快速の訳修正　JR神戸線のJR追加 Sanin　としました。</cmt>
+</sen>
+<sen id="11">
+<j>また、普通列車の半分近くが福知山線新三田駅まで乗り入れる。</j>
+<e type="trans" ver="1">Nearly half of the Local trains share the same track with the Fukuchiyama line to Shin-Sanda Station.</e>
+<cmt>福知山線新三田駅：用語リスト1353ではFukuchiyama Line Sanda Station (Shin無し）となっていました。</cmt>
+<e type="trans" ver="2">Nearly half of the local trains share the same track with the Fukuchiyama Line to Shin-Sanda Station.</e>
+<cmt>CAPS</cmt>
+<e type="check" ver="1">Nearly half of the local trains share the same track with the Fukuchiyama Line to Shin-Sanda Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>優等列車</j>
+<e type="trans" ver="1">Higher category trains</e>
+<cmt>優等列車→定訳不明：higher category trainとしました。 (各駅停車以上の設備やスピードを提供する列車の日本語総称のようです）。</cmt>
+<e type="trans" ver="2">Higher-category trains</e>
+<cmt>HYPHEN</cmt>
+<e type="check" ver="1">Higher-category trains</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="12">
+<j>JR化後に新大阪発着であった九州への寝台特急や、天王寺始発だった南紀方面の特急、また智頭急行開業で運行を開始した山陰への「はくと (列車)」などが新たに京都まで直通運転されるようになり、この区間の特急の列車本数は飛躍的に増えた。</j>
+<e type="trans" ver="1">After the privatization to JR, many trains as follows started going through to Kyoto Station: the limited express with sleeping berths bound for Kyushu, which was departing from and arriving at Shin Osaka, the limited express starting from Tennouji Station for Minamikishu, and the limited express &quot;Hakuto&quot;, which started the operation with the establishment of Chizu Express Co., Ltd., and in consequence, the number of the trains running in this section increased drastically.</e>
+<cmt>寝台特急→定訳不明： limited express with sleeping berths　（英辞郎　on the WEB参)</cmt>
+<e type="trans" ver="2">With the privatization to JR, many trains as follows started going through to Kyoto Station: the limited express with sleeping berths bound for Kyushu, which was departing from and arriving at Shin Osaka; the limited express starting from Tennouji Station for Minamikishu; and the Limited Express &quot;Hakuto,&quot; which started operation with the establishment of Chizu Express Co., Ltd., thus generating a dramatic increase in the number of trains running in this section.</e>
+<cmt>IMPROVEMENT</cmt>
+<e type="check" ver="1">With the privatization to JR, many trains (as follows) started going through to Kyoto Station: the overnight train service bound for Kyushu, which was departing from and arriving at Shin-Osaka; the limited express starting from Tennoji Station for Nanki; and the limited express &apos;Hakuto,&apos; bound for Sanin district, which started operation with the establishment of Chizu Express Co., Ltd., thus generating a dramatic increase in the number of trains running in this section.</e>
+<cmt>寝台特急をovernight train service （用語リスト#1353), 新大阪をShin-Osakaとしました。「山陰への」を追加しました。　Minamikishu をNankiとしました。括弧修正Sanin としました。</cmt>
+</sen>
+<sen id="13">
+<j>特に関西空港開港と同時に運転を開始したはるか (列車)は、その1年後にはすべての列車が京都まで定期列車で入るようになり、新大阪～京都は北陸方面のエル特急「雷鳥 (列車)」など他の列車と合わせ時間4本程度運転される特急街道になっている。</j>
+<e type="trans" ver="1">Especially, Airport Express &quot;Haruka&quot;, which began its operation with the inauguration of the Kansai International Airport, started an exclusive operation at regular basis in one year, and the section between Shin Osaka and Kyoto has become a &quot;limited express highway&quot;, where together with other trains such as Limited Express &quot;Raicho&quot; bound for Hokuriku District, around four (4) limited trains run every hour.</e>
+<cmt>はるか（列車）→Airport Express &quot;Haruka&quot;(用語リスト#1353)、特急街道→定訳不明：limited express highway</cmt>
+<e type="trans" ver="2">Particularly, the airport express &quot;Haruka,&quot; which began operating with the inauguration of Kansai International Airport, reached exclusive operation on a regular basis within one year, and the section between Shin Osaka and Kyoto has become a &quot;limited express highway&quot; where, together with other trains such as the limited express &quot;Raicho&quot; bound for the Hokuriku District, about four limited trains run every hour.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Particularly, the airport express &apos;Haruka,&apos; which began operating with the inauguration of Kansai International Airport, started going through to Kyoto on a regular basis within one year, and the section between Shin-Osaka and Kyoto has become a limited express highway where, together with other trains such as the limited express &apos;Raicho&apos; bound for the Hokuriku District, about four limited trains run every hour.</e>
+<cmt>新大阪をShin-Osakaとしました。「京都まで」を追加しました。括弧修正</cmt>
+</sen>
+<sen id="14">
+<j>なお、京都発着の九州への寝台特急は2008年3月15日のダイヤ改正で全廃された。</j>
+<e type="trans" ver="1">On the other hand, the limited express with sleeping berths for Kyushu, which departed from and arrived at Kyoto, was completely abolished when the timetable was revised on March 15, 2008.</e>
+<cmt>寝台特急→定訳不明：limited express with sleeping berths（英辞郎　on the WEB 参照）。</cmt>
+<e type="trans" ver="2">On the other hand, the limited express with sleeping berths for Kyushu, which departed from and arrived at Kyoto, was completely abolished when the timetable was revised on March 15, 2008.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">On the other hand, the overnight express service for Kyushu, which departed from and arrived at Kyoto, was completely abolished when the timetable was revised on March 15, 2008.</e>
+<cmt>Writing &quot;overnight express train service&quot; would be a bit long so, as it&apos;s clear from the context that we are talking about a train service, I have shortened it to &quot;overnight express service&quot;.</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="15">
+<j>なお、新大阪から大阪環状線を通りで阪和線に入る下りの特急「はるか」や「くろしお (列車)」は、茨木駅構内（第3出発）から貨物線に入り、吹田信号場経由で新大阪に入る。</j>
+<e type="trans" ver="1">Besides, the limited express trains starting from Shin Osaka and entering to the Hanwa Line through the Osaka Trunk Line, such as Limited Express &quot;Haruka&quot; and &quot;Kuroshio&quot;, go into the freight line at the Ibaraki Station Yard and proceed to Shin Osaka Station via Suita Signal Ground.</e>
+<cmt>貨物線→定訳不明：freight line (用語リスト#1353参照）、吹田信号場→定訳不明：Suita Signal Ground,なお、吹田信号所（たとえば176,180,183行目）という表記も同じ訳にしました。</cmt>
+<e type="trans" ver="2">Moreover, the limited express trains starting from Shin Osaka and entering to the Hanwa Line through the Osaka Trunk Line, such as the limited express trains &quot;Haruka&quot; and &quot;Kuroshio,&quot; enter the freight line at the Ibaraki Station Yard and proceed to Shin Osaka Station via Suita Signal Ground.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Moreover, the outbound limited express trains starting from Shin-Osaka and entering to the Hanwa Line through the Osaka loop Line, such as the airport express &apos;Haruka&apos; and limited express &apos;Kuroshio,&apos; enter the freight line at the Ibaraki Station Yard (departure number 3) and proceed to Shin-Osaka Station via Suita signal station.</e>
+<cmt>新大阪をShin-Osakaとしました。 「第3出発」を (departure number 3)としました→定訳不明 吹田信号場　→　Suita Signal Station としました.。 下り→outbound</cmt>
+</sen>
+<sen id="16">
+<j>そのため、同区間を外側線で走る特急や新快速より若干所要時間が余計にかかり、時間帯によっては新大阪で特急列車が2本同時に進入することもある。</j>
+<e type="trans" ver="1">That is why it takes a little more time than the limited express or special rapid trains running on the outbound line of the same section, and in a certain time slot, two limited express trains proceed into the tracks at the same time at Shin Osaka Station.</e>
+<cmt>外側線→定訳不明：outbound line (英辞郎　on the WEB 参照）</cmt>
+<e type="trans" ver="2">That is why it takes a little more time than the limited express or special rapid trains running on the outbound line of the same section, and in a certain time slot two limited express trains proceed onto the tracks at the same time at Shin Osaka Station.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">That is why it takes a little more time than the limited express or special rapids running on the outer line of the same section, and in a certain time slot two limited express trains proceed onto the tracks at the same time at Shin-Osaka Station.</e>
+<cmt>新大阪をShin-Osakaとしました。 新快速をSpecial Rapidとしました。 外側線→outer line</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="17">
+<j>京都～大阪のほぼ全線にわたり線形は極めてよく、外側線は一部の曲線区間を除いて130km/h運転が可能である。</j>
+<e type="trans" ver="1">In almost all the section between Kyoto and Osaka, the line has an extremely good lineation which permits the train run at 130km/h in the outbound line except some sections with curves.</e>
+<cmt>線形→定訳不明：lineation、外側線→定訳不明：outbound line (英辞郎　on the WEB 参照）</cmt>
+<e type="trans" ver="2">Over nearly the entire section between Kyoto and Osaka, the line has extremely good lineation that permits the train to run at 130km/h in the outbound line, except for some curved sections.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Over nearly the entire section between Kyoto and Osaka, the line has extremely good lineation that permits the train to run at 130 km/h in the outer line, except for some curved sections.</e>
+<cmt>外側線→outer line</cmt>
+</sen>
+<sen id="18">
+<j>内側線も120km/h対応しているが、優等列車が内側を走ることはない（回送や臨時列車にはある）。</j>
+<e type="trans" ver="1">The inbound line also permit the trains run at 120km/h, but higher category trains don&apos;t use the inner side (except deadheadｓ or special trains).</e>
+<cmt>内側線→定訳不明：inbound line (英辞郎 on the WEB参照）、優等列車→定訳不明：higher category train (各駅停車local trainに対応させて）としました、回送車→deadhead（小学館プログレッシブ）、臨時列車→ special trains（小学館プログレッシブ）</cmt>
+<e type="trans" ver="2">The inbound line also permits the trains to run at 120km/h, but higher-category trains don&apos;t use the inner side (except deadheads or special trains).</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">The inner line also permits the trains to run at 120 km/h, but higher-category trains don&apos;t use the inner line (except deadheads or special trains).</e>
+<cmt>inner side→ inner line</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="19">
+<j>この区間を走行する優等列車は以下の通り。</j>
+<e type="trans" ver="1">The followings are the higher category trains running in the section.</e>
+<cmt>優等列車→定訳不明：higher categoryl train (各駅停車local trainに対応させて）としました。</cmt>
+<e type="trans" ver="2">The following are the higher-category trains running on the section.</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">The following are the higher-category trains that run on this section of the line.</e>
+<cmt>Regardless of whether &quot;following&quot; is followed by a singular verb or a plural verb, it never becomes &quot;followings&quot;. This would be grammatically incorrect.</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="20">
+<j>寝台特急「富士 (列車)」「はやぶさ (列車)」（東京～大分・熊本）</j>
+<e type="trans" ver="1">―　Limited Express with Sleeping Berths &quot;Fuji&quot;, &quot;Hayabusa&quot; (between Tokyo and Oita/Kumamoto)</e>
+<cmt>寝台特急「XX」→Limited Express with Sleeping Berths &quot;--&quot;(英辞郎 on the WEB）</cmt>
+<e type="trans" ver="2">―　The limited express trains with sleeping berths &quot;Fuji&quot; and &quot;Hayabusa&quot; (between Tokyo and Oita/Kumamoto)</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">―　The overnight train services &apos;Fuji,&apos; &apos;Hayabusa&apos; (between Tokyo and Oita/Kumamoto)</e>
+<cmt>寝台特急の訳を修正しました。括弧修正</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="21">
+<j>寝台特急「瀬戸 (列車)」「出雲 (列車)」（東京～高松・出雲市）</j>
+<e type="trans" ver="1">―　Limited Express with Sleeping Berths &quot;(Sunrise) Seto&quot;, &quot;(Sunrise) Izumo&quot; (between Tokyo and Takamatsu/Izumo)</e>
+<cmt>寝台特急「XX」→Limited Express with Sleeping Berths &quot;--&quot;(英辞郎 on the WEB）</cmt>
+<e type="trans" ver="2">―　The limited express trains with sleeping berths &quot;(Sunrise) Seto&quot; and &quot;(Sunrise) Izumo&quot; (between Tokyo and Takamatsu/Izumo)</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">―　The overnight train services &apos;(Sunrise) Seto,&apos; &apos;(Sunrise) Izumo&apos; (between Tokyo and Takamatsu/Izumo City)</e>
+<cmt>寝台特急の訳を修正しました。括弧修正</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="22">
+<j>寝台特急「日本海 (列車)」（青森～大阪）</j>
+<e type="trans" ver="1">―　Limited Express with Sleeping Berths &quot;Nihonkai&quot; (between Aomori and Osaka)</e>
+<cmt>寝台特急「XX」→Limited Express with Sleeping Berths &quot;--&quot;(英辞郎 on the WEB）</cmt>
+<e type="trans" ver="2">―　The limited express trains with sleeping berths &quot;Nihonkai&quot; (between Aomori and Osaka)</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">―　The overnight train service &apos;Nihonkai&apos; (between Aomori and Osaka)</e>
+<cmt>寝台特急の訳を修正しました。括弧修正</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="23">
+<j>寝台特急「トワイライトエクスプレス」（札幌～大阪）</j>
+<e type="trans" ver="1">―　Limited Express with Sleeping Berths &quot;Twilight Express&quot; (between Sapporo and Osaka)</e>
+<cmt>寝台特急「XX」→Limited Express with Sleeping Berths &quot;--&quot;(英辞郎 on the WEB）</cmt>
+<e type="trans" ver="2">―　The limited express train with sleeping berth &quot;Twilight Express&quot; (between Sapporo and Osaka)</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">―　The overnight train service &apos;Twilight Express&apos; (between Sapporo and Osaka)</e>
+<cmt>寝台特急の訳を修正しました。括弧修正</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="24">
+<j>急行「きたぐに (列車)」（新潟～大阪）</j>
+<e type="trans" ver="1">―　Express &quot;Kitaguni&quot; (between Niigata and Osaka)</e>
+<cmt>用語リスト＃１３５３参照</cmt>
+<e type="trans" ver="2">―　The express &quot;Kitaguni&quot; (between Niigata and Osaka)</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">―　The express &apos;Kitaguni&apos; (between Niigata and Osaka)</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="25">
+<j>特急「雷鳥 (列車)」（金沢～大阪）</j>
+<e type="trans" ver="1">― Limited Express &quot;Raichoi&quot; (between Kanazawa and Osaka)</e>
+<cmt>用語リスト＃１３５３参照</cmt>
+<e type="trans" ver="2">― The limited express &quot;Raichoi&quot; (between Kanazawa and Osaka)</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">― The limited express &apos;Raicho&apos; (between Kanazawa and Osaka)</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="26">
+<j>特急「雷鳥 (列車)」（魚津・富山・和倉温泉～大阪）</j>
+<e type="trans" ver="1">―　Limited Express &quot;Raicho&quot; (between Uozu/Toyama/Wakuraonsen and Osaka)</e>
+<cmt>用語リスト＃１３５３参照</cmt>
+<e type="trans" ver="2">―　The limited express &quot;Raicho&quot; (between Uozu/Toyama/Wakuraonsen and Osaka)</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">―　The limited express &apos;Raicho&apos; (between Uozu/Toyama/Wakuraonsen and Osaka)</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="27">
+<j>特急「びわこエクスプレス」（米原～大阪）</j>
+<e type="trans" ver="1">―　Limited Express &quot;Biwako Express&quot; (Maibara and Osaka)</e>
+<cmt>用語リスト＃１３５３参照</cmt>
+<e type="trans" ver="2">―　The limited express &quot;Biwako Express&quot; (Maibara and Osaka)</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">―　The limited express &apos;Biwako Express&apos; (Maibara and Osaka)</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="28">
+<j>特急「はるか (列車)」（米原・草津～関西空港）</j>
+<e type="trans" ver="1">―　Limited Express &quot;Haruka&quot; (between Maibara/Kusatsu and Kansai International Airport)</e>
+<cmt>用語リスト＃１３５３参照、関西空港→Kansai International Airportとしました。</cmt>
+<e type="trans" ver="2">―　The limited express &quot;Haruka&quot; (between Maibara/Kusatsu and Kansai International Airport)</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">―　The airport express &apos;Haruka&apos; (between Maibara/Kusatsu and Kansai International Airport)</e>
+<cmt>”はるか”の訳を修正しました。括弧修正</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="29">
+<j>特急「しなの (列車)」（長野～大阪）</j>
+<e type="trans" ver="1">―　Limited Express &quot;Shinano&quot; (between Nagano and Osaka)</e>
+<cmt>用語リスト＃１３５３参照</cmt>
+<e type="trans" ver="2">―　The limited express &quot;Shinano&quot; (between Nagano and Osaka)</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">―　The limited express &apos;Shinano&apos; (between Nagano and Osaka)</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="30">
+<j>特急「ひだ (列車)」（高山～大阪）</j>
+<e type="trans" ver="1">―　Limited Express &quot;Hida&quot; (between Takayama and Osaka)</e>
+<cmt>用語リスト＃１３５３参照</cmt>
+<e type="trans" ver="2">―　The limited express &quot;Hida&quot; (between Takayama and Osaka)</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">―　The limited express &apos;Hida&apos; (between Takayama and Osaka)</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="31">
+<j>特急「くろしお (列車)」（京都～新宮）</j>
+<e type="trans" ver="1">―　Limited Express &quot;Kuroshio&quot; (between Kyoto and Shingu)</e>
+<cmt>用語リスト＃１３５３参照、以下3行原文重複</cmt>
+<e type="trans" ver="2">―　The limited express &quot;Kuroshio&quot; (between Kyoto and Shingu)</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">―　The limited express &apos;Kuroshio&apos; (between Kyoto and Shingu)</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="32">
+<j>特急「くろしお (列車)」（京都～新宮）</j>
+<e type="trans" ver="1">―　Limited Express &quot;Kuroshio&quot; (between Kyoto and Shingu)</e>
+<cmt>同上</cmt>
+<e type="trans" ver="2">―　The limited express &quot;Kuroshio&quot; (between Kyoto and Shingu)</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">―　The limited express &apos;Kuroshio&apos; (between Kyoto and Shingu)</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="33">
+<j>特急「くろしお (列車)」（京都～新宮）</j>
+<e type="trans" ver="1">―　Limited Express &quot;Kuroshio&quot; (between Kyoto and Shingu)</e>
+<cmt>同上</cmt>
+<e type="trans" ver="2">―　The limited express &quot;Kuroshio&quot; (between Kyoto and Shingu)</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">―　The limited express &apos;Kuroshio&apos; (between Kyoto and Shingu)</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="34">
+<j>特急「はくと (列車)」（京都～鳥取・倉吉）</j>
+<e type="trans" ver="1">―　Limited Express &quot;Hakuto&quot; (between Kyoto and Tottori/Kurayoshi)</e>
+<cmt>用語リスト＃１３５３参照</cmt>
+<e type="trans" ver="2">―　The limited express &quot;Hakuto&quot; (between Kyoto and Tottori/Kurayoshi)</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">―　The limited express &apos;Hakuto&apos; (between Kyoto and Tottori/Kurayoshi)</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="35">
+<j>このほか、向日町（京都総合運転所）への入出庫の関係で、「はまかぜ (列車)」や「たんば (列車)」・「北近畿 (列車)」などの回送列車がこの区間を走っている。</j>
+<e type="trans" ver="1">In addition, Limited Express &quot;Hamakaze&quot;, Limited Express &quot;Tanba&quot;, and Limited Express &quot;Kita Kinki&quot; use this spur track for entering and going out of the depot when they are deadheaded to Mukomachi Station (Kyoto General Operation Station).</e>
+<cmt>京都総合運転所→定訳不明：Kyoto General Operation Station、　車庫→depot (小学館プログレッシブ）</cmt>
+<e type="trans" ver="2">In addition, the &quot;Hamakaze,&quot; &quot;Tanba&quot; and &quot;Kita Kinki&quot; limited express trains use this spur track to enter and leave the depot when they are deadheaded to Mukomachi Station (Kyoto General Operation Station).</e>
+<cmt>CLEANER</cmt>
+<e type="check" ver="1">In addition, the &apos;Hamakaze,&apos; &apos;Tanba&apos; and &apos;Kitakinki&apos; limited express trains use this spur track to enter and leave the depot when they&apos;re deadheaded to Mukomachi Station (Kyoto General Operation Station).</e>
+<cmt>「北近畿」の訳を修正しました。括弧修正Tanba　としました。</cmt>
+</sen>
+<sen id="36">
+<j>また、「サンダーバード」・「雷鳥」・「きたぐに」の向日町～大阪間の回送列車は北方貨物線を経由する。</j>
+<e type="trans" ver="1">On the other hand, Limited Express &quot;Thunderbird&quot;, &quot;Raicho&quot;, and &quot;Kitaguni&quot; proceed via the Hoppo Freight Line, when they are deadheaded in the section between Mukomachi Station and Osaka Station.</e>
+<cmt>北方貨物船→用語リスト#1353定訳不明：Hoppo Freight Line（用語リスト#1353参照）</cmt>
+<e type="trans" ver="2">On the other hand, the &quot;Thunderbird,&quot; &quot;Raicho&quot; and &quot;Kitaguni&quot; limited express trains proceed via the Hoppo Freight Line when they are deadheaded in the section between Mukomachi Station and Osaka Station.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">On the other hand, the &apos;Thunderbird,&apos; &apos;Raicho&apos; and &apos;Kitaguni&apos; limited express trains proceed via the Hoppo Freight Line when they&apos;re deadheaded in the section between Mukomachi Station and Osaka Station.</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="37">
+<j>下り大阪止め列車を京都総合運転所へ入庫させるときは大阪駅を下り方面に進み、塚本駅通過後、北方貨物線に西側から入り、そのままJR京都線（外側線）に合流する（出庫のときはこの逆ルート）。</j>
+<e type="trans" ver="1">When the down-train that ends at Osaka Station is deadheaded to the depot of the Kyoto General Operation Station, it goes downward from Osaka Station, and after passing Tsukamoto Station, enters the Hoppo Freight Line from the west side in order to directly join the JR Kyoto Line (outbound line). (To start from the depot, the train turns back the same route.)</e>
+<cmt>下り列車→down train （小学館プ）、外側線→定訳不明：outbound line、</cmt>
+<e type="trans" ver="2">When the down train that ends at Osaka Station is deadheaded to the depot of Kyoto General Operation Station, it goes downward from Osaka Station, and after passing Tsukamoto Station it enters the Hoppo Freight Line from the west side in order to directly join the JR Kyoto Line (outbound line) (and to start from the depot, the train turns back on the same route).</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">When the outbound train that ends at Osaka Station is deadheaded to the depot of Kyoto General Operation Station, it goes outbound from Osaka Station, and after passing Tsukamoto Station it enters the Hoppo Freight Line from the west side in order to directly join the JR Kyoto Line (outer line) (and to start from the depot, the train turns back on the same route).</e>
+<cmt>下り→outbound 外側線→outer line</cmt>
+</sen>
+<sen id="38">
+<j>そのため、入出庫で走っている場合は編成の前後が逆転している。</j>
+<e type="trans" ver="1">Therefore, when the train goes in or out of the depot, the unit of the cars becomes inverted.</e>
+<cmt>編成→unit（英辞郎 on the WEB）</cmt>
+<e type="trans" ver="2">Therefore, when the train enters or leaves the depot, the unit of cars becomes inverted.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Therefore, when the train enters or leaves the depot, the unit of cars becomes inverted.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>新快速</j>
+<e type="trans" ver="1">Special rapid</e>
+<cmt>www.rokko1go.jpn.org/main/photo/english/eng.jpnkind1.htm</cmt>
+<e type="trans" ver="2">Special rapid</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Special Rapid Service</e>
+<cmt>Special Rapid Serviceとしました。[→http://www37.tok2.com/home/aerith/jrw_maku.html]</cmt>
+</tit>
+<par id="1">
+<sen id="39">
+<j>新快速はJR神戸線姫路・山陽本線網干・上郡・赤穂線播州赤穂方面からJR京都線を経て琵琶湖線長浜・北陸本線近江塩津駅・敦賀まで直通運転している。</j>
+<e type="trans" ver="1">The special rapid trains proceeding from the direction of Himeji Station on the JR Kobe Line or Aboshi /Kamigori /Ako Stations on the San&apos;yo Main Line go through to Nagahama Station on the Biwako Line or Omi-Shiotsu /Tsuruga Stations on the Hokuriku Main Line, passing through the JR Kyoto Line.</e>
+<cmt>Hokuriku (Main) Line→Hokuriku Main Line：http://photoguide.jp/txt/Hokuriku_Main_Line</cmt>
+<e type="trans" ver="2">The special rapid trains proceeding from the direction of Himeji Station on the JR Kobe Line or Aboshi /Kamigori /Ako Stations on the San&apos;yo Main Line go through to Nagahama Station on the Biwako Line or Omi-Shiotsu /Tsuruga Stations on the Hokuriku Main Line, passing through the JR Kyoto Line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The special rapid service proceeding from the direction of Himeji Station on the JR Kobe Line or Aboshi /Kamigori /Ako stations on the Sanyo Main Line goes through to Nagahama Station on the Biwako Line or Omi-Shiotsu /Tsuruga stations on the Hokuriku Main Line, passing through the JR Kyoto Line.</e>
+<cmt>新快速をSpecial Rapidとしました。</cmt>
+</sen>
+<sen id="40">
+<j>日中から夜にかけては15分おきの運転で、京都方は日中うち1本が湖西線へ、残り3本は琵琶湖線直通。</j>
+<e type="trans" ver="1">From the daytime to the nighttime, the train runs every 15 minutes, and out of the trains bound for Kyoto Station, one goes through to the Kosei Line and the other three go through to the Biwako Line during the daytime.</e>
+<cmt>タイプミス：京都方→京都方面</cmt>
+<e type="trans" ver="2">From the daytime to the nighttime, the train runs every 15 minutes, and out of the trains bound for Kyoto Station one goes through to the Kosei Line while the other three go through to the Biwako Line during the daytime.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">From the daytime to the nighttime, the train runs every 15 minutes, and out of the trains bound for Kyoto Station one goes through to the Kosei Line while the other three go through to the Biwako Line during the daytime.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>夜間は4本とも琵琶湖線へ直通する。</j>
+<e type="trans" ver="1">During nighttime, all the four trains go through to the Biwako Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the nighttime, all four trains go through to the Biwako Line.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">During the nighttime, all four trains go through to the Biwako Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="42">
+<j>全列車JR西日本223系電車1000番台及びJR西日本223系電車2000番台電車使用で、8両または12両編成で運転。</j>
+<e type="trans" ver="1">All trains use the cars of JR West Suburban Trains Series 223, model No.1000s or JR West Suburban Trains Series 223, model No. 2000s, and they are operated with a unit of 8 or 12 cars.</e>
+<cmt>JR西日本223系→JR (West) Suburban Trains Series 223（http://www.uraken.net/rail/alltrain/uratetsu223.html）</cmt>
+<e type="trans" ver="2">All trains use the cars of the JR West Suburban Train Series 223, model No. 1000s or the JR West Suburban Train Series 223, model No. 2000s, and they are operated in units of eight or 12 cars.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">All trains use the cars of the JR (West) Suburban Train Series 223, model No. 1000s or the JR (West) Suburban Train Series 223, model No. 2000s, and they&apos;re operated in units of eight or 12 cars.</e>
+<cmt>JR West →JR (West)</cmt>
+</sen>
+<sen id="43">
+<j>朝のラッシュ時は12両編成になっている。</j>
+<e type="trans" ver="1">The trains are composed of 12 cars during the morning rush hour.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The trains consist of 12 cars during the morning rush hour.</e>
+<cmt>USAGE</cmt>
+<e type="check" ver="1">The trains consist of 12 cars during the morning rush hour.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>京都～新大阪間は外側線、新大阪～大阪間は内側線を走る（朝ラッシュに新大阪～大阪間外側線走行のものもある）。</j>
+<e type="trans" ver="1">Between Kyoto and Shin Osaka, the trains run on the outbound line, and between Shin Osaka and Osaka the trains run on the inbound line (some trains run on the outbound line in the morning rush hour).</e>
+<cmt>内側線→定訳不明：inbound line、外側線→定訳不明：outbound line (英辞郎 on the WEB参照）</cmt>
+<e type="trans" ver="2">Between Kyoto and Shin Osaka the trains run on the outbound line, and between Shin Osaka and Osaka the trains run on the inbound line (but some trains run on the outbound line during the morning rush hour).</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Between Kyoto and Shin-Osaka the trains run on the outer line, and between Shin-Osaka and Osaka the trains run on the inner line (but some trains run on the outer line during the morning rush hour).</e>
+<cmt>新大阪をShin-Osakaとしました。 内側線→inner line外側線→outer line</cmt>
+</sen>
+<sen id="45">
+<j>早朝・深夜以外は大阪～京都間で最先着列車となる。</j>
+<e type="trans" ver="1">Except early in the morning and late at night, the special rapid arrives first in the section between Osaka Station and Kyoto Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Except for early in the morning and late at night, the special rapid arrives first in the section between Osaka Station and Kyoto Station.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Except for early in the morning and late at night, the special rapid service arrives first in the section between Osaka Station and Kyoto Station.</e>
+<cmt>新快速をSpecial Rapidとしました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="46">
+<j>運転開始の経過、使用車両の変遷等は新快速の項を参照されたい。</j>
+<e type="trans" ver="1">For the details of the initial stage of the operation and the transition of the rolling stock used, please refer to the section of &quot;Special rapid&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For the details of the initial stage of the operation and the transition of the rolling stock used, please refer to the &quot;Special Rapid&quot; section.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">For the details of the initial stage of the operation and the transition of the rolling stock used, please refer to the &quot;Special Rapid Service&quot; section.</e>
+<cmt>新快速をSpecial Rapidとしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>快速</j>
+<e type="trans" ver="1">Rapid</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rapid Service</e>
+<cmt>快速をRapid Serviceで統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="47">
+<j>快速電車は京都を越え琵琶湖線へ直通し、一方大阪では朝の一部を除きJR神戸線へと直通している。</j>
+<e type="trans" ver="1">The rapid trains go through to the Biwako Line after passing Kyoto, while from Osaka they go through to the JR Kobe Line except for certain hours in the morning.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The rapid trains go through to the Biwako Line after passing Kyoto, while from Osaka they go through to the JR Kobe Line except for certain hours of the morning.</e>
+<cmt>PREPOSITION</cmt>
+<e type="check" ver="1">The rapid service trains go through to the Biwako Line after passing Kyoto, while from Osaka they go through to the JR Kobe Line except for certain hours of the morning.</e>
+<cmt>快速をRapid Serviceで統一しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="48">
+<j>車両はJR西日本221系電車・223系1000番台・2000番台・JR西日本223系電車6000番台 （網干車）（網干総合車両所所属）電車の6・8・10・12両編成が使用される。</j>
+<e type="trans" ver="1">JR West Suburban Trains Series 221/223, model No. 1000s/2000s, or JR West Suburban Trains Series 223, model No. 6000s (Aboshi Trains: belonging to the Aboshi General Rolling Stock Station) are used with a unit of 6, 8, 10, or 12 cars.</e>
+<cmt>（網干車）（網干総合車両所所属）→定訳不明：(trains of Aboshi) (Belonging to the Aboshi General Rolling Stock Station)</cmt>
+<e type="trans" ver="2">JR West Suburban Trains Series 221/223, model No. 1000s/2000s, or JR West Suburban Trains Series 223, model No. 6000s (Aboshi belong to the Aboshi General Rolling Stock Station) are used in units of 6, 8, 10 or 12 cars.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">JR (West) Suburban Train Series 221/223, model No. 1000s/2000s, or JR (West) Suburban Train Series 223, model No. 6000s (Aboshi Trains belong to the Aboshi General Rolling Stock Station) are used in units of six, eight, ten or 12 cars.</e>
+<cmt>Aboshi →Aboshi Trains JR West →JR (West)</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="49">
+<j>内側線を走行し、最高速度は120km/h。</j>
+<e type="trans" ver="1">The trains run on the inbound line at the maximum speed of 120km/h.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The trains run on the inbound line at a maximum speed of 120km/h.</e>
+<cmt>ARTICLE</cmt>
+<e type="check" ver="1">The trains run on the inner line at a maximum speed of 120 km/h.</e>
+<cmt>内側線→inner line</cmt>
+</sen>
+<sen id="50">
+<j>早朝・朝ラッシュ時に大阪→高槻、京都→大阪で外側線を走る列車もあり、223系使用のものは130km/hを出すものもある。</j>
+<e type="trans" ver="1">Early in the morning and during the morning rush, some trains run on the outbound line from Osaka to Takatsuki and Kyoto to Osaka, and among them, some trains using the Train Series 223 accelerate to 130km/h.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Early in the morning and during the morning rush, some trains run on the outbound line from Osaka to Takatsuki and from Kyoto to Osaka, and among them some trains using the Train Series 223 accelerate to 130km/h.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">Early in the morning and during the morning rush, some trains run on the outer line from Osaka to Takatsuki and from Kyoto to Osaka, and among them some trains using the Train Series 223 accelerate to 130 km/h.</e>
+<cmt>外側線→outer line</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="51">
+<j>早朝・朝ラッシュ時、深夜以外は山崎駅 (京都府)付近で新快速に追い抜かれる。</j>
+<e type="trans" ver="1">Except for early in the morning, during the morning rush and late at night, the rapid is overtaken by the special rapid in the vicinity of Yamazaki Station (Kyoto Prefecture).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Except for early in the morning, during the morning rush and late at night the rapid is overtaken by the special rapid in the vicinity of Yamazaki Station (Kyoto Prefecture).</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">Except for early in the morning, during the morning rush and late at night the rapid service is overtaken by the special rapid service in the vicinity of Yamazaki Station (Kyoto Prefecture).</e>
+<cmt>快速をRapid Serviceで統一しました。</cmt>
+</sen>
+<sen id="52">
+<j>また高槻駅では折り返しの普通電車と相互接続を行う。</j>
+<e type="trans" ver="1">It also connects with local shuttle trains at Takatsuki Station.</e>
+<cmt>折り返しの普通電車→定訳不明：local shuttle train (小学館プログレッシブ参照）</cmt>
+<e type="trans" ver="2">It also connects with local shuttle trains at Takatsuki Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It also connects with local shuttle trains at Takatsuki Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="53">
+<j>乗務員などには列車番号の末尾を取って「T電」と呼ばれている。</j>
+<e type="trans" ver="1">The crew named it &quot;T-den (T-train), after the final letter of the train code number.</e>
+<cmt>「T電」→定訳不明：T-den (T-train)としました。</cmt>
+<e type="trans" ver="2">The crew named it &quot;T-den (T-train), after the final letter of the train code number.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The crew named it &apos;T-den (T-train)&apos;, after the final letter of the train code number.</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="54">
+<j>ルーツは関西急電と呼ばれる京阪神間の急行電車。</j>
+<e type="trans" ver="1">Its roots are traced to the express train called &quot;Kansai Kyuden&quot;, which was running between Kyoto, Osaka and Kobe.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its roots are traced to the express train called &quot;Kansai Kyuden,&quot; which ran between Kyoto, Osaka and Kobe.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">Its roots are traced to the express train called Kansai Kyuden, which ran between Kyoto, Osaka and Kobe.</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="55">
+<j>1937（昭和12）年の京都～吹田間の電化により大阪～神戸間の急行電車が京都へ延長されたのが始まりである。</j>
+<e type="trans" ver="1">The operation started in 1937, when the express train between Osaka and Kobe extended its service to Kyoto, thanks to the electrifation of the railroad between Kyoto and Suita.</e>
+<cmt>電化→electrification (小学館プ・英辞郎WEB)</cmt>
+<e type="trans" ver="2">Operation started in 1937, when the express train between Osaka and Kobe extended its service to Kyoto thanks to the electrifation of the railroad between Kyoto and Suita.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">Operation started in 1937, when the express train between Osaka and Kobe extended its service to Kyoto thanks to the electrification of the railroad between Kyoto and Suita.</e>
+<cmt>electrification スペル</cmt>
+</sen>
+<sen id="56">
+<j>戦中一時運転を休止したが、戦後復活。</j>
+<e type="trans" ver="1">Although the operation was temporally suspended during the war, it was restored after the war.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the operation was temporarily suspended during the war, it was subsequently restored.</e>
+<cmt>USAGE</cmt>
+<e type="check" ver="1">Although the operation was temporarily suspended during the war, it was subsequently restored.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="57">
+<j>当時は大阪京都間無停車であった。</j>
+<e type="trans" ver="1">At that time, the operation between Osaka and Kyoto was nonstop.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At that time, the operation between Osaka and Kyoto was nonstop.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">At that time, the operation between Osaka and Kyoto was nonstop.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="58">
+<j>1956年（昭和31年）、米原～京都間電化に伴い、京都以東への乗り入れを開始。</j>
+<e type="trans" ver="1">In 1956, with the electrification of the railroad between Maibara and Kyoto, the operation was extended to east of Kyoto, using the existing tracks.</e>
+<cmt>乗り入れ→ be extended to..., using the existing tracks.としました。（reference京都三条駅参照）</cmt>
+<e type="trans" ver="2">In 1956, with the electrification of the railroad between Maibara and Kyoto, the operation was extended to the east of Kyoto, using the existing tracks.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">1956: With the electrification of the railroad between Maibara and Kyoto, the operation was extended to the east of Kyoto, using the existing tracks.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="59">
+<j>1957年（昭和32年）、高槻駅の構内改良（高槻電車区開設）に伴い、高槻停車。</j>
+<e type="trans" ver="1">In 1957, with the reform of the Takatsuki Station Yard (opening of Takatsuki railway section), the trains began making a stop at Takatsuki Station.</e>
+<cmt>高槻駅の構内改良（高槻電車区開設）→定訳不明：reform of the Takatsuki Station yard (opening of Takatsuki railway section) としました。</cmt>
+<e type="trans" ver="2">In 1957, with the reform of Takatsuki Station Yard (opening of Takatsuki railway section), the trains began making stops at Takatsuki Station.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">1957: With the reform of Takatsuki Station Yard (opening of Takatsuki railway section), the trains began making stops at Takatsuki Station.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="60">
+<j>1961年（昭和36年）、二等車（→のちのグリーン車）を連結。</j>
+<e type="trans" ver="1">In 1961, the then second-class cars (current first-class cars) were connected to the unit.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1961, the then second-class cars (currently first-class cars) were connected to the unit.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">1961: The then second-class cars (currently first-class cars) were connected to the unit.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="61">
+<j>1964年（昭和39年）10月、新幹線開業に伴う新大阪駅開業により、新大阪停車。</j>
+<e type="trans" ver="1">In October, 1964, with the inauguration of the Shinkansen, Shin Osaka Station started the operation, and the trains began making a stop at Shin Osaka Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In October 1964, with the inauguration of the Shinkansen, Shin Osaka Station went into operation and the trains began making stops at Shin Osaka Station.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">October 1964: With the inauguration of the Shinkansen, Shin-Osaka Station went into operation and the trains began making stops at Shin-Osaka Station.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="62">
+<j>1965年（昭和40年）2月、113系配置により80系電車の置き換えを開始。</j>
+<e type="trans" ver="1">In February, 1965, with the introduction of the JNR/JR Commuter Trains Series 201, the trains of the Series 80 started to be replaced.</e>
+<cmt>113系、80系→定訳不明：NR/JR Commuter Trains Series 201, Train Series 80（用語リスト#1353のhttp://www.uraken.net/rail/alltrain/uratetsu201.html参照）</cmt>
+<e type="trans" ver="2">In February 1965, with the introduction of the JNR/JR Commuter Train Series 201, the trains of the Series 80 started being replaced.</e>
+<cmt>CLEANER</cmt>
+<e type="check" ver="1">February 1965: With the introduction of the JNR/JR Commuter Train Series 113, the trains of the Series 80 started being replaced.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+<sen id="63">
+<j>基本7両、付属4両。</j>
+<e type="trans" ver="1">Basically the train is 7 cars long, with 4 adjunctive cars (The trains are basically 7 cars long and 4 more cars can be attached).</e>
+<cmt>（）内のような意味でしょうか？付属4両→定訳不明：4 adjunctive carsとしました。</cmt>
+<e type="trans" ver="2">Basically, the train is seven cars long, with four adjunctive cars (the trains are basically seven cars long, but four more cars can be attached).</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Basically, the train is seven cars long, with four adjunctive cars (the trains are basically seven cars long, but four more cars can be attached).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="64">
+<j>1966年（昭和41年）10月、サロ110配置により二等車連結列車を113系に置き換え。</j>
+<e type="trans" ver="1">In October, 1966, with the introduction of Sa-Ro 110, the coupled second class cars were replaced with those of the Train Series 113.</e>
+<cmt>サロ110→定訳不明：Sa-Ro 110、 113系→定訳不明 ：Train Series 113としました</cmt>
+<e type="trans" ver="2">In October 1966, with the introduction of Sa-Ro 110, the coupled second-class cars were replaced with those of the Train Series 113.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">October 1966: With the introduction of Sa-Ro 110, the coupled second-class cars were replaced with those of the Train Series 113.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+<sen id="65">
+<j>高槻・宮原区車基本8両、明石区車基本7両。</j>
+<e type="trans" ver="1">Basically the train is 8 cars long in the Takatsuki and the Miyahara sections, and 7 cars long in the Akashi section.</e>
+<cmt>このような意味でしょうか？</cmt>
+<e type="trans" ver="2">Basically, the train is eight cars long in the Takatsuki and Miyahara sections, and seven cars long in the Akashi section.</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">Basically, the train is eight cars long in the Takatsuki and Miyahara sections, and seven cars long in the Akashi section.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="66">
+<j>1970年（昭和45年）3月、万博開催に伴い、開催期間内茨木駅臨時停車。</j>
+<e type="trans" ver="1">In March, 1970, because of the celebration of Osaka Expo, the trains tentatively made a stop at Ibaraki Station during the period of the exposition.</e>
+<cmt>万博→the Osaka Expo</cmt>
+<e type="trans" ver="2">In March 1970, due to the celebration of Osaka Expo, the trains tentatively made stops at Ibaraki Station during the period of the exposition.</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">March 1970: Due to the celebration of Osaka Expo, the trains tentatively made stops at Ibaraki Station during the period of the exposition.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+<sen id="67">
+<j>停車継続運動が起こり、開催終了後も常時停車となる。</j>
+<e type="trans" ver="1">A campaign arose asking for maintaining a stop at the station, and achieved the regular stop of trains even after Expo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A campaign arose asking to maintain a stop at the station, and it achieved the regular stop of trains even after the Osaka Expo.</e>
+<cmt>GRAMMAR, IMPROVEMENT</cmt>
+<e type="check" ver="1">A campaign arose asking to maintain a stop at the station, and it achieved the regular stop of trains even after the Osaka Expo.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="68">
+<j>1974年（昭和49年）7月、湖西線開業。</j>
+<e type="trans" ver="1">In July, 1974, the Kosei Line started operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In July 1974, the Kosei Line started operation.</e>
+<cmt>COMMA</cmt>
+<e type="check" ver="1">July 1974: The Kosei Line started operation.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+<sen id="69">
+<j>一部電車が湖西線に直通。</j>
+<e type="trans" ver="1">Some of the trains started to go through to the Kosei Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some of the trains started going through to the Kosei Line</e>
+<cmt>CLEANER</cmt>
+<e type="check" ver="1">Some of the trains started going through to the Kosei Line.</e>
+<cmt>ピリオド追加</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="70">
+<j>1980年（昭和55年）10月、グリーン車連結を中止。</j>
+<e type="trans" ver="1">In October, 1980, coupling the first-class cars was discontinued</e>
+<cmt></cmt>
+<e type="trans" ver="2">In October 1980, the coupling of first-class cars was discontinued.</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">October 1980: The coupling of first-class cars was discontinued.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+<sen id="71">
+<j>10月改正で正式に廃止となるが、それに先立ち8月末から時刻表上でグリーン車マークが消え、連結されていた車は普通車開放となった。</j>
+<e type="trans" ver="1">Although the rapid was officially abolished owing to the revision in October, prior to that, the mark of the first-class cars had been removed since the end of August, and the coupled fist-class cars were opened to the passengers as ordinary cars.</e>
+<cmt>連結されていた車は普通車開放となった→定訳不明：the coupled fist-class cars were opened to the passengers as ordinary carsとしました。</cmt>
+<e type="trans" ver="2">Although the rapid was officially abolished with the October revision, prior to that the mark of the first-class cars had been removed at the end of August, and the coupled first-class cars were opened to passengers as ordinary cars.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Although the first-class cars were officially abolished with the October revision, at the end of August the mark of the first-class cars had been removed from the timetable, and the coupled first-class cars were opened to passengers as ordinary cars.</e>
+<cmt>10月改正で正式に廃止となったのはグリーン車という理解し訳しました。「時刻表上で」を追加</cmt>
+</sen>
+<sen id="72">
+<j>編成から抜かれたグリーン車は東京地区へ転出。</j>
+<e type="trans" ver="1">The first-class cars uncoupled from the units were sent to the Tokyo District</e>
+<cmt></cmt>
+<e type="trans" ver="2">The first-class cars uncoupled from the units were sent to the Tokyo District.</e>
+<cmt>PERIOD</cmt>
+<e type="check" ver="1">The first-class cars uncoupled from the units were sent to the Tokyo District.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="73">
+<j>基本7両に統一。</j>
+<e type="trans" ver="1">The train was standardized to be basically 7 cars long.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The train was standardized so that it was basically seven cars long.</e>
+<cmt>NUMBER</cmt>
+<e type="check" ver="1">The train was standardized so that it was basically seven cars long.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="74">
+<j>1981年（昭和56年）10月、高槻区編成にサハ111を連結、基本8両となる。</j>
+<e type="trans" ver="1">In October, 1981, Sa-Ha 111 was coupled on to the unit used in the Takatsuki section, making the train basically 8 cars long.</e>
+<cmt>サハ111→定訳不明： Sa-Ha 111としました。</cmt>
+<e type="trans" ver="2">In October, 1981 a Sa-Ha 111 was coupled onto the unit used in the Takatsuki section, making the train basically eight cars long.</e>
+<cmt>PUNCTUATION, NUMBER</cmt>
+<e type="check" ver="1">October, 1981: A Sa-Ha 111 was coupled onto the unit used in the Takatsuki section, making the train basically eight cars long.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="75">
+<j>1984年（昭和59年）、昼間時間帯の快速は京都～高槻間を各駅停車とする。</j>
+<e type="trans" ver="1">In 1984, it was decided that the rapid trains made a stop at all stations during the daytime as local trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1984, it was decided that the rapid trains should make stops at all stations as local trains during the daytime.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">1984: It was decided that the rapid service trains should make stops at all stations as local trains during the daytime.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+<sen id="76">
+<j>その後、高槻以東で各駅に停まる快速電車は増えており、今では早朝～朝ラッシュ、および深夜に運転される一部を除き京都高槻間を各駅に停車する。</j>
+<e type="trans" ver="1">After that, the rapid trains making a stop at all stations have increased in the section from Takatsuki Station and to the east, and at present the trains make a stop at all stations between Kyoto Station and Takatsuki Station except for early in the morning, during the morning rush, and late at night.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since then, the rapid trains making stops at all stations have increased in the section from Takatsuki Station and to the east, and currently the trains make stops at all stations between Kyoto Station and Takatsuki Station except for early in the morning, during the morning rush and late at night.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Since then, the rapid service trains making stops at all stations have increased in the section from Takatsuki Station and to the east, and currently the trains make stops at all stations between Kyoto Station and Takatsuki Station except for early in the morning, during the morning rush and late at night.</e>
+<cmt>rapid service としました。</cmt>
+</sen>
+<sen id="77">
+<j>そのため、駅や車掌の案内も高槻以東は普通と表記・アナウンスされている。</j>
+<e type="trans" ver="1">Therefore, in the east of Takatsuki these trains are usually indicated and announced as local trains at stations as well as by the conductors.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Therefore, in the east of Takatsuki these trains are usually indicated and announced as local trains at stations as well as by the conductors.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Therefore, in the east of Takatsuki these trains are usually indicated and announced as local trains at stations as well as by the conductors.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="78">
+<j>1989年（平成元年）3月、221系の投入を開始。</j>
+<e type="trans" ver="1">In March, 1989, Train Series 221 was started to be introduced.</e>
+<cmt>221系→Train Series 221(http://www.uraken.net/rail/alltrain/uratetsu221.html)</cmt>
+<e type="trans" ver="2">In March 1989, the introduction of Train Series 221 began.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">March 1989: The introduction of Train Series 221 began.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="79">
+<j>1995年（平成7年）6月、京都～高槻間通過時間帯の一部の快速が神足駅（現・長岡京駅）に停車。</j>
+<e type="trans" ver="1">In June, 1996, some of the rapid trains, which were passing through between Kyoto Station and Takatsuki Station during a nonstop time slot, began making a stop at Kotari Station (current Nagaoka Station).</e>
+<cmt>通過時間帯→定訳不明：a nonstop time slotとしました。</cmt>
+<e type="trans" ver="2">In June 1996, some of the rapid trains, which were passing through between Kyoto Station and Takatsuki Station during the nonstop time slot, began making stops at Kotari Station (currently Nagaoka Station).</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">June 1995: Some of the rapid service trains, which passed through between Kyoto Station and Takatsuki Station during the nonstop time slot, began making stops at Kotari Station (currently Nagaokakyo Station).</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="80">
+<j>1995年（平成7年）9月、平日の快速が長岡京駅に終日停車。</j>
+<e type="trans" ver="1">In September, 1995, the rapid trains began making a stop at Nagaoka Station throughout the day, during weekdays.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In September 1995 the rapid trains began making stops at Nagaoka Station throughout the day, during weekdays.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">September 1995: The rapid service trains began making stops at Nagaokakyo Station throughout the day during the weekdays.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="81">
+<j>1996年（平成8年）3月、すべての快速が長岡京駅に停車。</j>
+<e type="trans" ver="1">In March, 1996, all rapid trains began making a stop at Nagaoka Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In March 1996, all rapid trains began making stops at Nagaoka Station.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">March 1996: All rapid service trains began making stops at Nagaokakyo Station.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="82">
+<j>2004年（平成16年）10月、113系の定期運用撤退。</j>
+<e type="trans" ver="1">In October, 2004, regular operation of Train Series 113 was withdrawn.</e>
+<cmt>113系→定訳不明：Train Series 113（用語リスト#1353http://www.uraken.net/rail/alltrain/uratetsu201.htmlなど参照）</cmt>
+<e type="trans" ver="2">In October 2004, the regular operation of Train Series 113 was withdrawn.</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">October 2004: The regular operation of Train Series 113 was withdrawn.</e>
+<cmt>年表表記にしました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>普通</j>
+<e type="trans" ver="1">Local train</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Local train</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="83">
+<j>1972年3月15日の新幹線岡山開業に伴うダイヤ改正で、昼間15分パターンのダイヤが生まれた。</j>
+<e type="trans" ver="1">When Shinkansen Okayama Station started the operation on March 15, 1972, the timetable was revised, and a new timetable with an 15 minutes&apos; interval pattern during the daytime was made.</e>
+<cmt>15分パターンのダイヤ→ new timetable with an 15 minutes&apos; interval　としました。</cmt>
+<e type="trans" ver="2">When Shinkansen Okayama Station started operation on March 15, 1972, the timetable was revised and a new timetable with a 15-minute daytime interval pattern was made.</e>
+<cmt>IMPROVED</cmt>
+<e type="check" ver="1">When Shinkansen Okayama Station started operation on March 15, 1972, the timetable was revised and a new timetable with a 15-minute daytime interval pattern was made.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="84">
+<j>大阪駅上りを例にすると、新快速・快速（大阪で新快速待避）・普通（甲子園口→京都）・普通（西明石→吹田）と発車する。</j>
+<e type="trans" ver="1">For example, the up trains from Osaka Station depart in the following order: Special Rapid, Rapid (letting the connecting Special Rapid pass at Osaka Station), Local Train (from Koshienguchi Station to Kyoto Station), Local Train (from Nishi-Akashi Station to Kyoto Station).</e>
+<cmt>上り→up train (小学館プ）、新快速待避→定訳不明：letting the connecting Special Rapid passとしました。</cmt>
+<e type="trans" ver="2">For example, the up trains from Osaka Station depart in the following order: Special Rapid, Rapid (letting the connecting Special Rapid pass at Osaka Station) and Local Train (from Koshienguchi Station to Kyoto Station), Local Train (from Nishi-Akashi Station to Kyoto Station).</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">For example, the inbound trains from Osaka Station depart in the following order: Special Rapid Service, Rapid Service (letting the connecting Special Rapid Service pass at Osaka Station) and Local Train (from Koshienguchi Station to Kyoto Station), Local Train (from Nishi-Akashi Station to Suita Station).</e>
+<cmt>Kyoto →Suita 上り→inbound</cmt>
+</sen>
+<sen id="85">
+<j>吹田・甲子園口発着に系統分割されたのは、普通を西明石→京都間通し運転すると当時内側線を共用していた新快速から逃げ切れなくなるためである。</j>
+<e type="trans" ver="1">The local trains were divided into two routes; departure/arrival at Suita Station and at Koshien-guchi Station, because if all the trains were to straightly run between Nishiakashi Station and Kyoto Station, they would not be able to escape from Shinkansen running on the inbound line, which was a shared lane at that time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The local trains were divided into two routes: departure/arrival at Suita Station and at Koshien-guchi Station, because if all the trains were to run straight between Nishiakashi Station and Kyoto Station they would be unable to escape from the Shinkansen running on the inbound line, which was a shared lane at that time.</e>
+<cmt>GRAMMAR,PUNCTUATION</cmt>
+<e type="check" ver="1">The local trains were divided into two routes: departure/arrival at Suita Station and at Koshienguchi Station, because if all the trains were to run straight between Nishi-Akashi Station and Kyoto Station they would be unable to escape from the special rapid running on the inner line, which was at that time a shared lane.</e>
+<cmt>Shinkansen →special rapid　内側線→inner line</cmt>
+</sen>
+<sen id="86">
+<j>結果、京都～岸辺間は15分おきに普通電車が来る形になった。</j>
+<e type="trans" ver="1">As a result, the local train was arranged to pass every 15 minutes in the section between Kyoto Station and Kishibe Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a result, the local train was arranged to pass every 15 minutes in the section between Kyoto Station and Kishibe Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As a result, the local train was arranged to pass every 15 minutes in the section between Kyoto Station and Kishibe Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="87">
+<j>1985年3月に昼間の快速が京都～高槻間各駅停車となり、昼間の運転区間は高槻以西となる。</j>
+<e type="trans" ver="1">In March, 1985, the special rapid running during the daytime began making a stop at all stations between Kyoto and Takatsuki, and therefore, during the daytime, the rapid became only available from Takatsuki Station and to the west.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In March 1985, the special rapid running during the daytime began making stops at all stations between Kyoto and Takatsuki, and therefore, during the daytime, the rapid became available only from Takatsuki Station and to the west.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">In March 1985, the rapid service running during the daytime began making stops at all stations between Kyoto and Takatsuki; consequently, during the daytime the rapid service became available only from Takatsuki Station and to the west.</e>
+<cmt>special rapid →rapid</cmt>
+</sen>
+<sen id="88">
+<j>また、普通電車への国鉄201系電車車両投入によりスピードアップが図られ、新快速を各待避駅まで逃げ切れるようになり、高槻～西明石と吹田～甲子園口の運転パターンになる。</j>
+<e type="trans" ver="1">The introduction of JNR/JR Commuter Trains Series 201achieved a speed up of the local trains and made them possible to reach one of the shunting stations to let Shinkansen pass without being caught.</e>
+<cmt>国鉄201系→JNR/JR Commuter Trains Series 201(http://www.uraken.net/rail/alltrain/uratetsu201.html参照）、待避駅→shunting station（小学館プ）</cmt>
+<e type="trans" ver="2">The introduction of the JNR/JR Commuter Trains Series 201 effectively sped up the local trains and allowed them to reach one of the shunting stations to let Shinkansen pass without being caught.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The introduction of the JNR/JR Commuter Train Series 201 effectively sped up the local trains and allowed them to reach one of the shunting stations to let special rapid service trains pass without being caught, thereby offering services between Takatsuki and Nishi-Akashi and between Suita and Koshienguchi.</e>
+<cmt>不要なスペース削除shinkansen →special rapid service高槻～神戸となり　以降の訳を追加しました。</cmt>
+</sen>
+<sen id="89">
+<j>1986年11月改正で、新快速が外側線へ移行し、高槻～西明石・高槻～神戸となり、高槻～岸辺間も15分に2本と増発された。</j>
+<e type="trans" ver="1">With the revision made in November, 1986, the track of the special ｒaped was changed to the outbound line, and not only it started running between Takatsuki and Nishi-Akashi/Takatsuki and Kobe, but also it enhanced the service between Takaktsuki and Kishibe offering two trains in every 15 minutes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With the revision made in November 1986, the track of the special ｒaped was changed to the outbound line, and not only it started running between Takatsuki and Nishi-Akashi/Takatsuki and Kobe, but also it enhanced the service between Takaktsuki and Kishibe offering two trains in every 15 minutes.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">With the revision of November 1986, the track of the special ｒapid servie was changed to run on the outer line, and not only it started running between Takatsuki and Nishi-Akashi/Takatsuki and Kobe, but also it enhanced the service between Takatsuki and Kishibe by offering two trains every 15 minutes.</e>
+<cmt>rapidに修正 Takaktsuki →Takatsuki 外側線→outer line</cmt>
+</sen>
+<sen id="90">
+<j>京都駅ビル開業の1997年9月改正で、駅ビルへの集客を見込み高槻～神戸系統を京都～高槻間延長し、京都線内の各駅とも15分に2本利用できる形が定着した。</j>
+<e type="trans" ver="1">In September, 1997, with the opening of Kyoto Station Building, the revision was made based on the possible increase of passengers, and the Takatsuki-Kobe route, which was extended to cover the section between Kyoto and Takatsuki, enabled the passengers to use two trains in 15 minutes at every station on the Kyoto Line.</e>
+<cmt>高槻～神戸系統→定訳不明：the Takatsuki-Kobe routeとしました。</cmt>
+<e type="trans" ver="2">In September 1997, with the opening of the Kyoto Station building, the revision was made based on the possible increase of passengers, and the Takatsuki-Kobe route--which was extended to cover the section between Kyoto and Takatsuki--allowed passengers to use two trains in 15 minutes at every station on the Kyoto Line.</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">In September 1997, with the opening of the Kyoto Station building, the revision was made based on the possible increase of passengers, and the Takatsuki-Kobe route--which was extended to cover the section between Kyoto and Takatsuki--allowed passengers to use two trains in 15 minutes at every station on the Kyoto Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="91">
+<j>また、高槻～西明石間の系統が高槻～JR宝塚線新三田間の運転に変更されている。</j>
+<e type="trans" ver="1">The route between Takatsuki Station and Nishi-Akashi Station was also changed to the route that connects Takatsuki Station with Shin-Sanda Station on the JR Takarazuka Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The route between Takatsuki Station and Nishi-Akashi Station was also changed to the route that connects Takatsuki Station with Shin-Sanda Station on the JR Takarazuka Line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The route between Takatsuki Station and Nishi-Akashi Station was also changed to the route that connects Takatsuki Station with Shin-Sanda Station on the JR Takarazuka Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="92">
+<j>現在は昼間のパターンが夜間まで拡大され、京都～西明石間（昼間の一部は須磨駅まで）とJR宝塚線直通の高槻～新三田間の各系統が15分おきに運転されている。</j>
+<e type="trans" ver="1">At present, the daytime pattern is applied to the night operation and a train runs every 15 minutes on the route between Kyoto and Nishi-Akashi (during the daytime some trains only go as far as Suma Station) as well as the route between Takatsuki and Shin-Sanda which connects directly with theJR Takarazuka Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Currently, the daytime pattern is applied to nighttime operation and a train runs every 15 minutes on the route between Kyoto and Nishi-Akashi (during the daytime some trains go only as far as Suma Station) as well as the route between Takatsuki and Shin-Sanda, which connects directly with the JR Takarazuka Line.</e>
+<cmt>GRAMMAR, SPACING</cmt>
+<e type="check" ver="1">Currently, the daytime pattern is applied to nighttime operation and a train runs every 15 minutes on the route between Kyoto and Nishi-Akashi (during the daytime some trains go only as far as Suma Station) as well as the route between Takatsuki and Shin-Sanda, which connects directly with the JR Takarazuka Line.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="93">
+<j>朝・深夜には琵琶湖線野洲や湖西線堅田・近江舞子、JR神戸線加古川にも直通する電車がある。</j>
+<e type="trans" ver="1">Early in the morning and late at night, there are trains going through to Yasu Station on the Biwako Line, Katata Station/Momi-Maiko Station on the Kasei Line, or Kakogawa Station on the JR Kobe Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Early in the morning and late at night, there are trains going through to Yasu Station on the Biwako Line, Katata Station/Momi-Maiko Station on the Kasei Line, or Kakogawa Station on the JR Kobe Line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Early in the morning and late at night, there are trains going through to Yasu Station on the Biwako Line, Katata Station/Omi-Maiko Station on the Kosei Line, or to Kakogawa Station on the JR Kobe Line.</e>
+<cmt>近江舞子、湖西のスペル修正しました。</cmt>
+</sen>
+<sen id="94">
+<j>内側線を走行する。</j>
+<e type="trans" ver="1">They run on the inbound line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">They run on the inbound line.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">They run on the inner line.</e>
+<cmt>内側線→inner line</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="95">
+<j>車両は網干総合車両所明石品質管理センター所属のJR西日本207系電車・JR西日本321系電車が7両編成で運用されている。</j>
+<e type="trans" ver="1">As for the type of trains, JR (West) Commuter Trains Series 207 and JR (West) Commuter Trains Series 321, belonging to the Quality Control Center of Aboshi General Rolling Stock Yard, are used and they are operated with 7 cars.</e>
+<cmt>JR西日本207系電車・JR西日本321系電車→前出同様、網干総合車両所明石品質管理センター→ 定訳不明：Quality Control Center of Aboshi General Rolling Stock Yard</cmt>
+<e type="trans" ver="2">As for the types of trains, JR (West) Commuter Trains Series 207 and JR (West) Commuter Trains Series 321, belonging to the Quality Control Center of Aboshi General Rolling Stock Yard, are used and operated with seven cars.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">As for the types of trains, JR (West) Commuter Train Series 207 and JR (West) Commuter Train Series 321, belonging to the Quality Control Center of Aboshi General Rolling Stock Yard, are used and operated with seven cars.</e>
+<cmt>Trains Series　→ Train Series</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="96">
+<j>列車番号末尾をC（休日ダイヤではB）として他の電車と区別している。</j>
+<e type="trans" ver="1">To distinguish the local trains from the others in the timetable, the letter &quot;C&quot; is attached to the end of the local train number (for holidays, letter &quot;B&quot; is used).</e>
+<cmt></cmt>
+<e type="trans" ver="2">To distinguish the local trains from others in the timetable, the letter &quot;C&quot; is attached to the end of the local train number (for holidays the letter &quot;B&quot; is used).</e>
+<cmt>ARTICLE</cmt>
+<e type="check" ver="1">To distinguish the local trains from others on the timetable, the letter C is attached to the end of the local train number (for holidays the letter B is used).</e>
+<cmt>括弧修正</cmt>
+</sen>
+<sen id="97">
+<j>そのため、通称「C電」と呼ばれる。</j>
+<e type="trans" ver="1">Therefore, it is commonly known as &quot;C-Den (C-train&quot;.</e>
+<cmt>「C電」→定訳不明 &quot;C-Den&quot; (C-train)&quot;</cmt>
+<e type="trans" ver="2">Therefore, it is commonly known as &quot;C-Den (C-train&quot;).</e>
+<cmt>PUNCTUATION</cmt>
+<e type="check" ver="1">Therefore, it is commonly known as &apos;C-Den (C-train).&apos;</e>
+<cmt>括弧修正</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="98">
+<j>なお、旧国鉄時代から京阪神緩行線と言われることも多い。</j>
+<e type="trans" ver="1">On the other hand, it is also often called the Keihanshin Kankosen (slow line) since the time of the former Japan National Railways.</e>
+<cmt>京阪神緩行線→定訳不明　Keihanshin Kankosen （slow line) としました。</cmt>
+<e type="trans" ver="2">On the other hand, it is also often called the Keihanshin Kankosen (slow line), just as it has since the time of the former Japan National Railways.</e>
+<cmt>INCOMPLETE</cmt>
+<e type="check" ver="1">On the other hand, it is also often called the Keihanshin Kankosen (slow line), just as it has since the time of the former Japan National Railways.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="99">
+<j>運転の変遷や使用車両等はこの項も参照のこと。</j>
+<e type="trans" ver="1">For the changes of operation and the revolution of the rolling stock, please also refer to the following section.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For the changes of operation and the rotation of rolling stock, please refer to the following section.</e>
+<cmt>GRAMMAR, USAGE</cmt>
+<e type="check" ver="1">For the changes of operation and the rotation of rolling stock, please refer to the following section.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="8">
+<tit>
+<j>貨物列車</j>
+<e type="trans" ver="1">Freight train</e>
+<cmt>貨物列車→freight train（小学館プ）</cmt>
+<e type="trans" ver="2">Freight train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Freight train</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="100">
+<j>茨木～千里丘間に分岐（現在は茨木駅構内に含まれる）があり、貨物列車はここから貨物線を吹田信号所へと向かう。</j>
+<e type="trans" ver="1">In the section between Ibaraki and Senrioka there is a junction (now it is a part of the Ibaraki Station yard), from which the freight train directs to the Suita Signal Ground using the freight line.</e>
+<cmt>貨物線→ｆreit line (用語リスト#1353参照)、吹田信号所→定訳不明：Suita Signal Ground (以下同じ）</cmt>
+<e type="trans" ver="2">In the section between Ibaraki and Senrioka there is a junction (now part of the Ibaraki Station yard), from which the freight train is directed to the Suita Signal Ground using the freight line.</e>
+<cmt>CLARITY</cmt>
+<e type="check" ver="1">In the section between Ibaraki and Senrioka there is a junction (now part of the Ibaraki Station yard), from which the freight train is directed to Suita signal station using the freight line.</e>
+<cmt>吹田信号所　→　Suita signal station (用語リスト#1226を参照）</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="101">
+<j>東海道線～山陽線の直通貨物列車は、吹田信号場～宮原操車場（1998年に宮原総合運転所に統合）～尼崎駅 (JR西日本)間の通称北方貨物線を経由し、大阪駅は通らない。</j>
+<e type="trans" ver="1">The through freight train running between the Tokai Line and the Sanyo Line goes on the line known as the &quot;Hoppo Freight Line&quot;, via Suita Signal Ground, Miyahara Switching Yard (integrated into the Miyahara General Operation Office in 1998) and JR West Amagasaki Station, and it does not pass Osaka Station.</e>
+<cmt>操車場→switching yard、総合運転所→general operation officeとしました。 (ともに、英辞郎WEB）、北方貨物線→Hoppo Freight Line （用語リスト＃1353参照）</cmt>
+<e type="trans" ver="2">The through freight train running between the Tokai Line and the Sanyo Line goes on the line known as the &quot;Hoppo Freight Line&quot; via Suita Signal Ground, Miyahara Switching Yard (which was integrated into the Miyahara General Operation Office in 1998) and JR West Amagasaki Station, but it does not pass Osaka Station.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The through freight train running between the Tokaido Line and the Sanyo Line takes the line known as the Hoppo Freight Line via Suita signal station, Miyahara Switching Yard (which was integrated into the Miyahara General Operation Office in 1998) and JR West Amagasaki Station, but it does not pass Osaka Station.</e>
+<cmt>Tokai Line →Tokaido Line　吹田信号場　→　Suita Signal Station</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="102">
+<j>桜島線安治川口への貨物列車は吹田信号場から梅田貨物駅を通り、環状線西九条駅への梅田貨物線を通る。</j>
+<e type="trans" ver="1">The freight train for Ajigawa-guchi Station on the Sakurajima Line goes through Suita Signal Ground and Umeda Freight Station, and proceed on the Umeda Freight Line that leads to Nishi-Kujo Station of the Kanjo Line (Kanjo belt line).</e>
+<cmt>梅田貨物駅、梅田貨物線→Umeda freight station, Umeda freight line (英辞郎WEB、用語リスト＃1353参照）、環状線→KanjoLine (Kanjo belt line) としました。（英辞郎WEB参照）</cmt>
+<e type="trans" ver="2">The freight train for Ajigawa-guchi Station on the Sakurajima Line goes through Suita Signal Ground and Umeda Freight Station, then proceeds on the Umeda Freight Line that leads to Nishi-Kujo Station of the Kanjo Line (Kanjo belt line).</e>
+<cmt>USAGE</cmt>
+<e type="check" ver="1">The freight train for Ajigawa-guchi Station on the Sakurajima Line goes through Suita signal station and Umeda Freight Station, then proceeds on the Umeda Freight Line that leads to Nishi-Kujo Station of the Osaka Loop Line.</e>
+<cmt>環状線は大阪環状線と訳しました。吹田信号場　→　Suita Signal Station</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="103">
+<j>なお、貨物線も旅客列車の運行に活用されている。</j>
+<e type="trans" ver="1">Besides, this freight line is also used in the operation of traveler trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, this freight line is used in the operation of traveler trains.</e>
+<cmt>GRAMMAR, PUNCTUATION</cmt>
+<e type="check" ver="1">Moreover, this freight line is used in the operation of traveler trains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="104">
+<j>京都から南紀・関西空港方面へ向かう列車は吹田信号所・梅田貨物線を経由して環状線に入るルートを取る。</j>
+<e type="trans" ver="1">The trains heading for the direction of Nanki/the Kansai （International） Airport take a route that incorporates into the Kanjo Line (Kanjo belt line) through the Suita Signal Ground and the Umeda Freight Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The trains heading for the direction of Nanki/ Kansai International Airport take a route that incorporates the Kanjo Line (Kanjo belt line) through the Suita Signal Ground and the Umeda Freight Line.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">The trains heading for the direction of Nanki/Kansai International Airport take a route that incorporates the Osaka Loop Line through Suita signal station and the Umeda Freight Line.</e>
+<cmt>環状線は大阪環状線と訳しました。 吹田信号場　→　Suita Signal Station</cmt>
+</sen>
+<sen id="105">
+<j>また、京都山陰線ホーム（30番はるかホームなど）からの下り列車は梅小路貨物駅構内を通り、通称はるかルートなどと書かれる場合もある。</j>
+<e type="trans" ver="1">And down trains that start from the platforms of Kyoto San&apos;in Line (Platform No. 30 for &quot;Haruka,&quot; etc.) go passing through the Umekoji Freight Yard, therefore this route is sometimes called &quot;Haruka (far-way) route.&quot;</e>
+<cmt>下り列車→down train （小学館プ）、はるかルート→&quot;Haruka (far-way） route&quot;としました。（&quot;特急「はるか」と「遠回り」をかけていると思われたので）</cmt>
+<e type="trans" ver="2">Additionally, down trains that start from the platforms of Kyoto San&apos;in Line (Platform No. 30 for &quot;Haruka,&quot; etc.) pass through the Umekoji Freight Yard, and consequently this route is sometimes called &quot;Haruka (far-way) route.&quot;</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">Additionally, outbound trains that start from the platforms of Kyoto Sanin Line (Platform No. 30 for Haruka, etc.) pass through the Umekoji Freight Station, and consequently this route is sometimes called the Haruka (faraway) route.</e>
+<cmt>(faraway)→#3735「京都駅」にも同じ表現が出てくるのですが、そちらと統一しました。 下り→ outbound　山陰→Sanin</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="106">
+<j>このほか、梅小路駅構内から直接山陰本線（嵯峨野線）丹波口駅間の短絡線を利用して一時期神戸・大阪から嵯峨嵐山への直通臨時列車が走ったことがあるが、誤乗が多かったことなどから定着しなかった。</j>
+<e type="trans" ver="1">At one time, a special direct ｔrain was operated to Saga-Arashiyama Station from Kobe and Osaka, making use of a bypass lane which proceeds directly to the Tanbaguchi Station section of the San&apos;in Main Line (Sagano Line) from the Umekoji Station Yard, but it has not been fixed because of some inconvenience such as many passengers happened to take the train by error.</e>
+<cmt>短絡線→定訳不明：bypass laneとしました。臨時列車→special train (小学館プ・英辞郎WEB）、直接臨時列車→定訳不明：special through trainとしました。（小学館プ・英辞郎WEB参考）</cmt>
+<e type="trans" ver="2">At one time a special direct train was operated to Saga-Arashiyama Station from Kobe and Osaka, making use of a bypass lane that proceeded directly to the Tanbaguchi Station section of the San&apos;in Main Line (Sagano Line) from the Umekoji Station Yard, but it has not been fixed due to inconveniences such as the fact that many passengers had happened to take the train by error.</e>
+<cmt>GRAMMAR</cmt>
+<e type="check" ver="1">At one time a special direct train was operated to Saga-Arashiyama Station from Kobe and Osaka, making use of a bypass lane that proceeded directly to the Tanbaguchi Station of the Sanin Main Line (Sagano Line) from the Umekoji Station Yard, but it has not been fixed due to inconveniences such as the fact that many passengers had happened to take the train by mistake.</e>
+<cmt>Tanbabashi, Sanin としました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Tosiaki(id:51926), V-TWIN POWER(id:49244), Okome(id:98), FREEZA(id:68069), Yossy-(id:44838), Penguin(id:728), Maxima m(id:28947), KARS(id:43022), Mop(id:12061), Uraios(id:72687), Mari(id:1553), わだらん(id:84854), Sunen(id:10700), Goki(id:7107), A-Taul(id:41790), Hyperactive(id:213679), Loveless(id:129239), Kone(id:377), Hirotaro(id:1437), 5816K(id:102574), シロクニ(id:64318), Alive(id:88260), ＳＴＫ(id:29099), Sushiya(id:110938), Washisama(id:9333), MASA(id:2399), Sat.K(id:3751), Kagoya(id:9458), Mover(id:7146), 鈴原みさきち(id:168059), Utsuda(id:605), Sion(id:38054), Rusk(id:9895), Legodoll(id:164966), Rislimric(id:54531), 663highland(id:18755), CC(id:4162), 三菱善次郎(id:21924), Mutumi06(id:82739), Chikara1983(id:59556), 210.(id:9838), NIKE(id:16342), Suisui(id:69), Ariesmarine(id:70919), Eguri(id:2477), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>葵上</j>
+<e type="trans" ver="1">Aoi no Ue</e>
+<cmt></cmt>
+<e type="trans" ver="2">Aoi no Ue</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Aoi no Ue</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>『葵上』（あおいのうえ）は、『源氏物語』の「葵 (源氏物語)」巻に取材した能楽作品。</j>
+<e type="trans" ver="1">&quot;Aoi no Ue&quot; is a work of Nogaku for which derived from &quot;Aoi&quot; of &quot;Genji Monogatari&quot; (The Tale of Genji)</e>
+<cmt>「葵 (源氏物語)」巻の「（源氏物語）」は日本語でも不要の語句と判断し無視しました。</cmt>
+<e type="trans" ver="2">Aoi no Ue is the work of Nogaku which derived from the &quot;Aoi&quot; of Genji Monogatari (The Tale of Genji)</e>
+<cmt>Cut quotation marks. &quot;A work&quot;-&quot;the work&quot;. Cut &quot;or&quot; and added &quot;the&quot; to &quot;Aoi&quot;.</cmt>
+<e type="check" ver="1">&quot;Aoi no Ue&quot; is a work of nogaku (the art of Noh) which is based on the chapter of &apos;Aoi&apos; (Hollyhock) in &quot;The Tale of Genji.&quot;</e>
+<cmt>（源氏物語）はリンク先の語のため、訳出しませんでした。FBに基づき修正しました。&quot;が抜けていたので加えました。</cmt>
+</sen>
+<sen id="2">
+<j>世阿弥改作か。</j>
+<e type="trans" ver="1">It seems Zeami adapted it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It seems Zeami adapted it.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It seems Zeami adapted it.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>シテは六条御息所の生霊であり、題にもなっている葵の上は一切登場せず、</j>
+<e type="trans" ver="1">Shite (main actor; protagonist) is the wraith of Rokujo no Miyasudokoro and Aoi no Ue, whose name is used as the title, does not appear on the scene, it is expressed by laying a kosode (a kimono with short sleeves worn as underclothing by the upper classes) on the stage (dashikosode 定訳不明) that she is haunted by the wraith and laid up.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Shite (main actor; protagonist) is the wraith of Rokujo no Miyasudokoro, and Aoi no Ue (whose name is used in the title), does not make an actual appearance, instead she is represented by a kosode (a kimono with short sleeves worn as underclothing by the upper classes) laid on the stage (dashikosode 定訳不明), as being haunted by the wraith has made her bedridden.</e>
+<cmt>&quot;As the title&quot;-&quot;in the title&quot;. &quot;Expressed&quot;-&quot;represented&quot;. &quot;Laying a kosode&quot;-&quot;a kosode laid&quot;. Changed last part to &quot; as being haunted by the wraith has made her bedridden&quot; to read more naturally.</cmt>
+<e type="check" ver="1">Shite (main actor; protagonist) is a wraith of Rokujo no Miyasudokoro, while Aoi no Ue, whose name is also used as a title of this play, does not appear at all.</e>
+<cmt>FBに基づき修正しました。一原文一訳文の例外対処</cmt>
+</sen>
+<sen id="4">
+<j>生霊に祟られ寝込んでいることを一枚の小袖を舞台に寝かすこと（出し小袖）で表現している。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The character of Aoi no Ue, who is haunted by the wraith and sick in bed, is expressed by laying a kosode (a kimono with short sleeves worn as underclothing by the upper classes) on the stage (which is called dashikosode).</e>
+<cmt>FBに基づき修正しました。一原文一訳文の例外対処</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>六条御息所は賀茂の祭の際葵上から受けた侮辱に耐え切れず、生霊（前ジテ）となって葵上を苦しめているのである。</j>
+<e type="trans" ver="1">Rokujo no Miyasudokoro cannot bear insult given by Aoi no Ue on the occasion of the festival of Kamo and became a wraith (maejite (shite that appears on the scene before nakairi)) and tortures Aoi no Ue.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rokujo no Miyasudokoro cannot bear the insult given by Aoi no Ue at the festival of Kamo and becomes a wraith (maejite (shite that appears on the scene before nakairi)) and tortures Aoi no Ue.</e>
+<cmt>&quot;The insult&quot;. &quot;On the occasion of&quot;-&quot;at&quot;.</cmt>
+<e type="check" ver="1">Rokujo no Miyasudokoro, who could not bear the insult given by Aoi no Ue at the festival of Kamo, became a wraith (maejite (shite that appears on the scene before nakairi)), and is torturing Aoi no Ue.</e>
+<cmt>FBに基づき修正しました。</cmt>
+</sen>
+<sen id="6">
+<j>薬石効なく、ついに修験者が呼ばれ祈祷が始まると、生霊は怒り、鬼の姿（後ジテ）で現われる。</j>
+<e type="trans" ver="1">All remedies having proved ineffective, an ascetic Buddhist monk was called and a prayer commences, the Wraith gets angry and appears with the form of an oni (ogre)(nochijite (shite that appears on the scene after nakairi)) but at last, it ends with a scene that the wraith is purified by Wraith the end, it is purified by the power of Buddhism in the form of hannya (female demon)</e>
+<cmt></cmt>
+<e type="trans" ver="2">All remedies having proved ineffective, an ascetic Buddhist monk was called and prayer commences, the Wraith gets angry and appears with the form of an orge (known as Nochijite, or the Shite that appears on the scene after nakairi)) but it finally ends with a scene where the wraith is purified by the power of Buddhism, which comes in the form of hannya (female demon)</e>
+<cmt>Clarified the &quot;nojite&quot; section to make it a bit clearer. I thought having &quot;oni&quot; made it too confusing so I cut it. Cut superfluous &quot;wraith the end&quot;. Added &quot;which comes in&quot; to read a bit smoother.,</cmt>
+<e type="check" ver="1">All remedies having proved ineffective, an ascetic Buddhist monk was called at last, and when prayers began, the wraith got angry and appeared in the form of an ogre (known as Nochijite, or the Shite that appears on the scene after nakairi)).</e>
+<cmt>FBに基づき修正しました。一原文一訳文の例外対処</cmt>
+</sen>
+<sen id="7">
+<j>しかし、最後は般若の姿のまま、法力によって浄化される場面で終わる。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, the wraith is finally purified, remaining the form of hannya (female demon), by the power of Buddhist dharma.</e>
+<cmt>FBに基づき修正しました。一原文一訳文の例外対処</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Japanese culture(id:252395), 釣ちごちゅが(id:22605), Talin.N.C.T(id:250061), Cookie4869(id:21927), Miya(id:1881), Nighthawks(id:36125), ささがに(id:228586), Maxima m(id:28947), Point136(id:211299), NekoJaNekoJa(id:23311), Toki-ho(id:10691), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

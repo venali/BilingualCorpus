@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>鏡板</j>
+<e type="trans" ver="1">Kagami-ita</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kagami-ita</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kagami-ita</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>鏡板（かがみいた）は、能舞台の正面、右側面の羽目板である。</j>
+<e type="trans" ver="1">Kagami-ita boards are wainscoting in the front and on the right side face.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kagami-ita boards are wainscoting in the front and on the right side face of the Noh stages.</e>
+<cmt>「能舞台の」→訳漏れのため訳出しました。</cmt>
+<e type="check" ver="1">Kagami-ita boards are wainscoting in the front and on the right side face of the Noh stages.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>概要</j>
+<e type="trans" ver="1">Summary</e>
+<cmt></cmt>
+<e type="trans" ver="2">Summary</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>正面のを「正面の鏡板」と、右側面のを「脇の鏡板」とを区別することがある。</j>
+<e type="trans" ver="1">Kagami-ita is distinguished by its position by naming it in the front as &apos;shomen no kagami-it (kagami-ita in the front)&apos; and it on the right side face as &apos;waki no kagami-ita (kagami-ita on the side)&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kagami-ita is sometimes distinguished by its position by naming one in the front as &apos;shomen no kagami-ita&apos; (kagami-ita in the front) and one on the right side face as &apos;waki no kagami-ita&apos; (kagami-ita on the side).</e>
+<cmt>it→oneに修正、「ことがある」→訳漏れのため訳出、kagami-it→kagami-itaに修正、クォーテーションの位置を移動</cmt>
+<e type="check" ver="1">Kagami-ita is sometimes distinguished by its position by naming one in the front as &apos;shomen no kagami-ita&apos; (kagami-ita in the front) and one on the right side face as &apos;waki no kagami-ita&apos; (kagami-ita on the side).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>前者には老松を、後者には若竹が描かれることが多い。</j>
+<e type="trans" ver="1">The former often has an old pine tree painted thereon and the latter often has an young bamboo painted thereon.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The former often has an old pine tree painted thereon and the latter often has an young bamboo painted thereon.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The former often has an old pine tree painted thereon and the latter often has an young bamboo painted thereon.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>前者は春日神社の「影向の松」を写したものとされている。</j>
+<e type="trans" ver="1">It is said that the pine tree that the former has is a copy of &apos;kagemuko no matsu (a pine tree over a shadow)&apos; in Kasuga-jinja shrine, and the latter bamboo was created after a while and was a plant which was caused to correspond to the pine tree after tatemono-butai (stage that is integrated into a building) started to be constructed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that the pine tree that the former has is a copy of &apos;kagemuko no matsu&apos; (a pine tree over a shadow) in Kasuga-jinja Shrine, and the latter bamboo was created after a while and was a plant which was caused to correspond to the pine tree after tatemono-butai (stage that is integrated into a building) started to be constructed.</e>
+<cmt>クォーテーションの位置を移動、shrineの頭文字を大文字に変更NC_Check</cmt>
+<e type="check" ver="1">The former one is said to be a copy of a painting of &apos;kagemuko no matsu&apos; (a pine tree over a shadow) in Kasuga-jinja Shrine.</e>
+<cmt>一原文一訳文の例外処理内容をわかりやすく変更しました。</cmt>
+</sen>
+<sen id="6">
+<j>後者はやや後世の創案である。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The latter bamboo was designed later in history than the former.</e>
+<cmt>一原文一訳文の例外処理内容をわかりやすく変更しました。</cmt>
+</sen>
+<sen id="7">
+<j>建物舞台ができた後にマツに対応させたものである。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The bamboo was depicted in concord with a pine tree when tatemono-butai (stage that is integrated into a building) was constructed.</e>
+<cmt>一原文一訳文の例外処理内容をわかりやすく変更しました。</cmt>
+</sen>
+<sen id="8">
+<j>江戸時代には御絵所狩野家の承るところとなり、江戸城本丸表舞台の鏡板絵を構図の範として描くようになった。</j>
+<e type="trans" ver="1">In Edo period, painting pictures on kagami-ita was the role of o-e-dokoro (persons in charge of painting pictures) the KANO family and they started to paint the pictures employing kagami-ita pictures of the front stage in the main enclosure of Edo-jo castle as the model of the layout of the pictures.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Edo period, painting pictures on kagami-ita was the role of o-e-dokoro (persons in charge of painting pictures) the Kano family and they started to paint the pictures employing kagami-ita pictures of the front stage in the main enclosure of Edo-jo Castle as the model of the layout of the pictures.</e>
+<cmt>In the Edo period、the Kano familyとし、castleの頭文字を大文字に変更</cmt>
+<e type="check" ver="1">In the Edo period, painting pictures on kagami-ita was the role of o-e-dokoro (persons in charge of painting pictures) the Kano family and they started to paint the pictures employing kagami-ita pictures of the front stage in the main enclosure of Edo-jo Castle as the model of the layout of the pictures.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>東京九段の靖国神社（旧紅葉山）舞台は京都の某画家、東京麹町富士見町の細川公別邸舞台は近藤樵仙、東京浅草南元町の梅若宗家舞台は土屋秀禾、鎌倉笹目谷の鎌倉能楽会舞台は平福百穂による。</j>
+<e type="trans" ver="1">The pictures of the front stage of Yasukuni-jinja shrine (formerly, Mt. Momiji) in Kudan in Tokyo were painted by a painter living in Kyoto; the pictures of the stage in a villa of the Prince of Hosokawa in Fujimi-cho in Koji-machi in Tokyo were painted by Shosen KONDO; the pictures of the stage of the UMEWAKA head family in Minami-motomachi in Asakusa in Tokyo wee painted by Hidenogi TSUCHIYA; and the pictures of the stage for Kamakura-nohgaku-kai society in Sasamedani in Kamakura were painted by Momoho HIRAFUKU.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The pictures of the front stage of Yasukuni-jinja Shrine (formerly, Mt. Momiji) at Kudan in Tokyo were painted by a painter living in Kyoto; the pictures of the stage in a villa of the Hosokawa clan at Fujimi-cho, Kojimachi in Tokyo were painted by Shosen KONDO; the pictures of the stage of the Umewaka head family at Minami-motomachi, Asakusa in Tokyo wee painted by Shuka TSUCHIYA; and the pictures of the stage for Kamakura-nohgaku-kai society in Sasamegayatsu, Kamakura were painted by Hyakusui HIRAFUKU.</e>
+<cmt>住所表記修正、shrineの頭文字を大文字に変更、the Prince of Hosokawa→the Hosokawa clanとし、UMEWAKA→Umewaka、Sasamedani→Sasamegayatsu、Hidenogi TSUCHIYA→Shuka TSUCHIYA、Momoho HIRAFUKU→Hyakusui HIRAFUKUに修正 (用語集およびウェブ検索で確認済み)</cmt>
+<e type="check" ver="1">The pictures of the front stage of Yasukuni-jinja Shrine (formerly, Mt. Momiji) at Kudan in Tokyo were painted by a painter living in Kyoto; the pictures of the stage in a villa of the Hosokawa clan at Fujimi-cho, Kojimachi in Tokyo were painted by Shosen KONDO; the pictures of the stage of the Umewaka head family at Minami-motomachi, Asakusa in Tokyo wee painted by Shuka TSUCHIYA; and the pictures of the stage for Kamakura-nohgaku-kai society in Sasamegayatsu, Kamakura were painted by Hyakusui HIRAFUKU.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>三経義疏</j>
+<e type="trans" ver="1">Sangyo Gisho</e>
+<cmt>用語統一ではSangyogishoとなっていますが、三経の注釈書ということで二つに区切りました。その他も同様に処理しました。</cmt>
+<e type="trans" ver="2">Sangyo Gisho</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sangyo Gisho</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>『三経義疏』（さんぎょうぎしょ）とは、聖徳太子によって著されたとされる『法華義疏』（伝615年）・『勝鬘経義疏』（伝611年）・『維摩経義疏』（伝613年）の総称である。</j>
+<e type="trans" ver="1">&quot;Sangyo Gisho&quot; (The Annotation of the Three Sutras) is the collective name of &quot;Hokke Gisho&quot; (believed to have been published in 615), &quot;Shomangyo Gisho&quot; (believed to have been published in 611) and &quot;Yuimagyo Gisho&quot; (believed to have been published in 613) all of which are thought to have been written by Prince Shotoku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sangyo Gisho (The Annotation of the Three Sutras) is the collective name of &quot;Hokke Gisho&quot; (believed to have been published in 615), &quot;Shomangyo Gisho&quot; (believed to have been published in 611) and &quot;Yuimagyo Gisho&quot; (believed to have been published in 613) all of which are thought to have been written by Prince Shotoku.</e>
+<cmt>余分なスペースを削除</cmt>
+<e type="check" ver="1">Sangyo Gisho (The Annotation of the Three Sutras) is the collective name of &quot;Hokke Gisho&quot; (believed to have been published in 615), &quot;Shomangyo Gisho&quot; (believed to have been published in 611) and &quot;Yuimagyo Gisho&quot; (believed to have been published in 613) all of which are thought to have been written by Prince Shotoku.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>それぞれ『法華経』・『勝鬘経』・『維摩経』の三経の注釈書である。</j>
+<e type="trans" ver="1">They are commentaries on three sutras: &quot;Hokke-kyo Sutra&quot; (the Lotus Sutra), &quot;Shoman-kyo Sutra&quot; (the Shri-mala Sutra) and &quot;Yuima-kyo Sutra&quot; (the Vimalakirti Sutra).</e>
+<cmt></cmt>
+<e type="trans" ver="2">They are commentaries on three sutras: &quot;Hokke-kyo Sutra&quot; (the Lotus Sutra), &quot;Shoman-gyo Sutra&quot; (the Shri-mala Sutra) and &quot;Yuima-gyo Sutra&quot; (the Vimalakirti Sutra).</e>
+<cmt>「しょうまんぎょう」、「ゆいまぎょう」とも読むので、上と統一のためにこちらを採用。以下同様</cmt>
+<e type="check" ver="1">They are commentaries on three sutras: &quot;Hokke-kyo Sutra&quot; (the Lotus Sutra), &quot;Shoman-gyo Sutra&quot; (the Shri-mala Sutra) and &quot;Yuima-gyo Sutra&quot; (the Vimalakirti Sutra).</e>
+<cmt>修正なし</cmt>
+</sen>
+<par id="1">
+<sen id="3">
+<j>日本書紀に推古14年（606年）聖徳太子が勝鬘経・法華経を講じたという記事があることもあり、いずれも聖徳太子の著したものと信じられてきた。</j>
+<e type="trans" ver="1">There is a description in &quot;Nihonshoki&quot; (The Chronicles of Japan) that Prince Shotoku lectured on the Shoman-kyo Sutra and the Hokke-kyo Sutra in 606, and therefore these two sutras are believed to have been written by him.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a description in &quot;Nihonshoki&quot; (The Chronicles of Japan) that Prince Shotoku lectured on the Shoman-gyo Sutra and the Hokke-gyo Sutra in 606, hence these two sutras are believed to have been written by him.</e>
+<cmt>・kyo→gyo・and therefore→hence</cmt>
+<e type="check" ver="1">There is a description in &quot;Nihonshoki&quot; (The Chronicles of Japan) that Prince Shotoku lectured on the Shoman-gyo Sutra and the Hokke-gyo Sutra in 606, hence these two sutras are believed to have been written by him.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>『法華義疏』のみ聖徳太子真筆の草稿とされるものが残存している。</j>
+<e type="trans" ver="1">A draft of &quot;Hokke Gisho&quot;, which is said to have been written by Prince Shotoku himself, still exists.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">A draft of &quot;Hokke Gisho&quot;, which is said to have been written by Prince Shotoku himself, still exists.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A draft of &quot;Hokke Gisho&quot;, which is said to have been written by Prince Shotoku himself, still exists.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>しかし、『勝鬘経義疏』・『維摩経義疏』に関しては後の時代の写本のみ伝えられている。</j>
+<e type="trans" ver="1">However as for &quot;Shomangyo Gisho&quot; and &quot;Yuimagyo Gisho&quot;, there are only manuscript copies produced in later years.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, as for &quot;Shomangyo Gisho&quot; and &quot;Yuimagyo Gisho&quot;, there are only transcripts produced in later years.</e>
+<cmt>・Howeverの後にカンマ挿入・manuscript copies→transcripts</cmt>
+<e type="check" ver="1">However, as for &quot;Shomangyo Gisho&quot; and &quot;Yuimagyo Gisho&quot;, there are only transcripts produced in later years.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>法華義疏</j>
+<e type="trans" ver="1">Hokke Gisho</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hokke Gisho</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hokke Gisho</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>『法華義疏』は伝承によれば615年に作られた日本最古の書物となる。</j>
+<e type="trans" ver="1">Legend says &quot;Hokke Gisho&quot; was produced in 615 and is the oldest book in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the tradition, &quot;Hokke Gisho&quot; was produced in 615 and is the oldest book in Japan.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">According to the tradition, &quot;Hokke Gisho&quot; was produced in 615 and is the oldest book in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>一般に聖徳太子自筆とされている『法華義疏』の写本（紙本墨書、4巻）は、記録によれば753年までに行信が発見して法隆寺にもたらしたもので、長らく同寺に伝来した。</j>
+<e type="trans" ver="1">The manuscript copy of &quot;Hokke Gisho&quot; (ink on paper, 4 volumes), generally believed to have been written by Prince Shotoku himself, was found by Gyoshin in or before 753, according to records, and brought to Horyu-ji Temple, where it was kept for a long period.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The transcript of &quot;Hokke Gisho&quot; (ink on paper, 4 volumes), generally believed to have been written by Prince Shotoku himself, was found by Gyoshin by 753, according to records, and brought to Horyu-ji Temple, where it was kept for a long period.</e>
+<cmt>・manuscript copy→transcript・in or before 753→by 753</cmt>
+<e type="check" ver="1">The transcript of &quot;Hokke Gisho&quot; (ink on paper, 4 volumes), generally believed to have been written by Prince Shotoku himself, was found by Gyoshin by 753, according to records, and brought to Horyu-ji Temple, where it was kept for a long period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>しかし、1878年（明治11年）皇室に献上され御物となっている。</j>
+<e type="trans" ver="1">It was presented to the Imperial Court in 1878 and became an Imperial treasure.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It was presented to the Imperial Court in 1878 and became an Imperial property.</e>
+<cmt>treasure→property（用語共有を参照）</cmt>
+<e type="check" ver="1">It was presented to the Imperial Court in 1878 and became an Imperial property.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="9">
+<j>この写本は冒頭の表題と撰号(著者の署名)を欠いている。</j>
+<e type="trans" ver="1">This manuscript copy has neither a title nor a signature by the author at the beginning.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">There is neither a title nor a signature by the author at the beginning of this transcript.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">There is neither a title nor a signature by the author at the beginning of this transcript.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>第一巻の巻頭には別紙を継いで、ここに「法華義疏第一」の内題がある。</j>
+<e type="trans" ver="1">The title (&quot;Hokke Gisho - the First&quot;) is written on a piece of paper attached to the start of the first volume.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The title &apos;Hokke Gisho - the First&apos; is written on a piece of paper attached to the start of the first volume.</e>
+<cmt>引用符を修正、カッコを削除</cmt>
+<e type="check" ver="1">The title &apos;Hokke Gisho - the First&apos; is written on a piece of paper attached to the start of the first volume.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>その下に本文とは別筆で「これは日本の上宮王（聖徳太子）が創ったもので、海外から渡来したものではない」（意訳）と書かれている。</j>
+<e type="trans" ver="1">Below the title are the words, &quot;this was produced by Japanese Prince Shotoku and is not from overseas&quot;, which are written in a different handwriting from the main text.</e>
+<cmt>一原文一訳文の例外対処(意訳）は訳出の必要なしと判断しました。</cmt>
+<e type="trans" ver="2">Below the title are the words, &apos;this was produced by Japanese Prince Shotoku and is not from overseas&apos;, which are written in a different handwriting from the main text.</e>
+<cmt>引用符を修正</cmt>
+<e type="check" ver="1">Below the title are the words, &apos;this was produced by Japanese Prince Shotoku and is not from overseas&apos;, which are written in a different handwriting from the main text.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>料紙については、本文は中国製の紙を使用し、貼紙は日本製の紙であるとの見方もある。</j>
+<e type="trans" ver="1">Some people believe the paper for the main text was made in China whereas the paper attached to it was made in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some people believe the paper for the main text was made in China whereas the paper attached to it was made in Japan.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some people believe the paper for the main text was made in China whereas the paper attached to it was made in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="13">
+<j>本文の行間には書込み、訂正などが見られ、草稿本であることが明らかである。</j>
+<e type="trans" ver="1">There are insertions and corrections between the lines, which obviously suggest this is a draft.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are insertions and corrections between the lines, which obviously suggest this is a draft.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There are insertions and corrections between the lines, which obviously suggest this is a draft.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>書風は六朝風であるといわれ、聖徳太子自筆の草稿本と考えられているが、異説もある。</j>
+<e type="trans" ver="1">Some people believe that the calligraphy of the draft is in the style of Rikucho (the six dynasties in China running from the third to the sixth centuries) and written by Prince Shotoku himself, but others disagree.</e>
+<cmt>Rikucho style calligraphy</cmt>
+<e type="trans" ver="2">Some people believe that the calligraphy of the draft is of the style of Rikucho (the six dynasties in China running from the third to the sixth centuries) and written by Prince Shotoku himself, but others disagree.</e>
+<cmt>is in the style of Rikucho→is of the style of Rikucho</cmt>
+<e type="check" ver="1">Some people believe that the calligraphy of the draft is of the style of Rikucho (the six dynasties in China running from the third to the sixth centuries) and written by Prince Shotoku himself, but others disagree.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="15">
+<j>成立</j>
+<e type="trans" ver="1">Origin</e>
+<cmt></cmt>
+<e type="trans" ver="2">Origin</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Origin</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>この種の注釈書は当時の中国に多く見られる。</j>
+<e type="trans" ver="1">Many commentaries of this kind were produced in China in the same period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many commentaries of this kind were produced in China at that time.</e>
+<cmt>in the same period→at that time</cmt>
+<e type="check" ver="1">Many commentaries of this kind were produced in China at that time.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="17">
+<j>『法華義疏』は梁 (南朝)の法雲(476年 - 529年)による注釈書『法華義記』と7割同文である。</j>
+<e type="trans" ver="1">Seventy per cent of the sentences in &quot;Hokke Gisho&quot; are the same as those in the commentary &quot;Hokke Giki&quot; written by Houn (476 - 529) in the Liang Dynasty (one of the Southern Dynasties).</e>
+<cmt>一原文一訳文の例外対処法雲は中国僧なので中国語読みの英音訳があるかも知れませんが「ほううん」しか見つかりませんでした。</cmt>
+<e type="trans" ver="2">Seventy percent of the sentences in &quot;Hokke Gisho&quot; are the same as those in the commentary &quot;Fahuayiji &quot; written by Fayun (476 - 529) in the Liang Dynasty (one of the Southern Dynasties).</e>
+<cmt>・per cent→percent・Houn→Fayun・Hokke Giki→Fahuayiji http://wpedia.goo.ne.jp/enwiki/Sh%C5%8Dmangy%C5%8D_Gisho</cmt>
+<e type="check" ver="1">Seventy percent of the sentences in &quot;Hokke Gisho&quot; are the same as those in the commentary &quot;Fahuayiji &quot; written by Fayun (476 - 529) in the Liang Dynasty (one of the Southern Dynasties).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>これをもとにしたものであることが分かる。</j>
+<e type="trans" ver="1">So we know that &quot;Hokke Gisho&quot; was based on &quot;Hokke Giki.&quot;</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">So we know that &quot;Hokke Gisho&quot; was based on &quot;Fahuayiji.&quot;</e>
+<cmt>・Hokke Giki→Fahuayiji</cmt>
+<e type="check" ver="1">So we know that &quot;Hokke Gisho&quot; was based on &quot;Fahuayiji.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="19">
+<j>『勝鬘経義疏』は敦煌市出土の『勝鬘経義疏本義』と7割同文。</j>
+<e type="trans" ver="1">Seventy per cent of the sentences in &quot;Shomangyo Gisho&quot; are the same as in &quot;The Principle of Shomangyo Gisho&quot;, which was unearthed in Dunhuang City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Seventy percent of the sentences in &quot;Shomangyo Gisho&quot; are the same as &quot;The Principle of Shomangyo Gisho&quot;, which was unearthed in Dunhuang City.</e>
+<cmt>・per cent→percent・勝鬘経義疏本義の英訳出典、中国語読み不明</cmt>
+<e type="check" ver="1">Seventy percent of the sentences in &quot;Shomangyo Gisho&quot; are the same as &quot;The Principle of Shomangyo Gisho&quot;, which was unearthed in Dunhuang City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>未発見の6世紀前半と推定される注釈書をもとにしたものと思われる。</j>
+<e type="trans" ver="1">It is assumed that &quot;Shomangyo Gisho&quot; is based on an undiscovered commentary, possibly written in the early sixth century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is assumed that &quot;Shomangyo Gisho&quot; is based on an undiscovered commentary, possibly written in the early sixth century.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It is assumed that &quot;Shomangyo Gisho&quot; is based on an undiscovered commentary, possibly written in the early sixth century.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="21">
+<j>『維摩経義疏』もやはり梁の吉蔵(549年-623年)の『維摩経義疏』や敦煌出土の『維摩経義記』と類似している。</j>
+<e type="trans" ver="1">Likewise, the Japanese &quot;Yuimakyo Gisho&quot; is similar to the &quot;Yuimakyo Gisho&quot; written by Kichizo (549 - 623) in the Liang Dynasty, and to &quot;Yuimakyo Giki&quot;, which was unearthed in Dunhuang City.</e>
+<cmt>一原文一訳文の例外対処吉蔵：法雲に同じです。維摩経義疏：文書名は同じで違う書物を指しているため、多少付け加えた語があります。</cmt>
+<e type="trans" ver="2">Likewise, the Japanese &quot;Yuimagyo Gisho&quot; is similar to the &quot;Yuimagyo Gisho&quot; written by Jizang (549 - 623) in the Liang Dynasty, and to &quot;Yuimakyo Giki&quot;, which was unearthed in Dunhuang City.</e>
+<cmt>・吉蔵版「維摩経義疏」の中国語読み不明・敦煌出土維摩経義記」の中国語読み不明・Kichizo→Jizanghttp://en.wikipedia.org/wiki/Jizang</cmt>
+<e type="check" ver="1">Likewise, the Japanese &quot;Yuimagyo Gisho&quot; is similar to the &quot;Yuimagyo Gisho&quot; written by Jizang (549 - 623) in the Liang Dynasty, and to &quot;Yuimakyo Giki&quot;, which was unearthed in Dunhuang City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>僧肇(384年 - 414年?)の『註維摩詰経』や智蔵(458年 - 522年)の説を論じている。</j>
+<e type="trans" ver="1">The Japanese &quot;Yuimakyo Gisho&quot; discusses &quot;Chu Yuimakitsugyo&quot; by Sojo (384 - 414?) as well as one of the theories of Chizo (458 - 522).</e>
+<cmt>一原文一訳文の例外対処智蔵：法雲に同じです。僧肇はSeng Zhaoが見つかりましたが、他と統一して日本語名「そうじょう」を使いました。</cmt>
+<e type="trans" ver="2">The Japanese &quot;Yuimagyo Gisho&quot; discusses &quot;Zhu Weimojie jing&quot; by Seng Zhao (384 - c. 414) as well as the theories of Zhizang (458 - 522).</e>
+<cmt>・Yuimakyo→Yuimagyo・&quot;Chu Yuimakitsugyo&quot;→&quot;Zhu Weimojie jing&quot;・Sojo→Seng Zhao・(384 - 414?)→ (384 - c. 414)・one of→削除・Chizo→Zhizanghttp://en.wikipedia.org/wiki/Sangy%C5%8D_Gisho#Sh.C5.8Dmangy.C5.8D_Gisho</cmt>
+<e type="check" ver="1">The Japanese &quot;Yuimagyo Gisho&quot; discusses &quot;Zhu Weimojie jing&quot; by Seng Zhao (384 - c. 414) as well as the theories of Zhizang (458 - 522).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="23">
+<j>『三経義疏』はいずれもこれら6世紀前半ごろの中国の書物と相並ぶものとなる。</j>
+<e type="trans" ver="1">&quot;Sangyo Gisho&quot; can be compared with these Chinese books of the early sixth century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Sangyo Gisho&quot; can be comparable with these Chinese books of the early sixth century.</e>
+<cmt>compared→comparable</cmt>
+<e type="check" ver="1">&quot;Sangyo Gisho&quot; can be comparable with these Chinese books of the early sixth century.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>先行するものはそれまで日本にはなく、この後にこの種の書が日本で著されるまでに長い空白があるのは不自然であるという指摘は、古くからあった。</j>
+<e type="trans" ver="1">There were no such books before &quot;Sangyo Gisho&quot;, and not until a long time later were books of the same kind written in Japan, which has long been pointed out as being unusual.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were no precedents before in Japan, so it has long been pointed out as unusual that the same kind of books had not been written in Japan for a long time.</e>
+<cmt>全体を改変NC_check</cmt>
+<e type="check" ver="1">As no such books had ever been written before in Japan, the fact that no other books of this type were produced again in Japan for a long time thereafter has long been regarded as strange.</e>
+<cmt>修正しました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="25">
+<j>これについて、以下のように諸説はあるが決着を見ていない。</j>
+<e type="trans" ver="1">Several of the theories which follow try to explain this, but it still hasn&apos;t been settled.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though there are several theories as follows to explain this, it has not been settled yet.</e>
+<cmt>全体を改変</cmt>
+<e type="check" ver="1">Although there are several theories as follows to explain this, it has not been settled yet.</e>
+<cmt>Though →Although</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="26">
+<j>中国の書が600年ないし607年の遣隋使から日本にもたらされ、これらを参考に聖徳太子が著作した。</j>
+<e type="trans" ver="1">First, Chinese books were brought to Japan by &quot;Kenzuishi&quot; (a Japanese envoy to Sui Dynasty, China) in 600 or 607 and Prince Shotoku wrote &quot;Sangyo Gisho&quot; based on them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">First, Chinese books were brought to Japan by &quot;Kenzuishi&quot; (a Japanese envoy to Sui Dynasty, China) in 600 or 607 and Prince Shotoku wrote &quot;Sangyo Gisho&quot; based on them.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">First, Chinese books were brought to Japan by &quot;Kenzuishi&quot; (a Japanese envoy to Sui Dynasty, China) in 600 or 607 and Prince Shotoku wrote &quot;Sangyo Gisho&quot; based on them.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="27">
+<j>そのころ朝鮮半島から来日した僧が聖徳太子の下で著作した。</j>
+<e type="trans" ver="1">Monks who came to Japan from the Korean Peninsula at around the same time wrote &quot;Sangyo Gisho&quot; under the direction of Prince Shotoku.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Monks who came to Japan from the Korean Peninsula at that time wrote &quot;Sangyo Gisho&quot; under the direction of Prince Shotoku.</e>
+<cmt>at around the same time→at that time</cmt>
+<e type="check" ver="1">Monks who came to Japan from the Korean Peninsula at that time wrote &quot;Sangyo Gisho&quot; under the direction of Prince Shotoku.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="28">
+<j>そのころ中国から入手した書の中から聖徳太子が選び出した。</j>
+<e type="trans" ver="1">Prince Shotoku chose &quot;Sangyo Gisho&quot; from among the books brought from China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Prince Shotoku chose &quot;Sangyo Gisho&quot; from among the books brought from China.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Prince Shotoku chose &quot;Sangyo Gisho&quot; from among the books brought from China.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="29">
+<j>753年までのいずれの時代かに中国から渡来した輸入品である。</j>
+<e type="trans" ver="1">&quot;Sangyo Gisho&quot; was imported from China at some point in time up to 753.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Sangyo Gisho&quot; was imported from China in some period by 753.</e>
+<cmt>at some point in time up to 753→in some period by 753</cmt>
+<e type="check" ver="1">&quot;Sangyo Gisho&quot; was imported from China in some period by 753.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Izayohi(id:13095), 二八(id:10408), Urania(id:7213), Authority(id:10737), Dr.NOMAD(id:199216), Ultratomio(id:1090), Johncapistrano(id:969), YAMAARASHI(id:18211), Kurz(id:1601), Shinobar(id:42025), Mooko(id:36162), R28Bot(id:177951), Dignaaga(id:91287), Shimoxx(id:9332), Point136(id:211299), 無空(id:17049), 竹麦魚(id:11012), Chuta(id:10457), Ziksy(id:84091), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

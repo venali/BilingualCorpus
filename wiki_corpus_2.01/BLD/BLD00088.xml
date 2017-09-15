@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>頼政塚</j>
+<e type="trans" ver="1">The Yorimasa-zuka tumulus</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Yorimasa-zuka tumulus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Yorimasa-zuka Tumulus</e>
+<cmt>指示書入力要領に従い修正tumulus → Tumulus</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>頼政塚（よりまさづか）は現在の亀岡市西つつじヶ丘町の小高い丘に建てられた、平安末期非業の死を遂げた多田源氏源頼政の首塚。</j>
+<e type="trans" ver="1">Built on a small hill in present Nishi-Tsutsujigaoka-cho, Kameoka City, the Yorimasa-zuka tumulus is a Kubi-zuka (burial mound for heads) of MINAMOTO no Yorimasa of the Tada-Genji clan, who died an unnatural death towards the end of the Heian period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Built on a small hill in present day Nishi-Tsutsujigaoka-cho, Kameoka City, the Yorimasa-zuka tumulus is the Kubi-zuka (burial mound for heads) of MINAMOTO no Yorimasa of the Tada-Genji clan, who died an untimely death towards the end of the Heian period.</e>
+<cmt>Grammar and word choice.</cmt>
+<e type="check" ver="1">Built on a small hill in present day Nishi-Tsutsujigaoka-cho, Kameoka City, the Yorimasa-zuka Tumulus is the Kubizuka (tomb of the head) of MINAMOTO no Yorimasa of the Tada-Genji (Minamoto clan), who died an untimely death towards the end of the Heian period.</e>
+<cmt>指示書入力要領に従い修正tumulus → Tumulus用語集に従い修正Kubi-zuka → Kubizuka (tomb of the head)</cmt>
+</sen>
+<sen id="2">
+<j>宇治で戦死した頼政の遺骸がここに埋められた理由として、丹波矢田郷が彼の領地の中で最も宇治に近かったからと言われているが</j>
+<e type="trans" ver="1">It is said that the body of Yorimasa who died in a battle at Uji was not buried here, because the Tanba Yada-go country was nearest to Uji among his territories.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that the body of Yorimasa who died in a battle at Uji was not buried here, because the Tanba Yada-go country was of all his territories the nearest to Uji.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">It is said that the body of Yorimasa who died in a battle at Uji was not buried here, because the Tanba Yada-go Village was of all his territories the nearest to Uji.</e>
+<cmt>「丹波矢田郷」指示書入力要領に従い修正Country → Village郷の定訳：参考（白川郷 Shirakawa Village）http://books.google.com/books?id=b3E72TBPoZYC&amp;pg=PA123&amp;dq=Shirakawago+village&amp;lr=&amp;as_brr=3&amp;ei=phpVS7njMYjKlQTt24CFDQ&amp;hl=ja&amp;cd=3#v=onepage&amp;q=Shirakawago%20village&amp;f=false</cmt>
+</sen>
+<sen id="3">
+<j>不明。</j>
+<e type="trans" ver="1">However, whether it is right or not is unclear.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, it is unclear whether this is correct or not.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">However, it is unclear whether this is correct or not.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>江戸時代に近辺の僧侶が存在を疑って塚を掘り起こしてみたところ、石棺があったといわれている。</j>
+<e type="trans" ver="1">It is said that in the Edo period, a priest around there doubted its existence, excavated the tumulus, and found a stone coffin there.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that in the Edo Period, a local priest doubted its existence, excavated the tumulus, and found a stone coffin there.</e>
+<cmt>Punctuation, word choice.</cmt>
+<e type="check" ver="1">It is said that in the Edo Period, a local priest doubted its existence, excavated the tumulus, and found a stone coffin there.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>現在は亀岡市立つつじヶ丘小学校が隣接している</j>
+<e type="trans" ver="1">Now, Kameoka City-run Nishi-Tsutsujigaoka elementary school is placed adjacent to the tumulus.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Now, Kameoka City-run Nishi-Tsutsujigaoka elementary school is located adjacent to the tumulus.</e>
+<cmt>Word choice.</cmt>
+<e type="check" ver="1">Now, Tsutsujigaoka Elementary School, Kameoka City is located adjacent to the tumulus.</e>
+<cmt>用語集の表記に修正Kameoka City-run Nishi-Tsutsujigaoka elementary school → Tsutsujigaoka Elementary School, Kameoka City</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>亀岡市篠町浄法寺の国道9号線に頼政塚の交差点があり、京阪京都交通にも頼政塚バス停がある。</j>
+<e type="trans" ver="1">The Yorimasa-zuka crossing exists on national road 9 in Joboji, Shino-cho, Kameoka City, and a Yorimasa-zuka bus stop for buses of Keihan Kyoto Kotsu is also provided.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is a Yorimasa-zuka crossing on national road 9 in Joboji, Shino-cho, Kameoka City, and a Yorimasa-zuka bus stop where Keihan Kyoto Kotsu buses stop.</e>
+<cmt>Changed for clarity.</cmt>
+<e type="check" ver="1">There is a Yorimasa-zuka crossing on National Route 9 in Joboji, Shino-cho, Kameoka City, and a Yorimasa-zuka Bus Stop where Keihan Kyoto Kotsu buses stop.</e>
+<cmt>用語集の表記に修正national road 9 → National Route 9Yorimasa-zuka bus stop → Yorimasa-zuka Bus Stop</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Ogeshi(id:80487), Suisui(id:69), 小太刀(id:18154), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

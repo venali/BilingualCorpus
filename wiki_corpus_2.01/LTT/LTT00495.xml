@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>算用記</j>
+<e type="trans" ver="1">&quot;Sanyo-ki (the Calculation Manual)&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Sanyo-ki&quot; (the Calculation Manual)</e>
+<cmt>Moved quotation mark.</cmt>
+<e type="check" ver="1">&quot;Sanyo-ki&quot; (the Calculation Manual)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>『算用記』（さんようき）は、日本に現存する最も古い和算書で、その著者は明らかではない。</j>
+<e type="trans" ver="1">&quot;Sanyo-ki (the Calculation Manual)&quot; is the oldest book on Wasan (Japanese mathematics) extant in Japan, but the author is unknown.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Sanyo-ki&quot; (the Calculation Manual) is the oldest book on Wasan (Japanese mathematics) extant in Japan, however, the author is unknown.</e>
+<cmt>&quot;Extant&quot; could be changed to more common terminology.</cmt>
+<e type="check" ver="1">&quot;Sanyo-ki&quot; (the Calculation Manual) is the oldest book on Wasan (Japanese mathematics) extant in Japan, however, the author is unknown.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>刊期は不明であるが安土桃山時代から江戸時代初期とされる。</j>
+<e type="trans" ver="1">The date of publish is also unknown but estimated sometime between Azuchi-Momoyama Period and the early Edo Period.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">The date it was published is also unknown but is estimated to be sometime between the Azuchi-Momoyama Period and the early Edo Period.</e>
+<cmt>reword</cmt>
+<e type="check" ver="1">The date it was published is also unknown but is estimated to be sometime between the Azuchi-Momoyama Period and the early Edo Period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>元和 8年（1622年）に刊行された毛利重能の『割算書』の中で同書が難解であると批判したと思しき記述が見られることから同書よりも古いとされる。</j>
+<e type="trans" ver="1">&quot;Warizan sho (The Book of Division)&quot; by Shigeyoshi MORI published in 1622 has a description seems to criticize &quot;Sanyo-ki&quot; as too difficult to understand, so the latter should be older than the former.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">&quot;Warizan sho&quot; (The Book of Division) by Shigeyoshi MORI published in 1622 has a description which seems to criticize &quot;Sanyo-ki&quot; as being too difficult to understand, so the latter should be older than the former.</e>
+<cmt>reword</cmt>
+<e type="check" ver="1">&quot;Warizan sho&quot; (The Book of Division) by Shigeyoshi MORI published in 1622 has a description which seems to criticize &quot;Sanyo-ki&quot; as being too difficult to understand, so the latter should be older than the former.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>算盤による計算法が導入されており、体積の算出や金利計算、測量の方法についてなどが記されている。</j>
+<e type="trans" ver="1">This book introduces calculation on the abacus and describes how to calculate the volume and the interest rate as well as the surveying method.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This book introduces calculation with an abacus and describes how to calculate volume and interest rate as well as the method for surveying.</e>
+<cmt>reword</cmt>
+<e type="check" ver="1">This book introduces calculation with an abacus and describes how to calculate volume and interest rate as well as the method for surveying.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>和算史を語る上の出発点として位置づけられている。</j>
+<e type="trans" ver="1">This book is regarded as the starting point of the history of Japanese mathematics.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This book is regarded as the starting point of the history of Japanese mathematics.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This book is regarded as the starting point of the history of Japanese mathematics.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>現存するのは龍谷大学の写字台文庫の1冊のみである。</j>
+<e type="trans" ver="1">The only extant book is in the collection of Shajidai-bunko of Ryukoku University.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The only extant book is in the collection of Shajidai-bunko at Ryukoku University.</e>
+<cmt>reword</cmt>
+<e type="check" ver="1">The only extant book is in the collection of Shajidai-bunko at Ryukoku University.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 田英(id:85936), Straysheep(id:42448), Takatota(id:102011), MCHC(id:208548), 水野白楓(id:22811), BitBucket(id:30999), まったけ(id:130042), Akinoniji(id:56111), 鎌吾郎(id:53030), Pdfgfd(id:127475), 伏儀(id:142093), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

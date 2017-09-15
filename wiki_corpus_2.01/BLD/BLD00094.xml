@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>京都市考古資料館</j>
+<e type="trans" ver="1">Kyoto City Archaeological Museum</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Archaeological Museum</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Archaeological Museum</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>京都市考古資料館（きょうとしこうこしりょうかん）は、京都市上京区今出川大宮東入ルに所在する考古資料専門の博物館。</j>
+<e type="trans" ver="1">Located in Imadegawa Omiya higashi-iru, Kamigyo-ku Ward, Kyoto City, Kyoto City Archaeological Museum is dedicated for archaeological materials.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Located in Imadegawa Omiya higashi-iru, Kamigyo-ku Ward, Kyoto City, Kyoto City Archaeological Museum specializes in archaeological materials.</e>
+<cmt>Word choice.</cmt>
+<e type="check" ver="1">Located in Imadegawa Omiya higashi-iru, Kamigyo Ward, Kyoto City, Kyoto City Archaeological Museum specializes in archaeological materials.</e>
+<cmt>指示書入力要領に従い修正Kamigyo-ku Ward → Kamigyo Ward</cmt>
+</sen>
+<sen id="2">
+<j>京都市内で発掘された埋蔵文化財を中心に展示を行うとともに文化財講習などのイベントを行う施設であり、昭和54年(1976年)11月に開館された。</j>
+<e type="trans" ver="1">The museum, opened in November of 1976, is a facility for holding events, such as courses for cultural properties, in addition to holding exhibits centered on buried cultural property excavated in Kyoto city.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The museum, opened in November 1976, is a facility for holding events such as courses for cultural properties, in addition to having exhibitions centering on buried cultural property excavated within Kyoto City.</e>
+<cmt>Grammar, punctuation, word choice.</cmt>
+<e type="check" ver="1">The museum, opened in November 1976, is a facility for holding events such as courses for cultural properties, in addition to having exhibitions centering on buried cultural property excavated within Kyoto City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>文化財の発掘、研究、保護などを目的に京都市を中心に設立された財団法人京都市文化財研究所がその成果を公開するため設立、運営を行っている。</j>
+<e type="trans" ver="1">Kyoto City Archaeological Research Institute, which has been established, centered on Kyoto City, for excavating, investigating and protecting cultural properties, has established and operated the museum.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Archaeological Research Institute both established and operates the museum with the goal of excavating, investigating and protecting cultural properties centering on Kyoto City.</e>
+<cmt>Made more natural.</cmt>
+<e type="check" ver="1">Kyoto City Archaeological Research Institute both established and operates the museum with the goal of excavating, investigating and protecting cultural properties centering on Kyoto City.</e>
+<cmt>修正なし</cmt>
+</sen>
+<par id="1">
+<sen id="4">
+<j>館内は時代別、テーマ別などいくつかのコーナーに分け現物、レプリカ、写真などで展示されている。</j>
+<e type="trans" ver="1">In the museum, things excavated themselves, their replicas or their photographs are classified into several categories, for example, based on the age or based on the theme, and those in each category are exhibited in a different section.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the museum, the artefacts themselves, replicas and photographs are classified into several categories, for example based on era or theme, each category being exhibited in a different section.</e>
+<cmt>Punctuation, grammar.</cmt>
+<e type="check" ver="1">In the museum, the artifacts themselves, replicas and photographs are classified into several categories, for example based on period or theme, each category being exhibited in a different section.</e>
+<cmt>artefacts → artifacts(どちらのつづりもあるようですが、検索をかけると後者の方がヒット数が3倍も多いため、容認度が高いと判断しました)era → period（展示は古墳、奈良、飛鳥といった時代別でなされているため）参考リンク：http://www.kyopro.kufs.ac.jp/dp/dp01.nsf/b7eb328e75d9627a49256feb00103b33/f3704be20978d85b4925754b0031247e!OpenDocument</cmt>
+</sen>
+<sen id="5">
+<j>一部の展示物は写真撮影や手で触れることが可能である。</j>
+<e type="trans" ver="1">Some exhibits can be touched and/or their photographs can be taken.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some exhibits can be touched and/or their photographs can be taken.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some exhibits can be touched and/or their photographs can be taken.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>建物は以前は西陣織物館として使われていたものであり京都市登録有形文化財に指定されている。</j>
+<e type="trans" ver="1">The building was used formerly as Nishijin Textile Hall and is designated as a registered tangible asset.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The building was used formerly as Nishijin Textile Hall and is designated as a registered tangible asset.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The building was used formerly as Nishijin Textile Hall and is designated as a registared tangible cultural properties of Kyoto City.</e>
+<cmt>「京都市登録」の訳漏れ　及び　用語集の表記に修正a registered tangible asset → a registared tangible cultural properties of Kyoto City</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>主な展示物</j>
+<e type="trans" ver="1">Major exhibits</e>
+<cmt></cmt>
+<e type="trans" ver="2">Major exhibits</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Major exhibits</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="7">
+<j>羅城門復元模式図</j>
+<e type="trans" ver="1">A drawing depicting how the now lost Rajomon Gate looked</e>
+<cmt></cmt>
+<e type="trans" ver="2">A drawing depicting how the now lost Rajomon Gate looked</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A drawing depicting how the now lost Rajomon Gate looked</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>平安時代の土器変遷</j>
+<e type="trans" ver="1">Changes in earthenware during in the Heian period</e>
+<cmt></cmt>
+<e type="trans" ver="2">Changes in earthenware during the Heian Period</e>
+<cmt>Grammar, capitalization.</cmt>
+<e type="check" ver="1">Changes in earthenware during the Heian period</e>
+<cmt>指示書入力要領に従い修正Heian Period → Heian period</cmt>
+</sen>
+<sen id="9">
+<j>縄文時代住居址レプリカ（実物大）</j>
+<e type="trans" ver="1">A replica of a dwelling site in Jomon period (in the real size)</e>
+<cmt></cmt>
+<e type="trans" ver="2">A replica of a dwelling site in Jomon period (actual size)</e>
+<cmt>Word choice.</cmt>
+<e type="check" ver="1">A replica of a dwelling site in Jomon period (actual size)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>市内で発掘された外国（中国、ペルシャ等）の陶器類</j>
+<e type="trans" ver="1">Foreign crockery (from China, Persia, etc) excavated in the city</e>
+<cmt></cmt>
+<e type="trans" ver="2">Foreign crockery (from China, Persia, etc) excavated in the city</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Foreign crockery (from China, Persia, etc) excavated in the city</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>オープンコーナー（手で触れられる）の瓶、土器、瓦など</j>
+<e type="trans" ver="1">Bottles, earthenware, tiles, etc in Opun-kona, the section where the things exhibited can be touched.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bottles, earthenware, tiles, etc in Open Corner, the section where the things exhibited can be touched.</e>
+<cmt>I imagine the English version of Opun-kona would be easier to understand.</cmt>
+<e type="check" ver="1">Bottles, earthenware, tiles, etc in the Open Corner, the section where the things exhibited can be touched.</e>
+<cmt>「オープンコーナー」に定冠詞を追加in Open Corner → in the Open Cornerなお、この後に(&quot;open&quot; style display area) などを補ってもよいかと思われます。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 ＋－(id:17104), Greenland4(id:114494), Zz2(id:30288), D.h(id:79056), Imses(id:37755), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

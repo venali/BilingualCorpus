@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>如仏の判決</j>
+<e type="trans" ver="1">Judgment of Nyobutsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Judgment of Nyobutsu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Judgment of Nyobutsu</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>如仏の判決（にょぶつのはんけつ）は、囲碁のルールのうちの死活において「両劫に仮生一つ」を認めたという鎌倉時代の判例。</j>
+<e type="trans" ver="1">Judgment of Nyobutsu is a leading case in Kamakura period concerning the life-and-death judgment in the rules of Igo (board game of capturing territory), admitting a kasho (tentative life) in double ko.</e>
+<cmt>「仮生」定訳不明ですが、意味を示す形で訳出しています。</cmt>
+<e type="trans" ver="2">Judgment of Nyobutsu is a leading case in Kamakura period concerning the life-and-death judgment in the rules of Igo (board game of capturing territory), admitting a kasho (tentative life) in double ko.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Judgment of Nyobutsu is a leading case in Kamakura period concerning the life-and-death judgment in the rules of Igo (board game of capturing territory), admitting a kasho (tentative life) in double ko.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>日本棋院などの現代の囲碁ルールでは否定されている。</j>
+<e type="trans" ver="1">This judgment is denied in today&apos;s rules including the rule of the Nihon Ki-in (the Japanese Go Association).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This judgment is denied in today&apos;s rules including the rule of the Nihon Ki-in (the Japanese Go Association).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This judgment is denied in today&apos;s rules including the rule of the Nihon Ki-in (the Japanese Go Association).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>この生き形は「月光の活」の呼び名もある。</j>
+<e type="trans" ver="1">This form is also called &apos;gekko no katsu&apos; (life in the moonlight).</e>
+<cmt>「月光の活」定訳不明ですが、意味を示す形で訳出しています。</cmt>
+<e type="trans" ver="2">This form is also called &apos;gekko no katsu&apos; (life in the moonlight).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This form is also called &apos;gekko no katsu&apos; (life in the moonlight).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="4">
+<j>問題事例</j>
+<e type="trans" ver="1">Case example</e>
+<cmt></cmt>
+<e type="trans" ver="2">Problem case</e>
+<cmt>単語の修正。</cmt>
+<e type="check" ver="1">Problem case</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>図におけるコウ両コウ（左辺）があり、同じ盤面上に一眼とコウを持つ白石（右辺）がある場合の、右辺の白石の生死に関する問題。</j>
+<e type="trans" ver="1">If there is a double-ko (left-hand side) and a white stone with a me and ko (right-hand side) on the same board, then is the white stone on the right dead or alive?</e>
+<cmt>「一眼」定訳不明</cmt>
+<e type="trans" ver="2">It is a problem as to the the life or death of a white stone on the right-hand side, in case there is a double-ko (left-hand side) and a white stone with a me and ko (right-hand side) on the same board shown as the figure.</e>
+<cmt>then～を文の前半に修正。「図における」の訳抜け。</cmt>
+<e type="check" ver="1">It is a problem as to the the life or death of a white stone on the right-hand side, in case there is a double-ko (left-hand side) and a white stone with a me and ko (right-hand side) on the same board shown as the figure.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="6">
+<j>部分死活論</j>
+<e type="trans" ver="1">Theory of partial life-and-death</e>
+<cmt></cmt>
+<e type="trans" ver="2">Theory of partial life-and-death</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Theory of partial life-and-death</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>- 両コウに関わらず、右辺の白石は「死」</j>
+<e type="trans" ver="1">Despite the double ko, the white stone on the right is dead.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Despite the double ko, the white stone on the right is in &apos;death&apos;.</e>
+<cmt>dead→death</cmt>
+<e type="check" ver="1">Despite the double ko, the white stone on the right is in &apos;death&apos;.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>全局死活論</j>
+<e type="trans" ver="1">Theory of life-and-death in all stages</e>
+<cmt></cmt>
+<e type="trans" ver="2">Theory of life-and-death in all stages</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Theory of life-and-death in all stages</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>- 右辺のコウを黒から取られても、両コウのところに無限のコウ材があるため、常にコウを取り返せるので「生」</j>
+<e type="trans" ver="1">The white stone is alive, since even if the black stone takes the ko on the right, the white always has a chance to get ko back since it has endless kozai at the place of double ko.</e>
+<cmt>「コウ材」定訳不明</cmt>
+<e type="trans" ver="2">The white stone is in &apos;life&apos; since even if the black stone takes the ko on the right, it has endless kozai at the place of double ko and the white always has a chance to get ko back.</e>
+<cmt>alive→in life、the white always～を修正。</cmt>
+<e type="check" ver="1">The white stone is in &apos;life&apos; since even if the black stone takes the ko on the right, it has endless kozai at the place of double ko and the white always has a chance to get ko back.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>という考えの、どちらが正しいかが問題となる。</j>
+<e type="trans" ver="1">These are the two alternatives.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a problem which theory is correct.</e>
+<cmt>全体を修正しました。</cmt>
+<e type="check" ver="1">It is a problem which theory is correct.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="11">
+<j>発端</j>
+<e type="trans" ver="1">Beginning</e>
+<cmt></cmt>
+<e type="trans" ver="2">Beginning</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Beginning</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>『古今著聞集』に当時の出来事として、この問題の記述がある。</j>
+<e type="trans" ver="1">The problem was described in the &quot;Kokon Chomon ju&quot; (A Collection of Tales Heard, Past and Present) as an incident that took place those days.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The problem was described in the &quot;Kokon Chomon ju&quot; (A Collection of Tales Heard, Past and Present) as an incident that took place those days.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The problem was described in the &quot;Kokon Chomon ju&quot; (A Collection of Tales Heard, Past and Present) as an incident that took place those days.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>1253年（建長5年）に法探坊と刑部坊という二人の僧の対局にこの形が現れた。</j>
+<e type="trans" ver="1">In 1253, during the game of two Buddhist monks Hotan-bo and Gyobu-bo, this form appeared.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">In 1253, during the game of two Buddhist monks Hotan-bo and Gyobu-bo, this form appeared.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In 1253, during the game of two Buddhist monks Hotan-bo and Gyobu-bo, this form appeared.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>法探坊は生と、刑部坊は死と主張して決着がつかなかった。</j>
+<e type="trans" ver="1">Hotan-bo insisted that it was alive while Gyobu-bo insisted otherwise, and so the problem was not settled.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Hotan-bo insisted that it was alive while Gyobu-bo insisted otherwise, and so the problem was not settled.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hotan-bo insisted that it was alive while Gyobu-bo insisted otherwise, and so the problem was not settled.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>当時の囲碁の上手と言われた備中法眼俊快に訪ねたところ「両劫にかせう一つとは是なり」（生）と言った。</j>
+<e type="trans" ver="1">They asked the then Igo master, Hogan Shunkai of Bichu, and received an answer admitting a kasho in double ko.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">They asked the then Igo master, Hogan Shunkai of Bichu, and received an answer admitting a kasho in double ko (alive).</e>
+<cmt>(alive)を補足。</cmt>
+<e type="check" ver="1">They asked the then Igo master, Hogan Shunkai of Bichu, and received an answer admitting a kasho in double ko (alive).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>さらに如仏に尋ねると「目一つありと雖も、両劫のあらむには死石にあらず」（生）と述べられた。</j>
+<e type="trans" ver="1">Then they asked Nyobutsu and received an answer saying that it was not the dead stone in double ko although there was a me.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Then they asked Nyobutsu and received an answer saying that it was not the dead stone in double ko although there was a me (alive).</e>
+<cmt>(alive)を補足。</cmt>
+<e type="check" ver="1">Then they asked Nyobutsu and received an answer saying that it was not the dead stone in double ko although there was a me (alive).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>法探坊の勝ちと認められた。</j>
+<e type="trans" ver="1">As a result, Hotan-bo was admitted as a winner.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">As a result, Hotan-bo was admitted as a winner.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As a result, Hotan-bo was admitted as a winner.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>以後、これが「如仏の判決」として伝え残る。</j>
+<e type="trans" ver="1">Afterwards, the judgment was passed down as the &apos;judgment of Nyobutsu.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Afterwards, the judgment was passed down as the &apos;Judgment of Nyobutsu.&apos;</e>
+<cmt>Judgment J大文字に。</cmt>
+<e type="check" ver="1">Afterwards, the judgment was passed down as the &apos;Judgment of Nyobutsu.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="19">
+<j>家元会議</j>
+<e type="trans" ver="1">Iemoto (the head family of a school) conference</e>
+<cmt></cmt>
+<e type="trans" ver="2">Iemoto (the head family of a school) conference</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Iemoto (the head family of a school) conference</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>1821年（文政4年）に備後福山藩の儒学者太田八郎が、家元四家にこの問題について問い合わせた。</j>
+<e type="trans" ver="1">In 1821, a Confucian scholar in Bingofukuyama Domain, Hachiro OTA, asked about this problem to the four iemoto.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1821, a Confucian scholar in Bingofukuyama Domain, Hachiro OTA, asked about this problem to the four iemoto.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In 1821, a Confucian scholar in Bingofukuyama Domain, Hachiro OTA, asked about this problem to the four iemoto.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>本因坊元丈・安井知得仙知・井上因砂因碩・林元美・服部因淑が討議し、元丈から「如仏非に成りし」と回答。</j>
+<e type="trans" ver="1">Honinbo Genjo, Chitokusenchi YASUI, Insainseki INOUE, Genbi HAYASHI and Inshuku HATTORI held a discussion and Genjo announced their answer denying Nyobutsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Honinbo Genjo, Chitokusenchi YASUI, Insainseki INOUE, Genbi HAYASHI and Inshuku HATTORI held a discussion and Genjo announced their answer denying Nyobutsu.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Honinbo Genjo, Chitokusenchi YASUI, Insainseki INOUE, Genbi HAYASHI and Inshuku HATTORI held a discussion and Genjo announced their answer denying Nyobutsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>これによりルール解釈が覆ることとなった。</j>
+<e type="trans" ver="1">This meant that the interpretation of the rules was reversed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This meant that the interpretation of the rules was reversed.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This meant that the interpretation of the rules was reversed.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="23">
+<j>また俊快の述べた「かせう」の文字は「仮生」「可生」「加生」などとする説があった。</j>
+<e type="trans" ver="1">&apos;Kasho,&apos; the word Shunkai said, was interpreted as a tentative life, possible life or adding life.</e>
+<cmt>「仮生」「可生」「加生」定訳不明ですが、意味が分からないと不明瞭になるので訳出しています。</cmt>
+<e type="trans" ver="2">Kasho&apos; the word Shunkai said was interpreted as a tentative life, possible life or adding life.</e>
+<cmt>コンマを除きました。</cmt>
+<e type="check" ver="1">Kasho&apos; the word Shunkai said was interpreted as a tentative life, possible life or adding life.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="24">
+<j>現代の判断</j>
+<e type="trans" ver="1">Today&apos;s judgment</e>
+<cmt></cmt>
+<e type="trans" ver="2">Today&apos;s judgment</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Today&apos;s judgment</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>明治時代になると如仏の判決（全局死活論）を支持する棋士 (囲碁)が多かったが、日本棋院が1949年に制定した囲碁規約では部分死活論が採用された。</j>
+<e type="trans" ver="1">In Meiji period, many Igo players supported the judgment of Nyobutsu (theory of life-and-death in all stages), but Nihon Ki-in adopted the theory of partial life-and-death when it established the rule in 1949.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Meiji period, many Igo players supported the judgment of Nyobutsu (theory of life-and-death in all stages), but Nihon Ki-in adopted the theory of partial life-and-death when it established the rule in 1949.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In Meiji period, many Igo players supported the judgment of Nyobutsu (theory of life-and-death in all stages), but Nihon Ki-in adopted the theory of partial life-and-death when it established the rule in 1949.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>中国ルール・台湾ルール（計点制ルール）では、全局的な同形反復禁止の観点から死とされる。</j>
+<e type="trans" ver="1">Under China and Taiwan rules (point system rules), the judgment is death from the standpoint of forbidding repeated movement in the game.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under China and Taiwan rules (point system rules), the judgment is death from the standpoint of forbidding repeated movement in the game.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Under China and Taiwan rules (point system rules), the judgment is death from the standpoint of forbidding repeated movement in the game.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>1989年の日本囲碁規約改訂では、対局の停止後での「死活確認の際における同一劫での取り返しは、行うことができない」という規定により、これが継承された。</j>
+<e type="trans" ver="1">When the Nihon Ki-in&apos;s rule was revised in 1989, the idea was succeeded through the regulation forbidding taking the same go in the judgment of life-and-death after the game is finished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When the Nihon Ki-in&apos;s rule was revised in 1989, the idea was succeeded through the regulation &apos;forbidding to take back the same ko in the judgment of life-and-death&apos; after the game is finished.</e>
+<cmt>taking→to take back、 go→koに修正、鍵括弧を補足。</cmt>
+<e type="check" ver="1">When the Nihon Ki-in&apos;s rule was revised in 1989, the idea was succeeded through the regulation &apos;forbidding to take back the same ko in the judgment of life-and-death&apos; after the game is finished.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="28">
+<j>1959年の呉清源 - 藤沢朋斎の三番勝負第2局において、呉が全局死活論での対局を申し入れた。</j>
+<e type="trans" ver="1">In 1959, in the second game out of three match series between Seigen GO and Hosai FUJISAWA, Go asked for playing the game under the theory of life-and-death in all stages.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1959, in the second game out of three match series between Seigen GO and Hosai FUJISAWA, Go asked for playing the game under the theory of life-and-death in all stages.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In 1959, in the second game out of three match series between Seigen GO and Hosai FUJISAWA, Go asked for playing the game under the theory of life-and-death in all stages.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>呉が日本棋院所属棋士ではないために可能だった提案である。</j>
+<e type="trans" ver="1">Go could make this proposal because he was not a member of the Nihon Ki-in.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Go could make this proposal because he was not a member of the Nihon Ki-in.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Go could make this proposal because he was not a member of the Nihon Ki-in.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>藤沢はこれを了承し、例外的なルールでの対局が行われた例となった。</j>
+<e type="trans" ver="1">Fujisawa approved this, and the game became a case where an exceptional rule was adopted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since Fujisawa approved this, the game became the case which an exceptional rule was adopted.</e>
+<cmt>and→Since、a→the、where→ which　に修正。</cmt>
+<e type="check" ver="1">Since Fujisawa approved this, the game became the case which an exceptional rule was adopted.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>これは直前に行われた呉 - 高川格の本因坊三番碁の第2局で、終局時にコウの手入れを巡るルール解釈の問題が生じたことから、当時不合理な点の残る当時の囲碁規約見直しについての問題提起の一つであった、との見方もある。</j>
+<e type="trans" ver="1">Some see this as an action to encourage the revision of the then Japan Igo rules with several unreasonable points, after the incident at the preceding game between Go and Kaku TAKAGAWA, the second game out of Honinbo three match series, where there was a trouble in the interpretation of the rules concerning the ko at the end of the game.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some people take the view of this as an action to raise a question about the revision of the then Japan Igo rules with several unreasonable points since there was a trouble in the interpretation of the rules concerning the ko at the end of the game of the preceding the second game out of Honinbo three match series between Go and Kaku TAKAGAWA.</e>
+<cmt>Some～revision、after～の文の構成を修正しました。</cmt>
+<e type="check" ver="1">Some people take the view of this as an action to raise a question about the revision of the then Japan Igo rules with several unreasonable points since there was a trouble in the interpretation of the rules concerning the ko at the end of the game of the preceding the second game out of Honinbo three match series between Go and Kaku TAKAGAWA.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Sugitaro(id:35441), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

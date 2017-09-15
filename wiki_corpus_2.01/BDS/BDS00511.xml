@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>赤山禅院</j>
+<e type="trans" ver="1">Sekizanzenin Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sekizanzenin Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sekizanzenin Temple</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>赤山禅院（せきざんぜんいん）は、京都市左京区修学院にある天台宗の寺院。</j>
+<e type="trans" ver="1">Sekizanzenin Temple is a Tendai sect Temple located at Shugakuin, Sakyo-ku Ward, Kyoto City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sekizanzenin Temple, located at Shugakuin, Sakyo-ku Ward, Kyoto City, is a temple of the Tendai sect.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Sekizanzenin Temple, located at Shugakuin, Sakyo Ward, Kyoto City, is a temple of the Tendai sect.</e>
+<cmt>左京区 Sakyo-ku Ward → Sakyo Ward</cmt>
+</sen>
+<sen id="2">
+<j>延暦寺の別院（塔頭）の一つ。</j>
+<e type="trans" ver="1">It is one of the branch Temples (tatchu (sub-Temples in the site of main Temple) of Enryaku-ji Temple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is one of the branch temples (tatchu (sub-temples in the site of main temple) of Enryaku-ji Temple.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">It is one of the branch temples or tacchu (sub-temples in the site of main temple) of Enryaku-ji Temple.</e>
+<cmt>塔頭tatchu → tacchuthe branch temples (tacchu (sub-temples in the site of main temple) → the branch temples or tacchu (sub-temples in the site of main temple)</cmt>
+</sen>
+<sen id="3">
+<j>本尊は泰山府君（赤山大明神）。</j>
+<e type="trans" ver="1">Honzon (principal image of Buddha) is Taizan Fukun (Sekizan Daimyojin, one of the Japanese God.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Honzon (principal image of Buddha) is Taizan Fukun (Sekizan Daimyojin, one of the Japanese gods).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Its honzon (principal image of Buddha) is Taizan Fukun (Sekizan Daimyojin, one of the Japanese gods).</e>
+<cmt>主語に Its を追記</cmt>
+</sen>
+<sen id="4">
+<j>京都御所から見て鬼門の方角（東北）に当たるため、方除けの神として、古来信仰を集めた。</j>
+<e type="trans" ver="1">As the Temple is located at the northeast from the Kyoto Palace which is kimon direction (kimon-the northeastern (unlucky) direction, person or thing to be avoided), it is worshipped as a god of hoyoke (protection for removing calamities related to direction) from ancient time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the temple is located northeast of Kyoto Palace, which is the kimon direction (kimon-the northeastern (unlucky) direction, a person or thing to be avoided), since ancient times it has been worshipped as a god of hoyoke (protection for removing calamities related to direction).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because the temple is located northeast of Kyoto Imperial Palace, which is the kimon direction (kimon-the northeastern (unlucky) direction, a person or thing to be avoided), since ancient times it has been worshipped as a god of hoyoke (protection for removing calamities related to direction).</e>
+<cmt>京都御所Kyoto Palace → Kyoto Imperial Palace</cmt>
+</sen>
+<sen id="5">
+<j>拝殿の屋根の上には、御所の東北角・猿ヶ辻の猿と対応して、御幣と鈴を持った猿が安置されている。</j>
+<e type="trans" ver="1">On the roof of the haiden (a hall of worship) is a model monkey laid out who has a gohei (wooden wands, decorated with two Shide (zigzag paper streamers)) and a bell just in contraposition to the monkey of Saru ga Tsuji (crossroad of monkeys) where northeast corner of the palace.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the roof of the haiden (a hall of worship) is a model monkey laid out who has a gohei (wooden wands, decorated with two Shide (zigzag paper streamers)) and a bell opposite the monkey of Saru ga Tsuji (crossroad of monkeys) at the northeast corner of the palace.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">On the roof of the haiden (a hall of worship) is a model monkey laid out who has a gohei (a wooden ritual wand decorated with plaited paper streamers) and a bell opposite the monkey of Saru ga Tsuji (crossroad of monkeys) at the northeast corner of the palace.</e>
+<cmt>御幣a gohei (wooden wands, decorated with two Shide (zigzag paper streamers)) → a gohei (a wooden ritual wand decorated with plaited paper streamers)</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="6">
+<j>比叡山延暦寺の延暦寺千日回峰行においては、そのうち百日の間、比叡山から雲母坂を登降する「赤山苦行」と称する荒行がある。</j>
+<e type="trans" ver="1">In the Mt. Hiei Enryaku-ji Temple&apos;s Sennichi kaihogyo (1000 day circumambulation practice), there is a severe practice of 100 days among the 1000 days to up and down the hills from Mt. Hiei to Kirarazaka Slope called &quot;Sekizan Kugyo (self-torment practice at Sekizan).&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Sennichi kaihogyo (1000-day circumambulation practice) of Mt. Hiei Enryaku-ji Temple&apos;s Sennichi kaihogyo (1000-day circumambulation practice), there is a severe practice called &quot;Sekizan Kugyo (self-torment practice at Sekizan),&quot; in which, for 100 of the 1000 days, the practitioner goes up and down the hills from Mt. Hiei to Kirarazaka Slope.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In the Sennichi kaihogyo (1000-day circumambulation practice) of Mt. Hiei Enryaku-ji Temple, there is a severe practice called &quot;Sekizan Kugyo (self-torment practice at Sekizan),&quot; in which, for 100 of the 1000 days, the practitioner goes up and down the hills from Mt. Hiei to Kirarazaka Slope.</e>
+<cmt>「比叡山延暦寺の延暦寺千日回峰行」内容重複のため、後半部の &apos;s Sennichi kaihogyo (1000-day circumambulation practice) を削除</cmt>
+</sen>
+<sen id="7">
+<j>これは、赤山大明神に対して花を供するために、毎日、比叡山中の行者道に倍する山道を高下するものである。</j>
+<e type="trans" ver="1">This is to go up and down the hills and mountains everyday on extremely harder paths than normal road for disciplinant in the Mt. Hiei to serve flowers to Sekizan Daimyojin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This is to go up and down the hills and mountains every day on increasingly more difficult paths than normal roads for the disciplinant in Mt. Hiei, in order to serve flowers to Sekizan Daimyojin.</e>
+<cmt>space</cmt>
+<e type="check" ver="1">This is to go up and down the hills and mountains every day on increasingly more difficult paths than normal roads for the disciplinant in Mt. Hiei, in order to serve flowers to Sekizan Daimyojin.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>現在では、境内の福禄寿殿が、「都七福神」の一つとされている。</j>
+<e type="trans" ver="1">Today, Fukurokujuden hall in the precincts of the shrine is said to be one of the &quot;Miyako Shichifukujin (Seven Deities of Good Fortune in Kyoto).&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Today, Fukurokujuden Hall in the precincts of the shrine is said to be one of the &quot;Miyako Shichifukujin (Seven Deities of Good Fortune in Kyoto).&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Today, Fukurokujuden (Hall of Fukurokuju, who is a tall headed god of happiness, wealth, and long life) in the precincts of the shrine is said to be one of the &quot;Miyako Shichifukujin (Seven Deities of Good Fortune in Kyoto).&quot;</e>
+<cmt>「福禄寿殿」「福禄寿」の説明を追加Fukurokujuden Hall → Fukurokujuden (Hall of Fukurokuju, who is a tall headed god of happiness, wealth, and long life)</cmt>
+</sen>
+<sen id="9">
+<j>また、紅葉の名所でもある。</j>
+<e type="trans" ver="1">There is also a beauty spot of autumn color of leaves.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is also a picturesque spot for the viewing of colorful autumn foliage.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There is also a picturesque spot for the viewing of colorful autumn foliage.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>歴史</j>
+<e type="trans" ver="1">History in Brief</e>
+<cmt></cmt>
+<e type="trans" ver="2">History in Brief</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>in Brief を削除</cmt>
+</sen>
+<sen id="11">
+<j>開創は、仁和4年（888年）。</j>
+<e type="trans" ver="1">It was founded in 888.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was founded in 888.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It was founded in 888.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>「赤山」の名は、入唐僧円仁に由来する。</j>
+<e type="trans" ver="1">The name &quot;Sekizan&quot; is derived from the Temple where a nyuto-priest (priest who went to China for studying) Ennin stayed in China.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The name &quot;Sekizan&quot; is derived from the temple where the nyuto-priest (priest who went to China for study) Ennin stayed in China.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The name &quot;Sekizan&quot; is derived from the temple where the nyuto-priest (priest who went to China for study) Ennin stayed in China.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>円仁は、山東省で滞在した赤山法華院に因んだ禅院の建立を発願したが、果たせないままに没した。</j>
+<e type="trans" ver="1">Ennin officially wished to build a Zen temple similar to and after Ch&apos;ih-shan Fa-hua-yuan (in Chinese, Sekizanhokkein in Japanese) where he stayed in Shangdon Province in China, however, he died in vain.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ennin wanted to build a Zen temple modeled after Ch&apos;ih-shan Fa-hua-yuan (in Chinese, or Sekizanhokkein in Japanese), which was located in Shangdon Province of China; however, he died in vain.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Ennin wanted to build a Zen temple modeled after Ch&apos;ih-shan Fa-hua-yuan (in Chinese, or Sekizanhokkein in Japanese), which was located in Shangdon Province of China; however, he died in vain.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>その遺言により安慧が、赤山大明神（泰山府君）を勧請して建立したのが、赤山禅院である。</j>
+<e type="trans" ver="1">The temple Anne made a kanjo (ceremonial transfer of a divided tutelary deity to a new location) on Sekizan Daimyojin (Taizan Fukun) based on the will of Ennin and built is the Sekizanzenin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The temple Anne made a kanjo (ceremonial transfer of a divided tutelary deity to a new location) on Sekizan Daimyojin (Taizan Fukun) based on the will of Ennin, and built the Sekizanzenin.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The temple Anne made a kanjo (ceremonial transfer of a divided tutelary deity to a new location) on Sekizan Daimyojin (Taizan Fukun) based on the will of Ennin, and built the Sekizanzenin.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="15">
+<j>所在地</j>
+<e type="trans" ver="1">Location</e>
+<cmt></cmt>
+<e type="trans" ver="2">Location</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Location</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>京都府京都市左京区修学院開根坊町18</j>
+<e type="trans" ver="1">18, Shugakuin Kaikonbo-cho, Sakyo-ku Ward, Kyoto City, Kyoto Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">18, Shugakuin Kaikonbo-cho, Sakyo-ku Ward, Kyoto City, Kyoto Prefecture</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">18, Shugakuin Kaikonbo-cho, Sakyo Ward, Kyoto City, Kyoto Prefecture</e>
+<cmt>Sakyo-ku Ward → Sakyo Ward</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>アクセス</j>
+<e type="trans" ver="1">Access</e>
+<cmt></cmt>
+<e type="trans" ver="2">Access</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Access</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="17">
+<j>叡山電鉄叡山本線修学院駅から徒歩20分</j>
+<e type="trans" ver="1">20 minutes walk from the Shugakuin Station of the Eizan honsen (Main line) of the Eizan Electric Railways.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is a 20-minute walk from Shugakuin Station of the Eizan honsen (Main line) of the Eizan Electric Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is a 20-minute walk from Shugakuin Station of the Eizan honsen (Main line) of the Eizan Electric Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>京都市バス　修学院離宮道から徒歩20分</j>
+<e type="trans" ver="1">20 minutes walk from the Kyoto City Bus Shugakuin Rikyu michi Stop.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It&apos;s a 20-minute walk from Shugakuinrikyu-michi stop of Kyoto City Bus.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It&apos;s a 20-minute walk from Shugakuinrikyu-michi stop of Kyoto City Bus.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Chobot(id:20846), Hideyuki(id:9577), Chi-Ham(id:143515), Y3006(id:155535), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

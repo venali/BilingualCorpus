@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>みつまめ</j>
+<e type="trans" ver="1">Mitsumame dessert (boiled beans, cubes of agar gelatin, and other delicacies with molasses poured on)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mitsumame</e>
+<cmt>デザートとは限らないのでdessert 削除。括弧書きも不十分な説明のため削除しました。</cmt>
+<e type="check" ver="1">Mitsumame</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>みつまめ（みつ豆、蜜豆）は和風の甘味、デザートのひとつ。</j>
+<e type="trans" ver="1">Mitsumame is one of a Japanese style sweet or dessert.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mitsumame is one of Japanese style sweets or desserts.</e>
+<cmt>sweet→sweetsdessert→dessersa は削除</cmt>
+<e type="check" ver="1">Mitsumame is one of Japanese style sweets or desserts.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>もとは夏の食べ物で俳諧でも夏の季語になっているが、現在では四季を問わず食べられている。</j>
+<e type="trans" ver="1">Originally it was a food of Summer and name of it is included in the haiku season words of Summer, but today it is eaten regardless of the season.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Originally it was a food of summer and the name is included in the haiku season words of summer, but today it is eaten in all seasons.</e>
+<cmt>Summer→summerbut の前のスペース短縮NC_Checkregardless of the season→in all seasonsname of it→the name</cmt>
+<e type="check" ver="1">Originally it was a summer foodand the name is included in the haiku season words of summer, but today it is eaten in all seasons.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>基本は、ゆでた赤エンドウマメ、さいの目に切った寒天、求肥、白玉だんご、ミカンやモモなどのフルーツ（シロップ漬けされた缶詰を使うことが一般的）などを器に盛って、黒蜜や糖蜜（もしくはシロップ）をかけたもの。</j>
+<e type="trans" ver="1">The basis style is that boiled red peas, cubes of agar gelatin, gyuhi (a kind of rice cake made from glutinous rice or glutinous rice flour), rice-flour dumplings, and fruits such as mandarin orange or peach are placed in a bowl then dark molasses or molasses, or syrup is poured on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The basis style is that boiled red peas, cubes of agar gelatin, gyuhi (a kind of rice cake made from glutinous rice or glutinous rice flour), rice-flour dumplings, and fruits such as mandarin orange or peach (canned fruits in syrup are generally used) are placed in a bowl then dark molasses or molasses, or syrup is poured on.</e>
+<cmt>NC_Check（シロップ漬けされた缶詰を使うことが一般的）　訳漏れ対応しました。</cmt>
+<e type="check" ver="1">The base is made of boiled red peas, cubes of agar gelatin, gyuhi (a kind of rice cake made from glutinous rice or glutinous rice flour), rice-flour dumplings, and fruit such as mandarin orange or peach (canned fruits in syrup are generally used) are placed in a bowl then dark molasses or molasses, or syrup is poured on.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>盛り合わせる具によって数多くの種類がある。</j>
+<e type="trans" ver="1">There are variety of styles depending on materials included.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are variety of styles depending on materials included.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">There are a variety of styles depending upon ingredients included.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="5">
+<j>下にその中で一般的なものをいくつか記す。</j>
+<e type="trans" ver="1">Some of typical types are as follows.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Some of typical types are as follows.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Some of typical types are as follows.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="6">
+<j>あんみつ：アズキ餡（つぶ餡、こし餡の両方がある）を盛り付けたもの</j>
+<e type="trans" ver="1">Anmitsu: Mitsumame with azuki bean paste (two types available: type with whole or crashed grain and koshian (strained type)) put on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Anmitsu: Mitsumame with azuki bean jam (whole bean type and strained type are available) put on.</e>
+<cmt>括弧内を変更しました。paste→jam （後でjamで出てくるため統一しました。）NC_Check</cmt>
+<e type="check" ver="1">Anmitsu: Mitsumame with azuki bean jam (whole bean and strained types are available) are included.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="7">
+<j>豆かん：マメと寒天のみのもの</j>
+<e type="trans" ver="1">Mamekan: Contains only beans and cubes of agar gelatin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mamekan: Contains only beans and cubes of agar gelatin.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Mamekan: Contains only beans and cubes of agar gelatin.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="8">
+<j>クリームみつ豆：アイスクリームを盛りあわせたもの（ホイップクリームの場合もある）</j>
+<e type="trans" ver="1">Cream Mitsumame: Mitsumame with ice cream or whipped cream.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Cream Mitsumame: Mitsumame with ice cream or whipped cream.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Cream Mitsumame: Mitsumame with ice cream or whipped cream.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="9">
+<j>フルーツみつ豆：切り分けた果物を盛り合わせたもの</j>
+<e type="trans" ver="1">Fruits Mitsumame: Mitsumame with sliced fruits.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fruits Mitsumame: Mitsumame with sliced fruits.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Fruit Mitsumame: Mitsumame with sliced fruit.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="10">
+<j>コーヒーみつ豆：さいの目に切ったコーヒーゼリーを盛り合わせたもの</j>
+<e type="trans" ver="1">Coffee Mitsumame: Mitsumame with cubes of coffee jelly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Coffee Mitsumame: Mitsumame with cubes of coffee jelly.</e>
+<cmt>NC_Check</cmt>
+<e type="check" ver="1">Coffee Mitsumame: Mitsumame with cubes of coffee jelly.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="11">
+<j>みつまめの原形は江戸時代末期に売られていた糝粉細工の船に赤エンドウマメを入れて蜜をかけた子供向けの菓子であった。</j>
+<e type="trans" ver="1">The original form of mitsumame was a confectionery for children which was red peas in a boat of shinkozaiku with molasses poured on, in end of Edo period.</e>
+<cmt>糝粉細工、定訳不明</cmt>
+<e type="trans" ver="2">The original form of mitsumame was a confectionery for children which was red peas in a boat of shinkozaiku (a kind of rice cake) with molasses poured on, in the end of the Edo period.</e>
+<cmt>「糝粉細工」定訳不明ですが、説明を加えました。NC_Checkend→the endEdo→the Edo</cmt>
+<e type="check" ver="1">The original form of mitsumame was a confectionery for children made of red peas in a boat of shinkozaiku (a kind of rice cake) with molasses poured on, at the end of the Edo period.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="12">
+<j>現在のような形態のみつまめは、1903年に浅草の「舟和」が売り出したものが最初と言われる。</j>
+<e type="trans" ver="1">It is said that mitsumame of today&apos;s form was sold for the first time in 1903 by Funawa placed at Asakusa.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is said that mitsumame of today&apos;s form was sold for the first time in 1903 by &apos;Funawa&apos; placed at Asakusa.</e>
+<cmt>Funawa→&apos;Funawa&apos;NC_Check</cmt>
+<e type="check" ver="1">It is said that mitsumame in today&apos;s form was sold for the first time in 1903 by &apos;Funawa&apos; in Asakusa.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="13">
+<j>これは銀の容器に赤エンドウマメ、賽の目に刻んだ寒天、あんず、餅などを入れ蜜をかけたものであった。</j>
+<e type="trans" ver="1">It was red peas, cubes of agar gelatin, apricot, and mochi (rice cake) contained in silver bowl and molasses poured on them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was red peas, cubes of agar gelatin, apricot, and mochi (rice cake) contained in a silver bowl and molasses poured on them.</e>
+<cmt>NC_Checksilver→a silver</cmt>
+<e type="check" ver="1">It consisted of red peas, cubes of agar gelatin, apricot, and mochi (rice cake) contained in a silver bowl with molasses poured on top.</e>
+<cmt>grammar</cmt>
+</sen>
+<sen id="14">
+<j>舟和はみつまめを当時流行していた「ビアホール」「ミルクホール」にあやかった「みつ豆ホール」と名付けた西洋風喫茶で売り出し、大人向けの甘味として好評を博した。</j>
+<e type="trans" ver="1">Funawa served mitsumame at the Western teahouse named &quot;Mitsumame hall&quot; following the name of &quot;Beer Hall&quot; and &quot;Milk Hall&quot; which was popular at that time, getting favorable notice as sweets for adults.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Funawa served mitsumame at the Western teahouse named &apos;Mitsumame hall&apos; following the name of &apos;Beer Hall&apos; and &apos;Milk Hall&apos; which were popular at that time, getting favorable notice as sweets for adults.</e>
+<cmt>was→wereNC_Check&quot; &quot;→&apos; &apos;</cmt>
+<e type="check" ver="1">Funawa served mitsumame at a Western teahouse named &apos;Mitsumame hall&apos; following the name of &apos;Beer Hall&apos; and &apos;Milk Hall&apos; which were popular at that time, creating favorable attention as sweets for adults.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="15">
+<j>1930年には銀座のお汁粉屋「若松」がみつまめに餡をのせたあんみつを発売した。</j>
+<e type="trans" ver="1">In 1930, an osiruko (sweet red-bean soup with pieces of rice cake) shop &quot;Wakamatsu&quot; located at Ginza launched anmitsu which is a mitsumame with bean jam on it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In 1930, an oshiruko (sweet red-bean soup with pieces of rice cake) shop &apos;Wakamatsu&apos; located at Ginza launched anmitsu which was a mitsumame with bean jam on it.</e>
+<cmt>osiruko→oshirukoNC_Checkis→was</cmt>
+<e type="check" ver="1">In 1930, an oshiruko (sweet red-bean soup with pieces of rice cake) shop &apos;Wakamatsu&apos; located in the Ginza launched anmitsu which was a mitsumame with bean jam on it.</e>
+<cmt>grammar</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Opponent(id:720), Kurayamizaka(id:7150), 竃馬(id:102733), Corwin(id:973), Law soma(id:45202), Union of the Snakeman(id:184576), Hotei(id:7664), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

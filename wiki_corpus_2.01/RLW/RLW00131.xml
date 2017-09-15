@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>きのさき (列車)</j>
+<e type="trans" ver="1">&quot;Kinosaki&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Kinosaki&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kinosaki (train)</e>
+<cmt>&quot; を削除し(列車）を追加しました。</cmt>
+</tit>
+<sen id="1">
+<j>きのさきとは、西日本旅客鉄道（JR西日本）が京都駅～城崎温泉駅間を山陰本線（嵯峨野線）経由で運行する特別急行列車。</j>
+<e type="trans" ver="1">&quot;Kinosaki&quot; is a Limited Express train which is operated by West Japan Railway Company (JR West) on the section between Kyoto Station and Kinosakionsen Station through the San&apos;in Main Line (Sagano Line).</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Kinosaki&quot; is a limited express train operated by West Japan Railway Company (JR West) on the section between Kyoto Station and Kinosakionsen Station through the San&apos;in Main Line (Sagano Line).</e>
+<cmt>case</cmt>
+<e type="check" ver="1">&quot;Kinosaki&quot; is a limited express train operated by West Japan Railway Company (JR West) on the section between Kyoto Station and Kinosakionsen Station through the Sanin Main Line (Sagano Line).</e>
+<cmt>アポストロフィを削除し、sanin としました。</cmt>
+</sen>
+<par id="1">
+<sen id="2">
+<j>北近畿ビッグXネットワークを形成する列車の1つである。</j>
+<e type="trans" ver="1">It is one of the trains that form the North Kinki Big X Network.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It&apos;s one of the trains that together comprise the North Kinki Big X Network.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It&apos;s one of the trains that together comprise the North Kinki Big X Network.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>イメージカラーは紫色。</j>
+<e type="trans" ver="1">The color used for this train is purple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The train&apos;s color is purple.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The train color is purple.</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="4">
+<j>走行路線の一つである嵯峨野線のラインカラーにちなんでいる。</j>
+<e type="trans" ver="1">This color is based on the line color of the Sagano Line, one of the operation lines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This color is based on the color of the Sagano Line, one of the operation lines.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This color is based on the color of the Sagano Line, one of the operation lines.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>運行概況</j>
+<e type="trans" ver="1">Operation overview</e>
+<cmt></cmt>
+<e type="trans" ver="2">Operation overview</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Summary of the operation</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>運行本数</j>
+<e type="trans" ver="1">Number of operations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Number of operations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Number of operations</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>下り（京都→城崎温泉）3本（1.3.5号）</j>
+<e type="trans" ver="1">Up (Kyoto -&gt; Kinosakionsen Station) 3 trains (#1, 3 and 5)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Up (Kyoto -&gt; Kinosakionsen Station): Three trains (nos. 1, 3 and 5)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Inbound (from Kyoto to Kinosakionsen): Three trains (nos. 1, 3 and 5)</e>
+<cmt>上り→inbound としました。</cmt>
+</sen>
+<sen id="7">
+<j>上り（城崎温泉→京都）5本（2.4.6.8.10号）</j>
+<e type="trans" ver="1">Down (Kinosakionsen Station -&gt; Kyoto) 5 trains (#2, 4, 6, 8, and 10)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Down (Kinosakionsen Station -&gt; Kyoto): Five trains (nos. 2, 4, 6, 8 and 10)</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Outbound (from Kinosakionsen to Kyoto): Five trains (nos. 2, 4, 6, 8 and 10)</e>
+<cmt>下り→outboundとしました。</cmt>
+</sen>
+<sen id="8">
+<j>一部の列車では車内販売も行われている。</j>
+<e type="trans" ver="1">Sales of some food, drink and other small items are available on some of the trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Food, drink and other small items are available for sale on some of the trains.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Food, drink and other small items are available for sale on some of the trains.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>最高速度</j>
+<e type="trans" ver="1">Maximum speed</e>
+<cmt></cmt>
+<e type="trans" ver="2">Maximum speed</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Maximum speed</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="9">
+<j>京都駅～福知山駅間 120km/h</j>
+<e type="trans" ver="1">Between Kyoto Station and Fukuchiyama Station: 120 km/h</e>
+<cmt></cmt>
+<e type="trans" ver="2">Between Kyoto Station and Fukuchiyama Station: 120 km/h</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Between Kyoto Station and Fukuchiyama Station: 120 km/h</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>福知山駅～城崎温泉駅間 95km/h</j>
+<e type="trans" ver="1">Between Fukuchiyama Station and Kinosakionsen Station: 95 km/h</e>
+<cmt></cmt>
+<e type="trans" ver="2">Between Fukuchiyama Station and Kinosakionsen Station: 95 km/h</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Between Fukuchiyama Station and Kinosakionsen Station: 95 km/h</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>使用車両</j>
+<e type="trans" ver="1">Rolling stock used</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rolling stock used</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rolling stock used</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="11">
+<j>国鉄183系電車</j>
+<e type="trans" ver="1">JNR/JR Limited Express Series 183</e>
+<cmt></cmt>
+<e type="trans" ver="2">JNR/JR Limited Express Series 183</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">JNR/JR Limited Express Series 183</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>編成</j>
+<e type="trans" ver="1">Formation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Formation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Formation</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="12">
+<j>■枠＝グリーン車　白枠＝普通車 (鉄道車両)　自＝自由席　指＝座席指定席　※全車両禁煙</j>
+<e type="trans" ver="1">■frame = first-class car, white frame = second-class car, U = unreserved seat, R = reserved seat, *All cars are nonsmoking.</e>
+<cmt>■は原文よりコピーいたしました。また、「自」「指」の略字に関しては、それぞれ「U」「R」と致しました。</cmt>
+<e type="trans" ver="2">■frame = first-class car, white frame = second-class car, U = unreserved seat, R = reserved seat, *All cars are nonsmoking.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">frame = first-class car, white frame = ordinary car (railway car), U = unreserved seat, R = reserved seat, *All cars are nonsmoking.</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="13">
+<j>この編成はきのさき2・10・3・4号の編成</j>
+<e type="trans" ver="1">This formation is for &quot;Kinosaki&quot; #2, #10, #3 and #4.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This formation is for &quot;Kinosaki&quot; numbers 2, 10, 3 and 4.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">This formation is for &quot;Kinosaki&quot; numbers 2, 10, 3 and 4.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>1～4がきのさきの編成</j>
+<e type="trans" ver="1">From 1 to 4 represents the formation for &quot;Kinosaki.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The series from 1 to 4 represents the formation for &quot;Kinosaki.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The series from 1 to 4 represents the formation for &quot;Kinosaki.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>5～7がまいづるの編成</j>
+<e type="trans" ver="1">From 5 to 7 represents the formation for &quot;Maizuru.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The series from 5 to 7 represents the formation for &quot;Maizuru.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The series from 5 to 7 represents the formation for &quot;Maizuru.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>きのさき3・4号は1～4号車のみ</j>
+<e type="trans" ver="1">&quot;Kinosaki&quot; #3 and #4 have car #1 to #4 only.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Kinosaki&quot; numbers 3 and 4 have car numbers 1 to 4 only.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">&quot;Kinosaki&quot; numbers 3 and 4 have car numbers 1 to 4 only.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="17">
+<j>この編成はきのさき1・5・6・8号の編成</j>
+<e type="trans" ver="1">This formation is for &quot;Kinosaki&quot; #1, #5, #6 and #8.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This formation is for &quot;Kinosaki&quot; numbers 1, 5, 6 and 8.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">This formation is for &quot;Kinosaki&quot; numbers 1, 5, 6 and 8.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>2両増結することがある</j>
+<e type="trans" ver="1">There are some cases where two cars are added.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Two cars are added in certain cases.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Two cars are added in certain cases.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>停車駅</j>
+<e type="trans" ver="1">Stops</e>
+<cmt></cmt>
+<e type="trans" ver="2">Stops</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Stops</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="19">
+<j>京都駅 - 二条駅 - 亀岡駅 - 園部駅 - (胡麻駅) - 綾部駅 - 福知山駅 - 和田山駅 - 八鹿駅 - 江原駅 - 豊岡駅 (兵庫県) - 城崎温泉駅</j>
+<e type="trans" ver="1">Kyoto Station - Nijo Station - Kameoka Station - Sonobe Station - (Goma Station) - Ayabe Station - Fukuchiyama Station - Wadayama Station - Yoka Station - Ebara Station - Toyooka Station (Hyogo Prefecture) - Kinosakionsen Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Station - Nijo Station - Kameoka Station - Sonobe Station - (Goma Station) - Ayabe Station - Fukuchiyama Station - Wadayama Station - Yoka Station - Ebara Station - Toyooka Station (Hyogo Prefecture) - Kinosakionsen Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Station - Nijo Station - Kameoka Station - Sonobe Station - (Goma Station) - Ayabe Station - Fukuchiyama Station - Wadayama Station - Yoka Station - Ebara Station - Toyooka Station (Hyogo Prefecture) - Kinosakionsen Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>担当車掌区</j>
+<e type="trans" ver="1">Section of the conductors in charge</e>
+<cmt>下記に「車掌区」＝「」とありますが、感覚的にニュアンスが異なると判断して、左記のように致しました。</cmt>
+<e type="trans" ver="2">Section of the conductors in charge</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Section of the conductors in charge</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="20">
+<j>みやこ列車区</j>
+<e type="trans" ver="1">Miyako train section</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miyako train section</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyako train section</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="21">
+<j>福知山車掌区</j>
+<e type="trans" ver="1">Fukuchiyama conductor section</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fukuchiyama conductor section</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fukuchiyama conductor section</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="22">
+<j>沿革</j>
+<e type="trans" ver="1">History</e>
+<cmt>「変遷」と同義で、「Transition」とも訳せますが、内容からみて「歴史」とした方が、よりニュアンス的に正しいと判断いたしました。</cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>「きのさき」の名称は、列車名の由来としては、終着駅である城崎温泉駅及び兵庫県豊岡市の旧城崎町、同町にある著名な温泉地である城崎温泉から取られている。</j>
+<e type="trans" ver="1">The name of the train, &quot;Kinosaki,&quot; was named after Kinosakionsen Station, the train terminal, old Kinosaki Town in Toyooka City, Hyogo Prefecture, and Kinosaki Onsen, the famous hot spring in the town.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The &quot;Kinosaki&quot; train was named after Kinosakionsen Station, the terminal in old Kinosaki Town, Toyooka City, Hyogo Prefecture, as well as Kinosaki Onsen, the famous hot spring in the town.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The &apos;Kinosaki&apos; train was named after Kinosakionsen Station, the terminal in old Kinosaki Town, Toyooka City, Hyogo Prefecture, as well as Kinosaki Onsen, the famous hot spring in the town.</e>
+<cmt>&quot;→　としました。</cmt>
+</sen>
+<sen id="24">
+<j>また、1962年（昭和37年）より1968年（昭和43年）まで現行と同じ区間を運行した準急列車の列車愛称として用いた関係もあり、本節では主に山陰本線の京都駅発着列車群についてを記載する。</j>
+<e type="trans" ver="1">Since this name was also used for a Semi Express train operated in the same section from 1962 to 1968, this section mainly describes about trains which start from and arrive at Kyoto Station and run on the San&apos;in Main Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the name was also used for a semi-express train operated in the same section from 1962 to 1968, this section mainly describes trains that start from and arrive at Kyoto Station and run on the San&apos;in Main Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because the name was also used for a semi-express train operated in the same section from 1962 to 1968, this section mainly describes trains that arrive at and depart from Kyoto Station and run on the Sanin Main Line.</e>
+<cmt>アポストロフィを削除し、sanin としました。&quot;start from and arrive at&quot;→&quot;arrive at and depart from&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="25">
+<j>戦後準急列車の設定とその後</j>
+<e type="trans" ver="1">Semi Express trains in the postwar period and in later years</e>
+<cmt></cmt>
+<e type="trans" ver="2">Semi-express trains in the postwar period and later years</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Semi-express trains in the postwar period and later years</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>1956年（昭和31年）11月19日、京都駅～松江駅間を運行する準急列車として「白兎」（はくと）が設定される。</j>
+<e type="trans" ver="1">November 19, 1956: The service of &quot;Hakuto,&quot; a Semi Express train operated between Kyoto Station and Matsue Station, started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">November 19, 1956: The &quot;Hakuto,&quot; a semi-express train operated between Kyoto Station and Matsue Station, came into service.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">November 19, 1956: The &apos;Hakuto,&apos; a semi-express train operated between Kyoto Station and Matsue Station, came into service.</e>
+<cmt>&quot;→　としました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="27">
+<j>この「白兎」は京都駅で東海道本線特別急行列車東海道本線優等列車沿革に接続する形となっていた。</j>
+<e type="trans" ver="1">Passengers of &quot;Hakuto&quot; were to connect to Limited Express trains, Express trains and Semi Express trains running on the Tokaido Main Line at Kyoto Station.</e>
+<cmt>「東海道本線特別急行列車東海道本線優等列車沿革」につきましては、下記を参考にして、説明的に訳出いたしました。http://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E9%81%93%E6%9C%AC%E7%B7%9A%E5%84%AA%E7%AD%89%E5%88%97%E8%BB%8A%E6%B2%BF%E9%9D%A9</cmt>
+<e type="trans" ver="2">Passengers on &quot;Hakuto&quot; were to connect to limited express trains, express trains and semi-express trains running on the Tokaido Main Line at Kyoto Station.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Passengers on &apos;Hakuto&apos; were to connect to limited express trains, express trains and semi-express trains running on the Tokaido Main Line at Kyoto Station.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="28">
+<j>1957年（昭和32年）12月1日、「白兎」運行区間を米子駅まで短縮する。</j>
+<e type="trans" ver="1">December 1, 1957: The section on which &quot;Hakuto&quot; was operated was shortened down to Yonago Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 1, 1957: The section on which &quot;Hakuto&quot; was operated was shortened down to Yonago Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">December 1, 1957: The section on which &apos;Hakuto&apos; was operated was shortened down to Yonago Station.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="29">
+<j>1959年（昭和34年）9月22日、京都駅～天橋立駅・東舞鶴駅／福知山駅間を気動車で運行する準急列車として「丹後」（たんご）が新設される。</j>
+<e type="trans" ver="1">September 22, 1959: The service of &quot;Tango,&quot; a diesel Semi Express train operated between Kyoto Station and Amanohashidate Station, Higashi-Maizuru Station or Fukuchiyama Station, newly started.</e>
+<cmt>「京都駅～天橋立駅・東舞鶴駅／福知山駅間」の表記が明確に判断できず、このように訳出いたしました。</cmt>
+<e type="trans" ver="2">September 22, 1959: The service of &quot;Tango,&quot; a diesel semi-express train operated between Kyoto Station and Amanohashidate Station, Higashi-Maizuru Station or Fukuchiyama Station, commenced.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">September 22, 1959: The service of &apos;Tango,&apos; a diesel semi-express train operated between Kyoto Station and Amanohashidate Station, Higashi-Maizuru Station or Fukuchiyama Station, commenced.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="30">
+<j>1961年（昭和36年）10月1日、サンロクトオとのちに称されるダイヤ改正に伴い、「白兎」気動車による急行列車に格上げし、福知山線経由大阪駅発着の編成を連結開始。</j>
+<e type="trans" ver="1">October 1, 1961: With the timetable revision, which was later called &quot;Sanrokutoo (3, 6, 10),&quot; &quot;Tango&quot; was upgraded to an Express train with &quot;Hakuto&quot; diesel and started to connect with trains that started from and arrived at Osaka Station through the Fukuchiyama Line.</e>
+<cmt>「サンロクトオ」とは、ダイヤ改正の日付「昭和36年10月」から、名付けられたようですが、その旨を説明すべきかどうか迷いましたが、原文と訳文が等価ではなくなってしまうため、そのままと致しました。また、「格上げ」されたものは、流れから判断し、「丹後（列車）」であると判断いたしました。</cmt>
+<e type="trans" ver="2">October 1, 1961: With the timetable revision, which was later called &quot;Sanrokutoo (3, 6, 10),&quot; &quot;Tango&quot; was upgraded to an express train with the &quot;Hakuto&quot; diesel and began connecting with trains that started from and arrived at Osaka Station through the Fukuchiyama Line.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">October 1, 1961: With the timetable revision, which was later called &quot;San, Roku, To (3, 6, 10),&quot; &apos;Tango&apos; was upgraded to an express train with the &apos;Hakuto&apos; diesel and began connecting with trains that arrived at and departed from and Osaka Station through the Fukuchiyama Line.</e>
+<cmt>&quot;→　&apos;としました。 &quot;started from and arrived at &quot;→&quot;arrived at and departed from&quot;に変更しました。</cmt>
+</sen>
+<sen id="31">
+<j>これに伴い運行区間を京都駅／大阪駅～松江駅間となる。</j>
+<e type="trans" ver="1">With this timetable revision, &quot;Tango&quot; started running on the section between Kyoto Station or Osaka Station and Matsue Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With this timetable revision, &quot;Tango&quot; started running on the section between Kyoto Station (or Osaka Station) and Matsue Station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">With this timetable revision, &apos;Tango&apos; started running on the section between Kyoto Station (or Osaka Station) and Matsue Station.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="32">
+<j>1962年（昭和37年）3月1日、京都駅～福知山駅・城崎駅間を運行する準急列車として「きのさき」2往復が設定される。</j>
+<e type="trans" ver="1">March 1, 1962: Two round trip services a day of &quot;Kinosaki&quot; as a Semi Express train started between Kyoto Station and Fukuchiyama Station or Kinosaki Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 1, 1962: Two round-trip services a day of &quot;Kinosaki&quot; as a semi-express train started between Kyoto Station and Fukuchiyama Station (or Kinosaki Station).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 1, 1962: Two round-trip services a day of &apos;Kinosaki&apos; as a semi-express train started between Kyoto Station and Fukuchiyama Station (or Kinosaki Station).</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="33">
+<j>1963年（昭和38年）4月20日、福知山駅発着の「きのさき」の名称を「丹後」とし、「丹後」増発した天橋立駅・豊岡駅発着1往復を含めて4往復となる。</j>
+<e type="trans" ver="1">April 20, 1963: Those trains called &quot;Kinosaki&quot; which started from and arrived at Fukuchiyama Station changed their name to &quot;Tango&quot; and the number of round trip services of &quot;Tango&quot; increased to 4 services a day including a round trip service in which the train started from and arrived at Amanohashidate Station or Toyooka Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 20, 1963: The trains called &quot;Kinosaki,&quot; which started from and arrived at Fukuchiyama Station, had their names changed to &quot;Tango&quot; and the number of round-trip services of &quot;Tango&quot; increased to four a day, including a round trip in which the train started from and arrived at Amanohashidate Station or Toyooka Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 20, 1963: The trains called &apos;Kinosaki,&apos; which arrived at and departed from Fukuchiyama Station, had their names changed to &apos;Tango&apos; and the number of round-trip services of &apos;Tango&apos; increased to four a day, including a round trip in which the train arrived at and departed from Amanohashidate Station or Toyooka Station.</e>
+<cmt>&quot;→　&apos;としました。 &quot;started from and arrived at &quot;→&quot;arrived at and departed from&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="34">
+<j>1966年（昭和41年）3月5日、準急列車制度改変に伴い、「きのさき」・「丹後」急行列車に格上げ。</j>
+<e type="trans" ver="1">March 5, 1966: With the revision of the Semi Express train system, both &quot;Kinosaki&quot; and &quot;Tango&quot; were upgraded to Express trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 5, 1966: With the revision of the semi-express train system, both &quot;Kinosaki&quot; and &quot;Tango&quot; were upgraded to express trains.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">March 5, 1966: With the revision of the semi-express train system, both &apos;Kinosaki&apos; and &apos;Tango&apos; were upgraded to express trains.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="35">
+<j>1966年10月1日、福知山駅&amp;amprarr京都駅間を運行する「丹後（上り）3号」が準急列車として設定される。</j>
+<e type="trans" ver="1">October 1, 1966: &quot;Tango (up train) #3&quot; running from Fukuchiyama Station to Kyoto Station was set as a Semi Express train.</e>
+<cmt>実際のウィキペディアのサイト[http://ja.wikipedia.org/wiki/%E3%81%8D%E3%81%AE%E3%81%95%E3%81%8D_(%E5%88%97%E8%BB%8A)]で、「福知山駅&amp;amprarr京都駅間」は「福知山駅→京都駅間」となっていることを確認し、訳出いたしました。</cmt>
+<e type="trans" ver="2">October 1, 1966: &quot;Tango (up train) No. 3,&quot; running from Fukuchiyama Station to Kyoto Station, was designated as a semi-express train.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">October 1, 1966: &apos;Tango (inbound train) No. 3,&apos; running from Fukuchiyama Station to Kyoto Station, was designated as a semi-express train.</e>
+<cmt>上り→inbound としました。</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="36">
+<j>当時の準急列車は「100km以下を運行する急行列車」と言う位置づけであったためであるが、これにより同一列車愛称で急行・準急が並立することとなった。</j>
+<e type="trans" ver="1">Because the definition of a Semi Express train in those days was &quot;an Express train operated within 100 km,&quot; two titles of train, Express and Semi Express, were adopted to a single train at the same time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the definition of a semi-express train in those days was &quot;an express train operated within 100 km,&quot; two train designations--express and semi-express--were applied to a single train at the same time.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Because the definition of a semi-express train in those days was &apos;an express train operated within 100 km,&apos; two train designations--express and semi-express--were applied to a single train at the same time.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="37">
+<j>1968年（昭和43年）10月1日、「ヨンサントオ」とのちに称されるダイヤ改正に伴い、以下のように変更する。</j>
+<e type="trans" ver="1">October 1, 1968: With the timetable revision, which was later called &quot;Yonsantoo (4, 3, 10),&quot; there were some changes as follows.</e>
+<cmt>上記「サンロクトオ」のケースと同様。</cmt>
+<e type="trans" ver="2">October 1, 1968: With the timetable revision, which was later called &quot;Yonsantoo (4, 3, 10),&quot; the following changes were made:</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 1, 1968: With the timetable revision, which was later called &apos;Yon San To (4, 3, 10),&apos; the following changes were made:</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="15">
+<sen id="38">
+<j>「白兎」大阪駅発着編成を分離。</j>
+<e type="trans" ver="1">&quot;Hakuto&quot; stopped having the formation in which the train started from and arrived at Osaka Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Hakuto&quot; stopped using the formation in which the train started from and arrived at Osaka Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Hakuto&apos; stopped using the formation in which the train arrived at and departed from Osaka Station.</e>
+<cmt>&quot;→　&apos;としました。 &quot;started from and arrived at &quot;→&quot;arrived at and departed from&quot;に変更しました。</cmt>
+</sen>
+<sen id="39">
+<j>大阪駅発着は「北近畿_(列車)」に名称を変更する。</j>
+<e type="trans" ver="1">The train that started form and arrived at Osaka Station changed its name to &quot;Kitakinki.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The name of the train that started from and arrived at Osaka Station was changed to &quot;Kitakinki.&quot;</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">The name of the train that arrived at and departed from Osaka Station was changed to &apos;Kitakinki (train).&apos;</e>
+<cmt>&quot;→　&apos;としました。 &quot;started from and arrived at &quot;→&quot;arrived at and departed from&quot;に変更しました。</cmt>
+</sen>
+<sen id="40">
+<j>これにより、「白兎」は京都駅～松江駅間の運行となる。</j>
+<e type="trans" ver="1">&quot;Hakuto,&quot; therefore, started running on the section between Kyoto Station and Matsue Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Hakuto,&quot; therefore, started running on the section between Kyoto Station and Matsue Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hakuto,&apos; therefore, started running on the section between Kyoto Station and Matsue Station.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="16">
+<sen id="41">
+<j>京都駅発着で京都府北部・兵庫県北西部発着の急行列車の総称として「丹後」の名称が与えられた関係で「きのさき」の列車名称は廃止。</j>
+<e type="trans" ver="1">All of Express trains, which started from and arrived at Kyoto Station and were operated in northern Kyoto and which started from and arrived at stations located in northwestern Hyogo, got a name &quot;Tango,&quot; resulting in discontinuing the train name &quot;Kinosaki.&quot;</e>
+<cmt>「京都駅発着で京都府北部・兵庫県北西部発着の急行列車の総称として、、」という部分が明確に理解できない表現でしたので、「京都駅発着で京都府北部を運行する急行列車および兵庫県北西部発着の急行列車の総称として、、」として訳出致しました。ご確認ください。</cmt>
+<e type="trans" ver="2">All the express trains that started from and arrived at Kyoto Station and were operated in northern Kyoto, and that started from and arrived at stations located in northwestern Hyogo, got the name &quot;Tango,&quot; so as a result the name &quot;Kinosaki&quot; was discontinued.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">All the express trains that arrived at and departed from Kyoto Station and were operated in northern Kyoto, and that arrived at and departed from stations located in northwestern Hyogo, got the name &apos;Tango,&apos; so as a result the name &apos;Kinosaki&apos; was discontinued.</e>
+<cmt>&quot;→　&apos;としました。 &quot;started from and arrived at &quot;→&quot;arrived at and departed from&quot;に変更しました。</cmt>
+</sen>
+<sen id="42">
+<j>これに伴い、「丹後」は7往復の運行となる。</j>
+<e type="trans" ver="1">In accordance with this name change, the services of &quot;Tango&quot; increased to 7 round trips.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In accordance with the name change, the services of &quot;Tango&quot; increased to seven round trips.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">In accordance with the name change, the services of &apos;Tango&apos; increased to seven round trips.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+<sen id="43">
+<j>なお、準急列車はこの改正を以て廃止され、「丹後」全列車急行列車化される。</j>
+<e type="trans" ver="1">Moreover, all of the Semi Express trains were discontinued with this timetable revision and all &quot;Tango&quot; trains were upgraded to Express trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Moreover, all the semi-express trains were discontinued with this timetable revision and all &quot;Tango&quot; trains were upgraded to express status.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Moreover, all the semi-express trains were discontinued with this timetable revision and all &apos;Tango&apos; trains were upgraded to express status.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="17">
+<sen id="44">
+<j>1970年（昭和45年）3月1日、「白兎」運行区間を出雲市駅まで延長。</j>
+<e type="trans" ver="1">March 1, 1970: The operation section for &quot;Hakuto&quot; was extended to Izumoshi Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 1, 1970: The operation section for &quot;Hakuto&quot; was extended to Izumoshi Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">March 1, 1970: The operation section for &apos;Hakuto&apos; was extended to Izumoshi Station.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="18">
+<sen id="45">
+<j>1970年（昭和45年）10月1日、「丹後（下り）1号・（上り）5号」運行区間を北近畿タンゴ鉄道宮津線久美浜駅まで延長する。</j>
+<e type="trans" ver="1">October 1, 1970: The operation section for &quot;Tango (down train) #1&quot; and &quot;Tango (up train) #5&quot; was extended to Kumihama Station on the Miyazu Line of Kitakinki Tango Railway Corporation (KTR).</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 1, 1970: The operation section for &quot;Tango (down train) No. 1&quot; and &quot;Tango (up train) No. 5&quot; was extended to Kumihama Station on the Miyazu Line of the Kitakinki Tango Railway Corporation (KTR).</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">October 1, 1970: The operation section for &apos;Tango (outbound train) No. 1&apos; and &apos;Tango (inbound train) No. 5&apos; was extended to Kumihama Station on the Miyazu Line of the Kitakinki Tango Railway Corporation (KTR).</e>
+<cmt>上り→inbound, 下り→outboundとしました。</cmt>
+</sen>
+</par>
+<par id="19">
+<sen id="46">
+<j>1972年（昭和47年）3月15日、「丹後」1往復増発し、「丹後」8往復体制となる。</j>
+<e type="trans" ver="1">March 15, 1972: Another round trip service was added to &quot;Tango,&quot; resulting in 8 round trip services of &quot;Tango.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 15, 1972: Another round-trip service was added to &quot;Tango,&quot; resulting in eight round-trip services for &quot;Tango.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 15, 1972: Another round-trip service was added to &apos;Tango,&apos; resulting in eight round-trip services for &apos;Tango.&apos;</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="20">
+<sen id="47">
+<j>特急列車「あさしお」の登場とその後の展開</j>
+<e type="trans" ver="1">Emergence of the Limited Express train &quot;Asashio&quot; and the development in later years</e>
+<cmt></cmt>
+<e type="trans" ver="2">Emergence of the &quot;Asashio&quot; limited express, and development in later years</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Emergence of the Limited Express &apos;Asashio,&apos; and development in later years</e>
+<cmt>Limited Express &apos;Asashio&apos;としました。</cmt>
+</sen>
+<sen id="48">
+<j>1972年8月、京都駅～鳥取駅間の臨時列車特別急行列車として「あさしお」が運転された。</j>
+<e type="trans" ver="1">August 1972: &quot;Asashio,&quot; a temporary Limited Express train, was operated between Kyoto Station and Tottori Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 1972: &quot;Asashio,&quot; a temporary limited express train, was operated between Kyoto Station and Tottori Station.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">August 1972: &apos;Asashio,&apos; a temporary limited express train, was operated between Kyoto Station and Tottori Station.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+<sen id="49">
+<j>これは定期化に先駆けてのものとされる。</j>
+<e type="trans" ver="1">This operation considered to set a precedent for the regular operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This operation was considered to have set a precedent in regular operations.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This operation was considered to have set a precedent in regular operations.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="21">
+<sen id="50">
+<j>1972年10月2日、このときのダイヤ改正に伴い、以下のように変更する。</j>
+<e type="trans" ver="1">October 2, 1972: With the timetable revision at this time, there were some changes as follows.</e>
+<cmt></cmt>
+<e type="trans" ver="2">October 2, 1972: With the timetable revision at this time, the following changes were made:</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 2, 1972: With the timetable revision at this time, the following changes were made:</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="22">
+<sen id="51">
+<j>「丹後」の下り1本、上り2本を特別急行列車に格上げし、「あさしお」3往復を新設。</j>
+<e type="trans" ver="1">One down train and two up trains of &quot;Tango&quot; were upgraded to Limited Express trains and three &quot;Asashio&quot; services were newly started.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One down train and two up trains of &quot;Tango&quot; were upgraded to limited express trains, and three new &quot;Asashio&quot; services were launched.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">One outbound train and two inbound trains of &apos;Tango&apos; were upgraded to limited express trains, and three new &apos;Asashio&apos; services were launched.</e>
+<cmt>上り→inbound, 下り→outboundとしました。</cmt>
+</sen>
+</par>
+<par id="23">
+<sen id="52">
+<j>「あさしお」は宮津線経由城崎駅発着・福知山駅経由城崎駅発着・倉吉駅発着・米子駅発着の各1往復の4往復であった。</j>
+<e type="trans" ver="1">With these new services of &quot;Asashio,&quot; four services, each of which started from and arrived at Kinosaki Station through the Miyazu Line, Kinosaki Station via Fukuchiyama Station, Kurayoshi Station and Yonago Station respectively, became available a day in total.</e>
+<cmt></cmt>
+<e type="trans" ver="2">With these new services of &quot;Asashio,&quot; four services--which started from and arrived at Kinosaki Station through the Miyazu Line, Kinosaki Station via Fukuchiyama Station, Kurayoshi Station and Yonago Station, respectively--were made available each day.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">With these new services of &apos;Asashio,&apos; four round-trip services--which arrived at and departed from Kinosaki Station through the Miyazu Line, Kinosaki Station via Fukuchiyama Station, Kurayoshi Station and Yonago Station, respectively--were made available each day.</e>
+<cmt>&quot;→　&apos;としました。 &quot;started from and arrived at &quot;→&quot;arrived at and departed from&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="24">
+<sen id="53">
+<j>「白兎」運行区間の内福知山駅～鳥取駅間で福知山線経由大阪駅発着の「北近畿_(列車)」を併結。</j>
+<e type="trans" ver="1">&quot;Kitakinki&quot; which started from and arrived at Osaka Station via Fukuchiyama Station was connected to &quot;Hakuto&quot; on the section between Fukuchiyama Station and Tottori Station, of all operation sections of &quot;Hakuto,&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Kitakinki,&quot; which started from and arrived at Osaka Station via Fukuchiyama Station, was connected to &quot;Hakuto&quot; on the section between Fukuchiyama Station and Tottori Station, of all the operation sections of &quot;Hakuto.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Kitakinki (train)&apos; which arrived at and departed from Osaka Station via the Fukuchiyama Line, was connected to &apos;Hakuto&apos; on the section between Fukuchiyama Station and Tottori Station, of all the operation sections of &apos;Hakuto.&apos;</e>
+<cmt>福知山駅→線　としました。Fukuchiyama Line→the Fukuchiyama Lineに変更しました。&quot;started from and arrived at &quot;→&quot;arrived at and departed from&quot;に変更しました。</cmt>
+</sen>
+<sen id="54">
+<j>また倉吉駅以西を普通列車化する。</j>
+<e type="trans" ver="1">The services from Kurayoshi Station and to the west were set to Local train services.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The services from Kurayoshi Station and to the west were designated as local train services.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">The services from Kurayoshi Station and to the west were designated as local train services.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="55">
+<j>なお、倉吉駅～米子駅間は快速運転とした。</j>
+<e type="trans" ver="1">However, the services were provided as Rapid trains on the section between Kurayoshi Station and Yonago Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the services were provided as rapid trains on the section between Kurayoshi Station and Yonago Station.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">However, the services were provided as rapid trains on the section between Kurayoshi Station and Yonago Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="25">
+<sen id="56">
+<j>「丹後」は下り7本・上り6本のみの運行となる。</j>
+<e type="trans" ver="1">The number of services of &quot;Tango&quot; decreased to 7 down trains and 6 up trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number of services of &quot;Tango&quot; decreased to seven down trains and six up trains.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">The number of services of &apos;Tango&apos; decreased to seven outbound trains and six inbound trains.</e>
+<cmt>上り→inbound, 下り→outboundとしました。</cmt>
+</sen>
+</par>
+<par id="26">
+<sen id="57">
+<j>1982年（昭和57年）7月1日、「白兎」運行区間を京都駅～米子駅間に短縮する。</j>
+<e type="trans" ver="1">July 1, 1982: The section on which &quot;Hakuto&quot; was operated was shortened down to the section between Kyoto Station and Yonago Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">July 1, 1982: The section on which &quot;Hakuto&quot; was operated was shortened down to the section between Kyoto Station and Yonago Station.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">July 1, 1982: The section on which &apos;Hakuto&apos; was operated was shortened down to the section between Kyoto Station and Yonago Station.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+<sen id="58">
+<j>また、このころより「あさしお」に国鉄キハ181系気動車が導入される。</j>
+<e type="trans" ver="1">Also around this time, JNR/JR Limited Express (Diesel Cars) Series Kiha was adopted to &quot;Asashio.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also around this time, the JNR/JR Limited Express (diesel car) Series Kiha was employed on &quot;Asashio.&quot;</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Also around this time, the JNR/JR Limited Express (diesel car) Series Kiha 181 was employed on &apos;Asashio.&apos;</e>
+<cmt>181を追加しました。</cmt>
+</sen>
+</par>
+<par id="27">
+<sen id="59">
+<j>1985年（昭和60年）3月14日、東舞鶴駅発着の「丹後」1往復を「あさしお」に振り替える。</j>
+<e type="trans" ver="1">March 14, 1985: One of the round-trip services of &quot;Tango,&quot; which started form and arrived at Higashi-Maizuru Station, was replaced by &quot;Asashio.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 14, 1985: One of the round-trip services of &quot;Tango,&quot; which started from and arrived at Higashi-Maizuru Station, was replaced by &quot;Asashio.&quot;</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">March 14, 1985: One of the round-trip services of &apos;Tango,&apos; which arrived at and departed from Higashi-Maizuru Station, was replaced by &apos;Asashio.&apos;</e>
+<cmt>&quot;→　&apos;としました。 &quot;started from and arrived at &quot;→&quot;arrived at and departed from&quot;に変更しました。</cmt>
+</sen>
+<sen id="60">
+<j>これに伴い、「あさしお」5往復、「丹後」下り6本、上り5本となる。</j>
+<e type="trans" ver="1">In accordance with this replacement, the number of services of &quot;Asashio&quot; increased to 5 round trips and that of &quot;Tango&quot; increased to 6 down trains and 5 up trains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In accordance with this replacement, the number of services of &quot;Asashio&quot; increased to five round trips, while that of &quot;Tango&quot; increased to six down trains and five up trains.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">In accordance with this replacement, the number of services of &apos;Asashio&apos; increased to five round trips, while that of &apos;Tango&apos; decreased to six outbound trains and five inbound trains.</e>
+<cmt>上り→inbound, 下り→outboundとしました。二つ目のincreased →decreaced　としました。</cmt>
+</sen>
+</par>
+<par id="28">
+<sen id="61">
+<j>1986年（昭和61年）11月1日、福知山線宝塚駅～城崎駅間鉄道の電化に伴う1986年11月1日国鉄ダイヤ改正に伴い、「白兎」を格上げし「あさしお」1往復増発。</j>
+<e type="trans" ver="1">November 1, 1986: In accordance with the timetable revision of Japan National Railways (JNR) as the section between Takarazuka Station on the Fukuchiyama Line Takarazuka Station and Kinosaki Station was electrified, &quot;Hakuto&quot; was upgraded to &quot;Asashio,&quot; resulting in additional another service of &quot;Asashio.&quot;</e>
+<cmt>「「白兎」を格上げし「あさしお」1往復増発。」とは、「「白兎」を「あさしお」に格上げして、1往復増発した。」という解釈で訳出いたしました。</cmt>
+<e type="trans" ver="2">November 1, 1986: In accordance with the timetable revision of Japan National Railways (JNR) as the section between Takarazuka Station and Kinosake Station on the Fukuchiyama Line was electrified, &quot;Hakuto&quot; was upgraded to &quot;Asashio,&quot; resulting in another service for &quot;Asashio.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">November 1, 1986: In accordance with the timetable revision of Japan National Railways (JNR) as the section between Takarazuka Station and Kinosaki Station on the Fukuchiyama Line was electrified, &apos;Hakuto&apos; was upgraded to &apos;Asashio,&apos; resulting in another round-trip service for &apos;Asashio.&apos;</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+<sen id="62">
+<j>「あさしお」6往復体制とする。</j>
+<e type="trans" ver="1">Accordingly, the services of &quot;Asashio&quot; increased to 6 round trips.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Accordingly, the services of &quot;Asashio&quot; increased to six round trips.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Accordingly, the services of &apos;Asashio&apos; increased to six round trips.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="29">
+<sen id="63">
+<j>1989年（平成元年）3月11日、「あさしお6号」の運行区間を鳥取駅&amp;amprarr京都駅間に短縮。</j>
+<e type="trans" ver="1">March 11, 1989: The operation section of &quot;Asashio #6&quot; was shortened to the section between Tottori Station and Kyoto Station.</e>
+<cmt>実際のウィキペディアのサイト[http://ja.wikipedia.org/wiki/%E3%81%8D%E3%81%AE%E3%81%95%E3%81%8D_(%E5%88%97%E8%BB%8A)]で、「鳥取駅&amp;amprarr京都駅間」は「鳥取駅→京都駅間」となっていることを確認し、訳出いたしました。</cmt>
+<e type="trans" ver="2">March 11, 1989: The operation section of &quot;Asashio No. 6&quot; was shortened to the section between Tottori Station and Kyoto Station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 11, 1989: The operation section of &apos;Asashio No. 6&apos; was shortened to the section between Tottori Station and Kyoto Station.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="30">
+<sen id="64">
+<j>1990年（平成2年）4月1日、宮津線、北近畿タンゴ鉄道移管に伴い、同線を普通列車で運行していた「丹後9号・6号」を全線急行列車化。</j>
+<e type="trans" ver="1">April 1, 1990: As the Miyazu Line of Kitakinki Tango Railway Corporation (KTR) was transferred, &quot;Tango #9 and #6,&quot; which had been operated as a Local train on the line, stated to be operated as a Express train from the starting station to the terminal station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1990: As the Miyazu Line of the Kitakinki Tango Railway Corporation (KTR) was transferred, &quot;Tango&quot; nos. 9 and 6, which had been operated as local trains on the line, started being operated as a express train from the starting station to the terminal station.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">April 1, 1990: As the Miyazu Line was transferred to Kitakinki Tango Railway Corporation (KTR), &apos;Tango&apos; nos. 9 and 6, which had been operated as local trains on the line, started being operated as express trains.</e>
+<cmt>宮津線がKTRに移管された、という表現にしました。</cmt>
+</sen>
+</par>
+<par id="31">
+<sen id="65">
+<j>1990年（平成2年）12月 大阪駅～城崎駅間を183系電車使用の臨時急行として「きのさき」名称復活。</j>
+<e type="trans" ver="1">December 1990: The name &quot;Kinosaki&quot; came back as a name of a temporary Express train with JNR/JR Limited Express Series 183 operated between Osaka Station and Kinosaki Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 1990: The name &quot;Kinosaki&quot; came back as the name of a temporary express train with the JNR/JR Limited Express Series 183 operated between Osaka Station and Kinosaki Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">December 1990: The name &apos;Kinosaki&apos; came back as the name of a temporary express train with the JNR/JR Limited Express Series 183 operated between Osaka Station and Kinosaki Station.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="32">
+<sen id="66">
+<j>1995年（平成7年） 臨時急行「きのさき」廃止。</j>
+<e type="trans" ver="1">1995: Temporary Express train &quot;Kinosaki&quot; was discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">1995: The temporary express train &quot;Kinosaki&quot; was discontinued.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">1995: The temporary express train &apos;Kinosaki&apos; was discontinued.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+<sen id="67">
+<j>これは、翌1996年（平成8年）の京都駅～城崎駅間の特急列車の名称が「きのさき」と決定したため。</j>
+<e type="trans" ver="1">This was because the name &quot;Kinosaki&quot; was given to a Limited Express train which would be operated between Kyoto Station and Kinosaki Station in 1996.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was because the name &quot;Kinosaki&quot; was given to a limited express train that was to operate between Kyoto Station and Kinosaki Station in 1996.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">This was because the name &apos;Kinosaki&apos; was given to a limited express train that was to operate between Kyoto Station and Kinosaki Station in 1996.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="33">
+<sen id="68">
+<j>北近畿ビッグXネットワークの完成とその後</j>
+<e type="trans" ver="1">Completion of the North Kinki Big X Network and the development in later years</e>
+<cmt></cmt>
+<e type="trans" ver="2">Completion of the North Kinki Big X Network and development in later years</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Completion of the North Kinki Big X Network and development in later years</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="69">
+<j>1996年（平成8年）3月16日、園部駅～福知山駅間及び北近畿タンゴ鉄道福知山駅～大江駅 (京都府)～天橋立駅間電化に伴い、気動車列車であった特急「あさしお」・急行「丹後」を廃止し、電車特急化。</j>
+<e type="trans" ver="1">March 16, 1996: With the electrification of the section between Sonobe Station and Fukuchiyama Station and the section of KTR between Fukuchiyama Station and Amanohashidate Station via Oe Station (Kyoto Prefecture), the diesel Limited Express train &quot;Asashio&quot; and the diesel Express train &quot;Tango&quot; were discontinued, and electric trains started to be used for the Limited Express services.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 16, 1996: With the electrification of the section between Sonobe Station and Fukuchiyama Station and the section of KTR between Fukuchiyama Station and Amanohashidate Station via Oe Station (Kyoto Prefecture), the diesel limited express train &quot;Asashio&quot; and the diesel express train &quot;Tango&quot; were discontinued, and electric trains started to be used for the limited express services.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">March 16, 1996: With the electrification of the section between Sonobe Station and Fukuchiyama Station and the section of KTR between Fukuchiyama Station and Amanohashidate Station via Oe Station (Kyoto Prefecture), the diesel limited express train &apos;Asashio&apos; and the diesel express train &apos;Tango&apos; were discontinued, and electric trains started to be used for the limited express services.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+<sen id="70">
+<j>この地点で山陰線京都駅発着の急行列車が全廃。</j>
+<e type="trans" ver="1">At this point, all Express trains which had been operated on the San&apos;in Line and started from and arrived at Kyoto Station were discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At this point, all express trains that had been operated on the San&apos;in Line and started from and arrived at Kyoto Station were discontinued.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">At this point, all express trains that had been operated on the Sanin Line and arrived at and departed from Kyoto Station were discontinued.</e>
+<cmt>アポストロフィを削除し、sanin としました。&quot;started from and arrived at &quot;→&quot;arrived at and departed from&quot;に変更しました。</cmt>
+</sen>
+<sen id="71">
+<j>京都駅発の方向別に列車名を替える施策を採る。</j>
+<e type="trans" ver="1">An idea that suggested to name trains depending on the direction from Kyoto Station was adopted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An idea that suggested naming trains depending on their direction from Kyoto Station was adopted.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">An idea that suggested naming trains depending on their direction from Kyoto Station was adopted.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="34">
+<sen id="72">
+<j>福知山駅経由城崎温泉駅発着列車「きのさき」</j>
+<e type="trans" ver="1">Trains starting from and arriving at Kinosakionsen Station via Fukuchiyama Station: &quot;Kinosaki&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Trains starting from and arriving at Kinosakionsen Station via Fukuchiyama Station: &quot;Kinosaki&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Trains arriving at and departing from Kinosakionsen Station via Fukuchiyama Station: &apos;Kinosaki&apos;</e>
+<cmt>&quot;→　&apos;としました。 &quot;starting from and arriving at &quot;→&quot;arriving at and departing from&quot;に変更しました。</cmt>
+</sen>
+<sen id="73">
+<j>福知山駅発着列車「たんば_(列車)」</j>
+<e type="trans" ver="1">Trains starting from and arriving at Fukuchiyama Station: &quot;Tanba&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Trains starting from and arriving at Fukuchiyama Station: &quot;Tanba&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Trains arriving at and departing from Fukuchiyama Station: &apos;Tanba (train)&apos;</e>
+<cmt>&quot;→　&apos;としました。 Tambaとしました。Tamba→Tanbaに変更しました。&quot;starting from and arriving at &quot;→&quot;arriving at and departing from&quot;に変更しました。</cmt>
+</sen>
+<sen id="74">
+<j>北近畿タンゴ鉄道宮福線経由天橋立駅発着列車「はしだて_(列車)」</j>
+<e type="trans" ver="1">Trains starting from and arriving at Amanohashidate Station via KTR Miyafuku Line: &quot;Hashidate&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Trains starting from and arriving at Amanohashidate Station via the KTR Miyafuku Line: &quot;Hashidate&quot;</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Trains arriving at and departing from Amanohashidate Station via the KTR Miyafuku Line: &apos;Hashidate (train)&apos;</e>
+<cmt>&quot;→　&apos;としました。 &quot;starting from and arriving at &quot;→&quot;arriving at and departing from&quot;に変更しました。</cmt>
+</sen>
+<sen id="75">
+<j>京阪神対鳥取駅方面への連絡の代替として智頭急行智頭線経由のはくと_(列車)が速達列車であったこともあり、「あさしお」廃止により捻出されたキハ181系気動車を転用し「はくと」1往復が増発される。</j>
+<e type="trans" ver="1">Coupled with the fact that &quot;Hakuto,&quot; operated through the Chizu Express Chizu Line instead of trains used for making a connection to the direction of Tottori Station from Kyoto, Osaka and Kobe, was a fast train, JNR/JR Limited Express (Diesel Cars) Series Kiha 181, which had become available due to discontinuation of &quot;Asashio,&quot; started to be used for an additional round trip service of &quot;Hakuto.&quot;</e>
+<cmt>「京阪神対鳥取駅方面」の意味が明確に理解できませんでした。「京阪神（京都・大阪・神戸）から鳥取駅方面に向かう（列車）」という解釈で訳出いたしました。</cmt>
+<e type="trans" ver="2">Coupled with the fact that &quot;Hakuto&quot;--which operated through the Chizu Express Chizu Line instead of trains used for connection to the direction of Tottori Station from Kyoto, Osaka and Kobe--was a fast train, the JNR/JR Limited Express (diesel car) Series Kiha 181, which had become available due to the discontinuation of &quot;Asashio,&quot; started being used as an additional round trip service of &quot;Hakuto.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Coupled with the fact that &apos;Hakuto&apos;--which operated through the Chizu Express Chizu Line instead of trains used for connection to the direction of Tottori Station from Kyoto, Osaka and Kobe--was a fast train, the JNR/JR Limited Express (diesel car) Series Kiha 181, which had become available due to the discontinuation of &apos;Asashio,&apos; started being used as an additional round-trip service of &apos;Hakuto.&apos;</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+<sen id="76">
+<j>なお、京都駅～鳥取駅間については走行距離が「あさしお」は230.3kmであるのに対し、「スーパーはくと」「はくと」は253.5kmと約20km長くなっているが、逆に所要時間は約1時間短縮されている。</j>
+<e type="trans" ver="1">While the operating distance of &quot;Asashio&quot; for the section between Kyoto Station and Tottori Station is 230.3 km, that of &quot;Super Hakuto&quot; and &quot;Hakuto&quot; is 253.5 km, which is about 20 km longer, but the traveling time of the latter trains, on the contrary, was shortened by about an hour.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While the operating distance of &quot;Asashio&quot; for the section between Kyoto Station and Tottori Station is 230.3 km, that of &quot;Super Hakuto&quot; and &quot;Hakuto&quot; is 253.5 km, which is just over 20 km longer, but on the contrary the travel time of the latter trains was shortened by about an hour.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">While the operating distance of &apos;Asashio&apos; for the section between Kyoto Station and Tottori Station is 230.3 km, that of &apos;Super Hakuto&apos; and &apos;Hakuto&apos; is 253.5 km, which is just over 20 km longer, but on the contrary the travel time of the latter trains was shortened by about an hour.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="35">
+<sen id="77">
+<j>鳥取駅～米子駅間については特急「いなば」が設定される。</j>
+<e type="trans" ver="1">Services of Limited Express train &quot;Inaba&quot; started between Tottori Station and Yonago Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Services of the limited express train &quot;Inaba&quot; started between Tottori Station and Yonago Station.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Services of the limited express train &apos;Inaba&apos; started between Tottori Station and Yonago Station.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+<sen id="78">
+<j>また、「くにびき」の運行区間を鳥取駅発着となるなど手配が行われる。</j>
+<e type="trans" ver="1">In addition to this, the preparation of idea in which &quot;Kunibiki&quot; would start from and arrive at Tottori Station was promoted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, the concept of a method in which &quot;Kunibiki&quot; would start from and arrive at Tottori Station was promoted.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, the concept of a method in which &apos;Kunibiki&apos; would arrive at and depart from Tottori Station was promoted.</e>
+<cmt>&quot;→　&apos;としました。 &quot;depart from and arrive at&quot;→&quot;arrive at and depart from&quot;に変更しました。</cmt>
+</sen>
+<sen id="79">
+<j>まつかぜ (列車)鳥取・島根諸都市連絡優等列車沿革も参照されたい。</j>
+<e type="trans" ver="1">Also refer to &quot;History of &quot;Matsukaze,&quot; the Express train connecting to various cities in Tottori and Shimane.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">For further information refer to &quot;History of &quot;Matsukaze,&quot; the express train connecting to various cities in Tottori and Shimane.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">For further information refer to History of &quot;Matsukaze (train),&quot; the express train connecting to various cities in Tottori and Shimane.</e>
+<cmt>&quot;Matsukaze (train),&quot; としました。</cmt>
+</sen>
+</par>
+<par id="36">
+<sen id="80">
+<j>これにより、同時に運行を開始した新大阪駅発着の「文殊_(列車)」とすでに運行を開始している福知山線エル特急「北近畿_(列車)」と合わせて北近畿ビッグXネットワークが構成されることとなる。</j>
+<e type="trans" ver="1">In addition to the above-mentioned factors, &quot;Monju,&quot; starting from and arriving at Shin-Osaka Station, and &quot;Kitakinki,&quot; an L-tokkyu (Limited Express) train on the Fukuchiyama Line, comprised the North Kinki Big X Network.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition to the above-mentioned factors, &quot;Monju,&quot; starting from and arriving at Shin-Osaka Station, and &quot;Kitakinki,&quot; an L-tokkyu (limited express) train on the Fukuchiyama Line, comprised the North Kinki Big X Network.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In addition to the above-mentioned factors, &apos;Monju (train),&apos; arriving at and departing from Shin-Osaka Station, which concurrently commenced operation, and &apos;Kitakinki,&apos; an L-tokkyu (limited express) train on the Fukuchiyama Line, which had already started operation, came to comprise the North Kinki Big X Network.</e>
+<cmt>一部翻訳を追加しました。&quot;starting from and arriving at &quot;→&quot;arriving at and departing from&quot;に変更しました。</cmt>
+</sen>
+</par>
+<par id="37">
+<sen id="81">
+<j>2005年のJR福知山線脱線事故に際して、新大阪駅～福知山駅間の特急列車が運休となり、振替輸送が必要となったため、臨時列車が京都駅～城崎温泉駅間で下り2本・上り1本（81～83号）運行された。</j>
+<e type="trans" ver="1">As the JR Fukuchiyama Line Train Derailment Accident occurred in 2005, Limited Express trains operated between Shin-Osaka Station and Fukuchiyama Station were suspended, and accordingly, compensating transportation became necessary, so two down trains and one up train (#81, #82 and #83) were operated temporarily between Kyoto Station and Kinosakionsen Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As the JR Fukuchiyama Line Train Derailment Accident occurred in 2005, limited express trains operated between Shin-Osaka Station and Fukuchiyama Station were suspended, and therefore compensating transportation became necessary, so two down trains and one up train (81, 82 and 83) were operated temporarily between Kyoto Station and Kinosakionsen Station.</e>
+<cmt>case</cmt>
+<e type="check" ver="1">As the JR Fukuchiyama Line Train Derailment Accident occurred in 2005, limited express trains operated between Shin-Osaka Station and Fukuchiyama Station were suspended, and therefore compensating transportation became necessary, so two outbound trains and one inbound train (81, 82 and 83) were operated temporarily between Kyoto Station and Kinosakionsen Station.</e>
+<cmt>上り→inbound, 下り→outboundとしました。</cmt>
+</sen>
+</par>
+<par id="38">
+<sen id="82">
+<j>2007年（平成19年）3月18日、全面禁煙化を実施。</j>
+<e type="trans" ver="1">March 18, 2007: Total ban on smoking was adopted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 18, 2007: A total ban on smoking was adopted.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">March 18, 2007: A total ban on smoking was adopted.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="39">
+<sen id="83">
+<j>列車名の由来</j>
+<e type="trans" ver="1">Meaning of the names of the trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meanings of the train names</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Origins of the train names</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+<sen id="84">
+<j>（五十音順）</j>
+<e type="trans" ver="1">(in the order of the Japanese syllabary)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(In the order of the Japanese syllabary)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">(In the order of the Japanese syllabary)</e>
+<cmt>OK</cmt>
+</sen>
+</par>
+<par id="40">
+<sen id="85">
+<j>「あさしお」・・・抽象列車名となるが、強いて言えば「朝焼けの天橋立」をイメージしたものとなる。</j>
+<e type="trans" ver="1">&quot;Asashio&quot;: It is quite abstract but probably an image of &quot;Red sky in the morning in Amanohashidate.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Asashio&quot;: It is quite abstract but is probably an image of &quot;red sky in the morning in Amanohashidate.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Asashio&apos;: It is quite abstract but is probably an image of &apos;red sky in the morning in Amanohashidate.&apos;</e>
+<cmt>OK</cmt>
+</sen>
+</par>
+<par id="41">
+<sen id="86">
+<j>「きのさき」・・・終着駅である城崎温泉駅及び兵庫県豊岡市の旧城崎町、同町にある著名な温泉地である城崎温泉から。</j>
+<e type="trans" ver="1">&quot;Kinosaki&quot;: Named after Kinosakionsen Station, the train terminal, old Kinosaki Town in Toyooka City, Hyogo Prefecture, and Kinosaki Onsen, the famous hot spring in the town.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Kinosaki&quot;: It&apos;s named after Kinosakionsen Station, the train terminal in old Kinosaki Town, Toyooka City, Hyogo Prefecture, and after Kinosaki Onsen, the famous hot spring in the town.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Kinosaki&apos;: It&apos;s named after Kinosakionsen Station, the train terminal in old Kinosaki Town, Toyooka City, Hyogo Prefecture, and after Kinosaki Onsen, the famous hot spring in the town.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="42">
+<sen id="87">
+<j>「丹後」（たんご）・・・運行地域である令制国（いわゆる旧国名）の丹後国から。</j>
+<e type="trans" ver="1">&quot;Tango&quot;: Named after Tango Province, the old name of the province of the area where this train is operated.</e>
+<cmt>「令制国」の定訳が見つからなかったため、「旧国名」として訳出いたしました。</cmt>
+<e type="trans" ver="2">&quot;Tango&quot;: It&apos;s named after Tango Province, the old provincial name of the area in which this train is operated.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tango&apos;: It&apos;s named after Tango Province, the old provincial name of the area in which this train is operated.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+</par>
+<par id="43">
+<sen id="88">
+<j>「白兎」（はくと）・・・目的地である鳥取県東部の令制国（いわゆる旧国名）を指す因幡国（いなばのくに）の神話「因幡の白兎」から。</j>
+<e type="trans" ver="1">&quot;Hakuto&quot;: Named after &quot;Inaba no shirousagi&quot; (The hare of Inaba), a legend in Inaba Province, the old name of the province located in eastern Tottori where the destination of this trains is located.</e>
+<cmt>「令制国」の定訳が見つからなかったため、「旧国名」として訳出いたしました。</cmt>
+<e type="trans" ver="2">&quot;Hakuto&quot;: It&apos;s named after &quot;Inaba no shirousagi&quot; (the hare of Inaba), a legend in Inaba Province, which is the old name of the area located in eastern Tottori where this train has its destination.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Hakuto&apos;: It&apos;s named after &apos;Inaba no shirousagi&apos; (the hare of Inaba), a legend in Inaba Province, which is the old name of the area located in eastern Tottori where this train has its destination.</e>
+<cmt>&quot;→　&apos;としました。</cmt>
+</sen>
+<sen id="89">
+<j>はくと_(列車)も参照のこと。</j>
+<e type="trans" ver="1">Also refer to &quot;Hakuto.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Also refer to &quot;Hakuto.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Also refer to &quot;Hakuto (train).&quot;</e>
+<cmt>&quot;Hakuto (train).&quot;　としました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 ＳＴＫ(id:29099), Rsa(id:38453), 北大(id:110491), L,t,d,express(id:173068), 味村(id:128437), Jhnexco(id:191199), Sat.K(id:3751), Mitsuki-2368(id:36819), Goncyan(id:92158), Mshima(id:30885), Fjord(id:15599), Shinkansen(id:13703), Nakadachi(id:111078), 樒(id:35770), Rusk(id:9895), Bandalgom(id:31841), Randwick(id:137142), Zlan(id:11942), 継之助(id:39352), 化学屋さん(id:18131), Ribbon(id:172), Ariake(id:70270), Kone(id:377), Chikara1983(id:59556), SVS(id:18615), 吉田勝男(id:19081), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

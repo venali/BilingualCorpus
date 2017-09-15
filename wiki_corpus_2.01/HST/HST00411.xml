@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>大同類聚方</j>
+<e type="trans" ver="1">Daidoruijuho (the Oldest Japanese Medical Documents)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Daidoruijuho (the oldest Japanese medical documents)</e>
+<cmt>made words lowercase since they are in parenthesis</cmt>
+<e type="check" ver="1">Daidoruijuho</e>
+<cmt>タイトルのためカッコ内の補足削除 (次文に説明あり)</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>大同類聚方（だいどうるいじゅほう）は、平安時代初期の大同_(日本)3年（808年）に編纂された日本における唯一の古医方の医学書であるとともに、最古の国定薬局方でもある。</j>
+<e type="trans" ver="1">Daidoruijuho is the only koiho (school of ancient medicine) document compiled in Japan in 808 during the early Heian period and is also the oldest national pharmacopeia.</e>
+<cmt></cmt>
+<e type="trans" ver="2">While Daidoruijuho was a unique Koiho (school of ancient medicine) document compiled in Japan in 808 during the early Heian period, it is also the oldest government-designated pharmacopoeia.</e>
+<cmt>changed &quot;only&quot; to &quot;unique&quot; for &quot;唯一&quot;; capitalized &quot;Koiho&quot;; pharmacopeia→pharmacopoeia; changed &quot;national&quot; to &quot;government-designated&quot; for &quot;国定&quot;; fixed grammar</cmt>
+<e type="check" ver="1">Daidoruijuho was a unique Koiho (school of ancient medicine) document compiled in Japan in 808 during the early Heian period, while it was also the oldest government-designated pharmacopoeia.</e>
+<cmt>文頭のWhileを移動、is→wasとしました。</cmt>
+</sen>
+<sen id="2">
+<j>全100巻。</j>
+<e type="trans" ver="1">There are 100 volumes in total.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are one hundred volumes in total.</e>
+<cmt>changed &quot;100&quot; to &quot;one hundred&quot;</cmt>
+<e type="check" ver="1">There are one hundred volumes in total.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>漢方医学の流入で崩壊の危機に瀕している事態を憂慮した平城天皇は、諸国の国造以下の有力な豪族・旧家や神社に対して伝承する古医方を提出させた。</j>
+<e type="trans" ver="1">Concerned about the possibility of koiho being taken over by Chinese medicine, Emperor Heizei requested powerful local ruling families and old families in each province and also shrines to submit their own koiho that was passed down through generations, and requested ABE no Manao and IZUMO no Hirosada to classify and compile them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Concerned about the possibility of Koiho being taken over by Chinese medicine, Emperor Heizei made a request to shrines, powerful local ruling families and old families in each province to submit their own Koiho that had been passed down through generations. The emperor then requested ABE no Manao and IZUMO no Hirosada to classify and compile them.</e>
+<cmt>split into two sentence to read more naturally; fixed grammar; capitalized &quot;Koiho&quot;</cmt>
+<e type="check" ver="1">Concerned about the possibility of Koiho being taken over by Chinese medicine, Emperor Heizei made a request to shrines, powerful local ruling families and old families in each province to submit their own Koiho that had been passed down through generations.</e>
+<cmt>「一原文一訳文の例外対処」</cmt>
+</sen>
+<sen id="4">
+<j>これを安倍真直・出雲広貞らによって類聚編纂させたものである。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Emperor then requested ABE no Manao and IZUMO no Hirosada to classify and compile them.</e>
+<cmt>The emperor→The Emperorに修正「一原文一訳文の例外対処」</cmt>
+</sen>
+<sen id="5">
+<j>『日本後紀』によれば、大同3年5月3日_(旧暦)に完成が天皇に上奏されたとされている。</j>
+<e type="trans" ver="1">According to &quot;Nihonkoki&quot; (Later Chronicle of Japan), completion of the classification and compilation was reported to the Emperor on June 4, 808.</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to &quot;Nihonkoki&quot; (Later Chronicle of Japan), completion of the classification and compilation was reported to the Emperor on June 4, 808.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">According to &quot;Nihonkoki&quot; (Later Chronicle of Japan), completion of the classification and compilation was reported to the Emperor on June 4, 808.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>同年制定された「大同医式」によって、薬品の処方はこれに基づくように定められた。</j>
+<e type="trans" ver="1">Daidoishiki (detailed regulations on the use of Daidoruijuho)&apos; was established in the same year and prescription of medicines was required to follow daidoishiki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The &quot;Daidoishiki&quot; (detailed regulations on the use of the Daidoruijuho) was established in the same year and the prescription of medicines was required to follow its regulations.</e>
+<cmt>eliminated &apos; after parenthesis; changed second &quot;daidoishiki&quot; to &quot;regulations&quot; to avoid repetitivenes</cmt>
+<e type="check" ver="1">The &apos;Daidoishiki&apos; (detailed regulations on the use of the Daidoruijuho) was established in the same year and the prescription of medicines was required to follow its regulations.</e>
+<cmt>シングルクォーテーションに変更</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>江戸時代、国学の振興とともに和方医学が興隆すると、同書は和方家の聖典として考えられるようになった。</j>
+<e type="trans" ver="1">In the Edo period, when waho igaku (ancient Japanese medicine) became the active area of study along with the promotion of study of Japanese classical literature, Daidoruijuho was treated as sacred textbooks for wahoka (doctors in ancient Japanese medicine).</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the Edo period, when Waho Igaku (ancient Japanese medicine) became an active area of study along with the promotion of the study of Japanese classical literature, the Daidoruijuho was treated as a sacred textbook for Wahoka (doctors in ancient Japanese medicine).</e>
+<cmt>changed &quot;In&quot; to &quot;During&quot;; capitalized &quot;Waho Igaku&quot;; fixed grammar</cmt>
+<e type="check" ver="1">During the Edo period, when Waho Igaku (ancient Japanese medicine) became an active area of study along with the promotion of the study of Japanese classical literature, the Daidoruijuho was treated as a sacred textbook for Wahoka (doctors in ancient Japanese medicine).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>ところが後になって当時流布していた諸本に対して後世の偽書ではないかとする意見が現れるようになった。</j>
+<e type="trans" ver="1">In later years, however, there was an opinion that the books that were circulated at that time may have been apocryphal.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In later years, however, a hypothesis appeared arguing that the books circulated at that time may have been forgeries.</e>
+<cmt>changed &quot;apocryphal&quot; to &quot;forgeries&quot; since I have never seen the former; changed &quot;opinion&quot; to &quot;hypothesis&quot;;</cmt>
+<e type="check" ver="1">In later years, however, a hypothesis appeared arguing that the books circulated at that time may have been forgeries.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>和方家の中でも権田直助らは真書説、佐藤方定らは偽書説を唱えて論争となった。</j>
+<e type="trans" ver="1">Disputes then occurred because, among wahoka, Naosuke GONDA claimed that these books were real and Hojo SATO claimed that they were apocryphal.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Since then there has been a controversy about the books even among the Wahoka, such as Naosuke GONDA who claimed that they were authentic, and Hojo SATO who argued that they were forged.</e>
+<cmt>changed &quot;disputes&quot; to &quot;controversy&quot; for &quot;論争&quot;; fixed to read more naturally</cmt>
+<e type="check" ver="1">Since then there has been a controversy about the books even among the Wahoka, such as Naosuke GONDA who claimed that they were authentic, and Hojo SATO who argued that they were forged.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>しかし、近代以後も富士川游らが佐藤説を支持した。</j>
+<e type="trans" ver="1">In the modern age and onwards, Yu FUJIKAWA and others supported the theory suggested by Sato.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">From the modern age, however, Yu FUJIKAWA and others have supported the theory suggested by Hojo SATO.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">From the modern age, however, Yu FUJIKAWA and others have supported the theory suggested by Hojo SATO.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>今日では現存する諸本は全て偽書で真本は散逸したものとするのが通説とされている。</j>
+<e type="trans" ver="1">As a result, it is now believed that the existing books are all apocryphal and the real books disappeared.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">As a result, the prevailing opinion today is that the existing books are all forgeries and the real books were scattered and lost.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">As a result, the prevailing opinion today is that the existing books are all forgeries and the real books were scattered and lost.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="12">
+<j>但し、現存する書物の記述の内容は 正しい。</j>
+<e type="trans" ver="1">Note, however, information in the existing books is accurate.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Worthy of note, however, is that the information in the existing books is accurate.</e>
+<cmt>fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">Worthy of note, however, is that the information in the existing books is accurate.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>全訳精解者として 古典医学研究家の槙 佐知子氏が有名。</j>
+<e type="trans" ver="1">As a translator and interpreter of Daidoruijuho, the classical medicine researcher Sachiko MAKI is famous.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The classical medicine researcher Sachiko MAKI is famous as the translator and interpreter for the entire Daidoruijuho.</e>
+<cmt>rearranged sentence and fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">The classical medicine researcher Sachiko MAKI is famous as the translator and interpreter for the entire Daidoruijuho.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 藤原 三能(id:288247), Doorurban(id:132333), Straysheep(id:42448), R28Bot(id:177951), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

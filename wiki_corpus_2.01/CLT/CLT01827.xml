@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>朴葉寿司</j>
+<e type="trans" ver="1">Hoba zushi (a type of sushi wrapped with a fragrant leaf of a magnolia)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hoba-zushi</e>
+<cmt>後段で詳しく説明されていますので括弧内の説明ははぶきます。</cmt>
+<e type="check" ver="1">Hoba-zushi</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>朴葉寿司（ほおばずし）は岐阜県の飛騨国地方の南部から東濃・中濃地方、長野県木曽地域地方の郷土料理。</j>
+<e type="trans" ver="1">Hoba zushi is a local cuisine ranging from the southern area of the Hida region to the Tono and Chuno regions of Gifu Prefecture, also to the Kiso region of Nagano Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hoba-zushi is a local dish of the south of Hida region (Gifu Prefecture), and of Tono (the eastern Mino region of Gifu), and of Chuno (the middle Mino region of Gifu), and of Kiso region (Nagano Prefecture).</e>
+<cmt>「から」と言っていますが結局狭い地域の名を全部あげていますのでrangeを使わず地域名をあげるだけの訳が無難でわかりやすいです。</cmt>
+<e type="check" ver="1">Hoba-zushi is a local dish of the south of Hida region (Gifu Prefecture), and of Tono (the eastern Mino region of Gifu), and of Chuno (the middle Mino region of Gifu), and of Kiso region (Nagano Prefecture).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>奈良県の吉野郡地方でも作られている。</j>
+<e type="trans" ver="1">It is also made in Yoshino-gun region of Nara Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is also made in Yoshino region of Nara Prefecture.</e>
+<cmt>用語を統一します。</cmt>
+<e type="check" ver="1">It is also made in Yoshino region of Nara Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>岐阜県</j>
+<e type="trans" ver="1">Gifu Prefecture</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gifu Prefecture</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gifu Prefecture</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>ホオノキの木の葉を使うことは共通しているが、地域により作り方が大きく異なっている。</j>
+<e type="trans" ver="1">Although it is common to use leaves of magnolia, recipes greatly differ in regions.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although it is common to use hoba (leaves of magnolia), recipes greatly differ among regions.</e>
+<cmt>文法ミスがあります。「ほおば」についてわかりやすくしました。</cmt>
+<e type="check" ver="1">Although it is common to use hoba (leaves of magnolia), recipes greatly differ among regions.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>飛騨地方と東濃・中濃地方は隣接しているため、作り方は両者が混在しており明確な線引きは難しいが、この辺りを中心に最も盛んに朴葉寿司が作られており、岐阜県から広まったものと言われている。</j>
+<e type="trans" ver="1">As the Hida region and the Tono and Chuno regions lie close, recipes are mixed in both regions and it is difficult to draw a clear line, but Hoba zushi has been made most widely around here, so it is said that it has spread from Gifu Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As Hida region and Tono region and Chuno region join each other, sometimes two recipes are found in a part and it is difficult to draw a clear line; however since in mainly around those regions Hoba-zushi has been made, it can be said that this sushi had spread from Gifu Prefecture.</e>
+<cmt>誤訳があります。</cmt>
+<e type="check" ver="1">As Hida region and Tono region and Chuno region join each other, sometimes two recipes are found in a part and it is difficult to draw a clear line; however since in mainly around those regions Hoba-zushi has been made, it can be said that this sushi had spread from Gifu Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="6">
+<j>飛騨地方南部</j>
+<e type="trans" ver="1">Southern area of Hida region</e>
+<cmt></cmt>
+<e type="trans" ver="2">Southern area of Hida region</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Southern area of Hida region</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>旧暦の端午の節句に、昔から作られてきたもの。</j>
+<e type="trans" ver="1">It has been made long on the occasion of Tango no sekku (the Boy&apos;s Festival on May 5th) of old calendar.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It has been made since the far past on the occasion of Tango no sekku (the Boy&apos;s Festival on May 5th) of old lunar calendar.</e>
+<cmt>用語を統一させます。</cmt>
+<e type="check" ver="1">It has been made since the far past on the occasion of Tango no sekku (the Boy&apos;s Festival on May 5th) of old lunar calendar.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="8">
+<j>まずサケ（飛騨地方では鱒という）を1cmほどの大きさに切り、生のまま酢に1晩ほど浸ける。</j>
+<e type="trans" ver="1">First cut a salmon (referred to as a trout in the Hida region) into a size of about 1cm and soak it raw in vinegar for one night or so.</e>
+<cmt></cmt>
+<e type="trans" ver="2">First cut a salmon (it is called &apos;masu&apos; [trout] in Hida region) into a size of about 1cm and soak it raw in vinegar for one night or so.</e>
+<cmt>誤訳があります。</cmt>
+<e type="check" ver="1">First cut a salmon (it is called &apos;masu&apos; [trout] in Hida region) into a size of about 1cm and soak it raw in vinegar for one night or so.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>翌日、寿司作りに取りかかる。</j>
+<e type="trans" ver="1">The next day start preparing sushi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The next day start preparing sushi.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The next day start preparing sushi.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>まずご飯を炊く。</j>
+<e type="trans" ver="1">First boil rice.</e>
+<cmt></cmt>
+<e type="trans" ver="2">First boil rice.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">First boil rice.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>その間にミョウガの若い茎を細かく切る。</j>
+<e type="trans" ver="1">Meanwhile mince young shoots of Japanese ginger.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Meanwhile mince young shoots of Japanese ginger.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Meanwhile mince young shoots of Japanese ginger.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>ご飯が炊きあがったら、大きな鉢を用意し、ご飯、鮭（酢ごと）、ミョウガを交互に均等に混ざるように入れていく。</j>
+<e type="trans" ver="1">When rice is cooked, prepare a big bowl and put rice, salmon (with vinegar) and Japanese ginger in it one after another to mix it evenly.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When rice is cooked, prepare a big bowl and put rice, salmon (with vinegar) and Japanese ginger in it one after another to mix it evenly.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">When rice is cooked, prepare a big bowl and put rice, salmon (with vinegar) and Japanese ginger in it one after another to mix it evenly.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>全部入れ終わったら、上を朴葉で覆う。</j>
+<e type="trans" ver="1">After all is added, cover it with leaves of magnolia.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After put all the ingredients, cover it with leaves of magnolia (&apos;hoba&apos;).</e>
+<cmt>わかりやすくしました。</cmt>
+<e type="check" ver="1">After put all the ingredients, cover it with leaves of magnolia (&apos;hoba&apos;).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>しかし、上には重しをのせない。</j>
+<e type="trans" ver="1">However don&apos;t put a weight on it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However don&apos;t put a weight on it.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However don&apos;t put a weight on it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>しばらくすると、酢がご飯に染み込み食べ頃となる。</j>
+<e type="trans" ver="1">After a while, vinegar soaks into rice, when it becomes the right time to eat.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After a while, vinegar soaks into rice enough to become good to be eaten.</e>
+<cmt>わかりやすくしました。</cmt>
+<e type="check" ver="1">After a while, vinegar soaks into rice enough to become good to be eaten.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>家庭によっては、タケノコなど他の具を入れることもあり、家により味が異なっている。</j>
+<e type="trans" ver="1">Some homes add other ingredients such as takenoko (bamboo shoots) so the taste differs depending on homes.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At some homes other ingredients such as takenoko (bamboo shoots) are added, so the tastes differ among different homes.</e>
+<cmt>わかりやすくしました。</cmt>
+<e type="check" ver="1">At some homes other ingredients such as takenoko (bamboo shoots) are added, so the tastes differ among different homes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>しかし、比較的、具の数は少ない。</j>
+<e type="trans" ver="1">However, the number of ingredients is relatively small.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the number of ingredients is relatively small.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, the number of ingredients is relatively small.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>最近では、切った鮭を煮たりして、酢に浸ける時間を1時間ほどに短縮するケースもある。</j>
+<e type="trans" ver="1">Recently in some cases sliced salmons are boiled and seasoned with soy source or cooked in other ways, which shortens hours for soaking in vinegar to one hour or so.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Recently sometimes sliced salmons are boiled (or simmered in soy sauce) or cooked in other ways so that the time for soaking it in vinegar becomes shorter to one hour or so.</e>
+<cmt>わかりやすくします。「煮る」と書いてあるので翻訳者が意図したと思われる「煮つける」の訳を括弧に入れます。</cmt>
+<e type="check" ver="1">Recently sometimes sliced salmons are boiled (or simmered in soy sauce) or cooked in other ways so that the time for soaking it in vinegar becomes shorter to one hour or so.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="19">
+<j>食べるときは、各自が朴葉を持ち、しゃもじで鉢からまだ熱い寿司を取り出し朴葉に盛り、サンショウの葉を入れて、握りながら食べる。</j>
+<e type="trans" ver="1">When you eat one, have a leaf of a magnolia in one hand, take still-steaming sushi from a bowl with a shamoji (a wooden spoon), put it on the leaf, add a leaf of sansho (Japanese pepper), and eat sushi holding it in hand.</e>
+<cmt>「握りながら食べる」の目的語がないので、sushiを加えました。</cmt>
+<e type="trans" ver="2">At the table, have a leaf of magnolia (&apos;hoba&apos;) in one hand, take still-steaming vinegar rice (&apos;sushi&apos; or &apos;sumeshi&apos;) from a bowl with a shamoji (a wooden spoon), put it on the leaf and put leaves of sansho (Japanese pepper) over the rice, and form it like normal sushi by hands and eat it.</e>
+<cmt>誤訳があります。</cmt>
+<e type="check" ver="1">At the table, have a leaf of magnolia (&apos;hoba&apos;) in one hand, take still-steaming vinegar rice (&apos;sushi&apos; or &apos;sumeshi&apos;) from a bowl with a shamoji (a wooden spoon), put it on the leaf and put leaves of sansho (Japanese pepper) over the rice, and form it like normal sushi by hands and eat it.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>この時、朴葉とサンショウの香りが漂う。</j>
+<e type="trans" ver="1">At this moment, flavors of magnolia and sansho float.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At this moment, flavors of magnolia and sansho float.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">At this moment, flavors of magnolia and sansho float.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="21">
+<j>残った寿司は、朴葉に挟んで、サンショウの葉を入れて包み保存する。</j>
+<e type="trans" ver="1">The remaining sushi is wrapped in a leaf of a magnolia with a sansho leaf in it and preserved.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The remaining sushi are wrapped in leaves of magnolia with sansho in it and preserved.</e>
+<cmt>わかりやすくします。</cmt>
+<e type="check" ver="1">The remaining sushi are wrapped in leaves of magnolia with sansho in it and preserved.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>店などで売られているのはこの状態である。</j>
+<e type="trans" ver="1">What are sold in stores, and so on, is in this form.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In stores Hoba-zushi is sold in that form for the preservation.</e>
+<cmt>わかりやすくします。</cmt>
+<e type="check" ver="1">In stores Hoba-zushi is sold in that form for the preservation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="23">
+<j>この地方では、各家庭で朴葉寿司が作られるため、家の庭先や畑、空き地などに朴の木が植えられている光景をよく見かける。</j>
+<e type="trans" ver="1">In this region each home makes hoba zushi, so scenery that magnolias are planted in a garden of a house, fields and an empty space is commonly seen.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In this region at each home Hoba-zushi are made, so in gardens of houses, in fields, and in open spaces, magnolias are often found.</e>
+<cmt>わかりやすくします。</cmt>
+<e type="check" ver="1">In this region at each home Hoba-zushi are made, so in gardens of houses, in fields, and in open spaces, magnolias are often found.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="24">
+<j>東濃・中濃・長野県木曽地方</j>
+<e type="trans" ver="1">Tono, Chuno, Kiso regions of Nagano Prefecture</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tono, Chuno, Kiso regions of Nagano Prefecture</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tono, Chuno, Kiso regions of Nagano Prefecture</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>昔から農業・林業を生業とする家庭が多く、昼食を畑や山で取ることが多かった。</j>
+<e type="trans" ver="1">There have been many families whose regular vocations are agriculture or forestry, and they often have lunch at fields or mountains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Since the fast past, there have been many families engaged in agriculture or forestry, and such people often had lunch at fields or in mountains.</e>
+<cmt>時制を直します。</cmt>
+<e type="check" ver="1">Since the fast past, there have been many families engaged in agriculture or forestry, and such people often had lunch at fields or in mountains.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="26">
+<j>その為、携帯性が良く朴の葉と酢飯の殺菌効果で日持ちし、また近隣との作業の助け合いでまかないにも便利な朴葉寿司が広まったと考えられる。</j>
+<e type="trans" ver="1">Therefore, hoba zushi was considered to have spread because not only it had high portability and sustainability thanks to the disinfectant effect of leaves of a magnolia and vinegared rice, but also it was convenient to cook when they worked together helping each other among neighbors.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hoba-zushi is not only good for being carried and preserved because leaves of magnolia and vinegar rice have antibiotic effects but also convenient as a meal served when neighbors gather to work, therefore, it is considered that Hoba-zushi spread among the people.</e>
+<cmt>わかりやすくします。</cmt>
+<e type="check" ver="1">Hoba-zushi is not only good for being carried and preserved because leaves of magnolia and vinegar rice have antibiotic effects but also convenient as a meal served when neighbors gather to work, therefore, it is considered that Hoba-zushi spread among the people.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>朴葉寿司の時期が田植えの時期と重なっている点も農林業との繋がりを示している。</j>
+<e type="trans" ver="1">One point that the time of hoba zushi overlaps with the season for rice planting also shows the relation to agriculture and forestry.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The season Hoba-zushi is made traditionally overlaps with the season of rice planting, and this fact also shows that Hoba-zushi has been related to agriculture and forestry.</e>
+<cmt>わかりやすくします。</cmt>
+<e type="check" ver="1">The season Hoba-zushi is made traditionally overlaps with the season of rice planting, and this fact also shows that Hoba-zushi has been related to agriculture and forestry.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="28">
+<j>中濃地域では６月頃になると国道沿いや、山沿いに朴の木の白い花が目立ち、初夏と朴葉寿司の季節を教えてくれる。</j>
+<e type="trans" ver="1">In Chuno region, when June comes, white blossoms of magnolias along national roads and mountains stand out, which tells us coming of early summer and the season for hoba zushi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In Chuno region, when June comes, white blossoms of magnolias are often found along national roads and mountains, which tell us the coming of early summer and the season of Hoba-zushi.</e>
+<cmt>訳語選択ミスがあります。</cmt>
+<e type="check" ver="1">In Chuno region, when June comes, white blossoms of magnolias are often found along national roads and mountains, which tell us the coming of early summer and the season of Hoba-zushi.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="29">
+<j>事前に酢飯を作る。</j>
+<e type="trans" ver="1">Prepare vinegared rice beforehand.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Prepare vinegared rice beforehand.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Prepare vinegared rice beforehand.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>朴葉に酢飯をのせ、その上にいろいろな具をのせて最後に葉を四角くたたんで紐で結ぶ。</j>
+<e type="trans" ver="1">Put the rice on a leaf of a magnolia, then put various ingredients on it, and finally fold the leaf into four to tie it with a string.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Put the vinegared rice on a leaf of magnolia, and put various ingredients on the rice, and finally fold the leaf into the shape of a square, and tie it with a string.</e>
+<cmt>誤訳があります。</cmt>
+<e type="check" ver="1">Put the vinegared rice on a leaf of magnolia, and put various ingredients on the rice, and finally fold the leaf into the shape of a square, and tie it with a string.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>具は切り身の鮭、川魚の甘露煮、舞茸、ワラビ、きゃらぶき、紅ショウガ、田麩、しめさば、キュウリ、漬け物のみじん切りなどバラエティに富んでいるが、地方がら山の幸が中心となっている。</j>
+<e type="trans" ver="1">The ingredients have a wide variety including sliced salmon, kanroni (a dish boiled in a syrup) of freshwater fish, maitake mushroom, bracken, kyarabuki (stalks of butterbur boiled in soy sauce), red pickled ginger, denbu (mashed and seasoned fish, flesh of whitefish and shrimp that has been boiled, shredded, parched, seasoned, and colored red), shimesaba (salted and vinegared mackerel), cucumber, minced pickles, and so on, which center on mountain vegetables characteristic of the region.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ingredients have a wide variety including sliced salmon, kanroni (a dish boiled in a syrup) of freshwater fish, maitake mushroom, bracken, kyarabuki (stalks of butterbur boiled in soy sauce), red pickled ginger, denbu (mashed and seasoned fish, flesh of whitefish and shrimp that has been boiled, shredded, parched, seasoned, and colored red), shimesaba (salted and vinegared mackerel), cucumber, minced pickles, and so on; they are mainly Yama-no-sachi (edible wild plants and freshwater fish) since the regions are surrounded by high mountains.</e>
+<cmt>足りない説明を補います。「山の幸」「地方がら」</cmt>
+<e type="check" ver="1">The ingredients have a wide variety including sliced salmon, kanroni (a dish boiled in a syrup) of freshwater fish, maitake mushroom, bracken, kyarabuki (stalks of butterbur boiled in soy sauce), red pickled ginger, denbu (mashed and seasoned fish, flesh of whitefish and shrimp that has been boiled, shredded, parched, seasoned, and colored red), shimesaba (salted and vinegared mackerel), cucumber, minced pickles, and so on; they are mainly Yama-no-sachi (edible wild plants and freshwater fish) since the regions are surrounded by high mountains.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>酢飯を冷ましたり、桶などに並べて重しを乗せるなど、作り方や具はそれぞれの家庭によって多岐にわたる。</j>
+<e type="trans" ver="1">As some homes cool vinegared rice or others set sushi in a wooden bowl to put a weight on it, methods and ingredients range widely depending on each home.</e>
+<cmt>「桶などに並べて重しを乗せるなど」ですが、ここに目的語がないので、「できあがった朴葉寿司を並べて、その上に重しを乗せる」と考え、目的語としてsushiを加えました。</cmt>
+<e type="trans" ver="2">As some homes cool vinegared rice or others set sushi in a wooden bowl to put a weight on it, methods and ingredients range widely depending on each home.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">As some homes cool vinegared rice or others set sushi in a wooden bowl to put a weight on it, methods and ingredients range widely depending on each home.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="33">
+<j>中濃地方北部</j>
+<e type="trans" ver="1">Northern area of Chuno region</e>
+<cmt></cmt>
+<e type="trans" ver="2">Northern area of Chuno region</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Northern area of Chuno region</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>郡上市地方とも言われる地域。</j>
+<e type="trans" ver="1">The area is also referred to the region of Gujo City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area is also referred to the region of Gujo City.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The area is also referred to the region of Gujo City.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="35">
+<j>寿司桶で事前に酢飯を作る。</j>
+<e type="trans" ver="1">Prepare vinegared rice in sushi oke (a wooden bowl for sushi rice) beforehand.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Prepare vinegared rice in sushi oke (a wooden bowl for sushi rice) beforehand.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Prepare vinegared rice in sushi oke (a wooden bowl for sushi rice) beforehand.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>そこに、雑魚、煮付けたニンジン、ゴボウ、シイタケ、鮭などを入れよく混ぜる。</j>
+<e type="trans" ver="1">Put in it small fish, boiled and seasoned carrot, burdock root, shiitake mushroom, salmon, and so on, and mix them well.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Put small fish, boiled and seasoned carrot, burdock root, shiitake mushroom, salmon and so on in the rice, and mix them well.</e>
+<cmt>わかりやすくします。</cmt>
+<e type="check" ver="1">Put small fish, boiled and seasoned carrot, burdock root, shiitake mushroom, salmon and so on in the rice, and mix them well.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="37">
+<j>でき上がった寿司を朴葉に包んでいき、桶などに並べ、上から軽く重しをのせる。</j>
+<e type="trans" ver="1">Wrap the prepared sushi with leaves of a magnolia, set them in a wooden bowl, and so on, and put a slight weight on them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After mixing the rice (becomes &apos;sushi&apos;) equally, wrap the sushi with leaves of magnolia, set them in a wooden bowl or other container, and put a weight on it not to press it heavily.</e>
+<cmt>誤訳があります。</cmt>
+<e type="check" ver="1">After mixing the rice (becomes &apos;sushi&apos;) equally, wrap the sushi with leaves of magnolia, set them in a wooden bowl or other container, and put a weight on it not to press it heavily.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Koiroha(id:161157), Point136(id:211299), Opponent(id:720), Carkuni(id:79281), Bandalgom(id:31841), 0null0(id:582), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>橋本駅 (京都府)</j>
+<e type="trans" ver="1">Hashimoto Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hashimoto Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hashimoto Station (Kyoto Prefecture)</e>
+<cmt>(Kyoto Prefecture)を削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>橋本駅 （はしもとえき）は、京都府八幡市にある、京阪電気鉄道京阪本線の鉄道駅。</j>
+<e type="trans" ver="1">Hashimoto Station is a railroad station on the Keihan Electric Railway Main Line located in Yawata City, Kyoto Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hashimoto Station, located in Yawata City, Kyoto Prefecture, is a railroad facility on the Keihan Electric Railway Main Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Hashimoto Station, located in Yawata City, Kyoto Prefecture, is a railroad facility on the Keihan Main Line, which is operated by the Keihan Electric Railway.</e>
+<cmt>一部表現を他ファイルと統一しました。</cmt>
+</sen>
+<sen id="2">
+<j>同線においては、大阪側から見て京都府内で最初の駅である。</j>
+<e type="trans" ver="1">From the Osaka side, it is the first Keihan Main Line station located in Kyoto Prefecture.</e>
+<cmt></cmt>
+<e type="trans" ver="2">From the Osaka side, it&apos;s the first Keihan Main Line station in Kyoto Prefecture.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">From the Osaka side, it&apos;s the first Keihan Main Line station in Kyoto Prefecture.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>駅構造</j>
+<e type="trans" ver="1">Structure of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="4">
+<j>プラットホーム形状と配置2面2線を有する地上駅。</j>
+<e type="trans" ver="1">The structure and layout of platforms: Hashimoto Station is a ground station with two platforms and two railway lines.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hashimoto Station is a ground-level facility with two platforms and two railway lines.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is an aboveground station with two separate platforms serving two tracks.</e>
+<cmt>原文wikiを参照し、「相対式プラットフォーム」　としました。</cmt>
+</sen>
+<sen id="5">
+<j>改札口はホーム毎に分かれており、改札内で上下線ホーム同士の移動はできない（改札外に踏み切りがある）。</j>
+<e type="trans" ver="1">Each platform has its own ticket gates, with no transfer allowed between the platforms for inbound and outbound trains (there is a crossing outside the ticket gates).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Each platform has its own ticket gates, but no transfer is allowed between the platforms for inbound and outbound trains (there is a crossing outside the ticket gates).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Each platform has its own ticket gates, and no transfer is allowed between the platforms for inbound and outbound trains (there is a crossing outside the ticket gates).</e>
+<cmt>but →and　としました。</cmt>
+</sen>
+<sen id="6">
+<j>なお、改札口は上下線ともホーム樟葉寄りにある。</j>
+<e type="trans" ver="1">Ticket gates for both lines are on the side of the platforms toward Kuzuha Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ticket gates for both lines are on the side of the platforms toward Kuzuha Station.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The ticket gates for both lines are on the side of the platforms toward Kuzuha Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>のりば</j>
+<e type="trans" ver="1">Platforms</e>
+<cmt></cmt>
+<e type="trans" ver="2">Platforms</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Platforms</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="8">
+<j>※両ホームとも有効長は8両。</j>
+<e type="trans" ver="1">* Both of the platforms have an effective length for eight cars combined together.</e>
+<cmt></cmt>
+<e type="trans" ver="2">* Each of the platforms has an effective length sufficient to accommodate eight cars.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">* Each of the platforms has an effective length sufficient to accommodate eight cars.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>番線表示はない。</j>
+<e type="trans" ver="1">No line numbers are displayed on the platforms.</e>
+<cmt></cmt>
+<e type="trans" ver="2">No line numbers are displayed on the platforms.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">No Platform numbers are displayed.</e>
+<cmt>表記変更</cmt>
+</sen>
+<sen id="10">
+<j>両ホーム共に両端には屋根がなく、梅雨時などは地元客からの不評を買っている。</j>
+<e type="trans" ver="1">Neither platform has a roof on either of its ends, causing complaints among passengers during the rainy season.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neither platform has a roof on either of its ends, and the lack of shelter causes complaints among passengers during the rainy season.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Neither platform has a roof on either of its ends, and the lack of shelter causes complaints among passengers during the rainy season.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="11">
+<j>駅周辺</j>
+<e type="trans" ver="1">Areas around the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area around the station</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="12">
+<j>古くは地名通り淀川にかかる橋（山崎橋）のたもとで、橋が失われてからは1962年（昭和37年）まで山崎との間に渡船があった。</j>
+<e type="trans" ver="1">As its name (literally meaning &quot;bridge end&quot; in Japanese) suggests, Hashimoto Station is located at an end of a former bridge (Yamazaki-bashi Bridge) crossing the Yodo-gawa River; after the bridge was lost, there was a ferry service running between Hashimoto and Yamazaki, which continued to be operated until 1962.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As its name (literally &quot;bridge end&quot;) suggests, Hashimoto Station is located at an end of a former bridge (Yamazaki-bashi Bridge) crossing the Yodo-gawa River; after the bridge was lost, there was a ferry service running between Hashimoto and Yamazaki, which operated until 1962.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">As its name (literally &quot;bridge end&quot;) suggests, Hashimoto Station is located at an end of a former bridge (Yamazaki-bashi Bridge) crossing the Yodo-gawa River; after the bridge was lost, there was a ferry service running between Hashimoto and Yamazaki, which operated until 1962.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>このため正式な宿ではないが京街道の宿場として賑わい、のちには遊郭街となった。</j>
+<e type="trans" ver="1">For this reason, although Hashimoto was not officially a posting station during the Edo period, it flourished as a tourist town on the Kyokaido, subsequently becoming a red-light district.</e>
+<cmt></cmt>
+<e type="trans" ver="2">So, although Hashimoto wasn&apos;t officially a posting station during the Edo period, it flourished as a tourist town on the Kyokaido, subsequently becoming a red-light district.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">So, although Hashimoto wasn&apos;t officially a posting station during the Edo period, it flourished as a tourist town on the Kyokaido Road, subsequently becoming a red-light district.</e>
+<cmt>Kyokaido Road としました。</cmt>
+</sen>
+<sen id="14">
+<j>駅西側には当時をしのばせる古い家並みが残る。</j>
+<e type="trans" ver="1">There are rows of old Japanese houses on the west side of the station that are reminiscent of the old days.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The rows of old Japanese houses on the west side of the station are reminiscent of the old days.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The rows of old Japanese houses on the west side of the station are reminiscent of the old days.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="15">
+<j>現在駅東側は山を切り崩した住宅街になっているが、京阪電気鉄道の開発が入るまでは完全な山であり、石清水八幡宮の西側まで延々と獣道が続いていたが、麓の遊郭での諍いから遊女の自殺が絶えない地域でもあった。</j>
+<e type="trans" ver="1">At present, the area on the east side of the station is a residential district that has been created by leveling off a mountain, but it was part of a natural mountain environment with animal trails running all the way to the west of Iwashimizu-hachiman-gu Shrine, before it was developed by the Keihan Electric Railway; it was also known as an area where prostitutes often committed suicide as a result of quarrels in the red-light district at the foot of the mountain.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Currently, the area on the east side of the station is a residential district that has been created by leveling off a mountain, but it was part of a natural mountain environment with animal trails running all the way to the west of Iwashimizu-hachiman-gu Shrine, before it was developed by the Keihan Electric Railway; it was also known for having area at the foot of the mountain where prostitutes would commit suicide as the result of quarrels in the red-light district at the foot of the mountain.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Currently, the area on the east side of the station is a residential district that has been created by leveling off a mountain, but it was part of a natural mountain environment with animal trails running all the way to the west of Iwashimizu-hachiman-gu Shrine, before it was developed by the Keihan Electric Railway; it was also known for having an area at the foot of the mountain where prostitutes would commit suicide as the result of quarrels in the red-light district.</e>
+<cmt>at the food of the mountain のダブりを削除しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="16">
+<j>駅から東へ登ると、氏神の狩尾神社がある。</j>
+<e type="trans" ver="1">There is Toganoo-jinja Shrine a little above the east side of the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There is Toganoo-jinja Shrine slightly above the east side of the station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">There is Toganoo-jinja Shrine, which is a guardian deity of this area, slightly above the east side of the station.</e>
+<cmt>氏神　の訳を追加しました。</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="17">
+<j>住宅地（橋本希望ヶ丘）</j>
+<e type="trans" ver="1">Residential district (Hashimoto Kibogaoka)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Residential district (Hashimoto Kibogaoka)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Residential district (Hashimoto Kibogaoka)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>男山団地</j>
+<e type="trans" ver="1">Otokoyama housing complex</e>
+<cmt></cmt>
+<e type="trans" ver="2">Otokoyama housing complex</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Otokoyama housing complex</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>西遊寺・久修園院（1868年鳥羽・伏見の戦いで幕府軍が陣営）</j>
+<e type="trans" ver="1">Saiyu-ji Temple and Kushuon-in Temple (used as the base camp of the Tokugawa shogunate army during the Battle of Toba-Fushimi in 1868)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Saiyu-ji Temple and Kushuon-in Temple (used as the base camp of the Tokugawa shogunate army during the Battle of Toba-Fushimi in 1868)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Saiyu-ji Temple and Kushuon-in Temple (used as the base camp of the Tokugawa shogunate army during the Battle of Toba-Fushimi in 1868)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>八幡橋本郵便局</j>
+<e type="trans" ver="1">Yawata Hashimoto post office</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Yawata Hashimoto post office</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Yawata Hashimoto post office</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>橋本交番</j>
+<e type="trans" ver="1">Hashimoto police station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Hashimoto police station</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Hashimoto police station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>橋本公民館</j>
+<e type="trans" ver="1">Hashimoto community center</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Hashimoto community center</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Hashimoto community center</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>四区公会堂</j>
+<e type="trans" ver="1">Four-district auditorium</e>
+<cmt></cmt>
+<e type="trans" ver="2">Four-district auditorium</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fourth district auditorium</e>
+<cmt>第四の　という訳にしました。</cmt>
+</sen>
+<sen id="24">
+<j>狩尾神社</j>
+<e type="trans" ver="1">Toganoo-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Toganoo-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Toganoo-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>橋本樋門</j>
+<e type="trans" ver="1">Hashimoto sluiceway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hashimoto sluiceway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hashimoto sluiceway</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>京阪橋本変電所</j>
+<e type="trans" ver="1">Keihan Hashimoto Substation</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Hashimoto Substation</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Hashimoto Substation</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="27">
+<j>路線バス</j>
+<e type="trans" ver="1">Route bus services</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route bus services</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Route bus services</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>駅のやや南の津田電線八幡工場跡地に京阪バス（旧京阪宇治交通）の京阪橋本バス停がある。</j>
+<e type="trans" ver="1">At the site of the former TSUDA Electric Wire &amp; Cable Company factory, which is located a little to the south of the station, there is Keihan Bus Company&apos;s Keihan Hashimoto bus stop.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At the site of the former TSUDA Electric Wire &amp; Cable Company factory, which is located slightly south of the station, there is the Keihan Bus Company&apos;s Keihan Hashimoto bus stop.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">At the site of the former TSUDA Electric Wire &amp; Cable Company factory, which is located slightly south of the station, there is the Keihan Bus Company&apos;s Keihan Hashimoto bus stop.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>運行系統は以下の通り。</j>
+<e type="trans" ver="1">Bus services are available for the following routes:</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus services are available for the following routes:</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus services are available for the following routes:</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="30">
+<j>13B号経路 樟葉駅行き</j>
+<e type="trans" ver="1">Route 13B: buses for Kuzuha Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 13B: Buses for Kuzuha Station</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 13B: Buses for Kuzuha Station</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>78A号経路 京阪バス男山営業所行き</j>
+<e type="trans" ver="1">Route 78A: buses for Keihan Bus Otokoyama Eigyosho (Otokoyama bus office)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 78A: Buses for Keihan Bus Otokoyama Eigyosho (Otokoyama bus office)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 78A: Buses for Keihan Bus Otokoyama Eigyosho (Otokoyama bus office)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="32">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>1910年（明治43年）4月15日 - 京阪本線開通と同時に開業。</j>
+<e type="trans" ver="1">Hashimoto Station opened on April 15, 1910 at the same time as the opening of the Keihan Main Line.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hashimoto Station opened on April 15, 1910, concurrently with the opening of the Keihan Main Line.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 15, 1910: Hashimoto Station opened and concurrently with the opening of the Keihan Main Line.</e>
+<cmt>日付表記変更</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="34">
+<j>1943年（昭和18年）10月1日 - 会社合併により京阪神急行電鉄（阪急電鉄）の駅となる。</j>
+<e type="trans" ver="1">On October 1, 1943, the station became a station of the Keihanshin Express Railway (or Hankyu Railway) as a result of a company merger.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On October 1, 1943, the station became a facility of the Keihanshin Express Railway (or the Hankyu Railway) as a result of a company merger.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">October 1, 1943: The station became a facility of the Keihanshin Express Railway (or the Hankyu Railway) as a result of amalgamation.</e>
+<cmt>会社合併→as a result of amalgamation　として統一しました。日付表記変更</cmt>
+</sen>
+</par>
+<par id="13">
+<sen id="35">
+<j>1949年（昭和24年）12月1日 - 会社分離により京阪電気鉄道の駅となる。</j>
+<e type="trans" ver="1">On December 1, 1949, the station became a station of the Keihan Electric Railway as a result of a split-up of the railway company.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On December 1, 1949, the station became a station of the Keihan Electric Railway due to the split-up of the railway company.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">December 1, 1949: The station became a station of the Keihan Electric Railway due to the split-up of the railway company.</e>
+<cmt>日付表記変更</cmt>
+</sen>
+</par>
+<par id="14">
+<sen id="36">
+<j>1992年（平成4年）頃　駅舎改築・8連に対応する為にホーム延長・トイレ水洗化・スロープ改良される。</j>
+<e type="trans" ver="1">Around 1992, the station building was renovated in order to expand the platforms for eight-car trains, install flush toilets and create slopes for wheel chairs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In about 1992, the station building was renovated in order to expand the platforms for eight-car trains, install flush toilets and create slopes for wheelchairs.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">About 1992: The station building was renovated in order to expand the platforms for eight-car trains, install flush toilets and create slopes for wheelchairs.</e>
+<cmt>日付表記変更</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Adjacent stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjacent stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="37">
+<j>京阪電気鉄道</j>
+<e type="trans" ver="1">Keihan Electric Railway</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Electric Railway</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>京阪本線</j>
+<e type="trans" ver="1">Keihan Main Line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Main Line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Main Line</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>■K特急・■特急・■急行</j>
+<e type="trans" ver="1">K-limited express trains Limited express trains Express trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">K-limited express trains Limited express trains Express trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">K-Limited Express/Limited Express/Rapid Express</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="40">
+<j>通過</j>
+<e type="trans" ver="1">These trains do not stop at the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These trains don&apos;t stop at the station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">These trains don&apos;t stop at the station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="41">
+<j>■準急・■普通</j>
+<e type="trans" ver="1">Sub-express trains Local trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sub-express trains Local trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Semi Express/Local</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="42">
+<j>樟葉駅 - 橋本駅 - 八幡市駅</j>
+<e type="trans" ver="1">Kuzuha Station - Hashimoto Station - Yawatashi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kuzuha Station - Hashimoto Station - Yawatashi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kuzuha Station - Hashimoto Station - Yawatashi Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 油屋(id:112945), Bakkai(id:7233), たね(id:10372), Kouchiumi(id:19253), S.S.Exp.Hashimoto(id:4001), 天然ガス(id:98149), Unamu(id:14627), UE-PON2600(id:18149), Kone(id:377), Hirotaro(id:1437), 扇風機のせんちゃん(id:161810), O-l-d(id:35652), 目蒲東急之介(id:34741), Ishidatami(id:36698), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

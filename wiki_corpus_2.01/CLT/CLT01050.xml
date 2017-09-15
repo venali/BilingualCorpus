@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>仕太刀</j>
+<e type="trans" ver="1">Shitachi</e>
+<cmt>用語集の中では（who conterattacks）と説明が入っていますが、説明文の中で人物（who counterattacks）だけでなく、「その技」、とも説明されているので、(who counterattacks)　は補足していません。</cmt>
+<e type="trans" ver="2">Shitachi (who counterattacks)</e>
+<cmt>カッコ内を補いました。（用語統一にて、タイトルにはカッコで補足を入れるとの指示より）</cmt>
+<e type="check" ver="1">Shitachi (who counterattacks)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>仕太刀（したち）とは、武術（特に剣術）、武道（特に剣道）において用いられる用語の一つ。</j>
+<e type="trans" ver="1">&quot;Shitachi&quot; is a term used in Bujutsu (martial art) especially in Kenjutsu, and Budo (martial art) especially in Kendo.</e>
+<cmt>訳では武術、武道ともにMartial art となっていますが、ここでは武道、武術と別のものを指しており、また括弧内で特に・・・の記述があるので、特に・・・を外に出し、Martial art を括弧内に入れました。</cmt>
+<e type="trans" ver="2">&quot;Shitachi&quot; is a term used in Bujutsu (martial art) especially in Kenjutsu (swordplay), and Budo (martial art) especially in Kendo (Japanese art of fencing).</e>
+<cmt>「剣術」、「剣道」共にカッコ部分を補いました。</cmt>
+<e type="check" ver="1">&quot;Shitachi&quot; is a term used in Bujutsu (martial art) especially in Kenjutsu (swordplay), and Budo (martial art) especially in Kendo (Japanese art of fencing).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>型（形）を行う際に仕掛けてくる打太刀を倒す側の技または（技を披露する）人物を意味する。</j>
+<e type="trans" ver="1">It means techniques or person displaying the techniques to counterattack &quot;Uchitachi (attacks)&quot;, when performing Kata (Written two ways, 型: Pattern/形:Form).</e>
+<cmt>形と型、原文で二つの漢字を示しているものがローマ字表記にするとわからなくなるため括弧内で補足しました。</cmt>
+<e type="trans" ver="2">It refers to the techniques, or the person showing them, to counterattack the &quot;Uchitachi&quot; (attacks), when performing Kata (forms).</e>
+<cmt>the, カンマ を挿入しました。スペース、引用符内のカッコの位置を修正しました。この場合の”型（形）”は日本語表記にした場合に二つの書き方があるということであり、この場合は読者の混乱を招くものと思われ、削除し、修正しました。</cmt>
+<e type="check" ver="1">It refers to the techniques, or the person showing them, to counterattack the &quot;Uchitachi&quot; (attacks), when performing Kata (forms).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>杖術、杖道においては「仕杖」という。</j>
+<e type="trans" ver="1">It is called &quot;Shijo&quot; in Jojutsu and Jodo (a form of martial art using a cane staff).</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is called &apos;Shijo&apos; in Jojutsu and Jodo (a form of martial art using a cane staff).</e>
+<cmt>引用符を修正しました。</cmt>
+<e type="check" ver="1">It is called &apos;Shijo&apos; in Jojutsu and Jodo (a form of martial art using a cane staff).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Himazin(id:22034), Point136(id:211299), Izayohi(id:13095), Bit(id:2197), Hermeneus(id:380), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

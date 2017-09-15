@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>三手掛</j>
+<e type="trans" ver="1">Sante-gakari</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sante-gakari</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sante-gakari</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>三手掛（さんてがかり）とは、江戸時代に行われた御目見以上の家格を持つ武士及びその妻子らに対する刑事裁判のこと。</j>
+<e type="trans" ver="1">Sante-gakari indicates criminal trials in the Edo period for a samurai, his wife or his children with the family status allowed to have an audience with shogun.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sante-gakari indicates criminal trials in the Edo period for a samurai, his wife or his children with the family status that had omemie ([the privilege to have] an audience [with one&apos;s lord, a dignitary, etc].)</e>
+<cmt>「御目見」について、用語を訳文に含めて説明を補足しました。</cmt>
+<e type="check" ver="1">Sante-gakari indicates criminal trials in the Edo period for a samurai, his wife or his children with the family status that had omemie ([the privilege to have] an audience [with one&apos;s lord, a dignitary, etc].)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>老中の指図のもとに行われ、掛奉行（担当者）として町奉行が任じられ、大目付・目付が立ち会った。</j>
+<e type="trans" ver="1">Such a trial was conducted under an instruction of Roju (an officer at the second highest post in the Edo bakufu government), and a machi-bugyo (a government officer in charge of public affairs) was appointed as the officer in charge of the trial (called Kakari-bugyo), with Ometsuke (chief inspector of the Edo shogunate) and Metsuke (inspector of foot soldiers) attending the trail as well.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Roju (an officer at the second highest post in the Edo bakufu government) gave instructions for the trial, machi-bugyo (a government officer in charge of public affairs) was appointed as Kakari-bugyo (the officer in charge of the trial), and Ometsuke (chief inspector of the Edo shogunate) and Metsuke (inspector of foot soldiers) were present at the trial.</e>
+<cmt>as wellという表現が不適切に思えましたので、修正致しました。</cmt>
+<e type="check" ver="1">Roju (an officer at the second highest post in the Edo bakufu government) gave instructions for the trial, machi-bugyo (a government officer in charge of public affairs) was appointed as Kakari-bugyo (the officer in charge of the trial), and Ometsuke (chief inspector of the Edo shogunate) and Metsuke (inspector of foot soldiers) were present at the trial.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>そのためにこの名がある。</j>
+<e type="trans" ver="1">Therefore, this name was given.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">It was for this reason that the name Sante-gakari (sante meaning three) was given.</e>
+<cmt>補足しました。</cmt>
+<e type="check" ver="1">Therefore, this name was given.</e>
+<cmt>原文に合わせ、元の訳に戻す</cmt>
+</sen>
+<sen id="4">
+<j>上級身分の武士や事件そのものが重大である場合には寺社奉行・勘定奉行も加わった五手掛によって行われた。</j>
+<e type="trans" ver="1">When a samurai with a high status was involved or the case itself was a serious one, jisha-bugyo (a government officer in charge of shrines and temple) and kanjo-bugyo (in charge of financial affairs) also attended the trial, making it Gote-gakari.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When a samurai with a high status was involved or the case itself was serious, jisha-bugyo (a government officer in charge of shrines and temple) and kanjo-bugyo (commissioner of finance) also attended the trial, making it Gote-gakari (gote meaning five).</e>
+<cmt>補足しました。</cmt>
+<e type="check" ver="1">When a samurai with a high status was involved or the case itself was a serious one, jisha-bugyo (a government officer in charge of shrines and temple) and kanjo-bugyo (in charge of financial affairs) also attended the trial, making it Gote-gakari.</e>
+<cmt>原文に合わせ、元の訳に戻す</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="5">
+<j>武士本人やその妻、嫡子の裁判は評定所で、それ以外は奉行所にて行われ、冒頭に大目付が老中の指図を受けて裁判を行うことを宣した。</j>
+<e type="trans" ver="1">The trials concerned with a samurai himself, his wife or his legitimate heir were conducted in Hyojosho (conference chamber), and the other trials in a bugyo-sho (bugyo office), and the Ometsuke officer declared at the start of a trial that the trial should be conducted under an instruction of Roju.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The trials concerned with a samurai himself, his wife or his legitimate heir took place in Hyojosho (conference chamber), and the other trials in a bugyo-sho (bugyo office), and the Ometsuke officer declared at the start of a trial that the it was to be conducted under the instructions of Roju.</e>
+<cmt>単語をより平易なものに置き換えました。</cmt>
+<e type="check" ver="1">The trials concerned with a samurai himself, his wife or his legitimate heir took place in Hyojosho (conference chamber), and the other trials in a bugyo-sho (bugyo office), and the Ometsuke officer declared at the start of a trial that the it was to be conducted under the instructions of Roju.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>ただし、実際の裁判は町奉行及び与力が御徒目付の立会を受けて吟味を行っていた。</j>
+<e type="trans" ver="1">However, details of a trial were conducted by a machi-bugyo officer and his yoriki (assistant), attended by Okachi-metsuke (officers to work under Metsuke).</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">However, the trial was actually conducted by a machi-bugyo officer and his yoriki (assistant), attended by Okachi-metsuke (officers to work under Metsuke).</e>
+<cmt>detailですと、詳細になってしまい、少し原文の意味から離れてしまうと感じました。そのためactuallyで置き換えました。</cmt>
+<e type="check" ver="1">However, the trial was actually conducted by a machi-bugyo officer and his yoriki (assistant), attended by Okachi-metsuke (officers to work under Metsuke).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>伺書（調書）に大目付や目付は連署するものの、実際の判決部分に相当する御仕置附・御咎附は町奉行単独で行われ、大目付らは関与できなかった。</j>
+<e type="trans" ver="1">Although the Ometsuke officer and the Metsuke officer signed the Ukagaisho (trial record), the job for Oshioki-zuke or Otogame-zuke, which constituted actual judicial judgment, was made by the machi-bugyo himself, disabling Ometsuke and others to be involved in the judgment.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">Although the Ometsuke officer and the Metsuke officer made joint signatures on the Ukagaisho (trial record), Oshioki-zuke or Otogame-zuke which was equivalent to the actual judicial judgment, was made by the machi-bugyo alone, and Ometsuke and the others were not allowed to take part.</e>
+<cmt>連署でjoint signatureという定訳がありました。また、御仕置附・御咎附はjob forを用いて訳されていますが、「判決部分に相当」ともありますので、不要と考え削除致しました。</cmt>
+<e type="check" ver="1">Although the Ometsuke officer and the Metsuke officer made joint signatures on the Ukagaisho (trial record), Oshioki-zuke or Otogame-zuke which was equivalent to the actual judicial judgment, was made by the machi-bugyo alone, and Ometsuke and the others were not allowed to take part.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>これは公事方御定書をはじめとする江戸幕府の刑事法規を本来裁判業務の部外者であった大目付・目付が見ることが禁じられていたことによるという。</j>
+<e type="trans" ver="1">It is said that this situation was caused because Ometsuke officers and Metsuke officers, who were originally outsiders of trial jobs, were prohibited from reading criminal-related laws and regulations, including Kujigata-osadamegaki regulations by Edo bakufu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It was said that this was because Ometsuke officers and Metsuke officers, who were originally people outside the trial work, were prohibited from reading criminal-related laws and regulations including Kujigata-osadamegaki (the law of Edo bakufu).</e>
+<cmt>少し表現を変えてより分かり易くしました。また、文末の「公事方御定書」は用語統一の訳が分かり易いので、書き換えました。</cmt>
+<e type="check" ver="1">It was said that this was because Ometsuke officers and Metsuke officers, who were originally people outside the trial work, were prohibited from reading criminal-related laws and regulations including Kujigata-osadamegaki (the law of Edo bakufu).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>落着すると、大目付がその旨を宣して町奉行が判決を言い渡した。</j>
+<e type="trans" ver="1">When the trail was settled, Ometsuke declared that it had been settled, and the machi-bugyo officer delivered judgment.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Ometsuke made an announcement when the trial reached settlement, and the machi-bugyo officer delivered judgment.</e>
+<cmt>settledの繰り返しを避けるため、修正致しました。</cmt>
+<e type="check" ver="1">The Ometsuke made an announcement when the trial reached settlement, and the machi-bugyo officer delivered judgment.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>なお、御目見以下や陪臣の刑事裁判は町奉行所にて目付1名の立会のみにて町奉行が行った。</j>
+<e type="trans" ver="1">Criminal trails for persons with no Omemie status (the privilege of having an audience with shogun) or persons who were not direct retainers of shogun were conducted in a machi-bugyo office, with only a Metsuke officer attended.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Criminal trails for people who had no omemie or people who were not direct retainers of shogun were conducted at a machi-bugyo office, with the presence of only one Metsuke officer.</e>
+<cmt>「御目見以下」は御目見「できない」として訳出されているようでしたので、その意味を残しつつ文を平易にするために表現を部分的に修正致しました。また、「御目見」についてはファイルのはじめに一度使用されているので、説明は省きました。</cmt>
+<e type="check" ver="1">Criminal trails for people who had no omemie or people who were not direct retainers of shogun were conducted at a machi-bugyo office, with the presence of only one Metsuke officer.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>これを目付立会吟味（めつけたちあいぎんみ）という。</j>
+<e type="trans" ver="1">This type of trails was called Metsuke-tachiai-ginmi.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This type of trails was called Metsuke-tachiai-ginmi.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">This type of trails was called Metsuke-tachiai-ginmi.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

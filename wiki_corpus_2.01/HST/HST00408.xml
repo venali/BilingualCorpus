@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>平田荘</j>
+<e type="trans" ver="1">Hirata no Sho</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hirata no Sho</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hirata no Sho</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>平田荘（ひらたのしょう）とは、旧大和国にあった荘園。</j>
+<e type="trans" ver="1">Hirata no sho was a manor located in old Yamato Province.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hirata no sho was a manor located in old Yamato Province.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hirata no sho was a manor located in old Yamato Province.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>大和一の大きさを誇った、葛下郡・広瀬郡に亘る散在性荘園。</j>
+<e type="trans" ver="1">It was a scattered manor from Katsuge-gun to Hirose-gun, which was the biggest in Yamato.</e>
+<cmt>葛下郡「かつらぎのしもごおり」とも読むようです。広瀬郡「ひろせのこおり」とも読むようです。</cmt>
+<e type="trans" ver="2">It was the biggest manor in Yamato, scattered from Katsuge County to Hirose County.</e>
+<cmt>rearranged sentence to read more naturally; changed &quot;-gun&quot; to &quot;County&quot;</cmt>
+<e type="check" ver="1">It was the biggest manor in Yamato, scattered from Katsuge County to Hirose County.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>現在の大和高田市、葛城市、北葛城郡 広陵町、等域に及ぶ。</j>
+<e type="trans" ver="1">It ranged the present Yamatotakada City to Katsuragi City, Koryo-cho, Kita-Katsuragi County.</e>
+<cmt>「等域」は「等、広域」の間違いではないかと思うのですが修正せず訳出。「郡」はwardでなくcountyとしました。</cmt>
+<e type="trans" ver="2">It ranged from the present Yamatotakada City to Katsuragi City, Koryo-cho, Kita-Katsuragi County.</e>
+<cmt>added &quot;from&quot; before &quot;the present&quot;</cmt>
+<e type="check" ver="1">It ranged from the present Yamatotakada City to Katsuragi City, Koryo-cho, Kita-Katsuragi County.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>平安時代は雑役免荘で、摂関家領。</j>
+<e type="trans" ver="1">In the Heian Period, it was zoyakumen (exception from all levies except the regular land tax) sho, and the estate of Sekkan-ke (family which produced regents).</e>
+<cmt>雑役免はzoyakumenのようです。</cmt>
+<e type="trans" ver="2">During the Heian Period, the manor was a zoyakumen (land that was excepted from all levies except the regular land tax), and the estate of a Sekkan-ke (family which produced regents).</e>
+<cmt>changed &quot;In&quot; to &quot;During&quot;; changed &quot;sho&quot; to &quot;manor&quot; and moved it to earlier in the sentence; fixed grammar</cmt>
+<e type="check" ver="1">During the Heian period, the manor was a zoyakumen (land that was excepted from all levies except the regular land tax), and the estate of a Sekkan-ke (family which produced regents and advisers).</e>
+<cmt>Periodの頭文字を小文字に変更、Sekkan-keの補足を一部修正</cmt>
+</sen>
+<sen id="5">
+<j>鎌倉時代以降は近衛家領。</j>
+<e type="trans" ver="1">In the Kamakura Period, it was the estate of the Konoe family.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the Kamakura Period, it was the estate of the Konoe family.</e>
+<cmt>changed &quot;In&quot; to &quot;During&quot;</cmt>
+<e type="check" ver="1">During the Kamakura period, it was the estate of the Konoe family.</e>
+<cmt>Periodの頭文字を小文字に変更</cmt>
+</sen>
+<sen id="6">
+<j>春日大社が領家で、興福寺 一乗院が知行。</j>
+<e type="trans" ver="1">Kasuga-taisha Shrine was the ryoke (a lord of the manor), and Kofuku-ji Temple Ichijo-in was in charge of chigyo (enfeoffment).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kasuga-taisha Shrine was the ryoke (lord of the manor), and Kofuku-ji Temple Ichijo-in was in charge of the chigyo (fief).</e>
+<cmt>I have never seen the word &quot;enfeoffment,&quot; so I changed it to &quot;fief&quot; for &quot;知行&quot;</cmt>
+<e type="check" ver="1">Kasuga-taisha Shrine was the ryoke (lord of the manor), and Kofuku-ji Temple Ichijo-in was in charge of the chigyo (fief).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>室町時代には、2,200余町（大乗院寺社雑事記）あったという。</j>
+<e type="trans" ver="1">It is said that it was over 21 square kilometers (Daijoin jisha zojiki (Miscellaneous Records of the Daijo Temple and Shrine)) in the Muromachi Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">During the Muromachi Period, the manor was reportedly over twenty-one square kilometers (Daijoin jisha zojiki (Miscellaneous Records of the Daijo Temple and Shrine)).</e>
+<cmt>moved &quot;in the Muromachi Period&quot; to the beginning of the sentence and changed &quot;in&quot; to &quot;During&quot;; fixed grammar</cmt>
+<e type="check" ver="1">During the Muromachi period, the manor was reportedly over twenty-one square kilometers (Daijoin jisha zojiki (Miscellaneous Records of the Daijo Temple and Shrine)).</e>
+<cmt>Periodの頭文字を小文字に変更</cmt>
+</sen>
+<sen id="8">
+<j>大和武士である平田党（当麻氏、布施氏、岡氏、万歳氏　等：当麻氏・布施氏は争いながら共に高田氏とも称した）の母体となった。</j>
+<e type="trans" ver="1">It became the nucleus of the Hirata clique (including the Taima clan, the Fuse clan, the Oka clan, the Manzai clan: both the Toma clan and the Fuse clan also called themselves the Takada clan while fighting) of Yamato bushi (samurai of Yamato Province).</e>
+<cmt>下の行と結合、下のセル削除。</cmt>
+<e type="trans" ver="2">It became the heartland of the Hirata clique (including the Taima, Fuse, Oka, and Manzai clans; while they were in conflict, both the Toma and Fuse clans also called themselves the Takada clan) of Yamato bushi (samurai of Yamato Province).</e>
+<cmt>changed &quot;nucleus&quot; to &quot;heartland&quot;; fixed grammar to read more naturally</cmt>
+<e type="check" ver="1">It became the heartland of the Hirata clique (including the Taima, Fuse, Oka, and Manzai clans; while they were in conflict, both the Toma and Fuse clans also called themselves the Takada clan) of Yamato bushi (samurai of Yamato Province).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>平田党は、春日若宮おん祭（おん祭）で流鏑馬等重要な儀式を受け持った。</j>
+<e type="trans" ver="1">The Hirata clan took charge of important ceremonies such as yabusame (horseback archery) for Kasuga Wakamiya On-matsuri (Kasuga-Wakamiya Shrine festival in Nara, an annual festival when prayers are made for a good harvest and for protection against evil).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Hirata clan took charge of important ceremonies, such as the yabusame (horseback archery) for the Kasuga Wakamiya On-matsuri (Kasuga-Wakamiya Shrine festival in Nara -- an annual festival where prayers are made for a good harvest and protection against evil).</e>
+<cmt>fixed grammar to read more naturally; changed comma after &quot;Nara&quot; to &quot;--&quot;</cmt>
+<e type="check" ver="1">The Hirata clan took charge of important ceremonies, such as the yabusame (horseback archery) for the Kasuga Wakamiya On-matsuri (Kasuga-Wakamiya Shrine festival in Nara -- an annual festival where prayers are made for a good harvest and protection against evil).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 ファービィ(id:129184), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

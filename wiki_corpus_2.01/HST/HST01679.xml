@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>越訴</j>
+<e type="trans" ver="1">Osso</e>
+<cmt></cmt>
+<e type="trans" ver="2">Osso (petition without legal procedures; retrial regulation)</e>
+<cmt>タイトルを補足しました。</cmt>
+<e type="check" ver="1">Osso (petition without legal procedures; retrial regulation)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>越訴（おっそ）とは、再審などを求めて正規の法手続を踏まずに行う訴え。</j>
+<e type="trans" ver="1">An osso referred to a suit asking for retrial and so on without taking regular judicial proceedings.</e>
+<cmt></cmt>
+<e type="trans" ver="2">An osso referred to a suit asking for retrial and so on without taking regular judicial proceedings.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">An osso referred to a suit asking for retrial and so on without taking regular judicial proceedings.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>合法・非合法は問わない。</j>
+<e type="trans" ver="1">It did not matter whether it was legal or illegal.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It did not matter whether it was legal or illegal.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">It did not matter whether it was legal or illegal.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>直訴と同一視される場合もあり、実際に両方を混同する要素も含まれているが、本来の性格としては直訴は最高権力者の個人に対して訴えるのに対して、越訴は上級訴訟機関に対して訴えるものである。</j>
+<e type="trans" ver="1">An osso was sometimes identified as a jikiso (direct appeal) because it actually included cases of both of them mixed up; originally a jikiso was made to a person in paramount authority, while an osso was made to the upper legal institution.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although an osso was sometimes identified with a jikiso (direct appeal) because they had something in common in fact, originally a jikiso was made to a person in paramount authority, while an osso was made to the upper legal institution.</e>
+<cmt>Although を文頭にして一文にしました。as→with としました。actually→in fact としました（用語統一）。「両方を混同する要素」→両者の共通点と解釈して訳しなおしました。</cmt>
+<e type="check" ver="1">Although an osso was sometimes identified with a jikiso (direct appeal) because they had something in common in fact, originally a jikiso was made to a person in paramount authority, while an osso was made to the upper legal institution.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>古代</j>
+<e type="trans" ver="1">Ancient Times</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ancient Times</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ancient Times</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>律令法においては、裁判所の審級を越えて訴えを起こすことである。</j>
+<e type="trans" ver="1">In the Ritsuryo law it was making a suit jumping over the trial class of the court.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Ritsuryo law it meant making a suit jumping over the trial class of the court.</e>
+<cmt>was→meant としました。</cmt>
+<e type="check" ver="1">In the Ritsuryo law, it meant pursuing a suit by seeking a judgment from an authority superior to the court.</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+<sen id="5">
+<j>公式令によれば、訴えの起こす場合には地方においては郡司→国司→太政官、首都においては京職→刑部省→太政官の順序を取ることが定められており（太政官で訴えが受理されなければ、天皇に上奏することが許される）、この手続に反する訴えをした場合には笞刑40の刑に課された（『闘訟律』）。</j>
+<e type="trans" ver="1">According to the Kushiki-ryo (Ritsuryo law) the fixed course of a suit in local districts was a gunji (local magistrate) =&gt;a kokushi (provincial governor)=&gt;the Daijokan (Great Council of State) and in the Capital the Kyoshiki (Capital Bureau) =&gt;the Gyobusho (Ministry of Justice)=&gt;the Daijokan (if appeals were not accepted by the Dajokan, people were allowed to report to the emperor), and if people who made an appeal against this procedure were given forty strokes of canes (&quot;Toshoritsu&quot;).</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to the Kushiki-ryo (law on state documentary forms in the Yoro Code), the fixed course of a suit in local districts was a gunji (local magistrate), a kokushi (provincial governor), the Daijokan (Great Council of State) in that order, and in the Capital the Kyoshiki (Capital Bureau), the Gyobusho (Ministry of Justice), the Daijokan in that order (if appeals were not accepted by the Daijokan, people were allowed to report to the emperor), and if people made an appeal against this procedure, they were given 40 strokes of cane (&quot;Toshoritsu&quot;).</e>
+<cmt>原文には (律令法) とありましたが、リンク先の単語が抽出されるバグのようですので削除しました。公式令を補足しました。コンマを追加しました。ファイル内統一のため、Dajokan→Daijokan としました。アラビア数字としました。canes→cane としました。スペースを削除しました。who を削除、they を追加しました。</cmt>
+<e type="check" ver="1">According to the Kushiki-ryo (law on state documentary forms in the Yoro Code), the fixed course of a suit in local districts was a gunji (local magistrate), a kokushi (provincial governor), the Daijokan (Great Council of State) in that order, and in the Capital the Kyoshiki (Capital Bureau), the Gyobusho (Ministry of Justice), the Daijokan in that order (if appeals were not accepted by the Daijokan, people were allowed to report to the emperor), and if people made an appeal against this procedure, they were given 40 strokes of cane (&quot;Toshoritsu&quot;).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>また、これが受理された場合、受理した官吏も同様の刑に処された。</j>
+<e type="trans" ver="1">The officials who had accepted this were also given a similar punishment.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The officials who had accepted this were also given a similar punishment.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The officials who had accepted this were also given a similar punishment.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>もっとも、訴訟機関である官司が不法に裁判を行われなかった場合や上訴を妨害した場合に越訴を行うことは例外的に認められていた。</j>
+<e type="trans" ver="1">However, if the government office, the legal institution had neglected a trial illegally, or prevented an appeal, an osso was admitted exceptionally.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, if the government office as the legal institution had neglected a trial illegally, or prevented an appeal, an osso was admitted exceptionally.</e>
+<cmt>原文の「行われなかった」は「行わなかった」の誤りと思われます。コンマを as と置換しました。</cmt>
+<e type="check" ver="1">However, if the government office as the legal institution had neglected a trial illegally, or prevented an appeal, an osso was admitted exceptionally.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>また、唐の『闘訟律』には官吏の車駕に対して直接訴えを起こすことは禁じられていた。</j>
+<e type="trans" ver="1">Chinese &quot;Toshoritsu&quot; banned making a direct appeal to government officials in a palanquin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Toshoritsu&quot; of the Tang Dynasty banned making a direct appeal to government officials in a palanquin.</e>
+<cmt>Chinese→of theTang Dynastyとしました。</cmt>
+<e type="check" ver="1">&quot;Toshoritsu&quot; of the Tang Dynasty banned making a direct appeal to government officials in a palanquin.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>日本の『闘訟律』は全文が残されていないため、この規定が存在したかは不明である。</j>
+<e type="trans" ver="1">Because Japanese &quot;Toshoritsu&quot; has some missing parts, it is unknown that it included this regulation, however, before the Heian period no record of such a matter was found.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because Japanese &quot;Toshoritsu&quot; has some missing parts, it is unknown if it included this regulation.</e>
+<cmt>一原文一訳文の例外対処that→if としました。</cmt>
+<e type="check" ver="1">Because Japanese &quot;Toshoritsu&quot; has some missing parts, it is unknown if it included this regulation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>が、少なくても平安時代以前にこうした事件があったとする記録はない。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2">However, before the Heian period no record of such a matter was found.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="check" ver="1">However, before the Heian period no record of such a matter was found.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>中世</j>
+<e type="trans" ver="1">Medieval Period</e>
+<cmt></cmt>
+<e type="trans" ver="2">Medieval Period</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Medieval Period</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="11">
+<j>中世に入ると、再審制度として越訴制が導入されることとなる。</j>
+<e type="trans" ver="1">In the early Medieval period osso rules were introduced as a retrial regulation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the early Medieval period osso rules were introduced as a retrial regulation.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In the early Medieval period osso rules were introduced as a retrial regulation.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>御成敗式目では国司や荘園本所、地頭などの支配下にある名主・百姓がその許可なくして鎌倉幕府に直接訴えを起こすことを禁じる従来通りの越訴の禁止を定める一方で、再審制度としての越訴が導入された。</j>
+<e type="trans" ver="1">The Goseibai-shikimoku (code of conduct for samurai) banned conventional osso by nanushi (headmen of a village) or peasants ruled by a gunji, a shoen-honjo (lord of a manor), a jito (agent in charge of a lord&apos;s manor) and so on without their permission to the Kamakura bakufu, while an osso was introduced as a retrial regulation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Goseibai shikimoku (code of conduct for samurai) banned conventional osso in which nanushi (headmen of a village) or peasants ruled by a kokushi (provincial governor), a shoen honjo (lord of a manor), a jito (agent in charge of a lord&apos;s manor) and so on made a direct appeal to the Kamakura bakufu (Japanese feudal government headed by a shogun) without their master&apos;s permission, while an osso as a retrial regulation was introduced.</e>
+<cmt>ハイフンを削除しました。gunji→kokushi (provincial governor) に修正しました。「直接訴えを起こす」の部分を入れて訳しなおしました。幕府を補足しました。「再審制度としての・・・」の部分、語順を変えました。</cmt>
+<e type="check" ver="1">The Goseibai shikimoku (code of conduct for samurai) banned conventional osso in which nanushi (headmen of a village) or peasants ruled by a kokushi (provincial governor), a shoen honjo (lord of a manor), a jito (agent in charge of a lord&apos;s manor) and so on made a direct appeal to the Kamakura bakufu (Japanese feudal government headed by a shogun) without their master&apos;s permission, while an osso as a retrial regulation was introduced.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>鎌倉時代の再審制度には訴訟機関の不法を理由とした庭中と判決内容の事実誤認・過誤などを理由に起こす越訴の2つがあった。</j>
+<e type="trans" ver="1">The retrial regulation in the Kamakura period included teichu, an appeal to the unlawfulness of the legal institutions and osso, an appeal to errors in the content of a judgment.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were two kinds of retrial regulation in the Kamakura period: teichu, an appeal to the unlawfulness of the legal institutions, and osso, an appeal to errors in the content of a judgment.</e>
+<cmt>「2つ」の部分を入れて、文を調整しました。</cmt>
+<e type="check" ver="1">There were two kinds of retrial systems in the Kamakura period: teichu, which was an appeal made based on a belief that the legal institution in question was unlawful; and osso, an appeal made based on a belief that the judgment contained a factual error.</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+<sen id="14">
+<j>越訴は当初は引付が管轄していたが、文永元年（1264年）には専門機関として越訴方が設置された。</j>
+<e type="trans" ver="1">At first osso were in charge of the hikitsuke (Court of justice), however, the Ossokata (legal institution) was set up as a specialized institution in 1264.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At first the hikitsuke (Court of justice) was in charge of osso, however, the Ossokata (legal institution) was set up as a specialized institution in 1264.</e>
+<cmt>引付と越訴を入れ替え、were→was としました。</cmt>
+<e type="check" ver="1">At first the hikitsuke (Court of justice) was in charge of osso, however, the Ossokata (legal institution) was set up as a specialized institution in 1264.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="15">
+<j>原判決に異論がある場合、引付に覆勘と呼ばれる再審を受けることが認められていたが、そこで納得の得られる判決が出されない場合には越訴方に提訴した。</j>
+<e type="trans" ver="1">If people had an objection to a judgement, they were allowed to have a retrial called a fukukan, and if they could not get a satisfactory judgment, they appealed to the Ossokata.</e>
+<cmt></cmt>
+<e type="trans" ver="2">If people had an objection to a judgment, they were allowed to have a retrial in hikitsuke called a fukukan, and if they still could not get a satisfactory judgment, they appealed to the Ossokata.</e>
+<cmt>judgment 米国スペルに統一しました。スペースを削除しました。in hikitsuke を追加しました。still を追加しました。</cmt>
+<e type="check" ver="1">If people had an objection to a judgment, they were allowed to have a retrial in hikitsuke called a fukukan, and if they still could not get a satisfactory judgment, they appealed to the Ossokata.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>越訴方では越訴が正当と判断される場合には内談の場にて越訴頭人・越訴奉行人によって越訴状と落居事書（判決原案）との比較審理が行われ、先沙汰（原判決）が問題ありと判断された場合、御教書を発給して改めて奉行人を選定し、越訴頭人の指揮の下で正式な裁判が改めて開かれた。</j>
+<e type="trans" ver="1">If the Ossokata determined that their osso were justified, the Ossotonin (head of the Olossokata) and the Ossobugyonin (officials in charge of retrials and accepting appeals) privately discussed and compared the charging document with the original judgment, and if they decided that the judgment was not fair, they issued a migyosho (document for informing of decisions made by third or upper ranked authorities), reelected bugyonin, and started a formal trial under the command of the ossotonin.</e>
+<cmt></cmt>
+<e type="trans" ver="2">If the Ossokata determined that their osso were justifiable, the Ossotonin (head of the Ossokata) and the Ossobugyonin (officials in charge of retrials and accepting appeals) privately discussed and compared the petition for osso with the original judgment, and if they decided that the judgment was not fair, they issued a migyosho (document for informing of decisions made by third or upper ranked authorities), elected anew bugyonin, and started a formal trial under the command of the ossotonin.</e>
+<cmt>justified→justifiable としました。スペースを削除しました。Ossokata スペル修正しました。charging document→petition for osso としました。reelected（再選）→elected anew としました。</cmt>
+<e type="check" ver="1">If the Ossokata determined that their osso were justifiable, the Ossotonin (head of the Ossokata) and the Ossobugyonin (officials in charge of retrials and accepting appeals) privately discussed and compared the petition for osso with the original judgment, and if they decided that the judgment was not fair, they issued a migyosho (document for informing of decisions made by third or upper ranked authorities), elected anew bugyonin, and started a formal trial under the command of the ossotonin.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>同様の制度は六波羅府や鎮西府でも採用された。</j>
+<e type="trans" ver="1">Similar regulations were adopted in the Rokuhara-fu and the Chinzei-fu (local government office in Kyushu region).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Similar regulations were adopted in the Rokuhara-fu (branch government office of the Kamakura bakufu in Kyoto) and the Chinzei-fu (local government office in Kyushu region).</e>
+<cmt>六波羅府を補足しました。</cmt>
+<e type="check" ver="1">Similar regulations were adopted in the Rokuhara-fu (branch government office of the Kamakura bakufu in Kyoto) and the Chinzei-fu (local government office in Kyushu region).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="18">
+<j>だが、得宗の権力が訴訟制度にも及ぶようになると、得宗の信任した引付の（原）判決に異議を唱えることを抑圧する動きが現れ、越訴方が一時廃止されたり、御内人が越訴方に登用されるなどの変化があった。</j>
+<e type="trans" ver="1">However, when Tokuso&apos;s authority came to the litigation system, there were some changes such as a movement of suppressing objections to the judgment by hikitsuke whom Tokuso trusted, abolishing temporally the ossokata or posting Miuchibito (Tokuso&apos;s private vassals) in the ossokata.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, when Tokuso&apos;s (the patrimonial head of the main branch of the Hojo clan) authority came to the litigation system, there were some changes such as a movement of suppressing objections to the judgment by hikitsuke whom Tokuso trusted, abolishing temporarily the ossokata or posting Miuchibito (Tokuso&apos;s private vassals) in the ossokata.</e>
+<cmt>得宗を補足しました。temporally→temporarily のことと思いますので修正しました。</cmt>
+<e type="check" ver="1">However, when the authority of the Tokuso (patrimonial head of the main branch of the Hojo clan) was extended over the litigation system, changes such as the following occurred: objections to judgments delivered by hikitsuke whom the Tokuso trusted tended to be suppressed, the ossokata was temporarily abolished, and Miuchibito (private vassals of the Tokuso) were posted in the ossokata.</e>
+<cmt>原文に合わせて修正</cmt>
+</sen>
+<sen id="19">
+<j>また、越訴に提訴期限を設ける不易法が導入された。</j>
+<e type="trans" ver="1">The fuekiho law to limit a period of suing was also introduced.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The fuekiho law to limit a period of suing in osso was also introduced.</e>
+<cmt>in osso を追加しました。</cmt>
+<e type="check" ver="1">The fuekiho law to limit a period of suing in osso was also introduced.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>室町幕府には越訴奉行や内奏方、仁政方が設置されていたようであるが、次第に他の機関に統合されて廃止された。</j>
+<e type="trans" ver="1">It seems that the Muromachi bakufu set up Ossobugyo, naisogata (authority of secret report to the emperor) and jinseigata (authority of a relief system for judicial decision of the litigation by hikitsukeshu, coadjustor of the high court), however, they were gradually integrated into other institutions to be abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although it seems that the Muromachi bakufu set up Ossobugyo, naisogata (authority of secret report to the emperor) and jinseigata (authority of a relief system for judicial decision of the litigation by hikitsukeshu, coadjustor of the high court), they were gradually integrated into other institutions to be abolished.</e>
+<cmt>however→although としました。仁政方の補足に引付衆の説明として coadjustor という単語が出てきますが、辞書に載っていません。coadjutor のスペルミスかと思いましたが辞書で調べる限りこれも当てはまらないように思いますので、もとのまま記載しました。</cmt>
+<e type="check" ver="1">Although it seems that the Muromachi bakufu set up Ossobugyo, naisogata (authority of secret report to the emperor) and jinseigata (authority of a relief system for judicial decision of the litigation by hikitsukeshu, coadjustor of the high court), they were gradually integrated into other institutions to be abolished.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>また、不易法が継承され、征夷大将軍の特別な許可がなければ沙汰落居から3年以内に越訴手続を取らないと受け付けられないこととなった。</j>
+<e type="trans" ver="1">The succeeded fuekiho law decided that osso required a special permission from the Seii Taishogun. if judicial procedures were not taken within three years after a decision</e>
+<cmt></cmt>
+<e type="trans" ver="2">The succeeded fuekiho law stipulated that judicial procedures for an osso had to be done within three years after a decision unless Seii Taishogun (literally, &quot;great general who subdues the barbarians&quot;) granted special permission.</e>
+<cmt>decided→stipulated としました。文の前後を入れ替え調整しました。征夷大将軍を補足しました（用語統一）。ピリオドを追加しました。</cmt>
+<e type="check" ver="1">The succeeded fuekiho law stipulated that judicial procedures for an osso had to be done within three years after a decision unless Seii Taishogun (literally, &quot;great general who subdues the barbarians&quot;) granted special permission.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>戦国時代には分国法によって越訴自体を禁じて原判決の遵守を強要する例も見られた（六角氏・長宗我部氏など）。</j>
+<e type="trans" ver="1">In the Warring States period (Japan) there were some examples of banning osso by the Bunkokuho law and giving orders to comply the original judgment (the Rokkaku clan, the Chosokabe clan and others).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Sengoku Period (Period of Warring States) there were some examples of banning osso by the Bunkokuho (the law individual Sengoku daimyo [Japanese territorial lord in the Sengoku period] enforced in their own domain) and giving orders to comply with the original judgment (the Rokkaku clan, the Chosokabe clan and so on).</e>
+<cmt>戦国時代の表記、用語統一に従いました。原文には （日本) とありましたが、リンク先の単語が抽出されるバグのようですので削除しました。分国法を補足しました。with を追加しました。スペースを削除しました。and others→and so on としました（用語統一）。</cmt>
+<e type="check" ver="1">In the Sengoku Period (Period of Warring States) there were some examples of banning osso by the Bunkokuho (the law individual Sengoku daimyo [Japanese territorial lord in the Sengoku period] enforced in their own domain) and giving orders to comply with the original judgment (the Rokkaku clan, the Chosokabe clan and so on).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="23">
+<j>なお、『日葡辞書』には“越訴”を「一旦却下されるか和解するかした後に再びむしかえして新たに提起された訴訟」、“直訴”を“直奏”の派生語として「国王または大身の主君に自ら面と向かって申し上げること、また口頭か文書かで直接訴え出ること」と記されている</j>
+<e type="trans" ver="1">&quot;Nippon jisho (Japanese-Portuguese dictionary)&quot; defined &quot;osso&quot; as &quot;renewing a suit that was once rejected or agreed&quot; and &quot;jikiso&quot; as a derived word &quot;speaking directly to the King or the great lord or appealing in words or in monjo (written materials)&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">&quot;Nippo jisho&quot; (Japanese-Portuguese dictionary) defined &quot;osso&quot; as &apos;renewing a suit that was once rejected or settled&apos; and &quot;jikiso&quot; as a derived word from &quot;jikisou&quot; meaning &apos;speaking directly to the King or the great lord, or appealing in speech or in writing.&apos;</e>
+<cmt>Nippo スペル修正しました。括弧を引用符の外に移動しました。agreed→settled としました。シングルクオーテーションに修正しました。「直奏」が訳文に入っていませんでしたので jikisou として追加しました（jikiso と区別するため ou としました）。meaning を追加しました。コンマを追加しました。in words or in monjo (written materials)→in speech or in writing としました。ピリオドを引用符の中に移動しました。</cmt>
+<e type="check" ver="1">&quot;Nippo jisho&quot; (Japanese-Portuguese dictionary) defined &quot;osso&quot; as &apos;renewing a suit that was once rejected or settled&apos; and &quot;jikiso&quot; as a derived word from &quot;jikisou&quot; meaning &apos;speaking directly to the King or the great lord, or appealing in speech or in writing.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>近世</j>
+<e type="trans" ver="1">Early Modern Times</e>
+<cmt></cmt>
+<e type="trans" ver="2">Early Modern Times</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Early Modern Times</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="24">
+<j>近世においては、訴訟の法に定められた手続を乱す違法行為一般を「越訴」と呼び、私的な相論とともにこれを禁じた。</j>
+<e type="trans" ver="1">In the Early Modern times general illegal acts that violated the procedures in the lawsuit regulations were called &quot;osso&quot;, and these acts were banned together with private disputes over land; Petitions should be submitted through village officers/town officers (with their seals on) to their Daimyo (Japanese feudal lord)or Daikan (local governor), if the petitions were to the Edo bakufu, the tenkan (written materials) of their feudal lord were required; Without this their acts were regarded illegal as &quot;sashikoshi-negai&quot;/&quot;sujikai-negai&quot; (&quot;Goson-okite&quot; in 1603, &quot;Kojisaikyo-sadame&quot; in 1633).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the Early Modern times general illegal acts that violated the procedures in the lawsuit regulations were called &apos;osso&apos; and these acts were banned together with private disputes.</e>
+<cmt>一原文一訳文の例外対処シングルクオーテーションに修正しました。コンマを削除しました。over land を削除しました（相論の語義に over land が含まれる根拠が見つからなかったため）。</cmt>
+<e type="check" ver="1">In the Early Modern times general illegal acts that violated the procedures in the lawsuit regulations were called &apos;osso&apos; and these acts were banned together with private disputes.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>村役人・町役人を通じて（奥印を受けて）、所属する大名や代官に訴状を提出し、江戸幕府への訴えを要する場合には領主の添簡が必要とされ、これがなければ「差越願」・「筋違願」として違法とされた（慶長8年（1603年）「郷村掟｣及び寛永10年（1633年）「公事裁許定」）。</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2">Petitions had to be submitted through village officers/town officers (with their seals on) to their Daimyo (Japanese feudal lord) or Daikan (local governor), and if the petitions were being sent to the Edo bakufu, the tenkan (written materials) of their feudal lord were required; without this their acts were regarded as illegal, which came under &apos;sashikoshi negai&apos; (direct petition to a senior officer without following the prescribed procedures) or &apos;sujichigai no negai&apos; (petition to a government office which does not have jurisdiction) (&apos;Goson okite&apos; [rules for autonomous villages] in 1603, &apos;Kojisaikyo sadame&apos; [public law for petition] in 1633).</e>
+<cmt>一原文一訳文の例外対処should→had to としました。シングルクオーテーションに修正しました。スペースを追加しました。and を追加しました。being sent を追加しました。without 頭文字を小文字にしました。regarded illegal as→regarded as illegal, which came under としました。ハイフンを削除しました。差越願・筋違願を補足しました。sujikai-negai→sujichigai no negai としました（広辞苑より）。ハイフンを削除しました。「郷村掟｣「公事裁許定」を文字通り訳して補足としました。</cmt>
+<e type="check" ver="1">Petitions had to be submitted through village officers/town officers (with their seals on) to their Daimyo (Japanese feudal lord) or Daikan (local governor), and if the petitions were being sent to the Edo bakufu, the tenkan (written materials) of their feudal lord were required; without this their acts were regarded as illegal, which came under &apos;sashikoshi negai&apos; (direct petition to a senior officer without following the prescribed procedures) or &apos;sujichigai no negai&apos; (petition to a government office which does not have jurisdiction) (&apos;Goson okite&apos; [rules for autonomous villages] in 1603, &apos;Kojisaikyo sadame&apos; [public law for petition] in 1633).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>これは幕藩体制の維持のために全ての訴訟を法手続に沿って行わせようとしたものである。</j>
+<e type="trans" ver="1">This was because the Edo bakufu intended to carry out all suits according to legal procedures for the preservation of the Bakuhan system.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was because the Edo bakufu intended to carry out all suits according to legal procedures for the preservation of the shogunate system.</e>
+<cmt>Bakuhan system→shogunate system としました。</cmt>
+<e type="check" ver="1">This was because the Edo bakufu intended to carry out all suits according to legal procedures for the preservation of the shogunate system.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>だが、実際に添簡が発給されることは少なく、このため訴訟を起こすことすら抑圧された人々は結果的に駕籠訴・駆込訴・捨訴・張訴などの直訴を用いて越訴を行う他無く、場合によっては門訴・一揆・強訴・打ちこわしなどの徒党を組んだ強硬手段を採らざるを得なくなった。</j>
+<e type="trans" ver="1">However, actual tenkan were rarely issued, therefore, people whose suits were restricted had no other way of making osso except jikiso such as kagoso/kakekomiso/suteso/hariso and so on, and in some cases they had to take vigorous means by forming a faction of monso/ikki/goso/uchikowasi and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, actual tenkan were rarely issued, therefore, people whose suits were restricted had no other way of making osso by means of jikiso such as kagoso (jikiso to Daikan or Daimyo in a palanquin), kakekomi uttae (direct petition to the supreme court, magistrate&apos;s office, influential person of the bakufu and so on), suteso (leaving a petition in front of the gate of the supreme court and so on), hariso (pasting a petition in front of the gate of a roju&apos;s [senior councilor] residence or a government office) and so on, and in some cases they had to take hard-line measures by forming a faction for monso (petition by people gathering before the gate of the residence of a feudal lord or Daikan), ikki (uprising), goso (direct petition with the abuse of religious authority by armed priests or jinin [associates of Shinto shrines] to the Imperial Court or the bakufu), uchikowasi (destructive urban riots) and so on.</e>
+<cmt>訳漏れ（駕籠訴・駆込訴・捨訴・張訴・門訴・一揆・強訴・打ちこわし）対応しました。except→by means of としました。kakekomiso→kakekomi uttae としました（広辞苑より）。vigorous means→hard-line measures としました。of→for としました。強訴は用語検索で direct petition となっていますが、他の越訴との違いを示すため訳文のようにしました（参考：ブリタニカ国際大百科事典）。</cmt>
+<e type="check" ver="1">However, actual tenkan were rarely issued, therefore, people whose suits were restricted had no other way of making osso by means of jikiso such as kagoso (jikiso to Daikan or Daimyo in a palanquin), kakekomi uttae (direct petition to the supreme court, magistrate&apos;s office, influential person of the bakufu and so on), suteso (leaving a petition in front of the gate of the supreme court and so on), hariso (pasting a petition in front of the gate of a roju&apos;s [senior councilor] residence or a government office) and so on, and in some cases they had to take hard-line measures by forming a faction for monso (petition by people gathering before the gate of the residence of a feudal lord or Daikan), ikki (uprising), goso (direct petition with the abuse of religious authority by armed priests or jinin [associates of Shinto shrines] to the Imperial Court or the bakufu), uchikowasi (destructive urban riots) and so on.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>直訴が越訴の手段として多用されたことによって「越訴」＝「直訴」という観念が江戸時代あるいは後世において広く定着することになる。</j>
+<e type="trans" ver="1">Because jikiso were often used as a means of osso, the concept that osso was the same as jikiso came to be firmly fixed in the Edo period or in later years.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because jikiso were often used as a means of osso, the concept that &apos;osso&apos; was the same as &apos;jikiso&apos; came to be firmly fixed in the Edo period or in later years.</e>
+<cmt>引用符を追加しました。</cmt>
+<e type="check" ver="1">Because jikiso were often used as a means of osso, the concept that &apos;osso&apos; was the same as &apos;jikiso&apos; came to be firmly fixed in the Edo period or in later years.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="29">
+<j>ただし、単なる越訴・直訴のみの法定刑は急度叱（厳重注意）に過ぎなかった。</j>
+<e type="trans" ver="1">However, the punishment for simple osso/jikiso alone ended in stern warning.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the punishment for simple osso/jikiso alone ended in stern warning.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However, the punishment for simple osso/jikiso alone ended in stern warning.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>ところが、越訴・直訴に際して徒党を組んだり、徒党によって一揆や強訴などの実力行使に及んだ場合はそちらの方が罪が重く、その指導者は極刑にされた。</j>
+<e type="trans" ver="1">However, in taking osso/jikso forming a faction or appealing to violent actions such as ikki or goso were regarded as a deadly sin and their leaders were given a capital punishment</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, forming a faction for osso/jikiso or the faction&apos;s resort to force such as ikki or goso were regarded as a more serious crime and their leaders were given a capital punishment.</e>
+<cmt>語順を変えて前後を調整しました。jikiso スペル修正しました。appealing to violent actions→resort to force としました。deadly sin (宗教上の罪の表現)→more serious crime としました。ピリオドを追加しました。</cmt>
+<e type="check" ver="1">However, forming a faction for osso/jikiso or the faction&apos;s resort to force such as ikki or goso were regarded as a more serious crime and their leaders were given a capital punishment.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>義民とされた人々が極刑に処された理由としては徒党を組んだことが問題視されたものであり、越訴・直訴そのものが直接の原因ではないことに注意を要する。</j>
+<e type="trans" ver="1">The reason that people who sacrificed themselves to justice received a capital punishment was that forming a faction was regarded as a serious matter, osso and jikiso themselves were not a direct reason, which should be noted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It should be noted that the reason why people who sacrificed themselves for justice received a capital punishment was that forming a faction was regarded as a serious matter and osso/jikiso themselves were not a direct reason.</e>
+<cmt>語順を変えて前後を調整しました。that→why としました。to→for としました。, osso and jikiso→and osso/jikiso としました。</cmt>
+<e type="check" ver="1">It should be noted that the reason why people who sacrificed themselves for justice received a capital punishment was that forming a faction was regarded as a serious matter and osso/jikiso themselves were not a direct reason.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="32">
+<j>もっとも、幕藩体制の維持を重視していた江戸幕府や諸藩は、越訴そのものは禁じていたものの、下級役人の不正な行政・司法を放置することも許容できなかった。</j>
+<e type="trans" ver="1">However, the Edo bakufu that gave weight to the preservation of the Bakuhan System and domains banned osso themselves, but could not leave unlawful administration and administration of justice of low-level functionaries as they were.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the Edo bakufu and clans that gave weight to the preservation of the shogunate system banned osso themselves, they could not leave unlawful administration and administration of justice by low-level functionaries as they were.</e>
+<cmt>However→although とし、but を削除、they を追加しました。Bakuhan System→shogunate system としました。domains→clans とし、語順を変えました。of→by としました。</cmt>
+<e type="check" ver="1">Although the Edo bakufu and clans that gave weight to the preservation of the shogunate system banned osso themselves, they could not leave unlawful administration and administration of justice by low-level functionaries as they were.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="33">
+<j>「郷村掟」でも代官不正の場合の直訴は例外的に越訴が許容され、実際に越訴があった場合には表面上訴えを受理せず処分の上で管轄役所への申し出を命じたものの、幕府・藩のお墨付きを得た訴えを管轄役所が受理しない訳にはいかなかった。</j>
+<e type="trans" ver="1">Even in &quot;Goson-okite&quot; if a jikiso was related to injustice of a Daikan, osso was exceptionally allowed and if actual jikiso was made, officials did not accept the appeal officially, punished the people concerned, but told them to appeal to the office in their jurisdiction, which had no other way to accept the appeal certified by the bakufu/domains.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Even in &apos;Goson okite,&apos; if a jikiso was related to injustice of a Daikan, osso was exceptionally allowed and if actual jikiso was made, officials did not accept the appeal officially and punished the people concerned, but told them to appeal to the office responsible for the case, which had no other way than to accept the appeal certified by the bakufu/clans.</e>
+<cmt>シングルクオーテーションに修正、ハイフンを削除しました。コンマを追加しました。and を追加しました。in their jurisdiction→responsible for the case としました。than を追加しました。domains→clans としました。</cmt>
+<e type="check" ver="1">Even in &apos;Goson okite,&apos; if a jikiso was related to injustice of a Daikan, osso was exceptionally allowed and if actual jikiso was made, officials did not accept the appeal officially and punished the people concerned, but told them to appeal to the office responsible for the case, which had no other way than to accept the appeal certified by the bakufu/clans.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>更に江戸幕府自身も正徳元年（1711年）に巡見使に対する出訴を処罰の対象外とし、享保6年（1721年）には改めて直訴を禁じるとともに、目安箱を設置して箱訴による合法的越訴が許容されることとなった。</j>
+<e type="trans" ver="1">Furthermore, the Edo bakufu itself crossed off a suit to jyunkenshi from punishments in 1711 and rebanned jikiso, but it prepared a meyasubako (complaints box), allowing legal osso by hakoso (appeal from a box).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, the Edo bakufu itself decriminalized a suit to jyunkenshi (an inspector sent by the Edo bakufu throughout Japan) in 1711 and once more banned jikiso in 1721, but it prepared a meyasubako (complaints box), allowing legal osso by hakoso (appeal from a box).</e>
+<cmt>原文には （日本) とありましたが、リンク先の単語が抽出されるバグのようですので削除しました。crossed off ～ from punishments→decriminalized としました。巡見使を補足しました。rebanned→once more banned としました。1721 を追加しました。</cmt>
+<e type="check" ver="1">Furthermore, the Edo bakufu itself decriminalized a suit to jyunkenshi (an inspector sent by the Edo bakufu throughout Japan) in 1711 and once more banned jikiso in 1721, but it prepared a meyasubako (complaints box), allowing legal osso by hakoso (appeal from a box).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Horlicks(id:62133), ヤン提督(id:292380), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>神火</j>
+<e type="trans" ver="1">Zinka (sacred flame).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jinka (suspected arson)</e>
+<cmt>Zinka→Jinka,ピリオドを削除しました。カッコ内を修正しました。（用語集も参照しましたが、この場合、”不審火”としました）</cmt>
+<e type="check" ver="1">Jinka (suspected arson)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>神火（じんか/しんか）とは、8世紀後半から10世紀にかけて、主に東国の官衙を中心に頻発した不審火のこと。</j>
+<e type="trans" ver="1">Zinka refers to suspicious fires which often happened from the late eighth century to tenth century, mainly centering on kanga (government office) in Togoku (the eastern part of Japan, particularly Kanto region).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jinka refers to suspicious fires which often happened from the late 8th century to 10th century, mainly centering on kanga (government office) in Togoku (the eastern part of Japan, particularly Kanto region).</e>
+<cmt>Zinka→Jinka,eight→8th,tenth→10th と修正しました。（用語統一、その他31項に従い）</cmt>
+<e type="check" ver="1">Jinka refers to suspicious fires which often happened from the late 8th century to 10th century, mainly centering on kanga (government office) in Togoku (the eastern part of Japan, particularly Kanto region).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>『続日本紀』にて採録された天平宝字7年（763年）9月1日の勅において、「疫死数多く、水旱時ならず。</j>
+<e type="trans" ver="1">In the imperial decree on September 1 in 763, incorporated in &quot;Shoku Nihongi&quot; (Chronicle of Japan Continued), it is written that &quot;there were many deaths by plague and droughts.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In the imperial decree on September 1 in 763, recorded in &quot;Shoku Nihongi&quot; (Chronicle of Japan Continued), it is written that &apos;there were many deaths by plague and droughts.</e>
+<cmt>incorporated→recorded,クォートを修正しました。</cmt>
+<e type="check" ver="1">In the imperial decree on September 1 in 763, recorded in &quot;Shoku Nihongi&quot; (Chronicle of Japan Continued), it is written that &apos;there were many deaths by plague and droughts.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>神火屢至り、徒に官物を損ふ。</j>
+<e type="trans" ver="1">Zinka often happened and destroyed lots of kanmotsu (tribute goods paid as taxes or tithes).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Jinka often happened and destroyed lots of kanmotsu (tribute goods paid as taxes or tithes).</e>
+<cmt>Zinka→Jinka と修正しました。</cmt>
+<e type="check" ver="1">Jinka often happened and destroyed lots of kanmotsu (tribute goods paid as taxes or tithes).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>此れは、国郡司ら国神に恭はざるの咎なり」（原漢文）と記されている。</j>
+<e type="trans" ver="1">This was because province&apos;s gunji (a local government official) did not respect gods&quot; (original Chinese).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This was because provinces&apos; gunji (a local government official) did not respect gods&apos; (Original in Chinese.)</e>
+<cmt>province&apos;s→provinces&apos;,クォートを修正しました。カッコ部分、ピリオドの位置を修正しました。</cmt>
+<e type="check" ver="1">This was because provinces&apos; gunji (a local government official) did not respect gods&apos; (Original in Chinese.)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>当初は原因不明で、神罰や天災であるとの認識であったが、国衙や郡衙の正倉や国分寺などの公的施設の被害が多かったことと、正税・官物の焼失による財政的打撃を食い止めるために、国司・郡司らの管理責任を追及し、時には解官・損失補填などの措置を採る様になる。</j>
+<e type="trans" ver="1">In those days it was thought to be of unknown cause and be a punishment by God or a natural disaster, but there were many damages of public facilities such as shoso (public repository) or provincial monasteries of kokuga (provincial government offices) or gunga (provincial office), and in order to prevent financial damages of shozei (the rice tax stored in provincial offices&apos; warehouse) and kanmotsu by destruction in a fire, the risk management by kokushi (provincial governors) and gunji (district managers) were pursued and sometimes they got fired, recompensed the damage and so on.</e>
+<cmt></cmt>
+<e type="trans" ver="2">At first, it was thought to be of unknown cause and be a divine punishment a natural disaster, but there were many damages of public facilities such as shoso (public repository) or provincial monasteries of kokuga (provincial government offices) or gunga (provincial office), and in order to prevent financial damages of shozei (the rice tax stored in provincial offices&apos; warehouse) and kanmotsu by destruction in a fire, the risk management by kokushi (provincial governors) and gunji (district managers) were pursued and sometimes they were discharged, recompensed the damages and so on.</e>
+<cmt>In those days→At first,,punishment by God→divine punishment,got fired→were discharged,damage→damages と修正しました。</cmt>
+<e type="check" ver="1">At first, it was thought to be of unknown cause and be a divine punishment a natural disaster, but there were many damages of public facilities such as shoso (public repository) or provincial monasteries of kokuga (provincial government offices) or gunga (provincial office), and in order to prevent financial damages of shozei (the rice tax stored in provincial offices&apos; warehouse) and kanmotsu by destruction in a fire, the risk management by kokushi (provincial governors) and gunji (district managers) were pursued and sometimes they were discharged, recompensed the damages and so on.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>更にこうした事件の頻発によって、次第に事件の背景に郡司などの役人の地位を巡る地方単位における政争（政敵の責任追及）や国司・郡司らによる正税虚納や官物押領の隠蔽などを意図したものであると考えられるようになった。</j>
+<e type="trans" ver="1">Furthermore, such incidents came to often happen and they thought that, behind the incidents, there were political wars in a provincial unit, concerning positions of government officials such as gunji and so on, or intentional concealment efforts of absence of shozei payment or confiscation of kanmotsu.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Furthermore, such incidents came to often happen and they began to think that, behind those incidents, there were political wars in provincial units, concerning positions of government officials such as gunji and so on, or intentional concealment efforts of absence of shozei payment or illegal confiscation of kanmotsu.</e>
+<cmt>thought→began to think,the→those,a provincial unit→provincial units,confiscation→illegal confiscation と修正しました。</cmt>
+<e type="check" ver="1">Furthermore, such incidents came to often happen and they began to think that, behind those incidents, there were political wars in provincial units, concerning positions of government officials such as gunji and so on, or intentional concealment efforts of absence of shozei payment or illegal confiscation of kanmotsu.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>そのため、太政官では神火の報告を受けると、刑部省の役人に現地の調査を行わせて犯人の糾明を行わせたり、放火犯に対しては一律に格殺（殴り殺しの刑）処分とし、譜第の場合にはこれを断絶とするなどの措置を取った。</j>
+<e type="trans" ver="1">For this reason, when Daijokan (Grand Council of State) received the report of zinka, they had government officials in Gyobusho (Ministry of Justice) investigate the spot and find the culprit, and the arsonist was sentenced to be kakusatsu (beaten to death) and in the case of hereditary it was sentenced to be discontinued.</e>
+<cmt></cmt>
+<e type="trans" ver="2">For this reason, when Daijokan (Grand Council of State) received a report of jinka, they made government officials in Gyobusho (Ministry of Justice) investigate the spot and find the culprit, and the arsonist was sentenced to be kakusatsu (beaten to death), or in the case of hereditary status, it was sentenced to be discontinued.</e>
+<cmt>the→a,zinka→jinka,had→made,and→or と修正しました。status, カンマを補いました。</cmt>
+<e type="check" ver="1">For this reason, when Daijokan (Grand Council of State) received a report of jinka, they made government officials in Gyobusho (Ministry of Justice) investigate the spot and find the culprit, and the arsonist was sentenced to be kakusatsu (beaten to death), or in the case of hereditary status, it was sentenced to be discontinued.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="8">
+<j>なお、神火の発生は蝦夷征討期の東国に特に集中しており、森田悌は蝦夷征討によって東国において軍事的・経済的負担が強まり、政治的不満がこうした事件を引き起こす一因としてあったこと、国司の受領化によって国司と郡司の関係が変化したことが、神火事件減少の原因と推定している。</j>
+<e type="trans" ver="1">And zinka happened especially centering on Togoku during the period of the subjection of indigenous inhabitants in eastern Japan, and for Tei MORITA, military and economical burdens became heavy in Togoku because of the subjection of indigenous inhabitants in eastern Japan and political dissatisfactions made such incidents happen as one factor and kokushi became zuryo (provincial governor) and thus the relation between kokushi and gunji changed, which is estimated to have been the cause of decrease of zinka incidents.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And jinka happened especially centering on Togoku during the period of the subjection of indigenous inhabitants in eastern Japan, and for Tei MORITA, military and economical burdens became heavy in Togoku because of the subjection of indigenous inhabitants in eastern Japan and the political dissatisfaction made such incidents happen as one factor, and kokushi became zuryo (provincial governor) and thus the relation between kokushi and gunji changed, which is assumed to have been the cause of decrease of jinka incidents.</e>
+<cmt>zinka→jinka,dissatisfactions→dissatisfaction,estimated→assumed と修正しました。the, カンマを補いました。</cmt>
+<e type="check" ver="1">And jinka happened especially centering on Togoku during the period of the subjection of indigenous inhabitants in eastern Japan, and for Tei MORITA, military and economical burdens became heavy in Togoku because of the subjection of indigenous inhabitants in eastern Japan and the political dissatisfaction made such incidents happen as one factor, and kokushi became zuryo (provincial governor) and thus the relation between kokushi and gunji changed, which is assumed to have been the cause of decrease of jinka incidents.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

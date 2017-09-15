@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>花園駅 (京都府)</j>
+<e type="trans" ver="1">Hanazono Station (in Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hanazono Station (Kyoto Prefecture)</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Hanazono Station (Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>花園駅（はなぞのえき）は、京都府京都市右京区花園寺ノ内町にある、西日本旅客鉄道（JR西日本）山陰本線（嵯峨野線）の鉄道駅である。</j>
+<e type="trans" ver="1">Located in Hanazono Teranouchi-cho, Ukyo Ward, Kyoto City, Kyoto Prefecture, Hanazono Station is a stop on San&apos;in Main Line (Sagano Line) which is operated by West Japan Railway Company (JR West).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hanazono Station, located in Hanazono Teranouchi-cho, Ukyo Ward, Kyoto City, Kyoto Prefecture, is a stop on the San&apos;in Main Line (Sagano Line), which is operated by the West Japan Railway Company (JR West).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Hanazono Station, located in Hanazono Teranouchi-cho, Ukyo Ward, Kyoto City, Kyoto Prefecture, is a stop on the Sanin Main Line (Sagano Line), which is operated by the West Japan Railway Company (JR West).</e>
+<cmt>アポストロフィーを削除し、sanin　としました。</cmt>
+</sen>
+<par id="1">
+<sen id="2">
+<j>駅名電略は「オサハソ」。</j>
+<e type="trans" ver="1">The cable address of the station name is &quot;Osahaso.&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The cable address of the station name is &quot;Osahaso.&quot;</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The cable address of the station name is &apos;Osahaso.&apos;</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>ICOCA・Jスルー利用可能駅（相互利用可能ICカードはICOCAの項を参照）。</j>
+<e type="trans" ver="1">ICOCA and J-Through Card, both an IC card, are available for payment of railway fares at this station; about the compatible IC card with ICOCA, please refer to the article about ICOCA.</e>
+<cmt>ICOCAは&quot;IC Operating Card&quot;の省略形であり、そこに既に&quot;Card&quot;が含まれていることから、Jスルーと異なり英訳では&quot;Card&quot;を付していません。</cmt>
+<e type="trans" ver="2">ICOCA and J-Through Card, both of which are IC cards, are available for railway fare payment at this station; for information regarding the compatible IC card with ICOCA, please refer to the article about ICOCA.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">ICOCA and J-Through Card, both of which are IC cards, are available for railway fare payment at this station; for information regarding the compatible IC card with ICOCA, please refer to the article about ICOCA.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Structure of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>島式1面2線プラットホームを持つ高架駅で、京都方複線・園部方単線の交換可能駅である。</j>
+<e type="trans" ver="1">Hanazono Station is a stop on an overhead railway, which is equipped with one island platform, two boarding areas, a double track in the direction of Kyoto Station and a single track in the direction of Sonobe Station, and the facilities of the station enable two trains to pass each other.</e>
+<cmt>①「島式1面2線のプラットホーム」とは「島式プラットホームが１つ、乗り場が2つ」という意味であり（Wiki「プラットホーム」参照）、そこでは「プラットホーム」と「乗り場」を訳し分ける必要が生じるので、前者を&quot;platform&quot;、後者を&quot;boarding area&quot;としています。　②「高架駅」を示す単語は見つかりませんでした。ただ、「高架鉄道」ならE-dicに&quot;overhead railway&quot;と出ているので、これを元に&quot;a stop on an overhead railway&quot;としました。</cmt>
+<e type="trans" ver="2">Hanazono Station is a stop on an overhead railway, being equipped with one island platform, two boarding areas, a double track in the direction of Kyoto Station and a single track in the direction of Sonobe Station; therefore, the facilities of the station enable two trains to pass each other.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Hanazono Station is an elevated station having one island platform with tracks; being equipped with a double track in the direction of Kyoto Station and a single track in the direction of Sonobe Station, the facilities of the station enable two trains to pass each other.</e>
+<cmt>島式1面2線→one island platform with tracks　と統一しました。</cmt>
+</sen>
+<sen id="5">
+<j>同時期に高架化された二条駅同様の特徴的な上屋を持つ。</j>
+<e type="trans" ver="1">Hanazono Station has the same characterisric shed as that of Nijo Station because these two stations were converted into a stop on an overhead railway almost at the same time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hanazono Station has the same characteristic shed as that of Nijo Station, because these two stations were converted into stops on an overhead railway at nearly the same time.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Hanazono Station has the same characteristic shed as that of Nijo Station, because these two stations were converted into elevated stations at nearly the same time.</e>
+<cmt>高架→elevated と統一しました。</cmt>
+</sen>
+<sen id="6">
+<j>改札口は地上、ホームは2階。</j>
+<e type="trans" ver="1">The ticket gate is located on the ground and the platform is located on the second floor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ticket gate is located on the ground level, and the platform is located on the second floor.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The ticket gate is located on the ground level, and the platform is located on the second floor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>なお駅業務は（株）ジェイアール西日本交通サービスへ委託されており、早朝・深夜に無人の時間帯がある。</j>
+<e type="trans" ver="1">In addition, the operation of the station is consigned to JR West Kotsu Service, and the station becomes unmanned early in the morning and late at night.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, the station&apos;s operation is consigned to JR West Kotsu Service, and the station is unmanned early in the morning and late at night.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, the station&apos;s operation is consigned to JR West Kotsu Service, and the station is unmanned early in the morning and late at night.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Surroundings of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>駅の北を丸太町通が東西に通る。</j>
+<e type="trans" ver="1">On the north side of Hanazono Station, Marutamachi-dori Street runs from the west to the east.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Marutamachi-dori Street runs from the west to the east on the north side of Hanazono Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Marutamachi-dori Street runs from the west to the east on the north side of Hanazono Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>周辺は主に住宅地である。</j>
+<e type="trans" ver="1">The neighborhood is mainly the residential area.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The neighborhood is mainly a residential area.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The neighborhood is mainly a residential area.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="10">
+<j>駅北側は花園の地名の由来である法金剛院があり、さらに妙心寺、史跡・双ヶ岡など緑が多い。</j>
+<e type="trans" ver="1">On the north side of the station, there are many places filled with greenery, such as Hokongo-in Temple, which is related to the origin of the place name &quot;Hanazono,&quot; Myoshin-ji Temple and the historic site Narabigaoka Hill.</e>
+<cmt></cmt>
+<e type="trans" ver="2">On the north side of the station there are many places filled with greenery, such as Hokongo-in Temple (which is related to the origin of the place name &quot;Hanazono&quot;), Myoshin-ji Temple and the historic site Narabigaoka Hill.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">On the north side of the station there are many places filled with greenery, such as Hokongo-in Temple (which is related to the origin of the place name &quot;Hanazono&quot;), Myoshin-ji Temple and the historic site Narabigaoka Hill.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>仁和寺へも少し距離はあるがJR線の駅では一番近い。</j>
+<e type="trans" ver="1">Hanazono Station is located at a distance, but at the nearest place of all JR stations, to Ninna-ji Temple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hanazono Station is located at a distance, but it&apos;s the nearest JR station to Ninna-ji Temple.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Hanazono Station is located at a distance, but it&apos;s the nearest JR station to Ninna-ji Temple.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="12">
+<j>京都市営地下鉄・東西線 太秦天神川駅 南西約800m</j>
+<e type="trans" ver="1">Uzumasa Tenjingawa Station on Kyoto Municipal Subway Tozai Line is about eight hundred meters to the southwest of Hanazono Station.</e>
+<cmt>意味を明確にするために文章形式にしています。</cmt>
+<e type="trans" ver="2">Uzumasa Tenjingawa Station, on the Kyoto Municipal Subway Tozai Line, is about 800 meters to the southwest of Hanazono Station.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">Uzumasa Tenjingawa Station, on the Kyoto Municipal Subway Tozai Line, is about 800 meters to the southwest of Hanazono Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="13">
+<j>京福電気鉄道（嵐電）・嵐山本線 嵐電天神川駅 南西約1000m</j>
+<e type="trans" ver="1">Randen-Tenjingawa Station on Arashiyama Main Line, which is operated by Keifuku Electric Railroad Co.,Ltd (Randen), is about one thousand meters to the southwest of Hanazono Station.</e>
+<cmt>意味を明確にするために文章形式にしています。</cmt>
+<e type="trans" ver="2">Randen-Tenjingawa Station, on the Arashiyama Main Line operated by Keifuku Electric Railroad Co., Ltd. (Randen), is about 1,000 meters southwest of Hanazono Station.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Randen-Tenjingawa Station, on the Arashiyama Main Line operated by Keifuku Electric Railroad Co., Ltd. (Randen), is about 1,000 meters southwest of Hanazono Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>周辺の施設</j>
+<e type="trans" ver="1">Facilities around the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Facilities around the station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Facilities around the station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="14">
+<j>京都市立花園小学校</j>
+<e type="trans" ver="1">Kyoto Municipal Hanazono Elementary School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Municipal Hanazono Elementary School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Hanazono Elementary School</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="15">
+<j>京都市立安井小学校</j>
+<e type="trans" ver="1">Kyoto Municipal Yasui Elementary School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Municipal Yasui Elementary School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Municipal Yasui Elementary School</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="16">
+<j>私立花園中学校・高等学校</j>
+<e type="trans" ver="1">Private Hanazono Junior and Senior High School</e>
+<cmt></cmt>
+<e type="trans" ver="2">Private Hanazono Junior and Senior High School</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Private Hanazono Junior and Senior High School</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="17">
+<j>右京ふれあい文化会館</j>
+<e type="trans" ver="1">Ukyo Fureai Bunka Kaikan (Ukyo Fureai Culture Hall)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ukyo Fureai Bunka Kaikan (Ukyo Fureai Culture Hall)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ukyo Fureai Bunka Kaikan (Ukyo Fureai Culture Hall)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="18">
+<j>京都市上下水道局・山ノ内浄水場</j>
+<e type="trans" ver="1">Kyoto City Waterworks Bureau, Yamanouchi Purification Plant</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Waterworks Bureau, Yamanouchi Purification Plant</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Waterworks Bureau, Yamanouchi Purification Plant</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="19">
+<j>京都双岡病院</j>
+<e type="trans" ver="1">Kyoto Narabigaoka Hospital</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Narabigaoka Hospital</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Narabigaoka Hospital</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="20">
+<j>泉谷病院</j>
+<e type="trans" ver="1">Izumiya Hospital</e>
+<cmt></cmt>
+<e type="trans" ver="2">Izumiya Hospital</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Izumiya Hospital</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="21">
+<j>東映太秦映画村-- 西に約1km。</j>
+<e type="trans" ver="1">Toei Movie Land (Kyoto Uzumasa Eigamura) --This is located about one kilo meter to the west of Hanazono Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Toei Movie Land (Kyoto Uzumasa Eigamura): This is located about a kilometer west of Hanazono Station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Toei Movie Land (Kyoto Uzumasa Eigamura): This is located about a kilometer west of Hanazono Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>映画村の入口は当駅寄りにあり、分かり易いため、裏門が開いていないときは太秦駅よりも当駅の方が便利である。</j>
+<e type="trans" ver="1">Hanazono Station is more convenient to go to Toei Movie Land than Uzumasa Station when the back door of the movie land is closed, because the entrance of the movie land is nearer to Hanazono Station than to Uzumasa Station and, in cosequence, the entrance is easier to find out when you go from Hanazono Station than from Uzumasa Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hanazono Station is more convenient than Uzumasa Station for those who want to go to Toei Movie Land when the back door of Movie Land is closed, because the entrance to the entertainment facility is nearer to Hanazono Station than to Uzumasa Station and consequently the entrance is easier to find when one goes from Hanazono Station than from Uzumasa Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Hanazono Station is more convenient than Uzumasa Station for those who want to go to Toei Movie Land when the back door of Movie Land is closed, because the entrance to the entertainment facility is nearer to Hanazono Station than to Uzumasa Station and consequently the entrance is easier to find when one goes from Hanazono Station than from Uzumasa Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="23">
+<j>ライフコーポレーション・太秦店</j>
+<e type="trans" ver="1">LIFE Corporation Uzumasa Branch</e>
+<cmt></cmt>
+<e type="trans" ver="2">LIFE Corporation Uzumasa Branch</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">LIFE Corporation Uzumasa Branch</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="24">
+<j>京都ファミリー</j>
+<e type="trans" ver="1">Kyoto Family</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Family</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Family</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>バス</j>
+<e type="trans" ver="1">Bus service</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus services</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Bus services</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="25">
+<j>最寄停留所は、花園駅前となる。</j>
+<e type="trans" ver="1">The nearest bus stop to Hanazono Station is Hanazonoeki-mae.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The nearest bus stop to Hanazono Station is Hanazonoeki-mae.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The nearest bus stop to Hanazono Station is Hanazonoeki-mae (front of Hanazono Station).</e>
+<cmt>補足を追加しました。</cmt>
+</sen>
+<sen id="26">
+<j>以下の路線のが乗り入れ、京都市営バス、京都バスにより運行されている。</j>
+<e type="trans" ver="1">Kyoto City Bus and Kyoto Bus Co.,Ltd operate the routes as follows.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City Bus and Kyoto Bus Co., Ltd., operate the following routes:</e>
+<cmt>space</cmt>
+<e type="check" ver="1">Kyoto City Bus and Kyoto Bus Co., Ltd., operate the following routes:</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="27">
+<j>91系統：（西院駅経由）四条烏丸行/（東映太秦映画村経由）大覚寺行（京都市）</j>
+<e type="trans" ver="1">Route 91-- (via Saiin Station) to Shijo Karasuma/(via Toei Movie Land) to Daikaku-ji Temple (in Kyoto City)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 91: (Via Saiin Station) to Shijo Karasuma/(via Toei Movie Land) to Daikaku-ji Temple (in Kyoto City)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 91: For Shijo Karasuma (via Saiin Station) /Daikaku-ji Temple (Kyoto City) (via Toei Movie Land)</e>
+<cmt>行き先の後に括弧を表記しました（他の記事と統一しました）。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="28">
+<j>93系統：（丸太町通経由）錦林車庫行/嵯峨・嵐山行（京都市）</j>
+<e type="trans" ver="1">Route 93-- (via Marutamachi-dori Street) to Kinrin Shako-mae/to Saga Arashiyama (in Kyoto City)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 93: (Via Marutamachi-dori Street) to Kinrin Shako-mae/to Saga Arashiyama (in Kyoto City)</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Route 93: For Kinrin Shako-depot (via Marutamachi-dori Street) /Saga Arashiyama (Kyoto City)</e>
+<cmt>行き先の後に括弧を表記しました（他の記事と統一しました）。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>利用状況</j>
+<e type="trans" ver="1">Situation of the passengers&apos; use</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger usage statistics</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="29">
+<j>2006年度の1日あたりの乗車人員は約4,090人である。</j>
+<e type="trans" ver="1">The number of passengers who used this station in fiscal 2006 was about 4090 a day.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The average daily number of passengers at this station in fiscal 2006 was 4,090.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The average daily number of passengers at this station in fiscal year 2006 was 4,090.</e>
+<cmt>fiscal → fiscal yearに変更しました。</cmt>
+</sen>
+<sen id="30">
+<j>（京都府統計書より）</j>
+<e type="trans" ver="1">(according to the statistics of Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">(According to the statistics of Kyoto Prefecture)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">(According to the Kyoto Prefecture Statistics Report)</e>
+<cmt>他の記事と統一しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="31">
+<j>1898年（明治31年）1月1日 - 京都鉄道の駅として開業。</j>
+<e type="trans" ver="1">January 1, 1898 - Hanazono Station opened as a stop of Kyoto Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">January 1, 1898: Hanazono Station opened as a stop of Kyoto Electric Railway.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">January 1, 1898: Hanazono Station opened as a stop of Kyoto Electric Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="32">
+<j>客貨取扱を開始。</j>
+<e type="trans" ver="1">And it began handling passengers and freight.</e>
+<cmt></cmt>
+<e type="trans" ver="2">And it began handling passengers and freight.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">And it began handling passengers and freight.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="33">
+<j>1907年（明治40年）8月1日 - 京都鉄道、国有化。</j>
+<e type="trans" ver="1">August 1, 1907 - Kyoto Electric Railway was nationalized.</e>
+<cmt></cmt>
+<e type="trans" ver="2">August 1, 1907: Kyoto Electric Railway was nationalized.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">August 1, 1907: Kyoto Electric Railway was nationalized.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="34">
+<j>1960年（昭和35年）3月10日 - 貨物取扱を廃止。</j>
+<e type="trans" ver="1">March 10, 1960 - Hanazono Station ended handling freight.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 10, 1960: Hanazono Station ended handling freight.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 10, 1960: Hanazono Station ended handling freight.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="35">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により、JR西日本の駅となる。</j>
+<e type="trans" ver="1">April 1, 1987 - Hanazono Station became a stop of JR West because of the division and privatization of JNR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1987: Hanazono Station became a stop of JR West because of the division and privatization of JNR.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">April 1, 1987: Hanazono Station became a stop of JR West because of the division and privatization of JNR.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="36">
+<j>1996年（平成8年）3月19日 - 高架駅化。</j>
+<e type="trans" ver="1">March 19, 1996 - Hanazono Station became a stop on an overhead railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 19, 1996: Hanazono Station became a stop on an overhead railway.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">March 19, 1996: Hanazono Station became an elevated station.</e>
+<cmt>高架→elevated と統一しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Next station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The next station</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>他の記事と統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="37">
+<j>西日本旅客鉄道（JR西日本）</j>
+<e type="trans" ver="1">West Japan Railway Company (JR West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="38">
+<j>■嵯峨野線（山陰本線）</j>
+<e type="trans" ver="1">■Sagano Line (San&apos;in Main Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Sagano Line (San&apos;in Main Line)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sagano Line (Sanin Main Line)</e>
+<cmt>アポストロフィーを削除し、sanin　としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="39">
+<j>■快速</j>
+<e type="trans" ver="1">■Rapid train</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Rapid train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rapid</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="40">
+<j>通過</j>
+<e type="trans" ver="1">nonstop</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nonstop</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Nonstop</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="41">
+<j>■普通</j>
+<e type="trans" ver="1">■Local train</e>
+<cmt></cmt>
+<e type="trans" ver="2">■Local train</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Local</e>
+<cmt>■を削除しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="42">
+<j>円町駅 - 花園駅 - 太秦駅</j>
+<e type="trans" ver="1">Enmachi Station - Hanazono Station - Uzumasa Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Enmachi Station - Hanazono Station - Uzumasa Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Emmachi Station - Hanazono Station - Uzumasa Station</e>
+<cmt>Enmachi →Emmachi　としました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 東京特許許可局(id:7229), 城山(id:104901), Etopirica(id:32491), Hikichimin Jr.(id:147077), Yuta415(id:149253), 相模原の人(id:124032), Charenji(id:7908), Wikipedianet(id:9608), Highexpress(id:48556), Bukang-liwayway(id:89706), 樒(id:35770), ＋－(id:17104), Rusk(id:9895), Sunen(id:10700), Matsukaze(id:51778), 継之助(id:39352), R28Bot(id:177951), Hidama(id:73276), Kone(id:377), Chobot(id:20846), Hirotaro(id:1437), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

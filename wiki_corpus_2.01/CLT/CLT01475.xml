@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>千鳥 (狂言)</j>
+<e type="trans" ver="1">Chidori (Plovers) (Kyogen)</e>
+<cmt>初出なのでこちらに狂言の補足(farce played during a Noh cycle)をつけるべきかと思いましたが、タイトルが長く、括弧が多くなってしまうことと、一文目で狂言の補足ができるのでこちらでは補足は入れませんでした。</cmt>
+<e type="trans" ver="2">Chidori (Plovers) (Kyogen)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chidori (Plovers) (Kyogen)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>千鳥（ちどり）は狂言の演目のひとつ。</j>
+<e type="trans" ver="1">Chidori is a program of Kyogen (farce played during a Noh cycle).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Chidori is a program of Kyogen (farce played during a Noh cycle).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Chidori is a program of Kyogen (farce played during a Noh cycle).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="2">
+<j>酒屋から酒をただで手に入れようと画策する太郎冠者と、それをさせまいとする酒屋の主人のやり取りを謡ったもの。</j>
+<e type="trans" ver="1">The number describes an exchange between Tarokaja (a common name for a manservant in Kyogen, Noh farce), who tries to get sake for free, and owner of sake shop who tries to prevent it.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The number describes an exchange between Tarokaja (a common name for a manservant in Kyogen, Noh farce), who tries to get sake for free, and owner of sake shop who tries to prevent it.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The number describes an exchange between Tarokaja (a common name for a manservant in Kyogen, Noh farce), who tries to get sake for free, and owner of sake shop who tries to prevent it.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>登場人物</j>
+<e type="trans" ver="1">The characters</e>
+<cmt></cmt>
+<e type="trans" ver="2">The characters</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The characters</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="3">
+<j>能シテ：太郎冠者</j>
+<e type="trans" ver="1">Noh shite (main role) : Tarokaja</e>
+<cmt></cmt>
+<e type="trans" ver="2">Noh shite (main role): Tarokaja</e>
+<cmt>スペース消去</cmt>
+<e type="check" ver="1">Noh shite (main role): Tarokaja</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>アド：酒屋の主人</j>
+<e type="trans" ver="1">Ado (a second role of Kyogen, farce played during a Noh cycle): Owner of sake shop</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ado (the second role of Kyogen, farce played during a Noh cycle): Owner of sake shop</e>
+<cmt>the second roleとしました。</cmt>
+<e type="check" ver="1">Ado (the second role of Kyogen, farce played during a Noh cycle): Owner of sake shop</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>アド：主</j>
+<e type="trans" ver="1">Ado: Master</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ado: Master</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ado: Master</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>あらすじ</j>
+<e type="trans" ver="1">Story line</e>
+<cmt></cmt>
+<e type="trans" ver="2">Story line</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Story line</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="6">
+<j>ある日の急な来客に、家の主は太郎冠者を呼びつけ、酒屋へいって酒を貰ってくるよう命じた。</j>
+<e type="trans" ver="1">One day, a master called Tarokaja and told to go sake shop to get sake, for a unexpected visitor.</e>
+<cmt></cmt>
+<e type="trans" ver="2">One day, a master calls Tarokaja and tells him to go to the sake shop to get sake, for an unexpected visitor.</e>
+<cmt>called→calls、told→tells him、go sake shop→go to the sake shop、a unexpected visitor→an unexpected visitorに修正</cmt>
+<e type="check" ver="1">One day, a master calls Tarokaja and tells him to go to the sake shop to get sake, for an unexpected visitor.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="7">
+<j>しかし、太郎冠者は「前の支払いが終わっていないので、きっと譲ってはくれないでしょう」と諫言する。</j>
+<e type="trans" ver="1">However Tarokaja remonstrate saying &apos;I do not think sake shop owner will give sake this time, as the last payment is not yet finished&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However Tarokaja remonstrates saying &apos;I do not think the sake shop owner will give sake this time, as the last payment is not yet finished.&apos;</e>
+<cmt>remonstrate→remonstrates、sake shop owner→the sake shop ownerに修正、ピリオドの位置を移動</cmt>
+<e type="check" ver="1">However Tarokaja remonstrates saying &apos;I do not think the sake shop owner will give sake this time, as the last payment is not yet finished.&apos;</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>主はうまく取ってこられたら褒美をやると約束し、太郎冠者を無理矢理追い立てた。</j>
+<e type="trans" ver="1">The master pushes Tarokaja to go to sake shop promising a reward if he can get sake.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The master pushes Tarokaja to go to the sake shop promising a reward if he can get sake.</e>
+<cmt>go to the sake shopとしました。</cmt>
+<e type="check" ver="1">The master pushes Tarokaja to go to the sake shop promising a reward if he can get sake.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="9">
+<j>酒屋の主人に酒を無心してみる。</j>
+<e type="trans" ver="1">Tarokaja asks sake shop owner for sake.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Tarokaja asks the sake shop owner for sake.</e>
+<cmt>the sake shop ownerとしました。</cmt>
+<e type="check" ver="1">Tarokaja asks the sake shop owner for sake.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="10">
+<j>しかし案の定、前回の支払いが終わらねば渡す事は出来ぬと突っぱねる。</j>
+<e type="trans" ver="1">However, as expected, sake shop owner flatly rejects saying he cannot give sake unless the last payment is finished.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">However, as expected, the sake shop owner flatly rejects saying he cannot give sake unless the last payment is finished.</e>
+<cmt>the sake shop ownerとしました。</cmt>
+<e type="check" ver="1">However, as expected, the sake shop owner flatly rejects saying he cannot give sake unless the last payment is finished.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>思案した太郎冠者は珍品を好む酒屋の主人に面白い話を聞かせ、その隙をついて酒をかっぱらう事を思いつく。</j>
+<e type="trans" ver="1">After much consideration, Tarokaja think of snatching sake while telling a funny story to sake shop owner, who favors something rare.</e>
+<cmt></cmt>
+<e type="trans" ver="2">After much consideration, Tarokaja thinks of snatching sake while telling a funny story to the sake shop owner, who favors something rare.</e>
+<cmt>think→thinksに修正、the sake shop ownerとしました。</cmt>
+<e type="check" ver="1">After much consideration, Tarokaja thinks of snatching sake while telling a funny story to the sake shop owner, who favors something rare.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="12">
+<j>そして、「津島祭りで見たチドリ科を取る話をしよう」と仕形話を始める。</j>
+<e type="trans" ver="1">Tarokaja decided to tell &apos;story of catching Charadriidae seen in Tsushima Matsuri (Tsushima Festival, a religious festival of Tsushima-jinja Shrine)&apos;, and started shikatabanashi (talking with gestures).</e>
+<cmt>「」ですべてくくってしまうと訳文を2文に分けなければ分かりにくくなってしまうため、’’では「しよう」の部分を外に出しています。</cmt>
+<e type="trans" ver="2">Tarokaja decides to tell him &apos;a story of catching Charadriidae seen in Tsushima Matsuri (Tsushima Festival, a religious festival of Tsushima-jinja Shrine),&apos; and starts shikatabanashi (talking with gestures).</e>
+<cmt>decided→decides、tell→tell him、story of→a story of、started→startsとし、カンマの位置を移動</cmt>
+<e type="check" ver="1">Tarokaja decides to tell him &apos;a story of catching Charadriidae seen in Tsushima Matsuri (Tsushima Festival, a religious festival of Tsushima-jinja Shrine),&apos; and starts shikatabanashi (talking with gestures).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>酒屋の主人に囃させ、謡い舞いながら隙を見て酒樽に手をかける。</j>
+<e type="trans" ver="1">Tarokaja makes sake shop owner to beat time, and he watch for a chance and tries to snatch a sake cask while singing and dancing.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">Tarokaja makes sake shop owner to beat time, and he watch for a chance and tries to snatch a sake cask while singing and dancing.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tarokaja makes sake shop owner to beat time, and he watch for a chance and tries to snatch a sake cask while singing and dancing.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>しかし失敗する。</j>
+<e type="trans" ver="1">However he fails.</e>
+<cmt>一原文一訳文例外対処</cmt>
+<e type="trans" ver="2">However he fails.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">However he fails.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>再度流鏑馬の話をして気を引こうとするも、用心した酒屋の主人は酒樽を話に使わぬよう釘をさされる。</j>
+<e type="trans" ver="1">Tarokaja tries to draw attention again by talking about yabusame (horseback archery), but now cautious sake shop owner reminded Tarokaja not to use sake cask in the story.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tarokaja tries to get his attention again by talking about yabusame (horseback archery), but the now cautious sake shop owner reminds Tarokaja not to use a sake cask in the story.</e>
+<cmt>draw attention→get his attention、reminded→reminds、sake cask→a sake caskに修正、now coutious sake shop ownerにthe追加</cmt>
+<e type="check" ver="1">Tarokaja tries to get his attention again by talking about yabusame (horseback archery), but the now cautious sake shop owner reminds Tarokaja not to use a sake cask in the story.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>太郎冠者は木杖にまたがり、流鏑馬の騎手の態で一回りしながら酒樽を担ぎ、一目散に逃げ出す。</j>
+<e type="trans" ver="1">Tarokaja get astride on wooden stick and picks up sake cask while turning around once, imitating a horseman of yabusame, and runs for his life.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tarokaja gets astride on a wooden stick and picks up a sake cask while turning around once, imitating a horseman of yabusame, and runs for his life.</e>
+<cmt>get→gets、wooden stick→a wooden stick、sake cask→a sake caskに修正</cmt>
+<e type="check" ver="1">Tarokaja gets astride on a wooden stick and picks up a sake cask while turning around once, imitating a horseman of yabusame, and runs for his life.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 赤井彗星(id:18381), Dr jimmy(id:111486), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

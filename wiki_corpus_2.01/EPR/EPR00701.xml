@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf yea="">jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>皇嗣</j>
+<e type="trans" ver="1">Koshi (Imperial heir)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Koshi (Imperial Heir)</e>
+<cmt>カッコ部分を修正しました。</cmt>
+<e type="check" ver="1">Koshi (Imperial Heir)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>皇嗣（こうし）とは、天子（皇帝や天皇）の跡継ぎのことである。</j>
+<e type="trans" ver="1">Koshi (Imperial heir) is a successor of Tenshi (monarch or emperor).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Koshi (imperial heir) is a successor of Tenshi (monarch or emperor).</e>
+<cmt>the を補いました。Imperial heir→imperial heir と修正しました。</cmt>
+<e type="check" ver="1">The Koshi (imperial heir) is a successor of Tenshi (monarch or emperor).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>日本</j>
+<e type="trans" ver="1">Japan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Japan</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Japan</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="2">
+<tit>
+<j>律令制</j>
+<e type="trans" ver="1">The ritsuryo system (a system of centralized government based on the ritsuryo code)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ritsuryo system (a system of centralized government based on the ritsuryo code)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The ritsuryo system (a system of centralized government based on the ritsuryo code)</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>律令制では皇位継承順位を明文化していなかった。</j>
+<e type="trans" ver="1">The ritsuryo system did not provide a clear order of succession to the Imperial Throne.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The ritsuryo system did not provide a clear order of the succession to the Imperial Throne.</e>
+<cmt>the を補いました。</cmt>
+<e type="check" ver="1">The ritsuryo system did not provide a clear order of the succession to the Imperial Throne.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>例えば天皇の息子（皇太子）と弟（皇太弟）というように、皇位継承をめぐって権力闘争が起こった。</j>
+<e type="trans" ver="1">There were many power struggles over succession to the Imperial Throne, for example an emperor&apos;s son (crown prince) and brother (the younger brother of an Emperor who is the heir apparent).</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were power struggles over succession to the Imperial Throne, such as an emperor&apos;s son (crown prince) and his younger brother (the younger brother of an emperor who is the heir apparent).</e>
+<cmt>many を削除しました。for example→such as,brother→his younger brother,スペースを修正しました。Emperor→emperor と修正ｈしました。</cmt>
+<e type="check" ver="1">There were power struggles over succession to the Imperial Throne, such as an emperor&apos;s son (crown prince) and his younger brother (the younger brother of an emperor who is the heir apparent).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>皇室典範</j>
+<e type="trans" ver="1">The Imperial House Act.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Imperial House Law</e>
+<cmt>Act→Law と修正しました。ピリオドを削除しました。</cmt>
+<e type="check" ver="1">The Imperial House Law</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>皇室典範に皇嗣と皇嗣の呼び方について規定されている。</j>
+<e type="trans" ver="1">The Imperial House Act provided for a clear order of succession</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Imperial House Law regulates about the imperial heir and its&apos; appellation.</e>
+<cmt>Act→Law,文脈に応じて全体的に修正しました。ピリオドを補いました。</cmt>
+<e type="check" ver="1">The Imperial House Law regulates about the imperial heir and its&apos; appellation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="5">
+<j>皇嗣たる皇子を皇太子という。</j>
+<e type="trans" ver="1">The prince who was the imperial heir would be called &quot;Kotaishi&quot; (crown prince).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The prince who is the imperial heir is called &quot;Kotaishi&quot; (crown prince).</e>
+<cmt>スペースを修正しました。was→is,would be→is と修正しました。</cmt>
+<e type="check" ver="1">The prince who is the imperial heir is called &quot;Kotaishi&quot; (crown prince).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="6">
+<j>皇太子のないときは、皇嗣たる皇孫を皇太孫という。</j>
+<e type="trans" ver="1">If there was no Kotaishi, the imperial grandchild who was the imperial heir would be called &quot;Kotaison&quot; (son of the cron prince).</e>
+<cmt></cmt>
+<e type="trans" ver="2">If there is no Kotaishi, the imperial grandchild who is the imperial heir is called &quot;Kotaison&quot; (son of the crown prince).</e>
+<cmt>was→is,would be→is,cron→crown と修正しました。</cmt>
+<e type="check" ver="1">If there is no Kotaishi, the imperial grandchild who is the imperial heir is called &quot;Kotaison&quot; (son of the crown prince).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="7">
+<j>皇長子（天皇の長男）や皇長孫（天皇の孫）、その他の皇長子の子孫のいずれもいない場合、皇位継承権の順位にもとづいて、皇次子（天皇の次男）及びその子孫が皇嗣となる。</j>
+<e type="trans" ver="1">If Kochoshi (the first son of emperor), Kochoson (grandchild of emperor) or any other descendants of Kochoshi did not exist, &quot;Kojishi&quot; (the second son of emperor) and his descendants would be authorized as the imperial heirs.</e>
+<cmt></cmt>
+<e type="trans" ver="2">If Kochoshi (the first son of the emperor), Kochoson (grandchild of the emperor) or any other descendants of Kochoshi do not exist, the &quot;Kojishi&quot; (the second son of the emperor) and his descendants will be authorized as the imperial heirs, based on the order of the right of succession to the Imperial Throne.</e>
+<cmt>the を補いました。did→do,would→will と修正しました。「皇位継承権の順位にもとづいて」の部分を補いました。</cmt>
+<e type="check" ver="1">If Kochoshi (the first son of the emperor), Kochoson (grandchild of the emperor) or any other descendants of Kochoshi do not exist, the &quot;Kojishi&quot; (the second son of the emperor) and his descendants will be authorized as the imperial heirs, based on the order of the right of succession to the Imperial Throne.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>この皇嗣を皇太弟という。</j>
+<e type="trans" ver="1">This imperial heir would be called &quot;kotaitei&quot; (the younger brother of an Emperor who is the heir apparent).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This imperial heir would be called &quot;kotaitei&quot; (the younger brother of an emperor who is the heir apparent).</e>
+<cmt>would be→is,Emperor→emperor と修正しました。</cmt>
+<e type="check" ver="1">This imperial heir would be called &quot;kotaitei&quot; (the younger brother of an emperor who is the heir apparent).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>ただし、皇太弟という呼び方は皇室典範に規定されていない。</j>
+<e type="trans" ver="1">However, the name of Kotaitei was not provided for in the Imperial House Act.</e>
+<cmt></cmt>
+<e type="trans" ver="2">However, the appellation of Kotaitei is not specified on the Imperial House Law.</e>
+<cmt>name→appellation,was not provided for→is not specified,in→on,Act→Law と修正しました。</cmt>
+<e type="check" ver="1">However, the appellation of Kotaitei is not specified on the Imperial House Law.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="10">
+<j>天皇が崩御ときは、皇嗣が、直ちに即位する。</j>
+<e type="trans" ver="1">When an emperor passed away, the imperial heir would ascend the throne immediately.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When an emperor passes away, the imperial heir will ascend to the throne immediately.</e>
+<cmt>passed→passes,would→will,ascend→ascend to と修正しました。</cmt>
+<e type="check" ver="1">When an emperor passes away, the imperial heir will ascend to the throne immediately.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 伏儀(id:142093), Novo(id:87875), 経済準学士(id:22656), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

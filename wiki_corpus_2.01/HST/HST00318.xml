@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20090527-pages-articles.xml</inf>
+<tit>
+<j>内薬司</j>
+<e type="trans" ver="1">Naiyakushi (private doctors for the Emperor)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Naiyakushi (private doctors for the Emperor)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Naiyakushi</e>
+<cmt>タイトルのため、括弧内の補足を削除しました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>内薬司（ないやくし）は律令制において中務省に属する機関の一つである。</j>
+<e type="trans" ver="1">Naiyakushi was one of the agencies belonged to Nakatsukasasho (Ministry of Central Affairs) under the Ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Naiyakushi was one of the agencies that belonged to Nakatsukasasho (Ministry of Central Affairs) under the Ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">Naiyakushi was one of the agencies that belonged to Nakatsukasasho (Ministry of Central Affairs) under the Ritsuryo system (a system of centralized government based on the ritsuryo code).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>職掌</j>
+<e type="trans" ver="1">Official duties</e>
+<cmt></cmt>
+<e type="trans" ver="2">Official duties</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Official duties</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="2">
+<j>内薬司は宮内省典薬寮と対になっている。</j>
+<e type="trans" ver="1">Naiyakushi was paired with Tenyakuryo (the Bureau of Medicine) of Kunaisho (Ministry of the Sovereign&apos;s Household).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Naiyakushi was paired with Tenyakuryo (the Bureau of Medicine) of Kunaisho (Ministry of the Sovereign&apos;s Household).</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Naiyakushi was paired with Tenyakuryo (the Bureau of Medicine) of Kunaisho (Ministry of the Sovereign&apos;s Household).</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>内薬司は天皇家の診察と薬の処方が主な職掌である。</j>
+<e type="trans" ver="1">The main duties of Naiyakushi were medical examination of Imperial Family and prescription to them.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The main duties of Naiyakushi were medical examinations of the Imperial Family and prescriptions for them.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">The main duties of Naiyakushi were medical examinations of the Imperial Family and prescriptions for them.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="4">
+<j>天皇家の診察のために侍医と女医、薬の処方のために薬生が所属した。</j>
+<e type="trans" ver="1">There were court physicians and female physicians for medical examination of Imperial Family, and medical students for prescription.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There were court physicians and female physicians for medical examinations of the Imperial Family, and medical students for prescription.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">There were jii (court physicians) and nyoi (obstetricians) for medical examinations of the Imperial Family, and medical students for prescription.</e>
+<cmt>女医→nyoi (obstetrician) としました。</cmt>
+</sen>
+<sen id="5">
+<j>侍医は最高位の医官､女医は産科医で官戸や官婢からとられた。</j>
+<e type="trans" ver="1">The court physician was a top-level medical officer and female physician was an obstetrician who was recruited from kanko (slaves to public ministries) or kanpi (female slaves to public ministries) was assigned.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The court physician was a top-level medical officer and female physician was an obstetrician who was recruited from kanko (slaves to public ministries) or kanpi (female slaves to public ministries) were assigned.</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">The jii was a top-level medical officer and nyoi was an obstetrician who was recruited from kanko (slaves to public ministries) or kanpi (female slaves to public ministries).</e>
+<cmt>were assigned を削除しました。</cmt>
+</sen>
+<sen id="6">
+<j>薬生は「生」と付くが、博士がいない。</j>
+<e type="trans" ver="1">There was no doctor among medical students even though it was written with a character &apos;生 (meaning student).&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">There was no doctor among medical students even though it was written with a character &apos;生 (meaning student).&apos;</e>
+<cmt>Flow</cmt>
+<e type="check" ver="1">There was no doctor among medical students even though it was written with a character &apos;生&apos; (meaning student).</e>
+<cmt>シングルクォーテーションの場所を移動しました。</cmt>
+</sen>
+<sen id="7">
+<j>また薬園は典薬寮の薬園師が管理している他、不足分は各地から年料雑薬として納められたと考えられている。</j>
+<e type="trans" ver="1">The medicinal-herb garden was managed by Yakuenshi (an official in charge of managing medicinal-herb garden) of Tenyakuryo, also it is considered that the shortfall was compensated by nenryozoyaku (medicinal herb contributed to the central government) collected from every corner of the country.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The medicinal-herb garden was managed by Yakuenshi (an official in charge of managing the medicinal-herb garden) of Tenyakuryo, also it is considered that the shortfall was compensated by nenryozoyaku (medicinal herb contributed to the central government) collected from every corner of the country.</e>
+<cmt>Spacing</cmt>
+<e type="check" ver="1">The medicinal-herb garden was managed by Yakuenshi (an official in charge of managing the medicinal-herb garden) of Tenyakuryo, also it is considered that the shortfall was compensated by nenryozoyaku (medicinal herb contributed to the central government) collected from every corner of the country.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>薬生自身も典薬寮の薬戸から採られたのではないかと考えられる。</j>
+<e type="trans" ver="1">It is considered that medical students were also recruited from Yakuko of Tenyakuryo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is considered that medical students were also recruited from Yakuko of Tenyakuryo.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">It is considered that medical students were also recruited from Yakuko of Tenyakuryo.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>のちに女医の養成のために養老6年（722年）女医博士が置かれた。</j>
+<e type="trans" ver="1">Later, in 722, Joi hakase (female Doctor of Medicine) was established in order to train female physicians.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Later, in 722, Joi hakase (female Doctor of Medicine) was established in order to train female physicians.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Later, in 722, nyoi hakase (doctor of obstetrics) was established in order to train obstetricians.</e>
+<cmt>女医 読みを変更しました。</cmt>
+</sen>
+<sen id="10">
+<j>（それまでは典薬寮の医博士が指導していた。）</j>
+<e type="trans" ver="1"></e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">(Ihakase [Doctor of Medicine] of Tenyakuryo taught until then.)</e>
+<cmt>（）内の分を別にしました。</cmt>
+</sen>
+<sen id="11">
+<j>このように独立した官司といえどほとんど典薬寮の一部局のようになっており､寛平8年（896年）典薬寮に併合された。</j>
+<e type="trans" ver="1">(Ihakase (Doctor of Medicine) of Tenyakuryo taught until then) Thus, even an independent government official was almost a department of Tenyakuryo and it was merged with Tenyakuryo in 896.</e>
+<cmt>一原文一訳文の例外対処</cmt>
+<e type="trans" ver="2">(Ihakase (Doctor of Medicine) of Tenyakuryo taught until then) Thus, even an independent government official was almost a department of Tenyakuryo and it was merged with Tenyakuryo in 896.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Thus, even though Naiyakushi was an independent government official, it functioned almost like a department of Tenyakuryo and it was merged with Tenyakuryo in 896.</e>
+<cmt>翻訳を一部変更しました。</cmt>
+</sen>
+<sen id="12">
+<j>本司所属の侍医・女医博士・薬生は典薬寮に移管された。</j>
+<e type="trans" ver="1">The court physicians, female physicians and medical students belonged to Naiyakushi were transferred to Tenyakuryo.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The court physicians, female physicians and medical students belonged to Naiyakushi were transferred to Tenyakuryo.</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">The jii, nyoi hakase and medical students that belonged to Naiyakushi were transferred to Tenyakuryo.</e>
+<cmt>文法を修正しました。侍医、女医　読みを追加しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>職員</j>
+<e type="trans" ver="1">Personnel</e>
+<cmt></cmt>
+<e type="trans" ver="2">Personnel</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Personnel</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="13">
+<j>正（正六位上相当）一名</j>
+<e type="trans" ver="1">A Kami (same rank as Shorokuinojo (Senior Sixth Rank, Upper Grade))</e>
+<cmt></cmt>
+<e type="trans" ver="2">A Kami (same rank as Shorokuinojo (Senior Sixth Rank, Upper Grade))</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">A Kami (same rank as Shorokuinojo [Senior Sixth Rank, Upper Grade])</e>
+<cmt>括弧内の括弧を修正しました。</cmt>
+</sen>
+<sen id="14">
+<j>佑（従六位従七位相当）一名</j>
+<e type="trans" ver="1">A Jo (same rank as Jurokui (Junior Sixth Rank) and Jushichii (Junior Seventh Rank))</e>
+<cmt></cmt>
+<e type="trans" ver="2">A Jo (same rank as Jurokui (Junior Sixth Rank) and Jushichii (Junior Seventh Rank))</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">A Jo (same rank as Jurokui [Junior Sixth Rank] and Jushichii [Junior Seventh Rank])</e>
+<cmt>括弧内の括弧を修正しました。</cmt>
+</sen>
+<sen id="15">
+<j>令史（従六位大初位相当）一名</j>
+<e type="trans" ver="1">A Reishi (same rank as Jurokui and Daishoi (Great Initial Rank))</e>
+<cmt></cmt>
+<e type="trans" ver="2">A Reishi (same rank as Jurokui and Daishoi (Great Initial Rank))</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">A Reishi (same rank as Jurokui and Daishoi [Great Initial Rank])</e>
+<cmt>括弧内の括弧を修正しました。</cmt>
+</sen>
+<sen id="16">
+<j>官人雑任　新設</j>
+<e type="trans" ver="1">Kanjin Zonin (lower-ranking government official),newly established</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanjin Zonin (lower-ranking government official), newly established</e>
+<cmt>Spacing</cmt>
+<e type="check" ver="1">Kanjin Zonin (lower-ranking government official), newly established</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="17">
+<j>使部</j>
+<e type="trans" ver="1">Shibe (low rank bureaucrats)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shibe (low rank bureaucrats)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Shibe (low rank bureaucrats)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="18">
+<j>官人仕丁</j>
+<e type="trans" ver="1">Kanjin Shicho (a manservant doing odd jobs)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kanjin Shicho (a manservant doing odd jobs)</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Kanjin Shicho (a manservant doing odd jobs)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="19">
+<j>侍医（正六位下相当）四名</j>
+<e type="trans" ver="1">Four court physicians (same rank as Shorokuinoge (Senior Sixth Rank, Lower Grade))</e>
+<cmt></cmt>
+<e type="trans" ver="2">Four court physicians (same rank as Shorokuinoge (Senior Sixth Rank, Lower Grade))</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Four court physicians (same rank as Shorokuinoge [Senior Sixth Rank, Lower Grade])</e>
+<cmt>括弧内の括弧を修正しました。</cmt>
+</sen>
+<sen id="20">
+<j>女医博士（従六位正七位相当）一名　新設</j>
+<e type="trans" ver="1">A Joi hakase (same rank as Jurokui and Shoshichii (Senior Seventh rank)), newly established</e>
+<cmt></cmt>
+<e type="trans" ver="2">A Joi hakase (same rank as Jurokui and Shoshichii (Senior Seventh rank)), newly established</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">A Nyoi hakase (same rank as Jurokui and Shoshichii [Senior Seventh rank]), newly established</e>
+<cmt>括弧内の括弧を修正しました。女医博士　読みを変更しました</cmt>
+</sen>
+<sen id="21">
+<j>女医</j>
+<e type="trans" ver="1">Female physician</e>
+<cmt></cmt>
+<e type="trans" ver="2">Female physician</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">A Nyoi</e>
+<cmt>女医　読みを変更しました</cmt>
+</sen>
+<sen id="22">
+<j>薬生　十名</j>
+<e type="trans" ver="1">10 medical students</e>
+<cmt></cmt>
+<e type="trans" ver="2">10 medical students</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">10 medical students</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Straysheep(id:42448), Blue-comet(id:192801), BAKU(id:55205), 新アルパカ(id:65850), 水野白楓(id:22811), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

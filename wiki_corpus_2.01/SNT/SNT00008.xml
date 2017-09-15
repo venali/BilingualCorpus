@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>鳥居</j>
+<e type="trans" ver="1">Torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Torii</e>
+<cmt>修正なし</cmt>
+</tit>
+<sen id="1">
+<j>鳥居（とりい）とは神社などにおいて神域と人間が住む俗界を区画するもの（結界）であり、神域への入口を示すもの。</j>
+<e type="trans" ver="1">The torii represents a dividing line (kekkai) between the sacred and secular areas and an entrance to the sacred world in Shinto shrines and other holy places.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The torii represents a dividing line (kekkai) between the sacred and secular areas as well as an entrance to the sacred world in Shinto shrines and other holy places.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The torii represents a dividing line (kekkai) between sacred and secular areas, serving as an entrance to the sacred world in Shinto shrines and other holy places.</e>
+<cmt>The English could be made to read a little naturally.</cmt>
+</sen>
+<sen id="2">
+<j>一種の「門」である。</j>
+<e type="trans" ver="1">It is a kind of &apos;gate&apos;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It&apos;s a kind of gate.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">It&apos;s a kind of gate.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="3">
+<j>天皇陵や寺院に建てられていることもあるが、一般的には神社を象徴するものとして捉えられており、神社の地図記号は鳥居を図案化したものになっている。</j>
+<e type="trans" ver="1">Although some torii are built in imperial tombs and Buddhist temples, a torii is typically a symbol of Shinto shrines and its gate mark is used for a map to identify a shrine.</e>
+<cmt>天皇陵: 定訳不明</cmt>
+<e type="trans" ver="2">Although some torii have been built in imperial tombs and Buddhist temples, a torii usually symbolizes a Shinto shrine and its gate mark is used on maps to identify them.</e>
+<cmt>syntax</cmt>
+<e type="check" ver="1">Although some torii have been built at imperial tombs and Buddhist temples, a torii is typically a symbol of Shinto shrines and a symbol representing a gate is used on maps to identify shrines.</e>
+<cmt>It seems unlikely to me that there are torii actually inside the tombs themselves. Surely they appear at the entrance to the site on which the tombs were built. Also, &quot;its gate mark&quot; is not a very clear rendering of the Japanese meaning.</cmt>
+</sen>
+<sec id="1">
+<tit>
+<j>起源</j>
+<e type="trans" ver="1">Origin</e>
+<cmt></cmt>
+<e type="trans" ver="2">Origin</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Origin</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="4">
+<j>鳥居の起源については諸説あるが、確かなことは分かっていない。</j>
+<e type="trans" ver="1">There are several theories about the origin of torii, but none of them is clear.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are several theories about the origin of torii, but none of them is clear.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">There are several theories about the origin of torii, but none of them is clear.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>アマテラス（あまてらすおおみかみ）を天岩戸から誘い出すために鳴かせた「常世の長鳴鳥」（ニワトリ）に因み、神前に鶏の止まり木を置いたことが起源であるとする説、インド仏教にみられるトラナや中国の華表や鳥竿、牌楼（ぱいろう）、朝鮮半島の紅箭門（こうぜんもん）、イスラエルの移動型神殿など海外に起源を求める説などがある。</j>
+<e type="trans" ver="1">They may have originated from Tokoyo no naganakidori (chicken) used for getting Amaterasu omikami out of Ama no iwato (Rock cave of heaven) by making it crow, but other scholars believe that they have foreign origins; they may be related to torana (gate) of Indian Buddhism, kahyo (huabiao) (torii), torizao (bird rod), or pairo (pailou) (gate) of China, kozenmon (red gate) of Korean Peninsula, or portable temples of Israel.</e>
+<cmt>天岩戸: 定訳不明トラナ・華表・鳥竿・牌楼（ぱい・紅箭門に説明を加えています。鳥竿:定訳不明</cmt>
+<e type="trans" ver="2">They may have originated from Tokoyo no naganakidori (chicken) used for getting Amaterasu Omikami out of Ama no iwato (the rock cave of heaven) by making it crow, but other scholars believe they have foreign origins; they may be related to the torana (gate) of Indian Buddhism, the kahyo (huabiao) (torii), torizao (bird rod) or pairo (pailou) (gate) of China, kozenmon (red gate) of the Korean Peninsula or the portable temples of Israel.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">They may have originated from the practice of placing bird perches before an altar that is associated with the Tokoyo no naganakidori (roosters) that were made to crow so as to draw Amaterasu Omikami (a female Shinto deity) out of Ama no iwato (literally, &quot;the rock cave of heaven&quot;), but other scholars suggest that they have foreign origins, believing that they may be related to one of the following: the torana (gate) of Indian Buddhism; the kahyo (a type of ceromonial column called &quot;huabiao&quot; in Chinese), torizao (a type of bird-catching pole), or pailo (a piece of architecture shaped like an archway) of China; the kozenmon (a red gate) of the Korean Peninsula; or the portable temples of Israel.</e>
+<cmt>The basic meaning was there but some work was required to get it to flow naturally. Also, sections such as &quot;the kahyo (huabiao) (torii)&quot; would have no real meaning to a native English speaker.</cmt>
+</sen>
+<sen id="6">
+<j>いずれにせよ、8世紀ごろに現在の形が確立している。</j>
+<e type="trans" ver="1">At all events, they came to take its shape by the 8th century.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In any event, by the eighth century they had obtained the shape we now recognize.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In any event, by the eighth century they had obtained the shape we now recognize.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="7">
+<j>語源についても同様に不明である。</j>
+<e type="trans" ver="1">Likewise, the origin of the word remains uncertain.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Likewise, the origin of the word remains uncertain.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Likewise, the origin of the word remains uncertain.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>鶏の止まり木を意味する「鶏居」を語源とする説、「とおりいる（通り入る）」が転じたとする説、トラナを漢字から借音し表記したとする説などがある。</j>
+<e type="trans" ver="1">There are several theories; the word may have originated from &apos;鶏居&apos; (bird perch), from &apos;toori-iru&apos; (pass through and enter), or from the way it had been pronounced &apos;Torana&apos;, to which Chinese characters were applied.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are several theories: the word may have originated from &apos;鶏居&apos; (bird perch), from &quot;toori-iru (pass through and enter)&quot; or from the way it had been pronounced (&quot;Torana&quot;), to which Chinese characters were applied.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">There are several theories: the word may have originated from &apos;鶏居&apos; (bird perch), from &quot;toori-iru (pass through and enter)&quot; or from the way it had been pronounced (&quot;Torana&quot;), to which Chinese characters were applied.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>数え方</j>
+<e type="trans" ver="1">How to count torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">How to count torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">How to count torii</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="9">
+<j>一基、二基…と数える。</j>
+<e type="trans" ver="1">Torii is counted as i-ki (one ki of torii) and ni-ki (two ki of torii).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Torii are classified as i-ki (one ki of torii) and ni-ki (two ki of torii).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Torii are counted as i-ki (one ki of torii) and ni-ki (two ki of torii).</e>
+<cmt>原文に合わせました。</cmt>
+</sen>
+<sen id="10">
+<j>一般にひとつの参道に複数の鳥居がある場合は、一番外側から「一の鳥居」、「二の鳥居」…と呼ぶ。</j>
+<e type="trans" ver="1">When there are more than one torii in the approach, we call the first of the torii &apos;ichi no torii&apos; and the second of the torii &apos;ni no torii&apos;, starting from the one farthest from the shrine.</e>
+<cmt></cmt>
+<e type="trans" ver="2">When there is more than one torii in the approach, we call the first of the torii &quot;ichi no torii&apos; and the second of the torii &quot;ni no torii,&quot; starting with the one farthest from the shrine.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">When there is more than one torii in the approach, we call the first of the torii &quot;ichi no torii&apos; and the second of the torii &quot;ni no torii,&quot; starting with the one farthest from the shrine.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>形式</j>
+<e type="trans" ver="1">Types</e>
+<cmt></cmt>
+<e type="trans" ver="2">Types</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Types</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="11">
+<j>2本の柱の上に笠木（かさぎ）および島木（しまぎ）を渡し、その下に貫（ぬき）を入れて柱を固定したのが一般的な鳥居の構造である。</j>
+<e type="trans" ver="1">The basic structure of a torii is two columns that are topped with horizontal rails called kasagi and shimagi and below the top two rails is another horizontal rail called nuki, which connects the two columns.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The torii&apos;s basic structure has two columns topped with horizontal rails respectively called the kasagi and shimagi, and below the top two rails is another horizontal rail called the nuki, which connects the two columns.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The torii&apos;s basic structure has two columns topped with horizontal rails respectively called the kasagi and shimagi, and below the top two rails is another horizontal rail called the nuki, which connects the two columns.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="12">
+<j>大別すると神明鳥居（しんめいとりい）と明神鳥居（みょうじんとりい）の2つに分類され、そこから派生した種々の形式がある。</j>
+<e type="trans" ver="1">Torii are roughly classified into two styles: shinmei-style torii and myojin-style torii, from which various derivatives have been developed.</e>
+<cmt>神明鳥居はShinmei-style toriiとしています。「～鳥居」は以下同様です。</cmt>
+<e type="trans" ver="2">Torii are generally classified into two styles--the shinmei style and myojin style--from which various derivatives have been developed.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Torii are generally classified into two styles--the shinmei style and myojin style--from which various derivatives have been developed.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>建てられる鳥居の形式は寄進者の好みによる事が多く、鹿島神社に春日鳥居が建てられるような事もあるように祭神と関連を持つことは少ないが、山王鳥居は日枝神社（山王神社、日吉神社）になどと結びつくものもある。</j>
+<e type="trans" ver="1">Which type of torii to build is a matter of choice by the donator and has little bearing on the god worshipped in the shrine as shown in Kashima Jingu Shrine where Kasuga-style torii is built, but some torii like Sanno-style torii are associated with Hie Jinja Shrine (Sanno Jinja Shrine, and Hiyoshi Jinja Shrine).</e>
+<cmt></cmt>
+<e type="trans" ver="2">The type of torii to be built is a matter of choice by the donor and has little bearing on the god worshipped in the shrine, as shown in Kashima Jingu Shrine, where a Kasuga-style torii is built; however, some torii (like Sanno-style torii) are associated with Hie Jinja Shrine (Sanno Jinja Shrine and Hiyoshi Jinja Shrine).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The type of torii to be built is a matter of choice by the donor and has little bearing on the god worshipped in the shrine, as shown in Kashima Jingu Shrine, where a Kasuga-style torii is built; however, some torii (like Sanno-style torii) are associated with Hie Jinja Shrine (Sanno Jinja Shrine and Hiyoshi Jinja Shrine).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>神明鳥居</j>
+<e type="trans" ver="1">Shinme-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinme-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shinmei-style torii</e>
+<cmt>Shinme→Shinmei</cmt>
+</tit>
+<par id="1">
+<sen id="14">
+<j>神明鳥居は素朴な形式で、全体的に直線的である。</j>
+<e type="trans" ver="1">A shinmei-style torii, as a whole, has a simple, linear design.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A shinmei-style torii, when considered as a whole, has a fundamentally linear design.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">A shinmei-style torii, when considered as a whole, has a fundamentally linear design.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>笠木・貫には板材が用いられることが多い。</j>
+<e type="trans" ver="1">Boards are used for the kasagi and nuki.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Boards are used for the kasagi and nuki.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Boards are used for the kasagi and nuki.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>笠木の下に島木がなく、柱は丸材で地面に対し垂直に立てられている。</j>
+<e type="trans" ver="1">This type of torii does not have the shimagi below the kasagi and uses round logs for its columns that are vertically erected.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This type of torii does not have the shimagi below the kasagi but uses round logs for its columns, which are vertically erected.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This type of torii does not have the shimagi below the kasagi; instead, its columns consist of unsquared logs, which are vertically erected.</e>
+<cmt>but→and：原文に意味に合わせました。</cmt>
+</sen>
+<sen id="17">
+<j>この形式のバリエーションとして、貫に角材を用いたものが、靖国神社をはじめとする各地の護国神社で広く見られることから、特に靖国鳥居と区別することがある。</j>
+<e type="trans" ver="1">As a derivative of this type, torii that use a square log for its nuki are so commonly seen in gokoku jinja shrines (shrines designated as places of worship for people killed in the war), including Yasukuni Jinja Shrine, that they are distinguished from the rest and called Yasukuni torii.</e>
+<cmt></cmt>
+<e type="trans" ver="2">As a derivative of this type, torii that use a square log for the nuki are so commonly seen in gokoku jinja shrines (shrines designated as places of worship for people killed in the war), including Yasukuni Jinja Shrine, that they are distinguished from the rest and called Yasukuni torii.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">As a derivative of this type, torii that use a square log for the nuki are so commonly seen in gokoku jinja shrines (shrines designated as places of worship for people killed in the war), including Yasukuni Jinja Shrine, that they are distinguished from the rest and called Yasukuni torii.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="18">
+<j>神明鳥居</j>
+<e type="trans" ver="1">Shinmei-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinmei-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shinmei-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="19">
+<j>鹿島鳥居</j>
+<e type="trans" ver="1">Kashima-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kashima-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kashima-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="20">
+<j>伊勢鳥居</j>
+<e type="trans" ver="1">Ise-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ise-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ise-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="21">
+<j>黒木鳥居</j>
+<e type="trans" ver="1">Kurogi-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kurogi-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kurogi-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>靖国鳥居</j>
+<e type="trans" ver="1">Yasukuni-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Yasukuni-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Yasukuni-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>内宮源（ないぐうげん）鳥居</j>
+<e type="trans" ver="1">Naigugen-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Naigugen-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Naigugen-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>宗忠（むねただ）鳥居</j>
+<e type="trans" ver="1">Munetada-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Munetada-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Munetada-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>明神鳥居</j>
+<e type="trans" ver="1">Myojin-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Myojin-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Myojin-style torii</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="25">
+<j>明神鳥居は装飾的な形式で、全体的に曲線的である。</j>
+<e type="trans" ver="1">The Myojin-style torii, as a whole, has a decorative, curvilinear design.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Myojin-style torii, seen as a whole, has a decorative curvilinear design.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The Myojin-style torii, seen as a whole, has a decorative curvilinear design.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>笠木の下に島木があり、柱は地面に対して少し斜めに立てられている。</j>
+<e type="trans" ver="1">The shimagi is placed below the kasagi and the columns are slightly tilted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The shimagi is placed below the kasagi, and the columns are slightly tilted.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The shimagi is placed below the kasagi, and the columns are slightly tilted.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="27">
+<j>明神鳥居</j>
+<e type="trans" ver="1">Myojin-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Myojin-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Myojin-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="28">
+<j>春日鳥居</j>
+<e type="trans" ver="1">Kasuga-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kasuga-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kasuga-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="29">
+<j>八幡鳥居</j>
+<e type="trans" ver="1">Hachiman-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hachiman-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hachiman-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="30">
+<j>稲荷鳥居：台輪（だいりん）鳥居ともいう。</j>
+<e type="trans" ver="1">Inari-style torii: also called Dairin-style torii.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Inari-style torii is also referred to as the Dairin-style torii.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The Inari-style torii is also referred to as the Dairin-style torii.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>朱塗りで知られている。</j>
+<e type="trans" ver="1">Known for its vermilion color.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is known for its vermilion color.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is known for its vermilion color.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="32">
+<j>山王（さんのう）鳥居</j>
+<e type="trans" ver="1">Sanno-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sanno-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sanno-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="33">
+<j>両部（りょうぶ）鳥居</j>
+<e type="trans" ver="1">Ryobu-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ryobu-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ryobu-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="34">
+<j>三輪（みわ)鳥居</j>
+<e type="trans" ver="1">Miwa-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Miwa-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miwa-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="35">
+<j>三柱鳥居</j>
+<e type="trans" ver="1">Mihashira-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Mihashira-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Mihashira-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="36">
+<j>中山（なかやま）鳥居</j>
+<e type="trans" ver="1">Nakayama-style torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nakayama-style torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Nakayama-style torii</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="6">
+<tit>
+<j>種類（材料）</j>
+<e type="trans" ver="1">Materials</e>
+<cmt></cmt>
+<e type="trans" ver="2">Materials</e>
+<cmt>OK</cmt>
+<e type="check" ver="1">Materials</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="37">
+<j>材料は木材（ヒノキ・スギなど）、石など。</j>
+<e type="trans" ver="1">Torii are made of wood (cedar / cypress) or stones.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Torii are made of wood (cedar or cypress) or stone.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Torii are made of wood (cedar or cypress) or stone.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="38">
+<j>銅板で全体を葺いた鳥居を「唐金（からかね）の鳥居」と呼び、江戸時代には浮世絵などに描かれている。</j>
+<e type="trans" ver="1">Torii thoroughly covered with copper sheets are called Karakane no torii and was depicted in Ukiyoe (woodblock prints) of Edo Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Torii that are fully covered in copper sheets are called Karakane no torii and were depicted in the ukiyoe (woodblock prints) of the Edo period.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Torii that are fully covered in copper sheets are called Karakane no torii and were depicted in the ukiyoe (woodblock prints) of the Edo period.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>近年では鉄パイプ、鉄筋コンクリートの鳥居もある。</j>
+<e type="trans" ver="1">In recent years, some torii contain iron pulps or are made of reinforced concrete.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In recent years, some torii have contained iron pulp or have been made of reinforced concrete.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">In recent years, some torii have contained iron pulp or have been made of reinforced concrete.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="40">
+<j>また佐賀県西松浦郡有田町にある陶山神社の鳥居は陶磁器製、京都府八幡市にある飛行神社の鳥居はジュラルミン製、秋田県八郎潟町にある副川神社の鳥居は塩化ビニール製など、その他の材料による変わり種の鳥居も存在する。</j>
+<e type="trans" ver="1">Other torii made of unusual materials include: the torii of Sueyama Jinja Shrine in Arita-cho, Nishimatsuura District, Saga Prefecture made of porcelain, that of Hiko Jinja Shrine in Yawata City, Kyoto Prefecture made of duralumin, and that of Soegawa Jinja Shrine in Hachirogata-cho, Akita Prefecture made of chloroethene.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other torii made of unusual materials include the torii of Sueyama Jinja Shrine in Arita-cho, Nishimatsuura District, Saga Prefecture (made of porcelain); that of Hiko Jinja Shrine in Yawata City, Kyoto Prefecture (made of duralumin), and that of Soegawa Jinja Shrine in Hachirogata-cho, Akita Prefecture (made of chloroethene).</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Other torii made of unusual materials include the torii of Sueyama Jinja Shrine in Arita-cho, Nishimatsuura District, Saga Prefecture (made of porcelain); that of Hiko Jinja Shrine in Yawata City, Kyoto Prefecture (made of duralumin), and that of Soegawa Jinja Shrine in Hachirogata-cho, Akita Prefecture (made of chloroethene).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="7">
+<tit>
+<j>著名な鳥居</j>
+<e type="trans" ver="1">Famous torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Famous torii</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Famous torii</e>
+<cmt>修正なし</cmt>
+</tit>
+</sec>
+<sec id="8">
+<tit>
+<j>日本三鳥居</j>
+<e type="trans" ver="1">Three Famous Torii in Japan</e>
+<cmt></cmt>
+<e type="trans" ver="2">Three Famous Torii in Japan</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Three Famous Torii in Japan</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="41">
+<j>吉野・銅の鳥居（かねのとりい）（重要文化財）</j>
+<e type="trans" ver="1">Kane no torii (bronze torii) of Yoshino (designated as an Important cultural asset)</e>
+<cmt>銅の鳥居（かねのとりい）: 定訳不明</cmt>
+<e type="trans" ver="2">Kane no torii (bronze torii) of Yoshino (designated as an important cultural asset)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Kane no torii (bronze torii) of Yoshino (designated as an important cultural asset)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="42">
+<j>金峯山寺（きんぷせんじ）蔵王堂の参道に立つ。</j>
+<e type="trans" ver="1">Standing in the approach to Zao-do of Kinpusen-ji Temple.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Standing on the approach to Zao-do of Kinpusen-ji Temple</e>
+<cmt>preposition</cmt>
+<e type="check" ver="1">Standing on the approach to Zao-do of Kinpusen-ji Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>室町時代のものと伝えられる。</j>
+<e type="trans" ver="1">Considered to be built in Muromachi Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Considered to be built during the Muromachi period</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Considered to be built during the Muromachi period</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="44">
+<j>高さ約8m。</j>
+<e type="trans" ver="1">8 meters high.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Eight meters tall</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Eight meters tall</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="45">
+<j>額束は「発心門」</j>
+<e type="trans" ver="1">Its gakuzuka (frame hung between the shimagi and nuki) says &apos;Hosshinmon&apos;.</e>
+<cmt>調べたところによると、額束は、「鳥居の上部の横材とその下の貫(ぬき)の中央に入れる束。ここに多くは額を掲げるもの」のようですが、ここでは、額そのものの意味で使われているので、それにあわせて訳しています。</cmt>
+<e type="trans" ver="2">Its gakuzuka (a frame hung between the shimagi and the nuki) says &quot;Hosshinmon.&quot;</e>
+<cmt>punctuation, space</cmt>
+<e type="check" ver="1">Its gakuzuka (a frame hung between the shimagi and the nuki) says &quot;Hosshinmon.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="46">
+<j>安芸の宮島・朱丹の大鳥居（木製）（重要文化財/世界遺産）</j>
+<e type="trans" ver="1">Miyajima of Aki / Shutan no odorii (Great red torii) (made of wood) (designated as an important cultural asset and a world heritage)</e>
+<cmt>朱丹の大鳥居: 定訳不明</cmt>
+<e type="trans" ver="2">Miyajima of Aki / Shutan no odorii (Great red torii) (made of wood) (designated as an important cultural asset and a world heritage)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Miyajima of Aki / Shutan no odorii (Great red torii) (made of wood) (designated as an important cultural asset and a world heritage)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="47">
+<j>厳島神社・社殿前の海中に立つ。</j>
+<e type="trans" ver="1">Standing out in the sea in front of the temple of Itsukushima Jinja Shrine.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It stands out in the sea before the temple of Itsukushima Jinja Shrine.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">It stands out in the sea before the temple of Itsukushima Jinja Shrine.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="48">
+<j>楠造り両部鳥居。</j>
+<e type="trans" ver="1">Ryobu-style torii made of Japanese cinnamon.</e>
+<cmt></cmt>
+<e type="trans" ver="2">A Ryobu-style torii made of Japanese cinnamon</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">A Ryobu-style torii made of Japanese cinnamon</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="49">
+<j>現在の鳥居は平安時代から数えて8代目で明治8年（1875年）7月に完成したもの。</j>
+<e type="trans" ver="1">The current torii, completed in July 1875, is the 8th generation of torii counted from the first one built in Heian Period.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The current torii, completed in July 1875, is the eighth-generation torii as counted from the first one, which was built during the Heian period.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">The current torii, completed in July 1875, is the eighth-generation torii as counted from the first one, which was built during the Heian period.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="50">
+<j>神額：沖側「厳島神社」、神社側「伊都岐島神社」（有栖川宮熾仁親王染筆）</j>
+<e type="trans" ver="1">Shingaku (a frame hung in front of the torii, carrying the name of the shrine): on the sea side: ’厳島神社&apos; (Itsukushima Jinja Shrine) / on the shrine side: ’伊都岐島神社&apos; (Itsukushima Jinja Shrine) (written by Prince Arisugawa Taruhito)</e>
+<cmt>神額：定訳不明わかりにくいため、一部補記しました。また、日本語を入れました。(同じ読みなので）</cmt>
+<e type="trans" ver="2">Shingaku (a frame hung in front of the torii, carrying the name of the shrine): on the sea side: ’厳島神社&apos; (Itsukushima Jinja Shrine) / on the shrine side: ’伊都岐島神社&apos; (Itsukushima Jinja Shrine) (written by Prince Arisugawa Taruhito)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shingaku (a frame hung in front of the torii, carrying the name of the shrine): on the sea side: ’厳島神社&apos; (Itsukushima Jinja Shrine) / on the shrine side: ’伊都岐島神社&apos; (Itsukushima Jinja Shrine) (written by Prince Arisugawa Taruhito)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="51">
+<j>大阪四天王寺・石の鳥居（重要文化財）</j>
+<e type="trans" ver="1">Ishi no torii (stone torii) of Osaka Shitenno-ji Temple (designated as an important cultural asset)</e>
+<cmt>石の鳥居: 定訳不明</cmt>
+<e type="trans" ver="2">Ishi no torii (stone torii) of Osaka Shitenno-ji Temple (designated as an important cultural asset)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ishi no torii (stone torii) of Osaka Shitenno-ji Temple (designated as an important cultural asset)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="52">
+<j>永仁2年（1294年）に造られた日本最古の石造りの大鳥居の一つとされている。</j>
+<e type="trans" ver="1">Built in 1294, considered to be one of the oldest large stone torii in Japan.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Built in 1294, it is considered to be one of the oldest large stone torii in Japan.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Built in 1294, it is considered to be one of the oldest large stone torii in Japan.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="53">
+<j>扁額の文字「釈迦如来 転法輪処 当極楽土 東門中心」この地は釈迦如来が現れて説教されたところで、極楽浄土の東門に当たる</j>
+<e type="trans" ver="1">Its hengaku (framed statement) says, &apos;This is the place where Buddha appeared and gave lectures to people and is the east gate to the paradise.&apos;</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its hengaku (framed statement) reads, &quot;This is the place where Buddha appeared and gave lectures to people, and is the east gate to Paradise.&quot;</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Its hengaku (framed statement) reads, &quot;This is the place where Buddha appeared and gave lectures to people, and is the east gate to Paradise.&quot;</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="9">
+<tit>
+<j>その他</j>
+<e type="trans" ver="1">Other topics</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other topics</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Other topics</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="54">
+<j>伏見稲荷大社</j>
+<e type="trans" ver="1">Fushimi Inari Taisha Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Fushimi Inari Taisha Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Fushimi Inari Taisha Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="55">
+<j>約1万基の鳥居がある。</j>
+<e type="trans" ver="1">There are ten thousand torii in this shrine.</e>
+<cmt></cmt>
+<e type="trans" ver="2">There are 10,000 torii in this shrine.</e>
+<cmt>number</cmt>
+<e type="check" ver="1">There are 10,000 torii in this shrine.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="56">
+<j>平安神宮</j>
+<e type="trans" ver="1">Heian Jingu Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Heian Jingu Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Heian Jingu Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="57">
+<j>高さ24.4mの日本最大級の鳥居。</j>
+<e type="trans" ver="1">It has one of the latest torii in Japan as high as 24.4 meters.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It has one of the latest torii in Japan, which stands as high as 24.4 meters.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It has one of Japan&apos;s largest torii, standing 24.4 meters tall.</e>
+<cmt>latest→largest</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="58">
+<j>出雲大社</j>
+<e type="trans" ver="1">Izumo Taisha Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Izumo Taisha Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Izumo Taisha Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="59">
+<j>天下の寄付魔、小林徳一郎（北九州市小倉・島根県邑南町）の建立。</j>
+<e type="trans" ver="1">Its torii was built by KOBAYASHI Tokuichiro (Kokura, Kitakyushu City), a famous dedication freak.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Its torii was built by KOBAYASHI Tokuichiro (Kokura, Kitakyushu City), a well-known devotee of dedications.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Its torii was built by Tokuichiro KOBAYASHI (Kokura, Kitakyushu City), a well-known devotee of dedications.</e>
+<cmt>OK</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="60">
+<j>気比神宮</j>
+<e type="trans" ver="1">Hike Jingu Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hike Jingu Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hike Jingu Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="61">
+<j>国の重要文化財。</j>
+<e type="trans" ver="1">Designated as an important cultural asset.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Designated as an important cultural asset</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Designated as an important cultural asset</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="62">
+<j>木造限定なら3番目の高さを誇る。</j>
+<e type="trans" ver="1">The third highest torii among wooden torii.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The third-highest wooden torii</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The third-highest wooden torii</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="63">
+<j>元木の石鳥居</j>
+<e type="trans" ver="1">Motoki no ishi torii (Stone torii of Motoki)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Motoki no ishi torii (Stone torii of Motoki)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Motoki no ishi torii (Stone torii of Motoki)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="64">
+<j>国の重要文化財。</j>
+<e type="trans" ver="1">Designated as an important cultural asset.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Designated as an important cultural asset</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">Designated as an important cultural asset</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="65">
+<j>山形市にある平安時代建立の日本最古の石鳥居。</j>
+<e type="trans" ver="1">The oldest stone torii built in Heian Period, located in Yamagata City.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The oldest stone torii built in the Heian period, it is located in Yamagata City.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The oldest stone torii in Yamagata Prefecture, it was built in the Heian period.</e>
+<cmt>「日本最古」ではなく「山形最古」とも解釈されるため修正しました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="66">
+<j>他に一般的に利用されているものでは神社をあらわす記号や小便無用、不法投棄のごみ除けなどにも利用が見受けられる。</j>
+<e type="trans" ver="1">Other examples where the torii gate mark is typically used include the map and a sign for banning urination and the unlawful dumping of garbage.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Other examples where the torii gate mark is typically used include the map and a sign for banning urination and the unlawful dumping of garbage.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Other examples where the torii gate mark is typically used include the map and a sign for banning urination and the unlawful dumping of garbage.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="10">
+<tit>
+<j>鳥居に関する俗信</j>
+<e type="trans" ver="1">Popular belief concerning torii</e>
+<cmt></cmt>
+<e type="trans" ver="2">Popular beliefs concerning torii</e>
+<cmt>plural</cmt>
+<e type="check" ver="1">Popular beliefs concerning torii</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="67">
+<j>石を投げて鳥居の上に乗せると願いがかなうという俗信が広くみられる。</j>
+<e type="trans" ver="1">There is a common belief that if we can throw a stone on to the top of the torii, our wish will be granted.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is commonly believed that if one can throw a stone onto the top of the torii, one&apos;s wish will be granted.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is commonly believed that if one can throw a stone onto the top of the torii, one&apos;s wish will be granted.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="11">
+<tit>
+<j>不法投棄対策</j>
+<e type="trans" ver="1">A measure against the unlawful dumping of garbage</e>
+<cmt></cmt>
+<e type="trans" ver="2">A measure against the unlawful dumping of garbage</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">A measure against the unlawful dumping of garbage</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="68">
+<j>近年、住宅街や空き地などに高さ10～50cmほどの小さな鳥居が設置されている場合がある。</j>
+<e type="trans" ver="1">These day, we see torii as small as 10 to 50 centimeters high placed in residential or vacant areas.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Nowadays, we see torii as small as 10 to 50 centimeters high placed in residential or vacant areas.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Nowadays, we see torii as small as 10 to 50 centimeters high placed in residential or vacant areas.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="69">
+<j>簡素なものは薄い板きれをコンクリートブロック塀に貼り付けただけものや、塀に赤ペンキで描いただけのものである場合もある。</j>
+<e type="trans" ver="1">The most simple torii is the one made of a thin board cut in the shape of torii and attached to a concrete or block fence or the one just drawn on it in red paint.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The simplest torii is the one made of a thin board that is cut in the shape of a torii and attached to a concrete or block fence, which might also have one drawn on it in red paint.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The simplest torii is the one made of a thin board that is cut in the shape of a torii and attached to a concrete or block fence, which might also have one drawn on it in red paint.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="70">
+<j>このような小鳥居はゴミの不法投棄を避けるために設置されたもので、鳥居を聖域の入り口として恐れ敬う人間心理を利用したものであり、不法投棄が激減したという実例があるという。</j>
+<e type="trans" ver="1">These small torii were set up to prevent the unlawful dumping of garbage, taking advantage of the human mind that has an innate reverence for it, perceiving it as an entrance to the sacred world, and there have been real-world examples where the dumping has drastically decreased.</e>
+<cmt></cmt>
+<e type="trans" ver="2">These small torii were set up to prevent the unlawful dumping of garbage, taking advantage of the innate human reverence for it as an entrance to the sacred world, and there have been real-world examples in which dumping has dramatically decreased.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">These small torii were set up to prevent the unlawful dumping of garbage, taking advantage of the innate human reverence for it as an entrance to the sacred world, and there have been real-world examples in which dumping has dramatically decreased.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="71">
+<j>ちなみに実際の鳥居をそのまま模するのは恐れ多いという理由で、貫（下の横棒）が笠木（上の横棒）よりも長くなった本来とは逆の物を利用することもあるという。</j>
+<e type="trans" ver="1">Also note that in response to the voices that say it is a shame to imitate a real torii for this type of purpose, an unusual torii has been in use with the nuki (lower horizontal rail) longer than the kasagi (upper horizontal rail), which is opposite to the real one.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, note that in response to those who say it is a shame to imitate a real torii for this type of purpose, an unusual torii has been in use with the nuki (lower horizontal rail) being longer than the kasagi (upper horizontal rail), which is opposite that of the classical design.</e>
+<cmt>usage</cmt>
+<e type="check" ver="1">Additionally, note that in response to those who say it is a shame to imitate a real torii for this type of purpose, an unusual torii has been in use with the nuki (lower horizontal rail) being longer than the kasagi (upper horizontal rail), which is opposite that of the classical design.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="72">
+<j>これは、（以前は不法投棄はほとんど無かったので）立ち小便抑止の為、塀の下方等に鳥居形を赤の塗料で描いたものが原点のようである。</j>
+<e type="trans" ver="1">(As it was started when illegal dumping was not a problem,) this may have originated in an attempt to prevent people from urinating outside by drawing the shape of torii in red paint at the bottom of a fence.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because it was started when illegal dumping was not a problem, this may have originated in an attempt to prevent people from urinating outside by drawing the shape of a torii in red paint at the bottom of a fence.</e>
+<cmt>grammar, punctuation</cmt>
+<e type="check" ver="1">Because it was started when illegal dumping was not a problem, this may have originated in an attempt to prevent people from urinating outside by drawing the shape of a torii in red paint at the bottom of a fence.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="73">
+<j>いずれにせよ、宗教と道徳の関係を如実かつ簡潔にものがたっている。</j>
+<e type="trans" ver="1">At any event, this story most simply and adequately reveals the relationships between religion and moral.</e>
+<cmt></cmt>
+<e type="trans" ver="2">In any event, this story most simply and adequately reveals the relationship between religion and morality.</e>
+<cmt>grammar, plural</cmt>
+<e type="check" ver="1">In any event, this story most simply and adequately reveals the relationship between religion and morality.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 JAnDbot(id:66507), Tawashi(id:72005), Tangmo(id:86444), Nnh(id:474), Driveshot(id:169573), DragonBot(id:161936), Eskimbot(id:29676), CommonsDelinker(id:84593), Torneco(id:23897), Mintleaf(id:2216), Halfd(id:145364), Gnsin(id:12351), OKBot(id:143139), Turukawakannji(id:34304), Johncapistrano(id:969), Akiyoshi&apos;s Room(id:146283), Yang g(id:3065), AlnoktaBOT(id:135808), Sonic883(id:36201), Slot28(id:79910), Loveless(id:129239), うぃき野郎(id:53567), Yas(id:739), Namazu-tron(id:135120), Lemon(id:11234), Jkr2255(id:16760), Stanislaus(id:1806), STBot(id:137943), MIO(id:31681), Memosa(id:131221), Nero39(id:132265), トシ坊(id:19003), Setouchi(id:28094), Histwr(id:15646), Azu(id:1328), SuisuiBot(id:10165), Mochi(id:9489), Miya(id:1881), N yotarou(id:60870), Chlewbot(id:33904), Ikedat76(id:34218), FOMALHAUT(id:16135), 663highland(id:18755), DoWhile(id:34638), NIKE(id:16342), Akimoto(id:6951), Louperibot(id:128971), SieBot(id:126695), 弥(id:61590), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

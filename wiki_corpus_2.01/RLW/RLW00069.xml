@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>馬堀駅</j>
+<e type="trans" ver="1">Umahori Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Umahori Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Umahori Station</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>馬堀駅（うまほりえき）は、京都府亀岡市篠町馬堀にある、西日本旅客鉄道（JR西日本）山陰本線（嵯峨野線）の鉄道駅である。</j>
+<e type="trans" ver="1">Umahori Station, located in Umahori, Shino-cho, Kameoka City, Kyoto Prefecture, is the station of San&apos;in Main Line that is operated by West Japan Railway Company (JR West).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Umahori Station, located in Umahori, Shino-cho, Kameoka City, Kyoto Prefecture, is a facility of San&apos;in Main Line that is operated by the West Japan Railway Company (JR West).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Umahori Station, located in Umahori, Shino-cho, Kameoka City, Kyoto Prefecture, is a facility of Sanin Main Line that is operated by the West Japan Railway Company (JR West).</e>
+<cmt>Sanin としました。</cmt>
+</sen>
+<sen id="2">
+<j>駅名電略は「フチウマ」。</j>
+<e type="trans" ver="1">The abbreviated station name for telegraph is &quot;Fuchiuma&quot;.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The abbreviated station name (for telegraph) is &quot;Fuchiuma.&quot;</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">The abbreviated station name (for telegraph) is &apos;Fuchiuma.&apos;</e>
+<cmt>&quot; → &apos;　としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="3">
+<j>ICOCA・Jスルー利用可能駅（相互利用可能ICカードはICOCAの項を参照）。</j>
+<e type="trans" ver="1">ICOCA and J-through are available at this station (regarding IC cards that are mutually usable, refer to the column of ICOCA).</e>
+<cmt></cmt>
+<e type="trans" ver="2">ICOCA and J-through are available at this station (see the column on ICOCA regarding IC cards that are mutually usable).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">ICOCA and J-through cards can be used at this station (see the column on ICOCA regarding IC cards that are mutually usable).</e>
+<cmt>can be used としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>乗換可能な路線</j>
+<e type="trans" ver="1">Lines available for transfer</e>
+<cmt></cmt>
+<e type="trans" ver="2">Lines available for transfer</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Lines available for transfer</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="5">
+<j>嵯峨野観光鉄道嵯峨野観光線（トロッコ亀岡駅） - 馬堀駅から線路沿いに東方徒歩10分（500m）</j>
+<e type="trans" ver="1">Sagano Scenic Railway&apos;s Sagano Sight-Seeing Tram Line (Kameoka Torokko Station) - 10 minutes walk (500m) along the track from Umahori Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Sagano Scenic Railway&apos;s Sagano Sight-Seeing Tram Line (Kameoka Torokko Station) is a ten-minute walk (500 m) along the track from Umahori Station.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The Sagano Scenic Railway&apos;s Sagano Sight-Seeing Tram Line (Kameoka Torokko Station) is a ten-minute walk (500 m) along the track from Umahori Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="6">
+<j>駅構造</j>
+<e type="trans" ver="1">Structure of the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="7">
+<j>相対式2面2線プラットホームを持つ地上駅。</j>
+<e type="trans" ver="1">This station is a ground station that has a pair of separate platforms for 2 tracks.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is a ground station having a pair of separate platforms for two tracks.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This station is a ground station having a pair of separate platforms for two tracks.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="8">
+<j>亀岡側単線・京都側複線の行き違い可能駅である。</j>
+<e type="trans" ver="1">As Kameoka side of this station is single-track section and Kyoto side is double-track section, this station can be used by trains for passing each other.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the Kameoka side of this station is a single-track section and the Kyoto side is double-track section, trains can use this station to pass each other.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because the Kameoka side of this station is a single-track section and the Kyoto side is double-track section, trains can use this station to pass each other.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>駅本屋側が2番ホームであり、1番ホームへは跨線橋で連絡している。</j>
+<e type="trans" ver="1">Platform 2 is situated on the side of the main station building and it is linked to platform 1 by the overpass.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Platform 2 is situated on the side of the main station building, and it&apos;s linked to Platform 1 by an overpass.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Platform 2 is situated on the side of the main station building, and it&apos;s linked to Platform 1 by an overpass.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="10">
+<j>かつては無人駅であったが、周辺の1960年代からの宅地開発に伴う利用客数の増加に併せ有人駅化され、現在ではみどりの窓口も設置されている。</j>
+<e type="trans" ver="1">Although the station used to be an unmanned station, it has become a manned station thanks to the increase of passengers associated with housing land development carried out nearby since 1960&apos;s and currently, JR Ticket Office &quot;Midori-no-madoguchi&quot; is also in service.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Although the station was once unmanned, it has become a manned station due to the increase of passengers associated with housing land development carried out nearby since the 1960s; currently, the JR Ticket Office &quot;Midori-no-madoguchi&quot; is also in service.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Although the station was once unmanned, it has become a manned station due to the increase of passengers associated with housing land development carried out nearby since the 1960s; currently, the JR Ticket Office &quot;Midori-no-madoguchi&quot; is also in service.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="11">
+<j>なお駅業務はジェイアール西日本交通サービスへ委託されている。</j>
+<e type="trans" ver="1">The jobs at the station are outsourced to JR West Kotsu Service.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The work conducted at the station is outsourced to JR West Kotsu Service.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The work conducted at the station is outsourced to JR-West Japan Transportation Service Co., Ltd.</e>
+<cmt>ジェイアール西日本交通サービス　の表記を変更しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="12">
+<j>利用状況</j>
+<e type="trans" ver="1">Status of usage</e>
+<cmt></cmt>
+<e type="trans" ver="2">Conditions of usage</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger use</e>
+<cmt>表現を他の記事と統一しました。</cmt>
+</sen>
+<sen id="13">
+<j>2006年度の1日あたりの乗車人員は約4,690人である。（京都府統計書より）</j>
+<e type="trans" ver="1">Average number of passengers a day in 2006 was 4690 (based on the statistics complied by Kyoto Prefectural Government).</e>
+<cmt></cmt>
+<e type="trans" ver="2">According to statistics compiled by the Kyoto Prefectural Government, the average number of passengers a day in 2006 was 4,690.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">According to statistics compiled by the Kyoto Prefectural Government, the average number of passengers a day in fiscal year 2006 was 4,690.</e>
+<cmt>fiscal を追加しました。</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="14">
+<j>京都などのベッドタウンである場所柄、駅規模に比較して利用客が非常に多く時間帯によっては京都方面への列車は相当な混雑になる。</j>
+<e type="trans" ver="1">As the surrounding area of the station is bedroom suburbs of Kyoto, the number of passengers is quite big relative to the size of the station and the congestion of the trains bound for Kyoto is relatively heavy.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Because the surrounding area of the station consists of bedroom suburbs of Kyoto, the number of passengers is quite large relative to the size of the station and the congestion of the trains bound for Kyoto is relatively heavy.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Because the surrounding area of the station consists of bedroom suburbs of Kyoto, the number of passengers is quite large relative to the size of the station and the congestion of the trains bound for Kyoto is relatively heavy during certain hours.</e>
+<cmt>翻訳を追加しました。</cmt>
+</sen>
+<sen id="15">
+<j>また、最寄りに嵯峨野観光線の終点があるため、周辺住民からは快速列車の停車を希望する声が多い。</j>
+<e type="trans" ver="1">In addition, as the terminal of the Sagano Sight-Seeing Tram Line is located at short distance, many of nearby residents hope Rapid trains stop at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Additionally, as the terminal of the Sagano Sight-Seeing Tram Line is located a short distance away, many nearby residents hope the rapid trains will stop at this station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Additionally, as the terminal of the Sagano Sight-Seeing Tram Line is located a short distance away, many nearby residents hope the rapid trains will stop at this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="16">
+<j>トロッコ亀岡駅との乗換駅でもあり、観光客の利用も多い。</j>
+<e type="trans" ver="1">Many tourists use this station as it is a transfer station to Kameoka Torokko Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Many tourists use this station, since it&apos;s a transfer station to Kameoka Torokko Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Many tourists use this station, since it&apos;s a transfer station to Kameoka Torokko Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="8">
+<sen id="17">
+<j>駅周辺</j>
+<e type="trans" ver="1">Area around the station</e>
+<cmt></cmt>
+<e type="trans" ver="2">The area around the station</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="18">
+<j>徳寿院</j>
+<e type="trans" ver="1">Tokuju-in Temple</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tokuju-in Temple</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tokuju-in Temple</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="19">
+<j>篠村八幡宮</j>
+<e type="trans" ver="1">Shinomura Hachiman-gu Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shinomura Hachiman-gu Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shinomura Hachiman-gu Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="20">
+<j>桑田神社</j>
+<e type="trans" ver="1">Kuwata-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kuwata-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kuwata-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>王子神社</j>
+<e type="trans" ver="1">Oji-jinja Shrine</e>
+<cmt></cmt>
+<e type="trans" ver="2">Oji-jinja Shrine</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Oji-jinja Shrine</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="22">
+<j>保津峡</j>
+<e type="trans" ver="1">Hozukyo Gorge</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hozukyo Gorge</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hozukyo Gorge</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="23">
+<j>亀岡市立図書館馬堀分館</j>
+<e type="trans" ver="1">Umahori Branch Library of Kameoka City Library</e>
+<cmt></cmt>
+<e type="trans" ver="2">Umahori Branch Library of Kameoka City Library</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Umahori Branch of Kameoka City Library</e>
+<cmt>Umahori Branch としました。</cmt>
+</sen>
+<sen id="24">
+<j>亀岡市立病院</j>
+<e type="trans" ver="1">Kameoka Municipal Hospital</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kameoka Municipal Hospital</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kameoka Municipal Hospital</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>亀岡市立詳徳中学校</j>
+<e type="trans" ver="1">Shotoku Junior High School, Kameoka City</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shotoku Junior High School, Kameoka City</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shotoku Junior High School, Kameoka City</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>亀岡市立安詳小学校</j>
+<e type="trans" ver="1">Ansho Elementary School, Kameoka City</e>
+<cmt></cmt>
+<e type="trans" ver="2">Ansho Elementary School, Kameoka City</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Ansho Elementary School, Kameoka City</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="27">
+<j>亀岡市立詳徳小学校</j>
+<e type="trans" ver="1">Shotoku Elementary School, Kameoka City</e>
+<cmt></cmt>
+<e type="trans" ver="2">Shotoku Elementary School, Kameoka City</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Shotoku Elementary School, Kameoka City</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="28">
+<j>平和堂アル・プラザ亀岡</j>
+<e type="trans" ver="1">HEIWADO AL PLAZA</e>
+<cmt></cmt>
+<e type="trans" ver="2">HEIWADO AL PLAZA</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">HEIWADO AL PLAZA</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>マツモト_(京都府) ベルタウン馬堀</j>
+<e type="trans" ver="1">Matsumoto (Kyoto Prefecture) Belle Town Umahori</e>
+<cmt></cmt>
+<e type="trans" ver="2">Matsumoto (Kyoto Prefecture) Belle Town Umahori</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Matsumoto (Kyoto Prefecture) Belle Town Umahori</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="30">
+<j>京都北都信用金庫（北都信金　ほくとしんきん）馬堀支店</j>
+<e type="trans" ver="1">Umahori Branch, Kyoto Hokuto Shinkin Bank</e>
+<cmt></cmt>
+<e type="trans" ver="2">Umahori Branch, Kyoto Hokuto Shinkin Bank</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Umahori Branch, Kyoto Hokuto Shinkin Bank</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="31">
+<j>国道9号（山陰道）</j>
+<e type="trans" ver="1">National Highway 9 (San&apos;in Expressway)</e>
+<cmt></cmt>
+<e type="trans" ver="2">National Highway 9 (San&apos;in Expressway)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">National Route 9 (Sanin Expressway)</e>
+<cmt>National Route としました。</cmt>
+</sen>
+<sen id="32">
+<j>旧山陰道（京都府道402号王子並河線）</j>
+<e type="trans" ver="1">Old San&apos;in Expressway (Kyoto prefectural road No.402, Oji Namikawa Route)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Old San&apos;in Expressway (Kyoto Prefectural Road No. 402, Oji Namikawa Route)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Old Sanin Expressway (Oji Namikawa Line of Kyoto Prefectural Route 402)</e>
+<cmt>道路表現を変更しました。</cmt>
+</sen>
+<sen id="33">
+<j>バス路線</j>
+<e type="trans" ver="1">Bus route</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus routes</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Bus routes</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="34">
+<j>京阪京都交通</j>
+<e type="trans" ver="1">Keihan Kyoto Kotsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Kyoto Kotsu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Kyoto Kotsu</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="9">
+<sen id="35">
+<j>歴史</j>
+<e type="trans" ver="1">History</e>
+<cmt></cmt>
+<e type="trans" ver="2">History</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="36">
+<j>1935年（昭和10年）7月20日 - 日本国有鉄道の駅として開業。</j>
+<e type="trans" ver="1">July 20, 1935 - The station commenced operation as the station of Japan National Raiways (JNR).</e>
+<cmt></cmt>
+<e type="trans" ver="2">July 20, 1935 - The station commenced operation as a facility of Japan National Railways (JNR).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">July 20, 1935: The station commenced operation as a facility of Japan National Railways (JNR).</e>
+<cmt>- → :　としました。</cmt>
+</sen>
+<sen id="37">
+<j>旅客営業のみ。</j>
+<e type="trans" ver="1">Passengers service only.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Passenger service only</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Passenger service only</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="10">
+<sen id="38">
+<j>1987年（昭和62年）4月1日 - 国鉄分割民営化により、JR西日本の駅となる。</j>
+<e type="trans" ver="1">April 1, 1987 - The station became the station of JR West thanks to the division and privatization of JNR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1987 - The station became a facility of JR West due to the division and privatization of JNR.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 1, 1987: The station became a facility of JR West due to the division and privatization of JNR.</e>
+<cmt>- → :　としました。</cmt>
+</sen>
+</par>
+<par id="11">
+<sen id="39">
+<j>1989年（平成元年）3月5日 - 嵯峨嵐山駅～当駅間が新線に切り替え。</j>
+<e type="trans" ver="1">March 5, 1989 - The section between Saga-Arashiyama and this station was replaced by newly constructed track.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 5, 1989 - The section between Saga-Arashiyama and this station was replaced by newly constructed track.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">March 5, 1989: The section between Saga-Arashiyama and this station was replaced by newly constructed track.</e>
+<cmt>- → :　としました。</cmt>
+</sen>
+<sen id="40">
+<j>現在の場所に移転。</j>
+<e type="trans" ver="1">The station was moved to the current place.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station was moved to its current location.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station was moved to its current location.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="12">
+<sen id="41">
+<j>隣の駅</j>
+<e type="trans" ver="1">Adjoining stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Adjoining stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="42">
+<j>西日本旅客鉄道（JR西日本）</j>
+<e type="trans" ver="1">West Japan Railway Company (JR West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>■嵯峨野線（山陰本線）</j>
+<e type="trans" ver="1">Sagano Line (San&apos;in Main Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sagano Line (San&apos;in Main Line)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sagano Line (Sanin Main Line)</e>
+<cmt>sanin としました。</cmt>
+</sen>
+<sen id="44">
+<j>■快速</j>
+<e type="trans" ver="1">Rapid trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Rapid trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rapid</e>
+<cmt>統一しました。■を削除しました</cmt>
+</sen>
+<sen id="45">
+<j>通過</j>
+<e type="trans" ver="1">They pass through this station</e>
+<cmt></cmt>
+<e type="trans" ver="2">They pass through this station.</e>
+<cmt>punctuation</cmt>
+<e type="check" ver="1">They pass through this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>■普通</j>
+<e type="trans" ver="1">Local Trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">Local Trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Local</e>
+<cmt>統一しました。■を削除しました</cmt>
+</sen>
+<sen id="47">
+<j>保津峡駅 - 馬堀駅 - 亀岡駅</j>
+<e type="trans" ver="1">Hozukyo Station - Umahori Station - Kameoka Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Hozukyo Station - Umahori Station - Kameoka Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Hozukyo Station - Umahori Station - Kameoka Station</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<copyright>copyright (c) 2010 Rsa(id:38453), Arufu(id:733), Bakkai(id:7233), 城山(id:104901), Bergmann(id:85282), Hikichimin Jr.(id:147077), Yuta415(id:149253), Sat.K(id:3751), Wikipedianet(id:9608), 樒(id:35770), Rusk(id:9895), Sunen(id:10700), 継之助(id:39352), 金山銀山銅山(id:163855), Ando Yoshinari(id:19886), Hidama(id:73276), R28Bot(id:177951), Chobot(id:20846), まったけ(id:130042), Kone(id:377), Hirotaro(id:1437), Alljal(id:46858), Apidr(id:155448), Ogeshi(id:80487), Sea of Japan(id:3230), Takatetu(id:3231), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>

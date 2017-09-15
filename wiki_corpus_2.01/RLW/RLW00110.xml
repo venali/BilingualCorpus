@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<art orl="ja" trl="en">
+<inf>jawiki-20080607-pages-articles.xml</inf>
+<tit>
+<j>丹波口駅</j>
+<e type="trans" ver="1">Tambaguchi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tambaguchi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Tanbaguchi Station</e>
+<cmt>Tambaguchi →Tanbaguchi　としました。</cmt>
+</tit>
+<par id="1">
+<sen id="1">
+<j>丹波口駅（たんばぐちえき）は、京都府京都市下京区中堂寺南町にある、西日本旅客鉄道（JR西日本）山陰本線（嵯峨野線）の鉄道駅。</j>
+<e type="trans" ver="1">Located in Chudoji Minami-machi, Shimogyo Ward, Kyoto City, Kyoto Prefecture, Tambaguchi Station is a stop on San&apos;in Main Line (Sagano Line) of West Japan Railway Company (JR West).</e>
+<cmt></cmt>
+<e type="trans" ver="2">Tambaguchi Station, located in Chudoji Minami-machi, Shimogyo Ward, Kyoto City, Kyoto Prefecture, is a stop on the San&apos;in Main Line (Sagano Line) of the West Japan Railway Company (JR West).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Tanbaguchi Station, located in Chudoji Minami-machi, Shimogyo Ward, Kyoto City, Kyoto Prefecture, is a stop on the Sanin Main Line (Sagano Line) of the West Japan Railway Company (JR West).</e>
+<cmt>Tambaguchi →Tanbaguchi　としました。アポストロフィーを削除し、Sanin としました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="2">
+<j>山陰本線以外にも、梅小路駅からの東海道本線貨物支線（通称：山陰連絡線）が乗り入れる（但し、現在同線を経由する定期列車は京都総合運転所～嵯峨嵐山駅間の毎日1往復の錆取り列車のみであり、旅客運行はない）。</j>
+<e type="trans" ver="1">In addition to San&apos;in Main Line, the Umekoji Station-originated line for cargo branched from the Tokaido main line, so-called San&apos;in-connecting line) also uses this station (however, at present, the trains regularly operated via this line are only a daily rust-removing one between Kyoto Sogountensho (the rail yard of JR West in Kyoto) and Saga-Arashiyama Station, with no passenger train operated on the line).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In addition to the San&apos;in Main Line, the Umekoji Station-originated line for cargo that branches from the Tokaido main line, or the so-called San&apos;in-connecting line) also uses this station (however, at present the trains regularly operated via this line are only a daily rust-removing one between Kyoto Sogountensho (the rail yard of JR West in Kyoto) and Saga-Arashiyama Station, so no passenger trains operate on the line).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">In addition to the Sanin Main Line, the Umekoji Station-originated line for freight that branches from the Tokaido main line (or the so-called Sanin-connecting line) also uses this station (however, at present the trains regularly operated via this line are only a daily rust-removing one between Kyoto Sogountensho (the rail yard of JR West in Kyoto) and Saga-Arashiyama Station, so no passenger trains operate on the line).</e>
+<cmt>アポストロフィーを削除し、Sanin としました。cargo →freightに変更しました。</cmt>
+</sen>
+<sen id="3">
+<j>同線は当駅の京都駅寄りで山陰本線に合流している。</j>
+<e type="trans" ver="1">The line is connected to San&apos;in Main Line on the Kyoto side of ths station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line is connected to the San&apos;in Main Line on the Kyoto side of the station.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The line is connected to the Sanin Main Line on the Kyoto side of the station.</e>
+<cmt>アポストロフィーを削除し、Sanin としました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="4">
+<j>ICOCA・Jスルー利用可能駅（相互利用可能ICカードはICOCAの項を参照）。</j>
+<e type="trans" ver="1">In this station, ICOCA/J-through cards can be used (for interchangeably usable IC cards, refer to ICOCA).</e>
+<cmt></cmt>
+<e type="trans" ver="2">In this station, ICOCA/J-through cards can be used (for interchangeably usable IC cards, refer to ICOCA).</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">In this station, ICOCA/J-through cards can be used (for interchangeably usable IC cards, refer to ICOCA).</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="5">
+<j>JRの特定都区市内制度における「京都市内」の駅である。</j>
+<e type="trans" ver="1">This station is included in the ones in the &quot;Kytoo city area&quot; in the special city area system of JR.</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is included among those in the &quot;Kyoto city area&quot; in the special city-area system of JR.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">This station is included among those in the &apos;Kyoto city area&apos; in the JR railway fare system of specific metropolitan and urban areas.</e>
+<cmt>「特定都区市内制度」の表現を変更しました。</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="6">
+<j>かつての平安京の朱雀大路の跡を南北に走る山陰本線が、五条通（国道9号）と交差する位置にある。</j>
+<e type="trans" ver="1">This station is located at the place where San&apos;in Main Line, running in the north-south direction along the Suzaku-Oji street in the Heian-Kyo era, crosses Gojo-dori Street (National Highway Route 9).</e>
+<cmt></cmt>
+<e type="trans" ver="2">This station is located at the place where the San&apos;in Main Line, running in the north-south direction along the Suzaku-Oji street dating from the Heian-Kyo era, crosses Gojo-dori Street (National Highway Route 9).</e>
+<cmt>article</cmt>
+<e type="check" ver="1">This station is located at the place where the Sanin Main Line, running in the north-south direction along the Suzaku-Oji Street dating from the Heian-kyo era, crosses Gojo-dori Street (National Route 9).</e>
+<cmt>アポストロフィーを削除し、Sanin としました。Suzaku-Oji Street, Heian-kyo としました。</cmt>
+</sen>
+<sen id="7">
+<j>駅名は京の七口の一つ「丹波口」に由来する。</j>
+<e type="trans" ver="1">The name of the station comes from &quot;Tambaguchi,&quot; one of the seven entrances to Kyoto, so-called &quot;Kyo-no-Nanakuchi&quot;</e>
+<cmt></cmt>
+<e type="trans" ver="2">The name of the station comes from &quot;Tambaguchi,&quot; one of the seven entrances to Kyoto, or the so-called &quot;Kyo-no-Nanakuchi.&quot;</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The name of the station comes from &apos;Tanbaguchi,&apos; one of the seven entrances to Kyoto, or the so-called Kyo-no-Nanakuchi.</e>
+<cmt>&quot;→ &apos;　としました。</cmt>
+</sen>
+</par>
+<sec id="1">
+<tit>
+<j>駅構造</j>
+<e type="trans" ver="1">Station layout</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s structure</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station layout</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="8">
+<j>1面2線のプラットホーム形状と配置を有する行き違い可能な高架駅。</j>
+<e type="trans" ver="1">An elevated station where, with a platform serving two tracks, two trains going in opposite directions with each other can be served at the same time.</e>
+<cmt></cmt>
+<e type="trans" ver="2">It is an elevated station where, with a platform serving two tracks, two trains going in opposite directions with each other can be served at the same time.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">It is an elevated station where, with a platform serving two tracks, two trains going in opposite directions with each other can be served at the same time.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="9">
+<j>改札口は1ヶ所のみ。</j>
+<e type="trans" ver="1">The entrance/exit gates are provided at one location.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The entrance/exit gates are provided at one location.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The ticket gates are provided at one location.</e>
+<cmt>改札口→ticket gates としました。</cmt>
+</sen>
+<sen id="10">
+<j>ジェイアール西日本交通サービスが駅業務を受託する鉄道駅業務委託駅であり、早朝・深夜に窓口非営業の時間帯がある。</j>
+<e type="trans" ver="1">The operation of this station is entrusted to JR West Kotsu Service, and counter services for passengers are not provided in some of the early morning and mid-night hours.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s operations are entrusted to JR West Kotsu Service, but counter services for passengers aren&apos;t provided in some of the early morning and late-night hours.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The station&apos;s operations are entrusted to JR West Kotsu Service, but counter services for passengers aren&apos;t provided in some of the early morning and late-night hours.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="11">
+<j>改札口には、いわゆる反転フラップ式案内表示機があり、その駅名には往年の山陰線長距離列車の名残を垣間見ることもできた（京都方面の行き先の表示は、京都方面の当駅に停車する営業列車が京都行きしかないため、パタパタ式ではなく「京都」に固定されていた）が、2008年2月頃に電光掲示板に代わった。</j>
+<e type="trans" ver="1">Formerly, a flipping and flapping-type train information display board was provided at the entrance/exit gate and you were able to find, in the station names on the board, slight vestiges concering former long-distanc trains on the San&apos;in line (because all trains in the direction of Kyoto that stopped at this station were bound for Kyoto, the display was fixed to &quot;Kyoto&quot; without being flapped), but the board was replaced with an electronic bulletin board around in February of 2008.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Formerly, a flipping/flapping type of train information display board was provided at the entrance/exit gate and one would be able to find, in the station names on the board, slight vestiges concering former long-distance trains on the San&apos;in line (because all trains in the direction of Kyoto that stopped at this station were bound for Kyoto, the display was fixed to &quot;Kyoto&quot; without being flapped), but the board was replaced with an electronic bulletin board in or around February 2008.</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Formerly, a flipping/flapping type of train information display board was provided at the ticket gates and one would be able to find, in the station names on the board, slight vestiges concerning former long-distance trains on the Sanin line (because all trains in the direction of Kyoto that stopped at this station were bound for Kyoto, the display was fixed to &apos;Kyoto&apos; without being flapped), but the board was replaced with an electronic bulletin board in or around February 2008.</e>
+<cmt>アポストロフィーを削除し、Sanin としました。改札口→ticket gates としました。スペルを修正しました。</cmt>
+</sen>
+</par>
+</sec>
+<sec id="2">
+<tit>
+<j>駅周辺</j>
+<e type="trans" ver="1">Station surroundings</e>
+<cmt></cmt>
+<e type="trans" ver="2">The station&apos;s surroundings</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Station surroundings</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="12">
+<j>京都市中央卸売市場第一市場</j>
+<e type="trans" ver="1">The Central Wholesale Market of Kyoto City</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Central Wholesale Market of Kyoto City</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Central Wholesale Market of Kyoto City</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="13">
+<j>京都リサーチパーク</j>
+<e type="trans" ver="1">Kyoto Research Park</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Research Park</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Research Park</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="14">
+<j>島原遊郭跡(嶋原を参照)</j>
+<e type="trans" ver="1">The site of Shimabara-yukaku red-light district (also refer to Shimabara)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The site of the Shimabara-yukaku red-light district (also refer to the article on Shimabara)</e>
+<cmt>article</cmt>
+<e type="check" ver="1">The site of the Shimabara-yukaku red-light district (also refer to the article on Shimabara)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="15">
+<j>マツモト_(京都府)五条店</j>
+<e type="trans" ver="1">The Matsumoto Gojo store (in Kyoto Prefecture)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The Matsumoto Gojo store (in Kyoto Prefecture)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">The Matsumoto (Kyoto Prefecture) Gojo store</e>
+<cmt>（京都府）　の位置を変更しました。</cmt>
+</sen>
+<sen id="16">
+<j>五条通（国道9号）</j>
+<e type="trans" ver="1">Gojo-dori Street (National Highway Route 9)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gojo-dori Street (National Highway Route 9)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gojo-dori Street (National Route 9)</e>
+<cmt>国道→Naitonal Route としました。</cmt>
+</sen>
+<sen id="17">
+<j>千本通</j>
+<e type="trans" ver="1">Sembon-dori Street</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sembon-dori Street</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Senbon-dori Street</e>
+<cmt>Senbon とスペルを変更しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="18">
+<j>この他、梅小路蒸気機関車館の最寄り駅にはなっているが、実際には南方へ800mほどの距離がある。</j>
+<e type="trans" ver="1">Though this station is the nearest to Umekoji Steam Locomotive Museum, the distance to the museum is about 800 m in the south.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Though this station is the nearest to the Umekoji Steam Locomotive Museum, the museum is located approximately 800 m southward.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">Though this station is the nearest to the Umekoji Steam Locomotive Museum, the museum is located approximately 800 m southward.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="19">
+<j>駅を北側に出た高架下に、京都-二条間高架化工事竣工の記念碑がある。</j>
+<e type="trans" ver="1">Under the elevated structure on the north side of this station, a monument for the completion of the work for elevating the line between Kyoto Station and Nijo Station is placed.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Under the elevated structure on the north side of this station, there is a monument to the completion of the work of elevating the line between Kyoto Station and Nijo Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">Under the elevated structure on the north side of this station, there is a monument to the completion of the work of elevating the line between Kyoto Station and Nijo Station.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="3">
+<tit>
+<j>バスのりば</j>
+<e type="trans" ver="1">Bus stops</e>
+<cmt></cmt>
+<e type="trans" ver="2">Bus stops</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Bus stops</e>
+<cmt>修正なし</cmt>
+</tit>
+<par id="1">
+<sen id="20">
+<j>京都リサーチパーク前</j>
+<e type="trans" ver="1">Kyoto Research Park-mae (in fornt of KyotoResearch Park)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Research Park-mae (in front of Kyoto Research Park)</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Kyoto Research Park-mae (in front of Kyoto Research Park)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="21">
+<j>バス停は駅前ではなく、駅から西へ徒歩2分の五条通沿いにある。</j>
+<e type="trans" ver="1">The bus stop is not located in front of the station but along the Gojo-dori street, about two mintutes on foot from the station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The bus stop isn&apos;t located in front of the station but is along the Gojo-dori street, about two mintutes on foot from the station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The bus stop isn&apos;t located in front of the station but is along the Gojo-dori Street, about two minutes on foot westward from the station.</e>
+<cmt>西方　を追加しました。スペルを修正しました。</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="22">
+<j>京都市営バス</j>
+<e type="trans" ver="1">Kyoto City bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto City bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto City Bus</e>
+<cmt>City Bus としました。</cmt>
+</sen>
+<sen id="23">
+<j>32系統：（平安神宮経由）慈照寺行／（西京極経由）京都外国語大学行</j>
+<e type="trans" ver="1">Route 32: bound for Jisho-ji Temple (via Heian-jingu Shrine)/for Kyoto University of Foreign Studies (via Nishikyogoku)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 32: Bound for Jisho-ji Temple (via Heian-jingu Shrine)/for Kyoto University of Foreign Studies (via Nishikyogoku)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 32: Bound for Jisho-ji Temple (via Heian-jingu Shrine)/for Kyoto University of Foreign Studies (via Nishikyogoku)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="24">
+<j>43系統：烏丸駅行／久世橋東詰行</j>
+<e type="trans" ver="1">Route 43: bound for Karasuma Station/for Kuzebashi Higashizume</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 43: Bound for Karasuma Station / for Kuzebashi Higashizume</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 43: Bound for Karasuma Station / for Kuzebashi Higashizume</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="25">
+<j>73系統：京都駅行／（西京極経由）洛西バスターミナル行</j>
+<e type="trans" ver="1">Route 73: bound for Kyoto Station/for Rakusai Bus Terminal (via Nishikyogoku)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 73: Bound for Kyoto Station / for Rakusai Bus Terminal (via Nishikyogoku)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 73: Bound for Kyoto Station / for Rakusai Bus Terminal (via Nishikyogoku)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="26">
+<j>75系統：（堀川五条経由）京都駅行／（双ヶ丘経由）東映太秦映画村、山越行</j>
+<e type="trans" ver="1">Route 75: bound for Kyoto Station via Horikawa Gojo)/for Toei Uzumasa Eigamura (Toei Uzumasa movie village) (via Narabigaoka) or Yamagoe</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 75: Bound for Kyoto Station via Horikawa Gojo) and/or for Toei Uzumasa Eigamura (Toei Uzumasa movie village) (via Narabigaoka) or Yamagoe</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 75: Bound for Kyoto Station (via Horikawa Gojo) /for Toei Uzumasa Eigamura (Toei Uzumasa movie village) (via Narabigaoka), Yamagoe</e>
+<cmt>and /or → / としました。括弧を追加しました。</cmt>
+</sen>
+<sen id="27">
+<j>80系統：（五条通経由）祇園、河原町駅 (京都府)行／（西京極経由）京都外大前行</j>
+<e type="trans" ver="1">Route 80: bound for Gion (via Gojo-dori Street)/for Kyoto University of Foreign Studies (via Nishikyogoku)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 80: Bound for Gion (via Gojo-dori Street) and/or for Kyoto University of Foreign Studies (via Nishikyogoku)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 80: Bound for Gion (via Gojo-dori Street), Kawaramachi Station (Kyoto Prefecture) / for Kyoto University of Foreign Studies (via Nishikyogoku)</e>
+<cmt>行き先を追加しました。</cmt>
+</sen>
+<sen id="28">
+<j>京阪京都交通</j>
+<e type="trans" ver="1">Keihan Kyoto Kotsu</e>
+<cmt></cmt>
+<e type="trans" ver="2">Keihan Kyoto Kotsu</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Keihan Kyoto Kotsu</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="29">
+<j>21系統：京都駅前行／（新林センター、峰ケ堂町経由）桂坂中央行</j>
+<e type="trans" ver="1">Route 21: bound for Kyoto Station-mae (in front of Kyoto Station)/for Katsurazaka-Chuo (via Shinbayashi Center and Minegado-cho)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 21: Bound for Kyoto Station-mae (in front of Kyoto Station) and/or for Katsurazaka-Chuo (via Shinbayashi Center and Minegado-cho)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 21: Bound for Kyoto Station /for Katsurazaka-Chuo (via Shinbayashi Center and Minegado-cho)</e>
+<cmt>Kyoto Station-mae →　Kyoto Station としました。</cmt>
+</sen>
+<sen id="30">
+<j>27系統：京都駅前行／（国道沓掛、西桂坂経由）桂坂中央行</j>
+<e type="trans" ver="1">Route 27: bound for Kyoto Station-mae (in front of Kyoto Station)/for Katsurazaka-Chuo (via Kokudo Kutsukake and Nishi-Katsurazaka)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Route 27: Bound for Kyoto Station-mae (in front of Kyoto Station) and/or for Katsurazaka-Chuo (via Kokudo Kutsukake and Nishi-Katsurazaka)</e>
+<cmt>case</cmt>
+<e type="check" ver="1">Route 27: Bound for Kyoto Station and/or for Katsurazaka-Chuo (via Kokudo Kutsukake and Nishi-Katsurazaka)</e>
+<cmt>Kyoto Station-mae →　Kyoto Station としました。</cmt>
+</sen>
+<sen id="31">
+<j>五条千本</j>
+<e type="trans" ver="1">Gojo Sembon</e>
+<cmt></cmt>
+<e type="trans" ver="2">Gojo Sembon</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Gojo Senbon</e>
+<cmt>Sembon →Senbon　としました。</cmt>
+</sen>
+<sen id="32">
+<j>上記の「京都リサーチパーク前」と同一の場所にある。</j>
+<e type="trans" ver="1">Located at the same place as the stop for Kyoto Research Park-mae (in fornt of KyotoResearch Park)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Located at the same place as the stop for Kyoto Research Park-mae (in front of Kyoto Research Park)</e>
+<cmt>spelling</cmt>
+<e type="check" ver="1">Located at the same place as the stop for Kyoto Research Park-mae (in front of Kyoto Research Park)</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="33">
+<j>京都バス</j>
+<e type="trans" ver="1">Kyoto Bus</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Bus</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Bus</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="4">
+<tit>
+<j>歴史</j>
+<e type="trans" ver="1"></e>
+<cmt></cmt>
+<e type="trans" ver="2"></e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">History</e>
+<cmt>追加しました。</cmt>
+</tit>
+<par id="1">
+<sen id="34">
+<j>1897年（明治30年）4月27日 京都鉄道の駅として開業。</j>
+<e type="trans" ver="1">April 27, 1897: It started its operation as a station of Kyoto Electric Railway.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 27, 1897: Operations commenced as a station of the Kyoto Electric Railway.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">April 27, 1897: Operations commenced as a station of the Kyoto Electric Railway.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="2">
+<sen id="35">
+<j>1907年（明治40年）8月1日 京都鉄道の国有化。</j>
+<e type="trans" ver="1">Aufust 1, 1907: Kyoto Electric Railway was nationalized.</e>
+<cmt></cmt>
+<e type="trans" ver="2">Aufust 1, 1907: The Kyoto Electric Railway was nationalized.</e>
+<cmt>article</cmt>
+<e type="check" ver="1">August 1, 1907: The Kyoto Electric Railway was nationalized.</e>
+<cmt>スペルを修正しました。</cmt>
+</sen>
+</par>
+<par id="3">
+<sen id="36">
+<j>1918年（大正7年）9月10日 東海道本線貨物支線が開通。</j>
+<e type="trans" ver="1">September 10, 1918: The cargo line branched from the Tokaido main line started its operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">September 10, 1918: The cargo line that branched from the Tokaido main line went into operation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">September 10, 1918: The freight line that branched from the Tokaido Main Line went into operation.</e>
+<cmt>Main Line としました。cargo →freightに変更しました。</cmt>
+</sen>
+</par>
+<par id="4">
+<sen id="37">
+<j>1927年（昭和2年）12月1日 京都市中央卸売市場への専用鉄道が開通。</j>
+<e type="trans" ver="1">December 1, 1927: A railway line dedicated for the Kyoto central wholesale market was started its operation.</e>
+<cmt></cmt>
+<e type="trans" ver="2">December 1, 1927: A railway line dedicated for use by the Kyoto central wholesale market went into operation.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">December 1, 1927: A railway line dedicated for use by the Kyoto central wholesale market went into operation.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="5">
+<sen id="38">
+<j>1976年（昭和51年）3月16日 高架駅化・北へ500メートル移転。</j>
+<e type="trans" ver="1">March 16, 1976: It became an elevated station and its location was moved by 500 m to the north.</e>
+<cmt></cmt>
+<e type="trans" ver="2">March 16, 1976: It became an elevated station, and its location was moved 500 m northward.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">March 16, 1976: It became an elevated station, and its location was moved 500 m northward.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="39">
+<j>貨物取扱業務を新設の京都市場駅へ移管。</j>
+<e type="trans" ver="1">The cargo-handling operation was transferred to Kyoto-shijo Station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">The cargo-handling operation was transferred to Kyoto-shijo Station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The freight-handling operation was transferred to Kyoto-shijo Station.</e>
+<cmt>cargo-handling→freight-handlingに変更しました。</cmt>
+</sen>
+</par>
+<par id="6">
+<sen id="40">
+<j>1984年（昭和59年）2月1日 京都市場駅廃止。</j>
+<e type="trans" ver="1">February 1, 1984: Kyoto-shijo Station was abolished.</e>
+<cmt></cmt>
+<e type="trans" ver="2">February 1, 1984: Kyoto-shijo Station was abolished.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">February 1, 1984: Kyoto-shijo Station was abolished.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+<par id="7">
+<sen id="41">
+<j>1987年（昭和62年）4月1日 国鉄分割民営化により、JR西日本の駅となる。</j>
+<e type="trans" ver="1">April 1, 1987: Due to the division and privatization of JNR, it became a station of JR West.</e>
+<cmt></cmt>
+<e type="trans" ver="2">April 1, 1987: Due to the division and privatization of JNR, it became a station of JR West.</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">April 1, 1987: Due to the division and privatization of JNR, it became a station of JR West.</e>
+<cmt>修正なし</cmt>
+</sen>
+</par>
+</sec>
+<sec id="5">
+<tit>
+<j>隣の駅</j>
+<e type="trans" ver="1">Neighboring stations</e>
+<cmt></cmt>
+<e type="trans" ver="2">Neighboring stations</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Adjacent stations</e>
+<cmt>統一しました。</cmt>
+</tit>
+<par id="1">
+<sen id="42">
+<j>西日本旅客鉄道（JR西日本）</j>
+<e type="trans" ver="1">West Japan Railway Company (JR West)</e>
+<cmt></cmt>
+<e type="trans" ver="2">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">West Japan Railway Company (JR West)</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="43">
+<j>■嵯峨野線（山陰本線）</j>
+<e type="trans" ver="1">Sagano Line (San&apos;in Main Line)</e>
+<cmt></cmt>
+<e type="trans" ver="2">Sagano Line (San&apos;in Main Line)</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Sagano Line (Sanin Main Line)</e>
+<cmt>アポストロフィーを削除し、Sanin としました。</cmt>
+</sen>
+<sen id="44">
+<j>■快速</j>
+<e type="trans" ver="1">■ Rapid trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">■ Rapid trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Rapid</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="45">
+<j>通過</j>
+<e type="trans" ver="1">Not stops at this station.</e>
+<cmt></cmt>
+<e type="trans" ver="2">No stops are made at this station.</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">No stops are made at this station.</e>
+<cmt>修正なし</cmt>
+</sen>
+<sen id="46">
+<j>■普通</j>
+<e type="trans" ver="1">■ Local trains</e>
+<cmt></cmt>
+<e type="trans" ver="2">■ Local trains</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Local</e>
+<cmt>統一しました。</cmt>
+</sen>
+<sen id="47">
+<j>京都駅 - 丹波口駅 - 二条駅</j>
+<e type="trans" ver="1">Kyoto Station - Tambaguchi Station - Nijo Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Kyoto Station - Tambaguchi Station - Nijo Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Kyoto Station - Tanbaguchi Station - Nijo Station</e>
+<cmt>Tanbaguchi としました。</cmt>
+</sen>
+<sen id="48">
+<j>■東海道本線支線（山陰連絡線、旅客運行なし）</j>
+<e type="trans" ver="1">The line branched from the Tokaido main line (for a connection with the San&apos;in line; no service for passengers is provided.)</e>
+<cmt></cmt>
+<e type="trans" ver="2">The line branched from the Tokaido main line (for a connection with the San&apos;in Line, with no passenger services provided).</e>
+<cmt>grammar</cmt>
+<e type="check" ver="1">The line branched from the Tokaido Main Line (for a connection with the Sanin Line, with no passenger services provided).</e>
+<cmt>Main Line としました。</cmt>
+</sen>
+<sen id="49">
+<j>梅小路駅 - 丹波口駅</j>
+<e type="trans" ver="1">Umekoji Station - Tambaguchi Station</e>
+<cmt></cmt>
+<e type="trans" ver="2">Umekoji Station - Tambaguchi Station</e>
+<cmt>修正なし</cmt>
+<e type="check" ver="1">Umekoji Station - Tanbaguchi Station</e>
+<cmt>Tanbaguchi としました。</cmt>
+</sen>
+</par>
+</sec>
+<copyright>copyright (c) 2010 Bakkai(id:7233), Tam0031(id:165560), Etopirica(id:32491), Hikichimin Jr.(id:147077), Yuta415(id:149253), Laichuan Yinfu(id:152533), Wikipedianet(id:9608), Highexpress(id:48556), Bukang-liwayway(id:89706), Rusk(id:9895), Sunen(id:10700), Jugger90(id:17088), Matsukaze(id:51778), 準急三条(id:25072), 継之助(id:39352), 金山銀山銅山(id:163855), Hidama(id:73276), R28Bot(id:177951), Chobot(id:20846), Kone(id:377), Hirotaro(id:1437), Alljal(id:46858), Alexbot(id:157199), Ogeshi(id:80487), Apidr(id:155448), Takatetu(id:3231), 独立行政法人情報通信研究機構．このテキストの利用はCreative Commons Attribution-Share-Alike License 3.0 の条件の下に許諾されます．（この著作権者一覧には、Wikipedia IPユーザーを含んでおりません．この点に関するお問い合わせはこちらまで：kyoto-corpus@khn.nict.go.jp）</copyright>
+</art>
